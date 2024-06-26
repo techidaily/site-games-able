@@ -1,6 +1,6 @@
-# TechiDaily
+# Games Able Site
 
-Welcome to [https://android-transfer.techidaily.com](https://android-transfer.techidaily.com)
+Welcome to [https://games-able.techidaily.com](https://games-able.techidaily.com)
 
 ## Publish
 
