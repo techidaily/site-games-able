@@ -1,7 +1,7 @@
 ---
 title: BG3 System Guide - Specs & Download Tips
-date: 2024-06-20 21:54:56
-updated: 2024-06-23 11:23:49
+date: 2024-06-25T12:58:09.570Z
+updated: 2024-06-26T12:58:09.570Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/bdc516c407f1c047ce69fce10934901af5b77e563
 
 ## What Are Baldur’s Gate 3's Hardware and Software Requirements?
 
- Unlike its predecessors, you can’t run Baldur’s Gate 3 on a potato computer. While you don’t need the most powerful graphic cards, you would need a decent one if you want to enjoy your experience and explore this corner of Faerûn. Take a look at our list of the[best graphic cards for any budget](https://www.makeuseof.com/tag/best-graphics-cards/) to find something that works for you if you plan to play on a PC.
+ Unlike its predecessors, you can’t run Baldur’s Gate 3 on a potato computer. While you don’t need the most powerful graphic cards, you would need a decent one if you want to enjoy your experience and explore this corner of Faerûn. Take a look at our list of the [best graphic cards for any budget](https://www.makeuseof.com/tag/best-graphics-cards/) to find something that works for you if you plan to play on a PC.
 
 Here’s a table for Baldur’s Gate 3’s specs:
 
@@ -33,7 +33,7 @@ Here’s a table for Baldur’s Gate 3’s specs:
 | **DirectX**   | Version 11                                                                                                            | \-                                                                                          |
 | **Storage**   | 150GB SSD                                                                                                             | **Minimum** \- 150GB HDD**Recommended** \- 150GB SSD                                        |
 
- Apple silicon Macs generally run Baldur’s Gate better than Intel Macs—just one of the reasons[you might need an Apple silicon Mac](https://www.makeuseof.com/do-i-need-an-apple-silicon-mac/) .
+ Apple silicon Macs generally run Baldur’s Gate better than Intel Macs—just one of the reasons [you might need an Apple silicon Mac](https://www.makeuseof.com/do-i-need-an-apple-silicon-mac/) .
 
 * M1 and M2 Macs with 8GB RAM could run this game on low settings (and this includes all MacBook Airs).
 * M1 and M2 Macs with 16GB of RAM can run Baldur’s Gate 3 on high or ultra settings.
@@ -43,7 +43,7 @@ Here’s a table for Baldur’s Gate 3’s specs:
 
 ![Baldur's Gate 3 Steam Store Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-steam-store-page.jpeg)
 
- Baldur’s Gate 3 came out for PC on August 3rd, but it will come out for macOS and PS5 on September 6th, and perhaps next year for Xbox Series X|S. Larian Studios has issues getting the split-screen to work effectively on the[cheaper and less powerful Xbox Series S](https://www.makeuseof.com/xbox-series-x-vs-xbox-series-s-which-should-you-buy/) .
+ Baldur’s Gate 3 came out for PC on August 3rd, but it will come out for macOS and PS5 on September 6th, and perhaps next year for Xbox Series X|S. Larian Studios has issues getting the split-screen to work effectively on the [cheaper and less powerful Xbox Series S](https://www.makeuseof.com/xbox-series-x-vs-xbox-series-s-which-should-you-buy/) .
 
  You can get Baldur’s Gate 3 on PC and Mac from Steam, GOG, and GeForce Now. It costs $59.99 alone or $69.98 with the Digital Deluxe Edition DLC.
 
@@ -92,3 +92,27 @@ Here’s a table for Baldur’s Gate 3’s specs:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/resetting-ps5s-video-game-licenses/"><u>Resetting PS5's Video Game Licenses</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-different-perspective-6-arguments-against-mac-for-gaming/"><u>A Different Perspective: 6 Arguments Against Mac for Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-art-of-quiet-steam-usage/"><u>The Art of Quiet Steam Usage</u></a></li>
+<li><a href="https://games-able.techidaily.com/my-gaming-adventure-with-an-advanced-oled-display/"><u>My Gaming Adventure with an Advanced OLED Display.</u></a></li>
+<li><a href="https://games-able.techidaily.com/current-concepts-dreaming-beyond-watts/"><u>Current Concepts: Dreaming Beyond Watts</u></a></li>
+<li><a href="https://games-able.techidaily.com/assessing-the-security-of-roblox-performance-hacks/"><u>Assessing the Security of Roblox Performance Hacks</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-playstation-5s-safety-with-an-unique-access-code/"><u>Elevate PlayStation 5'S Safety with an Unique Access Code</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionizing-tech-ai-innovations-at-computex/"><u>Revolutionizing Tech: AI Innovations at Computex</u></a></li>
+<li><a href="https://games-able.techidaily.com/nostalgia-at-a-swipe-ios-and-the-classics-of-psp/"><u>Nostalgia at a Swipe: IOS and the Classics of PSP!</u></a></li>
+<li><a href="https://games-able.techidaily.com/innocn-39g1r-high-framerate-monitor-under-500/"><u>InnoCN 39G1R: High Framerate Monitor Under $500</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-on-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password On Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-humor-in-captivity-top-20-memes-from-jail-to-joys-of-online-life/"><u>[Updated] In 2024, Humor in Captivity  Top 20 Memes From Jail to Joys of Online Life</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-the-insiders-guide-to-preserving-whatsapp-chat-history-for-2024/"><u>[New] The Insider's Guide to Preserving WhatsApp Chat History for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-vivo-s17t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-free2x-webcam-recorder-software-review-in-depth/"><u>2024 Approved  Free2X Webcam Recorder Software Review in Depth</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-the-fascinating-realm-of-tiktok-anime-culture-for-2024/"><u>[Updated] The Fascinating Realm of TikTok Anime Culture for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-14-pro-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 14 Pro Data From iCloud? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-seamless-video-transition-tweeting-plus-tumbling-for-2024/"><u>[New] Seamless Video Transition  Tweeting + Tumbling for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-vrecorder-integration-from-download-to-deployment/"><u>2024 Approved  VRecorder Integration  From Download to Deployment</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-commencing-shoot-critical-overview/"><u>[New] Commencing Shoot  Critical Overview</u></a></li>
+</ul></div>

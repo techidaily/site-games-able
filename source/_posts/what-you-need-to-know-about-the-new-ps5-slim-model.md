@@ -1,7 +1,7 @@
 ---
 title: What You Need to Know About the New PS5 Slim Model
-date: 2024-06-25T10:49:53.873Z
-updated: 2024-06-26T10:49:53.873Z
+date: 2024-06-25T12:48:41.490Z
+updated: 2024-06-26T12:48:41.490Z
 tags:
   - games
 categories:
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/12fbcccb55845f8983544f25e1cc6b0c0aa528d40
 
  Since the PlayStation 5 launched in 2019, you have had two options. The physical edition, which is a bit pricier but holds a disc tray as past consoles have, or the digital edition, which is cheaper but doesn't feature a disc tray.
 
- Now, as announced on[the PlayStation Blog](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/?sf269561474=1) , there's going to be a new model for both versions; which is smaller and more compact with an optional disc-drive add-on. Launching in November 2023 in the US, you can expect to purchase this from select retail stores (to be announced closer to the date) as well as from[direct.playstation.com](http://direct.playstation.com) .
+ Now, as announced on [the PlayStation Blog](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/?sf269561474=1) , there's going to be a new model for both versions; which is smaller and more compact with an optional disc-drive add-on. Launching in November 2023 in the US, you can expect to purchase this from select retail stores (to be announced closer to the date) as well as from [direct.playstation.com](http://direct.playstation.com) .
 
  If you're not in the US, you'll have to wait a little longer to get your hands on one of these new, slimmer PS5s. Sony has announced that it will be rolling out the new PS5 model to other countries in "the following months", but the wording is deliberately vague.
 
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/12fbcccb55845f8983544f25e1cc6b0c0aa528d40
 
 ## When Can You Expect the "PS5 Slim"?
 
- As previously noted, the "PS5 Slim" is launching in the US in November 2023, with rollout to other countries happening in "the following months". There are many[reasons why the PlayStation 5 should be your next console](https://www.makeuseof.com/why-ps5-should-be-your-next-console/) , and if you're buying one, you may as well buy the latest model.
+ As previously noted, the "PS5 Slim" is launching in the US in November 2023, with rollout to other countries happening in "the following months". There are many [reasons why the PlayStation 5 should be your next console](https://www.makeuseof.com/why-ps5-should-be-your-next-console/) , and if you're buying one, you may as well buy the latest model.
 
  Depending on the model you go for, the "PS5 Slim" will cost between $449.99 and $499.99, which is similar in price to what the original models launched at.
 

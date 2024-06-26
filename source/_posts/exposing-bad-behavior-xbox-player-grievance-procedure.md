@@ -1,7 +1,7 @@
 ---
 title: "Exposing Bad Behavior: Xbox Player Grievance Procedure"
-date: 2024-06-25T10:49:14.368Z
-updated: 2024-06-26T10:49:14.368Z
+date: 2024-06-25T12:48:41.085Z
+updated: 2024-06-26T12:48:41.085Z
 tags:
   - games
 categories:
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/b89ffcd4bf4187d5ce782fa255f3d31e70eba20fb
 
 ![A screenshot of the available categories when reporting an Xbox Profile on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot-2986.jpg)
 
- It's also important to note that you can access people's profiles in multiple ways. You can even[report players via your Xbox console or the Xbox app](https://www.makeuseof.com/xbox-one-xbox-app-how-to-block-and-report-users/) .
+ It's also important to note that you can access people's profiles in multiple ways. You can even [report players via your Xbox console or the Xbox app](https://www.makeuseof.com/xbox-one-xbox-app-how-to-block-and-report-users/) .
 
 ## 2\. How to Report Inappropriate Xbox Messages
 
@@ -80,13 +80,13 @@ thumbnail: https://thmb.techidaily.com/b89ffcd4bf4187d5ce782fa255f3d31e70eba20fb
 
  Like with any other Xbox report, you can then define the specific categories of your report and hit**Submit** to finalize it. With the report linked to an individual Xbox Activity Feed post, you can rest assured that Xbox will be able to evaluate your report with the evidence provided.
 
- However, your own Xbox Activity Feed content can just as easily be flagged by other users. So, it's important when you post a game capture or[create an Xbox Club](https://www.makeuseof.com/how-to-make-a-club-on-xbox-series-x-s/) that you're confident the content is appropriate.
+ However, your own Xbox Activity Feed content can just as easily be flagged by other users. So, it's important when you post a game capture or [create an Xbox Club](https://www.makeuseof.com/how-to-make-a-club-on-xbox-series-x-s/) that you're confident the content is appropriate.
 
 ## 4\. How to Report In-Game Voice Chat on Xbox Series X|S
 
  A final way you can report inappropriate content on your Xbox, and the most unique way, is by highlighting inappropriate voice communications to Xbox.
 
- However, to report voice chats, you need to have saved 60-second voice clips onto your Xbox. Luckily, you can[record and report in-game voice chat from your Xbox Series X|S](https://www.makeuseof.com/how-to-save-and-report-in-game-voice-chat-on-xbox-series-xs/) . To record voice chat, follow these steps:
+ However, to report voice chats, you need to have saved 60-second voice clips onto your Xbox. Luckily, you can [record and report in-game voice chat from your Xbox Series X|S](https://www.makeuseof.com/how-to-save-and-report-in-game-voice-chat-on-xbox-series-xs/) . To record voice chat, follow these steps:
 
 * Open the Guide menu by pressing the**Xbox button** on your controller.
 * Highlight**Parties & chats** , and select the bottom option for**Report in-game voice chat** .

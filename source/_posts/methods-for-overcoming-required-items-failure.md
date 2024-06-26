@@ -1,7 +1,7 @@
 ---
 title: Methods for Overcoming ‘Required Items’ Failure
-date: 2024-06-21 18:12:28
-updated: 2024-06-24 10:37:28
+date: 2024-06-25T12:59:21.963Z
+updated: 2024-06-26T12:59:21.963Z
 tags:
   - games
 categories:
@@ -18,13 +18,11 @@ thumbnail: https://thmb.techidaily.com/ce2c767b4ea66790422350863194f4cca1e1e1f1b
 
  This error typically occurs when users try to launch Windows games. Consequently, players cannot play games for which the “following components are required” error occurs. This is how you can fix the “following components are required” error on a Windows 10 or 11 PC.
 
-## 1\. Check for and Install Any Pending Windows Updates
-
-![The Check for updates option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-for-updates.jpg)
+## 1\. Check for and Install Any Pending Windows Updates ![The Check for updates option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-for-updates.jpg)
 
  First, try checking for and installing all pending Windows patch updates. This is because some updates will feature fixes for DirectX, so if the error message points to DirectX as the culprit, this will hopefully put it to rest.
 
- Check out[how to update Windows manually](https://www.makeuseof.com/update-windows-manually/) and ensure your PC is on the latest build.
+ Check out [how to update Windows manually](https://www.makeuseof.com/update-windows-manually/) and ensure your PC is on the latest build.
 
 ## 2\. Repair Visual C++ Packages on Your PC
 
@@ -45,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/ce2c767b4ea66790422350863194f4cca1e1e1f1b
 
  Try downloading and installing C++ runtimes from the Visual Studio 2015-2022 package as follows:
 
-1. Open this[Visual C++ Redistributable](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) page.
+1. Open this [Visual C++ Redistributable](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) page.
 2. Then click the X64 (64-bit) architecture download link for Visual Studio 2015-2022.  
 ![The x64 download link for Visual Studio 2015-2022](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-x64-link.jpg)
 3. Click**I agree** \>**Install** in the Microsoft Visual C++ 2015-2022 window.  
@@ -58,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/ce2c767b4ea66790422350863194f4cca1e1e1f1b
 
  In which case, try installing missing legacy DirectX runtime libraries with the DirectX End-User Runtime Web Installer as follows:
 
-1. Open this[DirectX installer webpage](https://www.microsoft.com/en-gb/download/details.aspx?id=35) and download the file to your PC.
+1. Open this [DirectX installer webpage](https://www.microsoft.com/en-gb/download/details.aspx?id=35) and download the file to your PC.
 2. Next, double-click**dxwebsetup.exe** .
 3. Select**I accept the agreement** inside the "Installing Microsoft DirectX" window.  
 ![The I accept the agreement radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-i-accept-radio-button.jpg)
@@ -67,27 +65,23 @@ thumbnail: https://thmb.techidaily.com/ce2c767b4ea66790422350863194f4cca1e1e1f1b
 ![The Install the Bing Bar checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-install-bing-bar-option.jpg)
 6. Select**Next** to install the required DirectX components.
 
-## 5\. Repair .NET Framework Components
-
-![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
+## 5\. Repair .NET Framework Components ![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
 
  Users have confirmed they fixed the “following components are required” error by reinstalling .NET Framework components. Thus, you might need to repair .NET Framework components on your PC to resolve the “following components are required” error.
 
- Check out[how to repair the .NET Framework](https://www.makeuseof.com/windows-repair-net-framework/) for more information.
+ Check out [how to repair the .NET Framework](https://www.makeuseof.com/windows-repair-net-framework/) for more information.
 
-## 6\. Verify the Affected Game Within Your Game Launcher
-
-![The Verify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-verify-option.jpg)
+## 6\. Verify the Affected Game Within Your Game Launcher ![The Verify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-verify-option.jpg)
 
  A few users say verifying games’ files works for fixing the “following components are required” error. You can only perform this step if you bought and downloaded the game using one of the big game launcher apps, such as Steam, Epic Games, EA Desktop, and Origin.
 
- If you're unsure how to do this, check out[how to repair game files on different launchers](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/) .
+ If you're unsure how to do this, check out [how to repair game files on different launchers](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/) .
 
 ## 7\. Reinstall the Affected Game or Software
 
- If the “following components are required” issue continues after applying all fixes above, reinstalling the game or software is the last thing to try. Some players might be concerned about losing saved data for games after reinstalling them. However, you can[back up saved game progress](https://www.makeuseof.com/tag/protect-your-game-saves/#:~:text=To%20turn%20on%20cloud%20saves,keep%20it%20in%20the%20cloud.) before uninstalling titles in different ways.
+ If the “following components are required” issue continues after applying all fixes above, reinstalling the game or software is the last thing to try. Some players might be concerned about losing saved data for games after reinstalling them. However, you can [back up saved game progress](https://www.makeuseof.com/tag/protect-your-game-saves/#:~:text=To%20turn%20on%20cloud%20saves,keep%20it%20in%20the%20cloud.) before uninstalling titles in different ways.
 
- Reinstalling games or any other software this error affects is worth a try since that will restore any missing files. You can uninstall some games via**Programs and Features** as covered in our guide to[uninstalling Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . If you don’t see the game listed there, you’ll probably have to uninstall it via its client software, such as Epic Games.
+ Reinstalling games or any other software this error affects is worth a try since that will restore any missing files. You can uninstall some games via**Programs and Features** as covered in our guide to [uninstalling Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . If you don’t see the game listed there, you’ll probably have to uninstall it via its client software, such as Epic Games.
 
 ![The Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/programs-and-features.jpg)
 
@@ -116,3 +110,27 @@ thumbnail: https://thmb.techidaily.com/ce2c767b4ea66790422350863194f4cca1e1e1f1b
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/step-into-the-mechanics-how-to-deconstruct-your-xbox-360s/"><u>Step Into the Mechanics: How to Deconstruct Your Xbox 360/S</u></a></li>
+<li><a href="https://games-able.techidaily.com/restoring-missing-gps-on-your-pokemon-journey/"><u>Restoring Missing GPS on Your Pokémon Journey</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-up-your-word-game-skills-with-the-intriguing-strands-puzzle/"><u>Step Up Your Word Game Skills with the Intriguing Strands Puzzle</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoiding-digital-drain-6-healthy-habits-for-gamers/"><u>Avoiding Digital Drain: 6 Healthy Habits for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-xboxs-stance-prohibition-of-unapproved-controllers/"><u>Understanding Xbox's Stance: Prohibition of Unapproved Controllers</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-request-a-refund-for-digital-xbox-series-xs-purchases/"><u>How to Request a Refund for Digital Xbox Series X|S Purchases</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-steam-installation-issues-in-windows-11/"><u>Troubleshooting Steam Installation Issues in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-deep-into-palworld-world/"><u>Dive Deep Into PalWorld World</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-might-top-11-war-history-strategy-titles/"><u>Mastering Might: Top 11 War History Strategy Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieve-every-milestone-the-complete-guide-to-steam-awards/"><u>Achieve Every Milestone: The Complete Guide to Steam Awards</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-oneplus-12-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from OnePlus 12 Devices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-the-landscape-of-fb-med-ad-optimization-for-2024/"><u>Navigating the Landscape of FB Med Ad Optimization for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/iosandroid-playback-silent-youtube-autoplay-tips-for-2024/"><u>IOS/Android Playback  Silent YouTube Autoplay Tips for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/enhance-your-videography-youtube-studio-edition-techniques-for-2024/"><u>Enhance Your Videography  YouTube Studio Edition Techniques for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-ultimate-checklist-for-virtual-vigilance-safeguarding-during-online-interactions/"><u>New The Ultimate Checklist for Virtual Vigilance Safeguarding During Online Interactions</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-bite-sized-culinary-creations-on-tiktok/"><u>[New] In 2024, Bite-Sized Culinary Creations on TikTok</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-superior-selection-androids-leading-video-call-for-large-groups/"><u>[New] In 2024, Superior Selection  Android's Leading Video Call for Large Groups</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-rhythm-revolution-tiktoks-newest-and-most-popular-rap-hits-for-2024/"><u>[Updated] Rhythm Revolution  TikTok's Newest and Most Popular Rap Hits for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enlivening-images-with-apples-soundtrack/"><u>Enlivening Images with Apple's Soundtrack</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-oppo-reno-8t-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Oppo Reno 8T 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+</ul></div>

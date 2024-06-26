@@ -1,7 +1,7 @@
 ---
 title: Step-By-Step Guide for Optimal Performance with a Portable Gaming Hub
-date: 2024-06-22 16:14:17
-updated: 2024-06-24 11:32:19
+date: 2024-06-25T13:09:42.551Z
+updated: 2024-06-26T13:09:42.551Z
 tags:
   - games
 categories:
@@ -18,9 +18,7 @@ thumbnail: https://thmb.techidaily.com/1ba8434482e5a95a933047ceef5f17b18e8ca4e12
 
  Let's have a look at the best settings and modifications you can apply to get the most out of your Steam Deck while docked.
 
-## Resolution on the Steam Deck
-
-![screenshot of steam deck resolution menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_steam_deck_resolution_menu.jpg)
+## Resolution on the Steam Deck ![screenshot of steam deck resolution menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_steam_deck_resolution_menu.jpg)
 
  Your choice between maintaining the 720p resolution or pushing the device higher is the first one you'll need to make when it comes to playing any game on the big screen.
 
@@ -34,13 +32,11 @@ thumbnail: https://thmb.techidaily.com/1ba8434482e5a95a933047ceef5f17b18e8ca4e12
 
  Under**General** , change**Game Resolution** from default to a value of your choosing.
 
- It's best that you choose a resolution that coincides with a specific aspect ratio, or whatever is native to the external device you're using. Make sure you[understand the specifics of how aspect ratio relates to resolution when choosing](https://www.makeuseof.com/what-is-the-difference-between-aspect-ratio-resolution/) .
+ It's best that you choose a resolution that coincides with a specific aspect ratio, or whatever is native to the external device you're using. Make sure you [understand the specifics of how aspect ratio relates to resolution when choosing](https://www.makeuseof.com/what-is-the-difference-between-aspect-ratio-resolution/) .
 
  Now that your image is being output at a higher resolution, you'll be able to access higher resolutions in game. It will look a lot nicer on the big screen, but it's also going to be more taxing on your performance. Let's see what other tools the Steam Deck has to manage performance.
 
-## Using Per-Game Settings
-
-![screenshot of steam deck quick menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_steam_deck_quick_menu.jpg)
+## Using Per-Game Settings ![screenshot of steam deck quick menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_steam_deck_quick_menu.jpg)
 
  Now that you've bumped up the resolution, you've significantly increased the performance overhead for your game. Many games will run worse, requiring you to adjust the in-game settings. Seeing as we're playing on a larger screen, this isn't desirable.
 
@@ -72,15 +68,13 @@ thumbnail: https://thmb.techidaily.com/1ba8434482e5a95a933047ceef5f17b18e8ca4e12
 
  You'll eventually find yourself with a very pleasant image and a comfortable framerate.
 
-## Target 30 or 40 FPS Over 60 FPS
-
-![screenshot of steam deck quick menu framerate limiter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_steam_deck_quick_menu_framerate_cap.jpg)
+## Target 30 or 40 FPS Over 60 FPS ![screenshot of steam deck quick menu framerate limiter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_steam_deck_quick_menu_framerate_cap.jpg)
 
  A major part of gaming on the Steam Deck is being comfortable with lower framerates.
 
  60 FPS is always the goal, but newer games with more demanding visuals will rarely reach 60 FPS on the Steam Deck. This becomes even more difficult when you add the performance overhead of a higher resolution into the mix.
 
- So, get comfortable with 30 or 40 FPS. 30 FPS is generally considered more than playable on the handheld screen, and 40 FPS is a decent upgrade to that to make the docked experience a little easier. If 60 FPS is the goal for you, you can always[take steps to further optimize individual games on the Steam Deck](https://www.makeuseof.com/how-to-optimize-steam-deck/) .
+ So, get comfortable with 30 or 40 FPS. 30 FPS is generally considered more than playable on the handheld screen, and 40 FPS is a decent upgrade to that to make the docked experience a little easier. If 60 FPS is the goal for you, you can always [take steps to further optimize individual games on the Steam Deck](https://www.makeuseof.com/how-to-optimize-steam-deck/) .
 
  Steam allows you to target 30 FPS using the performance overlay, but this framerate limiter occurs outside the game itself. For the best results, check if the game you're playing has an inbuilt framerate limiter. These are more accurate and responsive than the Steam Deck's overlay menu.
 
@@ -105,3 +99,23 @@ thumbnail: https://thmb.techidaily.com/1ba8434482e5a95a933047ceef5f17b18e8ca4e12
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/retro-gaming-setup-oled-switch-with-vintage-power-source/"><u>Retro Gaming Setup: OLED Switch with Vintage Power Source</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-seamless-strategy-to-enhance-your-gaming-experience/"><u>The Seamless Strategy to Enhance Your Gaming Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-ps5s-dualsense-play-on-ps4-devices/"><u>Can PS5's DualSense Play on PS4 Devices?</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-hidden-gems-indie-game-search-tips/"><u>Discovering Hidden Gems: Indie Game Search Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/integrating-sonys-gaming-pad-into-pc-environment/"><u>Integrating Sony's Gaming Pad Into PC Environment</u></a></li>
+<li><a href="https://games-able.techidaily.com/proactive-steps-ensuring-your-kids-safety-in-digital-networks/"><u>Proactive Steps: Ensuring Your Kids’ Safety in Digital Networks</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-picks-a-compreenasion-of-apples-finest-arcade-titles/"><u>Top Picks: A Compreenasion of Apple's Finest Arcade Titles</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/expert-guide-to-the-most-effective-instant-sound-modifiers-a-comprehensive-review-for-2024/"><u>Expert Guide to the Most Effective Instant Sound Modifiers A Comprehensive Review for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-mastering-the-art-of-correcting-skewed-sound-techniques-and-tools/"><u>New 2024 Approved Mastering the Art of Correcting Skewed Sound Techniques and Tools</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-optimizing-tasks-in-teams-with-these-8-social-media-apps-for-2024/"><u>[New] Optimizing Tasks in Teams with These 8 Social Media Apps for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-experience-the-future-top-4k-video-demos-you-wont-want-to-miss/"><u>New Experience the Future Top 4K Video Demos You Wont Want to Miss</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-the-ultimate-guide-to-skype-sessions-with-obs-streaming-for-2024/"><u>[New] The Ultimate Guide to Skype Sessions with OBS Streaming for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-live-video-venue-verdict-the-best-between-obs-and-twitch-studios/"><u>2024 Approved  Live Video Venue Verdict  The Best Between OBS and Twitch Studios</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-art-of-documenting-dynamic-ppt-presentations/"><u>[New] The Art of Documenting Dynamic PPT Presentations</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-infinix-note-30-pro-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Infinix Note 30 Pro Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/iosandroid-playback-silent-youtube-autoplay-tips-for-2024/"><u>IOS/Android Playback  Silent YouTube Autoplay Tips for 2024</u></a></li>
+</ul></div>

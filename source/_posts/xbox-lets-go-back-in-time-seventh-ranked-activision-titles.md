@@ -1,7 +1,7 @@
 ---
 title: "Xbox, Let's Go Back in Time: Seventh-Ranked Activision Titles"
-date: 2024-06-21 13:42:46
-updated: 2024-06-24 10:10:19
+date: 2024-06-25T13:07:12.316Z
+updated: 2024-06-26T13:07:12.316Z
 tags:
   - games
 categories:
@@ -24,13 +24,13 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 
  Perhaps it was the shift in focus from guitars to other instruments like drums and microphones. These sorts of controllers were not only expensive but very hard to store. All of a sudden, instead of just needing one life-sized guitar-shaped controller, you needed a whole band set up for the one game.
 
- Guitar Hero is still a staple in many arcades all over the world, however, showing there are still enough people interested in the franchise who would absolutely love to see a modern Guitar Hero in a list of[the best couch co-op Xbox games.](https://www.makeuseof.com/best-couch-co-op-games-for-xbox-series-x-s/)
+ Guitar Hero is still a staple in many arcades all over the world, however, showing there are still enough people interested in the franchise who would absolutely love to see a modern Guitar Hero in a list of [the best couch co-op Xbox games.](https://www.makeuseof.com/best-couch-co-op-games-for-xbox-series-x-s/)
 
 ## 2\. Spyro the Dragon
 
  It’s relatively safe to say that most gamers alive during the golden age of console gaming know Spyro the Dragon. When you think about video games in the 90s, Spyro the Dragon is one of the mascots that immediately springs to mind.
 
- The original Spyro games received a full remaster in 2018 with the Spyro Reignited Trilogy, which sold incredibly well. According to[a PlayStation AU tweet](https://twitter.com/PlayStationAU/status/1065846654467694593) , it was the best-selling PS4 game in Australia during the week of its release.
+ The original Spyro games received a full remaster in 2018 with the Spyro Reignited Trilogy, which sold incredibly well. According to [a PlayStation AU tweet](https://twitter.com/PlayStationAU/status/1065846654467694593) , it was the best-selling PS4 game in Australia during the week of its release.
 
  Crash Bandicoot got a brand-new entry in 2020, and if there was ever a gaming duo that simultaneously took over the market, it was Crash Bandicoot and Spyro the Dragon. So it's only fair to give Spyro a new game too, right?
 
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 
 ## 4\. StarCraft
 
- StarCraft is an epic collection of real-time strategy games. RTS as a whole is an underrated genre, so much so that many gamers aren't sure[what an RTS game is](https://www.makeuseof.com/what-are-real-time-strategy-games-rts-games/) in the first place.
+ StarCraft is an epic collection of real-time strategy games. RTS as a whole is an underrated genre, so much so that many gamers aren't sure [what an RTS game is](https://www.makeuseof.com/what-are-real-time-strategy-games-rts-games/) in the first place.
 
  StarCraft’s story and lore are great, and since RTS games haven’t necessarily been flooding the gaming market, it would make for a refreshing change from the FPS and action games that usually fill the shelves of game stores. In saying that, however, an FPS spin-off of StarCraft would be undeniably awesome, and it was on the cards at one point.
 
@@ -91,3 +91,27 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/maximize-opera-capabilities-unlocking-free-discord-time/"><u>Maximize Opera Capabilities - Unlocking Free Discord Time</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-errors-on-roblox-262/"><u>Streamlining Errors on Roblox: 262</u></a></li>
+<li><a href="https://games-able.techidaily.com/longevity-tips-ensuring-a-lasting-gaming-experience/"><u>Longevity Tips: Ensuring a Lasting Gaming Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-tips-for-buying-ps-games-effectively/"><u>Essential Tips for Buying PS Games Effectively</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-listicle-of-premier-app-store-games-by-genres/"><u>The Ultimate Listicle of Premier App Store Games by Genres</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-not-use-mic-features-on-ps5-control/"><u>Why Not Use Mic Features on PS5 Control?</u></a></li>
+<li><a href="https://games-able.techidaily.com/stay-cool-keep-playing-essential-thermal-accessories/"><u>Stay Cool, Keep Playing: Essential Thermal Accessories</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-on-the-go-best-switch-cart-holder-ideas/"><u>Gaming on the Go: Best Switch Cart Holder Ideas</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-things-to-consider-before-buying-a-gaming-handheld/"><u>5 Things to Consider Before Buying a Gaming Handheld</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719171291411-the-ultimate-game-boy-advance-emulator-showdown-on-ios/"><u>The Ultimate Game Boy Advance Emulator Showdown on iOS!</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/the-best-apps-at-wiping-brand-identifiers-from-phones-for-2024/"><u>The Best Apps at Wiping Brand Identifiers From Phones for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-quantum-leap-the-most-astonishing-sci-fi-films-of-metaverses/"><u>[Updated] Quantum Leap  The Most Astonishing Sci-Fi Films of Metaverses</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-motorola-moto-g73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Motorola Moto G73 5G? | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-imovie-secrets-techniques-for-sharper-sound-in-video-editing/"><u>Updated IMovie Secrets Techniques for Sharper Sound in Video Editing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-downgrade-iphone-11-pro-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 11 Pro without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>How to Change Location on TikTok to See More Content On your Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-optimal-choice-of-drones-for-buyers/"><u>[New] Optimal Choice of Drones for Buyers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-path-from-twitter-video-to-fb-sharing/"><u>[Updated] The Path From Twitter Video to FB Sharing</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-unlock-the-magic-of-custom-snaps-and-effortless-lenses-for-2024/"><u>[Updated] Unlock the Magic of Custom Snaps & Effortless Lenses for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/plot-craft-guild-bestowed-batch-for-2024/"><u>Plot Craft Guild - Bestowed Batch for 2024</u></a></li>
+</ul></div>

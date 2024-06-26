@@ -1,7 +1,7 @@
 ---
 title: The Transition From Xbox Live Gold to Game Pass Core Explained
-date: 2024-06-25T10:40:01.736Z
-updated: 2024-06-26T10:40:01.736Z
+date: 2024-06-25T12:48:35.302Z
+updated: 2024-06-26T12:48:35.302Z
 tags:
   - games
 categories:
@@ -22,11 +22,11 @@ thumbnail: https://thmb.techidaily.com/ea90fc8c45e04f560568c92780cb489093bd55fc4
 
 ![A hero image and headline for an Xbox announcement about Game Pass Core](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/game-pass-core-announcement.jpg)
 
- If you regularly play on Xbox you will likely want to know what the change to Xbox Game Pass Core means for you. Your subscription will automatically change from Xbox Live Gold to Xbox Game Pass Core on September 14th, 2023 when the change takes place. Your pricing stays the same. Upon the immediate change, you will then have access to a library of over 25 games, as per a post on[Xbox Wire](https://news.xbox.com/en-us/2023/07/17/xbox-game-pass-core/) that originally broke the news.
+ If you regularly play on Xbox you will likely want to know what the change to Xbox Game Pass Core means for you. Your subscription will automatically change from Xbox Live Gold to Xbox Game Pass Core on September 14th, 2023 when the change takes place. Your pricing stays the same. Upon the immediate change, you will then have access to a library of over 25 games, as per a post on [Xbox Wire](https://news.xbox.com/en-us/2023/07/17/xbox-game-pass-core/) that originally broke the news.
 
  As the announcement details, Games With Gold will also be retired along with the Xbox Live Gold package, but don't worry; any games you claimed using the service when it was active will remain in your library forever.
 
- Essentially, nothing will change from your end. You can continue to enjoy access to multiplayer and pay the same monthly fee—with the added bonus of 25 free games to play. There are potential[reasons Game Pass could become more expensive over time](https://www.makeuseof.com/reasons-xbox-game-pass-will-get-more-expensive/) , but that won't be happening in the initial switchover period from Xbox Live Gold to Game Pass Core.
+ Essentially, nothing will change from your end. You can continue to enjoy access to multiplayer and pay the same monthly fee—with the added bonus of 25 free games to play. There are potential [reasons Game Pass could become more expensive over time](https://www.makeuseof.com/reasons-xbox-game-pass-will-get-more-expensive/) , but that won't be happening in the initial switchover period from Xbox Live Gold to Game Pass Core.
 
 ## Is the Change to Xbox Game Pass Core a Good Thing?
 

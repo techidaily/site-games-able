@@ -1,7 +1,7 @@
 ---
 title: Will iMac Innovations Reign in Gaming Markets?
-date: 2024-06-22 20:44:14
-updated: 2024-06-24 10:15:17
+date: 2024-06-25T13:06:14.070Z
+updated: 2024-06-26T13:06:14.070Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 
  Image Credit:[Apple](https://www.apple.com/newsroom/2023/01/apple-unveils-macbook-pro-featuring-m2-pro-and-m2-max/)
 
-[According to Apple Insider](https://appleinsider.com/articles/19/05/09/how-apples-macs-lost-an-early-lead-in-video-gaming) , Apple's Macintosh computers held an advantage in PC gaming in the 1980s and early '90s. However, this is no longer true today. According to[Steam's Hardware and Software Survey June 2023](https://store.steampowered.com/hwsurvey?platform=combined) , Windows holds 96.77% of the Steam market, while MacOS has a measly 1.79%.
+[According to Apple Insider](https://appleinsider.com/articles/19/05/09/how-apples-macs-lost-an-early-lead-in-video-gaming) , Apple's Macintosh computers held an advantage in PC gaming in the 1980s and early '90s. However, this is no longer true today. According to [Steam's Hardware and Software Survey June 2023](https://store.steampowered.com/hwsurvey?platform=combined) , Windows holds 96.77% of the Steam market, while MacOS has a measly 1.79%.
 
  But will we see this number increase in the coming years? Especially as Apple continues to release more powerful, efficient, and affordable Apple-silicon-powered Macs and MacBooks?
 
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 
 ![15-inch MacBook Air battery percentage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/15-inch-macbook-air-battery-1.JPG)
 
- Furthermore, its reasonable price[made the MacBook Air an outstanding laptop for students](https://www.makeuseof.com/reasons-macbook-air-great-for-students/) . Even some professionals agree that[MacBooks are better than other laptops](https://www.makeuseof.com/why-macbooks-are-better-than-other-laptops/) , with many of them switching to macOS from Windows.
+ Furthermore, its reasonable price [made the MacBook Air an outstanding laptop for students](https://www.makeuseof.com/reasons-macbook-air-great-for-students/) . Even some professionals agree that [MacBooks are better than other laptops](https://www.makeuseof.com/why-macbooks-are-better-than-other-laptops/) , with many of them switching to macOS from Windows.
 
  So, with this increased userbase, you can expect some of them to want to game on their computer. As more people buy into the Apple ecosystem, the demand for Mac gaming will also slowly increase.
 
@@ -52,9 +52,7 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 
  And because macOS has the Apple App Store baked into it, it would give many would-be Mac gamers access to a vast library of games already there. Furthermore, if developers could port their iOS games and make them compatible with macOS, it would encourage iPhone gamers to switch to a Mac, allowing them to switch between devices seamlessly.
 
-### Steam's Availability on macOS
-
-![Launching Steam on a MacBook Air](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/launching-steam-on-a-macbook-air.jpg)
+### Steam's Availability on macOS ![Launching Steam on a MacBook Air](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/launching-steam-on-a-macbook-air.jpg)
 
  Image Credit:[Jowi Morales](https://www.makeuseof.com/author/jowi-morales)
 
@@ -62,31 +60,27 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 
  And if developers take advantage of the Game Porting Toolkit and make the most popular Windows titles on Steam also available for macOS, Mac gamers will use the power of their Apple-silicon-powered laptops and desktops and play AAA games.
 
- In fact, if you have a Mac right now, you can[play a handful of high-quality Mac games](https://www.makeuseof.com/best-mac-games-2022/) . And if you see a title you like, you can[check if your Mac can run the game](https://www.makeuseof.com/how-to-check-if-your-mac-can-run-a-game/) before buying it.
+ In fact, if you have a Mac right now, you can [play a handful of high-quality Mac games](https://www.makeuseof.com/best-mac-games-2022/) . And if you see a title you like, you can [check if your Mac can run the game](https://www.makeuseof.com/how-to-check-if-your-mac-can-run-a-game/) before buying it.
 
 ## What's Stopping Gamers From Gaming on Mac?
 
  However, despite the power and possibilities of macOS, many gamers are still hesitant to switch to Apple. But why is this so?
 
-### Macs Are Expensive
+### Macs Are Expensive ![A Mac and a Windows Laptop Placed Side-by-Side on a White Surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/The-Pros-and-Cons-of-Using-a-Virtual-Machine-to-Run-Windows-on-a-Mac.jpg)
 
-![A Mac and a Windows Laptop Placed Side-by-Side on a White Surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/The-Pros-and-Cons-of-Using-a-Virtual-Machine-to-Run-Windows-on-a-Mac.jpg)
-
- While the MacBook Air and Mac mini are relatively affordable devices for the power they have, they're still expensive if you compare them to many Windows computers. In fact, this is one of the[reasons why Macs aren't great for gaming](https://www.makeuseof.com/reasons-why-macs-arent-great-for-gaming/) .
+ While the MacBook Air and Mac mini are relatively affordable devices for the power they have, they're still expensive if you compare them to many Windows computers. In fact, this is one of the [reasons why Macs aren't great for gaming](https://www.makeuseof.com/reasons-why-macs-arent-great-for-gaming/) .
 
  For example, as of July 2023, the 2020 M1 MacBook Air retails at $999 on the Apple website. Although this is affordable for an Apple device, this is pricey for a three-year-old laptop.
 
  You can buy a brand-new Windows laptop launched in the same year for less than $700 on Amazon—you can check out our best budget gaming laptops, and you'll find plenty of alternatives to the MacBook Air that'll better fit your budget.
 
- And if the budget is really tight, you can build a desktop PC for less than $500—Linus Tech Tips shows how he does it on[YouTube](https://www.youtube.com/watch?v=Xzhp1HTt43M&ab%5Fchannel=LinusTechTips) .
+ And if the budget is really tight, you can build a desktop PC for less than $500—Linus Tech Tips shows how he does it on [YouTube](https://www.youtube.com/watch?v=Xzhp1HTt43M&ab%5Fchannel=LinusTechTips) .
 
-### There Is No Way to Upgrade an Apple-Silicon Mac
-
-![Apple Silicon M2 Chip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Apple-Silicon-Mac-M2-Chip.jpg)
+### There Is No Way to Upgrade an Apple-Silicon Mac ![Apple Silicon M2 Chip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Apple-Silicon-Mac-M2-Chip.jpg)
 
  Image Credit:[Apple](https://www.apple.com/macbook-pro-13/)
 
- Another hallmark of PC gaming is upgrades. As manufacturers continuously release new hardware, you'd want to upgrade your PC incrementally. However, current Apple Silicon Macs are more like consoles. You buy it, and that's it—no upgrades allowed. This is one of the[things we hate about Apple Silicon Macs](https://www.makeuseof.com/things-we-hate-about-apple-silicon-macs/) .
+ Another hallmark of PC gaming is upgrades. As manufacturers continuously release new hardware, you'd want to upgrade your PC incrementally. However, current Apple Silicon Macs are more like consoles. You buy it, and that's it—no upgrades allowed. This is one of the [things we hate about Apple Silicon Macs](https://www.makeuseof.com/things-we-hate-about-apple-silicon-macs/) .
 
  This is similar to gaming consoles, but there's a big difference: each console generation typically lasts eight to 12 years, but Apple releases a new Apple Silicon generation almost annually.
 
@@ -94,21 +88,17 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 
  Furthermore, Windows PC's upgradability means that even if you only have a $500 gaming rig today, you could upgrade it next year to a $5,000 monster gaming PC without necessarily replacing everything—something that is impossible with the Apple SoC.
 
-### There Is a Lack of Mac-Exclusive AAA Titles
-
-![Screen showing call of duty home screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/video-game.jpg)
+### There Is a Lack of Mac-Exclusive AAA Titles ![Screen showing call of duty home screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/video-game.jpg)
 
  One thing that brings gamers to a platform is the availability of exclusive games. It has even become a point of contention in Microsoft's proposed acquisition of Activision Blizzard, with Sony complaining that Microsoft will make the Call of Duty franchise an Xbox exclusive if the deal pushes through.
 
- The court hearing also revealed that Sony spends a lot on first-party PlayStation games—one of the[biggest revelations in the FTC and Microsoft trial](https://www.makeuseof.com/ftc-and-microsoft-trial-big-revelations/) . So, Mac gaming could take off if Apple or another developer invests heavily in some Mac-exclusive titles.
+ The court hearing also revealed that Sony spends a lot on first-party PlayStation games—one of the [biggest revelations in the FTC and Microsoft trial](https://www.makeuseof.com/ftc-and-microsoft-trial-big-revelations/) . So, Mac gaming could take off if Apple or another developer invests heavily in some Mac-exclusive titles.
 
  Unfortunately, this isn't true just yet. Many developers don't find investing in a Mac-exclusive title profitable because of its low number of gamers. Furthermore, we don't have any news from Apple that it's developing a Mac-exclusive game.
 
  Although its developing tools like the Game Porting Toolkit to entice developers to port their popular titles to Mac, it's not enough. What gamers need are many great Mac-exclusive titles to jump-start Mac gaming.
 
-### There Are No Great Gaming Subscription Options on Mac
-
-![A screenshot of the home page for Xbox Game Pass on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/game-pass.jpg)
+### There Are No Great Gaming Subscription Options on Mac ![A screenshot of the home page for Xbox Game Pass on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/game-pass.jpg)
 
  Aside from the lack of Mac-exclusive AAA titles, Macs also lack an excellent game subscription service.[PC gaming has several excellent subscription services](https://www.makeuseof.com/best-pc-games-subscription-services/) , giving gamers access to many titles without spending much money.
 
@@ -135,3 +125,24 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/a-curated-list-of-unconventional-game-choices/"><u>A Curated List of Unconventional Game Choices</u></a></li>
+<li><a href="https://games-able.techidaily.com/reclaim-your-gaming-fix-wi-fi-on-switch/"><u>Reclaim Your Gaming: Fix Wi-Fi on Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoiding-costly-hdr-top-6-reasons-for-gamers/"><u>Avoiding Costly HDR: Top 6 Reasons for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-rewarding-gamers-with-tips-could-undermine-industry-standards/"><u>Why Rewarding Gamers with Tips Could Undermine Industry Standards</u></a></li>
+<li><a href="https://games-able.techidaily.com/puzzle-yourself-through-pesky-gaming-plights/"><u>Puzzle Yourself Through Pesky Gaming Plights</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-longevous-play-why-physical-is-prevailing/"><u>The Longevous Play: Why Physical Is Prevailing</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-epics-launcher-stutterfreeze-woes-on-pc/"><u>Resolving Epic's Launcher Stutter/Freeze Woes on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/visual-powerhouse-debate-oled-amoled-vs-ips-technology/"><u>Visual Powerhouse Debate: OLED, AMOLED Vs. IPS Technology</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-motorola-g24-power-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Motorola G24 Power IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-from-novice-to-pro-creating-impressive-fb-covers-for-2024/"><u>[Updated] From Novice to Pro  Creating Impressive FB Covers for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y200-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y200 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/understanding-video-length-and-content-strategy-in-youtube-shorts/"><u>Understanding Video Length and Content Strategy in YouTube Shorts</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-the-game-changer-for-tiktok-creators-advanced-editing-in-pro-tools-mac-edition/"><u>[New] In 2024, The Game Changer for TikTok Creators  Advanced Editing in Pro Tools, Mac Edition</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/unveiling-the-secrets-of-swift-youtube-subtitle-insertion/"><u>Unveiling the Secrets of Swift YouTube Subtitle Insertion</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Poco F5 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-bundle-6-powerful-apps-to-remove-signature-borders/"><u>The Ultimate Bundle – 6 Powerful Apps to Remove Signature Borders</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-imovies-power-to-transform-ordinary-openers-into-epic/"><u>2024 Approved  IMovie's Power to Transform Ordinary Openers Into Epic</u></a></li>
+</ul></div>

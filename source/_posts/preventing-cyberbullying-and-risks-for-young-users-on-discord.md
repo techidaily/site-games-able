@@ -1,7 +1,7 @@
 ---
 title: Preventing Cyberbullying and Risks for Young Users on Discord
-date: 2024-06-22 21:16:57
-updated: 2024-06-24 12:38:45
+date: 2024-06-25T13:12:17.754Z
+updated: 2024-06-26T13:12:17.754Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
 
 ## What Is Discord, and Why Do Kids Use It?
 
- Discord was launched in 2015, and initially served primarily as a[communication platform for gamers](https://www.makeuseof.com/how-to-get-started-discord-beginners-guide/) . Over the years, it's become a lot more than that, with millions of people around the globe using it every single day. Discord is available on pretty much all platforms and operating systems and can also run in web browsers, so children can access it very easily.
+ Discord was launched in 2015, and initially served primarily as a [communication platform for gamers](https://www.makeuseof.com/how-to-get-started-discord-beginners-guide/) . Over the years, it's become a lot more than that, with millions of people around the globe using it every single day. Discord is available on pretty much all platforms and operating systems and can also run in web browsers, so children can access it very easily.
 
  Discord has millions of active communities, or servers, as they are called. New ones are being created daily, since everyone can set up their own server free of charge. Some are private and invite-only, while others are public and can be accessed by anyone with a link. Like everyone else, kids and adolescents can use Discord to socialize, communicate with friends, and engage in various communities centered around their hobbies or interests.
 
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
 
  Discord requires users to be at least 13 years old. However, this requirement is not strictly enforced, since the platform doesn't actually verify a user's age upon signup. At the same time, it needs to be noted that Discord is not just for texting, but also for exchanging photos and videos, as well as making audio and video calls. In other words, a child is very likely to encounter inappropriate content at some point, which is definitely something parents should be aware of.
 
- For years, Discord had no parental controls, so those whose children were on the platform had to improvise and[rely on third-party software](https://www.makeuseof.com/tag/5-best-parental-control-apps-android/) to monitor their kids' activities. In July 2023, Discord finally introduced their very own Family Center. In a[blog post](https://discord.com/blog/discord-family-center-stay-connected-with-your-teen) published at the time, Discord explained what this means for parents.
+ For years, Discord had no parental controls, so those whose children were on the platform had to improvise and [rely on third-party software](https://www.makeuseof.com/tag/5-best-parental-control-apps-android/) to monitor their kids' activities. In July 2023, Discord finally introduced their very own Family Center. In a [blog post](https://discord.com/blog/discord-family-center-stay-connected-with-your-teen) published at the time, Discord explained what this means for parents.
 
  In short, all you need to do to use this feature is navigate to User**Settings > Family Center** , and complete the setup. Both the parent (or guardian) and the child need to consent to this. And once the setup is done, you will have access to all kinds of information regarding your kid's activity on Discord, and be able to view their calls and messages, see friend requests, and monitor which servers they are participating in. In addition, you'll receive weekly recaps via email.
 
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
 
 ### 2\. Educate Your Child
 
- It is true that children and teenagers nowadays are far more technologically adept than previous generations, but it's safe to assume most view cybersecurity as boring and unnecessary, or even feel overconfident about their skills. This is why it's[important to educate your child](https://www.makeuseof.com/technology-role-model-be-good-for-kids/) , and make them understand what can happen if they are not careful, or ignore basic online safety concepts.
+ It is true that children and teenagers nowadays are far more technologically adept than previous generations, but it's safe to assume most view cybersecurity as boring and unnecessary, or even feel overconfident about their skills. This is why it's [important to educate your child](https://www.makeuseof.com/technology-role-model-be-good-for-kids/) , and make them understand what can happen if they are not careful, or ignore basic online safety concepts.
 
 ### 3\. Set Time Limits
 
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
 
 ### 4\. Remind Your Kid to Lead by Example
 
- Cyberbullying is a massive issue in this day and age. Thankfully, there are plenty of resources for victims, but abusers' motivations are often overlooked. That's a big problem, being that most[cyberbullying against kids and teens](https://www.makeuseof.com/cyberbullying-vs-cyberstalking-difference-between/) is carried out by their peers. This is why every parent should try and teach their kid to lead by example, and treat others with respect and kindness.
+ Cyberbullying is a massive issue in this day and age. Thankfully, there are plenty of resources for victims, but abusers' motivations are often overlooked. That's a big problem, being that most [cyberbullying against kids and teens](https://www.makeuseof.com/cyberbullying-vs-cyberstalking-difference-between/) is carried out by their peers. This is why every parent should try and teach their kid to lead by example, and treat others with respect and kindness.
 
 ### 5\. Encourage Critical Thinking
 
@@ -83,3 +83,24 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/the-art-of-gaming-controls-buttons-and-controllers-on-mobile/"><u>The Art of Gaming Controls: Buttons and Controllers on Mobile</u></a></li>
+<li><a href="https://games-able.techidaily.com/uncover-the-true-cost-of-endless-playtime/"><u>Uncover the True Cost of Endless Playtime</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-bluetooth-disconnects-on-xbox-s/"><u>Overcoming Bluetooth Disconnects on Xbox S</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-classic-games-rediscovered/"><u>Next-Gen Classic Games Rediscovered</u></a></li>
+<li><a href="https://games-able.techidaily.com/prioritize-these-five-game-changing-mouse-features-today/"><u>Prioritize These Five Game-Changing Mouse Features Today!</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-playtime-patterns-and-achievement-progress-through-steam-metrics/"><u>Unveiling Playtime Patterns and Achievement Progress Through Steam Metrics</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-streaming-prime-gaming-channel-subscription-guide/"><u>Master Streaming: Prime Gaming Channel Subscription Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/critical-caveats-5-unexamined-aspects-of-game-scores/"><u>Critical Caveats: 5 Unexamined Aspects of Game Scores</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-ipad-screen-snapshot-strategies/"><u>[Updated] 2024 Approved  IPad Screen Snapshot Strategies</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-avs-audio-editor-product-details-key-features-reviews-and-alternatives/"><u>New AVS Audio Editor Product Details, Key Features, Reviews & Alternatives</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-motorola-moto-g04-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Motorola Moto G04 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-visual-richness-switching-to-hdr-technology/"><u>[Updated] Unlocking Visual Richness  Switching to HDR Technology</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-video-enhancement-using-vce-22/"><u>2024 Approved  Innovative Video Enhancement Using VCE 2.2</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-realme-12plus-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Realme 12+ 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-retro-revival-top-apps-for-adding-vintage-vhs-filters-to-your-mobile-videos-for-2024/"><u>Updated Retro Revival Top Apps for Adding Vintage VHS Filters to Your Mobile Videos for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-ideal-episode-count-the-sweet-spot-in-podcasting/"><u>[Updated] Ideal Episode Count  The Sweet Spot in Podcasting</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-gateway-to-grandeur-embarking-on-a-classic-lit-journey/"><u>[New] In 2024, Gateway to Grandeur  Embarking on a Classic Lit Journey</u></a></li>
+</ul></div>

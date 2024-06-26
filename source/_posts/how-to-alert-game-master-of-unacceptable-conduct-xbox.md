@@ -1,7 +1,7 @@
 ---
 title: How to Alert Game Master of Unacceptable Conduct (Xbox)
-date: 2024-06-23 14:16:16
-updated: 2024-06-24 12:30:34
+date: 2024-06-25T13:06:41.628Z
+updated: 2024-06-26T13:06:41.628Z
 tags:
   - games
 categories:
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/58992b2f2ff28cbd7f7142aa92fbd42cf8a8200b4
 
 ![A screenshot of the available categories when reporting an Xbox Profile on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot-2986.jpg)
 
- It's also important to note that you can access people's profiles in multiple ways. You can even[report players via your Xbox console or the Xbox app](https://www.makeuseof.com/xbox-one-xbox-app-how-to-block-and-report-users/) .
+ It's also important to note that you can access people's profiles in multiple ways. You can even [report players via your Xbox console or the Xbox app](https://www.makeuseof.com/xbox-one-xbox-app-how-to-block-and-report-users/) .
 
 ## 2\. How to Report Inappropriate Xbox Messages
 
@@ -80,13 +80,13 @@ thumbnail: https://thmb.techidaily.com/58992b2f2ff28cbd7f7142aa92fbd42cf8a8200b4
 
  Like with any other Xbox report, you can then define the specific categories of your report and hit**Submit** to finalize it. With the report linked to an individual Xbox Activity Feed post, you can rest assured that Xbox will be able to evaluate your report with the evidence provided.
 
- However, your own Xbox Activity Feed content can just as easily be flagged by other users. So, it's important when you post a game capture or[create an Xbox Club](https://www.makeuseof.com/how-to-make-a-club-on-xbox-series-x-s/) that you're confident the content is appropriate.
+ However, your own Xbox Activity Feed content can just as easily be flagged by other users. So, it's important when you post a game capture or [create an Xbox Club](https://www.makeuseof.com/how-to-make-a-club-on-xbox-series-x-s/) that you're confident the content is appropriate.
 
 ## 4\. How to Report In-Game Voice Chat on Xbox Series X|S
 
  A final way you can report inappropriate content on your Xbox, and the most unique way, is by highlighting inappropriate voice communications to Xbox.
 
- However, to report voice chats, you need to have saved 60-second voice clips onto your Xbox. Luckily, you can[record and report in-game voice chat from your Xbox Series X|S](https://www.makeuseof.com/how-to-save-and-report-in-game-voice-chat-on-xbox-series-xs/) . To record voice chat, follow these steps:
+ However, to report voice chats, you need to have saved 60-second voice clips onto your Xbox. Luckily, you can [record and report in-game voice chat from your Xbox Series X|S](https://www.makeuseof.com/how-to-save-and-report-in-game-voice-chat-on-xbox-series-xs/) . To record voice chat, follow these steps:
 
 * Open the Guide menu by pressing the**Xbox button** on your controller.
 * Highlight**Parties & chats** , and select the bottom option for**Report in-game voice chat** .
@@ -131,3 +131,23 @@ thumbnail: https://thmb.techidaily.com/58992b2f2ff28cbd7f7142aa92fbd42cf8a8200b4
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/eas-pricing-jab-i-retreat-from-subscription-life/"><u>EA’s Pricing Jab, I Retreat From Subscription Life</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719169261659-amp-up-the-atmosphere-big-box-for-arcade-fronts/"><u>Amp up the Atmosphere: Big Box for Arcade Fronts!</u></a></li>
+<li><a href="https://games-able.techidaily.com/infiltrating-early-adopter-groups-a-guide-to-starfield-trials/"><u>Infiltrating Early Adopter Groups: A Guide to Starfield Trials</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-steps-to-acquire-and-install-minecraft-worlds/"><u>Seamless Steps to Acquire & Install Minecraft Worlds</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-6-diverse-titles-for-broadcasters-gameplay/"><u>Top 6 Diverse Titles for Broadcasters' Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/smart-buying-how-to-dodge-errors-when-shop-ping-a-monitor/"><u>Smart Buying: How to Dodge Errors When Shop-Ping a Monitor</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoiding-digital-drain-6-healthy-habits-for-gamers/"><u>Avoiding Digital Drain: 6 Healthy Habits for Gamers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ideal-vr-solutions-for-drone-flying/"><u>Ideal VR Solutions for Drone Flying</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-vivo-y36i-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-use-chromes-picture-in-progress-screensuitably-across-platforms/"><u>How to Use Chrome’s Picture In Progress Screensuitably Across Platforms</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-affordable-4k-lens-and-recorders/"><u>2024 Approved  Affordable 4K Lens & Recorders</u></a></li>
+<li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-iphone-13-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect iPhone 13 and iPad</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-outstanding-asmr-audio-experience-for-minimal-spending/"><u>In 2024, Outstanding ASMR Audio Experience for Minimal Spending</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/elite-writes-on-10-free-video-transcript-extractors-for-2024/"><u>Elite' Writes on 10 Free Video Transcript Extractors for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unveiling-high-definition-with-lgs-31mu97-b-digital-cinema-screen/"><u>Unveiling High Definition with LG's 31MU97-B Digital Cinema Screen</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-choosing-between-bandicam-and-camtasia-for-video-capture/"><u>[Updated] Choosing Between Bandicam and Camtasia for Video Capture</u></a></li>
+</ul></div>

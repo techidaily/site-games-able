@@ -1,7 +1,7 @@
 ---
 title: Exclusive Pre-Installed iOS Games - Play without Wi-Fi
-date: 2024-06-22 20:49:11
-updated: 2024-06-24 12:56:17
+date: 2024-06-25T13:11:47.093Z
+updated: 2024-06-26T13:11:47.093Z
 tags:
   - games
 categories:
@@ -66,9 +66,7 @@ thumbnail: https://thmb.techidaily.com/33139754522d3393b0a998cc016bffa1b55254150
 
 **Download:** [BADLAND 2](https://apps.apple.com/us/app/badland-2/id1007120869) ($0.99)
 
-## 7\. SevenBloks
-
-![The main menu of the iOS SevenBloks app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/IMG_7342.jpg)
+## 7\. SevenBloks ![The main menu of the iOS SevenBloks app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/IMG_7342.jpg)
 
 ![A game in progress on the iOS SevenBloks game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/IMG_7341.jpg)
 
@@ -94,21 +92,19 @@ Close
 
  Civilization VI is the latest installment of the longtime franchise where you, as the leader of your people, try to rule the world throughout history. Using real-world leaders, place names, and historical monuments, Civ is a turn-based game that takes hours but is easy to play in quick chunks of time. This makes it perfect for iOS.
 
- Although you can engage in local and online multiplayer, an offline AI campaign is more than enough fun for a long subway or plane ride. If Civilization VI doesn't appeal, there are other[ways to play Civilization on your phone](https://www.makeuseof.com/tag/2-ways-play-civilization-android/) .
+ Although you can engage in local and online multiplayer, an offline AI campaign is more than enough fun for a long subway or plane ride. If Civilization VI doesn't appeal, there are other [ways to play Civilization on your phone](https://www.makeuseof.com/tag/2-ways-play-civilization-android/) .
 
 **Download:** [Civilization VI](https://apps.apple.com/us/app/sid-meiers-civilization-vi/id1235863443) (Free, in-app purchases available)
 
 ## 10\. Stardew Valley
 
- Another port from PC to iOS, Stardew Valley lets you get away from it all and run your own farm in a small town. You can use[iPhone and iPad gaming options like Steam Link](https://www.makeuseof.com/tag/iphone-ipad-gaming-options/) and Apple Arcade to make the experience easier by using a controller.
+ Another port from PC to iOS, Stardew Valley lets you get away from it all and run your own farm in a small town. You can use [iPhone and iPad gaming options like Steam Link](https://www.makeuseof.com/tag/iphone-ipad-gaming-options/) and Apple Arcade to make the experience easier by using a controller.
 
  Beautiful 8-bit graphics, simple, non-competitive gameplay, and strangely compelling dungeon-crawling make this game one of the best ways to spend a long subway ride. When city life is getting you down, escape to Pelican Town, where all you have to do is harvest the pumpkins on time.
 
 **Download:** [Stardew Valley](https://apps.apple.com/us/app/stardew-valley/id1406710800) ($4.99)
 
-## 11\. New York Times Crossword
-
-![The home screen of the iOS New York Times Crossword app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/IMG_7339.jpg)
+## 11\. New York Times Crossword ![The home screen of the iOS New York Times Crossword app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/IMG_7339.jpg)
 
 ![A crossword on the iOS New York Times Crossword app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/IMG_7338.jpg)
 
@@ -120,7 +116,7 @@ Close
 
  You can either subscribe to the New York Times Digital Subscription or get a Crossword subscription separately. If you don’t subscribe, you’ll only have access to the daily**Mini** crossword, which is a treat in and of itself but nowhere near as fun as a full puzzle.
 
- While you need internet access to download new crosswords, you can keep an unlimited number of them offline for playing later. When you do use the internet to download new crosswords, using[tips to reduce mobile data usage and save money](https://www.makeuseof.com/tag/save-money-mobile-internet-data-bill-apps-tricks/) on the data spend will come in handy.
+ While you need internet access to download new crosswords, you can keep an unlimited number of them offline for playing later. When you do use the internet to download new crosswords, using [tips to reduce mobile data usage and save money](https://www.makeuseof.com/tag/save-money-mobile-internet-data-bill-apps-tricks/) on the data spend will come in handy.
 
 **Download:** [New York Times Crossword](https://apps.apple.com/us/app/new-york-times-crossword/id307569751) (Free, in-app purchases available)
 
@@ -177,3 +173,23 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/revolutionizing-gaming-with-wireless-controller-updates/"><u>Revolutionizing Gaming with Wireless Controller Updates</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-mobile-mmo-titles-your-gameplay-guide/"><u>Essential Mobile MMO Titles: Your Gameplay Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/screen-time-made-sweet-discovering-netflix-gaming/"><u>Screen Time Made Sweet: Discovering Netflix Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/assessing-the-relevance-of-dual-mode-monitors-in-gaming/"><u>Assessing the Relevance of Dual-Mode Monitors in Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/low-latency-maximum-gameplay-razer-basilisk-v3/"><u>Low Latency, Maximum Gameplay - Razer Basilisk V3</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-tech-trends-directx-11-vs-directx-12-updates/"><u>Gaming Tech Trends: DirectX 11 Vs. DirectX 12 Updates</u></a></li>
+<li><a href="https://games-able.techidaily.com/impact-analysis-xbox-joining-forces-with-activision-and-blizzard/"><u>Impact Analysis: Xbox Joining Forces with Activision & Blizzard</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/reimagine-video-narratives-with-windows-10s-story-remix-tool/"><u>Reimagine Video Narratives with Windows 10'S Story Remix Tool</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pros-in-mac-streaming-the-top-5-applications/"><u>In 2024, Pros in Mac Streaming  The Top 5 Applications</u></a></li>
+<li><a href="https://extra-information.techidaily.com/total-kinetic-analysis-exploration/"><u>Total Kinetic Analysis Exploration</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-illustrators-journey-navigating-for-success-in-designing/"><u>The Illustrator's Journey  Navigating for Success in Designing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-apowersofts-place-in-the-screen-capture-market/"><u>[New] 2024 Approved  Apowersoft's Place in the Screen Capture Market</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/10-best-face-editor-for-android-and-iphone-for-2024/"><u>10 Best Face Editor for Android and iPhone for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Where Is the Best Place to Catch Dratini On Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-unveiling-the-latest-in-non-fbx-gameplay-tracking/"><u>2024 Approved  Unveiling the Latest in Non-FBX Gameplay Tracking</u></a></li>
+</ul></div>

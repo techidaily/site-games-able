@@ -1,7 +1,7 @@
 ---
 title: "High-Quality Titles: Should MTs Be Compulsory?"
-date: 2024-06-22 12:17:39
-updated: 2024-06-24 12:43:14
+date: 2024-06-25T13:20:10.120Z
+updated: 2024-06-26T13:20:10.120Z
 tags:
   - games
 categories:
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/7d51f3f0aee270ec2782becb99c1a414abb8cba30
 
  At first, it came as expansion packs ([now known as DLC](https://www.makeuseof.com/dlc-video-games/) ), which you had to buy separately to expand the game’s content. But it didn’t take long for developers to realize they could make more money from selling small bits of seemingly inconsequential content for a token price.
 
- Eventually, this trend led to the introduction of[loot boxes and gacha microtransactions](https://www.makeuseof.com/are-loot-boxes-in-video-games-a-form-of-gambling-should-you-avoid-them/) . These were not just game-changers but financial jackpots. In fact, one of the pioneers in this field, ZT Online (2007), was raking in a staggering $15 million monthly at its peak.
+ Eventually, this trend led to the introduction of [loot boxes and gacha microtransactions](https://www.makeuseof.com/are-loot-boxes-in-video-games-a-form-of-gambling-should-you-avoid-them/) . These were not just game-changers but financial jackpots. In fact, one of the pioneers in this field, ZT Online (2007), was raking in a staggering $15 million monthly at its peak.
 
  Before we knew it, we had Facebook games like Farmville that offered Farm Cash to make the game easier to play and progress faster. From there, it made its way to mobile as smartphone games, like Clash of Clans.
 
@@ -76,9 +76,7 @@ But what about premium games? Should they have microtransactions?
 
  Apart from the inherent gambling nature of loot boxes, as a creator and an artist, doesn’t it feel fundamentally wrong to offer people a way to pay to experience less of your creation? It gives people the idea that your game is a chore, which shouldn’t be the case.
 
-### Bloat and Battle Passes
-
-![Assassin's Creed Origins Season Pass for sale on Ubisoft website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/assassin-s-creed-origins-season-pass-for-sale-on-ubisoft-website.png)
+### Bloat and Battle Passes ![Assassin's Creed Origins Season Pass for sale on Ubisoft website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/assassin-s-creed-origins-season-pass-for-sale-on-ubisoft-website.png)
 
  Another way you can tell microtransactions don’t have a place in premium games is that they only worm their way into established franchises. Ubisoft is a good example of this, seeing as it has added seasonal passes to many titles in their (mostly) offline single-player adventure series, Assassin’s Creed.
 
@@ -86,7 +84,7 @@ But what about premium games? Should they have microtransactions?
 
  Companies add these to leverage the cumulated love and loyalty some fans have to these established series—even though they know many wouldn’t like it. In the end, it comes off as parasitic.
 
- What makes passes even worse is that you have to play the game for a certain amount of time to earn the content on them. We've explored more on[why you shouldn't pay for passes](https://www.makeuseof.com/why-you-shouldnt-pay-for-season-passes-or-dlc/) in a dedicated piece.
+ What makes passes even worse is that you have to play the game for a certain amount of time to earn the content on them. We've explored more on [why you shouldn't pay for passes](https://www.makeuseof.com/why-you-shouldnt-pay-for-season-passes-or-dlc/) in a dedicated piece.
 
  Additionally, these games end up being bloated, as content you’ve bought, downloaded, and installed is locked behind an additional paywall. This will cost the paying player more internet bills for content they will likely never get to experience.
 
@@ -121,3 +119,24 @@ But what about premium games? Should they have microtransactions?
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/directing-the-flow-of-gaming-power-epic-plus-steam-integration/"><u>Directing the Flow of Gaming Power: Epic + Steam Integration</u></a></li>
+<li><a href="https://games-able.techidaily.com/playing-fortnite-on-mac-watch-out-for-exceptions/"><u>Playing Fortnite on Mac? Watch Out for Exceptions!</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-pass-integration-how-xbox-live-gold-subscribers-adapt/"><u>Game Pass Integration: How Xbox Live Gold Subscribers Adapt</u></a></li>
+<li><a href="https://games-able.techidaily.com/adjusting-screen-playback-in-discord/"><u>Adjusting Screen Playback in Discord</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridge-between-smartphones-and-pc-google-play-games-explained/"><u>Bridge Between Smartphones and PC: Google Play Games Explained</u></a></li>
+<li><a href="https://games-able.techidaily.com/multiplayer-mastery-the-shift-in-online-game-designs/"><u>Multiplayer Mastery: The Shift in Online Game Designs</u></a></li>
+<li><a href="https://games-able.techidaily.com/nostalgias-best-kept-secrets-retro-games-and-your-phone/"><u>Nostalgia's Best Kept Secrets: Retro Games & Your Phone</u></a></li>
+<li><a href="https://games-able.techidaily.com/advanced-techniques-for-sony-store-shopping/"><u>Advanced Techniques for Sony Store Shopping</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/full-guide-to-apple-iphone-11-icloud-bypass-by-drfone-ios/"><u>Full guide to Apple iPhone 11 iCloud Bypass</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-12-mini-without-passcode-now-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone 12 mini Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-swift-guide-to-chromakey-and-background-separation/"><u>2024 Approved  Swift Guide to Chromakey and Background Separation</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-hidefake-snapchat-location-on-your-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-magic-6-pro-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-get-noticed-the-ultimate-guide-to-crafting-viral-tiktok-captions/"><u>[Updated] In 2024, Get Noticed  The Ultimate Guide to Crafting Viral TikTok Captions</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/3-ways-to-make-time-lapse-video-on-macbook-for-2024/"><u>3 Ways to Make Time-Lapse Video on MacBook for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-iphone-6-plus-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock iPhone 6 Plus with iTunes</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Top 16 Multiplayer Couch Games for Next-Gen Xbox
-date: 2024-06-22 23:35:44
-updated: 2024-06-24 12:17:27
+date: 2024-06-25T13:08:02.567Z
+updated: 2024-06-26T13:08:02.567Z
 tags:
   - games
 categories:
@@ -20,13 +20,13 @@ thumbnail: https://thmb.techidaily.com/243178c138d6204ad2bbeb47ec4cfcdba020958c1
 
 ## 1. LEGO Star Wars: The Skywalker Saga
 
- Frankly, you could pick any of the Traveller's Tales LEGO games and have a wonderful time (they all make for[excellent LEGO gifts](https://www.makeuseof.com/tag/best-lego-gifts/) ), but LEGO Star Wars: The Skywalker Saga is perhaps the best the developer has produced. It collects together all nine Star Wars films in an action-adventure experience designed for co-op, with hundreds of characters and vehicles to try.
+ Frankly, you could pick any of the Traveller's Tales LEGO games and have a wonderful time (they all make for [excellent LEGO gifts](https://www.makeuseof.com/tag/best-lego-gifts/) ), but LEGO Star Wars: The Skywalker Saga is perhaps the best the developer has produced. It collects together all nine Star Wars films in an action-adventure experience designed for co-op, with hundreds of characters and vehicles to try.
 
 ## 2. Rocket League
 
  If you're looking for some kinetic entertainment, you'll find it with the free-to-play Rocket League. You control a fast-paced vehicle, whizzing on the ground and through the air to hit a ball into a goal. It's soccer combined with vehicular chaos. You can either play in couch co-op or against one another.
 
- Rocket League is also one of[the best local multiplayer games for PC](https://www.makeuseof.com/tag/7-best-couch-co-op-games-pc/) . In fact, you can compete against PC players online, thanks to the game's cross compatibility.
+ Rocket League is also one of [the best local multiplayer games for PC](https://www.makeuseof.com/tag/7-best-couch-co-op-games-pc/) . In fact, you can compete against PC players online, thanks to the game's cross compatibility.
 
 ## 3. It Takes Two
 
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/243178c138d6204ad2bbeb47ec4cfcdba020958c1
 
 ## 4. Cuphead
 
- Cuphead is a difficult yet rewarding platformer that lovingly recreates the style of old hand drawn cartoons. It's inventive and charming, with boss fights so tough that you'll be glad for support from your friend on the couch. Plus, if you enjoy the game, there's an equally[decent Netflix animated series](https://www.makeuseof.com/tag/animated-shows-adults-netflix/) that you can watch together.
+ Cuphead is a difficult yet rewarding platformer that lovingly recreates the style of old hand drawn cartoons. It's inventive and charming, with boss fights so tough that you'll be glad for support from your friend on the couch. Plus, if you enjoy the game, there's an equally [decent Netflix animated series](https://www.makeuseof.com/tag/animated-shows-adults-netflix/) that you can watch together.
 
 ## 5. Overcooked! All You Can Eat
 
@@ -103,3 +103,23 @@ thumbnail: https://thmb.techidaily.com/243178c138d6204ad2bbeb47ec4cfcdba020958c1
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/sharpening-gaming-experience-via-smart-models/"><u>Sharpening Gaming Experience via Smart Models</u></a></li>
+<li><a href="https://games-able.techidaily.com/office-desk-vs-high-end-playstation-performance/"><u>Office Desk Vs. High-End PlayStation Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-fidelity-play-choosing-the-best-144hz-uwds/"><u>High-Fidelity Play: Choosing the Best 144Hz UWDs</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-updates-not-downloads-playing-flash-games-after-adobes-exit/"><u>Game Updates, Not Downloads: Playing Flash Games After Adobe's Exit</u></a></li>
+<li><a href="https://games-able.techidaily.com/suitability-of-ps3-games-for-ps4-system/"><u>Suitability of PS3 Games for PS4 System</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-quick-guide-to-palworld-basics/"><u>Your Quick Guide to PalWorld Basics</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-fix-the-minecraft-launcher-error-0x803f8001-in-windows-11-and-10/"><u>How to Fix the Minecraft Launcher Error 0X803f8001 in Windows 11 and 10</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-nokia-c22-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Nokia C22 Device</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-essential-choice-10-budget-friendly-caption-tools/"><u>In 2024, Essential Choice  10 Budget-Friendly Caption Tools</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-streamline-your-teamwork-zooming-through-screenshares/"><u>[New] 2024 Approved  Streamline Your Teamwork  Zooming Through Screenshares</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-acclaimed-ideas-top-tone-creators-for-apple-phones/"><u>2024 Approved  Acclaimed Ideas  Top Tone Creators for Apple Phones</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/rhythm-on-rings-creating-tamil-ringtone-playlists/"><u>Rhythm on Rings  Creating Tamil Ringtone Playlists</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-how-to-launch-your-first-session-with-vrecorder/"><u>[New] 2024 Approved  How to Launch Your First Session with VRecorder</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2023s-top-rated-facebook-live-viewing-software/"><u>[Updated] 2023'S Top-Rated Facebook Live Viewing Software</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-studio-vs-campers-contest/"><u>[Updated] 2024 Approved  Studio vs Camper’s Contest</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-quick-and-easy-techniques-for-iphone-sound-recording/"><u>[Updated] Quick and Easy Techniques for iPhone Sound Recording</u></a></li>
+</ul></div>

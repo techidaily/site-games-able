@@ -1,7 +1,7 @@
 ---
 title: How Not Using Microphones Boosts PS5 Security
-date: 2024-06-23 13:52:33
-updated: 2024-06-24 10:15:32
+date: 2024-06-25T13:35:42.382Z
+updated: 2024-06-26T13:35:42.382Z
 tags:
   - games
 categories:
@@ -20,11 +20,11 @@ thumbnail: https://thmb.techidaily.com/9ed4d2a342c503dc1182b48b6f97e1914eb836100
 
 ## Why You Shouldn't Use Your PS5 Controller's Microphone
 
- By default, your DualSense's microphone will activate whenever you're playing a game that supports voice chat, as long as you don't have any other microphones connected. However, when the controller microphone activates, it will also reduce the intensity of two other[key DualSense features](https://www.makeuseof.com/ps5-dualsense-controller-hidden-features/) : adaptive triggers and haptic feedback.
+ By default, your DualSense's microphone will activate whenever you're playing a game that supports voice chat, as long as you don't have any other microphones connected. However, when the controller microphone activates, it will also reduce the intensity of two other [key DualSense features](https://www.makeuseof.com/ps5-dualsense-controller-hidden-features/) : adaptive triggers and haptic feedback.
 
  As you likely know, adaptive triggers adjust the resistance of the L2 and R2 buttons depending on what you're doing in a game. And haptic feedback is a more advanced version of the classic rumble feature that provides different feedback for various kinds of in-game actions.
 
- In the PS5's Settings menu under**Settings > Accessories > Controllers** , you can adjust both the**Vibration Intensity** and**Trigger Effect Intensity** , which you might do to[save battery on your PS5 controller](http://www.makeuseof.com/save-battery-life-ps5-dualsense-controller/) . However, when your DualSense's built-in microphone is active, it will set both of them to**Weak** , regardless of the setting you've chosen here.
+ In the PS5's Settings menu under**Settings > Accessories > Controllers** , you can adjust both the**Vibration Intensity** and**Trigger Effect Intensity** , which you might do to [save battery on your PS5 controller](http://www.makeuseof.com/save-battery-life-ps5-dualsense-controller/) . However, when your DualSense's built-in microphone is active, it will set both of them to**Weak** , regardless of the setting you've chosen here.
 
 ![PS5 Controller Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS5-Controller-Options.jpg)
 
@@ -69,3 +69,22 @@ thumbnail: https://thmb.techidaily.com/9ed4d2a342c503dc1182b48b6f97e1914eb836100
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/ddr5-bests-2024-edition-list/"><u>DDR5 Bests: 2024 Edition List</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridging-console-and-computer-joystick-connectivity-made-simple-156-chars/"><u>Bridging Console and Computer: Joystick Connectivity Made Simple (156 Chars)</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-collect-and-leverage-steam-credits/"><u>How to Collect and Leverage Steam Credits</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-recommendations-optimal-3d-lights-for-gamers-sanctuaries/"><u>Expert Recommendations: Optimal 3D Lights for Gamers' Sanctuaries</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719164156571-play-retro-psp-hits-with-ios-now/"><u>Play Retro PSP Hits with iOS Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-workspace-with-the-top-asus-rog-ally-laptop-docks-24/"><u>Transform Your Workspace with the Top ASUS ROG Ally Laptop Docks, '24</u></a></li>
+<li><a href="https://games-able.techidaily.com/nostalgia-unleashed-psp-games-on-iphone/"><u>Nostalgia Unleashed: PSP Games on iPhone!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-se-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone SE with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-join-jargon-free-youtube-chats/"><u>In 2024, Join Jargon-Free YouTube Chats</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-from-iphone-14-plus-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock from iPhone 14 Plus or iPad?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/insta-gurus-guide-the-essential-hashtags-you-need-today-for-2024/"><u>Insta Gurus Guide  The Essential Hashtags You Need Today for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-in-depth-look-screen-capture-tools-for-mac/"><u>[Updated] In 2024, In-Depth Look  Screen Capture Tools for Mac</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/image-ingenuity-funnyflick-studio/"><u>Image Ingenuity  FunnyFlick Studio</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-swift-and-efficient-turning-youtube-vids-into-mp4-high-definition-via-online-service-for-2024/"><u>[New] Swift & Efficient  Turning YouTube Vids Into MP4, High-Definition via Online Service for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-a-roadmap-to-crafting-popular-vlogging-narratives/"><u>2024 Approved  A Roadmap to Crafting Popular Vlogging Narratives</u></a></li>
+</ul></div>

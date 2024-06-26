@@ -1,7 +1,7 @@
 ---
 title: Discover the Power of Playnite's Fullscreen Experience
-date: 2024-06-25T10:50:57.049Z
-updated: 2024-06-26T10:50:57.049Z
+date: 2024-06-25T12:48:42.136Z
+updated: 2024-06-26T12:48:42.136Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 
  Accessible at the press of a button, Playnite's Fullscreen Mode comes with larger fonts and images that help with legibility. Also, it only offers the essential functionality for selecting and launching games to keep interactions simple when using a joypad.
 
- If you haven't installed and configured Playnite to access your gaming libraries yet, check our guide on[how to unify and make sense of your game collections with Playnite on Windows](https://www.makeuseof.com/windows-playnite-guide/) .
+ If you haven't installed and configured Playnite to access your gaming libraries yet, check our guide on [how to unify and make sense of your game collections with Playnite on Windows](https://www.makeuseof.com/windows-playnite-guide/) .
 
 ## Download Fullscreen Themes
 
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 
 ![Playnite Switch to Fullscreen Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playnite-switch-to-fullscreen-mode.jpg)
 
- Alternative themes change the app's aesthetics and offer better integration for some of Playnite's many add-ons. For example, they might display data more prominently from the[HowLongToBeat](https://howlongtobeat.com/) and[PCGamingWiki](https://www.pcgamingwiki.com/wiki/Home) sites next to a game's description.
+ Alternative themes change the app's aesthetics and offer better integration for some of Playnite's many add-ons. For example, they might display data more prominently from the [HowLongToBeat](https://howlongtobeat.com/) and [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Home) sites next to a game's description.
 
 To install third-party themes to Playnite:
 
@@ -109,7 +109,7 @@ Here are some of the spots you might want to visit:
 
  This way, Playnite will practically "console-i-fy" your PC since the app will launch automatically in its Fullscreen Mode whenever Windows loads. This will enable you to jump straight into your games collection instead of fighting with Windows' desktop from your couch.
 
- Also, if you've followed our guide on[how to add your emulated games into Playnite on Windows](https://www.makeuseof.com/add-emulated-games-playnite/) , you'll find that being able to control everything with a joypad feels more seamless than adding a mouse and keyboard to the mix.
+ Also, if you've followed our guide on [how to add your emulated games into Playnite on Windows](https://www.makeuseof.com/add-emulated-games-playnite/) , you'll find that being able to control everything with a joypad feels more seamless than adding a mouse and keyboard to the mix.
 
 ## Couch PC Gaming
 

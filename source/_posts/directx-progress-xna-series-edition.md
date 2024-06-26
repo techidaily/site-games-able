@@ -1,7 +1,7 @@
 ---
 title: "DirectX Progress: XNA Series Edition"
-date: 2024-06-22 10:55:44
-updated: 2024-06-23 10:53:32
+date: 2024-06-25T13:13:43.700Z
+updated: 2024-06-26T13:13:43.700Z
 tags:
   - games
 categories:
@@ -22,13 +22,13 @@ thumbnail: https://thmb.techidaily.com/3dae50570edf845253cb7d1a2a03642e6fd28847b
 
 ![DirectX logo imposed on a photo of a man coding](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/untitled-design-1.jpg)
 
- As explained in[our overview of Microsoft DirectX](https://www.makeuseof.com/tag/everything-need-know-directx-2016/) , DirectX is a collection of application programming interfaces (APIs) used for handling tasks related to multimedia. This includes game programming on Microsoft-based platforms like Windows and Xbox. To provide some context, let's briefly talk about APIs.
+ As explained in [our overview of Microsoft DirectX](https://www.makeuseof.com/tag/everything-need-know-directx-2016/) , DirectX is a collection of application programming interfaces (APIs) used for handling tasks related to multimedia. This includes game programming on Microsoft-based platforms like Windows and Xbox. To provide some context, let's briefly talk about APIs.
 
- An API makes it possible for two or more computer programs to communicate with each other, which we discuss in[our overview of APIs](https://www.makeuseof.com/what-is-api/) . Think of it like a telephone. If your mom texts you with a grocery list, your phone will receive that data and display it for you. That is basically an API.
+ An API makes it possible for two or more computer programs to communicate with each other, which we discuss in [our overview of APIs](https://www.makeuseof.com/what-is-api/) . Think of it like a telephone. If your mom texts you with a grocery list, your phone will receive that data and display it for you. That is basically an API.
 
 ## What Are the Differences Between DirectX 11 and DirectX 12?
 
- So, what are the differences between DirectX 11 and DirectX 12? Put simply, DirectX 12 is the latest version of DirectX. One of the most noticeable differences is how they interact with your hardware. Most games developed with DirectX 11 only utilize between two and four[CPU cores](https://www.makeuseof.com/cpu-vs-vcpu-threads-vs-cores/) . One of these cores usually tells the GPU what to do.
+ So, what are the differences between DirectX 11 and DirectX 12? Put simply, DirectX 12 is the latest version of DirectX. One of the most noticeable differences is how they interact with your hardware. Most games developed with DirectX 11 only utilize between two and four [CPU cores](https://www.makeuseof.com/cpu-vs-vcpu-threads-vs-cores/) . One of these cores usually tells the GPU what to do.
 
  The game then uses the remaining cores to handle various CPU-intensive settings like a game's particles or draw distance. On the other hand, DirectX 12 spreads a CPU's workload across multiple cores and allows every core to talk to the GPU simultaneously.
 
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/3dae50570edf845253cb7d1a2a03642e6fd28847b
 
  Image Credit: Martin Kerstein/[Guild Wars 2](https://www.guildwars2.com/en/news/guesting-is-coming/)
 
- Believe it or not, it took nine years for ArenaNet to make the switch from DirectX 9 to DirectX 11\. However, some games do support both DirectX 11 and DirectX 12, including Fortnite (read[our Fortnite cheat sheet](https://www.makeuseof.com/tag/fortnite-essentials-cheat-sheet-controls-tips-terms/) ), Battlefield 5, Shadow of the Tomb Raider, and more. Users can switch between DirectX 11 and DirectX 12 in the game settings.
+ Believe it or not, it took nine years for ArenaNet to make the switch from DirectX 9 to DirectX 11\. However, some games do support both DirectX 11 and DirectX 12, including Fortnite (read [our Fortnite cheat sheet](https://www.makeuseof.com/tag/fortnite-essentials-cheat-sheet-controls-tips-terms/) ), Battlefield 5, Shadow of the Tomb Raider, and more. Users can switch between DirectX 11 and DirectX 12 in the game settings.
 
  Now, the fact that some games support both DirectX 11 and 12 has probably got you wondering about in-game performance. Does choosing DX 11 or DX 12 deliver better in-game performance? The following video illustrates the differences between DirectX 11 and DirectX 12 in a range of games, showcasing vital specs such as average frames per second, CPU usage, GPU usage, and more, using an AMD Ryzen 3600, Nvidia GeForce RTX 3060 Ti, and 16GB DDR4 RAM.
 
@@ -91,3 +91,26 @@ thumbnail: https://thmb.techidaily.com/3dae50570edf845253cb7d1a2a03642e6fd28847b
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/nintendo-switch-unleashed-the-2p-minecraft-playbook/"><u>Nintendo Switch Unleashed: The 2P Minecraft Playbook</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-seamless-strategy-to-enhance-your-gaming-experience/"><u>The Seamless Strategy to Enhance Your Gaming Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-list-of-top-11-no-cost-words-games-androidios/"><u>Essential List of Top 11 No-Cost Words Games (Android/iOS)</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-the-joy-top-11-affordable-word-players-iosandroid/"><u>Unlock the Joy: Top 11 Affordable Word Players (iOS/Android)</u></a></li>
+<li><a href="https://games-able.techidaily.com/epic-games-unraveling-success-through-helldivers-2/"><u>Epic Games: Unraveling Success Through Helldivers 2</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-steps-to-acquire-and-install-minecraft-worlds/"><u>Seamless Steps to Acquire & Install Minecraft Worlds</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-your-valorant-skills-with-advanced-hrtf-techniques/"><u>Elevating Your Valorant Skills with Advanced HRTF Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/key-elements-for-a-gaming-mouse-worth-every-penny-a-quick-rundown/"><u>Key Elements for a Gaming Mouse Worth Every Penny: A Quick Rundown</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-choice-selecting-the-best-audio-gear/"><u>Gamer’s Choice: Selecting the Best Audio Gear</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-find-your-ideal-android-movie-maker-a-step-by-step-guide/"><u>New 2024 Approved Find Your Ideal Android Movie Maker A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-nokia-c12-plus-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Nokia C12 Plus in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-create-a-kickass-cod-warzone-thumbnail-for-free-for-2024/"><u>Updated Create a Kickass COD Warzone Thumbnail for Free for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On OnePlus Nord 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/discords-prime-locations-to-date-or-fall-in-love-for-2024/"><u>Discord's Prime Locations to Date or Fall in Love for 2024</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oppo-reno-10-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-optimal-android-apps-for-clear-screen-recordings/"><u>[Updated] Optimal Android Apps for Clear Screen Recordings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-smooth-authentication-on-iphone-x-mending-face-id/"><u>[New] Unlocking Smooth Authentication on iPhone X  Mending Face ID</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-3-ae-plugin-reviews-for-optimal-editing/"><u>2024 Approved  Top 3 AE Plugin Reviews for Optimal Editing</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-oneplus-nord-3-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass OnePlus Nord 3 5G FRP</u></a></li>
+</ul></div>

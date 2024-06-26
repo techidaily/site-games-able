@@ -1,7 +1,7 @@
 ---
 title: Premier Gameplay Progress Keepers
-date: 2024-06-21 19:49:53
-updated: 2024-06-24 10:58:36
+date: 2024-06-25T13:01:17.757Z
+updated: 2024-06-26T13:01:17.757Z
 tags:
   - games
 categories:
@@ -20,21 +20,17 @@ thumbnail: https://thmb.techidaily.com/51c7e118bec96598bc9d2d2c18cf903e1dca3cd52
 
 These are the best video game trackers.
 
-## 1. Grouvee
-
-![grouvee](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/grouvee-game-page.jpg)
+## 1. Grouvee ![grouvee](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/grouvee-game-page.jpg)
 
  Grouvee has a clean interface and is easy to navigate. It's bound to have any game you want to track because it's powered by Giant Bomb's API (a user-editable wiki).
 
  Each video game entry contains the average rating from Grouvee users, a quick summary of the game, release date, platforms, publisher, and other useful information.
 
- You can assign a status to any game: played, playing, wish list, backlog. If none fit, use "other shelf" to create as many categories as you'd like to further organize your games. You can also select on which systems you played the game—since you might own it on multiple formats, as there are[big differences between PC and console](https://www.makeuseof.com/tag/switching-from-console-to-pc-gaming-8-big-differences-explained/) .
+ You can assign a status to any game: played, playing, wish list, backlog. If none fit, use "other shelf" to create as many categories as you'd like to further organize your games. You can also select on which systems you played the game—since you might own it on multiple formats, as there are [big differences between PC and console](https://www.makeuseof.com/tag/switching-from-console-to-pc-gaming-8-big-differences-explained/) .
 
  Going beyond simply cataloging, Grouvee lets you leave comments to share your thoughts on the game as you play it. These are highlighted prominently on game pages, which makes Grouvee a logical choice if you're after a Goodreads for gaming. You can also track how long it took you to finish a game and what level of completion you achieved.
 
-## 2. GG
-
-![gg](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gg.jpg)
+## 2. GG ![gg](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gg.jpg)
 
  GG is a stylish website that focuses on the simple features you need from a video game tracker.
 
@@ -44,9 +40,7 @@ These are the best video game trackers.
 
  One downside to GG is that you need a paid membership to clone existing lists or merge your own. This can make it quite cumbersome when you first create your game collection as you have to go into each game manually. You also can't specify which platform you own the game on.
 
-## 3. Completionator
-
-![Completionator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Completionator.png)
+## 3. Completionator ![Completionator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Completionator.png)
 
  Completionator is a fantastic choice as a simple video game tracker, but it's also packed full of extra features if you want to take it to the next level.
 
@@ -56,11 +50,9 @@ These are the best video game trackers.
 
  Something that makes Completionator different is its social aspect. It has a forum to chat with others. More interesting, though, is the ability to complete challenges set by other people. This is like a book club, where you all agree to complete a game and discuss it after.
 
-## 4. HowLongToBeat
+## 4. HowLongToBeat ![HowLongToBeat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/HowLongToBeat.png)
 
-![HowLongToBeat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/HowLongToBeat.png)
-
- As you might guess from the name, HowLongToBeat was designed as a way to find out the length of a game. That's useful to know if you have a limited amount of time to play or want to crack through your backlog with the shortest games (which is one way to[decide what game to buy next](https://www.makeuseof.com/tag/decide-what-game-to-buy-next/) .)
+ As you might guess from the name, HowLongToBeat was designed as a way to find out the length of a game. That's useful to know if you have a limited amount of time to play or want to crack through your backlog with the shortest games (which is one way to [decide what game to buy next](https://www.makeuseof.com/tag/decide-what-game-to-buy-next/) .)
 
  The site also functions as a video game tracker; add games to your backlog and mark their completion state, like whether you only tackled the main story or if you went all out and did the extras too.
 
@@ -68,11 +60,9 @@ These are the best video game trackers.
 
  The site is powered by community contribution, so be sure to let others know how long it takes you to complete a game once you've finished with it.
 
-## 5. Darkadia
+## 5. Darkadia ![Darkadia](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Darkadia.png)
 
-![Darkadia](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Darkadia.png)
-
- When most of our games are digital nowadays, it's a shame to miss out on the satisfaction of seeing everything lined up on shelves (an important factor when[comparing physical games against digital games](https://www.makeuseof.com/physical-games-vs-digital-games-best-to-buy/) .) That's where video game tracker Darkadia comes in, which brings your virtual collection to life.
+ When most of our games are digital nowadays, it's a shame to miss out on the satisfaction of seeing everything lined up on shelves (an important factor when [comparing physical games against digital games](https://www.makeuseof.com/physical-games-vs-digital-games-best-to-buy/) .) That's where video game tracker Darkadia comes in, which brings your virtual collection to life.
 
  Once you add a game to your shelf, you're able to browse through all of them at a glance. Click into a game to see information about it, like its release date and developer.
 
@@ -80,9 +70,7 @@ These are the best video game trackers.
 
  Two excellent features include the ability to add private notes to a game (perhaps to record its digital game key), plus an export functionality so that you're not tied into Darkadia's platform.
 
-## 6. The Backloggery
-
-![Backloggery](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Backloggery.png)
+## 6. The Backloggery ![Backloggery](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Backloggery.png)
 
  Backloggery is a simple service compared to others listed here, but it still works as a way to catalog your video games.
 
@@ -90,9 +78,7 @@ These are the best video game trackers.
 
  You fill in the name, system, and region of the game alongside its completion status. Although this provides some flexibility to manage your games however you'd like, it's more cumbersome an experience than the other sites due to the manual nature. Nevertheless, if you want a simple video game tracker, Backloggery serves its purpose.
 
-## 7. Backloggd
-
-![backloggd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/backloggd.jpg)
+## 7. Backloggd ![backloggd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/backloggd.jpg)
 
  Backloggd is a free service to track your video games from all platforms. Use it to log the games you own, are currently playing, and have played. You can also build a wishlist, since Backloggd's catalog includes games which aren't yet released.
 
@@ -123,3 +109,24 @@ These are the best video game trackers.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/dive-into-new-gameplay-top-6-fresh-online-chess-adventures/"><u>Dive Into New Gameplay: Top 6 Fresh Online Chess Adventures</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-10-causes-for-gaming-system-failures-solutions-guide/"><u>Top 10 Causes for Gaming System Failures: Solutions Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/google-play-passs-brilliance-overshadowed-by-a-small-problem/"><u>Google Play Pass's Brilliance Overshadowed by a Small Problem</u></a></li>
+<li><a href="https://games-able.techidaily.com/reconnecting-windows-11-steam-with-online-friends/"><u>Reconnecting Windows 11 Steam with Online Friends</u></a></li>
+<li><a href="https://games-able.techidaily.com/techniques-to-restore-access-to-steam-content/"><u>Techniques to Restore Access to Steam Content</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-psvr2-the-ultimate-add-on-guide/"><u>Enhancing PSVR2: The Ultimate Add-On Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/claiming-your-money-back-from-xbox-game-bets/"><u>Claiming Your Money Back From Xbox Game Bets</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-the-secrets-of-steam-errors-and-their-cures-in-win11/"><u>Unlocking the Secrets of Steam Errors and Their Cures in Win11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-apple-iphone-se-2022-passcode-without-a-computer-drfone-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone SE (2022) Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/elevate-your-popularity-with-the-most-effective-7-tiktok-strategies-for-2024/"><u>Elevate Your Popularity with the Most Effective 7 TikTok Strategies for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-tecno-pova-5-pro-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Tecno Pova 5 Pro for Streaming | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-elevate-your-experience-in-sub4sub-prioritize-the-essentials-first/"><u>In 2024, Elevate Your Experience in Sub4sub - Prioritize the Essentials First</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-vivo-s17-pro-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Vivo S17 Pro</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-craft-standout-videos-mastery-of-youtube-thumbnail-dimensions/"><u>In 2024, How to Craft Standout Videos  Mastery of YouTube Thumbnail Dimensions</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-excellent-selection-the-best-no-cost-music-visualization-tools-for-modern-smartphones-ios-and-android/"><u>In 2024, Excellent Selection The Best No-Cost Music Visualization Tools for Modern Smartphones (iOS & Android)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-xiaomi-redmi-note-13-5g-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Xiaomi Redmi Note 13 5G?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-honor-magic-5-pro-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Honor Magic 5 Pro Location without Installing Software? | Dr.fone</u></a></li>
+</ul></div>

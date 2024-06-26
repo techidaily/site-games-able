@@ -1,7 +1,7 @@
 ---
 title: Mapping Out Uncharted Digital Territories
-date: 2024-06-23 11:14:15
-updated: 2024-06-24 10:26:58
+date: 2024-06-25T13:19:29.501Z
+updated: 2024-06-26T13:19:29.501Z
 tags:
   - games
 categories:
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/d04c4091c93f7c6e0ae17b31cbbed37cb1d18932b
 
 ## How Does Procedural Generation Work?
 
- Procedural generation starts with the algorithm and the seed. This is the basis of what you're trying to make, and the game will use this as the template for its creation. As the[X-Team blog](https://x-team.com/blog/procedural-generation-evolutionary-algorithms-and-possible-worlds/) puts it, the seed is "the DNA for a specific copy of whatever you're trying to procedurally produce."
+ Procedural generation starts with the algorithm and the seed. This is the basis of what you're trying to make, and the game will use this as the template for its creation. As the [X-Team blog](https://x-team.com/blog/procedural-generation-evolutionary-algorithms-and-possible-worlds/) puts it, the seed is "the DNA for a specific copy of whatever you're trying to procedurally produce."
 
  For example, you can use the human body as the seed of your procedural generation. You can then introduce variables to your algorithm, so the final product will always look like a person but have unique features with each run.
 
@@ -44,33 +44,27 @@ thumbnail: https://thmb.techidaily.com/d04c4091c93f7c6e0ae17b31cbbed37cb1d18932b
 
  So, here are a few modern titles which use this method when creating a game session.
 
-### No Man's Sky
-
-![No Mans Sky trailer screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/no-mans-sky-trailer-screenshot.jpg)
+### No Man's Sky ![No Mans Sky trailer screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/no-mans-sky-trailer-screenshot.jpg)
 
  Image Credit: PlayStation/[YouTube](https://www.youtube.com/watch?v=nLtmEjqzg7M&t=1s&ab%5Fchannel=PlayStation)
 
- This title is one of[the best space exploration games](https://www.makeuseof.com/best-space-based-exploration-crafting-games/) today owing to its use of procedural generation. Its developers used this technique to create over 18,000,000,000,000,000,000 (yes, that’s 18 zeroes) planets you can explore in the game world.
+ This title is one of [the best space exploration games](https://www.makeuseof.com/best-space-based-exploration-crafting-games/) today owing to its use of procedural generation. Its developers used this technique to create over 18,000,000,000,000,000,000 (yes, that’s 18 zeroes) planets you can explore in the game world.
 
  Because of this technique, each planet has its own unique ecosystem—including plants, animals, climates, and even alien species you may engage in trade or combat. Despite this massive game world, the game is only 15GB.
 
-### Civilization VI
-
-![Civilization VI trailer screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/civilization-vi-trailer-screenshot.jpg)
+### Civilization VI ![Civilization VI trailer screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/civilization-vi-trailer-screenshot.jpg)
 
  Image Credit: Sid Meier's Civilization/[YouTube](https://www.youtube.com/watch?v=5KdE0p2joJw&ab%5Fchannel=SidMeier%27sCivilization)
 
  While the Civilization franchise have a few maps based on regions of the world and one map of the entire world, the main game mode uses procedural generation to create unique maps. So, whenever you start a random game, you’re guaranteed a unique world.
 
- This feature makes Civilization highly replayable. Even if you’re playing the games for several years, each session will be a challenge. That’s why Civilization VI, the latest release of the franchise, is one of[the best offline games you can play on the iPad](https://www.makeuseof.com/tag/best-offline-games-iphone-ipad/) .
+ This feature makes Civilization highly replayable. Even if you’re playing the games for several years, each session will be a challenge. That’s why Civilization VI, the latest release of the franchise, is one of [the best offline games you can play on the iPad](https://www.makeuseof.com/tag/best-offline-games-iphone-ipad/) .
 
-### Rust
-
-![Rust trailer screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/rust-trailer-screenshot.jpg)
+### Rust ![Rust trailer screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/rust-trailer-screenshot.jpg)
 
  Image Credit: Facepunch/[YouTube](https://www.youtube.com/watch?v=LGcECozNXEw&t=17s&ab%5Fchannel=Facepunch)
 
- Rust is one of[the best exploration and crafting games](https://www.makeuseof.com/best-exploration-and-crafting-games/) because of its massive and unique maps. These procedurally generated maps ensure that each map is unique, with natural and man-made features randomly placed in every iteration.
+ Rust is one of [the best exploration and crafting games](https://www.makeuseof.com/best-exploration-and-crafting-games/) because of its massive and unique maps. These procedurally generated maps ensure that each map is unique, with natural and man-made features randomly placed in every iteration.
 
 ## Play in Unique Game Worlds Created With Procedural Generation
 
@@ -91,3 +85,24 @@ thumbnail: https://thmb.techidaily.com/d04c4091c93f7c6e0ae17b31cbbed37cb1d18932b
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/next-gen-showdown-ps5-versus-low-cost-gaming-machine/"><u>Next-Gen Showdown: PS5 Versus Low-Cost Gaming Machine</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-to-mitigate-low-memory-issues-in-roblox-ios-app/"><u>Strategies to Mitigate Low-Memory Issues in Roblox iOS App</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-world-class-tv-and-monitor-innovations-at-ifa-2-written-using-latex-format-including-an-equation-representing-the-relationship-between-velocity-v-11/"><u>Unveiling World-Class TV & Monitor Innovations at IFA 2 Written Using Latex Format, Including an Equation Representing the Relationship Between Velocity (v), Distance (D), and Time (T): (D = v Times T)</u></a></li>
+<li><a href="https://games-able.techidaily.com/size-shapes-strategy-the-impact-on-game-publishing-giants-strategic-analysis-report/"><u>Size Shapes Strategy: The Impact on Game Publishing Giants? [Strategic Analysis Report]</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-multiplayer-mobile-experiences-unite-friends-anywhere/"><u>Ultimate Multiplayer Mobile Experiences: Unite Friends Anywhere</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridge-over-troubled-water-restoring-your-pcs-minecraft-connection/"><u>Bridge Over Troubled Water: Restoring Your PC's Minecraft Connection</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-rundown-of-crucial-gaming-headset-qualities/"><u>A Rundown of Crucial Gaming Headset Qualities</u></a></li>
+<li><a href="https://games-able.techidaily.com/praising-pimaxs-perceptual-prowess-yet-noting-its-nuisances/"><u>Praising Pimax's Perceptual Prowess, Yet Noting Its Nuisances</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-apple-iphone-8-plus-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Your Apple iPhone 8 Plus Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-elevating-your-content-strategy-with-smart-igtv-hashtags/"><u>[New] Elevating Your Content Strategy with Smart IGTV Hashtags</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-beyond-virtualdub-exploring-the-best-video-editing-software-alternatives/"><u>New 2024 Approved Beyond Virtualdub Exploring the Best Video Editing Software Alternatives</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-mastering-fbs-video-ad-strategy-the-ultimate-blueprint-for-2024/"><u>[New] Mastering FB's Video Ad Strategy  The Ultimate Blueprint for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/this-article-points-out-the-key-differences-between-after-effects-and-premiere-to-get-a-clearer-understanding-of-what-is-best/"><u>This Article Points Out the Key Differences Between After Effects and Premiere to Get a Clearer Understanding of What Is Best</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-zte-nubia-z60-ultra-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your ZTE Nubia Z60 Ultra FRP Locks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-audio-awakenings-discovering-harmonious-podcast-starts/"><u>In 2024, Audio Awakenings  Discovering Harmonious Podcast Starts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-ranking-times-best-top-15-timeless-stop-motion-flicks/"><u>[New] Ranking Time's Best - Top 15 Timeless Stop-Motion Flicks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unveiling-the-mechanisms-that-govern-youtube-after-a-video-is-live-for-2024/"><u>Unveiling the Mechanisms That Govern YouTube After a Video Is Live for 2024</u></a></li>
+</ul></div>

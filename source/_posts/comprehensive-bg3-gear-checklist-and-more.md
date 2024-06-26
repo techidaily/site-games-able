@@ -1,7 +1,7 @@
 ---
 title: Comprehensive BG3 Gear Checklist & More
-date: 2024-06-25T10:45:36.711Z
-updated: 2024-06-26T10:45:36.711Z
+date: 2024-06-25T12:48:38.878Z
+updated: 2024-06-26T12:48:38.878Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
 ## What Are Baldur’s Gate 3's Hardware and Software Requirements?
 
- Unlike its predecessors, you can’t run Baldur’s Gate 3 on a potato computer. While you don’t need the most powerful graphic cards, you would need a decent one if you want to enjoy your experience and explore this corner of Faerûn. Take a look at our list of the[best graphic cards for any budget](https://www.makeuseof.com/tag/best-graphics-cards/) to find something that works for you if you plan to play on a PC.
+ Unlike its predecessors, you can’t run Baldur’s Gate 3 on a potato computer. While you don’t need the most powerful graphic cards, you would need a decent one if you want to enjoy your experience and explore this corner of Faerûn. Take a look at our list of the [best graphic cards for any budget](https://www.makeuseof.com/tag/best-graphics-cards/) to find something that works for you if you plan to play on a PC.
 
 Here’s a table for Baldur’s Gate 3’s specs:
 
@@ -33,7 +33,7 @@ Here’s a table for Baldur’s Gate 3’s specs:
 | **DirectX**   | Version 11                                                                                                            | \-                                                                                          |
 | **Storage**   | 150GB SSD                                                                                                             | **Minimum** \- 150GB HDD**Recommended** \- 150GB SSD                                        |
 
- Apple silicon Macs generally run Baldur’s Gate better than Intel Macs—just one of the reasons[you might need an Apple silicon Mac](https://www.makeuseof.com/do-i-need-an-apple-silicon-mac/) .
+ Apple silicon Macs generally run Baldur’s Gate better than Intel Macs—just one of the reasons [you might need an Apple silicon Mac](https://www.makeuseof.com/do-i-need-an-apple-silicon-mac/) .
 
 * M1 and M2 Macs with 8GB RAM could run this game on low settings (and this includes all MacBook Airs).
 * M1 and M2 Macs with 16GB of RAM can run Baldur’s Gate 3 on high or ultra settings.
@@ -43,7 +43,7 @@ Here’s a table for Baldur’s Gate 3’s specs:
 
 ![Baldur's Gate 3 Steam Store Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-steam-store-page.jpeg)
 
- Baldur’s Gate 3 came out for PC on August 3rd, but it will come out for macOS and PS5 on September 6th, and perhaps next year for Xbox Series X|S. Larian Studios has issues getting the split-screen to work effectively on the[cheaper and less powerful Xbox Series S](https://www.makeuseof.com/xbox-series-x-vs-xbox-series-s-which-should-you-buy/) .
+ Baldur’s Gate 3 came out for PC on August 3rd, but it will come out for macOS and PS5 on September 6th, and perhaps next year for Xbox Series X|S. Larian Studios has issues getting the split-screen to work effectively on the [cheaper and less powerful Xbox Series S](https://www.makeuseof.com/xbox-series-x-vs-xbox-series-s-which-should-you-buy/) .
 
  You can get Baldur’s Gate 3 on PC and Mac from Steam, GOG, and GeForce Now. It costs $59.99 alone or $69.98 with the Digital Deluxe Edition DLC.
 

@@ -1,7 +1,7 @@
 ---
 title: "The Longevous Play: Why Physical Is Prevailing"
-date: 2024-06-25T10:46:11.479Z
-updated: 2024-06-26T10:46:11.479Z
+date: 2024-06-25T12:48:39.220Z
+updated: 2024-06-26T12:48:39.220Z
 tags:
   - games
 categories:
@@ -29,27 +29,23 @@ thumbnail: https://thmb.techidaily.com/48994c9ff35faf512b4c69833faf0e7ff28b80b0d
 
 ## Games Are Heading Towards an All-Digital Future
 
- According to a report by[GamesIndustry.biz](https://www.gamesindustry.biz/gamesindustrybiz-presents-the-year-in-number-2023) , 95% of games sold in 2023 were digital. We’re even seeing some games, such as Alan Wake 2 and Hellblade 2, release digital-only versions with no physical copies. Furthermore, legendary physical retailers like GameStop are closing more stores each year.
+ According to a report by [GamesIndustry.biz](https://www.gamesindustry.biz/gamesindustrybiz-presents-the-year-in-number-2023) , 95% of games sold in 2023 were digital. We’re even seeing some games, such as Alan Wake 2 and Hellblade 2, release digital-only versions with no physical copies. Furthermore, legendary physical retailers like GameStop are closing more stores each year.
 
- These are just a few signs, but with the decline of physical games, game companies have an incentive to push for an all-digital future. Not only does this raise[concerns about game preservation](https://www.makeuseof.com/what-is-video-game-preservation/) , but it also means players will have to purchase digital copies or subscribe to a service to play games. This throws game ownership out the window.
+ These are just a few signs, but with the decline of physical games, game companies have an incentive to push for an all-digital future. Not only does this raise [concerns about game preservation](https://www.makeuseof.com/what-is-video-game-preservation/) , but it also means players will have to purchase digital copies or subscribe to a service to play games. This throws game ownership out the window.
 
- In fact, Phillipe Tremblay, Ubisoft's director of subscriptions, has stated that players should get comfortable not owning their games, according to an article by[GamesIndustry.biz](https://www.gamesindustry.biz/the-new-ubisoft-and-getting-gamers-comfortable-with-not-owning-their-games) . Not long after that, Blizzard updated its[EULA](https://www.blizzard.com/en-us/legal/fba4d00f-c7e4-4883-b8b9-1b4500a402ea/blizzard-end-user-license-agreement) in March 2024, telling users that they don’t own their games.
+ In fact, Phillipe Tremblay, Ubisoft's director of subscriptions, has stated that players should get comfortable not owning their games, according to an article by [GamesIndustry.biz](https://www.gamesindustry.biz/the-new-ubisoft-and-getting-gamers-comfortable-with-not-owning-their-games) . Not long after that, Blizzard updated its [EULA](https://www.blizzard.com/en-us/legal/fba4d00f-c7e4-4883-b8b9-1b4500a402ea/blizzard-end-user-license-agreement) in March 2024, telling users that they don’t own their games.
 
- Furthermore, with Sony and Xbox adding more games and perks to[PS Plus and Game Pass](https://www.makeuseof.com/playstation-now-vs-xbox-game-pass/) , subscriptions are becoming more attractive. Even shifts in consumer behavior show that these gaming subscriptions, including Apple Arcade, are gradually outpacing game purchases each year, according to[Statista](https://www.statista.com/statistics/1240342/consumer-spending-video-game-subscriptions-growth/) .
+ Furthermore, with Sony and Xbox adding more games and perks to [PS Plus and Game Pass](https://www.makeuseof.com/playstation-now-vs-xbox-game-pass/) , subscriptions are becoming more attractive. Even shifts in consumer behavior show that these gaming subscriptions, including Apple Arcade, are gradually outpacing game purchases each year, according to [Statista](https://www.statista.com/statistics/1240342/consumer-spending-video-game-subscriptions-growth/) .
 
-## Why Subscriptions Can't Beat Game Ownership
-
-![EA Play games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ea-play-games.jpg)
+## Why Subscriptions Can't Beat Game Ownership ![EA Play games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ea-play-games.jpg)
 
  As game subscriptions keep trending upward and game companies embrace them, the benefits of complete game ownership are becoming more apparent.
 
- When we talk about game ownership here, we’re referring to physical games. While[purchasing digital games](https://www.makeuseof.com/physical-games-vs-digital-games-best-to-buy/) gives you more control over games than subscriptions, you can run into similar problems.
+ When we talk about game ownership here, we’re referring to physical games. While [purchasing digital games](https://www.makeuseof.com/physical-games-vs-digital-games-best-to-buy/) gives you more control over games than subscriptions, you can run into similar problems.
 
 Here are several reasons game ownership is king over subscriptions.
 
-### 1\. You Have Complete Access
-
-![hands holding a ps5 controller in front of a tv screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/hands-holding-a-ps5-controller-in-front-of-a-tv-screen.jpg)
+### 1\. You Have Complete Access ![hands holding a ps5 controller in front of a tv screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/hands-holding-a-ps5-controller-in-front-of-a-tv-screen.jpg)
 
  Mohsen Vaziri/[Shutterstock](https://www.shutterstock.com/image-photo/toronto-canada-november-24-2020-person-1860839008)
 
@@ -71,9 +67,7 @@ Here are several reasons game ownership is king over subscriptions.
 
  If you’re not a collector, you can easily sell or trade in the games once you’re done with them. This can help you recover some of the costs of purchasing the game, which you can then use to purchase another game. If you hold on to the games long enough, there’s a chance (although small) that they will be worth substantially more in the future.
 
-### 5\. You Can Share the Games with Others
-
-![two people playing mobile games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/two-people-playing-mobile-games.jpg)
+### 5\. You Can Share the Games with Others ![two people playing mobile games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/two-people-playing-mobile-games.jpg)
 
  Chay\_Tee/[Shutterstock](https://www.shutterstock.com/image-photo/young-adult-asia-cute-sweet-couple-2342605331)
 

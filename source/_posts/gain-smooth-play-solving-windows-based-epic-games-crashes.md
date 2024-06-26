@@ -1,7 +1,7 @@
 ---
 title: "Gain Smooth Play: Solving Windows-Based Epic Games Crashes"
-date: 2024-06-22 14:25:47
-updated: 2024-06-24 12:49:14
+date: 2024-06-25T13:04:49.530Z
+updated: 2024-06-26T13:04:49.530Z
 tags:
   - games
 categories:
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/45eb95de820412631e47a9a054cb53f933466e540
 
  The Epic Games Launcher may freeze on your Windows PC due to malfunctioning or unresponsive app processes. In most cases, you can resolve the issue by closing the Epic Games Launcher completely and then reopening it. Hence, it's the first thing you should try.
 
-1. Press**Ctrl + Shift + Esc** to[open the Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) .
+1. Press**Ctrl + Shift + Esc** to [open the Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) .
 2. Locate and select**EpicGamesLauncher** on the list.
 3. Click the**End task** option at the top.  
 ![Close Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/close-epic-games-launcher.jpg)
@@ -35,11 +35,11 @@ Reopen the Epic Games Launcher and try using it.
 
 ![Run Epic Games Launcher as Admin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/run-epic-games-launcher-as-admin.jpg)
 
- If this method gets Epic Games Launcher to operate smoothly, you can configure it to[always run as an administrator on Windows](https://www.makeuseof.com/tag/ways-to-run-a-program-as-administrator-in-windows/) .
+ If this method gets Epic Games Launcher to operate smoothly, you can configure it to [always run as an administrator on Windows](https://www.makeuseof.com/tag/ways-to-run-a-program-as-administrator-in-windows/) .
 
 ## 3\. Check the Epic Games Server Status
 
- Issues with Epic Games servers can also cause its launcher to misbehave on your Windows PC. You should[check Epic Games server status](https://status.epicgames.com/) to ensure they are operating smoothly.
+ Issues with Epic Games servers can also cause its launcher to misbehave on your Windows PC. You should [check Epic Games server status](https://status.epicgames.com/) to ensure they are operating smoothly.
 
  If there’s an issue with the servers, you have no option but to wait for the company to resolve the problem on its end. Following that, you should be able to use Epic Games Launcher as before.
 
@@ -84,7 +84,7 @@ Reopen the Epic Games Launcher and try using it.
 1. Press**Win + E** to open File Explorer.
 2. Navigate to**C: > Windows > SysWOW64** .
 3. Locate the**D3DCOMPILER\_43** file and delete it.
-4. Head to[Microsoft’s website](https://www.microsoft.com/en-us/download/details.aspx?id=35) and download the DirectX End-User Runtime Web Installer.  
+4. Head to [Microsoft’s website](https://www.microsoft.com/en-us/download/details.aspx?id=35) and download the DirectX End-User Runtime Web Installer.  
 ![Delete the D3DCOMPILER_43.dll File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/delete-the-d3dcompiler_43-dll-file.jpg)
 
  Run the installer file and follow the on-screen prompts to finish the process. After that, try using Epic Games Launcher again.
@@ -105,15 +105,15 @@ Reopen the Epic Games Launcher and try using it.
 
 ## 9\. Reinstall the Epic Games Launcher
 
- If repairing the Epic Games Launcher proves ineffective, you can try reinstalling it on your system. This should give the launcher a fresh start on your PC and resolve any issues with it. If you need help removing Epic Games Launcher, refer to our guide on[how to uninstall software on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) and follow the steps outlined there.
+ If repairing the Epic Games Launcher proves ineffective, you can try reinstalling it on your system. This should give the launcher a fresh start on your PC and resolve any issues with it. If you need help removing Epic Games Launcher, refer to our guide on [how to uninstall software on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) and follow the steps outlined there.
 
- After uninstalling Epic Games Launcher, press**Win + R** to open the Run dialog box. Type**%localappdata%** in the box and press**Enter** . In the File Explorer window that appears, delete the**Epic Games launcher** folder. Once done, go to[Epic Games' official website](https://store.epicgames.com/en-US/download) to download the setup file and run it.
+ After uninstalling Epic Games Launcher, press**Win + R** to open the Run dialog box. Type**%localappdata%** in the box and press**Enter** . In the File Explorer window that appears, delete the**Epic Games launcher** folder. Once done, go to [Epic Games' official website](https://store.epicgames.com/en-US/download) to download the setup file and run it.
 
 ## 10\. Try Other Common Fixes
 
  If the above fixes don’t help, there may be an issue with your Windows PC. In that case, you can try the following troubleshooting tips to resolve the issue.
 
-* **Update Graphics Driver:** Outdated or defective graphics drivers can also be the cause of such problems. Try[updating the graphics driver on your PC](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) to see if that resolves the issue.
+* **Update Graphics Driver:** Outdated or defective graphics drivers can also be the cause of such problems. Try [updating the graphics driver on your PC](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) to see if that resolves the issue.
 * **Scan for Malware:** If you are experiencing similar issues with other apps and programs as well, your PC may be infected with malware. To check for this possibility,[scan your Windows PC for malware](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/) and take the necessary steps to fix it.
 
 ## Fixing Epic Games Launcher Crashes on Windows
@@ -135,3 +135,24 @@ Reopen the Epic Games Launcher and try using it.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/maximize-graphics-on-windows-with-efficient-dxvk-utility/"><u>Maximize Graphics on Windows with Efficient DXVK Utility</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-steams-in-game-purchasing-power/"><u>Unlocking Steam's In-Game Purchasing Power</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-your-playstyle-for-cs2-on-mac/"><u>Streamlining Your Playstyle for CS2 on Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-a-world-of-fun-with-these-compelling-9-reasons-for-using-steam/"><u>Unlock a World of Fun with These Compelling 9 Reasons for Using Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719168855962-enhance-performance-install-latest-nvidia-drivers-now/"><u>Enhance Performance! Install Latest Nvidia Drivers Now.</u></a></li>
+<li><a href="https://games-able.techidaily.com/fleeting-online-realms-a-reason-for-concern/"><u>Fleeting Online Realms – A Reason for Concern?</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-resolve-steam-errors-in-windows-11-quickly/"><u>How to Resolve Steam Errors in Windows 11 Quickly</u></a></li>
+<li><a href="https://games-able.techidaily.com/rom-multilingualization-made-practical-and-simple/"><u>Rom Multilingualization Made Practical and Simple</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-professional-handheld-mounts-ultimate-gyroscopic-tech/"><u>2024 Approved  Professional Handheld Mounts  Ultimate Gyroscopic Tech</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-professional-photographers-top-10-best-4k-cameras/"><u>[New] Professional Photographers' Top 10  Best 4K Cameras</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-perfect-your-subtitle-skills-with-this-complete-guide-and-tips/"><u>[New] Perfect Your Subtitle Skills with This Complete Guide & Tips</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/breaking-down-freevid-cam-capture-tech/"><u>Breaking Down FreeVid Cam Capture Tech</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-unifying-streams-simultaneous-capture-of-camplusscreen/"><u>[Updated] 2024 Approved  Unifying Streams  Simultaneous Capture of Cam+Screen</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-unlocking-the-power-of-seamless-youtube-content-flow-onto-facebook/"><u>[New] In 2024, Unlocking the Power of Seamless YouTube Content Flow Onto Facebook</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-optimizing-performance-best-practices-for-fast-loading-times/"><u>In 2024, Optimizing Performance  Best Practices for Fast Loading Times</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-choosing-the-right-youtube-to-mp4-converter-for-speed-and-quality/"><u>New 2024 Approved Choosing the Right YouTube to MP4 Converter for Speed and Quality</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-nokia-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Nokia Phones with/without a PC</u></a></li>
+</ul></div>

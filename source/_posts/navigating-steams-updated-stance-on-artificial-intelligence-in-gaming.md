@@ -1,7 +1,7 @@
 ---
 title: Navigating Steam's Updated Stance on Artificial Intelligence in Gaming
-date: 2024-06-21 14:59:25
-updated: 2024-06-24 12:26:12
+date: 2024-06-25T13:29:23.292Z
+updated: 2024-06-26T13:29:23.292Z
 tags:
   - games
 categories:
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/d57dd9f54952f4e7ca5edd2db9c4efad701c22be4
 
  However, on January 10, 2024, Valve announced guidelines that would allow developers to publish games that use AI technology.
 
- In a post on the[Steam Blog](https://store.steampowered.com/news/group/4145017/view/3862463747997849618) , the company stated:
+ In a post on the [Steam Blog](https://store.steampowered.com/news/group/4145017/view/3862463747997849618) , the company stated:
 
 > "After spending the last few months learning more about this space and talking with game developers, we are making changes to how we handle games that use AI technology."
 
@@ -43,13 +43,11 @@ thumbnail: https://thmb.techidaily.com/d57dd9f54952f4e7ca5edd2db9c4efad701c22be4
 
  In addition, games that use live-generated AI content will need to disclose what guardrails will be in place to make sure that the AI is not generating illegal content.
 
-## How Steam's AI Games Policy Could Affect Gamers
+## How Steam's AI Games Policy Could Affect Gamers ![artificial intelligence tag on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/artificial-intelligence-tag-on-steam.png)
 
-![artificial intelligence tag on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/artificial-intelligence-tag-on-steam.png)
+ While many games use AI systems to make non-playable characters (NPCs) and enemies responsive, generative AI is a newer form of AI that involves generating text, images, video, audio, and even code. To learn more, read [our guide to generative AI](https://www.makeuseof.com/what-is-generative-ai/) .
 
- While many games use AI systems to make non-playable characters (NPCs) and enemies responsive, generative AI is a newer form of AI that involves generating text, images, video, audio, and even code. To learn more, read[our guide to generative AI](https://www.makeuseof.com/what-is-generative-ai/) .
-
- Steam already has[an "Artificial Intelligence" tag](https://store.steampowered.com/tags/en/Artificial+Intelligence?flavor=contenthub%5Fall) for games, but many of these existing titles use AI in the more traditional sense. So what do Steam's new guidelines mean for the average gamer?
+ Steam already has [an "Artificial Intelligence" tag](https://store.steampowered.com/tags/en/Artificial+Intelligence?flavor=contenthub%5Fall) for games, but many of these existing titles use AI in the more traditional sense. So what do Steam's new guidelines mean for the average gamer?
 
 ### 1\. Gamers Will Have More Games to Choose From on Steam
 
@@ -63,15 +61,13 @@ thumbnail: https://thmb.techidaily.com/d57dd9f54952f4e7ca5edd2db9c4efad701c22be4
 
  With the sheer volume of games that Steam publishes, many low-quality games (and games that clone other titles) appear on the storefront.
 
- Since generative AI makes it much easier to create game elements, we may see a monumental rise in AI-generated[shovelware games](https://www.makeuseof.com/what-shovelware-gaming/) .
+ Since generative AI makes it much easier to create game elements, we may see a monumental rise in AI-generated [shovelware games](https://www.makeuseof.com/what-shovelware-gaming/) .
 
  While you can always ignore games that look like they're low quality, this can also make the discoverability of actual indie gems much more difficult. Players may also find themselves wasting money on games that promise more than they can deliver.
 
  Luckily, you_can_ [request a refund on Steam](https://www.makeuseof.com/how-to-refund-a-game-on-steam/) . But you will need to do this within 14 days from purchase, and you can't have played the game for more than two hours.
 
-### 3\. Gamers Will Need to Report Illegal AI Content
-
-![steam window on a pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/shutterstock_357785195.jpg)
+### 3\. Gamers Will Need to Report Illegal AI Content ![steam window on a pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/shutterstock_357785195.jpg)
 
  Image Credit: g0d4ather/[Shutterstock](https://www.shutterstock.com/image-photo/saransk-russia-january-03-2016-steam-357785195)
 
@@ -81,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/d57dd9f54952f4e7ca5edd2db9c4efad701c22be4
 
 > "Using the in-game overlay, players can easily submit a report when they encounter content that they believe should have been caught by appropriate guardrails on AI generation."
 
- Considering how often people get around AI guardrails, such as when people use[jailbreaks on ChatGPT](https://www.makeuseof.com/what-are-chatgpt-jailbreaks/) , it's very likely that some games using AI will fall foul of Steam's policies. That is as long as players actually report the content breaking the rules.
+ Considering how often people get around AI guardrails, such as when people use [jailbreaks on ChatGPT](https://www.makeuseof.com/what-are-chatgpt-jailbreaks/) , it's very likely that some games using AI will fall foul of Steam's policies. That is as long as players actually report the content breaking the rules.
 
 ### 4\. Gamers Will Need to Look Out for AI Disclosures
 
@@ -106,3 +102,23 @@ thumbnail: https://thmb.techidaily.com/d57dd9f54952f4e7ca5edd2db9c4efad701c22be4
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/inside-nvidia-g-sync-the-path-to-incredible-frame-rates/"><u>Inside Nvidia G-Sync: The Path to Incredible Frame Rates</u></a></li>
+<li><a href="https://games-able.techidaily.com/teslas-dreams-power-with-purpose/"><u>Tesla's Dreams: Power with Purpose</u></a></li>
+<li><a href="https://games-able.techidaily.com/cautionary-tales-for-paying-gamers-to-develop-games/"><u>Cautionary Tales for Paying Gamers to Develop Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/loophole-busted-no-more-unjust-refunds/"><u>Loophole Busted: No More Unjust Refunds</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-to-know-amds-newest-graphics-innovation-rdna-35/"><u>Get to Know AMD's Newest Graphics Innovation, RDNA 3.5</u></a></li>
+<li><a href="https://games-able.techidaily.com/tackling-iphones-roblox-ram-alert/"><u>Tackling iPhone's Roblox RAM Alert</u></a></li>
+<li><a href="https://games-able.techidaily.com/embrace-the-power-of-both-windows-and-steamos-on-your-deck/"><u>Embrace the Power of Both Windows and SteamOS On Your Deck</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-meizu-21-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Meizu 21</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-reaching-a-wider-audience-using-video-translation-in-tamil/"><u>Updated 2024 Approved Reaching a Wider Audience Using Video Translation in Tamil</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-acoustical-alchemy-insights-a-comparative-study-of-premier-audio-editing-tools-their-strengths-weaknesses-and-alternatives/"><u>2024 Approved Acoustical Alchemy Insights A Comparative Study of Premier Audio Editing Tools, Their Strengths, Weaknesses, and Alternatives</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ignite-passion-the-top-10-inspirational-films/"><u>Ignite Passion  The Top 10 Inspirational Films</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-how-to-enjoy-the-full-range-of-sharing-on-messenger/"><u>[Updated] 2024 Approved  How to Enjoy the Full Range of Sharing on Messenger</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-realme-12-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Realme 12 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exclusive-offer-20-free-luts-just-for-dji-mini-and-air-users/"><u>[Updated] Exclusive Offer  20 FREE LUTS Just for DJI Mini & Air Users</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-9-best-free-video-cutting-software-for-mp4-format-for-2024/"><u>New 9 Best Free Video Cutting Software for MP4 Format for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-vivo-x100-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Vivo X100 Devices</u></a></li>
+</ul></div>

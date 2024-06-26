@@ -1,7 +1,7 @@
 ---
 title: "From Novice to Pro: Mobile Twitch Streaming Mastery"
-date: 2024-06-25T10:39:34.028Z
-updated: 2024-06-26T10:39:34.028Z
+date: 2024-06-25T12:48:35.011Z
+updated: 2024-06-26T12:48:35.011Z
 tags:
   - games
 categories:
@@ -40,9 +40,9 @@ On Android, use the following steps to go live on Twitch.
 
 Close
 
- When your stream is up and running, you'll see the duration, current number of viewers, and total followers at the top. If you're not impressed with your follower count, we have[tips for building a bigger viewership on Twitch](https://www.makeuseof.com/tag/twitch-tips-build-viewership/) .
+ When your stream is up and running, you'll see the duration, current number of viewers, and total followers at the top. If you're not impressed with your follower count, we have [tips for building a bigger viewership on Twitch](https://www.makeuseof.com/tag/twitch-tips-build-viewership/) .
 
- Once you finish streaming, tap the same**Stream** button at the bottom left and confirm by selecting**End Stream** from the pop-up. Whether you're streaming from your smartphone or PC, remember to avoid the[things that could get you banned from Twitch](https://www.makeuseof.com/things-get-you-banned-from-twitch/) .
+ Once you finish streaming, tap the same**Stream** button at the bottom left and confirm by selecting**End Stream** from the pop-up. Whether you're streaming from your smartphone or PC, remember to avoid the [things that could get you banned from Twitch](https://www.makeuseof.com/things-get-you-banned-from-twitch/) .
 
 ## How to Live Stream on Twitch via iOS
 

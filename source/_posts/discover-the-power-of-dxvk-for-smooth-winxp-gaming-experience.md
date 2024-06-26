@@ -1,7 +1,7 @@
 ---
 title: Discover the Power of DXVK for Smooth WinXP Gaming Experience
-date: 2024-06-22 15:23:14
-updated: 2024-06-24 12:36:49
+date: 2024-06-25T12:52:51.393Z
+updated: 2024-06-26T12:52:51.393Z
 tags:
   - games
 categories:
@@ -34,13 +34,13 @@ thumbnail: https://thmb.techidaily.com/fed3ffae9229ff3a7d3580519bb324f0e6bad8a6c
 
  Like OpenGL, and unlike Microsoft's Windows-bound Direct3D, Vulkan is "open" and cross-platform. You can use Vulkan on Windows, Linux, and even smartphones. Although not natively supported on Macs, it's usable there through MoltenVK.
 
- That was the short version. To learn more about Vulkan, check our article on[what Vulkan run time libraries are in Windows](https://www.makeuseof.com/tag/vulkan-run-time-libraries-windows/) .
+ That was the short version. To learn more about Vulkan, check our article on [what Vulkan run time libraries are in Windows](https://www.makeuseof.com/tag/vulkan-run-time-libraries-windows/) .
 
 ## What Is DXVK?
 
  DXVK is a wrapper, "translating" Direct3D to Vulkan. In the human world, a translator can be a mediator between an English and a Japanese speaker, enabling them to understand one another. Similarly, "wrappers", or "translation layers", can "take" code written for a specific piece of hardware, platform, or API, and translate it to run on another.
 
- DXVK was originally developed for Linux with support from Valve, which also uses it on SteamOS and the Steam Deck. You can learn more about that in our article where we saw[what is Steam Proton and how it runs Windows games on Steam Deck](https://www.makeuseof.com/what-is-steam-proton-how-does-it-run-windows-games-on-steam-deck/) .
+ DXVK was originally developed for Linux with support from Valve, which also uses it on SteamOS and the Steam Deck. You can learn more about that in our article where we saw [what is Steam Proton and how it runs Windows games on Steam Deck](https://www.makeuseof.com/what-is-steam-proton-how-does-it-run-windows-games-on-steam-deck/) .
 
 ## Why Should You Use DXVK on Windows?
 
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/fed3ffae9229ff3a7d3580519bb324f0e6bad8a6c
 
  By "translating" old-and-buggy Direct3D code into the more modern Vulkan API, there's a minimal toll on performance (if any). At the same time, problematic games with broken graphics or missing features may become fully playable again.
 
- Since Vulkan is on par with Direct3D 12, and both are much better (and faster) than older versions of Direct3D (as we saw when[we compared DirectX 11 VS DirectX 12](https://www.makeuseof.com/directx-11-vs-directx-12-differences/) ), "translating" old Direct3D games to Vulkan can sometimes improve the game's performance.
+ Since Vulkan is on par with Direct3D 12, and both are much better (and faster) than older versions of Direct3D (as we saw when [we compared DirectX 11 VS DirectX 12](https://www.makeuseof.com/directx-11-vs-directx-12-differences/) ), "translating" old Direct3D games to Vulkan can sometimes improve the game's performance.
 
  Intel's work on their Arc GPUs is proof of that. Intel could try to add support for every single older title in Arc GPU drivers. Instead, Intel decided to work on further improving DXVK. Initial results from Intel's "experiment" lead up to a 2x boost in performance for older titles, with dozens rendered playable "through" DXVK.
 
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/fed3ffae9229ff3a7d3580519bb324f0e6bad8a6c
 
  DXVK is open-source software and free to use. You can find its latest version on GitHub.
 
-1. Visit DXVK's[official GitHub page](https://GitHub.com/doitsujin/dxvk) and click on the**Latest** version link on the right of the page, under**Releases** .
+1. Visit DXVK's [official GitHub page](https://GitHub.com/doitsujin/dxvk) and click on the**Latest** version link on the right of the page, under**Releases** .
 2. Scroll down on the releases page and find the**Assets** section of the latest version. Click on the latest DXVK tar.gz archive to download it. At the time of writing, it was version 2.2.  
 ![DXVK Latest Release Asset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dxvk-latest-release-asset-1.jpg)
 3. Store the downloaded archive somewhere, for you will need to extract its contents to the folder of every game you want to run with DXVK instead of Direct3D.
@@ -73,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/fed3ffae9229ff3a7d3580519bb324f0e6bad8a6c
 
  If you need to know which version of Direct3D your game is using, the PC Gaming Wiki website can help.
 
-1. Visit[PC Gaming Wiki](https://pcgamingwiki.com/) with your browser, and use the search field on the top right to seek the game to which you want to add DXVK.
+1. Visit [PC Gaming Wiki](https://pcgamingwiki.com/) with your browser, and use the search field on the top right to seek the game to which you want to add DXVK.
 2. When you find your game, visit its page and scroll down to reach the**Other Information** section. Turn your attention to the API tables. There, on the**Technical Specs** and**Supported** columns, you will see the version of Direct3D your game is using. Underneath, the**Executable** ,**32-bit** , and**64-bit** columns will "tell" you which architecture you should choose.  
 ![PCGamingWiki Game API Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/pcgamingwiki-game-api-information-1.jpg)
 
@@ -149,3 +149,24 @@ thumbnail: https://thmb.techidaily.com/fed3ffae9229ff3a7d3580519bb324f0e6bad8a6c
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/how-xbox-utilizes-the-power-of-cloud-computing/"><u>How Xbox Utilizes the Power of Cloud Computing</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-hack-finding-the-epic-games-on-apple-arcade/"><u>Gamer's Hack: Finding the Epic Games on Apple Arcade</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-to-check-before-buying-a-gamers-display/"><u>What to Check Before Buying a Gamers Display</u></a></li>
+<li><a href="https://games-able.techidaily.com/examining-the-value-of-microtransactions-in-elite-gaming/"><u>Examining the Value of Microtransactions in Elite Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-gamers-choose-edge-its-unmatched-browsing-skills/"><u>Why Gamers Choose Edge: Its Unmatched Browsing Skills</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-recovery-addressing-common-series-sandx-problems/"><u>Xbox Recovery: Addressing Common Series S&X Problems</u></a></li>
+<li><a href="https://games-able.techidaily.com/vintagevault-mini-retro-fun-fit-for-the-handheled/"><u>VintageVault Mini: Retro Fun Fit for the Handheled</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-the-gaming-world-bracing-for-higher-chip-costs/"><u>Is the Gaming World Bracing for Higher Chip Costs?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-freshly-taken-images-dissection-and-secondary-ideas-for-2024/"><u>[Updated] Freshly Taken Images Dissection & Secondary Ideas for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-the-art-of-low-pitched-audio-transforming-your-voice-in-filmora-2023/"><u>Updated 2024 Approved The Art of Low-Pitched Audio Transforming Your Voice in Filmora 2023</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/1715859894384-in-2024-zombification-extravaganza-8-epic-titles-ranked/"><u>In 2024, Zombification Extravaganza - 8 Epic Titles Ranked!</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-oneplus-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-realme-gt-3-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-crafting-a-compelling-narrative-with-voiceover-and-visuals/"><u>[Updated] Crafting a Compelling Narrative with Voiceover and Visuals</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-cutting-edge-watermarking-tips-to-ensure-photo-security-on-instagram/"><u>In 2024, Cutting-Edge Watermarking  Tips to Ensure Photo Security on Instagram</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-14-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 14 without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/beat-hunters-delight-accessible-online-scanners/"><u>Beat Hunters Delight  Accessible Online Scanners</u></a></li>
+</ul></div>

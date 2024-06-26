@@ -1,7 +1,7 @@
 ---
 title: Boosting Your Gaming Budget in PS Store
-date: 2024-06-25T10:44:40.458Z
-updated: 2024-06-26T10:44:40.458Z
+date: 2024-06-25T12:48:38.281Z
+updated: 2024-06-26T12:48:38.281Z
 tags:
   - games
 categories:
@@ -74,7 +74,7 @@ Here’s how to load your PSN wallet through each method:
 
 ## How to Buy Games From the PlayStation Store
 
- On your PlayStation home screen, select the**PlayStation Store** . From there, you can choose from the various options on the top menu, or scroll to see various categories of games. Make sure to keep up to date with[how to get PS4 and PS5 games for cheap](https://www.makeuseof.com/how-to-get-ps4-ps5-games-cheap/) so you save some money.
+ On your PlayStation home screen, select the**PlayStation Store** . From there, you can choose from the various options on the top menu, or scroll to see various categories of games. Make sure to keep up to date with [how to get PS4 and PS5 games for cheap](https://www.makeuseof.com/how-to-get-ps4-ps5-games-cheap/) so you save some money.
 
  The PlayStation store lets you purchase games, movies, TV shows, and add-ons. Should you already know what game you want to play, you may select**Search** and type in the specific game title.
 
@@ -104,15 +104,15 @@ Here’s how to load your PSN wallet through each method:
 
  To check your payment history on your PSN account, go to **Settings > Users and Accounts > Account > Payment and Subscriptions > Transaction History** .
 
- If you're seeing transactions that you know you didn't make, you may want to[check if someone else is using your PSN account](https://www.makeuseof.com/check-psn-account-security/) .
+ If you're seeing transactions that you know you didn't make, you may want to [check if someone else is using your PSN account](https://www.makeuseof.com/check-psn-account-security/) .
 
 ## How to Refund Your PSN Wallet
 
- If you have changed your mind about a game you have purchased on the PSN store, you have 14 days to[request a refund on PlayStation 4 or 5](https://www.makeuseof.com/how-to-refund-game-ps4-ps5/) . For pre-orders, you may ask for a refund up until the official release date.
+ If you have changed your mind about a game you have purchased on the PSN store, you have 14 days to [request a refund on PlayStation 4 or 5](https://www.makeuseof.com/how-to-refund-game-ps4-ps5/) . For pre-orders, you may ask for a refund up until the official release date.
 
  Should you be unhappy with a PlayStation subscription, you may also request a refund with the appropriate deductions depending on how much you have used the service.
 
- Please note that once you have downloaded or streamed your purchase, you are no longer eligible for a refund unless the content is faulty. For any kind of refund or cancelation, you can send a message to[PlayStation Support](https://www.playstation.com/en-us/support/contact-us/) .
+ Please note that once you have downloaded or streamed your purchase, you are no longer eligible for a refund unless the content is faulty. For any kind of refund or cancelation, you can send a message to [PlayStation Support](https://www.playstation.com/en-us/support/contact-us/) .
 
 ## Make the Most of the PlayStation Store
 

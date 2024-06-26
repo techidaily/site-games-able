@@ -1,7 +1,7 @@
 ---
 title: Streamline Gaming with Epic and Steam Integration
-date: 2024-06-25T10:44:26.886Z
-updated: 2024-06-26T10:44:26.886Z
+date: 2024-06-25T12:48:38.132Z
+updated: 2024-06-26T12:48:38.132Z
 tags:
   - games
 categories:
@@ -22,8 +22,8 @@ thumbnail: https://thmb.techidaily.com/1e40e68e85695875cbdf7c309b6e95c0f93def476
 
  While there are several benefits of linking your Epic Games and Steam accounts, the most important ones are listed below:
 
-* You can link Epic Games and Steam accounts to invite someone from your Steam friend list to play games on Epic Games. This way, you can even play with a friend who doesn't have an Epic Games account (check out how to[set up your Epics Games account](https://www.makeuseof.com/how-to-set-up-epic-games-account-cross-platform/) ).
-* If a game is available on both Epics Games and Steam and supports cross-progression, you can link both platform accounts to carry your progress from one platform to another. This is especially useful when you're having[trouble playing games on Steam](https://www.makeuseof.com/troubleshoot-windows-steam-games-not-playing/) or Epic Games.
+* You can link Epic Games and Steam accounts to invite someone from your Steam friend list to play games on Epic Games. This way, you can even play with a friend who doesn't have an Epic Games account (check out how to [set up your Epics Games account](https://www.makeuseof.com/how-to-set-up-epic-games-account-cross-platform/) ).
+* If a game is available on both Epics Games and Steam and supports cross-progression, you can link both platform accounts to carry your progress from one platform to another. This is especially useful when you're having [trouble playing games on Steam](https://www.makeuseof.com/troubleshoot-windows-steam-games-not-playing/) or Epic Games.
 * After linking both accounts, you can purchase games from Epic Games Store using your Steam Wallet's balance.
 
  Having known the reasons, now let's check out how to quickly link your Epic Games and Steam account.
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/1e40e68e85695875cbdf7c309b6e95c0f93def476
 
 To connect your Epic Games and Steam accounts, follow these steps:
 
-1. Visit the[Epic Games website](https://store.epicgames.com/en-US/) on your browser.
+1. Visit the [Epic Games website](https://store.epicgames.com/en-US/) on your browser.
 2. Click**Sign In** in the top-right corner and sign in with your Epic Games account.  
 ![Sign in option in Epic Game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/sign-in-option-1.jpg)
 3. Click your**username** in the top-right corner and select**Account** from the menu that appears.  

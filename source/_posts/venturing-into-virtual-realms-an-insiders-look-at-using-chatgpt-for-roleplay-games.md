@@ -1,7 +1,7 @@
 ---
 title: "Venturing Into Virtual Realms: An Insider's Look at Using ChatGPT for Roleplay Games"
-date: 2024-06-23 23:57:37
-updated: 2024-06-24 10:14:11
+date: 2024-06-25T13:31:40.722Z
+updated: 2024-06-26T13:31:40.722Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/c625d72d0946f66f9247899cc6c4c66eb70d8cf37
 
 ## Tell ChatGPT Its Function and the Presentation Rules
 
- While this guide is geared towards more experienced ChatGPT users, new users might find this useful when they learn[how to use ChatGPT](https://www.makeuseof.com/how-does-chatgpt-work/) . After you get the hang of the AI, you can begin to create your prompt.
+ While this guide is geared towards more experienced ChatGPT users, new users might find this useful when they learn [how to use ChatGPT](https://www.makeuseof.com/how-does-chatgpt-work/) . After you get the hang of the AI, you can begin to create your prompt.
 
  Start your prompt by telling ChatGPT what you would like to do, in this case, a text adventure game:
 
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/c625d72d0946f66f9247899cc6c4c66eb70d8cf37
 >
 > 3\. Always wait for the player's next command.
 
- Asking the AI to always output the items listed in number two is important because ChatGPT has a habit of forgetting things. Constantly outputting it will help consistently remind it of the values of these items as they change over the course of your game. For more ideas on what to add to your game, check out our list of[RPG terms every player should know](https://www.makeuseof.com/rpg-terms-every-gamer-should-know/) .
+ Asking the AI to always output the items listed in number two is important because ChatGPT has a habit of forgetting things. Constantly outputting it will help consistently remind it of the values of these items as they change over the course of your game. For more ideas on what to add to your game, check out our list of [RPG terms every player should know](https://www.makeuseof.com/rpg-terms-every-gamer-should-know/) .
 
 > _4\. Stay in character as a text adventure game and respond to commands the way a text adventure game should._
 >
@@ -128,7 +128,7 @@ thumbnail: https://thmb.techidaily.com/c625d72d0946f66f9247899cc6c4c66eb70d8cf37
 
 ## Add Combat and Magic Rules
 
- As with any adventure[RPG](https://www.makeuseof.com/what-are-rpgs-role-playing-games/) , combat and magic are big parts of the experience. If you don’t add rules to guide this part of your game, you’ll end up with a game you can easily cheese through. It doesn’t help that ChatGPT likes to favor the user in its narratives, and it will generally make things go your way. Here’s what our rules look like:
+ As with any adventure [RPG](https://www.makeuseof.com/what-are-rpgs-role-playing-games/) , combat and magic are big parts of the experience. If you don’t add rules to guide this part of your game, you’ll end up with a game you can easily cheese through. It doesn’t help that ChatGPT likes to favor the user in its narratives, and it will generally make things go your way. Here’s what our rules look like:
 
 > Combat and Magic Rules:
 >
@@ -166,13 +166,11 @@ And finally, don’t forget to actually start the game:
 
  As you play, you might have to remind the AI of the rules you’ve laid out. The AI will respond to the same prompt differently, so every user might have a different experience.
 
-## Using GPT-4 vs. GPT-3.5 to Run Your Game
-
-![GPT-4 generating texts for a turn-based text RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-4-generating-texts-for-a-turn-based-text-rpg.jpeg)
+## Using GPT-4 vs. GPT-3.5 to Run Your Game ![GPT-4 generating texts for a turn-based text RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-4-generating-texts-for-a-turn-based-text-rpg.jpeg)
 
  If you have ChatGPT Plus, it grants you access to GPT-4, a more intelligent version of GPT-3.5\. You should try running a few RPG sessions with GPT-4 instead of GPT3.5\. It's way more creative, better at crafting stories, remembering rules, and all-around better at improv. It costs $20/month, and it's a good tool for doing other things apart from text-based gaming.
 
- Should you pay the $20 solely for text-based gaming? Realistically, no. Unless you're a big fan of RPGs, it might not be worth the money. Also, GPT-4 has a limit of 50 messages every three hours, so you won't have endless fun, and you'll be returned to GPT-3 in a short while. Some users have also complained that[GPT-4 is slower than GPT3.5](https://www.makeuseof.com/why-is-chatgpt-4-so-slow-compared-to-chatgpt-35/) .
+ Should you pay the $20 solely for text-based gaming? Realistically, no. Unless you're a big fan of RPGs, it might not be worth the money. Also, GPT-4 has a limit of 50 messages every three hours, so you won't have endless fun, and you'll be returned to GPT-3 in a short while. Some users have also complained that [GPT-4 is slower than GPT3.5](https://www.makeuseof.com/why-is-chatgpt-4-so-slow-compared-to-chatgpt-35/) .
 
 ## The Complete ChatGPT RPG Prompt
 
@@ -293,3 +291,24 @@ And finally, don’t forget to actually start the game:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/select-new-steam-language-option/"><u>Select New Steam Language Option</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-picks-for-ultimate-portability-asus-rog-ally-docks/"><u>Top Picks for Ultimate Portability: ASUS ROG Ally Docks</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-for-reconnecting-joy-cons-to-switch-system/"><u>Steps for Reconnecting Joy-Cons to Switch System</u></a></li>
+<li><a href="https://games-able.techidaily.com/bluetooth-headphones-for-playstation-5/"><u>Bluetooth Headphones for PlayStation 5</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-graphic-shift-xnas-next-gen-hurdle/"><u>Gaming Graphic Shift: XNA's Next-Gen Hurdle</u></a></li>
+<li><a href="https://games-able.techidaily.com/8-day-to-day-strategies-for-circumventing-connections-gaming/"><u>8 Day-to-Day Strategies for Circumventing Connections Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/safeguarding-device-sharing-implementing-barriers-for-pc-and-steam-deck-integration/"><u>Safeguarding Device Sharing: Implementing Barriers for PC & Steam Deck Integration</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-choice-of-luminous-screen-shields/"><u>Ultimate Choice of Luminous Screen Shields</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-revive-mobile-playback-quick-fixes-for-facebook-videos/"><u>[Updated] 2024 Approved  Revive Mobile Playback - Quick Fixes for Facebook Videos</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Huawei Nova Y71? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/precision-countdown-ios-and-android-wedding-timer-selection-for-2024/"><u>Precision Countdown  IOS and Android Wedding Timer Selection for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-explore-our-updated-top-10-best-fb-video-extractors-for-android-users/"><u>[New] Explore Our Updated Top 10 Best FB Video Extractors for Android Users</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-poco-x5-pro-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Poco X5 Pro to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/transform-vimeo-videos-top-techniques-to-trim-and-tailor-online-sequences-for-2024/"><u>Transform Vimeo Videos  Top Techniques to Trim and Tailor Online Sequences for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-the-voiceover-revolution-in-tiktok-content-creation-for-2024/"><u>[New] The Voiceover Revolution in TikTok Content Creation for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Oppo A56s 5G | Dr.fone</u></a></li>
+</ul></div>

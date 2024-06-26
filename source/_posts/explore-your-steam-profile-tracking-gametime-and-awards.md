@@ -1,7 +1,7 @@
 ---
 title: "Explore Your Steam Profile: Tracking Gametime and Awards"
-date: 2024-06-22 14:12:49
-updated: 2024-06-24 12:29:56
+date: 2024-06-25T13:03:54.190Z
+updated: 2024-06-26T13:03:54.190Z
 tags:
   - games
 categories:
@@ -30,19 +30,17 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 
 ## Steam's Year in Review Is Now Available
 
- The Steam Year in Review dropped for all users on December 19, 2023, via an announcement on the[Steam Blog](https://store.steampowered.com/news/collection/steam/?emclan=103582791457287600&emgid=3877100446784043483) . The 2023 Steam Year in Review compiles your stats, achievements, and more information about games you played on the platform.
+ The Steam Year in Review dropped for all users on December 19, 2023, via an announcement on the [Steam Blog](https://store.steampowered.com/news/collection/steam/?emclan=103582791457287600&emgid=3877100446784043483) . The 2023 Steam Year in Review compiles your stats, achievements, and more information about games you played on the platform.
 
  Steam released this report as Steam Replay 2022 in late December 2022, and it's doing it again in 2023\. However, Steam changed the name from Steam Replay to Steam Year in Review, and it's also releasing the report about two weeks earlier than last year.
 
- Once you've seen your report, you can share it on social media and other platforms. You can also[check out your Steam Replay 2022](https://www.makeuseof.com/how-to-see-steam-replay-2022/) and compare how your gaming habits changed over the year.
+ Once you've seen your report, you can share it on social media and other platforms. You can also [check out your Steam Replay 2022](https://www.makeuseof.com/how-to-see-steam-replay-2022/) and compare how your gaming habits changed over the year.
 
-## How to See Your Steam Stats for 2023
-
-![Steam Year in Review Banner in the Steam Store Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/steam-year-in-review-banner-in-the-steam-store-page.jpg)
+## How to See Your Steam Stats for 2023 ![Steam Year in Review Banner in the Steam Store Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/steam-year-in-review-banner-in-the-steam-store-page.jpg)
 
  If you had opened the Steam app between December 19 and 21, 2023, you would have seen the Year in Review banner at the top of the store page. However, if you missed that, you can still see the banner if you scroll down a bit during December 2023.
 
- But if you missed the banner and can't find it, you should see the report announcement in your Steam-registered email, provided you did not unsubscribe to Steam's email newsletter or[block emails on Gmail](https://www.makeuseof.com/tag/block-emails-gmail/) .
+ But if you missed the banner and can't find it, you should see the report announcement in your Steam-registered email, provided you did not unsubscribe to Steam's email newsletter or [block emails on Gmail](https://www.makeuseof.com/tag/block-emails-gmail/) .
 
 ![Steam Year in Review email](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/steam-year-in-review-email.jpg)
 
@@ -60,9 +58,9 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 
 ![Steam Year in Review What You Play and By the Numbers Section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/steam-year-in-review-what-you-play-and-by-the-numbers-section.jpg)
 
- Interestingly, the report will also show the types of games you spent the most time in, as well as your participation in the Steam community. This includes the new friends you've added, screenshots you've shared, discussion posts you made, and[game reviews left on Steam](https://www.makeuseof.com/how-to-leave-a-game-review-on-steam/) .
+ Interestingly, the report will also show the types of games you spent the most time in, as well as your participation in the Steam community. This includes the new friends you've added, screenshots you've shared, discussion posts you made, and [game reviews left on Steam](https://www.makeuseof.com/how-to-leave-a-game-review-on-steam/) .
 
- If you use Steam across multiple platforms, like Windows, macOS, ChromeOS (yes, you can[install Steam on your Chromebook](https://www.makeuseof.com/steam-on-chromebook/) ), and Steam Deck, you will also see how much of your gaming was divided among them.
+ If you use Steam across multiple platforms, like Windows, macOS, ChromeOS (yes, you can [install Steam on your Chromebook](https://www.makeuseof.com/steam-on-chromebook/) ), and Steam Deck, you will also see how much of your gaming was divided among them.
 
  You should see the share button at the bottom of your Steam Year in Review. When you click this, you'll see three photos you can download for sharing on social media.
 
@@ -87,3 +85,24 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/elevate-your-games-with-innovations-from-ifa-2023/"><u>Elevate Your Games with Innovations From IFA 2023</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-value-timeline-on-the-steam-marketplace/"><u>Game Value Timeline on the Steam Marketplace</u></a></li>
+<li><a href="https://games-able.techidaily.com/advanced-techniques-for-steam-shot-collection/"><u>Advanced Techniques for Steam Shot Collection</u></a></li>
+<li><a href="https://games-able.techidaily.com/rapid-recreation-for-everyone-select-the-best-20-fast-playing-apps/"><u>Rapid Recreation for Everyone: Select the Best 20 Fast-Playing Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/saving-battery-life-for-portable-play/"><u>Saving Battery Life for Portable Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-idevices-entice-me-with-top-tier-game-selection-via-apple-arcade/"><u>Why iDevices Entice Me with Top-Tier Game Selection via Apple Arcade</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-high-refresh-monitor-selection/"><u>Optimal High Refresh Monitor Selection</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionizing-gaming-with-wireless-controller-updates/"><u>Revolutionizing Gaming with Wireless Controller Updates</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instagram-membership-mastery-free-safe-follower-aids-for-both-platforms-for-2024/"><u>Instagram Membership Mastery - Free, Safe Follower Aids for Both Platforms for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-forge-viral-content-adobe-memes/"><u>2024 Approved  Forge Viral Content  Adobe Memes</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-alter-macs-screen-capture-store-path/"><u>[New] Alter Mac's Screen Capture Store Path</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-pioneering-unmicrophoned-audio-capturing-methods/"><u>2024 Approved  Pioneering Unmicrophoned Audio Capturing Methods</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On OnePlus Open? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/harmonizing-visual-media-and-audio-through-premiere-pros-features-for-2024/"><u>Harmonizing Visual Media and Audio Through Premiere Pro's Features for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-rhythmic-editing-made-easy-aligning-video-and-sound-in-adobe-premiere-pro/"><u>Updated 2024 Approved Rhythmic Editing Made Easy Aligning Video and Sound in Adobe Premiere Pro</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-samsung-galaxy-xcover-7-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Samsung Galaxy XCover 7 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-mastering-the-download-dance-of-hd-media-on-social-platforms/"><u>[New] Mastering the Download Dance of HD Media on Social Platforms</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Simplifying Your Xbox ODIN: Game Pass Edition"
-date: 2024-06-25T10:46:09.510Z
-updated: 2024-06-26T10:46:09.510Z
+date: 2024-06-25T12:48:39.202Z
+updated: 2024-06-26T12:48:39.202Z
 tags:
   - games
 categories:
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
 
  If you need to manage your subscriptions outside the available features of the**Subscriptions** settings, or if you want to join a new subscription, you may need to use an alternative way to manage subscriptions.
 
- Luckily, just like how you can[cancel your Xbox Game Pass subscription](https://www.makeuseof.com/how-to-cancel-your-xbox-game-pass-subscription/) online or from your console, you can do the same with all other Xbox subscriptions.
+ Luckily, just like how you can [cancel your Xbox Game Pass subscription](https://www.makeuseof.com/how-to-cancel-your-xbox-game-pass-subscription/) online or from your console, you can do the same with all other Xbox subscriptions.
 
 ## How to Add and Remove Subscriptions on Your Xbox Series X|S
 

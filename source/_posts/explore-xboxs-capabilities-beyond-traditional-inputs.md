@@ -1,7 +1,7 @@
 ---
 title: Explore Xbox's Capabilities Beyond Traditional Inputs
-date: 2024-06-25T10:46:40.478Z
-updated: 2024-06-26T10:46:40.478Z
+date: 2024-06-25T12:48:39.524Z
+updated: 2024-06-26T12:48:39.524Z
 tags:
   - games
 categories:
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/9648422bd4a60544ea009a8215c8d33f0ea36e37b
 
 ## Use Your Smartphone to Control Your Xbox
 
- You can control your Xbox console using the native Xbox app, available for[iOS](https://apps.apple.com/us/app/xbox/id736179781) and[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027778/https://play.google.com/store/apps/details?id=com.microsoft.xboxone.smartglass&hl=en&gl=US) . This app provides a convenient and user-friendly interface for managing your Xbox remotely.
+ You can control your Xbox console using the native Xbox app, available for [iOS](https://apps.apple.com/us/app/xbox/id736179781) and [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027778/https://play.google.com/store/apps/details?id=com.microsoft.xboxone.smartglass&hl=en&gl=US) . This app provides a convenient and user-friendly interface for managing your Xbox remotely.
 
  Using the Xbox app, you can navigate through menus on your Xbox console, launch games and apps, control media playback, capture screenshots and even search for things using your smartphone's keyboard. The app replicates the functionality of an Xbox controller, providing virtual buttons and controls that mirror those found on the physical controller.
 
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/9648422bd4a60544ea009a8215c8d33f0ea36e37b
 
 1. Open the Xbox app and tap**Sign in** to log into the Microsoft account that you use on your Xbox One console.
 2. Once logged in, tap on the console icon in the top right corner of the home screen and tap**Add an existing console** .
-3. Next, you’ll be asked to turn on remote features. Make sure you’ve[enabled remote features on your Xbox One](https://www.makeuseof.com/how-to-connect-your-xbox-series-xs-to-your-mobile-device/) before proceeding. Then, tap**Next** to continue.
+3. Next, you’ll be asked to turn on remote features. Make sure you’ve [enabled remote features on your Xbox One](https://www.makeuseof.com/how-to-connect-your-xbox-series-xs-to-your-mobile-device/) before proceeding. Then, tap**Next** to continue.
 
 ![Add an existing console option on Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-an-existing-console-option-on-xbox-app.jpeg)
 
@@ -62,9 +62,7 @@ Close
 
  However, it’s worth noting that you may not be able to play most of the games using the remote control on the Xbox app. The virtual remote control within the app is primarily designed for basic tasks and navigation within the Xbox console interface rather than fully-fledged gaming experiences.
 
-## Connect a Keyboard and Mouse to Your Xbox
-
-![Mouse keyboard iphone and xbox controller on wooden desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/mouse-keyboard-and-xbox-controller.jpg)
+## Connect a Keyboard and Mouse to Your Xbox ![Mouse keyboard iphone and xbox controller on wooden desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/mouse-keyboard-and-xbox-controller.jpg)
 
  For those seeking greater accessibility and precision, connecting a keyboard and mouse to your Xbox One is an excellent option. By doing so, you can perform all the functions typically carried out with a regular Xbox controller but with added convenience. While not all games support keyboard and mouse inputs, many do, especially those with cross-platform compatibility.
 
@@ -74,13 +72,13 @@ Close
 
 ## Use Digital Assistants to Control Your Xbox One
 
- Another alternative method to control your Xbox One console without a controller is by using digital assistants such as[Google Assistant](https://www.makeuseof.com/tag/what-is-google-assistant/) or Alexa. With the integration of these voice-activated assistants, you can conveniently navigate through menus, launch games, control media playback, and perform various other tasks using voice commands.
+ Another alternative method to control your Xbox One console without a controller is by using digital assistants such as [Google Assistant](https://www.makeuseof.com/tag/what-is-google-assistant/) or Alexa. With the integration of these voice-activated assistants, you can conveniently navigate through menus, launch games, control media playback, and perform various other tasks using voice commands.
 
  The process of setting up and using digital assistants on an Xbox One is pretty straightforward. Go to **Settings > Devices & connections > Digital assistants** and check the box next to**Enable digital assistants** . If you do not have a controller, you can also perform these actions using the keyboard shortcuts mentioned in the above section.
 
 ![xbox digital assistants menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/xbox-enable-digital-assistants.jpg)
 
- If you haven’t already got it, download and open the respective digital assistant app on your smartphone and add your Xbox console to the app. You can check out our dedicated guides on[how to set up and use Alexa on your Xbox](https://www.makeuseof.com/xbox-series-x-s-how-to-set-up-alexa/) and[how to set up and use Google Assistant on your Xbox](https://www.makeuseof.com/xbox-series-x-s-how-to-set-up-and-use-google-assistant/) for detailed step-by-step instructions on how to achieve this.
+ If you haven’t already got it, download and open the respective digital assistant app on your smartphone and add your Xbox console to the app. You can check out our dedicated guides on [how to set up and use Alexa on your Xbox](https://www.makeuseof.com/xbox-series-x-s-how-to-set-up-alexa/) and [how to set up and use Google Assistant on your Xbox](https://www.makeuseof.com/xbox-series-x-s-how-to-set-up-and-use-google-assistant/) for detailed step-by-step instructions on how to achieve this.
 
  Once connected, you can use voice commands to control your Xbox by speaking into the digital assistant app. To give a voice command, use the name that you assigned to your Xbox during the setup process. For instance, if you named your Xbox "Living Room Xbox," you can say, "Hey Google, play Fortnite on Living Room Xbox" to launch Fortnite on Xbox or "Hey Alexa, turn off Living Room Xbox" to turn off your Xbox console.
 

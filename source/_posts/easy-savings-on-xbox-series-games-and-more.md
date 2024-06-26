@@ -1,7 +1,7 @@
 ---
 title: Easy Savings on Xbox Series Games & More
-date: 2024-06-21 14:24:45
-updated: 2024-06-24 10:48:40
+date: 2024-06-25T13:14:41.941Z
+updated: 2024-06-26T13:14:41.941Z
 tags:
   - games
 categories:
@@ -52,13 +52,13 @@ thumbnail: https://thmb.techidaily.com/26c79816e74e12a8f414621a79d8575a6f7513edd
 
 ## 5\. Collect and Use Microsoft Reward Points
 
- Microsoft Reward Points is a loyalty program that rewards you with points for simply using your Xbox console. There are tons of[ways to collect Microsoft Reward Points while playing your Xbox Series X|S](https://www.makeuseof.com/how-to-earn-microsoft-reward-points-xbox-series-x-s/) . You can collect them by getting achievements, playing certain games, and buying things from the Xbox store. If you have an Xbox, you probably also have Microsoft Reward Points that you may not even know about.
+ Microsoft Reward Points is a loyalty program that rewards you with points for simply using your Xbox console. There are tons of [ways to collect Microsoft Reward Points while playing your Xbox Series X|S](https://www.makeuseof.com/how-to-earn-microsoft-reward-points-xbox-series-x-s/) . You can collect them by getting achievements, playing certain games, and buying things from the Xbox store. If you have an Xbox, you probably also have Microsoft Reward Points that you may not even know about.
 
  You can redeem these points for things like gift cards or micro-transactions in supported games and even Xbox Game Pass subscriptions, so you can save more money while you’re saving money.
 
 ## 6\. Take Advantage of Xbox Game Pass Perks
 
- If you didn't know what Microsoft Rewards Points are, you're probably also wondering[what Xbox Game Pass Perks are](https://www.makeuseof.com/game-pass-perks-explained/) all about. Xbox Game Pass Perks are similar to Microsoft Reward Points, but instead of being earned over all Microsoft platforms, these offers are exclusive to those with an Xbox Game Pass Ultimate subscription. These perks are updated frequently, so you always have something new to choose from.
+ If you didn't know what Microsoft Rewards Points are, you're probably also wondering [what Xbox Game Pass Perks are](https://www.makeuseof.com/game-pass-perks-explained/) all about. Xbox Game Pass Perks are similar to Microsoft Reward Points, but instead of being earned over all Microsoft platforms, these offers are exclusive to those with an Xbox Game Pass Ultimate subscription. These perks are updated frequently, so you always have something new to choose from.
 
 ![Xbox Game Pass Perks Screen on Xbox Game Pass App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/xbox-game-pass-perks-screen-on-xbox-game-pass-app.jpg)
 
@@ -74,7 +74,7 @@ Close
 
  Saving money on your Xbox doesn’t just come from buying cheaper games or utilizing reward points and perks. You can also use your Xbox to save money on your power bill by using the more eco-and-wallet-friendly energy-saving mode.
 
- The main[difference between shutdown and sleep mode on the Xbox Series X|S](https://www.makeuseof.com/xbox-shutdown-vs-sleep-mode/) is that sleep effectively only turns your console half-off when you're not using it. This is great for convenience as it will boot up faster the next time you turn it on, but the amount of time it really saves you is negligible.
+ The main [difference between shutdown and sleep mode on the Xbox Series X|S](https://www.makeuseof.com/xbox-shutdown-vs-sleep-mode/) is that sleep effectively only turns your console half-off when you're not using it. This is great for convenience as it will boot up faster the next time you turn it on, but the amount of time it really saves you is negligible.
 
 ![Xbox Shutdown energy saving mode explaination](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/xbox-shutdown-energy-saving-mode-explaination.jpg)
 
@@ -92,7 +92,7 @@ Close
 
 ### Q: How Much Electricity Does Your Xbox Series X Use?
 
- The power consumption of your Xbox Series X varies depending on how you're using your console. Active gameplay from your Xbox Series X will use 150 W of energy, for instance, while streaming UHD media will consume only 48 W. But if you're looking to lower your energy consumption to save money or lower your impact on the environment, you can always[adjust the power options of your Xbox Series X](https://www.makeuseof.com/how-to-customize-xbox-series-x-s-power-options-to-save-energy/) .
+ The power consumption of your Xbox Series X varies depending on how you're using your console. Active gameplay from your Xbox Series X will use 150 W of energy, for instance, while streaming UHD media will consume only 48 W. But if you're looking to lower your energy consumption to save money or lower your impact on the environment, you can always [adjust the power options of your Xbox Series X](https://www.makeuseof.com/how-to-customize-xbox-series-x-s-power-options-to-save-energy/) .
 
 ### Q: Why Is the Xbox Series S So Much Cheaper Than the Xbox Series X?
 
@@ -100,7 +100,7 @@ Close
 
 ### Q: What Are the Perks of Having an Xbox Series S?
 
- One of the biggest perks of the Xbox Series S is that it will save you money compared to other consoles of its ilk, like the Xbox Series X or PlayStation 5 series of consoles. And despite being less powerful, features like upscaled 4k graphics do well to accommodate the Xbox Series S's lack of power and emulate a next-gen gaming experience. In this way, there are tons of[features every Xbox Series S user should use](https://www.makeuseof.com/xbox-series-s-features-all-users-should-use/) that can guarantee a next-gen experience for a lower cost.
+ One of the biggest perks of the Xbox Series S is that it will save you money compared to other consoles of its ilk, like the Xbox Series X or PlayStation 5 series of consoles. And despite being less powerful, features like upscaled 4k graphics do well to accommodate the Xbox Series S's lack of power and emulate a next-gen gaming experience. In this way, there are tons of [features every Xbox Series S user should use](https://www.makeuseof.com/xbox-series-s-features-all-users-should-use/) that can guarantee a next-gen experience for a lower cost.
 
 
 <ins class="adsbygoogle"
@@ -117,3 +117,24 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/top-rated-asus-rog-ally-docks-laptop-docks-reimagined/"><u>Top-Rated ASUS ROG Ally Docks: Laptop Docks Reimagined</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionizing-the-keyboard-space-razers-hot-swap-blackwidow-v4/"><u>Revolutionizing the Keyboard Space: Razer's Hot-Swap BlackWidow V4</u></a></li>
+<li><a href="https://games-able.techidaily.com/youtube-games-unleash-your-potential-on-new-mini-challenges/"><u>YouTube Games: Unleash Your Potential on New Mini Challenges!</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-art-of-quiet-steam-usage/"><u>The Art of Quiet Steam Usage</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-financially-smart-gamers-manual-for-series-x/"><u>The Financially-Smart Gamer's Manual for Series X</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridging-the-gap-how-ps4-works-with-personal-computers/"><u>Bridging the Gap: How PS4 Works with Personal Computers</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-5-insights-the-power-of-classic-portable-games/"><u>Essential 5 Insights: The Power of Classic Portable Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-finest-ea-play-games-for-sony-console/"><u>Unveiling the Finest EA Play Games for Sony Console</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-streamline-your-video-submissions-adding-imovie-content-to-vimeo-for-2024/"><u>[New] Streamline Your Video Submissions  Adding iMovie Content to Vimeo for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-locating-professional-groan-and-whine-audio-libraries/"><u>Updated 2024 Approved Locating Professional Groan and Whine Audio Libraries</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-enhance-video-playback-with-av1-on-youtube/"><u>2024 Approved  Enhance Video Playback with AV1 on YouTube</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-an-insiders-guide-to-screen-recording-on-macs-for-2024/"><u>[New] An Insider's Guide to Screen Recording on Macs for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-from-followers-to-brand-ambassadors-the-five-pillars-of-influencer-success/"><u>In 2024, From Followers to Brand Ambassadors  The Five Pillars of Influencer Success</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/3-ways-to-unlock-your-iphone-11-pro-max-for-free-by-drfone-ios/"><u>3 Ways to Unlock Your iPhone 11 Pro Max for Free</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-access-tons-of-free-vocal-textures/"><u>[New] 2024 Approved  Access Tons of Free Vocal Textures</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-no-cost-no-problem-here-are-the-10-best-for-discord-voice-captures/"><u>[New] In 2024, No Cost, No Problem? Here Are the 10 Best for Discord Voice Captures</u></a></li>
+</ul></div>

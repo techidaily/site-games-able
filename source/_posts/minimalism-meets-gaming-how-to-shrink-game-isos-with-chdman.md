@@ -1,7 +1,7 @@
 ---
 title: "Minimalism Meets Gaming: How to Shrink Game ISOs with CHDMAN"
-date: 2024-06-22 20:44:57
-updated: 2024-06-24 10:30:42
+date: 2024-06-25T12:56:44.400Z
+updated: 2024-06-26T12:56:44.400Z
 tags:
   - games
 categories:
@@ -38,9 +38,9 @@ thumbnail: https://thmb.techidaily.com/8bc720ee0adbf09ae88a648a38e027832e102c5d3
 
 ## How to Compress Your ISOs With CHDMAN
 
- CHDMAN is distributed with the MAME emulator. If you already use that, you'll find CHDMAN's executable in MAME's installation directory. If not, download[the latest version of MAME from its official site](https://www.mamedev.org/) and install it on your PC to also get CHDMAN.
+ CHDMAN is distributed with the MAME emulator. If you already use that, you'll find CHDMAN's executable in MAME's installation directory. If not, download [the latest version of MAME from its official site](https://www.mamedev.org/) and install it on your PC to also get CHDMAN.
 
- To avoid typing the full path to CHDMAN every time you want to compress a ROM, add MAME's folder to your System Path variable. You can do this by[using environment variables in Windows 10](https://www.makeuseof.com/how-to-use-environment-variables-in-windows-10/) .
+ To avoid typing the full path to CHDMAN every time you want to compress a ROM, add MAME's folder to your System Path variable. You can do this by [using environment variables in Windows 10](https://www.makeuseof.com/how-to-use-environment-variables-in-windows-10/) .
 
  Open a**File Explorer** window (**Windows Key + E**) and, to keep things tidy, create a folder anywhere you wish, within which you'll do all CHDMAN-related file juggling.
 
@@ -103,7 +103,7 @@ Our command was:
 * Genesis Plus GX.
 * PicoDrive.
 
- Because of[how LaunchBox works](https://www.makeuseof.com/what-is-launchbox-how-it-works/) and other front-end services you can use for emulation, like[using RetroArch on Windows](https://www.makeuseof.com/windows-retroarch-setup/) , CHDs should work on these services too.
+ Because of [how LaunchBox works](https://www.makeuseof.com/what-is-launchbox-how-it-works/) and other front-end services you can use for emulation, like [using RetroArch on Windows](https://www.makeuseof.com/windows-retroarch-setup/) , CHDs should work on these services too.
 
 ### How Can You Check Your CHDs?
 
@@ -147,3 +147,26 @@ Our command was:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/the-next-chapter-in-gaming-meta-quest-3-reviewed/"><u>The Next Chapter in Gaming: Meta Quest 3 Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/reviving-video-game-classics-on-a-budget-a-pi-story/"><u>Reviving Video Game Classics on a Budget - A Pi Story</u></a></li>
+<li><a href="https://games-able.techidaily.com/nostalgias-best-kept-secrets-retro-games-and-your-phone/"><u>Nostalgia's Best Kept Secrets: Retro Games & Your Phone</u></a></li>
+<li><a href="https://games-able.techidaily.com/reviving-legends-microsoft-activision-blizzard-and-old-game-classics/"><u>Reviving Legends: Microsoft, Activision Blizzard, and Old Game Classics</u></a></li>
+<li><a href="https://games-able.techidaily.com/better-computing-awaits-update-with-newest-nvidia-drivers-now/"><u>Better Computing Awaits! Update with Newest Nvidia Drivers Now.</u></a></li>
+<li><a href="https://games-able.techidaily.com/disc-freeze-the-simple-eject-on-xbox-s/"><u>Disc Freeze? The Simple Eject on Xbox S</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-secrets-of-steams-gametime-and-awards-metrics/"><u>Unveiling the Secrets of Steam's Gametime and Awards Metrics</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastery-in-membership-your-guide-to-top-servers/"><u>Mastery in Membership: Your Guide to Top Servers</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-steams-in-game-purchasing-power/"><u>Unlocking Steam's In-Game Purchasing Power</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-your-first-leap-onto-youtubes-platform/"><u>2024 Approved  Your First Leap Onto YouTube's Platform</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-the-ultimate-guide-top-50plus-inspiring-lyrics-for-tiktok-creators/"><u>In 2024, The Ultimate Guide  Top 50+ Inspiring Lyrics for TikTok Creators</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-streamers-choice-does-virusmix-or-wirecast-rule-the-game/"><u>[Updated] Top Streamers Choice  Does VirusMix or WireCast Rule the Game?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-free-video-tools-cross-platform-os-support/"><u>In 2024, Top 10 Free Video Tools  Cross-Platform OS Support</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-tips-the-finest-7-wet-proof-recorders/"><u>[New] Expert Tips  The Finest 7 Wet-Proof Recorders</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-nokia-105-classic-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Nokia 105 Classic FRP Bypass</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/experts-choice-androids-best-large-group-calling-for-2024/"><u>Expert's Choice  Android's Best Large Group Calling for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-leading-5-goggles-for-optimal-drone-pilot-viewing/"><u>2024 Approved  Leading 5 Goggles for Optimal Drone Pilot Viewing</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/rless-evolution-overshadowing-traditional-dslr-videography/"><u>Mirrorless Evolution Overshadowing Traditional DSLR Videography</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-facebook-decoding-the-new-era-of-bite-sized-videos/"><u>In 2024, Facebook   Decoding the New Era of Bite-Sized Videos</u></a></li>
+</ul></div>

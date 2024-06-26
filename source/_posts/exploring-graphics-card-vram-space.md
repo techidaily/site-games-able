@@ -1,7 +1,7 @@
 ---
 title: Exploring Graphics Card VRAM Space
-date: 2024-06-21 13:42:13
-updated: 2024-06-24 12:48:48
+date: 2024-06-25T13:16:32.803Z
+updated: 2024-06-26T13:16:32.803Z
 tags:
   - games
 categories:
@@ -54,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
 
 ![Screenshot showing OpenHardwareMonitor tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/openhardwaremonitor-screenshot.jpg)
 
- Tools like[GPU-Z](https://www.techpowerup.com/gpuz/) ,[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) , and[OpenHardwareMonitor](https://openhardwaremonitor.org/downloads/) are your best friends here. These are lightweight utilities that won't stress your system when running in the background while also providing a lot of information on how specific components function.
+ Tools like [GPU-Z](https://www.techpowerup.com/gpuz/) ,[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) , and [OpenHardwareMonitor](https://openhardwaremonitor.org/downloads/) are your best friends here. These are lightweight utilities that won't stress your system when running in the background while also providing a lot of information on how specific components function.
 
 ## How to Check VRAM on Linux
 
@@ -94,9 +94,9 @@ sudo apt-get install radeontop`
 
 ![asus graphics card on granite surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpu-card-1.jpg)
 
- As a general rule of thumb, you should have at least 4GB of VRAM for gaming and 8GB of VRAM for video editing. This requirement can vary based on what games you're playing or the resolution of the video you're editing, but the more, the better. We've already covered[how much VRAM you need for modern games](https://www.makeuseof.com/how-much-vram-do-you-need-modern-games/) in case you need some help.
+ As a general rule of thumb, you should have at least 4GB of VRAM for gaming and 8GB of VRAM for video editing. This requirement can vary based on what games you're playing or the resolution of the video you're editing, but the more, the better. We've already covered [how much VRAM you need for modern games](https://www.makeuseof.com/how-much-vram-do-you-need-modern-games/) in case you need some help.
 
- There are, of course, other factors that affect these requirements as well. The architecture and generation of your GPU, the type of VRAM, GPU, CPU clock speeds, and even the rest of your computer's hardware can all affect how much VRAM you actually need. If you're building a PC, knowing the[difference between RAM and VRAM](https://www.makeuseof.com/ram-vs-vram-differences/) is also important.
+ There are, of course, other factors that affect these requirements as well. The architecture and generation of your GPU, the type of VRAM, GPU, CPU clock speeds, and even the rest of your computer's hardware can all affect how much VRAM you actually need. If you're building a PC, knowing the [difference between RAM and VRAM](https://www.makeuseof.com/ram-vs-vram-differences/) is also important.
 
 ## Knowing Your PC Specs Is Important
 
@@ -117,3 +117,26 @@ sudo apt-get install radeontop`
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/1719169636723-tackle-system-hiccups-update-your-gpu-driver/"><u>Tackle System Hiccups - Update Your GPU Driver!</u></a></li>
+<li><a href="https://games-able.techidaily.com/amplify-your-skill-set-with-superior-hardware/"><u>Amplify Your Skill Set with Superior Hardware</u></a></li>
+<li><a href="https://games-able.techidaily.com/rapid-response-elevating-counter-strike-fps-quickly/"><u>Rapid Response: Elevating Counter-Strike FPS Quickly</u></a></li>
+<li><a href="https://games-able.techidaily.com/my-journey-with-an-oled-display-the-ultimate-gaming-setup/"><u>My Journey with an OLED Display - The Ultimate Gaming Setup</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-low-memory-issues-in-roblox-for-smartphones-iphone/"><u>Navigating Low-Memory Issues in Roblox for Smartphones (iPhone)</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-game-streaming-cloud-computing-in-action/"><u>Xbox Game Streaming: Cloud Computing in Action</u></a></li>
+<li><a href="https://games-able.techidaily.com/early-release-decision-making-for-game-lovers/"><u>Early Release Decision Making for Game Lovers</u></a></li>
+<li><a href="https://games-able.techidaily.com/graphics-warfare-which-cpu-sets-you-apart-in-gaming/"><u>Graphics Warfare: Which CPU Sets You Apart in Gaming?</u></a></li>
+<li><a href="https://games-able.techidaily.com/melody-maestros-top-audio-games-to-test-your-knowledge/"><u>Melody Maestros: Top Audio Games to Test Your Knowledge</u></a></li>
+<li><a href="https://extra-information.techidaily.com/high-definition-horizons-with-lgs-newest-tv-review-27ud68/"><u>High-Definition Horizons with LG's Newest TV Review (27UD68)</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-stitches-and-scrolls-a-guide-to-textile-talent-on-the-app/"><u>In 2024, Stitches & Scrolls  A Guide to Textile Talent on the App</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-uncovering-the-secrets-of-effortless-iphone-podcast-downloads/"><u>2024 Approved  Uncovering the Secrets of Effortless iPhone Podcast Downloads</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-mp3-repository-from-fb-posts/"><u>[New] In 2024, MP3 Repository From Fb Posts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/top-tier-psd-drop-shadows/"><u>Top-Tier PSD Drop Shadows</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-infinix-zero-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-11-pro-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-techniques-for-reducing-sound-amplitude-with-lumafusion/"><u>[New] Techniques for Reducing Sound Amplitude with Lumafusion</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/enhance-your-videos-discover-the-top-10-efficient-cutter-apps/"><u>Enhance Your Videos - Discover the Top 10 Efficient Cutter Apps</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-honor-v-purse-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Honor V Purse 7 Common Problems & Fixes | Dr.fone</u></a></li>
+</ul></div>

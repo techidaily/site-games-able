@@ -1,7 +1,7 @@
 ---
 title: Friendly Fire? Top Cross-Device Games to Bond Over
-date: 2024-06-25T10:47:23.726Z
-updated: 2024-06-26T10:47:23.726Z
+date: 2024-06-25T12:48:39.971Z
+updated: 2024-06-26T12:48:39.971Z
 tags:
   - games
 categories:
@@ -24,9 +24,9 @@ thumbnail: https://thmb.techidaily.com/c3ecdd732aca091f9e06be3caec567f3fcd17c056
 
  In Spaceteam, you and your friends are the crew of a spaceship, and everything's going wrong. To stay on course, you'll need to work together by shouting different made-up space commands to each other. The speed and the chaos ramp up and up until you all inevitably crash and die, only to be awarded medals posthumously. But it's fun while it lasts.
 
- If you have a smaller friend group, you can also try out the[best two-player mobile games](https://www.makeuseof.com/tag/best-two-player-mobile-games/) .
+ If you have a smaller friend group, you can also try out the [best two-player mobile games](https://www.makeuseof.com/tag/best-two-player-mobile-games/) .
 
-**Download:** Spaceteam for[iOS](https://apps.apple.com/app/spaceteam/id570510529) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.sleepingbeastgames.spaceteam) (Free, in-app purchases available)
+**Download:** Spaceteam for [iOS](https://apps.apple.com/app/spaceteam/id570510529) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.sleepingbeastgames.spaceteam) (Free, in-app purchases available)
 
 ## 2\. Words With Friends 2
 
@@ -38,7 +38,7 @@ The sequel to the acclaimed Words With Friends is more like an update.
 
  Lightning Round pits two teams of five against each other to see who can come up with a certain score in the fastest time. Solo Challenge lets you play against challenging bots to win a virtual prize. Finally, Words With Friends Live drops in with HQ Trivia-style questions during your game.
 
-**Download:** Words With Friends 2 for[iOS](https://apps.apple.com/app/words-with-friends-2-word-game/id1196764367) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.zynga.words3) (Free, in-app purchases available)
+**Download:** Words With Friends 2 for [iOS](https://apps.apple.com/app/words-with-friends-2-word-game/id1196764367) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.zynga.words3) (Free, in-app purchases available)
 
 ## 3\. Pokémon UNITE
 
@@ -46,7 +46,7 @@ The sequel to the acclaimed Words With Friends is more like an update.
 
  Choose from one of over 40 Pokémon and go head-to-head against another team in Unite Battles in order to score more points before the time runs out. Travel across the map to battle wild Pokémon, gather energy and experience, and work together as a team while inviting your friends along.
 
-**Download:** Pokémon UNITE for[iOS](https://apps.apple.com/us/app/pok%C3%A9mon-unite/id1512321575) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=jp.pokemon.pokemonunite) (Free, in-app purchases available)
+**Download:** Pokémon UNITE for [iOS](https://apps.apple.com/us/app/pok%C3%A9mon-unite/id1512321575) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=jp.pokemon.pokemonunite) (Free, in-app purchases available)
 
 ## 4\. Teamfight Tactics
 
@@ -54,7 +54,7 @@ The sequel to the acclaimed Words With Friends is more like an update.
 
  With full cross-platform support, play normal or ranked matches with your friends as you learn the best synergies and items that work together. It's also one of the best multiplayer PvP games for both mobile and PC!
 
-**Download:** Teamfight Tactics for[iOS](https://apps.apple.com/app/tft-teamfight-tactics/id1480616748) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.riotgames.league.teamfighttactics) (Free, in-app purchases available)
+**Download:** Teamfight Tactics for [iOS](https://apps.apple.com/app/tft-teamfight-tactics/id1480616748) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.riotgames.league.teamfighttactics) (Free, in-app purchases available)
 
 ## 5\. Minecraft
 
@@ -62,9 +62,9 @@ The sequel to the acclaimed Words With Friends is more like an update.
 
  That said, the mobile version is a wonderful way to experience Minecraft on the go.
 
- Playing Minecraft alone, however, is no fun. No matter the platform, Minecraft was made for socializing, and its cross-compatibility lets you play with your friends. If Minecraft doesn't sate your adventuring itch or allow for enough relaxing world-building, you can try out these[serene gaming apps to help reduce feelings of anxiety and stress](https://www.makeuseof.com/serene-gaming-apps-reduce-anxiety-stress/) .
+ Playing Minecraft alone, however, is no fun. No matter the platform, Minecraft was made for socializing, and its cross-compatibility lets you play with your friends. If Minecraft doesn't sate your adventuring itch or allow for enough relaxing world-building, you can try out these [serene gaming apps to help reduce feelings of anxiety and stress](https://www.makeuseof.com/serene-gaming-apps-reduce-anxiety-stress/) .
 
-**Download:** Minecraft for[iOS](https://apps.apple.com/app/minecraft/id479516143) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.mojang.minecraftpe) ($6.99 \[iOS\], $6.99 \[Android\], in-app purchases available)
+**Download:** Minecraft for [iOS](https://apps.apple.com/app/minecraft/id479516143) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.mojang.minecraftpe) ($6.99 \[iOS\], $6.99 \[Android\], in-app purchases available)
 
 ## 6\. Hearthstone
 
@@ -74,13 +74,13 @@ The sequel to the acclaimed Words With Friends is more like an update.
 
  With periodic expansions, tournaments, and challenges, there's always a reason to get back into Hearthstone. Play your friends in the Arena or battle strangers to increase your Rank.
 
-**Download:** Hearthstone for[iOS](https://apps.apple.com/app/hearthstone/id625257520) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.blizzard.wtcg.hearthstone) (Free, in-app purchases available)
+**Download:** Hearthstone for [iOS](https://apps.apple.com/app/hearthstone/id625257520) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.blizzard.wtcg.hearthstone) (Free, in-app purchases available)
 
 ## 7\. Pokémon Go
 
  When it debuted, Pokémon Go smashed the glass ceiling for AR (Augmented Reality) gaming, bringing pocket monsters into the real world. You and your friends can take your phones, whether Android or iOS, and go out into the real world and explore.
 
-**Download:** Pokémon Go for[iOS](https://apps.apple.com/app/pok%C3%A9mon-go/id1094591345) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo) (Free, in-app purchases available)
+**Download:** Pokémon Go for [iOS](https://apps.apple.com/app/pok%C3%A9mon-go/id1094591345) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo) (Free, in-app purchases available)
 
 ## 8\. PUBG Mobile
 
@@ -90,7 +90,7 @@ The sequel to the acclaimed Words With Friends is more like an update.
 
  Plus, with its typically sub-30-minute match time, it's one of the easier phone games to play with your friends online.
 
-**Download:** PUBG Mobile for[iOS](https://apps.apple.com/app/pubg-mobile-arcane/id1330123889) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.tencent.ig) (Free, in-app purchases available)
+**Download:** PUBG Mobile for [iOS](https://apps.apple.com/app/pubg-mobile-arcane/id1330123889) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.tencent.ig) (Free, in-app purchases available)
 
 ## 9\. Mario Kart Tour
 
@@ -98,21 +98,21 @@ The sequel to the acclaimed Words With Friends is more like an update.
 
  While single player mode is fun on its own, Mario Kart offers both a race or battle multiplayer mode. It's a simple matter to create a room for your friends and set-up either a race or battle. Plus, you can set up a room code if you want to keep your multiplayer experience private.
 
- Plus, if Mario Kart Tour triggers your nostalgia itch, you're not limited to Mario games with friends. There's even a convenient way to[play classic Super Mario games on Android devices](https://www.makeuseof.com/play-classic-mario-games-android/) .
+ Plus, if Mario Kart Tour triggers your nostalgia itch, you're not limited to Mario games with friends. There's even a convenient way to [play classic Super Mario games on Android devices](https://www.makeuseof.com/play-classic-mario-games-android/) .
 
-**Download:** Mario Kart Tour for[iOS](https://apps.apple.com/us/app/mario-kart-tour/id1293634699) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.nintendo.zaka) (Free, in-app purchases available)
+**Download:** Mario Kart Tour for [iOS](https://apps.apple.com/us/app/mario-kart-tour/id1293634699) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.nintendo.zaka) (Free, in-app purchases available)
 
 ## 10\. Old School RuneScape
 
  Ready to scratch the nostalgia bug with friends? As one of the earliest accessible MMORPGs, many gamers will fondly remember RuneScape. Whether you're ready to fish, mine, or fight, you can resume your adventures in true crossplay form with all of your friends.
 
-**Download:** Old School RuneScape for[iOS](https://apps.apple.com/app/apple-store/id1269648762) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.jagex.oldscape.android) (Free, in-app purchases available)
+**Download:** Old School RuneScape for [iOS](https://apps.apple.com/app/apple-store/id1269648762) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.jagex.oldscape.android) (Free, in-app purchases available)
 
 ## 11\. League of Legends: Wild Rift
 
  If you've been a fan of Riot Games' League of Legends franchise, taking to the Rift with friends on mobile was previously impossible. While League of Legends: Wild Rift doesn't support crossplay with PC players, Android and iOS users can queue up in duos, trios, or a complete five-person party as you target the enemy's nexus. With Riot's MOBA mobile launch, you can now play a full phone game with your friends.
 
-**Download:** League of Legends: Wild Rift for[iOS](https://apps.apple.com/app/league-of-legends-wild-rift/id1480616990) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.riotgames.league.wildrift) (Free, in-app purchases available)
+**Download:** League of Legends: Wild Rift for [iOS](https://apps.apple.com/app/league-of-legends-wild-rift/id1480616990) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.riotgames.league.wildrift) (Free, in-app purchases available)
 
 ## More Mobile Games to Play With Friends
 

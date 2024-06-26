@@ -1,7 +1,7 @@
 ---
 title: "Graphics Prowess: The DirectX Evolution Story"
-date: 2024-06-21 16:23:26
-updated: 2024-06-23 10:17:20
+date: 2024-06-25T13:28:24.104Z
+updated: 2024-06-26T13:28:24.104Z
 tags:
   - games
 categories:
@@ -22,13 +22,13 @@ thumbnail: https://thmb.techidaily.com/227bd0353ed763348ef514468bae7b22e2b22e010
 
 ![DirectX logo imposed on a photo of a man coding](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/untitled-design-1.jpg)
 
- As explained in[our overview of Microsoft DirectX](https://www.makeuseof.com/tag/everything-need-know-directx-2016/) , DirectX is a collection of application programming interfaces (APIs) used for handling tasks related to multimedia. This includes game programming on Microsoft-based platforms like Windows and Xbox. To provide some context, let's briefly talk about APIs.
+ As explained in [our overview of Microsoft DirectX](https://www.makeuseof.com/tag/everything-need-know-directx-2016/) , DirectX is a collection of application programming interfaces (APIs) used for handling tasks related to multimedia. This includes game programming on Microsoft-based platforms like Windows and Xbox. To provide some context, let's briefly talk about APIs.
 
- An API makes it possible for two or more computer programs to communicate with each other, which we discuss in[our overview of APIs](https://www.makeuseof.com/what-is-api/) . Think of it like a telephone. If your mom texts you with a grocery list, your phone will receive that data and display it for you. That is basically an API.
+ An API makes it possible for two or more computer programs to communicate with each other, which we discuss in [our overview of APIs](https://www.makeuseof.com/what-is-api/) . Think of it like a telephone. If your mom texts you with a grocery list, your phone will receive that data and display it for you. That is basically an API.
 
 ## What Are the Differences Between DirectX 11 and DirectX 12?
 
- So, what are the differences between DirectX 11 and DirectX 12? Put simply, DirectX 12 is the latest version of DirectX. One of the most noticeable differences is how they interact with your hardware. Most games developed with DirectX 11 only utilize between two and four[CPU cores](https://www.makeuseof.com/cpu-vs-vcpu-threads-vs-cores/) . One of these cores usually tells the GPU what to do.
+ So, what are the differences between DirectX 11 and DirectX 12? Put simply, DirectX 12 is the latest version of DirectX. One of the most noticeable differences is how they interact with your hardware. Most games developed with DirectX 11 only utilize between two and four [CPU cores](https://www.makeuseof.com/cpu-vs-vcpu-threads-vs-cores/) . One of these cores usually tells the GPU what to do.
 
  The game then uses the remaining cores to handle various CPU-intensive settings like a game's particles or draw distance. On the other hand, DirectX 12 spreads a CPU's workload across multiple cores and allows every core to talk to the GPU simultaneously.
 
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/227bd0353ed763348ef514468bae7b22e2b22e010
 
  Image Credit: Martin Kerstein/[Guild Wars 2](https://www.guildwars2.com/en/news/guesting-is-coming/)
 
- Believe it or not, it took nine years for ArenaNet to make the switch from DirectX 9 to DirectX 11\. However, some games do support both DirectX 11 and DirectX 12, including Fortnite (read[our Fortnite cheat sheet](https://www.makeuseof.com/tag/fortnite-essentials-cheat-sheet-controls-tips-terms/) ), Battlefield 5, Shadow of the Tomb Raider, and more. Users can switch between DirectX 11 and DirectX 12 in the game settings.
+ Believe it or not, it took nine years for ArenaNet to make the switch from DirectX 9 to DirectX 11\. However, some games do support both DirectX 11 and DirectX 12, including Fortnite (read [our Fortnite cheat sheet](https://www.makeuseof.com/tag/fortnite-essentials-cheat-sheet-controls-tips-terms/) ), Battlefield 5, Shadow of the Tomb Raider, and more. Users can switch between DirectX 11 and DirectX 12 in the game settings.
 
  Now, the fact that some games support both DirectX 11 and 12 has probably got you wondering about in-game performance. Does choosing DX 11 or DX 12 deliver better in-game performance? The following video illustrates the differences between DirectX 11 and DirectX 12 in a range of games, showcasing vital specs such as average frames per second, CPU usage, GPU usage, and more, using an AMD Ryzen 3600, Nvidia GeForce RTX 3060 Ti, and 16GB DDR4 RAM.
 
@@ -91,3 +91,27 @@ thumbnail: https://thmb.techidaily.com/227bd0353ed763348ef514468bae7b22e2b22e010
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/maximize-efficiency-and-control-with-corsairs-icue-link-4-compelling-reasons/"><u>Maximize Efficiency & Control with Corsair's iCUE Link - 4 Compelling Reasons</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719167632937-gaming-excellence-achieved-with-oled-technology/"><u>Gaming Excellence Achieved with OLED Technology.</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-deep-into-palworld-world/"><u>Dive Deep Into PalWorld World</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-deal-with-insufficient-ram-notice-roblox-on-iphone/"><u>How to Deal with Insufficient RAM Notice (Roblox) on iPhone</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-guide-calibrating-your-series-sx-display/"><u>Step-by-Step Guide: Calibrating Your Series S/X Display</u></a></li>
+<li><a href="https://games-able.techidaily.com/joystick-journey-console-to-pc-conversion-made-easy-137-chars/"><u>Joystick Journey: Console-to-PC Conversion Made Easy (137 Chars)</u></a></li>
+<li><a href="https://games-able.techidaily.com/will-mac-computers-revolutionize-pc-gameplay/"><u>Will Mac Computers Revolutionize PC Gameplay?</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-performance-gaming-from-logitech-mice/"><u>Ultimate Performance Gaming From Logitech Mice</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-fix-the-minecraft-launcher-error-0x803f8001-in-windows-11-and-10/"><u>How to Fix the Minecraft Launcher Error 0X803f8001 in Windows 11 and 10</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719161846220-joy-con-plus-the-ultimate-guide-for-controller-extension-92-chars-this-title-slightly-exceeds-but-is-relevant-enough-to-be-considered-within-the-limit/"><u>Joy-Con Plus: The Ultimate Guide for Controller Extension (92 Chars) – This Title Slightly Exceeds but Is Relevant Enough to Be Considered Within the Limit</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-realme-narzo-60-pro-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Realme Narzo 60 Pro 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-realme-c51-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-the-ultimate-guide-to-skype-sessions-with-obs-streaming/"><u>2024 Approved  The Ultimate Guide to Skype Sessions with OBS Streaming</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-samsung-galaxy-f15-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Samsung Galaxy F15 5G? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-surprise-your-friends-with-these-unheard-memes/"><u>[New] 2024 Approved  Surprise Your Friends with These Unheard Memes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unlock-the-secrets-to-lengthy-exposure-with-iphone-for-2024/"><u>[Updated] Unlock the Secrets to Lengthy Exposure with iPhone for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlock-lunapics-secret-to-stunning-visuals/"><u>Unlock LunaPic's Secret to Stunning Visuals</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-captivating-content-with-a-click-phones-and-youtube/"><u>2024 Approved  Captivating Content with a Click  Phones & YouTube</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-13-by-phone-number-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone 13 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Oppo Reno 8T | Dr.fone</u></a></li>
+</ul></div>

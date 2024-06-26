@@ -1,7 +1,7 @@
 ---
 title: 5 Things to Consider Before Buying a Gaming Handheld
-date: 2024-06-21 19:17:42
-updated: 2024-06-23 10:40:48
+date: 2024-06-25T13:21:42.073Z
+updated: 2024-06-26T13:21:42.073Z
 tags:
   - games
 categories:
@@ -30,9 +30,7 @@ thumbnail: https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f
 
  With the increasing interest in gaming handhelds, should you pull the trigger and get one for yourself? Here are some things to consider before buying a handheld gaming console and how to choose which one is best for you.
 
-## 1 Decide on Your Budget
-
-![rog ally](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/rog-ally.jpg)
+## 1 Decide on Your Budget ![rog ally](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/rog-ally.jpg)
 
  Hannah Stryker / MakeUseOf
 
@@ -42,27 +40,25 @@ thumbnail: https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f
 
  The base-model ROG Ally is priced at $500—the same as the PS5 and Xbox Series X—but has a more powerful processor than those consoles. The ROG Ally with the Z1 Extreme chip costs $700, but it’s even more powerful, allowing you to play newer AAA games. While both ROG Ally models only have a 512GB SSD, they both have a microSD slot, allowing you to expand their storage.
 
- Although these may look pricey, they’re still cheaper than you’ll spend building a gaming PC. According to our[well-rounded PC buying guide](https://www.makeuseof.com/well-rounded-pc-buying-guide/) , you’ll likely pay about $1,000 to build a mid-range gaming PC, while higher-end builds could start at $1,500 or more. However, desktop PCs are more likely to last longer, as you can[upgrade your PC to improve its performance](https://www.makeuseof.com/tag/upgrades-will-improve-pc-performance/) in the future.
+ Although these may look pricey, they’re still cheaper than you’ll spend building a gaming PC. According to our [well-rounded PC buying guide](https://www.makeuseof.com/well-rounded-pc-buying-guide/) , you’ll likely pay about $1,000 to build a mid-range gaming PC, while higher-end builds could start at $1,500 or more. However, desktop PCs are more likely to last longer, as you can [upgrade your PC to improve its performance](https://www.makeuseof.com/tag/upgrades-will-improve-pc-performance/) in the future.
 
 ## 2 Choose Which Games You Want to Play
 
- Before buying a handheld console, you must consider which games you like. If you’re into PlayStation exclusives, you’re pretty much stuck with[the PlayStation Portal](https://www.makeuseof.com/what-is-sony-playstation-portal-handheld/) unless you want to use PlayStation Plus to stream games to Windows-based handhelds, like[the Asus ROG Ally](https://www.makeuseof.com/what-is-asus-rog-ally/) .
+ Before buying a handheld console, you must consider which games you like. If you’re into PlayStation exclusives, you’re pretty much stuck with [the PlayStation Portal](https://www.makeuseof.com/what-is-sony-playstation-portal-handheld/) unless you want to use PlayStation Plus to stream games to Windows-based handhelds, like [the Asus ROG Ally](https://www.makeuseof.com/what-is-asus-rog-ally/) .
 
  On the other hand, Nintendo fans will likely stick with the Switch, especially as the company isn’t a fan of emulators and has continuously blocked and sued emulator developers. If most of your game library is on Steam, then the Steam Deck makes sense as your primary gaming handheld choice.
 
- If you want to run games that are not on Steam and don’t want to[install Windows on your Steam Deck](https://www.makeuseof.com/how-to-install-windows-on-steam-deck/) , you can pick other handhelds like the ROG Ally or MSI Claw, which are portable Windows computers. That way, you’ll have more leeway to install the apps you like.
+ If you want to run games that are not on Steam and don’t want to [install Windows on your Steam Deck](https://www.makeuseof.com/how-to-install-windows-on-steam-deck/) , you can pick other handhelds like the ROG Ally or MSI Claw, which are portable Windows computers. That way, you’ll have more leeway to install the apps you like.
 
- However, not all games are optimized for handheld gaming, even if you can install them on one of these consoles. This is especially true for[real-time strategy games](https://www.makeuseof.com/what-are-real-time-strategy-games-rts-games/) , often designed to be played on a larger screen with a mouse and keyboard. If these are the games you like, we suggest sticking to your PC or at least getting a console dock, like these[great ROG Ally docks](https://www.makeuseof.com/best-rog-ally-docks/) or a genuine Valve Docking Station for the Steam Deck.
+ However, not all games are optimized for handheld gaming, even if you can install them on one of these consoles. This is especially true for [real-time strategy games](https://www.makeuseof.com/what-are-real-time-strategy-games-rts-games/) , often designed to be played on a larger screen with a mouse and keyboard. If these are the games you like, we suggest sticking to your PC or at least getting a console dock, like these [great ROG Ally docks](https://www.makeuseof.com/best-rog-ally-docks/) or a genuine Valve Docking Station for the Steam Deck.
 
-## 3 Determine Whether You Want to Use a Dock
-
-![valve steam deck docked](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/valve-steam-deck-docked.jpg)
+## 3 Determine Whether You Want to Use a Dock ![valve steam deck docked](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/valve-steam-deck-docked.jpg)
 
 [Valve](https://store.steampowered.com/steamdeck)
 
  While handheld gaming consoles give you portability and let you play anywhere, it’s often better to game on a large TV screen. If you don’t have another gaming console attached to your TV or don’t want to spend money on multiple gaming devices, consider getting a handheld that works with a dock.
 
- The best example of a handheld design for docked gaming is the Nintendo Switch. Even though[the Switch is already a six-year-old console](https://www.makeuseof.com/the-nintendo-switch-is-6-years-old-celebrating-the-popular-game-console/) , it’s still an excellent device for both portable and console gaming, especially as it comes with a dock in the box. You also don’t need to purchase separate controllers, as the Switch’s built-in controllers slide off to let two people play simultaneously.
+ The best example of a handheld design for docked gaming is the Nintendo Switch. Even though [the Switch is already a six-year-old console](https://www.makeuseof.com/the-nintendo-switch-is-6-years-old-celebrating-the-popular-game-console/) , it’s still an excellent device for both portable and console gaming, especially as it comes with a dock in the box. You also don’t need to purchase separate controllers, as the Switch’s built-in controllers slide off to let two people play simultaneously.
 
  But if the games you like aren’t Nintendo games, consider getting a handheld console that you can attach to a larger screen through a dock or cable. That way, you can enjoy gaming on a larger screen when available. However, note that you might need a controller or a Bluetooth mouse and keyboard to enjoy gaming on your TV via your handheld, so you should consider these additional expenses if you don’t have them yet.
 
@@ -76,9 +72,7 @@ thumbnail: https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f
 
  But if your games use a lot of battery power, the handheld’s portability advantage diminishes, as you need to find an outlet to recharge it while you’re playing. But if you only play games for less than an hour a day or prefer older, simpler games that don’t require that much power, then a handheld gaming console will make sense for you.
 
-## 5 Check the Specs
-
-![Steam Deck SSD installed without sleeve](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/steam-deck-ssd-installed-without-sleeve-1.JPG)
+## 5 Check the Specs ![Steam Deck SSD installed without sleeve](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/steam-deck-ssd-installed-without-sleeve-1.JPG)
 
  Jhet Borja/MakeUseOf  
 
@@ -109,3 +103,24 @@ thumbnail: https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/which-emulator-outperforms-others-in-pi-gaming-realms-batocera-or-retropie/"><u>Which Emulator Outperforms Others in Pi Gaming Realms, Batocera or RetroPie?</u></a></li>
+<li><a href="https://games-able.techidaily.com/revive-your-consoles-controller-with-a-diy-fix/"><u>Revive Your Console's Controller with a DIY Fix</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-gamify-your-evening-routine-try-netflix-games/"><u>Why Gamify Your Evening Routine - Try Netflix Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-swapping-console-zones/"><u>The Ultimate Guide to Swapping Console Zones</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-tips-for-dealing-with-robloxs-error-403-on-your-computer/"><u>Expert Tips for Dealing with Roblox’s Error 403 on Your Computer</u></a></li>
+<li><a href="https://games-able.techidaily.com/bg3-hw-specs-and-game-store-details/"><u>BG3 HW Specs & Game Store Details</u></a></li>
+<li><a href="https://games-able.techidaily.com/mending-steam-library-linking-issues/"><u>Mending Steam Library Linking Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/slaying-competitors-amds-advances-in-rdna-35-tech-and-launch-timeline/"><u>Slaying Competitors: AMD’s Advances in RDNA 3.5 Tech and Launch Timeline</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-ultimate-hash-tracker-list-for-major-social-media-sites-fbtwitterinsta-for-2024/"><u>[New] Ultimate Hash Tracker List for Major Social Media Sites (FB/Twitter/Insta) for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-sweet-screen-snatcher-examination-in-depth/"><u>In 2024, Sweet Screen Snatcher Examination In-Depth</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/boosting-your-drone-experience-with-these-11-items/"><u>Boosting Your Drone Experience with These 11 Items</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-essentials-checklist-for-evaluating-vidma-recorder/"><u>[Updated] Essentials Checklist for Evaluating Vidma Recorder</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-10-best-inspirational-movies-that-will-make-you-feel-motivated/"><u>[Updated] 10 Best Inspirational Movies That Will Make You Feel Motivated</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-dailymotion-elites-in-snapchat-world/"><u>[Updated] 2024 Approved  Dailymotion Elites in Snapchat World</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transformative-file-conversion-your-quick-srt-to-text-txt-guide/"><u>[Updated] Transformative File Conversion  Your Quick SRT to Text (TXT) Guide</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-locate-vocal-noise-sample/"><u>Updated 2024 Approved Locate Vocal Noise Sample</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/adobe-cloud-storage-demystified-features-functionality-and-alternatives-reviewed/"><u>Adobe Cloud Storage Demystified  Features, Functionality, and Alternatives Reviewed</u></a></li>
+</ul></div>

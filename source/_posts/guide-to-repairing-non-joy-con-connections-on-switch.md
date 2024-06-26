@@ -1,7 +1,7 @@
 ---
 title: Guide to Repairing Non-Joy-Con Connections on Switch
-date: 2024-06-25T10:42:20.245Z
-updated: 2024-06-26T10:42:20.245Z
+date: 2024-06-25T12:48:36.790Z
+updated: 2024-06-26T12:48:36.790Z
 tags:
   - games
 categories:
@@ -24,11 +24,11 @@ thumbnail: https://thmb.techidaily.com/14df3d85d8466ef631a5707d30d5e14919d53addb
 
  In general, there are multiple ways you can troubleshoot hardware, like your Nintendo Switch. But for the issue of Joy-Con not connecting to your Switch, there are a couple of troubleshooting methods that can help to fix the fault or identify whether your Switch is to blame. These troubleshooting methods are as follows:
 
-* Ensure that you[update your Nintendo Switch to the latest system version](https://www.makeuseof.com/how-to-update-nintendo-switch/) . This way, you can guarantee that your Switch has the latest patches and iron out any unknown errors or faults with your console.
+* Ensure that you [update your Nintendo Switch to the latest system version](https://www.makeuseof.com/how-to-update-nintendo-switch/) . This way, you can guarantee that your Switch has the latest patches and iron out any unknown errors or faults with your console.
 
 ![A screenshot of the System Settings for Nintendo Switch with System Update highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/system-settings-nintendo-switch-1.jpg)
 
-* If your console is already up-to-date, you may need to[reset your Nintendo Switch](https://www.makeuseof.com/ways-to-reset-nintendo-switch/) through a soft reset to ensure the update's effects have taken place.
+* If your console is already up-to-date, you may need to [reset your Nintendo Switch](https://www.makeuseof.com/ways-to-reset-nintendo-switch/) through a soft reset to ensure the update's effects have taken place.
 
  As a side note, if you can't navigate your Nintendo Switch due to your Joy-Con not connecting, use your Switch in Handheld mode and utilize the touch screen to access the settings you need to troubleshoot your console.
 
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/14df3d85d8466ef631a5707d30d5e14919d53addb
 
  Luckily, because some Joy-Con issues are relatively common, Nintendo often repairs your Joy-Con for little to no cost. Even so, your Joy-Con also comes with a 12-month warranty. So, even if you would have to pay, if you haven't had your Joy-Con for longer than 12 months, you can get a repair for free.
 
- Therefore, the best steps moving forward when attempting to fix the connectivity issues with your Joy-Con would be to book a repair for your Nintendo Switch console or Joy-Con via[the official Nintendo support page](https://repair.nintendo.com/cc/soConsumer.html) .
+ Therefore, the best steps moving forward when attempting to fix the connectivity issues with your Joy-Con would be to book a repair for your Nintendo Switch console or Joy-Con via [the official Nintendo support page](https://repair.nintendo.com/cc/soConsumer.html) .
 
 ## Guarantee the Functionality of Your Nintendo Switch Console and Joy-Con
 

@@ -1,7 +1,7 @@
 ---
 title: Discover Hidden Game Savings in Promos
-date: 2024-06-21 14:27:12
-updated: 2024-06-24 11:33:40
+date: 2024-06-25T13:23:47.628Z
+updated: 2024-06-26T13:23:47.628Z
 tags:
   - games
 categories:
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/db345622b66c3b6984b775950925cc8114e2a134a
 
  If you instead want to save your offer for later, select**Decide later** . But if you need to transfer ownership of your offer to another Xbox account, you should choose**Redeem for another account** , and follow the on-screen guidance to add a new Xbox account to your console.
 
- But with**Claim it** selected, your Digital Direct offer will be unlocked and available within**My games & apps** on your console. Unfortunately, if you want to alter your offer or if you selected**Decide later** or**Redeem for another account** , the process is more complex and more akin to[managing your Xbox subscriptions from your console](https://www.makeuseof.com/how-to-manage-xbox-subscriptions-from-xbox-series-x-s/) .
+ But with**Claim it** selected, your Digital Direct offer will be unlocked and available within**My games & apps** on your console. Unfortunately, if you want to alter your offer or if you selected**Decide later** or**Redeem for another account** , the process is more complex and more akin to [managing your Xbox subscriptions from your console](https://www.makeuseof.com/how-to-manage-xbox-subscriptions-from-xbox-series-x-s/) .
 
 ## What to Do if You Declined Your Digital Direct Offer
 
@@ -71,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/db345622b66c3b6984b775950925cc8114e2a134a
 
  Your Digital Direct offer will then be redeemed and available, as mentioned previously, within your**My games & apps** library on your console.
 
- While redeeming your Digital Direct offer should be one of the[first things you need to do with your Xbox Series X|S](https://www.makeuseof.com/first-things-to-do-with-xbox-series-x/) , there are many reasons you may want to wait to redeem your offer, including moving it to another account. And despite being hidden, the**Included with this Xbox** option guarantees you can access your offer.
+ While redeeming your Digital Direct offer should be one of the [first things you need to do with your Xbox Series X|S](https://www.makeuseof.com/first-things-to-do-with-xbox-series-x/) , there are many reasons you may want to wait to redeem your offer, including moving it to another account. And despite being hidden, the**Included with this Xbox** option guarantees you can access your offer.
 
 ## Never Miss Any Xbox Games or Offers With Xbox Series X|S
 
@@ -87,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/db345622b66c3b6984b775950925cc8114e2a134a
 
 ### Q: How Do You Claim Your Reward Points on Xbox Series X|S?
 
- To[redeem Microsoft Reward Points on your Xbox Series X|S](https://www.makeuseof.com/how-to-redeem-microsoft-reward-points-on-xbox-series-xs/) , open the**Microsoft Rewards on Xbox** application from**My games & apps** . With the app loaded, open the**Redeem** tab and select the reward you want to exchange your Microsoft Reward Points. Select**Redeem reward** to claim your chosen benefit.
+ To [redeem Microsoft Reward Points on your Xbox Series X|S](https://www.makeuseof.com/how-to-redeem-microsoft-reward-points-on-xbox-series-xs/) , open the**Microsoft Rewards on Xbox** application from**My games & apps** . With the app loaded, open the**Redeem** tab and select the reward you want to exchange your Microsoft Reward Points. Select**Redeem reward** to claim your chosen benefit.
 
 ### Q: Do Xbox Digital Direct Offers and Codes Expire?
 
@@ -108,3 +108,22 @@ thumbnail: https://thmb.techidaily.com/db345622b66c3b6984b775950925cc8114e2a134a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/top-20-best-gamer-progress-tools/"><u>Top 20 Best Gamer Progress Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-cozy-games-appeal/"><u>Discovering Cozy Games Appeal</u></a></li>
+<li><a href="https://games-able.techidaily.com/sony-ps5-remote-health-when-and-how-to-restart-correctly/"><u>Sony PS5 Remote Health: When and How to Restart Correctly</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-grip-challenge-steering-wheel-or-virtual-dashboard/"><u>The Ultimate Grip Challenge: Steering Wheel or Virtual Dashboard</u></a></li>
+<li><a href="https://games-able.techidaily.com/become-a-pokemon-expert-iphone-and-ipad-gameplay-secrets/"><u>Become a Pokémon Expert: IPhone & iPad Gameplay Secrets</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionizing-interaction-meta-quest-3-insights/"><u>Revolutionizing Interaction: Meta Quest 3 Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/uninterrupted-gameplay-with-xbox-s-controller/"><u>Uninterrupted Gameplay with Xbox S Controller</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-nokia-105-classic-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-harmonious-sound-editing-guide-advantages-disadvantages-and-substitutes/"><u>Updated 2024 Approved Harmonious Sound Editing Guide Advantages, Disadvantages, and Substitutes</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-fb-a-resource-for-video-discovery-enthusiasts-for-2024/"><u>[New] FB   A Resource for Video Discovery Enthusiasts for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-adobe-premiere-pro-tutorial-how-to-remove-camera-shake-and-stabilize-footage-for-2024/"><u>New Adobe Premiere Pro Tutorial How to Remove Camera Shake and Stabilize Footage for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-easy-guide-to-instagram-post-duplication/"><u>[Updated] 2024 Approved  Easy Guide to Instagram Post Duplication</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-chromebooks-free-screen-capture-leaders-reviewed/"><u>[New] 2024 Approved  Chromebook's Free Screen Capture Leaders Reviewed</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-cyber-snicker-generator/"><u>[Updated] In 2024, Cyber Snicker Generator</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Joining Worlds Together: Using PS5 Controller on Windows PC"
-date: 2024-06-23 12:20:56
-updated: 2024-06-24 12:29:33
+date: 2024-06-25T12:58:36.209Z
+updated: 2024-06-26T12:58:36.209Z
 tags:
   - games
 categories:
@@ -29,9 +29,7 @@ thumbnail: https://thmb.techidaily.com/fea69578f265b77158961ce9649233eee0ace50ab
 
  The PS5's DualSense controller is a popular choice among gamers for its comfort and advanced features. You can also connect it to your PC with a wired or wireless connection. Here's how.
 
-## How to Connect the PS5 DualSense Controller to a PC With a USB Cable
-
-![Playstation 5 controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/playstation-controller-usbc.jpg)
+## How to Connect the PS5 DualSense Controller to a PC With a USB Cable ![Playstation 5 controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/playstation-controller-usbc.jpg)
 
  Amir M. Bohlooli/MakeUseOf
 
@@ -43,13 +41,11 @@ thumbnail: https://thmb.techidaily.com/fea69578f265b77158961ce9649233eee0ace50ab
 
  That's about it! Your controller is now usable and you can go ahead and play video games. Once you launch a video game with controller support, your PS5 controller will shine with a white glow around the touchpad.
 
-## How to Connect the PS5 DualSense Controller to a PC With Bluetooth
-
-![PlayStation 5 controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/playstation-dualsense-keymap.jpg)
+## How to Connect the PS5 DualSense Controller to a PC With Bluetooth ![PlayStation 5 controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/playstation-dualsense-keymap.jpg)
 
  Amir M. Bohlooli/MakeUseOf
 
- If you want to play games on your PC without having to deal with wires, you can connect your PS5 controller to your PC through Bluetooth. If your PC doesn't have built-in Bluetooth, you can[add Bluetooth to your PC with the help of a Bluetooth adapter](https://www.makeuseof.com/add-bluetooth-pc/) .
+ If you want to play games on your PC without having to deal with wires, you can connect your PS5 controller to your PC through Bluetooth. If your PC doesn't have built-in Bluetooth, you can [add Bluetooth to your PC with the help of a Bluetooth adapter](https://www.makeuseof.com/add-bluetooth-pc/) .
 
  To put the PS5 controller in Bluetooth pairing mode, you need to hold down the PS and Create buttons simultaneously. The Create button is the same as the Share button on DualShock 4 controllers.
 
@@ -71,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/fea69578f265b77158961ce9649233eee0ace50ab
 
  Steam is an icon of PC gaming, but that doesn't mean that Steam is all about keyboards and mice. In fact, Steam has native controller support for all video games played on it. You can use this feature to calibrate and customize your PS5 controller for games you play on Steam.
 
- This means that even if you're playing a non-Steam game, you can easily[add the non-Steam game to your Steam library](https://www.makeuseof.com/how-to-add-non-steam-games-to-steam-library/) and enjoy the controller support provided by Steam—which is especially useful for games that don't have built-in support for the DualSense controller.
+ This means that even if you're playing a non-Steam game, you can easily [add the non-Steam game to your Steam library](https://www.makeuseof.com/how-to-add-non-steam-games-to-steam-library/) and enjoy the controller support provided by Steam—which is especially useful for games that don't have built-in support for the DualSense controller.
 
  Steam detects and enables the PS5 controller by default, but you can check to make sure your PS5 controller is connected to Steam by following these steps:
 
@@ -126,15 +122,15 @@ You can follow these steps in Steam to set a shutdown timer:
 
 ![Enabling game rumble in Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/enabling-game-rumble-in-steam.jpg)
 
- Setting up your controller for Steam will ensure that your controller is compatible with all Steam games. Once you've set up your controller, you can use[Steam's Big Picture mode](https://www.makeuseof.com/what-is-steam-big-picture-mode-explained/) to navigate through the Steam interface with your PS5 controller smoothly.
+ Setting up your controller for Steam will ensure that your controller is compatible with all Steam games. Once you've set up your controller, you can use [Steam's Big Picture mode](https://www.makeuseof.com/what-is-steam-big-picture-mode-explained/) to navigate through the Steam interface with your PS5 controller smoothly.
 
 ## How to Fix PS5 DualSense Controller Issues on PC
 
  Connecting your PS5 controller to your PC is usually a straightforward process, but sometimes things can go wrong. Here are some common issues that can arise and how to fix them:
 
 * **PS5 controller charging through USB but not connecting** : Make sure that you're using a data transfer cable to connect your PS5 controller to your PC. Some cables are for charging only and don't have data transfer capabilities. If you're not sure if your cable is a data transfer cable, try a different one.
-* **Controller not working properly** : If your PS5 controller is not working correctly, it may be due to outdated firmware. Fortunately, you don't need a PS5 to update it—you can[update your PS5 controller via your PC](http://www.makeuseof.com/ps5-how-to-update-controller-through-pc/) .
-* **No audio when the PS5 controller is connected** : This issue, ironically, stems from the PS5 controller's extended features. The PS5 controller has speakers and a microphone. As a result, when you connect it to your computer through USB, it's likely that your computer will switch the audio output to your controller. You can easily fix this by[disabling the sound output device in Windows](https://www.makeuseof.com/enable-disable-sound-output-devices-in-windows/) labeled DualSense Wireless Controller.
+* **Controller not working properly** : If your PS5 controller is not working correctly, it may be due to outdated firmware. Fortunately, you don't need a PS5 to update it—you can [update your PS5 controller via your PC](http://www.makeuseof.com/ps5-how-to-update-controller-through-pc/) .
+* **No audio when the PS5 controller is connected** : This issue, ironically, stems from the PS5 controller's extended features. The PS5 controller has speakers and a microphone. As a result, when you connect it to your computer through USB, it's likely that your computer will switch the audio output to your controller. You can easily fix this by [disabling the sound output device in Windows](https://www.makeuseof.com/enable-disable-sound-output-devices-in-windows/) labeled DualSense Wireless Controller.
 
  Connecting your PS5 controller to your PC is quick and easy, and it opens up a whole new world of gaming possibilities. Whether you prefer a wired or wireless connection, you can use your DualSense controller to play games on your computer and customize your gaming experience.
 
@@ -153,3 +149,23 @@ You can follow these steps in Steam to set a shutdown timer:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/exploring-non-alcoholic-pathways-for-endocannabinoid-delivery-to-the-brain/"><u>Exploring Non-Alcoholic Pathways for Endocannabinoid Delivery to the Brain</u></a></li>
+<li><a href="https://games-able.techidaily.com/play-responsibly-skip-the-ps5-controllers-mic/"><u>Play Responsibly: Skip the PS5 Controller's Mic</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-mobile-steam-gaming-via-link/"><u>The Ultimate Guide to Mobile Steam Gaming via Link</u></a></li>
+<li><a href="https://games-able.techidaily.com/rectifying-discrepancies-of-installed-games-on-steam/"><u>Rectifying Discrepancies of Installed Games on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-choice-finding-a-top-tier-144hz-monitor/"><u>The Best Choice: Finding a Top-Tier 144Hz Monitor</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-offline-mysteries-in-xboxs-world/"><u>Navigating Offline Mysteries in Xbox's World</u></a></li>
+<li><a href="https://games-able.techidaily.com/four-prevalent-graphics-card-issues-how-to-fix-them/"><u>Four Prevalent Graphics Card Issues: How To Fix Them</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-xr-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone XR Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/actionable-solutions-for-converting-xml-ssa-ttml-etc-to-srt-for-2024/"><u>Actionable Solutions for Converting XML, SSA, TTML, Etc., To SRT for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/hidden-facts-about-instagram-stories-a-closer-look-for-viewers/"><u>Hidden Facts About Instagram Stories  A Closer Look for Viewers</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-xiaomi-civi-3-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Xiaomi Civi 3? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-top-techniques-for-captivating-tiktok-audien-written-by-your-name-for-2024/"><u>[New] Top Techniques for Captivating TikTok Audien Written by [Your Name] for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-tecno-pova-6-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Tecno Pova 6 Pro 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-best-10-websites-to-download-montage-music/"><u>Updated Best 10 Websites to Download Montage Music</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/in-2024-all-about-types-of-motion-graphics/"><u>In 2024, All About Types of Motion Graphics</u></a></li>
+</ul></div>

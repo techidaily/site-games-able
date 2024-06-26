@@ -1,7 +1,7 @@
 ---
 title: Custom Fan Curve Configuration for Improved Graphics
-date: 2024-06-22 16:15:48
-updated: 2024-06-24 12:39:38
+date: 2024-06-25T13:29:07.722Z
+updated: 2024-06-26T13:29:07.722Z
 tags:
   - games
 categories:
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/d4c3e08ad2c1079e3a0235e50a952e0f146bf5d50
 
 ## Why Should You Use a Custom GPU Fan Curve?
 
-![1080 Ti fans](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/1080-ti-fans.JPG)
+![1080 Ti fans](https://thmb.techidaily.com/7886b93aef2a0639ec1e094763681d9231c505608c149e23de7fcb6df36e4813.JPG)
 
 Jhet Borja/MakeUseOf
 
@@ -44,25 +44,23 @@ Jhet Borja/MakeUseOf
 
 Jhet Borja/MakeUseOf
 
- If you're trying to get the lowest GPU temperatures and the most performance for your graphics card, you might also want to check out[how to replace your graphics card's thermal paste](https://www.makeuseof.com/how-reapply-thermal-paste-graphics-card/) or[undervolt your graphics card](https://www.makeuseof.com/how-to-undervolt-graphics-card/) .
+ If you're trying to get the lowest GPU temperatures and the most performance for your graphics card, you might also want to check out [how to replace your graphics card's thermal paste](https://www.makeuseof.com/how-reapply-thermal-paste-graphics-card/) or [undervolt your graphics card](https://www.makeuseof.com/how-to-undervolt-graphics-card/) .
 
 ## Should Your GPU Fans Run at 100%?
 
- If you run your GPU fans at 100%, they will wear out quicker than normal. It'll still take a while, but in most cases, it'll just be the lubricant drying out, which can easily be fixed with a single tiny drop of[Krytox GPL 105](https://www.amazon.com/Mechanical-Keyboard-Switches-Stabilizer-Lubricant/dp/B09YV7TMKV?tag=makeusw-20&ascsubtag=UUmuoUeUpU2031241&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Flower-gpu-temperature-custom-fan-curve%2F&asc%5Fcampaign=Evergreen) ,[Super Lube 51010](https://www.amazon.com/Super-Lube-51010-Oil/dp/B000BXOGHY?tag=makeusw-20&ascsubtag=UUmuoUeUpU2031241&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Flower-gpu-temperature-custom-fan-curve%2F&asc%5Fcampaign=Evergreen) , or other dielectric oils.
+ If you run your GPU fans at 100%, they will wear out quicker than normal. It'll still take a while, but in most cases, it'll just be the lubricant drying out, which can easily be fixed with a single tiny drop of [Krytox GPL 105](https://www.amazon.com/Mechanical-Keyboard-Switches-Stabilizer-Lubricant/dp/B09YV7TMKV?tag=makeusw-20&ascsubtag=UUmuoUeUpU2031241&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Flower-gpu-temperature-custom-fan-curve%2F&asc%5Fcampaign=Evergreen) ,[Super Lube 51010](https://www.amazon.com/Super-Lube-51010-Oil/dp/B000BXOGHY?tag=makeusw-20&ascsubtag=UUmuoUeUpU2031241&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Flower-gpu-temperature-custom-fan-curve%2F&asc%5Fcampaign=Evergreen) , or other dielectric oils.
 
- However, in rare cases, the motor might need replacing as well. However, a[replacement graphics card fan](https://www.amazon.com/s?k=Graphics+card+fan&tag=makeusw-20&ascsubtag=UUmuoUeUpU2031241&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Flower-gpu-temperature-custom-fan-curve%2F&asc%5Fcampaign=Evergreen) is much cheaper and easier to fix than a dead GPU. You'll have to consider whether potentially needing a fan replacement sooner and a noisier system is worth lifting the performance cap.
+ However, in rare cases, the motor might need replacing as well. However, a [replacement graphics card fan](https://www.amazon.com/s?k=Graphics+card+fan&tag=makeusw-20&ascsubtag=UUmuoUeUpU2031241&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Flower-gpu-temperature-custom-fan-curve%2F&asc%5Fcampaign=Evergreen) is much cheaper and easier to fix than a dead GPU. You'll have to consider whether potentially needing a fan replacement sooner and a noisier system is worth lifting the performance cap.
 
 ## How to Set a Custom GPU Fan Curve to Boost Gaming Performance
 
  Setting a custom fan curve is incredibly easy and something you shouldn't be intimidated by. Below, you'll not only learn how to make a custom fan curve but also understand how to make a fan curve that's best for your hardware.
 
-### Step 1: Download MSI Afterburner, Unigine Heaven, and HWinfo
-
-![Auto fan speed 0.963v test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/auto-fan-speed-0-963v-test.jpg)
+### Step 1: Download MSI Afterburner, Unigine Heaven, and HWinfo ![Auto fan speed 0.963v test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/auto-fan-speed-0-963v-test.jpg)
 
  You'll be using three programs to create and find the best fan curve for your graphics card.
 
- To create a custom fan curve, we'll be using[MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) .[Unigine Heaven](https://benchmark.unigine.com/heaven) will be the benchmark software you'll use to put your graphics card up to temperature, and[HWinfo](https://www.hwinfo.com/download/) will help you see your GPU temperatures in detail.
+ To create a custom fan curve, we'll be using [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) .[Unigine Heaven](https://benchmark.unigine.com/heaven) will be the benchmark software you'll use to put your graphics card up to temperature, and [HWinfo](https://www.hwinfo.com/download/) will help you see your GPU temperatures in detail.
 
 ![MSI Mystic Afterburner skin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/msi-mystic-afterburner-skin.jpg)
 
@@ -89,9 +87,7 @@ Jhet Borja/MakeUseOf
 
  Now that we have the information, we can now put it to use in our custom GPU fan curve.
 
-### Step 3: Creating Your Custom GPU Fan Curve Using MSI Afterburner
-
-![0% and 100% fan speed poitns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/0-and-100-fan-speed-poitns.jpg)
+### Step 3: Creating Your Custom GPU Fan Curve Using MSI Afterburner ![0% and 100% fan speed poitns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/0-and-100-fan-speed-poitns.jpg)
 
  To create a custom GPU fan curve in MSI Afterburner, click**Settings** **\> Fan** . Here, you can move the points around to create your own fan curve. We've deleted all the other points and set 0% fan speed at 50°C and 100% fan speed at 75°C. You can also choose a lower maximum speed if you want.
 
@@ -122,3 +118,23 @@ Jhet Borja/MakeUseOf
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/newer-generation-question-can-you-run-classic-ps3-titles-on-ps4/"><u>Newer Generation Question: Can You Run Classic PS3 Titles on PS4</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-step-by-step-guide-for-a-supercharged-ps4-experience/"><u>A Step-by-Step Guide for a Supercharged PS4 Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-steams-in-game-purchasing-power/"><u>Unlocking Steam's In-Game Purchasing Power</u></a></li>
+<li><a href="https://games-able.techidaily.com/fostering-financial-growth-in-virtual-shopping-on-steam/"><u>Fostering Financial Growth in Virtual Shopping on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-cost-effective-powerful-3d-games/"><u>Crafting Cost-Effective, Powerful 3D Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-titles-need-top-tech-for-optimal-play/"><u>Top Titles Need Top Tech for Optimal Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/currents-of-creativity-more-than-electricity/"><u>Currents of Creativity: More Than Electricity</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-complete-guide-to-selecting-high-performance-fpv-drone-propellers/"><u>[Updated] The Complete Guide to Selecting High-Performance FPV Drone Propellers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-examining-the-unseen-history-of-your-social-media-activity/"><u>2024 Approved  Examining the Unseen History of Your Social Media Activity</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/popular-pictures-the-backstage-story/"><u>Popular Pictures  The Backstage Story</u></a></li>
+<li><a href="https://extra-information.techidaily.com/creating-videography-magic-from-photos-and-beats/"><u>Creating Videography Magic From Photos & Beats</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-v29-pro-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo V29 Pro to iPad | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/3gp-cutter-how-to-cut-3gp-files/"><u>3GP Cutter How to Cut 3GP Files</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-nubia-red-magic-9-pro-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Nubia Red Magic 9 Pro Pattern Lock Screen</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-beam-your-ideas-master-screencast-with-ezvide-video-maker/"><u>In 2024, Beam Your Ideas  Master Screencast with EZvide Video Maker</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-video-reversal-made-simple-a-beginners-guide-to-final-cut-pro-for-2024/"><u>Updated Video Reversal Made Simple A Beginners Guide to Final Cut Pro for 2024</u></a></li>
+</ul></div>

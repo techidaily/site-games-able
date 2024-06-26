@@ -1,7 +1,7 @@
 ---
 title: "The Future of Personalized Medicine: Tailoring Endocannabinoid Treatments"
-date: 2024-06-21 10:50:22
-updated: 2024-06-23 10:39:47
+date: 2024-06-25T13:27:56.452Z
+updated: 2024-06-26T13:27:56.452Z
 tags:
   - games
 categories:
@@ -36,11 +36,11 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
 
 ## How Do I Set Up an Assist Controller on My PS5?
 
- There are a few things to note before getting started. Firstly, the ability to connect an assist controller to your PS5 was introduced in an update. So, if you haven’t[enabled auto-updates on your PS5](https://www.makeuseof.com/how-to-enable-ps5-auto-updates/) yet, go ahead and update your PS5 manually to the latest version.
+ There are a few things to note before getting started. Firstly, the ability to connect an assist controller to your PS5 was introduced in an update. So, if you haven’t [enabled auto-updates on your PS5](https://www.makeuseof.com/how-to-enable-ps5-auto-updates/) yet, go ahead and update your PS5 manually to the latest version.
 
  You also can’t use any controller as an assist controller. You can only connect a DualSense controller or another supported third-party controller. If you have the DualSense Edge controller, it can only be used as the main controller and cannot be used as an assist controller.
 
- Once you have ticked the boxes above, you are ready to begin. The process is very similar to[setting up and using the copilot feature on Xbox](https://www.makeuseof.com/how-to-set-up-and-use-co-pilot-on-xbox-series-xs/) , so if you have experience with that, it should be intuitive.
+ Once you have ticked the boxes above, you are ready to begin. The process is very similar to [setting up and using the copilot feature on Xbox](https://www.makeuseof.com/how-to-set-up-and-use-co-pilot-on-xbox-series-xs/) , so if you have experience with that, it should be intuitive.
 
 ![Settings Gear Icon PS5 Home Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/settings-gear-icon-ps5-home-screen.jpg)
 
@@ -89,3 +89,22 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/clearing-up-roblox-memory-overload-on-your-iphone/"><u>Clearing Up Roblox Memory Overload on Your iPhone</u></a></li>
+<li><a href="https://games-able.techidaily.com/quietude-in-action-optimizing-audio-for-serious-gamers/"><u>Quietude in Action: Optimizing Audio for Serious Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/tips-for-earning-early-starfield-access-credits/"><u>Tips for Earning Early Starfield Access Credits</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719169576213-play-retro-games-iphone-compatible-nes-and-snes-titles/"><u>Play Retro Games: IPhone-Compatible NES & SNES Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/join-the-fun-why-netflixs-gameplay-seduces-us/"><u>Join the Fun: Why Netflix's Gameplay Seduces Us</u></a></li>
+<li><a href="https://games-able.techidaily.com/does-older-dock-suit-the-new-switch-oled-model/"><u>Does Older Dock Suit the New Switch OLED Model?</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-recovery-addressing-common-series-sandx-problems/"><u>Xbox Recovery: Addressing Common Series S&X Problems</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-bypass-watermarks-on-iphone-download-tiktok-videos/"><u>[New] 2024 Approved  Bypass Watermarks on iPhone  Download TikTok Videos</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-vivo-y100a-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Vivo Y100A Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-oppo-find-x6-pro-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Oppo Find X6 Pro Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-infinix-hot-30i-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Infinix Hot 30i to iPhone | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-expert-strategies-for-fbx-filming-in-video-games/"><u>2024 Approved  Expert Strategies for FBX Filming in Video Games</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-lightning-leap-fame-mastering-instagram-with-these-15-essential-easy-tips-for-overnight-success/"><u>[New] Lightning Leap Fame  Mastering Instagram with These 15 Essential, Easy Tips for Overnight Success</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transform-your-file-management-free-cloud-storage-service-guide-for-2024/"><u>Transform Your File Management - Free Cloud Storage Service Guide for 2024</u></a></li>
+</ul></div>

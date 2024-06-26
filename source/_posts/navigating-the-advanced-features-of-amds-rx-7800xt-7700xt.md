@@ -1,7 +1,7 @@
 ---
 title: Navigating the Advanced Features of AMD's RX 7800XT, 7700XT
-date: 2024-06-21 12:57:43
-updated: 2024-06-23 10:50:33
+date: 2024-06-25T13:20:19.213Z
+updated: 2024-06-26T13:20:19.213Z
 tags:
   - games
 categories:
@@ -28,13 +28,13 @@ thumbnail: https://thmb.techidaily.com/e431075a9d1c5a5fc01489c600cd9d77b46bf785e
 
  For starters, both the Radeon RX 7800 XT and RX 7700 XT are built around AMD's brand-new Navi 32 GPU die, which adopts a chiplet-based design to reduce manufacturing costs and facilitate production. Like before, the central section of this GPU features a relatively smaller GCD (Graphics Compute Die) than Navi 31 (fabricated on TSMC's N5 process), flanked by four MCDs (Memory Complex Die) utilizing an older yet efficient N6 technology.
 
- Consequently, AMD's Radeon RX 7800 XT and RX 7700 XT share a similar configuration with the flagship RX 7900 Series (we've previously compared[RX 7900 XTX vs. RX 7900 XT](https://www.makeuseof.com/amd-radeon-rx-7900-xtx-vs-rx-7900-xt-comparison/) ), as opposed to the[budget-oriented RX 7600](https://www.makeuseof.com/amd-launches-radeon-rx-7600-what-to-expect/) , which employs a monolithic Navi 33 die. On paper, the RX 7800 XT benefits from a fully unlocked Navi 32 GPU, incorporating 60 CUs (or 3,840 Stream Processors), 120 AI accelerators, 64MB of Infinity Cache, and 16GB of GDDR6 memory (clocked at 19.5Gbps) over a 256-bit memory bus.
+ Consequently, AMD's Radeon RX 7800 XT and RX 7700 XT share a similar configuration with the flagship RX 7900 Series (we've previously compared [RX 7900 XTX vs. RX 7900 XT](https://www.makeuseof.com/amd-radeon-rx-7900-xtx-vs-rx-7900-xt-comparison/) ), as opposed to the [budget-oriented RX 7600](https://www.makeuseof.com/amd-launches-radeon-rx-7600-what-to-expect/) , which employs a monolithic Navi 33 die. On paper, the RX 7800 XT benefits from a fully unlocked Navi 32 GPU, incorporating 60 CUs (or 3,840 Stream Processors), 120 AI accelerators, 64MB of Infinity Cache, and 16GB of GDDR6 memory (clocked at 19.5Gbps) over a 256-bit memory bus.
 
  Meanwhile, the RX 7700 XT uses a cut-down version of the same GPU die with three active MCDs, housing 54 CUs (or 3,456 cores), 108 AI accelerators, 48MB of Infinity Cache, and 12GB of GDDR6 memory (on a narrower 192-bit memory bus) clocked at around 18Gbps. Owing to these adjustments, the RX 7700 XT prioritizes slightly higher clock speeds than the RX 7800 XT, registering an average Game Clock of 2,171MHz and a maximum Boost Clock of 2,544MHz.
 
  Regarding power consumption, both GPUs from AMD remain comparable across the board, with the RX 7700 XT officially rated at 245W, whilst the RX 7800 XT exhibits a marginal increase in its TBP of about 18W. Despite the RDNA 3 microarchitecture's generational improvement, Team Red's upcoming duo still suffers from an inferior power profile compared to Nvidia's AD104 and AD106 silicon.
 
- Aside from the differences in compute performance, memory subsystem, power consumption, and core frequencies, the Radeon RX 7800 XT and RX 7700 XT take advantage of all the latest and greatest features associated with the RDNA 3 microarchitecture. Both variants offer native support for the new[DisplayPort 2.1 standard](https://www.makeuseof.com/everything-you-need-to-know-displayport-21/) , AV1 encoding and decoding, along with other proprietary technologies from Team Red, including Radeon Super Resolution, Radeon Anti-Lag, and many more.
+ Aside from the differences in compute performance, memory subsystem, power consumption, and core frequencies, the Radeon RX 7800 XT and RX 7700 XT take advantage of all the latest and greatest features associated with the RDNA 3 microarchitecture. Both variants offer native support for the new [DisplayPort 2.1 standard](https://www.makeuseof.com/everything-you-need-to-know-displayport-21/) , AV1 encoding and decoding, along with other proprietary technologies from Team Red, including Radeon Super Resolution, Radeon Anti-Lag, and many more.
 
  Moving on to the connectivity front, AMD's port configuration for the RX 7800 XT and RX 7700 XT misses out on the highly convenient USB-C Virtual Link connector, as seen previously in the RX 7900 Series. While providing a maximum of four video outputs, the upcoming models will include three DisplayPort 2.1 UHBR13.5 ports (at data rates up to 54Gbps) alongside a single HDMI 2.1 connector.
 
@@ -108,3 +108,27 @@ thumbnail: https://thmb.techidaily.com/e431075a9d1c5a5fc01489c600cd9d77b46bf785e
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/contrary-to-belief-the-strength-of-30fps/"><u>Contrary to Belief: The Strength of 30FPS</u></a></li>
+<li><a href="https://games-able.techidaily.com/predicting-pc-gamings-leaders-is-it-apple/"><u>Predicting PC Gaming's Leaders – Is It Apple?</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-list-of-best-pads-for-gamers/"><u>Exclusive List of Best Pads for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-steam-deck-storage-switcheroo/"><u>Mastering the Art of Steam Deck Storage Switcheroo</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-your-steam-deck-potential-with-top-9-emulators/"><u>Maximizing Your Steam Deck Potential with Top 9 Emulators</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-a-tailored-ps5-games-package-list/"><u>Crafting a Tailored PS5 Games Package List</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-console-content-psplus-or-xbox-game-pass/"><u>Ultimate Console Content: PS+ or Xbox Game Pass?</u></a></li>
+<li><a href="https://games-able.techidaily.com/seize-the-day-with-exhilarating-game-hits-all-for-free/"><u>Seize the Day with Exhilarating Game Hits (All for Free!)</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-ps5-buying-process-wisely/"><u>Navigating the PS5 Buying Process Wisely</u></a></li>
+<li><a href="https://games-able.techidaily.com/legacy-console-emulation-via-linux-command-line/"><u>Legacy Console Emulation via Linux Command Line</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-ephemeral-echoes-of-facebook/"><u>[New] In 2024, Ephemeral Echoes of Facebook</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-oppo-a58-4g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Oppo A58 4G</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-jailbreak-icloud-locked-apple-iphone-se-by-drfone-ios/"><u>In 2024, How to jailbreak iCloud locked Apple iPhone SE</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-engaging-audiences-writing-compelling-titles-and-descriptions-for-youtube/"><u>[New] In 2024, Engaging Audiences  Writing Compelling Titles and Descriptions for YouTube</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-a-complete-guideline-to-better-use-quicktime-player-for-2024/"><u>Updated A Complete Guideline To Better Use QuickTime Player for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-leading-edge-quick-frame-gatherer-5/"><u>[New] 2024 Approved  Leading Edge  Quick Frame Gatherer #5</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-zte-blade-a73-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 ZTE Blade A73 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-motorola-moto-g34-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-club-craft-how-to-download-best-dj-vids/"><u>[New] In 2024, Club Craft  How to Download Best DJ Vids</u></a></li>
+</ul></div>

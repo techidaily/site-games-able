@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Connect Classic Games with MyPics W11"
-date: 2024-06-23 22:21:56
-updated: 2024-06-24 12:52:30
+date: 2024-06-25T13:23:14.004Z
+updated: 2024-06-26T13:23:14.004Z
 tags:
   - games
 categories:
@@ -26,11 +26,9 @@ thumbnail: https://thmb.techidaily.com/d273051a98d6681ad00d9eef8a0a1e7b14cf2a7e1
 
  This is a compatibility measure, intended to allow programs designed for older Windows versions to still work. Unfortunately, this can create new issues for older programs.
 
-## How to Give Read Access Rights for Older Games
+## How to Give Read Access Rights for Older Games ![screenshot of my pictures folder modifying permission](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_my_pictures_folder_modifying_permissions.jpg)
 
-![screenshot of my pictures folder modifying permission](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_my_pictures_folder_modifying_permissions.jpg)
-
- The easiest way to enable older games to read the My Pictures folder is to grant global read permissions to this folder. This is a similar process to[solving "Access Denied" folder errors in Windows](https://www.makeuseof.com/tag/fix-access-denied-folders-windows-10/) .
+ The easiest way to enable older games to read the My Pictures folder is to grant global read permissions to this folder. This is a similar process to [solving "Access Denied" folder errors in Windows](https://www.makeuseof.com/tag/fix-access-denied-folders-windows-10/) .
 
  Start by right-clicking the My Pictures folder and hitting**Properties.** Then open the**Security** tab and click**Advanced.**
 
@@ -85,3 +83,22 @@ thumbnail: https://thmb.techidaily.com/d273051a98d6681ad00d9eef8a0a1e7b14cf2a7e1
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/estimate-your-systems-vram-quantity/"><u>Estimate Your System’s VRAM Quantity</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-dungeon-crafting-six-chatgpt-approaches-to-perfect-game-guidance/"><u>Enhancing Dungeon Crafting: Six ChatGPT Approaches to Perfect Game Guidance</u></a></li>
+<li><a href="https://games-able.techidaily.com/premier-ps5-flash-drive-choices/"><u>Premier PS5 Flash Drive Choices</u></a></li>
+<li><a href="https://games-able.techidaily.com/ideal-accessories-and-mods-for-a-superior-ps5/"><u>Ideal Accessories and Mods for a Superior PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-seated-partnership-titles-top-16-xbox-series-choices/"><u>Superior Seated Partnership Titles - Top 16 Xbox Series Choices</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-boy-rediscovered-a-terminal-play-guide/"><u>Game Boy Rediscovered: A Terminal Play Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/xna-evolution-directx-11-vs-directx-12/"><u>XNA Evolution: DirectX 11 Vs. DirectX 12</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-motorola-moto-e13-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Motorola Moto E13 and Browser | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/a-creators-primer-to-understanding-major-content-providers-for-2024/"><u>A Creator's Primer to Understanding Major Content Providers for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-advanced-guide-to-documenting-online-sport-spectacles/"><u>[Updated] In 2024, Advanced Guide to Documenting Online Sport Spectacles</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-legends-of-arcade-combat-nintendos-top-ten-on-switch/"><u>[Updated] In 2024, Legends of Arcade Combat  Nintendo's Top Ten on Switch</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-crafting-memes-magic-transform-your-tiktoks-into-gifs/"><u>2024 Approved  Crafting Memes Magic  Transform Your TikToks Into GIFs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-unlocking-the-secrets-of-successful-google-meet-engagement/"><u>In 2024, Unlocking the Secrets of Successful Google Meet Engagement</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-itel-p55plus-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Itel P55+ to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+</ul></div>

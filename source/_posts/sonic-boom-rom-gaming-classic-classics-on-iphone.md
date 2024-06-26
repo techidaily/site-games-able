@@ -1,7 +1,7 @@
 ---
 title: "Sonic Boom ROM Gaming: Classic Classics on iPhone"
-date: 2024-06-25T10:40:45.772Z
-updated: 2024-06-26T10:40:45.772Z
+date: 2024-06-25T12:48:35.783Z
+updated: 2024-06-26T12:48:35.783Z
 tags:
   - games
 categories:
@@ -26,11 +26,11 @@ thumbnail: https://thmb.techidaily.com/bf80edb76b200416e748e081aeadfa243850d855f
 
 ## Using the Delta Emulator to Play Retro Nintendo Games
 
- Previously, you had to[sideload emulator apps like Delta on your iPhone](https://www.makeuseof.com/how-to-sideload-iphone-apps-without-jailbreak/) using third-party app stores like AltStore. But thankfully, Apple updated its[App Review Guidelines](https://developer.apple.com/news/?id=0kjli9o1) in April 2024 to allow retro game console emulators on the App Store.
+ Previously, you had to [sideload emulator apps like Delta on your iPhone](https://www.makeuseof.com/how-to-sideload-iphone-apps-without-jailbreak/) using third-party app stores like AltStore. But thankfully, Apple updated its [App Review Guidelines](https://developer.apple.com/news/?id=0kjli9o1) in April 2024 to allow retro game console emulators on the App Store.
 
  As a result, you can now easily install Delta just like any other app. But before you can actually use the app to play Nintendo games, you need the ROM file for the game you want to play. But how do you get the ROM file, you ask?
 
- If you own the game cartridge, you can use a cartridge dumper like[Epilogue's GB Operator](https://www.epilogue.co/product/gb-operator) with your PC to extract the ROM file from your cartridge legally. Then, you can transfer the ROM file from your PC to your iPhone and follow the steps below in Delta to start playing:
+ If you own the game cartridge, you can use a cartridge dumper like [Epilogue's GB Operator](https://www.epilogue.co/product/gb-operator) with your PC to extract the ROM file from your cartridge legally. Then, you can transfer the ROM file from your PC to your iPhone and follow the steps below in Delta to start playing:
 
 **Download:** [Delta](https://apps.apple.com/us/app/delta-game-emulator/id1048524688) (Free)
 
@@ -65,9 +65,9 @@ Close
 
  Like ROM files, downloading or importing BIOS files for consoles you don't own is strictly illegal. So, unless you own a Nintendo DS, don't try to import its BIOS files into Delta.
 
- As you can see, setting up the Delta emulator to play Nintendo games is pretty straightforward as long as you have the required files. Although Delta is just one of[the many Game Boy Advance emulators for iOS devices](https://www.makeuseof.com/best-gba-emulators-for-ios/) , its availability on the App Store makes it our recommended choice now more than ever.
+ As you can see, setting up the Delta emulator to play Nintendo games is pretty straightforward as long as you have the required files. Although Delta is just one of [the many Game Boy Advance emulators for iOS devices](https://www.makeuseof.com/best-gba-emulators-for-ios/) , its availability on the App Store makes it our recommended choice now more than ever.
 
- Don't forget that if you already own a Nintendo Switch, Nintendo already makes it easy to[play retro NES, SNES, N64, and Game Boy games on your Switch](https://www.makeuseof.com/play-nes-n64-games-nintendo-switch/) console. You just need to pay for[the Nintendo Switch Online Expansion Pack](https://www.makeuseof.com/what-is-nintendo-switch-online-expansion-pack-worth-the-price/) .
+ Don't forget that if you already own a Nintendo Switch, Nintendo already makes it easy to [play retro NES, SNES, N64, and Game Boy games on your Switch](https://www.makeuseof.com/play-nes-n64-games-nintendo-switch/) console. You just need to pay for [the Nintendo Switch Online Expansion Pack](https://www.makeuseof.com/what-is-nintendo-switch-online-expansion-pack-worth-the-price/) .
 
 
 <ins class="adsbygoogle"

@@ -1,7 +1,7 @@
 ---
 title: Explore Remote Play Potential With Steam's Storage Solutions
-date: 2024-06-25T10:41:15.322Z
-updated: 2024-06-26T10:41:15.322Z
+date: 2024-06-25T12:48:36.098Z
+updated: 2024-06-26T12:48:36.098Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
 
 ## How to Find the Steam Storage Manager
 
- In order to be able to play from your external drive, you first need to open up the Steam Storage Manager. Managing games with Windows File Explorer can get confusing quick. However, if you know[how to use Steam Storage Manager](https://www.makeuseof.com/how-to-use-steam-storage-manager/) , you can manage your games directly on Steam, bypassing File Explorer.
+ In order to be able to play from your external drive, you first need to open up the Steam Storage Manager. Managing games with Windows File Explorer can get confusing quick. However, if you know [how to use Steam Storage Manager](https://www.makeuseof.com/how-to-use-steam-storage-manager/) , you can manage your games directly on Steam, bypassing File Explorer.
 
  To get to the Storage Manager, open up Steam and, in the upper left, click on**Steam > Settings > Storage** .
 
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
 
 ## How to Move Your Steam Games to Your External Drive
 
- Moving your Steam games to an external drive is a great way to free up some space on your local drives. If you want to free up some more space, here’s[how to use SpaceSniffer to visualize your files](https://www.makeuseof.com/free-drive-space-by-visualizing-your-files-with-spacesniffer/) and delete ones that you don’t use anymore but are taking up a lot of space.
+ Moving your Steam games to an external drive is a great way to free up some space on your local drives. If you want to free up some more space, here’s [how to use SpaceSniffer to visualize your files](https://www.makeuseof.com/free-drive-space-by-visualizing-your-files-with-spacesniffer/) and delete ones that you don’t use anymore but are taking up a lot of space.
 
  Since your external drive is now one that Steam recognizes as a game library folder, you can easily move your games using the storage manager.
 
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
 
  Click on the local drive that stores your games and on the right side you can check the boxes of the games you want to move to the external drive.
 
- Once you select at least one game, the**Move** and**Uninstall** buttons will brighten up and become clickable. Click**Move** and choose the external drive you just added. You might want to check out[the best external SSDs](https://www.makeuseof.com/best-portable-ssds/) to speed up the transfer time and improve loading times for more demanding games.
+ Once you select at least one game, the**Move** and**Uninstall** buttons will brighten up and become clickable. Click**Move** and choose the external drive you just added. You might want to check out [the best external SSDs](https://www.makeuseof.com/best-portable-ssds/) to speed up the transfer time and improve loading times for more demanding games.
 
 ## How to Copy Your Steam Games to Your External Drive
 
@@ -80,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
 
  That's it, you're ready to play your Steam games from any capable system as long as your drive is with you. We suggest plugging your external drive into a USB 3.0 slot or higher to make sure the drive can catch up to the task. Note that some games may take longer to load as the read and write speeds depend on the port you plug it into and your external drive's speed.
 
- Instead of a bulky external drive, you could even use a high-speed MicroSD card and a fast card reader for an ultra-compact experience that even fits in your wallet, or in your phone! Just make sure to avoid these[common mistakes when buying a MicroSD card](https://www.makeuseof.com/tag/5-mistakes-avoid-buying-next-microsd-card/) .
+ Instead of a bulky external drive, you could even use a high-speed MicroSD card and a fast card reader for an ultra-compact experience that even fits in your wallet, or in your phone! Just make sure to avoid these [common mistakes when buying a MicroSD card](https://www.makeuseof.com/tag/5-mistakes-avoid-buying-next-microsd-card/) .
 
 ## Carry Your Steam Library in Your Pocket
 

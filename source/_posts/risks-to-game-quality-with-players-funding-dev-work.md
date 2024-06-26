@@ -1,7 +1,7 @@
 ---
 title: Risks to Game Quality with Players Funding Dev Work
-date: 2024-06-21 12:14:52
-updated: 2024-06-24 10:49:24
+date: 2024-06-25T13:00:27.361Z
+updated: 2024-06-26T13:00:27.361Z
 tags:
   - games
 categories:
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/dbba79d9b364c588cde9451de7a26400a0837a604
 
  He implied that an in-game option might encourage players to reward the developer on completion of a game, when they’re most engaged with it.
 
- Needless to say, this post generated a lot of discussion, reheating various[debates about the price of video games](https://www.makeuseof.com/video-games-should-be-more-expensive-reasons-why/) and developer salaries.
+ Needless to say, this post generated a lot of discussion, reheating various [debates about the price of video games](https://www.makeuseof.com/video-games-should-be-more-expensive-reasons-why/) and developer salaries.
 
 ## How Much Do Game Developers Already Earn?
 
@@ -38,9 +38,7 @@ thumbnail: https://thmb.techidaily.com/dbba79d9b364c588cde9451de7a26400a0837a604
 
  Game devs working on their own, meanwhile, will struggle unless they strike gold. Perhaps the best example is Eric Barone, the creator of the smash-hit farming sim Stardew Valley. Barone worked on his own for over four years, but his game’s success has repaid him significantly; the developer now has a net worth estimated at $45m.
 
-## Alternatives Are Already Available
-
-![A screenshot showing the Hollow Knight kickstarter campaign.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/hollow-knight-kickstarter.png)
+## Alternatives Are Already Available ![A screenshot showing the Hollow Knight kickstarter campaign.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/hollow-knight-kickstarter.png)
 
  Tipping is an interesting idea, but do we really need one more payment method?
 
@@ -52,25 +50,23 @@ thumbnail: https://thmb.techidaily.com/dbba79d9b364c588cde9451de7a26400a0837a604
 
 ## The Negative Effects of Tipping Culture
 
- My big fear for developers is that a tipping culture in gaming might duplicate the same problems that others in the service industry face: low pay, poor conditions, and a lack of respect. Game development suffered huge job losses in 2023, and[the rising cost of game production](https://www.makeuseof.com/ways-the-rising-costs-of-games-affect-the-industry/) has led to crunch conditions in many studios.
+ My big fear for developers is that a tipping culture in gaming might duplicate the same problems that others in the service industry face: low pay, poor conditions, and a lack of respect. Game development suffered huge job losses in 2023, and [the rising cost of game production](https://www.makeuseof.com/ways-the-rising-costs-of-games-affect-the-industry/) has led to crunch conditions in many studios.
 
  On the counter side, consumers run a risk from ever-encroaching payment models. Microtransactions have already been broadly accepted as one cost of modern gaming, they just go into the pockets of publishers rather than developers.
 
- Encouraging a focus on tipping may just be papering over cracks in the model, and could serve to distract from the issue of a sustainable gaming economy that’s future-proofed against[AI and other threats](https://www.makeuseof.com/types-of-jobs-risk-ai/) .
+ Encouraging a focus on tipping may just be papering over cracks in the model, and could serve to distract from the issue of a sustainable gaming economy that’s future-proofed against [AI and other threats](https://www.makeuseof.com/types-of-jobs-risk-ai/) .
 
-## When Tips Might Work
-
-![A screenshot of Super Cable Boy’s page on itch.io showing a minimum price with an option to pay extra.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/super-cable-boy-itch.png)
+## When Tips Might Work ![A screenshot of Super Cable Boy’s page on itch.io showing a minimum price with an option to pay extra.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/super-cable-boy-itch.png)
 
  Seeking some positivity, I reached out to two indie game developers for their take on the story.
 
- Game developer[GrimTalin](https://www.grimtalin.com/p/home.html) (The Adventures of Elena Temple) picked up on Ybarra’s point about convenience:
+ Game developer [GrimTalin](https://www.grimtalin.com/p/home.html) (The Adventures of Elena Temple) picked up on Ybarra’s point about convenience:
 
 > "I wouldn't mind a tip as an indie dev, who would? But I think there are plenty of ways for fans to be supportive, even without a tip option right there when you finish the game.
 >
 > What I'd appreciate most would be for you to gift my game to a friend. This way we all win: I get another sale, your friend gets a freebie, and you're a cool person to both of us."
 
- Meanwhile, Sørb of[SoerbGames](https://soerbgames.itch.io/) (Super Cable Boy) said:
+ Meanwhile, Sørb of [SoerbGames](https://soerbgames.itch.io/) (Super Cable Boy) said:
 
 > "I’m not against tipping, but my experience with voluntary payments is that devs usually end up getting paid less.
 >
@@ -78,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/dbba79d9b364c588cde9451de7a26400a0837a604
 >
 > But I generally don't see anything morally wrong if it leads to a happy customer, as long as indie devs are fairly compensated."
 
- Super Cable Boy is available on[itch.io](https://itch.io/) , a digital store that lets you leave a tip when buying a game. It follows a “pay what you want” model also used by Humble Bundle.
+ Super Cable Boy is available on [itch.io](https://itch.io/) , a digital store that lets you leave a tip when buying a game. It follows a “pay what you want” model also used by Humble Bundle.
 
  So, while there is skepticism, some developers are clearly open to the idea if it results in much-needed extra income.
 
@@ -99,3 +95,23 @@ thumbnail: https://thmb.techidaily.com/dbba79d9b364c588cde9451de7a26400a0837a604
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/advantages-transitioning-console-players-to-pc-gaming/"><u>Advantages: Transitioning Console Players to PC Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/reconnect-your-controller-windows-xpxbox-failsafe/"><u>Reconnect Your Controller: Windows XPXbox Failsafe</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-the-secrets-of-ps5-power-up/"><u>Unlocking the Secrets of PS5 Power-Up</u></a></li>
+<li><a href="https://games-able.techidaily.com/personalize-ps5-interface-colors/"><u>Personalize PS5 Interface Colors</u></a></li>
+<li><a href="https://games-able.techidaily.com/analyzing-the-cost-dynamics-in-game-purchases-on-steam/"><u>Analyzing the Cost Dynamics in Game Purchases on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/stealth-mode-playing-quietly-on-xbox-one/"><u>Stealth Mode: Playing Quietly on Xbox One</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-evolution-of-gaming-analyzing-steams-new-ai-standards/"><u>The Evolution of Gaming: Analyzing Steam's New AI Standards</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-capturing-web-streamed-music-step-by-step-guide/"><u>[Updated] Capturing Web-Streamed Music  Step by Step Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-best-firefox-screencasting-extensions-for-2024/"><u>[New] Best FireFox Screencasting Extensions for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/crafting-conversations-writing-engaging-dialogues/"><u>Crafting Conversations  Writing Engaging Dialogues</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/dynamic-imagery-achieving-balanced-colors-in-gopro-footage-for-2024/"><u>Dynamic Imagery  Achieving Balanced Colors in GoPro Footage for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-stand-out-with-a-stylish-overhaul-of-your-tiktok-image-and-info/"><u>2024 Approved  Stand Out with a Stylish Overhaul of Your TikTok Image & Info</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-how-to-share-videos-on-twitter-on-your-phone-without-retweeting/"><u>[Updated] How to Share Videos on Twitter on Your Phone Without Retweeting?</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-navigating-the-world-of-discord-roles/"><u>2024 Approved  Navigating the World of Discord Roles</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-clear-cut-strategies-for-watermark-free-photography/"><u>[Updated] Clear-Cut Strategies for Watermark-Free Photography</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-transforming-silent-videos-to-audible-magic-on-tiktok-for-2024/"><u>[New] Transforming Silent Videos to Audible Magic on TikTok for 2024</u></a></li>
+</ul></div>

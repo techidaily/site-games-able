@@ -1,7 +1,7 @@
 ---
 title: BG3 HW Specs & Game Store Details
-date: 2024-06-22 23:50:11
-updated: 2024-06-24 11:57:46
+date: 2024-06-25T13:01:51.487Z
+updated: 2024-06-26T13:01:51.487Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/d03b713b6f6bb665862fd62a3d2bf27a022b75c76
 
 ## What Are Baldur’s Gate 3's Hardware and Software Requirements?
 
- Unlike its predecessors, you can’t run Baldur’s Gate 3 on a potato computer. While you don’t need the most powerful graphic cards, you would need a decent one if you want to enjoy your experience and explore this corner of Faerûn. Take a look at our list of the[best graphic cards for any budget](https://www.makeuseof.com/tag/best-graphics-cards/) to find something that works for you if you plan to play on a PC.
+ Unlike its predecessors, you can’t run Baldur’s Gate 3 on a potato computer. While you don’t need the most powerful graphic cards, you would need a decent one if you want to enjoy your experience and explore this corner of Faerûn. Take a look at our list of the [best graphic cards for any budget](https://www.makeuseof.com/tag/best-graphics-cards/) to find something that works for you if you plan to play on a PC.
 
 Here’s a table for Baldur’s Gate 3’s specs:
 
@@ -33,7 +33,7 @@ Here’s a table for Baldur’s Gate 3’s specs:
 | **DirectX**   | Version 11                                                                                                            | \-                                                                                          |
 | **Storage**   | 150GB SSD                                                                                                             | **Minimum** \- 150GB HDD**Recommended** \- 150GB SSD                                        |
 
- Apple silicon Macs generally run Baldur’s Gate better than Intel Macs—just one of the reasons[you might need an Apple silicon Mac](https://www.makeuseof.com/do-i-need-an-apple-silicon-mac/) .
+ Apple silicon Macs generally run Baldur’s Gate better than Intel Macs—just one of the reasons [you might need an Apple silicon Mac](https://www.makeuseof.com/do-i-need-an-apple-silicon-mac/) .
 
 * M1 and M2 Macs with 8GB RAM could run this game on low settings (and this includes all MacBook Airs).
 * M1 and M2 Macs with 16GB of RAM can run Baldur’s Gate 3 on high or ultra settings.
@@ -43,7 +43,7 @@ Here’s a table for Baldur’s Gate 3’s specs:
 
 ![Baldur's Gate 3 Steam Store Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-steam-store-page.jpeg)
 
- Baldur’s Gate 3 came out for PC on August 3rd, but it will come out for macOS and PS5 on September 6th, and perhaps next year for Xbox Series X|S. Larian Studios has issues getting the split-screen to work effectively on the[cheaper and less powerful Xbox Series S](https://www.makeuseof.com/xbox-series-x-vs-xbox-series-s-which-should-you-buy/) .
+ Baldur’s Gate 3 came out for PC on August 3rd, but it will come out for macOS and PS5 on September 6th, and perhaps next year for Xbox Series X|S. Larian Studios has issues getting the split-screen to work effectively on the [cheaper and less powerful Xbox Series S](https://www.makeuseof.com/xbox-series-x-vs-xbox-series-s-which-should-you-buy/) .
 
  You can get Baldur’s Gate 3 on PC and Mac from Steam, GOG, and GeForce Now. It costs $59.99 alone or $69.98 with the Digital Deluxe Edition DLC.
 
@@ -92,3 +92,27 @@ Here’s a table for Baldur’s Gate 3’s specs:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/master-controller-maintenence-on-ps4-for-seamless-gaming/"><u>Master Controller Maintenence on PS4 for Seamless Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719165858880-unleash-your-inner-hero-in-the-ultimate-free-game-collection/"><u>Unleash Your Inner Hero in The Ultimate Free Game Collection!</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-team-guide-to-split-screen-minecraft/"><u>The Ultimate Team Guide to Split-Screen Minecraft</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-gaming-experience-steam-deck-and-pc-integration/"><u>Seamless Gaming Experience: Steam Deck and PC Integration</u></a></li>
+<li><a href="https://games-able.techidaily.com/linking-headphones-to-sony-gaming-system/"><u>Linking Headphones to Sony Gaming System</u></a></li>
+<li><a href="https://games-able.techidaily.com/champion-mousepad-roundup-for-players/"><u>Champion Mousepad Roundup for Players</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-fun-in-games-invest-in-high-quality-tech/"><u>Boosting Fun in Games: Invest in High-Quality Tech</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlikely-success-5-factors-for-gamefis-lack-of-gamer-fans/"><u>Unlikely Success: 5 Factors for GameFi's Lack of Gamer Fans</u></a></li>
+<li><a href="https://games-able.techidaily.com/effortless-method-to-set-up-discord-for-mac-users/"><u>Effortless Method to Set Up Discord for Mac Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/expanding-horizons-different-switch-regions/"><u>Expanding Horizons: Different Switch Regions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 7 With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-navigating-the-nuances-of-using-switch-pro-controller-on-steam/"><u>[Updated] 2024 Approved  Navigating the Nuances of Using Switch Pro Controller on Steam</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/learn-how-to-seamlessly-merge-audio-and-video-in-vlc-media-player-with-this-easy-to-follow-guide-step-by-step-instructions-are-included/"><u>Learn How to Seamlessly Merge Audio and Video in VLC Media Player with This Easy-to-Follow Guide. Step-by-Step Instructions Are Included</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-samsung-galaxy-s23-ultra-by-drfone-android/"><u>In 2024, How to Bypass FRP on Samsung Galaxy S23 Ultra?</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/in-2024-make-an-impact-top-pc-intro-makers-both-online-and-offline/"><u>In 2024, Make an Impact Top PC Intro Makers , Both Online and Offline</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-instagram-video-inversion-step-by-step-strategy-for-2024/"><u>[Updated] Instagram Video Inversion  Step-by-Step Strategy for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/nubia-z50-ultra-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nubia Z50 Ultra Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-bridging-the-gap-integrating-spotify-and-youtube-music-playlists-for-2024/"><u>[Updated] Bridging the Gap  Integrating Spotify and YouTube Music Playlists for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-seeking-high-pitched-wind-chime-audio-replica/"><u>New Seeking High-Pitched Wind Chime Audio Replica</u></a></li>
+</ul></div>

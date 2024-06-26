@@ -1,7 +1,7 @@
 ---
 title: Does the Nintendo Switch OLED Work With an Old Dock?
-date: 2024-06-25T10:42:11.504Z
-updated: 2024-06-26T10:42:11.504Z
+date: 2024-06-25T12:48:36.698Z
+updated: 2024-06-26T12:48:36.698Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 
  The short answer is yes! You can still use your Nintendo Switch OLED with your old Nintendo Switch docking station. It might not have the shiny new white coat of paint or a LAN port, but it will still fulfill its duties of streaming your Nintendo Switch gameplay to your TV.
 
- If you[compare the Nintendo Switch OLED to the original Nintendo Switch](https://www.makeuseof.com/nintendo-switch-vs-switch-oled-model/) , the former holds many advantages. In terms of shape and size, however, they are almost identical. At first glance, both systems look the same, but the Nintendo Switch OLED is a fraction of an inch wider than its predecessor.
+ If you [compare the Nintendo Switch OLED to the original Nintendo Switch](https://www.makeuseof.com/nintendo-switch-vs-switch-oled-model/) , the former holds many advantages. In terms of shape and size, however, they are almost identical. At first glance, both systems look the same, but the Nintendo Switch OLED is a fraction of an inch wider than its predecessor.
 
  But apart from the size and obvious screen upgrade, that's more-or-less where the physical differences between the two systems end. Both Switch models have the same charging port, which is how the Switch connects to the dock. That means that your old dock will still connect to your new OLED Switch without any problems, and vice versa.
 
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 
  The Nintendo Switch docking station has an open design, so the size difference doesn’t matter either. Your Nintendo Switch OLED will still fit snuggly inside your old dock.
 
- The Nintendo Switch OLED's upgraded screen makes gameplay look incredible when you're playing handheld. There are, however, a few settings you can change to[improve your Nintendo Switch graphics while docked](https://www.makeuseof.com/improve-nintendo-switch-docked-graphics/) , so your game can look just as good on your TV as it does in your hands.
+ The Nintendo Switch OLED's upgraded screen makes gameplay look incredible when you're playing handheld. There are, however, a few settings you can change to [improve your Nintendo Switch graphics while docked](https://www.makeuseof.com/improve-nintendo-switch-docked-graphics/) , so your game can look just as good on your TV as it does in your hands.
 
  All Nintendo Switch Joy-Cons are also compatible with both models, so you might want to refrain from throwing those into the depths of your closet as well. The white Joy-Cons that come with the Nintendo Switch OLED are exactly the same as those of the original Nintendo Switch. This means you can still mix and match your Joy-Cons to switch up your color scheme, or play multiplayer with a friend on a new OLED with your old Joy-Cons.
 

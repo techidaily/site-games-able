@@ -1,7 +1,7 @@
 ---
 title: Why Xbox Series S Ignores Traditional Game Formats
-date: 2024-06-20 17:24:15
-updated: 2024-06-23 10:20:48
+date: 2024-06-25T13:14:28.349Z
+updated: 2024-06-26T13:14:28.349Z
 tags:
   - games
 categories:
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
 
  One of the more blatant reasons Microsoft would be disinterested in providing a disc drive for the Series S is because it may detract from the overall sales of Xbox Series X consoles.
 
- When[comparing the Xbox Series S to the Xbox Series X](https://www.makeuseof.com/xbox-series-x-vs-xbox-series-s-which-should-you-buy/) , numerous unique properties from both consoles could encourage you to favor one Xbox over the other, whether through price point, power, or storage. But one of the best-selling points for the Series X is its disc drive.
+ When [comparing the Xbox Series S to the Xbox Series X](https://www.makeuseof.com/xbox-series-x-vs-xbox-series-s-which-should-you-buy/) , numerous unique properties from both consoles could encourage you to favor one Xbox over the other, whether through price point, power, or storage. But one of the best-selling points for the Series X is its disc drive.
 
 ![A photograph of an Xbox Series X console in front of a green screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/xsx.jpg)
 
@@ -40,13 +40,13 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
 
  So for Microsoft, having more owners of digital-only consoles almost guarantees more users of the Microsoft Store, and retains purchases within Microsoft-owned sites, stores, and products. By association, if an external disc drive or disc drive-supported Series S were available, Microsoft would lose this guarantee.
 
- That being said, digital store processes are just one of many[things to consider when purchasing a digital-only console](https://www.makeuseof.com/buying-tips-digital-only-console/) , and you may even find some digital sales far better than physical ones. But the likelihood of Xbox releasing a disc drive-supported Xbox Series S becomes less likely with the effects on the Microsoft Store.
+ That being said, digital store processes are just one of many [things to consider when purchasing a digital-only console](https://www.makeuseof.com/buying-tips-digital-only-console/) , and you may even find some digital sales far better than physical ones. But the likelihood of Xbox releasing a disc drive-supported Xbox Series S becomes less likely with the effects on the Microsoft Store.
 
 ## 3\. External Disc Readers Are Disabled on Xbox Series S
 
  Aside from sales, reasons the Xbox Series S won't get disc drive support also extend to the hardware and functionality of the console itself. And with all forms of disc readers incompatible with Xbox Series S, it's also unlikely that any third-party accessory would be able to enable disc support.
 
- However, as reported by[Game Rant](https://gamerant.com/microsoft-patent-xbox-physical-games-digital-verification/) , Microsoft put forward a patent for how disc drive support could be implemented for the Xbox Series S. While non-specific, the patent implied that you could validate your physical games to make them available on your digital-only console.
+ However, as reported by [Game Rant](https://gamerant.com/microsoft-patent-xbox-physical-games-digital-verification/) , Microsoft put forward a patent for how disc drive support could be implemented for the Xbox Series S. While non-specific, the patent implied that you could validate your physical games to make them available on your digital-only console.
 
 ![A photograph of a silver and black disc drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disc.jpg)
 
@@ -85,3 +85,24 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/voice-chat-security-how-to-mask-your-game-talks/"><u>Voice Chat Security: How to Mask Your Game Talks</u></a></li>
+<li><a href="https://games-able.techidaily.com/before-the-buy-sign-consider-these-6-important-points/"><u>Before the BUY Sign, Consider These 6 Important Points</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-locations-gamers-success-spots/"><u>Prime Locations: Gamers' Success Spots</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimize-your-steam-deck-dock-mastery-techniques/"><u>Optimize Your Steam Deck: Dock Mastery Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/tips-for-maximizing-your-steam-milestones/"><u>Tips for Maximizing Your Steam Milestones</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-advice-for-wiping-out-ps5-user-data/"><u>Expert Advice for Wiping Out PS5 User Data</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-offscreen-enigma-solving-xboxs-social-puzzle/"><u>The Offscreen Enigma: Solving Xbox's Social Puzzle</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-team-guide-to-split-screen-minecraft/"><u>The Ultimate Team Guide to Split-Screen Minecraft</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-from-apple-iphone-6-plus-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock From Apple iPhone 6 Plus You Should Try Out</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-get-animated-top-free-3d-animation-software-for-mobile-devices/"><u>In 2024, Get Animated Top Free 3D Animation Software for Mobile Devices</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-honor-play-40c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/leading-edge-selecting-9-superior-online-microphone-recorders/"><u>Leading Edge  Selecting 9 Superior Online Microphone Recorders</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-an-in-depth-exploration-of-discord-features/"><u>In 2024, An In-Depth Exploration of Discord Features</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-poco-c65-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Poco C65? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-auroras-role-in-enhancing-image-contrast/"><u>In 2024, Aurora's Role in Enhancing Image Contrast</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-elevating-calmness-low-impact-noise-reduction-techniques-in-premiere-pro/"><u>Updated 2024 Approved Elevating Calmness Low-Impact Noise Reduction Techniques in Premiere Pro</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-channel-visualization-selecting-the-ideal-size-and-placement-for-yt-for-2024/"><u>[New] Channel Visualization  Selecting the Ideal Size and Placement for YT for 2024</u></a></li>
+</ul></div>

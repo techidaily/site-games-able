@@ -1,7 +1,7 @@
 ---
 title: How to Improve Your Blu-Ray Experience on Xbox Series X
-date: 2024-06-25T10:39:39.836Z
-updated: 2024-06-26T10:39:39.836Z
+date: 2024-06-25T12:48:35.067Z
+updated: 2024-06-26T12:48:35.067Z
 tags:
   - games
 categories:
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1
 * Dolby Digital Dynamic Range Control - Your Xbox also allows you to set preferences for Dolby Digital sound and audio. With Dynamic Range Control, you can balance out the audio of your Blu-rays to prevent any peaks or troughs of sound.
 * Enabling BD Live—BD Live support allows all the digital content of your Blu-rays to be accessed on your Xbox. Even content provided digitally by movie studios, like trailers and behind-the-scenes clips, can be accessed via BD Live.
 
- And aside from the dedicated Blu-ray settings and features, you can also[enable closed captioning on your Xbox Series X](https://www.makeuseof.com/enable-closed-captions-xbox-series-x/) using other experience-supporting features of the console. Closed captioning, however, will only work for supported games or media.But with the above Xbox Blu-ray settings, you can universally alter and improve your experience of Blu-rays on your Series X. But how do you actually access and use these features?
+ And aside from the dedicated Blu-ray settings and features, you can also [enable closed captioning on your Xbox Series X](https://www.makeuseof.com/enable-closed-captions-xbox-series-x/) using other experience-supporting features of the console. Closed captioning, however, will only work for supported games or media.But with the above Xbox Blu-ray settings, you can universally alter and improve your experience of Blu-rays on your Series X. But how do you actually access and use these features?
 
 ## How to Fine Tune the Blu-ray Settings on Your Xbox
 

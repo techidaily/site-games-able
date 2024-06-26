@@ -1,7 +1,7 @@
 ---
 title: Disassembling New Controller Firmware on Series X/S
-date: 2024-06-25T10:45:42.509Z
-updated: 2024-06-26T10:45:42.509Z
+date: 2024-06-25T12:48:38.939Z
+updated: 2024-06-26T12:48:38.939Z
 tags:
   - games
 categories:
@@ -25,12 +25,12 @@ thumbnail: https://thmb.techidaily.com/c2bd6ba622504fadfbcb07e0ff1b2943eed89d4f1
  Before you go through with reverting an Xbox Wireless Controller update, there are a few things you should know beforehand, as the process has a few caveats. Specifically, the main points you should be aware of before reverting firmware for your controller are as follows:
 
 * Most commonly, reverting an Xbox Wireless Controller update will correct issues with Bluetooth connectivity to non-Xbox devices, like a laptop. If the issue with your controller affects how it functions with your Xbox Series X|S, it isn't guaranteed that reverting the firmware will help.
-* You are more likely to experience issues from Xbox updates if you[join the Xbox Insider Program](https://www.makeuseof.com/how-to-join-xbox-insider/) . You may want to leave the program to prevent further firmware issues.
+* You are more likely to experience issues from Xbox updates if you [join the Xbox Insider Program](https://www.makeuseof.com/how-to-join-xbox-insider/) . You may want to leave the program to prevent further firmware issues.
 * Reverting the firmware of Xbox Wireless Controllers on your Xbox Series X|S isn't compatible with some older controller models.
 
 ![A screenshot of a message on an Xbox Series X informing the user that Xbox controller firmware cannot be reverted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3112.jpg)
 
- While these factors can prevent a firmware reset from correcting your controller issue, there are still ways you can fix your specific problem. If the issue is tied to your console, you may want to[troubleshoot your Xbox Series X|S by placing it in Safe Mode](https://www.makeuseof.com/xbox-xs-safe-mode-startup-troubleshooter/) or exiting the Xbox Preview Program.
+ While these factors can prevent a firmware reset from correcting your controller issue, there are still ways you can fix your specific problem. If the issue is tied to your console, you may want to [troubleshoot your Xbox Series X|S by placing it in Safe Mode](https://www.makeuseof.com/xbox-xs-safe-mode-startup-troubleshooter/) or exiting the Xbox Preview Program.
 
  But if the caveats of reverting firmware don't apply to you, your controller issue is likely caused by a firmware problem, and you're all set to go ahead with reverting your controller update.
 

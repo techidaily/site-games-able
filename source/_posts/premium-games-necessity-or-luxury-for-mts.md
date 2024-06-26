@@ -1,7 +1,7 @@
 ---
 title: "Premium Games: Necessity or Luxury for MTs?"
-date: 2024-06-21 18:37:10
-updated: 2024-06-24 12:12:16
+date: 2024-06-25T13:24:55.831Z
+updated: 2024-06-26T13:24:55.831Z
 tags:
   - games
 categories:
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/a270605ef2ab426a6767629ae263537bc25fdbd24
 
  At first, it came as expansion packs ([now known as DLC](https://www.makeuseof.com/dlc-video-games/) ), which you had to buy separately to expand the game’s content. But it didn’t take long for developers to realize they could make more money from selling small bits of seemingly inconsequential content for a token price.
 
- Eventually, this trend led to the introduction of[loot boxes and gacha microtransactions](https://www.makeuseof.com/are-loot-boxes-in-video-games-a-form-of-gambling-should-you-avoid-them/) . These were not just game-changers but financial jackpots. In fact, one of the pioneers in this field, ZT Online (2007), was raking in a staggering $15 million monthly at its peak.
+ Eventually, this trend led to the introduction of [loot boxes and gacha microtransactions](https://www.makeuseof.com/are-loot-boxes-in-video-games-a-form-of-gambling-should-you-avoid-them/) . These were not just game-changers but financial jackpots. In fact, one of the pioneers in this field, ZT Online (2007), was raking in a staggering $15 million monthly at its peak.
 
  Before we knew it, we had Facebook games like Farmville that offered Farm Cash to make the game easier to play and progress faster. From there, it made its way to mobile as smartphone games, like Clash of Clans.
 
@@ -76,9 +76,7 @@ But what about premium games? Should they have microtransactions?
 
  Apart from the inherent gambling nature of loot boxes, as a creator and an artist, doesn’t it feel fundamentally wrong to offer people a way to pay to experience less of your creation? It gives people the idea that your game is a chore, which shouldn’t be the case.
 
-### Bloat and Battle Passes
-
-![Assassin's Creed Origins Season Pass for sale on Ubisoft website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/assassin-s-creed-origins-season-pass-for-sale-on-ubisoft-website.png)
+### Bloat and Battle Passes ![Assassin's Creed Origins Season Pass for sale on Ubisoft website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/assassin-s-creed-origins-season-pass-for-sale-on-ubisoft-website.png)
 
  Another way you can tell microtransactions don’t have a place in premium games is that they only worm their way into established franchises. Ubisoft is a good example of this, seeing as it has added seasonal passes to many titles in their (mostly) offline single-player adventure series, Assassin’s Creed.
 
@@ -86,7 +84,7 @@ But what about premium games? Should they have microtransactions?
 
  Companies add these to leverage the cumulated love and loyalty some fans have to these established series—even though they know many wouldn’t like it. In the end, it comes off as parasitic.
 
- What makes passes even worse is that you have to play the game for a certain amount of time to earn the content on them. We've explored more on[why you shouldn't pay for passes](https://www.makeuseof.com/why-you-shouldnt-pay-for-season-passes-or-dlc/) in a dedicated piece.
+ What makes passes even worse is that you have to play the game for a certain amount of time to earn the content on them. We've explored more on [why you shouldn't pay for passes](https://www.makeuseof.com/why-you-shouldnt-pay-for-season-passes-or-dlc/) in a dedicated piece.
 
  Additionally, these games end up being bloated, as content you’ve bought, downloaded, and installed is locked behind an additional paywall. This will cost the paying player more internet bills for content they will likely never get to experience.
 
@@ -121,3 +119,23 @@ But what about premium games? Should they have microtransactions?
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/unlocking-steams-in-game-purchasing-power/"><u>Unlocking Steam's In-Game Purchasing Power</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-9-gaming-hubs-champions-collectives/"><u>Top 9 Gaming Hubs: Champions' Collectives</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-valorant-play-eliminating-frames-per-second-lags/"><u>Optimizing Valorant Play: Eliminating Frames Per Second Lags</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfecting-the-art-of-taking-and-managing-steam-shots/"><u>Perfecting the Art of Taking and Managing Steam Shots</u></a></li>
+<li><a href="https://games-able.techidaily.com/discord-setup-made-simple-for-mac-users/"><u>Discord Setup Made Simple for Mac Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/power-up-strategies-maximizing-your-gaming-experience-on-docked-devices/"><u>Power-Up Strategies: Maximizing Your Gaming Experience on Docked Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/integrating-external-input-devices-with-your-nintendo-switch-87-chars/"><u>Integrating External Input Devices with Your Nintendo Switch (87 Chars)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-professional-smoothness-blurring-the-video-backdrop-for-2024/"><u>[Updated] Professional Smoothness  Blurring the Video Backdrop for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-realme-narzo-60x-5g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Realme Narzo 60x 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-review-the-ultimate-4k-action-recorder/"><u>In 2024, Review  The Ultimate 4K Action Recorder</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-xiaomi-14-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Xiaomi 14 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-breakdown-of-youtubes-money-making-mechanisms-cpm/"><u>2024 Approved  Breakdown of YouTube’s Money-Making Mechanisms (CPM)</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-xiaomi-redmi-note-12-pro-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Xiaomi Redmi Note 12 Pro 5G System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-expert-guide-to-upgrading-your-discord-picture-palette/"><u>[New] 2024 Approved  Expert Guide to Upgrading Your Discord Picture Palette</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/directly-viewing-facebook-videos-on-your-apple-tv-setup-for-2024/"><u>Directly Viewing Facebook Videos on Your Apple TV Setup for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/reality-redefined-exploring-virtualitys-kin-vr-ar-and-mr-for-2024/"><u>Reality Redefined  Exploring Virtuality’s Kin - VR, AR, & MR for 2024</u></a></li>
+</ul></div>

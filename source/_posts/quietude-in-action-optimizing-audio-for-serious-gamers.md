@@ -1,7 +1,7 @@
 ---
 title: "Quietude in Action: Optimizing Audio for Serious Gamers"
-date: 2024-06-25T10:40:40.949Z
-updated: 2024-06-26T10:40:40.949Z
+date: 2024-06-25T12:48:35.728Z
+updated: 2024-06-26T12:48:35.728Z
 tags:
   - games
 categories:
@@ -28,13 +28,13 @@ thumbnail: https://thmb.techidaily.com/d20682484ee39b27689e93ff94b9b7638592055fc
 
 ![A photograph of the power button of an Xbox Series X console](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-power-button.jpg)
 
- If you enable**Mute notification sounds** , for instance, it may make it harder for you to acknowledge useful messages from Xbox, like when you can[save money through your Xbox wish list](https://www.makeuseof.com/xbox-how-to-manage-wish-list/) . If you miss the notification because you have**Mute notification sounds** enabled, you may miss out on saving money.
+ If you enable**Mute notification sounds** , for instance, it may make it harder for you to acknowledge useful messages from Xbox, like when you can [save money through your Xbox wish list](https://www.makeuseof.com/xbox-how-to-manage-wish-list/) . If you miss the notification because you have**Mute notification sounds** enabled, you may miss out on saving money.
 
 ## How to Access Accessibility Settings to Alter Sound on Xbox Series X|S
 
  Now you know the key things to be aware of when altering the accessibility settings for audio on your Xbox, let's take a look at how you can adjust the features on your console.
 
- Just like the[dashboard and accessibility shortcuts on Xbox Series X|S](https://www.makeuseof.com/how-to-use-xbox-dashboard-and-accessibility-shortcuts/) , you can use most of the accessibility settings for audio to cater your Xbox to your experience or use the features as a useful tool. To set up and use the audio accessibility settings on your Xbox Series X|S, follow these steps:
+ Just like the [dashboard and accessibility shortcuts on Xbox Series X|S](https://www.makeuseof.com/how-to-use-xbox-dashboard-and-accessibility-shortcuts/) , you can use most of the accessibility settings for audio to cater your Xbox to your experience or use the features as a useful tool. To set up and use the audio accessibility settings on your Xbox Series X|S, follow these steps:
 
 * Press the Xbox button to open the Guide menu.
 * Highlight the options for**Profile & system** , and select**Settings** .

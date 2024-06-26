@@ -1,7 +1,7 @@
 ---
 title: Unlock Full Potential of Steam Deck with Epic & GOG
-date: 2024-06-20 23:41:11
-updated: 2024-06-23 10:25:32
+date: 2024-06-25T12:49:03.820Z
+updated: 2024-06-26T12:49:03.820Z
 tags:
   - games
 categories:
@@ -66,15 +66,15 @@ thumbnail: https://thmb.techidaily.com/670a3d23e314a574aa8e5af4448af6d1aaae62996
 
  If you’re concerned about breaking warranty or have some other reason to be concerned, don’t worry. A Steam Deck is capable of running most PC games, including those on Epic Games. You may have noticed some crossover between the Epic Games and the Steam libraries.
 
- Epic Games has given many games away over the past few years. It's simple to get[free games from Epic Games](https://www.makeuseof.com/how-to-get-free-games-on-the-epic-games-store/) and many gamers have grown a library of such games, preferring this to spending money on the exact same titles on Steam.
+ Epic Games has given many games away over the past few years. It's simple to get [free games from Epic Games](https://www.makeuseof.com/how-to-get-free-games-on-the-epic-games-store/) and many gamers have grown a library of such games, preferring this to spending money on the exact same titles on Steam.
 
- Furthermore, Steam Deck runs a special version of Arch Linux, and has a desktop mode where more games can be installed, if desired. Furthermore, the[Proton compatibility layer software](https://www.makeuseof.com/what-is-steam-proton-how-does-it-run-windows-games-on-steam-deck/) is regularly updated and ensures support for many Windows games.
+ Furthermore, Steam Deck runs a special version of Arch Linux, and has a desktop mode where more games can be installed, if desired. Furthermore, the [Proton compatibility layer software](https://www.makeuseof.com/what-is-steam-proton-how-does-it-run-windows-games-on-steam-deck/) is regularly updated and ensures support for many Windows games.
 
  In short, it’s completely safe to install non-Steam games on your Steam Deck.
 
  Before proceeding, you might want to make things easier for yourself by grabbing a USB keyboard and mouse and a USB type-C hub for the Steam Deck.
 
- While you can use the device’s on-screen keyboard (perhaps the most widely-used[Steam Deck shortcut](https://www.makeuseof.com/steam-deck-shortcuts/) , activated with**Steam + X** ), it is far easier to sign in to Epic Games with a physical keyboard.
+ While you can use the device’s on-screen keyboard (perhaps the most widely-used [Steam Deck shortcut](https://www.makeuseof.com/steam-deck-shortcuts/) , activated with**Steam + X** ), it is far easier to sign in to Epic Games with a physical keyboard.
 
  Otherwise, you’ll be using the right-hand touchpad as a laptop touchpad to control the mouse pointer on your Steam Deck.
 
@@ -98,10 +98,8 @@ thumbnail: https://thmb.techidaily.com/670a3d23e314a574aa8e5af4448af6d1aaae62996
 1. First, launch the software, then use the mouse to select**Manage Accounts**  
 ![Log in to Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-login.jpg)
 2. Under GOG, click**Log in** and input your credentials, along with any two-factor authentication
-3. Go to**Library** and browse for the game you want to install  
-![GOG games on the Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-gog-games.jpg)
-4. Click**Install** on the selected game, confirm the installation location and click**Install** again  
-![Install GOG games on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-gog-smac.jpg)
+3. Go to**Library** and browse for the game you want to install ![GOG games on the Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-gog-games.jpg)
+4. Click**Install** on the selected game, confirm the installation location and click**Install** again ![Install GOG games on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-gog-smac.jpg)
 5. After installation is complete, click**Play Now**
 
  Because most GOG games are pre-2005 titles, they have varying compatibility requirements for Steam Deck. To tweak these, highlight the game and click the**Settings** cog icon.
@@ -114,15 +112,14 @@ thumbnail: https://thmb.techidaily.com/670a3d23e314a574aa8e5af4448af6d1aaae62996
 
  In the Heroic Games Launcher, click**Manage Accounts** then on the Epic Games panel tap**Log in** .
 
- Enter your Epic Games account credentials and if you have[two-factor authentication](https://www.makeuseof.com/tag/what-is-two-factor-authentication-and-why-you-should-use-it/) set up this will also be required.
+ Enter your Epic Games account credentials and if you have [two-factor authentication](https://www.makeuseof.com/tag/what-is-two-factor-authentication-and-why-you-should-use-it/) set up this will also be required.
 
 You can then install Epic Games on the Steam Deck as follows:
 
 1. Click**Library**
 2. Browse for the game you want
 3. Select the game and click**Install**
-4. Confirm the installation location and click**Install** again  
-![Install Epic Games on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-install.jpg)
+4. Confirm the installation location and click**Install** again ![Install Epic Games on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-install.jpg)
 5. Once the installation has completed, click**Play Now**
 6. Use the**Settings** option to tweak the game’s launch and performance options
 
@@ -149,8 +146,7 @@ This will reboot the Steam Deck into the main console interface.
 3. Press**X**
 4. Select**Uninstall**  
 ![Uninstall a game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-uninstall-game.jpg)
-5. Confirm with**Yes** when prompted  
-![Uninstall an Epic Games title on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-uninstall.jpg)
+5. Confirm with**Yes** when prompted ![Uninstall an Epic Games title on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-uninstall.jpg)
 
 Wait for the process to complete before installing any other games.
 
@@ -179,3 +175,23 @@ Wait for the process to complete before installing any other games.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/top-quality-gadgets-at-ifa-expo/"><u>Top-Quality Gadgets at IFA Expo</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-gaming-mobile-good-or-bad/"><u>Is Gaming Mobile Good or Bad?</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-stakes-for-virtual-worlds-four-driving-cost-factors/"><u>High Stakes for Virtual Worlds: Four Driving Cost Factors</u></a></li>
+<li><a href="https://games-able.techidaily.com/inside-nvidia-g-sync-the-path-to-incredible-frame-rates/"><u>Inside Nvidia G-Sync: The Path to Incredible Frame Rates</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-your-gaming-setup-switch-keyboardmouse-techniques-72-chars-this-title-is-under-the-limit-needs-reworking-to-fit-more-closely-related-content-but-adhe3/"><u>Master Your Gaming Setup: Switch Keyboard/Mouse Techniques (72 Chars) – This Title Is Under the Limit; Needs Reworking to Fit More Closely Related Content but Adheres to Character Count Constraint.</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-watch-movies-on-your-ps5-with-sony-pictures-core/"><u>How to Watch Movies on Your PS5 With Sony Pictures Core</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-vr-play-streamlined-game-access-with-steam-and-meta-quest-controllers/"><u>Seamless VR Play - Streamlined Game Access with Steam & Meta Quest Controllers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/unlocking-the-potential-of-recording-google-voice-calls/"><u>Unlocking the Potential of Recording Google Voice Calls</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-mac-audio-enthusiasts-selection-of-top-4-music-editing-software-for-2024/"><u>Updated Mac Audio Enthusiasts Selection of Top 4 Music Editing Software for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/sneak-peek-into-facebooks-off-activity-tracking-is-it-safe-for-2024/"><u>Sneak Peek Into Facebook's Off-Activity Tracking – Is It Safe for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-goovision-pro-high-quality-chromecasting/"><u>[Updated] 2024 Approved  GooVision Pro  High-Quality Chromecasting</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-simplified-methods-to-validate-your-youtube-status/"><u>[Updated] In 2024, Simplified Methods to Validate Your YouTube Status</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-how-to-save-instagram-audio-as-mp3/"><u>Updated How to Save Instagram Audio as MP3</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-from-your-iphone-6s-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID From your iPhone 6s?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+</ul></div>

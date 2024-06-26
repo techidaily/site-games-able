@@ -1,7 +1,7 @@
 ---
 title: Valve’s Latest Features Expand Steam Sharing for Families
-date: 2024-06-22 19:58:42
-updated: 2024-06-24 11:28:16
+date: 2024-06-25T13:23:27.006Z
+updated: 2024-06-26T13:23:27.006Z
 tags:
   - games
 categories:
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/f244a4b607ff1304250df827a08b69767edd00f8e
 
 ![Steam Family Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/steam-family-management-1.jpg)
 
- Steam Family Sharing wasn’t a family-centric feature. It was just a way to share games with other accounts that didn’t necessarily have to be your family. However, Valve released the[Steam Families Beta](https://store.steampowered.com/news/app/593110/view/4149575031735702628) on March 18, 2024, and the update changes that.
+ Steam Family Sharing wasn’t a family-centric feature. It was just a way to share games with other accounts that didn’t necessarily have to be your family. However, Valve released the [Steam Families Beta](https://store.steampowered.com/news/app/593110/view/4149575031735702628) on March 18, 2024, and the update changes that.
 
  One of the biggest changes is a new quality-of-life feature. Now you can play games from other family members' libraries, even if the owner is online playing another game—solving a nuisance that many gamers sharing their libraries experienced. And if someone owns multiple copies of a game, multiple people can play the same title at the same time.
 
@@ -46,11 +46,9 @@ thumbnail: https://thmb.techidaily.com/f244a4b607ff1304250df827a08b69767edd00f8e
 * The feature includes playtime schedules and maximum playtime. Children can request additional playtime and game purchases.
 * You can recover your child's account in case they lose their password (but this is only available after 30 days of being in the family).
 
- These changes allow you to truly have a parental system for Steam, much like a[kid's account for Netflix](https://www.makeuseof.com/how-to-create-netflix-kids-profile/) or YouTube.
+ These changes allow you to truly have a parental system for Steam, much like a [kid's account for Netflix](https://www.makeuseof.com/how-to-create-netflix-kids-profile/) or YouTube.
 
-## How to Enter the Steam Families Beta
-
-![How to enter Steam Families Beta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/how-to-enter-steam-families-beta.JPG)
+## How to Enter the Steam Families Beta ![How to enter Steam Families Beta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/how-to-enter-steam-families-beta.JPG)
 
  If you want to try out the new hub for yourself, you need to enter the Steam Families beta. To do this, open Steam and head to**Settings > Interface > Client Beta Participation** , then choose**Steam Families Beta** in the dropdown menu.
 
@@ -58,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/f244a4b607ff1304250df827a08b69767edd00f8e
 
  It will prompt you to accept, then the client will restart and update Steam. Once it has updated, you can access your family controls by going to**Settings > Family** **\> Manage your Steam Family** . This view is where you can see all the Steam Family features and parental controls once you've made your family and invited your children.
 
- If you need to make space for new games, make sure to[use Steam's Storage Manager](https://www.makeuseof.com/how-to-use-steam-storage-manager/) to conveniently manage your installs.
+ If you need to make space for new games, make sure to [use Steam's Storage Manager](https://www.makeuseof.com/how-to-use-steam-storage-manager/) to conveniently manage your installs.
 
 ## The Pros and Cons of Steam Families
 
@@ -97,3 +95,23 @@ Some of the drawbacks of the feature include:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/decoding-subscription-management-for-x-boosted-gaming/"><u>Decoding Subscription Management for X Boosted Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-future-of-personalized-medicine-tailoring-endocannabinoid-treatments/"><u>The Future of Personalized Medicine: Tailoring Endocannabinoid Treatments</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-into-the-controller-zone-navigating-games-with-buttons/"><u>Step Into the Controller Zone: Navigating Games with Buttons</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-significance-of-hrtf-in-valorant-sound-design/"><u>The Significance of HRTF in Valorant Sound Design</u></a></li>
+<li><a href="https://games-able.techidaily.com/stop-erratic-scrolling-on-your-mouse/"><u>Stop Erratic Scrolling on Your Mouse</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-flaws-a-closer-look-at-6-reasons-mac-isnt-ideal-for-gamers/"><u>Unveiling the Flaws: A Closer Look at 6 Reasons Mac Isn't Ideal for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/irksome-quest-five-difficult-games-to-master/"><u>Irksome Quest: Five Difficult Games to Master</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-honor-x7b-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Honor X7b.</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-rapid-fire-windowed-image-reader/"><u>In 2024, Rapid-Fire Windowed Image Reader</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-the-art-of-free-yet-striking-image-acquisition/"><u>[New] Mastering the Art of Free, Yet Striking Image Acquisition</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-enhancing-mac-recordings-for-snapchat-success-for-2024/"><u>[Updated] Enhancing Mac Recordings for Snapchat Success for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-blending-beats-fusion-studios-guide-to-cohesive-sound/"><u>[New] Blending Beats  Fusion Studio's Guide to Cohesive Sound</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-are-you-a-newbie-across-youtube-want-to-know-who-the-best-vloggers-are-this-article-provides-you-with-the-best-vloggers-on-youtube/"><u>Updated Are You a Newbie Across YouTube? Want to Know Who the Best Vloggers Are? This Article Provides You with the Best Vloggers on YouTube</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-premium-changing-voices-technology-for-youtube-artists/"><u>[Updated] Premium Changing Voices Technology for YouTube Artists</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-snapchat-to-smiles-phones/"><u>2024 Approved  Snapchat to Smiles  Phones</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-assessing-video-streaming-giants-vs-manycam/"><u>[Updated] In 2024, Assessing Video Streaming Giants Vs. ManyCam</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Android Companion: Emulating Your Favored Dreamcatcher Titles"
-date: 2024-06-25T10:45:30.906Z
-updated: 2024-06-26T10:45:30.906Z
+date: 2024-06-25T12:48:38.814Z
+updated: 2024-06-26T12:48:38.814Z
 tags:
   - games
 categories:
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 * An Android device that's powerful enough to emulate Dreamcast games. Most modern phones will be good enough.
 * Enough space on your device—at least a few gigabytes. You'll need more space the more games you have.
 
- To set up each Sega Dreamcast emulator you need to make a ROMs folder to store the dc\_boot.bin file as well as your games. You can do that using any Android file manager. We'll be using[Files by Google](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2028438/https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files) .
+ To set up each Sega Dreamcast emulator you need to make a ROMs folder to store the dc\_boot.bin file as well as your games. You can do that using any Android file manager. We'll be using [Files by Google](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2028438/https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files) .
 
 ## Step 1: Create a Folder to Store Your Dreamcast Games
 
@@ -47,7 +47,7 @@ To create a folder for your Dreamcast games and the BIOS file:
 
 ## Step 2: Move the ROM Files and dc\_boot.bin to the ROM Folder
 
- Next, get the dc\_boot.bin file and the ROM files (the games) onto your device. You have several choices to do this. You can download the files directly to your phone from your mobile browser, download them to your computer and[move the files from your laptop to your phone](https://www.makeuseof.com/tag/5-ways-to-get-data-from-your-desktop-to-your-android/) , or upload them to a cloud service to transfer to your Android device.
+ Next, get the dc\_boot.bin file and the ROM files (the games) onto your device. You have several choices to do this. You can download the files directly to your phone from your mobile browser, download them to your computer and [move the files from your laptop to your phone](https://www.makeuseof.com/tag/5-ways-to-get-data-from-your-desktop-to-your-android/) , or upload them to a cloud service to transfer to your Android device.
 
 Once you've downloaded the files, move them to your ROMs folder.
 
@@ -59,7 +59,7 @@ Once you've downloaded the files, move them to your ROMs folder.
 
 ## Step 3: Unzip the ROM Files
 
- If your ROM files are zipped, you'll need to unzip and extract them into your ROMs folder. To do that, first, install the app[RAR](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2028438/https://play.google.com/store/apps/details?id=com.rarlab.rar) to your device. Open it and be sure to select**Allow access to manage all files** when prompted.
+ If your ROM files are zipped, you'll need to unzip and extract them into your ROMs folder. To do that, first, install the app [RAR](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2028438/https://play.google.com/store/apps/details?id=com.rarlab.rar) to your device. Open it and be sure to select**Allow access to manage all files** when prompted.
 
  Now, find and select your zipped files, select the**Extraction** button (the button with the Up arrow), and go to**Browse > ROMs > Sega Dreamcast > OK > OK** to extract them to your ROMs folder.
 
@@ -99,9 +99,9 @@ Close
 
 ## How to Set Up Flycast on Android
 
- For an emulator with more settings to play with, try Flycast. It isn't available through the Play Store, so be sure you know[how to manually install or sideload apps on Android](https://www.makeuseof.com/tag/how-to-manually-install-side-load-apps-on-your-android-device/) .
+ For an emulator with more settings to play with, try Flycast. It isn't available through the Play Store, so be sure you know [how to manually install or sideload apps on Android](https://www.makeuseof.com/tag/how-to-manually-install-side-load-apps-on-your-android-device/) .
 
- Go to[Flycast's recent builds page](https://flyinghead.github.io/flycast-builds/) on your Android device. You'll see bunches of different downloads for various platforms. You're only interested in the Android column under**Master** as these are the most stable Android releases yet available. The downloads are categorized from the newest builds to the oldest: download the newest.
+ Go to [Flycast's recent builds page](https://flyinghead.github.io/flycast-builds/) on your Android device. You'll see bunches of different downloads for various platforms. You're only interested in the Android column under**Master** as these are the most stable Android releases yet available. The downloads are categorized from the newest builds to the oldest: download the newest.
 
 ![Highlighted Android builds of Flycast Libretro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/flycast-builds-android.jpg)
 
@@ -128,7 +128,7 @@ Finally, set the Home directory. To do that:
 
 ## Optional: Use a Bluetooth Controller to Play Sega Dreamcast Games
 
- You can[use a Bluetooth controller with your Android device](https://www.makeuseof.com/tag/how-to-connect-a-game-controller-to-android-for-console-like-gameplay-si/) , but you have to set it to the mode appropriate for your platform and connect it using that mode's specific combination.
+ You can [use a Bluetooth controller with your Android device](https://www.makeuseof.com/tag/how-to-connect-a-game-controller-to-android-for-console-like-gameplay-si/) , but you have to set it to the mode appropriate for your platform and connect it using that mode's specific combination.
 
 ![Different controller modes on 8Bitdo Pro2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/8bitdopro2-modes.jpg)
 

@@ -1,7 +1,7 @@
 ---
 title: The Journey to Reinventing Yourself on Riot Games Platforms
-date: 2024-06-23 23:58:44
-updated: 2024-06-24 12:14:56
+date: 2024-06-25T13:14:18.322Z
+updated: 2024-06-26T13:14:18.322Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/f8c3bfe35cce5c37efbf85d203da2ba6c70ae952a
 
 To do that, follow the steps below:
 
-1. Head over to[account.riotgames.com](https://account.riotgames.com) and enter your account credentials to sign in.
+1. Head over to [account.riotgames.com](https://account.riotgames.com) and enter your account credentials to sign in.
 2. On the Riot Account Management page, edit the**RIOT ID** and**TAGLINE** fields to change your display name and ID.
 3. Finally, click on**Save Changes** to proceed.
 
@@ -55,3 +55,26 @@ To do that, follow the steps below:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/maximizing-your-steam-deck-potential-with-top-9-emulators/"><u>Maximizing Your Steam Deck Potential with Top 9 Emulators</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-nuances-of-xbox-control-panel-brightness-settings/"><u>Navigating the Nuances of Xbox Control Panel Brightness Settings</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-the-art-of-combining-sony-and-switch-gameplay/"><u>Master the Art of Combining Sony & Switch Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-your-gaming-budget-in-ps-store/"><u>Boosting Your Gaming Budget in PS Store</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-pre-launch-path-to-starfield-experience/"><u>Navigating the Pre-Launch Path to Starfield Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/tech-wizardry-discovering-ps5s-browsing-secret/"><u>Tech Wizardry: Discovering PS5's Browsing Secret</u></a></li>
+<li><a href="https://games-able.techidaily.com/connecting-controllers-perfectly-on-android-platforms/"><u>Connecting Controllers Perfectly on Android Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/tailoring-xbox-series-sxs-vrr-settings-a-step-by-step-guide/"><u>Tailoring Xbox Series S/X's VRR Settings: A Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/using-smart-technology-for-xbox-controller-free-use/"><u>Using Smart Technology for Xbox Controller-Free Use</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-essential-tv-gear-for-premium-live-broadcasts/"><u>[New] In 2024, Essential TV Gear for Premium Live Broadcasts</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6-plus-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6 Plus Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/the-ultimate-guide-to-video-trimming-top-10-pc-tools-for-2024/"><u>The Ultimate Guide to Video Trimming Top 10 PC Tools for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/revive-freezing-mobile-videos-in-chrome-and-firefox/"><u>Revive Freezing Mobile Videos in Chrome and Firefox</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-some-outdated-hardware-drivers-with-windows-device-manager-in-windows-11107-by-drivereasy-guide/"><u>How to identify some outdated hardware drivers with Windows Device Manager in Windows 11/10/7</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-indicators-of-a-premium-audio-tool-suitable-for-macos-environments-for-2024/"><u>New Indicators of a Premium Audio Tool Suitable for macOS Environments for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-exceptional-hd-video-capturing-options-compiled-here-for-2024/"><u>[Updated] Exceptional HD Video Capturing Options Compiled Here for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-xs-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone XS</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-tips-for-seamlessly-adding-youtube-to-your-gslides-deck/"><u>[New] In 2024, Tips for Seamlessly Adding YouTube to Your GSlides Deck</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+</ul></div>

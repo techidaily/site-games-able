@@ -1,7 +1,7 @@
 ---
 title: "Effortlessly Enter Epic Environments: Eliminate Lock-Ups"
-date: 2024-06-23 21:36:16
-updated: 2024-06-24 11:59:59
+date: 2024-06-25T13:11:09.417Z
+updated: 2024-06-26T13:11:09.417Z
 tags:
   - games
 categories:
@@ -37,16 +37,14 @@ thumbnail: https://thmb.techidaily.com/475e778db07011aff476548fbdaa46272592bc242
  You should first apply the following preliminary fixes, as they may resolve the problem right away:
 
 * Run League of Legends as an administrator. For that, right-click on the game file and click**Run as administrator** .
-* Check the minimum and recommended game requirements from the[League of Legends website](https://www.leagueoflegends.com/en-pl/news/game-updates/updated-min-and-recommended-specs-for-lol-tft/) and compare them with your device's specifications. If your hardware does not meet the requirements, it needs to be upgraded.
+* Check the minimum and recommended game requirements from the [League of Legends website](https://www.leagueoflegends.com/en-pl/news/game-updates/updated-min-and-recommended-specs-for-lol-tft/) and compare them with your device's specifications. If your hardware does not meet the requirements, it needs to be upgraded.
 * To ensure that account-specific issues aren't causing this problem, create a new account and use it to log in. If you don't experience any issues this time and the game successfully loads, there is a problem with your other account. Therefore, from now on, you should use the new account.
 * Close any other games running concurrently with League of Legends, especially those that use the same gaming client. This will eliminate the possibility of their interference causing the problem.
-* Though less likely, having an outdated graphics driver can also cause the issue under discussion. To prevent this, be sure to[update your graphics driver on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) .
+* Though less likely, having an outdated graphics driver can also cause the issue under discussion. To prevent this, be sure to [update your graphics driver on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) .
 
  If the above fixes don't help, start applying the remaining fixes.
 
-## 2\. Wait It Out
-
-![Round silver-colored analog stopwatch on brown wooden panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/pexels-anton-makarenko-1078057.jpg)
+## 2\. Wait It Out ![Round silver-colored analog stopwatch on brown wooden panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/pexels-anton-makarenko-1078057.jpg)
 
  Sometimes, League of Legends takes a bit longer than usual to start up. It's more likely to happen if your hardware isn't strong enough and barely meets the system requirements. So, if you have just launched League of Legends and it appears to be stuck at the loading screen, wait a while to ensure the game isn't just taking extra time to load.
 
@@ -116,7 +114,7 @@ thumbnail: https://thmb.techidaily.com/475e778db07011aff476548fbdaa46272592bc242
 
 ## 9\. Whitelist League of Legends From the Windows Defender Firewall
 
- If the game opens for a few seconds and then closes down, the Windows Defender Firewall might be blocking it. To rule out this possibility, you should whitelist League of Legends from Windows Defender Firewall. If you've never done that before, check out our guide on[how to allow apps through Windows Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) .
+ If the game opens for a few seconds and then closes down, the Windows Defender Firewall might be blocking it. To rule out this possibility, you should whitelist League of Legends from Windows Defender Firewall. If you've never done that before, check out our guide on [how to allow apps through Windows Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) .
 
  Similarly, if you're using a third-party antivirus that you think may interfere with the game process, either disable it or whitelist the game files through it.
 
@@ -143,3 +141,22 @@ thumbnail: https://thmb.techidaily.com/475e778db07011aff476548fbdaa46272592bc242
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/first-strike-strategy-7-essential-fps-tweaks/"><u>First Strike Strategy: 7 Essential FPS Tweaks</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-intricacies-of-metagame-definition-importance-and-obedience/"><u>The Intricacies of Metagame: Definition, Importance & Obedience</u></a></li>
+<li><a href="https://games-able.techidaily.com/six-essential-aspects-you-cant-miss-in-gaming/"><u>Six Essential Aspects You Can't Miss in Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/budget-whitescale-gadgets-to-power-your-system/"><u>Budget Whitescale Gadgets to Power Your System</u></a></li>
+<li><a href="https://games-able.techidaily.com/secrets-for-premature-starfield-trial-participation/"><u>Secrets for Premature Starfield Trial Participation</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-complete-accessory-collection-to-supercharge-your-steam-deck/"><u>The Complete Accessory Collection to Supercharge Your Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/ai-ally-in-gaming-top-6-approaches-with-chatgpt/"><u>AI Ally in Gaming: Top 6 Approaches with ChatGPT</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-superior-fb-video-player-reviews-10-to-1-for-2024/"><u>[New] Superior FB Video Player Reviews  #10 to #1 for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-elevate-video-engagement-top-7-free-thumbnail-design-tools/"><u>2024 Approved  Elevate Video Engagement  Top 7 Free Thumbnail Design Tools</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-infinix-hot-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-acoustic-indexing-sound-and-vocal-files/"><u>2024 Approved  Acoustic Indexing  Sound and Vocal Files</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/cutting-out-clutter-strategies-to-refine-audible-landscapes-with-web-based-audio-processors-for-2024/"><u>Cutting Out Clutter Strategies to Refine Audible Landscapes with Web-Based Audio Processors for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-book-trailers-reviewed-top-5-picks-revealed/"><u>[New] In 2024, Book Trailers Reviewed  Top 5 Picks Revealed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-advanced-photography-tech-the-best-4k-phones-for-exceptional-quality/"><u>[Updated] Advanced Photography Tech  The Best 4K Phones for Exceptional Quality</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: How to Leave a Game Review on Steam
-date: 2024-06-25T10:40:29.345Z
-updated: 2024-06-26T10:40:29.345Z
+date: 2024-06-25T12:48:35.613Z
+updated: 2024-06-26T12:48:35.613Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/3546fd9956a8b6a73b831712e52723669b090c846
 
 ## Step 1: Log Into Steam and Find the Game in Your Library
 
- Before you can review a game on Steam, you must first own the game. You can buy games by logging in through[Steam’s website](https://store.steampowered.com/) or[installing Steam on your computer](https://www.makeuseof.com/what-is-steam-how-to-install/) and launching the desktop app.
+ Before you can review a game on Steam, you must first own the game. You can buy games by logging in through [Steam’s website](https://store.steampowered.com/) or [installing Steam on your computer](https://www.makeuseof.com/what-is-steam-how-to-install/) and launching the desktop app.
 
 Here’s what to do:
 
@@ -30,7 +30,7 @@ Here’s what to do:
 3. App: Select**Library** from the top menu. You’ll find all your games on the left-side menu.
 4. Website: Click**All Games** to see all your games.
 
- Once you’re on this page, you should be able to skim and find the game you want to review. If you’ve been meaning to buy a game to review, you can check out our guide on[tips to get the best deals on Steam games](https://www.makeuseof.com/tag/5-ways-to-make-sure-you-get-the-best-deals-on-steam-games/) to make it a less expensive endeavor. Follow the next step as soon as you’re ready.
+ Once you’re on this page, you should be able to skim and find the game you want to review. If you’ve been meaning to buy a game to review, you can check out our guide on [tips to get the best deals on Steam games](https://www.makeuseof.com/tag/5-ways-to-make-sure-you-get-the-best-deals-on-steam-games/) to make it a less expensive endeavor. Follow the next step as soon as you’re ready.
 
  You can’t leave reviews for games through Steam’s mobile app.
 
@@ -79,9 +79,9 @@ Here are additional notes:
 
  That’s not all; there are some other things about Steam reviews you should know:
 
-* Popular reviews can earn you awards and high ratings. Getting awards gives you[Steam points](https://www.makeuseof.com/what-are-steam-points/) , which you can exchange for Steam items.
+* Popular reviews can earn you awards and high ratings. Getting awards gives you [Steam points](https://www.makeuseof.com/what-are-steam-points/) , which you can exchange for Steam items.
 * Steam reviews have a character limit of 8,000 characters. That’s a generous number, but you can’t make an overly detailed analysis.
-* You can add GIFs and screenshots to your reviews. But you first must learn[how to capture and manage screenshots on Steam](https://www.makeuseof.com/how-to-capture-and-manage-steam-screenshots/) and then add them as a link.
+* You can add GIFs and screenshots to your reviews. But you first must learn [how to capture and manage screenshots on Steam](https://www.makeuseof.com/how-to-capture-and-manage-steam-screenshots/) and then add them as a link.
 
 That's about all you need to know about leaving Steam reviews.
 

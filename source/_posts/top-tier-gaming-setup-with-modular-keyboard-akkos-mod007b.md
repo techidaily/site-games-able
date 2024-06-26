@@ -1,7 +1,7 @@
 ---
 title: Top-Tier Gaming Setup with Modular Keyboard - Akko's MOD007B
-date: 2024-06-23 14:13:45
-updated: 2024-06-24 12:57:36
+date: 2024-06-25T13:22:28.706Z
+updated: 2024-06-26T13:22:28.706Z
 tags:
   - games
 categories:
@@ -109,9 +109,7 @@ No
 
 [See at Akko](https://en.akkogear.com/product/mod007b-pc-santorini-mechanical-keyboard/)
 
-## A Great-Looking Keyboard on the Surface
-
-![Akko MOD007B HE Spacebar Detail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-spacebar-detail.jpg)
+## A Great-Looking Keyboard on the Surface ![Akko MOD007B HE Spacebar Detail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-spacebar-detail.jpg)
 
  Jowi Morales / MakeUseOf
 
@@ -121,9 +119,7 @@ No
 
  All of these sit on a plain white plastic case with two-level adjustable feet. You also get a plain white knob for adjusting volume and RGB brightness. This keyboard would look great on any desk. Even if you aim for a minimalist gaming station, its design could be your PC’s focal point.
 
-## Tokyo-Themed Keys and Accessories Included
-
-![Akko MOD007B HE Tokyo-themed Accessories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-tokyo-themed-accessories.jpg)
+## Tokyo-Themed Keys and Accessories Included ![Akko MOD007B HE Tokyo-themed Accessories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-tokyo-themed-accessories.jpg)
 
  Jowi Morales / MakeUseOf
 
@@ -139,7 +135,7 @@ No
 
  What makes the Akko MOD007B different from most gaming keyboards is that it uses Hall Effect switches instead of mechanical keys.[Mechanical keyboards work by using springs](http://www.makeuseof.com/tag/mechanical-keyboard-work-technology-explained/) to control how much pressure you need to apply before it closes the switch.
 
- On the other hand, Hall Effect switches have no moving parts. Instead, it uses the changing position of two magnets to determine a key’s position. Because of this, Hall Effect keyboards have a longer lifespan than traditional mechanical switches, just like[Hall Effect joysticks](https://www.makeuseof.com/what-are-hall-effect-joysticks-can-they-cure-controller-drift/) .
+ On the other hand, Hall Effect switches have no moving parts. Instead, it uses the changing position of two magnets to determine a key’s position. Because of this, Hall Effect keyboards have a longer lifespan than traditional mechanical switches, just like [Hall Effect joysticks](https://www.makeuseof.com/what-are-hall-effect-joysticks-can-they-cure-controller-drift/) .
 
 ![Akko MOD007B HE Hall-Effect Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-hall-effect-switch.jpg)
 
@@ -169,9 +165,7 @@ Related
 
  Even when you bottom out the keys, you’ll feel as if it’s cushioned, reducing the stress on your fingertips. And although it doesn’t have the bassy, thocky sound some keyboard enthusiasts look for, it still delivers excellent audible feedback for each keypress you make.
 
-## Extensive Customization With the Akko Cloud Driver
-
-![Akko MOD007B HE Cloud Driver Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/akko-mod007b-he-cloud-driver-screenshot.jpg)
+## Extensive Customization With the Akko Cloud Driver ![Akko MOD007B HE Cloud Driver Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/akko-mod007b-he-cloud-driver-screenshot.jpg)
 
  Of course, hardware is no good if you don’t pair it with great software. Thankfully, the Akko MOD007B comes with an easy-to-use and easy-to-understand driver. On thge Main tab you can remap your keyboard, change its Dynamic Keystroke settings, and set custom actuation distances for the entire keyboard or each key.
 
@@ -179,9 +173,7 @@ Related
 
  But best of all, any changes you make to the keyboard are stored on it. So, even if you switch PCs or upgrade to a newer device, you don’t have to download the driver and recreate your saved keyboard settings.
 
-## Confusing Multi-Mode Pairing
-
-![Akko MOD007B HE mode switch slider under the caps lock key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-mode-switch-slider-under-the-caps-lock-key.jpg)
+## Confusing Multi-Mode Pairing ![Akko MOD007B HE mode switch slider under the caps lock key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-mode-switch-slider-under-the-caps-lock-key.jpg)
 
  Jowi Morales / MakeUseOf
 
@@ -193,9 +185,7 @@ Related
 
  It would’ve been better if Akko included at least a single color-changing LED bulb to indicate the mode the keyboard is currently on. And maybe they could put the OS mode switch on an easily reachable surface.
 
-## Questionable Battery Life
-
-![Akko MOD007B HE Battery-Level Check](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-battery-level-check.jpg)
+## Questionable Battery Life ![Akko MOD007B HE Battery-Level Check](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-battery-level-check.jpg)
 
  Jowi Morales / MakeUseOf
 
@@ -302,3 +292,23 @@ No
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/can-you-adapt-retro-dock-to-work-with-oled-switch/"><u>Can You Adapt Retro Dock to Work With OLED Switch?</u></a></li>
+<li><a href="https://games-able.techidaily.com/pixel-warfare-controller-versus-arcade-gamepad/"><u>Pixel Warfare: Controller Versus Arcade Gamepad</u></a></li>
+<li><a href="https://games-able.techidaily.com/assembled-now-deconstructed-your-xbox-360-slim-guide/"><u>Assembled, Now Deconstructed: Your Xbox 360 Slim Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-art-of-curating-ps5-gaming-membership-benefits/"><u>The Art of Curating PS5 Gaming Membership Benefits</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-with-these-strategies-to-improve-ps4/"><u>Game On with These Strategies to Improve PS4</u></a></li>
+<li><a href="https://games-able.techidaily.com/tips-for-maximizing-your-steam-milestones/"><u>Tips for Maximizing Your Steam Milestones</u></a></li>
+<li><a href="https://games-able.techidaily.com/productivity-machines-vs-gaming-computing-units/"><u>Productivity Machines Vs. Gaming Computing Units</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-motorola-moto-g24-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Motorola Moto G24</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-what-role-does-layering-play-in-coherent-sound-production-for-2024/"><u>New What Role Does Layering Play in Coherent Sound Production for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-nokia-xr21-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Nokia XR21 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-top-creations-unique-and-chic-minecraft-dwellings/"><u>2024 Approved  Top Creations  Unique and Chic Minecraft Dwellings</u></a></li>
+<li><a href="https://extra-information.techidaily.com/racing-to-the-top-olympic-highlights-in-short-track-speed/"><u>Racing to the Top  Olympic Highlights in Short Track Speed</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-4-ways-to-merge-mp4-and-mp3/"><u>New 2024 Approved 4 Ways to Merge MP4 and MP3</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/15-best-youtube-movies-channels-for-you-to-kill-time-for-2024/"><u>15 Best YouTube Movies Channels for You to Kill Time for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/demystifying-discords-screen-sharing-feature-for-2024/"><u>Demystifying Discord's Screen Sharing Feature for 2024</u></a></li>
+</ul></div>

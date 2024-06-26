@@ -1,7 +1,7 @@
 ---
 title: "RTX Supers' Grand Challenge: Compare & Contrast 4070, Titan X, 4080"
-date: 2024-06-21 19:39:31
-updated: 2024-06-24 11:28:14
+date: 2024-06-25T13:30:30.536Z
+updated: 2024-06-26T13:30:30.536Z
 tags:
   - games
 categories:
@@ -67,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/2f486f4dd87aa179d36ac9cfba84a9e655bb2170b
 
 ### Price to Performance
 
- The[RTX 4080 launched in 2022](https://www.makeuseof.com/nvidia-rtx-4080-reasons-upgrade/) , priced around $1,199—the highest figure ever for one of Nvidia's "80" tier cards. Even allowing for inflation between the launch of the RTX 3080 in 2020 (around $699), the sky-high pricing put many would-be buyers off.
+ The [RTX 4080 launched in 2022](https://www.makeuseof.com/nvidia-rtx-4080-reasons-upgrade/) , priced around $1,199—the highest figure ever for one of Nvidia's "80" tier cards. Even allowing for inflation between the launch of the RTX 3080 in 2020 (around $699), the sky-high pricing put many would-be buyers off.
 
  Now, Nvidia is dropping the price of the RTX 4080 Super to $999\. It's still an expensive outlay; there's no escaping that, but the performance boost and price drop make the new RTX 4080 Super more palatable.
 
@@ -94,3 +94,22 @@ thumbnail: https://thmb.techidaily.com/2f486f4dd87aa179d36ac9cfba84a9e655bb2170b
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/nintendo-switch-best-3-live-stream-apps-and-games/"><u>Nintendo Switch - Best 3 Live-Stream Apps & Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-the-art-of-combining-sony-and-switch-gameplay/"><u>Master the Art of Combining Sony & Switch Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/smarter-monitor-shopping-good-vs-wrong-oled/"><u>Smarter Monitor Shopping: Good vs Wrong OLED</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-pc-excellence-and-control-4-strong-points-in-corsairs-icue-link/"><u>Elevate PC Excellence and Control: 4 Strong Points in Corsair’s iCUE Link</u></a></li>
+<li><a href="https://games-able.techidaily.com/rejuvenate-play-replacing-your-switchs-joystick/"><u>Rejuvenate Play: Replacing Your Switch's Joystick</u></a></li>
+<li><a href="https://games-able.techidaily.com/10-hidden-gem-free-mobile-games-pure-fun/"><u>10 Hidden Gem Free Mobile Games - Pure Fun!</u></a></li>
+<li><a href="https://games-able.techidaily.com/inside-look-what-sets-xbox-game-pass-apart/"><u>Inside Look: What Sets Xbox Game Pass Apart</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-unbeatable-deal-get-top-quality-discord-icons-free/"><u>In 2024, Unbeatable Deal  Get Top-Quality Discord Icons FREE</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-the-newest-tiktok-sensations-for-your-earseyes/"><u>[Updated] The Newest TikTok Sensations for Your Ears/Eyes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-infinix-hot-30-5g-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Infinix Hot 30 5G Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-wav-converter-essentials-a-step-by-step-tutorial/"><u>Updated In 2024, Wav Converter Essentials A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-uncharted-top-free-speech-to-text-for-mac-users/"><u>In 2024, Uncharted Top Free Speech-to-Text for Mac Users</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-15-groundbreayer-tiktok-challenges-to-master-now/"><u>[Updated] 2024 Approved  15 Groundbreayer TikTok Challenges to Master Now</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-zte-nubia-flip-5g-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on ZTE Nubia Flip 5G</u></a></li>
+</ul></div>

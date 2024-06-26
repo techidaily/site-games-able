@@ -1,7 +1,7 @@
 ---
 title: Wireless PlayStation Controls for Your Smartphone
-date: 2024-06-22 23:12:22
-updated: 2024-06-24 12:36:49
+date: 2024-06-25T13:35:19.790Z
+updated: 2024-06-26T13:35:19.790Z
 tags:
   - games
 categories:
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
 
 ## Which Smartphones Are Compatible With the PS5 Controller?
 
- The[PlayStation website](https://www.playstation.com/en-au/support/hardware/pair-dualsense-controller-bluetooth/#supported) states that the DualSense Controller is compatible with devices running Android 12 or later and iOS 14.5 or later. However, we were able to test the method on a device running Android 11 with no issues.
+ The [PlayStation website](https://www.playstation.com/en-au/support/hardware/pair-dualsense-controller-bluetooth/#supported) states that the DualSense Controller is compatible with devices running Android 12 or later and iOS 14.5 or later. However, we were able to test the method on a device running Android 11 with no issues.
 
  Not all Android devices are compatible with the DualSense Controller, however. The PlayStation website suggests consulting your device’s manufacturer to see if your device is compatible with the controller or not.
 
@@ -59,7 +59,7 @@ Close
 
  Put your controller in pairing mode by holding the Create and PS buttons down simultaneously. It should only take around three seconds before your controller light starts flashing to indicate it is in pairing mode.
 
- If you're unsure[what the DualSense Create button is](https://www.makeuseof.com/ps5-create-button/) , it's the small oval button on the left side of the touchpad.
+ If you're unsure [what the DualSense Create button is](https://www.makeuseof.com/ps5-create-button/) , it's the small oval button on the left side of the touchpad.
 
 ![a playstation 5 controller held in someone's hands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/a-playstation-5-controller-held-in-someone-s-hands.jpg)
 
@@ -91,7 +91,7 @@ Close
 
 Close
 
- If your operating software is compatible, press**General** in the top left corner to head back to your**Settings** and select**Bluetooth** . Ensure the**toggle** is switched on and[put your PS5 controller into pairing mode](https://www.makeuseof.com/how-to-ps5-dualsense-controller-pairing-mode/) .
+ If your operating software is compatible, press**General** in the top left corner to head back to your**Settings** and select**Bluetooth** . Ensure the**toggle** is switched on and [put your PS5 controller into pairing mode](https://www.makeuseof.com/how-to-ps5-dualsense-controller-pairing-mode/) .
 
  Scroll down to**Other Devices** on your mobile and wait until you see the**DualSense Wireless Controller** option.
 
@@ -134,3 +134,27 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/clearing-glitches-mastery-of-ps5-gamepad-restart/"><u>Clearing Glitches: Mastery of PS5 Gamepad Restart</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-6-core-features-that-make-games-intriguing/"><u>The 6 Core Features That Make Games Intriguing</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-secrets-of-blending-into-steam-backgrounds/"><u>The Secrets of Blending Into Steam Backgrounds</u></a></li>
+<li><a href="https://games-able.techidaily.com/mobile-operating-system-migration-tips-for-linux/"><u>Mobile Operating System Migration Tips for Linux</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-psp-with-a-virtual-nessnes-experience/"><u>Elevate Your PSP with a Virtual NES/SNES Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-unlinking-from-ps5-accounts/"><u>Step-by-Step: Unlinking From PS5 Accounts</u></a></li>
+<li><a href="https://games-able.techidaily.com/free-games-just-a-click-away-on-series-xs/"><u>Free Games, Just a Click Away on Series X|S</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-the-game-quality-gear-for-maximum-efficiency/"><u>Master the Game: Quality Gear for Maximum Efficiency</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-official-method-to-alter-console-regions/"><u>The Official Method to Alter Console Regions</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-freeze-error-decoding-code-0x887a0006-on-windows/"><u>Overcoming Freeze Error – Decoding Code 0X887A0006 on Windows</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/sion-in-upload-a-deep-dive-into-youtube-video-size-settings/"><u>Precision in Upload  A Deep-Dive Into YouTube Video Size Settings</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-captivating-content-at-your-fingertips-download-youtube-for-ios/"><u>[New] In 2024, Captivating Content at Your Fingertips  Download YouTube for iOS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-obscurity-to-prominence-how-to-thrive-in-youtube-streaming/"><u>[New] From Obscurity to Prominence  How to Thrive in Youtube Streaming</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-viral-potential-in-tiktok-unboxer-videos/"><u>In 2024, Mastering Viral Potential in TikTok Unboxer Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-gateway-to-grandeur-embarking-on-a-classic-lit-journey/"><u>[Updated] Gateway to Grandeur  Embarking on a Classic Lit Journey</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/easy-media-sharing-on-twitter-no-retweets-required/"><u>Easy Media Sharing on Twitter - No Retweets Required</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-quick-insights-5-easy-techniques-for-effective-audio-capture-on-windows-11/"><u>2024 Approved  Quick Insights  5 Easy Techniques for Effective Audio Capture on Windows 11</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/2024-approved-this-article-inroduces-10-video-special-effects-apps-for-iphone-ipad-android-to-add-special-video-effects-to-video-with-drag-n-drop/"><u>2024 Approved This Article Inroduces 10 Video Special Effects Apps for iPhone, iPad, Android to Add Special Video Effects to Video with Drag-N-Drop</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-decoding-the-secrets-to-seamless-spotify-conversion-for-unlimited-listening/"><u>2024 Approved Decoding the Secrets to Seamless Spotify Conversion for Unlimited Listening</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-the-art-of-sound-visuals-illustrating-audio-signals-as-waveforms-and-enriching-footage-with-animation-in-adobe-premiere-pro/"><u>Updated The Art of Sound Visuals Illustrating Audio Signals as Waveforms & Enriching Footage with Animation in Adobe Premiere Pro</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Maximize Graphics on Windows with Efficient DXVK Utility
-date: 2024-06-22 10:33:28
-updated: 2024-06-23 12:21:56
+date: 2024-06-25T13:02:17.111Z
+updated: 2024-06-26T13:02:17.111Z
 tags:
   - games
 categories:
@@ -34,13 +34,13 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
 
  Like OpenGL, and unlike Microsoft's Windows-bound Direct3D, Vulkan is "open" and cross-platform. You can use Vulkan on Windows, Linux, and even smartphones. Although not natively supported on Macs, it's usable there through MoltenVK.
 
- That was the short version. To learn more about Vulkan, check our article on[what Vulkan run time libraries are in Windows](https://www.makeuseof.com/tag/vulkan-run-time-libraries-windows/) .
+ That was the short version. To learn more about Vulkan, check our article on [what Vulkan run time libraries are in Windows](https://www.makeuseof.com/tag/vulkan-run-time-libraries-windows/) .
 
 ## What Is DXVK?
 
  DXVK is a wrapper, "translating" Direct3D to Vulkan. In the human world, a translator can be a mediator between an English and a Japanese speaker, enabling them to understand one another. Similarly, "wrappers", or "translation layers", can "take" code written for a specific piece of hardware, platform, or API, and translate it to run on another.
 
- DXVK was originally developed for Linux with support from Valve, which also uses it on SteamOS and the Steam Deck. You can learn more about that in our article where we saw[what is Steam Proton and how it runs Windows games on Steam Deck](https://www.makeuseof.com/what-is-steam-proton-how-does-it-run-windows-games-on-steam-deck/) .
+ DXVK was originally developed for Linux with support from Valve, which also uses it on SteamOS and the Steam Deck. You can learn more about that in our article where we saw [what is Steam Proton and how it runs Windows games on Steam Deck](https://www.makeuseof.com/what-is-steam-proton-how-does-it-run-windows-games-on-steam-deck/) .
 
 ## Why Should You Use DXVK on Windows?
 
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
 
  By "translating" old-and-buggy Direct3D code into the more modern Vulkan API, there's a minimal toll on performance (if any). At the same time, problematic games with broken graphics or missing features may become fully playable again.
 
- Since Vulkan is on par with Direct3D 12, and both are much better (and faster) than older versions of Direct3D (as we saw when[we compared DirectX 11 VS DirectX 12](https://www.makeuseof.com/directx-11-vs-directx-12-differences/) ), "translating" old Direct3D games to Vulkan can sometimes improve the game's performance.
+ Since Vulkan is on par with Direct3D 12, and both are much better (and faster) than older versions of Direct3D (as we saw when [we compared DirectX 11 VS DirectX 12](https://www.makeuseof.com/directx-11-vs-directx-12-differences/) ), "translating" old Direct3D games to Vulkan can sometimes improve the game's performance.
 
  Intel's work on their Arc GPUs is proof of that. Intel could try to add support for every single older title in Arc GPU drivers. Instead, Intel decided to work on further improving DXVK. Initial results from Intel's "experiment" lead up to a 2x boost in performance for older titles, with dozens rendered playable "through" DXVK.
 
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
 
  DXVK is open-source software and free to use. You can find its latest version on GitHub.
 
-1. Visit DXVK's[official GitHub page](https://GitHub.com/doitsujin/dxvk) and click on the**Latest** version link on the right of the page, under**Releases** .
+1. Visit DXVK's [official GitHub page](https://GitHub.com/doitsujin/dxvk) and click on the**Latest** version link on the right of the page, under**Releases** .
 2. Scroll down on the releases page and find the**Assets** section of the latest version. Click on the latest DXVK tar.gz archive to download it. At the time of writing, it was version 2.2.  
 ![DXVK Latest Release Asset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dxvk-latest-release-asset-1.jpg)
 3. Store the downloaded archive somewhere, for you will need to extract its contents to the folder of every game you want to run with DXVK instead of Direct3D.
@@ -73,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
 
  If you need to know which version of Direct3D your game is using, the PC Gaming Wiki website can help.
 
-1. Visit[PC Gaming Wiki](https://pcgamingwiki.com/) with your browser, and use the search field on the top right to seek the game to which you want to add DXVK.
+1. Visit [PC Gaming Wiki](https://pcgamingwiki.com/) with your browser, and use the search field on the top right to seek the game to which you want to add DXVK.
 2. When you find your game, visit its page and scroll down to reach the**Other Information** section. Turn your attention to the API tables. There, on the**Technical Specs** and**Supported** columns, you will see the version of Direct3D your game is using. Underneath, the**Executable** ,**32-bit** , and**64-bit** columns will "tell" you which architecture you should choose.  
 ![PCGamingWiki Game API Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/pcgamingwiki-game-api-information-1.jpg)
 
@@ -149,3 +149,22 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/leveraging-sonys-controller-for-enhanced-pc-gameplay-experience/"><u>Leveraging Sony’s Controller for Enhanced PC Gameplay Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-quality-titles-should-mts-be-compulsory/"><u>High-Quality Titles: Should MTs Be Compulsory?</u></a></li>
+<li><a href="https://games-able.techidaily.com/pinnacle-office-matt-selection-for-future-workspaces/"><u>Pinnacle Office Matt Selection for Future Workspaces</u></a></li>
+<li><a href="https://games-able.techidaily.com/channel-management-excellence-perfecting-blockunblock-techniques-on-twitch/"><u>Channel Management Excellence: Perfecting Block/Unblock Techniques on Twitch</u></a></li>
+<li><a href="https://games-able.techidaily.com/principles-for-creating-effective-directional-symbols-that-are-universally-understood/"><u>Principles for Creating Effective Directional Symbols that Are Universally Understood;</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-xbox-golds-shift-to-game-pass-inclusion/"><u>Understanding Xbox Gold's Shift to Game Pass Inclusion</u></a></li>
+<li><a href="https://games-able.techidaily.com/accessing-classic-game-images-in-windows-11-pics-space/"><u>Accessing Classic Game Images in Windows 11 Pics Space</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-realme-gt-5-240w-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Realme GT 5 (240W)</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/in-2024-the-ultimate-list-of-online-webm-video-compressors/"><u>In 2024, The Ultimate List of Online WebM Video Compressors</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/daredevil-daters-unite-on-discord-for-2024/"><u>Daredevil Daters Unite on Discord for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-samsung-galaxy-f34-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Samsung Galaxy F34 5G Devices</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-how-to-make-a-tiktok-outro/"><u>[New] 2024 Approved  How To Make A Tiktok Outro</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-giggle-fest-on-the-twittersphere/"><u>[Updated] In 2024, Giggle Fest on the Twittersphere</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-election-enthusiasts-essentials-quintessential-voting-games/"><u>[New] In 2024, Election Enthusiasts' Essentials  Quintessential Voting Games</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/facebooks-videography-preference-which-orientation-for-2024/"><u>Facebook's Videography Preference  Which Orientation for 2024</u></a></li>
+</ul></div>

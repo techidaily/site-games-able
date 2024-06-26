@@ -1,7 +1,7 @@
 ---
 title: Elevate Xbox Graphics with an Additional Laptop Screen
-date: 2024-06-25T10:46:31.674Z
-updated: 2024-06-26T10:46:31.674Z
+date: 2024-06-25T12:48:39.428Z
+updated: 2024-06-26T12:48:39.428Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/a01c874bf96001212de2ae31da3cf8c01bb85a8c0
 
 ## What Is Remote Play?
 
- Remote Play lets you stream your Xbox One or Xbox Series X|S to any eligible device. This includes PCs, Android, and iOS devices; see[how to play Xbox games on your iPhone](https://www.makeuseof.com/how-to-play-xbox-games-iphone-ipad/) as an example. You'll be able to use your console exactly as you would normally.
+ Remote Play lets you stream your Xbox One or Xbox Series X|S to any eligible device. This includes PCs, Android, and iOS devices; see [how to play Xbox games on your iPhone](https://www.makeuseof.com/how-to-play-xbox-games-iphone-ipad/) as an example. You'll be able to use your console exactly as you would normally.
 
 ![A promotional image for the advertisement of Xbox Game Pass and Xbox All Access](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/xbox-game-pass-stock-image.jpg)
 
@@ -59,11 +59,11 @@ thumbnail: https://thmb.techidaily.com/a01c874bf96001212de2ae31da3cf8c01bb85a8c0
 
 ![A screenshot of the settings for Xbox App Preferences on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/xbox-app-preferences.jpg)
 
- Similarly, you can also select**Power options** from the**Remote features** screen, to[customize the power settings of your Xbox](https://www.makeuseof.com/how-to-customize-xbox-series-x-s-power-options-to-save-energy/) and ensure it is set to**Sleep** rather than**Shutdown** to enable Remote Play all the time.
+ Similarly, you can also select**Power options** from the**Remote features** screen, to [customize the power settings of your Xbox](https://www.makeuseof.com/how-to-customize-xbox-series-x-s-power-options-to-save-energy/) and ensure it is set to**Sleep** rather than**Shutdown** to enable Remote Play all the time.
 
 ## How to Start Playing Xbox Series X|S Games With Your Laptop
 
- While you don't technically need an Xbox controller for this, we recommend using an official controller to get the best experience. If you're not using an Xbox Series X|S controller, you might not be able to use Bluetooth to connect your controller to your laptop. In that case, you'll need to use a different method to[sync your controller with your PC](https://www.makeuseof.com/tag/connect-xbox-one-controller-pc/) .
+ While you don't technically need an Xbox controller for this, we recommend using an official controller to get the best experience. If you're not using an Xbox Series X|S controller, you might not be able to use Bluetooth to connect your controller to your laptop. In that case, you'll need to use a different method to [sync your controller with your PC](https://www.makeuseof.com/tag/connect-xbox-one-controller-pc/) .
 
 ### Connect Your Xbox Controller to Your Laptop
 
@@ -81,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/a01c874bf96001212de2ae31da3cf8c01bb85a8c0
 
 ## How to Download the Xbox App and Connect to Your Xbox
 
- With your controller ready to go, you'll need to install[the Xbox app for PC](https://www.xbox.com/en-US/apps/xbox-app-for-pc) on your laptop. Once you've installed it, sign in with the same Microsoft account you use for your Xbox, and perform the following:
+ With your controller ready to go, you'll need to install [the Xbox app for PC](https://www.xbox.com/en-US/apps/xbox-app-for-pc) on your laptop. Once you've installed it, sign in with the same Microsoft account you use for your Xbox, and perform the following:
 
 1. Open the Xbox app on your laptop.
 2. Click the**Consoles** button in the top-left of your screen.
@@ -102,7 +102,7 @@ thumbnail: https://thmb.techidaily.com/a01c874bf96001212de2ae31da3cf8c01bb85a8c0
 
 ![cloud gaming screen of xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/xbox-app-cloud-gaming.jpg)
 
- The Xbox app primarily serves as the platform for Xbox PC gaming. You can shop for new Xbox games, interact with the Xbox community, and[take advantage of Xbox Game Pass](https://www.makeuseof.com/reasons-to-get-xbox-game-pass/) . Even if your laptop isn't powerful enough to run the newest AAA titles, you can play games via Cloud Gaming.
+ The Xbox app primarily serves as the platform for Xbox PC gaming. You can shop for new Xbox games, interact with the Xbox community, and [take advantage of Xbox Game Pass](https://www.makeuseof.com/reasons-to-get-xbox-game-pass/) . Even if your laptop isn't powerful enough to run the newest AAA titles, you can play games via Cloud Gaming.
 
 ## You're Now Ready to Use Remote Play on Your Laptop
 

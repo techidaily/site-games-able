@@ -1,7 +1,7 @@
 ---
 title: "Reviving Legends: Microsoft, Activision Blizzard, and Old Game Classics"
-date: 2024-06-23 23:34:27
-updated: 2024-06-24 12:47:56
+date: 2024-06-25T13:11:32.068Z
+updated: 2024-06-26T13:11:32.068Z
 tags:
   - games
 categories:
@@ -24,13 +24,13 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
 
  Perhaps it was the shift in focus from guitars to other instruments like drums and microphones. These sorts of controllers were not only expensive but very hard to store. All of a sudden, instead of just needing one life-sized guitar-shaped controller, you needed a whole band set up for the one game.
 
- Guitar Hero is still a staple in many arcades all over the world, however, showing there are still enough people interested in the franchise who would absolutely love to see a modern Guitar Hero in a list of[the best couch co-op Xbox games.](https://www.makeuseof.com/best-couch-co-op-games-for-xbox-series-x-s/)
+ Guitar Hero is still a staple in many arcades all over the world, however, showing there are still enough people interested in the franchise who would absolutely love to see a modern Guitar Hero in a list of [the best couch co-op Xbox games.](https://www.makeuseof.com/best-couch-co-op-games-for-xbox-series-x-s/)
 
 ## 2\. Spyro the Dragon
 
  It’s relatively safe to say that most gamers alive during the golden age of console gaming know Spyro the Dragon. When you think about video games in the 90s, Spyro the Dragon is one of the mascots that immediately springs to mind.
 
- The original Spyro games received a full remaster in 2018 with the Spyro Reignited Trilogy, which sold incredibly well. According to[a PlayStation AU tweet](https://twitter.com/PlayStationAU/status/1065846654467694593) , it was the best-selling PS4 game in Australia during the week of its release.
+ The original Spyro games received a full remaster in 2018 with the Spyro Reignited Trilogy, which sold incredibly well. According to [a PlayStation AU tweet](https://twitter.com/PlayStationAU/status/1065846654467694593) , it was the best-selling PS4 game in Australia during the week of its release.
 
  Crash Bandicoot got a brand-new entry in 2020, and if there was ever a gaming duo that simultaneously took over the market, it was Crash Bandicoot and Spyro the Dragon. So it's only fair to give Spyro a new game too, right?
 
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
 
 ## 4\. StarCraft
 
- StarCraft is an epic collection of real-time strategy games. RTS as a whole is an underrated genre, so much so that many gamers aren't sure[what an RTS game is](https://www.makeuseof.com/what-are-real-time-strategy-games-rts-games/) in the first place.
+ StarCraft is an epic collection of real-time strategy games. RTS as a whole is an underrated genre, so much so that many gamers aren't sure [what an RTS game is](https://www.makeuseof.com/what-are-real-time-strategy-games-rts-games/) in the first place.
 
  StarCraft’s story and lore are great, and since RTS games haven’t necessarily been flooding the gaming market, it would make for a refreshing change from the FPS and action games that usually fill the shelves of game stores. In saying that, however, an FPS spin-off of StarCraft would be undeniably awesome, and it was on the cards at one point.
 
@@ -91,3 +91,22 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/beyond-nvidia-top-gpus-comparable-to-4060-ti/"><u>Beyond Nvidia: Top GPUs Comparable to 4060 Ti</u></a></li>
+<li><a href="https://games-able.techidaily.com/should-your-pc-make-an-instant-switch-to-rtx/"><u>Should Your PC Make an Instant Switch to RTX?</u></a></li>
+<li><a href="https://games-able.techidaily.com/early-release-decision-making-for-game-lovers/"><u>Early Release Decision Making for Game Lovers</u></a></li>
+<li><a href="https://games-able.techidaily.com/revitalizing-your-steam-experience-by-uninstalling-games/"><u>Revitalizing Your Steam Experience by Uninstalling Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/decreasing-digital-communication-time-techniques-for-lowering-response-times/"><u>Decreasing Digital Communication Time: Techniques for Lowering Response Times</u></a></li>
+<li><a href="https://games-able.techidaily.com/stepping-up-your-game-cs2-for-mac-devices/"><u>Stepping Up Your Game: CS2 for Mac Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/reviving-the-game-handy-hints-to-fix-xbox-d-pads/"><u>Reviving the Game: Handy Hints to Fix Xbox D-Pads</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-conquering-the-crowd-through-effective-smm/"><u>[New] Conquering the Crowd Through Effective SMM</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-htc-u23-pro-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock HTC U23 Pro Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-building-an-audience-on-ig-steps-to-reach-1k-in-one-month/"><u>[Updated] 2024 Approved  Building an Audience on IG  Steps to Reach 1K in One Month</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-maximizing-discord-connectivity-through-media-transfer/"><u>In 2024, Maximizing Discord Connectivity Through Media Transfer</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/unlock-free-voice-generation-capabilities-online-convert-text-into-audio-with-ease-for-2024/"><u>Unlock Free Voice Generation Capabilities Online – Convert Text Into Audio with Ease for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-11-pro-max-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 11 Pro Max to others devices? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-access-a-world-of-content-anywhere-anyplace-with-the-leading-6-best-and-cost-free-tools-to-download-youtubes-short-videos/"><u>[New] In 2024, Access a World of Content Anywhere, Anyplace with the Leading 6 Best and Cost-Free Tools to Download YouTubes' Short Videos</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/8-best-free-online-video-stabilizers/"><u>8 Best Free Online Video Stabilizers</u></a></li>
+</ul></div>

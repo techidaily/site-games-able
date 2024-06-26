@@ -1,7 +1,7 @@
 ---
 title: Sneaking Nintendo Into the Steam Ecosystem
-date: 2024-06-25T10:39:07.219Z
-updated: 2024-06-26T10:39:07.220Z
+date: 2024-06-25T12:48:34.707Z
+updated: 2024-06-26T12:48:34.707Z
 tags:
   - games
 categories:
@@ -20,13 +20,13 @@ thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812
 
 ## How to Connect Your Classic Nintendo Controller to Steam
 
- Connecting your Classic Nintendo controller to Steam begins with securing the controller itself. These controllers are only available to those with Nintendo Switch Online subscriptions. So if you don't have one of those yet, here is[everything you need to know about Nintendo Switch Online](https://www.makeuseof.com/tag/nintendo-switch-online-everything-need-know/) .
+ Connecting your Classic Nintendo controller to Steam begins with securing the controller itself. These controllers are only available to those with Nintendo Switch Online subscriptions. So if you don't have one of those yet, here is [everything you need to know about Nintendo Switch Online](https://www.makeuseof.com/tag/nintendo-switch-online-everything-need-know/) .
 
 ![Nintendo Switch Online logo with Mario characters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/09/nintendo-switch-online-characters.jpg)
 
  Image Credit: Nintendo/[YouTube](https://www.youtube.com/watch?v=v6gTTzfs3sI&ab%5Fchannel=NintendoofAmerica)
 
- This subscription does cost money, of course, but if you really just want the controller, you could simply[cancel your Nintendo Switch Online subscription](https://www.makeuseof.com/how-to-cancel-nintendo-switch-online/) after you get your hands on it, and everyone's a winner.
+ This subscription does cost money, of course, but if you really just want the controller, you could simply [cancel your Nintendo Switch Online subscription](https://www.makeuseof.com/how-to-cancel-nintendo-switch-online/) after you get your hands on it, and everyone's a winner.
 
  The next step toward using your Classic Nintendo controller to play Steam games is connecting your controller to your PC. This can only be done via Bluetooth, so if your computer doesn’t support Bluetooth, a Bluetooth dongle might have to make an appearance on your shopping list.
 

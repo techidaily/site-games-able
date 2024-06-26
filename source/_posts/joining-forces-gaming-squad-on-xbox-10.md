@@ -1,7 +1,7 @@
 ---
 title: "Joining Forces: Gaming Squad on Xbox 10"
-date: 2024-06-25T10:41:26.424Z
-updated: 2024-06-26T10:41:26.424Z
+date: 2024-06-25T12:48:36.218Z
+updated: 2024-06-26T12:48:36.218Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/124b72dbf62c2315133422a27b4166aca8de938c7
 
  Not everyone loves gaming as much as you might. It isn’t uncommon for gamers to not have any friends in real life who play video games, but that doesn’t mean you can never play COD with a solid crew of like-minded people. It just means you might have to look a little harder to find them.
 
- If you want to[find online players for your Xbox Series X|S](https://www.makeuseof.com/how-to-find-online-players-on-xbox-series-xs/) , Clubs are a great place to look.
+ If you want to [find online players for your Xbox Series X|S](https://www.makeuseof.com/how-to-find-online-players-on-xbox-series-xs/) , Clubs are a great place to look.
 
 ## How Do I Make a Club on My Xbox Series X|S?
 
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/124b72dbf62c2315133422a27b4166aca8de938c7
 ![Club Customization Screen Xbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/club-customization-screen-xbox.jpg)
 9. Press**Done** to complete your club.
 
- And just like that, you have created your Club. You just have to sit back and wait for the tags to do their work before you can start playing the[best co-op games on the Xbox Series X|S](https://www.makeuseof.com/best-couch-co-op-games-for-xbox-series-x-s/) with your new friends.
+ And just like that, you have created your Club. You just have to sit back and wait for the tags to do their work before you can start playing the [best co-op games on the Xbox Series X|S](https://www.makeuseof.com/best-couch-co-op-games-for-xbox-series-x-s/) with your new friends.
 
  Provided it’s not hidden, of course. If it is, you will have to press**Invite someone** on the Club home page and send your invites out to your lucky recipients manually.
 

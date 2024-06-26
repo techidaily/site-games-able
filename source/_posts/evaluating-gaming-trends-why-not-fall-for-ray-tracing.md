@@ -1,7 +1,7 @@
 ---
 title: "Evaluating Gaming Trends: Why Not Fall for Ray Tracing?"
-date: 2024-06-22 15:23:18
-updated: 2024-06-24 11:29:29
+date: 2024-06-25T13:18:25.324Z
+updated: 2024-06-26T13:18:25.324Z
 tags:
   - games
 categories:
@@ -24,43 +24,37 @@ thumbnail: https://thmb.techidaily.com/e92d1325fd1f2f901796fdd1123502e68b5122756
 
  The major tradeoff here is that ray tracing trades visuals for performance. With ray tracing turned on, your frame rate will be halved in certain games. This means that many games are nearly impossible to run with certain graphics cards, especially at higher resolutions.
 
- While there are ways to[optimize your Windows 10 PC for performance](https://www.makeuseof.com/tag/optimize-windows-10-gaming/) , you might want to stay away from ray tracing until the performance hit gets lower.
+ While there are ways to [optimize your Windows 10 PC for performance](https://www.makeuseof.com/tag/optimize-windows-10-gaming/) , you might want to stay away from ray tracing until the performance hit gets lower.
 
-## 2\. Ray Tracing Requires Expensive Hardware
-
-![Graphics card lying on a wooden desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rtx-graphics-card-lying-on-a-wooden-desk-2.jpg)
+## 2\. Ray Tracing Requires Expensive Hardware ![Graphics card lying on a wooden desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rtx-graphics-card-lying-on-a-wooden-desk-2.jpg)
 
  Ray tracing can be very taxing on the graphics card, so you'll need a GPU that has enough horsepower to handle it at higher resolutions. The only problem with that is the fact that graphics card pricing is a tough pill to swallow these days.
 
  Certain modern games refuse to run on lower-end or budget GPUs. If you enable ray tracing on top of that, you'll quickly find out that cheap hardware just doesn't cut it for ray tracing. You'll need to buy an expensive graphics card, and then a powerful processor to go along with it. It's a slippery slope, and you'll end up spending more than you think.
 
- The interesting thing is that you can easily[secure parts for a well-rounded PC](https://www.makeuseof.com/well-rounded-pc-buying-guide/) for a decent price. However, ray tracing can throw a spanner into the works and increase your initial costs.
+ The interesting thing is that you can easily [secure parts for a well-rounded PC](https://www.makeuseof.com/well-rounded-pc-buying-guide/) for a decent price. However, ray tracing can throw a spanner into the works and increase your initial costs.
 
 ## 3\. The Experience With Ray Tracing Varies From Title to Title
 
- Let's say you decide to stomach the costs and[buy a powerful graphics card](https://www.makeuseof.com/tag/5-things-know-buying-graphics-card/) . Great, you'll certainly get better performance in games along with excellent visuals. The only problem is that your experience won't be consistent across the board. It's up to the developers how to implement the technology, and each game will require a different level of attention.
+ Let's say you decide to stomach the costs and [buy a powerful graphics card](https://www.makeuseof.com/tag/5-things-know-buying-graphics-card/) . Great, you'll certainly get better performance in games along with excellent visuals. The only problem is that your experience won't be consistent across the board. It's up to the developers how to implement the technology, and each game will require a different level of attention.
 
  The experience depends on what art style the game uses, how many reflective surfaces it has, and how well-optimized it is. Sometimes the difference is barely noticeable, and other times it's completely game-changing. All of that is because it's still a work in progress. The tech needs to mature more before you get a consistent and seamless experience.
 
-## 4\. Limited Games Support Ray Tracing
+## 4\. Limited Games Support Ray Tracing ![Man playing computer game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/man-playing-computer-game.jpg)
 
-![Man playing computer game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/man-playing-computer-game.jpg)
-
- According to a[2021 NVIDIA news post](https://www.nvidia.com/en-us/geforce/news/nvidia-rtx-games-engines-apps/) , the list of video games that support ray tracing is somewhere around a couple of hundred. While that might sound impressive, you need to look at it from a different perspective. Steam is home to over 50,000 games on PC, and the number of games that support ray tracing is tiny in comparison.
+ According to a [2021 NVIDIA news post](https://www.nvidia.com/en-us/geforce/news/nvidia-rtx-games-engines-apps/) , the list of video games that support ray tracing is somewhere around a couple of hundred. While that might sound impressive, you need to look at it from a different perspective. Steam is home to over 50,000 games on PC, and the number of games that support ray tracing is tiny in comparison.
 
  Of course, more games that support the feature will roll out inevitably. However, this disparity shows that even a lot of developers are not confident with the technology yet. This is especially true for indie developers on tighter budgets. Ray tracing optimization can eat up a lot of time and resources if you want to do it right.
 
 ## 5\. Ray Tracing Requires Upscaling to Negate the Performance Hit
 
- NVIDIA knows that most of you won't bother shelling out thousands of dollars for a gaming PC, so it decided to wave its magic wand. To counter the performance issues, some NVIDIA GPUs[use Deep Learning Super Sampling (DLSS) to improve framerates](https://www.makeuseof.com/how-deep-learning-super-sampling-can-give-budget-pcs-top-end-graphics/) . It's an upscaling technology that renders a game at a lower resolution, then upscales it to your monitor's native resolution.
+ NVIDIA knows that most of you won't bother shelling out thousands of dollars for a gaming PC, so it decided to wave its magic wand. To counter the performance issues, some NVIDIA GPUs [use Deep Learning Super Sampling (DLSS) to improve framerates](https://www.makeuseof.com/how-deep-learning-super-sampling-can-give-budget-pcs-top-end-graphics/) . It's an upscaling technology that renders a game at a lower resolution, then upscales it to your monitor's native resolution.
 
  Upscaling technology usually isn't that great, but DLSS is surprisingly decent. Depending on the settings, the difference in quality is not noticeable. You also end up getting better frame rates because of the lower render resolution. However, there are some drawbacks to this.
 
  DLSS works great on 1440p and 4K monitors, but the loss of detail is more noticeable on 1080p monitors. Considering 1080p is still the most common resolution for PC gaming, that's not a good look. The upscaling can also cause bugs or graphical artifacts in some games if not optimized correctly. Much like ray tracing, DLSS still needs time to mature.
 
-## 6\. A Good Number of GPUs Don't Support Ray Tracing
-
-![Man updating game graphics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/man-updating-game-graphics.jpg)
+## 6\. A Good Number of GPUs Don't Support Ray Tracing ![Man updating game graphics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/man-updating-game-graphics.jpg)
 
  Another big problem with ray tracing is the fact that only certain graphics cards will support the feature. If you have an older NVIDIA GTX graphics card instead of an RTX one, then you'll be left without ray-tracing. So, the only solution you're left with is to upgrade.
 
@@ -84,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/e92d1325fd1f2f901796fdd1123502e68b5122756
 
 ### Q: Why Is Ray Tracing So Demanding?
 
- By the nature of[how ray tracing works](https://www.makeuseof.com/what-is-ray-tracing/) , it is very taxing on your GPU. This is because rendering light and shadow in video games is quite difficult and will use up a lot of the processing power of your hardware. But on the bright side, ray tracing does make light and reflections appear more realistic.
+ By the nature of [how ray tracing works](https://www.makeuseof.com/what-is-ray-tracing/) , it is very taxing on your GPU. This is because rendering light and shadow in video games is quite difficult and will use up a lot of the processing power of your hardware. But on the bright side, ray tracing does make light and reflections appear more realistic.
 
 ### Q: How Realistic Is Ray Tracing?
 
@@ -109,3 +103,23 @@ thumbnail: https://thmb.techidaily.com/e92d1325fd1f2f901796fdd1123502e68b5122756
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/top-20-best-gamer-progress-tools/"><u>Top 20 Best Gamer Progress Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/chicconsole-compact-modern-twist-on-classic-gaming/"><u>ChicConsole Compact: Modern Twist on Classic Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/bidding-adieu-to-ea-new-price-prohibitive-for-gaming/"><u>Bidding Adieu to EA: New Price Prohibitive for Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-fix-error-code-262-on-roblox/"><u>How to Fix Error Code 262 on Roblox</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-the-full-potential-of-gaming-loyalty-top-4-improvements-needed/"><u>Unleashing the Full Potential of Gaming Loyalty: Top 4 Improvements Needed</u></a></li>
+<li><a href="https://games-able.techidaily.com/noise-negotiation-managing-system-alerts-effectively/"><u>Noise Negotiation: Managing System Alerts Effectively</u></a></li>
+<li><a href="https://games-able.techidaily.com/secure-access-to-more-gaming-with-xbox-ultimate/"><u>Secure Access to More Gaming with Xbox Ultimate</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-editprox-compilation-review-expert-feedback/"><u>[New] EditProX Compilation Review – Expert Feedback</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-radiant-realms-creating-exceptional-hdr-with-photoshop/"><u>[New] 2024 Approved  Radiant Realms  Creating Exceptional HDR with Photoshop</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-realme-c33-2023-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Realme C33 2023 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-essential-guide-to-trimming-videos-in-your-windows-device/"><u>2024 Approved  The Essential Guide to Trimming Videos in Your Windows Device</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-immersive-zooming-experience-with-microsoft-teams/"><u>2024 Approved  Immersive Zooming Experience with Microsoft Teams</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-premier-windows-camcorders-guide/"><u>The Premier Windows Camcorders Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-perfectly-use-canva-color-match/"><u>Updated How to Perfectly Use Canva Color Match?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-secure-your-animated-gifs-with-these-winning-recording-software-on-pc/"><u>[New] In 2024, Secure Your Animated GIFs with These Winning Recording Software on PC</u></a></li>
+</ul></div>

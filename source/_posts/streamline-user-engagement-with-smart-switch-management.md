@@ -1,7 +1,7 @@
 ---
 title: Streamline User Engagement with Smart Switch Management
-date: 2024-06-25T10:47:50.783Z
-updated: 2024-06-26T10:47:50.783Z
+date: 2024-06-25T12:48:40.238Z
+updated: 2024-06-26T12:48:40.238Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/c92572eed4dd2bbe96a0af1968717f74dd3686117
 
  Specifically, the points you need to know before editing your Nintendo account via your Nintendo Switch console are as follows:
 
-* While you can[add or remove Nintendo users and accounts from your Nintendo Switch](https://www.makeuseof.com/how-to-add-another-profile-nintendo-switch/) , the editing options are limited to your Nintendo Switch Online membership, or viewing specific account details.
+* While you can [add or remove Nintendo users and accounts from your Nintendo Switch](https://www.makeuseof.com/how-to-add-another-profile-nintendo-switch/) , the editing options are limited to your Nintendo Switch Online membership, or viewing specific account details.
 * Most of the accessible settings for your Nintendo account can be found in the**Nintendo eShop** as opposed to**System Settings** .
 * You may be unable to alter some aspects of your Nintendo account, like its region, due to having Nintendo eShop funds. If you were to alter the region settings, you may lose your funds.
 
@@ -74,9 +74,9 @@ thumbnail: https://thmb.techidaily.com/c92572eed4dd2bbe96a0af1968717f74dd3686117
 
  Unfortunately, while you can access and manage some account requirements from your Nintendo Switch, if you want to edit your Nintendo Switch account in more depth, you need to use methods outside your console.
 
- And, just like[removing someone from your Nintendo Family Group](https://www.makeuseof.com/how-to-remove-people-nintendo-switch-family-group/) , the primary way you can edit the other aspects of your Nintendo account is via the official Nintendo site. Therefore, to fully edit your Nintendo account details, follow these steps:
+ And, just like [removing someone from your Nintendo Family Group](https://www.makeuseof.com/how-to-remove-people-nintendo-switch-family-group/) , the primary way you can edit the other aspects of your Nintendo account is via the official Nintendo site. Therefore, to fully edit your Nintendo account details, follow these steps:
 
-* Go to the official account page of the[Nintendo](https://accounts.nintendo.com/login?) website and sign into your account.
+* Go to the official account page of the [Nintendo](https://accounts.nintendo.com/login?) website and sign into your account.
 * From here, you can select**User Information** to alter your**Profile** ,**Email address** , or**Linked Accounts** by selecting**Change** .
 
 ![A screenshot of the User Information options for a Nintendo Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/user.jpg)

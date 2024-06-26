@@ -1,7 +1,7 @@
 ---
 title: "Rendering Rivalry: DirectX 11 Vs. DirectX 12 Benefits"
-date: 2024-06-21 13:50:59
-updated: 2024-06-24 12:22:41
+date: 2024-06-25T12:50:37.389Z
+updated: 2024-06-26T12:50:37.389Z
 tags:
   - games
 categories:
@@ -22,13 +22,13 @@ thumbnail: https://thmb.techidaily.com/fd4e779227951f738339902ec6bf865ee57c2e0e8
 
 ![DirectX logo imposed on a photo of a man coding](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/untitled-design-1.jpg)
 
- As explained in[our overview of Microsoft DirectX](https://www.makeuseof.com/tag/everything-need-know-directx-2016/) , DirectX is a collection of application programming interfaces (APIs) used for handling tasks related to multimedia. This includes game programming on Microsoft-based platforms like Windows and Xbox. To provide some context, let's briefly talk about APIs.
+ As explained in [our overview of Microsoft DirectX](https://www.makeuseof.com/tag/everything-need-know-directx-2016/) , DirectX is a collection of application programming interfaces (APIs) used for handling tasks related to multimedia. This includes game programming on Microsoft-based platforms like Windows and Xbox. To provide some context, let's briefly talk about APIs.
 
- An API makes it possible for two or more computer programs to communicate with each other, which we discuss in[our overview of APIs](https://www.makeuseof.com/what-is-api/) . Think of it like a telephone. If your mom texts you with a grocery list, your phone will receive that data and display it for you. That is basically an API.
+ An API makes it possible for two or more computer programs to communicate with each other, which we discuss in [our overview of APIs](https://www.makeuseof.com/what-is-api/) . Think of it like a telephone. If your mom texts you with a grocery list, your phone will receive that data and display it for you. That is basically an API.
 
 ## What Are the Differences Between DirectX 11 and DirectX 12?
 
- So, what are the differences between DirectX 11 and DirectX 12? Put simply, DirectX 12 is the latest version of DirectX. One of the most noticeable differences is how they interact with your hardware. Most games developed with DirectX 11 only utilize between two and four[CPU cores](https://www.makeuseof.com/cpu-vs-vcpu-threads-vs-cores/) . One of these cores usually tells the GPU what to do.
+ So, what are the differences between DirectX 11 and DirectX 12? Put simply, DirectX 12 is the latest version of DirectX. One of the most noticeable differences is how they interact with your hardware. Most games developed with DirectX 11 only utilize between two and four [CPU cores](https://www.makeuseof.com/cpu-vs-vcpu-threads-vs-cores/) . One of these cores usually tells the GPU what to do.
 
  The game then uses the remaining cores to handle various CPU-intensive settings like a game's particles or draw distance. On the other hand, DirectX 12 spreads a CPU's workload across multiple cores and allows every core to talk to the GPU simultaneously.
 
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/fd4e779227951f738339902ec6bf865ee57c2e0e8
 
  Image Credit: Martin Kerstein/[Guild Wars 2](https://www.guildwars2.com/en/news/guesting-is-coming/)
 
- Believe it or not, it took nine years for ArenaNet to make the switch from DirectX 9 to DirectX 11\. However, some games do support both DirectX 11 and DirectX 12, including Fortnite (read[our Fortnite cheat sheet](https://www.makeuseof.com/tag/fortnite-essentials-cheat-sheet-controls-tips-terms/) ), Battlefield 5, Shadow of the Tomb Raider, and more. Users can switch between DirectX 11 and DirectX 12 in the game settings.
+ Believe it or not, it took nine years for ArenaNet to make the switch from DirectX 9 to DirectX 11\. However, some games do support both DirectX 11 and DirectX 12, including Fortnite (read [our Fortnite cheat sheet](https://www.makeuseof.com/tag/fortnite-essentials-cheat-sheet-controls-tips-terms/) ), Battlefield 5, Shadow of the Tomb Raider, and more. Users can switch between DirectX 11 and DirectX 12 in the game settings.
 
  Now, the fact that some games support both DirectX 11 and 12 has probably got you wondering about in-game performance. Does choosing DX 11 or DX 12 deliver better in-game performance? The following video illustrates the differences between DirectX 11 and DirectX 12 in a range of games, showcasing vital specs such as average frames per second, CPU usage, GPU usage, and more, using an AMD Ryzen 3600, Nvidia GeForce RTX 3060 Ti, and 16GB DDR4 RAM.
 
@@ -91,3 +91,22 @@ thumbnail: https://thmb.techidaily.com/fd4e779227951f738339902ec6bf865ee57c2e0e8
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/linux-terminal-guide-to-gb-advance-games/"><u>Linux Terminal Guide to GB Advance Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/hot-swap-mechanics-explored-in-razers-blackwidow-v4/"><u>Hot Swap Mechanics Explored in Razer’s BlackWidow V4</u></a></li>
+<li><a href="https://games-able.techidaily.com/bypassing-steam-login-issues-on-rust-platforms-windows/"><u>Bypassing Steam Login Issues on Rust Platforms Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/post-psplus-future-of-unsubscribed-games/"><u>Post-PSPlus: Future of Unsubscribed Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/ai-powered-roleplay-top-6-gpt-methods-to-elevate-your-dandd-experience/"><u>AI-Powered Roleplay: Top 6 GPT Methods to Elevate Your D&D Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/voice-chat-security-how-to-mask-your-game-talks/"><u>Voice Chat Security: How to Mask Your Game Talks</u></a></li>
+<li><a href="https://games-able.techidaily.com/connect-your-mac-to-game-switch-adventures/"><u>Connect Your Mac to Game Switch Adventures</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-seo-secrets-unveiled-a-comprehensive-guide-to-boosting-podcast-rankings/"><u>2024 Approved  SEO Secrets Unveiled  A Comprehensive Guide to Boosting Podcast Rankings</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-master-levels-enhancing-steam-gameplay-videos/"><u>[Updated] 2024 Approved  Master Levels  Enhancing Steam Gameplay Videos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-how-to-share-igtv-videos-to-facebook-3-ways/"><u>[New] How to Share IGTV Videos to Facebook [3 Ways]</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-instructions-on-changing-fb-page-backdrop/"><u>[Updated] Instructions on Changing FB Page Backdrop</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-fb-video-experience-the-top-10-listed-tools/"><u>[Updated] 2024 Approved  FB Video Experience  The Top 10 Listed Tools</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/2024-approved-the-ultimate-list-of-split-screen-video-apps-for-mobile/"><u>2024 Approved The Ultimate List of Split Screen Video Apps for Mobile</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harmonizing-youtube-content-a-guide-to-blending-files-for-2024/"><u>[New] Harmonizing YouTube Content  A Guide to Blending Files for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-transform-your-listening-experience-with-subscriptions-to-20-youtube-artists/"><u>2024 Approved  Transform Your Listening Experience with Subscriptions to 20 YouTube Artists</u></a></li>
+</ul></div>

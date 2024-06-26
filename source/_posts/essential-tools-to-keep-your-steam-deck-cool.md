@@ -1,7 +1,7 @@
 ---
 title: Essential Tools to Keep Your Steam Deck Cool
-date: 2024-06-25T10:46:36.572Z
-updated: 2024-06-26T10:46:36.572Z
+date: 2024-06-25T12:48:39.484Z
+updated: 2024-06-26T12:48:39.484Z
 tags:
   - games
 categories:
@@ -86,9 +86,7 @@ Best Integrated Design
 Best Alternative Option  
 [$24 at Amazon](https://www.amazon.com/BINBOKPLAY-Function-Accessories-Indicator-Rechargeable/dp/B0C369GXLM?tag=makeusw-20&ascsubtag=UUmuoUeUpU2018376&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fcooling-accessories-steam-deck%2F&asc%5Fcampaign=Affiliate)
 
-## Our Favorite Cooling Accessories for Steam Deck in 2023
-
-![RuntoGOL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/RuntoGOL.jpg)
+## Our Favorite Cooling Accessories for Steam Deck in 2023 ![RuntoGOL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/RuntoGOL.jpg)
 
 Best Overall
 

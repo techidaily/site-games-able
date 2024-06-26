@@ -1,7 +1,7 @@
 ---
 title: Guide to Remove Unwanted Game Data on PS5
-date: 2024-06-25T10:45:50.860Z
-updated: 2024-06-26T10:45:50.860Z
+date: 2024-06-25T12:48:39.016Z
+updated: 2024-06-26T12:48:39.016Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/ea52c7c75e7b3032041ebf8f7a073a81be8689646
 
 ![Man holding a PS5 controller playing PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Man-holding-a-ps5-controller-playing-ps5.jpg)
 
- This gives you the flexibility to[uninstall and re-download games on your PS5](https://www.makeuseof.com/how-to-uninstall-and-redownload-ps5-games/) with nothing to lose. But how much space does leaving that saved data intact take away from your console?
+ This gives you the flexibility to [uninstall and re-download games on your PS5](https://www.makeuseof.com/how-to-uninstall-and-redownload-ps5-games/) with nothing to lose. But how much space does leaving that saved data intact take away from your console?
 
 ## Should I Delete Saved Data Off My PS5?
 
@@ -54,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/ea52c7c75e7b3032041ebf8f7a073a81be8689646
 
 ![Upload Saved Data to Cloud PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/upload-saved-data-to-cloud-ps5.jpg)
 
- If you would rather not deal with the headache of deleting things off of your PS5 all the time, there is another option. You can upgrade your storage by purchasing an SSD for your PS5\. There are plenty of options on the market, including both[internal and external PS5 SSDs](https://www.makeuseof.com/internal-vs-external-ps5-ssd-how-to-choose/) . Finding[the best SSD for your PS5](https://www.makeuseof.com/best-m2-ssd-for-ps5/) can be daunting, but at least you won't have to worry about space anymore.
+ If you would rather not deal with the headache of deleting things off of your PS5 all the time, there is another option. You can upgrade your storage by purchasing an SSD for your PS5\. There are plenty of options on the market, including both [internal and external PS5 SSDs](https://www.makeuseof.com/internal-vs-external-ps5-ssd-how-to-choose/) . Finding [the best SSD for your PS5](https://www.makeuseof.com/best-m2-ssd-for-ps5/) can be daunting, but at least you won't have to worry about space anymore.
 
 ## Save as Much Space as You Can on Your PS5
 

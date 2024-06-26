@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Xbox Series X/S Controller Dismantling Guide
-date: 2024-06-22 10:59:52
-updated: 2024-06-23 11:41:16
+date: 2024-06-25T13:25:55.996Z
+updated: 2024-06-26T13:25:55.996Z
 tags:
   - games
 categories:
@@ -26,22 +26,20 @@ thumbnail: https://thmb.techidaily.com/622d9fe73f7f1e73d5569e41ea521313a670d1c14
 
  For most things, you will have to at least take apart the external shell of your Xbox controller. Simple tasks like repairing or replacing a button or trigger, checking battery connections, and even cleaning any accumulated dirt around the controls will require basic disassembly.
 
- If you're carrying out a complex repair like replacing your thumbsticks, you'll have to go even further and take the daughterboard out as well, as Xbox controllers tend to have two separate PCBs inside. Even[fixing your Xbox controller's drifting issues](https://www.makeuseof.com/xbox-controller-drift/) might require an in-depth teardown.
+ If you're carrying out a complex repair like replacing your thumbsticks, you'll have to go even further and take the daughterboard out as well, as Xbox controllers tend to have two separate PCBs inside. Even [fixing your Xbox controller's drifting issues](https://www.makeuseof.com/xbox-controller-drift/) might require an in-depth teardown.
 
 ## What Equipment Do You Need?
 
- We've already covered[how to take apart your Xbox One controller](https://www.makeuseof.com/how-to-take-apart-an-xbox-one-controller/) , and while the process is largely similar, Xbox Series X|S controllers come with additional circuitry such as the trigger vibration motors which require extra steps. Additionally, Xbox Series X|S controllers come with[Torx Security screws instead of regular Torx screws](https://www.makeuseof.com/torx-screws-vs-torx-security-screws-difference/) , so you'll need the corresponding bits as well.
+ We've already covered [how to take apart your Xbox One controller](https://www.makeuseof.com/how-to-take-apart-an-xbox-one-controller/) , and while the process is largely similar, Xbox Series X|S controllers come with additional circuitry such as the trigger vibration motors which require extra steps. Additionally, Xbox Series X|S controllers come with [Torx Security screws instead of regular Torx screws](https://www.makeuseof.com/torx-screws-vs-torx-security-screws-difference/) , so you'll need the corresponding bits as well.
 
 Overall, here's everything you need:
 
 * Torx Security screwdriver (with T6, T8, and T9 bits)
 * Flathead screwdriver
 * A plastic prying tool or spudger (a thick guitar pick would work too)
-* A pair of tweezers
+* A pair of tweezers ![Torx screwdriver bits](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/torx-screwdriver-bits.jpg)
 
-![Torx screwdriver bits](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/torx-screwdriver-bits.jpg)
-
- In case you don't have the tools required, you can invest in any of the many toolkits[available on Amazon](https://www.amazon.com/Vastar-Screwdriver-Repair-Controller-Cleaning/dp/B07G122BVS?tag=muo-v2-5jqtuqu-20&ascsubtag=UUmuoUeUpU2027960&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fxbox-series-xs-controller-how-to-take-apart%2F&asc%5Fcampaign=Evergreen) for around $10.
+ In case you don't have the tools required, you can invest in any of the many toolkits [available on Amazon](https://www.amazon.com/Vastar-Screwdriver-Repair-Controller-Cleaning/dp/B07G122BVS?tag=muo-v2-5jqtuqu-20&ascsubtag=UUmuoUeUpU2027960&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fxbox-series-xs-controller-how-to-take-apart%2F&asc%5Fcampaign=Evergreen) for around $10.
 
 ## How to Take Your Xbox Series X|S Controller Apart
 
@@ -99,3 +97,24 @@ Overall, here's everything you need:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/java-game-highlights-our-favorites-unveiled/"><u>Java Game Highlights: Our Favorites Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-seize-and-setup-your-mc-mapping-adventures/"><u>Steps to Seize & Setup Your MC Mapping Adventures</u></a></li>
+<li><a href="https://games-able.techidaily.com/resetting-ps5s-video-game-licenses/"><u>Resetting PS5's Video Game Licenses</u></a></li>
+<li><a href="https://games-able.techidaily.com/dashboard-deluge-oc-induced-chaos/"><u>Dashboard Deluge: OC-Induced Chaos</u></a></li>
+<li><a href="https://games-able.techidaily.com/examining-xbox-encasements/"><u>Examining Xbox Encasements</u></a></li>
+<li><a href="https://games-able.techidaily.com/sonys-annual-gaming-plan-and-its-financial-implications/"><u>Sony's Annual Gaming Plan and Its Financial Implications</u></a></li>
+<li><a href="https://games-able.techidaily.com/google-play-games-beta-top-10-games-to-try-on-pc/"><u>Google Play Games Beta: Top 10 Games to Try on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-escape-artists-guide-to-gamers/"><u>The Escape Artist's Guide to Gamers</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-top-10-trending-tiktok-eats/"><u>[New] In 2024, Top 10 Trending TikTok Eats</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-recording-made-simple-your-phone-cookbook-for-snapping-stories/"><u>[New] In 2024, Recording Made Simple  Your Phone' Cookbook for Snapping Stories</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-xiaomi-13-ultra-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Xiaomi 13 Ultra Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-accelerate-thumbnail-designs-for-professional-valorant-portraits/"><u>In 2024, Accelerate Thumbnail Designs for Professional Valorant Portraits</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-vivo-y100-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Vivo Y100 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-infinix-hot-40-pro-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Infinix Hot 40 Pro Phone Pattern Lock</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-tecno-spark-10c-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Tecno Spark 10C</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-vivo-s17t-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Vivo S17t Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-10-premier-livestream-services-unveiled/"><u>Top 10 Premier Livestream Services Unveiled</u></a></li>
+</ul></div>

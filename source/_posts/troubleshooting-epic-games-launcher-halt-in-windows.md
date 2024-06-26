@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Epic Games Launcher Halt in Windows
-date: 2024-06-23 23:49:51
-updated: 2024-06-24 12:47:48
+date: 2024-06-25T13:21:34.062Z
+updated: 2024-06-26T13:21:34.062Z
 tags:
   - games
 categories:
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/de2b8c65401e9876b1b1a5fbf84a14916f9f22a18
 
  The Epic Games Launcher may freeze on your Windows PC due to malfunctioning or unresponsive app processes. In most cases, you can resolve the issue by closing the Epic Games Launcher completely and then reopening it. Hence, it's the first thing you should try.
 
-1. Press**Ctrl + Shift + Esc** to[open the Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) .
+1. Press**Ctrl + Shift + Esc** to [open the Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) .
 2. Locate and select**EpicGamesLauncher** on the list.
 3. Click the**End task** option at the top.  
 ![Close Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/close-epic-games-launcher.jpg)
@@ -35,11 +35,11 @@ Reopen the Epic Games Launcher and try using it.
 
 ![Run Epic Games Launcher as Admin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/run-epic-games-launcher-as-admin.jpg)
 
- If this method gets Epic Games Launcher to operate smoothly, you can configure it to[always run as an administrator on Windows](https://www.makeuseof.com/tag/ways-to-run-a-program-as-administrator-in-windows/) .
+ If this method gets Epic Games Launcher to operate smoothly, you can configure it to [always run as an administrator on Windows](https://www.makeuseof.com/tag/ways-to-run-a-program-as-administrator-in-windows/) .
 
 ## 3\. Check the Epic Games Server Status
 
- Issues with Epic Games servers can also cause its launcher to misbehave on your Windows PC. You should[check Epic Games server status](https://status.epicgames.com/) to ensure they are operating smoothly.
+ Issues with Epic Games servers can also cause its launcher to misbehave on your Windows PC. You should [check Epic Games server status](https://status.epicgames.com/) to ensure they are operating smoothly.
 
  If there’s an issue with the servers, you have no option but to wait for the company to resolve the problem on its end. Following that, you should be able to use Epic Games Launcher as before.
 
@@ -84,7 +84,7 @@ Reopen the Epic Games Launcher and try using it.
 1. Press**Win + E** to open File Explorer.
 2. Navigate to**C: > Windows > SysWOW64** .
 3. Locate the**D3DCOMPILER\_43** file and delete it.
-4. Head to[Microsoft’s website](https://www.microsoft.com/en-us/download/details.aspx?id=35) and download the DirectX End-User Runtime Web Installer.  
+4. Head to [Microsoft’s website](https://www.microsoft.com/en-us/download/details.aspx?id=35) and download the DirectX End-User Runtime Web Installer.  
 ![Delete the D3DCOMPILER_43.dll File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/delete-the-d3dcompiler_43-dll-file.jpg)
 
  Run the installer file and follow the on-screen prompts to finish the process. After that, try using Epic Games Launcher again.
@@ -105,15 +105,15 @@ Reopen the Epic Games Launcher and try using it.
 
 ## 9\. Reinstall the Epic Games Launcher
 
- If repairing the Epic Games Launcher proves ineffective, you can try reinstalling it on your system. This should give the launcher a fresh start on your PC and resolve any issues with it. If you need help removing Epic Games Launcher, refer to our guide on[how to uninstall software on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) and follow the steps outlined there.
+ If repairing the Epic Games Launcher proves ineffective, you can try reinstalling it on your system. This should give the launcher a fresh start on your PC and resolve any issues with it. If you need help removing Epic Games Launcher, refer to our guide on [how to uninstall software on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) and follow the steps outlined there.
 
- After uninstalling Epic Games Launcher, press**Win + R** to open the Run dialog box. Type**%localappdata%** in the box and press**Enter** . In the File Explorer window that appears, delete the**Epic Games launcher** folder. Once done, go to[Epic Games' official website](https://store.epicgames.com/en-US/download) to download the setup file and run it.
+ After uninstalling Epic Games Launcher, press**Win + R** to open the Run dialog box. Type**%localappdata%** in the box and press**Enter** . In the File Explorer window that appears, delete the**Epic Games launcher** folder. Once done, go to [Epic Games' official website](https://store.epicgames.com/en-US/download) to download the setup file and run it.
 
 ## 10\. Try Other Common Fixes
 
  If the above fixes don’t help, there may be an issue with your Windows PC. In that case, you can try the following troubleshooting tips to resolve the issue.
 
-* **Update Graphics Driver:** Outdated or defective graphics drivers can also be the cause of such problems. Try[updating the graphics driver on your PC](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) to see if that resolves the issue.
+* **Update Graphics Driver:** Outdated or defective graphics drivers can also be the cause of such problems. Try [updating the graphics driver on your PC](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) to see if that resolves the issue.
 * **Scan for Malware:** If you are experiencing similar issues with other apps and programs as well, your PC may be infected with malware. To check for this possibility,[scan your Windows PC for malware](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/) and take the necessary steps to fix it.
 
 ## Fixing Epic Games Launcher Crashes on Windows
@@ -135,3 +135,24 @@ Reopen the Epic Games Launcher and try using it.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/top-6-unique-online-chess-games-and-apps-for-strategic-fun/"><u>Top 6 Unique Online Chess Games & Apps for Strategic Fun</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-errors-on-roblox-262/"><u>Streamlining Errors on Roblox: 262</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-using-ps5-on-windows-devices/"><u>Mastering the Art of Using PS5 on Windows Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/examining-xbox-encasements/"><u>Examining Xbox Encasements</u></a></li>
+<li><a href="https://games-able.techidaily.com/protect-your-playthroughs-duplicating-steam-captures/"><u>Protect Your Playthroughs: Duplicating Steam Captures</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-new-gameplay-top-6-fresh-online-chess-adventures/"><u>Dive Into New Gameplay: Top 6 Fresh Online Chess Adventures</u></a></li>
+<li><a href="https://games-able.techidaily.com/surprise-your-squad-steams-game-tastic-presents/"><u>Surprise Your Squad: Steam's Game-Tastic Presents</u></a></li>
+<li><a href="https://games-able.techidaily.com/amd-vs-nvidia-does-fsr-3-edge-over-dlss-35-performance-gains/"><u>AMD Vs. NVIDIA: Does FSR 3 Edge Over DLSS 3.5 Performance Gains?</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-rhythm-ranch-a-curated-collection-of-dj-sounds/"><u>Updated Rhythm Ranch A Curated Collection of DJ Sounds</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/novel-approaches-to-saving-instagram-stories-for-2024/"><u>Novel Approaches to Saving Instagram Stories for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/effective-ways-how-to-block-facebook-video-ads-for-2024/"><u>Effective Ways | How to Block Facebook Video Ads for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-grading-for-emotion-altering-footage-to-evoke-feelings/"><u>In 2024, Grading for Emotion  Altering Footage to Evoke Feelings</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-weve-handpicked-some-of-the-best-online-reverse-video-makers-in-this-article-to-help-you-make-creative-and-inspiring-reverse-videos-on/"><u>Updated 2024 Approved Weve Handpicked some of the Best Online Reverse Video Makers in This Article to Help You Make Creative and Inspiring Reverse Videos Online</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/recovering-stalled-videos-on-tiktok-for-2024/"><u>Recovering Stalled Videos on TikTok for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-key-insights-into-virtual-tale-crafting/"><u>2024 Approved  Key Insights Into Virtual Tale Crafting</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-realme-note-50-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Realme Note 50 Is Unlocked</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-finding-the-perfect-youtube-mp3-converter-a-beginners-guide/"><u>New In 2024, Finding the Perfect YouTube MP3 Converter A Beginners Guide</u></a></li>
+</ul></div>

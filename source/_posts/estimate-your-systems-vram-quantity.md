@@ -1,7 +1,7 @@
 ---
 title: Estimate Your System’s VRAM Quantity
-date: 2024-06-23 15:14:30
-updated: 2024-06-24 10:27:11
+date: 2024-06-25T12:52:04.194Z
+updated: 2024-06-26T12:52:04.194Z
 tags:
   - games
 categories:
@@ -54,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
 
 ![Screenshot showing OpenHardwareMonitor tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/openhardwaremonitor-screenshot.jpg)
 
- Tools like[GPU-Z](https://www.techpowerup.com/gpuz/) ,[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) , and[OpenHardwareMonitor](https://openhardwaremonitor.org/downloads/) are your best friends here. These are lightweight utilities that won't stress your system when running in the background while also providing a lot of information on how specific components function.
+ Tools like [GPU-Z](https://www.techpowerup.com/gpuz/) ,[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) , and [OpenHardwareMonitor](https://openhardwaremonitor.org/downloads/) are your best friends here. These are lightweight utilities that won't stress your system when running in the background while also providing a lot of information on how specific components function.
 
 ## How to Check VRAM on Linux
 
@@ -94,9 +94,9 @@ sudo apt-get install radeontop`
 
 ![asus graphics card on granite surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpu-card-1.jpg)
 
- As a general rule of thumb, you should have at least 4GB of VRAM for gaming and 8GB of VRAM for video editing. This requirement can vary based on what games you're playing or the resolution of the video you're editing, but the more, the better. We've already covered[how much VRAM you need for modern games](https://www.makeuseof.com/how-much-vram-do-you-need-modern-games/) in case you need some help.
+ As a general rule of thumb, you should have at least 4GB of VRAM for gaming and 8GB of VRAM for video editing. This requirement can vary based on what games you're playing or the resolution of the video you're editing, but the more, the better. We've already covered [how much VRAM you need for modern games](https://www.makeuseof.com/how-much-vram-do-you-need-modern-games/) in case you need some help.
 
- There are, of course, other factors that affect these requirements as well. The architecture and generation of your GPU, the type of VRAM, GPU, CPU clock speeds, and even the rest of your computer's hardware can all affect how much VRAM you actually need. If you're building a PC, knowing the[difference between RAM and VRAM](https://www.makeuseof.com/ram-vs-vram-differences/) is also important.
+ There are, of course, other factors that affect these requirements as well. The architecture and generation of your GPU, the type of VRAM, GPU, CPU clock speeds, and even the rest of your computer's hardware can all affect how much VRAM you actually need. If you're building a PC, knowing the [difference between RAM and VRAM](https://www.makeuseof.com/ram-vs-vram-differences/) is also important.
 
 ## Knowing Your PC Specs Is Important
 
@@ -117,3 +117,27 @@ sudo apt-get install radeontop`
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/embark-on-bedrock-server-conversion-to-java/"><u>Embark on Bedrock Server Conversion to Java</u></a></li>
+<li><a href="https://games-able.techidaily.com/balancing-costs-with-ps5-gaming-memberships/"><u>Balancing Costs with PS5 Gaming Memberships</u></a></li>
+<li><a href="https://games-able.techidaily.com/amplify-your-skill-set-with-superior-hardware/"><u>Amplify Your Skill Set with Superior Hardware</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-the-no-response-from-steam-servers-error/"><u>Addressing the No Response From Steam Servers Error</u></a></li>
+<li><a href="https://games-able.techidaily.com/tecno-unveils-thinner-t1-vivid-s1-at-ifa-2023/"><u>Tecno Unveils Thinner T1, Vivid S1 at IFA 2023</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-future-in-your-hands-ifa-2023-displays/"><u>The Future in Your Hands - IFA 2023 Displays</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-opera-gx-for-free-discord-experience/"><u>Mastering Opera GX for Free Discord Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/passed-geforce-now-does-it-deliver-value/"><u>Passed GeForce Now: Does It Deliver Value?</u></a></li>
+<li><a href="https://games-able.techidaily.com/quality-graphics-without-breaking-bank/"><u>Quality Graphics Without Breaking Bank</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-indispensable-gaming-accessory-traits/"><u>Exploring Indispensable Gaming Accessory Traits</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lava-blaze-2-pro-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Lava Blaze 2 Pro to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-companion-for-online-radio-preservationists/"><u>In 2024, The Ultimate Companion for Online Radio Preservationists</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-optimal-devices-for-photogrammetric-movies/"><u>[New] Optimal Devices for Photogrammetric Movies</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/essential-guide-the-top-10-inexpensive-youtube-channels-for-visual-creators/"><u>Essential Guide  The Top 10 Inexpensive YouTube Channels for Visual Creators</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/10-trendy-free-logo-animation-templates/"><u>10 Trendy Free Logo Animation Templates</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-premier-top-ten-creative-av-media-maker-directory/"><u>[Updated] The Premier Top-Ten Creative Av Media Maker Directory</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-full-vision-media-the-smart-mcn-selection-process/"><u>2024 Approved  Full Vision Media  The Smart MCN Selection Process</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-sonic-palette-an-intensive-look-at-avs-editors-features-user-reviews-and-alternate-choices-in-audio-editing/"><u>New In 2024, Sonic Palette An Intensive Look at AVS Editors Features, User Reviews, and Alternate Choices in Audio Editing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-laugh-labs-robotic-deadpan-devs/"><u>[Updated] Laugh Labs  Robotic Deadpan Devs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-strategies-to-alleviate-vr-motion-woes/"><u>[New] Strategies to Alleviate VR Motion Woes</u></a></li>
+</ul></div>

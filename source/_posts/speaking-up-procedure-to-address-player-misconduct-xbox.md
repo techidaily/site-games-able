@@ -1,7 +1,7 @@
 ---
 title: "Speaking Up: Procedure to Address Player Misconduct (Xbox)"
-date: 2024-06-22 14:52:48
-updated: 2024-06-24 11:57:26
+date: 2024-06-25T13:13:19.075Z
+updated: 2024-06-26T13:13:19.075Z
 tags:
   - games
 categories:
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/b940b6b0f5ea7e32cad1821c53c7dd63eece1d15c
 
 ![A screenshot of the available categories when reporting an Xbox Profile on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot-2986.jpg)
 
- It's also important to note that you can access people's profiles in multiple ways. You can even[report players via your Xbox console or the Xbox app](https://www.makeuseof.com/xbox-one-xbox-app-how-to-block-and-report-users/) .
+ It's also important to note that you can access people's profiles in multiple ways. You can even [report players via your Xbox console or the Xbox app](https://www.makeuseof.com/xbox-one-xbox-app-how-to-block-and-report-users/) .
 
 ## 2\. How to Report Inappropriate Xbox Messages
 
@@ -80,13 +80,13 @@ thumbnail: https://thmb.techidaily.com/b940b6b0f5ea7e32cad1821c53c7dd63eece1d15c
 
  Like with any other Xbox report, you can then define the specific categories of your report and hit**Submit** to finalize it. With the report linked to an individual Xbox Activity Feed post, you can rest assured that Xbox will be able to evaluate your report with the evidence provided.
 
- However, your own Xbox Activity Feed content can just as easily be flagged by other users. So, it's important when you post a game capture or[create an Xbox Club](https://www.makeuseof.com/how-to-make-a-club-on-xbox-series-x-s/) that you're confident the content is appropriate.
+ However, your own Xbox Activity Feed content can just as easily be flagged by other users. So, it's important when you post a game capture or [create an Xbox Club](https://www.makeuseof.com/how-to-make-a-club-on-xbox-series-x-s/) that you're confident the content is appropriate.
 
 ## 4\. How to Report In-Game Voice Chat on Xbox Series X|S
 
  A final way you can report inappropriate content on your Xbox, and the most unique way, is by highlighting inappropriate voice communications to Xbox.
 
- However, to report voice chats, you need to have saved 60-second voice clips onto your Xbox. Luckily, you can[record and report in-game voice chat from your Xbox Series X|S](https://www.makeuseof.com/how-to-save-and-report-in-game-voice-chat-on-xbox-series-xs/) . To record voice chat, follow these steps:
+ However, to report voice chats, you need to have saved 60-second voice clips onto your Xbox. Luckily, you can [record and report in-game voice chat from your Xbox Series X|S](https://www.makeuseof.com/how-to-save-and-report-in-game-voice-chat-on-xbox-series-xs/) . To record voice chat, follow these steps:
 
 * Open the Guide menu by pressing the**Xbox button** on your controller.
 * Highlight**Parties & chats** , and select the bottom option for**Report in-game voice chat** .
@@ -131,3 +131,27 @@ thumbnail: https://thmb.techidaily.com/b940b6b0f5ea7e32cad1821c53c7dd63eece1d15c
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/top-level-165hz-visuals-for-gamers/"><u>Top-Level 165Hz Visuals for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719163251677-achieve-peak-performance-install-updated-nvidia-graphics-driver-now/"><u>Achieve Peak Performance - Install Updated Nvidia Graphics Driver Now.</u></a></li>
+<li><a href="https://games-able.techidaily.com/effortlessly-enter-epic-environments-eliminate-lock-ups/"><u>Effortlessly Enter Epic Environments: Eliminate Lock-Ups</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-a-shift-in-strategy-is-crucial-for-microsofts-xbox-point-program/"><u>Why a Shift in Strategy Is Crucial for Microsoft's Xbox Point Program</u></a></li>
+<li><a href="https://games-able.techidaily.com/will-imac-innovations-reign-in-gaming-markets/"><u>Will iMac Innovations Reign in Gaming Markets?</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-unidentified-game-installations-on-steam/"><u>Troubleshooting Unidentified Game Installations on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-sets-steam-apart-from-gog-key-comparisons/"><u>What Sets Steam Apart From GoG? Key Comparisons</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719169303840-elevate-gaming-choose-large-format-cabinet-fronts/"><u>Elevate Gaming: Choose Large-Format Cabinet Fronts</u></a></li>
+<li><a href="https://games-able.techidaily.com/transitioning-to-macsilicon-running-windows-games-via-crossover/"><u>Transitioning to MacSilicon: Running Windows Games via CrossOver</u></a></li>
+<li><a href="https://games-able.techidaily.com/space-saving-systems-vs-traditional-workstations-make-your-choice/"><u>Space-Saving Systems Vs. Traditional Workstations: Make Your Choice</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-celebratory-moments-captured-a-list-of-the-most-beautiful-wedding-videos-8/"><u>[New] 2024 Approved  Celebratory Moments Captured  A List of the Most Beautiful Wedding Videos (8)</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-youtube-audio-downloader-tips-tricks-and-best-practices-for-2024/"><u>Updated YouTube Audio Downloader Tips, Tricks, and Best Practices for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-iphoneandroid-screen-capture-for-google-meet-participants/"><u>[New] In 2024, IPhone/Android Screen Capture for Google Meet Participants</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-navigating-through-facebook-gif-downloads-across-platforms-for-2024/"><u>[Updated] Navigating Through Facebook GIF Downloads Across Platforms for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-trailblazing-tiktok-profile-features-to-become-iconic/"><u>[New] In 2024, Trailblazing TikTok Profile Features to Become Iconic</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-mastering-the-art-of-correcting-skewed-sound-techniques-and-tools/"><u>New Mastering the Art of Correcting Skewed Sound Techniques and Tools</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-pro-video-gear-the-ultimate-stabilizers-selection/"><u>2024 Approved  Pro Video Gear – The Ultimate Stabilizers Selection</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-a-step-by-step-breakdown-creating-your-best-yt-shorts/"><u>In 2024, A Step-by-Step Breakdown  Creating Your Best YT Shorts</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-how-to-add-music-to-any-snapchat-video/"><u>2024 Approved  How to Add Music to Any Snapchat Video?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabled-apple-iphone-7-plus-how-to-unlock-a-disabled-apple-iphone-7-plus-drfone-by-drfone-ios/"><u>Disabled Apple iPhone 7 Plus How to Unlock a Disabled Apple iPhone 7 Plus? | Dr.fone</u></a></li>
+</ul></div>

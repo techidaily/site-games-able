@@ -1,7 +1,7 @@
 ---
 title: You Can Now Fix Your Own Xbox Controller
-date: 2024-06-20 23:33:53
-updated: 2024-06-23 10:51:32
+date: 2024-06-25T13:22:36.347Z
+updated: 2024-06-26T13:22:36.347Z
 tags:
   - games
 categories:
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5
 
  Unlike most companies that would rather gobble up your money and make you purchase a new controller every year or two, Xbox has turned a new leaf. Gamers from North America can now purchase official replacement parts from Xbox directly and follow the free tutorials provided to fix their controller themselves.
 
- Replacement parts for all major components are available on[Microsoft's official website](https://www.microsoft.com/en-us/store/b/xbox-repair-parts) , including replacement PCBAs, motor assemblies, shell cases, and buttons. New buttons and shell replacements are available in either black or white, so you can give your controller a whole new look while you’re at it.
+ Replacement parts for all major components are available on [Microsoft's official website](https://www.microsoft.com/en-us/store/b/xbox-repair-parts) , including replacement PCBAs, motor assemblies, shell cases, and buttons. New buttons and shell replacements are available in either black or white, so you can give your controller a whole new look while you’re at it.
 
 ![A disassembled Xbox Series X|S controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/xbox-x-controller-disassembly-4-1.JPG)
 
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5
 
  Unless you are already well-versed in the inner workings of a video game controller, you are probably going to want to check out one of Xbox’s free tutorials to walk you through the job. Even if you are experienced, it can’t hurt to freshen up your memory before cracking open your controller and fiddling around in there. Luckily for those who are keen to learn this handy new skill,[Xbox Support](https://support.xbox.com/en-us/help/hardware-network/warranty-service/xbox-self-repair) has provided both written instructions for the repair and a YouTube tutorial for visual learners, which you can view above.
 
- If Xbox's tutorials aren't doing the trick for you, you can also learn a variety of repair techniques like[how to fix your drifting Xbox controller](https://www.makeuseof.com/xbox-controller-drift/) or[how to open your Xbox Series X|S Controller](https://www.makeuseof.com/xbox-series-xs-controller-how-to-take-apart/) from our very own experts.
+ If Xbox's tutorials aren't doing the trick for you, you can also learn a variety of repair techniques like [how to fix your drifting Xbox controller](https://www.makeuseof.com/xbox-controller-drift/) or [how to open your Xbox Series X|S Controller](https://www.makeuseof.com/xbox-series-xs-controller-how-to-take-apart/) from our very own experts.
 
 ## Why You Should Fix Your Own Xbox Controller
 
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5
 
  Now, you can purchase new parts for anywhere between $19.99 to $34.99, depending on what you need. These savings are even more apparent when you’re talking about the Xbox Elite Series 2 Wireless controller.
 
- Not only does fixing your own controller save you money, but it also saves the planet from unnecessary waste. Xbox has done a lot in recent years to reduce its carbon footprint and help its customers do the same, from introducing a[power-saving mode on the Xbox](https://www.makeuseof.com/xbox-shutdown-vs-sleep-mode/) to[crafting a whole Xbox controller out of trash](https://www.makeuseof.com/how-xbox-wireless-controller-remix-edition-make-life-easier/) .
+ Not only does fixing your own controller save you money, but it also saves the planet from unnecessary waste. Xbox has done a lot in recent years to reduce its carbon footprint and help its customers do the same, from introducing a [power-saving mode on the Xbox](https://www.makeuseof.com/xbox-shutdown-vs-sleep-mode/) to [crafting a whole Xbox controller out of trash](https://www.makeuseof.com/how-xbox-wireless-controller-remix-edition-make-life-easier/) .
 
 ![Close up of Xbox Wireless Controller Remix Edition on a Leafy Background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/close-up-of-xbox-wireless-controller-remix-edition-on-a-leafy-background.jpg)
 
@@ -73,3 +73,23 @@ thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/resolving-windows-11-steam-service-disruptions/"><u>Resolving Windows 11: Steam Service Disruptions</u></a></li>
+<li><a href="https://games-able.techidaily.com/bypassing-steam-login-issues-on-rust-platforms-windows/"><u>Bypassing Steam Login Issues on Rust Platforms Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/excellent-ps5-dualsense-battery-enhancers/"><u>Excellent PS5 DualSense Battery Enhancers</u></a></li>
+<li><a href="https://games-able.techidaily.com/on-the-move-gamers-checklist-nine-key-items/"><u>On-the-Move Gamer's Checklist: Nine Key Items</u></a></li>
+<li><a href="https://games-able.techidaily.com/comprehensive-bg3-gear-checklist-and-more/"><u>Comprehensive BG3 Gear Checklist & More</u></a></li>
+<li><a href="https://games-able.techidaily.com/smart-strategies-for-claiming-back-on-xbox-games/"><u>Smart Strategies for Claiming Back on Xbox Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-your-opera-experience-with-a-trial-of-free-nitro-membership/"><u>Enhance Your Opera Experience with a Trial of Free Nitro Membership</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-deciphering-how-tseries-benefits-from-youtube/"><u>In 2024, Deciphering How TSeries Benefits From YouTube</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-deleted-iphone-xr-whatsapp-attachments-on-mac-and-windows-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Recover Deleted iPhone XR WhatsApp Attachments on Mac and Windows | Stellar</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-public-perceptions-unveiling-vllo-realities/"><u>[Updated] Public Perceptions  Unveiling VLLO Realities</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-quelling-camera-chaos-in-cinema/"><u>[Updated] In 2024, Quelling Camera Chaos in Cinema</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-oppo-reno-10-5g-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Oppo Reno 10 5G.</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pinnacle-gold-text-rendering-in-top-8-3d-web-spaces/"><u>2024 Approved  Pinnacle Gold Text Rendering in Top 8 3D Web Spaces</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-crafting-engaging-youtube-videos-using-finalcut-pro-expertise/"><u>[Updated] 2024 Approved  Crafting Engaging YouTube Videos Using FinalCut Pro Expertise</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-how-to-trim-vlc-videos-on-mac-without-losing-quality-a-step-by-step-guide/"><u>New 2024 Approved How to Trim VLC Videos on Mac Without Losing Quality A Step-by-Step Guide</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/show-audio-waveform-and-add-waveform-animation-in-premiere-protutor/"><u>Show Audio Waveform and Add Waveform Animation in Premiere ProTutor</u></a></li>
+</ul></div>

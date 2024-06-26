@@ -1,7 +1,7 @@
 ---
 title: "Diving Early: The Gamers’ Vote on Pre-Patch Games"
-date: 2024-06-21 22:27:32
-updated: 2024-06-24 12:53:49
+date: 2024-06-25T13:18:19.290Z
+updated: 2024-06-26T13:18:19.290Z
 tags:
   - games
 categories:
@@ -46,11 +46,9 @@ Jhet Borja/MakeUseOf
 
  Every game goes through a development process, through many versions that could be wildly different to the final version of the game. Some games will begin early access close to a finished state, while some you can play at very early stages with still a lot of work to do.
 
- Steam is one of the most popular platforms to get early access to many games, but you can also get[early access for Xbox games](https://www.makeuseof.com/how-to-participate-in-xbox-research-for-xbox-series-xs/) or even Google Play.
+ Steam is one of the most popular platforms to get early access to many games, but you can also get [early access for Xbox games](https://www.makeuseof.com/how-to-participate-in-xbox-research-for-xbox-series-xs/) or even Google Play.
 
-## Pro: Contributing to the Development of the Game
-
-![Dinkum gameplay](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/dinkum-gameplay.jpg)
+## Pro: Contributing to the Development of the Game ![Dinkum gameplay](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/dinkum-gameplay.jpg)
 
  Early access games usually allow players to have an active role in how the game transforms. Players can often join Discord servers where the developers are easily accessible and their concerns, feedback, bug reports, and suggestions can all be taken seriously.
 
@@ -82,11 +80,9 @@ Jhet Borja/MakeUseOf
 
  However, there are cases where the price goes down after release. This could be to gain more sales, or because early access players have given feedback about the price. Either way the price goes, you should only buy it if you think it’s worth it.
 
- Thankfully[Steam refunds are pretty easy to do](https://www.makeuseof.com/how-to-refund-a-game-on-steam/) ; so long as your playtime is less than 2 hours or you’ve owned the game for less than 14 days, you can refund it.
+ Thankfully [Steam refunds are pretty easy to do](https://www.makeuseof.com/how-to-refund-a-game-on-steam/) ; so long as your playtime is less than 2 hours or you’ve owned the game for less than 14 days, you can refund it.
 
-## Con: Incomplete Story/World/Mechanics
-
-![Wide view of Palworld world](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/wide-view-of-palworld-world.jpg)
+## Con: Incomplete Story/World/Mechanics ![Wide view of Palworld world](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/wide-view-of-palworld-world.jpg)
 
  If the game was ready to go, it wouldn’t be in early access now would it? You’re very likely to experience many features missing, from plots, places, or even whole mechanics.
 
@@ -133,3 +129,24 @@ Jhet Borja/MakeUseOf
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/simplifying-ps5-pc-control-connection-the-complete-manual/"><u>Simplifying PS5-PC Control Connection: The Complete Manual</u></a></li>
+<li><a href="https://games-able.techidaily.com/rog-ally-x-redefines-handheld-excellence/"><u>RoG Ally X Redefines Handheld Excellence</u></a></li>
+<li><a href="https://games-able.techidaily.com/integrating-external-input-devices-with-your-nintendo-switch-87-chars/"><u>Integrating External Input Devices with Your Nintendo Switch (87 Chars)</u></a></li>
+<li><a href="https://games-able.techidaily.com/galactic-genius-reviews-uncovering-top-brand-pcs/"><u>Galactic Genius Reviews: Uncovering Top Brand PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-hidden-pleasures-in-playstation-5/"><u>Unleashing Hidden Pleasures in PlayStation 5</u></a></li>
+<li><a href="https://games-able.techidaily.com/uniting-play-step-by-step-guide-for-controller-linkage/"><u>Uniting Play: Step-by-Step Guide for Controller Linkage</u></a></li>
+<li><a href="https://games-able.techidaily.com/diverse-methods-to-kickstart-your-ps5-console/"><u>Diverse Methods to Kickstart Your PS5 Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-gaming-wonders-iphone-and-ipads-best-friend-apple-arcade/"><u>Unlocking Gaming Wonders: IPhone and iPad's Best Friend - Apple Arcade</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-realme-11-5g-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Realme 11 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-oppo-a59-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Oppo A59 5G Devices</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-maximizing-revenue-through-youtube-brand-partnerships/"><u>In 2024, Maximizing Revenue Through Youtube Brand Partnerships</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transform-your-iphone-footage-creating-and-editing-lengthened-visual-narratives/"><u>2024 Approved  Transform Your iPhone Footage  Creating & Editing Lengthened Visual Narratives</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-future-of-videography-top-cameras-2024/"><u>[New] Future of Videography  Top Cameras 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-14-plus-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 14 Plus Without Passcode Now</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-initiate-seamless-gaming-streams-mastering-obs-recording/"><u>[Updated] 2024 Approved  Initiate Seamless Gaming Streams  Mastering OBS Recording</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-merge-mov-files-for-free-top-5-video-joiner-tools/"><u>In 2024, Merge MOV Files for Free Top 5 Video Joiner Tools</u></a></li>
+</ul></div>

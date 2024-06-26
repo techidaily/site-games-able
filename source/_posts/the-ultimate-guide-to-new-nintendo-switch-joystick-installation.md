@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to New Nintendo Switch Joystick Installation
-date: 2024-06-23 11:52:25
-updated: 2024-06-24 10:23:42
+date: 2024-06-25T13:17:04.388Z
+updated: 2024-06-26T13:17:04.388Z
 tags:
   - games
 categories:
@@ -26,9 +26,9 @@ thumbnail: https://thmb.techidaily.com/412d065764cb0ba50733f600b7a0dabb6c2d4fd11
 
 ![Close up of Nintendo Switch Pikachu and Eevee Joy Cons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Close-up-of-Nintendo-Switch-Pikachu-and-Eeve-joy-cons.jpg)
 
- Once a Joy-Con has drift, there is little you can do to fix it. There are, however, several tricks you can try to[fix Joy-Con drift on your Nintendo Switch](https://www.makeuseof.com/ways-to-fix-joy-con-drift-nintendo-switch/) before you open it up and take matters into your own hands. The first thing you should try when you notice drift in your Joy-Con is to calibrate them using the calibration tool in the Switch’s menu. That may help for a while, but it is more of a Band-Aid and doesn’t fix the root of the issue.
+ Once a Joy-Con has drift, there is little you can do to fix it. There are, however, several tricks you can try to [fix Joy-Con drift on your Nintendo Switch](https://www.makeuseof.com/ways-to-fix-joy-con-drift-nintendo-switch/) before you open it up and take matters into your own hands. The first thing you should try when you notice drift in your Joy-Con is to calibrate them using the calibration tool in the Switch’s menu. That may help for a while, but it is more of a Band-Aid and doesn’t fix the root of the issue.
 
- You can also[send your Joy-Con away for a free repair](https://www.makeuseof.com/how-to-send-joy-cons-off-for-free-repair/) . This is a great service, but you aren’t guaranteed to receive the same Joy-Con back. So, if you send a limited edition pair, there is a chance you may get the classic red and blue Joy-Con back. Some gamers aren’t willing to take that risk.
+ You can also [send your Joy-Con away for a free repair](https://www.makeuseof.com/how-to-send-joy-cons-off-for-free-repair/) . This is a great service, but you aren’t guaranteed to receive the same Joy-Con back. So, if you send a limited edition pair, there is a chance you may get the classic red and blue Joy-Con back. Some gamers aren’t willing to take that risk.
 
  When all the above methods fail, learning how to replace your faulty joysticks yourself is the best option. It is worth noting, however, that doing so voids your warranty. But if your warranty has already run out, and you would rather fix your pair for around $10.00 rather than pay $79.99 for a new set, you don’t really have much to lose.
 
@@ -80,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/412d065764cb0ba50733f600b7a0dabb6c2d4fd11
 
 ![How to calibrate controller on Nintendo Switch Calibrate Control Sticks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/how-to-calibrate-controller-on-nintendo-switch-calibrate-control-sticks.jpg)
 
- As simple as replacing your joystick is, it's not ideal to have to repeat the process frequently. Make sure to regularly[clean your Nintendo Switch and Joy-Con](https://www.makeuseof.com/how-to-safely-clean-nintendo-switch-and-joy-cons/) to prevent dust buildup and increase the longevity of your joysticks.
+ As simple as replacing your joystick is, it's not ideal to have to repeat the process frequently. Make sure to regularly [clean your Nintendo Switch and Joy-Con](https://www.makeuseof.com/how-to-safely-clean-nintendo-switch-and-joy-cons/) to prevent dust buildup and increase the longevity of your joysticks.
 
 ## Say Goodbye to Joy-Con Drift Forever With This Guide
 
@@ -103,3 +103,26 @@ thumbnail: https://thmb.techidaily.com/412d065764cb0ba50733f600b7a0dabb6c2d4fd11
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/3-reasons-why-30fps-console-gaming-isnt-as-bad-as-you-think/"><u>3 Reasons Why 30FPS Console Gaming Isn’t as Bad as You Think</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionary-flaw-rectification-by-rog-ally-x/"><u>Revolutionary Flaw Rectification by ROG Ally X</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-brief-existence-of-game-worlds-should-we-care/"><u>The Brief Existence of Game Worlds – Should We Care?</u></a></li>
+<li><a href="https://games-able.techidaily.com/reverting-joystick-calibration-in-s-and-x-series/"><u>Reverting Joystick Calibration in S and X Series</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-smartly-pick-the-right-handheld-videogame-device/"><u>How to Smartly Pick the Right Handheld Videogame Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/revive-vanished-wordle-streaks-on-smartphones/"><u>Revive Vanished Wordle Streaks on Smartphones</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-comprehensive-approach-to-dualsense-update-process/"><u>A Comprehensive Approach to DualSense Update Process</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-portable-gameplay-steam-deck-and-your-computer/"><u>Enhancing Portable Gameplay: Steam Deck and Your Computer</u></a></li>
+<li><a href="https://games-able.techidaily.com/reinstating-stable-wired-and-wireless-connections-in-ps5/"><u>Reinstating Stable Wired and Wireless Connections in PS5</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-demystifying-data-first-steps-in-facebook-insights/"><u>[New] Demystifying Data  First Steps in Facebook Insights</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/dissecting-uav-technology-operation-design-and-use-for-2024/"><u>Dissecting UAV Technology  Operation, Design, and Use for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-10-viral-exercise-routines-to-keep-your-channel-thriving-for-2024/"><u>[New] 10 Viral Exercise Routines to Keep Your Channel Thriving for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-elevate-your-reels-to-new-heights-with-top-6-innovative-apps/"><u>In 2024, Elevate Your Reels to New Heights with Top 6 Innovative Apps</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Infinix Smart 7? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-guide-to-7-top-mac-vids/"><u>[Updated] Ultimate Guide to 7 Top Mac Vids</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-honor-90-pro-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Honor 90 Pro</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-spice-up-content-kapwings-meme-builder/"><u>[Updated] Spice Up Content  Kapwing's Meme Builder</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-animation-powerhouses-top-8-software-for-mac-and-windows-creators/"><u>Updated Animation Powerhouses Top 8 Software for Mac and Windows Creators</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-twitch-replay-magic-stream-control-secrets/"><u>[Updated] Twitch Replay Magic  Stream Control Secrets</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Dropping Paywalls: 5 Reasons to Keep Your Games Home"
-date: 2024-06-22 20:33:21
-updated: 2024-06-24 12:16:49
+date: 2024-06-25T13:20:03.099Z
+updated: 2024-06-26T13:20:03.099Z
 tags:
   - games
 categories:
@@ -29,27 +29,23 @@ thumbnail: https://thmb.techidaily.com/f65801f01aff4d3373b4cf2db5d1bc7ed704b50a0
 
 ## Games Are Heading Towards an All-Digital Future
 
- According to a report by[GamesIndustry.biz](https://www.gamesindustry.biz/gamesindustrybiz-presents-the-year-in-number-2023) , 95% of games sold in 2023 were digital. We’re even seeing some games, such as Alan Wake 2 and Hellblade 2, release digital-only versions with no physical copies. Furthermore, legendary physical retailers like GameStop are closing more stores each year.
+ According to a report by [GamesIndustry.biz](https://www.gamesindustry.biz/gamesindustrybiz-presents-the-year-in-number-2023) , 95% of games sold in 2023 were digital. We’re even seeing some games, such as Alan Wake 2 and Hellblade 2, release digital-only versions with no physical copies. Furthermore, legendary physical retailers like GameStop are closing more stores each year.
 
- These are just a few signs, but with the decline of physical games, game companies have an incentive to push for an all-digital future. Not only does this raise[concerns about game preservation](https://www.makeuseof.com/what-is-video-game-preservation/) , but it also means players will have to purchase digital copies or subscribe to a service to play games. This throws game ownership out the window.
+ These are just a few signs, but with the decline of physical games, game companies have an incentive to push for an all-digital future. Not only does this raise [concerns about game preservation](https://www.makeuseof.com/what-is-video-game-preservation/) , but it also means players will have to purchase digital copies or subscribe to a service to play games. This throws game ownership out the window.
 
- In fact, Phillipe Tremblay, Ubisoft's director of subscriptions, has stated that players should get comfortable not owning their games, according to an article by[GamesIndustry.biz](https://www.gamesindustry.biz/the-new-ubisoft-and-getting-gamers-comfortable-with-not-owning-their-games) . Not long after that, Blizzard updated its[EULA](https://www.blizzard.com/en-us/legal/fba4d00f-c7e4-4883-b8b9-1b4500a402ea/blizzard-end-user-license-agreement) in March 2024, telling users that they don’t own their games.
+ In fact, Phillipe Tremblay, Ubisoft's director of subscriptions, has stated that players should get comfortable not owning their games, according to an article by [GamesIndustry.biz](https://www.gamesindustry.biz/the-new-ubisoft-and-getting-gamers-comfortable-with-not-owning-their-games) . Not long after that, Blizzard updated its [EULA](https://www.blizzard.com/en-us/legal/fba4d00f-c7e4-4883-b8b9-1b4500a402ea/blizzard-end-user-license-agreement) in March 2024, telling users that they don’t own their games.
 
- Furthermore, with Sony and Xbox adding more games and perks to[PS Plus and Game Pass](https://www.makeuseof.com/playstation-now-vs-xbox-game-pass/) , subscriptions are becoming more attractive. Even shifts in consumer behavior show that these gaming subscriptions, including Apple Arcade, are gradually outpacing game purchases each year, according to[Statista](https://www.statista.com/statistics/1240342/consumer-spending-video-game-subscriptions-growth/) .
+ Furthermore, with Sony and Xbox adding more games and perks to [PS Plus and Game Pass](https://www.makeuseof.com/playstation-now-vs-xbox-game-pass/) , subscriptions are becoming more attractive. Even shifts in consumer behavior show that these gaming subscriptions, including Apple Arcade, are gradually outpacing game purchases each year, according to [Statista](https://www.statista.com/statistics/1240342/consumer-spending-video-game-subscriptions-growth/) .
 
-## Why Subscriptions Can't Beat Game Ownership
-
-![EA Play games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ea-play-games.jpg)
+## Why Subscriptions Can't Beat Game Ownership ![EA Play games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ea-play-games.jpg)
 
  As game subscriptions keep trending upward and game companies embrace them, the benefits of complete game ownership are becoming more apparent.
 
- When we talk about game ownership here, we’re referring to physical games. While[purchasing digital games](https://www.makeuseof.com/physical-games-vs-digital-games-best-to-buy/) gives you more control over games than subscriptions, you can run into similar problems.
+ When we talk about game ownership here, we’re referring to physical games. While [purchasing digital games](https://www.makeuseof.com/physical-games-vs-digital-games-best-to-buy/) gives you more control over games than subscriptions, you can run into similar problems.
 
 Here are several reasons game ownership is king over subscriptions.
 
-### 1\. You Have Complete Access
-
-![hands holding a ps5 controller in front of a tv screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/hands-holding-a-ps5-controller-in-front-of-a-tv-screen.jpg)
+### 1\. You Have Complete Access ![hands holding a ps5 controller in front of a tv screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/hands-holding-a-ps5-controller-in-front-of-a-tv-screen.jpg)
 
  Mohsen Vaziri/[Shutterstock](https://www.shutterstock.com/image-photo/toronto-canada-november-24-2020-person-1860839008)
 
@@ -71,9 +67,7 @@ Here are several reasons game ownership is king over subscriptions.
 
  If you’re not a collector, you can easily sell or trade in the games once you’re done with them. This can help you recover some of the costs of purchasing the game, which you can then use to purchase another game. If you hold on to the games long enough, there’s a chance (although small) that they will be worth substantially more in the future.
 
-### 5\. You Can Share the Games with Others
-
-![two people playing mobile games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/two-people-playing-mobile-games.jpg)
+### 5\. You Can Share the Games with Others ![two people playing mobile games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/two-people-playing-mobile-games.jpg)
 
  Chay\_Tee/[Shutterstock](https://www.shutterstock.com/image-photo/young-adult-asia-cute-sweet-couple-2342605331)
 
@@ -100,3 +94,24 @@ Here are several reasons game ownership is king over subscriptions.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/embark-on-virtual-journeys-game-edition/"><u>Embark on Virtual Journeys - Game Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/pixel-warriors-opting-between-controller-and-stick/"><u>Pixel Warriors: Opting Between Controller and Stick</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-battles-selecting-the-best-game-device/"><u>Digital Battles: Selecting the Best Game Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/optic-power-vs-mechanical-might-in-gaming/"><u>Optic Power Vs. Mechanical Might in Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/customizing-headphone-output-on-xbox-sx/"><u>Customizing Headphone Output on Xbox S/X</u></a></li>
+<li><a href="https://games-able.techidaily.com/mostly-impressive-google-play-pass-and-one-shortcoming/"><u>Mostly Impressive: Google Play Pass and One Shortcoming</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-hidden-gems-with-2p-minecraft-on-switch/"><u>Unlock Hidden Gems with 2P Minecraft on Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-troubleshooting-correct-read-only-library-folder-issue/"><u>Steam Troubleshooting: Correct Read-Only Library Folder Issue</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-quick-guide-capturing-vimeo-videos/"><u>In 2024, Quick Guide  Capturing Vimeo Videos</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/new-2024-approved-10-cartoon-photo-converters/"><u>New 2024 Approved 10 Cartoon Photo Converters</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-upgrade-your-content-navigating-the-world-of-fb-video-full-scale/"><u>[New] In 2024, Upgrade Your Content  Navigating the World of FB Video Full Scale</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-shot-without-a-lifeline-hand-balancing-hacks/"><u>[Updated] The Shot Without a Lifeline  Hand Balancing Hacks</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-nubia-red-magic-9-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Nubia Red Magic 9 Pro Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/chill-out-with-these-20-country-rhythms-on-tiktok-for-2024/"><u>Chill Out with These 20 Country Rhythms on TikTok for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-exploring-the-world-of-aspect-ratios-in-youtube-content/"><u>[New] 2024 Approved  Exploring the World of ASPECT RATIOS in YOUTUBE Content</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-6s-plus-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>iPhone 6s Plus Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+</ul></div>

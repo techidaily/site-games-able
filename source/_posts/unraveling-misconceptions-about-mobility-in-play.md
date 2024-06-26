@@ -1,7 +1,7 @@
 ---
 title: Unraveling Misconceptions About Mobility in Play
-date: 2024-06-25T10:38:28.839Z
-updated: 2024-06-26T10:38:28.839Z
+date: 2024-06-25T12:48:34.293Z
+updated: 2024-06-26T12:48:34.293Z
 tags:
   - games
 categories:
@@ -22,21 +22,21 @@ thumbnail: https://thmb.techidaily.com/7e535a24da23299616c0c4ebf30823de033f9fe39
 
  One big difference between console gaming and mobile gaming is their business model. While the former comes with an up-front cost, the freemium model dominates the latter.
 
- According to a[Statista report](https://www.statista.com/statistics/266211/distribution-of-free-and-paid-android-apps/) , only about three percent of all mobile games on the Google Play Store carry a fee. Similar is the case with the Apple App Store.
+ According to a [Statista report](https://www.statista.com/statistics/266211/distribution-of-free-and-paid-android-apps/) , only about three percent of all mobile games on the Google Play Store carry a fee. Similar is the case with the Apple App Store.
 
 ![A screenshot of Google Play Store home screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/Google-play-store-home-page.jpg)
 
  People just don't like to pay for mobile games, and the rare ones that actually do, pay mostly via in-app purchases and microtransactions. So, it forces game developers to either conform to that model or stick with console gaming.
 
- Now, we're not saying the freemium model isn't profitable. In fact, according to[Business Insider](https://www.businessinsider.in/tech/news/pubg-mobile-was-the-top-grossing-game-globally-in-november-2021/articleshow/88201430.cms) , PUBG Mobile earned nearly $254 million in player spending in November 2021 alone.
+ Now, we're not saying the freemium model isn't profitable. In fact, according to [Business Insider](https://www.businessinsider.in/tech/news/pubg-mobile-was-the-top-grossing-game-globally-in-november-2021/articleshow/88201430.cms) , PUBG Mobile earned nearly $254 million in player spending in November 2021 alone.
 
  But the problem with the freemium model is that it's not suitable for making big-budget console-level games. It's too risky for developers to invest so much time and money creating a high-end mobile game, in the vain hope that people might pay for it later... after playing it for free.
 
 ## 2\. App Store Algorithms Only Favor Top Charts
 
- We can place part of the blame for mobile gaming being so lacking on how app stores organize their directories. To give you some perspective, according to another[Statista report](https://www.statista.com/statistics/266210/number-of-available-applications-in-the-google-play-store/) there are roughly 2.6 million apps on the Google Play Store and almost 2 million apps on the Apple App Store.
+ We can place part of the blame for mobile gaming being so lacking on how app stores organize their directories. To give you some perspective, according to another [Statista report](https://www.statista.com/statistics/266210/number-of-available-applications-in-the-google-play-store/) there are roughly 2.6 million apps on the Google Play Store and almost 2 million apps on the Apple App Store.
 
- A further[Statista report](https://www.statista.com/statistics/780229/number-of-available-gaming-apps-in-the-google-play-store-quarter/) states that between 11-13.5% of these apps are games, with the Google Play Store alone carrying 477,877 active game titles in December 2021.
+ A further [Statista report](https://www.statista.com/statistics/780229/number-of-available-gaming-apps-in-the-google-play-store-quarter/) states that between 11-13.5% of these apps are games, with the Google Play Store alone carrying 477,877 active game titles in December 2021.
 
 ![App Store closeup on iPhone screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/App-Store-closeup-on-iPhone-screen.jpg)
 
@@ -62,11 +62,9 @@ thumbnail: https://thmb.techidaily.com/7e535a24da23299616c0c4ebf30823de033f9fe39
 
  As cruel as some negative reviews can be, they are helpful for spotting errors. For mobile games, that level of passion and commitment simply doesn't exist.
 
-## 4\. Poor Touchscreen Controls
+## 4\. Poor Touchscreen Controls ![video game console and mobile phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/video-game.jpg)
 
-![video game console and mobile phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/video-game.jpg)
-
- Unless you buy a dedicated gaming phone with shoulder buttons (such as the[Black Shark 4 we reviewed](https://www.makeuseof.com/black-shark-4-review/) ), regular smartphones simply can't compete with the likes of a console controller. All the controls of a mobile game have to be crammed inside the very limited screen estate of the device.
+ Unless you buy a dedicated gaming phone with shoulder buttons (such as the [Black Shark 4 we reviewed](https://www.makeuseof.com/black-shark-4-review/) ), regular smartphones simply can't compete with the likes of a console controller. All the controls of a mobile game have to be crammed inside the very limited screen estate of the device.
 
  Given this limitation, those controls often end up being either painfully small or so big that they interrupt gameplay—leading to a poor gaming experience. To counter this, devs have to spend additional resources coming up with new ways to make the controls feel seamless.
 
@@ -76,9 +74,7 @@ thumbnail: https://thmb.techidaily.com/7e535a24da23299616c0c4ebf30823de033f9fe39
 
  However, because a higher storage space also means a higher price, the only phones that can take advantage of this are flagships. And since most smartphones sales aren't flagships but budget and mid-range phones, the advantage of higher storage space becomes redundant.
 
-## 6\. Lack of Standardized Platforms
-
-![how to use share play on ps5 playstation 5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/how-to-use-share-play-on-ps5-playstation-5.jpg)
+## 6\. Lack of Standardized Platforms ![how to use share play on ps5 playstation 5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/how-to-use-share-play-on-ps5-playstation-5.jpg)
 
  Unlike standardized consoles such as PlayStation and Xbox, smartphones come in all shapes, sizes, and configurations. This is true even more so for Android phones than iPhones.
 
@@ -88,15 +84,13 @@ thumbnail: https://thmb.techidaily.com/7e535a24da23299616c0c4ebf30823de033f9fe39
 
  So, this leaves them with only two options; either create poor games that everyone can download or create good games that only a few can download. It seems the former gets the upper hand in boardroom meetings.
 
-## 7\. Frequent In-Game Ads
-
-![a man frustrated using his mobile phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/upset-young-african-man-reading-message-his-mobile-phone.jpg)
+## 7\. Frequent In-Game Ads ![a man frustrated using his mobile phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/upset-young-african-man-reading-message-his-mobile-phone.jpg)
 
  Aside from microtransactions, mobile game developers also rely on in-game ads to earn money. This allows them to keep the game running and introduce new features such as maps, weapons, outfits, and other similar in-game items.
 
  However, as a gamer, it really sucks to have to watch an ad every single time after completing a race, finishing a match, or opening a loot box. On top of that, these ads can sometimes be irrelevant and inappropriate, and there's no way to tweak them either.
 
- Granted, watching in-game ads is a good way to[support mobile game developers without buying in-game items](https://www.makeuseof.com/support-game-developers-without-microtransactions/) , but their frequency matters a lot especially if you're planning to play that game for a long time.
+ Granted, watching in-game ads is a good way to [support mobile game developers without buying in-game items](https://www.makeuseof.com/support-game-developers-without-microtransactions/) , but their frequency matters a lot especially if you're planning to play that game for a long time.
 
 ## Mobile Gaming Could Be So Much More
 

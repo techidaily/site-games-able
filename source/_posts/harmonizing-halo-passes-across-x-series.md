@@ -1,7 +1,7 @@
 ---
 title: Harmonizing Halo Passes Across X Series
-date: 2024-06-25T10:51:10.826Z
-updated: 2024-06-26T10:51:10.826Z
+date: 2024-06-25T12:48:42.298Z
+updated: 2024-06-26T12:48:42.298Z
 tags:
   - games
 categories:
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/5b911fc4e119075c845447b8b1130601d398b21b1
 
  If you need to manage your subscriptions outside the available features of the**Subscriptions** settings, or if you want to join a new subscription, you may need to use an alternative way to manage subscriptions.
 
- Luckily, just like how you can[cancel your Xbox Game Pass subscription](https://www.makeuseof.com/how-to-cancel-your-xbox-game-pass-subscription/) online or from your console, you can do the same with all other Xbox subscriptions.
+ Luckily, just like how you can [cancel your Xbox Game Pass subscription](https://www.makeuseof.com/how-to-cancel-your-xbox-game-pass-subscription/) online or from your console, you can do the same with all other Xbox subscriptions.
 
 ## How to Add and Remove Subscriptions on Your Xbox Series X|S
 

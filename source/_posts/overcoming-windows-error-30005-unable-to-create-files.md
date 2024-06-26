@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Windows Error 30005: Unable to Create Files"
-date: 2024-06-23 11:14:42
-updated: 2024-06-24 11:49:47
+date: 2024-06-25T12:59:28.678Z
+updated: 2024-06-26T12:59:28.678Z
 tags:
   - games
 categories:
@@ -75,25 +75,25 @@ If you encounter the same error again, proceed to the next step.
 
  If your game files get corrupted, Easy Anti-Cheat will consider it unauthorized tampering. Therefore, repairing them is essential. Some game clients allow you to repair corrupt files from within the client; therefore, if the game you're running offers this functionality, go ahead and repair the corrupt files.
 
- If you have installed the game through Steam, you can repair your game files more easily. In our guide on[repairing game files using different launchers](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/#how-to-verify-game-file-integrity-on-steam) , we have covered the process for verifying the integrity of game files (or fixing corrupt game files) in Steam. So, follow the relevant instructions to repair corrupt files.
+ If you have installed the game through Steam, you can repair your game files more easily. In our guide on [repairing game files using different launchers](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/#how-to-verify-game-file-integrity-on-steam) , we have covered the process for verifying the integrity of game files (or fixing corrupt game files) in Steam. So, follow the relevant instructions to repair corrupt files.
 
 ## 4\. Whitelist Easy Anti-Cheat in Windows Defender or Antivirus
 
  Even though Easy Anti-Cheat is a trusted service, Microsoft Defender or antivirus software you use may consider it a threat and block it. Once blocked, Easy Anti-Cheat won't be able to create the file it needs to, and the game launcher will display this error. Therefore, you should ensure it isn't the cause of the problem.
 
- Disable both programs to determine if Windows Defender or an antivirus program is causing the problem. Check out our guide on[how to disable Windows Defender](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) . There should be a similar option in your antivirus program's settings. Use that to disable it. Once both programs have been disabled, run the game again and see if the error occurs.
+ Disable both programs to determine if Windows Defender or an antivirus program is causing the problem. Check out our guide on [how to disable Windows Defender](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) . There should be a similar option in your antivirus program's settings. Use that to disable it. Once both programs have been disabled, run the game again and see if the error occurs.
 
  If the game launches successfully this time, that confirms the problem lies with Windows Defender or a third-party antivirus program that you're using. If you don't enable either of these programs, you won't encounter this error again, but disabling them puts your device at risk.
 
  So, instead of doing that, you should whitelist Easy Anti-Cheat from Windows Defender and your antivirus program. Doing so will prevent either of these apps from blocking the Easy Anti-Cheat program, and both apps will continue to do their job of catching viruses.
 
- If you aren't familiar with the process to whitelist apps, check out our guide on[how to allow apps through Windows Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) . Likewise, visit the official website of the antivirus you're using. There, you'll find the instructions to whitelist apps in that particular software.
+ If you aren't familiar with the process to whitelist apps, check out our guide on [how to allow apps through Windows Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) . Likewise, visit the official website of the antivirus you're using. There, you'll find the instructions to whitelist apps in that particular software.
 
 ## 5\. Disable Kernel-Mode Hardware-Enforced Stack Protection
 
- Activating Kernel-mode Hardware-enforced Stack Protection, a security feature on Windows, interferes with Easy Anti-Cheat software, as reported by a user in a[Microsoft Community forum](https://answers.microsoft.com/en-us/windows/forum/all/kernel-mode-hardware-enforced-stack-protection/e6a47f27-fd08-4ce1-bc64-ecc4306182d3) . This feature prevents malicious software from interfering with the operating system but can sometimes conflict with safe programs, such as Easy Anti-Cheat.
+ Activating Kernel-mode Hardware-enforced Stack Protection, a security feature on Windows, interferes with Easy Anti-Cheat software, as reported by a user in a [Microsoft Community forum](https://answers.microsoft.com/en-us/windows/forum/all/kernel-mode-hardware-enforced-stack-protection/e6a47f27-fd08-4ce1-bc64-ecc4306182d3) . This feature prevents malicious software from interfering with the operating system but can sometimes conflict with safe programs, such as Easy Anti-Cheat.
 
- One user confirmed in a[Reddit thread](https://www.reddit.com/r/lostarkgame/comments/qn2utd/fix%5Ffor%5Feasyanticheat%5Ferror%5F30005%5Fcreate%5Ffile/) that turning off this security feature fixed the problem. If your processor supports this security feature, turn it off. Here's how you can do that:
+ One user confirmed in a [Reddit thread](https://www.reddit.com/r/lostarkgame/comments/qn2utd/fix%5Ffor%5Feasyanticheat%5Ferror%5F30005%5Fcreate%5Ffile/) that turning off this security feature fixed the problem. If your processor supports this security feature, turn it off. Here's how you can do that:
 
 1. Type**"Windows Security"** in Windows Search and open the**Windows Security** app.
 2. Navigate to the**Device Security** tab in the left sidebar.
@@ -156,3 +156,24 @@ If you encounter the same error again, proceed to the next step.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/acquiring-ps5-steamboat-to-fortnite-vip-points/"><u>Acquiring PS5: Steamboat to Fortnite VIP Points</u></a></li>
+<li><a href="https://games-able.techidaily.com/ea-plays-ps5-game-hall-of-fame-selection/"><u>EA Play’s PS5 Game Hall of Fame Selection</u></a></li>
+<li><a href="https://games-able.techidaily.com/combatting-absentee-gps-on-pokemon-adventure-paths/"><u>Combatting Absentee GPS on Pokémon Adventure Paths</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidia-revolutionizing-gaming-discover-the-latest-app/"><u>Nvidia Revolutionizing Gaming: Discover the Latest App</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-rated-asus-rog-ally-docks-laptop-docks-reimagined/"><u>Top-Rated ASUS ROG Ally Docks: Laptop Docks Reimagined</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-new-frontier-how-mmo-games-are-innovating/"><u>The New Frontier: How MMO Games Are Innovating</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-xbox-one-controller-pairing-101/"><u>Navigating Xbox One: Controller Pairing 101</u></a></li>
+<li><a href="https://games-able.techidaily.com/engage-with-youtubes-emerging-array-of-mini-games/"><u>Engage with YouTube's Emerging Array of Mini Games</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-resize-your-video-in-minutes-a-quick-fix-for-2024/"><u>Updated Resize Your Video in Minutes A Quick Fix for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/step-by-step-strategies-for-posting-and-uploading-gifs-on-instagram-for-2024/"><u>Step-by-Step Strategies for Posting & Uploading GIFs on Instagram for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-apple-iphone-se-2020-without-passcode-easily-drfone-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone SE (2020) Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-crafting-a-visual-identity-a-guide-to-perfect-pfp-on-discord-for-2024/"><u>[Updated] Crafting a Visual Identity  A Guide to Perfect Pfp on Discord for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-create-chroma-key-written-text-effects-in-filmora/"><u>Updated 2024 Approved Create Chroma Key Written Text Effects in Filmora</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-top-rated-no-cost-vocal-transformer-guide-and-professional-audio-sculpting-with-filmora-tutorials/"><u>New Top-Rated No-Cost Vocal Transformer Guide and Professional Audio Sculpting with Filmora Tutorials</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-soundtracking-whatsapp-statues/"><u>[New] Soundtracking WhatsApp Statues</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Realme C53? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-elite-10-best-gamers-on-tiktok/"><u>In 2024, Elite 10  Best Gamers on TikTok</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Slash Steam's Memory Usage - Here Are 5 Proven Methods
-date: 2024-06-20 23:27:58
-updated: 2024-06-23 11:50:37
+date: 2024-06-25T12:55:08.788Z
+updated: 2024-06-26T12:55:08.788Z
 tags:
   - games
 categories:
@@ -30,19 +30,15 @@ thumbnail: https://thmb.techidaily.com/ffbfddf161d0ac60a22be92f9cba6a955de35f0f8
 
  On top of consuming plenty of memory in the long run, too many of these instances can even impact your CPU performance. Thankfully, ta few solutions exist for too many WebHelper instances running.
 
-## 1\. Use Offline Mode
+## 1\. Use Offline Mode ![Steam selecting the go offline option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_steam_go_offline.jpg)
 
-![Steam selecting the go offline option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_steam_go_offline.jpg)
-
- One way to prevent internet-connected browsers from launching is to[run Steam offline](https://www.makeuseof.com/how-to-use-steam-offline-mode/) . You can do this by hitting**Steam** from the main screen and pressing**Go Offline...** from the drop-down menu.
+ One way to prevent internet-connected browsers from launching is to [run Steam offline](https://www.makeuseof.com/how-to-use-steam-offline-mode/) . You can do this by hitting**Steam** from the main screen and pressing**Go Offline...** from the drop-down menu.
 
  Do note that this has limitations, such as downloading new updates or connecting online to certain games.
 
-## 2\. Disable Hardware-Accelerated Rendering
+## 2\. Disable Hardware-Accelerated Rendering ![Steam interface settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_interface_settings.jpg)
 
-![Steam interface settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_interface_settings.jpg)
-
- Modern Steam uses a Chrome-based browser, but[Chrome is known to be fairly demanding on your memory](https://www.makeuseof.com/tag/chrome-using-much-ram-fix-right-now/) . Many of the problems presented by Google Chrome can affect Steam when it connects to the web.
+ Modern Steam uses a Chrome-based browser, but [Chrome is known to be fairly demanding on your memory](https://www.makeuseof.com/tag/chrome-using-much-ram-fix-right-now/) . Many of the problems presented by Google Chrome can affect Steam when it connects to the web.
 
  There's one setting that can add a large amount of performance overhead if left enabled.
 
@@ -53,17 +49,13 @@ thumbnail: https://thmb.techidaily.com/ffbfddf161d0ac60a22be92f9cba6a955de35f0f8
 
  This will ease the burden that Steam's web pages have on your available memory.
 
-## 3\. Enable Low-Performance Mode
-
-![Steam library settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_library_settings.jpg)
+## 3\. Enable Low-Performance Mode ![Steam library settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_library_settings.jpg)
 
  Another simple toggle for performance gains is in the Library tab of the settings menu. Enabling the Low-Performance Mode will disable certain animations when browsing through the Steam library.
 
  This will sacrifice some eye candy for the sake of performance, but overall doesn't reduce memory usage beyond superficial levels. If you've tried all these options so far and still find your system struggling, it might be time for more drastic measures.
 
-## 4\. Launch the Steam Mini Games List
-
-![Steam mini games list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_steam_minigames_list.jpg)
+## 4\. Launch the Steam Mini Games List ![Steam mini games list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_steam_minigames_list.jpg)
 
  When you launch Steam, it connects to the internet at several points. The app's most memory-intensive processes occur when it connects to the latest news and developer blogs.
 
@@ -76,13 +68,11 @@ steam://open/minigameslist
 
  This alone will cut down on several instances of the Steam Client WebHelper. To return to the default Steam look, select any option under the**View** menu.
 
-## 5\. Create a Custom Batch File for Minimal Steam
-
-![Minimal Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_minimal_steam.jpg)
+## 5\. Create a Custom Batch File for Minimal Steam ![Minimal Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_minimal_steam.jpg)
 
  While the previous solutions can help regain a little memory, you might need something more substantial if you're struggling to run Steam on your system.
 
- Thankfully, there exists a combination of commands to completely strip Steam of its ability to create Steam Client WebHelper instances. There are too many commands to easily enter at once, so instead, we'll[make a batch file for it](https://www.makeuseof.com/tag/write-simple-batch-bat-file/) .
+ Thankfully, there exists a combination of commands to completely strip Steam of its ability to create Steam Client WebHelper instances. There are too many commands to easily enter at once, so instead, we'll [make a batch file for it](https://www.makeuseof.com/tag/write-simple-batch-bat-file/) .
 
  To create our batch file, head over to the Steam installation directory. This is the same place where**steam.exe** can be found. Once there, follow these steps:
 
@@ -114,3 +104,23 @@ start steam.exe -dev -console -nofriendsui -no-dwrite -nointro -nobigpicture -no
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/customizing-headphone-output-on-xbox-sx/"><u>Customizing Headphone Output on Xbox S/X</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-gaming-written-by-katherine/"><u>Unleash Gaming' Written by Katherine</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-ps5-fun-key-player-insights/"><u>Enhance PS5 Fun: Key Player Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-changer-top-9-innovations-for-an-enhanced-playstation-5/"><u>Game Changer: Top 9 Innovations for an Enhanced PlayStation 5</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-connections-enhanced-ethernet-for-gamers/"><u>Ultimate Connections: Enhanced Ethernet For Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-unlock-the-past-seven-iconic-blizzard-games-need-you/"><u>Xbox, Unlock the Past: Seven Iconic Blizzard Games Need You</u></a></li>
+<li><a href="https://games-able.techidaily.com/retro-gaming-setup-oled-switch-with-vintage-power-source/"><u>Retro Gaming Setup: OLED Switch with Vintage Power Source</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-smart-7-hd-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Infinix Smart 7 HD Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-nokia-c110-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-unleash-your-creativity-free-gif-loop-creator-tools/"><u>Updated 2024 Approved Unleash Your Creativity Free GIF Loop Creator Tools</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-googles-advanced-upload-techniques-for-podcasters/"><u>[Updated] Google's Advanced Upload Techniques for Podcasters</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-beyond-youtube-elite-video-sharing-hubs-revealed/"><u>2024 Approved  Beyond YouTube  Elite Video Sharing Hubs Revealed</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-flip-the-script-on-classic-films-7-list/"><u>2024 Approved  Flip the Script on Classic Films, #7 List</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-14-top-rated-free-video-editing-tools-without-watermarks/"><u>New In 2024, 14 Top-Rated Free Video Editing Tools Without Watermarks</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: What Is the Essence of Meta in Video Games? Compliance Matters
-date: 2024-06-25T10:44:34.638Z
-updated: 2024-06-26T10:44:34.638Z
+date: 2024-06-25T12:48:38.217Z
+updated: 2024-06-26T12:48:38.217Z
 tags:
   - games
 categories:
@@ -44,7 +44,7 @@ OpenAI / MakeUseOf
 
  This shift of behavior will become the game's "meta." This will stay true until the Wizard is "nerfed" (decreased in power) or the Rogue is "buffed" (increased in power) to stabilize the meta.
 
- Metas aren't just limited to games with inherently unequal dynamics like video games with different character classes. They can affect games where both sides are on equal standing. The game of chess gives both sides the same amount of pieces, yet there is still a meta surrounding the best openers and counter-openers. And a lot of[apps that teach people chess](https://www.makeuseof.com/best-apps-learning-chess-phone-ios-android/) will educate players on what these meta-based moves are. Metas are found in all manner of games, even[dungeon masters have to be guard against player metagaming](https://gamerant.com/dungeons-dragons-5e-stop-metagaming/) overpowering the fun of their Dungeons & Dragons sessions.
+ Metas aren't just limited to games with inherently unequal dynamics like video games with different character classes. They can affect games where both sides are on equal standing. The game of chess gives both sides the same amount of pieces, yet there is still a meta surrounding the best openers and counter-openers. And a lot of [apps that teach people chess](https://www.makeuseof.com/best-apps-learning-chess-phone-ios-android/) will educate players on what these meta-based moves are. Metas are found in all manner of games, even [dungeon masters have to be guard against player metagaming](https://gamerant.com/dungeons-dragons-5e-stop-metagaming/) overpowering the fun of their Dungeons & Dragons sessions.
 
  At this point, you might be curious where the term meta came from. People sometimes claim that "meta" is an acronym, standing for "most efficient tactic available." There's no evidence of that, though it is a clever example of a "backronym," where people retroactively turn a word into an acronym. Instead, the term likely stemmed from the existing word "meta," which means something that refers to itself. This is because the meta is essentially a game based on a game, where strategies and tactics are devised before a round even starts.
 
@@ -62,9 +62,9 @@ OpenAI / MakeUseOf
 
  Metas can sometimes be seen as "flavors of the month." This is especially true for a game that receives consistent updates that tweak how the game is played. In this way, metas can help keep the game from going "stale" and introduce new play methods.
 
- For example, the trading card game Magic the Gathering started its life as a physical card game, but it now has a digital client called "Magic the Gathering Arena" which is one of the[best free PC games](https://www.makeuseof.com/tag/best-free-pc-games/) out there.
+ For example, the trading card game Magic the Gathering started its life as a physical card game, but it now has a digital client called "Magic the Gathering Arena" which is one of the [best free PC games](https://www.makeuseof.com/tag/best-free-pc-games/) out there.
 
- As an aside, there may be no finer example to use than Magic the Gathering on account of how its creator, game designer Richard Garfield, took the rarely used term "metagame" and injected it into the mainstream in the 1990s through his[conversations about game design and the "meta" strategies](https://edt210gamestechsociety.files.wordpress.com/2013/09/2000-garfield-metagame.pdf) found within the Magic the Gathering game system.
+ As an aside, there may be no finer example to use than Magic the Gathering on account of how its creator, game designer Richard Garfield, took the rarely used term "metagame" and injected it into the mainstream in the 1990s through his [conversations about game design and the "meta" strategies](https://edt210gamestechsociety.files.wordpress.com/2013/09/2000-garfield-metagame.pdf) found within the Magic the Gathering game system.
 
  Magic the Gathering has the Standard format, where new batches of cards are introduced every six months, and cards become illegal to play in Standard after two years of their release unless it's reprinted. This allows Standard to have a "rotating meta" where there's a flow of new cards coming in and older cards falling out of Standard. Any particularly overpowered or annoying cards are banned.
 
@@ -74,7 +74,7 @@ OpenAI / MakeUseOf
 
  Metas are not always positive. If a meta is too "powerful," it will warp the game around it. In severe instances, players will be at an active disadvantage if they do not, or cannot follow what the meta dictates.
 
- To stay on the topic of trading card games, Hearthstone is one of the best[cross-platform mobile multiplayer games](https://www.makeuseof.com/tag/10-awesome-cross-platform-mobile-multiplayer-games/) out there. Hearthstone had a period where its meta revolved around a card called "Dr. Boom," which had great stats and a powerful effect. And given how Hearthstone is designed, any deck could run Dr. Boom.
+ To stay on the topic of trading card games, Hearthstone is one of the best [cross-platform mobile multiplayer games](https://www.makeuseof.com/tag/10-awesome-cross-platform-mobile-multiplayer-games/) out there. Hearthstone had a period where its meta revolved around a card called "Dr. Boom," which had great stats and a powerful effect. And given how Hearthstone is designed, any deck could run Dr. Boom.
 
  The card was so good that people would add it as a "must-have" no matter what archetype their deck was. And people would concede if their opponent managed to play Dr. Boom and they hadn't drawn it yet. Deck builders had to ask themselves if their deck could handle Dr. Boom; if it couldn't, it was a bad deck.
 

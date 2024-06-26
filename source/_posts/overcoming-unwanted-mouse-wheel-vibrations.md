@@ -1,7 +1,7 @@
 ---
 title: Overcoming Unwanted Mouse Wheel Vibrations
-date: 2024-06-22 19:42:57
-updated: 2024-06-24 10:21:24
+date: 2024-06-25T13:29:25.290Z
+updated: 2024-06-26T13:29:25.290Z
 tags:
   - games
 categories:
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
  There is no need for special equipment to fix the mouse scroll wheel, nor do you need to be an avid DIYer. To fix a jumpy mouse scroll wheel, you only need a screwdriver to unscrew the screws holding your mouse in place. Besides, you may need to replace your old encoder if worn out.
 
- Bring out the screwdriver you have at home, or buy a new one, and move on to fixing your mouse scroll wheel. Check out our[review of the Wowstick electric screwdriver](https://www.makeuseof.com/wowstick-review/) if you're interested in purchasing a new one.
+ Bring out the screwdriver you have at home, or buy a new one, and move on to fixing your mouse scroll wheel. Check out our [review of the Wowstick electric screwdriver](https://www.makeuseof.com/wowstick-review/) if you're interested in purchasing a new one.
 
  It is important to note that the instructions below are for the Razor Naga 2014 model. The steps to fix the jumpy scroll wheel could vary depending on the brand and model of the mouse and the type of encoders it has.
 
@@ -46,9 +46,7 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
  Here's a step-by-step guide for how to stop your mouse scroll wheel from jumping up and down.
 
-## Step 1: Disassemble the Mouse Casing
-
-![Person Unmounting the Screws to Disassemble the Mouse Casing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/1-Person-Unmounting-the-Screws-to-Disassemble-the-Mouse-Casing.jpg)
+## Step 1: Disassemble the Mouse Casing ![Person Unmounting the Screws to Disassemble the Mouse Casing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/1-Person-Unmounting-the-Screws-to-Disassemble-the-Mouse-Casing.jpg)
 
  Image Credit: TechClub/[YouTube](https://www.youtube.com/watch?v=%5FWBHLISDp80)
 
@@ -66,17 +64,13 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
  Even though removing your mouse's circuit from the lower panel is unnecessary, if you want to do that, make sure there are no screws attached. If there are any, remove them and take the circuit off the bottom panel of your mouse. Alternatively, you can unmount the scroll wheel directly without unmounting the circuit.
 
-## Step 3: Unmount the Scroll Wheel
-
-![Person Unmounting the Scroll Wheel From Mouse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/4-Person-Unmounting-the-Scroll-Wheel-From-Mouse.jpg)
+## Step 3: Unmount the Scroll Wheel ![Person Unmounting the Scroll Wheel From Mouse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/4-Person-Unmounting-the-Scroll-Wheel-From-Mouse.jpg)
 
  Image Credit: TechClub/[YouTube](https://www.youtube.com/watch?v=%5FWBHLISDp80)
 
  Unplug the encoder attached to the scroll wheel from the main board before unmounting the scroll wheel. Then, unplug any other connections, unscrew any screws, and take out the scroll wheel. After you have unmounted the scroll wheel, remove the encoder and proceed to the next step: fix the encoder.
 
-## Step 4: Fix the Encoder Assembly
-
-![Person Showing the Mouse Encoder Assembly](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/5-Person-Showing-the-Mouse-Encoder-Assembly.jpg)
+## Step 4: Fix the Encoder Assembly ![Person Showing the Mouse Encoder Assembly](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/5-Person-Showing-the-Mouse-Encoder-Assembly.jpg)
 
  Image Credit: TechClub/[YouTube](https://www.youtube.com/watch?v=%5FWBHLISDp80)
 
@@ -95,9 +89,7 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
  If the issue persists, there might be a problem with the scroll wheel hub. So, fixing the encoder coil spring assembly may not help.
 
-## Step 5: Wrap a Small Piece of Paper Around the Scroll Wheel Hub
-
-![Man Holding a Small Piece of Paper to Fit in the Mouse Scroll Wheel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/7-Man-Holding-a-Small-Piece-of-Paper-to-Fit-in-the-Mouse-Scroll-Wheel.jpg)
+## Step 5: Wrap a Small Piece of Paper Around the Scroll Wheel Hub ![Man Holding a Small Piece of Paper to Fit in the Mouse Scroll Wheel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/7-Man-Holding-a-Small-Piece-of-Paper-to-Fit-in-the-Mouse-Scroll-Wheel.jpg)
 
  Image Credit: Orkhan Aliyev/[YouTube](https://www.youtube.com/watch?v=%5FJwUUjLzAMY)
 
@@ -117,7 +109,7 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
 **1\. Get Technical Assistance:** If you cannot fix the mouse on your own, take your faulty mouse to a nearby technician shop who can investigate the issue for you and repair it. Though it is a simple alternative for those who are not tech-savvy, you may have to pay a significant repair fee depending on the issue's complexity.
 
-**2\. Buy a New Mouse:** If a technician fails to repair your mouse, you should turn to the last resort: get a brand-new mouse. If you decide to go this route, our guide covering the[best high DPI gaming mice](https://www.makeuseof.com/best-high-dpi-gaming-mice/) can help you make a well-informed decision. Invest in a reliable device to avoid encountering the same problem again.
+**2\. Buy a New Mouse:** If a technician fails to repair your mouse, you should turn to the last resort: get a brand-new mouse. If you decide to go this route, our guide covering the [best high DPI gaming mice](https://www.makeuseof.com/best-high-dpi-gaming-mice/) can help you make a well-informed decision. Invest in a reliable device to avoid encountering the same problem again.
 
 ## Fix the Jumpy Scroll Wheel and Enjoy Gaming
 
@@ -140,3 +132,26 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/examining-the-validity-of-discords-offline-label/"><u>Examining the Validity of Discord’s 'Offline' Label</u></a></li>
+<li><a href="https://games-able.techidaily.com/share-your-games-seamlessly-on-ps5/"><u>Share Your Games Seamlessly on PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-using-steam-deck-for-pc-gaming-broadcasts/"><u>Step-By-Step: Using Steam Deck for PC Gaming Broadcasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-audio-enhancements-for-switch-gaming/"><u>Optimal Audio Enhancements for Switch Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/five-innovative-text-riddles-for-group-fun-time/"><u>Five Innovative Text Riddles for Group Fun Time</u></a></li>
+<li><a href="https://games-able.techidaily.com/creating-innocuous-steam-fun-for-kids-and-parents/"><u>Creating Innocuous Steam Fun for Kids and Parents</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-epitome-of-gaming-power-razers-low-latency-v3-pro/"><u>The Epitome of Gaming Power: Razer's Low Latency V3 Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/sagittariuss-satisfaction-comfortable-gaming-support/"><u>Sagittarius’s Satisfaction: Comfortable Gaming Support</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminate-graphics-stalls-error-0x887a0006-in-win10win11/"><u>Eliminate Graphics Stalls (Error 0X887A0006) in Win10/Win11</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-premium-fb-video-tools-optimized-for-firefox-users/"><u>2024 Approved  Premium FB Video Tools - Optimized For FireFox Users</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-big-heads-on-tiktok-techniques-for-striking-visual-impact-3-approaches/"><u>In 2024, Big Heads on TikTok  Techniques for Striking Visual Impact (3 Approaches)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-obs-studio-screen-capture-an-in-depth-analysis/"><u>[Updated] 2024 Approved  OBS Studio Screen Capture  An In-Depth Analysis</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-restored-full-screen-happy-obs-users-for-2024/"><u>[New] Restored Full Screen, Happy OBS Users for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/aesthetic-assemblies-engaging-collages-for-all-ages-for-2024/"><u>Aesthetic Assemblies  Engaging Collages for All Ages for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-oppo-a56s-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Oppo A56s 5G Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/mac-movie-magic-how-to-bring-your-vision-to-life-for-2024/"><u>Mac Movie Magic How to Bring Your Vision to Life for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-top-10-free-ai-voice-generators-to-use-in-daily-life/"><u>New In 2024, Top 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-swift-transfer-tweets-as-vids-on-whatsapp-platform/"><u>[Updated] 2024 Approved  Swift Transfer  Tweets as Vids on WhatsApp Platform</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premium-choices-the-very-best-tripods-for-high-definition-shooting/"><u>2024 Approved  Premium Choices  The Very Best Tripods for High Definition Shooting</u></a></li>
+</ul></div>

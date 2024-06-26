@@ -1,7 +1,7 @@
 ---
 title: The Significance of Mechanical Over Wired for PC Gaming
-date: 2024-06-25T10:50:36.594Z
-updated: 2024-06-26T10:50:36.594Z
+date: 2024-06-25T12:48:41.936Z
+updated: 2024-06-26T12:48:41.936Z
 tags:
   - games
 categories:
@@ -32,9 +32,7 @@ thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad62
 
  Since we’re talking about gaming, we’re mainly going to focus on gaming mechanical keyboards since they offer many features that normal mechanical keyboards don’t offer. Of course, we’ll also state the benefits of using any mechanical keyboard for gaming.
 
-### Lighter Actuation Force
-
-![Pushing down stem of mechanical switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/pushing-down-stem-of-mechanical-switch.jpg)
+### Lighter Actuation Force ![Pushing down stem of mechanical switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/pushing-down-stem-of-mechanical-switch.jpg)
 
 Jhet Borja/MakeUseOf
 
@@ -42,9 +40,7 @@ Jhet Borja/MakeUseOf
 
  Rubber dome keyboards also require you to press the key all the way down in order to register a click and add to that the squishy feeling that makes you want to press the keyboard harder to feel some sort of tactile feedback. Mechanical keyboards, on the other hand, have the actuation somewhere in the middle, making bottoming out less of a necessity.
 
-### Mechanical Keyboards Have Better Tactile Feedback
-
-![hands holding mouse and keyboard-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/05/hands-holding-mouse-and-keyboard-1.JPG)
+### Mechanical Keyboards Have Better Tactile Feedback ![hands holding mouse and keyboard-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/05/hands-holding-mouse-and-keyboard-1.JPG)
 
 Jhet Borja/MakeUseOf
 
@@ -54,21 +50,17 @@ Jhet Borja/MakeUseOf
 
  When you’re gaming intensely, this tactile feedback is precious. It lets you know that you’ve done the action without second-guessing yourself. If you’re not constantly worried about whether you’ve successfully pressed a key on your keyboard or not, you’re left with more mental capacity to worry about what you need to do in the game.
 
-### Gaming Mechanical Keyboards Have Many Functions and Features
-
-![Wooting 60HE rapid trigger and actuation point settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/wooting-60he-rapid-trigger-and-actuation-point-settings.png)
+### Gaming Mechanical Keyboards Have Many Functions and Features ![Wooting 60HE rapid trigger and actuation point settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/wooting-60he-rapid-trigger-and-actuation-point-settings.png)
 
  Gaming mechanical keyboards have come a long way since they were first popularized in the early 2010s. Gaming brands have come up with many new features that bring gaming to a different level.
 
- You have the commonly found features such as[N-key rollover](https://www.makeuseof.com/what-is-n-key-rollover-mechanical-keyboards/) (allowing you to press multiple keys at once), customizable macro keys, low-latency wireless, and active lighting features.
+ You have the commonly found features such as [N-key rollover](https://www.makeuseof.com/what-is-n-key-rollover-mechanical-keyboards/) (allowing you to press multiple keys at once), customizable macro keys, low-latency wireless, and active lighting features.
 
  However, there are unique features like on the Wooting HE, equipped with hall-effect sensors that allow you to have analog inputs instead of just the typical on-off switch that most keyboards have. If you don’t want to use it in analog mode, you can also customize the actuation distance, allowing for instant actuation if millisecond precision is a concern.
 
  Most gaming mechanical keyboards also feature dedicated macro buttons—easily accessible buttons that you can assign any action. Arma, for example, has so many keybinds that you’ll often have to either move your hand from one side of the keyboard to the other, or move your other hand from your mouse to your keyboard. Macros and layers would allow you to bring those keys and functions to just one side, saving you time.
 
-### Mechanical Keyboards Are Highly Customizable
-
-![Switch lubing tools and keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/switch-lubing-tools-and-keyboard.JPG)
+### Mechanical Keyboards Are Highly Customizable ![Switch lubing tools and keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/switch-lubing-tools-and-keyboard.JPG)
 
 Jhet Borja/MakeUseOf
 
@@ -76,15 +68,13 @@ Jhet Borja/MakeUseOf
 
  As gaming is practically a sport, having equipment that you can customize to fit your gaming style is pretty important. Talking more specifically about gaming-oriented customization, you can get rubberized or textured keys to remember where certain keys are on your keyboard.
 
- You can choose between[clicky, tactile, or linear switches](https://www.makeuseof.com/linear-vs-tactile-vs-clicky-switches-whats-the-difference/) , or even switches with different actuation points. There are so many different directions that you can go with a mechanical keyboard that you might want to check out our[ultimate beginner’s guide to mechanical keyboards](https://www.makeuseof.com/beginner-custom-mechanical-keyboard-guide/) .
+ You can choose between [clicky, tactile, or linear switches](https://www.makeuseof.com/linear-vs-tactile-vs-clicky-switches-whats-the-difference/) , or even switches with different actuation points. There are so many different directions that you can go with a mechanical keyboard that you might want to check out our [ultimate beginner’s guide to mechanical keyboards](https://www.makeuseof.com/beginner-custom-mechanical-keyboard-guide/) .
 
 ## Drawbacks of Mechanical Keyboards for Gaming
 
  There aren’t many drawbacks to mechanical keyboards since they do everything regular keyboards do but better. However, that doesn’t mean there aren’t any. If you’re using a non-mechanical keyboard right now, you should take these into consideration and see whether it’s worth switching to a mechanical keyboard.
 
-### Mechanical Keyboards Are Heavier
-
-![Keychon Q1 side profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/05/keychon-q1-side-profile.JPG)
+### Mechanical Keyboards Are Heavier ![Keychon Q1 side profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/05/keychon-q1-side-profile.JPG)
 
 Jhet Borja/MakeUseOf
 
@@ -94,9 +84,7 @@ Jhet Borja/MakeUseOf
 
  However, the customizable nature of mechanical keyboards means that if you really did want a lightweight, ultra-portable keyboard, you can definitely build one yourself.
 
-### Mechanical Keyboards Cost More
-
-![gateron yellow switches beside keyboard and wrist rest](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gateron-yellow-switches-beside-keyboard-and-wrist-rest-1.JPG)
+### Mechanical Keyboards Cost More ![gateron yellow switches beside keyboard and wrist rest](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gateron-yellow-switches-beside-keyboard-and-wrist-rest-1.JPG)
 
 Jhet Borja/MakeUseOf
 

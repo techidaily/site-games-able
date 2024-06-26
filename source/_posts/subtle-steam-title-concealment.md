@@ -1,7 +1,7 @@
 ---
 title: Subtle Steam Title Concealment
-date: 2024-06-23 22:40:24
-updated: 2024-06-24 10:19:53
+date: 2024-06-25T13:03:17.476Z
+updated: 2024-06-26T13:03:17.476Z
 tags:
   - games
 categories:
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/4af354c0c4f31e85da7815990d834961f2e7342ec
 
 ## Steam Now Lets You Set Games as Private
 
- Steam announced on the[Steam News Hub](https://store.steampowered.com/news/collection/steam/?emclan=103582791457287600&emgid=4149575031731807335) that the Private Apps feature is now out of beta, meaning that as soon as you log into Steam again, you should have access to it. But what does setting a game as private on Steam do?
+ Steam announced on the [Steam News Hub](https://store.steampowered.com/news/collection/steam/?emclan=103582791457287600&emgid=4149575031731807335) that the Private Apps feature is now out of beta, meaning that as soon as you log into Steam again, you should have access to it. But what does setting a game as private on Steam do?
 
  According to Steam, games marked as private will only be visible to you. In the past, the only way to keep friends from seeing the games you play was to mark your entire library as private (which was overkill if you only wanted to hide a few titles).
 
@@ -68,11 +68,11 @@ thumbnail: https://thmb.techidaily.com/4af354c0c4f31e85da7815990d834961f2e7342ec
 
  You can also head to your library to remove a game from your private items. Right-click on the title and then select**Manage > Unmark as Private** .
 
- You should also keep in mind that if you[enabled a custom playing status on Discord](https://www.makeuseof.com/set-custom-playing-status-discord/) , a private Steam game will still show up on Discord while you're playing it.
+ You should also keep in mind that if you [enabled a custom playing status on Discord](https://www.makeuseof.com/set-custom-playing-status-discord/) , a private Steam game will still show up on Discord while you're playing it.
 
 ## Don't Mix Up Private Games and Hidden Games on Steam
 
- When you right-clicked on a title in your library, you might have noticed an existing option to**Hide this game** . This, however, is a separate feature that simply hides a game from your own library menu—it remains visible if friends search through your games list. This means that the feature is essentially an organization feature to[get rid of games on your Steam account](https://www.makeuseof.com/tag/how-to-finally-get-rid-of-games-from-your-steam-account/) rather than a privacy feature.
+ When you right-clicked on a title in your library, you might have noticed an existing option to**Hide this game** . This, however, is a separate feature that simply hides a game from your own library menu—it remains visible if friends search through your games list. This means that the feature is essentially an organization feature to [get rid of games on your Steam account](https://www.makeuseof.com/tag/how-to-finally-get-rid-of-games-from-your-steam-account/) rather than a privacy feature.
 
  If you've been using the wrong feature to try making your games private, you can find all your hidden games in your library. If you remember the name of the specific title, you can search for it and it will show up under a hidden tab.
 
@@ -99,3 +99,27 @@ thumbnail: https://thmb.techidaily.com/4af354c0c4f31e85da7815990d834961f2e7342ec
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/maximize-opera-capabilities-unlocking-free-discord-time/"><u>Maximize Opera Capabilities - Unlocking Free Discord Time</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-pokemons-universe-on-your-ios-device-today/"><u>Explore Pokémon's Universe on Your iOS Device Today</u></a></li>
+<li><a href="https://games-able.techidaily.com/all-inclusive-guide-to-choosing-top-1440p-monitors-without-breaking-the-bank/"><u>All-Inclusive Guide to Choosing Top 1440P Monitors Without Breaking the Bank</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-device-connectivity-steam-deck-and-pc-via-barrier-method/"><u>Streamline Device Connectivity: Steam Deck & PC via Barrier Method</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidia-vs-intel-the-quest-for-the-top-gamers-cpu/"><u>Nvidia Vs. Intel: The Quest for the Top Gamer's CPU</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-superior-hdi-display-mouse-lineup/"><u>Next-Gen, Superior HDI Display Mouse Lineup</u></a></li>
+<li><a href="https://games-able.techidaily.com/reminiscing-the-past-playing-xbox-games-in-modern-times-pc/"><u>Reminiscing the Past: Playing Xbox Games in Modern Times (PC)</u></a></li>
+<li><a href="https://games-able.techidaily.com/audio-devices-the-game-changer-for-gamers/"><u>Audio Devices: The Game-Changer for Gamers?</u></a></li>
+<li><a href="https://games-able.techidaily.com/ifa-unveils-thinner-tech-trends-with-tecnos-new-models/"><u>IFA Unveils Thinner Tech Trends with Tecno's New Models</u></a></li>
+<li><a href="https://games-able.techidaily.com/apc-handheld-reinvented-the-pdw4-story/"><u>APC Handheld Reinvented: The PDW4 Story</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/step-by-step-guide-to-time-stamping-for-higher-youtube-rankings/"><u>Step-by-Step Guide to Time Stamping for Higher YouTube Rankings</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-xiaomi-redmi-k70-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Xiaomi Redmi K70</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-unleash-premium-zoom-audio-quality-with-simple-adjustments/"><u>[New] In 2024, Unleash Premium Zoom Audio Quality with Simple Adjustments</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>Set Your Preferred Job Location on LinkedIn App of your Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-25-ways-to-spice-up-your-personal-screenshot/"><u>2024 Approved  25 Ways to Spice Up Your Personal Screenshot</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-from-amateurs-to-experts-a-complete-guide-to-instagram-covers/"><u>[New] 2024 Approved  From Amateurs to Experts  A Complete Guide to Instagram Covers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/auditory-anchors-exploring-the-art-of-sound-blending/"><u>Auditory Anchors  Exploring the Art of Sound Blending</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Motorola G54 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-optimizing-virtual-engagements-with-these-top-10-essential-apps-for-2024/"><u>[Updated] Optimizing Virtual Engagements with These Top 10 Essential Apps for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-list-of-leading-real-time-tv-streamers-compared/"><u>2024 Approved  Ultimate List of Leading Real-Time TV Streamers Compared</u></a></li>
+</ul></div>

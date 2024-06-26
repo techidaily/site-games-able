@@ -1,7 +1,7 @@
 ---
 title: PS5's Compatibility with Legacy PlayStation Systems?
-date: 2024-06-21 13:50:47
-updated: 2024-06-24 11:29:46
+date: 2024-06-25T13:08:42.219Z
+updated: 2024-06-26T13:08:42.219Z
 tags:
   - games
 categories:
@@ -20,17 +20,17 @@ thumbnail: https://thmb.techidaily.com/573a01f636332d7e5c995b169e7da5e56cb9c949c
 
 ## The PS5 Controller and PS4 Console Are Not Compatible
 
- Sony made it clear in a[PlayStation Blog post](https://blog.playstation.com/2020/11/09/ps5-the-ultimate-faq/#dualsens) that the DualSense controller will not work on PS4 consoles, as the two devices aren't compatible when connected directly. The console manufacturer has not provided a reason why this is the case, but it's a bit strange considering that the[PS4 controller is forward-compatible with the PS5](https://www.makeuseof.com/use-ps4-controllers-on-playstation-5/) and backward-compatible with the PS3.
+ Sony made it clear in a [PlayStation Blog post](https://blog.playstation.com/2020/11/09/ps5-the-ultimate-faq/#dualsens) that the DualSense controller will not work on PS4 consoles, as the two devices aren't compatible when connected directly. The console manufacturer has not provided a reason why this is the case, but it's a bit strange considering that the [PS4 controller is forward-compatible with the PS5](https://www.makeuseof.com/use-ps4-controllers-on-playstation-5/) and backward-compatible with the PS3.
 
  However, if all you have is a PS4 console and DualSense controller (no PS4 controller to play with), you can indirectly connect these incompatible devices with the help of two middlemen: PS Remote Play or the Titan Two adapter.
 
 ## How Do PS5 Controllers Work on PS4 Using Remote Play on PC?
 
- Provided you’ve enabled Remote Play on your PS4 console, you can play via PC or Mac using the PS Remote Play app. When using Remote Play this way, you can[connect your DualSense Controller to your PC](https://www.makeuseof.com/how-to-use-ps5-controller-on-pc/) , and then use your PS5 controller on your PS4.
+ Provided you’ve enabled Remote Play on your PS4 console, you can play via PC or Mac using the PS Remote Play app. When using Remote Play this way, you can [connect your DualSense Controller to your PC](https://www.makeuseof.com/how-to-use-ps5-controller-on-pc/) , and then use your PS5 controller on your PS4.
 
 Here’s how to do that:
 
-1. Download the[PS Remote Play app](https://www.playstation.com/en-us/remote-play/) for PC and Mac onto your computer and install it.  
+1. Download the [PS Remote Play app](https://www.playstation.com/en-us/remote-play/) for PC and Mac onto your computer and install it.  
 ![ps remote play download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/ps-remote-play-app-download.jpg)
 2. Turn on your PS4, make sure it connects to the internet, and that it’s logged in to your PlayStation Network account.
 3. Open the Remote Play app on your PC or Mac, click the**Sign In to PSN** button, and follow the instructions to log in to your PSN account.  
@@ -44,7 +44,7 @@ Here’s how to do that:
 
 ## How Do PS5 Controllers Work on PS4 Using Remote Play on Mobile?
 
- If you don't have a computer, you can also download the Remote Play app on the[App Store](https://apps.apple.com/us/app/ps-remote-play/id1436192460) or on[Google Play](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2012734/https://play.google.com/store/apps/details?id=com.playstation.remoteplay&cjevent=b7556139646111ee834a011c0a18b8f6) and use that instead. First, you need to[put the PS5 controller in pairing mode](https://www.makeuseof.com/how-to-ps5-dualsense-controller-pairing-mode/) and pair it with your mobile device through Bluetooth. You'll know you've paired the controller with your mobile device when its light remains lit after selecting the controller in the Bluetooth settings.
+ If you don't have a computer, you can also download the Remote Play app on the [App Store](https://apps.apple.com/us/app/ps-remote-play/id1436192460) or on [Google Play](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2012734/https://play.google.com/store/apps/details?id=com.playstation.remoteplay&cjevent=b7556139646111ee834a011c0a18b8f6) and use that instead. First, you need to [put the PS5 controller in pairing mode](https://www.makeuseof.com/how-to-ps5-dualsense-controller-pairing-mode/) and pair it with your mobile device through Bluetooth. You'll know you've paired the controller with your mobile device when its light remains lit after selecting the controller in the Bluetooth settings.
 
  As with PC, make sure you've connected the PS4 to the internet, and that you've signed in to your PSN account. Also, you'll need to connect your phone to Wi-Fi (mobile data will not work with the Remote Play app). Then, open the Remote Play app on your Android or iOS device and follow the steps below:
 
@@ -59,7 +59,7 @@ Close
 
 ## How Do PS5 Controllers Work on PS4 Using the Titan Two Adapter?
 
- Remote Play works just fine if you have a device that supports it, but if you don't have one or don't want to deal with possible input lag from streaming, there's one more middleman you can try: Titan Two by[ConsoleTuner](https://www.consoletuner.com/products/titan-two/) .
+ Remote Play works just fine if you have a device that supports it, but if you don't have one or don't want to deal with possible input lag from streaming, there's one more middleman you can try: Titan Two by [ConsoleTuner](https://www.consoletuner.com/products/titan-two/) .
 
  Once you purchase the Titan Two, all you have to do is plug it into your PS4 console and then plug in your DualSense into the adapter using a USB-C cable.
 
@@ -86,3 +86,26 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/4-common-gpu-problems-and-how-to-troubleshoot-them/"><u>4 Common GPU Problems and How to Troubleshoot Them</u></a></li>
+<li><a href="https://games-able.techidaily.com/sneaking-nintendo-into-the-steam-ecosystem/"><u>Sneaking Nintendo Into the Steam Ecosystem</u></a></li>
+<li><a href="https://games-able.techidaily.com/flashs-legacy-continues-how-to-keep-playing-post-adobe/"><u>Flash's Legacy Continues: How to Keep Playing Post-Adobe</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-steam-deck-performance-installing-gaming-launchers/"><u>Enhance Steam Deck Performance: Installing Gaming Launchers</u></a></li>
+<li><a href="https://games-able.techidaily.com/tackling-ps5-signal-dropouts-effectively/"><u>Tackling PS5 Signal Dropouts Effectively</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-gaming-device-razers-hot-swappable-keyboard/"><u>The Ultimate Gaming Device: Razer's Hot-Swappable Keyboard</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-the-nintendo-switch-online-upgrade/"><u>Evaluating the Nintendo Switch Online Upgrade</u></a></li>
+<li><a href="https://games-able.techidaily.com/fleeting-online-realms-a-reason-for-concern/"><u>Fleeting Online Realms – A Reason for Concern?</u></a></li>
+<li><a href="https://games-able.techidaily.com/end-of-shortage-era-how-will-ps5-retailers-adjust/"><u>End of Shortage Era: How Will PS5 Retailers Adjust?</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-seamless-synergy-merging-soundtracks-with-visual-narratives-in-modern-cinema/"><u>Updated 2024 Approved Seamless Synergy Merging Soundtracks with Visual Narratives in Modern Cinema</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-audio-conversion-made-easy-8-top-software-picks/"><u>Updated In 2024, Audio Conversion Made Easy 8 Top Software Picks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-ig-management-made-simple-the-best-tools-reviewed-for-2024/"><u>[New] IG Management Made Simple  The Best Tools Reviewed for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-discover-7-essential-free-audio-tracks-for-youtubers/"><u>2024 Approved  Discover 7 Essential Free Audio Tracks for YouTubers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-capturing-moments-with-the-best-5-photo-and-video-apps-for-iphonesandroid-for-2024/"><u>[New] Capturing Moments with the Best 5 Photo & Video Apps for iPhones/Android for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-awesome-mac-mkv-decode-options/"><u>[Updated] Awesome Mac MKV Decode Options</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-lava-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Lava Phones with/without a PC</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unpack-the-basics-a-straightforward-roadmap-to-start-your-reviews-channel/"><u>Unpack the Basics  A Straightforward Roadmap to Start Your Reviews Channel</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-the-essentials-of-creating-a-personalized-twitter-account/"><u>[Updated] In 2024, The Essentials of Creating a Personalized Twitter Account</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-3-ways-to-convert-a-podcast-to-mp3/"><u>In 2024, 3 Ways to Convert a Podcast to MP3</u></a></li>
+</ul></div>

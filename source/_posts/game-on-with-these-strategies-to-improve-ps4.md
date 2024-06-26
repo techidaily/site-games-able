@@ -1,7 +1,7 @@
 ---
 title: Game On with These Strategies to Improve PS4
-date: 2024-06-25T10:50:09.597Z
-updated: 2024-06-26T10:50:09.597Z
+date: 2024-06-25T12:48:41.656Z
+updated: 2024-06-26T12:48:41.656Z
 tags:
   - games
 categories:
@@ -36,15 +36,13 @@ thumbnail: https://thmb.techidaily.com/4552dd09d3248cdc2d2f0b5a8866485e28d07f676
 
  Ideally, you should keep a minimum of 50GB free. Though to keep your PS4 running well, it's better to have something like 100GB free if you can manage it.
 
- Take a look at[how to add an external drive to your PS4](https://www.makeuseof.com/set-up-use-external-storage-ps4/) if you need a lot more space. With this, you can move some games to the secondary storage location and keep enough space free on your system disk for it to run smoothly.
+ Take a look at [how to add an external drive to your PS4](https://www.makeuseof.com/set-up-use-external-storage-ps4/) if you need a lot more space. With this, you can move some games to the secondary storage location and keep enough space free on your system disk for it to run smoothly.
 
-## 2\. Physically Clean Your PlayStation 4
-
-![PS4 Cleaning with Air](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/05/07-PS4-Cleaning-with-Air.jpg)
+## 2\. Physically Clean Your PlayStation 4 ![PS4 Cleaning with Air](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/05/07-PS4-Cleaning-with-Air.jpg)
 
  If you've had your PS4 for some time, chances are that dust and other grime have built up inside. This can deteriorate performance if left unchecked—with more heat trapped in the system from the debris, the system fans have to work harder, decreasing overall efficiency.
 
- Follow[our guide to cleaning your dirty PS4](https://www.makeuseof.com/tag/clean-dust-playstation-4/) to remove dust from its internals. Hopefully, this will help your system work at a cooler temperature and thus run games a bit more smoothly.
+ Follow [our guide to cleaning your dirty PS4](https://www.makeuseof.com/tag/clean-dust-playstation-4/) to remove dust from its internals. Hopefully, this will help your system work at a cooler temperature and thus run games a bit more smoothly.
 
  While you're thinking about this topic, be sure that you have your PS4 in a healthy position, too. Don't keep it in an enclosed space that traps heat, and be sure you aren't blocking the vents by putting the console right next to another surface or object.
 
@@ -64,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/4552dd09d3248cdc2d2f0b5a8866485e28d07f676
 
 ## 4\. Enable Boost Mode (PS4 Pro)
 
- If you have a PS4 Pro, there's a setting called Boost Mode that you should definitely enable for a smoother PS4 experience. This can increase[the frame rate (also known as FPS)](https://www.makeuseof.com/video-games-fps-meaning/) and graphical fidelity of games on the system, even if they weren't specifically designed to take advantage of the PS4 Pro's superior hardware.
+ If you have a PS4 Pro, there's a setting called Boost Mode that you should definitely enable for a smoother PS4 experience. This can increase [the frame rate (also known as FPS)](https://www.makeuseof.com/video-games-fps-meaning/) and graphical fidelity of games on the system, even if they weren't specifically designed to take advantage of the PS4 Pro's superior hardware.
 
  For instance, it might bump a game up from 30FPS to 60FPS, speed up load times, or reduce graphical pop-in. The effect varies from title to title—not all games support it, but many will work better with it enabled.
 
@@ -82,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/4552dd09d3248cdc2d2f0b5a8866485e28d07f676
 
 ## 6\. Upgrade to an SSD or Faster HDD
 
- The PS4's stock 5400RPM hard drive isn't particularly fast, so it takes a while to load games. As a result, you might consider[upgrading your internal PS4 drive](https://www.makeuseof.com/tag/upgrade-ps4s-hard-drive/) to a 7200RPM disk, hybrid drive, or even an SSD.
+ The PS4's stock 5400RPM hard drive isn't particularly fast, so it takes a while to load games. As a result, you might consider [upgrading your internal PS4 drive](https://www.makeuseof.com/tag/upgrade-ps4s-hard-drive/) to a 7200RPM disk, hybrid drive, or even an SSD.
 
  While this will result in some loading time benefits, it won't make a world of difference otherwise. Games will load more quickly, but it won't improve graphical performance or other aspects of gameplay.
 
@@ -90,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/4552dd09d3248cdc2d2f0b5a8866485e28d07f676
 
  This is especially true for the original PS4 and PS4 Slim. Both of these use a SATA II connection for their hard disk, which is not capable of throughputs as high as the newer SATA III connection on the PS4 Pro. So while you'll see some benefits of using an SSD on older PS4 models, it won't be night and day.
 
- SSDs are also more expensive, so in most cases, you're better off putting the money towards a larger hard drive to hold more games. Given the PS4's age, we'd recommend saving the money and[upgrading to a PlayStation 5](https://www.makeuseof.com/ps4-vs-ps5-worth-upgrading/) , which has an SSD built into the system.
+ SSDs are also more expensive, so in most cases, you're better off putting the money towards a larger hard drive to hold more games. Given the PS4's age, we'd recommend saving the money and [upgrading to a PlayStation 5](https://www.makeuseof.com/ps4-vs-ps5-worth-upgrading/) , which has an SSD built into the system.
 
 ## 7\. Check Individual Game Settings
 
@@ -102,7 +100,7 @@ thumbnail: https://thmb.techidaily.com/4552dd09d3248cdc2d2f0b5a8866485e28d07f676
 
 ## 8\. Improve Your PS4 Network Performance
 
- We've mostly focused on graphical performance and PS4 speed here. But if it seems like playing online games on your PlayStation 4 isn't working as it should, you may need to[fix network issues on your PS4](https://www.makeuseof.com/tag/fix-playstation-4-wifi-issues/) .
+ We've mostly focused on graphical performance and PS4 speed here. But if it seems like playing online games on your PlayStation 4 isn't working as it should, you may need to [fix network issues on your PS4](https://www.makeuseof.com/tag/fix-playstation-4-wifi-issues/) .
 
  Running through those fixes will help if you're getting disconnected from online games or don't experience stable gameplay online.
 

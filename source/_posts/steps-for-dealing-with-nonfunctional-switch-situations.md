@@ -1,7 +1,7 @@
 ---
 title: Steps for Dealing with Nonfunctional Switch Situations
-date: 2024-06-22 21:56:57
-updated: 2024-06-24 11:53:57
+date: 2024-06-25T13:12:25.779Z
+updated: 2024-06-26T13:12:25.779Z
 tags:
   - games
 categories:
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/0ee1225be77fa4613effbd7e0a5133a0aefce9943
 
  Luckily, if you have the serial number of your Switch on hand, the process of checking the warranty status of your console is simple. To check the warranty status of your Switch, follow these steps:
 
-* Enter the official Nintendo Repair Center page on any browser by following this link to[Nintendo](https://repair.nintendo.com/cc/ntndcpWarrantyStatus.html?lang=en) .
+* Enter the official Nintendo Repair Center page on any browser by following this link to [Nintendo](https://repair.nintendo.com/cc/ntndcpWarrantyStatus.html?lang=en) .
 * Under**Check Warranty Status** , enter the serial number of your Nintendo Switch.
 * Select**Check Warranty** .
 
@@ -54,13 +54,13 @@ thumbnail: https://thmb.techidaily.com/0ee1225be77fa4613effbd7e0a5133a0aefce9943
 
  Unfortunately, if your console is out of warranty, you will have to pay for the repair of your console. Similarly, screen damage voids the warranty of your Switch, and screen repairs are not covered under the warranty.
 
- However, it may be worth checking some[common fixes for Nintendo Switch problems](https://www.makeuseof.com/fix-nintendo-switch-problems/) before booking a repair. This way, you may avoid any repair fees if your console is out of warranty.
+ However, it may be worth checking some [common fixes for Nintendo Switch problems](https://www.makeuseof.com/fix-nintendo-switch-problems/) before booking a repair. This way, you may avoid any repair fees if your console is out of warranty.
 
 ## How to Book Your Nintendo Switch In for a Repair
 
  If you have decided to go ahead with repairing your Nintendo Switch officially, with or without the free price tag that comes with the warranty of your Nintendo Switch, there are a few requirements you'll need to go through beforehand.
 
- Just as if you were[booking a repair for your Joy-Con](https://www.makeuseof.com/how-to-send-joy-cons-off-for-free-repair/) , or any other aspect of your Switch, the repair process requires you to access the Nintendo Repair Center via the[official Nintendo website](https://repair.nintendo.com/cc/cpSignIn.html?) . From here, you can start your repair process by following these steps:
+ Just as if you were [booking a repair for your Joy-Con](https://www.makeuseof.com/how-to-send-joy-cons-off-for-free-repair/) , or any other aspect of your Switch, the repair process requires you to access the Nintendo Repair Center via the [official Nintendo website](https://repair.nintendo.com/cc/cpSignIn.html?) . From here, you can start your repair process by following these steps:
 
 * Select**Start Troubleshooting** .
 
@@ -109,3 +109,24 @@ thumbnail: https://thmb.techidaily.com/0ee1225be77fa4613effbd7e0a5133a0aefce9943
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/pros-and-cons-of-each-steam-deck-model/"><u>Pros and Cons of Each Steam Deck Model</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-mobile-mmo-titles-your-gameplay-guide/"><u>Essential Mobile MMO Titles: Your Gameplay Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/winning-over-widescreen-woes-in-steam/"><u>Winning Over Widescreen Woes in Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-responsiveness-at-an-attractive-price-point-for-games/"><u>High Responsiveness at an Attractive Price Point for Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-remote-play-windows-connection-problems-guide/"><u>Steam Remote Play: Windows Connection Problems Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/ea-plays-costly-hike-subscription-is-over-for-me/"><u>EA Play’s Costly Hike, Subscription Is Over for Me</u></a></li>
+<li><a href="https://games-able.techidaily.com/8-tips-to-beat-the-nyts-connections-game-every-day/"><u>8 Tips to Beat the NYT's Connections Game Every Day</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-excellence-with-nvidias-novel-gaming-app/"><u>Unlocking Excellence with Nvidia's Novel Gaming App</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-triggering-instant-play-for-youtube-videos-on-social-media-for-2024/"><u>[New] Triggering Instant Play for YouTube Videos on Social Media for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/discovering-androids-finest-multiplayer-battles-for-2024/"><u>Discovering Android's Finest Multiplayer Battles for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-complete-guide-to-setting-up-streamlabs-obs/"><u>In 2024, The Complete Guide to Setting Up Streamlabs OBS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-optimal-after-effects-scripting-solutions/"><u>In 2024, Optimal After Effects Scripting Solutions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-5-key-moves-to-double-your-channels-traffic/"><u>[New] The 5 Key Moves to Double Your Channel's Traffic</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-infinix-hot-40-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Infinix Hot 40</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-audacity-mastery-modifying-vocal-characteristics-to-suit-your-style/"><u>New 2024 Approved Audacity Mastery Modifying Vocal Characteristics to Suit Your Style</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-banishing-bulky-buffered-broadcasts-windows-android-tips-for-2024/"><u>[Updated] Banishing Bulky Buffered Broadcasts  Windows, Android Tips for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Xiaomi Redmi 13C | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: The Escape Artist's Guide to Gamers
-date: 2024-06-25T10:38:24.970Z
-updated: 2024-06-26T10:38:24.970Z
+date: 2024-06-25T12:48:34.251Z
+updated: 2024-06-26T12:48:34.251Z
 tags:
   - games
 categories:
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/cc47b698f923f727c15f0c1061cbe2a60849e3112
 
 ![Unhide Steam game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/unhide-game-steam-1.jpg)
 
- Hiding a game is an easy trick, but it might not be enough to prevent other people from finding it. In this case, you can[uninstall a Steam game and reinstall it later](https://www.makeuseof.com/how-to-uninstall-steam-games-reinstall/) .
+ Hiding a game is an easy trick, but it might not be enough to prevent other people from finding it. In this case, you can [uninstall a Steam game and reinstall it later](https://www.makeuseof.com/how-to-uninstall-steam-games-reinstall/) .
 
 ## 3\. Hide Steam Gameplay Activity
 
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/cc47b698f923f727c15f0c1061cbe2a60849e3112
 
  The**Offline** option will log you out of the Steam chat, so you’ll not receive any messages from your friends. On the other hand, if you still want to communicate with your friends, it’s better to select**Invisible** . Also, you will not receive any invitations on Steam while you’ve set your status as**Offline** or**Invisible** .
 
- Besides hiding your Steam gameplay activity, you can[customize the in-game activity status on Steam](https://www.makeuseof.com/how-to-customize-in-game-activity-status-steam/) to confuse your friends.
+ Besides hiding your Steam gameplay activity, you can [customize the in-game activity status on Steam](https://www.makeuseof.com/how-to-customize-in-game-activity-status-steam/) to confuse your friends.
 
 ## 4\. Hide Steam Gameplay Activity for Specific Friends
 
@@ -78,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/cc47b698f923f727c15f0c1061cbe2a60849e3112
 
  Alternatively, you can use Steam’s free watchable episodes to replace your recent activity. Here’s how you can do it:
 
-1. Head to[Steam](https://store.steampowered.com/) .
+1. Head to [Steam](https://store.steampowered.com/) .
 2. Search for one of Steam’s free watchables, such as**The Making of Horizon Zero Dawn** .
 3. Play one of the episodes.
 4. Once Steam opens a new window, close it as quickly as possible. This way, Steam doesn’t have a chance to load the content.

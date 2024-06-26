@@ -1,7 +1,7 @@
 ---
 title: "Subscribing to Games: PS+ Against Xbox Game Pass"
-date: 2024-06-22 16:10:40
-updated: 2024-06-23 10:17:48
+date: 2024-06-25T13:09:45.559Z
+updated: 2024-06-26T13:09:45.559Z
 tags:
   - games
 categories:
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/6152b7c969d91f2eaae0be3b9bf8b8ec86f6a4683
 
  PS Plus Premium includes everything from the lower tiers, plus the game streaming that was part of PlayStation Now (that service is now retired). Sony calls this the Classics Catalog, which features titles from the PS3 and earlier. Most of these are available to download, though you'll need to stream the PS3 games since the newer PlayStation consoles aren't compatible with the PS3's architecture. Premium also allows you to stream some other Catalog games if you'd rather not download them.
 
- See our[guide to PlayStation Plus's tiers](http://www.makeuseof.com/playstation-plus-essential-vs-extra-vs-premium/) for more info.
+ See our [guide to PlayStation Plus's tiers](http://www.makeuseof.com/playstation-plus-essential-vs-extra-vs-premium/) for more info.
 
  In some regions where game streaming is not available, such as Australia, India, New Zealand, and South Africa, the highest tier is instead called PlayStation Plus Deluxe. This has all the same benefits as Premium, aside from streaming.
 
@@ -48,9 +48,9 @@ thumbnail: https://thmb.techidaily.com/6152b7c969d91f2eaae0be3b9bf8b8ec86f6a4683
 
 [PlayStation Plus Premium also works on Windows PCs](https://www.makeuseof.com/how-to-access-and-use-ps-now-on-your-pc/) , regardless of whether you have a PlayStation console. If you play on both PC and console, you can access your saved data on both thanks to cloud storage.
 
- You'll need a PSN account and the free PS Plus PC app to get started; you can download this on[Sony's PlayStation Plus PC page](https://www.playstation.com/en-us/support/subscriptions/ps-plus-pc/) . Have a look at the bottom of this page for details on system requirements. If you play other games on your PC, you should have no problem meeting these.
+ You'll need a PSN account and the free PS Plus PC app to get started; you can download this on [Sony's PlayStation Plus PC page](https://www.playstation.com/en-us/support/subscriptions/ps-plus-pc/) . Have a look at the bottom of this page for details on system requirements. If you play other games on your PC, you should have no problem meeting these.
 
- While Sony advises that PC play requires a DualShock 4 controller, people have reported that[other PC-compatible gamepads](https://www.makeuseof.com/best-pc-controllers/) like the Xbox controller will work too. However, you won't be able to use DS4-specific functions, such as the touchpad or motion controls.
+ While Sony advises that PC play requires a DualShock 4 controller, people have reported that [other PC-compatible gamepads](https://www.makeuseof.com/best-pc-controllers/) like the Xbox controller will work too. However, you won't be able to use DS4-specific functions, such as the touchpad or motion controls.
 
  Keep in mind that you can't download PS Plus games on your PC. PS Plus Premium also does not currently support streaming PS5 titles, though Sony has done beta tests of this function.
 
@@ -58,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/6152b7c969d91f2eaae0be3b9bf8b8ec86f6a4683
 
 [Xbox Game Pass](https://www.xbox.com/en-US/xbox-game-pass/) is available for Xbox One and Xbox Series X|S. On Windows 10 and 11 PCs, it's called PC Game Pass.
 
-[Game Pass for Xbox is pretty straightforward](https://www.makeuseof.com/tag/what-is-xbox-game-pass-everything-need-know/) , especially compared to the somewhat confusing tiers of PlayStation Plus. It offers titles from every generation of Xbox. You can download as many titles as you want, as long as your system has enough room; consider[adding storage to your Xbox](https://www.makeuseof.com/xbox-series-x-s-storage/) if you need more space.
+[Game Pass for Xbox is pretty straightforward](https://www.makeuseof.com/tag/what-is-xbox-game-pass-everything-need-know/) , especially compared to the somewhat confusing tiers of PlayStation Plus. It offers titles from every generation of Xbox. You can download as many titles as you want, as long as your system has enough room; consider [adding storage to your Xbox](https://www.makeuseof.com/xbox-series-x-s-storage/) if you need more space.
 
  In addition to downloading games, you can stream many Xbox Game Pass titles to enjoy them without installing files and taking up space on your console.
 
@@ -66,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/6152b7c969d91f2eaae0be3b9bf8b8ec86f6a4683
 
  Notably, in September 2023, Microsoft retired the long-running Xbox Live Gold name and replaced it with Game Pass Core. This baseline tier of the service lets you play paid multiplayer games online, and grants you access to a small library of games that's much smaller than the main Game Pass list.
 
- See our[comparison of PS Plus Essential and Game Pass Core](https://www.makeuseof.com/tag/xbox-live-versus-playstation-plus-get/) for a full breakdown of the base plans; we'll focus on the higher tiers below.
+ See our [comparison of PS Plus Essential and Game Pass Core](https://www.makeuseof.com/tag/xbox-live-versus-playstation-plus-get/) for a full breakdown of the base plans; we'll focus on the higher tiers below.
 
 ### Xbox Game Pass for PC
 
@@ -74,13 +74,13 @@ thumbnail: https://thmb.techidaily.com/6152b7c969d91f2eaae0be3b9bf8b8ec86f6a4683
 
  The catalog of games differs depending on the platform. Some games are available on both Xbox and PC, while others only support one platform or the other. Otherwise, PC Game Pass works just like Xbox Game Pass—unlimited access to download as much as you can fit on your computer, with streaming supported as well.
 
- You'll need to download the[Xbox app for Windows](https://www.xbox.com/en-US/apps/xbox-app-for-pc) to take advantage of Game Pass on PC. Unlike PS Plus, you don't need a controller to play these games. The PC versions are built for PC, not streamed, so they control with a mouse and keyboard. This may not be the optimal method for all games, such as platformers, so many games also offer full controller support.
+ You'll need to download the [Xbox app for Windows](https://www.xbox.com/en-US/apps/xbox-app-for-pc) to take advantage of Game Pass on PC. Unlike PS Plus, you don't need a controller to play these games. The PC versions are built for PC, not streamed, so they control with a mouse and keyboard. This may not be the optimal method for all games, such as platformers, so many games also offer full controller support.
 
 ### Xbox Cloud Gaming
 
  If you have Xbox Game Pass Ultimate, you also have the option to stream much of the Game Pass catalog. This works on iPhone and iPad, Android, PC, and Xbox consoles, allowing you to choose how you want to play.
 
- See our[Xbox Cloud Gaming intro](https://www.makeuseof.com/what-is-xbox-cloud-gaming-how-does-it-work/) for details on what devices are compatible and how it works. In most cases, you'll need a controller for best results, though some games support touch controls. You'll also need a strong network connection—Microsoft recommends a 5Ghz Wi-Fi or mobile data connection that's at least 10Mbps down.
+ See our [Xbox Cloud Gaming intro](https://www.makeuseof.com/what-is-xbox-cloud-gaming-how-does-it-work/) for details on what devices are compatible and how it works. In most cases, you'll need a controller for best results, though some games support touch controls. You'll also need a strong network connection—Microsoft recommends a 5Ghz Wi-Fi or mobile data connection that's at least 10Mbps down.
 
 ## PlayStation Plus vs. Xbox Game Pass: Pricing
 
@@ -88,9 +88,7 @@ thumbnail: https://thmb.techidaily.com/6152b7c969d91f2eaae0be3b9bf8b8ec86f6a4683
 
 * **PlayStation Plus Essential:** $9.99/month, $24.99/quarter, or $79.99 per year
 * **PlayStation Plus Extra:** $14.99/month, $39.99/quarter, or $134.99 per year
-* **PlayStation Plus Premium:** $17.99/month, $49.99/quarter, or $159.99 per year
-
-![PS Plus Pricing 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ps-plus-pricing-2023.jpg)
+* **PlayStation Plus Premium:** $17.99/month, $49.99/quarter, or $159.99 per year ![PS Plus Pricing 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ps-plus-pricing-2023.jpg)
 
 For Xbox Game Pass, the pricing breaks down like this:
 
@@ -138,7 +136,7 @@ A few of the top titles on offer at the time of writing include:
 
  If you opt for PS Plus Premium, you'll also have access to the Classics Catalog. This contains an additional \~400 games from the PS1, PS2, PS3, and PSP systems. The PS3 is the most heavily represented here.
 
- See the[full list of PS Plus games](https://www.playstation.com/en-us/ps-plus/games/) to browse everything on offer.
+ See the [full list of PS Plus games](https://www.playstation.com/en-us/ps-plus/games/) to browse everything on offer.
 
  Though PS Plus offers more games than Xbox Game Pass, it's missing a lot of killer titles. Notably, brand-new PS5 exclusives do not come to PS Plus on day one, so major releases like The Last of Us Part I remake still require a separate purchase, even for subscribers.
 
@@ -159,7 +157,7 @@ Some highlight titles include:
 * Minecraft
 * Sea of Thieves
 
- See the[full list of Xbox Game Pass titles](https://www.xbox.com/en-US/xbox-game-pass/games) for more.
+ See the [full list of Xbox Game Pass titles](https://www.xbox.com/en-US/xbox-game-pass/games) for more.
 
  You'll notice that Xbox Game Pass has more recent high-profile games than PS Plus; this is because all Xbox Game Studios titles come to Game Pass on the day of their release. This is the case with, for instance, Grounded and Halo Infinite.
 
@@ -188,3 +186,26 @@ Some highlight titles include:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/the-genesis-of-foddian-entertainment/"><u>The Genesis of Foddian Entertainment</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-tech-debate-is-oled-superior-to-amoled-or-ips/"><u>Top Tech Debate: Is OLED Superior to AMOLED or IPS?</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-experience-google-play-games-on-pc/"><u>How to Experience Google Play Games on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/finding-the-perfect-pc-mix-for-top-tier-games/"><u>Finding the Perfect PC Mix for Top-Tier Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-delights-perfect-puzzles-for-festive-times/"><u>Steam Delights: Perfect Puzzles for Festive Times</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-neighborhoods-titans-territories/"><u>Prime Neighborhoods: Titans’ Territories</u></a></li>
+<li><a href="https://games-able.techidaily.com/switching-up-your-game-with-optical-flair/"><u>Switching Up Your Game with Optical Flair</u></a></li>
+<li><a href="https://games-able.techidaily.com/creative-game-writing-with-chatgpt/"><u>Creative Game Writing with ChatGPT</u></a></li>
+<li><a href="https://games-able.techidaily.com/reviving-the-game-handy-hints-to-fix-xbox-d-pads/"><u>Reviving the Game: Handy Hints to Fix Xbox D-Pads</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/prime-9-options-to-capture-high-quality-audio-remotely-23-for-2024/"><u>Prime 9 Options to Capture High-Quality Audio Remotely ('23) for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-capturing-the-sonic-imprint-of-pressing-a-buttons/"><u>2024 Approved Capturing the Sonic Imprint of Pressing a Buttons</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-top-rated-free-video-to-audio-converters-on-demand-edition-for-2024/"><u>Updated Top-Rated Free Video-to-Audio Converters On-Demand Edition for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-unlocking-cash-on-the-snapchat-grid/"><u>2024 Approved  Unlocking Cash on the Snapchat Grid</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-breakdown-of-12-youtubes-best-in-class-gaming-openings-for-2024/"><u>The Ultimate Breakdown of 12 YouTube's Best-in-Class Gaming Openings for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-easeus-recexperts-review/"><u>[New] In 2024, EaseUS RecExperts Review</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-cutting-edge-avi-video-cutters-top-picks-for-windows-mac-android-iphone-and-online-use/"><u>New 2024 Approved Cutting-Edge AVI Video Cutters Top Picks for Windows, MAC, Android, iPhone, and Online Use</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-which-is-superior-for-screen-recording-obs-studio-or-fraps/"><u>2024 Approved  Which Is Superior for Screen Recording – OBS Studio or Fraps?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-essential-fbx-techniques-for-capturing-games/"><u>[Updated] Essential FBX Techniques for Capturing Games</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-storytelling-with-style-making-instagram-text-dance/"><u>[New] Storytelling with Style  Making Instagram Text Dance</u></a></li>
+</ul></div>

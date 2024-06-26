@@ -1,7 +1,7 @@
 ---
 title: Nvidia's RTX 4070 Super - Apex Vs. Titan X Vs. 4080 Super
-date: 2024-06-21 22:45:58
-updated: 2024-06-24 11:34:24
+date: 2024-06-25T13:30:17.573Z
+updated: 2024-06-26T13:30:17.573Z
 tags:
   - games
 categories:
@@ -67,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/9ed4d2a342c503dc1182b48b6f97e1914eb836100
 
 ### Price to Performance
 
- The[RTX 4080 launched in 2022](https://www.makeuseof.com/nvidia-rtx-4080-reasons-upgrade/) , priced around $1,199—the highest figure ever for one of Nvidia's "80" tier cards. Even allowing for inflation between the launch of the RTX 3080 in 2020 (around $699), the sky-high pricing put many would-be buyers off.
+ The [RTX 4080 launched in 2022](https://www.makeuseof.com/nvidia-rtx-4080-reasons-upgrade/) , priced around $1,199—the highest figure ever for one of Nvidia's "80" tier cards. Even allowing for inflation between the launch of the RTX 3080 in 2020 (around $699), the sky-high pricing put many would-be buyers off.
 
  Now, Nvidia is dropping the price of the RTX 4080 Super to $999\. It's still an expensive outlay; there's no escaping that, but the performance boost and price drop make the new RTX 4080 Super more palatable.
 
@@ -94,3 +94,24 @@ thumbnail: https://thmb.techidaily.com/9ed4d2a342c503dc1182b48b6f97e1914eb836100
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/how-to-dominate-in-pokemon-games-on-your-ios-device/"><u>How to Dominate in Pokémon Games on Your iOS Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/no-subscribing-to-higher-costs-at-ea-play/"><u>No Subscribing to Higher Costs at EA Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/securing-victory-resolving-valorants-frames-per-second-challenges-on-pc/"><u>Securing Victory: Resolving Valorant's Frames Per Second Challenges on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/4-achievement-hunting-sites-to-improve-your-gamerscore/"><u>4 Achievement Hunting Sites to Improve Your Gamerscore</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-graphic-freeze-in-win10win11-dxgi-error-solved/"><u>Overcoming Graphic Freeze in Win10/Win11 - DXGI Error Solved</u></a></li>
+<li><a href="https://games-able.techidaily.com/fresh-start-with-new-installations-on-ps5/"><u>Fresh Start with New Installations on PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/sequential-advantages-optimal-cpugpu-upgrade-order/"><u>Sequential Advantages: Optimal CPU/GPU Upgrade Order</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-for-quiet-voice-use-in-multiplayer-play/"><u>Strategies for Quiet Voice Use in Multiplayer Play</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-samsung-galaxy-m14-4g-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Samsung Galaxy M14 4G</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-cutting-edge-tools-to-snatch-and-save-videos-flawlessly-for-2024/"><u>[New] Cutting-Edge Tools to Snatch and Save Videos Flawlessly for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-unlocking-creative-expression-an-in-depth-guide-to-snapchat-filters/"><u>[New] 2024 Approved  Unlocking Creative Expression  An In-Depth Guide to Snapchat Filters</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-elevating-your-audio-signature-how-to-increase-vocal-depth-using-filmora/"><u>Updated Elevating Your Audio Signature How to Increase Vocal Depth Using Filmora</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-is-virtualdub-still-relevant-exploring-the-best-alternatives/"><u>New 2024 Approved Is Virtualdub Still Relevant? Exploring the Best Alternatives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-secrets-of-smooth-telegram-web-use/"><u>[New] Unveiling the Secrets of Smooth Telegram Web Use</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/e-thin-borders-for-a-seamless-youtube-experience/"><u>Efface Thin Borders for a Seamless YouTube Experience</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+</ul></div>

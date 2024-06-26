@@ -1,7 +1,7 @@
 ---
 title: 10 Fun Texting Games to Play on Chat With Friends and Family
-date: 2024-06-25T10:42:48.859Z
-updated: 2024-06-26T10:42:48.859Z
+date: 2024-06-25T12:48:37.115Z
+updated: 2024-06-26T12:48:37.115Z
 tags:
   - games
 categories:
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/bcbbbb17c516407e41023c9df84564d9e208249f4
 
  While there is an app for everything, you don't need to download any apps to play games with your friends. Text-based games can provide hours of fun, and all you need is SMS text messaging or a chat app such as WhatsApp or iMessage.
 
- While there are plenty of[free mobile games without ads or in-app purchases](https://www.makeuseof.com/tag/free-mobile-games-no-ads/) , you may want to play something even simpler. The uncomplicated games listed below can be played over text or chat without the need to download and install yet another app on your phone.
+ While there are plenty of [free mobile games without ads or in-app purchases](https://www.makeuseof.com/tag/free-mobile-games-no-ads/) , you may want to play something even simpler. The uncomplicated games listed below can be played over text or chat without the need to download and install yet another app on your phone.
 
  If you play these in a messaging app, you're also not limited to just two participants. Suggest playing one of these in a group chat with family or friends, and you suddenly have a multiplayer option open to you.
 
@@ -70,7 +70,7 @@ Close
 
 Close
 
- Abbreviations are everywhere, as you can see from our list of[internet acronyms you need to know](https://www.makeuseof.com/tag/30-trendy-internet-acronyms-slang-need-know-fit/) . It's even possible to abbreviate your entire life by describing what you are up to with just the first letters of each word in that description.
+ Abbreviations are everywhere, as you can see from our list of [internet acronyms you need to know](https://www.makeuseof.com/tag/30-trendy-internet-acronyms-slang-need-know-fit/) . It's even possible to abbreviate your entire life by describing what you are up to with just the first letters of each word in that description.
 
  To play**Abbreviations** , one of you abbreviates the activity you're currently engaged in. For example: "In a coffee shop in town" becomes "IACSIT", and the other person sets about trying to un-abbreviate your short sentence back to its original form. Be prepared for some rude replies and some long message threads.
 

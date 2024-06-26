@@ -1,7 +1,7 @@
 ---
 title: The Lost Web Browser of PS5
-date: 2024-06-25T10:49:43.448Z
-updated: 2024-06-26T10:49:43.448Z
+date: 2024-06-25T12:48:41.376Z
+updated: 2024-06-26T12:48:41.376Z
 tags:
   - games
 categories:
@@ -54,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f4
 
  As you might expect given how Sony hid the browser away, the PS5 web browser isn't anything fantastic. Basic sites that only have text and images load fine, but anything that requires multimedia isn't reliable.
 
- You can probably pull up a video site that doesn't have a dedicated PS5 app to enjoy watching its content, but don't expect to use complicated web apps or play games. Using the software keyboard is a pain (unless you[connect a physical keyboard to your PS5](https://www.makeuseof.com/how-to-use-keyboard-mouse-ps5/) ). Plus, using the Google login workaround every time is inefficient and prevents you from linking your X account with your PSN account.
+ You can probably pull up a video site that doesn't have a dedicated PS5 app to enjoy watching its content, but don't expect to use complicated web apps or play games. Using the software keyboard is a pain (unless you [connect a physical keyboard to your PS5](https://www.makeuseof.com/how-to-use-keyboard-mouse-ps5/) ). Plus, using the Google login workaround every time is inefficient and prevents you from linking your X account with your PSN account.
 
  For most people, there are few reasons you'd actually want to use the browser on your PS5\. Chances are that you have a smartphone nearby that's much easier to use and will work with almost all websites, unlike the clunky PS5 browser experience. The only scenario we can think of where this browser would come in handy is if you want to look something up while using PlayStation VR and don't want to take the headset off.
 
@@ -62,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f4
 
  Oddly, the PS5 does have an options page under**Settings > System** titled**Web Browser** that has settings for deleting cookies and similar. It's not clear why this exists when the browser isn't meant for general use.
 
- Meanwhile, if the lackluster web browser left you wanting more, you should check out other[hidden features of your PS5](https://www.makeuseof.com/ps5-things-you-might-not-know-you-can-do/) .
+ Meanwhile, if the lackluster web browser left you wanting more, you should check out other [hidden features of your PS5](https://www.makeuseof.com/ps5-things-you-might-not-know-you-can-do/) .
 
 ## Browse the Web on PS5, If You Really Need To
 

@@ -1,7 +1,7 @@
 ---
 title: The 10 Best Deals in PlayStation’s Summer Sale
-date: 2024-06-23 17:18:18
-updated: 2024-06-24 11:24:39
+date: 2024-06-25T13:35:58.350Z
+updated: 2024-06-26T13:35:58.350Z
 tags:
   - games
 categories:
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/280632bcded78a124b04e053c7d047b36940366fb
 
 ## 5\. Owlboy
 
- Owlboy is a whimsical platforming adventure with a beautiful pixel art style and story to match. While there are plenty of[differences between AAA and indie games](https://www.makeuseof.com/aaa-games-vs-indie-games-differences/) , indie’s have more than enough potential to be just as good, if not better, than AAA titles. Owlboy is a perfect example of that. And it’s on sale for roughly the price of a deli sandwich. While deli sandwiches are unarguably good, forgoing one for lunch is definitely worth experiencing the breathtaking adventure of Owlboy.
+ Owlboy is a whimsical platforming adventure with a beautiful pixel art style and story to match. While there are plenty of [differences between AAA and indie games](https://www.makeuseof.com/aaa-games-vs-indie-games-differences/) , indie’s have more than enough potential to be just as good, if not better, than AAA titles. Owlboy is a perfect example of that. And it’s on sale for roughly the price of a deli sandwich. While deli sandwiches are unarguably good, forgoing one for lunch is definitely worth experiencing the breathtaking adventure of Owlboy.
 
 **Download** :[Owlboy](https://store.playstation.com/en-us/product/UP4218-CUSA09914%5F00-OWLBOY0000000000) for $9.99 (60% off)
 
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/280632bcded78a124b04e053c7d047b36940366fb
 
 ## 7\. The Last of Us: Part II
 
- Even if you’re not a gamer, the chances are you know about The Last of Us. But Joel and Ellie’s story didn't just end when the hit TV series did. That is only one part of their adventure, so if you want a sneak peek into the events that you can expect from the second series, you can get it for half price in PlayStation’s summer sale. If you’ve been looking for[games to play if you like the Last of Us TV show](https://www.makeuseof.com/games-to-play-if-you-like-the-last-of-us-tv-show/) , this should be your first stop for obvious reasons.
+ Even if you’re not a gamer, the chances are you know about The Last of Us. But Joel and Ellie’s story didn't just end when the hit TV series did. That is only one part of their adventure, so if you want a sneak peek into the events that you can expect from the second series, you can get it for half price in PlayStation’s summer sale. If you’ve been looking for [games to play if you like the Last of Us TV show](https://www.makeuseof.com/games-to-play-if-you-like-the-last-of-us-tv-show/) , this should be your first stop for obvious reasons.
 
 **Download** :[The Last of Us: Part II](https://store.playstation.com/en-us/product/UP9000-CUSA07820%5F00-THELASTOFUSPART2) for &19.99 (50% off)
 
@@ -97,3 +97,24 @@ thumbnail: https://thmb.techidaily.com/280632bcded78a124b04e053c7d047b36940366fb
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/unlocking-mysteries-of-language-with-nyts-latest-craze-strands/"><u>Unlocking Mysteries of Language with NYT’s Latest Craze, 'Strands'</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-why-mics-are-off-limits-for-ps5s/"><u>Discover Why Mics Are Off-Limits for PS5s</u></a></li>
+<li><a href="https://games-able.techidaily.com/reinstating-stable-wired-and-wireless-connections-in-ps5/"><u>Reinstating Stable Wired and Wireless Connections in PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/makeuseofs-pinnacle-innovations-from-mwc-2024/"><u>MakeUseOf's Pinnacle Innovations From MWC 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/highlights-economical-white-pc-building-kits/"><u>Highlights: Economical White PC Building Kits</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-dirt-free-diary-weekly-console-care-routines/"><u>The Dirt-Free Diary: Weekly Console Care Routines</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionizing-the-keyboard-space-razers-hot-swap-blackwidow-v4/"><u>Revolutionizing the Keyboard Space: Razer's Hot-Swap BlackWidow V4</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-tips-for-resetting-ps5-gamepad/"><u>Essential Tips for Resetting PS5 Gamepad</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-plus-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 Plus, Apples New iPhone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-essential-tips-for-optimal-screen-recording-with-showmore/"><u>[New] 2024 Approved  Essential Tips for Optimal Screen Recording With ShowMore</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-optimize-your-video-viewing-space-online-for-2024/"><u>[New] Optimize Your Video Viewing Space Online for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-prime-5-racer-simulation-titles-to-play-for-2024/"><u>[Updated] Prime 5 Racer Simulation Titles to Play for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-direct-screens-capture-chromeos-edition-for-2024/"><u>[New] Direct Screens Capture ChromeOS Edition for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-xiaomi-redmi-note-13-proplus-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Xiaomi Redmi Note 13 Pro+ 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/the-ultimate-checklist-for-superior-sound-on-personal-video-recording/"><u>The Ultimate Checklist for Superior Sound on Personal Video Recording</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-subtle-sounds-clear-vision-audio-cleanup-methods-reviewed/"><u>[New] In 2024, Subtle Sounds, Clear Vision  Audio Cleanup Methods Reviewed</u></a></li>
+</ul></div>

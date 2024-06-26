@@ -1,7 +1,7 @@
 ---
 title: "Safe Spaces Online: Educating Youth About Risks Like Discord"
-date: 2024-06-22 10:10:46
-updated: 2024-06-24 11:52:45
+date: 2024-06-25T13:01:21.778Z
+updated: 2024-06-26T13:01:21.778Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/e7f1cad7a399e71169efcdbd386bd0d5b12f456c3
 
 ## What Is Discord, and Why Do Kids Use It?
 
- Discord was launched in 2015, and initially served primarily as a[communication platform for gamers](https://www.makeuseof.com/how-to-get-started-discord-beginners-guide/) . Over the years, it's become a lot more than that, with millions of people around the globe using it every single day. Discord is available on pretty much all platforms and operating systems and can also run in web browsers, so children can access it very easily.
+ Discord was launched in 2015, and initially served primarily as a [communication platform for gamers](https://www.makeuseof.com/how-to-get-started-discord-beginners-guide/) . Over the years, it's become a lot more than that, with millions of people around the globe using it every single day. Discord is available on pretty much all platforms and operating systems and can also run in web browsers, so children can access it very easily.
 
  Discord has millions of active communities, or servers, as they are called. New ones are being created daily, since everyone can set up their own server free of charge. Some are private and invite-only, while others are public and can be accessed by anyone with a link. Like everyone else, kids and adolescents can use Discord to socialize, communicate with friends, and engage in various communities centered around their hobbies or interests.
 
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/e7f1cad7a399e71169efcdbd386bd0d5b12f456c3
 
  Discord requires users to be at least 13 years old. However, this requirement is not strictly enforced, since the platform doesn't actually verify a user's age upon signup. At the same time, it needs to be noted that Discord is not just for texting, but also for exchanging photos and videos, as well as making audio and video calls. In other words, a child is very likely to encounter inappropriate content at some point, which is definitely something parents should be aware of.
 
- For years, Discord had no parental controls, so those whose children were on the platform had to improvise and[rely on third-party software](https://www.makeuseof.com/tag/5-best-parental-control-apps-android/) to monitor their kids' activities. In July 2023, Discord finally introduced their very own Family Center. In a[blog post](https://discord.com/blog/discord-family-center-stay-connected-with-your-teen) published at the time, Discord explained what this means for parents.
+ For years, Discord had no parental controls, so those whose children were on the platform had to improvise and [rely on third-party software](https://www.makeuseof.com/tag/5-best-parental-control-apps-android/) to monitor their kids' activities. In July 2023, Discord finally introduced their very own Family Center. In a [blog post](https://discord.com/blog/discord-family-center-stay-connected-with-your-teen) published at the time, Discord explained what this means for parents.
 
  In short, all you need to do to use this feature is navigate to User**Settings > Family Center** , and complete the setup. Both the parent (or guardian) and the child need to consent to this. And once the setup is done, you will have access to all kinds of information regarding your kid's activity on Discord, and be able to view their calls and messages, see friend requests, and monitor which servers they are participating in. In addition, you'll receive weekly recaps via email.
 
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/e7f1cad7a399e71169efcdbd386bd0d5b12f456c3
 
 ### 2\. Educate Your Child
 
- It is true that children and teenagers nowadays are far more technologically adept than previous generations, but it's safe to assume most view cybersecurity as boring and unnecessary, or even feel overconfident about their skills. This is why it's[important to educate your child](https://www.makeuseof.com/technology-role-model-be-good-for-kids/) , and make them understand what can happen if they are not careful, or ignore basic online safety concepts.
+ It is true that children and teenagers nowadays are far more technologically adept than previous generations, but it's safe to assume most view cybersecurity as boring and unnecessary, or even feel overconfident about their skills. This is why it's [important to educate your child](https://www.makeuseof.com/technology-role-model-be-good-for-kids/) , and make them understand what can happen if they are not careful, or ignore basic online safety concepts.
 
 ### 3\. Set Time Limits
 
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/e7f1cad7a399e71169efcdbd386bd0d5b12f456c3
 
 ### 4\. Remind Your Kid to Lead by Example
 
- Cyberbullying is a massive issue in this day and age. Thankfully, there are plenty of resources for victims, but abusers' motivations are often overlooked. That's a big problem, being that most[cyberbullying against kids and teens](https://www.makeuseof.com/cyberbullying-vs-cyberstalking-difference-between/) is carried out by their peers. This is why every parent should try and teach their kid to lead by example, and treat others with respect and kindness.
+ Cyberbullying is a massive issue in this day and age. Thankfully, there are plenty of resources for victims, but abusers' motivations are often overlooked. That's a big problem, being that most [cyberbullying against kids and teens](https://www.makeuseof.com/cyberbullying-vs-cyberstalking-difference-between/) is carried out by their peers. This is why every parent should try and teach their kid to lead by example, and treat others with respect and kindness.
 
 ### 5\. Encourage Critical Thinking
 
@@ -83,3 +83,24 @@ thumbnail: https://thmb.techidaily.com/e7f1cad7a399e71169efcdbd386bd0d5b12f456c3
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/ace-your-arcade-how-to-discover-highest-calibre-apple-titles/"><u>Ace Your Arcade: How to Discover Highest Calibre Apple Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/makeuseof-awards-mwc-innovation-highlights/"><u>MakeUseOf Awards: MWC Innovation Highlights</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-game-stream-from-pc-to-cloud-platform/"><u>Xbox Game Stream: From PC to Cloud Platform</u></a></li>
+<li><a href="https://games-able.techidaily.com/fast-and-furious-games-boost-your-windows-fps/"><u>Fast and Furious Games: Boost Your Windows FPS</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-pathway-to-your-steam-login-reference-code/"><u>The Pathway to Your Steam Login Reference Code</u></a></li>
+<li><a href="https://games-able.techidaily.com/quests-and-triumphs-why-i-cherish-netflixs-gameplay/"><u>Quests & Triumphs: Why I Cherish Netflix's Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/win-at-csgo-increase-fps-quickly/"><u>Win at CS:GO: Increase FPS Quickly</u></a></li>
+<li><a href="https://games-able.techidaily.com/join-the-fun-why-netflixs-gameplay-seduces-us/"><u>Join the Fun: Why Netflix's Gameplay Seduces Us</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-the-battle-for-video-editing-supremacy-fcp-vs-fce-for-2024/"><u>New The Battle for Video Editing Supremacy FCP vs FCE for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-adding-subtitles-in-fcpx-a-beginners-tutorial-updated-2023-for-2024/"><u>New Adding Subtitles in FCPX A Beginners Tutorial (Updated 2023) for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-gold-glory-in-gameplay-5-prime-maps-for-riches/"><u>[New] In 2024, Gold Glory in Gameplay  5 Prime Maps for Riches</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-key-tactics-procuring-premium-media-backdrops-with-ease/"><u>[Updated] Key Tactics  Procuring Premium Media Backdrops with Ease</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-easy-video-editing-top-free-cutters-and-joiners-for-starters/"><u>2024 Approved Easy Video Editing Top Free Cutters and Joiners for Starters</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-apple-iphone-8-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on Apple iPhone 8</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-rapidly-increase-views-effective-growth-hacks-for-channels/"><u>[New] Rapidly Increase Views  Effective Growth Hacks for Channels</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-zoom-broadcasting-potential-for-youtube-success/"><u>2024 Approved  Unlock Zoom Broadcasting Potential for YouTube Success</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-maintain-fidelity-the-best-ways-to-convert-video-files-to-mp3/"><u>New In 2024, Maintain Fidelity The Best Ways to Convert Video Files to MP3</u></a></li>
+</ul></div>

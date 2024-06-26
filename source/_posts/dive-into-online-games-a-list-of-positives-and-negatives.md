@@ -1,7 +1,7 @@
 ---
 title: "Dive Into Online Games: A List of Positives & Negatives"
-date: 2024-06-22 10:52:59
-updated: 2024-06-24 10:17:21
+date: 2024-06-25T13:21:02.449Z
+updated: 2024-06-26T13:21:02.449Z
 tags:
   - games
 categories:
@@ -31,9 +31,7 @@ thumbnail: https://thmb.techidaily.com/57fc80a0532998e9a3fa34c3a10aaf11a38c8a257
 
  For gamers who value convenience and accessibility, digital game purchases offer numerous advantages. Let’s look at them below.
 
-### 1\. Digital Games Are Easy to Purchase and Store
-
-![the steam logo on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/the-steam-logo-on-a-laptop.jpg)
+### 1\. Digital Games Are Easy to Purchase and Store ![the steam logo on a laptop](https://thmb.techidaily.com/36a0feb333642fafe6d899d77e13984485a54242ddf28da6d8e7c4998067f22e.jpg)
 
  Rokas Tenys/[Shutterstock](https://www.shutterstock.com/image-photo/vilnius-lithuania-2022-july-6-steam-2175437557)
 
@@ -53,15 +51,13 @@ thumbnail: https://thmb.techidaily.com/57fc80a0532998e9a3fa34c3a10aaf11a38c8a257
 
  Automatic updates ensure that your favorite titles are ready to play when you want them, without having to wait for updates to download and install.
 
-### 4\. Digital-Only Consoles Are Less Expensive
-
-![Sony PS5 Digital Edition with DualSense controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/ps5-features-we-like-1-2.jpg)
+### 4\. Digital-Only Consoles Are Less Expensive ![Sony PS5 Digital Edition with DualSense controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/ps5-features-we-like-1-2.jpg)
 
 [PlayStation](https://www.playstation.com/en-us/ps5/)
 
  Another perk of going all digital is that the price of digital-only consoles is usually lower compared to consoles that can play physical discs. This can be beneficial when you decide to upgrade to the latest version of the console.
 
- Also, with your games being digital, you don’t have to deal with issues like a[PS5 disc drive making way too much noise](https://www.makeuseof.com/ways-to-fix-noisy-ps5-disc-drive/) or getting stuck. This means you can enjoy uninterrupted gameplay without the annoyance of disc-related malfunctions.
+ Also, with your games being digital, you don’t have to deal with issues like a [PS5 disc drive making way too much noise](https://www.makeuseof.com/ways-to-fix-noisy-ps5-disc-drive/) or getting stuck. This means you can enjoy uninterrupted gameplay without the annoyance of disc-related malfunctions.
 
 ### 5\. You Can Opt for Value-for-Money Subscription Services
 
@@ -79,21 +75,19 @@ thumbnail: https://thmb.techidaily.com/57fc80a0532998e9a3fa34c3a10aaf11a38c8a257
 
 ### 1\. Digital Games Can Quickly Fill Up Your Console’s Storage Space
 
- While digital games eliminate the need to store them physically, they can quickly eat up the storage space on your console. With many modern games easily reaching 50GB or more in size, you will constantly find yourself looking for[ways to get more storage space on your PS5](https://www.makeuseof.com/ps5-storage-how-to-increase-manage/) or Xbox Series X|S.
+ While digital games eliminate the need to store them physically, they can quickly eat up the storage space on your console. With many modern games easily reaching 50GB or more in size, you will constantly find yourself looking for [ways to get more storage space on your PS5](https://www.makeuseof.com/ps5-storage-how-to-increase-manage/) or Xbox Series X|S.
 
- As a result, you may need to uninstall or move unplayed games to an external drive every now and then. While[adding extra storage to your PS5](https://www.makeuseof.com/how-to-add-m2-ssd-ps5-guide/) or Xbox is always an option, it does come with additional expenses.
+ As a result, you may need to uninstall or move unplayed games to an external drive every now and then. While [adding extra storage to your PS5](https://www.makeuseof.com/how-to-add-m2-ssd-ps5-guide/) or Xbox is always an option, it does come with additional expenses.
 
 ### 2\. They Are Difficult to Share or Sell
 
  Sharing digital games with friends is not as straightforward as sharing physical games, because it often requires sharing your account credentials. This can pose a security risk and potentially lead to unauthorized alterations to your account settings.
 
- However, you can share digital games within your household through[Steam Families](https://www.makeuseof.com/valve-updated-steam-families-sharing/) or[PS5 game sharing](https://www.makeuseof.com/how-to-enable-game-sharing-playstation-5/) .
+ However, you can share digital games within your household through [Steam Families](https://www.makeuseof.com/valve-updated-steam-families-sharing/) or [PS5 game sharing](https://www.makeuseof.com/how-to-enable-game-sharing-playstation-5/) .
 
  But when it comes to selling your games once you've finished playing them; you won't be able to recoup some of the initial costs of purchasing the game by selling it on eBay or other platforms if you don't have a physical disc.
 
-### 3\. You Don't Actually Own Your Digital Games
-
-![steam deck gaming handheld](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/steam-deck-gaming-handheld.jpg)
+### 3\. You Don't Actually Own Your Digital Games ![steam deck gaming handheld](https://thmb.techidaily.com/756e6cbc4b4a2e3ac30671657870528bb336d9b2f0f8b2cf5d7bebdde4893059.jpg)
 
  Mr.Mikla/[Shutterstock](https://www.shutterstock.com/image-photo/ljubljana-slovenia-2022-june-6-new-2177777643)
 
@@ -107,7 +101,7 @@ thumbnail: https://thmb.techidaily.com/57fc80a0532998e9a3fa34c3a10aaf11a38c8a257
 
  To avoid this, you may need to implement additional security measures such as two-factor authentication, using strong passwords, and regularly monitoring your account activity.
 
- So, those are the advantages and disadvantages of owning digital games. Considering the fact that 95% of games sold in 2023 were digital (as reported by[GamesIndustry.biz](https://www.gamesindustry.biz/gamesindustrybiz-presents-the-year-in-number-2023) ), it's fair to say that most people prefer digital games and are willing to live with some of the compromises tied to them.
+ So, those are the advantages and disadvantages of owning digital games. Considering the fact that 95% of games sold in 2023 were digital (as reported by [GamesIndustry.biz](https://www.gamesindustry.biz/gamesindustrybiz-presents-the-year-in-number-2023) ), it's fair to say that most people prefer digital games and are willing to live with some of the compromises tied to them.
 
  That said, choosing digital games over their physical counterparts often comes down to personal preference, with factors like convenience, access, and pricing influencing individual decisions.
 
@@ -126,3 +120,26 @@ thumbnail: https://thmb.techidaily.com/57fc80a0532998e9a3fa34c3a10aaf11a38c8a257
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/tech-wizardry-discovering-ps5s-browsing-secret/"><u>Tech Wizardry: Discovering PS5's Browsing Secret</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719173630427-invest-in-impact-choose-thick-broad-cabinet-frames/"><u>Invest in Impact: Choose Thick, Broad Cabinet Frames</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-the-art-of-coding-redemption-xbox-edition/"><u>Master the Art of Coding Redemption: Xbox Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategic-use-of-reset-button-on-sonys-ps5-remote/"><u>Strategic Use of Reset Button on Sony's PS5 Remote</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-your-consoles-capabilities-using-a-laptop-as-monitor/"><u>Maximize Your Console's Capabilities Using a Laptop as Monitor</u></a></li>
+<li><a href="https://games-able.techidaily.com/boost-creativity-with-these-7-linux-terminal-games/"><u>Boost Creativity with These 7 Linux Terminal Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-duality-of-pimax-crystal-headset-sharpness-vs-stability/"><u>The Duality of Pimax Crystal Headset: Sharpness vs Stability</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-twitch-blockunblock-guests/"><u>Mastering Twitch: Block/Unblock Guests</u></a></li>
+<li><a href="https://games-able.techidaily.com/moza-r5-unlocking-the-future-of-simulated-driving/"><u>MOZA R5: Unlocking the Future of Simulated Driving</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-activate-stellar-data-recovery-for-iphone-12-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Activate Stellar Data Recovery for iPhone 12 Pro | Stellar</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-lava-blaze-2-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Lava Blaze 2 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-gradient-goes-night-premieres-trick/"><u>[New] Gradient Goes Night  Premiere's Trick</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-hot-hits-huddle-the-must-have-tiktok-rap-playlists-of-2021/"><u>2024 Approved  Hot Hits Huddle  The Must-Have TikTok Rap Playlists of 2021</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-poco-f5-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-ghostly-horizons-video-tech-update/"><u>2024 Approved  Ghostly Horizons  Video Tech Update</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-6s-lock-screen-drfone-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone 6s Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elite-7-cameras-elevating-interactive-learning-vlogs-and-tutorials-for-2024/"><u>[Updated] Elite 7 Cameras Elevating Interactive Learning Vlogs & Tutorials for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-canvas-to-crypto-top-7-artwork-conversion-platforms-for-2024/"><u>From Canvas to Crypto  Top 7 Artwork Conversion Platforms for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-obs-screen-recorder-a-feature-full-review/"><u>In 2024, OBS Screen Recorder  A Feature-Full Review</u></a></li>
+</ul></div>

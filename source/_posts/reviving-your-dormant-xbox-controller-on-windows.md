@@ -1,7 +1,7 @@
 ---
 title: Reviving Your Dormant Xbox Controller on Windows
-date: 2024-06-22 17:57:34
-updated: 2024-06-24 11:31:21
+date: 2024-06-25T13:02:23.127Z
+updated: 2024-06-26T13:02:23.127Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/571b6953560c969952a7e82657ab3c73d752ed211
 
 ## 1\. Check if Windows Recognizes Your Controller
 
- The first thing you need to do is check if Windows recognizes your controller. For that, you will need to[open the Game Controller Settings on Windows](https://www.makeuseof.com/how-to-launch-game-controllers-settings-windows-11/) . Here's how to do that.
+ The first thing you need to do is check if Windows recognizes your controller. For that, you will need to [open the Game Controller Settings on Windows](https://www.makeuseof.com/how-to-launch-game-controllers-settings-windows-11/) . Here's how to do that.
 
 1. Press**Win + R** to open the Run dialog box.
 2. Type**joy.cpl** in the box and press**Enter** .
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/571b6953560c969952a7e82657ab3c73d752ed211
 
 ## 2\. Disconnect and Reconnect the Controller
 
- When you encounter[issues with an external device on Windows](https://www.makeuseof.com/tag/external-drive-not-recognized-this-is-how-to-fix-it-in-windows/) such as a controller, it’s a good idea to disconnect it and connect it again. This may seem like a simple solution, but it is often effective.
+ When you encounter [issues with an external device on Windows](https://www.makeuseof.com/tag/external-drive-not-recognized-this-is-how-to-fix-it-in-windows/) such as a controller, it’s a good idea to disconnect it and connect it again. This may seem like a simple solution, but it is often effective.
 
  If it is a wired controller, try connecting it to a different USB port. For a wireless controller, you need to make sure it has enough battery. If it does, try unpairing and pairing it again.
 
@@ -80,11 +80,9 @@ To run the Hardware and Devices troubleshooter, use these steps:
 
  Wait for Windows to check for any pending updates for the driver and install them.
 
- If the controller still does not work after that, the controller driver may be corrupted. In that case, you will need to[uninstall the faulty driver from your Windows PC](https://www.makeuseof.com/windows-11-uninstall-drivers/) . Once removed, restart your PC and Windows will automatically reinstall the driver during startup.
+ If the controller still does not work after that, the controller driver may be corrupted. In that case, you will need to [uninstall the faulty driver from your Windows PC](https://www.makeuseof.com/windows-11-uninstall-drivers/) . Once removed, restart your PC and Windows will automatically reinstall the driver during startup.
 
-## 6\. Update Your Controller’s Firmware
-
-![Update Controller Firmware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/update-controller-firmware.jpg)
+## 6\. Update Your Controller’s Firmware ![Update Controller Firmware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/update-controller-firmware.jpg)
 
  Keeping your controller updated with the latest software can help you avoid any compatibility issues. So, if none of the above tips help, open your controller manufacturer’s app or program and install any available updates.
 
@@ -109,3 +107,22 @@ To run the Hardware and Devices troubleshooter, use these steps:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/how-to-play-the-nyt-relationship-chess-game/"><u>How to Play the NYT Relationship Chess Game</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamble-less-save-more-the-prime-picks-from-top-11-game-dealers/"><u>Gamble Less, Save More - The Prime Picks From Top 11 Game Dealers</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-boy-mastery-through-linux-scripting-and-commands/"><u>Game Boy Mastery Through Linux Scripting and Commands</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-the-hurdles-of-steams-wide-screen-display/"><u>Overcoming the Hurdles of Steam's Wide Screen Display</u></a></li>
+<li><a href="https://games-able.techidaily.com/clearing-glitches-mastery-of-ps5-gamepad-restart/"><u>Clearing Glitches: Mastery of PS5 Gamepad Restart</u></a></li>
+<li><a href="https://games-able.techidaily.com/mending-your-switch-options-for-a-functional-gaming-device/"><u>Mending Your Switch: Options for a Functional Gaming Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/assessing-the-security-of-roblox-performance-hacks/"><u>Assessing the Security of Roblox Performance Hacks</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-how-to-eliminate-live-sharing-on-devices/"><u>[New] How to Eliminate Live Sharing on Devices</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-enhancing-video-content-step-by-step-cropping-and-export-guide/"><u>[Updated] 2024 Approved  Enhancing Video Content  Step-by-Step Cropping & Export Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-capture-and-convert-photos-into-dynamic-videos-in-pixiz-for-2024/"><u>[Updated] Capture and Convert  Photos Into Dynamic Videos in Pixiz for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-pinpoint-synthetic-soundscapes-mimicking-brushwork/"><u>Updated 2024 Approved Pinpoint Synthetic Soundscapes Mimicking Brushwork</u></a></li>
+<li><a href="https://change-location.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Samsung Galaxy S23? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-10-free-web-conferencing-software-for-online-meeting-with-screen-sharing/"><u>[New] In 2024, 10 Free Web Conferencing Software for Online Meeting (with Screen Sharing)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/invent-iconic-images-through-giphy/"><u>Invent Iconic Images Through Giphy</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-oppo-a1x-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Oppo A1x 5G | Dr.fone</u></a></li>
+</ul></div>

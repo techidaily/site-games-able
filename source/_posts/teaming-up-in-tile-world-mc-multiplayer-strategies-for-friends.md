@@ -1,7 +1,7 @@
 ---
 title: "Teaming Up in Tile World: MC Multiplayer Strategies for Friends"
-date: 2024-06-22 11:51:18
-updated: 2024-06-24 12:31:40
+date: 2024-06-25T13:23:17.011Z
+updated: 2024-06-26T13:23:17.011Z
 tags:
   - games
 categories:
@@ -26,15 +26,13 @@ thumbnail: https://thmb.techidaily.com/d4527039f6a1a287d2df17fa899a5ac8403841092
 
  Both Bedrock and Java Edition have public servers available for anyone to join. You can find servers on Bedrock easily on any platform whether you're on console, PC, or mobile, but there are limitations. Java has fewer limitations, but you'll need to do some digging to find good servers, and you might need to deal with more technical issues.
 
- While Java Edition is only on PC, you can[play Minecraft on Steam Link](https://www.makeuseof.com/how-to-play-game-pass-on-steam-link-with-glossi/) and play it on your TV, phone, or tablet and get close to a cross-platform experience.
+ While Java Edition is only on PC, you can [play Minecraft on Steam Link](https://www.makeuseof.com/how-to-play-game-pass-on-steam-link-with-glossi/) and play it on your TV, phone, or tablet and get close to a cross-platform experience.
 
-### Minecraft Java Edition
+### Minecraft Java Edition ![Minecraft multiplayer server list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/mc-server-list-multiplayer.png)
 
-![Minecraft multiplayer server list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/mc-server-list-multiplayer.png)
+ Public servers are what most Java players use to link up with others. Servers are free to join and you can find them by using any of the many server-listing sites such as [minecraftservers.org](https://minecraftservers.org) (just search "Minecraft Servers" in your web browser to find more listing sites).
 
- Public servers are what most Java players use to link up with others. Servers are free to join and you can find them by using any of the many server-listing sites such as[minecraftservers.org](https://minecraftservers.org) (just search "Minecraft Servers" in your web browser to find more listing sites).
-
- We've covered an in-depth guide on[how to join a Minecraft server](https://www.makeuseof.com/how-to-join-minecraft-server/) already, but here's a quick rundown:
+ We've covered an in-depth guide on [how to join a Minecraft server](https://www.makeuseof.com/how-to-join-minecraft-server/) already, but here's a quick rundown:
 
 1. Copy the IP Address of the server you want to join. This will look something like "makeuseof.example.com"
 2. Navigate to the**Multiplayer** screen in your Minecraft client. Click on**Add Server** or**Direct Connection** .
@@ -43,9 +41,7 @@ thumbnail: https://thmb.techidaily.com/d4527039f6a1a287d2df17fa899a5ac8403841092
 
  Joining servers in Bedrock Edition is a lot easier, here's how to do it:
 
-### Minecraft Bedrock Edition
-
-![Minecraft Bedrock Edition Servers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/minecraft-bedrock-edition-servers.jpg)
+### Minecraft Bedrock Edition ![Minecraft Bedrock Edition Servers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/minecraft-bedrock-edition-servers.jpg)
 
  While your range is narrower than Java Edition players', there are definitely public servers you can join to play Minecraft with your friends in Bedrock Edition.
 
@@ -72,17 +68,15 @@ thumbnail: https://thmb.techidaily.com/d4527039f6a1a287d2df17fa899a5ac8403841092
 
 ![MUO Aternos server start button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-aternos-server-start-button.jpg)
 
- Finally, you'll need to click on the large green**Start** button. Once it's on, you can copy the IP address and paste it into Minecraft as you would a public server. This server is all yours and you can even[install CurseForge to add Minecraft mods](https://www.makeuseof.com/how-to-use-curseforge-to-install-minecraft-mod-packs/) and upload copies of existing worlds if you wanted.
+ Finally, you'll need to click on the large green**Start** button. Once it's on, you can copy the IP address and paste it into Minecraft as you would a public server. This server is all yours and you can even [install CurseForge to add Minecraft mods](https://www.makeuseof.com/how-to-use-curseforge-to-install-minecraft-mod-packs/) and upload copies of existing worlds if you wanted.
 
 ## 3\. Minecraft Realms
 
  Minecraft Realms is available for both Java and Bedrock, but they are separate subscriptions. Realms are officially hosted servers that you have to pay for, but it has the benefit of being more convenient, streamlined, and reliable than third-party hosting services.
 
-### How to Create a Minecraft Realm
+### How to Create a Minecraft Realm ![Minecraft Realms start new realm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/minecraft-realms-start-new-realm-1.jpg)
 
-![Minecraft Realms start new realm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/minecraft-realms-start-new-realm-1.jpg)
-
-**Java Edition** : First, you'll need to purchase a subscription for a Realm (you can check the pricing plans on[Minecraft's website](https://www.minecraft.net/en-us/realms-for-java/plans/) ). You can activate a 30-day free trial to test the waters and cancel anytime.
+**Java Edition** : First, you'll need to purchase a subscription for a Realm (you can check the pricing plans on [Minecraft's website](https://www.minecraft.net/en-us/realms-for-java/plans/) ). You can activate a 30-day free trial to test the waters and cancel anytime.
 
  Once you have a subscription plan, open Minecraft and click**Minecraft Realms** . If this is your first time creating a Realm, click on**click to start your new Realm** . Here you can name your Realm and enter a brief description before choosing your world type.
 
@@ -104,9 +98,7 @@ thumbnail: https://thmb.techidaily.com/d4527039f6a1a287d2df17fa899a5ac8403841092
 
  Now that you know how to create a Realm, you probably want to check out your friends' Realms too. Here's how to join a Realm:
 
-### How to Join a Minecraft Realm
-
-![Minecraft Realms invite envelope](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/minecraft-realms-invite-envelope.jpg)
+### How to Join a Minecraft Realm ![Minecraft Realms invite envelope](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/minecraft-realms-invite-envelope.jpg)
 
 **Java Edition** : If you've received an invitation to join your friend's Realm, open Minecraft and navigate to**Minecraft Realms** .
 
@@ -122,9 +114,7 @@ thumbnail: https://thmb.techidaily.com/d4527039f6a1a287d2df17fa899a5ac8403841092
 
  While servers are the best way to play Minecraft with friends who are far away, a LAN (Local Access Network) connection is an easy way to craft with friends who are nearby.
 
-### Minecraft Java Edition
-
-![Minecraft Java edition scanning for LAN games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/mc-scanning-for-lan-games.png)
+### Minecraft Java Edition ![Minecraft Java edition scanning for LAN games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/mc-scanning-for-lan-games.png)
 
  If you're under the same local IP address as the player you want to join, you can do this pretty easily. Launch Minecraft and click on**Multiplayer** . Minecraft will automatically scan for games on your local network.
 
@@ -134,11 +124,9 @@ thumbnail: https://thmb.techidaily.com/d4527039f6a1a287d2df17fa899a5ac8403841092
 
  LAN play is on by default in Bedrock Edition. Just navigate to the**Worlds** tab, and if there are any available games on your network, they'll appear here for you to join.
 
-## 5\. Use Minecraft Split-Screen
+## 5\. Use Minecraft Split-Screen ![Split Screen Minecraft on Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/img_3176.jpeg)
 
-![Split Screen Minecraft on Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/img_3176.jpeg)
-
- Just like old-school console games, you can play split-screen on Minecraft Bedrock edition with up to four players. This is only available on consoles, but you can get on your couch, and[play split-screen Minecraft on your Nintendo Switch](https://www.makeuseof.com/how-to-play-two-player-minecraft-on-nintendo-switch/) .
+ Just like old-school console games, you can play split-screen on Minecraft Bedrock edition with up to four players. This is only available on consoles, but you can get on your couch, and [play split-screen Minecraft on your Nintendo Switch](https://www.makeuseof.com/how-to-play-two-player-minecraft-on-nintendo-switch/) .
 
 ## Enjoy Minecraft With Your Friends
 
@@ -161,3 +149,24 @@ thumbnail: https://thmb.techidaily.com/d4527039f6a1a287d2df17fa899a5ac8403841092
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/noise-negotiation-managing-system-alerts-effectively/"><u>Noise Negotiation: Managing System Alerts Effectively</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-app-for-gamers-milestone-maps/"><u>Best App for Gamers' Milestone Maps</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-aftermath-of-leaving-ps-plus-service/"><u>The Aftermath of Leaving PS Plus Service</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-hidden-gems-with-these-3-xbox-code-tips/"><u>Unlock Hidden Gems with These 3 Xbox Code Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-asus-rog-allys-top-docking-stations-24/"><u>Unveiling ASUS ROG Ally's Top Docking Stations '24</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-setup-add-discord-to-your-mac-experience/"><u>Seamless Setup: Add Discord to Your Mac Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-the-game-speed-boost-windows-fps/"><u>Master the Game Speed: Boost Windows FPS</u></a></li>
+<li><a href="https://games-able.techidaily.com/scores-dont-count-the-real-deal-with-game-reviews/"><u>Scores Don't Count: The Real Deal with Game Reviews</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Tecno Camon 20? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-streamlined-video-tools-for-twitter-sharing/"><u>[New] Streamlined Video Tools for Twitter Sharing</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-realme-narzo-60x-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Realme Narzo 60x 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-y27-4g-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Y27 4G has been deleted.</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-advice-for-improved-minecraft-zooms/"><u>[Updated] Expert Advice for Improved Minecraft Zooms</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-dont-make-these-mistakes-tips-for-converting-mp3-to-mp4-successfully/"><u>Updated 2024 Approved Dont Make These Mistakes Tips for Converting MP3 to MP4 Successfully</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/apple-iphone-13-pro-max-screen-mirroring-you-must-know-drfone-by-drfone-ios/"><u>Apple iPhone 13 Pro Max Screen Mirroring You Must Know | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-split-cut-and-edit-videos-for-free-our-top-recommendations/"><u>Updated Split, Cut, and Edit Videos for Free Our Top Recommendations</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-honor-v-purse-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Honor V Purse using Video Repair Utility on Windows?</u></a></li>
+</ul></div>

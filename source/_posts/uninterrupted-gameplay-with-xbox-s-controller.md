@@ -1,7 +1,7 @@
 ---
 title: Uninterrupted Gameplay with Xbox S Controller
-date: 2024-06-25T10:40:07.557Z
-updated: 2024-06-26T10:40:07.557Z
+date: 2024-06-25T12:48:35.377Z
+updated: 2024-06-26T12:48:35.377Z
 tags:
   - games
 categories:
@@ -38,19 +38,15 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 
  If not, just select the controller and update it. Once your Xbox carries out this update, you'll no longer have issues where your Xbox controller keeps disconnecting. That's because Microsoft pushes out firmware updates regularly to fix minor bugs that crop up—like this one.
 
-## 2\. Update Your Xbox Series X Console
-
-![Xbox Series X Update Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/Xbox-Series-X-Update-Menu.jpg)
+## 2\. Update Your Xbox Series X Console ![Xbox Series X Update Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/Xbox-Series-X-Update-Menu.jpg)
 
  Besides checking if your controllers have the latest firmware installed, you should also make sure your console is running the latest version of its software. This can help resolve any problems with your Xbox Series X or S controller disconnecting all the time.
 
  This should happen automatically, but if you have your console set up for manual updates and haven't played for a while, you should install the latest Xbox system software ASAP. This means you will have all the relevant security patches and so on. However, updates like this can iron out any issues, such as controller drift.
 
- To[update your Series X or Series S](https://www.makeuseof.com/how-to-update-xbox-series-x-series-s/) console, go to **Profile & system > Settings > System > Updates** . If a console update is available, it will say so next to your console on this settings page. Just update your console, as this might resolve the problem.
+ To [update your Series X or Series S](https://www.makeuseof.com/how-to-update-xbox-series-x-series-s/) console, go to **Profile & system > Settings > System > Updates** . If a console update is available, it will say so next to your console on this settings page. Just update your console, as this might resolve the problem.
 
-## 3\. Reset and Re-Sync Your Series X Controller
-
-![series x joypad power button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/series-x-joypad-power-button.png)
+## 3\. Reset and Re-Sync Your Series X Controller ![series x joypad power button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/series-x-joypad-power-button.png)
 
  One potential workaround for the connectivity issue is resetting your Xbox Series X controller. You can achieve this without being connected to the console, so if your gamepad and console have lost connection, this is a way to re-sync the two.
 
@@ -58,9 +54,7 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 
  You can then switch it on again via the same method and see if that solves the connection issue.
 
-## 4\. Use a Wired Connection
-
-![xbox series x controller usb c port](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/xbox-series-x-controller-usb-c-port.png)
+## 4\. Use a Wired Connection ![xbox series x controller usb c port](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/xbox-series-x-controller-usb-c-port.png)
 
  At the top of the Xbox Series X controller, you will notice it has a USB-C port, which is typically used for charging. However, you can use it to try to solve any disconnection problems.
 
@@ -70,39 +64,33 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 
  Physically connecting your controller and console will immediately overcome the wireless connectivity issue. Once the two devices talk to each other again, you can remove the wired connection and check whether your controller works wirelessly. If it doesn't, you could always stay wired if it's convenient enough.
 
-## 5\. Hard Restart Your Xbox Series X
-
-![xbox series x power button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/xbox-series-x-power-button.png)
+## 5\. Hard Restart Your Xbox Series X ![xbox series x power button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/xbox-series-x-power-button.png)
 
  If all else fails, you can always exercise the IT expert's golden rule... try turning it off and on again. This is an operation you'd only want to carry out as a last resort, especially if you are in the middle of a game and haven't saved recently. Try all the other steps here first, or you risk losing your game progress.
 
  If you simply wish to reboot your Series X, do so via the console itself, given that your controller and Xbox have no connection.
 
- However, to[hard restart your Xbox Series X](https://www.makeuseof.com/tag/reset-xbox-one-xbox-360/) , you need to press and hold the power button on the front of your console (the Xbox logo button above the optical drive). It's important you don't just tap the button, as this will simply put the console to sleep and won't reset anything.
+ However, to [hard restart your Xbox Series X](https://www.makeuseof.com/tag/reset-xbox-one-xbox-360/) , you need to press and hold the power button on the front of your console (the Xbox logo button above the optical drive). It's important you don't just tap the button, as this will simply put the console to sleep and won't reset anything.
 
  Once you have switched the console off, just press the power button again to start it up. If you have performed the action correctly, the console should initialize with the logo screen before loading up your Xbox dashboard.
 
-## 6\. Replace Your Controller's Batteries
-
-![Batteries inside an Xbox controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/batteries-inside-an-xbox-controller.jpg)
+## 6\. Replace Your Controller's Batteries ![Batteries inside an Xbox controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/batteries-inside-an-xbox-controller.jpg)
 
  More often than not, if your Xbox controller is low on battery, it will disconnect, blink for a couple of seconds, and turn off when you're actively playing a game. You can power it back on immediately, but it will only work for a minute or less before disconnecting and turning off again.
 
- When this happens, you should immediately replace the AA batteries in your controller. If you don't want to keep buying AA batteries frequently, you should consider buying the[Xbox Rechargeable Battery](https://www.xbox.com/en-US/accessories/batteries-chargers/play-and-charge-kit) that comes with a USB-C cable for charging when the controller is out of juice. And if that's expensive, you can buy rechargeable AA batteries with a third-party battery charger.
+ When this happens, you should immediately replace the AA batteries in your controller. If you don't want to keep buying AA batteries frequently, you should consider buying the [Xbox Rechargeable Battery](https://www.xbox.com/en-US/accessories/batteries-chargers/play-and-charge-kit) that comes with a USB-C cable for charging when the controller is out of juice. And if that's expensive, you can buy rechargeable AA batteries with a third-party battery charger.
 
  To access and swap the AA batteries, all you need to do is push the battery cover below the controller upwards and pull either end of each battery outwards. Then, put the new ones back in and snap the battery cover in place.
 
-## 7\. Use an Xbox One Controller
+## 7\. Use an Xbox One Controller ![Xbox One controllers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/Xbox-One-Pad.jpg)
 
-![Xbox One controllers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/Xbox-One-Pad.jpg)
-
- Did you know you can[connect an Xbox One controller to your Xbox Series X](https://www.makeuseof.com/how-to-use-xbox-one-controllers-on-your-xbox-series-x/) ? Thanks to backward compatibility, the Xbox One joypad functions almost exactly the same way as a Series X controller.
+ Did you know you can [connect an Xbox One controller to your Xbox Series X](https://www.makeuseof.com/how-to-use-xbox-one-controllers-on-your-xbox-series-x/) ? Thanks to backward compatibility, the Xbox One joypad functions almost exactly the same way as a Series X controller.
 
  By using an Xbox One controller with your Series X console, you'll be able to find out if the connectivity issue is with your Xbox Series X controller or the console itself.
 
  So, if you have an Xbox One gamepad, grab it and connect it to your Series X console. And if it works, feel free to continue gaming because your Series X controller is the culprit here.
 
- If it's a firmware-related bug like the one Microsoft addressed, you can use your old controller while waiting for an update. Don't forget that the[Xbox One controller has its fair share of issues](https://www.makeuseof.com/tag/how-to-fix-xbox-one-controller-not-working/) that prevent it from working, so you might still have the same disconnection problem.
+ If it's a firmware-related bug like the one Microsoft addressed, you can use your old controller while waiting for an update. Don't forget that the [Xbox One controller has its fair share of issues](https://www.makeuseof.com/tag/how-to-fix-xbox-one-controller-not-working/) that prevent it from working, so you might still have the same disconnection problem.
 
 ## Game Without Your Xbox Series X Controller Disconnecting
 

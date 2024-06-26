@@ -1,7 +1,7 @@
 ---
 title: "Neuroprotective Agents in Dementia: The Potential Role of Cannabinoids"
-date: 2024-06-23 14:12:24
-updated: 2024-06-24 10:45:26
+date: 2024-06-25T13:16:51.400Z
+updated: 2024-06-26T13:16:51.400Z
 tags:
   - games
 categories:
@@ -36,11 +36,11 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 ## How Do I Set Up an Assist Controller on My PS5?
 
- There are a few things to note before getting started. Firstly, the ability to connect an assist controller to your PS5 was introduced in an update. So, if you haven’t[enabled auto-updates on your PS5](https://www.makeuseof.com/how-to-enable-ps5-auto-updates/) yet, go ahead and update your PS5 manually to the latest version.
+ There are a few things to note before getting started. Firstly, the ability to connect an assist controller to your PS5 was introduced in an update. So, if you haven’t [enabled auto-updates on your PS5](https://www.makeuseof.com/how-to-enable-ps5-auto-updates/) yet, go ahead and update your PS5 manually to the latest version.
 
  You also can’t use any controller as an assist controller. You can only connect a DualSense controller or another supported third-party controller. If you have the DualSense Edge controller, it can only be used as the main controller and cannot be used as an assist controller.
 
- Once you have ticked the boxes above, you are ready to begin. The process is very similar to[setting up and using the copilot feature on Xbox](https://www.makeuseof.com/how-to-set-up-and-use-co-pilot-on-xbox-series-xs/) , so if you have experience with that, it should be intuitive.
+ Once you have ticked the boxes above, you are ready to begin. The process is very similar to [setting up and using the copilot feature on Xbox](https://www.makeuseof.com/how-to-set-up-and-use-co-pilot-on-xbox-series-xs/) , so if you have experience with that, it should be intuitive.
 
 ![Settings Gear Icon PS5 Home Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/settings-gear-icon-ps5-home-screen.jpg)
 
@@ -89,3 +89,24 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/top-ranked-ps5-flash-drives/"><u>Top-Ranked PS5 Flash Drives</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-graphic-shift-xnas-next-gen-hurdle/"><u>Gaming Graphic Shift: XNA's Next-Gen Hurdle</u></a></li>
+<li><a href="https://games-able.techidaily.com/ifa-2023-highlights-tech-streamlining-with-tecnos-new-releases/"><u>IFA 2023 Highlights Tech Streamlining with Tecno's New Releases</u></a></li>
+<li><a href="https://games-able.techidaily.com/10-fun-texting-games-to-play-on-chat-with-friends-and-family/"><u>10 Fun Texting Games to Play on Chat With Friends and Family</u></a></li>
+<li><a href="https://games-able.techidaily.com/saving-battery-life-for-portable-play/"><u>Saving Battery Life for Portable Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/youtube-games-take-on-a-new-dimension-with-cutting-edge-mini-challenges/"><u>YouTube Games Take on a New Dimension with Cutting-Edge Mini Challenges</u></a></li>
+<li><a href="https://games-able.techidaily.com/quality-graphics-without-breaking-bank/"><u>Quality Graphics Without Breaking Bank</u></a></li>
+<li><a href="https://games-able.techidaily.com/mwcs-finest-recognized-by-makeuseof/"><u>MWC's Finest: Recognized By MakeUseOf</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-freely-accessible-cutting-edge-video-editor-tools/"><u>2024 Approved  Freely Accessible Cutting Edge Video Editor Tools</u></a></li>
+<li><a href="https://ai-video.techidaily.com/updated-in-2024-translate-any-hindi-video-into-english-with-ai/"><u>updated In 2024, Translate Any Hindi Video Into English With AI</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-oneplus-ace-2-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset OnePlus Ace 2 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-significance-of-gopros-burst-sequencing-feature/"><u>[Updated] The Significance of GoPro's Burst Sequencing Feature</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-infinix-hot-40i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-sound-enriched-photography-web-presence/"><u>[New] Sound-Enriched Photography Web Presence</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-price-variations-in-cloud-services/"><u>[New] Navigating Price Variations in Cloud Services</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-discover-the-best-educational-animation-tools/"><u>Updated In 2024, Discover the Best Educational Animation Tools</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-acclaimed-nature-friendly-filming-equipment-insights/"><u>[Updated] 2024 Approved  Acclaimed Nature-Friendly Filming Equipment Insights</u></a></li>
+</ul></div>

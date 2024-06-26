@@ -1,7 +1,7 @@
 ---
 title: "Enhance Steam Deck Performance: Installing Gaming Launchers"
-date: 2024-06-22 11:50:31
-updated: 2024-06-24 11:18:23
+date: 2024-06-25T13:11:10.415Z
+updated: 2024-06-26T13:11:10.415Z
 tags:
   - games
 categories:
@@ -26,13 +26,11 @@ thumbnail: https://thmb.techidaily.com/69b1d610dfac71b4ad43b5c58d93dcc4f9582f39e
 
  Linux has had a solution for running just about any Windows program you can imagine before the Steam Deck even released. Lutris is an open gaming platform that can be engineered to run just about any Windows app.
 
- You could follow[Lutris guides for getting different game launchers to run](https://www.makeuseof.com/how-to-play-pc-games-on-linux-with-lutris/) , but many users find Lutris to be a fickle or complicated program to deal with.
+ You could follow [Lutris guides for getting different game launchers to run](https://www.makeuseof.com/how-to-play-pc-games-on-linux-with-lutris/) , but many users find Lutris to be a fickle or complicated program to deal with.
 
 Instead, we have solutions designed specifically for the Steam Deck.
 
-## Heroic Games Launcher for GOG Galaxy, Epic Games Launcher, and Amazon Games
-
-![screenshot of heroic game launcher in the discover store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_heroic_in_discover_store.jpg)
+## Heroic Games Launcher for GOG Galaxy, Epic Games Launcher, and Amazon Games ![screenshot of heroic game launcher in the discover store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_heroic_in_discover_store.jpg)
 
  Heroic Games Launcher is a frontend for three different game launchers, letting you gain access the Epic Games Launcher, GOG Galaxy, and Amazon Games App with one installation.
 
@@ -50,7 +48,7 @@ Instead, we have solutions designed specifically for the Steam Deck.
 
  Once you're logged in to any of the services, you'll start seeing games appear under the**Library** tab. At this stage, games can be installed and will be automatically managed by the Heroic Games Launcher. Relevant Proton layers will be downloaded and applied to ensure compatibility.
 
- Even the free games offered by Epic will show up in your library, so make sure[you're grabbing those freebies from the Epic Games Launcher](https://www.makeuseof.com/how-to-get-free-games-on-the-epic-games-store/) if you're not already.
+ Even the free games offered by Epic will show up in your library, so make sure [you're grabbing those freebies from the Epic Games Launcher](https://www.makeuseof.com/how-to-get-free-games-on-the-epic-games-store/) if you're not already.
 
  One last change you'll want to make is to head into**Settings** and enable**Add games to Steam Automatically** .
 
@@ -58,11 +56,9 @@ Instead, we have solutions designed specifically for the Steam Deck.
 
  This will add shortcuts to Gaming Mode, allowing you to launch these games without worrying about Desktop Mode.
 
-## NonSteamLaunchers for Battle.net, EA App, and More
+## NonSteamLaunchers for Battle.net, EA App, and More ![screenshot of nonsteamlaunchers list of launchers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_nonsteamlaunchers_list_of_launchers.jpg)
 
-![screenshot of nonsteamlaunchers list of launchers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_nonsteamlaunchers_list_of_launchers.jpg)
-
- NonSteamLaunchers can be a little bit more difficult to install. This isn't available in the Discover Store, so you'll need to enter Desktop Mode and navigate to the[GitHub page for NonSteamLaunchers](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) .
+ NonSteamLaunchers can be a little bit more difficult to install. This isn't available in the Discover Store, so you'll need to enter Desktop Mode and navigate to the [GitHub page for NonSteamLaunchers](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) .
 
  Follow the download and installation instructions available on that page, taking care to execute the file and not simply open it.
 
@@ -97,3 +93,26 @@ Instead, we have solutions designed specifically for the Steam Deck.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/reign-supreme-on-twitch-with-these-7-streamer-assistants/"><u>Reign Supreme on Twitch With These 7 Streamer Assistants</u></a></li>
+<li><a href="https://games-able.techidaily.com/comparing-asus-tuf-proart-and-prime-pc-brands-unveiled/"><u>Comparing Asus, Tuf, ProArt & Prime: PC Brands Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/free-games-just-a-click-away-on-series-xs/"><u>Free Games, Just a Click Away on Series X|S</u></a></li>
+<li><a href="https://games-able.techidaily.com/neuroprotective-agents-in-dementia-the-potential-role-of-cannabinoids/"><u>Neuroprotective Agents in Dementia: The Potential Role of Cannabinoids</u></a></li>
+<li><a href="https://games-able.techidaily.com/fresh-look-new-and-improved-steam-deck-covers-24/"><u>Fresh Look: New and Improved Steam Deck Covers '24</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-strategies-for-psp-as-a-wii-u-clone/"><u>Innovative Strategies for PSP as a Wii U Clone</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-mystery-how-to-activate-undisclosed-browser/"><u>PS5 Mystery: How to Activate Undisclosed Browser?</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps4-button-blunders-step-by-step-repair-strategies-revealed/"><u>PS4 Button Blunders? Step-by-Step Repair Strategies Revealed</u></a></li>
+<li><a href="https://games-able.techidaily.com/breaking-the-code-ps5s-internet-enigma/"><u>Breaking the Code: PS5's Internet Enigma</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-tecno-spark-10-pro-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Tecno Spark 10 Pro? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-ace-windows-10-tricks-to-save-time-and-energy/"><u>In 2024, Ace Windows 10 Tricks to Save Time & Energy</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-premium-best-ten-spotifys-superior-recording-tools/"><u>[Updated] Premium Best Ten  Spotify's Superior Recording Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-finding-the-highlighted-online-discourse/"><u>[Updated] 2024 Approved  Finding the Highlighted Online Discourse</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-comprehensible-approach-to-multisnapping-videos/"><u>[New] In 2024, The Comprehensible Approach to Multisnapping Videos</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-expertly-selected-10-windows-apps-for-tiktok-videography/"><u>[Updated] 2024 Approved  Expertly Selected 10 Windows Apps for TikTok Videography</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-elegant-architecture-top-6-sleek-mc-houses/"><u>[Updated] Elegant Architecture  Top 6 Sleek MC Houses</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-viral-videos-and-lawfulness-pre-upload-copyright-verification-for-2024/"><u>[New] Viral Videos & Lawfulness  Pre-Upload Copyright Verification for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-how-to-preserve-your-roblox-experience-with-flawless-recording-mac/"><u>[New] 2024 Approved  How to Preserve Your Roblox Experience with Flawless Recording (Mac)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-exploring-t-series-youtube-profit-strategy/"><u>[Updated] In 2024, Exploring T-Series YouTube Profit Strategy</u></a></li>
+</ul></div>

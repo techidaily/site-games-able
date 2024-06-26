@@ -1,7 +1,7 @@
 ---
 title: Unboxing Lenovo's Best Legion Go Features at IFA 2 Written by Alex Johnson, MBA
-date: 2024-06-21 12:26:20
-updated: 2024-06-23 10:55:21
+date: 2024-06-25T13:09:53.130Z
+updated: 2024-06-26T13:09:53.130Z
 tags:
   - games
 categories:
@@ -26,9 +26,7 @@ Watch out Steam, ASUS, and dare I say, even Nintendo?
 
  So, what makes the Lenovo Legion Go a worthy competitor? We had a hands-on play with the Legion Go at IFA 2023, and this is why it's set to claim a strong stake among its peers.
 
-## Lenovo Legion Go Hardware Specs
-
-![man holding lenovo legion go at ifa 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/man-holding-lenovo-legion-go-at-ifa-2023.jpg)
+## Lenovo Legion Go Hardware Specs ![man holding lenovo legion go at ifa 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/man-holding-lenovo-legion-go-at-ifa-2023.jpg)
 
  Image Credit: Gavin Phillips/MakeUseOf
 
@@ -57,11 +55,9 @@ You can check out the Lenovo Legion Go's specs below.
 
 ## 5 Lenovo Legion Go Features We Loved
 
- The Lenovo Legion Go is shaping up to be a cracking gaming handheld, so much so, we gave it a[Best Tech in Show award for IFA 2023](https://www.makeuseof.com/makeuseof-best-of-ifa-2023-awards/) . These are the features we loved during our hands-on test.
+ The Lenovo Legion Go is shaping up to be a cracking gaming handheld, so much so, we gave it a [Best Tech in Show award for IFA 2023](https://www.makeuseof.com/makeuseof-best-of-ifa-2023-awards/) . These are the features we loved during our hands-on test.
 
-### 1\. The Lenovo Legion Go Has an Excellent Screen
-
-![close up of lenovo legion go screen at ifa 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/close-up-of-lenovo-legion-go-screen-at-ifa-2023.jpg)
+### 1\. The Lenovo Legion Go Has an Excellent Screen ![close up of lenovo legion go screen at ifa 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/close-up-of-lenovo-legion-go-screen-at-ifa-2023.jpg)
 
  Image Credit: Gavin Phillips/MakeUseOf
 
@@ -71,9 +67,7 @@ You can check out the Lenovo Legion Go's specs below.
 
  Although the brightness of the Legion Go and the ROG Ally are the same, at 500 nits, the Lenovo unit delivers much greater color range and depth by way of its 97% DCI-P3 color gamut support. In short, it displays a wider range of colors, which really shows.
 
-### 2\. FPS Mode
-
-![man using lenovo legion go fps mode at ifa 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/man-using-lenovo-legion-go-fps-mode-at-ifa-2023.jpg)
+### 2\. FPS Mode ![man using lenovo legion go fps mode at ifa 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/man-using-lenovo-legion-go-fps-mode-at-ifa-2023.jpg)
 
  Image Credit: Gavin Phillips/MakeUseOf
 
@@ -89,9 +83,7 @@ You can check out the Lenovo Legion Go's specs below.
 
  Lenovo opted for a 49.2Wh battery, which will theoretically give it the edge over the competition. Again, the battery life is something we'd have to test with more time, but the figures show a clear boost.
 
-### 4\. Excellent Hardware
-
-![lenovo legion go on table at ifa 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/lenovo-legion-go-on-table-at-ifa-2023.jpg)
+### 4\. Excellent Hardware ![lenovo legion go on table at ifa 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/lenovo-legion-go-on-table-at-ifa-2023.jpg)
 
  Image Credit: Gavin Phillips/MakeUseOf
 
@@ -99,9 +91,7 @@ You can check out the Lenovo Legion Go's specs below.
 
  You should be able to really make the most of the 8.8-inch QHD screen, though we must concede that you'll be playing around with resolution and settings to prolong battery life. That's just a fact of life for any handheld gaming device, though.
 
-### 5\. Size and Weight
-
-![man holding lenovo legion go with separate controller atifa 2023-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/man-holding-lenovo-legion-go-with-separate-controller-atifa-2023-1.jpg)
+### 5\. Size and Weight ![man holding lenovo legion go with separate controller atifa 2023-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/man-holding-lenovo-legion-go-with-separate-controller-atifa-2023-1.jpg)
 
  Image Credit: Gavin Phillips/MakeUseOf
 
@@ -138,3 +128,24 @@ The carry case is also a nice touch!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/unlocking-excellence-with-nvidias-novel-gaming-app/"><u>Unlocking Excellence with Nvidia's Novel Gaming App</u></a></li>
+<li><a href="https://games-able.techidaily.com/assessing-the-security-of-roblox-performance-hacks/"><u>Assessing the Security of Roblox Performance Hacks</u></a></li>
+<li><a href="https://games-able.techidaily.com/whats-the-best-gaming-audio-a-guide-to-iems/"><u>What's the Best Gaming Audio? A Guide to IEMs</u></a></li>
+<li><a href="https://games-able.techidaily.com/selecting-an-elgato-stream-deck-for-creative-professionals/"><u>Selecting an Elgato Stream Deck for Creative Professionals</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-series-x-gaming-collective-setup/"><u>Xbox Series X Gaming Collective Setup</u></a></li>
+<li><a href="https://games-able.techidaily.com/customize-your-controls-the-perfect-dpi-level-for-shooters/"><u>Customize Your Controls: The Perfect DPI Level for Shooters</u></a></li>
+<li><a href="https://games-able.techidaily.com/console-countdown-who-wins-in-the-ps5-vs-xbox-series-x/"><u>Console Countdown: Who Wins in the PS5 Vs. Xbox Series X?</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-tools-to-keep-your-steam-deck-cool/"><u>Essential Tools to Keep Your Steam Deck Cool</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Poco X5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-aspers-secrets-soundscapes-that-lull-you-to-sleep-for-2024/"><u>[Updated] Asper's Secrets  Soundscapes That Lull You to Sleep for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-nokia-c02-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/select-6-best-iphone-slide-show-creation-apps-for-2024/"><u>Select 6 Best iPhone Slide Show Creation Apps for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-5-tried-and-true-methods-to-gif-making/"><u>New 2024 Approved 5 Tried-And-True Methods to GIF Making</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-quick-tips-transferring-camera-roll-from-your-device-to-snapchat-app/"><u>[New] Quick Tips  Transferring Camera Roll From Your Device to Snapchat App</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/integrated-video-flow-linking-multiple-youtube-content/"><u>Integrated Video Flow  Linking Multiple YouTube Content</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Honor V Purse? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-tecno-pova-5-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Tecno Pova 5? Look No Further | Dr.fone</u></a></li>
+</ul></div>

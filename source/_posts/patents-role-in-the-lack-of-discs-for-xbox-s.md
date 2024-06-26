@@ -1,7 +1,7 @@
 ---
 title: Patent's Role in the Lack of Discs for Xbox S
-date: 2024-06-25T10:38:16.624Z
-updated: 2024-06-26T10:38:16.624Z
+date: 2024-06-25T12:48:34.175Z
+updated: 2024-06-26T12:48:34.175Z
 tags:
   - games
 categories:
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/9be41d62e85e6d9d35faed892e42e95be3740ff67
 
  One of the more blatant reasons Microsoft would be disinterested in providing a disc drive for the Series S is because it may detract from the overall sales of Xbox Series X consoles.
 
- When[comparing the Xbox Series S to the Xbox Series X](https://www.makeuseof.com/xbox-series-x-vs-xbox-series-s-which-should-you-buy/) , numerous unique properties from both consoles could encourage you to favor one Xbox over the other, whether through price point, power, or storage. But one of the best-selling points for the Series X is its disc drive.
+ When [comparing the Xbox Series S to the Xbox Series X](https://www.makeuseof.com/xbox-series-x-vs-xbox-series-s-which-should-you-buy/) , numerous unique properties from both consoles could encourage you to favor one Xbox over the other, whether through price point, power, or storage. But one of the best-selling points for the Series X is its disc drive.
 
 ![A photograph of an Xbox Series X console in front of a green screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/xsx.jpg)
 
@@ -40,13 +40,13 @@ thumbnail: https://thmb.techidaily.com/9be41d62e85e6d9d35faed892e42e95be3740ff67
 
  So for Microsoft, having more owners of digital-only consoles almost guarantees more users of the Microsoft Store, and retains purchases within Microsoft-owned sites, stores, and products. By association, if an external disc drive or disc drive-supported Series S were available, Microsoft would lose this guarantee.
 
- That being said, digital store processes are just one of many[things to consider when purchasing a digital-only console](https://www.makeuseof.com/buying-tips-digital-only-console/) , and you may even find some digital sales far better than physical ones. But the likelihood of Xbox releasing a disc drive-supported Xbox Series S becomes less likely with the effects on the Microsoft Store.
+ That being said, digital store processes are just one of many [things to consider when purchasing a digital-only console](https://www.makeuseof.com/buying-tips-digital-only-console/) , and you may even find some digital sales far better than physical ones. But the likelihood of Xbox releasing a disc drive-supported Xbox Series S becomes less likely with the effects on the Microsoft Store.
 
 ## 3\. External Disc Readers Are Disabled on Xbox Series S
 
  Aside from sales, reasons the Xbox Series S won't get disc drive support also extend to the hardware and functionality of the console itself. And with all forms of disc readers incompatible with Xbox Series S, it's also unlikely that any third-party accessory would be able to enable disc support.
 
- However, as reported by[Game Rant](https://gamerant.com/microsoft-patent-xbox-physical-games-digital-verification/) , Microsoft put forward a patent for how disc drive support could be implemented for the Xbox Series S. While non-specific, the patent implied that you could validate your physical games to make them available on your digital-only console.
+ However, as reported by [Game Rant](https://gamerant.com/microsoft-patent-xbox-physical-games-digital-verification/) , Microsoft put forward a patent for how disc drive support could be implemented for the Xbox Series S. While non-specific, the patent implied that you could validate your physical games to make them available on your digital-only console.
 
 ![A photograph of a silver and black disc drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disc.jpg)
 

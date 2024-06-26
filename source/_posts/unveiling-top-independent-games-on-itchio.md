@@ -1,7 +1,7 @@
 ---
 title: Unveiling Top Independent Games on Itch.io
-date: 2024-06-22 14:20:59
-updated: 2024-06-23 10:42:40
+date: 2024-06-25T12:50:00.642Z
+updated: 2024-06-26T12:50:00.642Z
 tags:
   - games
 categories:
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/d141dd05ed10b1bd39fa40502c6b028dc88f2f05d
 
 ## 1 Use Tags and Filters
 
- On itch.io, you can use various tags and filters to find great indie games. I am a big fan of[roguelite video games](http://www.makeuseof.com/what-are-roguelike-and-roguelite-video-games/) , so I use the**Roguelite** tag to ensure I only see the relevant results.
+ On itch.io, you can use various tags and filters to find great indie games. I am a big fan of [roguelite video games](http://www.makeuseof.com/what-are-roguelike-and-roguelite-video-games/) , so I use the**Roguelite** tag to ensure I only see the relevant results.
 
  On the itch.io homepage, you will find the frequently used tags in the**Popular Tags** section on the left. But if you want to search for a particular tag, click the**Browse All Tags** link.
 
@@ -48,23 +48,23 @@ thumbnail: https://thmb.techidaily.com/d141dd05ed10b1bd39fa40502c6b028dc88f2f05d
 
 ![Adding tags to a search on itch.io.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/add-roguelite-tag-itch.png)
 
- The games will be sorted by what's popular, but to find the great games, I usually look at the**Top Rated** and**Top Sellers** tabs. This has led me to discover fun roguelites like[Corebreaker](https://aquadiun.itch.io/corebreaker) and[Xenopunch](https://overboy.itch.io/xenopunch) .
+ The games will be sorted by what's popular, but to find the great games, I usually look at the**Top Rated** and**Top Sellers** tabs. This has led me to discover fun roguelites like [Corebreaker](https://aquadiun.itch.io/corebreaker) and [Xenopunch](https://overboy.itch.io/xenopunch) .
 
 ## 2 Check Out Game Bundles
 
- The itch.io website has a[Bundles page](https://itch.io/bundles) where you can find game bundles created by developers. These are promotional packages containing multiple games. Each bundle is sold at a discounted price, and when you purchase it, you get instant access to all the games.
+ The itch.io website has a [Bundles page](https://itch.io/bundles) where you can find game bundles created by developers. These are promotional packages containing multiple games. Each bundle is sold at a discounted price, and when you purchase it, you get instant access to all the games.
 
 ## 3 Check the itch.io Blog
 
- The[itch.io blog](http://itch.io/blog) is a surprisingly good place to find sales and bundles of some great indie games. These promotions are curated based on various themes, such as winter, summer, Halloween, or Valentine's Day. The blog also highlights “Games of the Week,” where the team curates several great indie games for you to try.
+ The [itch.io blog](http://itch.io/blog) is a surprisingly good place to find sales and bundles of some great indie games. These promotions are curated based on various themes, such as winter, summer, Halloween, or Valentine's Day. The blog also highlights “Games of the Week,” where the team curates several great indie games for you to try.
 
 ## 4 Check Out Game Jams
 
- Game jams are a fantastic way to discover hidden gems for free. On itch.io, game jams take place throughout the year, so keep your eye on the[Game Jams page](https://itch.io/jams) to see upcoming events on the calendar. Look for past game jams to try highly rated game submissions.
+ Game jams are a fantastic way to discover hidden gems for free. On itch.io, game jams take place throughout the year, so keep your eye on the [Game Jams page](https://itch.io/jams) to see upcoming events on the calendar. Look for past game jams to try highly rated game submissions.
 
 ![The page to see past game jams on itch.io.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/past-game-jams-itch.png)
 
- These game jams usually have creative and innovative indie games from different genres. Developers usually display talent in crafting unique experiences at these events. Fun games I have discovered through game jams on itch.io include[Inside Job](https://featurekreep.itch.io/inside-job) ,[Bready or not - unSURVIVOR](https://aramilion.itch.io/bready-or-not-unsurvivor) , and[Let There Be Cat](https://kyboon.itch.io/let-there-be-cat) .
+ These game jams usually have creative and innovative indie games from different genres. Developers usually display talent in crafting unique experiences at these events. Fun games I have discovered through game jams on itch.io include [Inside Job](https://featurekreep.itch.io/inside-job) ,[Bready or not - unSURVIVOR](https://aramilion.itch.io/bready-or-not-unsurvivor) , and [Let There Be Cat](https://kyboon.itch.io/let-there-be-cat) .
 
  Since these are game jams, don't expect fully fleshed-out games with lots of content and complex features. Developers usually have time constraints and a limited scope to work with, as well as specific problems to solve. Many enter them to learn about game development and to tackle unique challenges.
 
@@ -88,9 +88,9 @@ thumbnail: https://thmb.techidaily.com/d141dd05ed10b1bd39fa40502c6b028dc88f2f05d
 
 ## 7 Check Out Community Recommendations
 
- The itch.io community has the[Recommend a Game page](https://itch.io/board/13293/recommend-a-game) . This is where people post games that they've enjoyed and why. It's a good place to see the discussion around the game, ask questions, and even find people and developers to follow.
+ The itch.io community has the [Recommend a Game page](https://itch.io/board/13293/recommend-a-game) . This is where people post games that they've enjoyed and why. It's a good place to see the discussion around the game, ask questions, and even find people and developers to follow.
 
- Keep in mind that itch.io is just one of the many platforms to find great indie games. You can also find them on Steam, PlayStation Store, Microsoft Store, Xbox Marketplace, Nintendo eShop, and others. And If you love itch.io for its free games, there's also a way to[find free games on Steam](https://www.makeuseof.com/how-to-find-free-games-on-steam/) .
+ Keep in mind that itch.io is just one of the many platforms to find great indie games. You can also find them on Steam, PlayStation Store, Microsoft Store, Xbox Marketplace, Nintendo eShop, and others. And If you love itch.io for its free games, there's also a way to [find free games on Steam](https://www.makeuseof.com/how-to-find-free-games-on-steam/) .
 
 
 <ins class="adsbygoogle"
@@ -107,3 +107,26 @@ thumbnail: https://thmb.techidaily.com/d141dd05ed10b1bd39fa40502c6b028dc88f2f05d
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/essential-ps5-upgrades-the-best-9-add-ons/"><u>Essential PS5 Upgrades: The Best 9 Add-Ons</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719169261659-amp-up-the-atmosphere-big-box-for-arcade-fronts/"><u>Amp up the Atmosphere: Big Box for Arcade Fronts!</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-twitch-universe-a-beginners-pathway/"><u>Navigating the Twitch Universe: A Beginner's Pathway</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyerdynamics-mmx-200-a-sound-revolution/"><u>Beyerdynamic's MMX 200: A Sound Revolution</u></a></li>
+<li><a href="https://games-able.techidaily.com/disable-gaming-mode-in-discord-settings/"><u>Disable Gaming Mode in Discord Settings</u></a></li>
+<li><a href="https://games-able.techidaily.com/customize-your-interactive-language-in-steam/"><u>Customize Your Interactive Language in Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/spark-innovation-with-these-9-themed-gaming-sessions/"><u>Spark Innovation with These 9 Themed Gaming Sessions</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-nostalgia-using-emudeck-for-old-games/"><u>Exploring Nostalgia: Using EmuDeck for Old Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-hunt-top-achievement-boosting-websites/"><u>The Ultimate Hunt: Top Achievement Boosting Websites</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-the-pathway-to-pristine-soundscapes-techniques-for-eradicating-background-distractions-via-internet-services/"><u>New 2024 Approved The Pathway to Pristine Soundscapes Techniques for Eradicating Background Distractions Via Internet Services</u></a></li>
+<li><a href="https://extra-information.techidaily.com/getting-windows-movie-maker-6-installed-quickly-and-easily/"><u>Getting Windows Movie Maker 6 Installed Quickly & Easily</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-kinemaster-mastery-and-excellent-online-alternatives/"><u>2024 Approved  The Ultimate Guide to KineMaster Mastery & Excellent Online Alternatives</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-hidden-gems-top-8-private-video-downloaders/"><u>[Updated] Hidden Gems  Top 8 Private Video Downloaders</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-silent-transitions/"><u>The Ultimate Guide to Silent Transitions</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-mastering-sound-silence-in-imovie-a-comprehensive-guide/"><u>Updated Mastering Sound Silence in iMovie A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-premium-picks-for-impeccable-4k-screen-recorders/"><u>[New] 2024 Approved  Premium Picks for Impeccable 4K Screen Recorders</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-love-in-motion-how-to-create-a-heartwarming-valentines-day-video-for-your-significant-other/"><u>Updated In 2024, Love in Motion How to Create a Heartwarming Valentines Day Video for Your Significant Other</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-making-everyday-moments-memorable-on-youtube/"><u>2024 Approved  Making Everyday Moments Memorable on YouTube</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-12-pro-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Realme 12 Pro 5G Bootloader Easily</u></a></li>
+</ul></div>

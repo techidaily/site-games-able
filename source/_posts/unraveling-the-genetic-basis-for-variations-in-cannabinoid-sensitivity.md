@@ -1,7 +1,7 @@
 ---
 title: Unraveling the Genetic Basis for Variations in Cannabinoid Sensitivity
-date: 2024-06-21 22:12:35
-updated: 2024-06-24 12:43:33
+date: 2024-06-25T13:17:10.390Z
+updated: 2024-06-26T13:17:10.390Z
 tags:
   - games
 categories:
@@ -36,11 +36,11 @@ thumbnail: https://thmb.techidaily.com/c76014f183cb941dddc5e361ad7d0edd6dead041e
 
 ## How Do I Set Up an Assist Controller on My PS5?
 
- There are a few things to note before getting started. Firstly, the ability to connect an assist controller to your PS5 was introduced in an update. So, if you haven’t[enabled auto-updates on your PS5](https://www.makeuseof.com/how-to-enable-ps5-auto-updates/) yet, go ahead and update your PS5 manually to the latest version.
+ There are a few things to note before getting started. Firstly, the ability to connect an assist controller to your PS5 was introduced in an update. So, if you haven’t [enabled auto-updates on your PS5](https://www.makeuseof.com/how-to-enable-ps5-auto-updates/) yet, go ahead and update your PS5 manually to the latest version.
 
  You also can’t use any controller as an assist controller. You can only connect a DualSense controller or another supported third-party controller. If you have the DualSense Edge controller, it can only be used as the main controller and cannot be used as an assist controller.
 
- Once you have ticked the boxes above, you are ready to begin. The process is very similar to[setting up and using the copilot feature on Xbox](https://www.makeuseof.com/how-to-set-up-and-use-co-pilot-on-xbox-series-xs/) , so if you have experience with that, it should be intuitive.
+ Once you have ticked the boxes above, you are ready to begin. The process is very similar to [setting up and using the copilot feature on Xbox](https://www.makeuseof.com/how-to-set-up-and-use-co-pilot-on-xbox-series-xs/) , so if you have experience with that, it should be intuitive.
 
 ![Settings Gear Icon PS5 Home Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/settings-gear-icon-ps5-home-screen.jpg)
 
@@ -89,3 +89,26 @@ thumbnail: https://thmb.techidaily.com/c76014f183cb941dddc5e361ad7d0edd6dead041e
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/integrating-shared-games-in-ps5-settings/"><u>Integrating Shared Games in PS5 Settings</u></a></li>
+<li><a href="https://games-able.techidaily.com/10-reasons-to-switch-from-console-to-pc-gaming/"><u>10 Reasons to Switch From Console to PC Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/joy-con-compatibility-guide-for-classic-games/"><u>Joy-Con Compatibility Guide for Classic Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-bars-universal-game-accessibility/"><u>Beyond Bars: Universal Game Accessibility</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-ios-delights-join-apple-arcade-enthusiast-club/"><u>Dive Into iOS Delights: Join Apple Arcade Enthusiast Club</u></a></li>
+<li><a href="https://games-able.techidaily.com/combatting-ps5-intermittent-connection-issues/"><u>Combatting PS5 Intermittent Connection Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-xbox-video-capturing-solutions-reviewed/"><u>Prime Xbox Video Capturing Solutions Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-dxvk-and-its-benefits-for-wingaming-enthusiasts/"><u>Decoding DXVK and Its Benefits for WinGaming Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/baffling-board-games-for-brainy-beings/"><u>Baffling Board Games for Brainy Beings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-investigation-are-you-best-off-with-inshot-app-in-2024/"><u>In-Depth Investigation  Are You Best Off with InShot App, In 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-virtualdub-vs-top-competitors-a-comprehensive-comparison/"><u>Updated 2024 Approved Virtualdub vs Top Competitors A Comprehensive Comparison</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-invest-in-insta-success-the-top-earners-playbook-for-2024/"><u>[Updated] Invest in Insta Success  The Top Earners' Playbook for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2023s-comprehensive-guide-to-ios-device-screen-capture-for-2024/"><u>2023'S Comprehensive Guide to iOS Device Screen Capture for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-deeper-look-into-magix-visual-processing-for-2024/"><u>A Deeper Look Into MAGIX Visual Processing for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-realme-c53-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Realme C53</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-lava-blaze-2-pro-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Lava Blaze 2 Pro Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-streamlining-call-logs-the-4-step-guide-for-fb-calls/"><u>[New] In 2024, Streamlining Call Logs  The 4-Step Guide for FB Calls</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-lava-agni-2-5g-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Lava Agni 2 5G Without PUK Codes</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/spotlight-on-10-high-speed-growth-titles-to-inspire-you/"><u>Spotlight on 10 High-Speed Growth Titles to Inspire You</u></a></li>
+</ul></div>

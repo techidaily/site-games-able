@@ -1,7 +1,7 @@
 ---
 title: Do You Actually Need a Mechanical Keyboard for Gaming?
-date: 2024-06-23 14:45:35
-updated: 2024-06-24 12:28:13
+date: 2024-06-25T13:29:08.725Z
+updated: 2024-06-26T13:29:08.725Z
 tags:
   - games
 categories:
@@ -32,9 +32,7 @@ thumbnail: https://thmb.techidaily.com/445d6c97ace4ef05d63cde4f33374d4b0783e76d1
 
  Since we’re talking about gaming, we’re mainly going to focus on gaming mechanical keyboards since they offer many features that normal mechanical keyboards don’t offer. Of course, we’ll also state the benefits of using any mechanical keyboard for gaming.
 
-### Lighter Actuation Force
-
-![Pushing down stem of mechanical switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/pushing-down-stem-of-mechanical-switch.jpg)
+### Lighter Actuation Force ![Pushing down stem of mechanical switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/pushing-down-stem-of-mechanical-switch.jpg)
 
 Jhet Borja/MakeUseOf
 
@@ -42,9 +40,7 @@ Jhet Borja/MakeUseOf
 
  Rubber dome keyboards also require you to press the key all the way down in order to register a click and add to that the squishy feeling that makes you want to press the keyboard harder to feel some sort of tactile feedback. Mechanical keyboards, on the other hand, have the actuation somewhere in the middle, making bottoming out less of a necessity.
 
-### Mechanical Keyboards Have Better Tactile Feedback
-
-![hands holding mouse and keyboard-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/05/hands-holding-mouse-and-keyboard-1.JPG)
+### Mechanical Keyboards Have Better Tactile Feedback ![hands holding mouse and keyboard-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/05/hands-holding-mouse-and-keyboard-1.JPG)
 
 Jhet Borja/MakeUseOf
 
@@ -54,21 +50,17 @@ Jhet Borja/MakeUseOf
 
  When you’re gaming intensely, this tactile feedback is precious. It lets you know that you’ve done the action without second-guessing yourself. If you’re not constantly worried about whether you’ve successfully pressed a key on your keyboard or not, you’re left with more mental capacity to worry about what you need to do in the game.
 
-### Gaming Mechanical Keyboards Have Many Functions and Features
-
-![Wooting 60HE rapid trigger and actuation point settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/wooting-60he-rapid-trigger-and-actuation-point-settings.png)
+### Gaming Mechanical Keyboards Have Many Functions and Features ![Wooting 60HE rapid trigger and actuation point settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/wooting-60he-rapid-trigger-and-actuation-point-settings.png)
 
  Gaming mechanical keyboards have come a long way since they were first popularized in the early 2010s. Gaming brands have come up with many new features that bring gaming to a different level.
 
- You have the commonly found features such as[N-key rollover](https://www.makeuseof.com/what-is-n-key-rollover-mechanical-keyboards/) (allowing you to press multiple keys at once), customizable macro keys, low-latency wireless, and active lighting features.
+ You have the commonly found features such as [N-key rollover](https://www.makeuseof.com/what-is-n-key-rollover-mechanical-keyboards/) (allowing you to press multiple keys at once), customizable macro keys, low-latency wireless, and active lighting features.
 
  However, there are unique features like on the Wooting HE, equipped with hall-effect sensors that allow you to have analog inputs instead of just the typical on-off switch that most keyboards have. If you don’t want to use it in analog mode, you can also customize the actuation distance, allowing for instant actuation if millisecond precision is a concern.
 
  Most gaming mechanical keyboards also feature dedicated macro buttons—easily accessible buttons that you can assign any action. Arma, for example, has so many keybinds that you’ll often have to either move your hand from one side of the keyboard to the other, or move your other hand from your mouse to your keyboard. Macros and layers would allow you to bring those keys and functions to just one side, saving you time.
 
-### Mechanical Keyboards Are Highly Customizable
-
-![Switch lubing tools and keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/switch-lubing-tools-and-keyboard.JPG)
+### Mechanical Keyboards Are Highly Customizable ![Switch lubing tools and keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/switch-lubing-tools-and-keyboard.JPG)
 
 Jhet Borja/MakeUseOf
 
@@ -76,15 +68,13 @@ Jhet Borja/MakeUseOf
 
  As gaming is practically a sport, having equipment that you can customize to fit your gaming style is pretty important. Talking more specifically about gaming-oriented customization, you can get rubberized or textured keys to remember where certain keys are on your keyboard.
 
- You can choose between[clicky, tactile, or linear switches](https://www.makeuseof.com/linear-vs-tactile-vs-clicky-switches-whats-the-difference/) , or even switches with different actuation points. There are so many different directions that you can go with a mechanical keyboard that you might want to check out our[ultimate beginner’s guide to mechanical keyboards](https://www.makeuseof.com/beginner-custom-mechanical-keyboard-guide/) .
+ You can choose between [clicky, tactile, or linear switches](https://www.makeuseof.com/linear-vs-tactile-vs-clicky-switches-whats-the-difference/) , or even switches with different actuation points. There are so many different directions that you can go with a mechanical keyboard that you might want to check out our [ultimate beginner’s guide to mechanical keyboards](https://www.makeuseof.com/beginner-custom-mechanical-keyboard-guide/) .
 
 ## Drawbacks of Mechanical Keyboards for Gaming
 
  There aren’t many drawbacks to mechanical keyboards since they do everything regular keyboards do but better. However, that doesn’t mean there aren’t any. If you’re using a non-mechanical keyboard right now, you should take these into consideration and see whether it’s worth switching to a mechanical keyboard.
 
-### Mechanical Keyboards Are Heavier
-
-![Keychon Q1 side profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/05/keychon-q1-side-profile.JPG)
+### Mechanical Keyboards Are Heavier ![Keychon Q1 side profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/05/keychon-q1-side-profile.JPG)
 
 Jhet Borja/MakeUseOf
 
@@ -94,9 +84,7 @@ Jhet Borja/MakeUseOf
 
  However, the customizable nature of mechanical keyboards means that if you really did want a lightweight, ultra-portable keyboard, you can definitely build one yourself.
 
-### Mechanical Keyboards Cost More
-
-![gateron yellow switches beside keyboard and wrist rest](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gateron-yellow-switches-beside-keyboard-and-wrist-rest-1.JPG)
+### Mechanical Keyboards Cost More ![gateron yellow switches beside keyboard and wrist rest](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gateron-yellow-switches-beside-keyboard-and-wrist-rest-1.JPG)
 
 Jhet Borja/MakeUseOf
 
@@ -135,3 +123,22 @@ Jhet Borja/MakeUseOf
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/breaking-down-believability-why-game-reviews-arent-always-reliable/"><u>Breaking Down Believability: Why Game Reviews Aren't Always Reliable</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-your-steam-deck-potential-with-top-9-emulators/"><u>Maximizing Your Steam Deck Potential with Top 9 Emulators</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-path-to-prosperous-steam-utilization/"><u>The Path to Prosperous Steam Utilization</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-linking-of-console-controllers-on-mobile/"><u>Step-By-Step Linking of Console Controllers on Mobile</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-to-steam-playing-game-pass-games-with-glossi-integration/"><u>Xbox to Steam: Playing Game Pass Games with GlosSI Integration</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-visual-fluidity-measuring-your-devices-fps/"><u>Enhance Visual Fluidity: Measuring Your Device's FPS</u></a></li>
+<li><a href="https://games-able.techidaily.com/before-the-buy-sign-consider-these-6-important-points/"><u>Before the BUY Sign, Consider These 6 Important Points</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-repair-corrupt-excel-file-2003-stellar-by-stellar-guide/"><u>Solutions to Repair Corrupt Excel File 2003 | Stellar</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-y28-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo Y28 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-ultimate-guide-to-separating-audio-tracks-in-adobe-premiere-pro-for-2024/"><u>New The Ultimate Guide to Separating Audio Tracks in Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-voice-personalization-tips-for-instagram-users/"><u>[Updated] Voice Personalization Tips for Instagram Users</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-tips-for-uncovering-missing-exclusive-photos/"><u>[New] 2024 Approved  Tips for Uncovering Missing Exclusive Photos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-rapid-ideas-for-designing-photos-on-macos/"><u>In 2024, Rapid Ideas for Designing Photos on MacOS</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-the-art-of-acoustic-correction-multiple-strategies-for-overcoming-distorted-sound-phenomena/"><u>2024 Approved The Art of Acoustic Correction Multiple Strategies for Overcoming Distorted Sound Phenomena</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-chow-down-challenges-top-10-tiktok-cooking-battles/"><u>[Updated] In 2024, Chow-Down Challenges  Top 10 TikTok Cooking Battles</u></a></li>
+</ul></div>

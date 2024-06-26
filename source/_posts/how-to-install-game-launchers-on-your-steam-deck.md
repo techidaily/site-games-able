@@ -1,7 +1,7 @@
 ---
 title: How to Install Game Launchers on Your Steam Deck
-date: 2024-06-20 10:53:24
-updated: 2024-06-23 10:10:39
+date: 2024-06-25T12:59:16.909Z
+updated: 2024-06-26T12:59:16.909Z
 tags:
   - games
 categories:
@@ -26,13 +26,11 @@ thumbnail: https://thmb.techidaily.com/d6e8710c36c5978badec227a1052e8c4e84f42f10
 
  Linux has had a solution for running just about any Windows program you can imagine before the Steam Deck even released. Lutris is an open gaming platform that can be engineered to run just about any Windows app.
 
- You could follow[Lutris guides for getting different game launchers to run](https://www.makeuseof.com/how-to-play-pc-games-on-linux-with-lutris/) , but many users find Lutris to be a fickle or complicated program to deal with.
+ You could follow [Lutris guides for getting different game launchers to run](https://www.makeuseof.com/how-to-play-pc-games-on-linux-with-lutris/) , but many users find Lutris to be a fickle or complicated program to deal with.
 
 Instead, we have solutions designed specifically for the Steam Deck.
 
-## Heroic Games Launcher for GOG Galaxy, Epic Games Launcher, and Amazon Games
-
-![screenshot of heroic game launcher in the discover store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_heroic_in_discover_store.jpg)
+## Heroic Games Launcher for GOG Galaxy, Epic Games Launcher, and Amazon Games ![screenshot of heroic game launcher in the discover store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_heroic_in_discover_store.jpg)
 
  Heroic Games Launcher is a frontend for three different game launchers, letting you gain access the Epic Games Launcher, GOG Galaxy, and Amazon Games App with one installation.
 
@@ -50,7 +48,7 @@ Instead, we have solutions designed specifically for the Steam Deck.
 
  Once you're logged in to any of the services, you'll start seeing games appear under the**Library** tab. At this stage, games can be installed and will be automatically managed by the Heroic Games Launcher. Relevant Proton layers will be downloaded and applied to ensure compatibility.
 
- Even the free games offered by Epic will show up in your library, so make sure[you're grabbing those freebies from the Epic Games Launcher](https://www.makeuseof.com/how-to-get-free-games-on-the-epic-games-store/) if you're not already.
+ Even the free games offered by Epic will show up in your library, so make sure [you're grabbing those freebies from the Epic Games Launcher](https://www.makeuseof.com/how-to-get-free-games-on-the-epic-games-store/) if you're not already.
 
  One last change you'll want to make is to head into**Settings** and enable**Add games to Steam Automatically** .
 
@@ -58,11 +56,9 @@ Instead, we have solutions designed specifically for the Steam Deck.
 
  This will add shortcuts to Gaming Mode, allowing you to launch these games without worrying about Desktop Mode.
 
-## NonSteamLaunchers for Battle.net, EA App, and More
+## NonSteamLaunchers for Battle.net, EA App, and More ![screenshot of nonsteamlaunchers list of launchers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_nonsteamlaunchers_list_of_launchers.jpg)
 
-![screenshot of nonsteamlaunchers list of launchers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_nonsteamlaunchers_list_of_launchers.jpg)
-
- NonSteamLaunchers can be a little bit more difficult to install. This isn't available in the Discover Store, so you'll need to enter Desktop Mode and navigate to the[GitHub page for NonSteamLaunchers](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) .
+ NonSteamLaunchers can be a little bit more difficult to install. This isn't available in the Discover Store, so you'll need to enter Desktop Mode and navigate to the [GitHub page for NonSteamLaunchers](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) .
 
  Follow the download and installation instructions available on that page, taking care to execute the file and not simply open it.
 
@@ -97,3 +93,26 @@ Instead, we have solutions designed specifically for the Steam Deck.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/choosing-your-ideal-elgato-stream-deck/"><u>Choosing Your Ideal Elgato Stream Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/invest-in-impact-choose-thick-broad-cabinet-frames/"><u>Invest in Impact: Choose Thick, Broad Cabinet Frames!</u></a></li>
+<li><a href="https://games-able.techidaily.com/budget-brilliance-top-deals-on-cost-effective-mobo/"><u>Budget Brilliance: Top Deals on Cost-Effective Mobo</u></a></li>
+<li><a href="https://games-able.techidaily.com/linux-guide-running-android-apps-seamlessly/"><u>Linux Guide: Running Android Apps Seamlessly</u></a></li>
+<li><a href="https://games-able.techidaily.com/smarter-system-control-with-corsair-icue-link-top-4-reasons-to-purchase/"><u>Smarter System Control with Corsair iCUE Link - Top 4 Reasons to Purchase</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-using-ps5-on-windows-devices/"><u>Mastering the Art of Using PS5 on Windows Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/series-xs-stuck-gaming-nightm-cooked-manual-eject-remedy/"><u>Series X's Stuck Gaming Nightm Cooked! Manual Eject Remedy</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-10-pc-games-in-google-play-games-beta-tests/"><u>Top 10 PC Games in Google Play Games Beta Tests</u></a></li>
+<li><a href="https://games-able.techidaily.com/solving-component-requirements-met-issue-in-windows-1111-pro/"><u>Solving Component Requirements Met Issue in Windows 11/11 Pro</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-realme-narzo-60-pro-5g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Realme Narzo 60 Pro 5G Device</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/innovating-friendship-dynamic-pins-on-snapchat/"><u>Innovating Friendship  Dynamic Pins on Snapchat</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-how-to-get-free-views-on-youtube-2-easy-ways/"><u>[New] How to Get Free Views on YouTube [2 Easy Ways]</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/ticking-time-away-with-obs-creating-a-countdown-timer-for-2024/"><u>Ticking Time Away with OBS  Creating a Countdown Timer for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-unlock-4k-the-top-free-video-converters/"><u>New Unlock 4K The Top Free Video Converters</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-14-pro-max-drfone-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/discover-the-premier-5-audio-cutting-software-on-android-devices/"><u>Discover the Premier 5 Audio Cutting Software on Android Devices</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-plus-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 7 Plus, Apples New iPhone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-surfing-the-wave-of-viral-tiktok-reactions/"><u>[Updated] Surfing the Wave of Viral TikTok Reactions</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-8-best-facebook-scheduler-to-improve-efficiency/"><u>2024 Approved  8 Best Facebook Scheduler to Improve Efficiency</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Enhance Visual Appeal: Opt for Expansive Cabinet Panels!"
-date: 2024-06-23 11:24:26
-updated: 2024-06-24 12:19:14
+date: 2024-06-25T12:52:44.530Z
+updated: 2024-06-26T12:52:44.530Z
 tags:
   - games
 categories:
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/21ec111232ea695810b8b161c545d6d8dc411e7ee
 
 ## 1\. Big Box Automatically Imports Metadata
 
- Whether you’ve tackled big projects, like[building a portable retro gaming console using a Raspberry Pi](https://www.makeuseof.com/portable-retro-gaming-console-build-with-raspberry-pi/) , or added a few classic arcade games to your work desktop, you know how painful it is to organize your collection. You are forced to add in every bit of metadata manually in most cases, including hunting down individual bits of media for each game, like a bezel, screenshot, video, and so on.
+ Whether you’ve tackled big projects, like [building a portable retro gaming console using a Raspberry Pi](https://www.makeuseof.com/portable-retro-gaming-console-build-with-raspberry-pi/) , or added a few classic arcade games to your work desktop, you know how painful it is to organize your collection. You are forced to add in every bit of metadata manually in most cases, including hunting down individual bits of media for each game, like a bezel, screenshot, video, and so on.
 
  It's painful work, and for those with massive collections, you’ll be more prone to not organize anything. Don’t do that! Organize now to make it easier to find precisely what you want to play, and you’ll use it more frequently than not, guaranteed.
 
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/21ec111232ea695810b8b161c545d6d8dc411e7ee
 
 ![Importing metadata into Launchbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/import-flyers-bezels-etc.jpg)
 
- This saves days’ worth of work alone, and means[LaunchBox Premium is worth the cost of admission](https://www.makeuseof.com/launchbox-premium-worth-buying/) highly recommend getting a lifetime subscription to both LaunchBox and EmuMovies. You’re looking at $135 for both licenses as of July 2023.
+ This saves days’ worth of work alone, and means [LaunchBox Premium is worth the cost of admission](https://www.makeuseof.com/launchbox-premium-worth-buying/) highly recommend getting a lifetime subscription to both LaunchBox and EmuMovies. You’re looking at $135 for both licenses as of July 2023.
 
  But in terms of ease-of-use and the time saved alone, it’s going to be money well spent. Especially if you want your arcade cabinet to grow with you as you keep adding games via Steam or another source.
 
@@ -54,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/21ec111232ea695810b8b161c545d6d8dc411e7ee
 
 ![Game page in EmuMovies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/emu-movies-front-page.jpg)
 
- If you’re already familiar with[LaunchBox and how it works](https://www.makeuseof.com/what-is-launchbox-how-it-works/) , you already know that you can add custom filters for your games, like the number of players per game or by genre. The filters you create in LaunchBox also appear in Big Box, making it easy to find the right game for the occasion.
+ If you’re already familiar with [LaunchBox and how it works](https://www.makeuseof.com/what-is-launchbox-how-it-works/) , you already know that you can add custom filters for your games, like the number of players per game or by genre. The filters you create in LaunchBox also appear in Big Box, making it easy to find the right game for the occasion.
 
 ## 3\. Big Box Gives You Hotkeys and Customizable Menu Controls
 
@@ -66,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/21ec111232ea695810b8b161c545d6d8dc411e7ee
 
  When you populate your library with metadata via EmuMovies, you probably notice that a marquee file is always downloaded. These files are used with a second screen, displayed as a marquee like a traditional arcade cabinet.
 
- Once you have[set up dual monitors](https://www.makeuseof.com/how-to-set-up-dual-monitors/) for your arcade system, go into Big Box then select**Options > General > Marquee Screen > Screen 2** . Now, whenever you highlight a game in Big Box, your second screen will display the marquee for that particular game, usually reflective of the cabinet it was in during its heyday. It’s a nice touch that goes a long way toward making your cabinet feel authentic yet new.
+ Once you have [set up dual monitors](https://www.makeuseof.com/how-to-set-up-dual-monitors/) for your arcade system, go into Big Box then select**Options > General > Marquee Screen > Screen 2** . Now, whenever you highlight a game in Big Box, your second screen will display the marquee for that particular game, usually reflective of the cabinet it was in during its heyday. It’s a nice touch that goes a long way toward making your cabinet feel authentic yet new.
 
 ![Example of a second screen marquee in BigBox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/second-screen-marquee-big-box.jpg)
 
@@ -76,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/21ec111232ea695810b8b161c545d6d8dc411e7ee
 
  You don’t want to have to use a mouse to open Big Box every time your start the device running your cabinet. It’s preferable if you can dive right into your arcade cabinet’s frontend with as few steps as possible. Fortunately, Big Box makes it happen if your arcade cabinet is powered by Windows.
 
- First, be sure that the device powering your arcade cabinet automatically logs into your account. For example, there are a few[ways to automatically sign into your account in Windows 10](https://www.makeuseof.com/automatically-sign-user-in-windows-10/) . Whatever operating system you are using, be sure it automatically logs in every time the device starts.
+ First, be sure that the device powering your arcade cabinet automatically logs into your account. For example, there are a few [ways to automatically sign into your account in Windows 10](https://www.makeuseof.com/automatically-sign-user-in-windows-10/) . Whatever operating system you are using, be sure it automatically logs in every time the device starts.
 
  Next, start Big Box from LaunchBox. Then, go to **System > Options > General > Enable Using Big Box as the Windows Shell > Yes.** The next time you reboot your device, Big Box will replace the Windows shell. If you need to get into Windows, you can still close Big Box via the Task Manager to gain access to Windows again.
 
@@ -99,3 +99,22 @@ thumbnail: https://thmb.techidaily.com/21ec111232ea695810b8b161c545d6d8dc411e7ee
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/how-to-use-playstation-4-on-your-windows-or-macos-device/"><u>How to Use PlayStation 4 on Your Windows or macOS Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-steam-deck-performance-installing-gaming-launchers/"><u>Enhance Steam Deck Performance: Installing Gaming Launchers</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-blueprint-for-acquiring-and-using-steam-points/"><u>The Blueprint for Acquiring & Using Steam Points</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-dilemma-sonys-console-vs-inexpensive-pc/"><u>Gaming Dilemma: Sony's Console vs Inexpensive PC?</u></a></li>
+<li><a href="https://games-able.techidaily.com/office-desk-vs-high-end-playstation-performance/"><u>Office Desk Vs. High-End PlayStation Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-5-characteristics-of-high-performance-game-mice/"><u>The Ultimate 5 Characteristics of High-Performance Game Mice</u></a></li>
+<li><a href="https://games-able.techidaily.com/unmatched-gameplay-experience-my-oled-journey/"><u>Unmatched Gameplay Experience - My OLED Journey</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-making-every-penny-count-in-youtube-webinars/"><u>[New] Making Every Penny Count in Youtube Webinars</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-platform-faceoff-for-quick-viewers-a-clash-between-youtube-shorts-and-tiktok/"><u>2024 Approved  Platform Faceoff for Quick Viewers  A Clash Between YouTube Shorts and TikTok</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-final-cut-pro-file-management-best-practices-for-saving-and-organizing/"><u>In 2024, Final Cut Pro File Management Best Practices for Saving and Organizing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-professional-screen-grabber-for-win11/"><u>[New] 2024 Approved  Professional Screen Grabber for Win11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-honor-magic-5-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Honor Magic 5</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pictorial-humor-ranking-10-memes-by-creativity-for-2024/"><u>Pictorial Humor  Ranking #10 Memes by Creativity for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/2024-approved-dvr-showdown-tivo-takes-on-comcast/"><u>2024 Approved DVR Showdown TiVo Takes on Comcast</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-superior-mac-gif-enhancer/"><u>[Updated] In 2024, Superior Mac GIF Enhancer</u></a></li>
+</ul></div>

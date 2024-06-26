@@ -1,7 +1,7 @@
 ---
 title: Switch Into Action! Clearing Connection Snags
-date: 2024-06-25T10:40:50.627Z
-updated: 2024-06-26T10:40:50.627Z
+date: 2024-06-25T12:48:35.842Z
+updated: 2024-06-26T12:48:35.842Z
 tags:
   - games
 categories:
@@ -62,13 +62,13 @@ thumbnail: https://thmb.techidaily.com/9a9907ac5dbaa04f31e369bac93b279f477635cd1
 
 ![Switch Adjust Network Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/04-Switch-Adjust-Network-Options.jpg)
 
- At this point, you should also test other devices on your network to make sure they can get online. If they can't, follow our[general guide to troubleshooting network issues](https://www.makeuseof.com/tag/7-simple-steps-diagnose-network-problem/) for help.
+ At this point, you should also test other devices on your network to make sure they can get online. If they can't, follow our [general guide to troubleshooting network issues](https://www.makeuseof.com/tag/7-simple-steps-diagnose-network-problem/) for help.
 
  Be aware that corporate networks, like those at your work or college, might block your Switch from accessing Nintendo's online services. In these cases, you won't be able to do much unless you can convince the network administrator to make gaming services available.
 
 ## 5\. Check Nintendo's Network Maintenance Page
 
- There's a chance that Nintendo's online services could be experiencing an issue. Have a look at[Nintendo's Network Maintenance Information page](https://www.nintendo.co.jp/netinfo/en%5FUS/index.html) for notices about any ongoing problems.
+ There's a chance that Nintendo's online services could be experiencing an issue. Have a look at [Nintendo's Network Maintenance Information page](https://www.nintendo.co.jp/netinfo/en%5FUS/index.html) for notices about any ongoing problems.
 
 ![Nintendo Online Maintenance Message 2021](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/05-Nintendo-Online-Maintenance-Message-2021.png)
 
@@ -94,11 +94,11 @@ thumbnail: https://thmb.techidaily.com/9a9907ac5dbaa04f31e369bac93b279f477635cd1
 
  The Nintendo Switch doesn't have a super powerful Wi-Fi chip, so you may experience connection issues if you're far away from your router. Keep an eye on the Wi-Fi indicator in the top-right of your Switch's home screen to see how strong your connection is.
 
- If possible, move closer to your router for a more stable connection. You should also try to reduce any interference by moving other electronics and metal objects outside of the path between your Switch and router. See[how to get better speed from your router](https://www.makeuseof.com/tag/10-ways-to-improve-the-speed-of-your-current-router/) for general tips on improving reliability.
+ If possible, move closer to your router for a more stable connection. You should also try to reduce any interference by moving other electronics and metal objects outside of the path between your Switch and router. See [how to get better speed from your router](https://www.makeuseof.com/tag/10-ways-to-improve-the-speed-of-your-current-router/) for general tips on improving reliability.
 
 ## 8\. Purchase a Switch Ethernet Adapter
 
- If your Switch won't connect to Wi-Fi no matter what you do, you should consider purchasing a USB to Ethernet adapter for your system. The officially licensed option is the[HORI Ethernet adapter for Nintendo Switch](https://www.amazon.com/Nintendo-Internet-Officially-Licensed-wii-u/dp/B01N6S068R?tag=muo-v2-9fn3ldc-20&linkCode=ogi&th=1&psc=1&ascsubtag=UUmuoUeUpU34819&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Ftag%2Fnintendo-switch-unable-connect-internet%2F&asc%5Fcampaign=Evergreen) , but there are third-party options that will do the job for cheaper.
+ If your Switch won't connect to Wi-Fi no matter what you do, you should consider purchasing a USB to Ethernet adapter for your system. The officially licensed option is the [HORI Ethernet adapter for Nintendo Switch](https://www.amazon.com/Nintendo-Internet-Officially-Licensed-wii-u/dp/B01N6S068R?tag=muo-v2-9fn3ldc-20&linkCode=ogi&th=1&psc=1&ascsubtag=UUmuoUeUpU34819&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Ftag%2Fnintendo-switch-unable-connect-internet%2F&asc%5Fcampaign=Evergreen) , but there are third-party options that will do the job for cheaper.
 
 ![Try an Ethernet adapter if Chromecast keeps buffering](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/muo-entertainment-chromecast-buffering-adapter.jpg)
 
@@ -112,11 +112,11 @@ thumbnail: https://thmb.techidaily.com/9a9907ac5dbaa04f31e369bac93b279f477635cd1
 
  In case you continue to have network issues on your Switch even after all these steps,[Nintendo's NAT troubleshooting page](https://en-americas-support.nintendo.com/app/answers/detail/a%5Fid/22455/~/troubleshooting-issues-related-to-nat#DT:t1-q1a1) recommends looking into advanced settings on your router. These include connecting your Switch to the 5GHz band instead of 2.4GHz, putting your system in the DMZ, and more. You may have a firewall or some other setting blocking the Switch from getting online.
 
- Since these settings vary greatly on different routers, discussing them is beyond the scope of this guide. Most people shouldn't need to worry about them, but you can have a look at our[router tips for gamers](https://www.makeuseof.com/tag/gaming-router-tips-optimal-performance/) for more advice.
+ Since these settings vary greatly on different routers, discussing them is beyond the scope of this guide. Most people shouldn't need to worry about them, but you can have a look at our [router tips for gamers](https://www.makeuseof.com/tag/gaming-router-tips-optimal-performance/) for more advice.
 
 ## 10\. Contact Nintendo Support
 
- At this point, if your Switch still won't connect to the internet, it's likely that your system has a hardware issue that's preventing it from getting online. You should reach out to[Nintendo's Customer Support](https://en-americas-support.nintendo.com/app/contact) to get more help, including a potential hardware repair.
+ At this point, if your Switch still won't connect to the internet, it's likely that your system has a hardware issue that's preventing it from getting online. You should reach out to [Nintendo's Customer Support](https://en-americas-support.nintendo.com/app/contact) to get more help, including a potential hardware repair.
 
 ## Get Your Nintendo Switch Back on the Internet
 

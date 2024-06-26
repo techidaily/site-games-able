@@ -1,7 +1,7 @@
 ---
 title: Game on, Office Seat Style!
-date: 2024-06-21 22:48:44
-updated: 2024-06-24 10:19:15
+date: 2024-06-25T13:00:49.063Z
+updated: 2024-06-26T13:00:49.063Z
 tags:
   - games
 categories:
@@ -32,9 +32,7 @@ thumbnail: https://thmb.techidaily.com/d02ecec5426e8e1f2da5e128e095f9718e5fc3c11
 
  Because office chairs aren’t restricted to some “gaming” aesthetic, they are often designed more ergonomically than gaming chairs. Here are some gaming chair ergonomics pain points for me...
 
-### Race car Bucket Seat Design
-
-![a man playing pc games in a gaming chair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/a-man-playing-pc-games-in-a-gaming-chair.jpg)
+### Race car Bucket Seat Design ![a man playing pc games in a gaming chair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/a-man-playing-pc-games-in-a-gaming-chair.jpg)
 
  Standret/[Shutterstock](https://www.shutterstock.com/image-photo/next-gen-graphics-online-streamer-playing-2159933123)
 
@@ -52,23 +50,21 @@ thumbnail: https://thmb.techidaily.com/d02ecec5426e8e1f2da5e128e095f9718e5fc3c11
 
  Oddly enough, larger people may still struggle with gaming chairs because the bucket seat design is restrictive.
 
-### Bad Lumbar Support
-
-![Man in an office chair at a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/05/man-in-an-office-chair-at-a-desk.jpg)
+### Bad Lumbar Support ![Man in an office chair at a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/05/man-in-an-office-chair-at-a-desk.jpg)
 
  Dreamchild Obari/MakeUseOf
 
  Lumbar support is one of the key arguments for using ergonomic chairs. You may have heard it a lot as a buzzword in the ergonomic chair industry, but it boils down to supporting the natural curve of your spine.
 
- It’s important because good lumbar support will minimize back pain in those long gaming sessions. Additionally, it helps correct your sitting posture and reduces the risk of long-term problems arising from improper posture. I should add that good posture is a key tenet to[staying healthy as a gamer](https://www.makeuseof.com/tips-to-stay-healthy-as-a-gamer/) .
+ It’s important because good lumbar support will minimize back pain in those long gaming sessions. Additionally, it helps correct your sitting posture and reduces the risk of long-term problems arising from improper posture. I should add that good posture is a key tenet to [staying healthy as a gamer](https://www.makeuseof.com/tips-to-stay-healthy-as-a-gamer/) .
 
  If you look at the profile of most low-end gaming chairs, they have a long, straight back with a pillow as lumbar support. Give it a couple of hours, and that lumbar support pillow will flatten and take away what little lumbar support it provides.
 
- For gamers reading this who have some kind of back pain from using gaming chairs, it might be time to consider switching to an[office desk chair designed to prevent back pain](https://www.makeuseof.com/tag/the-5-best-office-chairs-you-can-buy-right-now/) . I use a mesh office chair with a curve that matches my spine, and it has helped improve the pain I developed from my gaming chair days.
+ For gamers reading this who have some kind of back pain from using gaming chairs, it might be time to consider switching to an [office desk chair designed to prevent back pain](https://www.makeuseof.com/tag/the-5-best-office-chairs-you-can-buy-right-now/) . I use a mesh office chair with a curve that matches my spine, and it has helped improve the pain I developed from my gaming chair days.
 
 ## 2 Gaming Chairs Are Cheaply Built and Overpriced
 
- I’ve seen this many times: a regular, not-so-great accessory is packaged with a “gaming” design and sold for a markup. It’s a popular marketing gimmick, and you may have noticed it yourself. Unfortunately, this is also often the case with gaming chairs. In fact, it’s a core[reason not to buy a gaming chair](https://www.makeuseof.com/dont-buy-a-gaming-chair-reasons-why/) .
+ I’ve seen this many times: a regular, not-so-great accessory is packaged with a “gaming” design and sold for a markup. It’s a popular marketing gimmick, and you may have noticed it yourself. Unfortunately, this is also often the case with gaming chairs. In fact, it’s a core [reason not to buy a gaming chair](https://www.makeuseof.com/dont-buy-a-gaming-chair-reasons-why/) .
 
  If you compared a $300 regular ergonomic office chair to a $300 - $500 gaming chair, you’d see that the office chair offers more by way of comfort and adjustability than its gaming counterpart. Additionally, in the category of budget-friendly ergonomic chairs, office chairs seem to be the ones with the better build quality these days.
 
@@ -78,9 +74,7 @@ thumbnail: https://thmb.techidaily.com/d02ecec5426e8e1f2da5e128e095f9718e5fc3c11
 
  Gaming chairs’ costs go into their metal frames and multi-colored upholsteries. However, while office chairs have more modest designs and plastics, they are better designed and cost less.
 
-## 3 An Office Chair Is Aesthetically Safer
-
-![Computer setup with a white office chair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/05/computer-setup-with-a-white-office-chair.jpg)
+## 3 An Office Chair Is Aesthetically Safer ![Computer setup with a white office chair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/05/computer-setup-with-a-white-office-chair.jpg)
 
  Dreamchild Obari/MakeUseOf
 
@@ -107,3 +101,24 @@ thumbnail: https://thmb.techidaily.com/d02ecec5426e8e1f2da5e128e095f9718e5fc3c11
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/3-alternative-methods-for-enjoying-flash-games-post-adobe/"><u>3 Alternative Methods for Enjoying Flash Games Post-Adobe</u></a></li>
+<li><a href="https://games-able.techidaily.com/silence-steam-on-boot-process/"><u>Silence Steam On Boot Process</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-your-switch-key-settings-to-adjust/"><u>Mastering Your Switch: Key Settings to Adjust</u></a></li>
+<li><a href="https://games-able.techidaily.com/action-plan-when-to-fix-when-to-trade-in-your-switch/"><u>Action Plan: When to Fix, When to Trade-In Your Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/secretive-steam-game-stashing/"><u>Secretive Steam Game Stashing</u></a></li>
+<li><a href="https://games-able.techidaily.com/tune-trailblazers-discovering-melodies-on-the-move/"><u>Tune Trailblazers: Discovering Melodies on the Move</u></a></li>
+<li><a href="https://games-able.techidaily.com/advances-in-imaging-techniques-for-monitoring-neurocannabinoid-dynamics-in-real-time/"><u>Advances in Imaging Techniques for Monitoring Neurocannabinoid Dynamics in Real-Time</u></a></li>
+<li><a href="https://games-able.techidaily.com/stealthy-storage-of-virtual-gems/"><u>Stealthy Storage of Virtual Gems</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/crack-the-code-twitter-video-aspect-ratio-requirements-explained/"><u>Crack the Code Twitter Video Aspect Ratio Requirements Explained</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-14-pro-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 14 Pro Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-unique-twist-innovative-approaches-to-tiktok-profiles/"><u>2024 Approved  Unique Twist  Innovative Approaches to TikTok Profiles</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-expanding-your-communication-horizons-top-10-android-apps-to-consider-in-place-of-facetime/"><u>In 2024, Expanding Your Communication Horizons Top 10 Android Apps to Consider in Place of FaceTime</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/why-virtual-reality-lack-of-content-2023-update/"><u>Why Virtual Reality Lack of Content? -2023 Update</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-enhance-yt-experience-the-most-outstanding-reaction-ideas/"><u>[Updated] In 2024, Enhance YT Experience  The Most Outstanding Reaction Ideas</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-12-pro-to-mac-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 12 Pro to Mac? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-crafting-gentle-volume-declines-in-premiere-pro-videos/"><u>[Updated] Crafting Gentle Volume Declines in Premiere Pro Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-quick-and-easy-comedy-unraveling-ifunnys-meme-magic/"><u>[New] Quick & Easy Comedy  Unraveling iFunny's Meme Magic</u></a></li>
+</ul></div>

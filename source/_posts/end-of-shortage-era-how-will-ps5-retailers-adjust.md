@@ -1,7 +1,7 @@
 ---
 title: "End of Shortage Era: How Will PS5 Retailers Adjust?"
-date: 2024-06-23 19:15:47
-updated: 2024-06-24 10:53:38
+date: 2024-06-25T13:02:49.795Z
+updated: 2024-06-26T13:02:49.795Z
 tags:
   - games
 categories:
@@ -22,13 +22,13 @@ thumbnail: https://thmb.techidaily.com/459b794516e41ca817af82c1c22066d193c455f48
 
  The global PS5 shortage is finally over. But the question on everyone's lips now is, will this prompt PlayStation 5 prices to start falling?
 
- The PS5 had a rough start to its lifecycle, taking a massive hit from both global chip shortages and scalpers buying and reselling consoles at eye-watering prices. And while this didn't impact Sony's ability to[sell PS5 consoles and make money](https://www.makeuseof.com/sony-sells-over-7-5-million-consoles/) , it was frustrating for gamers.
+ The PS5 had a rough start to its lifecycle, taking a massive hit from both global chip shortages and scalpers buying and reselling consoles at eye-watering prices. And while this didn't impact Sony's ability to [sell PS5 consoles and make money](https://www.makeuseof.com/sony-sells-over-7-5-million-consoles/) , it was frustrating for gamers.
 
 So, now that the PS5 shortage is over, could we see prices drop?
 
 ## PS5 Consoles Are Now in Plentiful Supply
 
- The news that the PS5 shortage is officially over came from Sony’s president, Jim Ryan, during[a press conference at CES 2023](https://square.sony.com/ces2023/) .
+ The news that the PS5 shortage is officially over came from Sony’s president, Jim Ryan, during [a press conference at CES 2023](https://square.sony.com/ces2023/) .
 
  With the PS5 in plentiful supply around the world,[it's finally time to say goodbye to the PS4](https://www.makeuseof.com/is-it-finally-time-to-say-goodbye-to-the-ps4/) and embrace Sony's next-gen console. This means a healthy shelf of PS5 consoles in almost any game store for gamers to take their pick from.
 
@@ -40,17 +40,17 @@ So, now that the PS5 shortage is over, could we see prices drop?
 
 ## However, the PS5 Slim Could Keep Prices High
 
- Just a few months after the announcement that marked the end of the PS5 shortage, an October 10, 2023 post on the[PlayStation Blog](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/) brought yet another exciting announcement—the unveiling of new (slimmer) PS5 models.
+ Just a few months after the announcement that marked the end of the PS5 shortage, an October 10, 2023 post on the [PlayStation Blog](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/) brought yet another exciting announcement—the unveiling of new (slimmer) PS5 models.
 
 ![the attachable disk drive for the new smaller PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/detachable-disk-drive-for-the-new-smaller-ps5.jpg)
 
  Image Credit:[Sony](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/)
 
- The[PS5 "Slim" comes with a few major differences](https://www.makeuseof.com/old-ps5-vs-the-new-slimmer-ps5-what-are-the-differences/) , including a slimmer frame, a detachable disc drive, and a heftier price tag. Considering the announcement of a brand-new, more expensive PS5 model, it seems unlikely that gamers can expect prices to come down any time soon.
+ The [PS5 "Slim" comes with a few major differences](https://www.makeuseof.com/old-ps5-vs-the-new-slimmer-ps5-what-are-the-differences/) , including a slimmer frame, a detachable disc drive, and a heftier price tag. Considering the announcement of a brand-new, more expensive PS5 model, it seems unlikely that gamers can expect prices to come down any time soon.
 
 ## PS5 Prices Have Actually Risen in Recent Years
 
- Rather than the PS5 becoming cheaper and more accessible to gamers years after release, in August 2022, Sony announced in a post on the[PlayStation Blog](https://blog.playstation.com/2022/08/25/ps5-price-to-increase-in-select-markets-due-to-global-economic-environment-including-high-inflation-rates/#:~:text=Based%20on%20these%20challenging%20economic,%29%2C%20as%20well%20as%20Canada.) that the cost of PS5 consoles sold in Europe, the UK, Japan, China, Australia, Mexico, and Canada was actually increasing. Reversing the trend we have seen with previous console generations, where the hardwar got significantly cheaper over time.
+ Rather than the PS5 becoming cheaper and more accessible to gamers years after release, in August 2022, Sony announced in a post on the [PlayStation Blog](https://blog.playstation.com/2022/08/25/ps5-price-to-increase-in-select-markets-due-to-global-economic-environment-including-high-inflation-rates/#:~:text=Based%20on%20these%20challenging%20economic,%29%2C%20as%20well%20as%20Canada.) that the cost of PS5 consoles sold in Europe, the UK, Japan, China, Australia, Mexico, and Canada was actually increasing. Reversing the trend we have seen with previous console generations, where the hardwar got significantly cheaper over time.
 
 ![A person holding multiple dollar notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/counting-money.jpg)
 
@@ -87,3 +87,23 @@ So, now that the PS5 shortage is over, could we see prices drop?
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/advantages-transitioning-console-players-to-pc-gaming/"><u>Advantages: Transitioning Console Players to PC Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/uncover-the-11-superb-free-word-puzzle-apps-today/"><u>Uncover the 11 Superb Free Word Puzzle Apps Today</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimized-network-interfaces-a-gamers-dream/"><u>Optimized Network Interfaces: A Gamer's Dream</u></a></li>
+<li><a href="https://games-able.techidaily.com/linking-worlds-across-platforms-transition-from-bedrock-writes-to-java-geysermc-server/"><u>Linking Worlds Across Platforms: Transition From Bedrock' Writes to Java, GeyserMC Server</u></a></li>
+<li><a href="https://games-able.techidaily.com/scripting-power-chatgpt-in-game-development/"><u>Scripting Power: ChatGPT in Game Development</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-guide-to-fan-translated-rom-patches/"><u>Step-by-Step Guide to Fan Translated Rom Patches</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-discords-indolence-identifier-accurate/"><u>Is Discord's Indolence Identifier Accurate?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/solo-sound-waves-crafting-a-trending-podcast-series/"><u>Solo Sound Waves  Crafting a Trending Podcast Series</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-oppo-a56s-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Oppo A56s 5G? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-11-pro-with-a-mask-on-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 Pro with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-direct-upload-from-twitter-to-tumblr/"><u>In 2024, Direct Upload From Twitter to Tumblr</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/innovative-techniques-to-enhance-your-obs-broadcasts-android/"><u>Innovative Techniques to Enhance Your OBS Broadcasts (Android)</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/discover-the-best-free-4k-video-editors-for-your-next-project-for-2024/"><u>Discover the Best Free 4K Video Editors for Your Next Project for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-androids-top-video-recording-options-5-excellent-picks/"><u>2024 Approved  Android's Top Video Recording Options - 5 Excellent Picks</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-unveiling-the-5-prized-webcams-for-ultimate-game-broadcasting/"><u>[New] Unveiling the 5 Prized Webcams for Ultimate Game Broadcasting</u></a></li>
+</ul></div>

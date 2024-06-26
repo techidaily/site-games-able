@@ -1,7 +1,7 @@
 ---
 title: "Lenovo's Latest Tablet: A Deep Dive Into the Legion Go"
-date: 2024-06-22 16:18:48
-updated: 2024-06-24 12:24:51
+date: 2024-06-25T13:07:38.946Z
+updated: 2024-06-26T13:07:38.946Z
 tags:
   - games
 categories:
@@ -26,9 +26,7 @@ Watch out Steam, ASUS, and dare I say, even Nintendo?
 
  So, what makes the Lenovo Legion Go a worthy competitor? We had a hands-on play with the Legion Go at IFA 2023, and this is why it's set to claim a strong stake among its peers.
 
-## Lenovo Legion Go Hardware Specs
-
-![man holding lenovo legion go at ifa 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/man-holding-lenovo-legion-go-at-ifa-2023.jpg)
+## Lenovo Legion Go Hardware Specs ![man holding lenovo legion go at ifa 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/man-holding-lenovo-legion-go-at-ifa-2023.jpg)
 
  Image Credit: Gavin Phillips/MakeUseOf
 
@@ -57,11 +55,9 @@ You can check out the Lenovo Legion Go's specs below.
 
 ## 5 Lenovo Legion Go Features We Loved
 
- The Lenovo Legion Go is shaping up to be a cracking gaming handheld, so much so, we gave it a[Best Tech in Show award for IFA 2023](https://www.makeuseof.com/makeuseof-best-of-ifa-2023-awards/) . These are the features we loved during our hands-on test.
+ The Lenovo Legion Go is shaping up to be a cracking gaming handheld, so much so, we gave it a [Best Tech in Show award for IFA 2023](https://www.makeuseof.com/makeuseof-best-of-ifa-2023-awards/) . These are the features we loved during our hands-on test.
 
-### 1\. The Lenovo Legion Go Has an Excellent Screen
-
-![close up of lenovo legion go screen at ifa 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/close-up-of-lenovo-legion-go-screen-at-ifa-2023.jpg)
+### 1\. The Lenovo Legion Go Has an Excellent Screen ![close up of lenovo legion go screen at ifa 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/close-up-of-lenovo-legion-go-screen-at-ifa-2023.jpg)
 
  Image Credit: Gavin Phillips/MakeUseOf
 
@@ -71,9 +67,7 @@ You can check out the Lenovo Legion Go's specs below.
 
  Although the brightness of the Legion Go and the ROG Ally are the same, at 500 nits, the Lenovo unit delivers much greater color range and depth by way of its 97% DCI-P3 color gamut support. In short, it displays a wider range of colors, which really shows.
 
-### 2\. FPS Mode
-
-![man using lenovo legion go fps mode at ifa 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/man-using-lenovo-legion-go-fps-mode-at-ifa-2023.jpg)
+### 2\. FPS Mode ![man using lenovo legion go fps mode at ifa 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/man-using-lenovo-legion-go-fps-mode-at-ifa-2023.jpg)
 
  Image Credit: Gavin Phillips/MakeUseOf
 
@@ -89,9 +83,7 @@ You can check out the Lenovo Legion Go's specs below.
 
  Lenovo opted for a 49.2Wh battery, which will theoretically give it the edge over the competition. Again, the battery life is something we'd have to test with more time, but the figures show a clear boost.
 
-### 4\. Excellent Hardware
-
-![lenovo legion go on table at ifa 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/lenovo-legion-go-on-table-at-ifa-2023.jpg)
+### 4\. Excellent Hardware ![lenovo legion go on table at ifa 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/lenovo-legion-go-on-table-at-ifa-2023.jpg)
 
  Image Credit: Gavin Phillips/MakeUseOf
 
@@ -99,9 +91,7 @@ You can check out the Lenovo Legion Go's specs below.
 
  You should be able to really make the most of the 8.8-inch QHD screen, though we must concede that you'll be playing around with resolution and settings to prolong battery life. That's just a fact of life for any handheld gaming device, though.
 
-### 5\. Size and Weight
-
-![man holding lenovo legion go with separate controller atifa 2023-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/man-holding-lenovo-legion-go-with-separate-controller-atifa-2023-1.jpg)
+### 5\. Size and Weight ![man holding lenovo legion go with separate controller atifa 2023-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/man-holding-lenovo-legion-go-with-separate-controller-atifa-2023-1.jpg)
 
  Image Credit: Gavin Phillips/MakeUseOf
 
@@ -138,3 +128,27 @@ The carry case is also a nice touch!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/directing-the-flow-of-gaming-power-epic-plus-steam-integration/"><u>Directing the Flow of Gaming Power: Epic + Steam Integration</u></a></li>
+<li><a href="https://games-able.techidaily.com/linkedin-has-added-games-but-heres-why-you-shouldnt-play-them/"><u>LinkedIn Has Added Games, but Here's Why You Shouldn't Play Them</u></a></li>
+<li><a href="https://games-able.techidaily.com/securing-victory-resolving-valorants-frames-per-second-challenges-on-pc/"><u>Securing Victory: Resolving Valorant's Frames Per Second Challenges on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/restoring-missing-gps-on-your-pokemon-journey/"><u>Restoring Missing GPS on Your Pokémon Journey</u></a></li>
+<li><a href="https://games-able.techidaily.com/engaging-kids-in-secure-family-oriented-steam-adventures/"><u>Engaging Kids in Secure, Family-Oriented Steam Adventures</u></a></li>
+<li><a href="https://games-able.techidaily.com/cutting-edge-gaming-displays-at-240hz-top-picks/"><u>Cutting-Edge Gaming Displays at 240Hz, Top Picks</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719168463782-the-ultimate-arcade-upgrade-wide-front-panels/"><u>The Ultimate Arcade Upgrade: Wide Front Panels!</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-workspace-with-the-top-asus-rog-ally-laptop-docks-24/"><u>Transform Your Workspace with the Top ASUS ROG Ally Laptop Docks, '24</u></a></li>
+<li><a href="https://games-able.techidaily.com/sony-playstation-handheld-demystified/"><u>Sony PlayStation Handheld Demystified</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-impact-on-game-quality-when-developers-earn-through-tipping/"><u>The Impact on Game Quality When Developers Earn Through Tipping</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-xiaomi-redmi-k70e-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Xiaomi Redmi K70E? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/loop-maker-assembly/"><u>Loop Maker Assembly</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-10-imovie-alternatives-for-android-expert-recommendations/"><u>New 10 iMovie Alternatives for Android Expert Recommendations</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-innovative-pathways-select-7-tools-for-artwork-conversion-to-nfts/"><u>[New] Innovative Pathways  Select 7 Tools for Artwork Conversion to NFTs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-ultimate-checklist-for-fpv-drone-propeller-selection/"><u>[New] 2024 Approved  The Ultimate Checklist for FPV Drone Propeller Selection</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-screen-capture-showdown-bandicam-vs-camtasia-battle/"><u>[Updated] In 2024, Screen Capture Showdown  Bandicam Vs Camtasia Battle</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-the-ultimate-guide-to-mts-video-editing-top-5-software-for-2024/"><u>New The Ultimate Guide to MTS Video Editing Top 5 Software for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-virtual-collaboration-share-your-screens-with-facebook-viewers/"><u>[New] In 2024, Virtual Collaboration  Share Your Screens with Facebook Viewers</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-meizu-21-pro-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Meizu 21 Pro Bypass FRP Tools for PC That Actually Work</u></a></li>
+</ul></div>

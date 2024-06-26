@@ -1,7 +1,7 @@
 ---
 title: Jumpstart Gaming - Repair and Revive Your Own Controllers
-date: 2024-06-21 11:17:35
-updated: 2024-06-24 11:56:12
+date: 2024-06-25T13:30:12.968Z
+updated: 2024-06-26T13:30:12.968Z
 tags:
   - games
 categories:
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/6cb6ce252b0ad11ed755d646e5f628bce76854128
 
  Unlike most companies that would rather gobble up your money and make you purchase a new controller every year or two, Xbox has turned a new leaf. Gamers from North America can now purchase official replacement parts from Xbox directly and follow the free tutorials provided to fix their controller themselves.
 
- Replacement parts for all major components are available on[Microsoft's official website](https://www.microsoft.com/en-us/store/b/xbox-repair-parts) , including replacement PCBAs, motor assemblies, shell cases, and buttons. New buttons and shell replacements are available in either black or white, so you can give your controller a whole new look while you’re at it.
+ Replacement parts for all major components are available on [Microsoft's official website](https://www.microsoft.com/en-us/store/b/xbox-repair-parts) , including replacement PCBAs, motor assemblies, shell cases, and buttons. New buttons and shell replacements are available in either black or white, so you can give your controller a whole new look while you’re at it.
 
 ![A disassembled Xbox Series X|S controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/xbox-x-controller-disassembly-4-1.JPG)
 
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/6cb6ce252b0ad11ed755d646e5f628bce76854128
 
  Unless you are already well-versed in the inner workings of a video game controller, you are probably going to want to check out one of Xbox’s free tutorials to walk you through the job. Even if you are experienced, it can’t hurt to freshen up your memory before cracking open your controller and fiddling around in there. Luckily for those who are keen to learn this handy new skill,[Xbox Support](https://support.xbox.com/en-us/help/hardware-network/warranty-service/xbox-self-repair) has provided both written instructions for the repair and a YouTube tutorial for visual learners, which you can view above.
 
- If Xbox's tutorials aren't doing the trick for you, you can also learn a variety of repair techniques like[how to fix your drifting Xbox controller](https://www.makeuseof.com/xbox-controller-drift/) or[how to open your Xbox Series X|S Controller](https://www.makeuseof.com/xbox-series-xs-controller-how-to-take-apart/) from our very own experts.
+ If Xbox's tutorials aren't doing the trick for you, you can also learn a variety of repair techniques like [how to fix your drifting Xbox controller](https://www.makeuseof.com/xbox-controller-drift/) or [how to open your Xbox Series X|S Controller](https://www.makeuseof.com/xbox-series-xs-controller-how-to-take-apart/) from our very own experts.
 
 ## Why You Should Fix Your Own Xbox Controller
 
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/6cb6ce252b0ad11ed755d646e5f628bce76854128
 
  Now, you can purchase new parts for anywhere between $19.99 to $34.99, depending on what you need. These savings are even more apparent when you’re talking about the Xbox Elite Series 2 Wireless controller.
 
- Not only does fixing your own controller save you money, but it also saves the planet from unnecessary waste. Xbox has done a lot in recent years to reduce its carbon footprint and help its customers do the same, from introducing a[power-saving mode on the Xbox](https://www.makeuseof.com/xbox-shutdown-vs-sleep-mode/) to[crafting a whole Xbox controller out of trash](https://www.makeuseof.com/how-xbox-wireless-controller-remix-edition-make-life-easier/) .
+ Not only does fixing your own controller save you money, but it also saves the planet from unnecessary waste. Xbox has done a lot in recent years to reduce its carbon footprint and help its customers do the same, from introducing a [power-saving mode on the Xbox](https://www.makeuseof.com/xbox-shutdown-vs-sleep-mode/) to [crafting a whole Xbox controller out of trash](https://www.makeuseof.com/how-xbox-wireless-controller-remix-edition-make-life-easier/) .
 
 ![Close up of Xbox Wireless Controller Remix Edition on a Leafy Background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/close-up-of-xbox-wireless-controller-remix-edition-on-a-leafy-background.jpg)
 
@@ -73,3 +73,24 @@ thumbnail: https://thmb.techidaily.com/6cb6ce252b0ad11ed755d646e5f628bce76854128
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/future-ready-ergonomic-desk-surfaces/"><u>Future-Ready Ergonomic Desk Surfaces</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionizing-playstation-5-9-advantages-unveiled/"><u>Revolutionizing PlayStation 5: 9 Advantages Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/demystifying-meta-what-it-is-and-should-gamers-follow/"><u>Demystifying 'Meta': What It Is & Should Gamers Follow?</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-gameplay-integrating-old-games-into-steam-deck/"><u>Seamless Gameplay: Integrating Old Games Into Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/boost-your-gaming-score-with-complete-badge-collection/"><u>Boost Your Gaming Score with Complete Badge Collection</u></a></li>
+<li><a href="https://games-able.techidaily.com/compactbudget-screen-gamechanger-led/"><u>CompactBudget Screen - GameChanger LED</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-16-multiplayer-couch-games-for-next-gen-xbox/"><u>Top 16 Multiplayer Couch Games for Next-Gen Xbox</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-portable-workstations-asus-rog-ally-24/"><u>Mastering the Art of Portable Workstations: ASUS ROG Ally '24</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-elevate-your-storytelling-with-instagram-and-youtube-vids/"><u>[Updated] Elevate Your Storytelling with Instagram & YouTube Vids</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-vivo-s17t-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-top-10-free-and-paid-podcast-editors-essential-tools-for-quality-sound-production/"><u>Updated 2024 Approved Top 10 Free and Paid Podcast Editors Essential Tools for Quality Sound Production</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-savvy-snapchat-users-guide-to-gif-sharing-for-2024/"><u>[New] The Savvy Snapchat User's Guide to Gif Sharing for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/windows-10-gamers-guide-to-effective-video-capture/"><u>Windows 10 Gamers' Guide to Effective Video Capture</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-effortlessly-link-zoom-events-across-ios-android-and-desktops/"><u>[Updated] 2024 Approved  Effortlessly Link Zoom Events Across iOS, Android, and Desktops</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-nokia-c32-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Nokia C32</u></a></li>
+</ul></div>

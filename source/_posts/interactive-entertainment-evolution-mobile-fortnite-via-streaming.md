@@ -1,7 +1,7 @@
 ---
 title: "Interactive Entertainment Evolution: Mobile Fortnite via Streaming"
-date: 2024-06-25T10:38:51.156Z
-updated: 2024-06-26T10:38:51.156Z
+date: 2024-06-25T12:48:34.539Z
+updated: 2024-06-26T12:48:34.539Z
 tags:
   - games
 categories:
@@ -29,9 +29,9 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
 
 ## Download GeForce Now on Your iPhone
 
- Getting GeForce Now on your iPhone isn't as straightforward as[downloading an app from the App Store](https://www.makeuseof.com/how-to-download-apps-from-app-store/) . Nvidia has opted for a different approach, implementing a mobile web app instead. Here's how you can access it on your iPhone:
+ Getting GeForce Now on your iPhone isn't as straightforward as [downloading an app from the App Store](https://www.makeuseof.com/how-to-download-apps-from-app-store/) . Nvidia has opted for a different approach, implementing a mobile web app instead. Here's how you can access it on your iPhone:
 
-1. Launch Safari and head over to[Nvidia's GeForce Now install page](https://play.geforcenow.com/mall/#/install) .
+1. Launch Safari and head over to [Nvidia's GeForce Now install page](https://play.geforcenow.com/mall/#/install) .
 2. Tap the**Share** button at the bottom.
 3. Scroll down and select**Add to Home Screen** .
 4. Tap**Add** in the top-right corner.
@@ -70,7 +70,7 @@ Close
 
  During peak hours, you may need to wait in a queue before you can play a game using GeForce Now, especially if you're on the free tier.
 
- You can[use your iPhone like a handheld gaming console](https://www.makeuseof.com/how-to-turn-iphone-into-gaming-console/) , particularly with GeForce Now. Besides Fortnite, you can access over 1,500 PC games directly on your iPhone.
+ You can [use your iPhone like a handheld gaming console](https://www.makeuseof.com/how-to-turn-iphone-into-gaming-console/) , particularly with GeForce Now. Besides Fortnite, you can access over 1,500 PC games directly on your iPhone.
 
  So, follow our steps to enjoy Fortnite or any PC game on your device seamlessly. Don't be quick to pay for GeForce Now; try out the free tier for a while to see if you enjoy the streamed gaming experience.
 

@@ -1,7 +1,7 @@
 ---
 title: Download Platforms for BG3 Unveiled!
-date: 2024-06-22 20:21:59
-updated: 2024-06-24 10:59:58
+date: 2024-06-25T13:14:40.937Z
+updated: 2024-06-26T13:14:40.937Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/07e687f8419c4806cb630c22e1fb9dad311423267
 
 ## What Are Baldur’s Gate 3's Hardware and Software Requirements?
 
- Unlike its predecessors, you can’t run Baldur’s Gate 3 on a potato computer. While you don’t need the most powerful graphic cards, you would need a decent one if you want to enjoy your experience and explore this corner of Faerûn. Take a look at our list of the[best graphic cards for any budget](https://www.makeuseof.com/tag/best-graphics-cards/) to find something that works for you if you plan to play on a PC.
+ Unlike its predecessors, you can’t run Baldur’s Gate 3 on a potato computer. While you don’t need the most powerful graphic cards, you would need a decent one if you want to enjoy your experience and explore this corner of Faerûn. Take a look at our list of the [best graphic cards for any budget](https://www.makeuseof.com/tag/best-graphics-cards/) to find something that works for you if you plan to play on a PC.
 
 Here’s a table for Baldur’s Gate 3’s specs:
 
@@ -33,7 +33,7 @@ Here’s a table for Baldur’s Gate 3’s specs:
 | **DirectX**   | Version 11                                                                                                            | \-                                                                                          |
 | **Storage**   | 150GB SSD                                                                                                             | **Minimum** \- 150GB HDD**Recommended** \- 150GB SSD                                        |
 
- Apple silicon Macs generally run Baldur’s Gate better than Intel Macs—just one of the reasons[you might need an Apple silicon Mac](https://www.makeuseof.com/do-i-need-an-apple-silicon-mac/) .
+ Apple silicon Macs generally run Baldur’s Gate better than Intel Macs—just one of the reasons [you might need an Apple silicon Mac](https://www.makeuseof.com/do-i-need-an-apple-silicon-mac/) .
 
 * M1 and M2 Macs with 8GB RAM could run this game on low settings (and this includes all MacBook Airs).
 * M1 and M2 Macs with 16GB of RAM can run Baldur’s Gate 3 on high or ultra settings.
@@ -43,7 +43,7 @@ Here’s a table for Baldur’s Gate 3’s specs:
 
 ![Baldur's Gate 3 Steam Store Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-steam-store-page.jpeg)
 
- Baldur’s Gate 3 came out for PC on August 3rd, but it will come out for macOS and PS5 on September 6th, and perhaps next year for Xbox Series X|S. Larian Studios has issues getting the split-screen to work effectively on the[cheaper and less powerful Xbox Series S](https://www.makeuseof.com/xbox-series-x-vs-xbox-series-s-which-should-you-buy/) .
+ Baldur’s Gate 3 came out for PC on August 3rd, but it will come out for macOS and PS5 on September 6th, and perhaps next year for Xbox Series X|S. Larian Studios has issues getting the split-screen to work effectively on the [cheaper and less powerful Xbox Series S](https://www.makeuseof.com/xbox-series-x-vs-xbox-series-s-which-should-you-buy/) .
 
  You can get Baldur’s Gate 3 on PC and Mac from Steam, GOG, and GeForce Now. It costs $59.99 alone or $69.98 with the Digital Deluxe Edition DLC.
 
@@ -92,3 +92,22 @@ Here’s a table for Baldur’s Gate 3’s specs:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/fixing-joy-con-connection-issues-on-nintendo-switch/"><u>Fixing Joy-Con Connection Issues on Nintendo Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/minecraft-map-mastery-acquiring-and-activating-adventures/"><u>Minecraft Map Mastery: Acquiring & Activating Adventures</u></a></li>
+<li><a href="https://games-able.techidaily.com/recharge-joy-not-purchase-fix-your-own-controllers/"><u>Recharge Joy, Not Purchase - Fix Your Own Controllers</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovation-leaders-makeuseof-and-mwc-2024-honors/"><u>Innovation Leaders: MakeUseOf & MWC 2024 Honors</u></a></li>
+<li><a href="https://games-able.techidaily.com/insights-into-xbox-casing/"><u>Insights Into Xbox Casing</u></a></li>
+<li><a href="https://games-able.techidaily.com/reduce-distractions-by-turning-off-ui-features/"><u>Reduce Distractions by Turning Off UI Features</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-the-potential-of-your-games-with-nvidia-g-sync/"><u>Unlocking the Potential of Your Games with Nvidia G-Sync</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-affordable-pc-obs-tuning-guide-for-2024/"><u>[Updated] Affordable PC OBS Tuning Guide for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6s-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6s to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-iphone-8-plus-online-without-jailbreak-by-drfone-ios/"><u>How to Unlock SIM Card on iPhone 8 Plus online without jailbreak</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-pixel-queens-rising-youtubes-top-10/"><u>[Updated] In 2024, Pixel Queens Rising  YouTube's #Top 10</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-editing-experience-workshop/"><u>In 2024, Editing Experience Workshop</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-concept-to-click-an-in-depth-look-at-gif-memes/"><u>In 2024, From Concept to Click  An In-Depth Look at GIF Memes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/visionsnap-tech-your-guide-to-the-best-of-2023/"><u>VisionSnap Tech – Your Guide to the Best of 2023</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/how-to-setup-and-evaluate-facebook-instream-ads/"><u>How to Setup and Evaluate Facebook Instream Ads?</u></a></li>
+</ul></div>

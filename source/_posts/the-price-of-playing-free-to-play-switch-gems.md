@@ -1,7 +1,7 @@
 ---
 title: "The Price of Playing: Free-to-Play Switch Gems"
-date: 2024-06-25T10:49:45.416Z
-updated: 2024-06-26T10:49:45.416Z
+date: 2024-06-25T12:48:41.399Z
+updated: 2024-06-26T12:48:41.399Z
 tags:
   - games
 categories:
@@ -50,13 +50,13 @@ thumbnail: https://thmb.techidaily.com/ce80644caee7b986767dc148a3626afb6dedcf8d3
 
 ## 4. Tetris 99
 
- Whoever said that Tetris and[Battle Royale games](https://www.makeuseof.com/what-are-battle-royale-games/) don’t mix well together? Tetris 99 is an online version of the classic game Tetris. In it, you’ll compete against up to 98 other players.
+ Whoever said that Tetris and [Battle Royale games](https://www.makeuseof.com/what-are-battle-royale-games/) don’t mix well together? Tetris 99 is an online version of the classic game Tetris. In it, you’ll compete against up to 98 other players.
 
  The gameplay is the same as regular Tetris, so your goal is to keep your board clear as much as possible by aligning your bricks into rows to make them disappear. One of the key differences is that you can send “garbage” to other players to eliminate them. Of course, that’s easier said than done.
 
  Surprisingly, the competitive aspect of Tetris 99 makes the game a really fun experience. Plus, winning a game feels way more satisfying.
 
- It’s worth noting that while Tetris 99 is technically free, you will need a[Nintendo Switch Online subscription](https://www.makeuseof.com/tag/nintendo-switch-online-everything-need-know/) to play it. If you’re already subscribed, then this game is worth checking out.
+ It’s worth noting that while Tetris 99 is technically free, you will need a [Nintendo Switch Online subscription](https://www.makeuseof.com/tag/nintendo-switch-online-everything-need-know/) to play it. If you’re already subscribed, then this game is worth checking out.
 
 ## 5. Fortnite
 
@@ -84,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/ce80644caee7b986767dc148a3626afb6dedcf8d3
 
  The battle system is completely different from the main Pokémon games, so don’t expect your fire-type Pokémon to be super effective against your opponent’s water-type Pokémon. Instead, you’ll have to rely on your skills and special moves to defeat the opponent.
 
- Pokémon Unite is one of the[best MOBA games you can play today](https://www.makeuseof.com/best-moba-games-to-play/) . You'll have a great time if you’re a fan of the Pokémon franchise.
+ Pokémon Unite is one of the [best MOBA games you can play today](https://www.makeuseof.com/best-moba-games-to-play/) . You'll have a great time if you’re a fan of the Pokémon franchise.
 
 ## 8. Super Kirby Clash
 
@@ -100,7 +100,7 @@ thumbnail: https://thmb.techidaily.com/ce80644caee7b986767dc148a3626afb6dedcf8d3
 
 ## 9. Rocket League
 
- Do you love soccer and fast cars? Why not put them together and play some Rocket League? This free-to-play game has been one of the[most popular multiplayer titles](http://www.makeuseof.com/tag/10-awesome-cross-platform-mobile-multiplayer-games/) since 2020 and for a good reason.
+ Do you love soccer and fast cars? Why not put them together and play some Rocket League? This free-to-play game has been one of the [most popular multiplayer titles](http://www.makeuseof.com/tag/10-awesome-cross-platform-mobile-multiplayer-games/) since 2020 and for a good reason.
 
  The rules are simple. You enter a soccer field with your favorite car, and your job is to score as many goals as you can. Playing soccer with a car makes the game both fun and difficult, but it is much more rewarding when you score.
 

@@ -1,7 +1,7 @@
 ---
 title: How to Install Fresh Joysticks on Your Nintendo Switch
-date: 2024-06-22 13:58:21
-updated: 2024-06-24 12:46:40
+date: 2024-06-25T13:31:08.122Z
+updated: 2024-06-26T13:31:08.122Z
 tags:
   - games
 categories:
@@ -26,9 +26,9 @@ thumbnail: https://thmb.techidaily.com/bcbbbb17c516407e41023c9df84564d9e208249f4
 
 ![Close up of Nintendo Switch Pikachu and Eevee Joy Cons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Close-up-of-Nintendo-Switch-Pikachu-and-Eeve-joy-cons.jpg)
 
- Once a Joy-Con has drift, there is little you can do to fix it. There are, however, several tricks you can try to[fix Joy-Con drift on your Nintendo Switch](https://www.makeuseof.com/ways-to-fix-joy-con-drift-nintendo-switch/) before you open it up and take matters into your own hands. The first thing you should try when you notice drift in your Joy-Con is to calibrate them using the calibration tool in the Switch’s menu. That may help for a while, but it is more of a Band-Aid and doesn’t fix the root of the issue.
+ Once a Joy-Con has drift, there is little you can do to fix it. There are, however, several tricks you can try to [fix Joy-Con drift on your Nintendo Switch](https://www.makeuseof.com/ways-to-fix-joy-con-drift-nintendo-switch/) before you open it up and take matters into your own hands. The first thing you should try when you notice drift in your Joy-Con is to calibrate them using the calibration tool in the Switch’s menu. That may help for a while, but it is more of a Band-Aid and doesn’t fix the root of the issue.
 
- You can also[send your Joy-Con away for a free repair](https://www.makeuseof.com/how-to-send-joy-cons-off-for-free-repair/) . This is a great service, but you aren’t guaranteed to receive the same Joy-Con back. So, if you send a limited edition pair, there is a chance you may get the classic red and blue Joy-Con back. Some gamers aren’t willing to take that risk.
+ You can also [send your Joy-Con away for a free repair](https://www.makeuseof.com/how-to-send-joy-cons-off-for-free-repair/) . This is a great service, but you aren’t guaranteed to receive the same Joy-Con back. So, if you send a limited edition pair, there is a chance you may get the classic red and blue Joy-Con back. Some gamers aren’t willing to take that risk.
 
  When all the above methods fail, learning how to replace your faulty joysticks yourself is the best option. It is worth noting, however, that doing so voids your warranty. But if your warranty has already run out, and you would rather fix your pair for around $10.00 rather than pay $79.99 for a new set, you don’t really have much to lose.
 
@@ -80,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/bcbbbb17c516407e41023c9df84564d9e208249f4
 
 ![How to calibrate controller on Nintendo Switch Calibrate Control Sticks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/how-to-calibrate-controller-on-nintendo-switch-calibrate-control-sticks.jpg)
 
- As simple as replacing your joystick is, it's not ideal to have to repeat the process frequently. Make sure to regularly[clean your Nintendo Switch and Joy-Con](https://www.makeuseof.com/how-to-safely-clean-nintendo-switch-and-joy-cons/) to prevent dust buildup and increase the longevity of your joysticks.
+ As simple as replacing your joystick is, it's not ideal to have to repeat the process frequently. Make sure to regularly [clean your Nintendo Switch and Joy-Con](https://www.makeuseof.com/how-to-safely-clean-nintendo-switch-and-joy-cons/) to prevent dust buildup and increase the longevity of your joysticks.
 
 ## Say Goodbye to Joy-Con Drift Forever With This Guide
 
@@ -103,3 +103,23 @@ thumbnail: https://thmb.techidaily.com/bcbbbb17c516407e41023c9df84564d9e208249f4
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/thought-currents-power-beyond-the-outlet/"><u>Thought Currents: Power Beyond the Outlet</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-a-world-of-fun-with-these-compelling-9-reasons-for-using-steam/"><u>Unlock a World of Fun with These Compelling 9 Reasons for Using Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfecting-precision-initial-fps-adjustments/"><u>Perfecting Precision: Initial FPS Adjustments</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-144hz-widescreen-panels-peak-pc-gaming-performance/"><u>Top 144Hz Widescreen Panels: Peak PC Gaming Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/say-goodbye-to-freezing-frustrations-with-epics-launcher-fixes/"><u>Say Goodbye to Freezing Frustrations with Epic's Launcher Fixes</u></a></li>
+<li><a href="https://games-able.techidaily.com/timeless-play-changing-regions-on-xbox-system/"><u>Timeless Play: Changing Regions on Xbox System</u></a></li>
+<li><a href="https://games-able.techidaily.com/choosing-quality-over-quantity-the-best-reasons-to-purchase-gaming-apps/"><u>Choosing Quality Over Quantity: The Best Reasons to Purchase Gaming Apps</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-installation-and-uninstallation-of-audacity-on-chrome-os-explained-simply/"><u>2024 Approved Installation & Uninstallation of Audacity on Chrome OS Explained Simply</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-cutting-edge-leading-10-4k-dslr-shoulder-rigs/"><u>In 2024, Cutting Edge  Leading 10 4K DSLR Shoulder Rigs</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-perfecting-the-art-of-slowing-down-video-on-instagram/"><u>Updated Perfecting the Art of Slowing Down Video on Instagram</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-from-amateur-to-professional-iphone-filmmaking-8-key-tips/"><u>[New] 2024 Approved  From Amateur to Professional iPhone Filmmaking (8 Key Tips)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-experts-list-of-tools-for-accelerating-your-facebook-vids/"><u>[New] The Expert's List of Tools for Accelerating Your Facebook Vids</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/recover-absent-watch-icon-on-fb-for-2024/"><u>Recover Absent Watch Icon on FB for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-step-by-step-privacy-adjustments-for-youtube/"><u>2024 Approved  Step-by-Step Privacy Adjustments for YouTube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leveraging-the-power-of-movie-maker-in-windows-8-for-professional-results-for-2024/"><u>Leveraging the Power of Movie Maker in Windows 8 for Professional Results for 2024</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-xiaomi-redmi-12-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Xiaomi Redmi 12 Hard Reset | Dr.fone</u></a></li>
+</ul></div>

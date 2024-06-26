@@ -1,7 +1,7 @@
 ---
 title: Stealthy Storage of Virtual Gems
-date: 2024-06-21 14:18:58
-updated: 2024-06-24 12:24:14
+date: 2024-06-25T13:07:00.272Z
+updated: 2024-06-26T13:07:00.272Z
 tags:
   - games
 categories:
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
 
 ## Steam Now Lets You Set Games as Private
 
- Steam announced on the[Steam News Hub](https://store.steampowered.com/news/collection/steam/?emclan=103582791457287600&emgid=4149575031731807335) that the Private Apps feature is now out of beta, meaning that as soon as you log into Steam again, you should have access to it. But what does setting a game as private on Steam do?
+ Steam announced on the [Steam News Hub](https://store.steampowered.com/news/collection/steam/?emclan=103582791457287600&emgid=4149575031731807335) that the Private Apps feature is now out of beta, meaning that as soon as you log into Steam again, you should have access to it. But what does setting a game as private on Steam do?
 
  According to Steam, games marked as private will only be visible to you. In the past, the only way to keep friends from seeing the games you play was to mark your entire library as private (which was overkill if you only wanted to hide a few titles).
 
@@ -68,11 +68,11 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
 
  You can also head to your library to remove a game from your private items. Right-click on the title and then select**Manage > Unmark as Private** .
 
- You should also keep in mind that if you[enabled a custom playing status on Discord](https://www.makeuseof.com/set-custom-playing-status-discord/) , a private Steam game will still show up on Discord while you're playing it.
+ You should also keep in mind that if you [enabled a custom playing status on Discord](https://www.makeuseof.com/set-custom-playing-status-discord/) , a private Steam game will still show up on Discord while you're playing it.
 
 ## Don't Mix Up Private Games and Hidden Games on Steam
 
- When you right-clicked on a title in your library, you might have noticed an existing option to**Hide this game** . This, however, is a separate feature that simply hides a game from your own library menu—it remains visible if friends search through your games list. This means that the feature is essentially an organization feature to[get rid of games on your Steam account](https://www.makeuseof.com/tag/how-to-finally-get-rid-of-games-from-your-steam-account/) rather than a privacy feature.
+ When you right-clicked on a title in your library, you might have noticed an existing option to**Hide this game** . This, however, is a separate feature that simply hides a game from your own library menu—it remains visible if friends search through your games list. This means that the feature is essentially an organization feature to [get rid of games on your Steam account](https://www.makeuseof.com/tag/how-to-finally-get-rid-of-games-from-your-steam-account/) rather than a privacy feature.
 
  If you've been using the wrong feature to try making your games private, you can find all your hidden games in your library. If you remember the name of the specific title, you can search for it and it will show up under a hidden tab.
 
@@ -99,3 +99,27 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/unlock-full-potential-of-steam-deck-with-epic-and-gog/"><u>Unlock Full Potential of Steam Deck with Epic & GOG</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-gaming-gpu-showdown-amds-radeon-xt-series-explained/"><u>The Ultimate Gaming GPU Showdown: AMD's Radeon XT Series Explained</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-mode-in-macos-sonoma-explained/"><u>Game Mode in macOS Sonoma Explained</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-xboxs-game-fairness-system/"><u>Understanding Xbox's Game Fairness System</u></a></li>
+<li><a href="https://games-able.techidaily.com/questful-commuting-smart-tips-for-in-transit-gaming/"><u>Questful Commuting: Smart Tips for In-Transit Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficiently-solve-steam-errors-on-windows-11-system/"><u>Efficiently Solve Steam Errors on Windows 11 System</u></a></li>
+<li><a href="https://games-able.techidaily.com/finding-balance-upgrading-cpus-or-graphics-cards/"><u>Finding Balance: Upgrading CPUs or Graphics Cards</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-joy-con-to-console-now-to-steam/"><u>From Joy-Con to Console, Now to Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/apple-arcades-edge-in-portable-entertainment-play/"><u>Apple Arcade's Edge in Portable Entertainment Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/breaking-down-the-science-of-captivating-steam-game-critiques/"><u>Breaking Down the Science of Captivating Steam Game Critiques</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-hidefake-snapchat-location-on-your-vivo-v29-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-learn-how-to-convert-mp4-videos-to-60-fps-gifs-with-this-easy-to-follow-tutorial-get-smooth-and-crisp-motion-in-your-gifs-in-just-a-few-simple-steps/"><u>New Learn How to Convert MP4 Videos to 60 FPS GIFs with This Easy-to-Follow Tutorial. Get Smooth and Crisp Motion in Your GIFs in Just a Few Simple Steps</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/enhancing-iphone-7-screen-record-capabilities/"><u>Enhancing iPhone 7 Screen Record Capabilities</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-social-scoop-twitters-trending-talks/"><u>[New] Social Scoop  Twitter’s Trending Talks</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-expert-curated-list-of-near-perfect-3ds-simulations/"><u>[New] 2024 Approved  Expert-Curated List of Near-Perfect 3Ds Simulations</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-get-the-most-out-of-your-music-files-the-importance-of-mp3-converter-windows/"><u>New In 2024, Get the Most Out of Your Music Files The Importance of Mp3 Converter Windows</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-exploring-archives-for-articulated-grunt-effects/"><u>New In 2024, Exploring Archives for Articulated Grunt Effects</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-proven-techniques-to-take-your-obs-studio-videos-to-new-heights/"><u>[New] In 2024, Proven Techniques to Take Your OBS Studio Videos to New Heights</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-unlocking-screen-recording-potential-on-your-hp-notebook/"><u>[New] In 2024, Unlocking Screen Recording Potential on Your HP Notebook</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-teacher-friendly-video-capture-options-reviewed/"><u>[Updated] Teacher-Friendly Video Capture Options Reviewed</u></a></li>
+</ul></div>

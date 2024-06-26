@@ -1,7 +1,7 @@
 ---
 title: Top 8 Premier Gaming Outlets & Reviews
-date: 2024-06-22 14:21:11
-updated: 2024-06-24 12:55:23
+date: 2024-06-25T13:25:12.420Z
+updated: 2024-06-26T13:25:12.420Z
 tags:
   - games
 categories:
@@ -26,13 +26,11 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 
  We encourage you to research these issues and draw your own conclusions about whether you want to follow such mainstream gaming sites. Whatever sites you do choose to read, it's important that you pay attention to the writers you're reading, not just the site. There really isn't a "best game review site" for everyone, since quality differs among the authors at various sites.
 
-## 1. Destructoid
-
-![Destructoid Site 2021](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/01-Destructoid-Site-2021.png)
+## 1. Destructoid ![Destructoid Site 2021](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/01-Destructoid-Site-2021.png)
 
  Destructoid is a great all-around gaming site with a bit of everything. It publishes articles regularly, with lots of news posts, reviews, and features appearing each week. This includes updates on certain games, previews of upcoming games, and opinion pieces.
 
- It's not just a gaming news site, though. Destructoid publishes reviews of console and PC games, as well as mobile titles and even DLC. Its reviews are straightforward, and you can read[Destructoid's scoring system](https://www.destructoid.com/the-official-destructoid-review-guide-2011-203909.phtml) to understand how it rates games.
+ It's not just a gaming news site, though. Destructoid publishes reviews of console and PC games, as well as mobile titles and even DLC. Its reviews are straightforward, and you can read [Destructoid's scoring system](https://www.destructoid.com/the-official-destructoid-review-guide-2011-203909.phtml) to understand how it rates games.
 
  Top off this coverage with video content and community forums, and you've got a solid video game website anyone can enjoy.
 
@@ -46,9 +44,7 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 
  In the reviews, clear**Pros** /**Cons** lists and a summary of the verdict make them easy to skim. Overall, GamesRadar+ provides lots of content to check out, as well as quick stories for staying abreast of gaming news.
 
-## 3. Game Informer
-
-![Game Informer 2021 Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/03-Game-Informer-2021-Screenshot.png)
+## 3. Game Informer ![Game Informer 2021 Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/03-Game-Informer-2021-Screenshot.png)
 
  Game Informer is a long-running video game magazine that also has a website. Unlike other gaming websites that also feature content for movies and TV, this one is all about games (occasionally covering movies and TV based on games). You'll find news, previews of upcoming games, reviews, and features.
 
@@ -56,53 +52,43 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 
  Overall, Game Informer is a website run by people who love video games, built for players. The site doesn't review every little game, but what's here is excellent and there's no political nonsense to worry about.
 
-## 4. Metacritic
-
-![Metacritic 2021 Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/04-Metacritic-2021-Screenshot.png)
+## 4. Metacritic ![Metacritic 2021 Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/04-Metacritic-2021-Screenshot.png)
 
  If you don't feel like wading through detailed reviews and just want a quick score to see if a game is worth playing, Metacritic is for you. It's not a review website in itself, but instead aggregates scores from various game review websites ([making it an aggregate review site like Rotten Tomatoes](https://www.makeuseof.com/sites-like-rotten-tomatoes-find-average-ratings-reviews-for-anything/) ).
 
  Search for a game, and you'll see a weighted score from 1-100\. You can click through to read individual reviews, or compare what the critics thought to user reviews.
 
- A lot of the time, it's hard to sum up a game's quality in a single number. Thus, many people have issues with the weight placed on Metacritic, but it's a fine place to start your research on a game. Just remember that a numbered score isn't everything. Consider[OpenCritic](https://opencritic.com/) as an alternative, which addresses some of the problems people have with Metacritic.
+ A lot of the time, it's hard to sum up a game's quality in a single number. Thus, many people have issues with the weight placed on Metacritic, but it's a fine place to start your research on a game. Just remember that a numbered score isn't everything. Consider [OpenCritic](https://opencritic.com/) as an alternative, which addresses some of the problems people have with Metacritic.
 
-## 5. Nintendo Life
-
-![Nintendo Life Screenshot 2021](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/05-Nintendo-Life-Screenshot-2021.png)
+## 5. Nintendo Life ![Nintendo Life Screenshot 2021](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/05-Nintendo-Life-Screenshot-2021.png)
 
  As its name suggests, this is one of the best gaming websites for Nintendo enthusiasts. Nintendo Life specializes in covering the Nintendo Switch, eShop, and similar topics. You'll find reviews, news, features, and even original videos.
 
  The guides stand out here. They provide help for major games, such as type weaknesses in Pokémon or how to spot fake paintings in Animal Crossing. The site reviews downloadable eShop titles as well as mainstream releases, so there's a lot of coverage.
 
- With a pleasant community in the forums and comment sections, this is a must-visit for all Nintendo fans. For similar sites in the same network, check out[Push Square](https://www.pushsquare.com/) (PlayStation) and[Pure Xbox](https://www.purexbox.com/) .
+ With a pleasant community in the forums and comment sections, this is a must-visit for all Nintendo fans. For similar sites in the same network, check out [Push Square](https://www.pushsquare.com/) (PlayStation) and [Pure Xbox](https://www.purexbox.com/) .
 
-## 6. GameSpot
-
-![GameSpot 2021 Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/06-GameSpot-2021-Screenshot.png)
+## 6. GameSpot ![GameSpot 2021 Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/06-GameSpot-2021-Screenshot.png)
 
  GameSpot is a well-known gaming site that's worth a visit. You'll find popular and recent news on its homepage, along with lists of upcoming games and recent reviews.
 
- The site reviews games, both popular and small, on every platform. For something a little different, you can also check out its video shows and[forums to connect with other gamers](https://www.makeuseof.com/tag/big-gaming-forums-video-game-talk/) .
+ The site reviews games, both popular and small, on every platform. For something a little different, you can also check out its video shows and [forums to connect with other gamers](https://www.makeuseof.com/tag/big-gaming-forums-video-game-talk/) .
 
  There are some occasional quirks with its reviews, like the writer mentioning that they didn't play through the entire game. Because of this, it is nice to see a summary of what the reviewer played at the bottom of the article. But overall, it's a quality resource.
 
-## 7. Christ Centered Gamer
-
-![Chris Centered Gamer Site](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chris-centered-gamer-site-2023.jpg)
+## 7. Christ Centered Gamer ![Chris Centered Gamer Site](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chris-centered-gamer-site-2023.jpg)
 
  With the above discussion of bias in games media, you might think a site with an obvious predisposition is an odd choice to include. But Christ Centered Gamer has received praise for its clear reviews from people concerned about the ethics of mainstream game sites.
 
  Unlike sites that let author biases influence their ranking of a game's quality, this site separates its reviews into two scores. One scores the game technically on its gameplay, controls, and other qualities. The other scores the morality of the game, based on factors like language, sexual content, and similar.
 
- If you're a person of faith, or want more information about video games for your children beyond the[basic game age rating](https://www.makeuseof.com/do-video-game-age-ratings-matter/) , you can take the morality score into account. But if you don't care about that, you can skip right past it and still enjoy a quality review of the game on its own merits.
+ If you're a person of faith, or want more information about video games for your children beyond the [basic game age rating](https://www.makeuseof.com/do-video-game-age-ratings-matter/) , you can take the morality score into account. But if you don't care about that, you can skip right past it and still enjoy a quality review of the game on its own merits.
 
  This page isn't as well-known as some other game review sites, but it's up-front about its biases and hasn't had concerning breaches of ethics. You may find that refreshing.
 
-## 8. Game Rant
+## 8. Game Rant ![GameRant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gamerant.jpg)
 
-![GameRant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gamerant.jpg)
-
- Game Rant has been a trusted source of gaming information for over ten years. As one of the[250+ million readers of the site](https://gamerant.com/page/press-kit/) , you can access the latest news, reviews, features, interviews, and opinion pieces on everything related to gaming. For instance, you can read game reviews (each game is scored on a scale of 5 stars) and explainers on a wide variety of games, from AAA blockbusters to indie gems.
+ Game Rant has been a trusted source of gaming information for over ten years. As one of the [250+ million readers of the site](https://gamerant.com/page/press-kit/) , you can access the latest news, reviews, features, interviews, and opinion pieces on everything related to gaming. For instance, you can read game reviews (each game is scored on a scale of 5 stars) and explainers on a wide variety of games, from AAA blockbusters to indie gems.
 
  You can start by keeping an eye on the latest game releases and developments on the site's Gaming News page. Platformers of all types can get something as Game Rant comprehensively covers PC, PlayStation, Xbox, Nintendo, & mobile titles. If you are a beginner, the detailed Explainers on each game title can not only help you learn about different games but also make informed decisions about which games to buy.
 
@@ -112,19 +98,15 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 
 ### YouTube
 
- Anyone with an opinion and a YouTube channel can make a video reviewing a game. If you prefer to watch gameplay for a game instead of just reading about it, this is a great option. Chances are that you'll be able to find someone talking about the game you're interested in. Have a look at the[best YouTube game review channels](https://www.makeuseof.com/tag/youtube-channels-video-game-reviews/) to start.
+ Anyone with an opinion and a YouTube channel can make a video reviewing a game. If you prefer to watch gameplay for a game instead of just reading about it, this is a great option. Chances are that you'll be able to find someone talking about the game you're interested in. Have a look at the [best YouTube game review channels](https://www.makeuseof.com/tag/youtube-channels-video-game-reviews/) to start.
 
-### GameFAQS
+### GameFAQS ![GameFAQs Review](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/GameFAQs-Review.png)
 
-![GameFAQs Review](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/GameFAQs-Review.png)
-
- In addition to being one of[the best places for game walkthroughs](https://www.makeuseof.com/tag/find-best-game-walkthroughs/) , GameFAQs is a useful resource for user reviews of games too. Search for a game and check its**Reviews** tab to see what others thought about it.
+ In addition to being one of [the best places for game walkthroughs](https://www.makeuseof.com/tag/find-best-game-walkthroughs/) , GameFAQs is a useful resource for user reviews of games too. Search for a game and check its**Reviews** tab to see what others thought about it.
 
  These reviews don't follow any particular pattern, so it's up to each person to discuss what they feel is important and structure the review accordingly.
 
-### Steam
-
-![Steam Reviews](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/Steam-Reviews.png)
+### Steam ![Steam Reviews](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/Steam-Reviews.png)
 
  Steam has a handy review system that makes it easy to see what a lot of other players thought about the game. Just scroll down on any game's page on Steam to take a look. You can filter by positive or negative reviews, how long the reviewer played the game, and other criteria. It's even possible to see a graph of reviews over time.
 
@@ -151,3 +133,22 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/jumpstart-gaming-repair-and-revive-your-own-controllers/"><u>Jumpstart Gaming - Repair and Revive Your Own Controllers</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-new-nintendo-switch-joystick-installation/"><u>The Ultimate Guide to New Nintendo Switch Joystick Installation</u></a></li>
+<li><a href="https://games-able.techidaily.com/ensuring-complete-game-displays-in-epics-library/"><u>Ensuring Complete Game Displays in Epic's Library</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-misleading-game-spots-insights-galore/"><u>Decoding Misleading Game Spots: Insights Galore</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigate-joy-con-replacement-effortlessly/"><u>Navigate Joy-Con Replacement Effortlessly</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-office-seat-style/"><u>Game on, Office Seat Style</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ps-vita-explained-in-simplicity/"><u>The PS Vita Explained in Simplicity</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-guide-to-whatsapp-status-video-makers-free-and-paid/"><u>Updated The Ultimate Guide to WhatsApp Status Video Makers Free and Paid</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-essentialists-guide-to-archiving-ps3-gameplay-moments/"><u>2024 Approved  The Essentialist's Guide to Archiving PS3 Gameplay Moments</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-sourav-joshis-roadmap-to-financial-freedom-via-youtube-for-2024/"><u>[Updated] Sourav Joshi's Roadmap to Financial Freedom via YouTube for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-realme-gt-neo-5-se-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Realme GT Neo 5 SE? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-gionee-f3-promirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Gionee F3 ProMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-vn-video-editor-templates-a-game-changer-for-your-videos/"><u>New In 2024, VN Video Editor Templates A Game-Changer for Your Videos</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/phone-friendly-design-the-importance-of-aspect-ratio-considerations/"><u>Phone-Friendly Design The Importance of Aspect Ratio Considerations</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-make-a-digital-signature-for-docm-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to make a digital signature for .docm file</u></a></li>
+</ul></div>

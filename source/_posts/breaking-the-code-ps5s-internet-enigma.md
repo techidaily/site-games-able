@@ -1,7 +1,7 @@
 ---
 title: "Breaking the Code: PS5's Internet Enigma"
-date: 2024-06-22 18:16:20
-updated: 2024-06-24 12:25:15
+date: 2024-06-25T13:29:03.723Z
+updated: 2024-06-26T13:29:03.723Z
 tags:
   - games
 categories:
@@ -54,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 
  As you might expect given how Sony hid the browser away, the PS5 web browser isn't anything fantastic. Basic sites that only have text and images load fine, but anything that requires multimedia isn't reliable.
 
- You can probably pull up a video site that doesn't have a dedicated PS5 app to enjoy watching its content, but don't expect to use complicated web apps or play games. Using the software keyboard is a pain (unless you[connect a physical keyboard to your PS5](https://www.makeuseof.com/how-to-use-keyboard-mouse-ps5/) ). Plus, using the Google login workaround every time is inefficient and prevents you from linking your X account with your PSN account.
+ You can probably pull up a video site that doesn't have a dedicated PS5 app to enjoy watching its content, but don't expect to use complicated web apps or play games. Using the software keyboard is a pain (unless you [connect a physical keyboard to your PS5](https://www.makeuseof.com/how-to-use-keyboard-mouse-ps5/) ). Plus, using the Google login workaround every time is inefficient and prevents you from linking your X account with your PSN account.
 
  For most people, there are few reasons you'd actually want to use the browser on your PS5\. Chances are that you have a smartphone nearby that's much easier to use and will work with almost all websites, unlike the clunky PS5 browser experience. The only scenario we can think of where this browser would come in handy is if you want to look something up while using PlayStation VR and don't want to take the headset off.
 
@@ -62,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 
  Oddly, the PS5 does have an options page under**Settings > System** titled**Web Browser** that has settings for deleting cookies and similar. It's not clear why this exists when the browser isn't meant for general use.
 
- Meanwhile, if the lackluster web browser left you wanting more, you should check out other[hidden features of your PS5](https://www.makeuseof.com/ps5-things-you-might-not-know-you-can-do/) .
+ Meanwhile, if the lackluster web browser left you wanting more, you should check out other [hidden features of your PS5](https://www.makeuseof.com/ps5-things-you-might-not-know-you-can-do/) .
 
 ## Browse the Web on PS5, If You Really Need To
 
@@ -83,3 +83,24 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/mwc-unveiled-innovations-and-winners-by-makeuseof/"><u>MWC Unveiled: Innovations and Winners by MakeUseOf</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-playroom-to-digital-space-broadcast-your-xbox-experience-on-discord/"><u>From Playroom to Digital Space: Broadcast Your Xbox Experience on Discord</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-techs-edge-series-x-vs-custom-pc/"><u>Exploring Tech's Edge: Series X VS. Custom PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/cost-analysis-of-subscribing-to-sony-online-entertainment/"><u>Cost Analysis of Subscribing to Sony Online Entertainment</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-you-control-your-ps4-with-ps5-controller/"><u>Can You Control Your PS4 with PS5 Controller?</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-steam-big-picture-and-solving-problems/"><u>Troubleshooting Steam Big Picture and Solving Problems</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-steam-decks-cloud-connectivity-problems/"><u>Resolving Steam Deck's Cloud Connectivity Problems</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamepad-flaw-outsmarted-by-new-rog-ally/"><u>Gamepad Flaw Outsmarted by New RoG Ally</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-mastering-tiktoks-visuals-a-comprehensive-aspect-ratio-guide/"><u>Updated In 2024, Mastering TikToks Visuals A Comprehensive Aspect Ratio Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-say-goodbye-to-watermarks-top-tiktok-removal-tools/"><u>Updated Say Goodbye to Watermarks Top TikTok Removal Tools</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/ultimate-guide-from-iphone-7-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide from iPhone 7 iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-unveiling-the-world-of-wide-web-watching-via-fb/"><u>[Updated] 2024 Approved  Unveiling the World of Wide Web Watching via FB</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-poco-c55-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Poco C55</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-zero-to-hero-3-proven-strategies-for-livestream-success-on-youtube/"><u>In 2024, From Zero to Hero  3 Proven Strategies for Livestream Success on YouTube</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-basic-screenshot-toolkit-for-windows-10/"><u>[Updated] Basic Screenshot Toolkit for Windows 10</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-the-11-key-insights-into-superior-color-adjustment-techniques/"><u>2024 Approved  Explore the 11 Key Insights Into Superior Color Adjustment Techniques</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-the-fleeting-feed-of-fb-shorts/"><u>[New] 2024 Approved  The Fleeting Feed of FB Shorts</u></a></li>
+</ul></div>

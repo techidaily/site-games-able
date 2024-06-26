@@ -1,7 +1,7 @@
 ---
 title: Avoid Steam's Resource Drain - 5 Effective Methods to Limit RAM Use
-date: 2024-06-23 20:43:22
-updated: 2024-06-24 11:19:38
+date: 2024-06-25T12:52:47.469Z
+updated: 2024-06-26T12:52:47.469Z
 tags:
   - games
 categories:
@@ -30,19 +30,15 @@ thumbnail: https://thmb.techidaily.com/9a1d2889cbe4ad14880fa77a388cff944d010380f
 
  On top of consuming plenty of memory in the long run, too many of these instances can even impact your CPU performance. Thankfully, ta few solutions exist for too many WebHelper instances running.
 
-## 1\. Use Offline Mode
+## 1\. Use Offline Mode ![Steam selecting the go offline option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_steam_go_offline.jpg)
 
-![Steam selecting the go offline option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_steam_go_offline.jpg)
-
- One way to prevent internet-connected browsers from launching is to[run Steam offline](https://www.makeuseof.com/how-to-use-steam-offline-mode/) . You can do this by hitting**Steam** from the main screen and pressing**Go Offline...** from the drop-down menu.
+ One way to prevent internet-connected browsers from launching is to [run Steam offline](https://www.makeuseof.com/how-to-use-steam-offline-mode/) . You can do this by hitting**Steam** from the main screen and pressing**Go Offline...** from the drop-down menu.
 
  Do note that this has limitations, such as downloading new updates or connecting online to certain games.
 
-## 2\. Disable Hardware-Accelerated Rendering
+## 2\. Disable Hardware-Accelerated Rendering ![Steam interface settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_interface_settings.jpg)
 
-![Steam interface settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_interface_settings.jpg)
-
- Modern Steam uses a Chrome-based browser, but[Chrome is known to be fairly demanding on your memory](https://www.makeuseof.com/tag/chrome-using-much-ram-fix-right-now/) . Many of the problems presented by Google Chrome can affect Steam when it connects to the web.
+ Modern Steam uses a Chrome-based browser, but [Chrome is known to be fairly demanding on your memory](https://www.makeuseof.com/tag/chrome-using-much-ram-fix-right-now/) . Many of the problems presented by Google Chrome can affect Steam when it connects to the web.
 
  There's one setting that can add a large amount of performance overhead if left enabled.
 
@@ -53,17 +49,13 @@ thumbnail: https://thmb.techidaily.com/9a1d2889cbe4ad14880fa77a388cff944d010380f
 
  This will ease the burden that Steam's web pages have on your available memory.
 
-## 3\. Enable Low-Performance Mode
-
-![Steam library settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_library_settings.jpg)
+## 3\. Enable Low-Performance Mode ![Steam library settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_library_settings.jpg)
 
  Another simple toggle for performance gains is in the Library tab of the settings menu. Enabling the Low-Performance Mode will disable certain animations when browsing through the Steam library.
 
  This will sacrifice some eye candy for the sake of performance, but overall doesn't reduce memory usage beyond superficial levels. If you've tried all these options so far and still find your system struggling, it might be time for more drastic measures.
 
-## 4\. Launch the Steam Mini Games List
-
-![Steam mini games list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_steam_minigames_list.jpg)
+## 4\. Launch the Steam Mini Games List ![Steam mini games list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_steam_minigames_list.jpg)
 
  When you launch Steam, it connects to the internet at several points. The app's most memory-intensive processes occur when it connects to the latest news and developer blogs.
 
@@ -76,13 +68,11 @@ steam://open/minigameslist
 
  This alone will cut down on several instances of the Steam Client WebHelper. To return to the default Steam look, select any option under the**View** menu.
 
-## 5\. Create a Custom Batch File for Minimal Steam
-
-![Minimal Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_minimal_steam.jpg)
+## 5\. Create a Custom Batch File for Minimal Steam ![Minimal Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_minimal_steam.jpg)
 
  While the previous solutions can help regain a little memory, you might need something more substantial if you're struggling to run Steam on your system.
 
- Thankfully, there exists a combination of commands to completely strip Steam of its ability to create Steam Client WebHelper instances. There are too many commands to easily enter at once, so instead, we'll[make a batch file for it](https://www.makeuseof.com/tag/write-simple-batch-bat-file/) .
+ Thankfully, there exists a combination of commands to completely strip Steam of its ability to create Steam Client WebHelper instances. There are too many commands to easily enter at once, so instead, we'll [make a batch file for it](https://www.makeuseof.com/tag/write-simple-batch-bat-file/) .
 
  To create our batch file, head over to the Steam installation directory. This is the same place where**steam.exe** can be found. Once there, follow these steps:
 
@@ -114,3 +104,22 @@ start steam.exe -dev -console -nofriendsui -no-dwrite -nointro -nobigpicture -no
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/expert-advice-on-epic-steam-linkage/"><u>Expert Advice on Epic-Steam Linkage</u></a></li>
+<li><a href="https://games-able.techidaily.com/curtailing-game-bar-controlling-windows-11-activity/"><u>Curtailing Game Bar: Controlling Windows 11 Activity</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-emulation-tools-the-ultimate-ios-game-guide/"><u>Essential Emulation Tools: The Ultimate iOS Game Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/learn-from-my-oled-faux-pas-smart-screen-selection/"><u>Learn From My OLED Faux Pas: Smart Screen Selection</u></a></li>
+<li><a href="https://games-able.techidaily.com/unmatched-power-supplies-for-sonys-ps5-controller-dualsense/"><u>Unmatched Power Supplies for Sony's PS5 Controller DualSense</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-gaming-trends-why-not-fall-for-ray-tracing/"><u>Evaluating Gaming Trends: Why Not Fall for Ray Tracing?</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-steams-in-game-purchasing-power/"><u>Unlocking Steam's In-Game Purchasing Power</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-from-gameplay-to-legacy-proven-strategies-for-documenting-a-sims-in-game-saga-in-sims-4/"><u>In 2024, From Gameplay to Legacy  Proven Strategies for Documenting a Sim’s In-Game Saga in Sims 4</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-top-rated-iphone-apps-expert-reviews-and-recommendations/"><u>New In 2024, Top-Rated iPhone Apps Expert Reviews and Recommendations</u></a></li>
+<li><a href="https://extra-information.techidaily.com/revolutionary-virtual-wisdom-for-modern-souls/"><u>Revolutionary Virtual Wisdom for Modern Souls</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-uncluttered-focus-affinity-photos-cleanup-technique/"><u>2024 Approved  Uncluttered Focus  Affinity Photo's Cleanup Technique</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-the-ultimate-viewing-guide-amazon-prime-video-aspect-ratio-and-more/"><u>New 2024 Approved The Ultimate Viewing Guide Amazon Prime Video Aspect Ratio and More</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-audacity-mastery-for-mac-users-audio-recording-essentials/"><u>In 2024, Audacity Mastery for Mac Users  Audio Recording Essentials</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Realme Narzo 60 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-maximize-video-reach-with-effective-tags-titles-for-2024/"><u>How to Maximize Video Reach with Effective Tags, Titles for 2024</u></a></li>
+</ul></div>

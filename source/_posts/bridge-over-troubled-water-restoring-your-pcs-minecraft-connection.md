@@ -1,7 +1,7 @@
 ---
 title: "Bridge Over Troubled Water: Restoring Your PC's Minecraft Connection"
-date: 2024-06-25T10:43:47.059Z
-updated: 2024-06-26T10:43:47.059Z
+date: 2024-06-25T12:48:37.720Z
+updated: 2024-06-26T12:48:37.720Z
 tags:
   - games
 categories:
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/b44ba119c3a3d46ced364c534eba92d8a8e7f5db9
 
  When you connect to a network for the first time, it is usually set as public and hides itself from other devices on the network. If you haven't changed the network profile before, you probably use the default settings, which is likely the public profile.
 
- Therefore, if the network profile is set to public, you should change it to private. This way, other devices will be able to find your device, and you will be able to rejoin the LAN world. If you're not familiar with the process, check out our guide on[how to change the type of network profile on Windows](https://www.makeuseof.com/windows-network-profile-public-private/) .
+ Therefore, if the network profile is set to public, you should change it to private. This way, other devices will be able to find your device, and you will be able to rejoin the LAN world. If you're not familiar with the process, check out our guide on [how to change the type of network profile on Windows](https://www.makeuseof.com/windows-network-profile-public-private/) .
 
  If you are having difficulty connecting to a host computer, ensure the host computer is configured to use a private network profile.
 
@@ -95,11 +95,11 @@ To directly join a Minecraft server, follow these steps:
 
 ### Q: How Do You Join a Minecraft LAN Server With an IP Address?
 
- You can[join a Minecraft LAN server](https://www.makeuseof.com/how-to-join-minecraft-server/) with an IP address by copying the host's IP address, selecting Multiplayer > Add a server or Direct connect, pasting the copied IP address, and connecting to the server.
+ You can [join a Minecraft LAN server](https://www.makeuseof.com/how-to-join-minecraft-server/) with an IP address by copying the host's IP address, selecting Multiplayer > Add a server or Direct connect, pasting the copied IP address, and connecting to the server.
 
 ### Q: What Is the IP for a LAN Minecraft Server?
 
- Your computer's[IP address](https://www.makeuseof.com/tag/what-is-ip-address/) is the IP address for your LAN Minecraft server. You can[find your Windows PC's IP address](https://www.makeuseof.com/tag/find-ip-address-windows-10/) by running the "ipconfig" command in a Command Prompt window. The value next to "IPv4 Address" is your machine's local IP address.
+ Your computer's [IP address](https://www.makeuseof.com/tag/what-is-ip-address/) is the IP address for your LAN Minecraft server. You can [find your Windows PC's IP address](https://www.makeuseof.com/tag/find-ip-address-windows-10/) by running the "ipconfig" command in a Command Prompt window. The value next to "IPv4 Address" is your machine's local IP address.
 
 
 <ins class="adsbygoogle"

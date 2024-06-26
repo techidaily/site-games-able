@@ -1,7 +1,7 @@
 ---
 title: "Retro Controller: Enhancing Classic Games"
-date: 2024-06-21 13:28:55
-updated: 2024-06-24 12:38:29
+date: 2024-06-25T13:26:48.241Z
+updated: 2024-06-26T13:26:48.241Z
 tags:
   - games
 categories:
@@ -20,13 +20,13 @@ thumbnail: https://thmb.techidaily.com/d9567f73a6de787d2d45f5ed6e24adff2914444a4
 
 ## How to Connect Your Classic Nintendo Controller to Steam
 
- Connecting your Classic Nintendo controller to Steam begins with securing the controller itself. These controllers are only available to those with Nintendo Switch Online subscriptions. So if you don't have one of those yet, here is[everything you need to know about Nintendo Switch Online](https://www.makeuseof.com/tag/nintendo-switch-online-everything-need-know/) .
+ Connecting your Classic Nintendo controller to Steam begins with securing the controller itself. These controllers are only available to those with Nintendo Switch Online subscriptions. So if you don't have one of those yet, here is [everything you need to know about Nintendo Switch Online](https://www.makeuseof.com/tag/nintendo-switch-online-everything-need-know/) .
 
 ![Nintendo Switch Online logo with Mario characters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/09/nintendo-switch-online-characters.jpg)
 
  Image Credit: Nintendo/[YouTube](https://www.youtube.com/watch?v=v6gTTzfs3sI&ab%5Fchannel=NintendoofAmerica)
 
- This subscription does cost money, of course, but if you really just want the controller, you could simply[cancel your Nintendo Switch Online subscription](https://www.makeuseof.com/how-to-cancel-nintendo-switch-online/) after you get your hands on it, and everyone's a winner.
+ This subscription does cost money, of course, but if you really just want the controller, you could simply [cancel your Nintendo Switch Online subscription](https://www.makeuseof.com/how-to-cancel-nintendo-switch-online/) after you get your hands on it, and everyone's a winner.
 
  The next step toward using your Classic Nintendo controller to play Steam games is connecting your controller to your PC. This can only be done via Bluetooth, so if your computer doesn’t support Bluetooth, a Bluetooth dongle might have to make an appearance on your shopping list.
 
@@ -89,3 +89,22 @@ thumbnail: https://thmb.techidaily.com/d9567f73a6de787d2d45f5ed6e24adff2914444a4
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/unboxing-lenovos-best-legion-go-features-at-ifa-2-written-by-alex-johnson-mba/"><u>Unboxing Lenovo's Best Legion Go Features at IFA 2 Written by Alex Johnson, MBA</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-why-mics-are-off-limits-for-ps5s/"><u>Discover Why Mics Are Off-Limits for PS5s</u></a></li>
+<li><a href="https://games-able.techidaily.com/led-strip-innovations-standout-selections/"><u>LED Strip Innovations: Standout Selections</u></a></li>
+<li><a href="https://games-able.techidaily.com/consoles-shine-at-low-pixels-heres-why/"><u>Consoles Shine at Low Pixels, Here's Why</u></a></li>
+<li><a href="https://games-able.techidaily.com/win-11-bring-back-old-gaming-memories-via-pics-folder/"><u>Win 11 - Bring Back Old Gaming Memories via Pics Folder</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-gaming-triumphs-with-the-wisdom-of-helldivers-2/"><u>Unlocking Gaming Triumphs with the Wisdom of Helldivers 2</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-steam-how-to-stop-auto-renewal/"><u>Mastering Steam: How to Stop Auto-Renewal</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-charting-the-course-for-your-niche-in-the-youtube-world/"><u>In 2024, Charting the Course for Your Niche in the YouTube World</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-videopad-video-editor-buying-guide-top-features-and-pricing/"><u>New In 2024, Videopad Video Editor Buying Guide Top Features and Pricing</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-step-by-step-throwing-epic-intros-with-imovie/"><u>[New] Step-by-Step  Throwing Epic Intros with iMovie</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-apple-iphone-14-pro-max-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On Apple iPhone 14 Pro Max in the Best Ways</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fuse-rhythms-into-powerpoint-layouts/"><u>[New] Fuse Rhythms Into PowerPoint Layouts</u></a></li>
+<li><a href="https://techidaily.com/remove-oppo-find-n3-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Oppo Find N3 unlock screen</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-hacking-halted-swift-steps-to-recover-your-fb-account-for-2024/"><u>[Updated] Hacking Halted  Swift Steps to Recover Your FB Account for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-comprehensive-manual-for-flawless-snapchat-boomers-for-2024/"><u>[Updated] The Comprehensive Manual for Flawless Snapchat Boomers for 2024</u></a></li>
+</ul></div>

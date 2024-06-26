@@ -1,7 +1,7 @@
 ---
 title: What Steam's New Rules on AI Games Mean for Gamers
-date: 2024-06-21 13:28:57
-updated: 2024-06-24 12:18:45
+date: 2024-06-25T12:51:48.588Z
+updated: 2024-06-26T12:51:48.588Z
 tags:
   - games
 categories:
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d5
 
  However, on January 10, 2024, Valve announced guidelines that would allow developers to publish games that use AI technology.
 
- In a post on the[Steam Blog](https://store.steampowered.com/news/group/4145017/view/3862463747997849618) , the company stated:
+ In a post on the [Steam Blog](https://store.steampowered.com/news/group/4145017/view/3862463747997849618) , the company stated:
 
 > "After spending the last few months learning more about this space and talking with game developers, we are making changes to how we handle games that use AI technology."
 
@@ -43,13 +43,11 @@ thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d5
 
  In addition, games that use live-generated AI content will need to disclose what guardrails will be in place to make sure that the AI is not generating illegal content.
 
-## How Steam's AI Games Policy Could Affect Gamers
+## How Steam's AI Games Policy Could Affect Gamers ![artificial intelligence tag on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/artificial-intelligence-tag-on-steam.png)
 
-![artificial intelligence tag on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/artificial-intelligence-tag-on-steam.png)
+ While many games use AI systems to make non-playable characters (NPCs) and enemies responsive, generative AI is a newer form of AI that involves generating text, images, video, audio, and even code. To learn more, read [our guide to generative AI](https://www.makeuseof.com/what-is-generative-ai/) .
 
- While many games use AI systems to make non-playable characters (NPCs) and enemies responsive, generative AI is a newer form of AI that involves generating text, images, video, audio, and even code. To learn more, read[our guide to generative AI](https://www.makeuseof.com/what-is-generative-ai/) .
-
- Steam already has[an "Artificial Intelligence" tag](https://store.steampowered.com/tags/en/Artificial+Intelligence?flavor=contenthub%5Fall) for games, but many of these existing titles use AI in the more traditional sense. So what do Steam's new guidelines mean for the average gamer?
+ Steam already has [an "Artificial Intelligence" tag](https://store.steampowered.com/tags/en/Artificial+Intelligence?flavor=contenthub%5Fall) for games, but many of these existing titles use AI in the more traditional sense. So what do Steam's new guidelines mean for the average gamer?
 
 ### 1\. Gamers Will Have More Games to Choose From on Steam
 
@@ -63,15 +61,13 @@ thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d5
 
  With the sheer volume of games that Steam publishes, many low-quality games (and games that clone other titles) appear on the storefront.
 
- Since generative AI makes it much easier to create game elements, we may see a monumental rise in AI-generated[shovelware games](https://www.makeuseof.com/what-shovelware-gaming/) .
+ Since generative AI makes it much easier to create game elements, we may see a monumental rise in AI-generated [shovelware games](https://www.makeuseof.com/what-shovelware-gaming/) .
 
  While you can always ignore games that look like they're low quality, this can also make the discoverability of actual indie gems much more difficult. Players may also find themselves wasting money on games that promise more than they can deliver.
 
  Luckily, you_can_ [request a refund on Steam](https://www.makeuseof.com/how-to-refund-a-game-on-steam/) . But you will need to do this within 14 days from purchase, and you can't have played the game for more than two hours.
 
-### 3\. Gamers Will Need to Report Illegal AI Content
-
-![steam window on a pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/shutterstock_357785195.jpg)
+### 3\. Gamers Will Need to Report Illegal AI Content ![steam window on a pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/shutterstock_357785195.jpg)
 
  Image Credit: g0d4ather/[Shutterstock](https://www.shutterstock.com/image-photo/saransk-russia-january-03-2016-steam-357785195)
 
@@ -81,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d5
 
 > "Using the in-game overlay, players can easily submit a report when they encounter content that they believe should have been caught by appropriate guardrails on AI generation."
 
- Considering how often people get around AI guardrails, such as when people use[jailbreaks on ChatGPT](https://www.makeuseof.com/what-are-chatgpt-jailbreaks/) , it's very likely that some games using AI will fall foul of Steam's policies. That is as long as players actually report the content breaking the rules.
+ Considering how often people get around AI guardrails, such as when people use [jailbreaks on ChatGPT](https://www.makeuseof.com/what-are-chatgpt-jailbreaks/) , it's very likely that some games using AI will fall foul of Steam's policies. That is as long as players actually report the content breaking the rules.
 
 ### 4\. Gamers Will Need to Look Out for AI Disclosures
 
@@ -106,3 +102,27 @@ thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d5
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/avoiding-big-picture-breakdown-in-steam-gaming/"><u>Avoiding Big Picture Breakdown in Steam Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/secrets-to-steams-picture-vault-placement/"><u>Secrets to Steam's Picture Vault Placement</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-new-era-for-portability-the-top-nintendo-switch-docks-of-2024/"><u>A New Era for Portability: The Top Nintendo Switch Docks of 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/leveraging-sonys-controller-for-enhanced-pc-gameplay-experience/"><u>Leveraging Sony’s Controller for Enhanced PC Gameplay Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/outshining-nvidia-with-comparable-graphics-cards/"><u>Outshining Nvidia with Comparable Graphics Cards</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-steam-decks-for-gaming-enthusiasts/"><u>Navigating Steam Decks for Gaming Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-steam-remote-link-failures/"><u>Troubleshooting Steam Remote Link Failures</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-is-twitch-how-to-use-the-live-streaming-platform/"><u>What Is Twitch? How to Use the Live Streaming Platform</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-to-mitigate-low-memory-issues-in-roblox-ios-app/"><u>Strategies to Mitigate Low-Memory Issues in Roblox iOS App</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridge-pc-and-steam-deck-remote-game-casting-basics/"><u>Bridge PC and Steam Deck: Remote Game Casting Basics</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-jumpstart-your-sub4sub-adventure-unpack-the-essentials-first-here/"><u>[New] Jumpstart Your Sub4sub Adventure - Unpack the Essentials First Here</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-csv-files-electronically-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How do i sign a .csv files electronically</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-leading-edge-of-color-grading-with-luts/"><u>[Updated] Leading Edge of Color Grading with LUTs</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-mastering-media-with-top-5-photo-and-video-apps-on-iosandroid-devices/"><u>[Updated] Mastering Media with Top 5 Photo & Video Apps on iOS/Android Devices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-top-no-cost-virtual-viewer-rendezvous/"><u>[Updated] In 2024, Top No-Cost Virtual Viewer Rendezvous</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-complete-blueprint-to-designed-chat-spaces/"><u>[New] The Complete Blueprint to Designed Chat Spaces</u></a></li>
+<li><a href="https://article-helps.techidaily.com/essential-strategies-to-enhance-your-use-of-macs-preview-app/"><u>Essential Strategies to Enhance Your Use of Mac's Preview App</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-unveiling-the-hidden-capabilities-of-twistedwaves-audio-manipulation-toolkit/"><u>Updated Unveiling the Hidden Capabilities of TwistedWaves Audio Manipulation Toolkit</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-compiling-top-notch-video-grabbers-for-win11-devices/"><u>[Updated] 2024 Approved  Compiling Top-Notch Video Grabbers for Win11 Devices</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-utilizing-mystery-and-intrigue-through-suspense-music-for-film-scoring-excellence-for-2024/"><u>New Utilizing Mystery and Intrigue Through Suspense Music for Film Scoring Excellence for 2024</u></a></li>
+</ul></div>

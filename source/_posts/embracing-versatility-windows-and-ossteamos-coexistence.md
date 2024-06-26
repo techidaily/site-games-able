@@ -1,7 +1,7 @@
 ---
 title: "Embracing Versatility: Windows and OS/SteamOS Coexistence"
-date: 2024-06-22 12:52:48
-updated: 2024-06-24 10:27:34
+date: 2024-06-25T12:51:11.866Z
+updated: 2024-06-26T12:51:11.866Z
 tags:
   - games
 categories:
@@ -120,9 +120,7 @@ Jhet Borja/MUO
 2. git clone <https://github.com/ryanrudolfoba/SteamDeck-Clover-dualboot>
 3. cd ~/SteamDeck-Clover-dualboot
 4. chmod +x install-Clover.sh
-5. ./install-Clover.sh
-
-![Clover successfully installed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/clover-successfully-installed.jpg)
+5. ./install-Clover.sh ![Clover successfully installed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/clover-successfully-installed.jpg)
 
  After the last command, you’ll have to enter your sudo password to start installing Clover on your Steam Deck.
 
@@ -138,9 +136,7 @@ Jhet Borja / MakeUseOf
 
  The Clover dual boot manager isn’t an official Steam dual boot wizard as Valve is still working on that. This means you might face a few issues. Here are a few fixes in case you run into these problems...
 
-### 1\. You Can’t Find SteamOS in the Boot Manager
-
-![No SteamOS option in boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/no-steamos-option-in-boot-manager.JPG)
+### 1\. You Can’t Find SteamOS in the Boot Manager ![No SteamOS option in boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/no-steamos-option-in-boot-manager.JPG)
 
 Jhet Borja/MUO
 
@@ -158,15 +154,11 @@ Jhet Borja/MakeUseOf
 
  To put SteamOS back on the boot manager, open up Konsole in desktop mode on your Steam Deck and enter this:
 
-sudo efibootmgr -c -L "SteamOS" -l "\EFI\steamos\steamcl.efi" -d /dev/nvme0n1p1
-
-![Konsole command to make SteamOS appear in boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/konsole-command-to-make-steamos-appear-in-boot-manager.JPG)
+sudo efibootmgr -c -L "SteamOS" -l "\EFI\steamos\steamcl.efi" -d /dev/nvme0n1p1 ![Konsole command to make SteamOS appear in boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/konsole-command-to-make-steamos-appear-in-boot-manager.JPG)
 
  This should put it back on the boot manager so that you don’t have to boot from the file anymore.
 
-### 2\. Setting a Sudo Password
-
-![Steam Deck user password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/steam-deck-user-password.jpg)
+### 2\. Setting a Sudo Password ![Steam Deck user password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/steam-deck-user-password.jpg)
 
  To set your sudo password, open desktop mode and head to **Settings** in the app manager or on the task manager at the bottom of your screen.
 
@@ -231,3 +223,23 @@ Jhet Borja/MakeUseOf
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/bending-no-more-tackling-gpu-display-deformity/"><u>Bending No More: Tackling GPU Display Deformity</u></a></li>
+<li><a href="https://games-able.techidaily.com/stealthy-storage-of-virtual-gems/"><u>Stealthy Storage of Virtual Gems</u></a></li>
+<li><a href="https://games-able.techidaily.com/infusing-servers-with-games-chess-and-poker-in-discord/"><u>Infusing Servers with Games: Chess and Poker in Discord</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-a-quick-reboot-can-save-your-gaming-experience/"><u>Why a Quick Reboot Can Save Your Gaming Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/transforming-ps5-gameplay-for-ultimate-enjoyment/"><u>Transforming PS5 Gameplay for Ultimate Enjoyment</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionary-flaw-rectification-by-rog-ally-x/"><u>Revolutionary Flaw Rectification by ROG Ally X</u></a></li>
+<li><a href="https://games-able.techidaily.com/3-alternative-methods-for-enjoying-flash-games-post-adobe/"><u>3 Alternative Methods for Enjoying Flash Games Post-Adobe</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-a-beginners-guide-to-youtube-seo-keywords/"><u>[New] 2024 Approved  A Beginner's Guide to YouTube SEO Keywords</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-11-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone 11</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-maximize-your-reach-ideal-video-dimensions-for-linkedin-success/"><u>New Maximize Your Reach Ideal Video Dimensions for LinkedIn Success</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-masterful-technology-for-virtual-meetings/"><u>[Updated] Masterful Technology for Virtual Meetings</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-8-websites-to-find-3d-text-png/"><u>New In 2024, 8 Websites to Find 3D Text PNG</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/tips-for-quickly-locating-the-epicenter-of-youtubes-video-creation/"><u>Tips for Quickly Locating the Epicenter of YouTube's Video Creation</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-perfecting-your-reel-integrating-music-on-instagram/"><u>2024 Approved  Perfecting Your Reel  Integrating Music on Instagram</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-secrets-to-saving-and-sharing-your-roblox-experience-on-a-mac/"><u>2024 Approved  Secrets to Saving & Sharing Your Roblox Experience on a Mac</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-simplifying-itunes-add-and-listen-to-your-choice-of-podcasts-for-2024/"><u>[New] Simplifying iTunes  Add and Listen to Your Choice of Podcasts for 2024</u></a></li>
+</ul></div>

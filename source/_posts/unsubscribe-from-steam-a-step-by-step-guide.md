@@ -1,7 +1,7 @@
 ---
 title: "Unsubscribe From Steam: A Step-by-Step Guide"
-date: 2024-06-25T10:41:00.793Z
-updated: 2024-06-26T10:41:00.793Z
+date: 2024-06-25T12:48:35.941Z
+updated: 2024-06-26T12:48:35.941Z
 tags:
   - games
 categories:
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/6f24909f969f84628da7cca908a8ecbcf1f131079
 
  Steam subscriptions are monthly fees you pay when you sign up for an online service, such as a subscription for one of the many MMO games ([what are MMO games?](https://www.makeuseof.com/what-are-mmo-games/) ) available these days, or a game library like EA Play. These subscription fees will continue every payment period until you tell Steam to cancel them.
 
- It's important to note that[uninstalling a game or service on Steam](https://www.makeuseof.com/how-to-uninstall-steam-games-reinstall/) does not cancel any active subscriptions with it. You need to explicitly tell Steam to cancel the recurring payments if you're not using the service anymore.
+ It's important to note that [uninstalling a game or service on Steam](https://www.makeuseof.com/how-to-uninstall-steam-games-reinstall/) does not cancel any active subscriptions with it. You need to explicitly tell Steam to cancel the recurring payments if you're not using the service anymore.
 
  To get started canceling a subscription on Steam, use the Steam desktop app and click on your display name at the top-right of the window. Then, select**Account details: \[Username\]** .
 
@@ -59,7 +59,7 @@ This will cancel your subscription to the service or game on Steam.
 
 ## Can You Get a Refund for a Steam Subscription?
 
- It is possible to[refund a game on Steam](https://www.makeuseof.com/how-to-refund-a-game-on-steam/) if it's not to your liking, but did you know that you can do it for subscriptions too? The rules are a lot stricter, but it is possible if you accidentally subscribe to a service you don't want.
+ It is possible to [refund a game on Steam](https://www.makeuseof.com/how-to-refund-a-game-on-steam/) if it's not to your liking, but did you know that you can do it for subscriptions too? The rules are a lot stricter, but it is possible if you accidentally subscribe to a service you don't want.
 
  To refund a subscription, you need to apply for one within 48 hours of buying the subscription. You'll only be eligible for a refund if you didn't boot up the game or service during those 48 hours. Even if you open it once, Valve will consider that as having used the subscription. and therefore won't refund you.
 

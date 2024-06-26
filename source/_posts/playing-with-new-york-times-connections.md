@@ -1,7 +1,7 @@
 ---
 title: Playing with New York Times Connections
-date: 2024-06-20 23:27:15
-updated: 2024-06-23 11:21:50
+date: 2024-06-25T12:48:48.079Z
+updated: 2024-06-26T12:48:48.079Z
 tags:
   - games
 categories:
@@ -31,11 +31,11 @@ thumbnail: https://thmb.techidaily.com/b58731ef522e71a2b18dd9c60ce59d1b021be466a
 
 ## What Is the New York Times' Connections Game?
 
- Connections is a daily logic puzzle created and curated by the New York Times. It's available to play online for free by visiting[the Connections website](https://www.nytimes.com/games/connections) on desktop or mobile. Or you can play it on[the New York Times Games app](https://www.nytimes.com/crosswords/apps) , which is home to all the publication's various games.
+ Connections is a daily logic puzzle created and curated by the New York Times. It's available to play online for free by visiting [the Connections website](https://www.nytimes.com/games/connections) on desktop or mobile. Or you can play it on [the New York Times Games app](https://www.nytimes.com/crosswords/apps) , which is home to all the publication's various games.
 
 ![The NYT Connections homepage inviting you to play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/nyt-connections-click-play-screen.png)
 
- The New York Times has offered a crossword since 1942\. But in more recent years, the NYT has introduced a broader range of games. These include Spelling Bee, Letter Boxed, Tiles, Vertex, and Wordle. The latter being a phenomenon that spawned[countless Wordle alternatives and spin-offs](https://www.makeuseof.com/best-wordle-alternatives/) .
+ The New York Times has offered a crossword since 1942\. But in more recent years, the NYT has introduced a broader range of games. These include Spelling Bee, Letter Boxed, Tiles, Vertex, and Wordle. The latter being a phenomenon that spawned [countless Wordle alternatives and spin-offs](https://www.makeuseof.com/best-wordle-alternatives/) .
 
  In 2023,[the New York Times launched Connections](https://www.nytimes.com/2023/06/26/crosswords/new-game-connections.html) . The game has since grown in popularity due to being simple to play but difficult to master. The basic rules are simple enough for anyone to understand, but actually succeeding at the game day-in, day-out can be a tough ask.
 
@@ -77,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/b58731ef522e71a2b18dd9c60ce59d1b021be466a
 
  Your Connections results for that day are shared as colored squares. This ensures that you're not spoiling the game for anyone else by revealing the words or groups that they need to end up in.
 
- If Connections isn't your thing, there are plenty of other[two-player mobile games to play with friends or strangers](https://www.makeuseof.com/tag/best-two-player-mobile-games/) .
+ If Connections isn't your thing, there are plenty of other [two-player mobile games to play with friends or strangers](https://www.makeuseof.com/tag/best-two-player-mobile-games/) .
 
 ## Things You Need to Know About Connections Before You Play
 
@@ -91,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/b58731ef522e71a2b18dd9c60ce59d1b021be466a
 * **The colors are only revealed after you have guessed correctly.** But you may find that you solve the purple or blue lines (that are meant to be the most difficult) first.
 * **Each puzzle only has one solution, and you have to get it exactly right to progress.** There are words that could fit into multiple categories, but that's intentional.
 * **Connections is curated by editors using the Oxford English Dictionary.** However, as the New York Times is a US publication, there's a US bias in the subjects chosen.
-* **Every Connections puzzle is being archived.** An[unofficial Connections archive](https://connections.swellgarfo.com/archive) allows you to play the puzzles you may have missed when they were live on the New York Times website.
+* **Every Connections puzzle is being archived.** An [unofficial Connections archive](https://connections.swellgarfo.com/archive) allows you to play the puzzles you may have missed when they were live on the New York Times website.
 
  Connections has become one of several games I play daily. Alongside Wordle and The Mini crossword, it offers both a fun diversion and some friendly competition with my partner. Unfortunately, she generally beats me at all of the above.
 
@@ -110,3 +110,22 @@ thumbnail: https://thmb.techidaily.com/b58731ef522e71a2b18dd9c60ce59d1b021be466a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/how-does-intels-technology-make-gaming-smarter/"><u>How Does Intel's Technology Make Gaming Smarter?</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-fixes-for-windows-steam-remote-gaming-glitches/"><u>Essential Fixes for Windows Steam Remote Gaming Glitches</u></a></li>
+<li><a href="https://games-able.techidaily.com/examining-the-validity-of-discords-offline-label/"><u>Examining the Validity of Discord’s 'Offline' Label</u></a></li>
+<li><a href="https://games-able.techidaily.com/jumpstart-your-psp-as-a-nintendo-handheld-replica/"><u>Jumpstart Your PSP as a Nintendo Handheld Replica</u></a></li>
+<li><a href="https://games-able.techidaily.com/cross-platform-use-for-ps5-with-ps4/"><u>Cross-Platform Use for PS5 with PS4?</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-the-true-value-explore-these-5-reasons-to-buy-games/"><u>Understanding the True Value: Explore These 5 Reasons to Buy Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-steams-disk-manager-efficiently/"><u>Navigating Steam's Disk Manager Efficiently</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premier-software-for-photo-based-videography/"><u>[Updated] Premier Software for Photo-Based Videography</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-use-path-blur-in-photoshop-to-create-motion-effect/"><u>New In 2024, Use Path Blur In Photoshop To Create Motion Effect</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-youtube-to-mp4-made-easy-find-your-ideal-converter/"><u>Updated YouTube to MP4 Made Easy Find Your Ideal Converter</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-crafting-connection-tips-and-tricks-for-sharing-content-via-facebook/"><u>[Updated] In 2024, Crafting Connection  Tips and Tricks for Sharing Content via Facebook</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/inspire-your-sweat-session-with-the-most-motivating-melodies/"><u>Inspire Your Sweat Session with the Most Motivating Melodies</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-best-practices-for-capturing-vimeo-content/"><u>[New] Best Practices for Capturing Vimeo Content</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-sculpt-your-tiktok-stardom-advanced-mac-based-editing-techniques/"><u>[New] In 2024, Sculpt Your TikTok Stardom  Advanced Mac-Based Editing Techniques</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-chromebooks-premier-capture-solution/"><u>[New] In 2024, Chromebook's Premier Capture Solution</u></a></li>
+</ul></div>

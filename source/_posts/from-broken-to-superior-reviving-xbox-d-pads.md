@@ -1,7 +1,7 @@
 ---
 title: From Broken to Superior - Reviving Xbox D-Pads
-date: 2024-06-23 18:41:54
-updated: 2024-06-24 10:35:58
+date: 2024-06-25T13:13:51.720Z
+updated: 2024-06-26T13:13:51.720Z
 tags:
   - games
 categories:
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/80c97e26a42ec85426e926d8a619570205ae66ef3
 
  Unlike most companies that would rather gobble up your money and make you purchase a new controller every year or two, Xbox has turned a new leaf. Gamers from North America can now purchase official replacement parts from Xbox directly and follow the free tutorials provided to fix their controller themselves.
 
- Replacement parts for all major components are available on[Microsoft's official website](https://www.microsoft.com/en-us/store/b/xbox-repair-parts) , including replacement PCBAs, motor assemblies, shell cases, and buttons. New buttons and shell replacements are available in either black or white, so you can give your controller a whole new look while you’re at it.
+ Replacement parts for all major components are available on [Microsoft's official website](https://www.microsoft.com/en-us/store/b/xbox-repair-parts) , including replacement PCBAs, motor assemblies, shell cases, and buttons. New buttons and shell replacements are available in either black or white, so you can give your controller a whole new look while you’re at it.
 
 ![A disassembled Xbox Series X|S controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/xbox-x-controller-disassembly-4-1.JPG)
 
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/80c97e26a42ec85426e926d8a619570205ae66ef3
 
  Unless you are already well-versed in the inner workings of a video game controller, you are probably going to want to check out one of Xbox’s free tutorials to walk you through the job. Even if you are experienced, it can’t hurt to freshen up your memory before cracking open your controller and fiddling around in there. Luckily for those who are keen to learn this handy new skill,[Xbox Support](https://support.xbox.com/en-us/help/hardware-network/warranty-service/xbox-self-repair) has provided both written instructions for the repair and a YouTube tutorial for visual learners, which you can view above.
 
- If Xbox's tutorials aren't doing the trick for you, you can also learn a variety of repair techniques like[how to fix your drifting Xbox controller](https://www.makeuseof.com/xbox-controller-drift/) or[how to open your Xbox Series X|S Controller](https://www.makeuseof.com/xbox-series-xs-controller-how-to-take-apart/) from our very own experts.
+ If Xbox's tutorials aren't doing the trick for you, you can also learn a variety of repair techniques like [how to fix your drifting Xbox controller](https://www.makeuseof.com/xbox-controller-drift/) or [how to open your Xbox Series X|S Controller](https://www.makeuseof.com/xbox-series-xs-controller-how-to-take-apart/) from our very own experts.
 
 ## Why You Should Fix Your Own Xbox Controller
 
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/80c97e26a42ec85426e926d8a619570205ae66ef3
 
  Now, you can purchase new parts for anywhere between $19.99 to $34.99, depending on what you need. These savings are even more apparent when you’re talking about the Xbox Elite Series 2 Wireless controller.
 
- Not only does fixing your own controller save you money, but it also saves the planet from unnecessary waste. Xbox has done a lot in recent years to reduce its carbon footprint and help its customers do the same, from introducing a[power-saving mode on the Xbox](https://www.makeuseof.com/xbox-shutdown-vs-sleep-mode/) to[crafting a whole Xbox controller out of trash](https://www.makeuseof.com/how-xbox-wireless-controller-remix-edition-make-life-easier/) .
+ Not only does fixing your own controller save you money, but it also saves the planet from unnecessary waste. Xbox has done a lot in recent years to reduce its carbon footprint and help its customers do the same, from introducing a [power-saving mode on the Xbox](https://www.makeuseof.com/xbox-shutdown-vs-sleep-mode/) to [crafting a whole Xbox controller out of trash](https://www.makeuseof.com/how-xbox-wireless-controller-remix-edition-make-life-easier/) .
 
 ![Close up of Xbox Wireless Controller Remix Edition on a Leafy Background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/close-up-of-xbox-wireless-controller-remix-edition-on-a-leafy-background.jpg)
 
@@ -73,3 +73,26 @@ thumbnail: https://thmb.techidaily.com/80c97e26a42ec85426e926d8a619570205ae66ef3
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/step-by-step-using-steam-deck-for-pc-gaming-broadcasts/"><u>Step-By-Step: Using Steam Deck for PC Gaming Broadcasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/this-app-lets-you-play-nintendo-classics-on-your-iphone-heres-how/"><u>This App Lets You Play Nintendo Classics on Your iPhone: Here's How</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-makes-a-great-steam-deck/"><u>What Makes a Great Steam Deck?</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-change-steams-default-language/"><u>How to Change Steam’s Default Language</u></a></li>
+<li><a href="https://games-able.techidaily.com/cheap-gaming-conquered-top-11-websites-for-low-cost-games/"><u>Cheap Gaming Conquered: Top 11 Websites for Low-Cost Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/ai-tech-unleashed-at-computex-2024/"><u>AI Tech Unleashed at Computex 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-play-on-ps5-beyond-gamepad-use/"><u>Innovative Play on PS5 Beyond Gamepad Use</u></a></li>
+<li><a href="https://games-able.techidaily.com/conquer-ps5-space-odyssey-secure-marvels-limited-spidey/"><u>Conquer PS5 Space Odyssey - Secure Marvel's Limited Spidey</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-steps-to-acquire-and-install-minecraft-worlds/"><u>Seamless Steps to Acquire & Install Minecraft Worlds</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-prime-screen-capture-solutions-for-freeware-lovers/"><u>[Updated] Prime Screen Capture Solutions for Freeware Lovers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-master-premiere-pros-art-free-template-pack-2023/"><u>[New] 2024 Approved  Master Premiere Pro's Art  Free Template Pack 2023</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-avoiding-common-pitfalls-in-pc-based-youtube-video-editing/"><u>In 2024, Avoiding Common Pitfalls in PC-Based YouTube Video Editing</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-unify-your-visual-style-color-matching-techniques-for-powerdirector/"><u>New 2024 Approved Unify Your Visual Style Color Matching Techniques for PowerDirector</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-vivo-x100-pro-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Vivo X100 Pro Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-vivo-x90s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-enhance-channel-rankings-ethically-for-2024/"><u>How to Enhance Channel Rankings Ethically for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-the-ultimate-avs-video-editor-review-a-beginners-guide/"><u>New 2024 Approved The Ultimate AVS Video Editor Review A Beginners Guide</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/cheapest-mac-music-format-editor-with-unlimited-trials/"><u>Cheapest Mac Music Format Editor with Unlimited Trials</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-honor-play-40c-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Honor Play 40C | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Unlock Hidden Gems with 2P Minecraft on Switch
-date: 2024-06-25T10:47:06.431Z
-updated: 2024-06-26T10:47:06.431Z
+date: 2024-06-25T12:48:39.782Z
+updated: 2024-06-26T12:48:39.782Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/114b6bfca9f928095e8da2f7f3417492afac50bf3
 
 ![Split Screen Minecraft on Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/img_3176.jpeg)
 
- Split-screen multiplayer is only available on the console version of Minecraft. That means the PlayStation, Nintendo Switch, or Xbox versions only. But just because you only have Minecraft on your PC or mobile, doesn't mean you still can't get all your friends involved in creating the ultimate Minecraft world. There are many more[ways to play Minecraft with your friends](https://www.makeuseof.com/how-to-play-minecraft-with-friends/) than just this way.
+ Split-screen multiplayer is only available on the console version of Minecraft. That means the PlayStation, Nintendo Switch, or Xbox versions only. But just because you only have Minecraft on your PC or mobile, doesn't mean you still can't get all your friends involved in creating the ultimate Minecraft world. There are many more [ways to play Minecraft with your friends](https://www.makeuseof.com/how-to-play-minecraft-with-friends/) than just this way.
 
 ## How Do I Play Two-Player Minecraft Online on My Nintendo Switch?
 

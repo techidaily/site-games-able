@@ -1,7 +1,7 @@
 ---
 title: Organizing and Managing Games Using Steam’s Storage Tool
-date: 2024-06-23 20:11:44
-updated: 2024-06-24 12:54:15
+date: 2024-06-25T13:25:52.004Z
+updated: 2024-06-26T13:25:52.004Z
 tags:
   - games
 categories:
@@ -34,21 +34,17 @@ thumbnail: https://thmb.techidaily.com/83810aeb2f4e9067a8450e307f943cc7eb4a02a55
 
  While the new Steam Storage Manager is great, it’s still hard to get to. Most people don’t even know it exists yet. Once you know where to find it, it’ll be hard to forget, though. Here are two ways to open the Steam Storage Manager.
 
-### 1\. Open the Steam Storage Manager Through the Steam Settings
-
-![Steam Storage Manager in Steam Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/steam-storage-manager-in-steam-settings.jpg)
+### 1\. Open the Steam Storage Manager Through the Steam Settings ![Steam Storage Manager in Steam Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/steam-storage-manager-in-steam-settings.jpg)
 
  The Steam settings menu itself is pretty hard to find as well (a very strange way of doing things, Valve). However, you might’ve opened it before if you tried setting download speed limits. Simply look to the upper-left corner and click on**Steam > Settings > Storage** .
 
-### 2\. Open the Steam Storage Manager Through the Downloads Page
-
-![Steam downloads page cog wheel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/steam-downloads-page-cog-wheel.jpg)
+### 2\. Open the Steam Storage Manager Through the Downloads Page ![Steam downloads page cog wheel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/steam-downloads-page-cog-wheel.jpg)
 
  If you’re already on the Steam Downloads page, there’s also a**cog** on the upper right, just below the**close window button** . Click that, and it will take you right to the**Downloads** section on the**Settings** page.
 
  Just like in the image in the previous section, you'll find the**Storage** section just below the Downloads section.
 
- While you’re at the Downloads page, you might want to check out[how to increase your Steam download speeds](https://www.makeuseof.com/tag/steam-download-speeds/) so you don’t have to wait so long to get playing.
+ While you’re at the Downloads page, you might want to check out [how to increase your Steam download speeds](https://www.makeuseof.com/tag/steam-download-speeds/) so you don’t have to wait so long to get playing.
 
 ## How to Add a New Steam Library Folder or Drive
 
@@ -60,11 +56,11 @@ thumbnail: https://thmb.techidaily.com/83810aeb2f4e9067a8450e307f943cc7eb4a02a55
 
 ![Add a new Steam Library folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/add-a-new-steam-library-folder.jpg)
 
- This will open up File Explorer and you can choose which drive or folder you want to add a new Steam Library folder to. It doesn't even need to be an internal drive, you can use an[external drive to store your Steam Games](https://www.makeuseof.com/how-to-play-steam-games-on-an-external-drive-with-steam-storage-manager/) and play straight from the external drive!
+ This will open up File Explorer and you can choose which drive or folder you want to add a new Steam Library folder to. It doesn't even need to be an internal drive, you can use an [external drive to store your Steam Games](https://www.makeuseof.com/how-to-play-steam-games-on-an-external-drive-with-steam-storage-manager/) and play straight from the external drive!
 
 ![Create or select new Steam library folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/create-or-select-new-steam-library-folder.jpg)
 
- If you only have one drive and you need space for more games but don’t want to delete any downloaded ones, check out[how to free up disk space on Windows 10](https://www.makeuseof.com/tag/6-tips-free-disk-space-windows-10/) . We’re pretty sure you can free up some space from places you didn’t know you could free up.
+ If you only have one drive and you need space for more games but don’t want to delete any downloaded ones, check out [how to free up disk space on Windows 10](https://www.makeuseof.com/tag/6-tips-free-disk-space-windows-10/) . We’re pretty sure you can free up some space from places you didn’t know you could free up.
 
 ## How to Set a Default Steam Library Folder or Drive
 
@@ -107,3 +103,26 @@ thumbnail: https://thmb.techidaily.com/83810aeb2f4e9067a8450e307f943cc7eb4a02a55
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/gearsport-gains-8-frames-up-techniques-unveiled/"><u>Gearsport Gains: 8 Frames Up Techniques Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/visual-enhancements-for-gamers-top-144hz-widescreens/"><u>Visual Enhancements for Gamers: Top 144Hz Widescreens</u></a></li>
+<li><a href="https://games-able.techidaily.com/reversing-windows-gpu-hang-addressing-error-code-0x887a0006/"><u>Reversing Window's GPU Hang: Addressing Error Code 0X887A0006</u></a></li>
+<li><a href="https://games-able.techidaily.com/disable-gaming-mode-in-discord-settings/"><u>Disable Gaming Mode in Discord Settings</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-portable-workstations-asus-rog-ally-24/"><u>Mastering the Art of Portable Workstations: ASUS ROG Ally '24</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172767277-enhance-csgo-on-pc-10-frames-up/"><u>Enhance CS:GO on PC - 10 Frames Up!</u></a></li>
+<li><a href="https://games-able.techidaily.com/joining-forces-gaming-squad-on-xbox-10/"><u>Joining Forces: Gaming Squad on Xbox 10</u></a></li>
+<li><a href="https://games-able.techidaily.com/this-app-lets-you-play-nintendo-classics-on-your-iphone-heres-how/"><u>This App Lets You Play Nintendo Classics on Your iPhone: Here's How</u></a></li>
+<li><a href="https://games-able.techidaily.com/selecting-quality-on-a-dime-vr-edition/"><u>Selecting Quality on a Dime: VR Edition</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-driving-engagement-and-sales-a-step-by-step-guide-to-influencer-marketing/"><u>[Updated] In 2024, Driving Engagement and Sales  A Step-by-Step Guide to Influencer Marketing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/comprehensive-guide-to-ios-screenshotting/"><u>Comprehensive Guide to iOS Screenshotting</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-realme-c33-2023-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Realme C33 2023 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-amr-audio-converter-complete-guide-to-amr-files/"><u>Updated In 2024, AMR Audio Converter Complete Guide to AMR Files</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-quickly-flip-your-videos-no-expertise-required-for-2024/"><u>Updated Quickly Flip Your Videos No Expertise Required for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/becoming-an-economic-force-a-guide-to-earning-on-youtube/"><u>Becoming an Economic Force  A Guide to Earning on YouTube</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-the-smart-buyers-guide-to-drones-crucial-info-upfront/"><u>2024 Approved  The Smart Buyer's Guide to Drones  Crucial Info Upfront</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-step-by-step-guide-to-mastering-windows-media-player-for-cd-management/"><u>[Updated] Step-by-Step Guide to Mastering Windows Media Player for CD Management</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-direct-download-vs-alternative-store-instagram-reels-efficiently/"><u>2024 Approved  Direct Download vs Alternative  Store Instagram Reels Efficiently</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-facebook-profile-transformation-top-11-online-image-makers-for-2024/"><u>[Updated] Facebook Profile Transformation  Top 11 Online Image Makers for 2024</u></a></li>
+</ul></div>

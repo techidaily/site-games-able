@@ -1,7 +1,7 @@
 ---
 title: "Intel Stream Assist Unraveled: A Game-Changer in Streaming?"
-date: 2024-06-25T10:44:58.342Z
-updated: 2024-06-26T10:44:58.342Z
+date: 2024-06-25T12:48:38.459Z
+updated: 2024-06-26T12:48:38.459Z
 tags:
   - games
 categories:
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/4d3965d206c3e8f9b4a9da6d71e7e79363ab237dd
 
 ## What Hardware Do You Need to Run Intel Stream Assist?
 
- As great as Intel's Stream Assist is, it has barriers to entry. For starters, you need an Intel 11th Gen CPU or higher paired with an Intel Arc GPU, giving you[another reason to switch to an Arc GPU](https://www.makeuseof.com/reasons-switch-intel-arc-gpu/) if you're considering one. That said, Intel has some rather confusing hardware requirements for running Stream Assist.
+ As great as Intel's Stream Assist is, it has barriers to entry. For starters, you need an Intel 11th Gen CPU or higher paired with an Intel Arc GPU, giving you [another reason to switch to an Arc GPU](https://www.makeuseof.com/reasons-switch-intel-arc-gpu/) if you're considering one. That said, Intel has some rather confusing hardware requirements for running Stream Assist.
 
  At the time of writing, you can run Intel Stream Assist on the following hardware:
 

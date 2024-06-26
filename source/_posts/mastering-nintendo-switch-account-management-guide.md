@@ -1,7 +1,7 @@
 ---
 title: "Mastering Nintendo Switch: Account Management Guide"
-date: 2024-06-21 11:17:34
-updated: 2024-06-24 10:23:41
+date: 2024-06-25T13:09:31.512Z
+updated: 2024-06-26T13:09:31.512Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
 
  Specifically, the points you need to know before editing your Nintendo account via your Nintendo Switch console are as follows:
 
-* While you can[add or remove Nintendo users and accounts from your Nintendo Switch](https://www.makeuseof.com/how-to-add-another-profile-nintendo-switch/) , the editing options are limited to your Nintendo Switch Online membership, or viewing specific account details.
+* While you can [add or remove Nintendo users and accounts from your Nintendo Switch](https://www.makeuseof.com/how-to-add-another-profile-nintendo-switch/) , the editing options are limited to your Nintendo Switch Online membership, or viewing specific account details.
 * Most of the accessible settings for your Nintendo account can be found in the**Nintendo eShop** as opposed to**System Settings** .
 * You may be unable to alter some aspects of your Nintendo account, like its region, due to having Nintendo eShop funds. If you were to alter the region settings, you may lose your funds.
 
@@ -74,9 +74,9 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
 
  Unfortunately, while you can access and manage some account requirements from your Nintendo Switch, if you want to edit your Nintendo Switch account in more depth, you need to use methods outside your console.
 
- And, just like[removing someone from your Nintendo Family Group](https://www.makeuseof.com/how-to-remove-people-nintendo-switch-family-group/) , the primary way you can edit the other aspects of your Nintendo account is via the official Nintendo site. Therefore, to fully edit your Nintendo account details, follow these steps:
+ And, just like [removing someone from your Nintendo Family Group](https://www.makeuseof.com/how-to-remove-people-nintendo-switch-family-group/) , the primary way you can edit the other aspects of your Nintendo account is via the official Nintendo site. Therefore, to fully edit your Nintendo account details, follow these steps:
 
-* Go to the official account page of the[Nintendo](https://accounts.nintendo.com/login?) website and sign into your account.
+* Go to the official account page of the [Nintendo](https://accounts.nintendo.com/login?) website and sign into your account.
 * From here, you can select**User Information** to alter your**Profile** ,**Email address** , or**Linked Accounts** by selecting**Change** .
 
 ![A screenshot of the User Information options for a Nintendo Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/user.jpg)
@@ -116,3 +116,26 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/discarded-digital-gear-reclaiming-your-fortnite-funds-efficiently/"><u>Discarded Digital Gear? Reclaiming Your Fortnite Funds Efficiently</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-hunt-down-gamers-a-steams-journey/"><u>How to Hunt Down Gamers: A Steam's Journey</u></a></li>
+<li><a href="https://games-able.techidaily.com/securely-tear-down-previous-game-saves-on-playstation-5/"><u>Securely Tear Down Previous Game Saves on PlayStation 5</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-secrets-of-blending-into-steam-backgrounds/"><u>The Secrets of Blending Into Steam Backgrounds</u></a></li>
+<li><a href="https://games-able.techidaily.com/methods-for-mending-windows-oculus-app-issues/"><u>Methods for Mending Windows Oculus App Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieve-seamless-gameplay-how-to-use-controllers-with-ryujinx/"><u>Achieve Seamless Gameplay: How to Use Controllers with Ryujinx</u></a></li>
+<li><a href="https://games-able.techidaily.com/reminiscing-the-past-playing-xbox-games-in-modern-times-pc/"><u>Reminiscing the Past: Playing Xbox Games in Modern Times (PC)</u></a></li>
+<li><a href="https://games-able.techidaily.com/tune-treasure-hunters-discovering-hidden-musical-gems/"><u>Tune Treasure Hunters: Discovering Hidden Musical Gems</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-steam-library-not-writable-on-pc-windows-11/"><u>Overcoming Steam Library Not Writable on PC Windows 11</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-tips-for-perfectly-timed-tiktok-video-captions/"><u>[New] In 2024, Tips for Perfectly Timed TikTok Video Captions</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-using-one-of-the-best-converter-tools-to-turn-gifs-into-png-or-jpg-here-learn-about-the-ten-best-ones-for-different-operating-systems-with-details-o/"><u>Updated Using One of the Best Converter Tools to Turn GIFs Into PNG or JPG. Here, Learn About the Ten Best Ones for Different Operating Systems, with Details on Features, Prices, and More</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/the-art-of-audio-purity-in-depth-insights-into-reducing-ambient-loudness-and-background-chatter/"><u>The Art of Audio Purity In-Depth Insights Into Reducing Ambient Loudness and Background Chatter</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-se-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone SE Properly</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>5 Best Route Generator Apps You Should Try On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-8-recommended-free-srt-translation-websites-expert-selections/"><u>In 2024, Top 8 Recommended Free SRT Translation Websites  Expert Selections</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-visionary-video-snatcher-tools-guide/"><u>2024 Approved  Visionary Video Snatcher Tools Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-vivo-x100-pro-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Vivo X100 Pro</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-making-waves-in-popularity-how-to-earn-vimeo-writers-picks/"><u>In 2024, Making Waves in Popularity  How to Earn Vimeo' Writers’ Picks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-adapting-to-diverse-candidate-personalities/"><u>[Updated] Adapting to Diverse Candidate Personalities</u></a></li>
+</ul></div>

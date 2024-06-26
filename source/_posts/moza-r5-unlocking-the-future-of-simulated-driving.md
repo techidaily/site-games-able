@@ -1,7 +1,7 @@
 ---
 title: "MOZA R5: Unlocking the Future of Simulated Driving"
-date: 2024-06-23 23:26:28
-updated: 2024-06-24 12:36:52
+date: 2024-06-25T13:05:04.556Z
+updated: 2024-06-26T13:05:04.556Z
 tags:
   - games
 categories:
@@ -140,9 +140,7 @@ Yes
 
  The pedals are also heavy with a thick powder coating, but the edges are quite sharp, which makes them a little scary to handle. I was also disappointed to find that all the pedal faces are the same shape and size and completely flat with no adjustability. This could pose a problem, which I’ll discuss in the driving experience later.
 
-## MOZA R5 Bundle Hardware Setup Experience
-
-![MOZA R5 on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-on-desk.JPG)
+## MOZA R5 Bundle Hardware Setup Experience ![MOZA R5 on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-on-desk.JPG)
 
  Jhet Borja / MakeUseOf
 
@@ -152,9 +150,7 @@ Yes
 
  I was able to clamp it to my desk and get in position after just about 20 minutes since unboxing—and that’s including adding the clutch pedal and brake mod.
 
-## MOZA Pit House Software
-
-![MOZA Pit House software with configured games list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-pit-house-software-with-configured-games-list.jpg)
+## MOZA Pit House Software ![MOZA Pit House software with configured games list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-pit-house-software-with-configured-games-list.jpg)
 
  I thought I’d have a headache trying to get everything ready on the software side for driving, but the MOZA Pit House software on PC impressed me. It was able to detect the wheel and pedals without any hitches and even had pre-configured settings for all the racing simulators I wanted to drive except for Dirt Rally.
 
@@ -196,9 +192,7 @@ Close
 
  The app could use some language improvements though, as the wording can be quite strange, such as “Enter the car” to change the settings, “SteeringWheel Recenter,” and “Unconnected to the screen".
 
-## Desk Usage
-
-![MOZA R5 beside headphones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-beside-headphones.JPG)
+## Desk Usage ![MOZA R5 beside headphones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-beside-headphones.JPG)
 
  Jhet Borja / MakeUseOf
 
@@ -222,9 +216,7 @@ Close
 
  When I’m done racing, I usually stow it away at the far edge of my desk and unplug the USB and pedal cables. It’s pretty convenient to set up, as I don’t have to move the wheel base far. The wheel can also stay detached, so it’s not in the way all the time. My table is a bit wobbly though, so the monitor gets all shaky, especially when driving Rally cars.
 
-## Quick Release System
-
-![R5 Quick Release](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/r5-quick-release.JPG)
+## Quick Release System ![R5 Quick Release](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/r5-quick-release.JPG)
 
  Jhet Borja / MakeUseOf
 
@@ -238,9 +230,7 @@ Close
 
  Coming from a Logitech G29, the driving experience is wildly different. It’s no longer a clunky mess that feels like it’s about to rattle itself to pieces. It legitimately feels immersive and connected. I’ve separated the driving experience into three sections so I can go into detail for each major component.
 
-### MOZA R5 Wheel Base
-
-![Turning with Formula Wheel mod](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/turning-with-formula-wheel-mod.JPG)
+### MOZA R5 Wheel Base ![Turning with Formula Wheel mod](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/turning-with-formula-wheel-mod.JPG)
 
  Jhet Borja / MakeUseOf
 
@@ -323,3 +313,22 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/keep-your-playstation-fresh-remove-reinstall-games/"><u>Keep Your PlayStation Fresh: Remove, Reinstall Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/eas-cost-increase-my-gaming-path-changed/"><u>EA's Cost Increase, My Gaming Path Changed</u></a></li>
+<li><a href="https://games-able.techidaily.com/windows-gaming-upgraded-the-role-of-dxvk/"><u>Windows Gaming Upgraded: The Role of DXVK</u></a></li>
+<li><a href="https://games-able.techidaily.com/play-and-win-with-youtubes-innovative-test-minigames/"><u>Play and Win with YouTube's Innovative Test Minigames</u></a></li>
+<li><a href="https://games-able.techidaily.com/removing-content-file-lock-error-from-windows-steam-account/"><u>Removing Content File Lock Error From Windows Steam Account</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-guide-to-unlocking-every-steam-badge/"><u>A Guide to Unlocking Every Steam Badge</u></a></li>
+<li><a href="https://games-able.techidaily.com/pitch-perfect-excellent-audio-games-for-music-enthusiasts/"><u>Pitch Perfect: Excellent Audio Games for Music Enthusiasts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gopros-newest-clash-max-360-versus-hero-11-showdown/"><u>[New] GoPro's Newest Clash  Max 360 Versus Hero 11 Showdown</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-simple-setup-winning-the-art-of-fishy-voice-transformation/"><u>2024 Approved  Simple Setup  Winning the Art of Fishy Voice Transformation</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-quickcopy-consultants-thoughts/"><u>In 2024, QuickCopy Consultants' Thoughts</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to use Pokemon Go Joystick on Apple iPhone 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/iphone-vr-videos-unveiled-a-quick-how-to-for-2024/"><u>IPhone VR Videos Unveiled  A Quick How-To for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-prime-choices-for-easy-pcmac-screen-recording-top-15-finder/"><u>[New] In 2024, Prime Choices for Easy PC/Mac Screen Recording  Top 15 Finder</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-the-complete-guide-to-ducking-dynamics-in-adobe-premiere-for-windows-users-for-2024/"><u>Updated The Complete Guide to Ducking Dynamics in Adobe Premiere for Windows Users for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-adept-principles-for-youtube-participants/"><u>[Updated] In 2024, Adept Principles for YouTube Participants</u></a></li>
+</ul></div>

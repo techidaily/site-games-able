@@ -1,7 +1,7 @@
 ---
 title: Custom Fan Scheduling for Maximum Performance Gain
-date: 2024-06-25T10:38:38.536Z
-updated: 2024-06-26T10:38:38.536Z
+date: 2024-06-25T12:48:34.392Z
+updated: 2024-06-26T12:48:34.392Z
 tags:
   - games
 categories:
@@ -44,25 +44,23 @@ Jhet Borja/MakeUseOf
 
 Jhet Borja/MakeUseOf
 
- If you're trying to get the lowest GPU temperatures and the most performance for your graphics card, you might also want to check out[how to replace your graphics card's thermal paste](https://www.makeuseof.com/how-reapply-thermal-paste-graphics-card/) or[undervolt your graphics card](https://www.makeuseof.com/how-to-undervolt-graphics-card/) .
+ If you're trying to get the lowest GPU temperatures and the most performance for your graphics card, you might also want to check out [how to replace your graphics card's thermal paste](https://www.makeuseof.com/how-reapply-thermal-paste-graphics-card/) or [undervolt your graphics card](https://www.makeuseof.com/how-to-undervolt-graphics-card/) .
 
 ## Should Your GPU Fans Run at 100%?
 
- If you run your GPU fans at 100%, they will wear out quicker than normal. It'll still take a while, but in most cases, it'll just be the lubricant drying out, which can easily be fixed with a single tiny drop of[Krytox GPL 105](https://www.amazon.com/Mechanical-Keyboard-Switches-Stabilizer-Lubricant/dp/B09YV7TMKV?tag=makeusw-20&ascsubtag=UUmuoUeUpU2031241&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Flower-gpu-temperature-custom-fan-curve%2F&asc%5Fcampaign=Evergreen) ,[Super Lube 51010](https://www.amazon.com/Super-Lube-51010-Oil/dp/B000BXOGHY?tag=makeusw-20&ascsubtag=UUmuoUeUpU2031241&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Flower-gpu-temperature-custom-fan-curve%2F&asc%5Fcampaign=Evergreen) , or other dielectric oils.
+ If you run your GPU fans at 100%, they will wear out quicker than normal. It'll still take a while, but in most cases, it'll just be the lubricant drying out, which can easily be fixed with a single tiny drop of [Krytox GPL 105](https://www.amazon.com/Mechanical-Keyboard-Switches-Stabilizer-Lubricant/dp/B09YV7TMKV?tag=makeusw-20&ascsubtag=UUmuoUeUpU2031241&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Flower-gpu-temperature-custom-fan-curve%2F&asc%5Fcampaign=Evergreen) ,[Super Lube 51010](https://www.amazon.com/Super-Lube-51010-Oil/dp/B000BXOGHY?tag=makeusw-20&ascsubtag=UUmuoUeUpU2031241&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Flower-gpu-temperature-custom-fan-curve%2F&asc%5Fcampaign=Evergreen) , or other dielectric oils.
 
- However, in rare cases, the motor might need replacing as well. However, a[replacement graphics card fan](https://www.amazon.com/s?k=Graphics+card+fan&tag=makeusw-20&ascsubtag=UUmuoUeUpU2031241&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Flower-gpu-temperature-custom-fan-curve%2F&asc%5Fcampaign=Evergreen) is much cheaper and easier to fix than a dead GPU. You'll have to consider whether potentially needing a fan replacement sooner and a noisier system is worth lifting the performance cap.
+ However, in rare cases, the motor might need replacing as well. However, a [replacement graphics card fan](https://www.amazon.com/s?k=Graphics+card+fan&tag=makeusw-20&ascsubtag=UUmuoUeUpU2031241&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Flower-gpu-temperature-custom-fan-curve%2F&asc%5Fcampaign=Evergreen) is much cheaper and easier to fix than a dead GPU. You'll have to consider whether potentially needing a fan replacement sooner and a noisier system is worth lifting the performance cap.
 
 ## How to Set a Custom GPU Fan Curve to Boost Gaming Performance
 
  Setting a custom fan curve is incredibly easy and something you shouldn't be intimidated by. Below, you'll not only learn how to make a custom fan curve but also understand how to make a fan curve that's best for your hardware.
 
-### Step 1: Download MSI Afterburner, Unigine Heaven, and HWinfo
-
-![Auto fan speed 0.963v test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/auto-fan-speed-0-963v-test.jpg)
+### Step 1: Download MSI Afterburner, Unigine Heaven, and HWinfo ![Auto fan speed 0.963v test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/auto-fan-speed-0-963v-test.jpg)
 
  You'll be using three programs to create and find the best fan curve for your graphics card.
 
- To create a custom fan curve, we'll be using[MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) .[Unigine Heaven](https://benchmark.unigine.com/heaven) will be the benchmark software you'll use to put your graphics card up to temperature, and[HWinfo](https://www.hwinfo.com/download/) will help you see your GPU temperatures in detail.
+ To create a custom fan curve, we'll be using [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) .[Unigine Heaven](https://benchmark.unigine.com/heaven) will be the benchmark software you'll use to put your graphics card up to temperature, and [HWinfo](https://www.hwinfo.com/download/) will help you see your GPU temperatures in detail.
 
 ![MSI Mystic Afterburner skin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/msi-mystic-afterburner-skin.jpg)
 
@@ -89,9 +87,7 @@ Jhet Borja/MakeUseOf
 
  Now that we have the information, we can now put it to use in our custom GPU fan curve.
 
-### Step 3: Creating Your Custom GPU Fan Curve Using MSI Afterburner
-
-![0% and 100% fan speed poitns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/0-and-100-fan-speed-poitns.jpg)
+### Step 3: Creating Your Custom GPU Fan Curve Using MSI Afterburner ![0% and 100% fan speed poitns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/0-and-100-fan-speed-poitns.jpg)
 
  To create a custom GPU fan curve in MSI Afterburner, click**Settings** **\> Fan** . Here, you can move the points around to create your own fan curve. We've deleted all the other points and set 0% fan speed at 50°C and 100% fan speed at 75°C. You can also choose a lower maximum speed if you want.
 

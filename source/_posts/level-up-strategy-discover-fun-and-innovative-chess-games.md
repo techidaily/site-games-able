@@ -1,7 +1,7 @@
 ---
 title: "Level Up Strategy: Discover Fun & Innovative Chess Games"
-date: 2024-06-21 11:44:49
-updated: 2024-06-24 12:40:21
+date: 2024-06-25T13:12:12.757Z
+updated: 2024-06-26T13:12:12.757Z
 tags:
   - games
 categories:
@@ -18,19 +18,15 @@ thumbnail: https://thmb.techidaily.com/14af88c4727edfc68754682f8d9e5a16b4632ead5
 
  Have you ever played three-player chess? Or how about a game of chess where you don't take turns but keep playing all the time? From chess variants that challenge you to discard classical strategies and think anew to playing chess with AI for fun or to get your FIDE rating, these are some of the quirkiest and most fun ways to play a different type of chess.
 
-## 1. Noctie
-
-![Play a game against the Noctie AI to find your FIDE Elo rating in chess](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-noctie-ai.jpg)
+## 1. Noctie ![Play a game against the Noctie AI to find your FIDE Elo rating in chess](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-noctie-ai.jpg)
 
  Based on wins, losses, and draws, FIDE assigns an official Elo rating to players, with Candidate Masters starting at 2000\. Of course, this is only for those participating in official tournaments. But if you've ever wondered what your rating would be, you can find out by playing a game with Noctie AI.
 
- Noctie learns as you play and tries to match your skill level, and estimates your rating. You are allowed one takeback in the game, and the AI can also offer one idea if you're stuck. Apart from that, it's a standard game of chess with five minutes per move. At the end of the game, whether you win or lose, Noctie will tell you what your FIDE rating would be, as well as the equivalent rating on LiChess, the[best free app to play chess online](https://www.makeuseof.com/best-apps-for-chess-players/) .
+ Noctie learns as you play and tries to match your skill level, and estimates your rating. You are allowed one takeback in the game, and the AI can also offer one idea if you're stuck. Apart from that, it's a standard game of chess with five minutes per move. At the end of the game, whether you win or lose, Noctie will tell you what your FIDE rating would be, as well as the equivalent rating on LiChess, the [best free app to play chess online](https://www.makeuseof.com/best-apps-for-chess-players/) .
 
  For reference, you can refer to the Wikipedia Elo rating range table. Above a rating of 1000, every 2000 points puts you in a different class of chess player.
 
-## 2. Kung Fu Chess
-
-![In Kung Fu Chess, you and your opponent don't take turns to play, but can move any and all pieces simultaneously](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-kung-fu-chess.jpg)
+## 2. Kung Fu Chess ![In Kung Fu Chess, you and your opponent don't take turns to play, but can move any and all pieces simultaneously](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-kung-fu-chess.jpg)
 
  Chess is a turn-by-turn game, and the standard game encourages taking your time to think through each move. Kung Fu Chess changes the rules to remove the turn-by-turn style. You can move any piece at any moment without waiting for the opponent to make a move. It's basically taking the principles of real-time strategy games like Age of Empires and applying them to chess.
 
@@ -38,11 +34,9 @@ thumbnail: https://thmb.techidaily.com/14af88c4727edfc68754682f8d9e5a16b4632ead5
 
  Beginners should ideally start with the Kung Fu Chess solo campaign mode to play against a bot to learn and practice the new rules. Once you're confident, you can play against AI or a friend in both standard or lightning modes.
 
-## 3. Chesswith.Ai
+## 3. Chesswith.Ai ![Chesswith.Ai uses ChatGPT to let you play against fictional characters who talk to you after each turn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-chesswithai.jpg)
 
-![Chesswith.Ai uses ChatGPT to let you play against fictional characters who talk to you after each turn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-chesswithai.jpg)
-
- Among the many[cool things to do with ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/) is to use it to chat with a fictional character. Chesswith.Ai has created profiles of several popular fictional characters and even real historical people such as Harry Potter, Dwight Schrute, John F. Kennedy, Marie Curie, etc. And you can now play a game of chess with them while they chat with you.
+ Among the many [cool things to do with ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/) is to use it to chat with a fictional character. Chesswith.Ai has created profiles of several popular fictional characters and even real historical people such as Harry Potter, Dwight Schrute, John F. Kennedy, Marie Curie, etc. And you can now play a game of chess with them while they chat with you.
 
  The AI difficulty level doesn't change according to the chosen opponent, so you can set that as very easy, easy, medium, hard, and very hard. After every move made, the chatbot responds with a small message that would befit the personality, while also commenting on the game's status or borrowing from chess theory.
 
@@ -56,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/14af88c4727edfc68754682f8d9e5a16b4632ead5
 
  You can also undo a couple of moves in each game. When you're in an obvious position of piece advantage, Halfchess allows you to claim a victory so that you don't waste further time. While playing with friends, you can set a maximum time and even choose to play in Blind Mode. In Blind Mode, pieces disappear after 5 seconds, forcing you to remember where everything is.
 
-**Download:** Half Chess for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027833/https://play.google.com/store/apps/details?id=com.flipflopapp.halfchess&hl=en&gl=US) |[iOS](https://apps.apple.com/us/app/halfchess-play-chess-faster/id1182813218) (Free)
+**Download:** Half Chess for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027833/https://play.google.com/store/apps/details?id=com.flipflopapp.halfchess&hl=en&gl=US) |[iOS](https://apps.apple.com/us/app/halfchess-play-chess-faster/id1182813218) (Free)
 
 ## 5. Really Bad Chess
 
@@ -66,11 +60,9 @@ thumbnail: https://thmb.techidaily.com/14af88c4727edfc68754682f8d9e5a16b4632ead5
 
  The game offers and encourages you to use Undo Moves, which you can earn by watching ads or paying. You can also pay to unlock an offline player-vs-player mode on a single device, remove all banner ads, and get 100 undos.
 
-**Download:** Really Bad Chess for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027833/https://play.google.com/store/apps/details?id=com.noodlecake.reallybadchess) |[iOS](https://apps.apple.com/app/id1109751921) (Free)
+**Download:** Really Bad Chess for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027833/https://play.google.com/store/apps/details?id=com.noodlecake.reallybadchess) |[iOS](https://apps.apple.com/app/id1109751921) (Free)
 
-## 6. Green Chess
-
-![Green Chess has a large variety of chess variants to play online, and an active community so you'll find matchups easily](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-green-chess.jpg)
+## 6. Green Chess ![Green Chess has a large variety of chess variants to play online, and an active community so you'll find matchups easily](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-green-chess.jpg)
 
  If you're digging the idea of playing chess variants, you need to register for an account at Green Chess. This website has the largest collection of chess variants and an active community of users, so you're likely to find a match-up quickly.
 
@@ -99,3 +91,24 @@ thumbnail: https://thmb.techidaily.com/14af88c4727edfc68754682f8d9e5a16b4632ead5
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/how-to-fix-uneven-displays-caused-by-gpu-issues/"><u>How To Fix Uneven Displays Caused by GPU Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/jumpstart-journey-overcoming-stuck-stage/"><u>Jumpstart Journey: Overcoming Stuck Stage</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-prevents-gamefi-from-being-a-gamers-dream/"><u>What Prevents GameFi From Being a Gamer's Dream</u></a></li>
+<li><a href="https://games-able.techidaily.com/ifa-unveils-thinner-tech-trends-with-tecnos-new-models/"><u>IFA Unveils Thinner Tech Trends with Tecno's New Models</u></a></li>
+<li><a href="https://games-able.techidaily.com/zero-internet-no-problem-list-of-phone-game-delights/"><u>Zero Internet, No Problem - List of Phone Game Delights</u></a></li>
+<li><a href="https://games-able.techidaily.com/embrace-global-gaming-culture-apply-translation-patches-on-roms/"><u>Embrace Global Gaming Culture: Apply Translation Patches on ROMs</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-list-elite-8-sites-for-gamers-and-critics/"><u>Exclusive List: Elite 8 Sites for Gamers and Critics</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-spec-comparison-asus-rog-ally-and-steam-deck-explored/"><u>The Spec Comparison: ASUS ROG Ally and Steam Deck Explored</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-elite-hd-video-recorder-macpc-fullscreen/"><u>[New] 2024 Approved  Elite HD Video Recorder  MacPC Fullscreen</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-complete-investigation-into-razers-kiyo-webcam/"><u>In 2024, Complete Investigation Into Razer's Kiyo Webcam</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-list-6-videos-that-grab-attention/"><u>2024 Approved  The Ultimate List  6 Videos That Grab Attention</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/filter-not-working-error-in-excel-2000-fix-2024-by-stellar-guide/"><u>Filter Not Working Error in Excel 2000 Fix 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xr-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XR with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-superstar-status-secrets-a-step-by-step-plan-for-lightning-fame-on-social-media-giant-instagram/"><u>[New] 2024 Approved  Superstar Status Secrets  A Step-by-Step Plan for Lightning Fame on Social Media Giant Instagram</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-comprehensive-breakdown-exploring-lgs-widescreen-uhd-display/"><u>In 2024, Comprehensive Breakdown  Exploring LG's Widescreen UHD Display</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/reating-a-prime-business-channel-top-picks-and-simple-steps/"><u>[New] Creating a Prime Business Channel  Top Picks & Simple Steps</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-14-pro-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone 14 Pro Without a Passcode</u></a></li>
+</ul></div>

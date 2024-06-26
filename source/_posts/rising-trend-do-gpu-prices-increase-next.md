@@ -1,7 +1,7 @@
 ---
 title: "Rising Trend: Do GPU Prices Increase Next?"
-date: 2024-06-21 12:11:53
-updated: 2024-06-24 10:24:10
+date: 2024-06-25T13:09:37.550Z
+updated: 2024-06-26T13:09:37.550Z
 tags:
   - games
 categories:
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 
 ## Is Nvidia Set to Cut Its Desktop GPU Output?
 
- According to a[Hardware Times report](https://www.hardwaretimes.com/nvidia-may-reduce-supply-of-rtx-4060-4070-desktop-cards-to-make-more-notebook-gpus/) , itself taken from a[Chinese news site](https://news.mydrivers.com/1/928/928738.htm) , Nvidia is planning to cut production of its RTX 4060 and RTX 4070 models by up to 50% compared to initial plans. The chips allocated for desktops would instead go towards laptop GPUs to meet strong demand from gaming notebook manufacturers. If the rumors are true, the reduction in GPU production from the world's leading manufacturer would certainly send prices soaring.
+ According to a [Hardware Times report](https://www.hardwaretimes.com/nvidia-may-reduce-supply-of-rtx-4060-4070-desktop-cards-to-make-more-notebook-gpus/) , itself taken from a [Chinese news site](https://news.mydrivers.com/1/928/928738.htm) , Nvidia is planning to cut production of its RTX 4060 and RTX 4070 models by up to 50% compared to initial plans. The chips allocated for desktops would instead go towards laptop GPUs to meet strong demand from gaming notebook manufacturers. If the rumors are true, the reduction in GPU production from the world's leading manufacturer would certainly send prices soaring.
 
 ![person's hand holding an Nvidia graphics card out of the box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/nvidia-graphics-card.jpg)
 
@@ -38,17 +38,17 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 
  Speculation about GPU prices always raises the question: should you buy a new GPU now? It's difficult to know exactly what to do, but there are a couple of considerations before you bite the bullet.
 
- First up is[Digital Trends report](https://www.digitaltrends.com/computing/gpu-prices-2020-vs-2023-compared/) that GPU prices have fallen significantly from their pandemic peaks in 2021-22—but are still well above MSRP for many models. A lower supply of RTX 4000 cards could reverse the recent downward price trend. Comparing September 2022 to January 2023, the average selling price for Nvidia 30-Series cards only dropped around 8%. Cards remain, on average, 42% above MSRP, even after normalizing for tariffs.
+ First up is [Digital Trends report](https://www.digitaltrends.com/computing/gpu-prices-2020-vs-2023-compared/) that GPU prices have fallen significantly from their pandemic peaks in 2021-22—but are still well above MSRP for many models. A lower supply of RTX 4000 cards could reverse the recent downward price trend. Comparing September 2022 to January 2023, the average selling price for Nvidia 30-Series cards only dropped around 8%. Cards remain, on average, 42% above MSRP, even after normalizing for tariffs.
 
 ![Radeon RX vs. GeForce GTX GPU](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/radeon-rx-vs-geforce-gtx-gpu.jpg)
 
- Second, is the looming specter of AMD's strongly rumored RX 7700 XT and RX 7800 XT GPUs, which are expected to launch in September 2023\. If the launch of AMD's previous 7000-Series GPUs is anything to go by, its new GPUs will compete directly with Nvidia's. For example, the[AMD RX 7900 XTX undercut Nvidia's 4090](https://www.makeuseof.com/amd-7900-xtx-dethrone-nvidia/) by around $600\. While the Nvidia 4090 was undoubtedly the better GPU, in effectively every way, most regular consumers are prepared to drop a month's rent on a GPU.
+ Second, is the looming specter of AMD's strongly rumored RX 7700 XT and RX 7800 XT GPUs, which are expected to launch in September 2023\. If the launch of AMD's previous 7000-Series GPUs is anything to go by, its new GPUs will compete directly with Nvidia's. For example, the [AMD RX 7900 XTX undercut Nvidia's 4090](https://www.makeuseof.com/amd-7900-xtx-dethrone-nvidia/) by around $600\. While the Nvidia 4090 was undoubtedly the better GPU, in effectively every way, most regular consumers are prepared to drop a month's rent on a GPU.
 
  So while Nvidia may be preparing to reduce its GPU supply, the pressure from AMD may stop prices from rising too far.
 
 ### Massive Crypto Mining Reduction Reduces Pressure
 
- A third, final, pressure relief could also help to keep GPU prices low. Since the[September 2022 Ethereum 2.0 Merge](https://www.makeuseof.com/what-is-the-ethereum-2-merge/) , the Ethereum network no longer uses the proof of work algorithm to secure its network and issue new currency. It now uses[the less energy-intensive proof-of-stake](https://www.makeuseof.com/proof-of-work-vs-proof-of-stake-which-is-better/) consensus method, which doesn't require the use of powerful hardware.
+ A third, final, pressure relief could also help to keep GPU prices low. Since the [September 2022 Ethereum 2.0 Merge](https://www.makeuseof.com/what-is-the-ethereum-2-merge/) , the Ethereum network no longer uses the proof of work algorithm to secure its network and issue new currency. It now uses [the less energy-intensive proof-of-stake](https://www.makeuseof.com/proof-of-work-vs-proof-of-stake-which-is-better/) consensus method, which doesn't require the use of powerful hardware.
 
  One of the main pressures on GPU prices during the pandemic and following years was the enormous rise in Ethereum mining, which was primarily achieved using GPUs. Without this pressure and without an enormous amount of GPUs being swallowed up by crypto mining with each GPU generation, prices remain stable.
 
@@ -73,3 +73,22 @@ Either way, it's best to keep one eye on GPU prices.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/the-brief-existence-of-game-worlds-should-we-care/"><u>The Brief Existence of Game Worlds – Should We Care?</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-gaming-gpu-showdown-amds-radeon-xt-series-explained/"><u>The Ultimate Gaming GPU Showdown: AMD's Radeon XT Series Explained</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-bg3-on-macos-with-crossover-software/"><u>Step-by-Step BG3 on macOS with Crossover Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/galaxy-forger-unveiling-top-gaming-pcs/"><u>Galaxy Forger: Unveiling Top Gaming PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/cutting-cost-not-quality-in-your-ps5-gaming-package/"><u>Cutting Cost, Not Quality in Your PS5 Gaming Package</u></a></li>
+<li><a href="https://games-able.techidaily.com/unmasking-game-meta-interpretation-and-adherence/"><u>Unmasking Game 'Meta': Interpretation & Adherence</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminate-automatic-subscriptions-from-steam/"><u>Eliminate Automatic Subscriptions From Steam</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-tecno-spark-10c-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Tecno Spark 10C FRP</u></a></li>
+<li><a href="https://extra-support.techidaily.com/quintessential-scriptwriting-throughout-the-film-landscape-for-2024/"><u>Quintessential Scriptwriting Throughout the Film Landscape for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/fundamentals-of-crafting-engaging-stories/"><u>Fundamentals of Crafting Engaging Stories</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-master-zoom-recording-with-essential-gear/"><u>In 2024, Master Zoom Recording with Essential Gear</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-review-dji-phantom-4-in-action/"><u>In 2024, In Depth Review  DJI Phantom 4 in Action</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-practical-demonstrations-creating-and-configuring-timer-modules-in-obs/"><u>2024 Approved  Practical Demonstrations  Creating and Configuring Timer Modules in OBS</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/2024-approved-jump-cutting-like-a-pro-in-fcpx-expert-techniques-revealed/"><u>2024 Approved Jump Cutting Like a Pro in FCPX Expert Techniques Revealed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-effortless-music-playlist-creation-for-youtube-anywhere-webmobile/"><u>[New] In 2024, Effortless Music Playlist Creation for YouTube, Anywhere (Web/Mobile)</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: A Comprehensive Guide to Personalizing Games Using The Workshop
-date: 2024-06-25T10:49:01.623Z
-updated: 2024-06-26T10:49:01.623Z
+date: 2024-06-25T12:48:40.961Z
+updated: 2024-06-26T12:48:40.961Z
 tags:
   - games
 categories:
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/fe488ca615edc9308d7ef5f18a2de9eeeab475c2b
 
 ## What Is the Steam Workshop?
 
- The Steam Workshop is an official service provided by Valve and integrated into the Steam client. It was set up to allow people to easily publish and download mods for their favorite games without requiring any technical expertise. And it's one of the[reasons why all PC gamers should use Steam](https://www.makeuseof.com/all-gamers-should-use-steam-reasons-why/) .
+ The Steam Workshop is an official service provided by Valve and integrated into the Steam client. It was set up to allow people to easily publish and download mods for their favorite games without requiring any technical expertise. And it's one of the [reasons why all PC gamers should use Steam](https://www.makeuseof.com/all-gamers-should-use-steam-reasons-why/) .
 
  Not every game will be compatible with the Steam Workshop. For a game to use it, the developer has to enable it and set it up to work with their game. However, games with a dedicated modding community will usually have Steam Workshop set up for it.
 
@@ -47,11 +47,11 @@ thumbnail: https://thmb.techidaily.com/fe488ca615edc9308d7ef5f18a2de9eeeab475c2b
 
 ![Clicking the Workshop category on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/workshop-guide-category.jpg)
 
- Popular games that include Steam Workshop mods include Garry's Mod, Team Fortress 2, Cities: Skylines, The Elder Scrolls V: Skyrim, and Rimworld. If you want to check if a game has Steam Workshop support without first adding it to your library, go to the[Steam Workshop site](https://steamcommunity.com/workshop/) and search for a specific game.
+ Popular games that include Steam Workshop mods include Garry's Mod, Team Fortress 2, Cities: Skylines, The Elder Scrolls V: Skyrim, and Rimworld. If you want to check if a game has Steam Workshop support without first adding it to your library, go to the [Steam Workshop site](https://steamcommunity.com/workshop/) and search for a specific game.
 
  If you don't see this category, check with the developers to see if they have plans to add mod support in a future update. This also applies to games published under Early Access, as developers will usually release them without mod support and add it later down the roadmap.
 
- Different games will feature different kinds of mods, depending on the genre of the title and what the developer allows people to create. For example, you can use Steam Workshop to[make your own board game in Tabletop Simulator](https://www.makeuseof.com/how-to-make-custom-board-game-tabletop-simulator/) .
+ Different games will feature different kinds of mods, depending on the genre of the title and what the developer allows people to create. For example, you can use Steam Workshop to [make your own board game in Tabletop Simulator](https://www.makeuseof.com/how-to-make-custom-board-game-tabletop-simulator/) .
 
 ## How to Install a Steam Workshop Mod
 
@@ -105,7 +105,7 @@ thumbnail: https://thmb.techidaily.com/fe488ca615edc9308d7ef5f18a2de9eeeab475c2b
 
  Given how easy it is for people to upload mods onto the Steam Workshop, it's understandable to be concerned about whether a mod can contain malware. Steam can automatically install and update mods, so what's to stop someone from using it to distribute a virus?
 
- Generally, Steam Workshop mods are safe. There have been rare instances where someone used the Steam Workshop to distribute malware. For example, as reported by[GameRant](https://gamerant.com/steam-malware-mod-downfall-slay-the-spire/) , a mod called Downfall for Slay the Spire distributed malware after hackers managed to get into the mod developer's account and uploaded the payload into the code.
+ Generally, Steam Workshop mods are safe. There have been rare instances where someone used the Steam Workshop to distribute malware. For example, as reported by [GameRant](https://gamerant.com/steam-malware-mod-downfall-slay-the-spire/) , a mod called Downfall for Slay the Spire distributed malware after hackers managed to get into the mod developer's account and uploaded the payload into the code.
 
  However, these cases are the exception rather than the rule. For the most part, you can download mods without worrying about any malicious code sneaking onto your system.
 

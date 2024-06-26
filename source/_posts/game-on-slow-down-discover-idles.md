@@ -1,7 +1,7 @@
 ---
 title: "Game On, Slow Down: Discover Idles"
-date: 2024-06-25T10:44:54.458Z
-updated: 2024-06-26T10:44:54.458Z
+date: 2024-06-25T12:48:38.418Z
+updated: 2024-06-26T12:48:38.418Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
 ## What Are Idle Games?
 
- Idle games are[a niche video game genre](https://www.makeuseof.com/tag/niche-video-game-genres-worth-playing/) . As the name suggests, idle games require less direct input than a typical first-person shooter or precision platformer. They let you make progress simply by having the game running, potentially alongside other games, videos, or—whisper it quietly—work.
+ Idle games are [a niche video game genre](https://www.makeuseof.com/tag/niche-video-game-genres-worth-playing/) . As the name suggests, idle games require less direct input than a typical first-person shooter or precision platformer. They let you make progress simply by having the game running, potentially alongside other games, videos, or—whisper it quietly—work.
 
  Idle games often start by being anything but idle, though, requiring constant interaction. This is often in the form of simple, repetitive mouse clicking which is about as fun as it sounds. However, a typical idle game soon ramps up the fun. By offering upgrades to automate the manual work, idle games scale your abilities in tandem with your objective.
 
@@ -32,9 +32,7 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
  There are many idle games you can play for free, and most of them are available in your web browser. Many have mobile apps and a few are available on consoles.
 
-### Cookie Clicker
-
-![The Cookie Clicker game displays a large cookie and a long set of achievements.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/cookie-clicker.png)
+### Cookie Clicker ![The Cookie Clicker game displays a large cookie and a long set of achievements.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/cookie-clicker.png)
 
  Cookie Clicker is possibly the best-known example of an idle game. You start playing by clicking a huge cookie to bake individual cookies. Upgrades become available to automatically click the cookie, multiply various effects, and generally scale up the action until you’re producing millions, billions, and even larger quantities of cookies.
 
@@ -42,25 +40,19 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
 **Play:** [Web](https://orteil.dashnet.org/cookieclicker/) ,[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2032295/https://play.google.com/store/apps/details?id=org.dashnet.cookieclicker) (Free, ad-supported),[Steam](https://store.steampowered.com/app/1454400/Cookie%5FClicker/) ($4.99)
 
-### A Dark Room
+### A Dark Room ![A Dark Room's interface is sparse and mostly text-based with simple buttons.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/a-dark-room.png)
 
-![A Dark Room's interface is sparse and mostly text-based with simple buttons.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/a-dark-room.png)
-
- A Dark Room features plenty of interactivity, but it also involves a fair bit of waiting around, so it just about qualifies as an idle game. Presenting a very basic interface, it’s reminiscent of the[text adventure games](https://www.makeuseof.com/tag/browser-text-based-games/) that originated in the 1970s. After some time, the game takes a turn, introducing a different type of gameplay. And there are plenty of twists in the plot, too.
+ A Dark Room features plenty of interactivity, but it also involves a fair bit of waiting around, so it just about qualifies as an idle game. Presenting a very basic interface, it’s reminiscent of the [text adventure games](https://www.makeuseof.com/tag/browser-text-based-games/) that originated in the 1970s. After some time, the game takes a turn, introducing a different type of gameplay. And there are plenty of twists in the plot, too.
 
 **Play:** [Web](https://adarkroom.doublespeakgames.com/) (Free),[iOS](https://apps.apple.com/us/app/a-dark-room/id736683061) ($1.99),[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2032295/https://play.google.com/store/apps/details?id=com.yourcompany.adarkroom) ($1.39),[Switch](https://www.nintendo.com/us/store/products/a-dark-room-switch/) ($6.99)
 
-### Clicker Heroes
-
-![The Clicker Heroes interface features bright colors and illustrated enemy characters.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/clicker-heroes.png)
+### Clicker Heroes ![The Clicker Heroes interface features bright colors and illustrated enemy characters.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/clicker-heroes.png)
 
  Clicker Heroes is an idle game styled to look like an RPG. Foes appear for your band of adventurers to combat automatically, earning you gold. Meanwhile, you can buy new members for your squad, upgrade their abilities, and purchase special powers. While it initially seems quite unique, the parallels with other idle games like Cookie Clicker soon become apparent.
 
 **Play:** [Web](https://clickerheroes.com/play.html) ,[Steam](https://store.steampowered.com/app/363970/Clicker%5FHeroes/) ,[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2032295/https://play.google.com/store/apps/details?id=air.com.r2gamesusa.clickerheroes) ,[iOS](https://apps.apple.com/us/app/clicker-heroes-idle-slayer/id911107930) (Free, in-app purchases available)
 
-### Universal Paperclips
-
-![Universal Paperclips is a text-based game with a simple HTML interface.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/universal-paperclips.png)
+### Universal Paperclips ![Universal Paperclips is a text-based game with a simple HTML interface.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/universal-paperclips.png)
 
  A more recent take on the genre, Universal Paperclips still looks like something from the earliest days of the internet. It begins a bit like an economic simulation, tasking the player to create paperclips with the click of a button and choose the right price to sell them at.
 
@@ -78,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
  Idle games have possibly reached the peak of their popularity, representing a significant fad that has since waned. But their influence has been far and wide, and many share business models and techniques with other mobile and web-based games.
 
- Some idle games[offer microtransactions](https://www.makeuseof.com/examples-of-gaming-microtransactions/) to speed up their gameplay. These incentives can be tricky to resist when a small amount of money has a great impact on progress. Idle games are very often free to play, so need to find alternative revenue sources, including in-game advertising.
+ Some idle games [offer microtransactions](https://www.makeuseof.com/examples-of-gaming-microtransactions/) to speed up their gameplay. These incentives can be tricky to resist when a small amount of money has a great impact on progress. Idle games are very often free to play, so need to find alternative revenue sources, including in-game advertising.
 
  Meanwhile, many people dismiss idle games as simple, low-quality efforts. They often have a very simple gameplay loop, replicated from game to game, and invest little in graphics, sound, or narrative. Even the developer of Cookie Clicker, orteil, has referred to their idle game as a "non-game."
 

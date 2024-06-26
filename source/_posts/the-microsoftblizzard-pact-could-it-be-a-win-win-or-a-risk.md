@@ -1,7 +1,7 @@
 ---
 title: "The Microsoft/Blizzard Pact: Could It Be a Win-Win or a Risk?"
-date: 2024-06-22 23:16:54
-updated: 2024-06-24 12:57:46
+date: 2024-06-25T13:01:32.425Z
+updated: 2024-06-26T13:01:32.425Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/300b8b150f8464b487683b06984fcbd6662b4fb11
 
  Specifically, the deal between Microsoft and Activision/Blizzard refers to the acquisition of Activision/Blizzard by Microsoft for $68.7 billion, making it the biggest video game acquisition in history.
 
- The deal allowed Microsoft to own properties such as Call of Duty, Diablo, and World of Warcraft and utilize them on Xbox platforms and services. As for[reasons you should use Xbox Game Pass](https://www.makeuseof.com/reasons-to-get-xbox-game-pass/) or other Xbox services, including franchises like Call of Duty on gaming services make Xbox services all the more enticing.
+ The deal allowed Microsoft to own properties such as Call of Duty, Diablo, and World of Warcraft and utilize them on Xbox platforms and services. As for [reasons you should use Xbox Game Pass](https://www.makeuseof.com/reasons-to-get-xbox-game-pass/) or other Xbox services, including franchises like Call of Duty on gaming services make Xbox services all the more enticing.
 
 ![A screenshot of the loading screen for Diablo II Resurrected on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/diablo-ii-resurrected-loading-screen.jpg)
 
@@ -52,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/300b8b150f8464b487683b06984fcbd6662b4fb11
 
  Aside from Xbox having a monopoly over Activision/Blizzard exclusivity and a sizable chunk of the industry, the deal further fuels the exclusivity race with rival platforms like PlayStation.
 
- While there are many[great Xbox Series X|S exclusives](https://www.makeuseof.com/the-best-xbox-exclusives-to-test-out-your-xbox-series-xs/) , acquiring Activision/Blizzard represents a drastic expansion of the exclusive games Xbox could offer. And typically, this is something that PlayStation is notoriously better at doing than Xbox.
+ While there are many [great Xbox Series X|S exclusives](https://www.makeuseof.com/the-best-xbox-exclusives-to-test-out-your-xbox-series-xs/) , acquiring Activision/Blizzard represents a drastic expansion of the exclusive games Xbox could offer. And typically, this is something that PlayStation is notoriously better at doing than Xbox.
 
 ![A promotional image of God of War Ragnarok depicting a scene from the game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/god-of-war.jpg)
 
@@ -66,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/300b8b150f8464b487683b06984fcbd6662b4fb11
 
  Aside from implications and problems linked to exclusivity, Microsoft's acquisition of Activision/Blizzard has been flagged by independent experts as possibly increasing the costs of games and services.
 
- The UK-based Competitions and Markets Authority investigated the deal between Microsoft and Activision/Blizzard. As reported by[City A.M.](https://www.cityam.com/microsofts-activision-blizzard-bid/) , a CMA investigator stated that a mismanaged deal creates "higher prices, fewer choices, or less innovation."
+ The UK-based Competitions and Markets Authority investigated the deal between Microsoft and Activision/Blizzard. As reported by [City A.M.](https://www.cityam.com/microsofts-activision-blizzard-bid/) , a CMA investigator stated that a mismanaged deal creates "higher prices, fewer choices, or less innovation."
 
 ![A promotional image for Xbox Game Pass and EA Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/xbox-game-pass-and-ea-play.jpg)
 
@@ -74,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/300b8b150f8464b487683b06984fcbd6662b4fb11
 
  While not guaranteed, the acquisition of Activision/Blizzard by Microsoft is connected by the CMA to a potential increase in the costs you may face for your games and gaming services.
 
- And while there may be many[reasons you will see the price of Xbox Game Pass increasing](https://www.makeuseof.com/reasons-xbox-game-pass-will-get-more-expensive/) , the price tag of $68.7 billion for Activision/Blizzard will only inflate things further. So, even if you're a fan of Xbox, you may still be affected by price increases associated with the deal.
+ And while there may be many [reasons you will see the price of Xbox Game Pass increasing](https://www.makeuseof.com/reasons-xbox-game-pass-will-get-more-expensive/) , the price tag of $68.7 billion for Activision/Blizzard will only inflate things further. So, even if you're a fan of Xbox, you may still be affected by price increases associated with the deal.
 
 ## Why the Activision/Blizzard Deal May Not Be as Bad as You Think
 
@@ -84,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/300b8b150f8464b487683b06984fcbd6662b4fb11
 
  One of the main reasons you may be worried about Microsoft's acquisition of Activision/Blizzard is how the deal stands to spur on platform exclusivity.
 
- However, Xbox releases most of its exclusive games on both PC and Xbox, so the idea that the deal would make Activision/Blizzard titles solely available on Xbox Series X|S is unlikely. And even with an intent to make Activision/Blizzard titles exclusive, Xbox would be unable to do so until 2038, as reported by the[BBC](https://www.bbc.com/news/technology-67066870) .
+ However, Xbox releases most of its exclusive games on both PC and Xbox, so the idea that the deal would make Activision/Blizzard titles solely available on Xbox Series X|S is unlikely. And even with an intent to make Activision/Blizzard titles exclusive, Xbox would be unable to do so until 2038, as reported by the [BBC](https://www.bbc.com/news/technology-67066870) .
 
  And if that wasn't enough, Phil Spencer, the head of Xbox, confirmed via the Official Xbox Podcast that all future Call of Duty games will be available on all platforms.
 
@@ -104,7 +104,7 @@ thumbnail: https://thmb.techidaily.com/300b8b150f8464b487683b06984fcbd6662b4fb11
 
  Along with multiple generations of backwards compatibility for Xbox consoles and Xbox All Access,[Xbox is one of the most consumer-friendly platforms](https://www.makeuseof.com/ways-microsoft-has-made-the-xbox-series-xs-the-most-consumer-friendly-console/) in gaming. Acquiring Activision/Blizzard spreads Xbox's pro-consumer values to Activision/Blizzard titles.
 
- Activision/Blizzard is also a company marred by controversy, as reported by[Forbes](https://www.forbes.com/sites/tylerroush/2023/02/03/activision-blizzard-will-pay-sec-35-million-to-settle-claims-over-its-workplace-misconduct-disclosures/) . And with the completion of Microsoft's acquisition,[Forbes](https://www.forbes.com/sites/conormurray/2023/10/13/activision-blizzard-ceo-bobby-kotick-set-to-leave-in-december-heres-what-to-know-about-his-controversies/) highlights that as a result of the deal's completion, the Managing Director of Activision/Blizzard, Bobby Kotick, exited the company.
+ Activision/Blizzard is also a company marred by controversy, as reported by [Forbes](https://www.forbes.com/sites/tylerroush/2023/02/03/activision-blizzard-will-pay-sec-35-million-to-settle-claims-over-its-workplace-misconduct-disclosures/) . And with the completion of Microsoft's acquisition,[Forbes](https://www.forbes.com/sites/conormurray/2023/10/13/activision-blizzard-ceo-bobby-kotick-set-to-leave-in-december-heres-what-to-know-about-his-controversies/) highlights that as a result of the deal's completion, the Managing Director of Activision/Blizzard, Bobby Kotick, exited the company.
 
  So, if you take the pro-consumer practices Xbox engages in with the changing of the guard at Activision/Blizzard, the deal injects hope into a troubled company, highlighting a positive change for Activision/Blizzard and consumers.
 
@@ -114,7 +114,7 @@ thumbnail: https://thmb.techidaily.com/300b8b150f8464b487683b06984fcbd6662b4fb11
 
  Throughout the acquisition of Activision/Blizzard by Microsoft, you may have noticed numerous stories and pushback from platforms like PlayStation speaking out against the deal.
 
- But if you follow the discussions on Xbox and its place in the industry against competitors, Microsoft president Brad Smith said via[Bloomberg UK](https://www.bloomberg.com/news/articles/2022-12-13/microsoft-says-it-offered-ftc-consent-decree-on-call-of-duty?leadSource=uverify%20wall) that "if you look at the global market, Sony has 70% of that market, and we have 30%".
+ But if you follow the discussions on Xbox and its place in the industry against competitors, Microsoft president Brad Smith said via [Bloomberg UK](https://www.bloomberg.com/news/articles/2022-12-13/microsoft-says-it-offered-ftc-consent-decree-on-call-of-duty?leadSource=uverify%20wall) that "if you look at the global market, Sony has 70% of that market, and we have 30%".
 
 ![A photograph of an PlayStation 5 console and controller atop a white surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/playstation-5.jpg)
 
@@ -145,3 +145,23 @@ thumbnail: https://thmb.techidaily.com/300b8b150f8464b487683b06984fcbd6662b4fb11
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/tips-for-improved-steam-deck-key-presses/"><u>Tips for Improved Steam Deck Key Presses</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-portable-gameplay-steam-deck-and-your-computer/"><u>Enhancing Portable Gameplay: Steam Deck and Your Computer</u></a></li>
+<li><a href="https://games-able.techidaily.com/premier-anti-blue-radiation-frames/"><u>Premier Anti-Blue Radiation Frames</u></a></li>
+<li><a href="https://games-able.techidaily.com/virtual-gaming-reality-explore-fortnite-in-a-new-dimension/"><u>Virtual Gaming Reality: Explore Fortnite in a New Dimension</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-perfect-combo-tablets-and-game-rhythms/"><u>The Perfect Combo: Tablets and Game Rhythms</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-monitors-gameplay-at-165hz/"><u>Optimal Monitors: Gameplay at 165Hz</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-top-independent-games-on-itchio/"><u>Unveiling Top Independent Games on Itch.io</u></a></li>
+<li><a href="https://some-skills.techidaily.com/stream-success-secrets-are-you-a-fan-of-vmix-or-wirecast-for-2024/"><u>Stream Success Secrets  Are You a Fan of VMix or Wirecast for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-your-creativity-with-photoshops-radial-blur-and-shadow-tools-for-2024/"><u>Unlock Your Creativity with Photoshop's Radial Blur & Shadow Tools for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-eyedome-hd-top-quality-chromeos-snapping-for-2024/"><u>[Updated] EyeDome HD  Top Quality ChromeOS Snapping for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-elitemac-hd-video-and-sound-recordist/"><u>[New] EliteMac HD Video & Sound Recordist</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-time-lapse-videos-play-an-important-part-in-videography-if-you-want-to-start-video-shooting-then-you-shouldnt-miss-time-lapse-video-this-article-wil/"><u>Updated Time Lapse Videos Play an Important Part in Videography. If You Want to Start Video Shooting, Then You Shouldnt Miss Time Lapse Video. This Article Will Show You some Ideas over This</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-comprehensive-guide-to-vocal-isolation-in-adobe-audition-a-six-step-process/"><u>New 2024 Approved Comprehensive Guide to Vocal Isolation in Adobe Audition A Six-Step Process</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-high-end-8-cam-modifiers-for-crystal-clear-feeds/"><u>[New] High-End 8 Cam Modifiers for Crystal Clear Feeds</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-cutting-edge-cost-free-platforms-for-professional-video-editing/"><u>[New] Unveiling The Cutting-Edge, Cost-Free Platforms for Professional Video Editing</u></a></li>
+</ul></div>

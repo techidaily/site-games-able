@@ -1,7 +1,7 @@
 ---
 title: "New Graphics Feature, AMD's FSR 3: DLSS 3.5 on Trial?"
-date: 2024-06-22 15:20:13
-updated: 2024-06-24 11:29:24
+date: 2024-06-25T13:05:05.550Z
+updated: 2024-06-26T13:05:05.550Z
 tags:
   - games
 categories:
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 
 ## What Is AMD's FSR 3?
 
- You might already know what FSR, or[FidelityFX Super Resolution](https://www.makeuseof.com/amd-fsr-explained/) , is, but we'll give you a quick refresh if not. FSR is software that takes games rendered at a lower resolution and upscales them to higher ones. It's AMD's competition to[NVIDIA's DLSS](https://www.makeuseof.com/how-deep-learning-super-sampling-can-give-budget-pcs-top-end-graphics/) , boosting in-game visuals and frame rates, and FSR 3 is the latest version of this technology. AMD announced the new tech right as it announced its newest GPUs, the[Radeon RX 7800 XT and the Radeon RX 7700 XT](https://www.makeuseof.com/everything-you-need-to-know-amd-radeon-rx-7800-xt-and-rx-7700-xt/) .
+ You might already know what FSR, or [FidelityFX Super Resolution](https://www.makeuseof.com/amd-fsr-explained/) , is, but we'll give you a quick refresh if not. FSR is software that takes games rendered at a lower resolution and upscales them to higher ones. It's AMD's competition to [NVIDIA's DLSS](https://www.makeuseof.com/how-deep-learning-super-sampling-can-give-budget-pcs-top-end-graphics/) , boosting in-game visuals and frame rates, and FSR 3 is the latest version of this technology. AMD announced the new tech right as it announced its newest GPUs, the [Radeon RX 7800 XT and the Radeon RX 7700 XT](https://www.makeuseof.com/everything-you-need-to-know-amd-radeon-rx-7800-xt-and-rx-7700-xt/) .
 
  FSR 3 isn't fundamentally changing the way FSR works. It's still an open technology that doesn't require proprietary hardware and can run on any modern GPU, AMD or not. What's changing here is how good its results look and how fast games will run with FSR 3.
 
@@ -69,3 +69,24 @@ Image Credits: AMD
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/mobile-operating-system-migration-tips-for-linux/"><u>Mobile Operating System Migration Tips for Linux</u></a></li>
+<li><a href="https://games-able.techidaily.com/playstation-and-xbox-content-contenders/"><u>PlayStation and Xbox Content Contenders</u></a></li>
+<li><a href="https://games-able.techidaily.com/solving-component-requirements-met-issue-in-windows-1111-pro/"><u>Solving Component Requirements Met Issue in Windows 11/11 Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/sending-steam-titles-perfect-holiday-presents/"><u>Sending Steam Titles: Perfect Holiday Presents</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-aesthetics-in-computing-devices/"><u>Affordable Aesthetics in Computing Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-the-value-of-quick-resume-on-xbox-series/"><u>Understanding the Value of Quick Resume on Xbox Series</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficient-controller-utilization-a-ryujinx-emulation-blueprint/"><u>Efficient Controller Utilization: A Ryujinx Emulation Blueprint</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-setting-up-your-xbox-series-x-refresh-rate/"><u>Mastering the Art of Setting Up Your Xbox Series X Refresh Rate</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-founders-flowchart-for-launching-a-review-video-channel/"><u>[Updated] The Founder's Flowchart for Launching a Review Video Channel</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/basic-framework-for-crafting-persuasive-social-media-messages-for-2024/"><u>Basic Framework for Crafting Persuasive Social Media Messages for 2024</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/15-best-stop-motion-animation-kits-to-fuel-creativity-2024-guide/"><u>15 Best Stop Motion Animation Kits to Fuel Creativity (2024 Guide)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-chucklechisel-designing-memes-in-adobe/"><u>2024 Approved  ChuckleChisel  Designing Memes in Adobe</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-preferred-playlists-and-music-packages-for-effortless-background-entertainment/"><u>Updated Preferred Playlists and Music Packages for Effortless Background Entertainment</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-rotate-videos-for-free-top-10-video-flip-and-rotate-tools/"><u>Updated Rotate Videos for Free Top 10 Video Flip and Rotate Tools</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-best-image-jpgpng-to-gif-converters/"><u>New 2024 Approved Best Image (JPG/PNG) to GIF Converters</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-open-source-recorder-showdown-best-tools-ranked-for-2024/"><u>[New] Open-Source Recorder Showdown  Best Tools Ranked for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-free-avi-video-editing-tools-our-top-picks/"><u>2024 Approved Free AVI Video Editing Tools Our Top Picks</u></a></li>
+</ul></div>

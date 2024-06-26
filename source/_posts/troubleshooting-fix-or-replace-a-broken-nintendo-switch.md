@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Fix or Replace a Broken Nintendo Switch"
-date: 2024-06-22 15:15:56
-updated: 2024-06-24 10:56:40
+date: 2024-06-25T12:51:46.641Z
+updated: 2024-06-26T12:51:46.641Z
 tags:
   - games
 categories:
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/fa44e4072bbca8fffcfb2ff9a75f7dc0fad47a3e6
 
  Luckily, if you have the serial number of your Switch on hand, the process of checking the warranty status of your console is simple. To check the warranty status of your Switch, follow these steps:
 
-* Enter the official Nintendo Repair Center page on any browser by following this link to[Nintendo](https://repair.nintendo.com/cc/ntndcpWarrantyStatus.html?lang=en) .
+* Enter the official Nintendo Repair Center page on any browser by following this link to [Nintendo](https://repair.nintendo.com/cc/ntndcpWarrantyStatus.html?lang=en) .
 * Under**Check Warranty Status** , enter the serial number of your Nintendo Switch.
 * Select**Check Warranty** .
 
@@ -54,13 +54,13 @@ thumbnail: https://thmb.techidaily.com/fa44e4072bbca8fffcfb2ff9a75f7dc0fad47a3e6
 
  Unfortunately, if your console is out of warranty, you will have to pay for the repair of your console. Similarly, screen damage voids the warranty of your Switch, and screen repairs are not covered under the warranty.
 
- However, it may be worth checking some[common fixes for Nintendo Switch problems](https://www.makeuseof.com/fix-nintendo-switch-problems/) before booking a repair. This way, you may avoid any repair fees if your console is out of warranty.
+ However, it may be worth checking some [common fixes for Nintendo Switch problems](https://www.makeuseof.com/fix-nintendo-switch-problems/) before booking a repair. This way, you may avoid any repair fees if your console is out of warranty.
 
 ## How to Book Your Nintendo Switch In for a Repair
 
  If you have decided to go ahead with repairing your Nintendo Switch officially, with or without the free price tag that comes with the warranty of your Nintendo Switch, there are a few requirements you'll need to go through beforehand.
 
- Just as if you were[booking a repair for your Joy-Con](https://www.makeuseof.com/how-to-send-joy-cons-off-for-free-repair/) , or any other aspect of your Switch, the repair process requires you to access the Nintendo Repair Center via the[official Nintendo website](https://repair.nintendo.com/cc/cpSignIn.html?) . From here, you can start your repair process by following these steps:
+ Just as if you were [booking a repair for your Joy-Con](https://www.makeuseof.com/how-to-send-joy-cons-off-for-free-repair/) , or any other aspect of your Switch, the repair process requires you to access the Nintendo Repair Center via the [official Nintendo website](https://repair.nintendo.com/cc/cpSignIn.html?) . From here, you can start your repair process by following these steps:
 
 * Select**Start Troubleshooting** .
 
@@ -109,3 +109,26 @@ thumbnail: https://thmb.techidaily.com/fa44e4072bbca8fffcfb2ff9a75f7dc0fad47a3e6
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/ultimate-list-7-must-play-sports-games-on-mobile/"><u>Ultimate List: 7 Must-Play Sports Games on Mobile</u></a></li>
+<li><a href="https://games-able.techidaily.com/stealthy-speech-in-xbox-multiplayer-settings/"><u>Stealthy Speech in Xbox Multiplayer Settings</u></a></li>
+<li><a href="https://games-able.techidaily.com/vintage-videogame-files-on-your-windows-photo-folder/"><u>Vintage Video/Game Files on Your Windows Photo Folder</u></a></li>
+<li><a href="https://games-able.techidaily.com/ai-tech-unleashed-at-computex-2024/"><u>AI Tech Unleashed at Computex 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/minecraft-network-disconnect-on-windows-quick-tips/"><u>Minecraft Network Disconnect on Windows: Quick Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-6-diverse-titles-for-broadcasters-gameplay/"><u>Top 6 Diverse Titles for Broadcasters' Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/reducing-background-monitoring-by-game-bar-on-win-11/"><u>Reducing Background Monitoring by Game Bar on Win 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/journey-through-the-best-of-indie-game-realms/"><u>Journey Through the Best of Indie Game Realms</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-aesthetics-in-computing-devices/"><u>Affordable Aesthetics in Computing Devices</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-resize-like-a-pro-mastering-vertical-video-ratios-for-social-media/"><u>Updated 2024 Approved Resize Like a Pro Mastering Vertical Video Ratios for Social Media</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mastering-video-marketing-on-youtube-for-2024/"><u>Mastering Video Marketing on YouTube for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-samsung-galaxy-z-fold-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-script-to-screen-your-guide-to-youtube-storytelling/"><u>[Updated] In 2024, Script to Screen  Your Guide to YouTube Storytelling</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-exploring-what-sets-youtube-tv-apart-from-other-streaming-platforms/"><u>[New] 2024 Approved  Exploring What Sets YouTube TV Apart From Other Streaming Platforms</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-digital-music-layering-and-editing-suite/"><u>New 2024 Approved Digital Music Layering & Editing Suite</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-top-choices-windows-11-hd-webcam-mini-dvs-for-2024/"><u>[New] Top Choices  Windows 11 HD Webcam Mini-DVs for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-efficient-ways-to-change-slow-motion-video-to-normal-on-iphone/"><u>2024 Approved Efficient Ways to Change Slow Motion Video to Normal on iPhone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/youtubes-revenue-boost-new-500-subs-milestone/"><u>YouTube's Revenue Boost  New 500 Subs Milestone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>5 Easy Ways to Change Location on YouTube TV On Apple iPhone 13 | Dr.fone</u></a></li>
+</ul></div>

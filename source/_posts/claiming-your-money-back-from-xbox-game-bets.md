@@ -1,7 +1,7 @@
 ---
 title: Claiming Your Money Back From Xbox Game Bets
-date: 2024-06-22 23:45:39
-updated: 2024-06-24 10:30:44
+date: 2024-06-25T12:51:59.308Z
+updated: 2024-06-26T12:51:59.308Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/f7564240f8faa92ac0e388d789a175a79bd1b9553
 
 ## Do I Qualify for a Refund on the Xbox Series X|S?
 
- If you're a fan of gaming, you will be well versed in how expensive it is and are likely always looking for[ways to save money with your Xbox Series X|S](https://www.makeuseof.com/xbox-series-xs-ways-to-save-money/) . And refunding purchases that you aren't satisfied with is certainly one of them.
+ If you're a fan of gaming, you will be well versed in how expensive it is and are likely always looking for [ways to save money with your Xbox Series X|S](https://www.makeuseof.com/xbox-series-xs-ways-to-save-money/) . And refunding purchases that you aren't satisfied with is certainly one of them.
 
 ![an Xbox game controller on a gradient background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/video-game-designer-feature.jpg)
 
@@ -30,13 +30,13 @@ thumbnail: https://thmb.techidaily.com/f7564240f8faa92ac0e388d789a175a79bd1b9553
 
  2\. You can’t have played the game in question for a significant amount of time.
 
- The definition of what exactly a ‘significant amount of time’ is isn’t explained on[Microsoft’s website](https://support.xbox.com/en-us/help/subscriptions-billing/buy-games-apps/refund-orders) , but it likely depends on the game. For example, if you’re returning a five-hour-long game and you’ve played it for two hours, that’s almost 50% of the game that you’ve experienced. But if the game in question is 50 hours long and you’ve played it for two hours, you’ve only experienced a fraction of it.
+ The definition of what exactly a ‘significant amount of time’ is isn’t explained on [Microsoft’s website](https://support.xbox.com/en-us/help/subscriptions-billing/buy-games-apps/refund-orders) , but it likely depends on the game. For example, if you’re returning a five-hour-long game and you’ve played it for two hours, that’s almost 50% of the game that you’ve experienced. But if the game in question is 50 hours long and you’ve played it for two hours, you’ve only experienced a fraction of it.
 
 ## How to Request a Refund for a Digital Game on the Xbox Series X|S
 
- Requesting a refund for a digital game on your Xbox Series X|S is thankfully very simple and is very similar to[refunding purchases on the PS4 or the PS5](https://www.makeuseof.com/how-to-refund-game-ps4-ps5/) . You can't do so from the comfort of your console, however. You will have to head to[Microsoft’s website](https://support.xbox.com/en-us/help/subscriptions-billing/buy-games-apps/refund-orders) to get started
+ Requesting a refund for a digital game on your Xbox Series X|S is thankfully very simple and is very similar to [refunding purchases on the PS4 or the PS5](https://www.makeuseof.com/how-to-refund-game-ps4-ps5/) . You can't do so from the comfort of your console, however. You will have to head to [Microsoft’s website](https://support.xbox.com/en-us/help/subscriptions-billing/buy-games-apps/refund-orders) to get started
 
-1. Head to[support.xbox.com](https://support.xbox.com/en-us/help/subscriptions-billing/buy-games-apps/refund-orders) or just click the link to be taken straight there.
+1. Head to [support.xbox.com](https://support.xbox.com/en-us/help/subscriptions-billing/buy-games-apps/refund-orders) or just click the link to be taken straight there.
 2. You will then need to log into the Microsoft account that you used to purchase the game in question. You can log in by pressing**Sign in** at the bottom of the page or in the top right corner.
 3. Once you’ve logged in, scroll down to the**Request availability** section. If there is a valid game there, click the box beside the title and press**Request a refund** to bring up the request form.  
 ![Request a Refund Microsoft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/request-a-refund-microsoft.jpg)
@@ -97,3 +97,26 @@ thumbnail: https://thmb.techidaily.com/f7564240f8faa92ac0e388d789a175a79bd1b9553
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/how-to-apply-for-a-refund-for-unwanted-fortnite-purchases/"><u>How to Apply for a Refund for Unwanted Fortnite Purchases</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-discoveries-top-8-for-gamer-news-outlets/"><u>Essential Discoveries: Top 8 for Gamer News Outlets</u></a></li>
+<li><a href="https://games-able.techidaily.com/lessons-in-tech-pick-correct-oled-screen/"><u>Lessons in Tech: Pick Correct OLED Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-video-game-delays-are-a-good-thing/"><u>Why Video Game Delays Are a Good Thing</u></a></li>
+<li><a href="https://games-able.techidaily.com/low-latency-maximum-gameplay-razer-basilisk-v3/"><u>Low Latency, Maximum Gameplay - Razer Basilisk V3</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-the-secrets-to-choosing-a-superior-gaming-screen/"><u>Unlock the Secrets to Choosing a Superior Gaming Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/diminish-xboxs-game-sounds-immediately/"><u>Diminish Xbox's Game Sounds Immediately</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-gaming-wonders-iphone-and-ipads-best-friend-apple-arcade/"><u>Unlocking Gaming Wonders: IPhone and iPad's Best Friend - Apple Arcade</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-intricacies-of-twitch-from-basics-to-broadcasting/"><u>The Intricacies of Twitch: From Basics to Broadcasting</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-leading-5-goggles-for-optimal-drone-pilot-viewing/"><u>2024 Approved  Leading 5 Goggles for Optimal Drone Pilot Viewing</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-mastering-locating-your-targeted-discord-server/"><u>2024 Approved  Mastering  Locating Your Targeted Discord Server</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-how-to-post-a-link-on-instagram-stories-and-posts/"><u>[Updated] How to Post a Link on Instagram Stories and Posts</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/cut-mark-clutter-quickly-tiktok-overlay-remover-for-2024/"><u>Cut Mark Clutter Quickly  TikTok Overlay Remover for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-effortlessly-export-tiktok-vids-as-premium-mp4-files/"><u>[New] 2024 Approved  Effortlessly Export TikTok Vids as Premium MP4 Files</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-k70e-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi K70E to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-ultimate-camcorders-for-high-quality-podcasts/"><u>[Updated] Ultimate Camcorders for High-Quality Podcasts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Vivo Phone without PIN</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-to-mp3-journey-top-10-online-converters/"><u>[Updated] In 2024, Free-to-Mp3 Journey  Top 10 Online Converters</u></a></li>
+</ul></div>

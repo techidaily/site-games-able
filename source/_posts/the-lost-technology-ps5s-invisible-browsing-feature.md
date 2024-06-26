@@ -1,7 +1,7 @@
 ---
 title: "The Lost Technology: PS5’s Invisible Browsing Feature"
-date: 2024-06-21 18:29:29
-updated: 2024-06-24 11:37:16
+date: 2024-06-25T13:06:07.250Z
+updated: 2024-06-26T13:06:07.250Z
 tags:
   - games
 categories:
@@ -54,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/a0065ec58e14aa7a294fd33338e90d4d15fa577ac
 
  As you might expect given how Sony hid the browser away, the PS5 web browser isn't anything fantastic. Basic sites that only have text and images load fine, but anything that requires multimedia isn't reliable.
 
- You can probably pull up a video site that doesn't have a dedicated PS5 app to enjoy watching its content, but don't expect to use complicated web apps or play games. Using the software keyboard is a pain (unless you[connect a physical keyboard to your PS5](https://www.makeuseof.com/how-to-use-keyboard-mouse-ps5/) ). Plus, using the Google login workaround every time is inefficient and prevents you from linking your X account with your PSN account.
+ You can probably pull up a video site that doesn't have a dedicated PS5 app to enjoy watching its content, but don't expect to use complicated web apps or play games. Using the software keyboard is a pain (unless you [connect a physical keyboard to your PS5](https://www.makeuseof.com/how-to-use-keyboard-mouse-ps5/) ). Plus, using the Google login workaround every time is inefficient and prevents you from linking your X account with your PSN account.
 
  For most people, there are few reasons you'd actually want to use the browser on your PS5\. Chances are that you have a smartphone nearby that's much easier to use and will work with almost all websites, unlike the clunky PS5 browser experience. The only scenario we can think of where this browser would come in handy is if you want to look something up while using PlayStation VR and don't want to take the headset off.
 
@@ -62,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/a0065ec58e14aa7a294fd33338e90d4d15fa577ac
 
  Oddly, the PS5 does have an options page under**Settings > System** titled**Web Browser** that has settings for deleting cookies and similar. It's not clear why this exists when the browser isn't meant for general use.
 
- Meanwhile, if the lackluster web browser left you wanting more, you should check out other[hidden features of your PS5](https://www.makeuseof.com/ps5-things-you-might-not-know-you-can-do/) .
+ Meanwhile, if the lackluster web browser left you wanting more, you should check out other [hidden features of your PS5](https://www.makeuseof.com/ps5-things-you-might-not-know-you-can-do/) .
 
 ## Browse the Web on PS5, If You Really Need To
 
@@ -83,3 +83,22 @@ thumbnail: https://thmb.techidaily.com/a0065ec58e14aa7a294fd33338e90d4d15fa577ac
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/productivity-machines-vs-gaming-computing-units/"><u>Productivity Machines Vs. Gaming Computing Units</u></a></li>
+<li><a href="https://games-able.techidaily.com/ensuring-your-youngsters-safety-in-ps5-world/"><u>Ensuring Your Youngster's Safety in PS5 World</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-budget-friendly-switch-gaming-guide/"><u>Your Budget-Friendly Switch Gaming Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-gaming-unboxing-the-30-top-switch-cartridge-holders-of-2024/"><u>Innovative Gaming - Unboxing the 30 Top Switch Cartridge Holders of 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-your-games-with-prime-channel-access/"><u>Streamline Your Games with Prime Channel Access</u></a></li>
+<li><a href="https://games-able.techidaily.com/embrace-global-gaming-culture-apply-translation-patches-on-roms/"><u>Embrace Global Gaming Culture: Apply Translation Patches on ROMs</u></a></li>
+<li><a href="https://games-able.techidaily.com/embark-on-virtual-journeys-game-edition/"><u>Embark on Virtual Journeys - Game Edition</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-videoleap-on-macbook-a-quick-start-guide-to-downloading-and-using/"><u>Updated 2024 Approved Videoleap on MacBook A Quick Start Guide to Downloading and Using</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-ultimate-guide-to-using-sticker-queries-on-instagram/"><u>2024 Approved  The Ultimate Guide to Using Sticker Queries on Instagram</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-iphone-album-arrangement-masterclass-achieving-systematic-order-and-cloud-sync/"><u>In 2024, IPhone Album Arrangement Masterclass  Achieving Systematic Order & Cloud Sync</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-motorola-moto-g04-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Motorola Moto G04 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-ensuring-thumbnails-show-shorts-video-troubleshooting/"><u>In 2024, Ensuring Thumbnails Show  Shorts Video Troubleshooting</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/optimize-video-publishing-timing-for-maximum-views-for-2024/"><u>Optimize Video Publishing Timing for Maximum Views for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-lava-blaze-2-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Lava Blaze 2 FRP</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-getting-started-audacitys-guide-to-microphone-use-on-mac/"><u>[New] 2024 Approved  Getting Started  Audacity's Guide to Microphone Use on Mac</u></a></li>
+</ul></div>

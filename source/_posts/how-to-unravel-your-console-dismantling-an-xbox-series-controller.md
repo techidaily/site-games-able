@@ -1,7 +1,7 @@
 ---
 title: "How to Unravel Your Console: Dismantling an Xbox Series Controller"
-date: 2024-06-22 21:24:26
-updated: 2024-06-24 12:31:34
+date: 2024-06-25T12:51:20.619Z
+updated: 2024-06-26T12:51:20.619Z
 tags:
   - games
 categories:
@@ -26,22 +26,20 @@ thumbnail: https://thmb.techidaily.com/a34b3784d5ea8d0b2be6eaec5083d1cf0c7c6de5e
 
  For most things, you will have to at least take apart the external shell of your Xbox controller. Simple tasks like repairing or replacing a button or trigger, checking battery connections, and even cleaning any accumulated dirt around the controls will require basic disassembly.
 
- If you're carrying out a complex repair like replacing your thumbsticks, you'll have to go even further and take the daughterboard out as well, as Xbox controllers tend to have two separate PCBs inside. Even[fixing your Xbox controller's drifting issues](https://www.makeuseof.com/xbox-controller-drift/) might require an in-depth teardown.
+ If you're carrying out a complex repair like replacing your thumbsticks, you'll have to go even further and take the daughterboard out as well, as Xbox controllers tend to have two separate PCBs inside. Even [fixing your Xbox controller's drifting issues](https://www.makeuseof.com/xbox-controller-drift/) might require an in-depth teardown.
 
 ## What Equipment Do You Need?
 
- We've already covered[how to take apart your Xbox One controller](https://www.makeuseof.com/how-to-take-apart-an-xbox-one-controller/) , and while the process is largely similar, Xbox Series X|S controllers come with additional circuitry such as the trigger vibration motors which require extra steps. Additionally, Xbox Series X|S controllers come with[Torx Security screws instead of regular Torx screws](https://www.makeuseof.com/torx-screws-vs-torx-security-screws-difference/) , so you'll need the corresponding bits as well.
+ We've already covered [how to take apart your Xbox One controller](https://www.makeuseof.com/how-to-take-apart-an-xbox-one-controller/) , and while the process is largely similar, Xbox Series X|S controllers come with additional circuitry such as the trigger vibration motors which require extra steps. Additionally, Xbox Series X|S controllers come with [Torx Security screws instead of regular Torx screws](https://www.makeuseof.com/torx-screws-vs-torx-security-screws-difference/) , so you'll need the corresponding bits as well.
 
 Overall, here's everything you need:
 
 * Torx Security screwdriver (with T6, T8, and T9 bits)
 * Flathead screwdriver
 * A plastic prying tool or spudger (a thick guitar pick would work too)
-* A pair of tweezers
+* A pair of tweezers ![Torx screwdriver bits](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/torx-screwdriver-bits.jpg)
 
-![Torx screwdriver bits](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/torx-screwdriver-bits.jpg)
-
- In case you don't have the tools required, you can invest in any of the many toolkits[available on Amazon](https://www.amazon.com/Vastar-Screwdriver-Repair-Controller-Cleaning/dp/B07G122BVS?tag=muo-v2-5jqtuqu-20&ascsubtag=UUmuoUeUpU2027960&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fxbox-series-xs-controller-how-to-take-apart%2F&asc%5Fcampaign=Evergreen) for around $10.
+ In case you don't have the tools required, you can invest in any of the many toolkits [available on Amazon](https://www.amazon.com/Vastar-Screwdriver-Repair-Controller-Cleaning/dp/B07G122BVS?tag=muo-v2-5jqtuqu-20&ascsubtag=UUmuoUeUpU2027960&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fxbox-series-xs-controller-how-to-take-apart%2F&asc%5Fcampaign=Evergreen) for around $10.
 
 ## How to Take Your Xbox Series X|S Controller Apart
 
@@ -99,3 +97,24 @@ Overall, here's everything you need:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/interactive-entertainment-evolution-mobile-fortnite-via-streaming/"><u>Interactive Entertainment Evolution: Mobile Fortnite via Streaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-precision-gaming-the-ideal-mouse-sensitivity-levels/"><u>High Precision Gaming: The Ideal Mouse Sensitivity Levels</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-guide-to-professional-xbox-recording-tools/"><u>Ultimate Guide to Professional Xbox Recording Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-guide-to-fan-translated-rom-patches/"><u>Step-by-Step Guide to Fan Translated Rom Patches</u></a></li>
+<li><a href="https://games-able.techidaily.com/bypassing-surveillance-on-steam/"><u>Bypassing Surveillance on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-capitalize-on-sonys-subscriptions-for-games/"><u>How to Capitalize on Sony's Subscriptions for Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/download-platforms-for-bg3-unveiled/"><u>Download Platforms for BG3 Unveiled!</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfect-pitch-turn-off-series-s-shakes/"><u>Perfect Pitch: Turn Off Series S Shakes</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-enhancing-video-quality-editing-tips-for-published-content/"><u>[New] In 2024, Enhancing Video Quality  Editing Tips for Published Content</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-instagram-increasingdecreasing-stories-frame-rate/"><u>Mastering Instagram  Increasing/Decreasing Stories' Frame Rate</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/boosting-your-presence-on-fb-with-virality-techniques/"><u>Boosting Your Presence on FB with Virality Techniques</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-elevate-your-content-a-compreranial-guide-to-template-driven-tiktok-videos/"><u>2024 Approved  Elevate Your Content  A Compreranial Guide to Template-Driven TikTok Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-list-10-text-effects-to-elevate-your-clips-for-2024/"><u>The Ultimate List  10 Text Effects to Elevate Your Clips for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-the-comprehensive-guide-to-lexis-audio-editor-reviews-innovations-and-how-tos/"><u>New The Comprehensive Guide to Lexis Audio Editor Reviews, Innovations, and How-Tos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-elite-desktopmobile-communication-software-zoom-substitutes-for-2024/"><u>[Updated] Elite Desktop/Mobile Communication Software (Zoom Substitutes) for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-interactive-index-for-ig-and-tiktok-connection-for-2024/"><u>The Interactive Index for IG & TikTok Connection for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-unlocking-facebook-blue-verification-a-step-by-step-guide/"><u>[New] In 2024, Unlocking Facebook Blue Verification  A Step-by-Step Guide</u></a></li>
+</ul></div>

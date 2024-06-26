@@ -1,7 +1,7 @@
 ---
 title: "Elevate Creativity: 9 Games for Aspiring Designers"
-date: 2024-06-20 15:30:16
-updated: 2024-06-23 12:46:16
+date: 2024-06-25T13:26:26.621Z
+updated: 2024-06-26T13:26:26.621Z
 tags:
   - games
 categories:
@@ -18,9 +18,7 @@ thumbnail: https://thmb.techidaily.com/20be038a3e48f613b2c652d4cbdf605ae5da9fdcf
 
  We’ve provided a list of 13 fun games you can play that will help improve your creative design skills. Some will make you a better graphic designer or illustrator, and some allow you to identify design elements with more accuracy. You can have fun playing and improving your creative design skills.
 
-## 1. Color
-
-![Color design game.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/color-design-game.jpg)
+## 1. Color ![Color design game.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/color-design-game.jpg)
 
  The Color game is a great way for you to learn color harmony while having fun. The most stressful part of this game is learning linguistic terms for different color pairings while simultaneously under the clock.
 
@@ -37,9 +35,7 @@ The game presents a gradient color wheel. There are six rounds:
 
  Depending on the round, you’ll complete a circle of color with a new color based on the round name. You’re against the clock, but there’s plenty of time. There’s a calm, meditative feeling when you get the color matched correctly.
 
-## 2. Pixactly
-
-![Pixactly design game.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/pixactly-design-game.jpg)
+## 2. Pixactly ![Pixactly design game.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/pixactly-design-game.jpg)
 
  Pixactly is a great game for pixel perfectionists. If you think you can estimate pixel sizes, now’s your time to test yourself.
 
@@ -47,9 +43,7 @@ The game presents a gradient color wheel. There are six rounds:
 
  It’s a crushing reality to draw a box and find you were off by over 50px. Back to the drawing board for more practice.
 
-## 3. I Love Hue
-
-![I Love Hue app start page.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/i-love-hue-001.jpg)
+## 3. I Love Hue ![I Love Hue app start page.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/i-love-hue-001.jpg)
 
 ![I Love Hue app game screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/i-love-hue-002.jpg)
 
@@ -61,27 +55,21 @@ Close
 
  The game developers even released a sequel for I Love Hue called I Love Hue Too. Both games are fun and simple ways to test your color perception.
 
-## 4. Can’t Unsee
-
-![Can't Unsee design game.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/cant-unsee-design-game.jpg)
+## 4. Can’t Unsee ![Can't Unsee design game.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/cant-unsee-design-game.jpg)
 
  This is the design game for perfectionists. Can’t Unsee presents two UX/UI designs, and you must select which one is wrong.
 
  When it comes to UX/UI design, there are standards to be followed, such as using colors to represent global standards—like red being negative or green being positive—and layouts like hierarchal text.[Designing in grayscale is a great process for UX/UI designers](https://www.makeuseof.com/grayscale-ui-ux-design-benefits/) , but when it’s time for color and other elements, this game will help too.
 
- This game is helpful for those new to UX/UI design. Once you’ve mastered the do’s and don’ts of interface design, you should[master some other technical skills of UX/UI designers](https://www.makeuseof.com/ui-ux-designer-skills-you-should-master/) .
+ This game is helpful for those new to UX/UI design. Once you’ve mastered the do’s and don’ts of interface design, you should [master some other technical skills of UX/UI designers](https://www.makeuseof.com/ui-ux-designer-skills-you-should-master/) .
 
-## 5. Kolor
-
-![Kolor design game.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/kolor-design-game.jpg)
+## 5. Kolor ![Kolor design game.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/kolor-design-game.jpg)
 
  Kolor is another great color-matching game. It’s a simple premise: match the color to one of the options.
 
  This game is scored and timed, and with every few rounds, it increases in difficulty. If you’ve got a good eye for color, you’ll enjoy this game and score highly.
 
-## 6. It’s Centred That
-
-![It's Centred That design game screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/its-centered-that-001.jpg)
+## 6. It’s Centred That ![It's Centred That design game screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/its-centered-that-001.jpg)
 
 ![It's Centred That design game screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/its-centered-that-002.jpg)
 
@@ -93,43 +81,33 @@ Close
 
  In ten levels, you’ll be asked if a black dot is central to the shape on which it's placed. Select the happy emoji if you think it is or the poop emoji if you think it isn’t. Keep going through the rounds and find your results. It’s a great practice for eye measurements in design.
 
-## 7. Hex Invaders
-
-![Hex Invaders design game.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hex-invaders-design-game.jpg)
+## 7. Hex Invaders ![Hex Invaders design game.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hex-invaders-design-game.jpg)
 
  Another great color game, Hex Invaders helps you identify color combinations by their HEX codes. The HEX code is a 6-digit code that uses letters and numbers to represent the levels of Red, Green, and Blue—RGB—that make up any screen color.
 
  Hex Invaders is reminiscent of arcade games from the past. It’s easy to play and helps you recognize HEX codes quickly and with more understanding than just copying and pasting them in Adobe Illustrator.
 
-## 8. Font Memory Game
-
-![Font Memory Game screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/font-memory-game-design-game.jpg)
+## 8. Font Memory Game ![Font Memory Game screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/font-memory-game-design-game.jpg)
 
  It’s everybody’s favorite card game—Snap—for typography enthusiasts. This game tests not only your creative knowledge of font recognition, but also your memory.
 
- Flip each card presenting a typographic example and match it with its partner. This game is low-stakes and a reminder to use some[games or apps to improve your memory](https://www.makeuseof.com/best-adult-memory-game-apps/) in your spare time, too.
+ Flip each card presenting a typographic example and match it with its partner. This game is low-stakes and a reminder to use some [games or apps to improve your memory](https://www.makeuseof.com/best-adult-memory-game-apps/) in your spare time, too.
 
-## 9. The Bézier Game
-
-![The Bezier Game design game screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/bezier-design-game.jpg)
+## 9. The Bézier Game ![The Bezier Game design game screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/bezier-design-game.jpg)
 
  If you draw with the Bézier tool in Illustrator or other software, you’ll know that the best drawings use the least amount of nodes and steps. The Bézier Game is a fun game to test your Bézier skills.
 
- The game provides a shape outline and a number of nodes. You must use the Bézier tool to draw the outline in as many nodes as have been provided. You can’t use more. This game will test your skills and sanity as you improve your Bézier drawing technique. Once you've mastered the Bézier tool, take your skills to Adobe Illustrator and learn[how to scale your stroke widths](https://www.makeuseof.com/illustrator-how-to-scale-strokes-proportionally/) too.
+ The game provides a shape outline and a number of nodes. You must use the Bézier tool to draw the outline in as many nodes as have been provided. You can’t use more. This game will test your skills and sanity as you improve your Bézier drawing technique. Once you've mastered the Bézier tool, take your skills to Adobe Illustrator and learn [how to scale your stroke widths](https://www.makeuseof.com/illustrator-how-to-scale-strokes-proportionally/) too.
 
-## 10. Figma Ninja
-
-![Figma Ninja design game in Figma.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/figma-ninja-design-game.jpg)
+## 10. Figma Ninja ![Figma Ninja design game in Figma.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/figma-ninja-design-game.jpg)
 
  This game is most interesting because it isn’t programmed like a game. There’s no animation or automation. Figma Ninja is an open Figma file where each page is a game screen; it has instructions on the pages, and you move through each page yourself.
 
  The aim of Figma Ninja is to improve your Figma skills and shortcut knowledge. There’s no scoring system or incorrect buzzer when you make a mistake. It’s a self-improvement game.
 
- Figma Ninja has turned design into a game while retaining the background of a design program. Read our[beginner’s guide to Figma](https://www.makeuseof.com/how-to-use-figma-beginners-guide/) if you want a level playing field before playing.
+ Figma Ninja has turned design into a game while retaining the background of a design program. Read our [beginner’s guide to Figma](https://www.makeuseof.com/how-to-use-figma-beginners-guide/) if you want a level playing field before playing.
 
-## 11. Kerntype
-
-![Kerntype design game.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/kerntype-design-game.jpg)
+## 11. Kerntype ![Kerntype design game.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/kerntype-design-game.jpg)
 
  Kerning is an important aspect of graphic design. Think you know about correct letter spacing? Kerntype is a fun and helpful game to train your eye for better letter spacing.
 
@@ -143,9 +121,7 @@ Close
 
  It’s a low-stakes game with no points system or timer. You can get as many wrong as there are available, but it’s better for your creative design skills to think about the HEX code and what each part means for colors.
 
-## 13. Dudel Draw
-
-![Dudel Draw app home page.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/dudle-draw-app-001.jpg)
+## 13. Dudel Draw ![Dudel Draw app home page.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/dudle-draw-app-001.jpg)
 
 ![Dudel Draw app with doodle on screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/dudel-draw-app-002.jpg)
 
@@ -157,7 +133,7 @@ Close
 
  You can rotate or flip the blob to accentuate your creative mind. After the day’s doodle, you can compare with friends too. Everyone gets the same blob shape daily. If you don’t want to partake in the daily challenge, Dudel Draw also offers practice shapes just for fun.
 
- If the competition of Dudel Draw isn't enough for you, you could also enter[creative design challenges to improve your design skills](https://www.makeuseof.com/design-challenges-to-boost-creativity/) and confidence.
+ If the competition of Dudel Draw isn't enough for you, you could also enter [creative design challenges to improve your design skills](https://www.makeuseof.com/design-challenges-to-boost-creativity/) and confidence.
 
 ## Gamify Your Creative Design Skills
 
@@ -178,3 +154,26 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/detecting-digital-disconnectors-on-series-sx/"><u>Detecting Digital Disconnectors on Series S/X</u></a></li>
+<li><a href="https://games-able.techidaily.com/sharpening-gaming-experience-via-smart-models/"><u>Sharpening Gaming Experience via Smart Models</u></a></li>
+<li><a href="https://games-able.techidaily.com/ally-x-overcomes-key-handheld-challenge/"><u>Ally X Overcomes Key Handheld Challenge</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-complete-list-of-ps-vr2-accessories/"><u>The Complete List of PS VR2 Accessories</u></a></li>
+<li><a href="https://games-able.techidaily.com/ensuring-stability-key-points-in-selecting-a-cpu-cooler/"><u>Ensuring Stability: Key Points in Selecting a CPU Cooler</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-battery-solutions-the-premier-ps5-dualsense-controller-chargers/"><u>Superior Battery Solutions: The Premier PS5 DualSense Controller Chargers</u></a></li>
+<li><a href="https://games-able.techidaily.com/digging-into-digital-storefronts-gog-vs-steam-evaluation/"><u>Digging Into Digital Storefronts: GoG Vs Steam Evaluation</u></a></li>
+<li><a href="https://games-able.techidaily.com/geforce-now-your-portal-to-play-fortnite-on-ios/"><u>GeForce Now: Your Portal to Play Fortnite on iOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/discontinuation-new-horizons-for-apsplus-gameplay/"><u>Discontinuation: New Horizons for APS+ Gameplay</u></a></li>
+<li><a href="https://extra-information.techidaily.com/creating-flavorful-culinary-videos-top-7-techniques/"><u>Creating Flavorful Culinary Videos - Top 7 Techniques</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-honor-magic-5-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Honor Magic 5 Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlock-the-potential-of-your-youtube-videos-in-movie-maker/"><u>[New] Unlock the Potential of Your YouTube Videos in Movie Maker</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/text-to-speech-wondershare-virbo-online-for-2024/"><u>Text To Speech | Wondershare Virbo Online for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/2024-approved-unlock-filmora-for-free-legit-and-secure-download-options/"><u>2024 Approved Unlock Filmora for Free Legit and Secure Download Options</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-mastering-the-art-of-shortening-videos-for-instagram-mac/"><u>[New] In 2024, Mastering the Art of Shortening Videos for Instagram (Mac)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oppo-find-x7-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Oppo Find X7 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/comprehensive-insights-mastering-lenovo-screenshot-techniques/"><u>Comprehensive Insights  Mastering Lenovo Screenshot Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/pixels-personal-soundtrack-a-selection-guide-for-2024/"><u>Pixel's Personal Soundtrack  A Selection Guide for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-realme-v30t-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Realme V30T Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+</ul></div>

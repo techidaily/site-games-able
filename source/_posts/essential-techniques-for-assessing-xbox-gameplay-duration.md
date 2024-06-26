@@ -1,7 +1,7 @@
 ---
 title: Essential Techniques for Assessing Xbox Gameplay Duration
-date: 2024-06-23 21:38:28
-updated: 2024-06-24 11:12:10
+date: 2024-06-25T12:49:21.049Z
+updated: 2024-06-26T12:49:21.049Z
 tags:
   - games
 categories:
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/ff4b473fea2e89c79aee76abe0eab2251a21420b8
 
 ![A screenshot of the Time Played statistic on Xbox Series X showcasing no time played](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/001-1.jpg)
 
- So, while the ability to[compare Xbox stats with friends on Xbox Series X|S](https://www.makeuseof.com/xbox-how-to-compare-gaming-stats-with-friends/) is mostly accurate, the**Time played** stat is strangely plagued with issues. However, for mainline and current game releases, the time you spend playing will be tracked accurately, unless developers have specifically disabled the feature.
+ So, while the ability to [compare Xbox stats with friends on Xbox Series X|S](https://www.makeuseof.com/xbox-how-to-compare-gaming-stats-with-friends/) is mostly accurate, the**Time played** stat is strangely plagued with issues. However, for mainline and current game releases, the time you spend playing will be tracked accurately, unless developers have specifically disabled the feature.
 
 ## How to Check Your Time Played From Your Xbox Series X|S
 
@@ -65,11 +65,11 @@ thumbnail: https://thmb.techidaily.com/ff4b473fea2e89c79aee76abe0eab2251a21420b8
 
 ![A screenshot of the Load screen for Mass Effect Legendary Edition on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-2893.jpg)
 
- Alternatively, the Xbox app for Windows and PC can help to reveal an accurate**Time played** stat for your Xbox games. By using the**Achievements** tab and selecting a game, you can access the**Time played** stat outside your Xbox Series X|S. You can install the Xbox app through the official[Xbox](https://www.xbox.com/en-US/apps/xbox-app-for-pc) site.
+ Alternatively, the Xbox app for Windows and PC can help to reveal an accurate**Time played** stat for your Xbox games. By using the**Achievements** tab and selecting a game, you can access the**Time played** stat outside your Xbox Series X|S. You can install the Xbox app through the official [Xbox](https://www.xbox.com/en-US/apps/xbox-app-for-pc) site.
 
 ![A screenshot of the game statistics for Mass Effect Legendary Edition taken from the Xbox app for PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/xbox-app.jpg)
 
- But while using the Xbox app or in-game stats is a useful backup option, neither method completely fixes the**Time played** stat. Even[setting up parental settings on Xbox Series X|S](https://www.makeuseof.com/xbox-series-parental-controls-how-to/) to provide screen time statistics isn't comparable to**Time played** .
+ But while using the Xbox app or in-game stats is a useful backup option, neither method completely fixes the**Time played** stat. Even [setting up parental settings on Xbox Series X|S](https://www.makeuseof.com/xbox-series-parental-controls-how-to/) to provide screen time statistics isn't comparable to**Time played** .
 
 ## Time Played on Xbox Series X|S Is a Useful Yet Inconsistent Feature
 
@@ -92,3 +92,27 @@ thumbnail: https://thmb.techidaily.com/ff4b473fea2e89c79aee76abe0eab2251a21420b8
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/unraveling-cozy-gamings-charm/"><u>Unraveling Cozy Gaming's Charm</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-ways-you-can-maintain-your-xbox-series-x-hardware/"><u>5 Ways You Can Maintain Your Xbox Series X Hardware</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-erratic-scroll-action-in-mice/"><u>Fixing Erratic Scroll Action in Mice</u></a></li>
+<li><a href="https://games-able.techidaily.com/pure-endless-fun-awaits-with-the-best-mobile-games-free/"><u>Pure, Endless Fun Awaits with the Best Mobile Games (Free!)</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-blueprint-to-discovering-exceptional-discord-communities/"><u>Your Blueprint to Discovering Exceptional Discord Communities</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-flaws-a-closer-look-at-6-reasons-mac-isnt-ideal-for-gamers/"><u>Unveiling the Flaws: A Closer Look at 6 Reasons Mac Isn't Ideal for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/comprehensively-handling-4-predominant-gpu-challenges/"><u>Comprehensively Handling 4 Predominant GPU Challenges</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-7-fps-configurations-for-optimal-play/"><u>Top 7 FPS Configurations for Optimal Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/five-digital-desktop-text-adventures-await/"><u>Five Digital, Desktop Text-Adventures Await</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-guide-making-iphone-a-personal-gaming-center/"><u>Step-by-Step Guide: Making iPhone a Personal Gaming Center</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/vn-video-editor-pro-review-pros-cons-and-verdict-for-2024/"><u>VN Video Editor Pro Review Pros, Cons, and Verdict for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-visualverve-tips-for-resizing-images-in-instagram/"><u>In 2024, VisualVerve  Tips for Resizing Images in Instagram</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-top-25-mentors-in-modern-social-media-mastery-on-instagram/"><u>In 2024, Top 25 Mentors in Modern Social Media Mastery on Instagram</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-first-time-filmmaker-guide-setting-up-logitech-cam/"><u>[Updated] In 2024, First-Time Filmmaker Guide  Setting up Logitech Cam</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-vivo-y78plus-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Vivo Y78+ Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://extra-support.techidaily.com/restoring-clarity-resolving-iphones-blurry-photos-for-2024/"><u>Restoring Clarity  Resolving iPhone's Blurry Photos for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-google-powered-success-in-podcast-submissions/"><u>[New] Google-Powered Success in Podcast Submissions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-a-step-by-step-methodology-for-precisentic-google-meeting-arrangements-for-2024/"><u>[New] A Step-by-Step Methodology for Precisentic Google Meeting Arrangements for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-unleashing-potential-in-virtual-collaboration-platforms/"><u>[Updated] 2024 Approved  Unleashing Potential in Virtual Collaboration Platforms</u></a></li>
+</ul></div>

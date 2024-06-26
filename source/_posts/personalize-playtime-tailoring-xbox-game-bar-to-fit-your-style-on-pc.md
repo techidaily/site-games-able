@@ -1,7 +1,7 @@
 ---
 title: "Personalize Playtime: Tailoring Xbox Game Bar to Fit Your Style on PC"
-date: 2024-06-25T10:39:00.474Z
-updated: 2024-06-26T10:39:00.474Z
+date: 2024-06-25T12:48:34.639Z
+updated: 2024-06-26T12:48:34.639Z
 tags:
   - games
 categories:
@@ -54,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/4ddb75c55f41c22a4f3ada299a0f1a1093c8ca9e1
 
 ## 5\. Adjust Your Xbox Game Bar Preferences
 
- There are plenty more[novel ways to use the Xbox Game Bar](https://www.makeuseof.com/tag/ways-to-use-windows-10-game-bar/) besides the ones listed above. By opening the Xbox Game Bar and heading to the**Personalization** section of the**settings** , you can adjust things like light or dark mode and enable or disable animations that play when you’re using certain widgets.
+ There are plenty more [novel ways to use the Xbox Game Bar](https://www.makeuseof.com/tag/ways-to-use-windows-10-game-bar/) besides the ones listed above. By opening the Xbox Game Bar and heading to the**Personalization** section of the**settings** , you can adjust things like light or dark mode and enable or disable animations that play when you’re using certain widgets.
 
 ![Xbox Game Bar Personalize Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/xbox-game-bar-personalize-tab.jpg)
 

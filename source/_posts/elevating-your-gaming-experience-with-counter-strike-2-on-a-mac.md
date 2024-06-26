@@ -1,7 +1,7 @@
 ---
 title: Elevating Your Gaming Experience with Counter-Strike 2 on a Mac
-date: 2024-06-25T10:44:49.182Z
-updated: 2024-06-26T10:44:49.182Z
+date: 2024-06-25T12:48:38.371Z
+updated: 2024-06-26T12:48:38.371Z
 tags:
   - games
 categories:
@@ -30,9 +30,9 @@ Fortunately,
 
 ![CrossOver Download page requesting for email address, name and OS.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/crossover-download-page.jpg)
 
-1. Head over to the[CodeWeavers website](https://www.codeweavers.com/crossover/download) to download CrossOver. You can use the 14-day trial to test it out before committing to a purchase ($74).
+1. Head over to the [CodeWeavers website](https://www.codeweavers.com/crossover/download) to download CrossOver. You can use the 14-day trial to test it out before committing to a purchase ($74).
 2. Ensure your operating system is set to**macOS** , then provide your name and email address. Finally, click on**Download Trial Now** to initiate the download.
-3. To complete the installation, simply double-click the**crossover.zip** file you downloaded to extract the app. Subsequently, move the**CrossOver** app to[the Applications folder](https://www.makeuseof.com/applications-folder-mac/) .
+3. To complete the installation, simply double-click the**crossover.zip** file you downloaded to extract the app. Subsequently, move the**CrossOver** app to [the Applications folder](https://www.makeuseof.com/applications-folder-mac/) .
 4. When you run the app for the first time, you'll come across a prompt asking you to buy or try CrossOver. For now, you can select the**Try Now** option.
 
 ![CrossOver Setup and Application files in a folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/crossover-setup-and-application.jpg)
@@ -47,7 +47,7 @@ Fortunately,
 3. CrossOver will initiate the automatic download of the Steam setup. Once the installation process starts, follow all subsequent prompts and agree to the License agreement.
 4. **Steam** will now open automatically, and you can log in to your existing account or create a new one.  
 ![Steam open via CrossOver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/steam-open-via-crossover.jpg)
-5. After logging into your Steam account, proceed to the**Store** section. Search for Counter-Strike 2, and initiate the download by clicking**Play Game** on the store page and then selecting the Install button. You can also[run the game from an external drive](https://www.makeuseof.com/how-to-play-steam-games-on-an-external-drive-with-steam-storage-manager/) if you're low on internal storage.  
+5. After logging into your Steam account, proceed to the**Store** section. Search for Counter-Strike 2, and initiate the download by clicking**Play Game** on the store page and then selecting the Install button. You can also [run the game from an external drive](https://www.makeuseof.com/how-to-play-steam-games-on-an-external-drive-with-steam-storage-manager/) if you're low on internal storage.  
 ![Counter-Strike 2 Steam Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/counter-strike-2-steam-page-2.jpg)
 
  Now, you simply need to be patient while Steam completes the download.
@@ -57,7 +57,7 @@ Fortunately,
  Before launching Counter-Strike 2, it's essential to adjust settings in CrossOver to enhance performance and stability. You can do so by following these steps:
 
 1. Close the Steam window, and open CrossOver again.
-2. Select the**Steam** bottle and toggle on**D3DMetal** on the right. This will enable[hardware acceleration via DirectX](https://www.makeuseof.com/what-is-directx-why-important-for-gaming/) and translate all API calls to Metal.  
+2. Select the**Steam** bottle and toggle on**D3DMetal** on the right. This will enable [hardware acceleration via DirectX](https://www.makeuseof.com/what-is-directx-why-important-for-gaming/) and translate all API calls to Metal.  
 ![CrossOver Steam bottle configuration settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/steam-bottle-configuration-settings-crossover.jpg)
 3. Reopen Steam, go to**Library** , Control-click on Counter-Strike 2, and navigate to**Properties > General** .
 4. Type in the following command under the**Launch Options** field:  

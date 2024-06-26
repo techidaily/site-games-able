@@ -1,7 +1,7 @@
 ---
 title: Pros and Cons of Each Steam Deck Model
-date: 2024-06-25T10:40:39.017Z
-updated: 2024-06-26T10:40:39.017Z
+date: 2024-06-25T12:48:35.712Z
+updated: 2024-06-26T12:48:35.712Z
 tags:
   - games
 categories:
@@ -27,11 +27,11 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 | Storage type     | eMMC          | NVMe SSD                                               | NVMe SSD                                                                                                                         |
 | Extras           | Carrying case | Carrying case Exclusive Steam Community profile bundle | Anti-glare etched glass screen Exclusive carrying case Exclusive Steam Community profile bundle Exclusive virtual keyboard theme |
 
- Storage aside, the hardware inside all three Steam Deck models is identical. It includes an AMD APU (combining Zen 2 and RDNA 2 architectures), 16GB RAM, Bluetooth, Wi-Fi, 40Whr battery, and runs SteamOS. Every model supports the optional[Steam Deck Docking Station](https://store.steampowered.com/steamdeckdock) .
+ Storage aside, the hardware inside all three Steam Deck models is identical. It includes an AMD APU (combining Zen 2 and RDNA 2 architectures), 16GB RAM, Bluetooth, Wi-Fi, 40Whr battery, and runs SteamOS. Every model supports the optional [Steam Deck Docking Station](https://store.steampowered.com/steamdeckdock) .
 
- Providing a game passes[the Steam Deck compatibility check](https://www.makeuseof.com/how-to-check-steam-deck-compatibility/) , Valve's handheld can run it, albeit for more intense games you'll need to crank down the graphics if you want 60 frames per second.
+ Providing a game passes [the Steam Deck compatibility check](https://www.makeuseof.com/how-to-check-steam-deck-compatibility/) , Valve's handheld can run it, albeit for more intense games you'll need to crank down the graphics if you want 60 frames per second.
 
- For full information on the hardware, see Valve's[Steam Deck tech specs page](https://www.steamdeck.com/en/tech) .
+ For full information on the hardware, see Valve's [Steam Deck tech specs page](https://www.steamdeck.com/en/tech) .
 
 ## Do You Need Greater Storage?
 
@@ -61,7 +61,7 @@ Every model of the Steam Deck has the same display hardware:
 * **Brightness:** 400 nits
 * **Refresh rate:** 60Hz
 
- Whichever model you choose, you should find the Steam Deck's screen to be crisp, bright, and colorful. While it can't compete with the[vivid display on the OLED Nintendo Switch](https://www.makeuseof.com/what-is-nintendo-switch-oled-vivid-mode/) , it's still decent.
+ Whichever model you choose, you should find the Steam Deck's screen to be crisp, bright, and colorful. While it can't compete with the [vivid display on the OLED Nintendo Switch](https://www.makeuseof.com/what-is-nintendo-switch-oled-vivid-mode/) , it's still decent.
 
  The difference with the $649 model of the Steam Deck is that the screen has anti-glare etched glass. This means it should be easier to see in bright environments—like playing outside on a sunny day.
 
@@ -69,11 +69,11 @@ Every model of the Steam Deck has the same display hardware:
 
  Image Credit:[Valve](https://www.steamdeck.com/en/press)
 
- According to[PC Gamer](https://www.pcgamer.com/steam-decks-anti-glare-screen-is-actually-playable-in-bright-sunlight/) , with the Steam Deck at maximum brightness and the sun beaming, you can still comfortably make out what's on the anti-glare screen. However, it noted that the screen does struggle outdoors when you're playing a particularly dark game.
+ According to [PC Gamer](https://www.pcgamer.com/steam-decks-anti-glare-screen-is-actually-playable-in-bright-sunlight/) , with the Steam Deck at maximum brightness and the sun beaming, you can still comfortably make out what's on the anti-glare screen. However, it noted that the screen does struggle outdoors when you're playing a particularly dark game.
 
 [TechRadar](https://www.techradar.com/reviews/steam-deck) claims that "while the anti-glare coating certainly reduces reflections, it’s not enough of a change to justify the higher price".
 
- In[our review of the Steam Deck](https://www.makeuseof.com/steam-deck-review-ultimate-portable-gaming-console/) , using the $529 model with the standard screen, we found that it "wasn't bright enough to play a dark game ... outdoors, even in the early evening."
+ In [our review of the Steam Deck](https://www.makeuseof.com/steam-deck-review-ultimate-portable-gaming-console/) , using the $529 model with the standard screen, we found that it "wasn't bright enough to play a dark game ... outdoors, even in the early evening."
 
  Ultimately, it depends on where you plan to play your Steam Deck. While the $649 model has the better screen, if you'll mostly play indoors then you'll rarely see the benefit. However, if you live in a sunny climate and plan to play outdoors, consider the upgrade.
 
@@ -117,7 +117,7 @@ Close
 
 ## What About the Steam Deck's Virtual Goodies?
 
- There are plenty of[ways to customize your Steam profile](https://www.makeuseof.com/how-to-customize-design-steam-profile/) , like with a background and avatar border, and you can grab these from the Steam Points Shop. The $529 and $649 models of the Steam Deck come with an exclusive Steam Community profile bundle, only available through purchase of a Deck, which you can see in the video above.
+ There are plenty of [ways to customize your Steam profile](https://www.makeuseof.com/how-to-customize-design-steam-profile/) , like with a background and avatar border, and you can grab these from the Steam Points Shop. The $529 and $649 models of the Steam Deck come with an exclusive Steam Community profile bundle, only available through purchase of a Deck, which you can see in the video above.
 
  The $649 Deck includes the profile bundle plus an exclusive virtual keyboard theme, which you can see in Valve's tweet above. It makes the on-screen keyboard of the Steam Deck look like a mechanical keyboard.
 

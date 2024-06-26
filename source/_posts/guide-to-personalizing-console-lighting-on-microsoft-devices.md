@@ -1,7 +1,7 @@
 ---
 title: Guide to Personalizing Console Lighting on Microsoft Devices
-date: 2024-06-25T10:49:21.862Z
-updated: 2024-06-26T10:49:21.862Z
+date: 2024-06-25T12:48:41.158Z
+updated: 2024-06-26T12:48:41.158Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/0c5d42c4dd20613a1c9b759dc5acc559eb281ce84
 
  Follow these steps to adjust the brightness of your Xbox controller’s light:
 
-1. Turn on your Xbox console and[ensure that your Xbox controller is connected](https://www.makeuseof.com/tag/sync-xbox-one-controller/) . Press the**Xbox button** on your controller to open the guide.
+1. Turn on your Xbox console and [ensure that your Xbox controller is connected](https://www.makeuseof.com/tag/sync-xbox-one-controller/) . Press the**Xbox button** on your controller to open the guide.
 2. Navigate to the**Profile & system** tab and select**Settings** from the menu options by pressing**A** on your controller.  
 ![Xbox home screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-home-screen-2.jpeg)
 3. Now, go to**General > TV & display options > Night mode** .  
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/0c5d42c4dd20613a1c9b759dc5acc559eb281ce84
 
 ![Xbox accessibility night mode setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-accessibility-night-mode-setting.jpeg)
 
- Now, every time you turn on your Xbox controller, the light will automatically be adjusted to the set brightness. However, if you see a blinking light or no light on your controller, it's possible that your[Xbox controller is not working properly](https://www.makeuseof.com/tag/how-to-fix-xbox-one-controller-not-working/) , and you might need to fix it.
+ Now, every time you turn on your Xbox controller, the light will automatically be adjusted to the set brightness. However, if you see a blinking light or no light on your controller, it's possible that your [Xbox controller is not working properly](https://www.makeuseof.com/tag/how-to-fix-xbox-one-controller-not-working/) , and you might need to fix it.
 
 ## How to Adjust the Brightness of Your Xbox Console Light
 

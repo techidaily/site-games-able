@@ -1,7 +1,7 @@
 ---
 title: "AMD Vs. NVIDIA: Does FSR 3 Edge Over DLSS 3.5 Performance Gains?"
-date: 2024-06-23 16:34:50
-updated: 2024-06-24 11:27:26
+date: 2024-06-25T13:14:30.347Z
+updated: 2024-06-26T13:14:30.347Z
 tags:
   - games
 categories:
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/d273051a98d6681ad00d9eef8a0a1e7b14cf2a7e1
 
 ## What Is AMD's FSR 3?
 
- You might already know what FSR, or[FidelityFX Super Resolution](https://www.makeuseof.com/amd-fsr-explained/) , is, but we'll give you a quick refresh if not. FSR is software that takes games rendered at a lower resolution and upscales them to higher ones. It's AMD's competition to[NVIDIA's DLSS](https://www.makeuseof.com/how-deep-learning-super-sampling-can-give-budget-pcs-top-end-graphics/) , boosting in-game visuals and frame rates, and FSR 3 is the latest version of this technology. AMD announced the new tech right as it announced its newest GPUs, the[Radeon RX 7800 XT and the Radeon RX 7700 XT](https://www.makeuseof.com/everything-you-need-to-know-amd-radeon-rx-7800-xt-and-rx-7700-xt/) .
+ You might already know what FSR, or [FidelityFX Super Resolution](https://www.makeuseof.com/amd-fsr-explained/) , is, but we'll give you a quick refresh if not. FSR is software that takes games rendered at a lower resolution and upscales them to higher ones. It's AMD's competition to [NVIDIA's DLSS](https://www.makeuseof.com/how-deep-learning-super-sampling-can-give-budget-pcs-top-end-graphics/) , boosting in-game visuals and frame rates, and FSR 3 is the latest version of this technology. AMD announced the new tech right as it announced its newest GPUs, the [Radeon RX 7800 XT and the Radeon RX 7700 XT](https://www.makeuseof.com/everything-you-need-to-know-amd-radeon-rx-7800-xt-and-rx-7700-xt/) .
 
  FSR 3 isn't fundamentally changing the way FSR works. It's still an open technology that doesn't require proprietary hardware and can run on any modern GPU, AMD or not. What's changing here is how good its results look and how fast games will run with FSR 3.
 
@@ -69,3 +69,26 @@ Image Credits: AMD
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/tips-for-improved-steam-deck-key-presses/"><u>Tips for Improved Steam Deck Key Presses</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-pokemons-universe-on-your-ios-device-today/"><u>Explore Pokémon's Universe on Your iOS Device Today</u></a></li>
+<li><a href="https://games-able.techidaily.com/mac-integration-with-nintendo-switch-games/"><u>Mac Integration with Nintendo Switch Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/diagnosing-and-fixing-create-file-failure-error-30005/"><u>Diagnosing and Fixing Create File Failure: Error 30005</u></a></li>
+<li><a href="https://games-able.techidaily.com/platinum-membership-fees-at-sony-online-entertainment/"><u>Platinum Membership Fees at Sony Online Entertainment</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-a-trifecta-of-techniques-for-codes-success/"><u>Game On: A Trifecta of Techniques for Codes Success</u></a></li>
+<li><a href="https://games-able.techidaily.com/installation-made-simple-get-discord-running-on-mac/"><u>Installation Made Simple: Get Discord Running on Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/swiftly-tackle-windows-graphics-hang-code-0x887a0006-solution/"><u>Swiftly Tackle Windows' Graphics Hang: Code 0X887A0006 Solution</u></a></li>
+<li><a href="https://games-able.techidaily.com/playing-for-the-digital-age-pros-and-cons-that-matter-to-gamers/"><u>Playing for the Digital Age: Pros and Cons That Matter to Gamers</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-how-to-change-shape-of-a-video-in-2024/"><u>Updated How to Change Shape of a Video, In 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-excellent-tools-to-save-live-feeds-from-youtube-vids-for-2024/"><u>[New] Excellent Tools to Save Live Feeds From YouTube Vids for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-essential-tutorial-for-using-speech-to-text-in-microsoft-word/"><u>The Essential Tutorial for Using Speech-to-Text in Microsoft Word</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-unlocking-future-fb-ad-mastery-the-trends-of-24/"><u>[Updated] In 2024, Unlocking Future FB Ad Mastery – The Trends of '24</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-zte-phone-without-google-account-by-drfone-android/"><u>How to Unlock ZTE Phone without Google Account?</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-symphony-in-reverse-a-guide-to-state-of-the-art-audio-reversal-applications/"><u>New 2024 Approved Symphony in Reverse A Guide to State-of-the-Art Audio Reversal Applications</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/archival-artwork-creative-commons-haven/"><u>Archival Artwork  Creative Commons Haven</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-designing-engaging-whatsapp-group-rooms/"><u>In 2024, Designing Engaging WhatsApp Group Rooms</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-review-of-huawei-p10s-multimedia-features-and-functionality/"><u>[Updated] Review of Huawei P10’s Multimedia Features & Functionality</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-record-setting-stories-a-list-of-the-most-popular-reddit-threads/"><u>2024 Approved  Record-Setting Stories  A List of the Most Popular Reddit Threads</u></a></li>
+</ul></div>

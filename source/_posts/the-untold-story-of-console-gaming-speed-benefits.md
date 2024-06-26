@@ -1,7 +1,7 @@
 ---
 title: The Untold Story of Console Gaming Speed Benefits
-date: 2024-06-25T10:50:39.751Z
-updated: 2024-06-26T10:50:39.751Z
+date: 2024-06-25T12:48:41.964Z
+updated: 2024-06-26T12:48:41.964Z
 tags:
   - games
 categories:
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/26c79816e74e12a8f414621a79d8575a6f7513edd
 
  Specifically, a console title needs to balance elements like frame rate, game complexity, and resolution against the performance limitations of the platform in question. This represents a triangle of needs that often has to shift and change to meet performance demands.
 
- There are many[reasons to play PlayStation 5 titles in performance mode](https://www.makeuseof.com/use-ps5-performance-mode/) , where 60FPS may be reachable, but this can often only be achieved by reducing other elements of your game. Commonly, games will be locked to 30FPS to reduce the strain on performance and increase console stability.
+ There are many [reasons to play PlayStation 5 titles in performance mode](https://www.makeuseof.com/use-ps5-performance-mode/) , where 60FPS may be reachable, but this can often only be achieved by reducing other elements of your game. Commonly, games will be locked to 30FPS to reduce the strain on performance and increase console stability.
 
 ![A photograph of a PlayStation 5 console and a DualSense wireless controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/stock-playstation-5.jpg)
 
@@ -52,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/26c79816e74e12a8f414621a79d8575a6f7513edd
 
  Other forms of gaming, like PC gaming, face completely different levels of complexity when it comes to optimization. PCs have countless amounts of specs and potential devices a game can be played on. For this reason, 30FPS can feel worse on PC than on consoles.
 
- Even using a keyboard and mouse, which can allow you to react faster in games than a controller, will highlight flaws in frame rate as the game races to catch up to your inputs. And this is before you attempt things like[optimizing Windows for PC gaming](https://www.makeuseof.com/tag/optimize-windows-10-gaming/) or any other operating system you're playing a 30FPS game with.
+ Even using a keyboard and mouse, which can allow you to react faster in games than a controller, will highlight flaws in frame rate as the game races to catch up to your inputs. And this is before you attempt things like [optimizing Windows for PC gaming](https://www.makeuseof.com/tag/optimize-windows-10-gaming/) or any other operating system you're playing a 30FPS game with.
 
 ![A photograph of an Xbox Series X console and an Xbox Wireless Controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/stock-xbox.jpg)
 

@@ -1,7 +1,7 @@
 ---
 title: "Game On: DIY Fixes for Xbox Controller Woes"
-date: 2024-06-23 22:16:15
-updated: 2024-06-24 10:40:32
+date: 2024-06-25T13:14:47.965Z
+updated: 2024-06-26T13:14:47.965Z
 tags:
   - games
 categories:
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/c6a00ed9bc739f2f19c543f786366f0b15e1dcc95
 
  Unlike most companies that would rather gobble up your money and make you purchase a new controller every year or two, Xbox has turned a new leaf. Gamers from North America can now purchase official replacement parts from Xbox directly and follow the free tutorials provided to fix their controller themselves.
 
- Replacement parts for all major components are available on[Microsoft's official website](https://www.microsoft.com/en-us/store/b/xbox-repair-parts) , including replacement PCBAs, motor assemblies, shell cases, and buttons. New buttons and shell replacements are available in either black or white, so you can give your controller a whole new look while you’re at it.
+ Replacement parts for all major components are available on [Microsoft's official website](https://www.microsoft.com/en-us/store/b/xbox-repair-parts) , including replacement PCBAs, motor assemblies, shell cases, and buttons. New buttons and shell replacements are available in either black or white, so you can give your controller a whole new look while you’re at it.
 
 ![A disassembled Xbox Series X|S controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/xbox-x-controller-disassembly-4-1.JPG)
 
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/c6a00ed9bc739f2f19c543f786366f0b15e1dcc95
 
  Unless you are already well-versed in the inner workings of a video game controller, you are probably going to want to check out one of Xbox’s free tutorials to walk you through the job. Even if you are experienced, it can’t hurt to freshen up your memory before cracking open your controller and fiddling around in there. Luckily for those who are keen to learn this handy new skill,[Xbox Support](https://support.xbox.com/en-us/help/hardware-network/warranty-service/xbox-self-repair) has provided both written instructions for the repair and a YouTube tutorial for visual learners, which you can view above.
 
- If Xbox's tutorials aren't doing the trick for you, you can also learn a variety of repair techniques like[how to fix your drifting Xbox controller](https://www.makeuseof.com/xbox-controller-drift/) or[how to open your Xbox Series X|S Controller](https://www.makeuseof.com/xbox-series-xs-controller-how-to-take-apart/) from our very own experts.
+ If Xbox's tutorials aren't doing the trick for you, you can also learn a variety of repair techniques like [how to fix your drifting Xbox controller](https://www.makeuseof.com/xbox-controller-drift/) or [how to open your Xbox Series X|S Controller](https://www.makeuseof.com/xbox-series-xs-controller-how-to-take-apart/) from our very own experts.
 
 ## Why You Should Fix Your Own Xbox Controller
 
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/c6a00ed9bc739f2f19c543f786366f0b15e1dcc95
 
  Now, you can purchase new parts for anywhere between $19.99 to $34.99, depending on what you need. These savings are even more apparent when you’re talking about the Xbox Elite Series 2 Wireless controller.
 
- Not only does fixing your own controller save you money, but it also saves the planet from unnecessary waste. Xbox has done a lot in recent years to reduce its carbon footprint and help its customers do the same, from introducing a[power-saving mode on the Xbox](https://www.makeuseof.com/xbox-shutdown-vs-sleep-mode/) to[crafting a whole Xbox controller out of trash](https://www.makeuseof.com/how-xbox-wireless-controller-remix-edition-make-life-easier/) .
+ Not only does fixing your own controller save you money, but it also saves the planet from unnecessary waste. Xbox has done a lot in recent years to reduce its carbon footprint and help its customers do the same, from introducing a [power-saving mode on the Xbox](https://www.makeuseof.com/xbox-shutdown-vs-sleep-mode/) to [crafting a whole Xbox controller out of trash](https://www.makeuseof.com/how-xbox-wireless-controller-remix-edition-make-life-easier/) .
 
 ![Close up of Xbox Wireless Controller Remix Edition on a Leafy Background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/close-up-of-xbox-wireless-controller-remix-edition-on-a-leafy-background.jpg)
 
@@ -73,3 +73,26 @@ thumbnail: https://thmb.techidaily.com/c6a00ed9bc739f2f19c543f786366f0b15e1dcc95
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/graphics-warfare-which-cpu-sets-you-apart-in-gaming/"><u>Graphics Warfare: Which CPU Sets You Apart in Gaming?</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-is-palworld-everything-you-need-to-know/"><u>What Is Palworld? Everything You Need to Know</u></a></li>
+<li><a href="https://games-able.techidaily.com/five-reasons-against-gamefis-widespread-allure/"><u>Five Reasons Against GameFi's Widespread Allure</u></a></li>
+<li><a href="https://games-able.techidaily.com/invest-in-entertainment-smart-money-moves-with-xbox/"><u>Invest in Entertainment: Smart Money Moves with Xbox</u></a></li>
+<li><a href="https://games-able.techidaily.com/future-ready-ergonomic-desk-surfaces/"><u>Future-Ready Ergonomic Desk Surfaces</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-the-rich-world-of-speedy-online-games/"><u>Explore the Rich World of Speedy Online Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-heat-management-kit-for-your-steam-deck/"><u>The Ultimate Heat Management Kit for Your Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/sparkle-science-keeping-your-ps5-spotless/"><u>Sparkle Science: Keeping Your PS5 Spotless</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essential-guide-to-selecting-a-game-ready-keyboard/"><u>The Essential Guide to Selecting a Game-Ready Keyboard</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-complete-guide-to-iphone-7-screen-recordings/"><u>2024 Approved  The Complete Guide to iPhone 7 Screen Recordings</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/harmony-hearts-the-ultimate-song-playlist-for-a-promise-for-2024/"><u>Harmony Hearts  The Ultimate Song Playlist for a Promise for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>Set Your Preferred Job Location on LinkedIn App of your Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-audio-implementation-in-avi-2023-formats-a-step-by-step-manual/"><u>Updated In 2024, Audio Implementation in AVI-2023 Formats A Step-by-Step Manual</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-harmonizing-highlights-how-to-add-soundtracks-to-powerpoint/"><u>2024 Approved  Harmonizing Highlights  How to Add Soundtracks to PowerPoint</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-xiaomi-13t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-poco-x5-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Poco X5</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-gpu-revival-edition/"><u>[New] 2024 Approved  GPU Revival Edition</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-the-soundtrack-you-cant-shake-2024s-most-catchy-tiktok-tracks-duet-version/"><u>[New] The Soundtrack You Can’t Shake  2024'S Most Catchy TikTok Tracks (Duet Version)</u></a></li>
+</ul></div>

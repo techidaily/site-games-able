@@ -1,7 +1,7 @@
 ---
 title: Reasons That Keep GameFi From Capturing the Masses
-date: 2024-06-21 15:33:19
-updated: 2024-06-24 10:55:34
+date: 2024-06-25T13:01:20.773Z
+updated: 2024-06-26T13:01:20.773Z
 tags:
   - games
 categories:
@@ -31,9 +31,9 @@ thumbnail: https://thmb.techidaily.com/f9a9cc9d25c2277c00a95f3b41983be5b23439a73
 
  GameFi ([short for gaming finance](https://www.makeuseof.com/what-is-gamefi/) ) is a blend of the gaming and decentralized finance (DeFi) industries, wherein users can play games to earn crypto tokens and other decentralized assets, such as NFTs. GameFi allows blockchain-based apps to shift into the gaming industry, attracting users with the lure of digital tokens.
 
- GameFi is also known as[play-to-earn (P2E)](https://www.makeuseof.com/are-play-to-earn-games-legit/) . P2E games often look and perform like typical games, with the tokenomics element usually being the only difference.
+ GameFi is also known as [play-to-earn (P2E)](https://www.makeuseof.com/are-play-to-earn-games-legit/) . P2E games often look and perform like typical games, with the tokenomics element usually being the only difference.
 
- Some notable examples of[popular P2E games](https://www.makeuseof.com/top-play-to-earn-mobile-crypto-games/) are Axie Infinity, Star Atlas, and Tamadodge. Each of these games has one or more of their own token types that users can earn. Some games, including Axie Infinity, reward winners with NFTs that they can sell for Ethereum or another cryptocurrency.
+ Some notable examples of [popular P2E games](https://www.makeuseof.com/top-play-to-earn-mobile-crypto-games/) are Axie Infinity, Star Atlas, and Tamadodge. Each of these games has one or more of their own token types that users can earn. Some games, including Axie Infinity, reward winners with NFTs that they can sell for Ethereum or another cryptocurrency.
 
  In P2E games, almost everything can be tokenized, from avatars to weapons to land. You can often receive these assets by completing quests and winning tournaments, but the nature of the P2E model changes from game to game.
 
@@ -45,13 +45,11 @@ thumbnail: https://thmb.techidaily.com/f9a9cc9d25c2277c00a95f3b41983be5b23439a73
 
  This naturally affects GameFi, as many P2E games reward users with crypto tokens. If a GameFi token's price increases, that's great news for gamers. But as we all know, cryptocurrency price drops and market crashes are by no means rare. If an individual spends hours building a solid holding of assets by playing a P2E game, much of their time and effort will go to waste if the reward token loses a large chunk of its value.
 
- Even if a P2E game solely rewards users with NFTs, cryptocurrency price fluctuations directly affect how much a user can get through the sale of their P2E NFTs. For instance, if an NFT is worth 2 ETH and Ethereum's price drops by 10%, the NFT owner stands to lose 10% of their original profit when they[sell this NFT on a marketplace](https://www.makeuseof.com/best-nft-marketplaces-buying-all-kinds-digital-assets/) like OpenSea.
+ Even if a P2E game solely rewards users with NFTs, cryptocurrency price fluctuations directly affect how much a user can get through the sale of their P2E NFTs. For instance, if an NFT is worth 2 ETH and Ethereum's price drops by 10%, the NFT owner stands to lose 10% of their original profit when they [sell this NFT on a marketplace](https://www.makeuseof.com/best-nft-marketplaces-buying-all-kinds-digital-assets/) like OpenSea.
 
  GameFi developers could aim to adopt stablecoins over regular cryptos in P2E games, as this provides more price stability and protects users from really suffering when the market turns downward.
 
-## 2\. Scams
-
-![person having crypto stolen from laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/crypto-scams-social-media.jpg)
+## 2\. Scams ![person having crypto stolen from laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/crypto-scams-social-media.jpg)
 
  Scams are, unfortunately, native to the crypto realm, and GameFi is no exception to this rule. If there's money to be stolen, chances are criminals will find some way to access it.
 
@@ -83,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/f9a9cc9d25c2277c00a95f3b41983be5b23439a73
 
 ### 5\. Lack of Regulation
 
- Cryptocurrency and DeFi already lack proper regulation (though[crypto regulation may soon change](https://www.makeuseof.com/is-government-sec-going-to-regulate-cryptocurrency/) ), but GameFi, a newer addition to the blockchain industry, suffers from this issue even more.
+ Cryptocurrency and DeFi already lack proper regulation (though [crypto regulation may soon change](https://www.makeuseof.com/is-government-sec-going-to-regulate-cryptocurrency/) ), but GameFi, a newer addition to the blockchain industry, suffers from this issue even more.
 
  In the US, no specific legal regulations surround GameFi, which could allow malicious actors to get away with a fair few swindles. Even legitimate game developers may be able to wriggle through a few loopholes without proper regulation, leaving gamers worse off.
 
@@ -126,3 +124,22 @@ thumbnail: https://thmb.techidaily.com/f9a9cc9d25c2277c00a95f3b41983be5b23439a73
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/empower-iphone-with-unparalleled-gaming-capabilities/"><u>Empower iPhone with Unparalleled Gaming Capabilities</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-giants-collide-ps5-vs-xbox-series-x-battle/"><u>Gaming Giants Collide - PS5 V/S Xbox Series X Battle</u></a></li>
+<li><a href="https://games-able.techidaily.com/insights-into-xbox-casing/"><u>Insights Into Xbox Casing</u></a></li>
+<li><a href="https://games-able.techidaily.com/conquering-windows-11-steam-installation-errors/"><u>Conquering Windows 11 Steam Installation Errors</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719171331292-eliminate-system-lags-with-updated-nvidia-graphics-drivers/"><u>Eliminate System Lags with Updated Nvidia Graphics Drivers</u></a></li>
+<li><a href="https://games-able.techidaily.com/champion-mousepad-roundup-for-players/"><u>Champion Mousepad Roundup for Players</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-art-of-quiet-steam-usage/"><u>The Art of Quiet Steam Usage</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-win-and-mac-users-best-picks-top-mp3-recording-software-and-hardware/"><u>New Win & Mac Users Best Picks Top MP3 Recording Software and Hardware</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-subtitle-your-videos-for-free-10-top-online-options/"><u>Updated In 2024, Subtitle Your Videos for Free 10 Top Online Options</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-10-best-free-video-conferencing-services-with-screen-sharing/"><u>[Updated] In 2024, 10 Best Free Video Conferencing Services with Screen Sharing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-simplified-guide-to-following-facebook-live-broadcasts-for-2024/"><u>[Updated] Simplified Guide to Following Facebook Live Broadcasts for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-motorola-moto-g34-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-huawei-nova-y71-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Huawei Nova Y71 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-oppo-f25-pro-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Oppo F25 Pro 5G to iPod | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-the-top-tier-best-4k8k-video-editing-software-for-professionals/"><u>Updated The Top Tier Best 4K/8K Video Editing Software for Professionals</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Secure Your Playthroughs: Backup and Repeat Screenshots"
-date: 2024-06-25T10:40:44.809Z
-updated: 2024-06-26T10:40:44.809Z
+date: 2024-06-25T12:48:35.775Z
+updated: 2024-06-26T12:48:35.775Z
 tags:
   - games
 categories:
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44
 
  Your Steam Cloud has a limit of 20GB for screenshots. If you wish to delete any of your uploaded Steam screenshots on the Steam Cloud, you can only do so one at a time. Finally, remember that you can view your uploaded Steam pics virtually anywhere.
 
-**Download:** Steam for[iOS](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU39294/https://itunes.apple.com/us/app/steam-mobile/id495369748?mt=8) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU39294/https://play.google.com/store/apps/details?id=com.valvesoftware.android.steam.community&hl=en%5FUS) (free)
+**Download:** Steam for [iOS](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU39294/https://itunes.apple.com/us/app/steam-mobile/id495369748?mt=8) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU39294/https://play.google.com/store/apps/details?id=com.valvesoftware.android.steam.community&hl=en%5FUS) (free)
 
 ### Uploading Non-Steam Screenshots to the Steam Cloud
 
@@ -48,11 +48,11 @@ thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44
 
  SteaScree provides excellent instructions in regard to using the program. Once guided toward the proper directories, SteaScree will access the photos you wish to upload to the Steam Cloud and properly register them within the screenshots.vdf folder.
 
- As a result, Steam will view these screenshots as its own and allow you to upload them to the Steam Cloud. You will notice that the metadata connected to each screenshot will be of the moment Steascree registered them within the screenshots.vdf file. The[Steam Cloud is great for storing your game data online](https://www.makeuseof.com/how-to-use-steam-cloud/) , and you can even use it to store your non-Steam screenshots.
+ As a result, Steam will view these screenshots as its own and allow you to upload them to the Steam Cloud. You will notice that the metadata connected to each screenshot will be of the moment Steascree registered them within the screenshots.vdf file. The [Steam Cloud is great for storing your game data online](https://www.makeuseof.com/how-to-use-steam-cloud/) , and you can even use it to store your non-Steam screenshots.
 
 ![The homepage of the SteaScree website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/SteaScree-Menu-Screen-1.jpg)
 
-**Download:** SteaScree for[Windows](https://steascree.download/) |[Mac](https://steascree.download/) |[Linux](https://steascree.download/) (free)
+**Download:** SteaScree for [Windows](https://steascree.download/) |[Mac](https://steascree.download/) |[Linux](https://steascree.download/) (free)
 
 ## How to Back Up Steam Screenshots on Your PC
 
@@ -62,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44
 
  Once inside your**User ID** folder, enter your**760** folder. Inside your**760** folder, open your**remote** folder. Once inside your**remote** folder, you will find numerous numerical folders. Each one of these folders contains screenshots for respective games and a folder holding their corresponding respective thumbnails.
 
- By copying and pasting your**760** folder to a dedicated USB flash drive, you'll have created a backup. Even with 1000s of screenshots, your**760** folder will still take up less than 10GB of space. After backing up your Steam screenshots, you can put them into any of the[best Windows photo organizer apps](https://www.makeuseof.com/photo-organizer-software-windows/) to keep your digital library organized.
+ By copying and pasting your**760** folder to a dedicated USB flash drive, you'll have created a backup. Even with 1000s of screenshots, your**760** folder will still take up less than 10GB of space. After backing up your Steam screenshots, you can put them into any of the [best Windows photo organizer apps](https://www.makeuseof.com/photo-organizer-software-windows/) to keep your digital library organized.
 
 ## How to Back Up Steam Screenshots to a New PC
 
@@ -70,9 +70,7 @@ thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44
 
  Next, copy the**760** folder on your old PC to a flash drive. Finally, replace the**760** folder on your new PC with the one on your flash drive. That's it! You have successfully moved your Steam screenshot library to a new PC. Furthermore, Steam will still recognize which of the images were already uploaded to the Steam Cloud. Steam recognizes the photos correctly since your original screenshots.vdf file was transferred as part of your**760** folder.
 
-## How to Combine Multiple Libraries on One PC
-
-![The GameSave Manager backup menu with Steam screenshots selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/gamesave-manager-steam-screenshots.jpg)
+## How to Combine Multiple Libraries on One PC ![The GameSave Manager backup menu with Steam screenshots selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/gamesave-manager-steam-screenshots.jpg)
 
  What should you do if you are trying to combine multiple Steam screenshot libraries from different PCs together on one computer? As long as the screenshots are from the same account, there is a way. GameSave Manager, a free popular platform that backs up PC game content for hundreds of games, is also capable of creating a backup of your Steam screenshots.
 

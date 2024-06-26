@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Storage: Steam Deck and SD Card"
-date: 2024-06-22 18:18:12
-updated: 2024-06-24 10:18:46
+date: 2024-06-25T13:10:27.780Z
+updated: 2024-06-26T13:10:27.780Z
 tags:
   - games
 categories:
@@ -38,9 +38,7 @@ thumbnail: https://thmb.techidaily.com/255abe49d787e06c0ed6c6f504e1d68fdfd70d280
 
  We have a great selection of [the best microSD cards for the Steam Deck](https://www.makeuseof.com/best-microsd-cards-steam-deck/) if you haven't selected one already.
 
-## How to Format Your SD Card for the Steam Deck
-
-![screenshot of the steam deck settings menu showing an option to format the SD card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_steam_deck_sd_format_option.jpg)
+## How to Format Your SD Card for the Steam Deck ![screenshot of the steam deck settings menu showing an option to format the SD card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_steam_deck_sd_format_option.jpg)
 
  The Steam Deck uses a specific format, so a full wipe of your SD card is required when adding extra storage to the device.
 
@@ -52,9 +50,7 @@ thumbnail: https://thmb.techidaily.com/255abe49d787e06c0ed6c6f504e1d68fdfd70d280
 
  When the Steam Deck is done, your SD card will no longer be readable by Windows or Mac devices.
 
-## How to Install and Move Games to Your Steam Deck's SD Card
-
-![screenshot of the games options menu on the steam deck showing a game installed on an SD card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_steam_deck_game_options_sd_card.jpg)
+## How to Install and Move Games to Your Steam Deck's SD Card ![screenshot of the games options menu on the steam deck showing a game installed on an SD card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_steam_deck_game_options_sd_card.jpg)
 
  With an SD card installed, you can choose to install a game directly onto your SD card or move an already installed game manually by opening its **Properties** and clicking on **Installed Files.**
 
@@ -91,3 +87,23 @@ run/media/mmcblk0p1
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/master-your-creative-talent-with-these-7-game-based-skills/"><u>Master Your Creative Talent with These 7 Game-Based Skills</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-cooperative-gaming-in-2p-minecraft/"><u>The Ultimate Guide to Cooperative Gaming in 2P Minecraft</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-xbox-graphics-with-an-additional-laptop-screen/"><u>Elevate Xbox Graphics with an Additional Laptop Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-clean-your-ps5-console-and-controller-the-right-way/"><u>How to Clean Your PS5 Console and Controller the Right Way</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-game-room-with-expert-3d-lighting-choices/"><u>Transform Your Game Room with Expert 3D Lighting Choices</u></a></li>
+<li><a href="https://games-able.techidaily.com/simpliplay-portable-simple-classics-made-easy/"><u>SimpliPlay Portable: Simple Classics Made Easy</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-fixes-for-joy-con-connection-issues-with-nintendo-switch/"><u>Quick Fixes for Joy-Con Connection Issues with Nintendo Switch</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-realme-11-proplus-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Realme 11 Pro+ Through Google Earth?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-nokia-c02-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Nokia C02 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-apple-iphone-12-pro-max-by-drfone-ios/"><u>How to Fix Locked Apple ID from Apple iPhone 12 Pro Max</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/2024-approved-pixel-perfect-calculating-aspect-ratios-made-easy/"><u>2024 Approved Pixel Perfect Calculating Aspect Ratios Made Easy</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-make-a-gaming-montage-guide-and-tips/"><u>New How to Make a Gaming Montage - Guide & Tips</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-leading-third-place-ipad-recording-software-guide/"><u>[New] 2024 Approved  Leading Third-Place iPad Recording Software Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-saving-and-enjoying-animated-gifs-on-your-iphone/"><u>[New] The Art of Saving and Enjoying Animated GIFs on Your iPhone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/honor-data-recovery-recover-lost-data-from-honor-x50-gt-by-fonelab-android-recover-data/"><u>Honor Data Recovery – recover lost data from Honor X50 GT</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-s17-pro-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo S17 Pro Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+</ul></div>

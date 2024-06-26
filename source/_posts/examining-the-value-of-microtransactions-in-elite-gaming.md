@@ -1,7 +1,7 @@
 ---
 title: Examining the Value of Microtransactions in Elite Gaming
-date: 2024-06-23 21:49:24
-updated: 2024-06-24 10:15:42
+date: 2024-06-25T12:49:22.033Z
+updated: 2024-06-26T12:49:22.033Z
 tags:
   - games
 categories:
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/a50a3cec0521fa6fb800284717c9122c07291a027
 
  At first, it came as expansion packs ([now known as DLC](https://www.makeuseof.com/dlc-video-games/) ), which you had to buy separately to expand the game’s content. But it didn’t take long for developers to realize they could make more money from selling small bits of seemingly inconsequential content for a token price.
 
- Eventually, this trend led to the introduction of[loot boxes and gacha microtransactions](https://www.makeuseof.com/are-loot-boxes-in-video-games-a-form-of-gambling-should-you-avoid-them/) . These were not just game-changers but financial jackpots. In fact, one of the pioneers in this field, ZT Online (2007), was raking in a staggering $15 million monthly at its peak.
+ Eventually, this trend led to the introduction of [loot boxes and gacha microtransactions](https://www.makeuseof.com/are-loot-boxes-in-video-games-a-form-of-gambling-should-you-avoid-them/) . These were not just game-changers but financial jackpots. In fact, one of the pioneers in this field, ZT Online (2007), was raking in a staggering $15 million monthly at its peak.
 
  Before we knew it, we had Facebook games like Farmville that offered Farm Cash to make the game easier to play and progress faster. From there, it made its way to mobile as smartphone games, like Clash of Clans.
 
@@ -76,9 +76,7 @@ But what about premium games? Should they have microtransactions?
 
  Apart from the inherent gambling nature of loot boxes, as a creator and an artist, doesn’t it feel fundamentally wrong to offer people a way to pay to experience less of your creation? It gives people the idea that your game is a chore, which shouldn’t be the case.
 
-### Bloat and Battle Passes
-
-![Assassin's Creed Origins Season Pass for sale on Ubisoft website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/assassin-s-creed-origins-season-pass-for-sale-on-ubisoft-website.png)
+### Bloat and Battle Passes ![Assassin's Creed Origins Season Pass for sale on Ubisoft website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/assassin-s-creed-origins-season-pass-for-sale-on-ubisoft-website.png)
 
  Another way you can tell microtransactions don’t have a place in premium games is that they only worm their way into established franchises. Ubisoft is a good example of this, seeing as it has added seasonal passes to many titles in their (mostly) offline single-player adventure series, Assassin’s Creed.
 
@@ -86,7 +84,7 @@ But what about premium games? Should they have microtransactions?
 
  Companies add these to leverage the cumulated love and loyalty some fans have to these established series—even though they know many wouldn’t like it. In the end, it comes off as parasitic.
 
- What makes passes even worse is that you have to play the game for a certain amount of time to earn the content on them. We've explored more on[why you shouldn't pay for passes](https://www.makeuseof.com/why-you-shouldnt-pay-for-season-passes-or-dlc/) in a dedicated piece.
+ What makes passes even worse is that you have to play the game for a certain amount of time to earn the content on them. We've explored more on [why you shouldn't pay for passes](https://www.makeuseof.com/why-you-shouldnt-pay-for-season-passes-or-dlc/) in a dedicated piece.
 
  Additionally, these games end up being bloated, as content you’ve bought, downloaded, and installed is locked behind an additional paywall. This will cost the paying player more internet bills for content they will likely never get to experience.
 
@@ -121,3 +119,24 @@ But what about premium games? Should they have microtransactions?
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/ifa-2-infusion-the-top-upcoming-game-hardware/"><u>IFA 2 Infusion: The Top Upcoming Game Hardware</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-process-joining-controllers-to-android-gadgets/"><u>Navigating the Process: Joining Controllers to Android Gadgets</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-evolution-of-smoother-gaming-introducing-nvidia-g-sync/"><u>The Evolution of Smoother Gaming: Introducing Nvidia G-Sync</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-blue-blocker-eyewear-selection/"><u>Elite Blue Blocker Eyewear Selection</u></a></li>
+<li><a href="https://games-able.techidaily.com/jumpstart-journey-overcoming-stuck-stage/"><u>Jumpstart Journey: Overcoming Stuck Stage</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-valorant-play-eliminating-frames-per-second-lags/"><u>Optimizing Valorant Play: Eliminating Frames Per Second Lags</u></a></li>
+<li><a href="https://games-able.techidaily.com/storing-retro-games-in-windows-11-mypics/"><u>Storing Retro Games in Windows 11 MyPics</u></a></li>
+<li><a href="https://games-able.techidaily.com/dispelling-the-incompatibility-with-steam-files/"><u>Dispelling the Incompatibility with Steam Files</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-oneplus-11-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone OnePlus 11 5G Phone? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-from-boredom-to-virality-tiktok-videos-shaped-by-mac-edits/"><u>2024 Approved  From Boredom to Virality  TikTok Videos Shaped by Mac Edits</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-the-professional-path-to-broadcasting-full-dome-content-on-fb/"><u>[Updated] The Professional Path to Broadcasting Full-Dome Content on FB</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-splitcam-vs-competitors-top-tier-video-recording-for-2024/"><u>[Updated] SplitCam Vs. Competitors  Top-Tier Video Recording for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-royalty-free-video-heaven-top-download-sites-for-2024/"><u>New Royalty-Free Video Heaven Top Download Sites for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-strategies-to-stay-in-clear-view-after-a-tiktok-ban/"><u>[Updated] 2024 Approved  Strategies to Stay in Clear View After a TikTok Ban</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-vivo-s17t-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Vivo S17t</u></a></li>
+</ul></div>

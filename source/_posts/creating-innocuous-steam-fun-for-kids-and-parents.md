@@ -1,7 +1,7 @@
 ---
 title: Creating Innocuous Steam Fun for Kids and Parents
-date: 2024-06-25T10:43:00.065Z
-updated: 2024-06-26T10:43:00.065Z
+date: 2024-06-25T12:48:37.219Z
+updated: 2024-06-26T12:48:37.219Z
 tags:
   - games
 categories:
@@ -36,13 +36,13 @@ thumbnail: https://thmb.techidaily.com/e28897e8d930e3677167fd762a9f129952956dbe6
 
  This is useful if you have a laptop that you want to let your child play games on, but your child is too young to have a separate Steam account of their own.
 
- Once you've[paired Bluetooth controllers with your Steam account](https://www.makeuseof.com/how-to-set-up-use-console-controllers-steam/) , your kids can have just as much fun on a computer as they would with a console.
+ Once you've [paired Bluetooth controllers with your Steam account](https://www.makeuseof.com/how-to-set-up-use-console-controllers-steam/) , your kids can have just as much fun on a computer as they would with a console.
 
  Family View isn't limited to only blocking games. You can also determine whether kids can browse the Steam store, view community-generated content, chat with other Steam users, or access your profile information.
 
 ## How to Enable Family View on Steam
 
- Your first step is to[download and install the Steam client](https://www.makeuseof.com/what-is-steam-how-to-install/) . There are clients available for Windows, macOS, Linux, and ChromeOS.
+ Your first step is to [download and install the Steam client](https://www.makeuseof.com/what-is-steam-how-to-install/) . There are clients available for Windows, macOS, Linux, and ChromeOS.
 
  Next, sign into your Steam account. If you don’t already have one, you will need to create an account and purchase whichever games you want your kids to have access to before you proceed.
 
@@ -58,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/e28897e8d930e3677167fd762a9f129952956dbe6
 
 ![Steam displaying games you've granted access to in Family View](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/steam-family-view-games.png)
 
- You may find that you eventually run out of space. If that's the case, you can[uninstall the Steam games and reinstall them later](https://www.makeuseof.com/how-to-uninstall-steam-games-reinstall/) when you're ready to play them again.
+ You may find that you eventually run out of space. If that's the case, you can [uninstall the Steam games and reinstall them later](https://www.makeuseof.com/how-to-uninstall-steam-games-reinstall/) when you're ready to play them again.
 
 Steam saves your progress, so you won't have to start over.
 

@@ -1,7 +1,7 @@
 ---
 title: "Journey Through Social & Multiplayer Worlds: Subscribing to and Using EA Play on PS5"
-date: 2024-06-25T10:39:43.703Z
-updated: 2024-06-26T10:39:43.703Z
+date: 2024-06-25T12:48:35.111Z
+updated: 2024-06-26T12:48:35.111Z
 tags:
   - games
 categories:
@@ -22,15 +22,15 @@ thumbnail: https://thmb.techidaily.com/f5381cefae4db3e611ab844891c6d979a90ee4ce4
 
  Essentially, EA Play (once known as EA Access) is a subscription service for PlayStation and Xbox that offers select EA titles to “rent” while your subscription is on. It also gives you a 10% discount on some non-free titles, season passes, points packs, and DLCs. Lastly, EA Play membership will give you a free 10-hour early access trial to some EA games, and your progress will sync should you choose to buy the game.
 
- You can[get EA Play on PC through Xbox Game Pass](https://www.makeuseof.com/how-to-use-ea-play-xbox-game-pass-pc/) . But your subscription won’t carry over to PlayStation. EA Play on Xbox and PlayStation are not the same, and they offer different games.
+ You can [get EA Play on PC through Xbox Game Pass](https://www.makeuseof.com/how-to-use-ea-play-xbox-game-pass-pc/) . But your subscription won’t carry over to PlayStation. EA Play on Xbox and PlayStation are not the same, and they offer different games.
 
- EA Play on the PS5 is $4.99/month or $29.99/year, and it will grant you access to more than 50 games. This makes it way cheaper than any of the[PlayStation Plus subscription tiers](https://www.makeuseof.com/playstation-plus-essential-vs-extra-vs-premium/) . Judging solely by the number of games available, EA Play will give you more value than PlayStation Plus Essential ($9.99/month).
+ EA Play on the PS5 is $4.99/month or $29.99/year, and it will grant you access to more than 50 games. This makes it way cheaper than any of the [PlayStation Plus subscription tiers](https://www.makeuseof.com/playstation-plus-essential-vs-extra-vs-premium/) . Judging solely by the number of games available, EA Play will give you more value than PlayStation Plus Essential ($9.99/month).
 
- By the way, EA Play is one of the[ways you can get The Sim 4 for free](https://www.makeuseof.com/how-to-download-and-play-the-sims-4-for-free/) .
+ By the way, EA Play is one of the [ways you can get The Sim 4 for free](https://www.makeuseof.com/how-to-download-and-play-the-sims-4-for-free/) .
 
 ## How to Subscribe to EA Play on the PS5
 
- Trying to navigate your PS5 to pay for EA Play could be a little tricky. Before you begin, you must[add a card as a payment method on your PS5](https://www.makeuseof.com/add-psn-wallet-funds-and-buy-games-on-ps5/) (EA Play insists you have a card even though it will charge your wallet). So, we’ve detailed all the steps you should follow to successfully subscribe to it:
+ Trying to navigate your PS5 to pay for EA Play could be a little tricky. Before you begin, you must [add a card as a payment method on your PS5](https://www.makeuseof.com/add-psn-wallet-funds-and-buy-games-on-ps5/) (EA Play insists you have a card even though it will charge your wallet). So, we’ve detailed all the steps you should follow to successfully subscribe to it:
 
 1. Navigate to and select**PlayStation Store** from your PS5’s home.
 2. Tap**R1** till you reach the**Subscriptions** tab.

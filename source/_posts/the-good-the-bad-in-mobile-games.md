@@ -1,7 +1,7 @@
 ---
 title: The Good, The Bad in Mobile Games
-date: 2024-06-20 23:37:21
-updated: 2024-06-23 12:31:40
+date: 2024-06-25T12:48:58.911Z
+updated: 2024-06-26T12:48:58.911Z
 tags:
   - games
 categories:
@@ -24,19 +24,15 @@ thumbnail: https://thmb.techidaily.com/9494fa406dacd27bc0a8399abf0f5c2cdeea0b8aa
 
  There are multiple reasons why mobile gaming is worthwhile. Here are a few:
 
-### 1\. Mobile Gaming is Convenient
+### 1\. Mobile Gaming is Convenient ![Woman in whote headphones using a smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/woman-in-whote-headphones-using-a-smartphone.jpg)
 
-![Woman in whote headphones using a smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/woman-in-whote-headphones-using-a-smartphone.jpg)
-
- Part of the appeal of mobile gaming is that you can do it anywhere. Because phones are small, they’re easy to carry around—an advantage of[smartphones versus handheld consoles](https://www.makeuseof.com/handheld-gaming-consoles-vs-smartphones/) —so many people will probably have their phone on or near them most of the time.
+ Part of the appeal of mobile gaming is that you can do it anywhere. Because phones are small, they’re easy to carry around—an advantage of [smartphones versus handheld consoles](https://www.makeuseof.com/handheld-gaming-consoles-vs-smartphones/) —so many people will probably have their phone on or near them most of the time.
 
  Convenience is one of the best things about mobile gaming. It’s nice to be able to whip out your phone while waiting for something or when there’s a lull in your daily activities instead of waiting to get home to play on a console.
 
- Also, mobile games are easy to download and install—no[deciding if game keys are safe](https://www.makeuseof.com/are-game-keys-safe/) , no extra hardware, and no waiting hours for a game to download. With all the advantages of its convenience, mobile gaming is perfect for gaming on the go.
+ Also, mobile games are easy to download and install—no [deciding if game keys are safe](https://www.makeuseof.com/are-game-keys-safe/) , no extra hardware, and no waiting hours for a game to download. With all the advantages of its convenience, mobile gaming is perfect for gaming on the go.
 
-### 2\. Touchscreen Controls Make Mobile Gaming Easy
-
-![Hands holding a smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hands-holding-a-smartphone-1.jpg)
+### 2\. Touchscreen Controls Make Mobile Gaming Easy ![Hands holding a smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hands-holding-a-smartphone-1.jpg)
 
  Many people like to complain that touchscreen controls limit the mobile gaming experience, but that’s not entirely true or fair. Older smartphones may have had imperfect controls that made gaming difficult, but smartphones today do a terrific job of giving you a smooth mobile gaming experience.
 
@@ -44,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/9494fa406dacd27bc0a8399abf0f5c2cdeea0b8aa
 
  Furthermore, with controllers, there’s a learning curve. Not everyone can quickly master controller controls, which can negatively affect their gameplay.
 
- However, if you’re a hardcore mobile gamer looking to upgrade your mobile gaming experience, you might benefit from connecting a handheld controller to your device or some other[way of gaming on your phone](https://www.makeuseof.com/best-ways-game-smartphone/) .
+ However, if you’re a hardcore mobile gamer looking to upgrade your mobile gaming experience, you might benefit from connecting a handheld controller to your device or some other [way of gaming on your phone](https://www.makeuseof.com/best-ways-game-smartphone/) .
 
 ### 3\. Mobile Games Are Affordable
 
@@ -54,9 +50,7 @@ thumbnail: https://thmb.techidaily.com/9494fa406dacd27bc0a8399abf0f5c2cdeea0b8aa
 
  Overall, mobile games are much cheaper than games for other platforms. Their affordability allows people to play various games without breaking the bank.
 
-### 4\. It’s Easier to Be Consistent When Playing Mobile Games
-
-![children lying on sofa and using gadgets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/children-lying-on-sofa-and-using-gadgets.jpg)
+### 4\. It’s Easier to Be Consistent When Playing Mobile Games ![children lying on sofa and using gadgets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/children-lying-on-sofa-and-using-gadgets.jpg)
 
  There’s a level of consistency you can easily maintain when playing mobile games that you can’t as easily maintain on a console or PC, and much of it has to do with the accessibility of mobile games.
 
@@ -68,21 +62,17 @@ thumbnail: https://thmb.techidaily.com/9494fa406dacd27bc0a8399abf0f5c2cdeea0b8aa
 
  Mobile gaming comes with several headaches. The following are some of them:
 
-### 1\. Mobile Gaming Can Be Unhealthy
-
-![tired female student sleeping on books in light room](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/tired-female-student-sleeping-on-books-in-light-room-1.jpg)
+### 1\. Mobile Gaming Can Be Unhealthy ![tired female student sleeping on books in light room](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/tired-female-student-sleeping-on-books-in-light-room-1.jpg)
 
  While mobile is a fun way to while away the time, it can be unhealthy, negatively impacting your physical and mental well-being.
 
- When you spend significant time gaming on your phone, you risk developing eye strain, leading to headaches and blurred vision. That’s why it’s essential to take steps to[avoid developing eye strain](https://www.makeuseof.com/avoid-eye-strain-screens-tips-exercises/) .
+ When you spend significant time gaming on your phone, you risk developing eye strain, leading to headaches and blurred vision. That’s why it’s essential to take steps to [avoid developing eye strain](https://www.makeuseof.com/avoid-eye-strain-screens-tips-exercises/) .
 
  Some games have limited events that allow players to obtain special items. Some people take extreme steps to avoid missing deadlines for tasks during these limited-time events; this could mean staying up at night or setting an alarm to wake them in the middle of the night, neither of which is ideal.
 
  Sleep deprivation is a serious condition that can lead to an increased risk of health problems, accidents, mood swings, and fatigue, besides affecting your productivity during the daytime.
 
-### 2\. Mobile Gaming Can Be Distracting
-
-![Representation of a person using their smartphone while driving](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/representation-of-a-person-using-their-smartphone-while-driving.jpg)
+### 2\. Mobile Gaming Can Be Distracting ![Representation of a person using their smartphone while driving](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/representation-of-a-person-using-their-smartphone-while-driving.jpg)
 
  Mobile gaming can distract you from what’s happening around you. Because mobile games are typically designed to be immersive, it’s not hard to find that you don’t want to be bothered while playing.
 
@@ -98,11 +88,9 @@ thumbnail: https://thmb.techidaily.com/9494fa406dacd27bc0a8399abf0f5c2cdeea0b8aa
 
  If you notice you’re constantly checking your game, not interacting as much with people in real life, anxious when you spend even a little time away from your game, or spending tons of money on IAPs, it might be time to take a break.
 
- Fortunately, there are things you can do to prevent or curb your mobile gaming obsession, like[restricting apps on your Android device](https://www.makeuseof.com/tag/hide-restrict-apps-android/) . Or you can[use Screen Time on your iPhone](https://www.makeuseof.com/tag/ios-screen-time/) to limit your gameplay.
+ Fortunately, there are things you can do to prevent or curb your mobile gaming obsession, like [restricting apps on your Android device](https://www.makeuseof.com/tag/hide-restrict-apps-android/) . Or you can [use Screen Time on your iPhone](https://www.makeuseof.com/tag/ios-screen-time/) to limit your gameplay.
 
-### 4\. In-Game Purchases Can Add Up
-
-![illustration of coins stacked up and card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/illustration-of-coins-stacked-up-and-card.jpg)
+### 4\. In-Game Purchases Can Add Up ![illustration of coins stacked up and card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/illustration-of-coins-stacked-up-and-card.jpg)
 
 [Microtransactions](https://www.makeuseof.com/what-are-microtransactions-and-how-do-they-work/) are sneaky. It might look like those in-game purchases you make while playing a game are small and harmless, but in reality, they can potentially become the complete opposite.
 
@@ -135,3 +123,23 @@ thumbnail: https://thmb.techidaily.com/9494fa406dacd27bc0a8399abf0f5c2cdeea0b8aa
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/1719169303840-elevate-gaming-choose-large-format-cabinet-fronts/"><u>Elevate Gaming: Choose Large-Format Cabinet Fronts</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-cs2-strategies-for-mac-users/"><u>Navigating CS2: Strategies for Mac Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-potential-top-8-video-games-enhancing-design-skills/"><u>Unleash Potential: Top 8 Video Games Enhancing Design Skills</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-potential-a-compreenas-five-tips-for-customizing-your-xbox-game-bar-experience/"><u>Unlock Potential: A Compreenas Five Tips for Customizing Your Xbox Game Bar Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-to-reconnect-with-steam-server-services/"><u>Strategies to Reconnect with Steam Server Services</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-does-hrtf-affect-your-valorant-play/"><u>How Does HRTF Affect Your Valorant Play?</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-streaming-top-3-choices-for-switch-gamers/"><u>Seamless Streaming: Top 3 Choices for Switch Gamers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/mastering-discord-pics-download-and-edit-tutorial/"><u>Mastering Discord Pics  Download & Edit Tutorial</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-quintessential-7-first-person-shooters/"><u>In 2024, Quintessential 7 First-Person Shooters</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-elevating-your-instagram-post-visibility-and-interaction/"><u>[Updated] 2024 Approved  Elevating Your Instagram Post Visibility and Interaction</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-the-solo-artists-roadmap-to-auditory-fame/"><u>[Updated] In 2024, The Solo Artist's Roadmap to Auditory Fame</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-samsung-galaxy-s23-fe-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Samsung Galaxy S23 FE Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-art-and-technique-of-professional-android-time-lapses-for-2024/"><u>[New] The Art and Technique of Professional Android Time-Lapses for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-perfect-playback-top-strategies-to-record-and-share-your-vr-experiences-for-2024/"><u>The Perfect Playback  Top Strategies to Record and Share Your VR Experiences for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-comprehensive-look-at-vrs-strengths-and-weaknesses/"><u>In 2024, A Comprehensive Look at VR's Strengths and Weaknesses</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-on-your-apple-iphone-12-pro-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card on Your Apple iPhone 12 Pro Apple ID and Apple Pay</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Avoiding Wasted Games: Replacing Nintendo Joy-Con Joysticks"
-date: 2024-06-22 20:33:28
-updated: 2024-06-24 12:51:47
+date: 2024-06-25T12:53:43.480Z
+updated: 2024-06-26T12:53:43.480Z
 tags:
   - games
 categories:
@@ -26,9 +26,9 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 
 ![Close up of Nintendo Switch Pikachu and Eevee Joy Cons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Close-up-of-Nintendo-Switch-Pikachu-and-Eeve-joy-cons.jpg)
 
- Once a Joy-Con has drift, there is little you can do to fix it. There are, however, several tricks you can try to[fix Joy-Con drift on your Nintendo Switch](https://www.makeuseof.com/ways-to-fix-joy-con-drift-nintendo-switch/) before you open it up and take matters into your own hands. The first thing you should try when you notice drift in your Joy-Con is to calibrate them using the calibration tool in the Switch’s menu. That may help for a while, but it is more of a Band-Aid and doesn’t fix the root of the issue.
+ Once a Joy-Con has drift, there is little you can do to fix it. There are, however, several tricks you can try to [fix Joy-Con drift on your Nintendo Switch](https://www.makeuseof.com/ways-to-fix-joy-con-drift-nintendo-switch/) before you open it up and take matters into your own hands. The first thing you should try when you notice drift in your Joy-Con is to calibrate them using the calibration tool in the Switch’s menu. That may help for a while, but it is more of a Band-Aid and doesn’t fix the root of the issue.
 
- You can also[send your Joy-Con away for a free repair](https://www.makeuseof.com/how-to-send-joy-cons-off-for-free-repair/) . This is a great service, but you aren’t guaranteed to receive the same Joy-Con back. So, if you send a limited edition pair, there is a chance you may get the classic red and blue Joy-Con back. Some gamers aren’t willing to take that risk.
+ You can also [send your Joy-Con away for a free repair](https://www.makeuseof.com/how-to-send-joy-cons-off-for-free-repair/) . This is a great service, but you aren’t guaranteed to receive the same Joy-Con back. So, if you send a limited edition pair, there is a chance you may get the classic red and blue Joy-Con back. Some gamers aren’t willing to take that risk.
 
  When all the above methods fail, learning how to replace your faulty joysticks yourself is the best option. It is worth noting, however, that doing so voids your warranty. But if your warranty has already run out, and you would rather fix your pair for around $10.00 rather than pay $79.99 for a new set, you don’t really have much to lose.
 
@@ -80,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 
 ![How to calibrate controller on Nintendo Switch Calibrate Control Sticks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/how-to-calibrate-controller-on-nintendo-switch-calibrate-control-sticks.jpg)
 
- As simple as replacing your joystick is, it's not ideal to have to repeat the process frequently. Make sure to regularly[clean your Nintendo Switch and Joy-Con](https://www.makeuseof.com/how-to-safely-clean-nintendo-switch-and-joy-cons/) to prevent dust buildup and increase the longevity of your joysticks.
+ As simple as replacing your joystick is, it's not ideal to have to repeat the process frequently. Make sure to regularly [clean your Nintendo Switch and Joy-Con](https://www.makeuseof.com/how-to-safely-clean-nintendo-switch-and-joy-cons/) to prevent dust buildup and increase the longevity of your joysticks.
 
 ## Say Goodbye to Joy-Con Drift Forever With This Guide
 
@@ -103,3 +103,23 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/5-ways-you-can-maintain-your-xbox-series-x-hardware/"><u>5 Ways You Can Maintain Your Xbox Series X Hardware</u></a></li>
+<li><a href="https://games-able.techidaily.com/android-application-transition-to-linux-devices/"><u>Android Application Transition to Linux Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-the-secrets-of-ps5-power-up/"><u>Unlocking the Secrets of PS5 Power-Up</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-game-changing-keyboards/"><u>The Ultimate Guide to Game-Changing Keyboards</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-controller-enabled-phone-games-selection/"><u>Top Controller-Enabled Phone Games Selection</u></a></li>
+<li><a href="https://games-able.techidaily.com/comprehending-xbox-protective-sheets/"><u>Comprehending Xbox Protective Sheets</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplifying-your-xbox-odin-game-pass-edition/"><u>Simplifying Your Xbox ODIN: Game Pass Edition</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-list-youtube-alternatives-for-video-creators-for-2024/"><u>The Ultimate List  YouTube Alternatives for Video Creators for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-excellent-envoys-top-laptops-to-edit-videos-in-4k/"><u>2024 Approved  Excellent Envoys  Top Laptops to Edit Videos in 4K</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-the-ultimate-audio-editors-handbook-extracting-and-enhancing-sound-without-the-surrounding-noise/"><u>In 2024, The Ultimate Audio Editors Handbook Extracting and Enhancing Sound without the Surrounding Noise</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-crafting-the-perfect-introduction-15-viral-youtube-video-intros/"><u>In 2024, Crafting the Perfect Introduction  15 Viral YouTube Video Intros</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-tecno-spark-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-a-step-by-step-process-to-remove-audio-in-mp4-videos/"><u>New In 2024, A Step-by-Step Process to Remove Audio in MP4 Videos</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/enhancing-viewer-experience-vertical-videos-in-final-cut-pro-x/"><u>Enhancing Viewer Experience  Vertical Videos in Final Cut Pro X</u></a></li>
+</ul></div>

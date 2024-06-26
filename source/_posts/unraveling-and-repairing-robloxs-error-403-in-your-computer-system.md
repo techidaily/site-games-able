@@ -1,7 +1,7 @@
 ---
 title: Unraveling and Repairing Roblox's Error 403 in Your Computer System
-date: 2024-06-20 21:16:13
-updated: 2024-06-23 11:45:30
+date: 2024-06-25T13:33:28.998Z
+updated: 2024-06-26T13:33:28.998Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/b9ef13db0d4015b8f432338d38cc3c79dffc2187f
 
 ## What Is Roblox Error Code 403?
 
- Nowadays, it's almost impossible to find a game without issues, and[Roblox](https://www.makeuseof.com/what-is-roblox-why-is-everyone-talking-about-it/) is no different. The error code 403 is very common in Roblox, and you will see this upon clicking the Play button.
+ Nowadays, it's almost impossible to find a game without issues, and [Roblox](https://www.makeuseof.com/what-is-roblox-why-is-everyone-talking-about-it/) is no different. The error code 403 is very common in Roblox, and you will see this upon clicking the Play button.
 
  Alongside this error code, you will usually get a note saying, "An error was encountered during authentication. Please try again.". This error means that you don't have permission to access the page.
 
@@ -33,11 +33,9 @@ thumbnail: https://thmb.techidaily.com/b9ef13db0d4015b8f432338d38cc3c79dffc2187f
 
  Now, let's check out all the working fixes to eliminate the error code and get into gaming again.
 
-## 1\. Check the Roblox Server Status
+## 1\. Check the Roblox Server Status ![Roblox Server status in server page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Roblox-Server-page.jpg)
 
-![Roblox Server status in server page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Roblox-Server-page.jpg)
-
- The first port of call is to visit the[Roblox server status page](https://status.roblox.com/pages/59db90dbcdeb2f04dadcf16d) . Roblox is a multiplayer game; therefore, it's very common for its servers to undergo maintenance now and then.
+ The first port of call is to visit the [Roblox server status page](https://status.roblox.com/pages/59db90dbcdeb2f04dadcf16d) . Roblox is a multiplayer game; therefore, it's very common for its servers to undergo maintenance now and then.
 
  Whenever Roblox servers are under maintenance or facing downtime, you'll encounter various issues, including the one in the discussion. The best thing you can do in this situation is to wait until the servers become operational again.
 
@@ -50,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/b9ef13db0d4015b8f432338d38cc3c79dffc2187f
  To delete the content of the Roblox cache folder, follow the below instructions:
 
 1. Press the**Win + X** hotkeys to open the**Power menu.**
-2. Choose the**Run** option from the menu list. Alternatively, you can press the**Win + R** hotkeys to[open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
+2. Choose the**Run** option from the menu list. Alternatively, you can press the**Win + R** hotkeys to [open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
 3. In the search bar, type**%localappdata%** and click**OK.** It'll open the**Local** folder, which contains the cache folder of all the installed applications.
 4. Search and open the**Roblox** folder.  
 ![Roblox folder in local folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Roblox-folder.jpg)
@@ -92,15 +90,15 @@ After the scan is complete, check for the issue.
 
 ## 5\. Allow Roblox to Run Through Firewall
 
- Oftentimes, online games like Roblox might fail to work and throw error 403 by facing interuption from Windows Firewall. To fix this issue, you'll have to allow Roblox to run through the Windows Firewall. You can check out how to do that on our guide on[how to allow apps through Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) .
+ Oftentimes, online games like Roblox might fail to work and throw error 403 by facing interuption from Windows Firewall. To fix this issue, you'll have to allow Roblox to run through the Windows Firewall. You can check out how to do that on our guide on [how to allow apps through Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) .
 
  After that, restart your computer and check if the issue presists. If not, try the next solution on the list.
 
 ## 6\. Switch to Google DNS
 
- Your ISP will likely have its own[DNS server](https://www.makeuseof.com/tag/what-is-dns-server/) , but probably it isn't the most stable option available. In this case, you can switch to a DNS provider.
+ Your ISP will likely have its own [DNS server](https://www.makeuseof.com/tag/what-is-dns-server/) , but probably it isn't the most stable option available. In this case, you can switch to a DNS provider.
 
- While there are plenty of[great DNS service providers for added safety](https://www.makeuseof.com/tag/best-dns-providers-security/) , Google DNS is considered the fastest among all. To switch to Google DNS, follow the below steps:
+ While there are plenty of [great DNS service providers for added safety](https://www.makeuseof.com/tag/best-dns-providers-security/) , Google DNS is considered the fastest among all. To switch to Google DNS, follow the below steps:
 
 1. Open the Power Menu, and then choose**Network Connections** from the menu list.
 2. Choose**Advanced network settings.**
@@ -118,7 +116,7 @@ After the scan is complete, check for the issue.
 
  Another quick way to solve the issue is to make few registry edits and give the required persmissions to the important folders. Here's how to do that:
 
- Before proceeding, don't forget to[back up the registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) so you have something to revert to if something goes wrong.
+ Before proceeding, don't forget to [back up the registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) so you have something to revert to if something goes wrong.
 
 1. Open the Start Menu, type**regedit** and press Enter.
 2. In the Registry Editor, right click on the**HKEY\_CURRENT\_USER** folder in the left pane, and choose**Permissions** from the context menu.  
@@ -147,3 +145,27 @@ After the scan is complete, check for the issue.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/affordable-entertainment-navigating-costs-with-series-sx/"><u>Affordable Entertainment: Navigating Costs with Series S/X</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-console-or-computer-playing-style-duel/"><u>Ultimate Console or Computer? Playing Style Duel</u></a></li>
+<li><a href="https://games-able.techidaily.com/joystick-journey-console-to-pc-conversion-made-easy-137-chars/"><u>Joystick Journey: Console-to-PC Conversion Made Easy (137 Chars)</u></a></li>
+<li><a href="https://games-able.techidaily.com/rekindling-the-joy-of-play-with-these-six-ideas/"><u>Rekindling the Joy of Play with These Six Ideas</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-4-ios-superior-game-boy-advance-emulators/"><u>Top 4 iOS: Superior Game Boy Advance Emulators!</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-steam-deck-selection/"><u>Mastering the Art of Steam Deck Selection</u></a></li>
+<li><a href="https://games-able.techidaily.com/pushing-limits-upgrade-pc-csgo-performance/"><u>Pushing Limits: Upgrade PC CS:GO Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/intel-stream-assist-unraveled-a-game-changer-in-streaming/"><u>Intel Stream Assist Unraveled: A Game-Changer in Streaming?</u></a></li>
+<li><a href="https://games-able.techidaily.com/scaling-up-efficient-strategies-for-funding-steam-games/"><u>Scaling Up: Efficient Strategies for Funding Steam Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/sonys-subscription-service-assessing-its-monthly-cost/"><u>Sony's Subscription Service: Assessing Its Monthly Cost</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-a-new-era-of-creativity-pinpointing-the-best-10-budget-friendly-video-art-communities-on-youtube/"><u>2024 Approved  A New Era of Creativity  Pinpointing the Best 10 Budget-Friendly Video Art Communities on YouTube</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-top-screen-recorders-compiled-for-windows-11-users-15/"><u>[New] 2024 Approved  Top Screen Recorders Compiled for Windows 11 Users (#15)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-novice-level-nft-production-with-precision/"><u>[New] Navigating Novice-Level NFT Production with Precision</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Google Pixel Fold? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-this-article-discusses-what-is-hitfilm-express-how-to-download-install-and-use-it-and-its-key-features-it-further-discusses-its-alternative-fo/"><u>2024 Approved This Article Discusses What Is Hitfilm Express, How to Download, Install and Use It, and Its Key Features. It Further Discusses Its Alternative for Editing Your Videos and More. Check Out Now</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-your-essential-top-10-playlist/"><u>[New] Your Essential Top 10 Playlist</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-ultimate-guide-to-record-games-on-windows-10-pc/"><u>[Updated] Ultimate Guide to Record Games on Windows 10 PC</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-xs-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot iPhone XS Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-screen-saving-snapchat-memories-on-phone/"><u>[New] 2024 Approved  Screen Saving Snapchat Memories on Phone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-honor-magic-6-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Honor Magic 6 FRP</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "CrossOver Instructions: Full BG3 Experience for macOS Users"
-date: 2024-06-25T10:42:08.591Z
-updated: 2024-06-26T10:42:08.591Z
+date: 2024-06-25T12:48:36.670Z
+updated: 2024-06-26T12:48:36.670Z
 tags:
   - games
 categories:
@@ -30,17 +30,15 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
  What separates CrossOver from Parallels is that CrossOver isn’t an emulator; CrossOver is a ‘translator’ that changes macOS commands to Windows commands. Therefore, we strongly recommend you use CrossOver for a game as demanding as Baldur’s Gate 3.
 
- If you use an Intel Mac, you don’t need a virtual machine to run Baldur’s Gate 3\. You can[run Windows 11 natively on the Mac](https://www.makeuseof.com/tag/run-windows-10-natively-mac-good-bad-ugly/) and download the game there.
+ If you use an Intel Mac, you don’t need a virtual machine to run Baldur’s Gate 3\. You can [run Windows 11 natively on the Mac](https://www.makeuseof.com/tag/run-windows-10-natively-mac-good-bad-ugly/) and download the game there.
 
- The process for setting up CrossOver is quite long, so we’ve detailed it in our guide on[how to play Windows games on a Mac using CrossOver](https://www.makeuseof.com/how-to-play-windows-games-on-an-apple-silicon-mac-using-crossover/) . But summarily, you need to install CrossOver, then install a Steam bottle (or environment), and then download and install DXVK and DirectX into the bottle. Everything is detailed in the above guide.
+ The process for setting up CrossOver is quite long, so we’ve detailed it in our guide on [how to play Windows games on a Mac using CrossOver](https://www.makeuseof.com/how-to-play-windows-games-on-an-apple-silicon-mac-using-crossover/) . But summarily, you need to install CrossOver, then install a Steam bottle (or environment), and then download and install DXVK and DirectX into the bottle. Everything is detailed in the above guide.
 
 ![Steam information page in CrossOver-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steam-information-page-in-crossover-1.jpeg)
 
  Once that’s done, log in to Steam with your details and install Baldur’s Gate 3 from your library. As soon as it’s done, you can attempt to run it.
 
-## Run Baldur’s Gate 3 With CrossOver
-
-![Baldur's Gate 3 page in the Steam library on CrossOver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-page-in-the-steam-library-on-crossover.jpeg)
+## Run Baldur’s Gate 3 With CrossOver ![Baldur's Gate 3 page in the Steam library on CrossOver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-page-in-the-steam-library-on-crossover.jpeg)
 
  Baldur’s Gate 3 should run the moment you click**Play** , but in some cases, it might not. What you should do is find Baldur’s Gate 3 on the left side menu and**Control** \-click (secondary-click) it to open the context menu. Go to**Manage > Browse Local Files** .
 

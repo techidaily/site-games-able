@@ -1,7 +1,7 @@
 ---
 title: Older PCs Reimagined with AtlasOS
-date: 2024-06-25T10:47:39.407Z
-updated: 2024-06-26T10:47:39.407Z
+date: 2024-06-25T12:48:40.125Z
+updated: 2024-06-26T12:48:40.125Z
 tags:
   - games
 categories:
@@ -22,11 +22,11 @@ thumbnail: https://thmb.techidaily.com/dfd36bdece1f9de4c3b950ac0cec685d6ee5d1281
 
  Despite being originally lighter than their ancestors, both Windows 10 and Windows 11 became increasingly bloated with each update. From ads you don't care about to apps and services you never use, the latest and fully updated Windows demand more from your PC than before. And the creators of AtlasOS decided to do something about it.
 
- Unlike Linux distributions, which are the base for a whole different software ecosystem and expect you to jump through some hoops to[run Windows software and games](https://www.makeuseof.com/how-to-play-windows-games-on-linux/) , AtlasOS is Windows, literally. With AtlasOS, you aren't installing a new OS on your computer but modifying an existing version of Windows 10 or 11 "to lighten it up" and remove all its fluff.
+ Unlike Linux distributions, which are the base for a whole different software ecosystem and expect you to jump through some hoops to [run Windows software and games](https://www.makeuseof.com/how-to-play-windows-games-on-linux/) , AtlasOS is Windows, literally. With AtlasOS, you aren't installing a new OS on your computer but modifying an existing version of Windows 10 or 11 "to lighten it up" and remove all its fluff.
 
  The project describes itself as "a transparent and streamlined modification of Windows, designed to maximize your system's performance and optimize latency". It achieves that by reconfiguring Windows' own installation, prioritizing what's needed for gaming, and minimizing (or altogether getting rid of) everything else.
 
- You could try micromanaging your PC by[changing the priority level for your programs](https://www.makeuseof.com/windows-11-set-program-priority/) or[automating CPU thread management with an app like Process Lasso](https://www.makeuseof.com/process-lasso-take-control-of-cpu-threads/) . Or you could try[overclocking your PC](https://www.makeuseof.com/best-cpu-overclocking-software/) to push it over its usual limits.
+ You could try micromanaging your PC by [changing the priority level for your programs](https://www.makeuseof.com/windows-11-set-program-priority/) or [automating CPU thread management with an app like Process Lasso](https://www.makeuseof.com/process-lasso-take-control-of-cpu-threads/) . Or you could try [overclocking your PC](https://www.makeuseof.com/best-cpu-overclocking-software/) to push it over its usual limits.
 
  Still, AtlasOS may be a better choice for many people. It automatically frees up more resources than you could ever do manually by removing even Windows features & turning off non-essential services. Also, it doesn't affect your hardware in any way that could potentially damage it.
 
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/dfd36bdece1f9de4c3b950ac0cec685d6ee5d1281
 
  If you're using Windows 11, you'll have to wait for a new version of AtlasOS that's underway for that OS—it might be available by the time you're reading this. Otherwise, you'll have to downgrade to Windows 10 or perform a fresh installation of Microsoft's previous OS to use it.
 
-1. Visit[AtlasOS official site](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fatlasos.net%2F) and click on**Getting started** .  
+1. Visit [AtlasOS official site](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fatlasos.net%2F) and click on**Getting started** .  
 ![AtlasOS Official Site](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-official-site.jpg)
 2. Select the version of AtlasOS you want to download. As mentioned above, up to the time of writing, only**Atlas Windows 10** was available, with Atlas Windows 11 "coming soon".  
 ![AtlasOS Download Version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-download-version.jpg)
@@ -49,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/dfd36bdece1f9de4c3b950ac0cec685d6ee5d1281
 
  Although AtlasOS doesn't install a brand-new version of Windows and shouldn't affect your data or installed apps, it is a radical collection of tweaks for Windows to the point it feels like an alternative OS.
 
- Thus, although your data and apps should be safe, it's always best to back up everything in such scenarios. It's even better to also[take a full OS backup using a tool like Macrium Reflect](https://www.makeuseof.com/windows-backup-macrium-reflect-guide/) to ensure you'll be able to return to your "normal" Windows in case you decide AtlasOS isn't for you.
+ Thus, although your data and apps should be safe, it's always best to back up everything in such scenarios. It's even better to also [take a full OS backup using a tool like Macrium Reflect](https://www.makeuseof.com/windows-backup-macrium-reflect-guide/) to ensure you'll be able to return to your "normal" Windows in case you decide AtlasOS isn't for you.
 
 ## Preparing the AtlasOS Setup
 

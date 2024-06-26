@@ -1,7 +1,7 @@
 ---
 title: Keep Steam Titles Under Wraps
-date: 2024-06-23 14:52:55
-updated: 2024-06-24 10:42:31
+date: 2024-06-25T13:28:34.094Z
+updated: 2024-06-26T13:28:34.095Z
 tags:
   - games
 categories:
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
 
 ## Steam Now Lets You Set Games as Private
 
- Steam announced on the[Steam News Hub](https://store.steampowered.com/news/collection/steam/?emclan=103582791457287600&emgid=4149575031731807335) that the Private Apps feature is now out of beta, meaning that as soon as you log into Steam again, you should have access to it. But what does setting a game as private on Steam do?
+ Steam announced on the [Steam News Hub](https://store.steampowered.com/news/collection/steam/?emclan=103582791457287600&emgid=4149575031731807335) that the Private Apps feature is now out of beta, meaning that as soon as you log into Steam again, you should have access to it. But what does setting a game as private on Steam do?
 
  According to Steam, games marked as private will only be visible to you. In the past, the only way to keep friends from seeing the games you play was to mark your entire library as private (which was overkill if you only wanted to hide a few titles).
 
@@ -68,11 +68,11 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
 
  You can also head to your library to remove a game from your private items. Right-click on the title and then select**Manage > Unmark as Private** .
 
- You should also keep in mind that if you[enabled a custom playing status on Discord](https://www.makeuseof.com/set-custom-playing-status-discord/) , a private Steam game will still show up on Discord while you're playing it.
+ You should also keep in mind that if you [enabled a custom playing status on Discord](https://www.makeuseof.com/set-custom-playing-status-discord/) , a private Steam game will still show up on Discord while you're playing it.
 
 ## Don't Mix Up Private Games and Hidden Games on Steam
 
- When you right-clicked on a title in your library, you might have noticed an existing option to**Hide this game** . This, however, is a separate feature that simply hides a game from your own library menu—it remains visible if friends search through your games list. This means that the feature is essentially an organization feature to[get rid of games on your Steam account](https://www.makeuseof.com/tag/how-to-finally-get-rid-of-games-from-your-steam-account/) rather than a privacy feature.
+ When you right-clicked on a title in your library, you might have noticed an existing option to**Hide this game** . This, however, is a separate feature that simply hides a game from your own library menu—it remains visible if friends search through your games list. This means that the feature is essentially an organization feature to [get rid of games on your Steam account](https://www.makeuseof.com/tag/how-to-finally-get-rid-of-games-from-your-steam-account/) rather than a privacy feature.
 
  If you've been using the wrong feature to try making your games private, you can find all your hidden games in your library. If you remember the name of the specific title, you can search for it and it will show up under a hidden tab.
 
@@ -99,3 +99,27 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/reclaiming-your-gaming-experience-via-steam-remote-on-windows/"><u>Reclaiming Your Gaming Experience via Steam Remote on Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/google-play-betas-top-10-pc-games-a-must-try-list/"><u>Google Play Beta's Top 10 PC Games - A Must-Try List</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719167632937-gaming-excellence-achieved-with-oled-technology/"><u>Gaming Excellence Achieved with OLED Technology.</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-apple-arcade-for-your-next-favorite-game/"><u>Navigating Apple Arcade for Your Next Favorite Game</u></a></li>
+<li><a href="https://games-able.techidaily.com/patents-role-in-the-lack-of-discs-for-xbox-s/"><u>Patent's Role in the Lack of Discs for Xbox S</u></a></li>
+<li><a href="https://games-able.techidaily.com/opera-gx-and-edge-showdown-deciding-on-top-gaming-browsers/"><u>Opera GX and Edge Showdown: Deciding on Top Gaming Browsers</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-portables-to-televisions-embracing-playnites-fullscreen/"><u>From Portables to Televisions: Embracing Playnite's Fullscreen</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfect-harmony-assembling-android-devices-and-controllers/"><u>Perfect Harmony: Assembling Android Devices and Controllers</u></a></li>
+<li><a href="https://games-able.techidaily.com/are-larger-game-companies-stifling-the-markets-health-market-analysis-special-episode/"><u>Are Larger Game Companies Stifling the Market's Health? [Market Analysis Special Episode]</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-button-controls-android-games-via-controller-mapping/"><u>Mastering Button Controls: Android Games via Controller Mapping</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-procam-hd-series-for-surveillance/"><u>[New] ProCam HD Series for Surveillance</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-getting-a-video-editor-app-for-your-chromebook-from-a-google-play-store-is-now-possiblein-this-article-we-will-recommend-the-best-best-andro/"><u>Updated In 2024, Getting a Video Editor App for Your Chromebook From a Google Play Store Is Now possible.In This Article, We Will Recommend the Best Best Android Video Editor Apps for Chromebook and How to Install It</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premium-applications-for-animating-3d-scenes/"><u>Premium Applications for Animating 3D Scenes</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-fbx-gaming-record-your-adventure/"><u>In 2024, FBX Gaming  Record Your Adventure</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-deep-dive-into-the-world-of-high-dynamic-range-portraits/"><u>[Updated] A Deep Dive Into the World of High Dynamic Range Portraits</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/revolutionizing-your-phones-storage-space-with-these-47-effective-video-trimmers-for-2024/"><u>Revolutionizing Your Phone's Storage Space with These 47 Effective Video Trimmers for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-efficient-methods-for-producing-and-perfecting-multiple-snaps/"><u>[Updated] In 2024, Efficient Methods for Producing & Perfecting Multiple Snaps</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-elevate-your-content-game-best-practices-for-mac-based-tiktok-intros/"><u>[New] In 2024, Elevate Your Content Game  Best Practices for Mac-Based TikTok Intros</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-crafting-sound-saturated-instagram-visuals/"><u>[Updated] Crafting Sound-Saturated Instagram Visuals</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-step-by-step-guide-to-instagram-leadership/"><u>[New] Step-by-Step Guide to Instagram Leadership</u></a></li>
+</ul></div>

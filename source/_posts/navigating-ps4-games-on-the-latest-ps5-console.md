@@ -1,7 +1,7 @@
 ---
 title: Navigating PS4 Games on the Latest PS5 Console
-date: 2024-06-23 12:31:14
-updated: 2024-06-24 10:51:39
+date: 2024-06-25T12:49:31.823Z
+updated: 2024-06-26T12:49:31.823Z
 tags:
   - games
 categories:
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/d4a369170dd24048d49b11ae6cda29b689bc2d38a
 
 ## Can I Play PS4 Games on My PS5?
 
- If you have been wondering[if the PS5 is backward compatible](https://www.makeuseof.com/is-ps5-backward-compatible/) , the short answer is, yes. For the most part, you can play most of your old PS4 games on your PS5\. Some even offer free or discounted upgrades to the PS5 version to make your PS4 games better than they ever were before.
+ If you have been wondering [if the PS5 is backward compatible](https://www.makeuseof.com/is-ps5-backward-compatible/) , the short answer is, yes. For the most part, you can play most of your old PS4 games on your PS5\. Some even offer free or discounted upgrades to the PS5 version to make your PS4 games better than they ever were before.
 
  There are, however, some PS4 games that will not work on the PS5\. The selection of non-playable games pales in comparison to the list of games that are cross-gen, however, so the likelihood of a PS4 game not working on your PS5 is slim.
 
@@ -43,15 +43,13 @@ thumbnail: https://thmb.techidaily.com/d4a369170dd24048d49b11ae6cda29b689bc2d38a
 
  There are a couple of ways to play PS4 games on your PS5\. The first is by inserting and installing PS4 game discs into your PS5, and the second is by re-downloading your previously purchased digital PS4 titles.
 
-### 1\. Play PS4 Games on Your PS5 Using the Disc Drive
-
-![playstation 4 game disc boxes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/playstation-4-game-disc-boxes.jpg)
+### 1\. Play PS4 Games on Your PS5 Using the Disc Drive ![playstation 4 game disc boxes](https://thmb.techidaily.com/92449e9d9f3ee8946cb03a78041d2307431f0fc5eaad89567c354cd2fc066c4c.jpg)
 
  charnsitr/[Shutterstock](https://www.shutterstock.com/image-photo/bangkok-thailand-october-19-2016-pile-520391851)
 
  Using the disc drive is the simplest and easiest way to play PS4 games on your PS5, but it does come with a catch. This method will only work if your PS5 has a disc drive.
 
- The PS5 Digital Edition does not have a disc drive, so take your PS4 library into consideration when you are deciding[which PS5 version to buy](https://www.makeuseof.com/ps5-vs-ps5-digital-edition-which-to-buy/) . If you opt for the cheaper, digital PS5 and have a large collection of physical PS4 games, you will be unable to play them on your new console.
+ The PS5 Digital Edition does not have a disc drive, so take your PS4 library into consideration when you are deciding [which PS5 version to buy](https://www.makeuseof.com/ps5-vs-ps5-digital-edition-which-to-buy/) . If you opt for the cheaper, digital PS5 and have a large collection of physical PS4 games, you will be unable to play them on your new console.
 
  To play physical PS4 games on your PS5, take your game of choice and insert it into your PS5\. Once your PS5 has read the disc, it will start copying the data onto your console for you.
 
@@ -81,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/d4a369170dd24048d49b11ae6cda29b689bc2d38a
 
 ![Download PS4 Games onto PS5 via PS Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/download-ps4-games-onto-ps5-via-ps-account-1.jpg)
 
- If you would rather save your console's internal storage for PS5 games, you can also store and[play PS4 games on your PS5 from an external hard drive](https://www.makeuseof.com/how-to-play-ps4-games-on-ps5-external-hard-drive/) .
+ If you would rather save your console's internal storage for PS5 games, you can also store and [play PS4 games on your PS5 from an external hard drive](https://www.makeuseof.com/how-to-play-ps4-games-on-ps5-external-hard-drive/) .
 
 ## What’s the Difference Between PS4 Games and PS4 Games With PS5 Upgrades?
 
@@ -128,3 +126,24 @@ thumbnail: https://thmb.techidaily.com/d4a369170dd24048d49b11ae6cda29b689bc2d38a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/gaming-giants-collide-ps5-vs-xbox-series-x-battle/"><u>Gaming Giants Collide - PS5 V/S Xbox Series X Battle</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-tactical-approach-to-choosing-an-elgato-stream-deck/"><u>A Tactical Approach to Choosing an Elgato Stream Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/examining-xbox-encasements/"><u>Examining Xbox Encasements</u></a></li>
+<li><a href="https://games-able.techidaily.com/premier-designated-floor-covers-s-offices/"><u>Premier Designated Floor Covers 'S Offices</u></a></li>
+<li><a href="https://games-able.techidaily.com/uniting-epic-and-steam-step-by-step-guide/"><u>Uniting Epic & Steam: Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-game-with-top-10-pc-picks-google-play/"><u>Elevate Your Game with Top 10 PC Picks (Google Play)</u></a></li>
+<li><a href="https://games-able.techidaily.com/ryzen-rivalry-which-cpu-leads-in-gaming/"><u>Ryzen Rivalry: Which CPU Leads in Gaming?</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-secret-to-thriving-in-fortnite-on-a-mac/"><u>The Secret to Thriving in Fortnite on a Mac</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/conjuring-chrono-displacement-with-digital-magic-for-2024/"><u>Conjuring Chrono-Displacement with Digital Magic for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-how-to-stream-on-twitch-the-ultimate-guide-for-2024/"><u>New How to Stream on Twitch The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-stop-automated-post-proposals-on-instagram/"><u>[Updated] Stop Automated Post Proposals on Instagram</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-navigating-the-path-of-validation-becoming-a-confirmed-disco-member/"><u>[Updated] In 2024, Navigating the Path of Validation  Becoming a Confirmed Disco Member</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/nikons-d500-takes-on-4k-clarity-and-quality/"><u>Nikon's D500 Takes on 4K Clarity and Quality</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/melodic-mobile-alerts-download-classical-ringtones-here/"><u>Melodic Mobile Alerts  Download Classical Ringtones Here</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-nokia-c22-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Nokia C22</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-scripting-summative-stories/"><u>[New] Scripting Summative Stories</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-5-excellent-video-conference-devices-for-professionals-for-2024/"><u>[New] 5 Excellent Video Conference Devices for Professionals for 2024</u></a></li>
+</ul></div>

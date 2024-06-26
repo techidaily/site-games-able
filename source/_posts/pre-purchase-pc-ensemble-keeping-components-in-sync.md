@@ -1,7 +1,7 @@
 ---
 title: Pre-Purchase PC Ensemble - Keeping Components in Sync
-date: 2024-06-20 10:50:14
-updated: 2024-06-23 10:49:45
+date: 2024-06-25T13:04:07.808Z
+updated: 2024-06-26T13:04:07.808Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/181c9294f45ce68f5f0d47527972b22bf8dde75db
 
 ## 1\. PCPartPicker
 
- Top of any PC hardware compatibility list is always[PCPartPicker](ttps://pcpartpicker.com) . It's the ultimate go-to for anyone building a new PC or considering a hardware upgrade. It's filled with a vast array of PC hardware, and you can use it to build out a whole configuration or to check if two parts work together.
+ Top of any PC hardware compatibility list is always [PCPartPicker](ttps://pcpartpicker.com) . It's the ultimate go-to for anyone building a new PC or considering a hardware upgrade. It's filled with a vast array of PC hardware, and you can use it to build out a whole configuration or to check if two parts work together.
 
 ![pcpartpicker muo example pc build](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/pcpartpicker-muo-example-pc-build.jpg)
 
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/181c9294f45ce68f5f0d47527972b22bf8dde75db
 
 ## 4\. Newegg Custom PC Builder
 
- PCPartPicker tops the list because it's[the biggest and best of the PC hardware compatibility bunch](https://www.makeuseof.com/best-custom-pc-builder-website/) , but the[Newegg Custom PC Builder](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.newegg.com%2Ftools%2Fcustom-pc-builder) is also worth a shout.
+ PCPartPicker tops the list because it's [the biggest and best of the PC hardware compatibility bunch](https://www.makeuseof.com/best-custom-pc-builder-website/) , but the [Newegg Custom PC Builder](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.newegg.com%2Ftools%2Fcustom-pc-builder) is also worth a shout.
 
  Now, what makes the Newegg Custom PC Builder a great option is the integration of its Build With AI tool, which you can use to build up a PC with compatible parts quickly. Alternatively, you can still select individual components, which Newegg streamlines for compatibility with each selection.
 
@@ -58,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/181c9294f45ce68f5f0d47527972b22bf8dde75db
 
 ## 5\. Google Bard (Or Another Internet-Connected AI Chatbot)
 
- The world's leading AI chatbot, ChatGPT, doesn't have direct internet access. Or rather, it did, but it has been switched off at the time of writing. But that's no problem because we can[turn to Google's Bard AI chatbot instead](https://www.makeuseof.com/how-to-use-google-bard/) to help check if our hardware is compatible.
+ The world's leading AI chatbot, ChatGPT, doesn't have direct internet access. Or rather, it did, but it has been switched off at the time of writing. But that's no problem because we can [turn to Google's Bard AI chatbot instead](https://www.makeuseof.com/how-to-use-google-bard/) to help check if our hardware is compatible.
 
  You can use Bard to help check PC hardware compatibility in two ways. First, you can straight-up ask Bard to create a custom PC build for you, making sure each part is compatible.
 
@@ -66,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/181c9294f45ce68f5f0d47527972b22bf8dde75db
 
  Bard suggested the following build for a PC that can "play FPS games at least 1080p 60FPS" with "a high-end CPU and good GPU."
 
-* **CPU** : I[ntel Core i5-12600KF](https://www.amazon.com/Intel-i5-12600KF-Desktop-Processor-Unlocked/dp/B09FXFJW2F?linkCode=ll1&tag=muo-v2-53vo5f4-20&linkId=1a6fdfcfd07f1dc95f9124bd1a532c0a&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU2027728&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fways-check-pc-parts-compatible-before-buy%2F&asc%5Fcampaign=Evergreen)
+* **CPU** : I [ntel Core i5-12600KF](https://www.amazon.com/Intel-i5-12600KF-Desktop-Processor-Unlocked/dp/B09FXFJW2F?linkCode=ll1&tag=muo-v2-53vo5f4-20&linkId=1a6fdfcfd07f1dc95f9124bd1a532c0a&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU2027728&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fways-check-pc-parts-compatible-before-buy%2F&asc%5Fcampaign=Evergreen)
 * **GPU** :[Nvidia GeForce RTX 3060 Ti](https://www.amazon.com/ZOTAC-Graphics-IceStorm-Advanced-ZT-A30610H-10MLHR/dp/B097YW4FW9?linkCode=ll1&tag=muo-v2-53vo5f4-20&linkId=29be074a28fff6a50ef8308da83d8f66&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU2027728&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fways-check-pc-parts-compatible-before-buy%2F&asc%5Fcampaign=Evergreen)
 * **RAM** : Crucial Ballistix 16GB DDR4-3200 (2x8GB)
 * **Storage** :[Samsung 970 EVO Plus NVMe SSD](https://www.amazon.com/Samsung-970-EVO-Plus-MZ-V7S1T0B/dp/B07MFZY2F2?linkCode=ll1&tag=muo-v2-53vo5f4-20&linkId=b0a93347f049d255d129b29b8a31bae2&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU2027728&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fways-check-pc-parts-compatible-before-buy%2F&asc%5Fcampaign=Evergreen) \+ Seagate 1TB HDD
@@ -75,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/181c9294f45ce68f5f0d47527972b22bf8dde75db
 * **Case** :[Fractal Design Meshify C](https://www.amazon.com/Fractal-Design-FD-CA-MESH-C-BKO-TG-Case/dp/B074PGBGHW?linkCode=ll1&tag=muo-v2-53vo5f4-20&linkId=2988a0d9b367f61961482a1a79e14c47&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU2027728&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fways-check-pc-parts-compatible-before-buy%2F&asc%5Fcampaign=Evergreen)
 * **Operating System** : Windows 11
 
- I added the components to PCPartPicker (yes, it's worth checking the compatibility!), and the build comes to £1,200-ish (check the[PCParkPicker build list](https://uk.pcpartpicker.com/user/gavinspavin/saved/#view=zgbfpg) ). Bard did forget one thing though: a CPU cooler!
+ I added the components to PCPartPicker (yes, it's worth checking the compatibility!), and the build comes to £1,200-ish (check the [PCParkPicker build list](https://uk.pcpartpicker.com/user/gavinspavin/saved/#view=zgbfpg) ). Bard did forget one thing though: a CPU cooler!
 
  Consider also that Bard doesn't know or understand the prices of its suggestions. Although the build above comes to around £1,200, I asked it for another custom PC with a maximum budget of £1,500—but it downgraded the CPU and GPU despite having more headroom for better hardware (it could have suggested a higher specced 12th-Gen Intel CPU and an Nvidia GeForce RTX 3070 GPU).
 
@@ -87,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/181c9294f45ce68f5f0d47527972b22bf8dde75db
 
 ## 6\. Power Supply Calculator
 
- A power supply unit (PSU) calculator is a handy tool that helps you figure out the size of PSU your custom PC will need. There are[several power supply unit calculators](https://www.makeuseof.com/best-online-power-supply-calculators/) , including options from OuterVision, Cooler Master, and Be Quiet!, all of which can help you figure out what you need.
+ A power supply unit (PSU) calculator is a handy tool that helps you figure out the size of PSU your custom PC will need. There are [several power supply unit calculators](https://www.makeuseof.com/best-online-power-supply-calculators/) , including options from OuterVision, Cooler Master, and Be Quiet!, all of which can help you figure out what you need.
 
 ## 7\. Forums and Communities
 
@@ -115,3 +115,27 @@ thumbnail: https://thmb.techidaily.com/181c9294f45ce68f5f0d47527972b22bf8dde75db
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/correcting-minecraft-launcher-malfunction-code-0x803f8001/"><u>Correcting Minecraft Launcher Malfunction: Code 0X803F8001</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-boldness-masterful-frame-rate-strategies/"><u>Boosting Boldness: Masterful Frame Rate Strategies</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-streaming-your-desktop-adventures-to-steam-deck/"><u>Step-by-Step: Streaming Your Desktop Adventures to Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-step-by-step-checklist-before-you-purchase-your-ps5/"><u>A Step-by-Step Checklist: Before You Purchase Your PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-value-of-switchs-online-service/"><u>Navigating the Value of Switch's Online Service</u></a></li>
+<li><a href="https://games-able.techidaily.com/power-up-strategies-maximizing-your-gaming-experience-on-docked-devices/"><u>Power-Up Strategies: Maximizing Your Gaming Experience on Docked Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/ceasing-your-routine-steam-commitments/"><u>Ceasing Your Routine Steam Commitments</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-different-perspective-6-arguments-against-mac-for-gaming/"><u>A Different Perspective: 6 Arguments Against Mac for Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-accoutrement-assortment-for-a-top-tier-steam-deck-experience/"><u>The Ultimate Accoutrement Assortment for a Top-Tier Steam Deck Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovation-leaders-makeuseof-and-mwc-2024-honors/"><u>Innovation Leaders: MakeUseOf & MWC 2024 Honors</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-a-beginner-friendly-introduction-to-io-screen-recorder/"><u>[Updated] 2024 Approved  A Beginner-Friendly Introduction to IO Screen Recorder</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-s17-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo S17 Pro Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/navigating-social-media-streams-iphone-and-android-best-practices-for-2024/"><u>Navigating Social Media Streams  IPhone & Android Best Practices for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-sifting-through-success-identifying-top-10-youtube-entities-with-highest-subs/"><u>In 2024, Sifting Through Success  Identifying Top 10 YouTube Entities with Highest Subs</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-vivo-s17e-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Vivo S17e? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/revolutionizing-virtual-meetings-hacks-for-effective-zoom-chats/"><u>Revolutionizing Virtual Meetings  Hacks for Effective Zoom Chats</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-xiaomi-redmi-note-13-pro-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Xiaomi Redmi Note 13 Pro 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-explore-and-relish-top-sandbox-journeys/"><u>[Updated] 2024 Approved  Explore and Relish Top Sandbox Journeys</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-a79-5g-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Oppo A79 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-cut-trim-and-edit-the-best-video-software-for-pc-and-online-for-2024/"><u>New Cut, Trim, and Edit The Best Video Software for PC and Online for 2024</u></a></li>
+</ul></div>

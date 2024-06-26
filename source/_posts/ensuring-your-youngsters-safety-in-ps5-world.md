@@ -1,7 +1,7 @@
 ---
 title: Ensuring Your Youngster's Safety in PS5 World
-date: 2024-06-23 11:37:37
-updated: 2024-06-24 11:11:36
+date: 2024-06-25T13:13:48.709Z
+updated: 2024-06-26T13:13:48.709Z
 tags:
   - games
 categories:
@@ -22,25 +22,25 @@ thumbnail: https://thmb.techidaily.com/0ab25ce0bb8d4ab2078e845cda986fa9a30d3de55
 
  First, you should create a child account for your minor and add that account to the PS5\. This account will set the default content restriction based on the age of the account user.
 
- As an adult, you must first have your own PSN account. If you don’t have one, you can read our guide on[how to create a PSN account](https://www.makeuseof.com/how-to-create-playstation-network-account/) for assistance. You’ll also need a valid credit or debit card and an email address for your child.
+ As an adult, you must first have your own PSN account. If you don’t have one, you can read our guide on [how to create a PSN account](https://www.makeuseof.com/how-to-create-playstation-network-account/) for assistance. You’ll also need a valid credit or debit card and an email address for your child.
 
 Here’s how to set up a child account:
 
 1. Go to**Settings** (the top-right gear icon) and choose**Family and Parental Controls** .
 2. Select**Family Management** and log into your PSN account.  
 ![Add Family Member page on the PS5 with a QR Code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/add-family-member-page-on-the-ps5-with-a-qr-code.JPG)
-3. After you’re logged in, scan the QR code to add a family member using your phone. Alternatively, you can visit the[PSN family management page](https://www.playstation.com/acct/family) on your computer.
+3. After you’re logged in, scan the QR code to add a family member using your phone. Alternatively, you can visit the [PSN family management page](https://www.playstation.com/acct/family) on your computer.
 4. Choose**Set Up Now** and select**Add a Child** .
 5. Enter the child’s birthday.  
 ![Add a Child sub-window on the PSN website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/add-a-child-sub-window-on-the-psn-website.jpeg)
-6. Sony will ask you to pay $0.50 to confirm you’re an adult. You need only pay this once—even for adding subsequent kids—and Sony will credit your PlayStation wallet with the $0.50\. If you’ve never added a payment method to PSN, read our guide on[adding funds and buying games on the PS5](https://www.makeuseof.com/add-psn-wallet-funds-and-buy-games-on-ps5/) .
+6. Sony will ask you to pay $0.50 to confirm you’re an adult. You need only pay this once—even for adding subsequent kids—and Sony will credit your PlayStation wallet with the $0.50\. If you’ve never added a payment method to PSN, read our guide on [adding funds and buying games on the PS5](https://www.makeuseof.com/add-psn-wallet-funds-and-buy-games-on-ps5/) .
 7. Enter an email address and password for the account.  
 ![Add a Child sub-window asking for an email address and password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/add-a-child-sub-window-asking-for-an-email-address-and-password.jpeg)
 8. Choose**Confirm** on each page till you finish.
 
  You don’t need to worry about all the options you see while setting up the child account. You can always change it from the PSN Family panel or from the**Family and Parental Controls** section of the PS5’s settings.
 
- Next, you have to add the child to your PS5\. To do that, you must[create an account on your PS5](https://www.makeuseof.com/how-to-add-a-new-ps5-user-and-guest-account/) using the email you provided for the child.
+ Next, you have to add the child to your PS5\. To do that, you must [create an account on your PS5](https://www.makeuseof.com/how-to-add-a-new-ps5-user-and-guest-account/) using the email you provided for the child.
 
 ## 2\. Use Preset or Custom Content Restriction Levels
 
@@ -60,7 +60,7 @@ You can set age restrictions for the following options:
 * PS5, PS4, and PS3 games and apps.
 * Blu-ray discs and DVDs.
 * PlayStation VR2 and PlayStation VR.
-* Web browsing (even though[the PS5’s web browser is hidden and limited](https://www.makeuseof.com/access-web-browser-on-ps5/) ).
+* Web browsing (even though [the PS5’s web browser is hidden and limited](https://www.makeuseof.com/access-web-browser-on-ps5/) ).
 * Communication and user-generated content.
 * Online content.
 
@@ -70,7 +70,7 @@ You can set age restrictions for the following options:
 
  Console restrictions are a group of features on the PS5 that allows you to control how users can create accounts on the PS5\. A smart kid can bypass your content restrictions by simply creating a new account on the PS5 to use instead of the child account you created for them. Or they could log into an adult account if you haven’t set a passcode on it.
 
- Therefore, the first thing you should do is[set up user passcodes for your PS5 accounts](https://www.makeuseof.com/how-to-set-up-ps5-passcode/) . After that, you have to set up console restrictions, which use a separate passcode from your user passcode. In case your child gets access to your account, they still won’t be able to tinker with the restrictions you’ve set.
+ Therefore, the first thing you should do is [set up user passcodes for your PS5 accounts](https://www.makeuseof.com/how-to-set-up-ps5-passcode/) . After that, you have to set up console restrictions, which use a separate passcode from your user passcode. In case your child gets access to your account, they still won’t be able to tinker with the restrictions you’ve set.
 
 Here’s how to set up the console restrictions passcode:
 
@@ -150,3 +150,23 @@ Here’s how to do it:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/elevate-your-tech-game-4-key-advantages-of-corsair-icue-link/"><u>Elevate Your Tech Game - 4 Key Advantages of Corsair iCUE Link</u></a></li>
+<li><a href="https://games-able.techidaily.com/assessing-computing-efficiency-are-you-bottlenecked-by-cpu/"><u>Assessing Computing Efficiency: Are You Bottlenecked by CPU?</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-why-gamer-friendly-monitors-are-overrated/"><u>Exploring Why Gamer-Friendly Monitors Are Overrated</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-a-champion-critical-settings-to-customize-in-fps-games/"><u>Crafting a Champion: Critical Settings to Customize in FPS Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/ideal-multiplayer-console-titles-best-16-for-game-nights/"><u>Ideal Multiplayer Console Titles - Best 16 for Game Nights</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-disconnect-patterns-for-xbox-players/"><u>Decoding Disconnect Patterns for Xbox Players</u></a></li>
+<li><a href="https://games-able.techidaily.com/reclaiming-spent-on-games-maximize-your-steam-returns/"><u>Reclaiming Spent on Games? Maximize Your Steam Returns</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-detailed-explanation-for-transforming-gender-display-in-instagram-facebook-and-snapchat-pictures-for-2024/"><u>[New] Detailed Explanation for Transforming Gender Display in Instagram, Facebook & Snapchat Pictures for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-galaxy-z-fold-5-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung Galaxy Z Fold 5</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-becoming-a-star-spectator-on-the-social-stage/"><u>[Updated] 2024 Approved  Becoming a Star Spectator on the Social Stage</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-apple-iphone-14-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On Apple iPhone 14</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-instantaneous-duo-recording-cam-plus-screen/"><u>[New] Instantaneous Duo Recording  Cam + Screen</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-craft-your-online-identity-with-customized-youtube-urls/"><u>[New] 2024 Approved  Craft Your Online Identity with Customized YouTube URLs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-nokia-xr21-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Nokia XR21</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-concurrent-display-archiving/"><u>2024 Approved  Concurrent Display Archiving</u></a></li>
+</ul></div>

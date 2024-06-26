@@ -1,7 +1,7 @@
 ---
 title: "Exploring PS5 Slim: Crucial Upgrades Exposed"
-date: 2024-06-22 16:47:59
-updated: 2024-06-24 11:48:22
+date: 2024-06-25T12:56:31.838Z
+updated: 2024-06-26T12:56:31.838Z
 tags:
   - games
 categories:
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/5a88545795b5ca3ae26e7c947a2bcf90d0830b425
 
  Since the PlayStation 5 launched in 2019, you have had two options. The physical edition, which is a bit pricier but holds a disc tray as past consoles have, or the digital edition, which is cheaper but doesn't feature a disc tray.
 
- Now, as announced on[the PlayStation Blog](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/?sf269561474=1) , there's going to be a new model for both versions; which is smaller and more compact with an optional disc-drive add-on. Launching in November 2023 in the US, you can expect to purchase this from select retail stores (to be announced closer to the date) as well as from[direct.playstation.com](http://direct.playstation.com) .
+ Now, as announced on [the PlayStation Blog](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/?sf269561474=1) , there's going to be a new model for both versions; which is smaller and more compact with an optional disc-drive add-on. Launching in November 2023 in the US, you can expect to purchase this from select retail stores (to be announced closer to the date) as well as from [direct.playstation.com](http://direct.playstation.com) .
 
  If you're not in the US, you'll have to wait a little longer to get your hands on one of these new, slimmer PS5s. Sony has announced that it will be rolling out the new PS5 model to other countries in "the following months", but the wording is deliberately vague.
 
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/5a88545795b5ca3ae26e7c947a2bcf90d0830b425
 
 ## When Can You Expect the "PS5 Slim"?
 
- As previously noted, the "PS5 Slim" is launching in the US in November 2023, with rollout to other countries happening in "the following months". There are many[reasons why the PlayStation 5 should be your next console](https://www.makeuseof.com/why-ps5-should-be-your-next-console/) , and if you're buying one, you may as well buy the latest model.
+ As previously noted, the "PS5 Slim" is launching in the US in November 2023, with rollout to other countries happening in "the following months". There are many [reasons why the PlayStation 5 should be your next console](https://www.makeuseof.com/why-ps5-should-be-your-next-console/) , and if you're buying one, you may as well buy the latest model.
 
  Depending on the model you go for, the "PS5 Slim" will cost between $449.99 and $499.99, which is similar in price to what the original models launched at.
 
@@ -65,3 +65,23 @@ thumbnail: https://thmb.techidaily.com/5a88545795b5ca3ae26e7c947a2bcf90d0830b425
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/gaming-dilemma-sonys-console-vs-inexpensive-pc/"><u>Gaming Dilemma: Sony's Console vs Inexpensive PC?</u></a></li>
+<li><a href="https://games-able.techidaily.com/struggle-your-way-through-frustrating-fiddly-games/"><u>Struggle Your Way Through Frustrating Fiddly Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/uniting-play-step-by-step-guide-for-controller-linkage/"><u>Uniting Play: Step-by-Step Guide for Controller Linkage</u></a></li>
+<li><a href="https://games-able.techidaily.com/pros-and-cons-of-each-steam-deck-model/"><u>Pros and Cons of Each Steam Deck Model</u></a></li>
+<li><a href="https://games-able.techidaily.com/enter-the-battlefield-top-10-immersive-online-fps-browser-games/"><u>Enter the Battlefield: Top 10 Immersive Online FPS Browser Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/solving-steam-network-not-available-problem/"><u>Solving Steam Network Not Available Problem</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-game-tech-that-really-counts/"><u>Unveiling Game Tech That Really Counts</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-the-ultimate-guide-to-simple-iphone-screencasting/"><u>[Updated] In 2024, The Ultimate Guide to Simple iPhone Screencasting</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-uniting-visuals-and-vocals-decomposing-media-files-in-imovie-for-macos-for-2024/"><u>Updated Uniting Visuals and Vocals Decomposing Media Files in iMovie for macOS for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/capture-perfection-5-expert-tips-for-games-and-live-footage-for-2024/"><u>Capture Perfection  5 Expert Tips for Games & Live Footage for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-unbiased-review-of-videopad-video-editor-features-performance-and-value/"><u>2024 Approved Unbiased Review of Videopad Video Editor Features, Performance, and Value</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/make-a-lasting-impression-5-leading-photo-slideshow-software-for-2024/"><u>Make a Lasting Impression 5 Leading Photo Slideshow Software for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tricks-and-tips-for-mastering-your-new-win11-experience/"><u>In 2024, Tricks & Tips for Mastering Your New Win11 Experience</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-mp4-play-on-galaxy-a15-4g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Does MP4 play on Galaxy A15 4G?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/itel-s23-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Itel S23 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-plus-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 Plus Passcode without iTunes without Knowing Passcode?</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: A Guide to Unlocking Every Steam Badge
-date: 2024-06-25T10:42:52.301Z
-updated: 2024-06-26T10:42:52.301Z
+date: 2024-06-25T12:48:37.146Z
+updated: 2024-06-26T12:48:37.146Z
 tags:
   - games
 categories:
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/c6a00ed9bc739f2f19c543f786366f0b15e1dcc95
 
  While not officially endorsed by Steam, SAM has seen widespread use since 2008, remaining functional with very few updates.
 
- To download SAM, visit the[GitHub page](https://github.com/gibbed/SteamAchievementManager) for Steam Achievement Manager. The program comes as a .zip download, so make sure you know[how to unzip files in Windows 10](https://www.makeuseof.com/unzip-files-windows-10/) if that's what you're using. If you're using something else, such as Linux on a Steam Deck, there are alternatives that we'll get into later on in the guide.
+ To download SAM, visit the [GitHub page](https://github.com/gibbed/SteamAchievementManager) for Steam Achievement Manager. The program comes as a .zip download, so make sure you know [how to unzip files in Windows 10](https://www.makeuseof.com/unzip-files-windows-10/) if that's what you're using. If you're using something else, such as Linux on a Steam Deck, there are alternatives that we'll get into later on in the guide.
 
 ## Could I Get Banned for Using Steam Achievement Manager?
 
@@ -40,9 +40,7 @@ thumbnail: https://thmb.techidaily.com/c6a00ed9bc739f2f19c543f786366f0b15e1dcc95
 
  It's up to you to decide if the risk, however minimal, is worth it. If it is, read on to find out how to use SAM.
 
-## 1\. Getting Started With Steam Achievement Manager
-
-![screenshot of steam achievement manager extracted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/screenshot_of_steam_achievement_manager_extracted_to_folder.jpg)
+## 1\. Getting Started With Steam Achievement Manager ![screenshot of steam achievement manager extracted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/screenshot_of_steam_achievement_manager_extracted_to_folder.jpg)
 
  Once you've extracted the files, you should be left with two executables.
 
@@ -50,21 +48,17 @@ thumbnail: https://thmb.techidaily.com/c6a00ed9bc739f2f19c543f786366f0b15e1dcc95
 
  Once you've launched the program, it's time to scan and find some games.
 
-## 2\. Scan and Find Your Games
-
-![screenshot of steam achievement manager main page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/screenshot_of_steam_achievement_manager_main_page_1.jpg)
+## 2\. Scan and Find Your Games ![screenshot of steam achievement manager main page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/screenshot_of_steam_achievement_manager_main_page_1.jpg)
 
  Scanning will occur automatically on launching the program. It may take up to half a minute to complete if this is your first time opening the program.
 
 SAM should display all the games you have connected to your account.
 
- Don't see a game? Head over to the[SteamDB page](https://steamdb.info/apps/) and search for the game you're after. You can then copy and paste the**AppID** into the blank field next to**Add Game** . Hit that same button and SAM will pull up the game you're looking for.
+ Don't see a game? Head over to the [SteamDB page](https://steamdb.info/apps/) and search for the game you're after. You can then copy and paste the**AppID** into the blank field next to**Add Game** . Hit that same button and SAM will pull up the game you're looking for.
 
- Still having problems? It might be worthwhile ensuring the game is installed and detected on Steam. Check out our[troubleshooting guide on Steam failing to recognize installed games for more help](https://www.makeuseof.com/steam-not-recognizing-installed-games-fix/) .
+ Still having problems? It might be worthwhile ensuring the game is installed and detected on Steam. Check out our [troubleshooting guide on Steam failing to recognize installed games for more help](https://www.makeuseof.com/steam-not-recognizing-installed-games-fix/) .
 
-## 3\. Find and Select Your Achievements
-
-![screenshot of steam achievement manager showing apex legends achievements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/screenshot_of_steam_achievement_manager_apex_achievements_page.jpg)
+## 3\. Find and Select Your Achievements ![screenshot of steam achievement manager showing apex legends achievements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/screenshot_of_steam_achievement_manager_apex_achievements_page.jpg)
 
  Let's look at achievements for Apex Legends. After selecting your game from the list, or pulling it up with the AppID, SAM will bring up a list of all the achievements available for that title.
 
@@ -78,15 +72,13 @@ SAM should display all the games you have connected to your account.
 
  Note that you can also lock achievements over again using this same method. Just deselect the achievements instead.
 
-## Steam Achievement Manager for the Steam Deck
+## Steam Achievement Manager for the Steam Deck ![screenshot of steam achievement manager on steam deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_steam_achievement_manager_on_steam_deck.jpg)
 
-![screenshot of steam achievement manager on steam deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_steam_achievement_manager_on_steam_deck.jpg)
-
- If you're using a Steam Deck, you're still able to follow this method, just with a few adjustments. You'll need to[ensure you're up to speed with using the desktop mode on the Steam Deck](https://www.makeuseof.com/how-to-use-steam-deck-as-a-desktop-replacement/) , and then follow the steps from this guide, with a few differences.
+ If you're using a Steam Deck, you're still able to follow this method, just with a few adjustments. You'll need to [ensure you're up to speed with using the desktop mode on the Steam Deck](https://www.makeuseof.com/how-to-use-steam-deck-as-a-desktop-replacement/) , and then follow the steps from this guide, with a few differences.
 
  You'll be using a fork of the Steam Achievement Manager made specially for Linux systems. This means you can disregard the first step regarding .exe files and just launch the program, but everything else will be the same.
 
- Get that from the[GitHub page](https://github.com/PaulCombal/SamRewritten) for SAM Rewritten. If you run into problems with the main download, find a version specially made for Steam Decks in the[comments section of the GitHub page](https://github.com/PaulCombal/SamRewritten/pull/142#issuecomment-1336530106) .
+ Get that from the [GitHub page](https://github.com/PaulCombal/SamRewritten) for SAM Rewritten. If you run into problems with the main download, find a version specially made for Steam Decks in the [comments section of the GitHub page](https://github.com/PaulCombal/SamRewritten/pull/142#issuecomment-1336530106) .
 
 ## Get All the Steam Achievements With None of the Work
 

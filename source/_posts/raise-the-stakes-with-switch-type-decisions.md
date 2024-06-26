@@ -1,7 +1,7 @@
 ---
 title: Raise the Stakes with SWITCH Type Decisions
-date: 2024-06-23 16:45:52
-updated: 2024-06-24 12:21:54
+date: 2024-06-25T13:11:28.055Z
+updated: 2024-06-26T13:11:28.055Z
 tags:
   - games
 categories:
@@ -34,9 +34,7 @@ thumbnail: https://thmb.techidaily.com/c88c76635d5e0629581e4fd4108916cee892ed1d4
 
 So, which is better for gaming?
 
-## Optical Switches vs. Mechanical Switches
-
-![Mechanical keyboard with back-lighting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/vipul-jha-a4X1cdC1QAc-unsplash.jpg)
+## Optical Switches vs. Mechanical Switches ![Mechanical keyboard with back-lighting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/vipul-jha-a4X1cdC1QAc-unsplash.jpg)
 
  There are a few important aspects of mechanical switches you must consider when deciding which is better for gaming, including:
 
@@ -53,7 +51,7 @@ Let's take a look at these four factors in closer detail.
 
  Leading mechanical switch manufacturer Cherry MX similarly rates its switches for 100m keystrokes, which is directly comparable to optical switches. However, that's Cherry; other mechanical keyboard switch brands, such as Kailh and Gatereon, typically deliver up to 60m keystrokes.
 
- Keep in mind, though, 60 million keystrokes equate to around 10 to 15 years of intense gaming or typing, which is probably going to be long enough for most people to feel they've made a good purchasing decision. Don't forget[hot-swappable keyboards allow you to swap out](https://www.makeuseof.com/why-you-need-hot-swappable-mechanical-keyboard/) the keyboard switches, so in the event you wear a switch out, you can just pop a new one in.
+ Keep in mind, though, 60 million keystrokes equate to around 10 to 15 years of intense gaming or typing, which is probably going to be long enough for most people to feel they've made a good purchasing decision. Don't forget [hot-swappable keyboards allow you to swap out](https://www.makeuseof.com/why-you-need-hot-swappable-mechanical-keyboard/) the keyboard switches, so in the event you wear a switch out, you can just pop a new one in.
 
 ### Speed
 
@@ -61,7 +59,7 @@ Let's take a look at these four factors in closer detail.
 
  Mechanical switches have around a five-millisecond debounce delay. Optical switches, on the other hand, don't suffer from this delay, which means optical switches will generally have around 5 ms faster response time. However, the jury is still out on whether or not this small increase in speed results in better performance while gaming.
 
- Other than that, the reaction speed of optical switches appears to depend largely on the manufacturer. The breadwinners seem to be the[Razer Clicky Optical Purple](https://razer.a9yw.net/c/119570/642901/10229?subId1=UUmuoUeUpU2004621&subId2=emuo&u=https%3A%2F%2Fwww.razer.com%2Fgb-en%2Frazer-optical-switch) switches. These are touted as some of the fastest keys on the market and are around 30ms faster than the fastest Cherry MX keys.
+ Other than that, the reaction speed of optical switches appears to depend largely on the manufacturer. The breadwinners seem to be the [Razer Clicky Optical Purple](https://razer.a9yw.net/c/119570/642901/10229?subId1=UUmuoUeUpU2004621&subId2=emuo&u=https%3A%2F%2Fwww.razer.com%2Fgb-en%2Frazer-optical-switch) switches. These are touted as some of the fastest keys on the market and are around 30ms faster than the fastest Cherry MX keys.
 
 ### Feel and Noisiness
 
@@ -73,17 +71,15 @@ Let's take a look at these four factors in closer detail.
 
  However, this is beginning to change, and many manufacturers offer at least a few alternatives.
 
- The[Razer Huntsman](https://www.amazon.com/Razer-Huntsman-Tournament-Tenkeyless-Keyboard/dp/B07V25YPVW?linkCode=ll1&tag=muo-v2-2jbrk02-20&linkId=5b69344691c987a7fdf2e0c9ed994455&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU2004621&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Foptical-vs-mechanical-switches-best-for-gaming%2F&asc%5Fcampaign=Evergreen) series offers the Razer Linear Optical Reds and the Razer Clicky Optical Purples. Gateron also has several options, including Gateron Optical Black, Blue, Brown, and Red, each with characteristics similar to their mechanical counterparts.
+ The [Razer Huntsman](https://www.amazon.com/Razer-Huntsman-Tournament-Tenkeyless-Keyboard/dp/B07V25YPVW?linkCode=ll1&tag=muo-v2-2jbrk02-20&linkId=5b69344691c987a7fdf2e0c9ed994455&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU2004621&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Foptical-vs-mechanical-switches-best-for-gaming%2F&asc%5Fcampaign=Evergreen) series offers the Razer Linear Optical Reds and the Razer Clicky Optical Purples. Gateron also has several options, including Gateron Optical Black, Blue, Brown, and Red, each with characteristics similar to their mechanical counterparts.
 
-### Price and Availability
-
-![Sleek mechanical keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/jay-zhang-XX8zaI3XbvE-unsplash.jpg)
+### Price and Availability ![Sleek mechanical keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/jay-zhang-XX8zaI3XbvE-unsplash.jpg)
 
  Because there are dozens of manufacturers and types of mechanical keys, you're likely to find a mechanical keyboard you like fairly easily. You can also modify most mechanical keysets to make them louder, quieter, quicker, or last longer. As mentioned above, buying a hot-swappable mechanical keyboard makes this process much easier, as you won't have to desolder the switches before changing or silencing them.
 
- Now, while there aren't as many optical keyboards compared to mechanical ones, the number of top-quality optical boards has increased. You can now find excellent optical keyboards such as the[Corsair K100](https://www.amazon.com/Corsair-K100-Mechanical-Gaming-Keyboard/dp/B08HR68MQZ?linkCode=ll1&tag=muo-v2-2jbrk02-20&linkId=23638b63479cce034fb8bee791143ce1&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU2004621&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Foptical-vs-mechanical-switches-best-for-gaming%2F&asc%5Fcampaign=Evergreen) ,[Keychron K8](https://www.keychron.com/products/keychron-k8-tenkeyless-wireless-mechanical-keyboard?variant=39515068956761) , and[Roccat Vulcan TKL Pro](https://www.amazon.com/ROCCAT-Vulcan-Compact-Optical-Keyboard/dp/B08J4DGBB9?linkCode=ll1&tag=muo-v2-2jbrk02-20&linkId=b16daf181c950078b96fbd7a45f2251a&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU2004621&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Foptical-vs-mechanical-switches-best-for-gaming%2F&asc%5Fcampaign=Evergreen) .
+ Now, while there aren't as many optical keyboards compared to mechanical ones, the number of top-quality optical boards has increased. You can now find excellent optical keyboards such as the [Corsair K100](https://www.amazon.com/Corsair-K100-Mechanical-Gaming-Keyboard/dp/B08HR68MQZ?linkCode=ll1&tag=muo-v2-2jbrk02-20&linkId=23638b63479cce034fb8bee791143ce1&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU2004621&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Foptical-vs-mechanical-switches-best-for-gaming%2F&asc%5Fcampaign=Evergreen) ,[Keychron K8](https://www.keychron.com/products/keychron-k8-tenkeyless-wireless-mechanical-keyboard?variant=39515068956761) , and [Roccat Vulcan TKL Pro](https://www.amazon.com/ROCCAT-Vulcan-Compact-Optical-Keyboard/dp/B08J4DGBB9?linkCode=ll1&tag=muo-v2-2jbrk02-20&linkId=b16daf181c950078b96fbd7a45f2251a&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU2004621&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Foptical-vs-mechanical-switches-best-for-gaming%2F&asc%5Fcampaign=Evergreen) .
 
- Finally, there are plenty of[excellent budget gaming mechanical keyboards](http://www.makeuseof.com/best-budget-gaming-keyboards/) to choose from, whereas a good set of optical keys generally only comes with a mid-to-high price keyboard. So mechanical switches definitely win when it comes to price.
+ Finally, there are plenty of [excellent budget gaming mechanical keyboards](http://www.makeuseof.com/best-budget-gaming-keyboards/) to choose from, whereas a good set of optical keys generally only comes with a mid-to-high price keyboard. So mechanical switches definitely win when it comes to price.
 
 ## Which Should You Buy: Optical or Mechanical Switches?
 
@@ -114,3 +110,24 @@ Let's take a look at these four factors in closer detail.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/top-white-gadgets-cost-effective-pc-parts-of-the-year/"><u>Top White Gadgets: Cost-Effective PC Parts of the Year</u></a></li>
+<li><a href="https://games-able.techidaily.com/in-gaming-is-everyone-for-the-big-boys-episode-review/"><u>In Gaming, Is Everyone for the Big Boys? [Episode Review]</u></a></li>
+<li><a href="https://games-able.techidaily.com/transforming-your-virtual-reality-with-ps-vr2-accessories/"><u>Transforming Your Virtual Reality with PS VR2 Accessories</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-shutting-off-reduces-noise-pollution/"><u>How Shutting Off Reduces Noise Pollution</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-pc-management-4-indispensable-advantages-in-corsairs-icue-link/"><u>Transform PC Management: 4 Indispensable Advantages in Corsair’s iCUE Link</u></a></li>
+<li><a href="https://games-able.techidaily.com/stepping-up-to-excellent-steam-deck-input/"><u>Stepping Up to Excellent Steam Deck Input</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-breakthrough-in-mobile-gaming-with-latest-app/"><u>Nvidia’s Breakthrough in Mobile Gaming with Latest App</u></a></li>
+<li><a href="https://games-able.techidaily.com/solving-component-requirements-met-issue-in-windows-1111-pro/"><u>Solving Component Requirements Met Issue in Windows 11/11 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-iphone-se-2022-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock iPhone SE (2022) with iTunes</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-oppo-find-x7-ultra-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Oppo Find X7 Ultra Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/monetization-milestone-the-500-subscriber-trick/"><u>Monetization Milestone  The 500-Subscriber Trick</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-learn-the-art-of-engaging-video-startups-with-imovie/"><u>2024 Approved  Learn the Art of Engaging Video Startups with iMovie</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/image-illumination-incor-writings-on-visual-canvases-online/"><u>Image Illumination  Incor Writings on Visual Canvases Online</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-the-complete-tutorial-on-using-autotune-with-audacity-users/"><u>Updated In 2024, The Complete Tutorial on Using Autotune with Audacity Users</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/2024-approved-web-based-video-editing-platforms-for-vertical-content-creators/"><u>2024 Approved Web-Based Video Editing Platforms for Vertical Content Creators</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-blender-a-video-editor-for-every-professional/"><u>Updated In 2024, Blender - A Video Editor for Every Professional</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-storyline-secret-to-youtube-triumph/"><u>[New] The Storyline Secret to YouTube Triumph</u></a></li>
+</ul></div>

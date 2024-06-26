@@ -1,7 +1,7 @@
 ---
 title: Gaming Without the Chair Cushion
-date: 2024-06-25T10:42:19.276Z
-updated: 2024-06-26T10:42:19.276Z
+date: 2024-06-25T12:48:36.779Z
+updated: 2024-06-26T12:48:36.779Z
 tags:
   - games
 categories:
@@ -32,9 +32,7 @@ thumbnail: https://thmb.techidaily.com/f567a9fec699d773d0b269b2abfaf091f129a875a
 
  Because office chairs aren’t restricted to some “gaming” aesthetic, they are often designed more ergonomically than gaming chairs. Here are some gaming chair ergonomics pain points for me...
 
-### Race car Bucket Seat Design
-
-![a man playing pc games in a gaming chair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/a-man-playing-pc-games-in-a-gaming-chair.jpg)
+### Race car Bucket Seat Design ![a man playing pc games in a gaming chair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/a-man-playing-pc-games-in-a-gaming-chair.jpg)
 
  Standret/[Shutterstock](https://www.shutterstock.com/image-photo/next-gen-graphics-online-streamer-playing-2159933123)
 
@@ -52,23 +50,21 @@ thumbnail: https://thmb.techidaily.com/f567a9fec699d773d0b269b2abfaf091f129a875a
 
  Oddly enough, larger people may still struggle with gaming chairs because the bucket seat design is restrictive.
 
-### Bad Lumbar Support
-
-![Man in an office chair at a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/05/man-in-an-office-chair-at-a-desk.jpg)
+### Bad Lumbar Support ![Man in an office chair at a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/05/man-in-an-office-chair-at-a-desk.jpg)
 
  Dreamchild Obari/MakeUseOf
 
  Lumbar support is one of the key arguments for using ergonomic chairs. You may have heard it a lot as a buzzword in the ergonomic chair industry, but it boils down to supporting the natural curve of your spine.
 
- It’s important because good lumbar support will minimize back pain in those long gaming sessions. Additionally, it helps correct your sitting posture and reduces the risk of long-term problems arising from improper posture. I should add that good posture is a key tenet to[staying healthy as a gamer](https://www.makeuseof.com/tips-to-stay-healthy-as-a-gamer/) .
+ It’s important because good lumbar support will minimize back pain in those long gaming sessions. Additionally, it helps correct your sitting posture and reduces the risk of long-term problems arising from improper posture. I should add that good posture is a key tenet to [staying healthy as a gamer](https://www.makeuseof.com/tips-to-stay-healthy-as-a-gamer/) .
 
  If you look at the profile of most low-end gaming chairs, they have a long, straight back with a pillow as lumbar support. Give it a couple of hours, and that lumbar support pillow will flatten and take away what little lumbar support it provides.
 
- For gamers reading this who have some kind of back pain from using gaming chairs, it might be time to consider switching to an[office desk chair designed to prevent back pain](https://www.makeuseof.com/tag/the-5-best-office-chairs-you-can-buy-right-now/) . I use a mesh office chair with a curve that matches my spine, and it has helped improve the pain I developed from my gaming chair days.
+ For gamers reading this who have some kind of back pain from using gaming chairs, it might be time to consider switching to an [office desk chair designed to prevent back pain](https://www.makeuseof.com/tag/the-5-best-office-chairs-you-can-buy-right-now/) . I use a mesh office chair with a curve that matches my spine, and it has helped improve the pain I developed from my gaming chair days.
 
 ## 2 Gaming Chairs Are Cheaply Built and Overpriced
 
- I’ve seen this many times: a regular, not-so-great accessory is packaged with a “gaming” design and sold for a markup. It’s a popular marketing gimmick, and you may have noticed it yourself. Unfortunately, this is also often the case with gaming chairs. In fact, it’s a core[reason not to buy a gaming chair](https://www.makeuseof.com/dont-buy-a-gaming-chair-reasons-why/) .
+ I’ve seen this many times: a regular, not-so-great accessory is packaged with a “gaming” design and sold for a markup. It’s a popular marketing gimmick, and you may have noticed it yourself. Unfortunately, this is also often the case with gaming chairs. In fact, it’s a core [reason not to buy a gaming chair](https://www.makeuseof.com/dont-buy-a-gaming-chair-reasons-why/) .
 
  If you compared a $300 regular ergonomic office chair to a $300 - $500 gaming chair, you’d see that the office chair offers more by way of comfort and adjustability than its gaming counterpart. Additionally, in the category of budget-friendly ergonomic chairs, office chairs seem to be the ones with the better build quality these days.
 
@@ -78,9 +74,7 @@ thumbnail: https://thmb.techidaily.com/f567a9fec699d773d0b269b2abfaf091f129a875a
 
  Gaming chairs’ costs go into their metal frames and multi-colored upholsteries. However, while office chairs have more modest designs and plastics, they are better designed and cost less.
 
-## 3 An Office Chair Is Aesthetically Safer
-
-![Computer setup with a white office chair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/05/computer-setup-with-a-white-office-chair.jpg)
+## 3 An Office Chair Is Aesthetically Safer ![Computer setup with a white office chair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/05/computer-setup-with-a-white-office-chair.jpg)
 
  Dreamchild Obari/MakeUseOf
 

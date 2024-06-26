@@ -1,7 +1,7 @@
 ---
 title: Constraining Background Observations by Game Bar on OS 11
-date: 2024-06-25T10:48:10.411Z
-updated: 2024-06-26T10:48:10.411Z
+date: 2024-06-25T12:48:40.448Z
+updated: 2024-06-26T12:48:40.448Z
 tags:
   - games
 categories:
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/3f45b4986206d046cd956542a295fe465671e73b8
 6. Select**Never** in the dropdown menu under**Let this app run in the background** .  
 ![change the background app permissions for the xbox game bar app in the settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/change-the-background-app-permissions-for-the-xbox-game-bar-app-in-the-settings-app.jpg)
 
- Like disabling the Xbox Game Bar, you can tweak a few settings to[improve your gaming performance on Windows 10](https://www.makeuseof.com/tag/optimize-windows-10-gaming/) and[Windows 11](https://www.makeuseof.com/improve-gaming-experience-windows-11/) .
+ Like disabling the Xbox Game Bar, you can tweak a few settings to [improve your gaming performance on Windows 10](https://www.makeuseof.com/tag/optimize-windows-10-gaming/) and [Windows 11](https://www.makeuseof.com/improve-gaming-experience-windows-11/) .
 
 ## Don't Let the Xbox Game Bar Drain Your System Resources
 

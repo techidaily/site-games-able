@@ -1,7 +1,7 @@
 ---
 title: From Accessibility to Mastery with EA Play on Your PS5 Console
-date: 2024-06-22 14:57:33
-updated: 2024-06-24 10:15:36
+date: 2024-06-25T13:32:58.478Z
+updated: 2024-06-26T13:32:58.478Z
 tags:
   - games
 categories:
@@ -22,15 +22,15 @@ thumbnail: https://thmb.techidaily.com/d03c6bda0db9e446c0d9464753859ee1c2f12f38d
 
  Essentially, EA Play (once known as EA Access) is a subscription service for PlayStation and Xbox that offers select EA titles to “rent” while your subscription is on. It also gives you a 10% discount on some non-free titles, season passes, points packs, and DLCs. Lastly, EA Play membership will give you a free 10-hour early access trial to some EA games, and your progress will sync should you choose to buy the game.
 
- You can[get EA Play on PC through Xbox Game Pass](https://www.makeuseof.com/how-to-use-ea-play-xbox-game-pass-pc/) . But your subscription won’t carry over to PlayStation. EA Play on Xbox and PlayStation are not the same, and they offer different games.
+ You can [get EA Play on PC through Xbox Game Pass](https://www.makeuseof.com/how-to-use-ea-play-xbox-game-pass-pc/) . But your subscription won’t carry over to PlayStation. EA Play on Xbox and PlayStation are not the same, and they offer different games.
 
- EA Play on the PS5 is $4.99/month or $29.99/year, and it will grant you access to more than 50 games. This makes it way cheaper than any of the[PlayStation Plus subscription tiers](https://www.makeuseof.com/playstation-plus-essential-vs-extra-vs-premium/) . Judging solely by the number of games available, EA Play will give you more value than PlayStation Plus Essential ($9.99/month).
+ EA Play on the PS5 is $4.99/month or $29.99/year, and it will grant you access to more than 50 games. This makes it way cheaper than any of the [PlayStation Plus subscription tiers](https://www.makeuseof.com/playstation-plus-essential-vs-extra-vs-premium/) . Judging solely by the number of games available, EA Play will give you more value than PlayStation Plus Essential ($9.99/month).
 
- By the way, EA Play is one of the[ways you can get The Sim 4 for free](https://www.makeuseof.com/how-to-download-and-play-the-sims-4-for-free/) .
+ By the way, EA Play is one of the [ways you can get The Sim 4 for free](https://www.makeuseof.com/how-to-download-and-play-the-sims-4-for-free/) .
 
 ## How to Subscribe to EA Play on the PS5
 
- Trying to navigate your PS5 to pay for EA Play could be a little tricky. Before you begin, you must[add a card as a payment method on your PS5](https://www.makeuseof.com/add-psn-wallet-funds-and-buy-games-on-ps5/) (EA Play insists you have a card even though it will charge your wallet). So, we’ve detailed all the steps you should follow to successfully subscribe to it:
+ Trying to navigate your PS5 to pay for EA Play could be a little tricky. Before you begin, you must [add a card as a payment method on your PS5](https://www.makeuseof.com/add-psn-wallet-funds-and-buy-games-on-ps5/) (EA Play insists you have a card even though it will charge your wallet). So, we’ve detailed all the steps you should follow to successfully subscribe to it:
 
 1. Navigate to and select**PlayStation Store** from your PS5’s home.
 2. Tap**R1** till you reach the**Subscriptions** tab.
@@ -85,3 +85,24 @@ thumbnail: https://thmb.techidaily.com/d03c6bda0db9e446c0d9464753859ee1c2f12f38d
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/unbeatable-connectivity-choosing-top-ethernets/"><u>Unbeatable Connectivity: Choosing Top Ethernets</u></a></li>
+<li><a href="https://games-able.techidaily.com/uniting-epic-and-steam-step-by-step-guide/"><u>Uniting Epic & Steam: Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-titles-need-top-tech-for-optimal-play/"><u>Top Titles Need Top Tech for Optimal Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-9-tricks-for-optimal-nintendo-switch-play/"><u>Top 9 Tricks for Optimal Nintendo Switch Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-performance-in-shooter-games-through-sensitivity-tweaks/"><u>Boosting Performance in Shooter Games Through Sensitivity Tweaks</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-text-based-adventure-games-you-can-play-in-your-browser/"><u>5 Text-Based Adventure Games You Can Play in Your Browser</u></a></li>
+<li><a href="https://games-able.techidaily.com/peeling-back-layers-authenticity-in-fake-game-hype/"><u>Peeling Back Layers: Authenticity in Fake Game Hype</u></a></li>
+<li><a href="https://games-able.techidaily.com/online-games-unfolding-a-look-at-the-transformation/"><u>Online Games Unfolding: A Look at the Transformation</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/audioarchitect-designing-without-dacast-for-2024/"><u>AudioArchitect  Designing Without DaCast for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-xiaomi-redmi-note-13-proplus-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Xiaomi Redmi Note 13 Pro+ 5G Location | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-key-techniques-to-optimize-igtv-video-dimensions/"><u>[Updated] 2024 Approved  Key Techniques to Optimize IGTV Video Dimensions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-swift-restoration-retrieving-lost-fb-access/"><u>In 2024, Swift Restoration  Retrieving Lost FB Access</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-the-ultimate-guide-to-open-source-screencasting-tools/"><u>[Updated] 2024 Approved  The Ultimate Guide to Open-Source Screencasting Tools</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-leading-list-of-16-youtube-openers-for-audience-expansion/"><u>[Updated] Leading List of 16 YouTube Openers for Audience Expansion</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-innovative-mac-screen-recorders-top-picks-and-features-explored/"><u>[New] In 2024, Innovative Mac Screen Recorders  Top Picks & Features Explored</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-facebooks-viral-content-wave-leading-videos-of-2023-for-2024/"><u>[New] Facebook's Viral Content Wave - Leading Videos of 2023 for 2024</u></a></li>
+</ul></div>

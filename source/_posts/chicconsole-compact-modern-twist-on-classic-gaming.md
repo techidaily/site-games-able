@@ -1,7 +1,7 @@
 ---
 title: "ChicConsole Compact: Modern Twist on Classic Gaming"
-date: 2024-06-21 18:51:45
-updated: 2024-06-24 11:28:24
+date: 2024-06-25T13:33:41.964Z
+updated: 2024-06-26T13:33:41.964Z
 tags:
   - games
 categories:
@@ -121,7 +121,7 @@ Dual speakers, Bluetooth audio supported
 
 ## What Is a Retroid Pocket 3+?
 
- Playing old video games is as easy or as difficult as you want it to be. You could opt for a shrunk-down classic console like the NES Mini, or the curated cartridge collections of the[Evercade consoles](https://www.makeuseof.com/evercade-exp-review/) .
+ Playing old video games is as easy or as difficult as you want it to be. You could opt for a shrunk-down classic console like the NES Mini, or the curated cartridge collections of the [Evercade consoles](https://www.makeuseof.com/evercade-exp-review/) .
 
  Or you can get a bit more hands-on, select the ROMs you want to run, find the right emulator, and game like it’s 1989.
 
@@ -168,11 +168,11 @@ There’s even Nintendo GameCube and Wii support.
 * 3DO
 * Arcade titles via MAME, CPS (1, 2, and 3) and Final Burn Alpha
 
- Further emulation is possible across a wider selection of classic platforms (mostly computers) which rely on the touchscreen for keyboard access. Access to these is via RetroArch. The experience typically isn’t great here, especially when compared to[devices like the A500 Mini](https://www.makeuseof.com/amiga-a500-mini-review/) , but it’s good enough.
+ Further emulation is possible across a wider selection of classic platforms (mostly computers) which rely on the touchscreen for keyboard access. Access to these is via RetroArch. The experience typically isn’t great here, especially when compared to [devices like the A500 Mini](https://www.makeuseof.com/amiga-a500-mini-review/) , but it’s good enough.
 
  The Retroid Pocket 3+ also includes Steam Link and GameStream for streaming games from a suitably equipped PC, ScummVM for classic point-and-click adventure titles, and much more to help you enjoy games anywhere.
 
- Emulation of these platforms is available via the RetroidLauncher interface, which appears upon first launch. The Retroid community maintains an[online spreadsheet of tested games](https://docs.google.com/spreadsheets/u/0/d/1Vf7SIS7ecWa%5FJ301h0mb2bxMWBMtKLvcpAFyaa5-LDc/edit?usp=sharing&pli=1) .
+ Emulation of these platforms is available via the RetroidLauncher interface, which appears upon first launch. The Retroid community maintains an [online spreadsheet of tested games](https://docs.google.com/spreadsheets/u/0/d/1Vf7SIS7ecWa%5FJ301h0mb2bxMWBMtKLvcpAFyaa5-LDc/edit?usp=sharing&pli=1) .
 
 ## Console Design and Specification
 
@@ -224,7 +224,7 @@ There’s even Nintendo GameCube and Wii support.
 
  If you’re coming to the Retroid Pocket platform for the first time and want to play old games as quickly as possible, the Android app library is a good option. Various retro classics are available, from key entries in the Sega arcade pantheon to BANDAI NAMCO and Atari classics.
 
- Failing that, it also comes with Steam Link installed, for playing games over your network from a nearby PC. It’s almost as good as having a[Steam Deck](https://www.makeuseof.com/steam-deck-review-ultimate-portable-gaming-console/) (but not quite).
+ Failing that, it also comes with Steam Link installed, for playing games over your network from a nearby PC. It’s almost as good as having a [Steam Deck](https://www.makeuseof.com/steam-deck-review-ultimate-portable-gaming-console/) (but not quite).
 
 ## Retro Gaming and Gameplay on the Retroid Pocket 3+
 
@@ -269,3 +269,23 @@ There’s even Nintendo GameCube and Wii support.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/tips-for-keeping-your-game-passes-in-check-on-xsx/"><u>Tips for Keeping Your Game Passes in Check on XS/X</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-guide-to-mending-broken-xbox-series-xs/"><u>Master Guide to Mending Broken Xbox Series X|S</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-expert-move-dial-down-console-shaking/"><u>The Expert Move: Dial Down Console Shaking</u></a></li>
+<li><a href="https://games-able.techidaily.com/embrace-the-game-subscribe-and-optimize-ps5s-ea-play-experience/"><u>Embrace the Game: Subscribe & Optimize PS5's EA Play Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-game-magic-with-customizations-on-steam/"><u>Unlocking Game Magic with Customizations on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/visual-powerhouse-debate-oled-amoled-vs-ips-technology/"><u>Visual Powerhouse Debate: OLED, AMOLED Vs. IPS Technology</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-pros-and-cons-of-mobile-gaming/"><u>The Pros and Cons of Mobile Gaming</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-optimize-video-posts-a-comprehensive-crop-and-export-method/"><u>[Updated] In 2024, Optimize Video Posts  A Comprehensive Crop & Export Method</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-the-art-of-cross-platform-content-sharing/"><u>[Updated] 2024 Approved  The Art of Cross-Platform Content Sharing</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-things-to-consider-before-converting-your-music-files-to-video/"><u>Updated In 2024, Things to Consider Before Converting Your Music Files to Video</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/maximizing-your-footage-the-importance-of-correct-tripod-placement-in-vlogging/"><u>Maximizing Your Footage  The Importance of Correct Tripod Placement in Vlogging</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-top-11-youtube-video-rippers-to-download-youtube-videos-for-2024/"><u>[New] Top 11 YouTube Video Rippers to Download YouTube Videos for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-efficient-practices-archiving-google-voice-transcripts/"><u>[Updated] Efficient Practices  Archiving Google Voice Transcripts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-facebook-stories-downloader/"><u>[New] Facebook Stories Downloader</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-imovie-rhythms-crafting-audio-visual-symphony/"><u>[New] IMovie Rhythms  Crafting Audio-Visual Symphony</u></a></li>
+</ul></div>

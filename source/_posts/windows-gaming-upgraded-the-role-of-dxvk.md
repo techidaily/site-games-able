@@ -1,7 +1,7 @@
 ---
 title: "Windows Gaming Upgraded: The Role of DXVK"
-date: 2024-06-23 23:59:51
-updated: 2024-06-24 11:45:37
+date: 2024-06-25T12:50:55.585Z
+updated: 2024-06-26T12:50:55.585Z
 tags:
   - games
 categories:
@@ -34,13 +34,13 @@ thumbnail: https://thmb.techidaily.com/01edaba53137429381532b08b94562d4a741359e1
 
  Like OpenGL, and unlike Microsoft's Windows-bound Direct3D, Vulkan is "open" and cross-platform. You can use Vulkan on Windows, Linux, and even smartphones. Although not natively supported on Macs, it's usable there through MoltenVK.
 
- That was the short version. To learn more about Vulkan, check our article on[what Vulkan run time libraries are in Windows](https://www.makeuseof.com/tag/vulkan-run-time-libraries-windows/) .
+ That was the short version. To learn more about Vulkan, check our article on [what Vulkan run time libraries are in Windows](https://www.makeuseof.com/tag/vulkan-run-time-libraries-windows/) .
 
 ## What Is DXVK?
 
  DXVK is a wrapper, "translating" Direct3D to Vulkan. In the human world, a translator can be a mediator between an English and a Japanese speaker, enabling them to understand one another. Similarly, "wrappers", or "translation layers", can "take" code written for a specific piece of hardware, platform, or API, and translate it to run on another.
 
- DXVK was originally developed for Linux with support from Valve, which also uses it on SteamOS and the Steam Deck. You can learn more about that in our article where we saw[what is Steam Proton and how it runs Windows games on Steam Deck](https://www.makeuseof.com/what-is-steam-proton-how-does-it-run-windows-games-on-steam-deck/) .
+ DXVK was originally developed for Linux with support from Valve, which also uses it on SteamOS and the Steam Deck. You can learn more about that in our article where we saw [what is Steam Proton and how it runs Windows games on Steam Deck](https://www.makeuseof.com/what-is-steam-proton-how-does-it-run-windows-games-on-steam-deck/) .
 
 ## Why Should You Use DXVK on Windows?
 
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/01edaba53137429381532b08b94562d4a741359e1
 
  By "translating" old-and-buggy Direct3D code into the more modern Vulkan API, there's a minimal toll on performance (if any). At the same time, problematic games with broken graphics or missing features may become fully playable again.
 
- Since Vulkan is on par with Direct3D 12, and both are much better (and faster) than older versions of Direct3D (as we saw when[we compared DirectX 11 VS DirectX 12](https://www.makeuseof.com/directx-11-vs-directx-12-differences/) ), "translating" old Direct3D games to Vulkan can sometimes improve the game's performance.
+ Since Vulkan is on par with Direct3D 12, and both are much better (and faster) than older versions of Direct3D (as we saw when [we compared DirectX 11 VS DirectX 12](https://www.makeuseof.com/directx-11-vs-directx-12-differences/) ), "translating" old Direct3D games to Vulkan can sometimes improve the game's performance.
 
  Intel's work on their Arc GPUs is proof of that. Intel could try to add support for every single older title in Arc GPU drivers. Instead, Intel decided to work on further improving DXVK. Initial results from Intel's "experiment" lead up to a 2x boost in performance for older titles, with dozens rendered playable "through" DXVK.
 
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/01edaba53137429381532b08b94562d4a741359e1
 
  DXVK is open-source software and free to use. You can find its latest version on GitHub.
 
-1. Visit DXVK's[official GitHub page](https://GitHub.com/doitsujin/dxvk) and click on the**Latest** version link on the right of the page, under**Releases** .
+1. Visit DXVK's [official GitHub page](https://GitHub.com/doitsujin/dxvk) and click on the**Latest** version link on the right of the page, under**Releases** .
 2. Scroll down on the releases page and find the**Assets** section of the latest version. Click on the latest DXVK tar.gz archive to download it. At the time of writing, it was version 2.2.  
 ![DXVK Latest Release Asset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dxvk-latest-release-asset-1.jpg)
 3. Store the downloaded archive somewhere, for you will need to extract its contents to the folder of every game you want to run with DXVK instead of Direct3D.
@@ -73,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/01edaba53137429381532b08b94562d4a741359e1
 
  If you need to know which version of Direct3D your game is using, the PC Gaming Wiki website can help.
 
-1. Visit[PC Gaming Wiki](https://pcgamingwiki.com/) with your browser, and use the search field on the top right to seek the game to which you want to add DXVK.
+1. Visit [PC Gaming Wiki](https://pcgamingwiki.com/) with your browser, and use the search field on the top right to seek the game to which you want to add DXVK.
 2. When you find your game, visit its page and scroll down to reach the**Other Information** section. Turn your attention to the API tables. There, on the**Technical Specs** and**Supported** columns, you will see the version of Direct3D your game is using. Underneath, the**Executable** ,**32-bit** , and**64-bit** columns will "tell" you which architecture you should choose.  
 ![PCGamingWiki Game API Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/pcgamingwiki-game-api-information-1.jpg)
 
@@ -149,3 +149,24 @@ thumbnail: https://thmb.techidaily.com/01edaba53137429381532b08b94562d4a741359e1
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/blend-into-the-background-how-to-be-offline-on-steam/"><u>Blend Into the Background: How to Be Offline on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/pricewise-27m2v-gamingmonitor-led/"><u>PriceWise 27M2V GamingMonitor LED</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-steam-auth-delays-on-winrust-a-guide/"><u>Resolving Steam Auth Delays on WinRust: A Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/six-essential-aspects-you-cant-miss-in-gaming/"><u>Six Essential Aspects You Can't Miss in Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/system-optimization-how-to-decrease-steams-ram-consumption/"><u>System Optimization: How to Decrease Steam's RAM Consumption</u></a></li>
+<li><a href="https://games-able.techidaily.com/will-next-gen-games-favor-mac-devices-over-pcs/"><u>Will Next-Gen Games Favor Mac Devices Over PCs?</u></a></li>
+<li><a href="https://games-able.techidaily.com/disc-freeze-the-simple-eject-on-xbox-s/"><u>Disc Freeze? The Simple Eject on Xbox S</u></a></li>
+<li><a href="https://games-able.techidaily.com/walletfriendly-hd-gamerscreen-led27m2v/"><u>WalletFriendly HD GamerScreen LED27M2V</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-honor-x50-gt-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Honor X50 GT Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-icloud-unlocker-download-unlock-icloud-lock-for-your-iphone-se-by-drfone-ios/"><u>In 2024, iCloud Unlocker Download Unlock iCloud Lock for your iPhone SE</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-getting-started-with-adobe-presenter-video-recordings/"><u>[Updated] 2024 Approved  Getting Started with Adobe Presenter Video Recordings</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-c02-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on C02</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-masterful-approaches-to-producing-captivating-fb-video-campaigns/"><u>In 2024, Masterful Approaches to Producing Captivating FB Video Campaigns</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-elevate-your-visuals-advanced-slideshow-techniques-in-final-cut-pro/"><u>Updated 2024 Approved Elevate Your Visuals Advanced Slideshow Techniques in Final Cut Pro</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-are-you-a-vlogger-looking-for-good-color-correction-and-video-grading-presets-here-youll-find-different-vlog-luts-that-you-can-use-for/"><u>Updated 2024 Approved Are You a Vlogger Looking for Good Color Correction and Video Grading Presets? Here Youll Find Different Vlog LUTs that You Can Use for Your Videos</u></a></li>
+</ul></div>

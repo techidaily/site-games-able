@@ -1,7 +1,7 @@
 ---
 title: Reliving History with Microsoft - 7 Activision Blizzard Game Retrospectives
-date: 2024-06-22 17:10:49
-updated: 2024-06-24 12:36:30
+date: 2024-06-25T13:14:05.319Z
+updated: 2024-06-26T13:14:05.319Z
 tags:
   - games
 categories:
@@ -24,13 +24,13 @@ thumbnail: https://thmb.techidaily.com/ff7dea50eb587133c9c080dfe92ef9382e6bba6ee
 
  Perhaps it was the shift in focus from guitars to other instruments like drums and microphones. These sorts of controllers were not only expensive but very hard to store. All of a sudden, instead of just needing one life-sized guitar-shaped controller, you needed a whole band set up for the one game.
 
- Guitar Hero is still a staple in many arcades all over the world, however, showing there are still enough people interested in the franchise who would absolutely love to see a modern Guitar Hero in a list of[the best couch co-op Xbox games.](https://www.makeuseof.com/best-couch-co-op-games-for-xbox-series-x-s/)
+ Guitar Hero is still a staple in many arcades all over the world, however, showing there are still enough people interested in the franchise who would absolutely love to see a modern Guitar Hero in a list of [the best couch co-op Xbox games.](https://www.makeuseof.com/best-couch-co-op-games-for-xbox-series-x-s/)
 
 ## 2\. Spyro the Dragon
 
  It’s relatively safe to say that most gamers alive during the golden age of console gaming know Spyro the Dragon. When you think about video games in the 90s, Spyro the Dragon is one of the mascots that immediately springs to mind.
 
- The original Spyro games received a full remaster in 2018 with the Spyro Reignited Trilogy, which sold incredibly well. According to[a PlayStation AU tweet](https://twitter.com/PlayStationAU/status/1065846654467694593) , it was the best-selling PS4 game in Australia during the week of its release.
+ The original Spyro games received a full remaster in 2018 with the Spyro Reignited Trilogy, which sold incredibly well. According to [a PlayStation AU tweet](https://twitter.com/PlayStationAU/status/1065846654467694593) , it was the best-selling PS4 game in Australia during the week of its release.
 
  Crash Bandicoot got a brand-new entry in 2020, and if there was ever a gaming duo that simultaneously took over the market, it was Crash Bandicoot and Spyro the Dragon. So it's only fair to give Spyro a new game too, right?
 
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/ff7dea50eb587133c9c080dfe92ef9382e6bba6ee
 
 ## 4\. StarCraft
 
- StarCraft is an epic collection of real-time strategy games. RTS as a whole is an underrated genre, so much so that many gamers aren't sure[what an RTS game is](https://www.makeuseof.com/what-are-real-time-strategy-games-rts-games/) in the first place.
+ StarCraft is an epic collection of real-time strategy games. RTS as a whole is an underrated genre, so much so that many gamers aren't sure [what an RTS game is](https://www.makeuseof.com/what-are-real-time-strategy-games-rts-games/) in the first place.
 
  StarCraft’s story and lore are great, and since RTS games haven’t necessarily been flooding the gaming market, it would make for a refreshing change from the FPS and action games that usually fill the shelves of game stores. In saying that, however, an FPS spin-off of StarCraft would be undeniably awesome, and it was on the cards at one point.
 
@@ -91,3 +91,24 @@ thumbnail: https://thmb.techidaily.com/ff7dea50eb587133c9c080dfe92ef9382e6bba6ee
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/upsides-and-downs-of-handheld-gaming/"><u>Upsides & Downs of Handheld Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-swapping-console-zones/"><u>The Ultimate Guide to Swapping Console Zones</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-unravel-your-console-dismantling-an-xbox-series-controller/"><u>How to Unravel Your Console: Dismantling an Xbox Series Controller</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-to-think-before-investing-in-a-ps5/"><u>What to Think Before Investing in a PS5?</u></a></li>
+<li><a href="https://games-able.techidaily.com/value-in-caps-lock-budget-savvy-membrane-options/"><u>Value in Caps Lock: Budget-Savvy Membrane Options</u></a></li>
+<li><a href="https://games-able.techidaily.com/methodical-approach-to-retrieving-your-steam-user-id/"><u>Methodical Approach to Retrieving Your Steam User ID</u></a></li>
+<li><a href="https://games-able.techidaily.com/power-up-retro-gaming-introducing-raspberry-pi/"><u>Power Up Retro Gaming - Introducing Raspberry Pi</u></a></li>
+<li><a href="https://games-able.techidaily.com/safeguarding-games-how-to-activate-screen-lock-on-switch-console/"><u>Safeguarding Games: How to Activate Screen Lock on Switch Console</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-oppo-a58-4g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Oppo A58 4G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-vivo-y100a-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Vivo Y100A via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-essential-tips-for-effective-fb-live-split-screens/"><u>In 2024, Essential Tips for Effective FB Live Split Screens</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-visionguard-recorder-update-and-assessment-2023/"><u>In 2024, VisionGuard Recorder Update and Assessment 2023</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Honor Magic5 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-xiaomi-redmi-k70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-skyrocketing-sales-with-high-roi-in-dynamic-fb-ad-creations/"><u>[New] Skyrocketing Sales with High ROI in Dynamic FB Ad Creations</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-top-free-video-smoothing-tools-for-pc-and-mac/"><u>New In 2024, Top Free Video Smoothing Tools for PC and Mac</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-realme-v30t-by-drfone-android/"><u>Top 10 Password Cracking Tools For Realme V30T</u></a></li>
+</ul></div>

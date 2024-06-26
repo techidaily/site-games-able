@@ -1,7 +1,7 @@
 ---
 title: "Perfect Your Panel Management: U-Ban & Block Users on Twitch"
-date: 2024-06-25T10:39:48.526Z
-updated: 2024-06-26T10:39:48.526Z
+date: 2024-06-25T12:48:35.162Z
+updated: 2024-06-26T12:48:35.162Z
 tags:
   - games
 categories:
@@ -30,7 +30,7 @@ Here's how to block or unblock someone on Twitch...
 
 ![Blocking someone on Twitch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/block-unblock-twitch-dots.png)
 
- Twitch will quickly remind you what a blocked person can and cannot do. In short, once you block someone, they can't whisper you, host you, add you as a friend, or gift[Twitch subscriptions](https://www.makeuseof.com/tag/twitch-complete-guide-buying-subscriptions/) to your channel.
+ Twitch will quickly remind you what a blocked person can and cannot do. In short, once you block someone, they can't whisper you, host you, add you as a friend, or gift [Twitch subscriptions](https://www.makeuseof.com/tag/twitch-complete-guide-buying-subscriptions/) to your channel.
 
  If you're okay with this, click**Block** .
 
@@ -92,7 +92,7 @@ Close
 
  If you're on Android, you'll find that you can follow the above instructions word-for-word, right up until the point where a blocked user list is supposed to appear. Strangely, the blocked user list never made it over from iOS.
 
- As such, a quick and hassle-free way to unblock someone on Android is by using Twitch's desktop site on your device. Just head over to Twitch and load the desktop version of the site (here's a guide on how you can[view the desktop version of any site](https://www.makeuseof.com/how-to-view-desktop-version-of-any-site-on-mobile/) ). After that, follow the steps above for unblocking Twitch users via Settings.
+ As such, a quick and hassle-free way to unblock someone on Android is by using Twitch's desktop site on your device. Just head over to Twitch and load the desktop version of the site (here's a guide on how you can [view the desktop version of any site](https://www.makeuseof.com/how-to-view-desktop-version-of-any-site-on-mobile/) ). After that, follow the steps above for unblocking Twitch users via Settings.
 
  If you don't want to use this method, we'd recommend logging into your Twitch account on PC to manage your blocked users list instead.
 

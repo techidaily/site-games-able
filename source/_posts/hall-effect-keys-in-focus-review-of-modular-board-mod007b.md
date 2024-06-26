@@ -1,7 +1,7 @@
 ---
 title: Hall Effect Keys in Focus - Review of Modular Board MOD007B
-date: 2024-06-21 17:38:58
-updated: 2024-06-24 10:41:49
+date: 2024-06-25T13:29:15.295Z
+updated: 2024-06-26T13:29:15.295Z
 tags:
   - games
 categories:
@@ -109,9 +109,7 @@ No
 
 [See at Akko](https://en.akkogear.com/product/mod007b-pc-santorini-mechanical-keyboard/)
 
-## A Great-Looking Keyboard on the Surface
-
-![Akko MOD007B HE Spacebar Detail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-spacebar-detail.jpg)
+## A Great-Looking Keyboard on the Surface ![Akko MOD007B HE Spacebar Detail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-spacebar-detail.jpg)
 
  Jowi Morales / MakeUseOf
 
@@ -121,9 +119,7 @@ No
 
  All of these sit on a plain white plastic case with two-level adjustable feet. You also get a plain white knob for adjusting volume and RGB brightness. This keyboard would look great on any desk. Even if you aim for a minimalist gaming station, its design could be your PC’s focal point.
 
-## Tokyo-Themed Keys and Accessories Included
-
-![Akko MOD007B HE Tokyo-themed Accessories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-tokyo-themed-accessories.jpg)
+## Tokyo-Themed Keys and Accessories Included ![Akko MOD007B HE Tokyo-themed Accessories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-tokyo-themed-accessories.jpg)
 
  Jowi Morales / MakeUseOf
 
@@ -139,7 +135,7 @@ No
 
  What makes the Akko MOD007B different from most gaming keyboards is that it uses Hall Effect switches instead of mechanical keys.[Mechanical keyboards work by using springs](http://www.makeuseof.com/tag/mechanical-keyboard-work-technology-explained/) to control how much pressure you need to apply before it closes the switch.
 
- On the other hand, Hall Effect switches have no moving parts. Instead, it uses the changing position of two magnets to determine a key’s position. Because of this, Hall Effect keyboards have a longer lifespan than traditional mechanical switches, just like[Hall Effect joysticks](https://www.makeuseof.com/what-are-hall-effect-joysticks-can-they-cure-controller-drift/) .
+ On the other hand, Hall Effect switches have no moving parts. Instead, it uses the changing position of two magnets to determine a key’s position. Because of this, Hall Effect keyboards have a longer lifespan than traditional mechanical switches, just like [Hall Effect joysticks](https://www.makeuseof.com/what-are-hall-effect-joysticks-can-they-cure-controller-drift/) .
 
 ![Akko MOD007B HE Hall-Effect Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-hall-effect-switch.jpg)
 
@@ -169,9 +165,7 @@ Related
 
  Even when you bottom out the keys, you’ll feel as if it’s cushioned, reducing the stress on your fingertips. And although it doesn’t have the bassy, thocky sound some keyboard enthusiasts look for, it still delivers excellent audible feedback for each keypress you make.
 
-## Extensive Customization With the Akko Cloud Driver
-
-![Akko MOD007B HE Cloud Driver Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/akko-mod007b-he-cloud-driver-screenshot.jpg)
+## Extensive Customization With the Akko Cloud Driver ![Akko MOD007B HE Cloud Driver Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/akko-mod007b-he-cloud-driver-screenshot.jpg)
 
  Of course, hardware is no good if you don’t pair it with great software. Thankfully, the Akko MOD007B comes with an easy-to-use and easy-to-understand driver. On thge Main tab you can remap your keyboard, change its Dynamic Keystroke settings, and set custom actuation distances for the entire keyboard or each key.
 
@@ -179,9 +173,7 @@ Related
 
  But best of all, any changes you make to the keyboard are stored on it. So, even if you switch PCs or upgrade to a newer device, you don’t have to download the driver and recreate your saved keyboard settings.
 
-## Confusing Multi-Mode Pairing
-
-![Akko MOD007B HE mode switch slider under the caps lock key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-mode-switch-slider-under-the-caps-lock-key.jpg)
+## Confusing Multi-Mode Pairing ![Akko MOD007B HE mode switch slider under the caps lock key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-mode-switch-slider-under-the-caps-lock-key.jpg)
 
  Jowi Morales / MakeUseOf
 
@@ -193,9 +185,7 @@ Related
 
  It would’ve been better if Akko included at least a single color-changing LED bulb to indicate the mode the keyboard is currently on. And maybe they could put the OS mode switch on an easily reachable surface.
 
-## Questionable Battery Life
-
-![Akko MOD007B HE Battery-Level Check](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-battery-level-check.jpg)
+## Questionable Battery Life ![Akko MOD007B HE Battery-Level Check](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-battery-level-check.jpg)
 
  Jowi Morales / MakeUseOf
 
@@ -302,3 +292,24 @@ No
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/4-common-gpu-problems-and-how-to-troubleshoot-them/"><u>4 Common GPU Problems and How to Troubleshoot Them</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-level-165hz-visuals-for-gamers/"><u>Top-Level 165Hz Visuals for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-is-palworld-everything-you-need-to-know/"><u>What Is Palworld? Everything You Need to Know</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-ps5-fun-key-player-insights/"><u>Enhance PS5 Fun: Key Player Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-gaming-with-epic-and-steam-integration/"><u>Streamline Gaming with Epic and Steam Integration</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-alone-to-together-reestablishing-winmc-network-connections/"><u>From Alone to Together: Reestablishing WinMC Network Connections</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-linkedins-game-add-on-really-worth-your-time/"><u>Is LinkedIn's Game Add-On Really Worth Your Time?</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-cloud-synch-issues-in-steam-devices/"><u>Unraveling Cloud Synch Issues in Steam Devices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/zooming-into-success-syncing-with-fb-live-on-zoom/"><u>Zooming Into Success  Syncing with FB Live on Zoom</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-interacting-with-a-blended-world-the-essence-of-mixed-reality/"><u>[New] Interacting with a Blended World  The Essence of Mixed Reality</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-xr-to-windows-10-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone XR to Windows 10? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-top-techniques-for-captivating-tiktok-audien-written-by-your-name/"><u>[Updated] In 2024, Top Techniques for Captivating TikTok Audien Written by [Your Name]</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-from-iphone-14-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock From iPhone 14?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-newcomer-to-pro-a-step-by-step-creator-hub-guidebook-for-2024/"><u>[New] From Newcomer to Pro  A Step-by-Step Creator Hub Guidebook for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-maximize-your-ios-for-ps2-gaming-with-best-emulators/"><u>[Updated] Maximize Your IOS for PS2 Gaming with Best Emulators</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-the-essence-of-elegance-premium-filters-for-your-snap/"><u>2024 Approved  The Essence of Elegance  Premium Filters for Your Snap</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-ideal-recording-gear-for-vloggers/"><u>[New] Ideal Recording Gear for Vloggers</u></a></li>
+</ul></div>

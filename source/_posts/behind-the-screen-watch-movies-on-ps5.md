@@ -1,7 +1,7 @@
 ---
 title: "Behind the Screen: Watch Movies on PS5"
-date: 2024-06-23 10:11:34
-updated: 2024-06-24 11:41:50
+date: 2024-06-25T13:05:21.144Z
+updated: 2024-06-26T13:05:21.144Z
 tags:
   - games
 categories:
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/d529ee3f9777395e3e6b4e63c228e25fbb4330a46
 
  Sony Pictures Core (previously known as Bravia Core) is a movie streaming service you can get on PS4 or PS5 consoles. Sony Pictures Core contains a massive library of up to 2,000 movies from Sony Pictures, providing early access to some titles, behind-the-scenes content, director’s commentaries, and other exclusive offers.
 
- Sony Pictures Core also offers extra deals, such as discounts on seven movies for seven days or access to additional content from Crunchyroll. These deals are available for a limited time only and they can change. Head to the[PlayStation website](https://www.playstation.com/en-us/sony-pictures-core/) or the[Sony Pictures Core homepage](https://www.sonypicturescore.com/) to see any deals currently on offer.
+ Sony Pictures Core also offers extra deals, such as discounts on seven movies for seven days or access to additional content from Crunchyroll. These deals are available for a limited time only and they can change. Head to the [PlayStation website](https://www.playstation.com/en-us/sony-pictures-core/) or the [Sony Pictures Core homepage](https://www.sonypicturescore.com/) to see any deals currently on offer.
 
  You don't need a PS Plus membership to rent or buy movies on Sony Pictures Core, but there are exclusive benefits if you are subscribed to the Premium or Deluxe tiers.
 
@@ -42,13 +42,13 @@ thumbnail: https://thmb.techidaily.com/d529ee3f9777395e3e6b4e63c228e25fbb4330a46
 
  You can watch a rotating catalog of up to 100 movies for free on Sony Pictures Core if you have a PS Plus Premium or Deluxe membership.
 
-![PlayStation Plus logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/playstation-plus-logo.jpg)
+![PlayStation Plus logo](https://thmb.techidaily.com/f7696c4ac1037e72f31c6b328a12ea085bd4635182093dadda40d9b14071da58.jpg)
 
  Image Credit:[PlayStation Blog](https://blog.playstation.com/2022/03/29/all-new-playstation-plus-launches-in-june-with-700-games-and-more-value-than-ever/)
 
  These are the highest tiers available for PS Plus. But to rent or buy the average movie on Sony Pictures Core, you’re looking at paying around $3.99 to $15.99.
 
- If you’re a movie buff, those 100 free movies could make[deciding between the PS Plus Extra, Essential, and Premium/Deluxe tiers](https://www.makeuseof.com/playstation-plus-essential-vs-extra-vs-premium/) a little easier, and that’s not considering the other exclusive benefits.
+ If you’re a movie buff, those 100 free movies could make [deciding between the PS Plus Extra, Essential, and Premium/Deluxe tiers](https://www.makeuseof.com/playstation-plus-essential-vs-extra-vs-premium/) a little easier, and that’s not considering the other exclusive benefits.
 
 ## How to Download and Use Sony Pictures Core on Your PS5
 
@@ -105,3 +105,27 @@ thumbnail: https://thmb.techidaily.com/d529ee3f9777395e3e6b4e63c228e25fbb4330a46
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/bring-the-magic-back-top-7-revival-candidates-from-activision-blizzard/"><u>Bring the Magic Back: Top 7 Revival Candidates From Activision Blizzard</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-javas-unique-games-with-impressive-qualities/"><u>Discovering Java’s Unique Games with Impressive Qualities</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719166855610-streamline-your-computing-experience-install-nvidia-driver-updates/"><u>Streamline Your Computing Experience – Install Nvidia Driver Updates.</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-tools-to-keep-your-steam-deck-cool/"><u>Essential Tools to Keep Your Steam Deck Cool</u></a></li>
+<li><a href="https://games-able.techidaily.com/mostly-superb-google-play-pass-with-an-exception/"><u>Mostly Superb Google Play Pass with an Exception</u></a></li>
+<li><a href="https://games-able.techidaily.com/guide-to-remove-unwanted-game-data-on-ps5/"><u>Guide to Remove Unwanted Game Data on PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-playnites-true-impact-on-your-tv/"><u>Unlock Playnite's True Impact on Your TV</u></a></li>
+<li><a href="https://games-able.techidaily.com/critical-caveats-5-unexamined-aspects-of-game-scores/"><u>Critical Caveats: 5 Unexamined Aspects of Game Scores</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-downloads-platforms-dlcs-more-for-bg3/"><u>Essential Downloads: Platforms, DLCs, More for BG3</u></a></li>
+<li><a href="https://games-able.techidaily.com/steer-clear-from-linkedin-games-here-are-reasons-why/"><u>Steer Clear From LinkedIn Games - Here Are Reasons Why</u></a></li>
+<li><a href="https://extra-information.techidaily.com/chromatic-creativity-techniques-for-film-colorists-for-2024/"><u>Chromatic Creativity  Techniques for Film Colorists for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unveiling-the-ultimate-list-of-budget-friendly-video-editors/"><u>In 2024, Unveiling the Ultimate List of Budget-Friendly Video Editors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/explore-the-top-free-screen-recorders-ranked-list/"><u>Explore the Top Free Screen Recorders  Ranked List</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-honor-100-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-sound-shaping-techniques-for-mobile-top-7-vocal-editing-app-recommendations-for-2024/"><u>[New] Sound Shaping Techniques for Mobile  Top 7 Vocal Editing App Recommendations for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-easy-guide-to-zoom-video-in-vlc/"><u>2024 Approved Easy Guide to Zoom Video in VLC</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-harmonizing-audio-innovative-applications-for-dialing-down-ambient-distractions/"><u>New 2024 Approved Harmonizing Audio Innovative Applications for Dialing Down Ambient Distractions</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/online-video-advertising-maker-platforms-for-2024/"><u>Online Video Advertising Maker Platforms for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-12-mini-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock iPhone 12 mini Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-masterful-capture-of-discord-conversations/"><u>[New] Masterful Capture of Discord Conversations</u></a></li>
+</ul></div>

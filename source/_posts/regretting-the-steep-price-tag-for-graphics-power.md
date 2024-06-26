@@ -1,7 +1,7 @@
 ---
 title: Regretting the Steep Price Tag for Graphics Power
-date: 2024-06-25T10:49:34.628Z
-updated: 2024-06-26T10:49:34.628Z
+date: 2024-06-25T12:48:41.295Z
+updated: 2024-06-26T12:48:41.295Z
 tags:
   - games
 categories:
@@ -42,11 +42,11 @@ thumbnail: https://thmb.techidaily.com/aca28fbc907b3b2134a063785955f99d7ee87845f
 
 ![RTSS OSD stats appearing in Valorant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/rtss-osd-stats-appearing-in-valorant.png)
 
- Even in graphically demanding AAA games, my GPU usage rarely exceeds 90 percent. And that's because my CPU can't keep up. I use a Ryzen 5900X, which is a generation older than the top-of-the-line AMD Ryzen processors available today, like[the Ryzen 7800X3D, 7900X3D, and 7950X3D](https://www.makeuseof.com/ryzen-9-7950x3d-vs-ryzen-9-7900x3d-vs-ryzen-7-7800x3d/) .
+ Even in graphically demanding AAA games, my GPU usage rarely exceeds 90 percent. And that's because my CPU can't keep up. I use a Ryzen 5900X, which is a generation older than the top-of-the-line AMD Ryzen processors available today, like [the Ryzen 7800X3D, 7900X3D, and 7950X3D](https://www.makeuseof.com/ryzen-9-7950x3d-vs-ryzen-9-7900x3d-vs-ryzen-7-7800x3d/) .
 
 ## 2 Power Consumption Is Very High
 
- The RTX 4090 is a monster of a GPU that consumes a lot of power. The Founders Edition (reference) version of the RTX 4090 has a[TDP (Thermal Design Power)](https://www.makeuseof.com/tag/thermal-design-power-technology-explained/) of 450W. This means the GPU can consume up to 450W under general usage.
+ The RTX 4090 is a monster of a GPU that consumes a lot of power. The Founders Edition (reference) version of the RTX 4090 has a [TDP (Thermal Design Power)](https://www.makeuseof.com/tag/thermal-design-power-technology-explained/) of 450W. This means the GPU can consume up to 450W under general usage.
 
  However, the RTX 4090 I own is no ordinary unit. It's the Colorful iGame RTX 4090 Neptune, a liquid-cooled variant with a 360mm radiator that has a TDP of 630W! Like this one, several RTX 4090 variants from NVIDIA's board partners have a TDP higher than 450W.
 
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/aca28fbc907b3b2134a063785955f99d7ee87845f
 
  However, the Colorful Neptune RTX 4090 I have cost me a little over two grand, but at that time, I thought it was worth it because of the overclocking headroom I got from liquid cooling. Another reason is that this card isn't nearly as chunky as other air-cooled RTX 4090 cards on the market.
 
- Unfortunately, I haven't even come close to maximizing the RTX 4090's full potential because of the kind of games I mostly play. I now feel like I could've spent half the money on an RTX 4080 for similar frame rates on esports titles like Valorant, Overwatch 2, or Fortnite. To get the most out of my RTX 4090 now, I need one of[the fastest gaming CPUs from AMD or Intel](https://www.makeuseof.com/amd-vs-intel-gaming/) .
+ Unfortunately, I haven't even come close to maximizing the RTX 4090's full potential because of the kind of games I mostly play. I now feel like I could've spent half the money on an RTX 4080 for similar frame rates on esports titles like Valorant, Overwatch 2, or Fortnite. To get the most out of my RTX 4090 now, I need one of [the fastest gaming CPUs from AMD or Intel](https://www.makeuseof.com/amd-vs-intel-gaming/) .
 
  So, if you're on the fence about buying an RTX 4090, think about the games you play and the resolution you play at because I don't want you to make the same mistake as I did. I wouldn't recommend buying an RTX 4090 if you don't plan to play AAA games at 4K resolution regularly.
 

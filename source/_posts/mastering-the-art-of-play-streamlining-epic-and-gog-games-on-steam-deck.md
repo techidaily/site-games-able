@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Play: Streamlining Epic & GOG Games on Steam Deck"
-date: 2024-06-25T10:46:50.724Z
-updated: 2024-06-26T10:46:50.724Z
+date: 2024-06-25T12:48:39.626Z
+updated: 2024-06-26T12:48:39.626Z
 tags:
   - games
 categories:
@@ -66,15 +66,15 @@ thumbnail: https://thmb.techidaily.com/29a05cd0ac7c666a10c5dac5d641535795c3a88c9
 
  If you’re concerned about breaking warranty or have some other reason to be concerned, don’t worry. A Steam Deck is capable of running most PC games, including those on Epic Games. You may have noticed some crossover between the Epic Games and the Steam libraries.
 
- Epic Games has given many games away over the past few years. It's simple to get[free games from Epic Games](https://www.makeuseof.com/how-to-get-free-games-on-the-epic-games-store/) and many gamers have grown a library of such games, preferring this to spending money on the exact same titles on Steam.
+ Epic Games has given many games away over the past few years. It's simple to get [free games from Epic Games](https://www.makeuseof.com/how-to-get-free-games-on-the-epic-games-store/) and many gamers have grown a library of such games, preferring this to spending money on the exact same titles on Steam.
 
- Furthermore, Steam Deck runs a special version of Arch Linux, and has a desktop mode where more games can be installed, if desired. Furthermore, the[Proton compatibility layer software](https://www.makeuseof.com/what-is-steam-proton-how-does-it-run-windows-games-on-steam-deck/) is regularly updated and ensures support for many Windows games.
+ Furthermore, Steam Deck runs a special version of Arch Linux, and has a desktop mode where more games can be installed, if desired. Furthermore, the [Proton compatibility layer software](https://www.makeuseof.com/what-is-steam-proton-how-does-it-run-windows-games-on-steam-deck/) is regularly updated and ensures support for many Windows games.
 
  In short, it’s completely safe to install non-Steam games on your Steam Deck.
 
  Before proceeding, you might want to make things easier for yourself by grabbing a USB keyboard and mouse and a USB type-C hub for the Steam Deck.
 
- While you can use the device’s on-screen keyboard (perhaps the most widely-used[Steam Deck shortcut](https://www.makeuseof.com/steam-deck-shortcuts/) , activated with**Steam + X** ), it is far easier to sign in to Epic Games with a physical keyboard.
+ While you can use the device’s on-screen keyboard (perhaps the most widely-used [Steam Deck shortcut](https://www.makeuseof.com/steam-deck-shortcuts/) , activated with**Steam + X** ), it is far easier to sign in to Epic Games with a physical keyboard.
 
  Otherwise, you’ll be using the right-hand touchpad as a laptop touchpad to control the mouse pointer on your Steam Deck.
 
@@ -98,10 +98,8 @@ thumbnail: https://thmb.techidaily.com/29a05cd0ac7c666a10c5dac5d641535795c3a88c9
 1. First, launch the software, then use the mouse to select**Manage Accounts**  
 ![Log in to Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-login.jpg)
 2. Under GOG, click**Log in** and input your credentials, along with any two-factor authentication
-3. Go to**Library** and browse for the game you want to install  
-![GOG games on the Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-gog-games.jpg)
-4. Click**Install** on the selected game, confirm the installation location and click**Install** again  
-![Install GOG games on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-gog-smac.jpg)
+3. Go to**Library** and browse for the game you want to install ![GOG games on the Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-gog-games.jpg)
+4. Click**Install** on the selected game, confirm the installation location and click**Install** again ![Install GOG games on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-gog-smac.jpg)
 5. After installation is complete, click**Play Now**
 
  Because most GOG games are pre-2005 titles, they have varying compatibility requirements for Steam Deck. To tweak these, highlight the game and click the**Settings** cog icon.
@@ -114,15 +112,14 @@ thumbnail: https://thmb.techidaily.com/29a05cd0ac7c666a10c5dac5d641535795c3a88c9
 
  In the Heroic Games Launcher, click**Manage Accounts** then on the Epic Games panel tap**Log in** .
 
- Enter your Epic Games account credentials and if you have[two-factor authentication](https://www.makeuseof.com/tag/what-is-two-factor-authentication-and-why-you-should-use-it/) set up this will also be required.
+ Enter your Epic Games account credentials and if you have [two-factor authentication](https://www.makeuseof.com/tag/what-is-two-factor-authentication-and-why-you-should-use-it/) set up this will also be required.
 
 You can then install Epic Games on the Steam Deck as follows:
 
 1. Click**Library**
 2. Browse for the game you want
 3. Select the game and click**Install**
-4. Confirm the installation location and click**Install** again  
-![Install Epic Games on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-install.jpg)
+4. Confirm the installation location and click**Install** again ![Install Epic Games on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-install.jpg)
 5. Once the installation has completed, click**Play Now**
 6. Use the**Settings** option to tweak the game’s launch and performance options
 
@@ -149,8 +146,7 @@ This will reboot the Steam Deck into the main console interface.
 3. Press**X**
 4. Select**Uninstall**  
 ![Uninstall a game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-uninstall-game.jpg)
-5. Confirm with**Yes** when prompted  
-![Uninstall an Epic Games title on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-uninstall.jpg)
+5. Confirm with**Yes** when prompted ![Uninstall an Epic Games title on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-uninstall.jpg)
 
 Wait for the process to complete before installing any other games.
 

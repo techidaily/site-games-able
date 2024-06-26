@@ -1,7 +1,7 @@
 ---
 title: Recharge Joy, Not Purchase - Fix Your Own Controllers
-date: 2024-06-21 13:24:15
-updated: 2024-06-24 11:55:10
+date: 2024-06-25T13:24:08.198Z
+updated: 2024-06-26T13:24:08.198Z
 tags:
   - games
 categories:
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/d998ed1ce4fa21b446a75f0e6c9a8cf84aeb11cbd
 
  Unlike most companies that would rather gobble up your money and make you purchase a new controller every year or two, Xbox has turned a new leaf. Gamers from North America can now purchase official replacement parts from Xbox directly and follow the free tutorials provided to fix their controller themselves.
 
- Replacement parts for all major components are available on[Microsoft's official website](https://www.microsoft.com/en-us/store/b/xbox-repair-parts) , including replacement PCBAs, motor assemblies, shell cases, and buttons. New buttons and shell replacements are available in either black or white, so you can give your controller a whole new look while you’re at it.
+ Replacement parts for all major components are available on [Microsoft's official website](https://www.microsoft.com/en-us/store/b/xbox-repair-parts) , including replacement PCBAs, motor assemblies, shell cases, and buttons. New buttons and shell replacements are available in either black or white, so you can give your controller a whole new look while you’re at it.
 
 ![A disassembled Xbox Series X|S controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/xbox-x-controller-disassembly-4-1.JPG)
 
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/d998ed1ce4fa21b446a75f0e6c9a8cf84aeb11cbd
 
  Unless you are already well-versed in the inner workings of a video game controller, you are probably going to want to check out one of Xbox’s free tutorials to walk you through the job. Even if you are experienced, it can’t hurt to freshen up your memory before cracking open your controller and fiddling around in there. Luckily for those who are keen to learn this handy new skill,[Xbox Support](https://support.xbox.com/en-us/help/hardware-network/warranty-service/xbox-self-repair) has provided both written instructions for the repair and a YouTube tutorial for visual learners, which you can view above.
 
- If Xbox's tutorials aren't doing the trick for you, you can also learn a variety of repair techniques like[how to fix your drifting Xbox controller](https://www.makeuseof.com/xbox-controller-drift/) or[how to open your Xbox Series X|S Controller](https://www.makeuseof.com/xbox-series-xs-controller-how-to-take-apart/) from our very own experts.
+ If Xbox's tutorials aren't doing the trick for you, you can also learn a variety of repair techniques like [how to fix your drifting Xbox controller](https://www.makeuseof.com/xbox-controller-drift/) or [how to open your Xbox Series X|S Controller](https://www.makeuseof.com/xbox-series-xs-controller-how-to-take-apart/) from our very own experts.
 
 ## Why You Should Fix Your Own Xbox Controller
 
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/d998ed1ce4fa21b446a75f0e6c9a8cf84aeb11cbd
 
  Now, you can purchase new parts for anywhere between $19.99 to $34.99, depending on what you need. These savings are even more apparent when you’re talking about the Xbox Elite Series 2 Wireless controller.
 
- Not only does fixing your own controller save you money, but it also saves the planet from unnecessary waste. Xbox has done a lot in recent years to reduce its carbon footprint and help its customers do the same, from introducing a[power-saving mode on the Xbox](https://www.makeuseof.com/xbox-shutdown-vs-sleep-mode/) to[crafting a whole Xbox controller out of trash](https://www.makeuseof.com/how-xbox-wireless-controller-remix-edition-make-life-easier/) .
+ Not only does fixing your own controller save you money, but it also saves the planet from unnecessary waste. Xbox has done a lot in recent years to reduce its carbon footprint and help its customers do the same, from introducing a [power-saving mode on the Xbox](https://www.makeuseof.com/xbox-shutdown-vs-sleep-mode/) to [crafting a whole Xbox controller out of trash](https://www.makeuseof.com/how-xbox-wireless-controller-remix-edition-make-life-easier/) .
 
 ![Close up of Xbox Wireless Controller Remix Edition on a Leafy Background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/close-up-of-xbox-wireless-controller-remix-edition-on-a-leafy-background.jpg)
 
@@ -73,3 +73,24 @@ thumbnail: https://thmb.techidaily.com/d998ed1ce4fa21b446a75f0e6c9a8cf84aeb11cbd
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/assembled-now-deconstructed-your-xbox-360-slim-guide/"><u>Assembled, Now Deconstructed: Your Xbox 360 Slim Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/sonys-portable-entertainment-revealed/"><u>Sony’s Portable Entertainment Revealed</u></a></li>
+<li><a href="https://games-able.techidaily.com/fostering-financial-growth-in-virtual-shopping-on-steam/"><u>Fostering Financial Growth in Virtual Shopping on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/subscribing-to-surveillance-owning-for-autonomy/"><u>Subscribing to Surveillance, Owning for Autonomy</u></a></li>
+<li><a href="https://games-able.techidaily.com/switch-out-for-peak-performance/"><u>Switch Out for Peak Performance?</u></a></li>
+<li><a href="https://games-able.techidaily.com/spring-into-action-with-augmented-gaming/"><u>Spring Into Action with Augmented Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/apples-macos-sonoma-unveiling-game-mode/"><u>Apple's MacOS Sonoma: Unveiling Game Mode</u></a></li>
+<li><a href="https://games-able.techidaily.com/batocera-vs-retropie-the-best-rpi-game-platform-debated/"><u>Batocera Vs. RetroPie: The Best RPi Game Platform Debated</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-in-2024-10-stunning-stop-motion-movies-you-should-not-miss/"><u>Updated In 2024, 10 Stunning Stop Motion Movies You Should Not Miss</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-efficiently-using-skypes-screen-share-feature-in-telecommuting-for-2024/"><u>[Updated] Efficiently Using Skype's Screen-Share Feature in Telecommuting for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-capturing-the-essence-of-whistle-audio-resonance/"><u>New Capturing the Essence of Whistle Audio Resonance</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-snag-the-best-screen-grabber-software-in-win10-today/"><u>[Updated] 2024 Approved  Snag the Best Screen Grabber Software in Win10 Today</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-the-complete-imovie-users-manual-on-excising-background-music-from-videos/"><u>Updated 2024 Approved The Complete iMovie Users Manual on Excising Background Music From Videos</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-nokia-c210-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Nokia C210 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-streamlining-virtual-meetings-best-practices-for-teams/"><u>[New] In 2024, Streamlining Virtual Meetings  Best Practices for Teams</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-the-ultimate-strategy-to-turn-your-fb-page-into-cash/"><u>[Updated] In 2024, The Ultimate Strategy to Turn Your FB Page Into Cash</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/top-tips-for-winning-fb-videos/"><u>Top Tips for Winning FB Videos</u></a></li>
+</ul></div>

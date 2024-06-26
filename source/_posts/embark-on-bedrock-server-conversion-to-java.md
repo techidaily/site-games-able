@@ -1,7 +1,7 @@
 ---
 title: Embark on Bedrock Server Conversion to Java
-date: 2024-06-25T10:44:51.551Z
-updated: 2024-06-26T10:44:51.551Z
+date: 2024-06-25T12:48:38.392Z
+updated: 2024-06-26T12:48:38.392Z
 tags:
   - games
 categories:
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/9c252b23b1e3ad8357c15bea477480a8c23a36edb
 
  Image Credit: Jhet Borja/MUO
 
- You’ve probably been disappointed to find out that you and your friend aren’t playing the same editions of Minecraft and can’t play together. While there are plenty of[other ways to play Minecraft with friends](https://www.makeuseof.com/how-to-play-minecraft-with-friends/) , crossplay between Java and Bedrock isn't something that comes up often.
+ You’ve probably been disappointed to find out that you and your friend aren’t playing the same editions of Minecraft and can’t play together. While there are plenty of [other ways to play Minecraft with friends](https://www.makeuseof.com/how-to-play-minecraft-with-friends/) , crossplay between Java and Bedrock isn't something that comes up often.
 
  This is because the Minecraft Java and Bedrock editions aren’t written in the same programming language. Minecraft Bedrock Edition is written in C++ while the Java Edition is written in Java, as its name suggests.
 
@@ -42,9 +42,7 @@ thumbnail: https://thmb.techidaily.com/9c252b23b1e3ad8357c15bea477480a8c23a36edb
 
  However, the GeyserMC mod takes the C++ information and translates it to Java, emulating a Java Minecraft client. This allows Bedrock Edition players to join Java Edition servers and play as if they were on the same version of the game.
 
-## How Minecraft Bedrock Edition Players Can Join Java Edition Servers
-
-![Two Minecraft versions open at the same time](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/two-minecraft-versions-open-at-the-same-time.JPG)
+## How Minecraft Bedrock Edition Players Can Join Java Edition Servers ![Two Minecraft versions open at the same time](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/two-minecraft-versions-open-at-the-same-time.JPG)
 
  Image Credit: Jhet Borja
 
@@ -52,17 +50,15 @@ thumbnail: https://thmb.techidaily.com/9c252b23b1e3ad8357c15bea477480a8c23a36edb
 
 ### 1\. Set Up a Server
 
- Firstly, you should set up a server on[Aternos](https://aternos.org/) . Aternos is a free third-party server hosting service that has everything you need to set up a server to allow crossplay between Java and Bedrock.
+ Firstly, you should set up a server on [Aternos](https://aternos.org/) . Aternos is a free third-party server hosting service that has everything you need to set up a server to allow crossplay between Java and Bedrock.
 
 ![Aternos Create a Server button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/aternos-create-a-server-button.jpg)
 
  Once you’ve made an account on Aternos, click on**Create** to create a server and name it. Make sure to choose**Java Edition** on the blue bar above.
 
- Alternatively, you can[host your Minecraft server on a Raspberry Pi](https://www.makeuseof.com/tag/setup-minecraft-server-raspberry-pi/) .
+ Alternatively, you can [host your Minecraft server on a Raspberry Pi](https://www.makeuseof.com/tag/setup-minecraft-server-raspberry-pi/) .
 
-### 2\. Install GeyserMC
-
-![Choosing Minecraft Software on Aternos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/choosing-minecraft-software-on-aternos.jpg)
+### 2\. Install GeyserMC ![Choosing Minecraft Software on Aternos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/choosing-minecraft-software-on-aternos.jpg)
 
  Now that you’ve made your server, don’t turn it on yet. First, head to**Software** , then choose**Paper/Bukkit** on the software selection screen.
 
@@ -78,13 +74,11 @@ thumbnail: https://thmb.techidaily.com/9c252b23b1e3ad8357c15bea477480a8c23a36edb
 
  Finally, click on the small download icon to the very right of the most recent or compatible version.
 
- For your locally run server, head to[PaperMC.io](https://hangar.papermc.io/GeyserMC/Geyser) and download GeyserMC from there. In case you need to learn how to install the GeyserMC plugin, check out how to install plugins through[Bukkit](https://bukkit.fandom.com/wiki/Installing%5FPlugins) . If your existing server has a lot of mods already, you'll have to check for compatibility and the limitations of crossplaying between Java and Bedrock Edition
+ For your locally run server, head to [PaperMC.io](https://hangar.papermc.io/GeyserMC/Geyser) and download GeyserMC from there. In case you need to learn how to install the GeyserMC plugin, check out how to install plugins through [Bukkit](https://bukkit.fandom.com/wiki/Installing%5FPlugins) . If your existing server has a lot of mods already, you'll have to check for compatibility and the limitations of crossplaying between Java and Bedrock Edition
 
  Once that’s all done, you can now turn on and connect to your server in the next step.
 
-### 3\. Join the Minecraft Java Server on Bedrock Edition
-
-![MUO Aternos server start button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/muo-aternos-server-start-button.jpg)
+### 3\. Join the Minecraft Java Server on Bedrock Edition ![MUO Aternos server start button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/muo-aternos-server-start-button.jpg)
 
  On the main server screen, click**Start** to turn on the server. You can find the server connection details by clicking on**Connect** just below the server name. Copy the IP and port for the next step.
 
@@ -102,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/9c252b23b1e3ad8357c15bea477480a8c23a36edb
 
  One of the biggest issues is mod compatibility. Mods aren’t something that can be easily translated to different versions of Minecraft. You’ll be limited by simpler mods, like ones that a vanilla Java Edition player can still join.
 
- There are also more fundamental limitations that have no workarounds, like crafting in the 2x2 menu in creative mode, distinguishing between left and right clicks in the inventory, and a bunch more. You can check out the list of the latest limitations on the[official GeyserMC wiki](https://wiki.geysermc.org/geyser/current-limitations/) to find out all the limitations they know about.
+ There are also more fundamental limitations that have no workarounds, like crafting in the 2x2 menu in creative mode, distinguishing between left and right clicks in the inventory, and a bunch more. You can check out the list of the latest limitations on the [official GeyserMC wiki](https://wiki.geysermc.org/geyser/current-limitations/) to find out all the limitations they know about.
 
  While it has limitations, this can rarely get in the way of having fun. Now you don’t have to be worried that you and your friend have different versions of Minecraft. We hope this guide has helped you enjoy Minecraft with your friends no matter what they’re playing on.
 

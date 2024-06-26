@@ -1,7 +1,7 @@
 ---
 title: "Top Picks: A Compreenasion of Apple's Finest Arcade Titles"
-date: 2024-06-25T10:50:41.717Z
-updated: 2024-06-26T10:50:41.717Z
+date: 2024-06-25T12:48:41.984Z
+updated: 2024-06-26T12:48:41.984Z
 tags:
   - games
 categories:
@@ -45,7 +45,7 @@ Close
 
  Must-Play Games is a short list with only 21 titles in it, but most, if not all of them, are worth the time. I found Snake.io and Turmoil from this list, and I quite enjoyed them.
 
- The second category, App Store Greats, is more like an expansion of the Must-Play list. Any game on the list in a genre that you like is bound to be a lot of fun. I found Prune, Stardew Valley, and Slay the Spire here, and I must add that Stardew Valley is one of the[reasons I subscribe to Apple Arcade](https://www.makeuseof.com/apple-arcade-reasons-to-subscribe/) .
+ The second category, App Store Greats, is more like an expansion of the Must-Play list. Any game on the list in a genre that you like is bound to be a lot of fun. I found Prune, Stardew Valley, and Slay the Spire here, and I must add that Stardew Valley is one of the [reasons I subscribe to Apple Arcade](https://www.makeuseof.com/apple-arcade-reasons-to-subscribe/) .
 
 ## 2 Checking the Reviews to See What Others Think
 
@@ -59,7 +59,7 @@ Close
 2. Scroll to the**Ratings & Reviews** section. You’ll see a number indicating the average score (maximum of five) and how many people have rated it.
 3. Select**See All** next to the**Ratings & Reviews** header.
 
- Reviews are a great way to get insight into a game, but[you shouldn’t completely trust video game reviews](https://www.makeuseof.com/reasons-why-you-shouldnt-trust-game-reviews-or-review-scores/) . Use reviews, but pair it with some personal judgment.
+ Reviews are a great way to get insight into a game, but [you shouldn’t completely trust video game reviews](https://www.makeuseof.com/reasons-why-you-shouldnt-trust-game-reviews-or-review-scores/) . Use reviews, but pair it with some personal judgment.
 
  Following the steps above will take you to a page dedicated to all the reviews for the game. I don’t expect any game on Apple Arcade to have a rating of less than 4.0\. But if it does, and it has 100 or more reviews, you should probably skip it. On the flip side, a rating of 4.5 or higher from 100 or more reviews is also a good sign.
 
@@ -73,7 +73,7 @@ Close
 
 ## 3 Filtering Games by Controller Compatibility and Last Updated
 
- Developers who create their games to be controller-friendly and those who still update and maintain their games count for making the best games on Apple Arcade. This is only because they are intentional with their creation. One of the[cons of Apple Arcade](https://www.makeuseof.com/apple-arcade-pros-and-cons/) is that it caters more to casual gamers; filtering by controller support helps mitigate that disadvantage.
+ Developers who create their games to be controller-friendly and those who still update and maintain their games count for making the best games on Apple Arcade. This is only because they are intentional with their creation. One of the [cons of Apple Arcade](https://www.makeuseof.com/apple-arcade-pros-and-cons/) is that it caters more to casual gamers; filtering by controller support helps mitigate that disadvantage.
 
  However, this is no hard-and-fast rule; it doesn’t mean all the games in these categories will fit the bill. But it’s a good way to filter out the fluff and old, irrelevant games.
 

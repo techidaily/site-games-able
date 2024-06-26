@@ -1,7 +1,7 @@
 ---
 title: Step Up Your Word Game Skills with the Intriguing Strands Puzzle
-date: 2024-06-25T10:39:09.149Z
-updated: 2024-06-26T10:39:09.149Z
+date: 2024-06-25T12:48:34.727Z
+updated: 2024-06-26T12:48:34.727Z
 tags:
   - games
 categories:
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/aaeee5a2f3c8b68771aea3a6cb049a51985742ce0
 * To complete each Strands puzzle, tap letters to form words that match the theme of the day.
 * Tips for success include considering the clues carefully, starting in the corners, and obtaining hints if needed.
 
- Since[Wordle became a global phenomenon](https://www.makeuseof.com/what-is-wordle/) , word games have been very much in fashion. The latest to hit the web is Strands, a new daily puzzle game from the New York Times. It's a word search game with a difference, and you'll likely find it surprisingly addicting given its simplicity.
+ Since [Wordle became a global phenomenon](https://www.makeuseof.com/what-is-wordle/) , word games have been very much in fashion. The latest to hit the web is Strands, a new daily puzzle game from the New York Times. It's a word search game with a difference, and you'll likely find it surprisingly addicting given its simplicity.
 
 ## What Is the Strands Game by the New York Times?
 
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/aaeee5a2f3c8b68771aea3a6cb049a51985742ce0
 
  You simply tap on letters in turn or drag your finger across multiple letters to form words. If you find a correct word, it turns blue (or yellow in the case of the spangram), and you move onto the next one. If you get it wrong (meaning you find a word that isn't part of the theme), you'll earn hints. Three wrong words equal one hint.
 
- Like with[the best Wordle puzzle alternatives](https://www.makeuseof.com/best-wordle-alternatives/) , the rules are simple, but the puzzles themselves are not. While Strands isn't as mentally taxing as[Connections](https://www.nytimes.com/games/connections) , another NYT game that this writer plays on a daily basis, it will still get your gray matter working.
+ Like with [the best Wordle puzzle alternatives](https://www.makeuseof.com/best-wordle-alternatives/) , the rules are simple, but the puzzles themselves are not. While Strands isn't as mentally taxing as [Connections](https://www.nytimes.com/games/connections) , another NYT game that this writer plays on a daily basis, it will still get your gray matter working.
 
  At the time of writing, Strands is in beta, which means it's merely being tested to see if it stands up to scrutiny. On a practical level, that beta assignation means it's only available to play on the web and is not yet part of the New York Times Games app.
 
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/aaeee5a2f3c8b68771aea3a6cb049a51985742ce0
 
 Close
 
-1. To play Strands, first, go to[the Strands page on the New York Times website](https://www.nytimes.com/games/strands) and click**Play** .
+1. To play Strands, first, go to [the Strands page on the New York Times website](https://www.nytimes.com/games/strands) and click**Play** .
 2. Read and take notice of**Today's Theme** , which is essentially a clue to help to complete the puzzle.
 3. With some idea of the theme in mind, scan the grid for words that fit the bill—especially the spangram.
 

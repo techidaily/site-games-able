@@ -1,7 +1,7 @@
 ---
 title: Tailored Sound Output for Headset Users
-date: 2024-06-25T10:46:10.494Z
-updated: 2024-06-26T10:46:10.494Z
+date: 2024-06-25T12:48:39.209Z
+updated: 2024-06-26T12:48:39.209Z
 tags:
   - games
 categories:
@@ -41,11 +41,11 @@ thumbnail: https://thmb.techidaily.com/efbab3d097792aa66f0bd2cf2071c3ef92d9d9dc7
 
  And with**Mute speaker audio when headset attached** enabled, every time you link a headset to your Xbox controller, your device's speaker will automatically silence, guaranteeing only headset audio plays.
 
- If you're having issues with getting this feature to work, there are a few[ways you can troubleshoot audio issues on Xbox Series X|S](https://www.makeuseof.com/troubleshoot-xbox-audio-issues/) . It may be that problems with your set-up, headset, or preferences are interfering with your audio. On the flip side, there are also ways you further fine-tune headset audio on Xbox.
+ If you're having issues with getting this feature to work, there are a few [ways you can troubleshoot audio issues on Xbox Series X|S](https://www.makeuseof.com/troubleshoot-xbox-audio-issues/) . It may be that problems with your set-up, headset, or preferences are interfering with your audio. On the flip side, there are also ways you further fine-tune headset audio on Xbox.
 
 ## How to Manage Your Set-Up and Headset Audio on Xbox Series X|S
 
- With your console set up for automatically adjusting to an attached headset, you might want to[optimize the sound settings of your Xbox Series X|S](https://www.makeuseof.com/xbox-series-xs-sound-settings/) . This way you can ensure the best headset audio experience possible through your Xbox.
+ With your console set up for automatically adjusting to an attached headset, you might want to [optimize the sound settings of your Xbox Series X|S](https://www.makeuseof.com/xbox-series-xs-sound-settings/) . This way you can ensure the best headset audio experience possible through your Xbox.
 
  In particular, Xbox Series X|S**Volume & audio output** settings allow for your**Headset format** options to be tuned to the best-suited audio output, including:
 

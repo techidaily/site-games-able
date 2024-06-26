@@ -1,7 +1,7 @@
 ---
 title: The Truth About Being Marked as Inactive by Discord
-date: 2024-06-23 20:48:53
-updated: 2024-06-24 12:29:48
+date: 2024-06-25T12:56:06.673Z
+updated: 2024-06-26T12:56:06.673Z
 tags:
   - games
 categories:
@@ -48,11 +48,11 @@ thumbnail: https://thmb.techidaily.com/88bfebb08e4cbb8d0a68e78c0297b8f1e363343f3
 
 ## How to Switch Your Discord Status to Idle
 
- There are a variety of ways to[change your Discord online status](https://www.makeuseof.com/how-to-change-your-discord-online-status/) to reflect your availability on the app.
+ There are a variety of ways to [change your Discord online status](https://www.makeuseof.com/how-to-change-your-discord-online-status/) to reflect your availability on the app.
 
 ![set idle status on discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/set-idle-status-on-discord.png)
 
- If you are using the desktop app, click on your profile icon in the bottom left corner, hover over the**Online** tab, and select**Idle** . There is also the option to[set a custom status on Discord](https://www.makeuseof.com/set-custom-discord-status/) .
+ If you are using the desktop app, click on your profile icon in the bottom left corner, hover over the**Online** tab, and select**Idle** . There is also the option to [set a custom status on Discord](https://www.makeuseof.com/set-custom-discord-status/) .
 
 Close
 
@@ -83,3 +83,22 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/perfecting-the-art-of-taking-and-managing-steam-shots/"><u>Perfecting the Art of Taking and Managing Steam Shots</u></a></li>
+<li><a href="https://games-able.techidaily.com/opera-gx-versus-edge-the-quest-for-premier-gaming-browser/"><u>Opera GX Versus Edge: The Quest for Premier Gaming Browser</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-gpt-top-6-strategies-for-a-flawless-game-guide/"><u>Mastering GPT: Top 6 Strategies for a Flawless Game Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-rectify-gpu-induced-image-sagging/"><u>Steps to Rectify GPU-Induced Image Sagging</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps4-button-blunders-step-by-step-repair-strategies-revealed/"><u>PS4 Button Blunders? Step-by-Step Repair Strategies Revealed</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-birthplace-of-foddian-game-titles/"><u>The Birthplace of Foddian Game Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoid-data-disruptions-with-steam-image-backups/"><u>Avoid Data Disruptions with Steam Image Backups</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-the-essentials-of-xbox-live-recording/"><u>[Updated] 2024 Approved  The Essentials of Xbox Live Recording</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-decoding-disconitro-how-it-works-and-how-you-can-join/"><u>[New] Decoding DiscoNitro  How It Works and How You Can Join</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-infinix-hot-30i-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Hot 30i in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pixel-pop-goes-the-laptop-screen-with-these-websites/"><u>2024 Approved  Pixel Pop Goes the Laptop Screen with These Websites</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/stream-with-clarity-ranking-the-best-6-microphones-today/"><u>Stream with Clarity  Ranking the Best 6 Microphones Today</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/revamping-your-tiktok-videos-top-3-background-changing-methods/"><u>Revamping Your TikTok Videos  Top 3 Background Changing Methods</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-s-best-video-editing-apps-for-windows-users/"><u>New 2024 Approved S Best Video Editing Apps for Windows Users</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-how-to-define-ai-video-for-2024/"><u>New How to Define AI Video for 2024</u></a></li>
+</ul></div>

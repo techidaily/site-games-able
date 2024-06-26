@@ -1,7 +1,7 @@
 ---
 title: "Patching for Purists: ROM Linguistic Tweaks"
-date: 2024-06-23 17:33:36
-updated: 2024-06-24 11:50:17
+date: 2024-06-25T13:29:27.286Z
+updated: 2024-06-26T13:29:27.286Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/69a1f779573ffb1d9703aa1f0c2a82407b77bc350
 
 ## What You’ll Need to Apply a Fan Translation Patch
 
- Before you download a fan translation patch, get an emulator. There are plenty of[fantastic emulators to play classic games on your Android phone or tablet](https://www.makeuseof.com/tag/best-game-emulators-for-android/) , like the Sega Genesis/Mega Drive game I'm using in the example later. If you prefer a standalone unit for retro gaming, consider[building a portable retro gaming console via Raspberry Pi](https://www.makeuseof.com/portable-retro-gaming-console-build-with-raspberry-pi/) and putting your emulator on that.
+ Before you download a fan translation patch, get an emulator. There are plenty of [fantastic emulators to play classic games on your Android phone or tablet](https://www.makeuseof.com/tag/best-game-emulators-for-android/) , like the Sega Genesis/Mega Drive game I'm using in the example later. If you prefer a standalone unit for retro gaming, consider [building a portable retro gaming console via Raspberry Pi](https://www.makeuseof.com/portable-retro-gaming-console-build-with-raspberry-pi/) and putting your emulator on that.
 
  Got the emulator? The next thing you need is a ROM file to play the game you want to translate. It's important you ensure that you use copies of games you own. This way, you guarantee you use ROMs correctly and legally.
 
@@ -48,13 +48,13 @@ thumbnail: https://thmb.techidaily.com/69a1f779573ffb1d9703aa1f0c2a82407b77bc350
 
  A patch tool works by binding a patch file to a ROM file, thus creating a new ROM file with the parameters of the patch baked in. It’s the same concept as your platform of choice auto-updating a game you’re about to play before you can play.
 
- In the past, you needed to know the different types of patch files. But today, that's not really the case, especially as you can[create your own Rom Hacks for games like Pokémon](https://www.makeuseof.com/how-to-create-rom-hacks/) from an Android device or straight from the web with sites like Rom Patcher JS. Let's use the former as an example.
+ In the past, you needed to know the different types of patch files. But today, that's not really the case, especially as you can [create your own Rom Hacks for games like Pokémon](https://www.makeuseof.com/how-to-create-rom-hacks/) from an Android device or straight from the web with sites like Rom Patcher JS. Let's use the former as an example.
 
 ## How to Apply a Fan Translation Patch to Your ROM
 
  Now let’s put all the pieces together. Find the translation patch file you downloaded a moment ago. Copy it, then paste it into the same folder as the ROM file you’ll be patching for easy reference.
 
- Head over to the[Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) web app. Select**Choose File** for both the**ROM file** and**Patch file** fields and select the appropriate file for each. For this example, I’m choosing the Panorama Cotton ROM file and the English translation patch file I copied over to my**ROMS** folder a moment ago.
+ Head over to the [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) web app. Select**Choose File** for both the**ROM file** and**Patch file** fields and select the appropriate file for each. For this example, I’m choosing the Panorama Cotton ROM file and the English translation patch file I copied over to my**ROMS** folder a moment ago.
 
  Select**Apply patch** to download the newly patched version of the ROM file. Rename it if you prefer, then add it to your**ROMS** folder.
 
@@ -81,3 +81,26 @@ thumbnail: https://thmb.techidaily.com/69a1f779573ffb1d9703aa1f0c2a82407b77bc350
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/tackling-device-lag-fix-for-error-code-0x887a0006-in-wins/"><u>Tackling Device Lag: Fix for Error Code 0X887A0006 in Wins</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-cosmetic-to-critical-the-gamers-advantage/"><u>From Cosmetic to Critical: The Gamer's Advantage</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-volume-control-on-xbox-s-and-x-series-x/"><u>Mastering Volume Control on Xbox S & X Series X</u></a></li>
+<li><a href="https://games-able.techidaily.com/bring-the-magic-back-top-7-revival-candidates-from-activision-blizzard/"><u>Bring the Magic Back: Top 7 Revival Candidates From Activision Blizzard</u></a></li>
+<li><a href="https://games-able.techidaily.com/475plus-ultra-responsive-screen-innocn-39g1r/"><u>$475+ Ultra-Responsive Screen: InnoCN 39G1R</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-cozy-gamings-charm/"><u>Unraveling Cozy Gaming's Charm</u></a></li>
+<li><a href="https://games-able.techidaily.com/improving-stability-in-mouse-scrolling-mechanism/"><u>Improving Stability in Mouse Scrolling Mechanism</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719171155782-gamers-delight-large-scale-arcade-framing/"><u>Gamer's Delight - Large-Scale Arcade Framing</u></a></li>
+<li><a href="https://games-able.techidaily.com/five-digital-desktop-text-adventures-await/"><u>Five Digital, Desktop Text-Adventures Await</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-a-hit-solo-podcast-trendsetting-tips-for-2024/"><u>Crafting a Hit Solo Podcast  Trendsetting Tips for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-iphone-11-pro-lock-screen-by-drfone-ios/"><u>Complete Guide For iPhone 11 Pro Lock Screen</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-a-practical-approach-to-balancing-loudness-and-clarity-with-vlc-normalization/"><u>Updated 2024 Approved A Practical Approach to Balancing Loudness and Clarity with VLC Normalization</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-collection-of-dynamic-text-for-ae-projects/"><u>2024 Approved  Ultimate Collection of Dynamic Text for AE Projects</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-tales-on-the-silver-screen-writing-for-cinema-for-2024/"><u>[Updated] Tales on the Silver Screen  Writing for Cinema for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-tips-for-snagging-quality-streams-on-facebook/"><u>[Updated] 2024 Approved  Tips for Snagging Quality Streams on Facebook</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-xiaomi-redmi-13c-5g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Xiaomi Redmi 13C 5G Fingerprint Lock</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-instagrams-video-opposites-a-tutorial-for-2024/"><u>[New] Mastering Instagram's Video Opposites  A Tutorial for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-problem-is-over-your-shorts-show-up-now/"><u>In 2024, The Problem Is Over  Your Shorts Show Up Now</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/in-2024-video-mastery-on-linkedin-the-perfect-aspect-ratio-guide/"><u>In 2024, Video Mastery on LinkedIn The Perfect Aspect Ratio Guide</u></a></li>
+</ul></div>

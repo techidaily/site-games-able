@@ -1,7 +1,7 @@
 ---
 title: "Weaving Stories in Cyberspace: Mastering Interactive Text-Based Gameplay with ChatGPT"
-date: 2024-06-25T10:37:38.412Z
-updated: 2024-06-26T10:37:38.412Z
+date: 2024-06-25T12:48:33.747Z
+updated: 2024-06-26T12:48:33.747Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/fbf47cff7f90b38c5c4bfba881d1b7d8a9950edbb
 
 ## Tell ChatGPT Its Function and the Presentation Rules
 
- While this guide is geared towards more experienced ChatGPT users, new users might find this useful when they learn[how to use ChatGPT](https://www.makeuseof.com/how-does-chatgpt-work/) . After you get the hang of the AI, you can begin to create your prompt.
+ While this guide is geared towards more experienced ChatGPT users, new users might find this useful when they learn [how to use ChatGPT](https://www.makeuseof.com/how-does-chatgpt-work/) . After you get the hang of the AI, you can begin to create your prompt.
 
  Start your prompt by telling ChatGPT what you would like to do, in this case, a text adventure game:
 
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/fbf47cff7f90b38c5c4bfba881d1b7d8a9950edbb
 >
 > 3\. Always wait for the player's next command.
 
- Asking the AI to always output the items listed in number two is important because ChatGPT has a habit of forgetting things. Constantly outputting it will help consistently remind it of the values of these items as they change over the course of your game. For more ideas on what to add to your game, check out our list of[RPG terms every player should know](https://www.makeuseof.com/rpg-terms-every-gamer-should-know/) .
+ Asking the AI to always output the items listed in number two is important because ChatGPT has a habit of forgetting things. Constantly outputting it will help consistently remind it of the values of these items as they change over the course of your game. For more ideas on what to add to your game, check out our list of [RPG terms every player should know](https://www.makeuseof.com/rpg-terms-every-gamer-should-know/) .
 
 > _4\. Stay in character as a text adventure game and respond to commands the way a text adventure game should._
 >
@@ -128,7 +128,7 @@ thumbnail: https://thmb.techidaily.com/fbf47cff7f90b38c5c4bfba881d1b7d8a9950edbb
 
 ## Add Combat and Magic Rules
 
- As with any adventure[RPG](https://www.makeuseof.com/what-are-rpgs-role-playing-games/) , combat and magic are big parts of the experience. If you don’t add rules to guide this part of your game, you’ll end up with a game you can easily cheese through. It doesn’t help that ChatGPT likes to favor the user in its narratives, and it will generally make things go your way. Here’s what our rules look like:
+ As with any adventure [RPG](https://www.makeuseof.com/what-are-rpgs-role-playing-games/) , combat and magic are big parts of the experience. If you don’t add rules to guide this part of your game, you’ll end up with a game you can easily cheese through. It doesn’t help that ChatGPT likes to favor the user in its narratives, and it will generally make things go your way. Here’s what our rules look like:
 
 > Combat and Magic Rules:
 >
@@ -166,13 +166,11 @@ And finally, don’t forget to actually start the game:
 
  As you play, you might have to remind the AI of the rules you’ve laid out. The AI will respond to the same prompt differently, so every user might have a different experience.
 
-## Using GPT-4 vs. GPT-3.5 to Run Your Game
-
-![GPT-4 generating texts for a turn-based text RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-4-generating-texts-for-a-turn-based-text-rpg.jpeg)
+## Using GPT-4 vs. GPT-3.5 to Run Your Game ![GPT-4 generating texts for a turn-based text RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-4-generating-texts-for-a-turn-based-text-rpg.jpeg)
 
  If you have ChatGPT Plus, it grants you access to GPT-4, a more intelligent version of GPT-3.5\. You should try running a few RPG sessions with GPT-4 instead of GPT3.5\. It's way more creative, better at crafting stories, remembering rules, and all-around better at improv. It costs $20/month, and it's a good tool for doing other things apart from text-based gaming.
 
- Should you pay the $20 solely for text-based gaming? Realistically, no. Unless you're a big fan of RPGs, it might not be worth the money. Also, GPT-4 has a limit of 50 messages every three hours, so you won't have endless fun, and you'll be returned to GPT-3 in a short while. Some users have also complained that[GPT-4 is slower than GPT3.5](https://www.makeuseof.com/why-is-chatgpt-4-so-slow-compared-to-chatgpt-35/) .
+ Should you pay the $20 solely for text-based gaming? Realistically, no. Unless you're a big fan of RPGs, it might not be worth the money. Also, GPT-4 has a limit of 50 messages every three hours, so you won't have endless fun, and you'll be returned to GPT-3 in a short while. Some users have also complained that [GPT-4 is slower than GPT3.5](https://www.makeuseof.com/why-is-chatgpt-4-so-slow-compared-to-chatgpt-35/) .
 
 ## The Complete ChatGPT RPG Prompt
 

@@ -1,7 +1,7 @@
 ---
 title: Steam Stops Unlawful Game Return Gambits
-date: 2024-06-25T10:50:29.753Z
-updated: 2024-06-26T10:50:29.753Z
+date: 2024-06-25T12:48:41.876Z
+updated: 2024-06-26T12:48:41.876Z
 tags:
   - games
 categories:
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/3bbc4ff17b35bac37e3335e5a66057aab2f13c2b0
 
 ## Steam Updates Refund Policy
 
- Those familiar with[how to refund a game on Steam](https://www.makeuseof.com/how-to-refund-a-game-on-steam/) will be aware of two major rules: you can't have owned the game for more than 14 days and you can't have played more than two hours in order to qualify for the refund.
+ Those familiar with [how to refund a game on Steam](https://www.makeuseof.com/how-to-refund-a-game-on-steam/) will be aware of two major rules: you can't have owned the game for more than 14 days and you can't have played more than two hours in order to qualify for the refund.
 
  But there was a loophole: Advanced Access games. These games are different to Early Access games, which involves purchasing a game while it is still in development to access early builds. Rather, Advanced Access allows those who have pre-purchased a game to play the game prior to its release date.
 
@@ -26,17 +26,15 @@ thumbnail: https://thmb.techidaily.com/3bbc4ff17b35bac37e3335e5a66057aab2f13c2b0
 
  This is where the refund loophole came in. Advanced Access hours weren't counted as part of your total hours played, which would allow users to get refunds for games they had spent considerable hours in.
 
- Steam announced on 24 April that this would change. In a[Steam blog post](https://store.steampowered.com/news/collection/steam/?emclan=103582791457287600&emgid=4195741362094579140) , the company stated:
+ Steam announced on 24 April that this would change. In a [Steam blog post](https://store.steampowered.com/news/collection/steam/?emclan=103582791457287600&emgid=4195741362094579140) , the company stated:
 
 > "Playtime acquired during the Advanced Access period will now count towards the Steam refund period."
 
 The change, however, does not apply to beta testing.
 
- Advanced Access has previously been included with games like Starfield. In addition to allowing you to play a game before its release date, Advanced Access also lets you[post a Steam review](https://www.makeuseof.com/how-to-leave-a-game-review-on-steam/) before the game's launch.
+ Advanced Access has previously been included with games like Starfield. In addition to allowing you to play a game before its release date, Advanced Access also lets you [post a Steam review](https://www.makeuseof.com/how-to-leave-a-game-review-on-steam/) before the game's launch.
 
-## How The New Refund Policy Will Affect You
-
-![the steam logo on a smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/the-steam-logo-on-a-smartphone.jpg)
+## How The New Refund Policy Will Affect You ![the steam logo on a smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/the-steam-logo-on-a-smartphone.jpg)
 
  nikkimeel/[Shutterstock](https://www.shutterstock.com/image-photo/steam-logo-on-smartphone-screen-rostovondon-2081949886)
 

@@ -1,7 +1,7 @@
 ---
 title: "NVIDIA's RTX 4090: A Trifecta of Regrets"
-date: 2024-06-20 18:26:29
-updated: 2024-06-23 12:29:40
+date: 2024-06-25T13:28:37.096Z
+updated: 2024-06-26T13:28:37.096Z
 tags:
   - games
 categories:
@@ -42,11 +42,11 @@ thumbnail: https://thmb.techidaily.com/64bcba811dca59ee452fde50283dc6af9516c46b5
 
 ![RTSS OSD stats appearing in Valorant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/rtss-osd-stats-appearing-in-valorant.png)
 
- Even in graphically demanding AAA games, my GPU usage rarely exceeds 90 percent. And that's because my CPU can't keep up. I use a Ryzen 5900X, which is a generation older than the top-of-the-line AMD Ryzen processors available today, like[the Ryzen 7800X3D, 7900X3D, and 7950X3D](https://www.makeuseof.com/ryzen-9-7950x3d-vs-ryzen-9-7900x3d-vs-ryzen-7-7800x3d/) .
+ Even in graphically demanding AAA games, my GPU usage rarely exceeds 90 percent. And that's because my CPU can't keep up. I use a Ryzen 5900X, which is a generation older than the top-of-the-line AMD Ryzen processors available today, like [the Ryzen 7800X3D, 7900X3D, and 7950X3D](https://www.makeuseof.com/ryzen-9-7950x3d-vs-ryzen-9-7900x3d-vs-ryzen-7-7800x3d/) .
 
 ## 2 Power Consumption Is Very High
 
- The RTX 4090 is a monster of a GPU that consumes a lot of power. The Founders Edition (reference) version of the RTX 4090 has a[TDP (Thermal Design Power)](https://www.makeuseof.com/tag/thermal-design-power-technology-explained/) of 450W. This means the GPU can consume up to 450W under general usage.
+ The RTX 4090 is a monster of a GPU that consumes a lot of power. The Founders Edition (reference) version of the RTX 4090 has a [TDP (Thermal Design Power)](https://www.makeuseof.com/tag/thermal-design-power-technology-explained/) of 450W. This means the GPU can consume up to 450W under general usage.
 
  However, the RTX 4090 I own is no ordinary unit. It's the Colorful iGame RTX 4090 Neptune, a liquid-cooled variant with a 360mm radiator that has a TDP of 630W! Like this one, several RTX 4090 variants from NVIDIA's board partners have a TDP higher than 450W.
 
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/64bcba811dca59ee452fde50283dc6af9516c46b5
 
  However, the Colorful Neptune RTX 4090 I have cost me a little over two grand, but at that time, I thought it was worth it because of the overclocking headroom I got from liquid cooling. Another reason is that this card isn't nearly as chunky as other air-cooled RTX 4090 cards on the market.
 
- Unfortunately, I haven't even come close to maximizing the RTX 4090's full potential because of the kind of games I mostly play. I now feel like I could've spent half the money on an RTX 4080 for similar frame rates on esports titles like Valorant, Overwatch 2, or Fortnite. To get the most out of my RTX 4090 now, I need one of[the fastest gaming CPUs from AMD or Intel](https://www.makeuseof.com/amd-vs-intel-gaming/) .
+ Unfortunately, I haven't even come close to maximizing the RTX 4090's full potential because of the kind of games I mostly play. I now feel like I could've spent half the money on an RTX 4080 for similar frame rates on esports titles like Valorant, Overwatch 2, or Fortnite. To get the most out of my RTX 4090 now, I need one of [the fastest gaming CPUs from AMD or Intel](https://www.makeuseof.com/amd-vs-intel-gaming/) .
 
  So, if you're on the fence about buying an RTX 4090, think about the games you play and the resolution you play at because I don't want you to make the same mistake as I did. I wouldn't recommend buying an RTX 4090 if you don't plan to play AAA games at 4K resolution regularly.
 
@@ -83,3 +83,26 @@ thumbnail: https://thmb.techidaily.com/64bcba811dca59ee452fde50283dc6af9516c46b5
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/passed-geforce-now-does-it-deliver-value/"><u>Passed GeForce Now: Does It Deliver Value?</u></a></li>
+<li><a href="https://games-able.techidaily.com/mending-your-ps4-remotes-abrupt-severance-from-pc/"><u>Mending Your PS4 Remote's Abrupt Severance From PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-steam-deck-performance-installing-gaming-launchers/"><u>Enhance Steam Deck Performance: Installing Gaming Launchers</u></a></li>
+<li><a href="https://games-able.techidaily.com/old-ps5-and-slimmer-tech-differences-discussed/"><u>Old PS5 & Slimmer Tech: Differences Discussed</u></a></li>
+<li><a href="https://games-able.techidaily.com/more-than-a-series-explore-the-full-fallout-video-game-repertoire/"><u>More than a Series: Explore the Full Fallout Video Game Repertoire</u></a></li>
+<li><a href="https://games-able.techidaily.com/securing-ps5-internet-link-resolving-common-issues/"><u>Securing PS5 Internet Link: Resolving Common Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/mwc-unveiled-innovations-and-winners-by-makeuseof/"><u>MWC Unveiled: Innovations and Winners by MakeUseOf</u></a></li>
+<li><a href="https://games-able.techidaily.com/engage-with-friends-and-strangers-live-xbox-content-sharing-on-discord/"><u>Engage with Friends and Strangers: Live Xbox Content Sharing on Discord</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionize-gaming-and-productivity-the-4-reasons-to-choose-corsairs-icue-link/"><u>Revolutionize Gaming and Productivity - The 4 Reasons to Choose Corsair’s iCUE Link</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-navigating-the-launch-of-tiktok-videos-from-pc-for-2024/"><u>[Updated] Navigating the Launch of TikTok Videos From PC for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-enrich-engagement-tailored-questions-for-ig-story-boosting/"><u>[New] In 2024, Enrich Engagement  Tailored Questions for IG Story Boosting</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oneplus-nord-3-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your OnePlus Nord 3 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leading-spots-for-stunning-3d-metallic-type-creations/"><u>[Updated] Leading Spots for Stunning 3D Metallic Type Creations</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-supreme-selection-ideal-sierra-dvd-and-video-apps/"><u>2024 Approved  Supreme Selection  Ideal Sierra Dvd & Video Apps</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-iphone-6-plus-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6 Plus When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-honor-magic-6-lite-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Honor Magic 6 Lite Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-the-essential-guide-free-youtube-image-saving/"><u>2024 Approved  The Essential Guide  FREE YouTube Image Saving</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/efficient-techniques-to-record-your-idevice-for-2024/"><u>Efficient Techniques to Record Your iDevice for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/spectrum-of-autonomous-flight-machines-for-2024/"><u>Spectrum of Autonomous Flight Machines for 2024</u></a></li>
+</ul></div>

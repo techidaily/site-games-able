@@ -1,7 +1,7 @@
 ---
 title: Reignite Controller Functionality in Windows Settings
-date: 2024-06-25T10:43:27.689Z
-updated: 2024-06-26T10:43:27.689Z
+date: 2024-06-25T12:48:37.517Z
+updated: 2024-06-26T12:48:37.517Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/26e5a5bed3537105229e89d2df536f43cfadace1d
 
 ## 1\. Check if Windows Recognizes Your Controller
 
- The first thing you need to do is check if Windows recognizes your controller. For that, you will need to[open the Game Controller Settings on Windows](https://www.makeuseof.com/how-to-launch-game-controllers-settings-windows-11/) . Here's how to do that.
+ The first thing you need to do is check if Windows recognizes your controller. For that, you will need to [open the Game Controller Settings on Windows](https://www.makeuseof.com/how-to-launch-game-controllers-settings-windows-11/) . Here's how to do that.
 
 1. Press**Win + R** to open the Run dialog box.
 2. Type**joy.cpl** in the box and press**Enter** .
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/26e5a5bed3537105229e89d2df536f43cfadace1d
 
 ## 2\. Disconnect and Reconnect the Controller
 
- When you encounter[issues with an external device on Windows](https://www.makeuseof.com/tag/external-drive-not-recognized-this-is-how-to-fix-it-in-windows/) such as a controller, it’s a good idea to disconnect it and connect it again. This may seem like a simple solution, but it is often effective.
+ When you encounter [issues with an external device on Windows](https://www.makeuseof.com/tag/external-drive-not-recognized-this-is-how-to-fix-it-in-windows/) such as a controller, it’s a good idea to disconnect it and connect it again. This may seem like a simple solution, but it is often effective.
 
  If it is a wired controller, try connecting it to a different USB port. For a wireless controller, you need to make sure it has enough battery. If it does, try unpairing and pairing it again.
 
@@ -80,11 +80,9 @@ To run the Hardware and Devices troubleshooter, use these steps:
 
  Wait for Windows to check for any pending updates for the driver and install them.
 
- If the controller still does not work after that, the controller driver may be corrupted. In that case, you will need to[uninstall the faulty driver from your Windows PC](https://www.makeuseof.com/windows-11-uninstall-drivers/) . Once removed, restart your PC and Windows will automatically reinstall the driver during startup.
+ If the controller still does not work after that, the controller driver may be corrupted. In that case, you will need to [uninstall the faulty driver from your Windows PC](https://www.makeuseof.com/windows-11-uninstall-drivers/) . Once removed, restart your PC and Windows will automatically reinstall the driver during startup.
 
-## 6\. Update Your Controller’s Firmware
-
-![Update Controller Firmware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/update-controller-firmware.jpg)
+## 6\. Update Your Controller’s Firmware ![Update Controller Firmware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/update-controller-firmware.jpg)
 
  Keeping your controller updated with the latest software can help you avoid any compatibility issues. So, if none of the above tips help, open your controller manufacturer’s app or program and install any available updates.
 

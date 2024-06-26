@@ -1,7 +1,7 @@
 ---
 title: "Get to Know The New PS5 Slim: Must-Know Details"
-date: 2024-06-22 22:46:39
-updated: 2024-06-24 10:56:35
+date: 2024-06-25T13:02:58.809Z
+updated: 2024-06-26T13:02:58.809Z
 tags:
   - games
 categories:
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/747b49f807ccf9f14c19b340ff456a78dd6771bea
 
  Since the PlayStation 5 launched in 2019, you have had two options. The physical edition, which is a bit pricier but holds a disc tray as past consoles have, or the digital edition, which is cheaper but doesn't feature a disc tray.
 
- Now, as announced on[the PlayStation Blog](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/?sf269561474=1) , there's going to be a new model for both versions; which is smaller and more compact with an optional disc-drive add-on. Launching in November 2023 in the US, you can expect to purchase this from select retail stores (to be announced closer to the date) as well as from[direct.playstation.com](http://direct.playstation.com) .
+ Now, as announced on [the PlayStation Blog](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/?sf269561474=1) , there's going to be a new model for both versions; which is smaller and more compact with an optional disc-drive add-on. Launching in November 2023 in the US, you can expect to purchase this from select retail stores (to be announced closer to the date) as well as from [direct.playstation.com](http://direct.playstation.com) .
 
  If you're not in the US, you'll have to wait a little longer to get your hands on one of these new, slimmer PS5s. Sony has announced that it will be rolling out the new PS5 model to other countries in "the following months", but the wording is deliberately vague.
 
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/747b49f807ccf9f14c19b340ff456a78dd6771bea
 
 ## When Can You Expect the "PS5 Slim"?
 
- As previously noted, the "PS5 Slim" is launching in the US in November 2023, with rollout to other countries happening in "the following months". There are many[reasons why the PlayStation 5 should be your next console](https://www.makeuseof.com/why-ps5-should-be-your-next-console/) , and if you're buying one, you may as well buy the latest model.
+ As previously noted, the "PS5 Slim" is launching in the US in November 2023, with rollout to other countries happening in "the following months". There are many [reasons why the PlayStation 5 should be your next console](https://www.makeuseof.com/why-ps5-should-be-your-next-console/) , and if you're buying one, you may as well buy the latest model.
 
  Depending on the model you go for, the "PS5 Slim" will cost between $449.99 and $499.99, which is similar in price to what the original models launched at.
 
@@ -65,3 +65,24 @@ thumbnail: https://thmb.techidaily.com/747b49f807ccf9f14c19b340ff456a78dd6771bea
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-sourcing-indie-games-online/"><u>Mastering the Art of Sourcing Indie Games Online</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-fixes-for-xbox-gold-membership-cost-surge/"><u>Quick Fixes for Xbox Gold Membership Cost Surge</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-ready-to-play-chatgpt-introduces-its-6-intense-games/"><u>Get Ready To Play: ChatGPT Introduces Its 6 Intense Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionizing-gaming-with-wireless-controller-updates/"><u>Revolutionizing Gaming with Wireless Controller Updates</u></a></li>
+<li><a href="https://games-able.techidaily.com/pinnacle-headphones-for-switch-gamers/"><u>Pinnacle Headphones for Switch Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/switch-chronicles-2024-the-handhnant-evolution/"><u>Switch Chronicles 2024 - The Handhnant Evolution</u></a></li>
+<li><a href="https://games-able.techidaily.com/six-no-cost-gaming-experiences-worth-exploring/"><u>Six No-Cost Gaming Experiences Worth Exploring</u></a></li>
+<li><a href="https://games-able.techidaily.com/cautionary-tales-for-paying-gamers-to-develop-games/"><u>Cautionary Tales for Paying Gamers to Develop Games</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-elite-content-makers-top-paid-online-stars/"><u>In 2024, Elite Content Makers  Top Paid Online Stars</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-the-ultimate-twitreact-guidebook/"><u>[Updated] 2024 Approved  The Ultimate TwitReact Guidebook</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-elevating-your-brand-the-tiktok-business-model/"><u>[Updated] Elevating Your Brand  The TikTok Business Model</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-demystifying-viewer-statistics-on-instagram-images/"><u>In 2024, Demystifying Viewer Statistics on Instagram Images</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-no-cost-video-looping-solutions-for-creators/"><u>Updated No-Cost Video Looping Solutions for Creators</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-prime-selection-of-360-videography-tools/"><u>[New] Prime Selection of 360° Videography Tools</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-premier-voice-capture-apps-on-android-the-best/"><u>New In 2024, Premier Voice Capture Apps on Android The Best</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-vivid-visual-storytelling-the-fade-technique/"><u>2024 Approved  Vivid Visual Storytelling  The Fade Technique</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-5-best-adobe-animate-courses-and-classes-for-2024/"><u>Updated 5 Best Adobe Animate Courses & Classes for 2024</u></a></li>
+</ul></div>

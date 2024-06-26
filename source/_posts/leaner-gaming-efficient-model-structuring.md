@@ -1,7 +1,7 @@
 ---
 title: "Leaner Gaming: Efficient Model Structuring"
-date: 2024-06-22 19:55:31
-updated: 2024-06-24 11:56:27
+date: 2024-06-25T13:27:34.824Z
+updated: 2024-06-26T13:27:34.824Z
 tags:
   - games
 categories:
@@ -18,9 +18,7 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 
  Designing and optimizing 3D models for your games is a big part of this, and we’re here to help you out. Let’s explore some of the key practices and techniques that you can employ to optimize 3D models for game development.
 
-## 3D Model Game Optimization: Development Practices
-
-![room 3d model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/room-3d-model.jpg)
+## 3D Model Game Optimization: Development Practices ![room 3d model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/room-3d-model.jpg)
 
  While a good deal of the work you can do to optimize 3D models for game development is done in your 3D design software, the game engine also gives you opportunities to make your game faster. These methods are easy to put to work, providing a good place to start if you have already begun development on your game.
 
@@ -34,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 
  Textures act like skin on the outside of a 3D object, adding patterns and other visual features to make the object look more real. Textures come in the form of image files, and each of these files needs to be loaded when it is used in a scene. By using compressed textures, you can free up a lot of resources.
 
- Alongside using compressed textures, it’s also worth making sure that the shaders you use are well-optimized. Most game engines have an asset store with both free and paid shaders available to make this easier. You can also find[free 3D models on the Unity Asset Store](https://www.makeuseof.com/unity-free-assets-websites/) that are already optimized, and this applies to other engines, too.
+ Alongside using compressed textures, it’s also worth making sure that the shaders you use are well-optimized. Most game engines have an asset store with both free and paid shaders available to make this easier. You can also find [free 3D models on the Unity Asset Store](https://www.makeuseof.com/unity-free-assets-websites/) that are already optimized, and this applies to other engines, too.
 
 ### Use Static Lighting
 
@@ -50,15 +48,11 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 
  The engine can automatically remove polygons from an object’s mesh when the player is far away, lowering resource costs without impacting immersion.
 
-## 3D Model Game Optimization: Design Workflow
-
-![3d designer working at PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3d-designer.jpg)
+## 3D Model Game Optimization: Design Workflow ![3d designer working at PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3d-designer.jpg)
 
  Designing 3D models that are optimized for video game development is easier than you might expect. This process mostly involves stripping your model down to ensure that it only has the vertices, lines, and faces that it needs. There are several ways to achieve this.
 
-### Manual Geometry Optimization
-
-![monkey model in blender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/manual-3d-optimization.jpg)
+### Manual Geometry Optimization ![monkey model in blender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/manual-3d-optimization.jpg)
 
  Optimizing simple geometry by hand is a good way to get used to designing models for video games. You have two main options for removing faces, lines, and vertices in 3D modeling software; deleting and dissolving.
 
@@ -68,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 
 * **Remove Hidden Faces** : Faces that the player will never see don’t need to be loaded into your game. The backs of buildings, the underside of a vehicle, and pieces of geometry that are below ground can usually be removed. This is the manual version of occlusion mapping.
 * **Remove Duplicate/Redundant Faces** : Duplicate faces should always be deleted, but you should also look for faces that aren’t necessary. A square, for example, only needs to have one face. If it has two triangular faces, dissolve them both to replace them with a single face.
-* **Object Merging** : Loading one object is always better than loading two or three.[Merging 3D objects in Blender](https://www.makeuseof.com/merge-objects-in-blender/) and[other game development software](https://www.makeuseof.com/tag/five-free-game-development-tools-make-your-own-games/) is easy, and it's a great way to reduce your resource costs.
+* **Object Merging** : Loading one object is always better than loading two or three.[Merging 3D objects in Blender](https://www.makeuseof.com/merge-objects-in-blender/) and [other game development software](https://www.makeuseof.com/tag/five-free-game-development-tools-make-your-own-games/) is easy, and it's a great way to reduce your resource costs.
 
 ### Automated Geometry Optimization
 
@@ -97,3 +91,26 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/navigating-the-steps-to-enhance-ps5-game-access-control/"><u>Navigating the Steps to Enhance PS5 Game Access Control</u></a></li>
+<li><a href="https://games-able.techidaily.com/6-live-service-games-that-arent-pay-to-win/"><u>6 Live Service Games That Aren’t Pay-to-Win</u></a></li>
+<li><a href="https://games-able.techidaily.com/ideal-multiplayer-console-titles-best-16-for-game-nights/"><u>Ideal Multiplayer Console Titles - Best 16 for Game Nights</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-step-by-step-checklist-before-you-purchase-your-ps5/"><u>A Step-by-Step Checklist: Before You Purchase Your PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-ps5-buying-process-wisely/"><u>Navigating the PS5 Buying Process Wisely</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-game-room-with-expert-3d-lighting-choices/"><u>Transform Your Game Room with Expert 3D Lighting Choices</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-your-creative-talent-with-these-7-game-based-skills/"><u>Master Your Creative Talent with These 7 Game-Based Skills</u></a></li>
+<li><a href="https://games-able.techidaily.com/unexpected-indie-gems-the-games-that-stood-out/"><u>Unexpected Indie Gems: The Games That Stood Out</u></a></li>
+<li><a href="https://games-able.techidaily.com/transitioning-iphone-into-a-mobile-gaming-station/"><u>Transitioning iPhone Into a Mobile Gaming Station</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/bites-and-bloopers-tasty-talents-on-tiktok/"><u>Bites & Bloopers  Tasty Talents on TikTok</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-pinterest-a-players-sharing-snapchat-stories/"><u>[Updated] Pinterest A-Players Sharing Snapchat Stories</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-ultimate-strategy-for-highlight-image-success-in-instagram-for-2024/"><u>[Updated] The Ultimate Strategy for Highlight Image Success in Instagram for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-unlock-full-potential-of-your-zoom-sessions-with-obs/"><u>2024 Approved  Unlock Full Potential of Your Zoom Sessions With OBS</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitter-vids-analysis-the-holistic-2023-guide/"><u>[New] Twitter Vids Analysis  The Holistic 2023 Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-nokia-c02-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Nokia C02 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-cutting-edge-tools-for-youtube-screen-capturing-for-2024/"><u>[Updated] Cutting-Edge Tools for YouTube Screen Capturing for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-discord-text-decoration-a-step-by-step-approach/"><u>[Updated] Discord Text Decoration  A Step-by-Step Approach</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-maximize-zoom-audio-clarity-methods-and-tips-shared/"><u>In 2024, Maximize Zoom Audio Clarity  Methods & Tips Shared</u></a></li>
+</ul></div>

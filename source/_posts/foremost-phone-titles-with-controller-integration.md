@@ -1,7 +1,7 @@
 ---
 title: Foremost Phone Titles with Controller Integration
-date: 2024-06-22 18:13:50
-updated: 2024-06-24 11:14:43
+date: 2024-06-25T13:28:20.105Z
+updated: 2024-06-26T13:28:20.105Z
 tags:
   - games
 categories:
@@ -26,17 +26,17 @@ thumbnail: https://thmb.techidaily.com/c92572eed4dd2bbe96a0af1968717f74dd3686117
 
  Call of Duty: Mobile features several modes. The most popular is the Battle Royale mode, which features a full-sized map. 100 players drop into the map and gather weapons and materials. The last person standing wins the match.
 
- There are also classic Deathmatch modes offered, and you can even play on your favorite legacy maps like Nuketown or Shipment. Call of Duty: Mobile is also a great first game to play if you’re looking to[use your iPhone as a game console](https://www.makeuseof.com/how-to-turn-iphone-into-gaming-console/) .
+ There are also classic Deathmatch modes offered, and you can even play on your favorite legacy maps like Nuketown or Shipment. Call of Duty: Mobile is also a great first game to play if you’re looking to [use your iPhone as a game console](https://www.makeuseof.com/how-to-turn-iphone-into-gaming-console/) .
 
-**Download:** Call of Duty: Mobile for[iOS](https://apps.apple.com/us/app/call-of-duty-mobile/id1287282214) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029511/https://play.google.com/store/apps/details?id=com.activision.callofduty.shooter) (Free, in-app purchases available).
+**Download:** Call of Duty: Mobile for [iOS](https://apps.apple.com/us/app/call-of-duty-mobile/id1287282214) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029511/https://play.google.com/store/apps/details?id=com.activision.callofduty.shooter) (Free, in-app purchases available).
 
 ## 2\. Minecraft
 
  One of the most popular games of all time, Minecraft, is available on mobile devices and offers controller support. Not only does this make gameplay more familiar for console players, but it’s actually much easier to use a controller and it improves the gameplay.
 
- Best of all, if you already play Minecraft: Bedrock Edition, you can log into the same maps and play with your friends, right from your mobile device. And, if you already have a Nintendo Switch, you can also[use Nintendo Switch Joy-Con as a controller for your iPhone](https://www.makeuseof.com/how-to-connect-joy-cons-to-iphone/) .
+ Best of all, if you already play Minecraft: Bedrock Edition, you can log into the same maps and play with your friends, right from your mobile device. And, if you already have a Nintendo Switch, you can also [use Nintendo Switch Joy-Con as a controller for your iPhone](https://www.makeuseof.com/how-to-connect-joy-cons-to-iphone/) .
 
-**Download:** Minecraft for[iOS](https://apps.apple.com/us/app/minecraft/id479516143) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029511/https://play.google.com/store/apps/details?id=com.mojang.minecraftpe) ($6.99).
+**Download:** Minecraft for [iOS](https://apps.apple.com/us/app/minecraft/id479516143) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029511/https://play.google.com/store/apps/details?id=com.mojang.minecraftpe) ($6.99).
 
 ## 3\. Fortnite
 
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/c92572eed4dd2bbe96a0af1968717f74dd3686117
 
  Playing Fortnite on iPhone requires cloud gaming, and while you can download it to Android devices, cloud gaming is recommended.
 
-**Download:** Fortnite for mobile devices via the official site for[Fortnite](https://www.fortnite.com/mobile) (Free, in-app purchases available).
+**Download:** Fortnite for mobile devices via the official site for [Fortnite](https://www.fortnite.com/mobile) (Free, in-app purchases available).
 
 ## 4\. Rocket League Sideswipe
 
@@ -58,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/c92572eed4dd2bbe96a0af1968717f74dd3686117
 
  Rocket League Sideswipe is a mobile-exclusive game, and you’ll only be playing against other mobile players.
 
-**Download:** Rocket League Sideswipe for[iOS](https://apps.apple.com/us/app/rocket-league-sideswipe/id1549027048) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029511/https://play.google.com/store/apps/details?id=com.Psyonix.RL2D) (Free, in-app purchases available).
+**Download:** Rocket League Sideswipe for [iOS](https://apps.apple.com/us/app/rocket-league-sideswipe/id1549027048) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029511/https://play.google.com/store/apps/details?id=com.Psyonix.RL2D) (Free, in-app purchases available).
 
 ## 5\. Asphalt 9: Legends
 
@@ -66,9 +66,9 @@ thumbnail: https://thmb.techidaily.com/c92572eed4dd2bbe96a0af1968717f74dd3686117
 
  While fun and free, beware that there are ads, and you’ll be frequently asked to make an in-app purchase.
 
- However, it’s the best free racing game available with controller support, and[connecting a controller to your Android devices](https://www.makeuseof.com/tag/how-to-connect-a-game-controller-to-android-for-console-like-gameplay-si/) or iOS is very intuitive and helps to balance out any annoyances caused by intrusive ads.
+ However, it’s the best free racing game available with controller support, and [connecting a controller to your Android devices](https://www.makeuseof.com/tag/how-to-connect-a-game-controller-to-android-for-console-like-gameplay-si/) or iOS is very intuitive and helps to balance out any annoyances caused by intrusive ads.
 
-**Download:** Asphalt 9: Legends[iOS](https://apps.apple.com/us/app/asphalt-9-legends/id805603214) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029511/https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA9HM&hl=en%5FUS&gl=US) (Free, in-app purchases available).
+**Download:** Asphalt 9: Legends [iOS](https://apps.apple.com/us/app/asphalt-9-legends/id805603214) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029511/https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA9HM&hl=en%5FUS&gl=US) (Free, in-app purchases available).
 
 ## 6\. Diablo Immortal
 
@@ -76,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/c92572eed4dd2bbe96a0af1968717f74dd3686117
 
  The game has great controller support, and it’s constantly updated with new maps. Many players claim this game is one of the best mobile games out there.
 
-**Download:** Diablo Immortal for[iOS](https://apps.apple.com/us/app/diablo-immortal/id1492005122) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029511/https://play.google.com/store/apps/details?id=com.blizzard.diablo.immortal&hl=en%5FUS&gl=US) (Free, in-app purchases available).
+**Download:** Diablo Immortal for [iOS](https://apps.apple.com/us/app/diablo-immortal/id1492005122) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029511/https://play.google.com/store/apps/details?id=com.blizzard.diablo.immortal&hl=en%5FUS&gl=US) (Free, in-app purchases available).
 
 ## 7\. Roblox
 
@@ -86,7 +86,7 @@ thumbnail: https://thmb.techidaily.com/c92572eed4dd2bbe96a0af1968717f74dd3686117
 
  Once you have a controller, you’ll enjoy the game so much more and have an easier time navigating.
 
-**Download:** Roblox for[iOS](https://apps.apple.com/us/app/roblox/id431946152) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029511/https://play.google.com/store/apps/details?id=com.roblox.client&hl=en%5FUS&gl=US) (Free, in-app purchases available).
+**Download:** Roblox for [iOS](https://apps.apple.com/us/app/roblox/id431946152) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029511/https://play.google.com/store/apps/details?id=com.roblox.client&hl=en%5FUS&gl=US) (Free, in-app purchases available).
 
 ## 8\. Genshin Impact
 
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/c92572eed4dd2bbe96a0af1968717f74dd3686117
 
  Genshin Impact is a massive online RPG game where you can explore, make friends, and battle enemies. The open world is also beautifully made and is something to admire itself.
 
-**Download:** Genshin Impact for[iOS](https://apps.apple.com/us/app/genshin-impact-v4-0-fontaine/id1517783697) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029511/https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact&hl=en%5FUS&gl=US) (Free, in-app purchases available).
+**Download:** Genshin Impact for [iOS](https://apps.apple.com/us/app/genshin-impact-v4-0-fontaine/id1517783697) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029511/https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact&hl=en%5FUS&gl=US) (Free, in-app purchases available).
 
 ## 9\. Stardew Valley
 
@@ -102,7 +102,7 @@ thumbnail: https://thmb.techidaily.com/c92572eed4dd2bbe96a0af1968717f74dd3686117
 
  Not only is it fun to play on mobile, but it’s also cheaper to buy it on a mobile device as opposed to purchasing it on a console.
 
-**Download:** Stardew Valley for[iOS](https://apps.apple.com/us/app/stardew-valley/id1406710800) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029511/https://play.google.com/store/apps/details?id=com.chucklefish.stardewvalley&hl=en%5FUS&gl=US) ($4.99).
+**Download:** Stardew Valley for [iOS](https://apps.apple.com/us/app/stardew-valley/id1406710800) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029511/https://play.google.com/store/apps/details?id=com.chucklefish.stardewvalley&hl=en%5FUS&gl=US) ($4.99).
 
 ## 10\. Black Desert Mobile
 
@@ -110,7 +110,7 @@ thumbnail: https://thmb.techidaily.com/c92572eed4dd2bbe96a0af1968717f74dd3686117
 
  Luckily, this game has controller support and works flawlessly. So, if you grew up playing Ruinscape or other classic MMORPG games, you’ll feel right at home with Black Desert Mobile.
 
-**Download:** Black Desert Mobile for[iOS](https://apps.apple.com/us/app/black-desert-mobile/id1477186880) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029511/https://play.google.com/store/apps/details?id=com.pearlabyss.blackdesertm.gl&hl=en%5FUS&gl=US) (Free, in-app purchases available).
+**Download:** Black Desert Mobile for [iOS](https://apps.apple.com/us/app/black-desert-mobile/id1477186880) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029511/https://play.google.com/store/apps/details?id=com.pearlabyss.blackdesertm.gl&hl=en%5FUS&gl=US) (Free, in-app purchases available).
 
 ## 11\. Townscaper
 
@@ -118,7 +118,7 @@ thumbnail: https://thmb.techidaily.com/c92572eed4dd2bbe96a0af1968717f74dd3686117
 
  Luckily, Townscaper offers full controller support to make building your cities easier. Townscaper is a relaxing game with no goal, perfect for when you’re looking to unwind.
 
-**Download:** Townscaper for[iOS](https://apps.apple.com/us/app/townscaper/id1549531491) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029511/https://play.google.com/store/apps/details?id=com.OskarStalberg.Townscaper) ($4.99).
+**Download:** Townscaper for [iOS](https://apps.apple.com/us/app/townscaper/id1549531491) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029511/https://play.google.com/store/apps/details?id=com.OskarStalberg.Townscaper) ($4.99).
 
 ## Improve Your Mobile Games With Controller Support
 
@@ -141,3 +141,26 @@ thumbnail: https://thmb.techidaily.com/c92572eed4dd2bbe96a0af1968717f74dd3686117
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/ultimate-screen-setup-optimal-144hz-widescreen-viewing/"><u>Ultimate Screen Setup: Optimal 144Hz Widescreen Viewing</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyerdynamics-mmx-200-a-sound-revolution/"><u>Beyerdynamic's MMX 200: A Sound Revolution</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-gaming-mouse-logitechs-innovation/"><u>Next Gen Gaming Mouse - Logitech's Innovation</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-tools-the-ultimate-list-of-ps3-game-pc-emulators/"><u>Essential Tools: The Ultimate List of PS3 Game PC Emulators</u></a></li>
+<li><a href="https://games-able.techidaily.com/reconnecting-steps-for-windows-to-solve-ps4-controller-dropping-out/"><u>Reconnecting: Steps for Windows to Solve PS4 Controller Dropping Out</u></a></li>
+<li><a href="https://games-able.techidaily.com/android-vs-iphone-clashing-for-tetris-glory/"><u>Android vs iPhone: Clashing for Tetris Glory</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-java-games-stands-out-in-the-mobile-arena/"><u>Why Java Games Stands Out in the Mobile Arena</u></a></li>
+<li><a href="https://games-able.techidaily.com/estimate-your-systems-vram-quantity/"><u>Estimate Your System’s VRAM Quantity</u></a></li>
+<li><a href="https://games-able.techidaily.com/screen-technology-battle-comparing-the-best-among-oled-amoled-and-lcds/"><u>Screen Technology Battle: Comparing The Best Among OLED, AMOLED and LCDs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/vidma-to-go-screen-record-and-beyond-alternatives/"><u>Vidma to Go  Screen Record and Beyond Alternatives</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/jumpstart-to-joyous-animation-a-guide-in-movie-maker-world-for-2024/"><u>Jumpstart to Joyous Animation  A Guide in Movie Maker World for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/stop-the-sway-achieve-solidity-in-your-handhraned-gopro-video-for-2024/"><u>Stop The Sway  Achieve Solidity in Your Handhraned GoPro Video for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/1714064154855-do-you-love-making-and-uploading-status-on-whatsapp-for-your-friends-and-family-it-has-certainly-become-a-trend-nowadays-continue-reading-to-learn-about-the/"><u>Do You Love Making and Uploading Status on WhatsApp for Your Friends and Family? It Has Certainly Become a Trend Nowadays. Continue Reading to Learn About the Best WhatsApp Status Maker Apps for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/virtual-environments-for-advanced-learning/"><u>Virtual Environments for Advanced Learning</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/professional-lenses-and-cameras-for-youtubers-for-2024/"><u>Professional Lenses & Cameras for Youtubers for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-how-to-upload-a-video-to-tiktok-from-mac-or-pc/"><u>2024 Approved  How to Upload a Video to TikTok From Mac or PC</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-infinix-note-30-pro-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Infinix Note 30 Pro phone? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/jocular-joke-crafting-a-step-by-step-guide-to-memelore-for-2024/"><u>Jocular Joke-Crafting  A Step-by-Step Guide to Memelore for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/breaking-down-freevid-cam-capture-tech-for-2024/"><u>Breaking Down FreeVid Cam Capture Tech for 2024</u></a></li>
+</ul></div>

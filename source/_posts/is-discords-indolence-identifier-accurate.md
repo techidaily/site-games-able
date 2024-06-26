@@ -1,7 +1,7 @@
 ---
 title: Is Discord's Indolence Identifier Accurate?
-date: 2024-06-25T10:45:54.779Z
-updated: 2024-06-26T10:45:54.779Z
+date: 2024-06-25T12:48:39.054Z
+updated: 2024-06-26T12:48:39.054Z
 tags:
   - games
 categories:
@@ -48,11 +48,11 @@ thumbnail: https://thmb.techidaily.com/bae70dc1da321109f70e787435e8a7bf8638e9926
 
 ## How to Switch Your Discord Status to Idle
 
- There are a variety of ways to[change your Discord online status](https://www.makeuseof.com/how-to-change-your-discord-online-status/) to reflect your availability on the app.
+ There are a variety of ways to [change your Discord online status](https://www.makeuseof.com/how-to-change-your-discord-online-status/) to reflect your availability on the app.
 
 ![set idle status on discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/set-idle-status-on-discord.png)
 
- If you are using the desktop app, click on your profile icon in the bottom left corner, hover over the**Online** tab, and select**Idle** . There is also the option to[set a custom status on Discord](https://www.makeuseof.com/set-custom-discord-status/) .
+ If you are using the desktop app, click on your profile icon in the bottom left corner, hover over the**Online** tab, and select**Idle** . There is also the option to [set a custom status on Discord](https://www.makeuseof.com/set-custom-discord-status/) .
 
 Close
 

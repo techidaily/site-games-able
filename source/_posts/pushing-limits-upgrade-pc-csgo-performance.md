@@ -1,7 +1,7 @@
 ---
 title: "Pushing Limits: Upgrade PC CS:GO Performance"
-date: 2024-06-25T10:44:18.637Z
-updated: 2024-06-26T10:44:18.637Z
+date: 2024-06-25T12:48:38.056Z
+updated: 2024-06-26T12:48:38.056Z
 tags:
   - games
 categories:
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/0afe01c2e0f6b1c3ba9a8b87db7e0159921da64d2
 
  Running the game on an outdated graphics driver can ruin the gaming experience. An updated graphics driver ensures you get a reliable FPS in the game.
 
- Depending on the graphics driver the system features, you can download the latest update by visiting the[NVIDIA driver page](https://www.nvidia.com/en-us/geforce/drivers/) or[AMD driver page](https://www.amd.com/en/support) . If the system runs on integrated graphics, consider using the[Intel driver update tool](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html) .
+ Depending on the graphics driver the system features, you can download the latest update by visiting the [NVIDIA driver page](https://www.nvidia.com/en-us/geforce/drivers/) or [AMD driver page](https://www.amd.com/en/support) . If the system runs on integrated graphics, consider using the [Intel driver update tool](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html) .
 
  Instead of downloading updates via the manual method, always use manufacturers' software utilities to get the job done. Not only do they make updating the drivers a cakewalk, but they also suggest additional tweaks and features.
 
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/0afe01c2e0f6b1c3ba9a8b87db7e0159921da64d2
 
  You can do this easily with the help of the Task Manager. Below are the exact steps you need to follow.
 
-1. Open the**Task Manager** using one of the[many ways to open Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) .
+1. Open the**Task Manager** using one of the [many ways to open Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) .
 2. In the Processes tab, right-click on all the applications you no longer need and choose**End task** from the context menu.  
 ![End Task option in Task-Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Task-Manager-1.jpg)
 
@@ -61,9 +61,7 @@ thumbnail: https://thmb.techidaily.com/0afe01c2e0f6b1c3ba9a8b87db7e0159921da64d2
 
  The above settings will consume more battery. So, if you are using a laptop, make sure it is connected to a power supply before you start gaming.
 
-## 4\. Change Counter-Strike: Global Offensive's In-Game Settings
-
-![Adjusting CSGO graphical settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/CSGO-Settings.jpg)
+## 4\. Change Counter-Strike: Global Offensive's In-Game Settings ![Adjusting CSGO graphical settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/CSGO-Settings.jpg)
 
  High in-game graphical settings are a prime reason behind Counter-Strike: Global Offensive's low FPS issues. The more you push your PC past its breaking point, the worse framerates you get.
 
@@ -97,9 +95,7 @@ thumbnail: https://thmb.techidaily.com/0afe01c2e0f6b1c3ba9a8b87db7e0159921da64d2
 
  Try playing Counter-Strike: Global Offensive again and see if your FPS has improved.
 
-## 6\. Enable Windows' Gaming Mode
-
-![The Game Mode option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/game-mode-option.jpg)
+## 6\. Enable Windows' Gaming Mode ![The Game Mode option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/game-mode-option.jpg)
 
  Windows 10 and 11 both come with a dedicated gaming mode that prioritizes the gaming experience. This feature helps in achieving better FPS and stable gameplay. It also ensures that Windows won't start downloading updates while you game.
 
@@ -110,9 +106,7 @@ Here are the steps to enable gaming mode on Windows PC.
 
 Now that Game Mode is active, you should notice a performance boost.
 
-## 7\. Repair Counter-Strike: Global Offensive's Files
-
-![Checking for corruption in CSGO game files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Verify-Integrity-of-Game-Files-CSGO.jpg)
+## 7\. Repair Counter-Strike: Global Offensive's Files ![Checking for corruption in CSGO game files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Verify-Integrity-of-Game-Files-CSGO.jpg)
 
  If you are getting low FPS only in CS:GO, there is probably something wrong with the game files. As it turns out, if the game files get corrupted, it can cause different issues, including a low FPS.
 
@@ -145,7 +139,7 @@ Now that Game Mode is active, you should notice a performance boost.
 
  If you are still facing issues, it's a strong indicator that you need to upgrade your system. But if you don't have the money to go through the upgrade process, consider overclocking your system's components instead.
 
- Overclocking helps squeeze a bit more power from what you already have without you needing to spend anything. Although overclocking might sound dangerous, it can help breathe new life into an old system when done properly. For more details, check out[how to overclock your GPU on Windows](https://www.makeuseof.com/overclock-gpu-windows-10-asus-gpu-tweak/) .
+ Overclocking helps squeeze a bit more power from what you already have without you needing to spend anything. Although overclocking might sound dangerous, it can help breathe new life into an old system when done properly. For more details, check out [how to overclock your GPU on Windows](https://www.makeuseof.com/overclock-gpu-windows-10-asus-gpu-tweak/) .
 
 ## Get Better FPS on Counter-Strike: Global Offensive
 

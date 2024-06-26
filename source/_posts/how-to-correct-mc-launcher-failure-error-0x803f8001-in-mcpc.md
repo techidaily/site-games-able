@@ -1,7 +1,7 @@
 ---
 title: "How to Correct MC Launcher Failure: Error 0X803F8001 in MCPC"
-date: 2024-06-25T10:44:56.398Z
-updated: 2024-06-26T10:44:56.398Z
+date: 2024-06-25T12:48:38.439Z
+updated: 2024-06-26T12:48:38.439Z
 tags:
   - games
 categories:
@@ -49,9 +49,9 @@ Here is how to launch the troubleshooter:
 
  One of the leading causes of Microsoft Store errors is incorrect time and date settings. When you launch a game, it connects to the game servers remotely. If the time and date aren't configured correctly, this can lead to miscommunication between the host and server, which can lead to the error in question.
 
- An independent advisor on the[Microsoft Community forum](https://answers.microsoft.com/en-us/windows/forum/all/date-and-time-issue-while-launching-rocket-league/e003f53d-1cac-409f-bbfd-843fb289a6fb) also recommends selecting the correct time and date format to avoid facing such issues. They recommend using the ISO 8601 time and date format, which starts with the year and continues with the month, day, hour, minutes, seconds, and milliseconds.
+ An independent advisor on the [Microsoft Community forum](https://answers.microsoft.com/en-us/windows/forum/all/date-and-time-issue-while-launching-rocket-league/e003f53d-1cac-409f-bbfd-843fb289a6fb) also recommends selecting the correct time and date format to avoid facing such issues. They recommend using the ISO 8601 time and date format, which starts with the year and continues with the month, day, hour, minutes, seconds, and milliseconds.
 
- Keeping that in mind, check the time and date in the bottom-right corner of your screen. If the date and time are correct but not in the format described above, refer to our guide on[how to change the date and time format in Windows](https://www.makeuseof.com/windows-change-date-time-format/) and select the appropriate one.
+ Keeping that in mind, check the time and date in the bottom-right corner of your screen. If the date and time are correct but not in the format described above, refer to our guide on [how to change the date and time format in Windows](https://www.makeuseof.com/windows-change-date-time-format/) and select the appropriate one.
 
 ## 4\. Reset the Microsoft Store and Minecraft Launcher via Settings
 
@@ -119,15 +119,15 @@ You can reset your apps in Windows 11 like this:
 4. Select the**Uninstall** option to remove Microsoft Launcher.  
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/the-uninstall-option-for-apps.jpg)
 5. Click the**Restart** Start menu option before reinstalling the app.
-6. Go to the[Minecraft for Windows](https://apps.microsoft.com/store/detail/minecraft-for-windows/9NBLGGH2JHXJ) Store app page.
+6. Go to the [Minecraft for Windows](https://apps.microsoft.com/store/detail/minecraft-for-windows/9NBLGGH2JHXJ) Store app page.
 7. Press the**Get** button for the app.
 8. Then click Minecraft Launcher’s**Play** option in Microsoft Store.
 
 ## 9\. Install the Minecraft Launcher From the Microsoft Store
 
- Do you use the Minecraft Launcher you downloaded from the Minecraft website? If you do, uninstall the launcher using one of the[ways to uninstall apps on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . Then, install it from the Microsoft Store.
+ Do you use the Minecraft Launcher you downloaded from the Minecraft website? If you do, uninstall the launcher using one of the [ways to uninstall apps on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . Then, install it from the Microsoft Store.
 
- Several users have reported in a thread within the[Microsoft Community forum](https://answers.microsoft.com/en-us/windows/forum/all/when-i-try-to-launch-minecraft-launcher-i-get/dbb2b0aa-f68a-411c-8a9a-662499c8472f) that they have been able to fix the issue by doing this. Therefore, give it a shot and see if it fixes the problem.
+ Several users have reported in a thread within the [Microsoft Community forum](https://answers.microsoft.com/en-us/windows/forum/all/when-i-try-to-launch-minecraft-launcher-i-get/dbb2b0aa-f68a-411c-8a9a-662499c8472f) that they have been able to fix the issue by doing this. Therefore, give it a shot and see if it fixes the problem.
 
 ## 10\. Repair Any Corrupted System Files
 
@@ -135,11 +135,11 @@ You can reset your apps in Windows 11 like this:
 
  Before running the SFC scan, it's a good idea to run a DISM scan beforehand. The DISM scan will fix any errors related to the SFC tool, so it's good to double-check that the SFC tool is operating properly before performing a scan.
 
- Check out[how to repair corrupt Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/) for further instructions on how to perform both scans.
+ Check out [how to repair corrupt Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/) for further instructions on how to perform both scans.
 
 ## 11\. Update Windows
 
- Alternatively, updating your copy of Windows may also fix the issue. Check out[how to update Windows manually](https://www.makeuseof.com/update-windows-manually/) for more information.
+ Alternatively, updating your copy of Windows may also fix the issue. Check out [how to update Windows manually](https://www.makeuseof.com/update-windows-manually/) for more information.
 
 ## Get the Minecraft Launcher Error 0x803f8001 Fixed
 

@@ -1,7 +1,7 @@
 ---
 title: "Reversing Window's GPU Hang: Addressing Error Code 0X887A0006"
-date: 2024-06-22 19:17:54
-updated: 2024-06-24 11:16:54
+date: 2024-06-25T13:29:30.294Z
+updated: 2024-06-26T13:29:30.294Z
 tags:
   - games
 categories:
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/2c97ca9c03a4b90ac808b47e7a1e56e2bf5202bf8
 
  Make sure the games that error 0x887A0006 crashes have full system access by running them with administrator rights. You can temporarily select to run a game with admin rights or set it to always run with elevated privileges. This is how you can configure an affected game to run as an administrator:
 
-1. First, bring up Windows 11’s file manager with a method in our[guide for opening Explorer](https://www.makeuseof.com/windows-open-file-explorer/) .
+1. First, bring up Windows 11’s file manager with a method in our [guide for opening Explorer](https://www.makeuseof.com/windows-open-file-explorer/) .
 2. Then open the installation folder that contains the game’s EXE (application file).
 3. Right-click the game’s EXE file and select**Properties** .
 4. Click the properties window’s**Compatibility** tab.
@@ -85,7 +85,7 @@ For Steam:
 
 ## 5\. Roll Back the Most Recent Graphics Driver Update
 
- A few players have said they fixed error 0x887A0006 by rolling back graphics drivers. Applying such a resolution will restore the previous graphics driver installed on your PC. If the file for your previous graphics driver remains saved, you can select to roll back the driver via Device Manager. This article about[how to roll back a driver](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) includes instructions for applying this possible fix.
+ A few players have said they fixed error 0x887A0006 by rolling back graphics drivers. Applying such a resolution will restore the previous graphics driver installed on your PC. If the file for your previous graphics driver remains saved, you can select to roll back the driver via Device Manager. This article about [how to roll back a driver](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) includes instructions for applying this possible fix.
 
 ![The Roll Back Driver button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/roll-back-driver-option.jpg)
 
@@ -95,7 +95,7 @@ For Steam:
 
  You can update an NVIDIA or AMD driver in a few different ways. Some users utilize driver updater software packages, but some of them don't update graphics drivers to the newest ones available. To ensure you’re installing the very latest driver available for your GPU, download it from the manufacturer’s website.
 
- Our guide for[updating your graphics drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) provides further details about the various methods.
+ Our guide for [updating your graphics drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) provides further details about the various methods.
 
 ![The NVIDIA driver downloads page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-nvidia-driver-download-page.jpg)
 
@@ -138,7 +138,7 @@ For Steam:
 
  Disabling Timeout Detection and Recovery is another potential 0x887A0006 error fix some players have confirmed works. Time Detection and Recovery is a Windows feature that resets an unresponsive graphics driver. You can disable that feature by editing the**GraphicsDrivers** registry key in the following steps:
 
-1. Launch Windows’ Registry Editor app (check out our guide on[how to open Regedit](https://www.makeuseof.com/windows-11-open-registry-editor/) for further instructions.)
+1. Launch Windows’ Registry Editor app (check out our guide on [how to open Regedit](https://www.makeuseof.com/windows-11-open-registry-editor/) for further instructions.)
 2. Navigate to this**GraphicsDrivers** registry key location by entering the following path in the address bar:  
 `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers`
 3. Right-click GraphicsDrivers and select that key’s**New** \>**DWORD (32-bit) Value** options.  
@@ -149,11 +149,9 @@ For Steam:
 6. Enter**0** in TdrLevel’s**Value** box, and select**OK** to save.
 7. Close the Regedit app, and then restart your PC.
 
-## 11\. Reinstall the Game That's Crashing
+## 11\. Reinstall the Game That's Crashing ![The Uninstall option in Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-option-2.jpg)
 
-![The Uninstall option in Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-option-2.jpg)
-
- Reinstalling an affected game is the last thing to try when all else fails. Applying this potential solution will likely fix corrupted or missing game files that could be causing error 0x887A0006\. Some players may be concerned about losing saved games when reinstalling, but you can[back up game saves](https://www.makeuseof.com/tag/protect-your-game-saves/) in numerous ways.
+ Reinstalling an affected game is the last thing to try when all else fails. Applying this potential solution will likely fix corrupted or missing game files that could be causing error 0x887A0006\. Some players may be concerned about losing saved games when reinstalling, but you can [back up game saves](https://www.makeuseof.com/tag/protect-your-game-saves/) in numerous ways.
 
  You might be able to uninstall an affected game via Programs and Features or Settings. If you can’t see a game listed there, however, you’ll need to uninstall the title within the gaming client software with which you installed it. Then select to install the game in your gaming client.
 
@@ -176,3 +174,24 @@ For Steam:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/nvidias-rtx-4060-ti-unveiling-matching-gpus/"><u>Nvidia's RTX 4060 Ti: Unveiling Matching GPUs</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-techs-edge-series-x-vs-custom-pc/"><u>Exploring Tech's Edge: Series X VS. Custom PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-finest-selection-of-emulation-software-for-steam-decks/"><u>The Finest Selection of Emulation Software for Steam Decks</u></a></li>
+<li><a href="https://games-able.techidaily.com/simple-steps-to-link-an-xbox-to-a-windows-machine-128-chars/"><u>Simple Steps to Link an Xbox to a Windows Machine (128 Chars)</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-designing-for-tomorrow-steams-new-ai-framework/"><u>Game Designing for Tomorrow: Steam's New AI Framework</u></a></li>
+<li><a href="https://games-able.techidaily.com/methodical-approach-to-retrieving-your-steam-user-id/"><u>Methodical Approach to Retrieving Your Steam User ID</u></a></li>
+<li><a href="https://games-able.techidaily.com/say-no-to-free-to-play-discover-the-benefits-of-premium-games/"><u>Say No to 'Free-to-Play': Discover the Benefits of Premium Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-world-class-tv-and-monitor-innovations-at-ifa-2-written-using-latex-format-including-an-equation-representing-the-relationship-between-velocity-v-11/"><u>Unveiling World-Class TV & Monitor Innovations at IFA 2 Written Using Latex Format, Including an Equation Representing the Relationship Between Velocity (v), Distance (D), and Time (T): (D = v Times T)</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-amplify-your-online-presence-discords-voicemod-capabilities-uncovered/"><u>[Updated] Amplify Your Online Presence  Discord's VoiceMod Capabilities Uncovered</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-role-of-b-roll-in-cinematic-storytelling/"><u>In 2024, The Role of B-Roll in Cinematic Storytelling</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-taming-zooms-visuals-a-step-by-step-blur-journey/"><u>In 2024, Taming Zoom's Visuals  A Step-by-Step Blur Journey</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-how-to-use-the-instagram-green-screen-effect/"><u>In 2024, How to Use the Instagram Green Screen Effect ？</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-canine-chorus-a-library-of-realistic-dog-sounds/"><u>New The Canine Chorus A Library of Realistic Dog Sounds</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-the-spotlight-top-viewers-choice/"><u>[New] In the Spotlight  Top Viewers' Choice</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-11-pro-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 11 Pro Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlocking-an-icloud-locked-ipad-and-iphone-xs-max-by-drfone-ios/"><u>In 2024, Unlocking an iCloud Locked iPad and iPhone XS Max</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-aviations-new-titans-dji-phantom-pro-and-gopro-k20-ii/"><u>[New] In 2024, Aviation's New Titans  DJI Phantom Pro & GoPro K20 II</u></a></li>
+</ul></div>

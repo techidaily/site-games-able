@@ -1,7 +1,7 @@
 ---
 title: Why a Shift in Strategy Is Crucial for Microsoft's Xbox Point Program
-date: 2024-06-25T10:41:02.729Z
-updated: 2024-06-26T10:41:02.729Z
+date: 2024-06-25T12:48:35.957Z
+updated: 2024-06-26T12:48:35.957Z
 tags:
   - games
 categories:
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/84120ce1dd040ef96ca974489513e09e6fd38ddc4
 
  A vital flaw with Microsoft Reward Points is how the system progresses you towards a desired reward at a snail's pace, especially on Xbox Series X|S.
 
- Nearly all the ways you can earn Microsoft Reward Points on Xbox will only give you a couple of Reward Points. Even if you focus on[quickly earning Microsoft Reward Points](https://www.makeuseof.com/earn-microsoft-reward-points-quickly/) , methods like completing activities usually only give you five or 15 Reward Points.
+ Nearly all the ways you can earn Microsoft Reward Points on Xbox will only give you a couple of Reward Points. Even if you focus on [quickly earning Microsoft Reward Points](https://www.makeuseof.com/earn-microsoft-reward-points-quickly/) , methods like completing activities usually only give you five or 15 Reward Points.
 
 ![A screenshot of the Your Activities section of Microsoft Rewards on Xbox with Activities highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/activities.jpg)
 
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/84120ce1dd040ef96ca974489513e09e6fd38ddc4
 
  While the monthly and weekly reward activities provide a substantial amount of points for you to earn, it's not only the time restraints of these activities that hold back the service as a whole.
 
- Historically, the monthly bonus activities for Microsoft Reward Points would provide you with 2000 points. This represented the best way for you to etch closer to being able to[redeem your Reward Points on Xbox](https://www.makeuseof.com/how-to-redeem-microsoft-reward-points-on-xbox-series-xs/) for a substantial reward. But from the**July monthly bonus round** in 2023, the rewarded points dropped to 1000.
+ Historically, the monthly bonus activities for Microsoft Reward Points would provide you with 2000 points. This represented the best way for you to etch closer to being able to [redeem your Reward Points on Xbox](https://www.makeuseof.com/how-to-redeem-microsoft-reward-points-on-xbox-series-xs/) for a substantial reward. But from the**July monthly bonus round** in 2023, the rewarded points dropped to 1000.
 
 ![A screenshot of the July Monthly Bonus Round for Microsoft Rewards on Xbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/monthly-rewards.jpg)
 

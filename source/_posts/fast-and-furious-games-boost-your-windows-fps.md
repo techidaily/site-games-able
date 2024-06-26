@@ -1,7 +1,7 @@
 ---
 title: "Fast and Furious Games: Boost Your Windows FPS"
-date: 2024-06-23 21:55:56
-updated: 2024-06-24 12:53:47
+date: 2024-06-25T13:33:46.970Z
+updated: 2024-06-26T13:33:46.970Z
 tags:
   - games
 categories:
@@ -22,31 +22,27 @@ thumbnail: https://thmb.techidaily.com/f0eb15dbd4d3bc9550ae7ac5d466cfd7136ebba59
 
  Before you spend time fixing the low frames per second on your PC, it's important to understand the difference between low FPS and online lag. People sometimes confuse these.
 
- When you experience low FPS, something with your computer is at fault. You'll know you have an FPS problem if games stutter like you're watching a slideshow, even when playing an offline game. Make sure you also[understand monitor refresh rates and frame rates](https://www.makeuseof.com/tag/60hz-vs-144hz/) so you know what to expect from your display and games.
+ When you experience low FPS, something with your computer is at fault. You'll know you have an FPS problem if games stutter like you're watching a slideshow, even when playing an offline game. Make sure you also [understand monitor refresh rates and frame rates](https://www.makeuseof.com/tag/60hz-vs-144hz/) so you know what to expect from your display and games.
 
  Lag, on the other hand, lies with an issue with the network. You can have a high FPS count yet still experience terrible lag. This occurs when elements in an online game freeze up, warp around suddenly, and otherwise don't behave normally.
 
- If you're experiencing online lag, make sure your computer is wired into your router with an Ethernet cable if possible. You should also close bandwidth-hungry apps running on your network, then take other[steps to reduce lag in online games](https://www.makeuseof.com/tag/how-to-reduce-lag-in-online-gaming/) .
+ If you're experiencing online lag, make sure your computer is wired into your router with an Ethernet cable if possible. You should also close bandwidth-hungry apps running on your network, then take other [steps to reduce lag in online games](https://www.makeuseof.com/tag/how-to-reduce-lag-in-online-gaming/) .
 
 ## How to Fix Low Frame Rate: The Basics
 
  Let's begin by looking at a few fundamental fixes you should perform to boost game frame rates. In many cases, when you wonder why your game FPS is so low, these tweaks will make a big improvement.
 
-### 1\. Update Your Drivers
-
-![screenshot of amd radeon program updating drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_radeon_program_updating_drivers.jpg)
+### 1\. Update Your Drivers ![screenshot of amd radeon program updating drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_radeon_program_updating_drivers.jpg)
 
  Drivers are special pieces of software that handle the interface between your computer and connected hardware. Average PC users don't usually need to worry about updating them, but it's a different story for gamers. Running out-of-date drivers, especially your video drivers, can hamper gaming performance.
 
- Follow our[guide to finding and replacing outdated drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) to make sure everything on your system is current. While the chipset driver is an important one,[keeping your graphics driver updated](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) is vital for reliable FPS in games.
+ Follow our [guide to finding and replacing outdated drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) to make sure everything on your system is current. While the chipset driver is an important one,[keeping your graphics driver updated](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) is vital for reliable FPS in games.
 
- To update your graphics driver, visit[Nvidia's driver page](https://www.geforce.com/drivers/) or[AMD's driver page](https://www.amd.com/en/support) , depending on what graphics card you have. If you play using integrated graphics on an Intel CPU, run[Intel's driver update tool](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html) (though remember that using integrated graphics will severely limit gaming performance).
+ To update your graphics driver, visit [Nvidia's driver page](https://www.geforce.com/drivers/) or [AMD's driver page](https://www.amd.com/en/support) , depending on what graphics card you have. If you play using integrated graphics on an Intel CPU, run [Intel's driver update tool](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html) (though remember that using integrated graphics will severely limit gaming performance).
 
  Instead of downloading drivers manually, Nvidia and AMD both offer software utilities that make downloading the latest drivers easy. You can download these on the driver pages above, which we recommend doing. In addition to letting you know when a new update is available, they give you access to more tweaks and features.
 
-### 2\. Close Unnecessary Background Programs
-
-![windows 10 task manager process list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/windows-10-task-manager-process-list.jpg)
+### 2\. Close Unnecessary Background Programs ![windows 10 task manager process list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/windows-10-task-manager-process-list.jpg)
 
  When you're playing a game, especially demanding modern titles, it's a good idea to close other processes that you don't need. This frees up resources that your computer can further dedicate to the game.
 
@@ -56,19 +52,17 @@ thumbnail: https://thmb.techidaily.com/f0eb15dbd4d3bc9550ae7ac5d466cfd7136ebba59
 
  Having your browser open with 50 tabs, letting cloud storage apps sync, or running file transfers while trying to play games can result in lower FPS—even on a good computer. If your frame rate is low all of a sudden, check for programs that just started using a lot of resources.
 
-### 3\. Defragment Your HDD
-
-![Disk defragmentation tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/disk-defragmentation.jpg)
+### 3\. Defragment Your HDD ![Disk defragmentation tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/disk-defragmentation.jpg)
 
  Most gamers have hopefully upgraded to a solid-state drive (SSD) by now. But in case you're still using an HDD, you should make sure the disk is defragmented. If you use an SSD, you should not defragment, as doing so can shorten the life of your drive.
 
  To do this, type**defrag** into the Start menu and click the**Defragment and Optimize Drives** entry. If it's been a while since the drive was last defragged, you should do so.
 
- Modern versions of Windows do this automatically, so you shouldn't need to defrag manually. You can adjust the schedule if you like, though. And if you are using an HDD, prioritize[getting an SSD](https://www.makeuseof.com/tag/5-things-consider-buying-ssd/) as soon as possible for a major boost in gaming performance.
+ Modern versions of Windows do this automatically, so you shouldn't need to defrag manually. You can adjust the schedule if you like, though. And if you are using an HDD, prioritize [getting an SSD](https://www.makeuseof.com/tag/5-things-consider-buying-ssd/) as soon as possible for a major boost in gaming performance.
 
 ## How to Fix Low Game FPS With Windows Tweaks
 
- Now that you've performed the basic steps to fix low FPS on your machine, let's take a look at some[Windows settings you can adjust to enhance gaming performance](https://www.makeuseof.com/tag/optimize-windows-10-gaming/) .
+ Now that you've performed the basic steps to fix low FPS on your machine, let's take a look at some [Windows settings you can adjust to enhance gaming performance](https://www.makeuseof.com/tag/optimize-windows-10-gaming/) .
 
 ### 4\. Adjust Power Options
 
@@ -116,7 +110,7 @@ thumbnail: https://thmb.techidaily.com/f0eb15dbd4d3bc9550ae7ac5d466cfd7136ebba59
 
 ### 8\. Change the Game's Graphical Settings
 
- Most[PC games allow you to change a variety of graphical options](https://www.makeuseof.com/tag/video-game-graphics-settings-explained/) ; the exact choices will depend on the game. As a general rule, the more graphical effects you enable for improved visuals, the lower your frame rate will be.
+ Most [PC games allow you to change a variety of graphical options](https://www.makeuseof.com/tag/video-game-graphics-settings-explained/) ; the exact choices will depend on the game. As a general rule, the more graphical effects you enable for improved visuals, the lower your frame rate will be.
 
  For an overall tweak, try lowering the**Graphics Quality** slider, as less intense graphics will help the game run better. Dropping from**Epic** or**Ultra** graphics quality to**High** , for example, should help improve FPS a lot.
 
@@ -152,11 +146,9 @@ thumbnail: https://thmb.techidaily.com/f0eb15dbd4d3bc9550ae7ac5d466cfd7136ebba59
 
  If you don't have the money to upgrade your PC's components right now, you might consider overclocking your existing hardware. This allows you to squeeze a little more power out of what you already have, at essentially no cost.
 
- Overclocking might sound dangerous, but it's safe if you do it properly. See our[guide to overclocking your GPU](https://www.makeuseof.com/overclock-gpu-windows-10-asus-gpu-tweak/) if you'd like to give it a try.
+ Overclocking might sound dangerous, but it's safe if you do it properly. See our [guide to overclocking your GPU](https://www.makeuseof.com/overclock-gpu-windows-10-asus-gpu-tweak/) if you'd like to give it a try.
 
-### 12\. Upgrade Your Hardware
-
-![Man modifying PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2017/04/pc_modification.png)
+### 12\. Upgrade Your Hardware ![Man modifying PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2017/04/pc_modification.png)
 
  Image Credit: Denis Rozhnovsky/[Shutterstock](https://www.shutterstock.com/image-photo/computer-technician-installs-cooling-system-359995697)
 
@@ -166,7 +158,7 @@ thumbnail: https://thmb.techidaily.com/f0eb15dbd4d3bc9550ae7ac5d466cfd7136ebba59
 
  Don't forget that heat can affect your hardware too. If you experience FPS problems after your game has been running for some time, your system might be getting too hot. Open up your system and remove any dust buildup inside. You should also make sure your computer has sufficient airflow.
 
- Find out[which computer upgrades improve performance the most](https://www.makeuseof.com/tag/upgrades-will-improve-pc-performance/) to see what you should replace first.
+ Find out [which computer upgrades improve performance the most](https://www.makeuseof.com/tag/upgrades-will-improve-pc-performance/) to see what you should replace first.
 
 ## How to Fix Low FPS Issues Easily
 
@@ -189,3 +181,24 @@ thumbnail: https://thmb.techidaily.com/f0eb15dbd4d3bc9550ae7ac5d466cfd7136ebba59
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/solving-xbox-s-x-connectivity-issues/"><u>Solving Xbox S X Connectivity Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/discontinuation-new-horizons-for-apsplus-gameplay/"><u>Discontinuation: New Horizons for APS+ Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-for-dealing-with-nonfunctional-switch-situations/"><u>Steps for Dealing with Nonfunctional Switch Situations</u></a></li>
+<li><a href="https://games-able.techidaily.com/creative-game-writing-with-chatgpt/"><u>Creative Game Writing with ChatGPT</u></a></li>
+<li><a href="https://games-able.techidaily.com/re-establishing-win11-steam-connections/"><u>Re-Establishing Win11 Steam Connections</u></a></li>
+<li><a href="https://games-able.techidaily.com/comprehensive-fixes-to-robloxs-error-code-403-a-guide-for-pc-gamers/"><u>Comprehensive Fixes to Roblox's Error Code 403: A Guide for PC Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-the-secrets-of-steam-errors-and-their-cures-in-win11/"><u>Unlocking the Secrets of Steam Errors and Their Cures in Win11</u></a></li>
+<li><a href="https://games-able.techidaily.com/custom-fan-curve-configuration-for-improved-graphics/"><u>Custom Fan Curve Configuration for Improved Graphics</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-unlock-advanced-video-editing-adding-3d-effects-on-windows-10-and-11/"><u>New Unlock Advanced Video Editing Adding 3D Effects on Windows 10 and 11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-effortlessly-convert-youtube-videos-online/"><u>[New] In 2024, How to Effortlessly Convert YouTube Videos Online</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transforming-virtual-worlds-enhancing-spark-ar-with-custom-luts-for-2024/"><u>Transforming Virtual Worlds  Enhancing Spark AR with Custom LUTs for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-s17-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from S17</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-unleash-your-earning-potential-on-tiktok-in-just-8-steps/"><u>In 2024, Unleash Your Earning Potential on TikTok in Just 8 Steps</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-convert-youtube-videos-to-gifs-no-download-for-2024/"><u>[Updated] How to Convert YouTube Videos to GIFs [No Download] for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-reel-in-success-top-drone-video-editors-for-every-stage-of-learning/"><u>[New] Reel in Success  Top Drone Video Editors for Every Stage of Learning</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-reversing-footage-in-a-snap-for-2024/"><u>[Updated] Reversing Footage in a Snap for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-maximizing-obs-broadcasts-to-facebook-feed-for-2024/"><u>[New] Maximizing OBS Broadcasts to Facebook Feed for 2024</u></a></li>
+</ul></div>

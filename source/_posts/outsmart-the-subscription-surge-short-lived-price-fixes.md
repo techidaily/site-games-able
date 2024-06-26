@@ -1,7 +1,7 @@
 ---
 title: "Outsmart the Subscription Surge: Short-Lived Price Fixes"
-date: 2024-06-25T10:40:36.105Z
-updated: 2024-06-26T10:40:36.106Z
+date: 2024-06-25T12:48:35.673Z
+updated: 2024-06-26T12:48:35.673Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ Interested? Here is how you can take advantage of this epic deal.
 
  For example, if you prepaid for one year of Xbox Live Gold and purchase just one month of Xbox Game Pass Ultimate, the remaining 12 months will be upgraded to Ultimate. Xbox Live Gold is significantly cheaper than Xbox Game Pass Ultimate, yet your prepaid subscription will be upgraded free of charge.
 
- This conversion used to be a 1:1 ratio, meaning you got the exact amount of prepaid time converted to Xbox Game Pass Ultimate. Since the price upgrades of Xbox Game Pass memberships, however, the ratio has now changed to 3:2, so you don’t get quite as many months of discounted Ultimate as you did before. This is a shame, but inevitable considering there are several[reasons why Xbox Game Pass will get more expensive over time](https://www.makeuseof.com/reasons-xbox-game-pass-will-get-more-expensive/) .
+ This conversion used to be a 1:1 ratio, meaning you got the exact amount of prepaid time converted to Xbox Game Pass Ultimate. Since the price upgrades of Xbox Game Pass memberships, however, the ratio has now changed to 3:2, so you don’t get quite as many months of discounted Ultimate as you did before. This is a shame, but inevitable considering there are several [reasons why Xbox Game Pass will get more expensive over time](https://www.makeuseof.com/reasons-xbox-game-pass-will-get-more-expensive/) .
 
 ![A hero image and headline for an Xbox announcement about Game Pass Core](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/game-pass-core-announcement.jpg)
 
@@ -36,17 +36,17 @@ Interested? Here is how you can take advantage of this epic deal.
 
 ![Xbox Live Gold Memberships for Sale on Amazon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/xbox-live-gold-memberships-for-sale-on-amazon.jpg)
 
- If you want to take advantage of the maximum 36-month deal, purchase three 12-month digital codes for Xbox Live Gold. You can pick these up on Amazon for around $60.00 each, sometimes cheaper. Once you have your digital codes, head to[redeem.microsoft.com](https://redeem.microsoft.com/) to redeem them.
+ If you want to take advantage of the maximum 36-month deal, purchase three 12-month digital codes for Xbox Live Gold. You can pick these up on Amazon for around $60.00 each, sometimes cheaper. Once you have your digital codes, head to [redeem.microsoft.com](https://redeem.microsoft.com/) to redeem them.
 
  If you're opting for the full 36-month hack, it's important that you don’t choose to turn on recurring billing when you're redeeming your codes. Sometimes Xbox offers an extra month as an incentive to continue your subscription, and since you need 36 months exactly, this can mess up your total and could lead to you not being able to redeem your final code.
 
- After banking 36 months of Xbox Live Gold or however much you can afford, purchase one month of Xbox Game Pass Ultimate from the[Xbox website](https://www.xbox.com/en-us/xbox-game-pass/ultimate) . After entering your payment information, you will see a text box explaining that your remaining Xbox Live Gold months will be upgraded to Xbox Game Pass Ultimate at a 3:2 ratio. This means that if you had 36 months (or three years) of Xbox Live Gold in your bank, you will only get two years of Xbox Game Pass Ultimate in return.
+ After banking 36 months of Xbox Live Gold or however much you can afford, purchase one month of Xbox Game Pass Ultimate from the [Xbox website](https://www.xbox.com/en-us/xbox-game-pass/ultimate) . After entering your payment information, you will see a text box explaining that your remaining Xbox Live Gold months will be upgraded to Xbox Game Pass Ultimate at a 3:2 ratio. This means that if you had 36 months (or three years) of Xbox Live Gold in your bank, you will only get two years of Xbox Game Pass Ultimate in return.
 
 ![Xbox Game Pass Ultimate Conversion Agreement](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/xbox-game-pass-ultimate-conversion-agreement.jpg)
 
  This is a bit of a shame. But even with the new 3:2 conversion, you can still unlock a massive discount compared to paying for a standard Xbox Game Pass Ultimate subscription for two years.
 
- If you are keen to do this but already have Xbox Game Pass Ultimate, you can[cancel your Xbox Game Pass subscription](https://www.makeuseof.com/how-to-cancel-your-xbox-game-pass-subscription/) , wait for your remaining month to run out, and then perform this hack. Make sure you act quickly, though, and get it done before Xbox Live Gold is gone.
+ If you are keen to do this but already have Xbox Game Pass Ultimate, you can [cancel your Xbox Game Pass subscription](https://www.makeuseof.com/how-to-cancel-your-xbox-game-pass-subscription/) , wait for your remaining month to run out, and then perform this hack. Make sure you act quickly, though, and get it done before Xbox Live Gold is gone.
 
 ## Jump on This Offer Before It’s Too Late
 

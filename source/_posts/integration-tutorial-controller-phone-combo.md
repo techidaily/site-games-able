@@ -1,7 +1,7 @@
 ---
 title: "Integration Tutorial: Controller, Phone Combo"
-date: 2024-06-21 19:43:42
-updated: 2024-06-24 11:31:45
+date: 2024-06-25T13:07:36.946Z
+updated: 2024-06-26T13:07:36.946Z
 tags:
   - games
 categories:
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
 
 ## Which Smartphones Are Compatible With the PS5 Controller?
 
- The[PlayStation website](https://www.playstation.com/en-au/support/hardware/pair-dualsense-controller-bluetooth/#supported) states that the DualSense Controller is compatible with devices running Android 12 or later and iOS 14.5 or later. However, we were able to test the method on a device running Android 11 with no issues.
+ The [PlayStation website](https://www.playstation.com/en-au/support/hardware/pair-dualsense-controller-bluetooth/#supported) states that the DualSense Controller is compatible with devices running Android 12 or later and iOS 14.5 or later. However, we were able to test the method on a device running Android 11 with no issues.
 
  Not all Android devices are compatible with the DualSense Controller, however. The PlayStation website suggests consulting your device’s manufacturer to see if your device is compatible with the controller or not.
 
@@ -59,7 +59,7 @@ Close
 
  Put your controller in pairing mode by holding the Create and PS buttons down simultaneously. It should only take around three seconds before your controller light starts flashing to indicate it is in pairing mode.
 
- If you're unsure[what the DualSense Create button is](https://www.makeuseof.com/ps5-create-button/) , it's the small oval button on the left side of the touchpad.
+ If you're unsure [what the DualSense Create button is](https://www.makeuseof.com/ps5-create-button/) , it's the small oval button on the left side of the touchpad.
 
 ![a playstation 5 controller held in someone's hands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/a-playstation-5-controller-held-in-someone-s-hands.jpg)
 
@@ -91,7 +91,7 @@ Close
 
 Close
 
- If your operating software is compatible, press**General** in the top left corner to head back to your**Settings** and select**Bluetooth** . Ensure the**toggle** is switched on and[put your PS5 controller into pairing mode](https://www.makeuseof.com/how-to-ps5-dualsense-controller-pairing-mode/) .
+ If your operating software is compatible, press**General** in the top left corner to head back to your**Settings** and select**Bluetooth** . Ensure the**toggle** is switched on and [put your PS5 controller into pairing mode](https://www.makeuseof.com/how-to-ps5-dualsense-controller-pairing-mode/) .
 
  Scroll down to**Other Devices** on your mobile and wait until you see the**DualSense Wireless Controller** option.
 
@@ -134,3 +134,26 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/boosting-performance-in-shooter-games-through-sensitivity-tweaks/"><u>Boosting Performance in Shooter Games Through Sensitivity Tweaks</u></a></li>
+<li><a href="https://games-able.techidaily.com/swiftly-tackle-windows-graphics-hang-code-0x887a0006-solution/"><u>Swiftly Tackle Windows' Graphics Hang: Code 0X887A0006 Solution</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-perfect-add-ons-for-your-steam-deck-journey/"><u>The Perfect Add-Ons for Your Steam Deck Journey</u></a></li>
+<li><a href="https://games-able.techidaily.com/breakthroughs-in-assessing-neuroinflammation-through-endocannabinoid-levels/"><u>Breakthroughs in Assessing Neuroinflammation Through Endocannabinoid Levels</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-maintain-your-gpu-at-ideal-gameplay-temp-levels/"><u>How to Maintain Your GPU at Ideal Gameplay Temp Levels</u></a></li>
+<li><a href="https://games-able.techidaily.com/cheap-and-fast-optimal-240hz-gaming-setups/"><u>Cheap and Fast: Optimal 240Hz Gaming Setups</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-gpt-top-6-strategies-for-a-flawless-game-guide/"><u>Mastering GPT: Top 6 Strategies for a Flawless Game Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieve-peak-performance-with-corsairs-icue-link-the-4-ultimate-reasons/"><u>Achieve Peak Performance with Corsair's iCUE Link - The 4 Ultimate Reasons</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-excitement-dive-into-netflix-gaming-world/"><u>Unlock Excitement - Dive Into Netflix Gaming World</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-cross-service-playlist-migration-step-by-step-guide-for-2024/"><u>Mastering Cross-Service Playlist Migration  Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-quick-click-methodology-building-google-collage-projects-at-breakneck-speeds/"><u>2024 Approved  Quick Click Methodology  Building Google Collage Projects at Breakneck Speeds</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-incorporating-cards-and-annotations-in-youtube-content/"><u>In 2024, Incorporating Cards and Annotations in YouTube Content</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/quick-calculator-your-video-monetization/"><u>Quick Calculator  Your Video Monetization</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-on-realme-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Videos Not Playing on Realme ?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-from-iphone-8-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock From iPhone 8 Online</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-and-easy-avi-video-editing-software-options-for-2024/"><u>Free and Easy AVI Video Editing Software Options for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/autoplay-youtube-on-phones-without-interruption/"><u>Autoplay YouTube on Phones without Interruption</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/rotate-videos-for-free-top-10-video-flip-and-rotate-tools-for-2024/"><u>Rotate Videos for Free Top 10 Video Flip and Rotate Tools for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-zte-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on ZTE</u></a></li>
+</ul></div>

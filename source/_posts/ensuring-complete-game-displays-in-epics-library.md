@@ -1,7 +1,7 @@
 ---
 title: Ensuring Complete Game Displays in Epic's Library
-date: 2024-06-25T10:45:44.458Z
-updated: 2024-06-26T10:45:44.458Z
+date: 2024-06-25T12:48:38.958Z
+updated: 2024-06-26T12:48:38.958Z
 tags:
   - games
 categories:
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/01a9c6a754e21b99c858623b51177464f69009a94
 
 ## 4\. Check the Game’s Availability
 
- As you may know, you can[get free games on the Epic Games store](https://www.makeuseof.com/how-to-get-free-games-on-the-epic-games-store/) . Besides its permanent free games catalog, you can get a new free game every week. However, not every free game is yours forever.
+ As you may know, you can [get free games on the Epic Games store](https://www.makeuseof.com/how-to-get-free-games-on-the-epic-games-store/) . Besides its permanent free games catalog, you can get a new free game every week. However, not every free game is yours forever.
 
 ![Check the game's availability on Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/check-availability-1.jpg)
 
@@ -66,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/01a9c6a754e21b99c858623b51177464f69009a94
 
 ## 7\. Delete the Epic Games Launcher Cache
 
- If you notice other issues such as[Epic Games encountering launching errors](https://www.makeuseof.com/windows-epic-game-launcher-0013-error/) , besides the missing titles within the library, there’s a chance the cache got corrupted or outdated. In this case, deleting it should fix the issue. Here’s how you can do it on a Windows computer:
+ If you notice other issues such as [Epic Games encountering launching errors](https://www.makeuseof.com/windows-epic-game-launcher-0013-error/) , besides the missing titles within the library, there’s a chance the cache got corrupted or outdated. In this case, deleting it should fix the issue. Here’s how you can do it on a Windows computer:
 
 1. Press**Windows key + R** to bring up a Run dialog.
 2. Type**%localappdata%** and press**Enter** .

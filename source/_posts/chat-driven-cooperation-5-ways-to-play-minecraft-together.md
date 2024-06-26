@@ -1,7 +1,7 @@
 ---
 title: "Chat-Driven Cooperation: 5 Ways to Play Minecraft Together"
-date: 2024-06-21 20:39:35
-updated: 2024-06-24 10:20:11
+date: 2024-06-25T12:52:49.437Z
+updated: 2024-06-26T12:52:49.437Z
 tags:
   - games
 categories:
@@ -26,15 +26,13 @@ thumbnail: https://thmb.techidaily.com/f247ef7a94b421ec0fcafea579ee074c3050225ad
 
  Both Bedrock and Java Edition have public servers available for anyone to join. You can find servers on Bedrock easily on any platform whether you're on console, PC, or mobile, but there are limitations. Java has fewer limitations, but you'll need to do some digging to find good servers, and you might need to deal with more technical issues.
 
- While Java Edition is only on PC, you can[play Minecraft on Steam Link](https://www.makeuseof.com/how-to-play-game-pass-on-steam-link-with-glossi/) and play it on your TV, phone, or tablet and get close to a cross-platform experience.
+ While Java Edition is only on PC, you can [play Minecraft on Steam Link](https://www.makeuseof.com/how-to-play-game-pass-on-steam-link-with-glossi/) and play it on your TV, phone, or tablet and get close to a cross-platform experience.
 
-### Minecraft Java Edition
+### Minecraft Java Edition ![Minecraft multiplayer server list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/mc-server-list-multiplayer.png)
 
-![Minecraft multiplayer server list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/mc-server-list-multiplayer.png)
+ Public servers are what most Java players use to link up with others. Servers are free to join and you can find them by using any of the many server-listing sites such as [minecraftservers.org](https://minecraftservers.org) (just search "Minecraft Servers" in your web browser to find more listing sites).
 
- Public servers are what most Java players use to link up with others. Servers are free to join and you can find them by using any of the many server-listing sites such as[minecraftservers.org](https://minecraftservers.org) (just search "Minecraft Servers" in your web browser to find more listing sites).
-
- We've covered an in-depth guide on[how to join a Minecraft server](https://www.makeuseof.com/how-to-join-minecraft-server/) already, but here's a quick rundown:
+ We've covered an in-depth guide on [how to join a Minecraft server](https://www.makeuseof.com/how-to-join-minecraft-server/) already, but here's a quick rundown:
 
 1. Copy the IP Address of the server you want to join. This will look something like "makeuseof.example.com"
 2. Navigate to the**Multiplayer** screen in your Minecraft client. Click on**Add Server** or**Direct Connection** .
@@ -43,9 +41,7 @@ thumbnail: https://thmb.techidaily.com/f247ef7a94b421ec0fcafea579ee074c3050225ad
 
  Joining servers in Bedrock Edition is a lot easier, here's how to do it:
 
-### Minecraft Bedrock Edition
-
-![Minecraft Bedrock Edition Servers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/minecraft-bedrock-edition-servers.jpg)
+### Minecraft Bedrock Edition ![Minecraft Bedrock Edition Servers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/minecraft-bedrock-edition-servers.jpg)
 
  While your range is narrower than Java Edition players', there are definitely public servers you can join to play Minecraft with your friends in Bedrock Edition.
 
@@ -72,17 +68,15 @@ thumbnail: https://thmb.techidaily.com/f247ef7a94b421ec0fcafea579ee074c3050225ad
 
 ![MUO Aternos server start button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-aternos-server-start-button.jpg)
 
- Finally, you'll need to click on the large green**Start** button. Once it's on, you can copy the IP address and paste it into Minecraft as you would a public server. This server is all yours and you can even[install CurseForge to add Minecraft mods](https://www.makeuseof.com/how-to-use-curseforge-to-install-minecraft-mod-packs/) and upload copies of existing worlds if you wanted.
+ Finally, you'll need to click on the large green**Start** button. Once it's on, you can copy the IP address and paste it into Minecraft as you would a public server. This server is all yours and you can even [install CurseForge to add Minecraft mods](https://www.makeuseof.com/how-to-use-curseforge-to-install-minecraft-mod-packs/) and upload copies of existing worlds if you wanted.
 
 ## 3\. Minecraft Realms
 
  Minecraft Realms is available for both Java and Bedrock, but they are separate subscriptions. Realms are officially hosted servers that you have to pay for, but it has the benefit of being more convenient, streamlined, and reliable than third-party hosting services.
 
-### How to Create a Minecraft Realm
+### How to Create a Minecraft Realm ![Minecraft Realms start new realm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/minecraft-realms-start-new-realm-1.jpg)
 
-![Minecraft Realms start new realm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/minecraft-realms-start-new-realm-1.jpg)
-
-**Java Edition** : First, you'll need to purchase a subscription for a Realm (you can check the pricing plans on[Minecraft's website](https://www.minecraft.net/en-us/realms-for-java/plans/) ). You can activate a 30-day free trial to test the waters and cancel anytime.
+**Java Edition** : First, you'll need to purchase a subscription for a Realm (you can check the pricing plans on [Minecraft's website](https://www.minecraft.net/en-us/realms-for-java/plans/) ). You can activate a 30-day free trial to test the waters and cancel anytime.
 
  Once you have a subscription plan, open Minecraft and click**Minecraft Realms** . If this is your first time creating a Realm, click on**click to start your new Realm** . Here you can name your Realm and enter a brief description before choosing your world type.
 
@@ -104,9 +98,7 @@ thumbnail: https://thmb.techidaily.com/f247ef7a94b421ec0fcafea579ee074c3050225ad
 
  Now that you know how to create a Realm, you probably want to check out your friends' Realms too. Here's how to join a Realm:
 
-### How to Join a Minecraft Realm
-
-![Minecraft Realms invite envelope](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/minecraft-realms-invite-envelope.jpg)
+### How to Join a Minecraft Realm ![Minecraft Realms invite envelope](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/minecraft-realms-invite-envelope.jpg)
 
 **Java Edition** : If you've received an invitation to join your friend's Realm, open Minecraft and navigate to**Minecraft Realms** .
 
@@ -122,9 +114,7 @@ thumbnail: https://thmb.techidaily.com/f247ef7a94b421ec0fcafea579ee074c3050225ad
 
  While servers are the best way to play Minecraft with friends who are far away, a LAN (Local Access Network) connection is an easy way to craft with friends who are nearby.
 
-### Minecraft Java Edition
-
-![Minecraft Java edition scanning for LAN games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/mc-scanning-for-lan-games.png)
+### Minecraft Java Edition ![Minecraft Java edition scanning for LAN games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/mc-scanning-for-lan-games.png)
 
  If you're under the same local IP address as the player you want to join, you can do this pretty easily. Launch Minecraft and click on**Multiplayer** . Minecraft will automatically scan for games on your local network.
 
@@ -134,11 +124,9 @@ thumbnail: https://thmb.techidaily.com/f247ef7a94b421ec0fcafea579ee074c3050225ad
 
  LAN play is on by default in Bedrock Edition. Just navigate to the**Worlds** tab, and if there are any available games on your network, they'll appear here for you to join.
 
-## 5\. Use Minecraft Split-Screen
+## 5\. Use Minecraft Split-Screen ![Split Screen Minecraft on Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/img_3176.jpeg)
 
-![Split Screen Minecraft on Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/img_3176.jpeg)
-
- Just like old-school console games, you can play split-screen on Minecraft Bedrock edition with up to four players. This is only available on consoles, but you can get on your couch, and[play split-screen Minecraft on your Nintendo Switch](https://www.makeuseof.com/how-to-play-two-player-minecraft-on-nintendo-switch/) .
+ Just like old-school console games, you can play split-screen on Minecraft Bedrock edition with up to four players. This is only available on consoles, but you can get on your couch, and [play split-screen Minecraft on your Nintendo Switch](https://www.makeuseof.com/how-to-play-two-player-minecraft-on-nintendo-switch/) .
 
 ## Enjoy Minecraft With Your Friends
 
@@ -161,3 +149,24 @@ thumbnail: https://thmb.techidaily.com/f247ef7a94b421ec0fcafea579ee074c3050225ad
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/simplifying-xbox-360-slim-disassembly-a-practical-approach/"><u>Simplifying Xbox 360 Slim Disassembly: A Practical Approach</u></a></li>
+<li><a href="https://games-able.techidaily.com/ephemeral-online-adventures-should-we-ponder-their-legacy/"><u>Ephemeral Online Adventures – Should We Ponder Their Legacy?</u></a></li>
+<li><a href="https://games-able.techidaily.com/access-windows-11-photo-library-for-past-games/"><u>Access Windows 11 Photo Library for Past Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/ioss-gaming-extravaganza-why-i-subscribe-to-apple-arcade/"><u>IOS's Gaming Extravaganza: Why I Subscribe to Apple Arcade</u></a></li>
+<li><a href="https://games-able.techidaily.com/price-patterns-investigating-gaming-costs-on-steam/"><u>Price Patterns: Investigating Gaming Costs on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/beat-the-heat-decks-must-have-accessories/"><u>Beat the Heat: Deck's Must-Have Accessories</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-series-x-gaming-collective-setup/"><u>Xbox Series X Gaming Collective Setup</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-techniques-to-enhance-your-steam-decks-abilities-at-the-desk/"><u>Top Techniques to Enhance Your Steam Deck's Abilities at the Desk</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-the-maze-of-massive-content-movement-from-iphones-to-mac-for-2024/"><u>Navigating the Maze of Massive Content Movement From iPhones to Mac for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-realme-gt-neo-5-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Realme GT Neo 5</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/analyzing-screen-capture-tech-for-professionals/"><u>Analyzing Screen Capture Tech for Professionals</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-master-clear-communication-in-zoom-chats/"><u>In 2024, Master Clear Communication in Zoom Chats</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-securing-your-speech-on-the-ipad/"><u>2024 Approved  Securing Your Speech on the iPad</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-realme-narzo-60x-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Realme Narzo 60x 5G</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-top-10-video-chat-sites-to-meet-funny-strangers/"><u>New Top 10 Video Chat Sites to Meet Funny Strangers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-instagram-unplugged-step-by-step-for-a-lasting-goodbye/"><u>[Updated] 2024 Approved  Instagram Unplugged  Step-by-Step for a Lasting Goodbye</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/in-2024-mastering-pip-in-final-cut-pro-a-step-by-step-guide/"><u>In 2024, Mastering PiP in Final Cut Pro A Step-by-Step Guide</u></a></li>
+</ul></div>

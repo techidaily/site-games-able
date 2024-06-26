@@ -1,7 +1,7 @@
 ---
 title: Guiding Yourself Past Low-Memory Warnings in Roblox iOS
-date: 2024-06-25T10:50:11.551Z
-updated: 2024-06-26T10:50:11.551Z
+date: 2024-06-25T12:48:41.672Z
+updated: 2024-06-26T12:48:41.672Z
 tags:
   - games
 categories:
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
 
  You will regularly encounter the low memory warning on Roblox if your device is not fully compatible with the game. An iPhone 5s, iPad Air, iPad mini 2, or later is required to play Roblox.
 
- Additionally, it's worth[updating your iPhone](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) if you haven't already to avoid iOS-related bugs from causing the low memory warning.
+ Additionally, it's worth [updating your iPhone](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) if you haven't already to avoid iOS-related bugs from causing the low memory warning.
 
 ### 2\. Close Unnecessary Background Apps
 

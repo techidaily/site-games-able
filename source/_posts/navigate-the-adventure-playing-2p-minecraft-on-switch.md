@@ -1,7 +1,7 @@
 ---
 title: "Navigate the Adventure: Playing 2P Minecraft on Switch"
-date: 2024-06-25T10:38:14.699Z
-updated: 2024-06-26T10:38:14.699Z
+date: 2024-06-25T12:48:34.156Z
+updated: 2024-06-26T12:48:34.156Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/445d6c97ace4ef05d63cde4f33374d4b0783e76d1
 
 ![Split Screen Minecraft on Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/img_3176.jpeg)
 
- Split-screen multiplayer is only available on the console version of Minecraft. That means the PlayStation, Nintendo Switch, or Xbox versions only. But just because you only have Minecraft on your PC or mobile, doesn't mean you still can't get all your friends involved in creating the ultimate Minecraft world. There are many more[ways to play Minecraft with your friends](https://www.makeuseof.com/how-to-play-minecraft-with-friends/) than just this way.
+ Split-screen multiplayer is only available on the console version of Minecraft. That means the PlayStation, Nintendo Switch, or Xbox versions only. But just because you only have Minecraft on your PC or mobile, doesn't mean you still can't get all your friends involved in creating the ultimate Minecraft world. There are many more [ways to play Minecraft with your friends](https://www.makeuseof.com/how-to-play-minecraft-with-friends/) than just this way.
 
 ## How Do I Play Two-Player Minecraft Online on My Nintendo Switch?
 

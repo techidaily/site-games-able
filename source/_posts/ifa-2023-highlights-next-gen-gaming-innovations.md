@@ -1,7 +1,7 @@
 ---
 title: IFA 2023 Highlights Next-Gen Gaming Innovations
-date: 2024-06-25T10:49:23.828Z
-updated: 2024-06-26T10:49:23.828Z
+date: 2024-06-25T12:48:41.183Z
+updated: 2024-06-26T12:48:41.183Z
 tags:
   - games
 categories:
@@ -22,13 +22,11 @@ thumbnail: https://thmb.techidaily.com/d5e8491d3f34992956d5390f8a8c8192037db1bb4
 
  Plenty of brands had a fine showing of their gaming hardware at IFA 2023\. But it was Lenovo that proverbially mopped the floor with the competition. It unveiled not one, or even two, but three pieces of gaming hardware that show Lenovo is making serious moves to become a leader in some of the game tech still in its infancy: portable gaming PCs and AR glasses.
 
-### Lenovo Legion GO
-
-![MUO site on Lenovo Legion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/muo-on-legion.jpg)
+### Lenovo Legion GO ![MUO site on Lenovo Legion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/muo-on-legion.jpg)
 
  Image Credit: Justin Duino /[MakeUseOf](http://www.makeuseof.com)
 
- Undoubtedly, the stand-out gaming tech of IFA 2023, the[Lenovo Legion GO](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Flegiongo%2F) , effectively stole the attention of every attendee who passed by Lenovo's booth. And who can blame them? The yellow RGB light around the joysticks of the Lenovo Legion GO makes it feel like it's ripped straight out of a "Deus Ex" game, giving it that "the future is now" look.
+ Undoubtedly, the stand-out gaming tech of IFA 2023, the [Lenovo Legion GO](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Flegiongo%2F) , effectively stole the attention of every attendee who passed by Lenovo's booth. And who can blame them? The yellow RGB light around the joysticks of the Lenovo Legion GO makes it feel like it's ripped straight out of a "Deus Ex" game, giving it that "the future is now" look.
 
  It doesn't just look pretty, though. It's sporting impressive specs, too:
 
@@ -36,9 +34,7 @@ thumbnail: https://thmb.techidaily.com/d5e8491d3f34992956d5390f8a8c8192037db1bb4
 * AMD Ryzen Z1/ Z1 Extreme processor
 * 512GB storage
 * MicroSD card reader
-* 8.8-inch OLED screen
-
-![Windows running on Lenovo Legion Go](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-windows.jpg)
+* 8.8-inch OLED screen ![Windows running on Lenovo Legion Go](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-windows.jpg)
 
  Image Credit: Justin Duino /[MakeUseOf](http://www.makeuseof.com)
 
@@ -60,9 +56,7 @@ thumbnail: https://thmb.techidaily.com/d5e8491d3f34992956d5390f8a8c8192037db1bb4
 
  The Lenovo Legion GO is scheduled to launch on October 31, 2023, for $799.
 
-### Lenovo Legion Glasses
-
-![legion-glasses-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-glasses-1.jpg)
+### Lenovo Legion Glasses ![legion-glasses-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-glasses-1.jpg)
 
  Image Credit: Justin Duino /[MakeUseOf](http://www.makeuseof.com)
 
@@ -80,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/d5e8491d3f34992956d5390f8a8c8192037db1bb4
 
  Image Credit: Justin Duino/[MakeUseOf](http://www.makeuseof.com)
 
- But are they better than its competition, namely the[XReal Air smart glasses, arguably the best accessory for the Steam Deck](https://www.makeuseof.com/nreal-air-glasses-are-the-best-accessory-for-steam-deck/) ? That remains to be seen. They're a bit heavier at 5oz (142g) than the XReal Air's 2.6oz (75g). But with the adjustable nose pads and its anti-slip adapter, pressure on the nose may not make the glasses feel like they're going to fall off.
+ But are they better than its competition, namely the [XReal Air smart glasses, arguably the best accessory for the Steam Deck](https://www.makeuseof.com/nreal-air-glasses-are-the-best-accessory-for-steam-deck/) ? That remains to be seen. They're a bit heavier at 5oz (142g) than the XReal Air's 2.6oz (75g). But with the adjustable nose pads and its anti-slip adapter, pressure on the nose may not make the glasses feel like they're going to fall off.
 
 ![Nosepad of the Legion Glasses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-glasses-nosepad.jpg)
 
@@ -88,15 +82,13 @@ thumbnail: https://thmb.techidaily.com/d5e8491d3f34992956d5390f8a8c8192037db1bb4
 
  The rebranded Lenovo Legion Glasses will be available sometime in October 2023 for $329.
 
-### Lenovo Legion 9i
-
-![legion-9i-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-9i-2.jpg)
+### Lenovo Legion 9i ![legion-9i-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-9i-2.jpg)
 
  Image Credit: Justin Duino /[MakeUseOf](http://www.makeuseof.com)
 
- Let's get one thing out of the way: the[Lenovo Legion 9i](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Flegion-laptops%2Flegion-9-series%2Flegion-9i-gen-8-%2816-inch-intel%29%2F83agcto1wwus1) fetches a crazy price: $4,399\. It's packed with premium features and new ideas, straying away from previous builds of the Legion series. So, what does this high price get you?
+ Let's get one thing out of the way: the [Lenovo Legion 9i](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Flegion-laptops%2Flegion-9-series%2Flegion-9i-gen-8-%2816-inch-intel%29%2F83agcto1wwus1) fetches a crazy price: $4,399\. It's packed with premium features and new ideas, straying away from previous builds of the Legion series. So, what does this high price get you?
 
- An integrated liquid cooling system, for starters. Unlike most laptops that utilize air cooling to safely transfer heat away from the important bits of your PC, the Legion 9i uses liquid cooling technology to keep its internal temperature at a reasonable level. It's the same[principle behind water-cooled PCs](https://www.makeuseof.com/water-cooled-pc/) but in laptop form.
+ An integrated liquid cooling system, for starters. Unlike most laptops that utilize air cooling to safely transfer heat away from the important bits of your PC, the Legion 9i uses liquid cooling technology to keep its internal temperature at a reasonable level. It's the same [principle behind water-cooled PCs](https://www.makeuseof.com/water-cooled-pc/) but in laptop form.
 
 ![Legion 9i's cooling system](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-9i-cooling-system.jpg)
 
@@ -114,13 +106,11 @@ The Legion 9i features a:
 
 The Lenovo Legion 9i will be available starting October 2023.
 
-## MSI GAMING SLIM Series Graphics Cards
-
-![msi 4070 slimline gpu on msi stand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/msi-4070-slimline-gpu-on-msi-stand.jpg)
+## MSI GAMING SLIM Series Graphics Cards ![msi 4070 slimline gpu on msi stand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/msi-4070-slimline-gpu-on-msi-stand.jpg)
 
  Image Credit: Gavin Phillips/MakeUseOf
 
- MSI impressed us with its new line of[GAMING SLIM series of graphics cards](https://www.msi.com/Graphics-Card/GeForce-RTX-4060-Ti-GAMING-X-SLIM-16G) . It effectively shrinks down the GeForce RTX 40 series, making installing it in small or tight spaces easier.
+ MSI impressed us with its new line of [GAMING SLIM series of graphics cards](https://www.msi.com/Graphics-Card/GeForce-RTX-4060-Ti-GAMING-X-SLIM-16G) . It effectively shrinks down the GeForce RTX 40 series, making installing it in small or tight spaces easier.
 
  Available in both black and white, MSI's GAMING SLIM graphics cards are also cooled by the TRI FROZR 3 and TORX Fan 5.0, directing proper airflow despite its small profile. It keeps itself cool with eight Core Pipes in the heatsink and a metal backplate with an opening to decrease heat.
 
@@ -130,9 +120,7 @@ The Lenovo Legion 9i will be available starting October 2023.
 
  MSI's GAMING SLIM version of its GeForce RTX 40 series graphics cards will be released sometime later this year.
 
-## Tecno MegaMini Watercooled Mini PC
-
-![The MegaMini Gaming G1 watercooled mini PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/megamini-gaming-g1.jpg)
+## Tecno MegaMini Watercooled Mini PC ![The MegaMini Gaming G1 watercooled mini PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/megamini-gaming-g1.jpg)
 
  Image Credit: Paul Antill/[MakeUseOf](http://www.makeuseof.com)
 

@@ -1,7 +1,7 @@
 ---
 title: "System Optimization: How to Decrease Steam's RAM Consumption"
-date: 2024-06-25T10:47:02.499Z
-updated: 2024-06-26T10:47:02.499Z
+date: 2024-06-25T12:48:39.740Z
+updated: 2024-06-26T12:48:39.740Z
 tags:
   - games
 categories:
@@ -30,19 +30,15 @@ thumbnail: https://thmb.techidaily.com/b75952ddf1d4af9f33bac9d924f7db98ead5f1ed4
 
  On top of consuming plenty of memory in the long run, too many of these instances can even impact your CPU performance. Thankfully, ta few solutions exist for too many WebHelper instances running.
 
-## 1\. Use Offline Mode
+## 1\. Use Offline Mode ![Steam selecting the go offline option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_steam_go_offline.jpg)
 
-![Steam selecting the go offline option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_steam_go_offline.jpg)
-
- One way to prevent internet-connected browsers from launching is to[run Steam offline](https://www.makeuseof.com/how-to-use-steam-offline-mode/) . You can do this by hitting**Steam** from the main screen and pressing**Go Offline...** from the drop-down menu.
+ One way to prevent internet-connected browsers from launching is to [run Steam offline](https://www.makeuseof.com/how-to-use-steam-offline-mode/) . You can do this by hitting**Steam** from the main screen and pressing**Go Offline...** from the drop-down menu.
 
  Do note that this has limitations, such as downloading new updates or connecting online to certain games.
 
-## 2\. Disable Hardware-Accelerated Rendering
+## 2\. Disable Hardware-Accelerated Rendering ![Steam interface settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_interface_settings.jpg)
 
-![Steam interface settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_interface_settings.jpg)
-
- Modern Steam uses a Chrome-based browser, but[Chrome is known to be fairly demanding on your memory](https://www.makeuseof.com/tag/chrome-using-much-ram-fix-right-now/) . Many of the problems presented by Google Chrome can affect Steam when it connects to the web.
+ Modern Steam uses a Chrome-based browser, but [Chrome is known to be fairly demanding on your memory](https://www.makeuseof.com/tag/chrome-using-much-ram-fix-right-now/) . Many of the problems presented by Google Chrome can affect Steam when it connects to the web.
 
  There's one setting that can add a large amount of performance overhead if left enabled.
 
@@ -53,17 +49,13 @@ thumbnail: https://thmb.techidaily.com/b75952ddf1d4af9f33bac9d924f7db98ead5f1ed4
 
  This will ease the burden that Steam's web pages have on your available memory.
 
-## 3\. Enable Low-Performance Mode
-
-![Steam library settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_library_settings.jpg)
+## 3\. Enable Low-Performance Mode ![Steam library settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_library_settings.jpg)
 
  Another simple toggle for performance gains is in the Library tab of the settings menu. Enabling the Low-Performance Mode will disable certain animations when browsing through the Steam library.
 
  This will sacrifice some eye candy for the sake of performance, but overall doesn't reduce memory usage beyond superficial levels. If you've tried all these options so far and still find your system struggling, it might be time for more drastic measures.
 
-## 4\. Launch the Steam Mini Games List
-
-![Steam mini games list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_steam_minigames_list.jpg)
+## 4\. Launch the Steam Mini Games List ![Steam mini games list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_steam_minigames_list.jpg)
 
  When you launch Steam, it connects to the internet at several points. The app's most memory-intensive processes occur when it connects to the latest news and developer blogs.
 
@@ -76,13 +68,11 @@ steam://open/minigameslist
 
  This alone will cut down on several instances of the Steam Client WebHelper. To return to the default Steam look, select any option under the**View** menu.
 
-## 5\. Create a Custom Batch File for Minimal Steam
-
-![Minimal Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_minimal_steam.jpg)
+## 5\. Create a Custom Batch File for Minimal Steam ![Minimal Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_minimal_steam.jpg)
 
  While the previous solutions can help regain a little memory, you might need something more substantial if you're struggling to run Steam on your system.
 
- Thankfully, there exists a combination of commands to completely strip Steam of its ability to create Steam Client WebHelper instances. There are too many commands to easily enter at once, so instead, we'll[make a batch file for it](https://www.makeuseof.com/tag/write-simple-batch-bat-file/) .
+ Thankfully, there exists a combination of commands to completely strip Steam of its ability to create Steam Client WebHelper instances. There are too many commands to easily enter at once, so instead, we'll [make a batch file for it](https://www.makeuseof.com/tag/write-simple-batch-bat-file/) .
 
  To create our batch file, head over to the Steam installation directory. This is the same place where**steam.exe** can be found. Once there, follow these steps:
 

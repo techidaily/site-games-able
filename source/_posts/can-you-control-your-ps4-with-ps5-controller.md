@@ -1,7 +1,7 @@
 ---
 title: Can You Control Your PS4 with PS5 Controller?
-date: 2024-06-25T10:42:58.132Z
-updated: 2024-06-26T10:42:58.132Z
+date: 2024-06-25T12:48:37.204Z
+updated: 2024-06-26T12:48:37.204Z
 tags:
   - games
 categories:
@@ -20,17 +20,17 @@ thumbnail: https://thmb.techidaily.com/9b1d54d7ae73d83b91bdfdadbf959717f77a8b021
 
 ## The PS5 Controller and PS4 Console Are Not Compatible
 
- Sony made it clear in a[PlayStation Blog post](https://blog.playstation.com/2020/11/09/ps5-the-ultimate-faq/#dualsens) that the DualSense controller will not work on PS4 consoles, as the two devices aren't compatible when connected directly. The console manufacturer has not provided a reason why this is the case, but it's a bit strange considering that the[PS4 controller is forward-compatible with the PS5](https://www.makeuseof.com/use-ps4-controllers-on-playstation-5/) and backward-compatible with the PS3.
+ Sony made it clear in a [PlayStation Blog post](https://blog.playstation.com/2020/11/09/ps5-the-ultimate-faq/#dualsens) that the DualSense controller will not work on PS4 consoles, as the two devices aren't compatible when connected directly. The console manufacturer has not provided a reason why this is the case, but it's a bit strange considering that the [PS4 controller is forward-compatible with the PS5](https://www.makeuseof.com/use-ps4-controllers-on-playstation-5/) and backward-compatible with the PS3.
 
  However, if all you have is a PS4 console and DualSense controller (no PS4 controller to play with), you can indirectly connect these incompatible devices with the help of two middlemen: PS Remote Play or the Titan Two adapter.
 
 ## How Do PS5 Controllers Work on PS4 Using Remote Play on PC?
 
- Provided you’ve enabled Remote Play on your PS4 console, you can play via PC or Mac using the PS Remote Play app. When using Remote Play this way, you can[connect your DualSense Controller to your PC](https://www.makeuseof.com/how-to-use-ps5-controller-on-pc/) , and then use your PS5 controller on your PS4.
+ Provided you’ve enabled Remote Play on your PS4 console, you can play via PC or Mac using the PS Remote Play app. When using Remote Play this way, you can [connect your DualSense Controller to your PC](https://www.makeuseof.com/how-to-use-ps5-controller-on-pc/) , and then use your PS5 controller on your PS4.
 
 Here’s how to do that:
 
-1. Download the[PS Remote Play app](https://www.playstation.com/en-us/remote-play/) for PC and Mac onto your computer and install it.  
+1. Download the [PS Remote Play app](https://www.playstation.com/en-us/remote-play/) for PC and Mac onto your computer and install it.  
 ![ps remote play download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/ps-remote-play-app-download.jpg)
 2. Turn on your PS4, make sure it connects to the internet, and that it’s logged in to your PlayStation Network account.
 3. Open the Remote Play app on your PC or Mac, click the**Sign In to PSN** button, and follow the instructions to log in to your PSN account.  
@@ -44,7 +44,7 @@ Here’s how to do that:
 
 ## How Do PS5 Controllers Work on PS4 Using Remote Play on Mobile?
 
- If you don't have a computer, you can also download the Remote Play app on the[App Store](https://apps.apple.com/us/app/ps-remote-play/id1436192460) or on[Google Play](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2012734/https://play.google.com/store/apps/details?id=com.playstation.remoteplay&cjevent=b7556139646111ee834a011c0a18b8f6) and use that instead. First, you need to[put the PS5 controller in pairing mode](https://www.makeuseof.com/how-to-ps5-dualsense-controller-pairing-mode/) and pair it with your mobile device through Bluetooth. You'll know you've paired the controller with your mobile device when its light remains lit after selecting the controller in the Bluetooth settings.
+ If you don't have a computer, you can also download the Remote Play app on the [App Store](https://apps.apple.com/us/app/ps-remote-play/id1436192460) or on [Google Play](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2012734/https://play.google.com/store/apps/details?id=com.playstation.remoteplay&cjevent=b7556139646111ee834a011c0a18b8f6) and use that instead. First, you need to [put the PS5 controller in pairing mode](https://www.makeuseof.com/how-to-ps5-dualsense-controller-pairing-mode/) and pair it with your mobile device through Bluetooth. You'll know you've paired the controller with your mobile device when its light remains lit after selecting the controller in the Bluetooth settings.
 
  As with PC, make sure you've connected the PS4 to the internet, and that you've signed in to your PSN account. Also, you'll need to connect your phone to Wi-Fi (mobile data will not work with the Remote Play app). Then, open the Remote Play app on your Android or iOS device and follow the steps below:
 
@@ -59,7 +59,7 @@ Close
 
 ## How Do PS5 Controllers Work on PS4 Using the Titan Two Adapter?
 
- Remote Play works just fine if you have a device that supports it, but if you don't have one or don't want to deal with possible input lag from streaming, there's one more middleman you can try: Titan Two by[ConsoleTuner](https://www.consoletuner.com/products/titan-two/) .
+ Remote Play works just fine if you have a device that supports it, but if you don't have one or don't want to deal with possible input lag from streaming, there's one more middleman you can try: Titan Two by [ConsoleTuner](https://www.consoletuner.com/products/titan-two/) .
 
  Once you purchase the Titan Two, all you have to do is plug it into your PS4 console and then plug in your DualSense into the adapter using a USB-C cable.
 

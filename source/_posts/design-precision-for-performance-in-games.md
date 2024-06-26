@@ -1,7 +1,7 @@
 ---
 title: Design Precision for Performance in Games
-date: 2024-06-23 20:10:28
-updated: 2024-06-24 12:32:11
+date: 2024-06-25T13:00:58.083Z
+updated: 2024-06-26T13:00:58.083Z
 tags:
   - games
 categories:
@@ -18,9 +18,7 @@ thumbnail: https://thmb.techidaily.com/069b298bfedee9c280f30a09eb725e41e8884f90f
 
  Designing and optimizing 3D models for your games is a big part of this, and we’re here to help you out. Let’s explore some of the key practices and techniques that you can employ to optimize 3D models for game development.
 
-## 3D Model Game Optimization: Development Practices
-
-![room 3d model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/room-3d-model.jpg)
+## 3D Model Game Optimization: Development Practices ![room 3d model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/room-3d-model.jpg)
 
  While a good deal of the work you can do to optimize 3D models for game development is done in your 3D design software, the game engine also gives you opportunities to make your game faster. These methods are easy to put to work, providing a good place to start if you have already begun development on your game.
 
@@ -34,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/069b298bfedee9c280f30a09eb725e41e8884f90f
 
  Textures act like skin on the outside of a 3D object, adding patterns and other visual features to make the object look more real. Textures come in the form of image files, and each of these files needs to be loaded when it is used in a scene. By using compressed textures, you can free up a lot of resources.
 
- Alongside using compressed textures, it’s also worth making sure that the shaders you use are well-optimized. Most game engines have an asset store with both free and paid shaders available to make this easier. You can also find[free 3D models on the Unity Asset Store](https://www.makeuseof.com/unity-free-assets-websites/) that are already optimized, and this applies to other engines, too.
+ Alongside using compressed textures, it’s also worth making sure that the shaders you use are well-optimized. Most game engines have an asset store with both free and paid shaders available to make this easier. You can also find [free 3D models on the Unity Asset Store](https://www.makeuseof.com/unity-free-assets-websites/) that are already optimized, and this applies to other engines, too.
 
 ### Use Static Lighting
 
@@ -50,15 +48,11 @@ thumbnail: https://thmb.techidaily.com/069b298bfedee9c280f30a09eb725e41e8884f90f
 
  The engine can automatically remove polygons from an object’s mesh when the player is far away, lowering resource costs without impacting immersion.
 
-## 3D Model Game Optimization: Design Workflow
-
-![3d designer working at PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3d-designer.jpg)
+## 3D Model Game Optimization: Design Workflow ![3d designer working at PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3d-designer.jpg)
 
  Designing 3D models that are optimized for video game development is easier than you might expect. This process mostly involves stripping your model down to ensure that it only has the vertices, lines, and faces that it needs. There are several ways to achieve this.
 
-### Manual Geometry Optimization
-
-![monkey model in blender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/manual-3d-optimization.jpg)
+### Manual Geometry Optimization ![monkey model in blender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/manual-3d-optimization.jpg)
 
  Optimizing simple geometry by hand is a good way to get used to designing models for video games. You have two main options for removing faces, lines, and vertices in 3D modeling software; deleting and dissolving.
 
@@ -68,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/069b298bfedee9c280f30a09eb725e41e8884f90f
 
 * **Remove Hidden Faces** : Faces that the player will never see don’t need to be loaded into your game. The backs of buildings, the underside of a vehicle, and pieces of geometry that are below ground can usually be removed. This is the manual version of occlusion mapping.
 * **Remove Duplicate/Redundant Faces** : Duplicate faces should always be deleted, but you should also look for faces that aren’t necessary. A square, for example, only needs to have one face. If it has two triangular faces, dissolve them both to replace them with a single face.
-* **Object Merging** : Loading one object is always better than loading two or three.[Merging 3D objects in Blender](https://www.makeuseof.com/merge-objects-in-blender/) and[other game development software](https://www.makeuseof.com/tag/five-free-game-development-tools-make-your-own-games/) is easy, and it's a great way to reduce your resource costs.
+* **Object Merging** : Loading one object is always better than loading two or three.[Merging 3D objects in Blender](https://www.makeuseof.com/merge-objects-in-blender/) and [other game development software](https://www.makeuseof.com/tag/five-free-game-development-tools-make-your-own-games/) is easy, and it's a great way to reduce your resource costs.
 
 ### Automated Geometry Optimization
 
@@ -97,3 +91,24 @@ thumbnail: https://thmb.techidaily.com/069b298bfedee9c280f30a09eb725e41e8884f90f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/challenge-yourself-with-five-furious-fiddlers/"><u>Challenge Yourself With Five Furious Fiddlers</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-palworld-a-beginners-guide/"><u>Navigating PalWorld: A Beginner's Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/easy-savings-on-xbox-series-games-and-more/"><u>Easy Savings on Xbox Series Games & More</u></a></li>
+<li><a href="https://games-able.techidaily.com/using-smart-technology-for-xbox-controller-free-use/"><u>Using Smart Technology for Xbox Controller-Free Use</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-secrets-of-smartphone-based-twitch-streams/"><u>Unveiling the Secrets of Smartphone-Based Twitch Streams</u></a></li>
+<li><a href="https://games-able.techidaily.com/playstation-5-controller-for-pc-a-comprehensive-guide/"><u>PlayStation 5 Controller for PC: A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/minimalist-meets-maximalism-in-home-computers-mini-vs-desktops/"><u>Minimalist Meets Maximalism in Home Computers (Mini Vs. Desktops)</u></a></li>
+<li><a href="https://games-able.techidaily.com/share-your-pc-world-with-friends-using-steam-deck-remote/"><u>Share Your PC World with Friends Using Steam Deck Remote</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-insiders-guide-to-professional-grade-editing-in-windows-10/"><u>In 2024, The Insider's Guide to Professional-Grade Editing in Windows 10</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/spotlight-on-tiktoks-newest-dance-moves-for-2024/"><u>Spotlight on TikTok's Newest Dance Moves for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-tecno-spark-10-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Tecno Spark 10 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Motorola Moto G24? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/transforming-viewers-experience-obs-strategies-on-youtube-and-twitch-for-2024/"><u>Transforming Viewers' Experience  OBS Strategies on YouTube & Twitch for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-best-way-to-convert-youtube-videos-to-mp4-a-step-by-step-guide-for-2024/"><u>New The Best Way to Convert YouTube Videos to MP4 A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-setting-the-scene-a-complete-guide-to-adding-custom-sounds-and-ringtones-on-android/"><u>[New] Setting the Scene  A Complete Guide to Adding Custom Sounds and Ringtones on Android</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-efficiently-shortening-youtube-content/"><u>[New] In 2024, Efficiently Shortening YouTube Content</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-crafting-compelling-gopro-livestreams-on-facebook-and-periscope/"><u>[Updated] In 2024, Crafting Compelling GoPro Livestreams on Facebook & Periscope</u></a></li>
+</ul></div>

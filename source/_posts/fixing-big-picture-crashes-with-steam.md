@@ -1,7 +1,7 @@
 ---
 title: Fixing Big Picture Crashes with Steam
-date: 2024-06-25T10:38:03.129Z
-updated: 2024-06-26T10:38:03.129Z
+date: 2024-06-25T12:48:34.026Z
+updated: 2024-06-26T12:48:34.026Z
 tags:
   - games
 categories:
@@ -22,11 +22,11 @@ thumbnail: https://thmb.techidaily.com/a7021ad624ff445cc29baa46a54eaf2cd9c23802b
 
  This may sound too simple, but temporary app glitches can often cause Steam's Big Picture mode to crash or stop working on Windows. Hence, it is a good idea to terminate all Steam processes and reopen the app.
 
- Press**Ctrl + Shift + Esc** to[open the Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) . In the**Processes** tab, right-click on**Steam** and select the**End task** option.
+ Press**Ctrl + Shift + Esc** to [open the Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) . In the**Processes** tab, right-click on**Steam** and select the**End task** option.
 
 ![Close Steam Using Task Manager on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/close-steam-using-task-manager-on-windows.jpg)
 
- Right-click on the**Steam** app shortcut and select**Run as administrator** . After that, try to[use the Big Picture mode](https://www.makeuseof.com/what-is-steam-big-picture-mode-explained/) again.
+ Right-click on the**Steam** app shortcut and select**Run as administrator** . After that, try to [use the Big Picture mode](https://www.makeuseof.com/what-is-steam-big-picture-mode-explained/) again.
 
 ## 2\. Modify Steam's EXE File
 
@@ -81,7 +81,7 @@ To opt out of the Steam beta:
 
 ## 8\. Uninstall and Reinstall Steam
 
- Finally, if all else fails, you can consider uninstalling Steam completely and reinstalling it. Refer to our guide on[different ways to uninstall software on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) and use your preferred method to remove Steam. After that, download and[install the Steam app](https://www.makeuseof.com/what-is-steam-how-to-install/) again.
+ Finally, if all else fails, you can consider uninstalling Steam completely and reinstalling it. Refer to our guide on [different ways to uninstall software on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) and use your preferred method to remove Steam. After that, download and [install the Steam app](https://www.makeuseof.com/what-is-steam-how-to-install/) again.
 
 ## Start Using Steam’s Big Picture Mode Again
 

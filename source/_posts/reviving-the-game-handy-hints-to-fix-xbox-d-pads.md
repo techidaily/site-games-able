@@ -1,7 +1,7 @@
 ---
 title: "Reviving the Game: Handy Hints to Fix Xbox D-Pads"
-date: 2024-06-20 17:30:25
-updated: 2024-06-23 12:32:43
+date: 2024-06-25T13:36:47.507Z
+updated: 2024-06-26T13:36:47.507Z
 tags:
   - games
 categories:
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 
  Unlike most companies that would rather gobble up your money and make you purchase a new controller every year or two, Xbox has turned a new leaf. Gamers from North America can now purchase official replacement parts from Xbox directly and follow the free tutorials provided to fix their controller themselves.
 
- Replacement parts for all major components are available on[Microsoft's official website](https://www.microsoft.com/en-us/store/b/xbox-repair-parts) , including replacement PCBAs, motor assemblies, shell cases, and buttons. New buttons and shell replacements are available in either black or white, so you can give your controller a whole new look while you’re at it.
+ Replacement parts for all major components are available on [Microsoft's official website](https://www.microsoft.com/en-us/store/b/xbox-repair-parts) , including replacement PCBAs, motor assemblies, shell cases, and buttons. New buttons and shell replacements are available in either black or white, so you can give your controller a whole new look while you’re at it.
 
 ![A disassembled Xbox Series X|S controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/xbox-x-controller-disassembly-4-1.JPG)
 
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 
  Unless you are already well-versed in the inner workings of a video game controller, you are probably going to want to check out one of Xbox’s free tutorials to walk you through the job. Even if you are experienced, it can’t hurt to freshen up your memory before cracking open your controller and fiddling around in there. Luckily for those who are keen to learn this handy new skill,[Xbox Support](https://support.xbox.com/en-us/help/hardware-network/warranty-service/xbox-self-repair) has provided both written instructions for the repair and a YouTube tutorial for visual learners, which you can view above.
 
- If Xbox's tutorials aren't doing the trick for you, you can also learn a variety of repair techniques like[how to fix your drifting Xbox controller](https://www.makeuseof.com/xbox-controller-drift/) or[how to open your Xbox Series X|S Controller](https://www.makeuseof.com/xbox-series-xs-controller-how-to-take-apart/) from our very own experts.
+ If Xbox's tutorials aren't doing the trick for you, you can also learn a variety of repair techniques like [how to fix your drifting Xbox controller](https://www.makeuseof.com/xbox-controller-drift/) or [how to open your Xbox Series X|S Controller](https://www.makeuseof.com/xbox-series-xs-controller-how-to-take-apart/) from our very own experts.
 
 ## Why You Should Fix Your Own Xbox Controller
 
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 
  Now, you can purchase new parts for anywhere between $19.99 to $34.99, depending on what you need. These savings are even more apparent when you’re talking about the Xbox Elite Series 2 Wireless controller.
 
- Not only does fixing your own controller save you money, but it also saves the planet from unnecessary waste. Xbox has done a lot in recent years to reduce its carbon footprint and help its customers do the same, from introducing a[power-saving mode on the Xbox](https://www.makeuseof.com/xbox-shutdown-vs-sleep-mode/) to[crafting a whole Xbox controller out of trash](https://www.makeuseof.com/how-xbox-wireless-controller-remix-edition-make-life-easier/) .
+ Not only does fixing your own controller save you money, but it also saves the planet from unnecessary waste. Xbox has done a lot in recent years to reduce its carbon footprint and help its customers do the same, from introducing a [power-saving mode on the Xbox](https://www.makeuseof.com/xbox-shutdown-vs-sleep-mode/) to [crafting a whole Xbox controller out of trash](https://www.makeuseof.com/how-xbox-wireless-controller-remix-edition-make-life-easier/) .
 
 ![Close up of Xbox Wireless Controller Remix Edition on a Leafy Background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/close-up-of-xbox-wireless-controller-remix-edition-on-a-leafy-background.jpg)
 
@@ -73,3 +73,27 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/voice-chat-security-how-to-mask-your-game-talks/"><u>Voice Chat Security: How to Mask Your Game Talks</u></a></li>
+<li><a href="https://games-able.techidaily.com/does-the-nintendo-switch-oled-work-with-an-old-dock/"><u>Does the Nintendo Switch OLED Work With an Old Dock?</u></a></li>
+<li><a href="https://games-able.techidaily.com/playstation-5-tips-to-ignite-your-gaming-passion/"><u>PlayStation 5: Tips to Ignite Your Gaming Passion</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-high-refresh-monitor-selection/"><u>Optimal High Refresh Monitor Selection</u></a></li>
+<li><a href="https://games-able.techidaily.com/controlling-xbox-game-bars-activity-stream-on-windows-11/"><u>Controlling Xbox Game Bar's Activity Stream on Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/unwind-and-enjoy-netflixs-mobile-game-haven/"><u>Unwind and Enjoy: Netflix’s Mobile Game Haven</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-gaming-potential-with-apples-game-mode-in-sonoma-os/"><u>Unlocking Gaming Potential with Apple's Game Mode in Sonoma OS</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-maximum-potential-of-nintendo-switch-life/"><u>Unlock Maximum Potential of Nintendo Switch Life</u></a></li>
+<li><a href="https://games-able.techidaily.com/in-browser-blitzkrieg-a-ranked-list-of-top-online-shooter-games/"><u>In-Browser Blitzkrieg: A Ranked List of Top Online Shooter Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-halt-steam-initialization/"><u>How to Halt Steam Initialization</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-from-iphone-15-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock from iPhone 15</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-nokia-105-classic-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-x-apples-new-iphone-by-drfone-ios/"><u>How to Unlock iPhone X, Apples New iPhone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-ultimate-microphone-recordings-list-9-reviews-of-choice/"><u>[New] The Ultimate Microphone Recordings List  9 Reviews of Choice</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unseen-youtube-videos-the-meaning-of-unlisted-status/"><u>2024 Approved  Unseen YouTube Videos  The Meaning of 'Unlisted' Status</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-precision-recording-studio-app/"><u>[Updated] Precision Recording Studio App</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-discovering-the-top-tools-for-engaging-video-beginnings/"><u>[Updated] Discovering the Top Tools for Engaging Video Beginnings</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-top-5-final-cut-pro-editing-tips-you-should-know/"><u>Updated Top 5 Final Cut Pro Editing Tips You Should Know</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-cut-to-the-chase-quick-background-blur-tricks-for-everyday-meets-for-2024/"><u>[New] Cut to the Chase  Quick Background Blur Tricks for Everyday Meets for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-vivo-x-fold-2-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Vivo X Fold 2 Phone</u></a></li>
+</ul></div>

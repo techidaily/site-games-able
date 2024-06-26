@@ -1,7 +1,7 @@
 ---
 title: "Essential Downloads: Platforms, DLCs, More for BG3"
-date: 2024-06-21 23:53:58
-updated: 2024-06-24 12:34:55
+date: 2024-06-25T13:06:33.614Z
+updated: 2024-06-26T13:06:33.614Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/e0a34c7a81fb8279e0e4f8e61ff399b11932a0b05
 
 ## What Are Baldur’s Gate 3's Hardware and Software Requirements?
 
- Unlike its predecessors, you can’t run Baldur’s Gate 3 on a potato computer. While you don’t need the most powerful graphic cards, you would need a decent one if you want to enjoy your experience and explore this corner of Faerûn. Take a look at our list of the[best graphic cards for any budget](https://www.makeuseof.com/tag/best-graphics-cards/) to find something that works for you if you plan to play on a PC.
+ Unlike its predecessors, you can’t run Baldur’s Gate 3 on a potato computer. While you don’t need the most powerful graphic cards, you would need a decent one if you want to enjoy your experience and explore this corner of Faerûn. Take a look at our list of the [best graphic cards for any budget](https://www.makeuseof.com/tag/best-graphics-cards/) to find something that works for you if you plan to play on a PC.
 
 Here’s a table for Baldur’s Gate 3’s specs:
 
@@ -33,7 +33,7 @@ Here’s a table for Baldur’s Gate 3’s specs:
 | **DirectX**   | Version 11                                                                                                            | \-                                                                                          |
 | **Storage**   | 150GB SSD                                                                                                             | **Minimum** \- 150GB HDD**Recommended** \- 150GB SSD                                        |
 
- Apple silicon Macs generally run Baldur’s Gate better than Intel Macs—just one of the reasons[you might need an Apple silicon Mac](https://www.makeuseof.com/do-i-need-an-apple-silicon-mac/) .
+ Apple silicon Macs generally run Baldur’s Gate better than Intel Macs—just one of the reasons [you might need an Apple silicon Mac](https://www.makeuseof.com/do-i-need-an-apple-silicon-mac/) .
 
 * M1 and M2 Macs with 8GB RAM could run this game on low settings (and this includes all MacBook Airs).
 * M1 and M2 Macs with 16GB of RAM can run Baldur’s Gate 3 on high or ultra settings.
@@ -43,7 +43,7 @@ Here’s a table for Baldur’s Gate 3’s specs:
 
 ![Baldur's Gate 3 Steam Store Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-steam-store-page.jpeg)
 
- Baldur’s Gate 3 came out for PC on August 3rd, but it will come out for macOS and PS5 on September 6th, and perhaps next year for Xbox Series X|S. Larian Studios has issues getting the split-screen to work effectively on the[cheaper and less powerful Xbox Series S](https://www.makeuseof.com/xbox-series-x-vs-xbox-series-s-which-should-you-buy/) .
+ Baldur’s Gate 3 came out for PC on August 3rd, but it will come out for macOS and PS5 on September 6th, and perhaps next year for Xbox Series X|S. Larian Studios has issues getting the split-screen to work effectively on the [cheaper and less powerful Xbox Series S](https://www.makeuseof.com/xbox-series-x-vs-xbox-series-s-which-should-you-buy/) .
 
  You can get Baldur’s Gate 3 on PC and Mac from Steam, GOG, and GeForce Now. It costs $59.99 alone or $69.98 with the Digital Deluxe Edition DLC.
 
@@ -92,3 +92,22 @@ Here’s a table for Baldur’s Gate 3’s specs:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/gaming-tech-trends-directx-11-vs-directx-12-updates/"><u>Gaming Tech Trends: DirectX 11 Vs. DirectX 12 Updates</u></a></li>
+<li><a href="https://games-able.techidaily.com/joystick-journey-console-to-pc-conversion-made-easy-137-chars/"><u>Joystick Journey: Console-to-PC Conversion Made Easy (137 Chars)</u></a></li>
+<li><a href="https://games-able.techidaily.com/minecraft-unplugged-secure-and-save-your-spheres/"><u>Minecraft Unplugged: Secure and Save Your Spheres</u></a></li>
+<li><a href="https://games-able.techidaily.com/10-reasons-why-your-games-keep-crashing-and-how-to-fix-issues/"><u>10 Reasons Why Your Games Keep Crashing (And How to Fix Issues)</u></a></li>
+<li><a href="https://games-able.techidaily.com/advantages-and-pitfalls-of-early-access-titles/"><u>Advantages & Pitfalls of Early Access Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/cross-platform-play-android-gaming-on-linux/"><u>Cross-Platform Play: Android Gaming on Linux</u></a></li>
+<li><a href="https://games-able.techidaily.com/correcting-unstable-mouse-wheel-performance/"><u>Correcting Unstable Mouse Wheel Performance</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-empowering-tiktok-sharing-on-twitter-networks/"><u>[New] Empowering TikTok Sharing on Twitter Networks</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-oppo-k11-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Oppo K11 5G FRP</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-celebrating-beauty-innovators-youtubes-elite-list/"><u>2024 Approved  Celebrating Beauty Innovators  YouTube's Elite List</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/face-off-the-top-face-swap-apps-for-iphone-and-android-users/"><u>Face Off The Top Face Swap Apps for iPhone and Android Users</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-from-raw-to-refined-youtube-thumbnail-creation-for-mobile-users/"><u>[New] In 2024, From Raw to Refined  YouTube Thumbnail Creation for Mobile Users</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-vivo-t2-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Vivo T2 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-building-a-vimeo-portfolio-from-the-ground-up-for-2024/"><u>[Updated] Building a Vimeo Portfolio From the Ground Up for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Oppo Reno 11F 5G? | Dr.fone</u></a></li>
+</ul></div>

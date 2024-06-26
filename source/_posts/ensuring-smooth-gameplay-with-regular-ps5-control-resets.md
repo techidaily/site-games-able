@@ -1,7 +1,7 @@
 ---
 title: Ensuring Smooth Gameplay with Regular PS5 Control Resets
-date: 2024-06-25T10:48:19.849Z
-updated: 2024-06-26T10:48:19.849Z
+date: 2024-06-25T12:48:40.527Z
+updated: 2024-06-26T12:48:40.527Z
 tags:
   - games
 categories:
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/71ccc2fedcffdaa9357153f28278ee3778285e29e
 ![How to clean dirty dualsense controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/How-to-clean-dualsense-before.jpg)
 3. Push the pointy, thin object into the hole (stop when you feel you've pushed the reset button) and hold for five seconds.
 
- When you turn the controller back on, it should be able to automatically sync with your PS5 and turn it on. But if it fails, plug it into the PS5 with a USB-C cable and press the**Power button** on the console to turn it on and re-sync the controller. Now, you should be able to use your controller to the full, including the[DualSense's hidden features](https://www.makeuseof.com/ps5-dualsense-controller-hidden-features/) .
+ When you turn the controller back on, it should be able to automatically sync with your PS5 and turn it on. But if it fails, plug it into the PS5 with a USB-C cable and press the**Power button** on the console to turn it on and re-sync the controller. Now, you should be able to use your controller to the full, including the [DualSense's hidden features](https://www.makeuseof.com/ps5-dualsense-controller-hidden-features/) .
 
 ## When Should You Reset Your PS5 Controller?
 
@@ -57,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/71ccc2fedcffdaa9357153f28278ee3778285e29e
 
 * The controller's buttons are completely not responding, meaning you can't even do a soft reset.
 * The controller won't connect to your PS5 console, computer, or supported mobile device.
-* You're trying to[fix PS5 controller drift](https://www.makeuseof.com/fix-drifting-ps5-dualsense-controller/) , where the DualSense’s analog sticks register movement when you’re not pushing them.
+* You're trying to [fix PS5 controller drift](https://www.makeuseof.com/fix-drifting-ps5-dualsense-controller/) , where the DualSense’s analog sticks register movement when you’re not pushing them.
 
  If you're experiencing issues with your PS5 controller after updating it, a hard reset won't roll it back to any of its previous versions. You're better off waiting for the next controller update, which may contain a fix.
 

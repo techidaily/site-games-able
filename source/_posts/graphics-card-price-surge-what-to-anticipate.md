@@ -1,7 +1,7 @@
 ---
 title: Graphics Card Price Surge - What to Anticipate?
-date: 2024-06-23 11:58:36
-updated: 2024-06-24 12:37:59
+date: 2024-06-25T12:56:34.773Z
+updated: 2024-06-26T12:56:34.773Z
 tags:
   - games
 categories:
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/3c2c7242db76dee89b0144537322bf00338926834
 
 ## Is Nvidia Set to Cut Its Desktop GPU Output?
 
- According to a[Hardware Times report](https://www.hardwaretimes.com/nvidia-may-reduce-supply-of-rtx-4060-4070-desktop-cards-to-make-more-notebook-gpus/) , itself taken from a[Chinese news site](https://news.mydrivers.com/1/928/928738.htm) , Nvidia is planning to cut production of its RTX 4060 and RTX 4070 models by up to 50% compared to initial plans. The chips allocated for desktops would instead go towards laptop GPUs to meet strong demand from gaming notebook manufacturers. If the rumors are true, the reduction in GPU production from the world's leading manufacturer would certainly send prices soaring.
+ According to a [Hardware Times report](https://www.hardwaretimes.com/nvidia-may-reduce-supply-of-rtx-4060-4070-desktop-cards-to-make-more-notebook-gpus/) , itself taken from a [Chinese news site](https://news.mydrivers.com/1/928/928738.htm) , Nvidia is planning to cut production of its RTX 4060 and RTX 4070 models by up to 50% compared to initial plans. The chips allocated for desktops would instead go towards laptop GPUs to meet strong demand from gaming notebook manufacturers. If the rumors are true, the reduction in GPU production from the world's leading manufacturer would certainly send prices soaring.
 
 ![person's hand holding an Nvidia graphics card out of the box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/nvidia-graphics-card.jpg)
 
@@ -38,17 +38,17 @@ thumbnail: https://thmb.techidaily.com/3c2c7242db76dee89b0144537322bf00338926834
 
  Speculation about GPU prices always raises the question: should you buy a new GPU now? It's difficult to know exactly what to do, but there are a couple of considerations before you bite the bullet.
 
- First up is[Digital Trends report](https://www.digitaltrends.com/computing/gpu-prices-2020-vs-2023-compared/) that GPU prices have fallen significantly from their pandemic peaks in 2021-22—but are still well above MSRP for many models. A lower supply of RTX 4000 cards could reverse the recent downward price trend. Comparing September 2022 to January 2023, the average selling price for Nvidia 30-Series cards only dropped around 8%. Cards remain, on average, 42% above MSRP, even after normalizing for tariffs.
+ First up is [Digital Trends report](https://www.digitaltrends.com/computing/gpu-prices-2020-vs-2023-compared/) that GPU prices have fallen significantly from their pandemic peaks in 2021-22—but are still well above MSRP for many models. A lower supply of RTX 4000 cards could reverse the recent downward price trend. Comparing September 2022 to January 2023, the average selling price for Nvidia 30-Series cards only dropped around 8%. Cards remain, on average, 42% above MSRP, even after normalizing for tariffs.
 
 ![Radeon RX vs. GeForce GTX GPU](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/radeon-rx-vs-geforce-gtx-gpu.jpg)
 
- Second, is the looming specter of AMD's strongly rumored RX 7700 XT and RX 7800 XT GPUs, which are expected to launch in September 2023\. If the launch of AMD's previous 7000-Series GPUs is anything to go by, its new GPUs will compete directly with Nvidia's. For example, the[AMD RX 7900 XTX undercut Nvidia's 4090](https://www.makeuseof.com/amd-7900-xtx-dethrone-nvidia/) by around $600\. While the Nvidia 4090 was undoubtedly the better GPU, in effectively every way, most regular consumers are prepared to drop a month's rent on a GPU.
+ Second, is the looming specter of AMD's strongly rumored RX 7700 XT and RX 7800 XT GPUs, which are expected to launch in September 2023\. If the launch of AMD's previous 7000-Series GPUs is anything to go by, its new GPUs will compete directly with Nvidia's. For example, the [AMD RX 7900 XTX undercut Nvidia's 4090](https://www.makeuseof.com/amd-7900-xtx-dethrone-nvidia/) by around $600\. While the Nvidia 4090 was undoubtedly the better GPU, in effectively every way, most regular consumers are prepared to drop a month's rent on a GPU.
 
  So while Nvidia may be preparing to reduce its GPU supply, the pressure from AMD may stop prices from rising too far.
 
 ### Massive Crypto Mining Reduction Reduces Pressure
 
- A third, final, pressure relief could also help to keep GPU prices low. Since the[September 2022 Ethereum 2.0 Merge](https://www.makeuseof.com/what-is-the-ethereum-2-merge/) , the Ethereum network no longer uses the proof of work algorithm to secure its network and issue new currency. It now uses[the less energy-intensive proof-of-stake](https://www.makeuseof.com/proof-of-work-vs-proof-of-stake-which-is-better/) consensus method, which doesn't require the use of powerful hardware.
+ A third, final, pressure relief could also help to keep GPU prices low. Since the [September 2022 Ethereum 2.0 Merge](https://www.makeuseof.com/what-is-the-ethereum-2-merge/) , the Ethereum network no longer uses the proof of work algorithm to secure its network and issue new currency. It now uses [the less energy-intensive proof-of-stake](https://www.makeuseof.com/proof-of-work-vs-proof-of-stake-which-is-better/) consensus method, which doesn't require the use of powerful hardware.
 
  One of the main pressures on GPU prices during the pandemic and following years was the enormous rise in Ethereum mining, which was primarily achieved using GPUs. Without this pressure and without an enormous amount of GPUs being swallowed up by crypto mining with each GPU generation, prices remain stable.
 
@@ -73,3 +73,22 @@ Either way, it's best to keep one eye on GPU prices.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/ultimate-logitech-mouse-for-gamers/"><u>Ultimate Logitech Mouse for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-your-pcs-games-on-steam-deck-with-ease/"><u>Unlocking Your PC's Games on Steam Deck with Ease</u></a></li>
+<li><a href="https://games-able.techidaily.com/combatting-absentee-gps-on-pokemon-adventure-paths/"><u>Combatting Absentee GPS on Pokémon Adventure Paths</u></a></li>
+<li><a href="https://games-able.techidaily.com/combat-commanders-unite-discovering-best-11-war-sims/"><u>Combat Commanders Unite: Discovering Best 11 War Sims</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-without-fear-reduce-steam-web-helpers-ram-demands/"><u>Gaming without Fear: Reduce Steam Web Helper’s RAM Demands</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-art-of-gaming-controls-buttons-and-controllers-on-mobile/"><u>The Art of Gaming Controls: Buttons and Controllers on Mobile</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-your-virtual-reality-gaming-experience-steam-and-meta-quest/"><u>Enhancing Your Virtual Reality Gaming Experience - Steam & Meta Quest</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Vivo X Flip? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-exploring-income-average-creator-revenue-from-adverts-on-youtube/"><u>[Updated] Exploring Income  Average Creator Revenue From Adverts on YouTube?</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-15-camera-shake-preset-for-premiere-pro-to-add-camera-shake-with-simple-keyframes-each-preset-is-editable-with-easy-steps-make-your-vi/"><u>Updated 2024 Approved 15 Camera Shake Preset for Premiere Pro to Add Camera Shake with Simple Keyframes. Each Preset Is Editable with Easy Steps. Make Your Video Shocking and Impressive with These Camera Shake Effects</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-the-activation-lock-on-your-ipad-and-apple-iphone-14-pro-without-apple-account-by-drfone-ios/"><u>How to Remove the Activation Lock On your iPad and Apple iPhone 14 Pro without Apple Account</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/fable-creators-circle-a-list-eight/"><u>Fable Creators Circle - A-List Eight</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-free-and-paid-canvas-creations-apps-for-pc-users/"><u>In 2024, Best Free & Paid Canvas Creations Apps for PC Users</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-oppo-a79-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Oppo A79 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-reliable-tiktok-popularity-enhancers/"><u>[Updated] Reliable TikTok Popularity Enhancers</u></a></li>
+</ul></div>

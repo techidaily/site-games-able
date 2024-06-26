@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Fan Translated Rom Patches
-date: 2024-06-22 14:59:49
-updated: 2024-06-24 10:47:53
+date: 2024-06-25T13:03:16.475Z
+updated: 2024-06-26T13:03:16.475Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/892778263385515e7b518ee32371993d4538db30f
 
 ## What You’ll Need to Apply a Fan Translation Patch
 
- Before you download a fan translation patch, get an emulator. There are plenty of[fantastic emulators to play classic games on your Android phone or tablet](https://www.makeuseof.com/tag/best-game-emulators-for-android/) , like the Sega Genesis/Mega Drive game I'm using in the example later. If you prefer a standalone unit for retro gaming, consider[building a portable retro gaming console via Raspberry Pi](https://www.makeuseof.com/portable-retro-gaming-console-build-with-raspberry-pi/) and putting your emulator on that.
+ Before you download a fan translation patch, get an emulator. There are plenty of [fantastic emulators to play classic games on your Android phone or tablet](https://www.makeuseof.com/tag/best-game-emulators-for-android/) , like the Sega Genesis/Mega Drive game I'm using in the example later. If you prefer a standalone unit for retro gaming, consider [building a portable retro gaming console via Raspberry Pi](https://www.makeuseof.com/portable-retro-gaming-console-build-with-raspberry-pi/) and putting your emulator on that.
 
  Got the emulator? The next thing you need is a ROM file to play the game you want to translate. It's important you ensure that you use copies of games you own. This way, you guarantee you use ROMs correctly and legally.
 
@@ -48,13 +48,13 @@ thumbnail: https://thmb.techidaily.com/892778263385515e7b518ee32371993d4538db30f
 
  A patch tool works by binding a patch file to a ROM file, thus creating a new ROM file with the parameters of the patch baked in. It’s the same concept as your platform of choice auto-updating a game you’re about to play before you can play.
 
- In the past, you needed to know the different types of patch files. But today, that's not really the case, especially as you can[create your own Rom Hacks for games like Pokémon](https://www.makeuseof.com/how-to-create-rom-hacks/) from an Android device or straight from the web with sites like Rom Patcher JS. Let's use the former as an example.
+ In the past, you needed to know the different types of patch files. But today, that's not really the case, especially as you can [create your own Rom Hacks for games like Pokémon](https://www.makeuseof.com/how-to-create-rom-hacks/) from an Android device or straight from the web with sites like Rom Patcher JS. Let's use the former as an example.
 
 ## How to Apply a Fan Translation Patch to Your ROM
 
  Now let’s put all the pieces together. Find the translation patch file you downloaded a moment ago. Copy it, then paste it into the same folder as the ROM file you’ll be patching for easy reference.
 
- Head over to the[Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) web app. Select**Choose File** for both the**ROM file** and**Patch file** fields and select the appropriate file for each. For this example, I’m choosing the Panorama Cotton ROM file and the English translation patch file I copied over to my**ROMS** folder a moment ago.
+ Head over to the [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) web app. Select**Choose File** for both the**ROM file** and**Patch file** fields and select the appropriate file for each. For this example, I’m choosing the Panorama Cotton ROM file and the English translation patch file I copied over to my**ROMS** folder a moment ago.
 
  Select**Apply patch** to download the newly patched version of the ROM file. Rename it if you prefer, then add it to your**ROMS** folder.
 
@@ -81,3 +81,26 @@ thumbnail: https://thmb.techidaily.com/892778263385515e7b518ee32371993d4538db30f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/unlocking-gaming-excellence-with-google-play-games-beta-pc/"><u>Unlocking Gaming Excellence with Google Play Games Beta (PC)</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-list-gamers-journey-tracking-sites/"><u>A-List Gamers' Journey Tracking Sites</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-top-4-imperatives-boosting-xbox-points-strategy/"><u>The Top 4 Imperatives: Boosting Xbox Points Strategy</u></a></li>
+<li><a href="https://games-able.techidaily.com/uniting-play-step-by-step-guide-for-controller-linkage/"><u>Uniting Play: Step-by-Step Guide for Controller Linkage</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-fun-experiences-on-discord-with-board-games/"><u>Crafting Fun Experiences on Discord with Board Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/methods-for-mending-windows-oculus-app-issues/"><u>Methods for Mending Windows Oculus App Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-ps5-remote-recovery/"><u>The Ultimate Guide to PS5 Remote Recovery</u></a></li>
+<li><a href="https://games-able.techidaily.com/command-line-console-for-revitalizing-nintendo-classics/"><u>Command-Line Console for Revitalizing Nintendo Classics</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-your-pcs-games-on-steam-deck-with-ease/"><u>Unlocking Your PC's Games on Steam Deck with Ease</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-sequential-appearance-start/"><u>2024 Approved  Sequential Appearance Start</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-perfect-images-with-ios-size-modification-skills/"><u>2024 Approved  Crafting Perfect Images with iOS Size Modification Skills</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/discovering-high-definition-smarts-sony-xperia-xz-reviewed/"><u>Discovering High-Definition Smarts  Sony Xperia XZ Reviewed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-12-best-sites-for-downloading-yt-template-videos/"><u>[Updated] In 2024, 12 Best Sites for Downloading YT Template Videos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/mastering-ultimate-canon-temporal-capture/"><u>Mastering Ultimate Canon Temporal Capture</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-iphone-xr-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to iPhone XR Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-a-guide-to-effective-video-marketing/"><u>Updated 2024 Approved A Guide to Effective Video Marketing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-essentials-of-using-igtv-effectively-and-efficiently/"><u>2024 Approved  Essentials of Using IGTV Effectively and Efficiently</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-best-split-screen-video-recording-apps-for-ios-and-android/"><u>New The Best Split Screen Video Recording Apps for iOS and Android</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/optimizing-content-sharing-from-twitters-to-snaps/"><u>Optimizing Content Sharing  From Twitters to Snaps</u></a></li>
+</ul></div>

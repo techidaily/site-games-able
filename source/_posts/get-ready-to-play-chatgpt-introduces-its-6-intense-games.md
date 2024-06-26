@@ -1,7 +1,7 @@
 ---
 title: "Get Ready To Play: ChatGPT Introduces Its 6 Intense Games"
-date: 2024-06-25T10:48:25.750Z
-updated: 2024-06-26T10:48:25.750Z
+date: 2024-06-25T12:48:40.586Z
+updated: 2024-06-26T12:48:40.586Z
 tags:
   - games
 categories:
@@ -63,7 +63,7 @@ Close
 
  Now, this is a cool idea of how a custom GPT can span multiple types of input to create a custom game with a unique storyline.
 
- When you first boot Console GPT, you meet the message "BOOT UP AND INSERT GAME." But you don't have a game cartridge to boot yet. Instead, you have to head to the[Console GPT Glif page](https://glif.app/@fab1an/glifs/clotu9ul2002vl90fh6cmpjw0) , which is a custom AI art tool that will create your "cartridge."
+ When you first boot Console GPT, you meet the message "BOOT UP AND INSERT GAME." But you don't have a game cartridge to boot yet. Instead, you have to head to the [Console GPT Glif page](https://glif.app/@fab1an/glifs/clotu9ul2002vl90fh6cmpjw0) , which is a custom AI art tool that will create your "cartridge."
 
 ![cyber syndicate cartridge ai image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/cyber-syndicate-cartridge-ai-image.jpg)
 

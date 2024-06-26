@@ -1,7 +1,7 @@
 ---
 title: Command-Line Console for Revitalizing Nintendo Classics
-date: 2024-06-22 13:33:43
-updated: 2024-06-24 12:24:11
+date: 2024-06-25T13:16:20.794Z
+updated: 2024-06-26T13:16:20.794Z
 tags:
   - games
 categories:
@@ -28,15 +28,15 @@ thumbnail: https://thmb.techidaily.com/7dc1f793da1f2b9c448c995323e3532e944d03082
 
  By running an emulator in your terminal, you can run every single one of these, transforming your terminal into an extensive library of playable games.
 
- As the name suggests, php-terminal-gameboy-emulator is written in PHP—a language[usually used to create websites](https://www.makeuseof.com/tag/build-simple-php-website/) —and although the project's readme only states that it supports PHP 5.6, PHP 7, and HHVM, we've had it running almost flawlessly on PHP versions up to 8.2.
+ As the name suggests, php-terminal-gameboy-emulator is written in PHP—a language [usually used to create websites](https://www.makeuseof.com/tag/build-simple-php-website/) —and although the project's readme only states that it supports PHP 5.6, PHP 7, and HHVM, we've had it running almost flawlessly on PHP versions up to 8.2.
 
- With php-terminal-gameboy-emulator, you're not limited to your computer either and can run sessions over[Secure Shell (SSH)](https://www.makeuseof.com/learn-how-to-manage-remote-access-via-ssh/) on remote machines.
+ With php-terminal-gameboy-emulator, you're not limited to your computer either and can run sessions over [Secure Shell (SSH)](https://www.makeuseof.com/learn-how-to-manage-remote-access-via-ssh/) on remote machines.
 
  Because it's running in a terminal, your Game Boy games won't have any sound, but we're sure you can hum the Tetris theme tune.
 
  You also won't be able to save games. If these limitations are too restrictive, there are dozens of excellent emulators available on Linux.
 
- You should only use ROMS you legally own. You can find a huge variety of homebrew Game Boy ROMS at[Homebrew Hub](https://hh.gbdev.io/) .
+ You should only use ROMS you legally own. You can find a huge variety of homebrew Game Boy ROMS at [Homebrew Hub](https://hh.gbdev.io/) .
 
 ## How to Install php-terminal-gameboy-emulator on Linux
 
@@ -121,3 +121,26 @@ Make it executable with:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/gameplay-exploration-older-titles-on-new-ps-console/"><u>Gameplay Exploration: Older Titles on New PS Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-sourcing-indie-games-online/"><u>Mastering the Art of Sourcing Indie Games Online</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-makes-a-great-steam-deck/"><u>What Makes a Great Steam Deck?</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-top-independent-games-on-itchio/"><u>Unveiling Top Independent Games on Itch.io</u></a></li>
+<li><a href="https://games-able.techidaily.com/comprehensive-examination-of-console-time-tracking/"><u>Comprehensive Examination of Console Time Tracking</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-list-of-apples-pre-installed-offline-games/"><u>The Ultimate List of Apple's Pre-Installed, Offline Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-hooked-on-these-6-non-monetary-gaming-treasures/"><u>Get Hooked on These 6 Non-Monetary Gaming Treasures</u></a></li>
+<li><a href="https://games-able.techidaily.com/live-laugh-and-stream-with-twitch-app-on-the-go/"><u>Live, Laugh & Stream with Twitch App on the Go</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionize-your-gaming-shift-from-console-to-pc/"><u>Revolutionize Your Gaming: Shift From Console to PC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-oneplus-ace-2-by-drfone-android/"><u>How to Show Wi-Fi Password on OnePlus Ace 2</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-flip-content-sequence-android-video-workaround/"><u>[New] Flip Content Sequence  Android Video Workaround</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/the-ultimate-movie-making-blueprint-easy-and-fast-for-2024/"><u>The Ultimate Movie Making Blueprint Easy and Fast for 2024</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-tecno-phantom-v-flip-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-pinpointing-the-leading-10-invisible-story-enthusiasts/"><u>In 2024, Pinpointing the Leading 10 Invisible Story Enthusiasts</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-infinix-zero-5g-2023-turbo-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Infinix Zero 5G 2023 Turbo to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-conquered-everlasting-deactivation-of-youtube-shorts/"><u>[Updated] 2024 Approved  Conquered  Everlasting Deactivation of YouTube Shorts</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-nokia-c22-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Nokia C22?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-funnyframe-generator/"><u>In 2024, FunnyFrame Generator</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-best-meme-generator-app-downlaod/"><u>[Updated] In 2024, Best Meme Generator App Downlaod</u></a></li>
+</ul></div>

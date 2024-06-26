@@ -1,7 +1,7 @@
 ---
 title: "Protecting Personal Progress: Implementing Passcode on Your Switch"
-date: 2024-06-25T10:48:41.525Z
-updated: 2024-06-26T10:48:41.525Z
+date: 2024-06-25T12:48:40.757Z
+updated: 2024-06-26T12:48:40.757Z
 tags:
   - games
 categories:
@@ -55,11 +55,9 @@ Close
 
  Afterward, your Switch will automatically sync your passcode when your console goes online. If you are already connected to the internet, a pop-up in the upper left corner of your Switch will confirm your new PIN.
 
- Mistakes can happen though and you may find that you have forgotten your Nintendo Switch passcode. Thankfully, you can[reset your Nintendo Switch passcode](https://www.makeuseof.com/how-to-reset-nintendo-switch-parental-controls-pin/) by following the instructions above and heading to the PIN page in the Parental Controls app.
+ Mistakes can happen though and you may find that you have forgotten your Nintendo Switch passcode. Thankfully, you can [reset your Nintendo Switch passcode](https://www.makeuseof.com/how-to-reset-nintendo-switch-parental-controls-pin/) by following the instructions above and heading to the PIN page in the Parental Controls app.
 
-## How to Check if Your Switch Passcode Works
-
-![Switch Parental Control Pop Up](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/Switch-Parental-Control-Pop-Up.jpg)
+## How to Check if Your Switch Passcode Works ![Switch Parental Control Pop Up](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/Switch-Parental-Control-Pop-Up.jpg)
 
  To check if your passcode works, let your Switch run until it reaches the set time limit. Next, attempt to open your games or other software that you have restricted. If you set up your Parental Control passcode correctly, a pop-up saying**you cannot play this software** will appear.
 

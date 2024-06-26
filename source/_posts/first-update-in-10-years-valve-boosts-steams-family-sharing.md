@@ -1,7 +1,7 @@
 ---
 title: "First Update in 10 Years: Valve Boosts Steam's Family Sharing"
-date: 2024-06-23 20:52:15
-updated: 2024-06-24 11:56:46
+date: 2024-06-25T13:28:19.100Z
+updated: 2024-06-26T13:28:19.100Z
 tags:
   - games
 categories:
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/1505d6f4180ef3234fcf66cf60e394c6b774b5274
 
 ![Steam Family Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/steam-family-management-1.jpg)
 
- Steam Family Sharing wasn’t a family-centric feature. It was just a way to share games with other accounts that didn’t necessarily have to be your family. However, Valve released the[Steam Families Beta](https://store.steampowered.com/news/app/593110/view/4149575031735702628) on March 18, 2024, and the update changes that.
+ Steam Family Sharing wasn’t a family-centric feature. It was just a way to share games with other accounts that didn’t necessarily have to be your family. However, Valve released the [Steam Families Beta](https://store.steampowered.com/news/app/593110/view/4149575031735702628) on March 18, 2024, and the update changes that.
 
  One of the biggest changes is a new quality-of-life feature. Now you can play games from other family members' libraries, even if the owner is online playing another game—solving a nuisance that many gamers sharing their libraries experienced. And if someone owns multiple copies of a game, multiple people can play the same title at the same time.
 
@@ -46,11 +46,9 @@ thumbnail: https://thmb.techidaily.com/1505d6f4180ef3234fcf66cf60e394c6b774b5274
 * The feature includes playtime schedules and maximum playtime. Children can request additional playtime and game purchases.
 * You can recover your child's account in case they lose their password (but this is only available after 30 days of being in the family).
 
- These changes allow you to truly have a parental system for Steam, much like a[kid's account for Netflix](https://www.makeuseof.com/how-to-create-netflix-kids-profile/) or YouTube.
+ These changes allow you to truly have a parental system for Steam, much like a [kid's account for Netflix](https://www.makeuseof.com/how-to-create-netflix-kids-profile/) or YouTube.
 
-## How to Enter the Steam Families Beta
-
-![How to enter Steam Families Beta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/how-to-enter-steam-families-beta.JPG)
+## How to Enter the Steam Families Beta ![How to enter Steam Families Beta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/how-to-enter-steam-families-beta.JPG)
 
  If you want to try out the new hub for yourself, you need to enter the Steam Families beta. To do this, open Steam and head to**Settings > Interface > Client Beta Participation** , then choose**Steam Families Beta** in the dropdown menu.
 
@@ -58,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/1505d6f4180ef3234fcf66cf60e394c6b774b5274
 
  It will prompt you to accept, then the client will restart and update Steam. Once it has updated, you can access your family controls by going to**Settings > Family** **\> Manage your Steam Family** . This view is where you can see all the Steam Family features and parental controls once you've made your family and invited your children.
 
- If you need to make space for new games, make sure to[use Steam's Storage Manager](https://www.makeuseof.com/how-to-use-steam-storage-manager/) to conveniently manage your installs.
+ If you need to make space for new games, make sure to [use Steam's Storage Manager](https://www.makeuseof.com/how-to-use-steam-storage-manager/) to conveniently manage your installs.
 
 ## The Pros and Cons of Steam Families
 
@@ -97,3 +95,24 @@ Some of the drawbacks of the feature include:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/the-unwanted-game-follow-this-guide-for-xbox-returns/"><u>The Unwanted Game? Follow This Guide for Xbox Returns</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-linking-controllers-and-android-devices/"><u>The Ultimate Guide to Linking Controllers & Android Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-does-hrtf-affect-your-valorant-play/"><u>How Does HRTF Affect Your Valorant Play?</u></a></li>
+<li><a href="https://games-able.techidaily.com/performance-enhancement-choosing-between-cpu-and-graphics-card/"><u>Performance Enhancement: Choosing Between CPU and Graphics Card</u></a></li>
+<li><a href="https://games-able.techidaily.com/cheap-and-fast-optimal-240hz-gaming-setups/"><u>Cheap and Fast: Optimal 240Hz Gaming Setups</u></a></li>
+<li><a href="https://games-able.techidaily.com/office-setups-vs-playstation-specs-performance-analysis/"><u>Office Setups Vs. PlayStation Specs: Performance Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-hunt-down-gamers-a-steams-journey/"><u>How to Hunt Down Gamers: A Steam's Journey</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-vintage-joy-the-ultimate-list-of-ps3-games-for-pc-emulation/"><u>Unlock Vintage Joy: The Ultimate List of PS3 Games for PC Emulation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-curating-the-perfect-soundtrack-youtubes-best-audio-sites-ranked/"><u>[Updated] 2024 Approved  Curating the Perfect Soundtrack  YouTube's Best Audio Sites Ranked</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-step-by-step-legally-convert-youtube-to-mp4-format/"><u>2024 Approved  Step-by-Step  Legally Convert YouTube to MP4 Format</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-enhancing-your-youtube-content-basic-premiere-pro-edits/"><u>[New] Enhancing Your YouTube Content  Basic Premiere Pro Edits</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-the-elite-10-audio-erosion-applications-and-tools/"><u>2024 Approved The Elite 10 Audio Erosion Applications and Tools</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-stand-out-on-discord-choosing-striking-banners-and-profile-graphics/"><u>In 2024, Stand Out on Discord  Choosing Striking Banners & Profile Graphics</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/capture-the-moment-innovative-approaches-to-live-video-download/"><u>Capture the Moment  Innovative Approaches to Live Video Download</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-media-streamlining-is-a-podcast-or-youtube-better-for-you/"><u>[Updated] Media Streamlining  Is a Podcast or YouTube Better for You?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-15-pro-max-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 15 Pro Max | Dr.fone</u></a></li>
+</ul></div>

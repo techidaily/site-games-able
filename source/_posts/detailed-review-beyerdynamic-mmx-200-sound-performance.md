@@ -1,7 +1,7 @@
 ---
 title: "Detailed Review: Beyerdynamic MMX 200 Sound Performance"
-date: 2024-06-25T10:50:00.762Z
-updated: 2024-06-26T10:50:00.762Z
+date: 2024-06-25T12:48:41.567Z
+updated: 2024-06-26T12:48:41.567Z
 tags:
   - games
 categories:
@@ -110,9 +110,7 @@ Over-ear
 
 [See at Beyerdynamic](https://north-america.beyerdynamic.com/mmx-200-wireless.html) [$249 at Amazon](https://www.amazon.com/beyerdynamic-Wireless-Gaming-Headset-Black/dp/B0CGX7WXXW?tag=makeusw-20&ascsubtag=UUmuoUeUpU2031307&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbeyerdynamic-mx-200-review%2F&asc%5Fcampaign=Affiliate)
 
-## Squishy, Comfortable Earcups
-
-![beyerdynamic mmx 200 thick earcup padding top down view](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/beyerdynamic-mmx-200-thick-earcup-padding-top-down-view.jpg)
+## Squishy, Comfortable Earcups ![beyerdynamic mmx 200 thick earcup padding top down view](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/beyerdynamic-mmx-200-thick-earcup-padding-top-down-view.jpg)
 
  Gavin Phillips / MakeUseOf
 
@@ -128,9 +126,7 @@ Over-ear
 
  Now, weight is always a consideration when it comes to gaming headsets, and the MMX 200's 360g (12.7oz) weight without cables isn't bad at all. I've worn the headphones for hours at a time and have never felt them become overly heavy, which is another plus for the comfort levels.
 
-## Limited Colors, Decent Style
-
-![beyerdynamic mmx 200 showing thick earcup padding side by side](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/beyerdynamic-mmx-200-showing-thick-earcup-padding-side-by-side.jpg)
+## Limited Colors, Decent Style ![beyerdynamic mmx 200 showing thick earcup padding side by side](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/beyerdynamic-mmx-200-showing-thick-earcup-padding-side-by-side.jpg)
 
  Gavin Phillips / MakeUseOf
 
@@ -146,13 +142,11 @@ Over-ear
 
  The buttons are all responsive enough, as you'd expect, but the volume wheel does have a noisier click than expected, with each turn of the wheel making an audible click. It's not a big issue, but was surprising to hear.
 
-## Good Battery and Connection Options
-
-![beyerdynamic mmx 200 on stand close up view](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/beyerdynamic-mmx-200-on-stand-close-up-view.jpg)
+## Good Battery and Connection Options ![beyerdynamic mmx 200 on stand close up view](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/beyerdynamic-mmx-200-on-stand-close-up-view.jpg)
 
  Gavin Phillips / MakeUseOf
 
- The 35-hour battery life is a good option when it comes to gaming headsets. It's competing with the outrageous offerings of[HyperX's 300-hour headsets](https://www.makeuseof.com/hyperx-cloud-alpha-wireless-review/) , but you're unlikely to stray far from a charging output, and 35 hours is more than a few gaming sessions worth of battery power.
+ The 35-hour battery life is a good option when it comes to gaming headsets. It's competing with the outrageous offerings of [HyperX's 300-hour headsets](https://www.makeuseof.com/hyperx-cloud-alpha-wireless-review/) , but you're unlikely to stray far from a charging output, and 35 hours is more than a few gaming sessions worth of battery power.
 
  Connectivity comes from Bluetooth 5.3, with support for the SBC, AAC, and LC3 codecs, plus the low-latency USB-C dongle. Both connections work well, though I spent most time using the low-latency dongle. With the dongle plugged into a USB port, the MMX 200 connected almost instantaneously, and I didn't experience any dropouts. Still, the quality between using the low-latency dongle and regular Bluetooth is noticeable, so its worth using the dongle whenever you can.
 
@@ -170,9 +164,7 @@ Over-ear
 
  You'll find some desktop software to update the low-latency dongle, but outside that, the MMX 200 doesn't offer much extra.
 
-## Great Sound, Great Microphone
-
-![beyerdynamic mmx 200 on headphone stand on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/beyerdynamic-mmx-200-on-headphone-stand-on-desk.jpg)
+## Great Sound, Great Microphone ![beyerdynamic mmx 200 on headphone stand on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/beyerdynamic-mmx-200-on-headphone-stand-on-desk.jpg)
 
  Gavin Phillips / MakeUseOf
 

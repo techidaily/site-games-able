@@ -1,7 +1,7 @@
 ---
 title: "The Retro Gaming Revolution: Six Reasons to Choose Pi"
-date: 2024-06-25T10:46:12.465Z
-updated: 2024-06-26T10:46:12.465Z
+date: 2024-06-25T12:48:39.231Z
+updated: 2024-06-26T12:48:39.231Z
 tags:
   - games
 categories:
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/cf1ae4b3cdb5debdafe3b02949517a45048f6142d
 
  This chip features a quad-core, 64-bit Arm Cortex-A76 processor, clocked at 2.4GHz, up from the 1.8GHz base clock speed offered by the Raspberry Pi 4\. The Cortex-A76 is a noteworthy processor that was featured in the Exynos 990 system-on-chip and used in Rockchip RK3588 and RK3588s.
 
- The Cortex-A76 is three generations ahead of the Cortex-A72 and offers more instructions per clock (IPC) at a lower energy consumption rate. This allows for faster processing speeds, better power efficiency, and improvement in machine learning capability over the Raspberry Pi 4B. According to the official[Raspberry Pi 5 page](https://www.raspberrypi.com/products/raspberry-pi-5/) , this new board offers two to three times the speed of the Raspberry Pi.
+ The Cortex-A76 is three generations ahead of the Cortex-A72 and offers more instructions per clock (IPC) at a lower energy consumption rate. This allows for faster processing speeds, better power efficiency, and improvement in machine learning capability over the Raspberry Pi 4B. According to the official [Raspberry Pi 5 page](https://www.raspberrypi.com/products/raspberry-pi-5/) , this new board offers two to three times the speed of the Raspberry Pi.
 
  There will be two RAM options at release, 4GB and 8GB, but other variants should be available later. We might even see a 16GB RAM Raspberry Pi 5.
 
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/cf1ae4b3cdb5debdafe3b02949517a45048f6142d
 
  We have to wait till the Raspberry Pi 5 is released before we get specific power consumption numbers. We do know that the Raspberry Pi 5 draws more power than the Raspberry Pi 4 when running at full throttle. It has a peak power consumption of 12W compared to Pi 4’s peak of 8W. This increase in power consumption won’t matter for basic productivity tasks and light browsing, but it may become significant when running heavier workloads.
 
- The Raspberry Pi 5 uses a new power management integrated circuit (PMIC) which provides up to 20A of current to power the Cortex-A76 and other digital logic in the BCM2712 application processor. The PMIC allows the Raspberry Pi to sport a shiny new real-time clock and an actual onboard power button. This means that you can make a[handheld Raspberry Pi gaming console](https://www.makeuseof.com/portable-retro-gaming-console-build-with-raspberry-pi/) without having to mess around with the GPIO pins. You may be surprised to know that there are several[ways to turn on a Raspberry Pi](https://www.makeuseof.com/how-to-turn-on-a-raspberry-pi/) .
+ The Raspberry Pi 5 uses a new power management integrated circuit (PMIC) which provides up to 20A of current to power the Cortex-A76 and other digital logic in the BCM2712 application processor. The PMIC allows the Raspberry Pi to sport a shiny new real-time clock and an actual onboard power button. This means that you can make a [handheld Raspberry Pi gaming console](https://www.makeuseof.com/portable-retro-gaming-console-build-with-raspberry-pi/) without having to mess around with the GPIO pins. You may be surprised to know that there are several [ways to turn on a Raspberry Pi](https://www.makeuseof.com/how-to-turn-on-a-raspberry-pi/) .
 
 ## 4\. It Can Run DreamCast, GameCube, and PSP Games
 
@@ -60,15 +60,13 @@ thumbnail: https://thmb.techidaily.com/cf1ae4b3cdb5debdafe3b02949517a45048f6142d
 
 ## 5\. Cheaper Than Alternatives
 
- The Raspberry Pi has not lost its edge when it comes to pricing. Although there are more[powerful single-board computer alternatives](http://www.makeuseof.com/powerful-sbc-extra-computing-power/) on the market, the Raspberry Pi 5 is competitively priced. It is not the cheapest SBC, but it does maintain a fair balance between price and performance.
+ The Raspberry Pi has not lost its edge when it comes to pricing. Although there are more [powerful single-board computer alternatives](http://www.makeuseof.com/powerful-sbc-extra-computing-power/) on the market, the Raspberry Pi 5 is competitively priced. It is not the cheapest SBC, but it does maintain a fair balance between price and performance.
 
  The 4GB and 8GB variants are priced at $60 and $80 (excluding taxes), respectively. 1GB and 2GB models will be even cheaper. However, be sure to buy from authorized resellers only, to avoid paying scalper prices.
 
- According to Eben Upton in the[Pi 5 launch announcement](https://www.raspberrypi.com/news/introducing-raspberry-pi-5/) , the company will “ring-fence all of the Raspberry Pi 5s we sell until at least the end of the year for single-unit sales to individuals, so you get the first bite of the cherry.” So, that should mitigate[Raspberry Pi availability issues](https://www.makeuseof.com/raspberry-pi-stock-levels-finally-improving/) early on.
+ According to Eben Upton in the [Pi 5 launch announcement](https://www.raspberrypi.com/news/introducing-raspberry-pi-5/) , the company will “ring-fence all of the Raspberry Pi 5s we sell until at least the end of the year for single-unit sales to individuals, so you get the first bite of the cherry.” So, that should mitigate [Raspberry Pi availability issues](https://www.makeuseof.com/raspberry-pi-stock-levels-finally-improving/) early on.
 
-## 6\. Better Software Support Than Most Alternatives
-
-![ODROID N2+ SBC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/odroidn2aplusa.jpg)
+## 6\. Better Software Support Than Most Alternatives ![ODROID N2+ SBC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/odroidn2aplusa.jpg)
 
  Image Credit:[Hardkernel](https://www.hardkernel.com/shop/odroid-n2-with-4gbyte-ram-2/)
 

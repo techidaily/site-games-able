@@ -1,7 +1,7 @@
 ---
 title: "Rejuvenate Play: Replacing Your Switch's Joystick"
-date: 2024-06-21 16:42:51
-updated: 2024-06-24 11:39:42
+date: 2024-06-25T12:57:41.941Z
+updated: 2024-06-26T12:57:41.941Z
 tags:
   - games
 categories:
@@ -26,9 +26,9 @@ thumbnail: https://thmb.techidaily.com/78fc2ce8486dc3d6564f3f5f4f837891a8fa189d0
 
 ![Close up of Nintendo Switch Pikachu and Eevee Joy Cons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Close-up-of-Nintendo-Switch-Pikachu-and-Eeve-joy-cons.jpg)
 
- Once a Joy-Con has drift, there is little you can do to fix it. There are, however, several tricks you can try to[fix Joy-Con drift on your Nintendo Switch](https://www.makeuseof.com/ways-to-fix-joy-con-drift-nintendo-switch/) before you open it up and take matters into your own hands. The first thing you should try when you notice drift in your Joy-Con is to calibrate them using the calibration tool in the Switch’s menu. That may help for a while, but it is more of a Band-Aid and doesn’t fix the root of the issue.
+ Once a Joy-Con has drift, there is little you can do to fix it. There are, however, several tricks you can try to [fix Joy-Con drift on your Nintendo Switch](https://www.makeuseof.com/ways-to-fix-joy-con-drift-nintendo-switch/) before you open it up and take matters into your own hands. The first thing you should try when you notice drift in your Joy-Con is to calibrate them using the calibration tool in the Switch’s menu. That may help for a while, but it is more of a Band-Aid and doesn’t fix the root of the issue.
 
- You can also[send your Joy-Con away for a free repair](https://www.makeuseof.com/how-to-send-joy-cons-off-for-free-repair/) . This is a great service, but you aren’t guaranteed to receive the same Joy-Con back. So, if you send a limited edition pair, there is a chance you may get the classic red and blue Joy-Con back. Some gamers aren’t willing to take that risk.
+ You can also [send your Joy-Con away for a free repair](https://www.makeuseof.com/how-to-send-joy-cons-off-for-free-repair/) . This is a great service, but you aren’t guaranteed to receive the same Joy-Con back. So, if you send a limited edition pair, there is a chance you may get the classic red and blue Joy-Con back. Some gamers aren’t willing to take that risk.
 
  When all the above methods fail, learning how to replace your faulty joysticks yourself is the best option. It is worth noting, however, that doing so voids your warranty. But if your warranty has already run out, and you would rather fix your pair for around $10.00 rather than pay $79.99 for a new set, you don’t really have much to lose.
 
@@ -80,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/78fc2ce8486dc3d6564f3f5f4f837891a8fa189d0
 
 ![How to calibrate controller on Nintendo Switch Calibrate Control Sticks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/how-to-calibrate-controller-on-nintendo-switch-calibrate-control-sticks.jpg)
 
- As simple as replacing your joystick is, it's not ideal to have to repeat the process frequently. Make sure to regularly[clean your Nintendo Switch and Joy-Con](https://www.makeuseof.com/how-to-safely-clean-nintendo-switch-and-joy-cons/) to prevent dust buildup and increase the longevity of your joysticks.
+ As simple as replacing your joystick is, it's not ideal to have to repeat the process frequently. Make sure to regularly [clean your Nintendo Switch and Joy-Con](https://www.makeuseof.com/how-to-safely-clean-nintendo-switch-and-joy-cons/) to prevent dust buildup and increase the longevity of your joysticks.
 
 ## Say Goodbye to Joy-Con Drift Forever With This Guide
 
@@ -103,3 +103,22 @@ thumbnail: https://thmb.techidaily.com/78fc2ce8486dc3d6564f3f5f4f837891a8fa189d0
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/perfect-harmony-assembling-android-devices-and-controllers/"><u>Perfect Harmony: Assembling Android Devices and Controllers</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-innovative-ways-to-tailor-the-xbox-game-bar-for-optimal-gaming-on-windows/"><u>5 Innovative Ways to Tailor the Xbox Game Bar for Optimal Gaming on Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/chatgpt-mastery-for-roleplay-six-effective-techniques-unveiled/"><u>ChatGPT Mastery for Roleplay: Six Effective Techniques Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-using-steam-deck-for-pc-gaming-broadcasts/"><u>Step-By-Step: Using Steam Deck for PC Gaming Broadcasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/tailoring-display-and-illumination-for-optimal-gaming/"><u>Tailoring Display & Illumination for Optimal Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/rising-trend-do-gpu-prices-increase-next/"><u>Rising Trend: Do GPU Prices Increase Next?</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-gaming-triumphs-with-the-wisdom-of-helldivers-2/"><u>Unlocking Gaming Triumphs with the Wisdom of Helldivers 2</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-guide-to-the-best-headsets-and-goggles-in-metaverse/"><u>[Updated] A Guide to the Best Headsets and Goggles in Metaverse</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-audio-finesse-advanced-editing-strategies-for-podcasters/"><u>2024 Approved  The Art of Audio Finesse  Advanced Editing Strategies for Podcasters</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-the-definitive-guide-to-song-collection-top-ten-gadgets-for-easy-audio-archive/"><u>New 2024 Approved The Definitive Guide to Song Collection Top Ten Gadgets for Easy Audio Archive</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-oppo-a78-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Oppo A78 Android SIM Unlock APK</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-unified-insight-the-easeus-perspective/"><u>[Updated] In 2024, Unified Insight  The EaseUS Perspective</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-leveraging-likes-and-comments-enhancing-engagement-on-instagram-stories/"><u>[New] In 2024, Leveraging Likes and Comments  Enhancing Engagement on Instagram Stories</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-game-day-to-hollywood-sports-video-success-story-for-2024/"><u>[New] From Game Day to Hollywood  Sports Video Success Story for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-unlock-full-potential-of-obs-studio-for-android-devices/"><u>[Updated] In 2024, Unlock Full Potential of OBS Studio for Android Devices</u></a></li>
+</ul></div>

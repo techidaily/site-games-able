@@ -1,7 +1,7 @@
 ---
 title: Xbox Wireless Controller Won't Connect to Your PC? Try These Fixes
-date: 2024-06-25T10:50:45.641Z
-updated: 2024-06-26T10:50:45.641Z
+date: 2024-06-25T12:48:42.028Z
+updated: 2024-06-26T12:48:42.028Z
 tags:
   - games
 categories:
@@ -18,9 +18,9 @@ thumbnail: https://thmb.techidaily.com/a74c765fb6818efdc56bfc7805aa17daf214ba70c
 
 ## 1\. Update Your Xbox Wireless Controller on PC
 
- While you may frequently[update your Xbox Wireless Controller on your Xbox One or Xbox Series X|S](https://www.makeuseof.com/how-to-update-xbox-one-and-series-controllers/) , you can also update your controller through your PC. In instances where your controller won't connect to your PC, installing a PC Xbox Wireless Controller update can fix the issue.
+ While you may frequently [update your Xbox Wireless Controller on your Xbox One or Xbox Series X|S](https://www.makeuseof.com/how-to-update-xbox-one-and-series-controllers/) , you can also update your controller through your PC. In instances where your controller won't connect to your PC, installing a PC Xbox Wireless Controller update can fix the issue.
 
- To update your Xbox Wireless Controller on your Windows PC, you need to install the Xbox Accessories application from the[Microsoft Store](https://apps.microsoft.com/detail/xbox-accessories/9NBLGGH30XJ3?hl=en-us&gl=US&rtc=1) . Once the Xbox Accessories app is installed on your PC, update your controller by following these steps:
+ To update your Xbox Wireless Controller on your Windows PC, you need to install the Xbox Accessories application from the [Microsoft Store](https://apps.microsoft.com/detail/xbox-accessories/9NBLGGH30XJ3?hl=en-us&gl=US&rtc=1) . Once the Xbox Accessories app is installed on your PC, update your controller by following these steps:
 
 * Ensure your Xbox Wireless Controller is plugged into your PC via a USB cable.
 * Open the Xbox Accessories app on your PC.
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/a74c765fb6818efdc56bfc7805aa17daf214ba70c
 
  While running a PC controller update can rectify your Xbox Wireless Controller not connecting to your PC, the method doesn't work if the Xbox Accessories app fails to pick up your controller, even through a USB. Moreover, it's not guaranteed that performing a controller update on a PC will fix your problem.
 
- However, if you have connected your Xbox Wireless Controller to your PC before, you can potentially fix connectivity issues by re-pairing your controller. But if you haven't connected your devices before, there are plenty of[methods for connecting any Xbox controller to your PC](https://www.makeuseof.com/tag/connect-xbox-one-controller-pc/) .
+ However, if you have connected your Xbox Wireless Controller to your PC before, you can potentially fix connectivity issues by re-pairing your controller. But if you haven't connected your devices before, there are plenty of [methods for connecting any Xbox controller to your PC](https://www.makeuseof.com/tag/connect-xbox-one-controller-pc/) .
 
  So, to un-pair and re-pair your Xbox Wireless Controller and fix connectivity problems, follow these steps:
 
@@ -90,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/a74c765fb6818efdc56bfc7805aa17daf214ba70c
 
  With your PC and Xbox Wireless Controller up and running after a restart, you should try to connect your controller to your PC again.
 
- If your Xbox Wireless Controller still won't connect to your PC, a fault with your hardware may be the cause. In this case, you should see if other devices can connect to your PC. If they can, your controller is likely to blame. Luckily, you can still get a faulty Xbox Wireless Controller replaced through[the official Microsoft site](https://support.xbox.com/en-us/help/hardware-network/controller/controller-warranty) .
+ If your Xbox Wireless Controller still won't connect to your PC, a fault with your hardware may be the cause. In this case, you should see if other devices can connect to your PC. If they can, your controller is likely to blame. Luckily, you can still get a faulty Xbox Wireless Controller replaced through [the official Microsoft site](https://support.xbox.com/en-us/help/hardware-network/controller/controller-warranty) .
 
 ## Guarantee PC and Console Gaming With an Xbox Wireless Controller
 

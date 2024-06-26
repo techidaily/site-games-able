@@ -1,7 +1,7 @@
 ---
 title: Exploring Smooth Transitions in Games Through Nvidia G-Sync
-date: 2024-06-25T10:42:17.343Z
-updated: 2024-06-26T10:42:17.343Z
+date: 2024-06-25T12:48:36.757Z
+updated: 2024-06-26T12:48:36.757Z
 tags:
   - games
 categories:
@@ -69,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/c0270bb78c702f180d69e641fb9f373f4cd07e8ef
 
  That said, Nvidia's processor allows monitors to use their entire refresh rate range, from 1 Hz to 360 Hz. This provides much better performance compared to G-Sync-compatible monitors, which generally switch between 30, 60, 90, and 144 Hz.
 
- Finally, native G-Sync and G-Sync Ultimate monitors can also work with AMD GPUs. This gives you more GPU options if you're looking for a switch or upgrade down the line. Alternatively, you can also[enable Nvidia G-Sync for FreeSync monitors](https://www.makeuseof.com/how-to-enable-nvidia-g-sync-on-amd-freesync-monitors/) , which is AMD's response to Nvidia's anti-screen tearing tech.
+ Finally, native G-Sync and G-Sync Ultimate monitors can also work with AMD GPUs. This gives you more GPU options if you're looking for a switch or upgrade down the line. Alternatively, you can also [enable Nvidia G-Sync for FreeSync monitors](https://www.makeuseof.com/how-to-enable-nvidia-g-sync-on-amd-freesync-monitors/) , which is AMD's response to Nvidia's anti-screen tearing tech.
 
 ## Hardware Requirements for G-Sync and G-Sync Ultimate
 

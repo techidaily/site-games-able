@@ -1,7 +1,7 @@
 ---
 title: Top Anti-Haze Vision Accessories
-date: 2024-06-25T10:49:49.356Z
-updated: 2024-06-26T10:49:49.356Z
+date: 2024-06-25T12:48:41.446Z
+updated: 2024-06-26T12:48:41.446Z
 tags:
   - games
 categories:
@@ -80,9 +80,7 @@ Best Blue Light Blocking
 Lightest  
 [$25 at Amazon](https://www.amazon.com/KLIM-Optics-Blocking-Protection-Blockers/dp/B072R1HXX6?tag=makeusw-20&ascsubtag=UUmuoUeUpU2013562&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-gaming-glasses%2F&asc%5Fcampaign=Affiliate)
 
-## Our Favorite Blue Light Blocking Glasses in 2023
-
-![HyperX Spectre Stealth](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hyperx-spectre-stealth.jpg)
+## Our Favorite Blue Light Blocking Glasses in 2023 ![HyperX Spectre Stealth](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hyperx-spectre-stealth.jpg)
 
 Best Overall
 

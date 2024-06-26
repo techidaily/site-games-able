@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Mastering Steam Images
-date: 2024-06-25T10:37:54.428Z
-updated: 2024-06-26T10:37:54.428Z
+date: 2024-06-25T12:48:33.918Z
+updated: 2024-06-26T12:48:33.918Z
 tags:
   - games
 categories:
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/7886b93aef2a0639ec1e094763681d9231c505608
 
 ## How to Take a Screenshot With Steam
 
- While[Windows offers multiple ways to capture in-game screenshots](https://www.makeuseof.com/windows-11-game-screenshots/) , if you're playing a game on Steam, the easiest way to capture a snap is to press**F12** . A shutter sound plays and a notification pops in the bottom-right to confirm the screenshot has been captured.
+ While [Windows offers multiple ways to capture in-game screenshots](https://www.makeuseof.com/windows-11-game-screenshots/) , if you're playing a game on Steam, the easiest way to capture a snap is to press**F12** . A shutter sound plays and a notification pops in the bottom-right to confirm the screenshot has been captured.
 
 ![steam screenshot taken](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steam-screenshot-taken.jpg)
 

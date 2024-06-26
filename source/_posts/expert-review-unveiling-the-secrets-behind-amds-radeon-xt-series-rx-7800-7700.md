@@ -1,7 +1,7 @@
 ---
 title: "Expert Review: Unveiling the Secrets Behind AMD's Radeon XT Series (RX 7800, 7700)"
-date: 2024-06-21 17:21:31
-updated: 2024-06-24 12:28:51
+date: 2024-06-25T13:03:52.195Z
+updated: 2024-06-26T13:03:52.195Z
 tags:
   - games
 categories:
@@ -28,13 +28,13 @@ thumbnail: https://thmb.techidaily.com/d141dd05ed10b1bd39fa40502c6b028dc88f2f05d
 
  For starters, both the Radeon RX 7800 XT and RX 7700 XT are built around AMD's brand-new Navi 32 GPU die, which adopts a chiplet-based design to reduce manufacturing costs and facilitate production. Like before, the central section of this GPU features a relatively smaller GCD (Graphics Compute Die) than Navi 31 (fabricated on TSMC's N5 process), flanked by four MCDs (Memory Complex Die) utilizing an older yet efficient N6 technology.
 
- Consequently, AMD's Radeon RX 7800 XT and RX 7700 XT share a similar configuration with the flagship RX 7900 Series (we've previously compared[RX 7900 XTX vs. RX 7900 XT](https://www.makeuseof.com/amd-radeon-rx-7900-xtx-vs-rx-7900-xt-comparison/) ), as opposed to the[budget-oriented RX 7600](https://www.makeuseof.com/amd-launches-radeon-rx-7600-what-to-expect/) , which employs a monolithic Navi 33 die. On paper, the RX 7800 XT benefits from a fully unlocked Navi 32 GPU, incorporating 60 CUs (or 3,840 Stream Processors), 120 AI accelerators, 64MB of Infinity Cache, and 16GB of GDDR6 memory (clocked at 19.5Gbps) over a 256-bit memory bus.
+ Consequently, AMD's Radeon RX 7800 XT and RX 7700 XT share a similar configuration with the flagship RX 7900 Series (we've previously compared [RX 7900 XTX vs. RX 7900 XT](https://www.makeuseof.com/amd-radeon-rx-7900-xtx-vs-rx-7900-xt-comparison/) ), as opposed to the [budget-oriented RX 7600](https://www.makeuseof.com/amd-launches-radeon-rx-7600-what-to-expect/) , which employs a monolithic Navi 33 die. On paper, the RX 7800 XT benefits from a fully unlocked Navi 32 GPU, incorporating 60 CUs (or 3,840 Stream Processors), 120 AI accelerators, 64MB of Infinity Cache, and 16GB of GDDR6 memory (clocked at 19.5Gbps) over a 256-bit memory bus.
 
  Meanwhile, the RX 7700 XT uses a cut-down version of the same GPU die with three active MCDs, housing 54 CUs (or 3,456 cores), 108 AI accelerators, 48MB of Infinity Cache, and 12GB of GDDR6 memory (on a narrower 192-bit memory bus) clocked at around 18Gbps. Owing to these adjustments, the RX 7700 XT prioritizes slightly higher clock speeds than the RX 7800 XT, registering an average Game Clock of 2,171MHz and a maximum Boost Clock of 2,544MHz.
 
  Regarding power consumption, both GPUs from AMD remain comparable across the board, with the RX 7700 XT officially rated at 245W, whilst the RX 7800 XT exhibits a marginal increase in its TBP of about 18W. Despite the RDNA 3 microarchitecture's generational improvement, Team Red's upcoming duo still suffers from an inferior power profile compared to Nvidia's AD104 and AD106 silicon.
 
- Aside from the differences in compute performance, memory subsystem, power consumption, and core frequencies, the Radeon RX 7800 XT and RX 7700 XT take advantage of all the latest and greatest features associated with the RDNA 3 microarchitecture. Both variants offer native support for the new[DisplayPort 2.1 standard](https://www.makeuseof.com/everything-you-need-to-know-displayport-21/) , AV1 encoding and decoding, along with other proprietary technologies from Team Red, including Radeon Super Resolution, Radeon Anti-Lag, and many more.
+ Aside from the differences in compute performance, memory subsystem, power consumption, and core frequencies, the Radeon RX 7800 XT and RX 7700 XT take advantage of all the latest and greatest features associated with the RDNA 3 microarchitecture. Both variants offer native support for the new [DisplayPort 2.1 standard](https://www.makeuseof.com/everything-you-need-to-know-displayport-21/) , AV1 encoding and decoding, along with other proprietary technologies from Team Red, including Radeon Super Resolution, Radeon Anti-Lag, and many more.
 
  Moving on to the connectivity front, AMD's port configuration for the RX 7800 XT and RX 7700 XT misses out on the highly convenient USB-C Virtual Link connector, as seen previously in the RX 7900 Series. While providing a maximum of four video outputs, the upcoming models will include three DisplayPort 2.1 UHBR13.5 ports (at data rates up to 54Gbps) alongside a single HDMI 2.1 connector.
 
@@ -108,3 +108,26 @@ thumbnail: https://thmb.techidaily.com/d141dd05ed10b1bd39fa40502c6b028dc88f2f05d
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/master-your-creative-talent-with-these-7-game-based-skills/"><u>Master Your Creative Talent with These 7 Game-Based Skills</u></a></li>
+<li><a href="https://games-able.techidaily.com/supreme-gamers-logitech-toolkit/"><u>Supreme Gamer's Logitech Toolkit</u></a></li>
+<li><a href="https://games-able.techidaily.com/keeping-system-steam-free-on-restart/"><u>Keeping System Steam-Free on Restart</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-ps5-fun-key-player-insights/"><u>Enhance PS5 Fun: Key Player Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/advantages-transitioning-console-players-to-pc-gaming/"><u>Advantages: Transitioning Console Players to PC Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/effective-management-of-multiple-xbox-subscriptions-in-a-single-console/"><u>Effective Management of Multiple Xbox Subscriptions in a Single Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-amds-rdna-35-tech-details-and-launch-estimates/"><u>Deciphering AMD’s RDNA 3.5: Tech Details and Launch Estimates</u></a></li>
+<li><a href="https://games-able.techidaily.com/download-platforms-for-bg3-unveiled/"><u>Download Platforms for BG3 Unveiled!</u></a></li>
+<li><a href="https://games-able.techidaily.com/fleeting-online-realms-a-reason-for-concern/"><u>Fleeting Online Realms – A Reason for Concern?</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/how-to-create-animated-video-on-canva/"><u>How to Create Animated Video on Canva?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-windows-11-premium-video-grabber-selections/"><u>2024 Approved  Windows 11  Premium Video Grabber Selections</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/20plus-hashes-to-skyrocket-your-short-films-popularity-for-2024/"><u>20+ Hashes to Skyrocket Your Short Film's Popularity for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-innovative-approach-wearable-unlocks-your-mac/"><u>[New] Innovative Approach  Wearable Unlocks Your Mac</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-pioneering-profit-navigating-the-path-to-money-making-on-vimeo/"><u>2024 Approved  Pioneering Profit  Navigating the Path to Money-Making on Vimeo</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-xbox-expansion-top-5-external-hard-drives-ranked-for-2024/"><u>[Updated] Xbox Expansion  Top 5 External Hard Drives Ranked for 2024</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-y27s-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-samsung-galaxy-f04mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Samsung Galaxy F04Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-play-anywhere-anytime-the-ultimate-collection-of-the-best-gb-advance-emulators-on-pcs/"><u>[New] 2024 Approved  Play Anywhere, Anytime  The Ultimate Collection of the Best GB Advance Emulators on PCs</u></a></li>
+</ul></div>

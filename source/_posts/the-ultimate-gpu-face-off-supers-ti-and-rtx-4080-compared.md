@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate GPU Face-Off: Supers, Ti & RTX 4080 Compared"
-date: 2024-06-23 18:55:37
-updated: 2024-06-24 10:15:13
+date: 2024-06-25T13:36:56.503Z
+updated: 2024-06-26T13:36:56.503Z
 tags:
   - games
 categories:
@@ -67,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/104450fe8ea4a9516969410598e82c71d2951cffe
 
 ### Price to Performance
 
- The[RTX 4080 launched in 2022](https://www.makeuseof.com/nvidia-rtx-4080-reasons-upgrade/) , priced around $1,199—the highest figure ever for one of Nvidia's "80" tier cards. Even allowing for inflation between the launch of the RTX 3080 in 2020 (around $699), the sky-high pricing put many would-be buyers off.
+ The [RTX 4080 launched in 2022](https://www.makeuseof.com/nvidia-rtx-4080-reasons-upgrade/) , priced around $1,199—the highest figure ever for one of Nvidia's "80" tier cards. Even allowing for inflation between the launch of the RTX 3080 in 2020 (around $699), the sky-high pricing put many would-be buyers off.
 
  Now, Nvidia is dropping the price of the RTX 4080 Super to $999\. It's still an expensive outlay; there's no escaping that, but the performance boost and price drop make the new RTX 4080 Super more palatable.
 
@@ -94,3 +94,26 @@ thumbnail: https://thmb.techidaily.com/104450fe8ea4a9516969410598e82c71d2951cffe
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/playing-fortnite-on-mac-watch-out-for-exceptions/"><u>Playing Fortnite on Mac? Watch Out for Exceptions!</u></a></li>
+<li><a href="https://games-able.techidaily.com/predicting-a-boom-in-chipset-prices-are-we-ready/"><u>Predicting a Boom in Chipset Prices: Are We Ready?</u></a></li>
+<li><a href="https://games-able.techidaily.com/aaa-publishers-scaling-dilemma-too-big-or-just-right-panel-discussion/"><u>AAA Publishers' Scaling Dilemma: Too Big, Or Just Right? [Panel Discussion]</u></a></li>
+<li><a href="https://games-able.techidaily.com/secure-access-to-more-gaming-with-xbox-ultimate/"><u>Secure Access to More Gaming with Xbox Ultimate</u></a></li>
+<li><a href="https://games-able.techidaily.com/revive-nintendo-switch-online-accessibility/"><u>Revive Nintendo Switch Online Accessibility</u></a></li>
+<li><a href="https://games-able.techidaily.com/pushing-gaming-limits-with-razers-superior-basilisk-v3-pro/"><u>Pushing Gaming Limits with Razer's Superior Basilisk V3 Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/platform-exclusive-games-might-be-a-thing-of-the-past-heres-why-thats-good/"><u>Platform-Exclusive Games Might Be a Thing of The Past: Here's Why That's Good</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-steam-installation-issues-in-windows-11/"><u>Troubleshooting Steam Installation Issues in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/transitioning-to-macsilicon-running-windows-games-via-crossover/"><u>Transitioning to MacSilicon: Running Windows Games via CrossOver</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-text-to-speech-wondershare-virbo-online/"><u>New In 2024, Text To Speech | Wondershare Virbo Online</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-significance-of-video-in-client-promotional-power/"><u>The Significance of Video in Client Promotional Power</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-foremost-non-udemy-virtual-learning-experiences-reviewed/"><u>2024 Approved  The Foremost Non-Udemy Virtual Learning Experiences Reviewed</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-networked-narratives-recorder/"><u>2024 Approved  Networked Narratives Recorder</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/effective-guide-to-cast-apple-iphone-11-pro-max-to-macbook-without-hindrance-drfone-by-drfone-ios/"><u>Effective Guide to Cast Apple iPhone 11 Pro Max to MacBook without Hindrance | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-vivo-x-flip-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Vivo X Flip Phones</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/precision-videoplayers-for-high-definition-on-android/"><u>Precision Videoplayers for High Definition on Android</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-best-free-video-editors-for-windows-imovie-equivalent-options/"><u>New In 2024, Best Free Video Editors for Windows IMovie Equivalent Options</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exclusive-selection-top-gopro-adornments-for-2024/"><u>Exclusive Selection  Top Gopro Adornments for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Secure Steam Selections Discreetly
-date: 2024-06-23 13:58:16
-updated: 2024-06-24 11:27:21
+date: 2024-06-25T13:32:22.891Z
+updated: 2024-06-26T13:32:22.891Z
 tags:
   - games
 categories:
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/8e7429f26cf226f9f9f144f8b464e629b87419e8b
 
 ## Steam Now Lets You Set Games as Private
 
- Steam announced on the[Steam News Hub](https://store.steampowered.com/news/collection/steam/?emclan=103582791457287600&emgid=4149575031731807335) that the Private Apps feature is now out of beta, meaning that as soon as you log into Steam again, you should have access to it. But what does setting a game as private on Steam do?
+ Steam announced on the [Steam News Hub](https://store.steampowered.com/news/collection/steam/?emclan=103582791457287600&emgid=4149575031731807335) that the Private Apps feature is now out of beta, meaning that as soon as you log into Steam again, you should have access to it. But what does setting a game as private on Steam do?
 
  According to Steam, games marked as private will only be visible to you. In the past, the only way to keep friends from seeing the games you play was to mark your entire library as private (which was overkill if you only wanted to hide a few titles).
 
@@ -68,11 +68,11 @@ thumbnail: https://thmb.techidaily.com/8e7429f26cf226f9f9f144f8b464e629b87419e8b
 
  You can also head to your library to remove a game from your private items. Right-click on the title and then select**Manage > Unmark as Private** .
 
- You should also keep in mind that if you[enabled a custom playing status on Discord](https://www.makeuseof.com/set-custom-playing-status-discord/) , a private Steam game will still show up on Discord while you're playing it.
+ You should also keep in mind that if you [enabled a custom playing status on Discord](https://www.makeuseof.com/set-custom-playing-status-discord/) , a private Steam game will still show up on Discord while you're playing it.
 
 ## Don't Mix Up Private Games and Hidden Games on Steam
 
- When you right-clicked on a title in your library, you might have noticed an existing option to**Hide this game** . This, however, is a separate feature that simply hides a game from your own library menu—it remains visible if friends search through your games list. This means that the feature is essentially an organization feature to[get rid of games on your Steam account](https://www.makeuseof.com/tag/how-to-finally-get-rid-of-games-from-your-steam-account/) rather than a privacy feature.
+ When you right-clicked on a title in your library, you might have noticed an existing option to**Hide this game** . This, however, is a separate feature that simply hides a game from your own library menu—it remains visible if friends search through your games list. This means that the feature is essentially an organization feature to [get rid of games on your Steam account](https://www.makeuseof.com/tag/how-to-finally-get-rid-of-games-from-your-steam-account/) rather than a privacy feature.
 
  If you've been using the wrong feature to try making your games private, you can find all your hidden games in your library. If you remember the name of the specific title, you can search for it and it will show up under a hidden tab.
 
@@ -99,3 +99,27 @@ thumbnail: https://thmb.techidaily.com/8e7429f26cf226f9f9f144f8b464e629b87419e8b
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/emulate-android-games-in-linux-system/"><u>Emulate Android Games in Linux System</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-premier-nintendo-switch-cartridge-holsters-of-2024/"><u>The Premier Nintendo Switch Cartridge Holsters of 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/secure-your-ultimate-marvel-gaming-experience-now/"><u>Secure Your Ultimate Marvel Gaming Experience Now!</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-googles-game-service-on-desktops-a-guide/"><u>Navigating Google's Game Service on Desktops: A Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/ascertaining-maximum-vram-for-your-device/"><u>Ascertaining Maximum VRAM for Your Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/take-charge-how-to-purchase-spiderman-2-early-edition/"><u>Take Charge: How to Purchase SPIDERMAN 2 Early Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/inside-look-what-sets-xbox-game-pass-apart/"><u>Inside Look: What Sets Xbox Game Pass Apart</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-cozy-games-appeal/"><u>Discovering Cozy Games Appeal</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-sxs-vs-gaming-pc-performance-analysis/"><u>Xbox SXS Vs. Gaming PC Performance Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-offscreen-enigma-solving-xboxs-social-puzzle/"><u>The Offscreen Enigma: Solving Xbox's Social Puzzle</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-11-pro-max-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking iPhone 11 Pro Max Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-samsung-galaxy-a24-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Samsung Galaxy A24 Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-hands-on-with-avs-video-editor-a-detailed-review/"><u>Updated In 2024, Hands-On with AVS Video Editor A Detailed Review</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/elite-selection-of-economical-video-conferencing-apps-for-2024/"><u>Elite Selection of Economical Video Conferencing Apps for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/enhancing-audio-clarity-in-imovie-for-mac-essential-techniques-for-2024/"><u>Enhancing Audio Clarity in iMovie for Mac Essential Techniques for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-3-ways-to-record-lectures-on-mac/"><u>In 2024, 3 Ways to Record Lectures on Mac</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/google-plays-hottest-android-apps-right-now-for-2024/"><u>Google Plays Hottest Android Apps Right Now for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/stream-success-on-two-platforms-ytplustwitch-to-expand-audience-for-2024/"><u>Stream Success on Two Platforms (YT+Twitch) to Expand Audience for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-on-iphone-13-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock on iPhone 13</u></a></li>
+</ul></div>

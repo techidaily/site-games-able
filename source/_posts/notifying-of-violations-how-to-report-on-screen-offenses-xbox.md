@@ -1,7 +1,7 @@
 ---
 title: "Notifying of Violations: How to Report On-Screen Offenses (Xbox)"
-date: 2024-06-23 22:18:45
-updated: 2024-06-24 12:52:42
+date: 2024-06-25T13:33:54.573Z
+updated: 2024-06-26T13:33:54.573Z
 tags:
   - games
 categories:
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/7104f2fdb3efe51471cdd88f375c828abb8a0fae8
 
 ![A screenshot of the available categories when reporting an Xbox Profile on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot-2986.jpg)
 
- It's also important to note that you can access people's profiles in multiple ways. You can even[report players via your Xbox console or the Xbox app](https://www.makeuseof.com/xbox-one-xbox-app-how-to-block-and-report-users/) .
+ It's also important to note that you can access people's profiles in multiple ways. You can even [report players via your Xbox console or the Xbox app](https://www.makeuseof.com/xbox-one-xbox-app-how-to-block-and-report-users/) .
 
 ## 2\. How to Report Inappropriate Xbox Messages
 
@@ -80,13 +80,13 @@ thumbnail: https://thmb.techidaily.com/7104f2fdb3efe51471cdd88f375c828abb8a0fae8
 
  Like with any other Xbox report, you can then define the specific categories of your report and hit**Submit** to finalize it. With the report linked to an individual Xbox Activity Feed post, you can rest assured that Xbox will be able to evaluate your report with the evidence provided.
 
- However, your own Xbox Activity Feed content can just as easily be flagged by other users. So, it's important when you post a game capture or[create an Xbox Club](https://www.makeuseof.com/how-to-make-a-club-on-xbox-series-x-s/) that you're confident the content is appropriate.
+ However, your own Xbox Activity Feed content can just as easily be flagged by other users. So, it's important when you post a game capture or [create an Xbox Club](https://www.makeuseof.com/how-to-make-a-club-on-xbox-series-x-s/) that you're confident the content is appropriate.
 
 ## 4\. How to Report In-Game Voice Chat on Xbox Series X|S
 
  A final way you can report inappropriate content on your Xbox, and the most unique way, is by highlighting inappropriate voice communications to Xbox.
 
- However, to report voice chats, you need to have saved 60-second voice clips onto your Xbox. Luckily, you can[record and report in-game voice chat from your Xbox Series X|S](https://www.makeuseof.com/how-to-save-and-report-in-game-voice-chat-on-xbox-series-xs/) . To record voice chat, follow these steps:
+ However, to report voice chats, you need to have saved 60-second voice clips onto your Xbox. Luckily, you can [record and report in-game voice chat from your Xbox Series X|S](https://www.makeuseof.com/how-to-save-and-report-in-game-voice-chat-on-xbox-series-xs/) . To record voice chat, follow these steps:
 
 * Open the Guide menu by pressing the**Xbox button** on your controller.
 * Highlight**Parties & chats** , and select the bottom option for**Report in-game voice chat** .
@@ -131,3 +131,27 @@ thumbnail: https://thmb.techidaily.com/7104f2fdb3efe51471cdd88f375c828abb8a0fae8
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/dissecting-high-end-pc-brands-asus-vs-tuf-vs-proart-vs-prime/"><u>Dissecting High-End PC Brands: Asus Vs. Tuf Vs. ProArt Vs. Prime</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-steam-disconnection-issue-on-pc/"><u>Addressing Steam Disconnection Issue on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-tips-for-buying-ps-games-effectively/"><u>Essential Tips for Buying PS Games Effectively</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-strategies-to-maximize-your-fps-in-csgo/"><u>7 Strategies to Maximize Your FPS in CS:GO</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-game-design-with-helldivers-2/"><u>Mastering the Art of Game Design with Helldivers 2</u></a></li>
+<li><a href="https://games-able.techidaily.com/8-leading-websites-that-define-modern-gaming-news/"><u>8 Leading Websites That Define Modern Gaming News</u></a></li>
+<li><a href="https://games-able.techidaily.com/rediscovering-the-magic-in-each-game-session/"><u>Rediscovering the Magic in Each Game Session</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-tools-to-keep-your-steam-deck-cool/"><u>Essential Tools to Keep Your Steam Deck Cool</u></a></li>
+<li><a href="https://games-able.techidaily.com/transforming-your-gaming-identity-on-riot-platform/"><u>Transforming Your Gaming Identity on Riot Platform</u></a></li>
+<li><a href="https://games-able.techidaily.com/shining-up-your-guide-to-cleaner-gaming-tech/"><u>Shining Up: Your Guide to Cleaner Gaming Tech</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-nokia-c02-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Nokia C02 Phone</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-the-only-guide-youll-ever-need-to-learn-that-make-2d-rigging-clear-to-you/"><u>Updated The Only Guide Youll Ever Need to Learn That Make 2D Rigging Clear to You</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-sleek-arenas-2022s-olympic-skating/"><u>2024 Approved  Sleek Arenas  2022'S Olympic Skating</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-how-to-mute-zoom-audio-on-desktop-and-mobile-phone-easy-steps/"><u>Updated 2024 Approved How to Mute Zoom Audio on Desktop and Mobile Phone? Easy Steps</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-the-premier-list-of-windows-compatible-automatic-speech-recognition-systems/"><u>Updated The Premier List of Windows-Compatible Automatic Speech Recognition Systems</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-the-ultimate-list-of-premium-android-audioscriptors-to-enhance-your-music-for-2024/"><u>Updated The Ultimate List of Premium Android Audioscriptors to Enhance Your Music for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/essential-offline-ios-game-list-unplugged-fun-awaits-for-2024/"><u>Essential Offline iOS Game List - Unplugged Fun Awaits for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-uncomplicated-ways-to-save-vimeo-content-for-2024/"><u>[New] Uncomplicated Ways to Save Vimeo Content for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-13-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-superior-5-sites-matching-twitters-features-for-2024/"><u>[New] Superior 5 Sites Matching Twitter's Features for 2024</u></a></li>
+</ul></div>

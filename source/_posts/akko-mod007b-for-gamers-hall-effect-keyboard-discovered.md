@@ -1,7 +1,7 @@
 ---
 title: "Akko MOD007B for Gamers: Hall Effect Keyboard Discovered"
-date: 2024-06-23 15:23:55
-updated: 2024-06-24 12:54:49
+date: 2024-06-25T12:56:18.136Z
+updated: 2024-06-26T12:56:18.136Z
 tags:
   - games
 categories:
@@ -109,9 +109,7 @@ No
 
 [See at Akko](https://en.akkogear.com/product/mod007b-pc-santorini-mechanical-keyboard/)
 
-## A Great-Looking Keyboard on the Surface
-
-![Akko MOD007B HE Spacebar Detail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-spacebar-detail.jpg)
+## A Great-Looking Keyboard on the Surface ![Akko MOD007B HE Spacebar Detail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-spacebar-detail.jpg)
 
  Jowi Morales / MakeUseOf
 
@@ -121,9 +119,7 @@ No
 
  All of these sit on a plain white plastic case with two-level adjustable feet. You also get a plain white knob for adjusting volume and RGB brightness. This keyboard would look great on any desk. Even if you aim for a minimalist gaming station, its design could be your PC’s focal point.
 
-## Tokyo-Themed Keys and Accessories Included
-
-![Akko MOD007B HE Tokyo-themed Accessories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-tokyo-themed-accessories.jpg)
+## Tokyo-Themed Keys and Accessories Included ![Akko MOD007B HE Tokyo-themed Accessories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-tokyo-themed-accessories.jpg)
 
  Jowi Morales / MakeUseOf
 
@@ -139,7 +135,7 @@ No
 
  What makes the Akko MOD007B different from most gaming keyboards is that it uses Hall Effect switches instead of mechanical keys.[Mechanical keyboards work by using springs](http://www.makeuseof.com/tag/mechanical-keyboard-work-technology-explained/) to control how much pressure you need to apply before it closes the switch.
 
- On the other hand, Hall Effect switches have no moving parts. Instead, it uses the changing position of two magnets to determine a key’s position. Because of this, Hall Effect keyboards have a longer lifespan than traditional mechanical switches, just like[Hall Effect joysticks](https://www.makeuseof.com/what-are-hall-effect-joysticks-can-they-cure-controller-drift/) .
+ On the other hand, Hall Effect switches have no moving parts. Instead, it uses the changing position of two magnets to determine a key’s position. Because of this, Hall Effect keyboards have a longer lifespan than traditional mechanical switches, just like [Hall Effect joysticks](https://www.makeuseof.com/what-are-hall-effect-joysticks-can-they-cure-controller-drift/) .
 
 ![Akko MOD007B HE Hall-Effect Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-hall-effect-switch.jpg)
 
@@ -169,9 +165,7 @@ Related
 
  Even when you bottom out the keys, you’ll feel as if it’s cushioned, reducing the stress on your fingertips. And although it doesn’t have the bassy, thocky sound some keyboard enthusiasts look for, it still delivers excellent audible feedback for each keypress you make.
 
-## Extensive Customization With the Akko Cloud Driver
-
-![Akko MOD007B HE Cloud Driver Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/akko-mod007b-he-cloud-driver-screenshot.jpg)
+## Extensive Customization With the Akko Cloud Driver ![Akko MOD007B HE Cloud Driver Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/akko-mod007b-he-cloud-driver-screenshot.jpg)
 
  Of course, hardware is no good if you don’t pair it with great software. Thankfully, the Akko MOD007B comes with an easy-to-use and easy-to-understand driver. On thge Main tab you can remap your keyboard, change its Dynamic Keystroke settings, and set custom actuation distances for the entire keyboard or each key.
 
@@ -179,9 +173,7 @@ Related
 
  But best of all, any changes you make to the keyboard are stored on it. So, even if you switch PCs or upgrade to a newer device, you don’t have to download the driver and recreate your saved keyboard settings.
 
-## Confusing Multi-Mode Pairing
-
-![Akko MOD007B HE mode switch slider under the caps lock key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-mode-switch-slider-under-the-caps-lock-key.jpg)
+## Confusing Multi-Mode Pairing ![Akko MOD007B HE mode switch slider under the caps lock key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-mode-switch-slider-under-the-caps-lock-key.jpg)
 
  Jowi Morales / MakeUseOf
 
@@ -193,9 +185,7 @@ Related
 
  It would’ve been better if Akko included at least a single color-changing LED bulb to indicate the mode the keyboard is currently on. And maybe they could put the OS mode switch on an easily reachable surface.
 
-## Questionable Battery Life
-
-![Akko MOD007B HE Battery-Level Check](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-battery-level-check.jpg)
+## Questionable Battery Life ![Akko MOD007B HE Battery-Level Check](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-battery-level-check.jpg)
 
  Jowi Morales / MakeUseOf
 
@@ -302,3 +292,24 @@ No
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/strategies-for-mending-or-swapping-faulty-nintendo-switches/"><u>Strategies for Mending or Swapping Faulty Nintendo Switches</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-gamers-toolkit-razers-v4-unveiled/"><u>The Ultimate Gamer's Toolkit - Razer's V4 Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/safeguarding-device-sharing-implementing-barriers-for-pc-and-steam-deck-integration/"><u>Safeguarding Device Sharing: Implementing Barriers for PC & Steam Deck Integration</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-input-devices-for-switch-gaming-setup-90-chars/"><u>Essential Input Devices for Switch Gaming Setup (90 Chars)</u></a></li>
+<li><a href="https://games-able.techidaily.com/silent-sabotage-my-overclocked-nightmrange/"><u>Silent Sabotage: My Overclocked Nightmrange</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyerdynamic-mmx-200-exceptional-audio-quality/"><u>Beyerdynamic MMX 200: Exceptional Audio Quality</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-sxs-vs-gaming-pc-performance-analysis/"><u>Xbox SXS Vs. Gaming PC Performance Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/decipher-complexities-in-reestablishing-steams-operability/"><u>Decipher Complexities in Reestablishing Steam's Operability</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expertise-in-transition-techniques-adobe-edition/"><u>2024 Approved  Expertise in Transition Techniques, Adobe Edition</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximizing-visual-clarity-on-kinemaster-projects/"><u>2024 Approved  Maximizing Visual Clarity on Kinemaster Projects</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-no-cost-no-problem-top-10-free-video-editors-for-ubuntu/"><u>Updated 2024 Approved No Cost, No Problem Top 10 Free Video Editors for Ubuntu</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-elevating-your-podcasts-ambiance-a-guide-to-locating-sound-effects-for-2024/"><u>Updated Elevating Your Podcasts Ambiance A Guide to Locating Sound Effects for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-auditory-purity-in-the-digital-realm-removing-unwanted-sounds-with-ease-online/"><u>New In 2024, Auditory Purity in the Digital Realm Removing Unwanted Sounds with Ease Online</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-how-to-make-fortnite-thumbnail-for-free-and-easy/"><u>2024 Approved  How to Make Fortnite Thumbnail for Free and Easy</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-samurai-spirit-explored-in-top-10-gaming-worlds/"><u>In 2024, Samurai Spirit, Explored in Top 10 Gaming Worlds</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-fast-fortnite-cover-art-techniques/"><u>[New] Fast Fortnite Cover Art Techniques</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-prime-online-communities-eclipsing-twitterenasity/"><u>[New] 2024 Approved  Prime Online Communities Eclipsing Twitter'enasity</u></a></li>
+</ul></div>

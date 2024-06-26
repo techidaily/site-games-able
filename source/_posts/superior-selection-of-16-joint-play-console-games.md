@@ -1,7 +1,7 @@
 ---
 title: Superior Selection of 16 Joint Play Console Games
-date: 2024-06-21 22:57:44
-updated: 2024-06-24 10:55:48
+date: 2024-06-25T12:59:41.704Z
+updated: 2024-06-26T12:59:41.704Z
 tags:
   - games
 categories:
@@ -20,13 +20,13 @@ thumbnail: https://thmb.techidaily.com/ee736977879e7c042699ccb0ba782ae72fcd626a8
 
 ## 1. LEGO Star Wars: The Skywalker Saga
 
- Frankly, you could pick any of the Traveller's Tales LEGO games and have a wonderful time (they all make for[excellent LEGO gifts](https://www.makeuseof.com/tag/best-lego-gifts/) ), but LEGO Star Wars: The Skywalker Saga is perhaps the best the developer has produced. It collects together all nine Star Wars films in an action-adventure experience designed for co-op, with hundreds of characters and vehicles to try.
+ Frankly, you could pick any of the Traveller's Tales LEGO games and have a wonderful time (they all make for [excellent LEGO gifts](https://www.makeuseof.com/tag/best-lego-gifts/) ), but LEGO Star Wars: The Skywalker Saga is perhaps the best the developer has produced. It collects together all nine Star Wars films in an action-adventure experience designed for co-op, with hundreds of characters and vehicles to try.
 
 ## 2. Rocket League
 
  If you're looking for some kinetic entertainment, you'll find it with the free-to-play Rocket League. You control a fast-paced vehicle, whizzing on the ground and through the air to hit a ball into a goal. It's soccer combined with vehicular chaos. You can either play in couch co-op or against one another.
 
- Rocket League is also one of[the best local multiplayer games for PC](https://www.makeuseof.com/tag/7-best-couch-co-op-games-pc/) . In fact, you can compete against PC players online, thanks to the game's cross compatibility.
+ Rocket League is also one of [the best local multiplayer games for PC](https://www.makeuseof.com/tag/7-best-couch-co-op-games-pc/) . In fact, you can compete against PC players online, thanks to the game's cross compatibility.
 
 ## 3. It Takes Two
 
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/ee736977879e7c042699ccb0ba782ae72fcd626a8
 
 ## 4. Cuphead
 
- Cuphead is a difficult yet rewarding platformer that lovingly recreates the style of old hand drawn cartoons. It's inventive and charming, with boss fights so tough that you'll be glad for support from your friend on the couch. Plus, if you enjoy the game, there's an equally[decent Netflix animated series](https://www.makeuseof.com/tag/animated-shows-adults-netflix/) that you can watch together.
+ Cuphead is a difficult yet rewarding platformer that lovingly recreates the style of old hand drawn cartoons. It's inventive and charming, with boss fights so tough that you'll be glad for support from your friend on the couch. Plus, if you enjoy the game, there's an equally [decent Netflix animated series](https://www.makeuseof.com/tag/animated-shows-adults-netflix/) that you can watch together.
 
 ## 5. Overcooked! All You Can Eat
 
@@ -103,3 +103,24 @@ thumbnail: https://thmb.techidaily.com/ee736977879e7c042699ccb0ba782ae72fcd626a8
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/navigating-xbox-one-games-hand-free/"><u>Navigating Xbox One Games Hand-Free</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-bold-move-overhauling-family-game-access-for-10-years/"><u>Steam's Bold Move: Overhauling Family Game Access for 10 Years</u></a></li>
+<li><a href="https://games-able.techidaily.com/time-zones-tally-up-modify-sxxb1s-clock/"><u>Time Zones Tally Up: Modify SX/XB1's Clock</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-convergence-experience-meta-quest-3-explored/"><u>The Convergence Experience: Meta Quest 3 Explored</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-xbox-xs-track-your-gaming-hours/"><u>Mastering Xbox X/S: Track Your Gaming Hours</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-the-power-of-beyerdynamics-mmx-200/"><u>Unlocking the Power of Beyerdynamic's MMX 200</u></a></li>
+<li><a href="https://games-able.techidaily.com/five-reasons-against-gamefis-widespread-allure/"><u>Five Reasons Against GameFi's Widespread Allure</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-audio-enhancement-the-role-of-specialized-headsets/"><u>Game Audio Enhancement: The Role of Specialized Headsets</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-yourself-from-video-edges-on-youtube-for-2024/"><u>[New] Free Yourself From Video Edges on YouTube for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-insta-gone-locating-the-disappeared-fans/"><u>[Updated] In 2024, Insta Gone? Locating the Disappeared Fans</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-se-2022-without-losing-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone SE (2022) without Losing Data? | Stellar</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-reversing-time-retracing-your-steps-for-lost-snaps-for-2024/"><u>[New] Reversing Time  Retracing Your Steps for Lost Snaps for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-screen-saving-snapchat-memories-on-phone/"><u>[Updated] 2024 Approved  Screen Saving Snapchat Memories on Phone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-xiaomi-redmi-12-5g-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Xiaomi Redmi 12 5G</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-itel-a60-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Itel A60 Without Password | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/discover-how-you-can-use-vectorscope-to-adjust-luminance-color-grading-and-more-in-your-video-editing-projects/"><u>Discover How You Can Use Vectorscope to Adjust Luminance, Color Grading, and More in Your Video Editing Projects</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-perfecting-the-live-broadcast-4-tips-for-fb-enthusiasts/"><u>[New] Perfecting the Live Broadcast  4 Tips for FB Enthusiasts</u></a></li>
+</ul></div>

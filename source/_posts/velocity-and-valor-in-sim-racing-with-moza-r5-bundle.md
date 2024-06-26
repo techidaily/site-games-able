@@ -1,7 +1,7 @@
 ---
 title: Velocity & Valor in Sim Racing with MOZA R5 Bundle
-date: 2024-06-23 17:51:38
-updated: 2024-06-24 12:37:31
+date: 2024-06-25T13:20:43.828Z
+updated: 2024-06-26T13:20:43.828Z
 tags:
   - games
 categories:
@@ -140,9 +140,7 @@ Yes
 
  The pedals are also heavy with a thick powder coating, but the edges are quite sharp, which makes them a little scary to handle. I was also disappointed to find that all the pedal faces are the same shape and size and completely flat with no adjustability. This could pose a problem, which I’ll discuss in the driving experience later.
 
-## MOZA R5 Bundle Hardware Setup Experience
-
-![MOZA R5 on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-on-desk.JPG)
+## MOZA R5 Bundle Hardware Setup Experience ![MOZA R5 on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-on-desk.JPG)
 
  Jhet Borja / MakeUseOf
 
@@ -152,9 +150,7 @@ Yes
 
  I was able to clamp it to my desk and get in position after just about 20 minutes since unboxing—and that’s including adding the clutch pedal and brake mod.
 
-## MOZA Pit House Software
-
-![MOZA Pit House software with configured games list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-pit-house-software-with-configured-games-list.jpg)
+## MOZA Pit House Software ![MOZA Pit House software with configured games list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-pit-house-software-with-configured-games-list.jpg)
 
  I thought I’d have a headache trying to get everything ready on the software side for driving, but the MOZA Pit House software on PC impressed me. It was able to detect the wheel and pedals without any hitches and even had pre-configured settings for all the racing simulators I wanted to drive except for Dirt Rally.
 
@@ -196,9 +192,7 @@ Close
 
  The app could use some language improvements though, as the wording can be quite strange, such as “Enter the car” to change the settings, “SteeringWheel Recenter,” and “Unconnected to the screen".
 
-## Desk Usage
-
-![MOZA R5 beside headphones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-beside-headphones.JPG)
+## Desk Usage ![MOZA R5 beside headphones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-beside-headphones.JPG)
 
  Jhet Borja / MakeUseOf
 
@@ -222,9 +216,7 @@ Close
 
  When I’m done racing, I usually stow it away at the far edge of my desk and unplug the USB and pedal cables. It’s pretty convenient to set up, as I don’t have to move the wheel base far. The wheel can also stay detached, so it’s not in the way all the time. My table is a bit wobbly though, so the monitor gets all shaky, especially when driving Rally cars.
 
-## Quick Release System
-
-![R5 Quick Release](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/r5-quick-release.JPG)
+## Quick Release System ![R5 Quick Release](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/r5-quick-release.JPG)
 
  Jhet Borja / MakeUseOf
 
@@ -238,9 +230,7 @@ Close
 
  Coming from a Logitech G29, the driving experience is wildly different. It’s no longer a clunky mess that feels like it’s about to rattle itself to pieces. It legitimately feels immersive and connected. I’ve separated the driving experience into three sections so I can go into detail for each major component.
 
-### MOZA R5 Wheel Base
-
-![Turning with Formula Wheel mod](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/turning-with-formula-wheel-mod.JPG)
+### MOZA R5 Wheel Base ![Turning with Formula Wheel mod](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/turning-with-formula-wheel-mod.JPG)
 
  Jhet Borja / MakeUseOf
 
@@ -323,3 +313,24 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/the-new-frontier-how-mmo-games-are-innovating/"><u>The New Frontier: How MMO Games Are Innovating</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-captures-storage-locations-explained/"><u>Steam Captures: Storage Locations Explained</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-4-ios-superior-game-boy-advance-emulators/"><u>Top 4 iOS: Superior Game Boy Advance Emulators!</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-does-it-really-mean-to-be-idle-in-discord/"><u>What Does It Really Mean to Be Idle in Discord?</u></a></li>
+<li><a href="https://games-able.techidaily.com/five-digital-desktop-text-adventures-await/"><u>Five Digital, Desktop Text-Adventures Await</u></a></li>
+<li><a href="https://games-able.techidaily.com/simple-steps-for-locating-your-digital-game-id/"><u>Simple Steps for Locating Your Digital Game ID</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-gaming-iem-quality-an-overview/"><u>Exploring Gaming IEM Quality: An Overview</u></a></li>
+<li><a href="https://games-able.techidaily.com/visual-enhancements-for-gamers-top-144hz-widescreens/"><u>Visual Enhancements for Gamers: Top 144Hz Widescreens</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-tips-for-effective-instagram-video-sharing/"><u>[Updated] 2024 Approved  Tips for Effective Instagram Video Sharing</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-viral-video-quarterly-watch/"><u>In 2024, Viral Video Quarterly Watch</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-essential-tutorial-for-vrecorder-setup/"><u>[New] In 2024, The Essential Tutorial for VRecorder Setup</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Sony Xperia 5 V? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-enhancing-your-youtube-profiles-a-guide-to-crafting-descriptions/"><u>[Updated] In 2024, Enhancing Your YouTube Profiles  A Guide to Crafting Descriptions</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-oppo-a18-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Oppo A18 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-nokia-c02-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Nokia C02</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-the-social-network-crossroad-instagram-and-tiktok/"><u>In 2024, Navigating the Social Network Crossroad  Instagram & TikTok</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-taking-solo-shots-from-videos-in-windows-10-photos-interface/"><u>[Updated] Taking Solo Shots From Videos in Windows 10 Photos Interface</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: The Easy-Peasy Guide to Renaming Yourself on Riot Games
-date: 2024-06-25T10:50:35.611Z
-updated: 2024-06-26T10:50:35.611Z
+date: 2024-06-25T12:48:41.924Z
+updated: 2024-06-26T12:48:41.924Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/f4b94a6052a83b6c87620891bae2ef1d10a06ae6e
 
 To do that, follow the steps below:
 
-1. Head over to[account.riotgames.com](https://account.riotgames.com) and enter your account credentials to sign in.
+1. Head over to [account.riotgames.com](https://account.riotgames.com) and enter your account credentials to sign in.
 2. On the Riot Account Management page, edit the**RIOT ID** and**TAGLINE** fields to change your display name and ID.
 3. Finally, click on**Save Changes** to proceed.
 

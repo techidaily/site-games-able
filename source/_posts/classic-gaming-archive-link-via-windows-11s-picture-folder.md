@@ -1,7 +1,7 @@
 ---
 title: "Classic Gaming Archive: Link via Windows 11'S Picture Folder"
-date: 2024-06-22 15:41:49
-updated: 2024-06-24 12:36:37
+date: 2024-06-25T13:05:24.143Z
+updated: 2024-06-26T13:05:24.143Z
 tags:
   - games
 categories:
@@ -26,11 +26,9 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
 
  This is a compatibility measure, intended to allow programs designed for older Windows versions to still work. Unfortunately, this can create new issues for older programs.
 
-## How to Give Read Access Rights for Older Games
+## How to Give Read Access Rights for Older Games ![screenshot of my pictures folder modifying permission](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_my_pictures_folder_modifying_permissions.jpg)
 
-![screenshot of my pictures folder modifying permission](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_my_pictures_folder_modifying_permissions.jpg)
-
- The easiest way to enable older games to read the My Pictures folder is to grant global read permissions to this folder. This is a similar process to[solving "Access Denied" folder errors in Windows](https://www.makeuseof.com/tag/fix-access-denied-folders-windows-10/) .
+ The easiest way to enable older games to read the My Pictures folder is to grant global read permissions to this folder. This is a similar process to [solving "Access Denied" folder errors in Windows](https://www.makeuseof.com/tag/fix-access-denied-folders-windows-10/) .
 
  Start by right-clicking the My Pictures folder and hitting**Properties.** Then open the**Security** tab and click**Advanced.**
 
@@ -85,3 +83,24 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/mod007b-gaming-keyboard-akkos-high-performance-review/"><u>Mod007B Gaming Keyboard - Akko's High-Performance Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-the-data-of-xbox-gameplay-duration-reports/"><u>Decoding the Data of Xbox Gameplay Duration Reports</u></a></li>
+<li><a href="https://games-able.techidaily.com/paving-the-way-for-interactive-device-management-barrier-method-revealed/"><u>Paving the Way For Interactive Device Management: Barrier Method Revealed</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-to-steam-playing-game-pass-games-with-glossi-integration/"><u>Xbox to Steam: Playing Game Pass Games with GlosSI Integration</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-crucial-checkpoints-to-validate-your-pc-component-fit/"><u>7 Crucial Checkpoints to Validate Your PC Component Fit</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-steams-bp-display-glitches/"><u>Overcoming Steam's BP Display Glitches</u></a></li>
+<li><a href="https://games-able.techidaily.com/power-up-strategies-maximizing-your-gaming-experience-on-docked-devices/"><u>Power-Up Strategies: Maximizing Your Gaming Experience on Docked Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-battery-boosters-ps5-dualsense-controllers/"><u>Next-Gen Battery Boosters: PS5 DualSense Controllers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-utilizing-instagram-filters-to-elevate-your-photos/"><u>[New] Utilizing Instagram Filters to Elevate Your Photos</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-poco-m6-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Poco M6 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-imagemorph-magic/"><u>2024 Approved  ImageMorph Magic</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-infinix-zero-5g-2023-turbo-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Infinix Zero 5G 2023 Turbo? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/leading-tools-for-instantaneous-gif-to-video-transformation/"><u>Leading Tools for Instantaneous GIF to Video Transformation</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-easy-methods-to-unlock-icloud-locked-apple-iphone-12-proipadipod-by-drfone-ios/"><u>3 Easy Methods to Unlock iCloud Locked Apple iPhone 12 Pro/iPad/iPod</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-the-insiders-move-to-effortless-discord-calls/"><u>[Updated] The Insider's Move to Effortless Discord Calls</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-comparing-igs-new-features-reels-vs-stories/"><u>[New] Comparing IG's New Features  Reels Vs Stories</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-100-by-fonelab-android-recover-data/"><u>How to retrieve lost files from 100?</u></a></li>
+</ul></div>

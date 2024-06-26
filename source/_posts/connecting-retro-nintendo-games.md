@@ -1,7 +1,7 @@
 ---
 title: Connecting Retro Nintendo Games
-date: 2024-06-22 23:47:22
-updated: 2024-06-23 11:28:47
+date: 2024-06-25T12:55:28.917Z
+updated: 2024-06-26T12:55:28.917Z
 tags:
   - games
 categories:
@@ -20,13 +20,13 @@ thumbnail: https://thmb.techidaily.com/795b74ea54cc5678eb54323c8f0f4911a2d522641
 
 ## How to Connect Your Classic Nintendo Controller to Steam
 
- Connecting your Classic Nintendo controller to Steam begins with securing the controller itself. These controllers are only available to those with Nintendo Switch Online subscriptions. So if you don't have one of those yet, here is[everything you need to know about Nintendo Switch Online](https://www.makeuseof.com/tag/nintendo-switch-online-everything-need-know/) .
+ Connecting your Classic Nintendo controller to Steam begins with securing the controller itself. These controllers are only available to those with Nintendo Switch Online subscriptions. So if you don't have one of those yet, here is [everything you need to know about Nintendo Switch Online](https://www.makeuseof.com/tag/nintendo-switch-online-everything-need-know/) .
 
 ![Nintendo Switch Online logo with Mario characters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/09/nintendo-switch-online-characters.jpg)
 
  Image Credit: Nintendo/[YouTube](https://www.youtube.com/watch?v=v6gTTzfs3sI&ab%5Fchannel=NintendoofAmerica)
 
- This subscription does cost money, of course, but if you really just want the controller, you could simply[cancel your Nintendo Switch Online subscription](https://www.makeuseof.com/how-to-cancel-nintendo-switch-online/) after you get your hands on it, and everyone's a winner.
+ This subscription does cost money, of course, but if you really just want the controller, you could simply [cancel your Nintendo Switch Online subscription](https://www.makeuseof.com/how-to-cancel-nintendo-switch-online/) after you get your hands on it, and everyone's a winner.
 
  The next step toward using your Classic Nintendo controller to play Steam games is connecting your controller to your PC. This can only be done via Bluetooth, so if your computer doesn’t support Bluetooth, a Bluetooth dongle might have to make an appearance on your shopping list.
 
@@ -89,3 +89,23 @@ thumbnail: https://thmb.techidaily.com/795b74ea54cc5678eb54323c8f0f4911a2d522641
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/beyond-nvidia-best-gpus-for-enthusiasts/"><u>Beyond Nvidia: Best GPUs for Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-game-access-launcher-setup-on-steam-devices/"><u>Streamlining Game Access: Launcher Setup on Steam Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-new-tvs-and-monitors-at-ifa-2023/"><u>The Best New TVs and Monitors at IFA 2023</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-headset-use-on-xbox-series-xs/"><u>Maximizing Headset Use on Xbox Series X/S</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-gameplay-and-monetization-top-7-bots-for-twitch-enthusiasts/"><u>Elevate Gameplay & Monetization - Top 7 Bots for Twitch Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-browser-showdown-opera-gx-vs-microsofts-edge/"><u>Gaming Browser Showdown: Opera GX vs Microsoft's Edge</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-accessibility-to-mastery-with-ea-play-on-your-ps5-console/"><u>From Accessibility to Mastery with EA Play on Your PS5 Console</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-how-to-share-igtv-videos-to-facebook-3-ways/"><u>In 2024, How to Share IGTV Videos to Facebook [3 Ways]</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-discovering-best-phone-based-asmr-experiences/"><u>2024 Approved  Discovering Best Phone-Based ASMR Experiences</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-realme-c53-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Realme C53 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-best-10-tiktok-layer-filters-amplifying-impact/"><u>[Updated] 2024 Approved  Best 10 TikTok Layer Filters Amplifying Impact</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fostering-collaborations-building-partnerships-to-promote-videos/"><u>[New] In 2024, Fostering Collaborations  Building Partnerships to Promote Videos</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-20-favorite-tiktok-dances-fun-and-simplicity-combined/"><u>In 2024, 20 Favorite TikTok Dances  Fun & Simplicity Combined</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-top-5-guitar-recording-software/"><u>New 2024 Approved Top 5 Guitar Recording Software</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-endless-screen-saving-software/"><u>[Updated] Endless Screen Saving Software</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-adsense-on-youtube-a-beginners-guide/"><u>[Updated] Mastering AdSense on YouTube  A Beginner's Guide</u></a></li>
+</ul></div>

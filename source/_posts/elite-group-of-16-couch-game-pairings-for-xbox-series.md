@@ -1,7 +1,7 @@
 ---
 title: Elite Group of 16 Couch Game Pairings for XBox Series
-date: 2024-06-25T10:37:58.301Z
-updated: 2024-06-26T10:37:58.301Z
+date: 2024-06-25T12:48:33.963Z
+updated: 2024-06-26T12:48:33.963Z
 tags:
   - games
 categories:
@@ -20,13 +20,13 @@ thumbnail: https://thmb.techidaily.com/a3a9fc7f1967fe6814b7bcf229ad0c8c09fecb880
 
 ## 1. LEGO Star Wars: The Skywalker Saga
 
- Frankly, you could pick any of the Traveller's Tales LEGO games and have a wonderful time (they all make for[excellent LEGO gifts](https://www.makeuseof.com/tag/best-lego-gifts/) ), but LEGO Star Wars: The Skywalker Saga is perhaps the best the developer has produced. It collects together all nine Star Wars films in an action-adventure experience designed for co-op, with hundreds of characters and vehicles to try.
+ Frankly, you could pick any of the Traveller's Tales LEGO games and have a wonderful time (they all make for [excellent LEGO gifts](https://www.makeuseof.com/tag/best-lego-gifts/) ), but LEGO Star Wars: The Skywalker Saga is perhaps the best the developer has produced. It collects together all nine Star Wars films in an action-adventure experience designed for co-op, with hundreds of characters and vehicles to try.
 
 ## 2. Rocket League
 
  If you're looking for some kinetic entertainment, you'll find it with the free-to-play Rocket League. You control a fast-paced vehicle, whizzing on the ground and through the air to hit a ball into a goal. It's soccer combined with vehicular chaos. You can either play in couch co-op or against one another.
 
- Rocket League is also one of[the best local multiplayer games for PC](https://www.makeuseof.com/tag/7-best-couch-co-op-games-pc/) . In fact, you can compete against PC players online, thanks to the game's cross compatibility.
+ Rocket League is also one of [the best local multiplayer games for PC](https://www.makeuseof.com/tag/7-best-couch-co-op-games-pc/) . In fact, you can compete against PC players online, thanks to the game's cross compatibility.
 
 ## 3. It Takes Two
 
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/a3a9fc7f1967fe6814b7bcf229ad0c8c09fecb880
 
 ## 4. Cuphead
 
- Cuphead is a difficult yet rewarding platformer that lovingly recreates the style of old hand drawn cartoons. It's inventive and charming, with boss fights so tough that you'll be glad for support from your friend on the couch. Plus, if you enjoy the game, there's an equally[decent Netflix animated series](https://www.makeuseof.com/tag/animated-shows-adults-netflix/) that you can watch together.
+ Cuphead is a difficult yet rewarding platformer that lovingly recreates the style of old hand drawn cartoons. It's inventive and charming, with boss fights so tough that you'll be glad for support from your friend on the couch. Plus, if you enjoy the game, there's an equally [decent Netflix animated series](https://www.makeuseof.com/tag/animated-shows-adults-netflix/) that you can watch together.
 
 ## 5. Overcooked! All You Can Eat
 

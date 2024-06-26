@@ -1,7 +1,7 @@
 ---
 title: What Does It Really Mean to Be Idle in Discord?
-date: 2024-06-22 20:27:26
-updated: 2024-06-24 11:42:16
+date: 2024-06-25T13:17:11.390Z
+updated: 2024-06-26T13:17:11.390Z
 tags:
   - games
 categories:
@@ -48,11 +48,11 @@ thumbnail: https://thmb.techidaily.com/b7025f879b7f69fff163ff4565fc3f42cd715d8a0
 
 ## How to Switch Your Discord Status to Idle
 
- There are a variety of ways to[change your Discord online status](https://www.makeuseof.com/how-to-change-your-discord-online-status/) to reflect your availability on the app.
+ There are a variety of ways to [change your Discord online status](https://www.makeuseof.com/how-to-change-your-discord-online-status/) to reflect your availability on the app.
 
 ![set idle status on discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/set-idle-status-on-discord.png)
 
- If you are using the desktop app, click on your profile icon in the bottom left corner, hover over the**Online** tab, and select**Idle** . There is also the option to[set a custom status on Discord](https://www.makeuseof.com/set-custom-discord-status/) .
+ If you are using the desktop app, click on your profile icon in the bottom left corner, hover over the**Online** tab, and select**Idle** . There is also the option to [set a custom status on Discord](https://www.makeuseof.com/set-custom-discord-status/) .
 
 Close
 
@@ -83,3 +83,22 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/the-unseen-perks-of-foregoing-ray-tracing-in-games/"><u>The Unseen Perks of Foregoing Ray Tracing in Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-errors-on-roblox-262/"><u>Streamlining Errors on Roblox: 262</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlikely-success-5-factors-for-gamefis-lack-of-gamer-fans/"><u>Unlikely Success: 5 Factors for GameFi's Lack of Gamer Fans</u></a></li>
+<li><a href="https://games-able.techidaily.com/end-of-shortage-era-how-will-ps5-retailers-adjust/"><u>End of Shortage Era: How Will PS5 Retailers Adjust?</u></a></li>
+<li><a href="https://games-able.techidaily.com/cross-platform-playmates-top-15-friendly-games-to-share/"><u>Cross-Platform Playmates: Top 15 Friendly Games to Share</u></a></li>
+<li><a href="https://games-able.techidaily.com/erasing-previous-save-files-on-ps5-a-step-by-step-guide/"><u>Erasing Previous Save Files on PS5: A Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-epitome-of-gaming-power-razers-low-latency-v3-pro/"><u>The Epitome of Gaming Power: Razer's Low Latency V3 Pro</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-xiaomi-civi-3-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Xiaomi Civi 3 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-free-m4a-editor-software-top-5-recommendations/"><u>New 2024 Approved Free M4A Editor Software Top 5 Recommendations</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/icon-and-logo-havens-a-guide-to-6-unique-online-resources/"><u>Icon & Logo Havens  A Guide to 6 Unique Online Resources</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-10plus-best-free-video-editing-programs-of-2023/"><u>[Updated] In 2024, 10+ Best Free Video Editing Programs of 2023</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-live-gaming-hubs-the-9-you-cant-miss/"><u>[New] Live Gaming Hubs  The 9 You Can't Miss</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-techniques-for-softening-volume-in-logic-pro-mixing/"><u>[New] Techniques for Softening Volume in Logic Pro Mixing</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-professional-mp3-modification-system-for-the-web/"><u>Updated 2024 Approved Professional MP3 Modification System for the Web</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/az-vision-recorder-complete-application-audits-and-substitutes-for-2024/"><u>AZ Vision Recorder  Complete Application Audits & Substitutes for 2024</u></a></li>
+</ul></div>

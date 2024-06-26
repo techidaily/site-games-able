@@ -1,7 +1,7 @@
 ---
 title: "Avoiding Digital Drain: 6 Healthy Habits for Gamers"
-date: 2024-06-21 14:47:29
-updated: 2024-06-24 11:28:12
+date: 2024-06-25T13:36:21.944Z
+updated: 2024-06-26T13:36:21.944Z
 tags:
   - games
 categories:
@@ -28,9 +28,7 @@ thumbnail: https://thmb.techidaily.com/583e140408c2ec351f3efcf4716a6b87c865b3b8a
 
  The worst thing you can do when you’re feeling burnt out is not change anything. You’ll get immensely stressed and potentially even depressed. If you’re going through gaming burnout, here are some tips to cope with it:
 
-## 1\. Try Out New Platforms and Game Genres
-
-![A photograph of someone playing a Nintendo Switch in handheld mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/alternative-feature-1.jpg)
+## 1\. Try Out New Platforms and Game Genres ![A photograph of someone playing a Nintendo Switch in handheld mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/alternative-feature-1.jpg)
 
  If you’ve played only a few, or maybe just one type of game for a very long time, there might be a point where nothing surprises you anymore. Nothing feels novel, and the newest release feels predictable to you.
 
@@ -40,19 +38,17 @@ thumbnail: https://thmb.techidaily.com/583e140408c2ec351f3efcf4716a6b87c865b3b8a
 
 ![Pokemon game on a Samsung phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/old-pokemon-games-android.jpg)
 
- Of course, there’s also the myriad of retro consoles and handhelds that you can get for cheap. A Sony PSP would be a great deal as you can even[emulate a Game Boy on a PSP](https://www.makeuseof.com/how-to-turn-psp-into-game-boy-emulator/) , giving you a lot more for your purchase. If you don’t want to buy anything at all, you could always[emulate games on your phone](https://www.makeuseof.com/tag/how-to-emulate-old-pokemon-games-android-phone/) .
+ Of course, there’s also the myriad of retro consoles and handhelds that you can get for cheap. A Sony PSP would be a great deal as you can even [emulate a Game Boy on a PSP](https://www.makeuseof.com/how-to-turn-psp-into-game-boy-emulator/) , giving you a lot more for your purchase. If you don’t want to buy anything at all, you could always [emulate games on your phone](https://www.makeuseof.com/tag/how-to-emulate-old-pokemon-games-android-phone/) .
 
 Who knows, you might discover another genre to sink your hours into.
 
-## 2\. Try Indie Games
-
-![collage of indie games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/collage-of-indie-games.jpg)
+## 2\. Try Indie Games ![collage of indie games](https://thmb.techidaily.com/c6507ef1a8c1967e04b9a71ecc3df4d6b245a64121c79bffee638bab85472f90.jpg)
 
  Indie games set themselves apart from big mainstream titles as in many cases, they’re incredibly varied and unique. Indie games aren’t a genre, they’re a whole industry filled with passionate gamers trying to create a game they want to play themselves.
 
  You’ll discover fresh new mechanics, visuals, storytelling, and so much more that can’t be found in most games. What’s great is that there’s usually a tightly-knit community behind them with the creator just a message away for any suggestions and improvements.
 
- Indie games can send you down a rabbit hole of hidden treasures with strong storylines, interesting mechanics, or incredible replayability. Check out these[indie games on Nintendo Switch](https://www.makeuseof.com/best-indie-games-nintendo-switch/) if you want to start somewhere, some of them are also available on PC and other platforms.
+ Indie games can send you down a rabbit hole of hidden treasures with strong storylines, interesting mechanics, or incredible replayability. Check out these [indie games on Nintendo Switch](https://www.makeuseof.com/best-indie-games-nintendo-switch/) if you want to start somewhere, some of them are also available on PC and other platforms.
 
 ## 3\. Set Unique Challenges
 
@@ -62,23 +58,19 @@ Who knows, you might discover another genre to sink your hours into.
 
  There are videos out there with people playing shooters on a wheel, Resident Evil on a dance pad, and other silly things. You don’t have to go as far as they do, but if you gather some friends and try it, you’re sure to have an ab-workout from laughing.
 
- If you can’t think of any yet, don’t worry, we have a few[fun gameplay challenges](https://www.makeuseof.com/fun-gameplay-challenges-video-games/) for you to try out.
+ If you can’t think of any yet, don’t worry, we have a few [fun gameplay challenges](https://www.makeuseof.com/fun-gameplay-challenges-video-games/) for you to try out.
 
-## 4\. Avoid Games With Addictive Tactics
-
-![person playing pubg mobile on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/iphone-gameplay.jpg)
+## 4\. Avoid Games With Addictive Tactics ![person playing pubg mobile on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/iphone-gameplay.jpg)
 
  There are so many games nowadays with the sole purpose of making money. They hook you in and keep you locked in with a constant feeling of FOMO (fear of missing out).
 
  They’re engineered to give you controlled dopamine releases, enough to keep you playing the game and dependent on it to chase that feeling. They use that emotion to either make you shell out money or keep grinding and increasing your playtime. This emotional push and pull can be extremely exhausting, both emotionally and physically—eventually leading to burnout.
 
- This is incredibly prevalent in mobile games—and while mobile games aren’t necessarily all bad, you might want to find out the[addicting features of mobile games to look out for](https://www.makeuseof.com/addictive-features-of-mobile-games-to-watch-out-for/) . Gacha games that are practically gambling simulators and games that urge you to pay attention to an “emergency” can take control over your life.
+ This is incredibly prevalent in mobile games—and while mobile games aren’t necessarily all bad, you might want to find out the [addicting features of mobile games to look out for](https://www.makeuseof.com/addictive-features-of-mobile-games-to-watch-out-for/) . Gacha games that are practically gambling simulators and games that urge you to pay attention to an “emergency” can take control over your life.
 
  If you have a bad relationship with addicting games, the next tip might be important for you as well.
 
-## 5\. Take a Break
-
-![Camping chair with a smart water bottle on the table near river shore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Camping-chair-with-a-smart-water-bottle-on-the-table-near-river-shore.jpg)
+## 5\. Take a Break ![Camping chair with a smart water bottle on the table near river shore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Camping-chair-with-a-smart-water-bottle-on-the-table-near-river-shore.jpg)
 
  Taking a break is definitely a solution if you’re feeling burnt out, especially if it’s caused by a dependence or addiction.
 
@@ -86,9 +78,7 @@ Who knows, you might discover another genre to sink your hours into.
 
  The duration of your break will depend entirely on you. For some people, a day off is enough, but some might want to take longer breaks. If you’re taking a break because of addiction or dependence
 
-## 6\. Take Things Less Seriously
-
-![Man looking horrified at a computer screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/man-looking-horrified-at-a-computer-screen.jpg)
+## 6\. Take Things Less Seriously ![Man looking horrified at a computer screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/man-looking-horrified-at-a-computer-screen.jpg)
 
  As someone who has hit their table out of frustration in Counter-Strike, taking things less seriously has improved my gaming experience.
 
@@ -121,3 +111,27 @@ Who knows, you might discover another genre to sink your hours into.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/unraveling-cloud-synch-issues-in-steam-devices/"><u>Unraveling Cloud Synch Issues in Steam Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/bringing-pc-gaming-power-to-your-iphone-with-geforce-now/"><u>Bringing PC Gaming Power to Your iPhone with GeForce Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-guide-joysticks-vs-controllers-in-fights/"><u>Gamer's Guide: Joysticks Vs. Controllers in Fights</u></a></li>
+<li><a href="https://games-able.techidaily.com/break-the-chains-of-a-locked-steam-service-with-7-effective-actions/"><u>Break the Chains of a Locked Steam Service with 7 Effective Actions</u></a></li>
+<li><a href="https://games-able.techidaily.com/bypass-the-big-apples-social-hierarchy-with-these-tips/"><u>Bypass the Big Apple's Social Hierarchy with These Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/sonys-mobile-entertainment-hub-the-vita/"><u>Sony's Mobile Entertainment Hub: The Vita</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-offline-gaming-guide-for-your-iphoneipad/"><u>Exclusive Offline Gaming Guide for Your iPhone/iPad</u></a></li>
+<li><a href="https://games-able.techidaily.com/guide-to-personalizing-console-lighting-on-microsoft-devices/"><u>Guide to Personalizing Console Lighting on Microsoft Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/clearing-glitches-mastery-of-ps5-gamepad-restart/"><u>Clearing Glitches: Mastery of PS5 Gamepad Restart</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-edge-guide-for-gaming-browser-enthusiasts/"><u>The Ultimate Edge Guide for Gaming Browser Enthusiasts</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-melody-remixes-the-years-unforgettable-tik-tok-beats-and-rhythms/"><u>2024 Approved  Melody Remixes  The Year's Unforgettable Tik Tok Beats and Rhythms</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-how-to-send-a-snap-from-memoriescamera-roll-on-snapchat/"><u>[Updated] 2024 Approved  How to Send a Snap From Memories/Camera Roll on Snapchat</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-cheat-sheet-for-using-movie-maker-on-win11/"><u>The Ultimate Cheat Sheet for Using Movie Maker on Win11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-se-2020-withwithout-sim-card-by-drfone-ios/"><u>How to Unlock iPhone SE (2020) with/without SIM Card</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-top-rated-free-video-editing-tools-for-mp4-files-for-2024/"><u>Updated Top-Rated Free Video Editing Tools for MP4 Files for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-trim-your-videos-like-a-pro-best-free-windows-10-video-editors/"><u>Updated In 2024, Trim Your Videos Like a Pro Best Free Windows 10 Video Editors</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-honor-v-purse-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Honor V Purse Phone Screen?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-breaking-top-tiktok-videos-making-twitter-shout-for-2024/"><u>[New] Breaking  Top TikTok Videos Making Twitter Shout for 2024</u></a></li>
+</ul></div>

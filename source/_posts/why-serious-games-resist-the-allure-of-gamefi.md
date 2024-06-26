@@ -1,7 +1,7 @@
 ---
 title: Why Serious Games Resist the Allure of GameFi
-date: 2024-06-23 18:23:50
-updated: 2024-06-24 12:45:31
+date: 2024-06-25T13:27:07.228Z
+updated: 2024-06-26T13:27:07.229Z
 tags:
   - games
 categories:
@@ -31,9 +31,9 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 
  GameFi ([short for gaming finance](https://www.makeuseof.com/what-is-gamefi/) ) is a blend of the gaming and decentralized finance (DeFi) industries, wherein users can play games to earn crypto tokens and other decentralized assets, such as NFTs. GameFi allows blockchain-based apps to shift into the gaming industry, attracting users with the lure of digital tokens.
 
- GameFi is also known as[play-to-earn (P2E)](https://www.makeuseof.com/are-play-to-earn-games-legit/) . P2E games often look and perform like typical games, with the tokenomics element usually being the only difference.
+ GameFi is also known as [play-to-earn (P2E)](https://www.makeuseof.com/are-play-to-earn-games-legit/) . P2E games often look and perform like typical games, with the tokenomics element usually being the only difference.
 
- Some notable examples of[popular P2E games](https://www.makeuseof.com/top-play-to-earn-mobile-crypto-games/) are Axie Infinity, Star Atlas, and Tamadodge. Each of these games has one or more of their own token types that users can earn. Some games, including Axie Infinity, reward winners with NFTs that they can sell for Ethereum or another cryptocurrency.
+ Some notable examples of [popular P2E games](https://www.makeuseof.com/top-play-to-earn-mobile-crypto-games/) are Axie Infinity, Star Atlas, and Tamadodge. Each of these games has one or more of their own token types that users can earn. Some games, including Axie Infinity, reward winners with NFTs that they can sell for Ethereum or another cryptocurrency.
 
  In P2E games, almost everything can be tokenized, from avatars to weapons to land. You can often receive these assets by completing quests and winning tournaments, but the nature of the P2E model changes from game to game.
 
@@ -45,13 +45,11 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 
  This naturally affects GameFi, as many P2E games reward users with crypto tokens. If a GameFi token's price increases, that's great news for gamers. But as we all know, cryptocurrency price drops and market crashes are by no means rare. If an individual spends hours building a solid holding of assets by playing a P2E game, much of their time and effort will go to waste if the reward token loses a large chunk of its value.
 
- Even if a P2E game solely rewards users with NFTs, cryptocurrency price fluctuations directly affect how much a user can get through the sale of their P2E NFTs. For instance, if an NFT is worth 2 ETH and Ethereum's price drops by 10%, the NFT owner stands to lose 10% of their original profit when they[sell this NFT on a marketplace](https://www.makeuseof.com/best-nft-marketplaces-buying-all-kinds-digital-assets/) like OpenSea.
+ Even if a P2E game solely rewards users with NFTs, cryptocurrency price fluctuations directly affect how much a user can get through the sale of their P2E NFTs. For instance, if an NFT is worth 2 ETH and Ethereum's price drops by 10%, the NFT owner stands to lose 10% of their original profit when they [sell this NFT on a marketplace](https://www.makeuseof.com/best-nft-marketplaces-buying-all-kinds-digital-assets/) like OpenSea.
 
  GameFi developers could aim to adopt stablecoins over regular cryptos in P2E games, as this provides more price stability and protects users from really suffering when the market turns downward.
 
-## 2\. Scams
-
-![person having crypto stolen from laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/crypto-scams-social-media.jpg)
+## 2\. Scams ![person having crypto stolen from laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/crypto-scams-social-media.jpg)
 
  Scams are, unfortunately, native to the crypto realm, and GameFi is no exception to this rule. If there's money to be stolen, chances are criminals will find some way to access it.
 
@@ -83,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 
 ### 5\. Lack of Regulation
 
- Cryptocurrency and DeFi already lack proper regulation (though[crypto regulation may soon change](https://www.makeuseof.com/is-government-sec-going-to-regulate-cryptocurrency/) ), but GameFi, a newer addition to the blockchain industry, suffers from this issue even more.
+ Cryptocurrency and DeFi already lack proper regulation (though [crypto regulation may soon change](https://www.makeuseof.com/is-government-sec-going-to-regulate-cryptocurrency/) ), but GameFi, a newer addition to the blockchain industry, suffers from this issue even more.
 
  In the US, no specific legal regulations surround GameFi, which could allow malicious actors to get away with a fair few swindles. Even legitimate game developers may be able to wriggle through a few loopholes without proper regulation, leaving gamers worse off.
 
@@ -126,3 +124,27 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/premier-anti-blue-radiation-frames/"><u>Premier Anti-Blue Radiation Frames</u></a></li>
+<li><a href="https://games-able.techidaily.com/five-reasons-against-gamefis-widespread-allure/"><u>Five Reasons Against GameFi's Widespread Allure</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-twitch-experience-with-smartphone-streaming/"><u>Elevate Your Twitch Experience with Smartphone Streaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/linkedin-gaming-feature-a-cautionary-note-for-job-hunters/"><u>LinkedIn Gaming Feature: A Cautionary Note for Job Hunters</u></a></li>
+<li><a href="https://games-able.techidaily.com/quickening-online-interactions-diminishing-extensive-data-transmission-delay/"><u>Quickening Online Interactions: Diminishing Extensive Data Transmission Delay</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-third-party-controller-ban-consequences-for-gamers/"><u>Xbox Third-Party Controller Ban – Consequences for Gamers?</u></a></li>
+<li><a href="https://games-able.techidaily.com/newer-generation-question-can-you-run-classic-ps3-titles-on-ps4/"><u>Newer Generation Question: Can You Run Classic PS3 Titles on PS4</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-6-curious-chess-programs-with-ai-matches/"><u>Dive Into 6 Curious Chess Programs with AI Matches</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-ssd-brands-for-ps5-gamers/"><u>Best SSD Brands for PS5 Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-xbox-controller-inconsistency/"><u>Troubleshooting Xbox Controller Inconsistency</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-essential-audio-enhancement-apps-for-youtubers-videos/"><u>[Updated] 2024 Approved  Essential Audio Enhancement Apps for YouTubers' Videos</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-maximizing-youtube-visibility-with-key-hashtags/"><u>2024 Approved  Maximizing YouTube Visibility with Key #Hashtags</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Honor Magic 6 Lite? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-from-novice-to-pro-building-an-insta-highlight-showcase/"><u>[New] 2024 Approved  From Novice to Pro  Building an Insta Highlight Showcase</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-honor-magic-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-decoding-the-economic-incentives-behind-youtubes-shorts-programme/"><u>2024 Approved  Decoding the Economic Incentives Behind YouTube's Shorts Programme</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-mastering-money-making-top-13-strategies-for-novice-reddit-users/"><u>In 2024, Mastering Money-Making  Top 13 Strategies for Novice Reddit Users</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/integrated-content-the-brands-on-youtube-movement-for-2024/"><u>Integrated Content  The Brands on YouTube Movement for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-pinnacle-chroma-modifier/"><u>In 2024, Pinnacle Chroma Modifier</u></a></li>
+</ul></div>

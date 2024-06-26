@@ -1,7 +1,7 @@
 ---
 title: "From Vintage to Virtual: Using EmuDeck for Game Emulation"
-date: 2024-06-23 21:44:22
-updated: 2024-06-24 11:22:45
+date: 2024-06-25T13:03:57.195Z
+updated: 2024-06-26T13:03:57.195Z
 tags:
   - games
 categories:
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/128652f3635b5c02571aebd32ea42bdf5de3d8228
 
  EmuDeck manages the installation and folder structure for emulators. Keeping in mind that the Steam Deck utilizes a Linux-based operating system by default, having these aspects managed for you can be a huge help.
 
- There are a number of[emulators you can use with the Steam Deck](https://www.makeuseof.com/best-emulators-for-steam-deck/) . But EmuDeck goes a step further and manages updates and third-party tool integration.
+ There are a number of [emulators you can use with the Steam Deck](https://www.makeuseof.com/best-emulators-for-steam-deck/) . But EmuDeck goes a step further and manages updates and third-party tool integration.
 
  Are there any downsides to EmuDeck? The main downside is that you'll likely get many more emulators installed than you plan on using. Thankfully, these can be uninstalled and trimmed down after initial setup.
 
@@ -43,15 +43,13 @@ thumbnail: https://thmb.techidaily.com/128652f3635b5c02571aebd32ea42bdf5de3d8228
 
 ## How to Set Up EmuDeck on a Steam Deck
 
- EmuDeck requires that you know your way around desktop mode before you're able to set it up. Before we go any further, make sure you're comfortable[using the Steam Deck as a desktop device](https://www.makeuseof.com/tips-use-steam-deck-desktop-mode-without-dock/) .
+ EmuDeck requires that you know your way around desktop mode before you're able to set it up. Before we go any further, make sure you're comfortable [using the Steam Deck as a desktop device](https://www.makeuseof.com/tips-use-steam-deck-desktop-mode-without-dock/) .
 
  To get started, switch to Desktop Mode by holding the power button down and selecting**Switch to Desktop.**
 
-### 1\. Install and Set Up EmuDeck
+### 1\. Install and Set Up EmuDeck ![screenshot of the emudeck install package on the steam deck desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emudeck_install_package_on_desktop.jpg)
 
-![screenshot of the emudeck install package on the steam deck desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emudeck_install_package_on_desktop.jpg)
-
- Once you've switched to Desktop Mode, you'll need to head to the[EmuDeck website](https://www.emudeck.com) and download the install package. Make sure you do this on your actual Steam Deck, unless you're willing to copy it over from another device.
+ Once you've switched to Desktop Mode, you'll need to head to the [EmuDeck website](https://www.emudeck.com) and download the install package. Make sure you do this on your actual Steam Deck, unless you're willing to copy it over from another device.
 
  This install package will need to be placed on your Steam Deck's desktop before you run it. You'll find this file in your**Downloads** folder unless saved elsewhere. Drag and drop this file onto the desktop. It's important to do this because the script will not run otherwise.
 
@@ -91,9 +89,7 @@ We'll choose easy mode, as it's the most straightforward.
 
  With that, you have everything you need to get the emulation going. There's still one more step to completing the Steam Deck emulation experience, though.
 
-### 3\. Add Emulators to Your Steam Deck's Gaming Mode
-
-![screenshot of emulator categories on the steam deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emulators_on_steam_deck.jpg)
+### 3\. Add Emulators to Your Steam Deck's Gaming Mode ![screenshot of emulator categories on the steam deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emulators_on_steam_deck.jpg)
 
  So now you have a bunch of emulators installed. But you don't really want to launch into desktop mode every time you want to play them.
 
@@ -128,3 +124,24 @@ We'll choose easy mode, as it's the most straightforward.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/seamless-gaming-experience-overcoming-chrome-obstacles/"><u>Seamless Gaming Experience: Overcoming Chrome Obstacles</u></a></li>
+<li><a href="https://games-able.techidaily.com/secure-gaming-experience-reasons-to-ditch-ps5-mics/"><u>Secure Gaming Experience: Reasons to Ditch PS5 Mics</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essential-manual-for-xbox-one-connections/"><u>The Essential Manual for Xbox One Connections</u></a></li>
+<li><a href="https://games-able.techidaily.com/hall-effect-keys-in-focus-review-of-modular-board-mod007b/"><u>Hall Effect Keys in Focus - Review of Modular Board MOD007B</u></a></li>
+<li><a href="https://games-able.techidaily.com/ioss-gaming-extravaganza-why-i-subscribe-to-apple-arcade/"><u>IOS's Gaming Extravaganza: Why I Subscribe to Apple Arcade</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-steam-decks-best-friend-emulating-games-via-emudeck/"><u>A Steam Deck's Best Friend: Emulating Games via EmuDeck</u></a></li>
+<li><a href="https://games-able.techidaily.com/win-more-points-top-achievement-hunt-websites-for-gamerscore/"><u>Win More Points: Top Achievement Hunt Websites for Gamerscore</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-nyts-strands-an-expert-tutorial-for-word-games-enthusiasts/"><u>Mastering NYT's 'Strands': An Expert Tutorial for Word Games Enthusiasts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-art-of-dialogue-in-film-and-theatre/"><u>[New] The Art of Dialogue in Film and Theatre</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-digital-darling-list-top-viewed-on-fb/"><u>2024 Approved  Digital Darling List  Top Viewed on FB</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-filmmakers-first-steps-learning-15-fundamental-shots/"><u>The Filmmaker's First Steps  Learning 15 Fundamental Shots</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Sony Xperia 10 V? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-reel-your-audience-in-creating-dynamic-reaction-content-on-youtube-2-pov-technique/"><u>In 2024, Reel Your Audience In  Creating Dynamic Reaction Content on YouTube (2 POV Technique)</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/2024-approved-the-best-of-the-best-top-stop-motion-animation-software-for-mac-and-pc/"><u>2024 Approved The Best of the Best Top Stop Motion Animation Software for Mac and PC</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-ultimate-11-strategies-for-impeccable-color-balancing/"><u>In 2024, Unveiling the Ultimate 11 Strategies for Impeccable Color Balancing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-realme-11-proplus-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from Realme 11 Pro+.</u></a></li>
+</ul></div>

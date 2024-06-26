@@ -1,7 +1,7 @@
 ---
 title: Cross-Border Play on Your Nintendo Switch Console
-date: 2024-06-25T10:42:07.628Z
-updated: 2024-06-26T10:42:07.628Z
+date: 2024-06-25T12:48:36.663Z
+updated: 2024-06-26T12:48:36.663Z
 tags:
   - games
 categories:
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/40d2bba30d8d7204e00531f0c8ae5a0019fd1a940
 
  Changing regions on your Nintendo Switch differs depending on what you want to do. If you want to play a game bought in another country, you need to change your region via the**System Settings** on your Switch. This is the only way to play games from another region.
 
- But if you want to browse the eShop in another region you'll need to create a new Nintendo account. This will allow you to play region-locked games or access regional discounts to[save money on Switch games](https://www.makeuseof.com/how-to-save-money-on-nintendo-switch-games/) , as the Nintendo eShop always defaults to the region associated with your account.
+ But if you want to browse the eShop in another region you'll need to create a new Nintendo account. This will allow you to play region-locked games or access regional discounts to [save money on Switch games](https://www.makeuseof.com/how-to-save-money-on-nintendo-switch-games/) , as the Nintendo eShop always defaults to the region associated with your account.
 
 ![A photo of a Nintendo Switch with accessories and red and blue Joy Cons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/stock-switch.jpg)
 
@@ -55,13 +55,13 @@ thumbnail: https://thmb.techidaily.com/40d2bba30d8d7204e00531f0c8ae5a0019fd1a940
 
 ## How to Browse the Nintendo eShop From Another Region
 
- To browse the Nintendo eShop from another region, you'll first need to set up a brand-new Nintendo account and associate your new account with the region you wish to access. To do this, go to the official account creation page provided by[Nintendo](https://accounts.nintendo.com/authorize%5Fage%5Fgate%5Fus?) .
+ To browse the Nintendo eShop from another region, you'll first need to set up a brand-new Nintendo account and associate your new account with the region you wish to access. To do this, go to the official account creation page provided by [Nintendo](https://accounts.nintendo.com/authorize%5Fage%5Fgate%5Fus?) .
 
  Follow the on-screen commands, entering your**Date of birth** and**Gender** , for instance. But crucially, once you reach the option for**Country/region of residence** , select the desired region you want to access the eShop with.
 
 ![A screenshot of the options for regions when creating an online Nintendo Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2668.jpg)
 
- Once you have created a new Nintendo account linked to a certain region, you'll need to[add a new user to your Nintendo Switch](https://www.makeuseof.com/how-to-add-another-profile-nintendo-switch/) . Here are the basic steps:
+ Once you have created a new Nintendo account linked to a certain region, you'll need to [add a new user to your Nintendo Switch](https://www.makeuseof.com/how-to-add-another-profile-nintendo-switch/) . Here are the basic steps:
 
 1. Select**System Settings** from the Home screen of your Nintendo Switch.
 2. Highlight the options for**User** and select**Add User** .  

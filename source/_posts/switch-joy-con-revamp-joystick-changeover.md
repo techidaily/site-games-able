@@ -1,7 +1,7 @@
 ---
 title: "Switch Joy-Con Revamp: Joystick Changeover"
-date: 2024-06-23 14:33:45
-updated: 2024-06-24 10:57:49
+date: 2024-06-25T13:05:12.124Z
+updated: 2024-06-26T13:05:12.124Z
 tags:
   - games
 categories:
@@ -26,9 +26,9 @@ thumbnail: https://thmb.techidaily.com/46c850237c04863ff656e578f32b008a00b71b463
 
 ![Close up of Nintendo Switch Pikachu and Eevee Joy Cons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Close-up-of-Nintendo-Switch-Pikachu-and-Eeve-joy-cons.jpg)
 
- Once a Joy-Con has drift, there is little you can do to fix it. There are, however, several tricks you can try to[fix Joy-Con drift on your Nintendo Switch](https://www.makeuseof.com/ways-to-fix-joy-con-drift-nintendo-switch/) before you open it up and take matters into your own hands. The first thing you should try when you notice drift in your Joy-Con is to calibrate them using the calibration tool in the Switch’s menu. That may help for a while, but it is more of a Band-Aid and doesn’t fix the root of the issue.
+ Once a Joy-Con has drift, there is little you can do to fix it. There are, however, several tricks you can try to [fix Joy-Con drift on your Nintendo Switch](https://www.makeuseof.com/ways-to-fix-joy-con-drift-nintendo-switch/) before you open it up and take matters into your own hands. The first thing you should try when you notice drift in your Joy-Con is to calibrate them using the calibration tool in the Switch’s menu. That may help for a while, but it is more of a Band-Aid and doesn’t fix the root of the issue.
 
- You can also[send your Joy-Con away for a free repair](https://www.makeuseof.com/how-to-send-joy-cons-off-for-free-repair/) . This is a great service, but you aren’t guaranteed to receive the same Joy-Con back. So, if you send a limited edition pair, there is a chance you may get the classic red and blue Joy-Con back. Some gamers aren’t willing to take that risk.
+ You can also [send your Joy-Con away for a free repair](https://www.makeuseof.com/how-to-send-joy-cons-off-for-free-repair/) . This is a great service, but you aren’t guaranteed to receive the same Joy-Con back. So, if you send a limited edition pair, there is a chance you may get the classic red and blue Joy-Con back. Some gamers aren’t willing to take that risk.
 
  When all the above methods fail, learning how to replace your faulty joysticks yourself is the best option. It is worth noting, however, that doing so voids your warranty. But if your warranty has already run out, and you would rather fix your pair for around $10.00 rather than pay $79.99 for a new set, you don’t really have much to lose.
 
@@ -80,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/46c850237c04863ff656e578f32b008a00b71b463
 
 ![How to calibrate controller on Nintendo Switch Calibrate Control Sticks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/how-to-calibrate-controller-on-nintendo-switch-calibrate-control-sticks.jpg)
 
- As simple as replacing your joystick is, it's not ideal to have to repeat the process frequently. Make sure to regularly[clean your Nintendo Switch and Joy-Con](https://www.makeuseof.com/how-to-safely-clean-nintendo-switch-and-joy-cons/) to prevent dust buildup and increase the longevity of your joysticks.
+ As simple as replacing your joystick is, it's not ideal to have to repeat the process frequently. Make sure to regularly [clean your Nintendo Switch and Joy-Con](https://www.makeuseof.com/how-to-safely-clean-nintendo-switch-and-joy-cons/) to prevent dust buildup and increase the longevity of your joysticks.
 
 ## Say Goodbye to Joy-Con Drift Forever With This Guide
 
@@ -103,3 +103,27 @@ thumbnail: https://thmb.techidaily.com/46c850237c04863ff656e578f32b008a00b71b463
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/speedy-game-management-with-steams-space-toolkit/"><u>Speedy Game Management with Steam's Space Toolkit</u></a></li>
+<li><a href="https://games-able.techidaily.com/win-11-bring-back-old-gaming-memories-via-pics-folder/"><u>Win 11 - Bring Back Old Gaming Memories via Pics Folder</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigate-the-virtual-world-offline-top-gaming-apps/"><u>Navigate the Virtual World Offline - Top Gaming Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-use-playstation-4-on-your-windows-or-macos-device/"><u>How to Use PlayStation 4 on Your Windows or macOS Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-xbox-enclosures/"><u>Understanding Xbox Enclosures</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-upside-of-staggered-game-drops/"><u>The Upside of Staggered Game Drops</u></a></li>
+<li><a href="https://games-able.techidaily.com/no-sub-to-ea-play-with-skyrocketing-fees/"><u>No Sub to EA Play With Skyrocketing Fees</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-pc-to-phone-in-a-flash-play-steam-games-with-link/"><u>From PC to Phone in a Flash: Play Steam Games with Link</u></a></li>
+<li><a href="https://games-able.techidaily.com/rewind-time-how-to-revert-a-ps4s-default-settings/"><u>Rewind Time: How to Revert a PS4's Default Settings</u></a></li>
+<li><a href="https://games-able.techidaily.com/real-or-fake-can-am08-pro-determine-quality-of-acemagic/"><u>Real or Fake: Can AM08 Pro Determine Quality of AceMagic?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-csv-file-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign a .csv file document online</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleashing-funimate-on-android-step-by-step-apk-tutorial/"><u>[New] Unleashing Funimate on Android - Step-by-Step APK Tutorial</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-samsung-galaxy-a54-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Samsung Galaxy A54 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-aerial-imaging-face-off-dji-fpv-vs-gopro-max-x/"><u>[New] Aerial Imaging Face-Off  DJi FPV vs GoPro Max X</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-a-simple-tutorial-starting-screen-recording-on-mac/"><u>[New] In 2024, A Simple Tutorial  Starting Screen Recording on Mac</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-itel-a60-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Itel A60 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-record-super-slow-motion-videos-on-your-huaweisamsungiphone/"><u>In 2024, How to Record Super Slow Motion Videos on Your Huawei/Samsung/iPhone?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/unveiling-the-revised-sony-s3700-experience-for-2024/"><u>Unveiling the Revised Sony S3700 Experience for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-avoiding-pitfalls-understanding-youtube-standards/"><u>2024 Approved  Avoiding Pitfalls  Understanding YouTube Standards</u></a></li>
+</ul></div>

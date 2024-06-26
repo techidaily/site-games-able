@@ -1,7 +1,7 @@
 ---
 title: Vintage Video/Game Files on Your Windows Photo Folder
-date: 2024-06-20 21:21:50
-updated: 2024-06-23 11:59:37
+date: 2024-06-25T13:35:14.781Z
+updated: 2024-06-26T13:35:14.781Z
 tags:
   - games
 categories:
@@ -26,11 +26,9 @@ thumbnail: https://thmb.techidaily.com/45a1f9697d2bdeb16116c56d8bb656d37d6c88757
 
  This is a compatibility measure, intended to allow programs designed for older Windows versions to still work. Unfortunately, this can create new issues for older programs.
 
-## How to Give Read Access Rights for Older Games
+## How to Give Read Access Rights for Older Games ![screenshot of my pictures folder modifying permission](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_my_pictures_folder_modifying_permissions.jpg)
 
-![screenshot of my pictures folder modifying permission](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_my_pictures_folder_modifying_permissions.jpg)
-
- The easiest way to enable older games to read the My Pictures folder is to grant global read permissions to this folder. This is a similar process to[solving "Access Denied" folder errors in Windows](https://www.makeuseof.com/tag/fix-access-denied-folders-windows-10/) .
+ The easiest way to enable older games to read the My Pictures folder is to grant global read permissions to this folder. This is a similar process to [solving "Access Denied" folder errors in Windows](https://www.makeuseof.com/tag/fix-access-denied-folders-windows-10/) .
 
  Start by right-clicking the My Pictures folder and hitting**Properties.** Then open the**Security** tab and click**Advanced.**
 
@@ -85,3 +83,24 @@ thumbnail: https://thmb.techidaily.com/45a1f9697d2bdeb16116c56d8bb656d37d6c88757
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/unlocking-gaming-potential-with-apples-game-mode-in-sonoma-os/"><u>Unlocking Gaming Potential with Apple's Game Mode in Sonoma OS</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-gaming-with-chatgpt-the-top-6-titles/"><u>Explore Gaming with ChatGPT: The Top 6 Titles!</u></a></li>
+<li><a href="https://games-able.techidaily.com/keeping-it-classic-chdman-guide-for-small-sized-retro-gaming-discs/"><u>Keeping It Classic: CHDMAN Guide for Small-Sized Retro Gaming Discs</u></a></li>
+<li><a href="https://games-able.techidaily.com/white-power-white-dollars-gadgets-for-the-thrifty-techie/"><u>White Power, White Dollars: Gadgets for the Thrifty Techie</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-the-top-tier-games-in-apples-game-library/"><u>Unlocking the Top-Tier Games in Apple's Game Library</u></a></li>
+<li><a href="https://games-able.techidaily.com/disc-freeze-the-simple-eject-on-xbox-s/"><u>Disc Freeze? The Simple Eject on Xbox S</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-connect-a-ps4-or-ps5-controller-to-your-nintendo-switch/"><u>How to Connect a PS4 or PS5 Controller to Your Nintendo Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/bounce-back-iphoneandroid-wordle-streaks-lost/"><u>Bounce Back: IPhone/Android Wordle Streaks Lost</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-quicktweetgrabber-swiftly-secure-tweets-videos-on-iphone/"><u>[Updated] QuickTweetGrabber  Swiftly Secure Tweets' Videos on iPhone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/from-novice-to-pro-building-perfect-circles-and-spheres-in-mc-for-2024/"><u>From Novice to Pro  Building Perfect Circles & Spheres in MC for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-crafting-cinematic-magic-essential-tips-for-creating-stunning-slow-motion-media-on-instagram/"><u>[Updated] 2024 Approved  Crafting Cinematic Magic  Essential Tips for Creating Stunning Slow-Motion Media on Instagram</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-asus-proart-pa-329q-professional-4k-monitor-review/"><u>In 2024, Asus ProArt PA 329Q Professional 4K Monitor Review</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-efficient-sound-management-cutting-down-video-audio-in-imovie-across-mac-and-iphone-for-2024/"><u>Updated Efficient Sound Management Cutting Down Video Audio in iMovie Across Mac and iPhone for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-meizu-21-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Meizu 21 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-achieving-professional-audio-in-home-recording-studios/"><u>[New] Achieving Professional Audio in Home Recording Studios</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-break-barriers-enhancing-live-social-media-collaborations-for-2024/"><u>[New] Break Barriers  Enhancing Live Social Media Collaborations for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Hacks to do pokemon go trainer battles For Apple iPhone 15 Pro | Dr.fone</u></a></li>
+</ul></div>

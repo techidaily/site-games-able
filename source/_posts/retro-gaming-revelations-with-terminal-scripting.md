@@ -1,7 +1,7 @@
 ---
 title: Retro Gaming Revelations with Terminal Scripting
-date: 2024-06-23 23:27:29
-updated: 2024-06-24 12:21:31
+date: 2024-06-25T13:36:46.513Z
+updated: 2024-06-26T13:36:46.513Z
 tags:
   - games
 categories:
@@ -28,15 +28,15 @@ thumbnail: https://thmb.techidaily.com/053654aac9195ea45d1f77852c408a3b2770cc6c8
 
  By running an emulator in your terminal, you can run every single one of these, transforming your terminal into an extensive library of playable games.
 
- As the name suggests, php-terminal-gameboy-emulator is written in PHP—a language[usually used to create websites](https://www.makeuseof.com/tag/build-simple-php-website/) —and although the project's readme only states that it supports PHP 5.6, PHP 7, and HHVM, we've had it running almost flawlessly on PHP versions up to 8.2.
+ As the name suggests, php-terminal-gameboy-emulator is written in PHP—a language [usually used to create websites](https://www.makeuseof.com/tag/build-simple-php-website/) —and although the project's readme only states that it supports PHP 5.6, PHP 7, and HHVM, we've had it running almost flawlessly on PHP versions up to 8.2.
 
- With php-terminal-gameboy-emulator, you're not limited to your computer either and can run sessions over[Secure Shell (SSH)](https://www.makeuseof.com/learn-how-to-manage-remote-access-via-ssh/) on remote machines.
+ With php-terminal-gameboy-emulator, you're not limited to your computer either and can run sessions over [Secure Shell (SSH)](https://www.makeuseof.com/learn-how-to-manage-remote-access-via-ssh/) on remote machines.
 
  Because it's running in a terminal, your Game Boy games won't have any sound, but we're sure you can hum the Tetris theme tune.
 
  You also won't be able to save games. If these limitations are too restrictive, there are dozens of excellent emulators available on Linux.
 
- You should only use ROMS you legally own. You can find a huge variety of homebrew Game Boy ROMS at[Homebrew Hub](https://hh.gbdev.io/) .
+ You should only use ROMS you legally own. You can find a huge variety of homebrew Game Boy ROMS at [Homebrew Hub](https://hh.gbdev.io/) .
 
 ## How to Install php-terminal-gameboy-emulator on Linux
 
@@ -121,3 +121,27 @@ Make it executable with:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/revealing-gaming-cost-chronicles-on-steam-service/"><u>Revealing Gaming Cost Chronicles on Steam Service</u></a></li>
+<li><a href="https://games-able.techidaily.com/emulating-vintage-gaming-the-power-of-xemu-for-pc/"><u>Emulating Vintage Gaming: The Power of Xemu for PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-steams-bp-display-glitches/"><u>Overcoming Steam's BP Display Glitches</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-a-shift-in-strategy-is-crucial-for-microsofts-xbox-point-program/"><u>Why a Shift in Strategy Is Crucial for Microsoft's Xbox Point Program</u></a></li>
+<li><a href="https://games-able.techidaily.com/joining-worlds-together-using-ps5-controller-on-windows-pc/"><u>Joining Worlds Together: Using PS5 Controller on Windows PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/constraining-background-observations-by-game-bar-on-os-11/"><u>Constraining Background Observations by Game Bar on OS 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimize-your-gaming-setup-mastering-game-pass-for-xs-and-x/"><u>Optimize Your Gaming Setup: Mastering Game Pass for XS and X</u></a></li>
+<li><a href="https://games-able.techidaily.com/revitalize-your-console-fixing-broken-xbox-sandx/"><u>Revitalize Your Console: Fixing Broken Xbox S&X</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-great-sound-from-mmx-200/"><u>Unleashing Great Sound From MMX 200</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-will-amds-new-anti-aliasing-solution-fsr-3-compete-with-nvidias-dlss-35/"><u>How Will AMD’s New Anti-Aliasing Solution, FSR 3 Compete with NVIDIA's DLSS 3.5?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-lava-blaze-pro-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Lava Blaze Pro 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twitter-account-launch-a-beginners-roadmap/"><u>[New] In 2024, Twitter Account Launch  A Beginner's Roadmap</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-stealthy-strategies-for-eliminating-hashtags/"><u>[New] Stealthy Strategies for Eliminating Hashtags</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-vivo-y02t-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Vivo Y02T Phone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-archivists-collection-essential-retro-visual-hacks-for-video-editors/"><u>[New] 2024 Approved  The Archivist's Collection  Essential Retro Visual Hacks for Video Editors</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-monitor-magic-asuss-mg28uq-review-reveals-a-new-vision-era/"><u>[New] Monitor Magic – ASUS's MG28UQ Review Reveals a New Vision Era</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-graph-gems-2017s-statistical-youtube-surprises/"><u>[New] Graph Gems  2017'S Statistical YouTube Surprises</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-the-art-of-action-shots-with-gopro-for-2024/"><u>Mastering the Art of Action Shots with GoPro for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-exporting-snapchat-content-to-your-phones-gallery/"><u>[Updated] In 2024, Exporting SnapChat Content to Your Phone's Gallery</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Oppo Find N3 | Dr.fone</u></a></li>
+</ul></div>

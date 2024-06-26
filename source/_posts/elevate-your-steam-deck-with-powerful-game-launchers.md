@@ -1,7 +1,7 @@
 ---
 title: Elevate Your Steam Deck with Powerful Game Launchers
-date: 2024-06-22 18:33:40
-updated: 2024-06-23 12:36:48
+date: 2024-06-25T13:31:57.296Z
+updated: 2024-06-26T13:31:57.296Z
 tags:
   - games
 categories:
@@ -26,13 +26,11 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 
  Linux has had a solution for running just about any Windows program you can imagine before the Steam Deck even released. Lutris is an open gaming platform that can be engineered to run just about any Windows app.
 
- You could follow[Lutris guides for getting different game launchers to run](https://www.makeuseof.com/how-to-play-pc-games-on-linux-with-lutris/) , but many users find Lutris to be a fickle or complicated program to deal with.
+ You could follow [Lutris guides for getting different game launchers to run](https://www.makeuseof.com/how-to-play-pc-games-on-linux-with-lutris/) , but many users find Lutris to be a fickle or complicated program to deal with.
 
 Instead, we have solutions designed specifically for the Steam Deck.
 
-## Heroic Games Launcher for GOG Galaxy, Epic Games Launcher, and Amazon Games
-
-![screenshot of heroic game launcher in the discover store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_heroic_in_discover_store.jpg)
+## Heroic Games Launcher for GOG Galaxy, Epic Games Launcher, and Amazon Games ![screenshot of heroic game launcher in the discover store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_heroic_in_discover_store.jpg)
 
  Heroic Games Launcher is a frontend for three different game launchers, letting you gain access the Epic Games Launcher, GOG Galaxy, and Amazon Games App with one installation.
 
@@ -50,7 +48,7 @@ Instead, we have solutions designed specifically for the Steam Deck.
 
  Once you're logged in to any of the services, you'll start seeing games appear under the**Library** tab. At this stage, games can be installed and will be automatically managed by the Heroic Games Launcher. Relevant Proton layers will be downloaded and applied to ensure compatibility.
 
- Even the free games offered by Epic will show up in your library, so make sure[you're grabbing those freebies from the Epic Games Launcher](https://www.makeuseof.com/how-to-get-free-games-on-the-epic-games-store/) if you're not already.
+ Even the free games offered by Epic will show up in your library, so make sure [you're grabbing those freebies from the Epic Games Launcher](https://www.makeuseof.com/how-to-get-free-games-on-the-epic-games-store/) if you're not already.
 
  One last change you'll want to make is to head into**Settings** and enable**Add games to Steam Automatically** .
 
@@ -58,11 +56,9 @@ Instead, we have solutions designed specifically for the Steam Deck.
 
  This will add shortcuts to Gaming Mode, allowing you to launch these games without worrying about Desktop Mode.
 
-## NonSteamLaunchers for Battle.net, EA App, and More
+## NonSteamLaunchers for Battle.net, EA App, and More ![screenshot of nonsteamlaunchers list of launchers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_nonsteamlaunchers_list_of_launchers.jpg)
 
-![screenshot of nonsteamlaunchers list of launchers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_nonsteamlaunchers_list_of_launchers.jpg)
-
- NonSteamLaunchers can be a little bit more difficult to install. This isn't available in the Discover Store, so you'll need to enter Desktop Mode and navigate to the[GitHub page for NonSteamLaunchers](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) .
+ NonSteamLaunchers can be a little bit more difficult to install. This isn't available in the Discover Store, so you'll need to enter Desktop Mode and navigate to the [GitHub page for NonSteamLaunchers](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) .
 
  Follow the download and installation instructions available on that page, taking care to execute the file and not simply open it.
 
@@ -97,3 +93,22 @@ Instead, we have solutions designed specifically for the Steam Deck.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/upgrading-iphone-for-immersive-gameplay-experience/"><u>Upgrading iPhone for Immersive Gameplay Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-adding-sd-to-steam-deck/"><u>Step-by-Step: Adding SD to Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-reporting-process-for-uncivil-players-xbox/"><u>Navigating the Reporting Process for Uncivil Players (Xbox)</u></a></li>
+<li><a href="https://games-able.techidaily.com/new-era-valve-enhances-steam-family-sharing-features/"><u>New Era: Valve Enhances Steam Family Sharing Features</u></a></li>
+<li><a href="https://games-able.techidaily.com/virtual-brawl-tech-console-vs-stick-battlegrounds/"><u>Virtual Brawl Tech: Console Vs. Stick Battlegrounds</u></a></li>
+<li><a href="https://games-able.techidaily.com/sonic-boom-rom-gaming-classic-classics-on-iphone/"><u>Sonic Boom ROM Gaming: Classic Classics on iPhone</u></a></li>
+<li><a href="https://games-able.techidaily.com/fresh-start-with-new-installations-on-ps5/"><u>Fresh Start with New Installations on PS5</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y77t-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y77t Phone without Any Data Loss</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-poco-c65s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Poco C65s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-cost-effective-obs-setup-tips/"><u>2024 Approved  Cost-Effective OBS Setup Tips</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-demystifying-vimeos-triplet-plans-for-content-creators/"><u>[New] Demystifying Vimeo's Triplet Plans for Content Creators</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-snapchat-integration-for-twitters-visual-content/"><u>[Updated] Snapchat Integration for Twitter's Visual Content</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-transformative-tutorial-turning-vids-on-twitter-into-catchy-animated-memes-gifs/"><u>[New] 2024 Approved  Transformative Tutorial  Turning Vids on Twitter Into Catchy Animated Memes (GIFs)</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-best-online-video-editors-for-social-media-vertical-videos-for-2024/"><u>Updated Best Online Video Editors for Social Media Vertical Videos for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-best-rated-vr-joysticks-unveiled/"><u>[New] Best-Rated VR Joysticks Unveiled</u></a></li>
+</ul></div>

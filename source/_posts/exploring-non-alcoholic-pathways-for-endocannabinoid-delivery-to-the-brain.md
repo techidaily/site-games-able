@@ -1,7 +1,7 @@
 ---
 title: Exploring Non-Alcoholic Pathways for Endocannabinoid Delivery to the Brain
-date: 2024-06-25T10:47:20.780Z
-updated: 2024-06-26T10:47:20.780Z
+date: 2024-06-25T12:48:39.938Z
+updated: 2024-06-26T12:48:39.938Z
 tags:
   - games
 categories:
@@ -36,11 +36,11 @@ thumbnail: https://thmb.techidaily.com/f33adb8a41f790bc858c47b5fb66f5998fe40f100
 
 ## How Do I Set Up an Assist Controller on My PS5?
 
- There are a few things to note before getting started. Firstly, the ability to connect an assist controller to your PS5 was introduced in an update. So, if you haven’t[enabled auto-updates on your PS5](https://www.makeuseof.com/how-to-enable-ps5-auto-updates/) yet, go ahead and update your PS5 manually to the latest version.
+ There are a few things to note before getting started. Firstly, the ability to connect an assist controller to your PS5 was introduced in an update. So, if you haven’t [enabled auto-updates on your PS5](https://www.makeuseof.com/how-to-enable-ps5-auto-updates/) yet, go ahead and update your PS5 manually to the latest version.
 
  You also can’t use any controller as an assist controller. You can only connect a DualSense controller or another supported third-party controller. If you have the DualSense Edge controller, it can only be used as the main controller and cannot be used as an assist controller.
 
- Once you have ticked the boxes above, you are ready to begin. The process is very similar to[setting up and using the copilot feature on Xbox](https://www.makeuseof.com/how-to-set-up-and-use-co-pilot-on-xbox-series-xs/) , so if you have experience with that, it should be intuitive.
+ Once you have ticked the boxes above, you are ready to begin. The process is very similar to [setting up and using the copilot feature on Xbox](https://www.makeuseof.com/how-to-set-up-and-use-co-pilot-on-xbox-series-xs/) , so if you have experience with that, it should be intuitive.
 
 ![Settings Gear Icon PS5 Home Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/settings-gear-icon-ps5-home-screen.jpg)
 

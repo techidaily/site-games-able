@@ -1,7 +1,7 @@
 ---
 title: "Bridging Console and Computer: Joystick Connectivity Made Simple (156 Chars)"
-date: 2024-06-22 11:24:22
-updated: 2024-06-23 11:37:37
+date: 2024-06-25T13:23:37.624Z
+updated: 2024-06-26T13:23:37.624Z
 tags:
   - games
 categories:
@@ -52,13 +52,13 @@ thumbnail: https://thmb.techidaily.com/f9a5463fbd0c790fcad5c9ca24a63fabc5c5b34da
 
  Next, press the**Xbox button** on your controller to turn it on. Then press and hold the**Pair** button on top of the controller (the small button next to**LB**) for a few seconds, and the Xbox button will start flashing rapidly.
 
- From here, your Xbox controller should show up in the Bluetooth pairing menu on your PC. Select it and complete the steps to pair them. If you have trouble, see[how to fix Bluetooth pairing errors in Windows](https://www.makeuseof.com/try-connecting-device-bluetooth-pairing-error-windows/) .
+ From here, your Xbox controller should show up in the Bluetooth pairing menu on your PC. Select it and complete the steps to pair them. If you have trouble, see [how to fix Bluetooth pairing errors in Windows](https://www.makeuseof.com/try-connecting-device-bluetooth-pairing-error-windows/) .
 
- Remember that the batteries in your Xbox controller will drain when using it wirelessly. To save money on batteries, we recommend picking up the[Xbox One Play and Charge Kit](https://www.amazon.com/Xbox-One-Play-Charge-Kit/dp/B00DBDPOZ4?th=1&psc=1&linkCode=ll1&tag=muo-v2-pagvhls-20&linkId=141e39c0797a1d7786bbe752350e72cf&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU26753&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Ftag%2Fconnect-xbox-one-controller-pc%2F&asc%5Fcampaign=Evergreen) (Xbox One controllers) or the[Xbox Rechargeable Battery](https://www.amazon.com/Xbox-Rechargeable-Battery-USB-C%C2%AE-Cable-one/dp/B08DFB4889?crid=2M3PAHF8MA3Y4&dchild=1&keywords=series%2Bx%2Bplay%2Band%2Bcharge%2Bkit&qid=1616106289&sprefix=series%2Bx%2Bplay%2Caps%2C168&sr=8-2&th=1&linkCode=ll1&tag=muo-v2-pagvhls-20&linkId=7d0bf187ffc186ab3a95d34957c4f9bf&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU26753&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Ftag%2Fconnect-xbox-one-controller-pc%2F&asc%5Fcampaign=Evergreen) (Series X|S controllers) to give your controller recharging capabilities. You can easily plug your controller into your PC when you're not using it, so it will always be ready for your next session.
+ Remember that the batteries in your Xbox controller will drain when using it wirelessly. To save money on batteries, we recommend picking up the [Xbox One Play and Charge Kit](https://www.amazon.com/Xbox-One-Play-Charge-Kit/dp/B00DBDPOZ4?th=1&psc=1&linkCode=ll1&tag=muo-v2-pagvhls-20&linkId=141e39c0797a1d7786bbe752350e72cf&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU26753&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Ftag%2Fconnect-xbox-one-controller-pc%2F&asc%5Fcampaign=Evergreen) (Xbox One controllers) or the [Xbox Rechargeable Battery](https://www.amazon.com/Xbox-Rechargeable-Battery-USB-C%C2%AE-Cable-one/dp/B08DFB4889?crid=2M3PAHF8MA3Y4&dchild=1&keywords=series%2Bx%2Bplay%2Band%2Bcharge%2Bkit&qid=1616106289&sprefix=series%2Bx%2Bplay%2Caps%2C168&sr=8-2&th=1&linkCode=ll1&tag=muo-v2-pagvhls-20&linkId=7d0bf187ffc186ab3a95d34957c4f9bf&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU26753&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Ftag%2Fconnect-xbox-one-controller-pc%2F&asc%5Fcampaign=Evergreen) (Series X|S controllers) to give your controller recharging capabilities. You can easily plug your controller into your PC when you're not using it, so it will always be ready for your next session.
 
 ## 3\. Use the Xbox Wireless Adapter to Pair Your Xbox One Controller to a PC
 
- Microsoft has a standard called**Xbox Wireless** that's built into a few computers, though it's likely not part of yours. So to sync your Xbox controller and PC wirelessly without Bluetooth, you'll need to buy the[Xbox Wireless Adapter](https://www.amazon.com/Microsoft-Xbox-Wireless-Adapter-Windows-one/dp/B00ZB7W4QU?linkCode=ll1&tag=muo-v2-pagvhls-20&linkId=4652892b504e435c77bf3a3d5f0b6779&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU26753&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Ftag%2Fconnect-xbox-one-controller-pc%2F&asc%5Fcampaign=Evergreen) .
+ Microsoft has a standard called**Xbox Wireless** that's built into a few computers, though it's likely not part of yours. So to sync your Xbox controller and PC wirelessly without Bluetooth, you'll need to buy the [Xbox Wireless Adapter](https://www.amazon.com/Microsoft-Xbox-Wireless-Adapter-Windows-one/dp/B00ZB7W4QU?linkCode=ll1&tag=muo-v2-pagvhls-20&linkId=4652892b504e435c77bf3a3d5f0b6779&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU26753&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Ftag%2Fconnect-xbox-one-controller-pc%2F&asc%5Fcampaign=Evergreen) .
 
  This adapter lets you connect your Xbox controller to your PC wirelessly, through the same proprietary connection used by your Xbox console. Keep in mind that it's not officially supported for Windows 11.
 
@@ -66,17 +66,17 @@ thumbnail: https://thmb.techidaily.com/f9a5463fbd0c790fcad5c9ca24a63fabc5c5b34da
 
  Next, hold the**Xbox button** on your controller to turn it on, then press and hold the**Pair** button on top of the controller. After a few seconds, the controller and adapter should see each other and connect.
 
- From here, you can enjoy your Xbox controller on your PC wirelessly, just like using Bluetooth. We only recommend this method if you have an Xbox One controller that's not Bluetooth-enabled, though. Otherwise, it's better to[add Bluetooth to your computer](https://www.makeuseof.com/add-bluetooth-pc/) with an adapter that's cheaper than the Xbox Wireless Adapter. You could also put the money that you'd spend on the Xbox Wireless Adapter towards a new Series X|S controller.
+ From here, you can enjoy your Xbox controller on your PC wirelessly, just like using Bluetooth. We only recommend this method if you have an Xbox One controller that's not Bluetooth-enabled, though. Otherwise, it's better to [add Bluetooth to your computer](https://www.makeuseof.com/add-bluetooth-pc/) with an adapter that's cheaper than the Xbox Wireless Adapter. You could also put the money that you'd spend on the Xbox Wireless Adapter towards a new Series X|S controller.
 
 ## How to Reconnect Your Xbox Controller to Your Console
 
  Keep in mind that if your Xbox controller is already paired to an Xbox One or Series X|S console, pressing the**Xbox** button will turn that system on. You should still be able to pair the controller to your PC wirelessly using either of the methods above, but you'll probably want to turn your console off after you do so (or shut down and unplug it before you start). Trying to connect your controller to multiple devices at once will cause issues.
 
- After you connect your Xbox controller to a PC using any method above, you'll need to[re-pair the controller with your Xbox](https://www.makeuseof.com/tag/sync-xbox-one-controller/) the next time you want to use it there. To do this with the wired method, connect the controller to your Xbox using a USB cable, then press the**Xbox button** to pair.
+ After you connect your Xbox controller to a PC using any method above, you'll need to [re-pair the controller with your Xbox](https://www.makeuseof.com/tag/sync-xbox-one-controller/) the next time you want to use it there. To do this with the wired method, connect the controller to your Xbox using a USB cable, then press the**Xbox button** to pair.
 
  To pair the controller wirelessly, press the pairing button on the system. It's to the left of the disc tray on the original Xbox One, and at the bottom-right of the front panel under the power button on the Xbox One S and Xbox One X. On Xbox Series X|S, it's next to the USB port at the front of the system.
 
- After hitting this button, turn on your controller by hitting the**Xbox button** , then hold the**Pair** button on the top to pair it. If you run into problems, see[how to troubleshoot an Xbox controller](https://www.makeuseof.com/tag/how-to-fix-xbox-one-controller-not-working/) .
+ After hitting this button, turn on your controller by hitting the**Xbox button** , then hold the**Pair** button on the top to pair it. If you run into problems, see [how to troubleshoot an Xbox controller](https://www.makeuseof.com/tag/how-to-fix-xbox-one-controller-not-working/) .
 
  If you have an Xbox Series X|S controller, there's a convenient shortcut for switching paired devices. When you have the controller connected to a Bluetooth device, press the**Pair** button on top of the controller twice to immediately switch to the last Xbox Wireless connection (usually your console). Then, press the**Pair** button twice again to reconnect to the Bluetooth device you were just using.
 
@@ -103,3 +103,26 @@ thumbnail: https://thmb.techidaily.com/f9a5463fbd0c790fcad5c9ca24a63fabc5c5b34da
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/gamers-choice-analyzing-the-pros-and-cons-of-game-downloads/"><u>Gamer's Choice: Analyzing the Pros & Cons of Game Downloads</u></a></li>
+<li><a href="https://games-able.techidaily.com/behind-the-screen-watch-movies-on-ps5/"><u>Behind the Screen: Watch Movies on PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/tackling-storage-challenges-in-steam-games/"><u>Tackling Storage Challenges in Steam Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/reinstating-aps-restart-license-on-ps5/"><u>Reinstating Aps: Restart License on PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-8-premier-gaming-outlets-and-reviews/"><u>Top 8 Premier Gaming Outlets & Reviews</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-picks-high-quality-capture-for-xbox-games/"><u>Elite Picks: High-Quality Capture for Xbox Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-shades-for-blue-light-control/"><u>Ultimate Shades for Blue Light Control</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-up-your-linux-playtime-top-7-terminal-games/"><u>Step Up Your Linux Playtime: Top 7 Terminal Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/reinstating-stable-wired-and-wireless-connections-in-ps5/"><u>Reinstating Stable Wired and Wireless Connections in PS5</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-keeping-up-with-the-screen-capturing-internet-television-online/"><u>2024 Approved  Keeping Up With The Screen - Capturing Internet Television Online</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-masking-methods-for-confidential-recordings/"><u>2024 Approved  Masking Methods for Confidential Recordings</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-tecno-pova-5-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Tecno Pova 5 FRP Bypass Instantly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-telegram-edge-advanced-tactics-for-effective-promotion/"><u>[Updated] The Telegram Edge  Advanced Tactics for Effective Promotion</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-mastering-screenshots-on-w11-and-w10-with-top-choices-for-2024/"><u>[Updated] Mastering Screenshots on W11 & W10 with Top Choices for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-no-cost-treasures-aplus-ae-template-collections/"><u>2024 Approved  No-Cost Treasures  A+ AE Template Collections</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtubes-short-form-videos-10-tactics-for-dominance-in-views/"><u>2024 Approved  Youtube's Short-Form Videos - 10 Tactics for Dominance in Views</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-essential-insights-into-the-world-of-jazz-a-beginners-guide/"><u>In 2024, Essential Insights Into the World of Jazz A Beginners Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On HTC U23 Pro? | Dr.fone</u></a></li>
+</ul></div>

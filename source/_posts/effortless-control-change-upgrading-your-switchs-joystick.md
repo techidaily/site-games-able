@@ -1,7 +1,7 @@
 ---
 title: "Effortless Control Change: Upgrading Your Switch's Joystick"
-date: 2024-06-22 13:59:15
-updated: 2024-06-23 12:23:36
+date: 2024-06-25T13:36:25.947Z
+updated: 2024-06-26T13:36:25.947Z
 tags:
   - games
 categories:
@@ -26,9 +26,9 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 
 ![Close up of Nintendo Switch Pikachu and Eevee Joy Cons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Close-up-of-Nintendo-Switch-Pikachu-and-Eeve-joy-cons.jpg)
 
- Once a Joy-Con has drift, there is little you can do to fix it. There are, however, several tricks you can try to[fix Joy-Con drift on your Nintendo Switch](https://www.makeuseof.com/ways-to-fix-joy-con-drift-nintendo-switch/) before you open it up and take matters into your own hands. The first thing you should try when you notice drift in your Joy-Con is to calibrate them using the calibration tool in the Switch’s menu. That may help for a while, but it is more of a Band-Aid and doesn’t fix the root of the issue.
+ Once a Joy-Con has drift, there is little you can do to fix it. There are, however, several tricks you can try to [fix Joy-Con drift on your Nintendo Switch](https://www.makeuseof.com/ways-to-fix-joy-con-drift-nintendo-switch/) before you open it up and take matters into your own hands. The first thing you should try when you notice drift in your Joy-Con is to calibrate them using the calibration tool in the Switch’s menu. That may help for a while, but it is more of a Band-Aid and doesn’t fix the root of the issue.
 
- You can also[send your Joy-Con away for a free repair](https://www.makeuseof.com/how-to-send-joy-cons-off-for-free-repair/) . This is a great service, but you aren’t guaranteed to receive the same Joy-Con back. So, if you send a limited edition pair, there is a chance you may get the classic red and blue Joy-Con back. Some gamers aren’t willing to take that risk.
+ You can also [send your Joy-Con away for a free repair](https://www.makeuseof.com/how-to-send-joy-cons-off-for-free-repair/) . This is a great service, but you aren’t guaranteed to receive the same Joy-Con back. So, if you send a limited edition pair, there is a chance you may get the classic red and blue Joy-Con back. Some gamers aren’t willing to take that risk.
 
  When all the above methods fail, learning how to replace your faulty joysticks yourself is the best option. It is worth noting, however, that doing so voids your warranty. But if your warranty has already run out, and you would rather fix your pair for around $10.00 rather than pay $79.99 for a new set, you don’t really have much to lose.
 
@@ -80,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 
 ![How to calibrate controller on Nintendo Switch Calibrate Control Sticks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/how-to-calibrate-controller-on-nintendo-switch-calibrate-control-sticks.jpg)
 
- As simple as replacing your joystick is, it's not ideal to have to repeat the process frequently. Make sure to regularly[clean your Nintendo Switch and Joy-Con](https://www.makeuseof.com/how-to-safely-clean-nintendo-switch-and-joy-cons/) to prevent dust buildup and increase the longevity of your joysticks.
+ As simple as replacing your joystick is, it's not ideal to have to repeat the process frequently. Make sure to regularly [clean your Nintendo Switch and Joy-Con](https://www.makeuseof.com/how-to-safely-clean-nintendo-switch-and-joy-cons/) to prevent dust buildup and increase the longevity of your joysticks.
 
 ## Say Goodbye to Joy-Con Drift Forever With This Guide
 
@@ -103,3 +103,27 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/transition-from-screen-to-controller-for-fallout-gaming/"><u>Transition From Screen to Controller for Fallout Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/voltage-to-values-more-than-energys-promise/"><u>Voltage to Values: More Than Energy's Promise</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-selector-101-finding-your-next-apple-arcade-hit/"><u>Game Selector 101: Finding Your Next Apple Arcade Hit</u></a></li>
+<li><a href="https://games-able.techidaily.com/custom-fan-scheduling-for-maximum-performance-gain/"><u>Custom Fan Scheduling for Maximum Performance Gain</u></a></li>
+<li><a href="https://games-able.techidaily.com/10-fun-texting-games-to-play-on-chat-with-friends-and-family/"><u>10 Fun Texting Games to Play on Chat With Friends and Family</u></a></li>
+<li><a href="https://games-able.techidaily.com/reclaiming-unresponsive-controllers-for-windows-systems/"><u>Reclaiming Unresponsive Controllers for Windows Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/premier-gameplay-progress-keepers/"><u>Premier Gameplay Progress Keepers</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-tools-the-ultimate-list-of-ps3-game-pc-emulators/"><u>Essential Tools: The Ultimate List of PS3 Game PC Emulators</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-connect-a-ps4-or-ps5-controller-to-your-nintendo-switch/"><u>How to Connect a PS4 or PS5 Controller to Your Nintendo Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-invest-in-corsairs-icue-link-uncover-the-four-transformative-perks/"><u>Why Invest in Corsair's iCUE Link? Uncover the Four Transformative Perks</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-audio-visual-innovators-group/"><u>[New] 2024 Approved  Audio-Visual Innovators Group</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-list-best-movie-trailer-apps-for-ios/"><u>New The Ultimate List Best Movie Trailer Apps for iOS</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-ultimate-guide-7-high-ranking-audio-transformation-apps/"><u>In 2024, Ultimate Guide  7 High-Ranking Audio Transformation Apps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-picart-privacy-filter-no-more-recognizable-faces/"><u>In 2024, PicArt Privacy Filter  No More Recognizable Faces</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-filmora-free-trial-vs-full-version-which-one-to-choose-for-2024/"><u>New Filmora Free Trial Vs. Full Version Which One to Choose for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-12-pro-max-using-find-my-iphone-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone 12 Pro Max using find my iphone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/standout-creators-elevating-vr-content-quality-for-2024/"><u>Standout Creators Elevating VR Content Quality for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/integrating-third-party-tools-with-your-win11-zoom-setup/"><u>Integrating Third-Party Tools with Your Win11 Zoom Setup</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-next-chapter-in-advertising-key-2024-fb-trends-to-track/"><u>The Next Chapter in Advertising  Key 2024 FB Trends to Track</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-ultimate-guide-to-quieting-background-sounds-with-imovie-on-a-mac/"><u>New The Ultimate Guide to Quieting Background Sounds with iMovie on a Mac</u></a></li>
+</ul></div>

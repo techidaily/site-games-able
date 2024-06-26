@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Play: Establishing a 4K Environment on Xbox Series X"
-date: 2024-06-25T10:46:33.626Z
-updated: 2024-06-26T10:46:33.626Z
+date: 2024-06-25T12:48:39.444Z
+updated: 2024-06-26T12:48:39.444Z
 tags:
   - games
 categories:
@@ -43,13 +43,13 @@ thumbnail: https://thmb.techidaily.com/8f7f92c4fc16a81d47d86f2a37a2e3afe657d72ab
 
 ![A screenshot of the 4K TV Details screen on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3179.jpg)
 
- Unfortunately, if you own an Xbox Series S, you will not be able to reach native 4K regardless of your setup. Alternatively, you can use one of[the best features of the Xbox Series S](https://www.makeuseof.com/xbox-series-s-features-all-users-should-use/) , upscaled graphics, and emulate 4K gaming, but it won't be native.
+ Unfortunately, if you own an Xbox Series S, you will not be able to reach native 4K regardless of your setup. Alternatively, you can use one of [the best features of the Xbox Series S](https://www.makeuseof.com/xbox-series-s-features-all-users-should-use/) , upscaled graphics, and emulate 4K gaming, but it won't be native.
 
 ## How to Enable 4K Gaming on Your Xbox Series X
 
  Irritatingly, 4K is sometimes not automatically enabled on your Xbox Series X, even if your setup meets all the requirements. This is especially true if you have just altered your setup in some way to meet the specifications of 4K gaming.
 
- And with 4K gaming being one of[the first things Xbox Series X gamers should take advantage of](https://www.makeuseof.com/first-things-to-do-with-xbox-series-x/) , ensuring you have enabled 4K is a simple but essential step in improving your Xbox gaming experience. To enable 4K gaming on your Xbox Series X, follow these steps:
+ And with 4K gaming being one of [the first things Xbox Series X gamers should take advantage of](https://www.makeuseof.com/first-things-to-do-with-xbox-series-x/) , ensuring you have enabled 4K is a simple but essential step in improving your Xbox gaming experience. To enable 4K gaming on your Xbox Series X, follow these steps:
 
 * Press the**Xbox button** on your controller to open the Guide menu on your Xbox Series X.
 * Highlight the options under**Profile & system** , and select**Settings** .

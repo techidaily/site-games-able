@@ -1,7 +1,7 @@
 ---
 title: "Gaming Graphic Shift: XNA's Next-Gen Hurdle"
-date: 2024-06-22 10:25:33
-updated: 2024-06-23 11:10:19
+date: 2024-06-25T13:21:09.472Z
+updated: 2024-06-26T13:21:09.472Z
 tags:
   - games
 categories:
@@ -22,13 +22,13 @@ thumbnail: https://thmb.techidaily.com/73f237caff1293d1dd4178031db987cf4821ccb81
 
 ![DirectX logo imposed on a photo of a man coding](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/untitled-design-1.jpg)
 
- As explained in[our overview of Microsoft DirectX](https://www.makeuseof.com/tag/everything-need-know-directx-2016/) , DirectX is a collection of application programming interfaces (APIs) used for handling tasks related to multimedia. This includes game programming on Microsoft-based platforms like Windows and Xbox. To provide some context, let's briefly talk about APIs.
+ As explained in [our overview of Microsoft DirectX](https://www.makeuseof.com/tag/everything-need-know-directx-2016/) , DirectX is a collection of application programming interfaces (APIs) used for handling tasks related to multimedia. This includes game programming on Microsoft-based platforms like Windows and Xbox. To provide some context, let's briefly talk about APIs.
 
- An API makes it possible for two or more computer programs to communicate with each other, which we discuss in[our overview of APIs](https://www.makeuseof.com/what-is-api/) . Think of it like a telephone. If your mom texts you with a grocery list, your phone will receive that data and display it for you. That is basically an API.
+ An API makes it possible for two or more computer programs to communicate with each other, which we discuss in [our overview of APIs](https://www.makeuseof.com/what-is-api/) . Think of it like a telephone. If your mom texts you with a grocery list, your phone will receive that data and display it for you. That is basically an API.
 
 ## What Are the Differences Between DirectX 11 and DirectX 12?
 
- So, what are the differences between DirectX 11 and DirectX 12? Put simply, DirectX 12 is the latest version of DirectX. One of the most noticeable differences is how they interact with your hardware. Most games developed with DirectX 11 only utilize between two and four[CPU cores](https://www.makeuseof.com/cpu-vs-vcpu-threads-vs-cores/) . One of these cores usually tells the GPU what to do.
+ So, what are the differences between DirectX 11 and DirectX 12? Put simply, DirectX 12 is the latest version of DirectX. One of the most noticeable differences is how they interact with your hardware. Most games developed with DirectX 11 only utilize between two and four [CPU cores](https://www.makeuseof.com/cpu-vs-vcpu-threads-vs-cores/) . One of these cores usually tells the GPU what to do.
 
  The game then uses the remaining cores to handle various CPU-intensive settings like a game's particles or draw distance. On the other hand, DirectX 12 spreads a CPU's workload across multiple cores and allows every core to talk to the GPU simultaneously.
 
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/73f237caff1293d1dd4178031db987cf4821ccb81
 
  Image Credit: Martin Kerstein/[Guild Wars 2](https://www.guildwars2.com/en/news/guesting-is-coming/)
 
- Believe it or not, it took nine years for ArenaNet to make the switch from DirectX 9 to DirectX 11\. However, some games do support both DirectX 11 and DirectX 12, including Fortnite (read[our Fortnite cheat sheet](https://www.makeuseof.com/tag/fortnite-essentials-cheat-sheet-controls-tips-terms/) ), Battlefield 5, Shadow of the Tomb Raider, and more. Users can switch between DirectX 11 and DirectX 12 in the game settings.
+ Believe it or not, it took nine years for ArenaNet to make the switch from DirectX 9 to DirectX 11\. However, some games do support both DirectX 11 and DirectX 12, including Fortnite (read [our Fortnite cheat sheet](https://www.makeuseof.com/tag/fortnite-essentials-cheat-sheet-controls-tips-terms/) ), Battlefield 5, Shadow of the Tomb Raider, and more. Users can switch between DirectX 11 and DirectX 12 in the game settings.
 
  Now, the fact that some games support both DirectX 11 and 12 has probably got you wondering about in-game performance. Does choosing DX 11 or DX 12 deliver better in-game performance? The following video illustrates the differences between DirectX 11 and DirectX 12 in a range of games, showcasing vital specs such as average frames per second, CPU usage, GPU usage, and more, using an AMD Ryzen 3600, Nvidia GeForce RTX 3060 Ti, and 16GB DDR4 RAM.
 
@@ -91,3 +91,22 @@ thumbnail: https://thmb.techidaily.com/73f237caff1293d1dd4178031db987cf4821ccb81
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/uncovering-users-on-steam-efficiently/"><u>Uncovering Users on Steam Efficiently</u></a></li>
+<li><a href="https://games-able.techidaily.com/flashs-legacy-continues-how-to-keep-playing-post-adobe/"><u>Flash's Legacy Continues: How to Keep Playing Post-Adobe</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-multiplayer-mobile-experiences-unite-friends-anywhere/"><u>Ultimate Multiplayer Mobile Experiences: Unite Friends Anywhere</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-amds-fsr-3-technology-a-match-for-dlss-35/"><u>Is AMD's FSR 3 Technology a Match for DLSS 3.5?</u></a></li>
+<li><a href="https://games-able.techidaily.com/uncover-the-11-superb-free-word-puzzle-apps-today/"><u>Uncover the 11 Superb Free Word Puzzle Apps Today</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-nvidia-g-sync-for-peak-game-performance/"><u>Understanding Nvidia G-Sync for Peak Game Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-efficiency-and-speed-unlocking-potential-in-your-docked-device/"><u>Boosting Efficiency and Speed: Unlocking Potential in Your Docked Device</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-top-5-mp3-cutters-online/"><u>2024 Approved Top 5 MP3 Cutters Online</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-unveiling-the-best-top-10-for-dating-in-discord/"><u>[Updated] In 2024, Unveiling the Best  Top 10 for Dating in Discord</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-unveiling-instagram-reels-10-surprising-insights/"><u>[New] In 2024, Unveiling Instagram Reels  10 Surprising Insights</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713961432900-updated-are-you-finding-it-challenging-to-upload-and-create-a-link-for-your-video-well-this-detailed-upload-video-to-link-guide-will-help-you-with-this-chec/"><u>Updated Are You Finding It Challenging to Upload and Create a Link for Your Video? Well, This Detailed Upload Video to Link Guide Will Help You with This. Check It Out Now for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/maximizing-sales-crafting-engaging-youtube-channel-trailers/"><u>Maximizing Sales  Crafting Engaging YouTube Channel Trailers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-cut-rate-video-upgrade-turning-fb-videos-into-mp4-hd1080p-for-2024/"><u>[Updated] Cut-Rate Video Upgrade  Turning FB Videos Into MP4 HD/1080P for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-a-comprehensive-guide-to-maximizing-channels-earnings-through-trailers-for-2024/"><u>[Updated] A Comprehensive Guide to Maximizing Channels' Earnings Through Trailers for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/a-comprehensive-guide-to-producing-videos-for-social-media-for-2024/"><u>A Comprehensive Guide to Producing Videos For Social Media for 2024</u></a></li>
+</ul></div>

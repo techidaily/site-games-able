@@ -1,7 +1,7 @@
 ---
 title: Tips for Private Discussions with Friends on Xbox
-date: 2024-06-25T10:49:47.381Z
-updated: 2024-06-26T10:49:47.381Z
+date: 2024-06-25T12:48:41.419Z
+updated: 2024-06-26T12:48:41.419Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
 
  To be specific, the key aspects and limitations of Xbox's recording and reporting features for voice chat are as follows:
 
-* Unlike[capturing videos and screenshots on your Xbox Series X|S](https://www.makeuseof.com/capture-share-screenshots-videos-xbox-series-x/) , recording voice chat is not a social feature and is instead aimed at solely tackling toxic online behavior.
+* Unlike [capturing videos and screenshots on your Xbox Series X|S](https://www.makeuseof.com/capture-share-screenshots-videos-xbox-series-x/) , recording voice chat is not a social feature and is instead aimed at solely tackling toxic online behavior.
 * While your Xbox Series X|S does allow you to record voice chat, it does not allow you to record your party chat. The only recordable online voice chats are those found inside in-game lobbies.
 * To protect other players' and your privacy, recording in-game voice chats will only record the most recent 60 seconds of audio and the audio will auto-delete after 24 hours. This way, you don't have to worry about someone documenting your conversations online.
 
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
 
  Image Credit:[Xbox](https://news.xbox.com/en-us/2023/07/12/xbox-voice-reporting-feature/)
 
- Similarly to taking captures on your Xbox Series X|S, recorded voice chats are also saved to your Xbox. However, while you can[upload Xbox captures to an external storage device](https://www.makeuseof.com/how-to-copy-xbox-game-captures-to-external-storage/) , you only have the option to delete or report your saved voice clips.
+ Similarly to taking captures on your Xbox Series X|S, recorded voice chats are also saved to your Xbox. However, while you can [upload Xbox captures to an external storage device](https://www.makeuseof.com/how-to-copy-xbox-game-captures-to-external-storage/) , you only have the option to delete or report your saved voice clips.
 
 ## How to Record Voice Chats on Xbox Series X|S
 

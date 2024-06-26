@@ -1,7 +1,7 @@
 ---
 title: "Discovering iOS: Why Apple Arcade Wins My Heart"
-date: 2024-06-25T10:38:40.471Z
-updated: 2024-06-26T10:38:40.471Z
+date: 2024-06-25T12:48:34.417Z
+updated: 2024-06-26T12:48:34.417Z
 tags:
   - games
 categories:
@@ -44,7 +44,7 @@ Close
 
  While Apple Arcade's game selection is limited, it's still worth checking if a game you're interested in is available. You can do this by simply typing the game's name into the App Store search bar and adding a plus (+) sign. For example, if you're looking for 'Bloons TD 6,' search for 'Bloons TD 6+' to see if it's part of the Apple Arcade library.
 
- If your device is new, even better, some new iPhones and iPads get three months of Apple Arcade for free. First-time subscribers can get a month for free, as well—you can learn more in our dedicated guide on[getting started with Apple Arcade](https://www.makeuseof.com/tag/get-started-apple-arcade/) .
+ If your device is new, even better, some new iPhones and iPads get three months of Apple Arcade for free. First-time subscribers can get a month for free, as well—you can learn more in our dedicated guide on [getting started with Apple Arcade](https://www.makeuseof.com/tag/get-started-apple-arcade/) .
 
 ## 2 There Are No Ads or In-App Purchases
 
@@ -54,7 +54,7 @@ Close
 
  Yes, removing ads in one game will most likely be cheaper than taking on a recurring Apple Arcade sub. However, if you find yourself putting up with multiple ads and in-app purchases and would like some kind of reprieve, try playing the ad-free ones Arcade offers for a change.
 
- If you’re still unconvinced, you can try some non-Arcade[mobile games without ads or purchases](https://www.makeuseof.com/tag/free-mobile-games-no-ads/) instead.
+ If you’re still unconvinced, you can try some non-Arcade [mobile games without ads or purchases](https://www.makeuseof.com/tag/free-mobile-games-no-ads/) instead.
 
 ## 3 I Can Share an Apple Arcade Subscription
 
@@ -70,15 +70,13 @@ Close
 
 Close
 
- The App Store library is already relatively small (compared to Android’s Play Store), but Apple has selected some of the best titles from the group and put them in Apple Arcade. Even though[Apple Arcade has a smaller library than Google Play Pass](https://www.makeuseof.com/apple-arcade-vs-google-play-pass/) , selecting games from there is less of a gamble. Most of the titles are fun and well-built, and in some cases, they are classic evergreen games.
+ The App Store library is already relatively small (compared to Android’s Play Store), but Apple has selected some of the best titles from the group and put them in Apple Arcade. Even though [Apple Arcade has a smaller library than Google Play Pass](https://www.makeuseof.com/apple-arcade-vs-google-play-pass/) , selecting games from there is less of a gamble. Most of the titles are fun and well-built, and in some cases, they are classic evergreen games.
 
  The library is also not static; Apple frequently adds new games to Arcade and tries to keep its selection updated. Some of the games Apple adds are exclusive to Apple Arcade, meaning there are games there that I can’t play anywhere else.
 
  One of them is Gameloft’s Oregon Trail, an intriguing retelling of history, which I quite enjoyed for its art and survival-based gameplay.
 
-## 5 I Play Stardew Valley on Apple Arcade
-
-![Stardew Valley main menu on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/img_0331.PNG)
+## 5 I Play Stardew Valley on Apple Arcade ![Stardew Valley main menu on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/img_0331.PNG)
 
  Stardew Valley is one of the best indie games ever. It's a cross-genre farming simulator with RPG elements. Stardew Valley is very popular and has made its way to every platform, including iOS.
 

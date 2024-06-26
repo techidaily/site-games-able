@@ -1,7 +1,7 @@
 ---
 title: "Valve Breaks Inertia: Revamps Shared Gaming on Steam"
-date: 2024-06-23 14:51:49
-updated: 2024-06-24 10:32:32
+date: 2024-06-25T13:02:34.745Z
+updated: 2024-06-26T13:02:34.745Z
 tags:
   - games
 categories:
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
 
 ![Steam Family Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/steam-family-management-1.jpg)
 
- Steam Family Sharing wasn’t a family-centric feature. It was just a way to share games with other accounts that didn’t necessarily have to be your family. However, Valve released the[Steam Families Beta](https://store.steampowered.com/news/app/593110/view/4149575031735702628) on March 18, 2024, and the update changes that.
+ Steam Family Sharing wasn’t a family-centric feature. It was just a way to share games with other accounts that didn’t necessarily have to be your family. However, Valve released the [Steam Families Beta](https://store.steampowered.com/news/app/593110/view/4149575031735702628) on March 18, 2024, and the update changes that.
 
  One of the biggest changes is a new quality-of-life feature. Now you can play games from other family members' libraries, even if the owner is online playing another game—solving a nuisance that many gamers sharing their libraries experienced. And if someone owns multiple copies of a game, multiple people can play the same title at the same time.
 
@@ -46,11 +46,9 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
 * The feature includes playtime schedules and maximum playtime. Children can request additional playtime and game purchases.
 * You can recover your child's account in case they lose their password (but this is only available after 30 days of being in the family).
 
- These changes allow you to truly have a parental system for Steam, much like a[kid's account for Netflix](https://www.makeuseof.com/how-to-create-netflix-kids-profile/) or YouTube.
+ These changes allow you to truly have a parental system for Steam, much like a [kid's account for Netflix](https://www.makeuseof.com/how-to-create-netflix-kids-profile/) or YouTube.
 
-## How to Enter the Steam Families Beta
-
-![How to enter Steam Families Beta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/how-to-enter-steam-families-beta.JPG)
+## How to Enter the Steam Families Beta ![How to enter Steam Families Beta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/how-to-enter-steam-families-beta.JPG)
 
  If you want to try out the new hub for yourself, you need to enter the Steam Families beta. To do this, open Steam and head to**Settings > Interface > Client Beta Participation** , then choose**Steam Families Beta** in the dropdown menu.
 
@@ -58,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
 
  It will prompt you to accept, then the client will restart and update Steam. Once it has updated, you can access your family controls by going to**Settings > Family** **\> Manage your Steam Family** . This view is where you can see all the Steam Family features and parental controls once you've made your family and invited your children.
 
- If you need to make space for new games, make sure to[use Steam's Storage Manager](https://www.makeuseof.com/how-to-use-steam-storage-manager/) to conveniently manage your installs.
+ If you need to make space for new games, make sure to [use Steam's Storage Manager](https://www.makeuseof.com/how-to-use-steam-storage-manager/) to conveniently manage your installs.
 
 ## The Pros and Cons of Steam Families
 
@@ -97,3 +95,24 @@ Some of the drawbacks of the feature include:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/prime-quests-conquerors-companions/"><u>Prime Quests: Conquerors’ Companions</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigate-the-adventure-playing-2p-minecraft-on-switch/"><u>Navigate the Adventure: Playing 2P Minecraft on Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-game-room-with-expert-3d-lighting-choices/"><u>Transform Your Game Room with Expert 3D Lighting Choices</u></a></li>
+<li><a href="https://games-able.techidaily.com/ai-powered-roleplay-top-6-gpt-methods-to-elevate-your-dandd-experience/"><u>AI-Powered Roleplay: Top 6 GPT Methods to Elevate Your D&D Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/murder-minds-solved-engage-in-4-ai-driven-mysteries/"><u>Murder Minds Solved: Engage in 4 AI-Driven Mysteries</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-controller-update-via-wireless-tech/"><u>Seamless Controller Update via Wireless Tech</u></a></li>
+<li><a href="https://games-able.techidaily.com/setting-exclusive-headphone-volume-on-xbox-series/"><u>Setting Exclusive Headphone Volume on Xbox Series</u></a></li>
+<li><a href="https://games-able.techidaily.com/clearing-glitches-mastery-of-ps5-gamepad-restart/"><u>Clearing Glitches: Mastery of PS5 Gamepad Restart</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-perfecting-your-tiktok-persona-with-our-compreeved-guide/"><u>[Updated] Perfecting Your TikTok Persona with Our Compreeved Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-10-most-shared-stock-photos-and-their-tales/"><u>[New] Top 10 Most Shared Stock Photos and Their Tales</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-oppo-reno-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-tranquil-touchscreen-best-idle-phone-adventures/"><u>[Updated] Tranquil Touchscreen  Best Idle Phone Adventures</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-screen-recording-on-macos-ahead-with-bandicam-or-camtasia/"><u>2024 Approved  Screen Recording on MacOS  Ahead with Bandicam or Camtasia?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-anonymous-access-to-instagrams-hidden-narratives-device-guide/"><u>[Updated] Anonymous Access to Instagram's Hidden Narratives  Device Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unveiling-purchasing-illegitimate-views-online/"><u>[Updated] Unveiling  Purchasing Illegitimate Views Online</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-compre-written-guide-to-the-latest-videoshow-version/"><u>[Updated] Compre Written Guide to the Latest VideoShow Version</u></a></li>
+</ul></div>

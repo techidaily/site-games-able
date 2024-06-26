@@ -1,7 +1,7 @@
 ---
 title: Should Your PC Get an Original Founder's GPU or Asus-Branded Vega?
-date: 2024-06-25T10:46:08.530Z
-updated: 2024-06-26T10:46:08.530Z
+date: 2024-06-25T12:48:39.195Z
+updated: 2024-06-26T12:48:39.195Z
 tags:
   - games
 categories:
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/94266fd2abffa49379e11298094d126f869b761ce
 
  In an attempt to compete directly with AIB partner cards based on the same graphics architecture, both Nvidia and Intel use separate designations for their reference design GPUs. Ever since the launch of Nvidia's GeForce GTX 10-Series GPUs, the company has stuck with its "Founders Edition" branding to maintain the exclusivity of its proprietary chip and cooler design.
 
- Meanwhile, Intel being a newcomer in the dedicated GPU space, resorted to the "Limited Edition" designation for its entire[Arc GPU lineup](https://www.makeuseof.com/intel-arc-alchemist-release-dates-specs-prices/) . Although AMD doesn't utilize a fancy marketing term for its reference cards, it introduces a unique cooler design with every new generation of GPU architecture.
+ Meanwhile, Intel being a newcomer in the dedicated GPU space, resorted to the "Limited Edition" designation for its entire [Arc GPU lineup](https://www.makeuseof.com/intel-arc-alchemist-release-dates-specs-prices/) . Although AMD doesn't utilize a fancy marketing term for its reference cards, it introduces a unique cooler design with every new generation of GPU architecture.
 
  As for custom graphics cards, AIB partners tend to differentiate their GPU branding across various pricing structures. For instance, MSI's "SUPRIM" or "GAMING X" designations are only applicable to its factory overclocked models with a premium price tag, whereas the "VENTUS" branding is suggestive of a cheaper, non-OC variant.
 

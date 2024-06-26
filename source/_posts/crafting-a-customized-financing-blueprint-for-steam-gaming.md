@@ -1,7 +1,7 @@
 ---
 title: Crafting a Customized Financing Blueprint for Steam Gaming
-date: 2024-06-25T10:48:11.395Z
-updated: 2024-06-26T10:48:11.395Z
+date: 2024-06-25T12:48:40.456Z
+updated: 2024-06-26T12:48:40.456Z
 tags:
   - games
 categories:
@@ -65,9 +65,8 @@ Here’s how to fund your account:
 
 1. When you launch Steam, click**Store** in the left part of the overhead menu.  
 ![Steam's Store page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/steam-s-store-page.jpg)
-2. Use the search bar on the right side of the window to look up the games you want. Steam has a vast, well-cataloged library of games. It’s one of the[reasons we recommend Steam for all gamers](https://www.makeuseof.com/all-gamers-should-use-steam-reasons-why/) .
-3. When you find something you like, click it to open its store page. Scroll down to see its available price points and packages  
-![Crusader Kings III Steam store page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/crusader-kings-iii-steam-store-page.jpg)
+2. Use the search bar on the right side of the window to look up the games you want. Steam has a vast, well-cataloged library of games. It’s one of the [reasons we recommend Steam for all gamers](https://www.makeuseof.com/all-gamers-should-use-steam-reasons-why/) .
+3. When you find something you like, click it to open its store page. Scroll down to see its available price points and packages ![Crusader Kings III Steam store page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/crusader-kings-iii-steam-store-page.jpg)
 4. Click**Add to Cart** when you find something in your budget.
 5. Choose**Purchase for myself** on the resulting page.
 6. Select your payment method from the dropdown menu when prompted and click**Continue** .

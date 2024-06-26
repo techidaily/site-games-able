@@ -1,7 +1,7 @@
 ---
 title: Simple Steps for Locating Your Digital Game ID
-date: 2024-06-25T10:41:39.989Z
-updated: 2024-06-26T10:41:39.989Z
+date: 2024-06-25T12:48:36.357Z
+updated: 2024-06-26T12:48:36.357Z
 tags:
   - games
 categories:
@@ -22,15 +22,15 @@ thumbnail: https://thmb.techidaily.com/1bbd0a3f8dc1d9288d108f379c03c690ea0ce4f34
 
  Every account on Steam has a unique Steam ID. You will never have the same Steam ID as someone else. It exists in a few formats, but is often shown as a 17-digit number known as the 64-bit ID. It's tied to your account and you can't change it.
 
- Your Steam ID is not your username, which you use to sign in to Steam (you can't change this). It's also not your display name, which is what you appear as to other players (you can[change your Steam display name](https://www.makeuseof.com/how-to-change-steam-display-name/) ).
+ Your Steam ID is not your username, which you use to sign in to Steam (you can't change this). It's also not your display name, which is what you appear as to other players (you can [change your Steam display name](https://www.makeuseof.com/how-to-change-steam-display-name/) ).
 
  Your Steam ID may appear in your profile URL. By default, Steam profile URLs format like so, with your Steam ID appended: <https://steamcommunity.com/profiles/>
 
- If you've[set a custom URL for your Steam profile](https://www.makeuseof.com/how-to-set-up-custom-url-steam-profile/) in your account settings, "profiles" becomes "id" and your custom text appends instead of your Steam ID.
+ If you've [set a custom URL for your Steam profile](https://www.makeuseof.com/how-to-set-up-custom-url-steam-profile/) in your account settings, "profiles" becomes "id" and your custom text appends instead of your Steam ID.
 
 ## Why Do You Need Your Steam ID?
 
- You may never need to know what your Steam ID is. It's not private information, so don't worry if someone says they know your Steam ID—you can just as easily find out theirs, using tools like[Steam ID Finder](https://www.steamidfinder.com/) .
+ You may never need to know what your Steam ID is. It's not private information, so don't worry if someone says they know your Steam ID—you can just as easily find out theirs, using tools like [Steam ID Finder](https://www.steamidfinder.com/) .
 
  Some third-party services or developers/publishers (like Ubisoft and EA) can ask for your Steam ID. They might need this to link something to your account or to look you up in their database to provide support.
 

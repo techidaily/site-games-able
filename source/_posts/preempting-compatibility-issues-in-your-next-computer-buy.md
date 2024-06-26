@@ -1,7 +1,7 @@
 ---
 title: Preempting Compatibility Issues in Your Next Computer Buy
-date: 2024-06-23 14:52:56
-updated: 2024-06-24 10:50:17
+date: 2024-06-25T13:06:52.239Z
+updated: 2024-06-26T13:06:52.239Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 
 ## 1\. PCPartPicker
 
- Top of any PC hardware compatibility list is always[PCPartPicker](ttps://pcpartpicker.com) . It's the ultimate go-to for anyone building a new PC or considering a hardware upgrade. It's filled with a vast array of PC hardware, and you can use it to build out a whole configuration or to check if two parts work together.
+ Top of any PC hardware compatibility list is always [PCPartPicker](ttps://pcpartpicker.com) . It's the ultimate go-to for anyone building a new PC or considering a hardware upgrade. It's filled with a vast array of PC hardware, and you can use it to build out a whole configuration or to check if two parts work together.
 
 ![pcpartpicker muo example pc build](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/pcpartpicker-muo-example-pc-build.jpg)
 
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 
 ## 4\. Newegg Custom PC Builder
 
- PCPartPicker tops the list because it's[the biggest and best of the PC hardware compatibility bunch](https://www.makeuseof.com/best-custom-pc-builder-website/) , but the[Newegg Custom PC Builder](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.newegg.com%2Ftools%2Fcustom-pc-builder) is also worth a shout.
+ PCPartPicker tops the list because it's [the biggest and best of the PC hardware compatibility bunch](https://www.makeuseof.com/best-custom-pc-builder-website/) , but the [Newegg Custom PC Builder](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.newegg.com%2Ftools%2Fcustom-pc-builder) is also worth a shout.
 
  Now, what makes the Newegg Custom PC Builder a great option is the integration of its Build With AI tool, which you can use to build up a PC with compatible parts quickly. Alternatively, you can still select individual components, which Newegg streamlines for compatibility with each selection.
 
@@ -58,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 
 ## 5\. Google Bard (Or Another Internet-Connected AI Chatbot)
 
- The world's leading AI chatbot, ChatGPT, doesn't have direct internet access. Or rather, it did, but it has been switched off at the time of writing. But that's no problem because we can[turn to Google's Bard AI chatbot instead](https://www.makeuseof.com/how-to-use-google-bard/) to help check if our hardware is compatible.
+ The world's leading AI chatbot, ChatGPT, doesn't have direct internet access. Or rather, it did, but it has been switched off at the time of writing. But that's no problem because we can [turn to Google's Bard AI chatbot instead](https://www.makeuseof.com/how-to-use-google-bard/) to help check if our hardware is compatible.
 
  You can use Bard to help check PC hardware compatibility in two ways. First, you can straight-up ask Bard to create a custom PC build for you, making sure each part is compatible.
 
@@ -66,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 
  Bard suggested the following build for a PC that can "play FPS games at least 1080p 60FPS" with "a high-end CPU and good GPU."
 
-* **CPU** : I[ntel Core i5-12600KF](https://www.amazon.com/Intel-i5-12600KF-Desktop-Processor-Unlocked/dp/B09FXFJW2F?linkCode=ll1&tag=muo-v2-53vo5f4-20&linkId=1a6fdfcfd07f1dc95f9124bd1a532c0a&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU2027728&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fways-check-pc-parts-compatible-before-buy%2F&asc%5Fcampaign=Evergreen)
+* **CPU** : I [ntel Core i5-12600KF](https://www.amazon.com/Intel-i5-12600KF-Desktop-Processor-Unlocked/dp/B09FXFJW2F?linkCode=ll1&tag=muo-v2-53vo5f4-20&linkId=1a6fdfcfd07f1dc95f9124bd1a532c0a&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU2027728&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fways-check-pc-parts-compatible-before-buy%2F&asc%5Fcampaign=Evergreen)
 * **GPU** :[Nvidia GeForce RTX 3060 Ti](https://www.amazon.com/ZOTAC-Graphics-IceStorm-Advanced-ZT-A30610H-10MLHR/dp/B097YW4FW9?linkCode=ll1&tag=muo-v2-53vo5f4-20&linkId=29be074a28fff6a50ef8308da83d8f66&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU2027728&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fways-check-pc-parts-compatible-before-buy%2F&asc%5Fcampaign=Evergreen)
 * **RAM** : Crucial Ballistix 16GB DDR4-3200 (2x8GB)
 * **Storage** :[Samsung 970 EVO Plus NVMe SSD](https://www.amazon.com/Samsung-970-EVO-Plus-MZ-V7S1T0B/dp/B07MFZY2F2?linkCode=ll1&tag=muo-v2-53vo5f4-20&linkId=b0a93347f049d255d129b29b8a31bae2&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU2027728&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fways-check-pc-parts-compatible-before-buy%2F&asc%5Fcampaign=Evergreen) \+ Seagate 1TB HDD
@@ -75,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 * **Case** :[Fractal Design Meshify C](https://www.amazon.com/Fractal-Design-FD-CA-MESH-C-BKO-TG-Case/dp/B074PGBGHW?linkCode=ll1&tag=muo-v2-53vo5f4-20&linkId=2988a0d9b367f61961482a1a79e14c47&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU2027728&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fways-check-pc-parts-compatible-before-buy%2F&asc%5Fcampaign=Evergreen)
 * **Operating System** : Windows 11
 
- I added the components to PCPartPicker (yes, it's worth checking the compatibility!), and the build comes to £1,200-ish (check the[PCParkPicker build list](https://uk.pcpartpicker.com/user/gavinspavin/saved/#view=zgbfpg) ). Bard did forget one thing though: a CPU cooler!
+ I added the components to PCPartPicker (yes, it's worth checking the compatibility!), and the build comes to £1,200-ish (check the [PCParkPicker build list](https://uk.pcpartpicker.com/user/gavinspavin/saved/#view=zgbfpg) ). Bard did forget one thing though: a CPU cooler!
 
  Consider also that Bard doesn't know or understand the prices of its suggestions. Although the build above comes to around £1,200, I asked it for another custom PC with a maximum budget of £1,500—but it downgraded the CPU and GPU despite having more headroom for better hardware (it could have suggested a higher specced 12th-Gen Intel CPU and an Nvidia GeForce RTX 3070 GPU).
 
@@ -87,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 
 ## 6\. Power Supply Calculator
 
- A power supply unit (PSU) calculator is a handy tool that helps you figure out the size of PSU your custom PC will need. There are[several power supply unit calculators](https://www.makeuseof.com/best-online-power-supply-calculators/) , including options from OuterVision, Cooler Master, and Be Quiet!, all of which can help you figure out what you need.
+ A power supply unit (PSU) calculator is a handy tool that helps you figure out the size of PSU your custom PC will need. There are [several power supply unit calculators](https://www.makeuseof.com/best-online-power-supply-calculators/) , including options from OuterVision, Cooler Master, and Be Quiet!, all of which can help you figure out what you need.
 
 ## 7\. Forums and Communities
 
@@ -115,3 +115,22 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/digital-nostalgia-segas-dreamcatcher-experience-for-android-users/"><u>Digital Nostalgia: Sega's Dreamcatcher Experience for Android Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/scrutinizing-mechanical-keys-impact-on-gamer-experience/"><u>Scrutinizing Mechanical Keys' Impact on Gamer Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/apples-impact-on-upcoming-pc-game-industry/"><u>Apple's Impact on Upcoming PC Game Industry?</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-to-fix-unrecognized-games-by-steam-service/"><u>Strategies to Fix Unrecognized Games by Steam Service</u></a></li>
+<li><a href="https://games-able.techidaily.com/galactic-genius-reviews-uncovering-top-brand-pcs/"><u>Galactic Genius Reviews: Uncovering Top Brand PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/in-depth-look-at-pimax-crystals-visual-mastery-and-misfires/"><u>In-Depth Look at Pimax Crystal’s Visual Mastery and Misfires</u></a></li>
+<li><a href="https://games-able.techidaily.com/echoes-of-yesteryears-gaming-systems-of-tomorrow/"><u>Echoes of Yesteryears: Gaming Systems of Tomorrow</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-vivo-y36-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Vivo Y36 Phones? | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-se-by-phone-number-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone SE by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/giggles-in-a-gigabyte-10-hilarious-video-concepts-to-share-online/"><u>Giggles in a Gigabyte  10 Hilarious Video Concepts to Share Online</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-maximizing-video-impact-with-youtube-cards-for-2024/"><u>[Updated] Maximizing Video Impact with YouTube Cards for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-unlock-your-videographer-potential-with-youtube-studio-edition-expertise/"><u>[Updated] Unlock Your Videographer Potential with YouTube Studio Edition Expertise</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-techs-elite-selection-the-top-10-video-recorders-online-for-2024/"><u>[Updated] Tech's Elite Selection  The Top 10 Video Recorders Online for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-looking-for-simple-steps-to-apply-fade-in-effect-to-your-text-in-premiere-pro-here-are-two-different-methods-along-with-an-alternative-way-to-fade-t/"><u>In 2024, Looking for Simple Steps to Apply Fade in Effect to Your Text in Premiere Pro? Here Are Two Different Methods Along with an Alternative Way to Fade Text in Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-underappreciated-film-phenoms-of-this-year/"><u>[Updated] The Underappreciated Film Phenoms of This Year</u></a></li>
+</ul></div>

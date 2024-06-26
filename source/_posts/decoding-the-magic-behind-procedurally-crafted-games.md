@@ -1,7 +1,7 @@
 ---
 title: Decoding the Magic Behind Procedurally Crafted Games
-date: 2024-06-21 19:11:51
-updated: 2024-06-24 10:35:35
+date: 2024-06-25T13:01:58.462Z
+updated: 2024-06-26T13:01:58.462Z
 tags:
   - games
 categories:
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 
 ## How Does Procedural Generation Work?
 
- Procedural generation starts with the algorithm and the seed. This is the basis of what you're trying to make, and the game will use this as the template for its creation. As the[X-Team blog](https://x-team.com/blog/procedural-generation-evolutionary-algorithms-and-possible-worlds/) puts it, the seed is "the DNA for a specific copy of whatever you're trying to procedurally produce."
+ Procedural generation starts with the algorithm and the seed. This is the basis of what you're trying to make, and the game will use this as the template for its creation. As the [X-Team blog](https://x-team.com/blog/procedural-generation-evolutionary-algorithms-and-possible-worlds/) puts it, the seed is "the DNA for a specific copy of whatever you're trying to procedurally produce."
 
  For example, you can use the human body as the seed of your procedural generation. You can then introduce variables to your algorithm, so the final product will always look like a person but have unique features with each run.
 
@@ -44,33 +44,27 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 
  So, here are a few modern titles which use this method when creating a game session.
 
-### No Man's Sky
-
-![No Mans Sky trailer screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/no-mans-sky-trailer-screenshot.jpg)
+### No Man's Sky ![No Mans Sky trailer screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/no-mans-sky-trailer-screenshot.jpg)
 
  Image Credit: PlayStation/[YouTube](https://www.youtube.com/watch?v=nLtmEjqzg7M&t=1s&ab%5Fchannel=PlayStation)
 
- This title is one of[the best space exploration games](https://www.makeuseof.com/best-space-based-exploration-crafting-games/) today owing to its use of procedural generation. Its developers used this technique to create over 18,000,000,000,000,000,000 (yes, that’s 18 zeroes) planets you can explore in the game world.
+ This title is one of [the best space exploration games](https://www.makeuseof.com/best-space-based-exploration-crafting-games/) today owing to its use of procedural generation. Its developers used this technique to create over 18,000,000,000,000,000,000 (yes, that’s 18 zeroes) planets you can explore in the game world.
 
  Because of this technique, each planet has its own unique ecosystem—including plants, animals, climates, and even alien species you may engage in trade or combat. Despite this massive game world, the game is only 15GB.
 
-### Civilization VI
-
-![Civilization VI trailer screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/civilization-vi-trailer-screenshot.jpg)
+### Civilization VI ![Civilization VI trailer screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/civilization-vi-trailer-screenshot.jpg)
 
  Image Credit: Sid Meier's Civilization/[YouTube](https://www.youtube.com/watch?v=5KdE0p2joJw&ab%5Fchannel=SidMeier%27sCivilization)
 
  While the Civilization franchise have a few maps based on regions of the world and one map of the entire world, the main game mode uses procedural generation to create unique maps. So, whenever you start a random game, you’re guaranteed a unique world.
 
- This feature makes Civilization highly replayable. Even if you’re playing the games for several years, each session will be a challenge. That’s why Civilization VI, the latest release of the franchise, is one of[the best offline games you can play on the iPad](https://www.makeuseof.com/tag/best-offline-games-iphone-ipad/) .
+ This feature makes Civilization highly replayable. Even if you’re playing the games for several years, each session will be a challenge. That’s why Civilization VI, the latest release of the franchise, is one of [the best offline games you can play on the iPad](https://www.makeuseof.com/tag/best-offline-games-iphone-ipad/) .
 
-### Rust
-
-![Rust trailer screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/rust-trailer-screenshot.jpg)
+### Rust ![Rust trailer screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/rust-trailer-screenshot.jpg)
 
  Image Credit: Facepunch/[YouTube](https://www.youtube.com/watch?v=LGcECozNXEw&t=17s&ab%5Fchannel=Facepunch)
 
- Rust is one of[the best exploration and crafting games](https://www.makeuseof.com/best-exploration-and-crafting-games/) because of its massive and unique maps. These procedurally generated maps ensure that each map is unique, with natural and man-made features randomly placed in every iteration.
+ Rust is one of [the best exploration and crafting games](https://www.makeuseof.com/best-exploration-and-crafting-games/) because of its massive and unique maps. These procedurally generated maps ensure that each map is unique, with natural and man-made features randomly placed in every iteration.
 
 ## Play in Unique Game Worlds Created With Procedural Generation
 
@@ -91,3 +85,26 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/game-on-exploring-the-top-9-reasons-for-steam-users/"><u>Game On: Exploring the Top 9 Reasons for Steam Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/script-writing-revolution-chatgpt/"><u>Script Writing Revolution: ChatGPT</u></a></li>
+<li><a href="https://games-able.techidaily.com/uniting-play-step-by-step-guide-for-controller-linkage/"><u>Uniting Play: Step-by-Step Guide for Controller Linkage</u></a></li>
+<li><a href="https://games-able.techidaily.com/investment-tactics-fortnite-coins-on-sonys-platform/"><u>Investment Tactics: Fortnite Coins on Sony's Platform</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-nintendo-switch-game-with-peripherals-90-chars/"><u>Elevate Your Nintendo Switch Game With Peripherals (90 Chars)</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-virtual-voyage-review-meta-quest-3/"><u>The Ultimate Virtual Voyage Review: Meta Quest 3</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-game-stream-from-pc-to-cloud-platform/"><u>Xbox Game Stream: From PC to Cloud Platform</u></a></li>
+<li><a href="https://games-able.techidaily.com/psps-golden-age-delivered-via-your-iphone/"><u>PSP's Golden Age, Delivered via Your iPhone</u></a></li>
+<li><a href="https://games-able.techidaily.com/effortless-escapism-9-essential-tips-for-traveling-gamers/"><u>Effortless Escapism: 9 Essential Tips for Traveling Gamers</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/top-online-essentials-video-to-text-conversion-hacks/"><u>Top Online Essentials  Video to Text Conversion Hacks</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-crafting-revenue-in-20-second-chunks-youtube-shorts-magic/"><u>[New] Crafting Revenue in 20-Second Chunks  YouTube Shorts Magic</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Vivo Y28 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-beginners-tips-shooting-hero5-time-lapse-footage/"><u>In 2024, Beginner's Tips  Shooting Hero5 Time-Lapse Footage</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On HTC U23 Pro? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-find-a-solution-for-effortless-sky-replacement-photoshop-in-this-comprehensive-guide-also-use-the-easiest-video-editing-tool-to-make-your-medi/"><u>2024 Approved Find a Solution for Effortless Sky Replacement Photoshop in This Comprehensive Guide. Also, Use the Easiest Video Editing Tool to Make Your Media Stunning</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-cutting-edge-gaming-earpieces-for-youtubers-for-2024/"><u>The Cutting-Edge Gaming Earpieces for YouTubers for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-10-igtv-talents-ready-to-take-off/"><u>[New] 10 IGTV Talents Ready to Take Off</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-expolring-top-6-best-alternatives-to-clownfish-voice-changer/"><u>New 2024 Approved Expolring Top 6 Best Alternatives to Clownfish Voice Changer</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-players-picks-unveiling-our-top-10-adventure-classics-for-2024/"><u>[New] Players' Picks  Unveiling Our Top 10 Adventure Classics for 2024</u></a></li>
+</ul></div>

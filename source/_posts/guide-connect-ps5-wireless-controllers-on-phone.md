@@ -1,7 +1,7 @@
 ---
 title: "Guide: Connect PS5 Wireless Controllers on Phone"
-date: 2024-06-23 16:58:44
-updated: 2024-06-24 12:44:13
+date: 2024-06-25T13:04:52.526Z
+updated: 2024-06-26T13:04:52.526Z
 tags:
   - games
 categories:
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/925e71f91fee67d832ccee7c6f17e9bb429f4160d
 
 ## Which Smartphones Are Compatible With the PS5 Controller?
 
- The[PlayStation website](https://www.playstation.com/en-au/support/hardware/pair-dualsense-controller-bluetooth/#supported) states that the DualSense Controller is compatible with devices running Android 12 or later and iOS 14.5 or later. However, we were able to test the method on a device running Android 11 with no issues.
+ The [PlayStation website](https://www.playstation.com/en-au/support/hardware/pair-dualsense-controller-bluetooth/#supported) states that the DualSense Controller is compatible with devices running Android 12 or later and iOS 14.5 or later. However, we were able to test the method on a device running Android 11 with no issues.
 
  Not all Android devices are compatible with the DualSense Controller, however. The PlayStation website suggests consulting your device’s manufacturer to see if your device is compatible with the controller or not.
 
@@ -59,7 +59,7 @@ Close
 
  Put your controller in pairing mode by holding the Create and PS buttons down simultaneously. It should only take around three seconds before your controller light starts flashing to indicate it is in pairing mode.
 
- If you're unsure[what the DualSense Create button is](https://www.makeuseof.com/ps5-create-button/) , it's the small oval button on the left side of the touchpad.
+ If you're unsure [what the DualSense Create button is](https://www.makeuseof.com/ps5-create-button/) , it's the small oval button on the left side of the touchpad.
 
 ![a playstation 5 controller held in someone's hands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/a-playstation-5-controller-held-in-someone-s-hands.jpg)
 
@@ -91,7 +91,7 @@ Close
 
 Close
 
- If your operating software is compatible, press**General** in the top left corner to head back to your**Settings** and select**Bluetooth** . Ensure the**toggle** is switched on and[put your PS5 controller into pairing mode](https://www.makeuseof.com/how-to-ps5-dualsense-controller-pairing-mode/) .
+ If your operating software is compatible, press**General** in the top left corner to head back to your**Settings** and select**Bluetooth** . Ensure the**toggle** is switched on and [put your PS5 controller into pairing mode](https://www.makeuseof.com/how-to-ps5-dualsense-controller-pairing-mode/) .
 
  Scroll down to**Other Devices** on your mobile and wait until you see the**DualSense Wireless Controller** option.
 
@@ -134,3 +134,24 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/classic-consoles-reimagined-with-a-futuristic-twist/"><u>Classic Consoles Reimagined with a Futuristic Twist</u></a></li>
+<li><a href="https://games-able.techidaily.com/reinstating-aps-restart-license-on-ps5/"><u>Reinstating Aps: Restart License on PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/champions-choice-7-incredible-sports-games-for-iphonestablets/"><u>Champion's Choice: 7 Incredible Sports Games for iPhones/Tablets</u></a></li>
+<li><a href="https://games-able.techidaily.com/claim-your-spot-in-the-starfield-early-access-lottery/"><u>Claim Your Spot in the Starfield Early Access Lottery</u></a></li>
+<li><a href="https://games-able.techidaily.com/safeguarding-your-playstation-5-games-with-a-passcode/"><u>Safeguarding Your PlayStation 5 Games with a Passcode</u></a></li>
+<li><a href="https://games-able.techidaily.com/no-spinning-discs-no-stress-on-your-series-x/"><u>No Spinning Discs, No Stress! On Your Series X</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-ps5-buying-process-wisely/"><u>Navigating the PS5 Buying Process Wisely</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-the-role-of-xbox-covers/"><u>Discovering the Role of Xbox Covers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-guide-unveiling-the-top-8-youtube-boosters/"><u>[Updated] The Ultimate Guide  Unveiling the Top 8 Youtube Boosters</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-smilesketcher-generate-memes-with-a-click/"><u>In 2024, SmileSketcher  Generate Memes with a Click</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-2024-approved-make-well-done-animated-gif/"><u>Updated 2024 Approved Make Well Done Animated GIF</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/evaluating-second-count-for-a-20mb-visual-file-for-2024/"><u>Evaluating Second Count for a 20MB Visual File for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-realme-11x-5g-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Realme 11X 5G Location | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-breaking-into-fame-the-ultimate-tiktok-hit-list/"><u>[Updated] 2024 Approved  Breaking Into Fame  The Ultimate TikTok Hit List</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-infinix-smart-8-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-accelerate-video-processing-for-youtube-uploads/"><u>[Updated] Accelerate Video Processing for YouTube Uploads</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-what-should-consider-when-you-convert-mp3-into-mp4/"><u>New In 2024, What Should Consider when You Convert MP3 Into MP4</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Dive Into New Realms: Shifting From Minecraft Bedrock to Java Network Using GeyserMC"
-date: 2024-06-21 15:45:17
-updated: 2024-06-23 11:51:36
+date: 2024-06-25T13:02:45.785Z
+updated: 2024-06-26T13:02:45.785Z
 tags:
   - games
 categories:
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
 
  Image Credit: Jhet Borja/MUO
 
- You’ve probably been disappointed to find out that you and your friend aren’t playing the same editions of Minecraft and can’t play together. While there are plenty of[other ways to play Minecraft with friends](https://www.makeuseof.com/how-to-play-minecraft-with-friends/) , crossplay between Java and Bedrock isn't something that comes up often.
+ You’ve probably been disappointed to find out that you and your friend aren’t playing the same editions of Minecraft and can’t play together. While there are plenty of [other ways to play Minecraft with friends](https://www.makeuseof.com/how-to-play-minecraft-with-friends/) , crossplay between Java and Bedrock isn't something that comes up often.
 
  This is because the Minecraft Java and Bedrock editions aren’t written in the same programming language. Minecraft Bedrock Edition is written in C++ while the Java Edition is written in Java, as its name suggests.
 
@@ -42,9 +42,7 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
 
  However, the GeyserMC mod takes the C++ information and translates it to Java, emulating a Java Minecraft client. This allows Bedrock Edition players to join Java Edition servers and play as if they were on the same version of the game.
 
-## How Minecraft Bedrock Edition Players Can Join Java Edition Servers
-
-![Two Minecraft versions open at the same time](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/two-minecraft-versions-open-at-the-same-time.JPG)
+## How Minecraft Bedrock Edition Players Can Join Java Edition Servers ![Two Minecraft versions open at the same time](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/two-minecraft-versions-open-at-the-same-time.JPG)
 
  Image Credit: Jhet Borja
 
@@ -52,17 +50,15 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
 
 ### 1\. Set Up a Server
 
- Firstly, you should set up a server on[Aternos](https://aternos.org/) . Aternos is a free third-party server hosting service that has everything you need to set up a server to allow crossplay between Java and Bedrock.
+ Firstly, you should set up a server on [Aternos](https://aternos.org/) . Aternos is a free third-party server hosting service that has everything you need to set up a server to allow crossplay between Java and Bedrock.
 
 ![Aternos Create a Server button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/aternos-create-a-server-button.jpg)
 
  Once you’ve made an account on Aternos, click on**Create** to create a server and name it. Make sure to choose**Java Edition** on the blue bar above.
 
- Alternatively, you can[host your Minecraft server on a Raspberry Pi](https://www.makeuseof.com/tag/setup-minecraft-server-raspberry-pi/) .
+ Alternatively, you can [host your Minecraft server on a Raspberry Pi](https://www.makeuseof.com/tag/setup-minecraft-server-raspberry-pi/) .
 
-### 2\. Install GeyserMC
-
-![Choosing Minecraft Software on Aternos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/choosing-minecraft-software-on-aternos.jpg)
+### 2\. Install GeyserMC ![Choosing Minecraft Software on Aternos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/choosing-minecraft-software-on-aternos.jpg)
 
  Now that you’ve made your server, don’t turn it on yet. First, head to**Software** , then choose**Paper/Bukkit** on the software selection screen.
 
@@ -78,13 +74,11 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
 
  Finally, click on the small download icon to the very right of the most recent or compatible version.
 
- For your locally run server, head to[PaperMC.io](https://hangar.papermc.io/GeyserMC/Geyser) and download GeyserMC from there. In case you need to learn how to install the GeyserMC plugin, check out how to install plugins through[Bukkit](https://bukkit.fandom.com/wiki/Installing%5FPlugins) . If your existing server has a lot of mods already, you'll have to check for compatibility and the limitations of crossplaying between Java and Bedrock Edition
+ For your locally run server, head to [PaperMC.io](https://hangar.papermc.io/GeyserMC/Geyser) and download GeyserMC from there. In case you need to learn how to install the GeyserMC plugin, check out how to install plugins through [Bukkit](https://bukkit.fandom.com/wiki/Installing%5FPlugins) . If your existing server has a lot of mods already, you'll have to check for compatibility and the limitations of crossplaying between Java and Bedrock Edition
 
  Once that’s all done, you can now turn on and connect to your server in the next step.
 
-### 3\. Join the Minecraft Java Server on Bedrock Edition
-
-![MUO Aternos server start button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/muo-aternos-server-start-button.jpg)
+### 3\. Join the Minecraft Java Server on Bedrock Edition ![MUO Aternos server start button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/muo-aternos-server-start-button.jpg)
 
  On the main server screen, click**Start** to turn on the server. You can find the server connection details by clicking on**Connect** just below the server name. Copy the IP and port for the next step.
 
@@ -102,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
 
  One of the biggest issues is mod compatibility. Mods aren’t something that can be easily translated to different versions of Minecraft. You’ll be limited by simpler mods, like ones that a vanilla Java Edition player can still join.
 
- There are also more fundamental limitations that have no workarounds, like crafting in the 2x2 menu in creative mode, distinguishing between left and right clicks in the inventory, and a bunch more. You can check out the list of the latest limitations on the[official GeyserMC wiki](https://wiki.geysermc.org/geyser/current-limitations/) to find out all the limitations they know about.
+ There are also more fundamental limitations that have no workarounds, like crafting in the 2x2 menu in creative mode, distinguishing between left and right clicks in the inventory, and a bunch more. You can check out the list of the latest limitations on the [official GeyserMC wiki](https://wiki.geysermc.org/geyser/current-limitations/) to find out all the limitations they know about.
 
  While it has limitations, this can rarely get in the way of having fun. Now you don’t have to be worried that you and your friend have different versions of Minecraft. We hope this guide has helped you enjoy Minecraft with your friends no matter what they’re playing on.
 
@@ -121,3 +115,26 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/troubleshooting-steam-installation-issues-in-windows-11/"><u>Troubleshooting Steam Installation Issues in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/customization-mastery-the-ultimate-guide-to-personalizing-the-xbox-game-bar-in-windows/"><u>Customization Mastery: The Ultimate Guide to Personalizing the Xbox Game Bar in Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/rom-localization-made-simple-language-patch-guide/"><u>Rom Localization Made Simple: Language Patch Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionizing-gaming-with-wireless-controller-updates/"><u>Revolutionizing Gaming with Wireless Controller Updates</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfect-display-settings-xbox-series-xands-masterclass/"><u>Perfect Display Settings: Xbox Series X&S Masterclass</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-kids-safety-on-digital-playgrounds-like-discord/"><u>Navigating Kids' Safety on Digital Playgrounds Like Discord</u></a></li>
+<li><a href="https://games-able.techidaily.com/methodical-approach-to-retrieving-your-steam-user-id/"><u>Methodical Approach to Retrieving Your Steam User ID</u></a></li>
+<li><a href="https://games-able.techidaily.com/rhythm-revolutions-new-device-wins-gameplay/"><u>Rhythm Revolutions: New Device Wins Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/apples-impact-on-upcoming-pc-game-industry/"><u>Apple's Impact on Upcoming PC Game Industry?</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-xiaomi-mix-fold-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-oppo-a38-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Oppo A38 Lock Screen Password?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-prime-techniques-for-vhs-photo-effects-on-pconline-platforms/"><u>In 2024, Prime Techniques for VHS Photo Effects on PC/Online Platforms</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-cinemas-best-hope-fueled-film-selections/"><u>In 2024, Cinema's Best  Hope-Fueled Film Selections</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-becoming-an-illustration-maestro-best-mac-free-tools/"><u>2024 Approved  Becoming an Illustration Maestro - Best Mac Free Tools</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-oneplus-nord-n30-se-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your OnePlus Nord N30 SE Phone Network-Ready</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-tecno-spark-go-2024-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Tecno Spark Go (2024) phone? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigating-the-metaverse-with-elite-headsets/"><u>Navigating the Metaverse with Elite Headsets</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-utilizing-b-roll-in-video-production-effectively/"><u>In 2024, Utilizing B-Roll in Video Production Effectively</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-compressor-for-fcpx-best-practices-for-exporting-and-delivering-videos/"><u>New Compressor for FCPX Best Practices for Exporting and Delivering Videos</u></a></li>
+</ul></div>

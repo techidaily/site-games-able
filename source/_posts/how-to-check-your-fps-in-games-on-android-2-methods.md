@@ -1,7 +1,7 @@
 ---
 title: "How to Check Your FPS in Games on Android: 2 Methods"
-date: 2024-06-25T10:44:07.022Z
-updated: 2024-06-26T10:44:07.022Z
+date: 2024-06-25T12:48:37.926Z
+updated: 2024-06-26T12:48:37.926Z
 tags:
   - games
 categories:
@@ -20,15 +20,15 @@ thumbnail: https://thmb.techidaily.com/e36d4a2a6c674cd6677ba6814b8c312dcb4a11aef
 
 ## What Is an FPS Counter?
 
- The term[FPS has multiple meanings](https://www.makeuseof.com/video-games-fps-meaning/) , but "frames per second" specifically is a great way to indicate how optimally and smoothly your games are running. An FPS counter is a simple tool that displays the number of frames your device is rendering every second.
+ The term [FPS has multiple meanings](https://www.makeuseof.com/video-games-fps-meaning/) , but "frames per second" specifically is a great way to indicate how optimally and smoothly your games are running. An FPS counter is a simple tool that displays the number of frames your device is rendering every second.
 
  These calculations are in real-time and are useful for benchmarks, diagnosing issues, or just having peace of mind. The general formula dictates the more frames per second you have, the better your gaming experience is going to be.
 
- Enabling this feature on a computer is easy and accessible, given just how many good[FPS counter apps for Windows](https://www.makeuseof.com/fps-counter-apps-windows-11/) there are. For Android, on the other hand, your options are limited and quite finicky.
+ Enabling this feature on a computer is easy and accessible, given just how many good [FPS counter apps for Windows](https://www.makeuseof.com/fps-counter-apps-windows-11/) there are. For Android, on the other hand, your options are limited and quite finicky.
 
 ## 1\. Track FPS Using Your Default Game Booster App
 
- Most performance-centric Android phones have their own game booster app or plugin of some kind. For Poco it's the Game Turbo service, for ROG Phones it's called the X Mode, and there's also a[gaming mode for OnePlus devices](https://www.makeuseof.com/how-to-use-gaming-mode-on-oneplus-phones/) .
+ Most performance-centric Android phones have their own game booster app or plugin of some kind. For Poco it's the Game Turbo service, for ROG Phones it's called the X Mode, and there's also a [gaming mode for OnePlus devices](https://www.makeuseof.com/how-to-use-gaming-mode-on-oneplus-phones/) .
 
  Usually, the easiest way to enable the gaming mode on your phone is to launch a game that your game booster plugin supports, and you should automatically see a heads-up notification prompting you to enable or tamper with a few options. If not, look for a separate Games app in your app drawer and make sure your favorite games are added to the list.
 
@@ -46,9 +46,9 @@ To enable the FPS counter on a OnePlus phone for example:
 
  The method above should suffice for most gaming-centric phones from manufacturers like OnePlus, Xiaomi, ROG, and even Google. Unfortunately, not all phones come preloaded with a gaming mode.
 
- There are a couple of third-party apps on the Play Store that claim to do the job for you. However, most of the apps we tested only report your screen's[refresh rate as opposed to the actual frame rate](https://www.makeuseof.com/frame-rate-vs-refresh-rate-difference/) your GPU is rendering. We were able to find one free app that was decently accurate at displaying the in-game FPS: FPS Counter & Screen Recorder.
+ There are a couple of third-party apps on the Play Store that claim to do the job for you. However, most of the apps we tested only report your screen's [refresh rate as opposed to the actual frame rate](https://www.makeuseof.com/frame-rate-vs-refresh-rate-difference/) your GPU is rendering. We were able to find one free app that was decently accurate at displaying the in-game FPS: FPS Counter & Screen Recorder.
 
-1. Download the[FPS Counter app](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2028195/https://play.google.com/store/apps/details?id=com.running.fpsmeter) from the Play Store and launch it.
+1. Download the [FPS Counter app](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2028195/https://play.google.com/store/apps/details?id=com.running.fpsmeter) from the Play Store and launch it.
 2. Enable the**FPS Meter** toggle and when prompted, tap on**Start Now** to allow the app to record and cast your screen.
 3. Launch any game you like, and you should now see an FPS counter on your screen.
 4. Once you're done playing, make sure to go back to the app and turn the toggle off.

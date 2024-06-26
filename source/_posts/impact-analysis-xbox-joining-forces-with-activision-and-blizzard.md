@@ -1,7 +1,7 @@
 ---
 title: "Impact Analysis: Xbox Joining Forces with Activision & Blizzard"
-date: 2024-06-25T10:38:09.890Z
-updated: 2024-06-26T10:38:09.890Z
+date: 2024-06-25T12:48:34.108Z
+updated: 2024-06-26T12:48:34.108Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd
 
  Specifically, the deal between Microsoft and Activision/Blizzard refers to the acquisition of Activision/Blizzard by Microsoft for $68.7 billion, making it the biggest video game acquisition in history.
 
- The deal allowed Microsoft to own properties such as Call of Duty, Diablo, and World of Warcraft and utilize them on Xbox platforms and services. As for[reasons you should use Xbox Game Pass](https://www.makeuseof.com/reasons-to-get-xbox-game-pass/) or other Xbox services, including franchises like Call of Duty on gaming services make Xbox services all the more enticing.
+ The deal allowed Microsoft to own properties such as Call of Duty, Diablo, and World of Warcraft and utilize them on Xbox platforms and services. As for [reasons you should use Xbox Game Pass](https://www.makeuseof.com/reasons-to-get-xbox-game-pass/) or other Xbox services, including franchises like Call of Duty on gaming services make Xbox services all the more enticing.
 
 ![A screenshot of the loading screen for Diablo II Resurrected on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/diablo-ii-resurrected-loading-screen.jpg)
 
@@ -52,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd
 
  Aside from Xbox having a monopoly over Activision/Blizzard exclusivity and a sizable chunk of the industry, the deal further fuels the exclusivity race with rival platforms like PlayStation.
 
- While there are many[great Xbox Series X|S exclusives](https://www.makeuseof.com/the-best-xbox-exclusives-to-test-out-your-xbox-series-xs/) , acquiring Activision/Blizzard represents a drastic expansion of the exclusive games Xbox could offer. And typically, this is something that PlayStation is notoriously better at doing than Xbox.
+ While there are many [great Xbox Series X|S exclusives](https://www.makeuseof.com/the-best-xbox-exclusives-to-test-out-your-xbox-series-xs/) , acquiring Activision/Blizzard represents a drastic expansion of the exclusive games Xbox could offer. And typically, this is something that PlayStation is notoriously better at doing than Xbox.
 
 ![A promotional image of God of War Ragnarok depicting a scene from the game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/god-of-war.jpg)
 
@@ -66,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd
 
  Aside from implications and problems linked to exclusivity, Microsoft's acquisition of Activision/Blizzard has been flagged by independent experts as possibly increasing the costs of games and services.
 
- The UK-based Competitions and Markets Authority investigated the deal between Microsoft and Activision/Blizzard. As reported by[City A.M.](https://www.cityam.com/microsofts-activision-blizzard-bid/) , a CMA investigator stated that a mismanaged deal creates "higher prices, fewer choices, or less innovation."
+ The UK-based Competitions and Markets Authority investigated the deal between Microsoft and Activision/Blizzard. As reported by [City A.M.](https://www.cityam.com/microsofts-activision-blizzard-bid/) , a CMA investigator stated that a mismanaged deal creates "higher prices, fewer choices, or less innovation."
 
 ![A promotional image for Xbox Game Pass and EA Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/xbox-game-pass-and-ea-play.jpg)
 
@@ -74,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd
 
  While not guaranteed, the acquisition of Activision/Blizzard by Microsoft is connected by the CMA to a potential increase in the costs you may face for your games and gaming services.
 
- And while there may be many[reasons you will see the price of Xbox Game Pass increasing](https://www.makeuseof.com/reasons-xbox-game-pass-will-get-more-expensive/) , the price tag of $68.7 billion for Activision/Blizzard will only inflate things further. So, even if you're a fan of Xbox, you may still be affected by price increases associated with the deal.
+ And while there may be many [reasons you will see the price of Xbox Game Pass increasing](https://www.makeuseof.com/reasons-xbox-game-pass-will-get-more-expensive/) , the price tag of $68.7 billion for Activision/Blizzard will only inflate things further. So, even if you're a fan of Xbox, you may still be affected by price increases associated with the deal.
 
 ## Why the Activision/Blizzard Deal May Not Be as Bad as You Think
 
@@ -84,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd
 
  One of the main reasons you may be worried about Microsoft's acquisition of Activision/Blizzard is how the deal stands to spur on platform exclusivity.
 
- However, Xbox releases most of its exclusive games on both PC and Xbox, so the idea that the deal would make Activision/Blizzard titles solely available on Xbox Series X|S is unlikely. And even with an intent to make Activision/Blizzard titles exclusive, Xbox would be unable to do so until 2038, as reported by the[BBC](https://www.bbc.com/news/technology-67066870) .
+ However, Xbox releases most of its exclusive games on both PC and Xbox, so the idea that the deal would make Activision/Blizzard titles solely available on Xbox Series X|S is unlikely. And even with an intent to make Activision/Blizzard titles exclusive, Xbox would be unable to do so until 2038, as reported by the [BBC](https://www.bbc.com/news/technology-67066870) .
 
  And if that wasn't enough, Phil Spencer, the head of Xbox, confirmed via the Official Xbox Podcast that all future Call of Duty games will be available on all platforms.
 
@@ -104,7 +104,7 @@ thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd
 
  Along with multiple generations of backwards compatibility for Xbox consoles and Xbox All Access,[Xbox is one of the most consumer-friendly platforms](https://www.makeuseof.com/ways-microsoft-has-made-the-xbox-series-xs-the-most-consumer-friendly-console/) in gaming. Acquiring Activision/Blizzard spreads Xbox's pro-consumer values to Activision/Blizzard titles.
 
- Activision/Blizzard is also a company marred by controversy, as reported by[Forbes](https://www.forbes.com/sites/tylerroush/2023/02/03/activision-blizzard-will-pay-sec-35-million-to-settle-claims-over-its-workplace-misconduct-disclosures/) . And with the completion of Microsoft's acquisition,[Forbes](https://www.forbes.com/sites/conormurray/2023/10/13/activision-blizzard-ceo-bobby-kotick-set-to-leave-in-december-heres-what-to-know-about-his-controversies/) highlights that as a result of the deal's completion, the Managing Director of Activision/Blizzard, Bobby Kotick, exited the company.
+ Activision/Blizzard is also a company marred by controversy, as reported by [Forbes](https://www.forbes.com/sites/tylerroush/2023/02/03/activision-blizzard-will-pay-sec-35-million-to-settle-claims-over-its-workplace-misconduct-disclosures/) . And with the completion of Microsoft's acquisition,[Forbes](https://www.forbes.com/sites/conormurray/2023/10/13/activision-blizzard-ceo-bobby-kotick-set-to-leave-in-december-heres-what-to-know-about-his-controversies/) highlights that as a result of the deal's completion, the Managing Director of Activision/Blizzard, Bobby Kotick, exited the company.
 
  So, if you take the pro-consumer practices Xbox engages in with the changing of the guard at Activision/Blizzard, the deal injects hope into a troubled company, highlighting a positive change for Activision/Blizzard and consumers.
 
@@ -114,7 +114,7 @@ thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd
 
  Throughout the acquisition of Activision/Blizzard by Microsoft, you may have noticed numerous stories and pushback from platforms like PlayStation speaking out against the deal.
 
- But if you follow the discussions on Xbox and its place in the industry against competitors, Microsoft president Brad Smith said via[Bloomberg UK](https://www.bloomberg.com/news/articles/2022-12-13/microsoft-says-it-offered-ftc-consent-decree-on-call-of-duty?leadSource=uverify%20wall) that "if you look at the global market, Sony has 70% of that market, and we have 30%".
+ But if you follow the discussions on Xbox and its place in the industry against competitors, Microsoft president Brad Smith said via [Bloomberg UK](https://www.bloomberg.com/news/articles/2022-12-13/microsoft-says-it-offered-ftc-consent-decree-on-call-of-duty?leadSource=uverify%20wall) that "if you look at the global market, Sony has 70% of that market, and we have 30%".
 
 ![A photograph of an PlayStation 5 console and controller atop a white surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/playstation-5.jpg)
 

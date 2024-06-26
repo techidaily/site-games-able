@@ -1,7 +1,7 @@
 ---
 title: What Makes a Great Steam Deck?
-date: 2024-06-22 16:40:15
-updated: 2024-06-24 11:46:58
+date: 2024-06-25T13:28:55.733Z
+updated: 2024-06-26T13:28:55.733Z
 tags:
   - games
 categories:
@@ -27,11 +27,11 @@ thumbnail: https://thmb.techidaily.com/69a1f779573ffb1d9703aa1f0c2a82407b77bc350
 | Storage type     | eMMC          | NVMe SSD                                               | NVMe SSD                                                                                                                         |
 | Extras           | Carrying case | Carrying case Exclusive Steam Community profile bundle | Anti-glare etched glass screen Exclusive carrying case Exclusive Steam Community profile bundle Exclusive virtual keyboard theme |
 
- Storage aside, the hardware inside all three Steam Deck models is identical. It includes an AMD APU (combining Zen 2 and RDNA 2 architectures), 16GB RAM, Bluetooth, Wi-Fi, 40Whr battery, and runs SteamOS. Every model supports the optional[Steam Deck Docking Station](https://store.steampowered.com/steamdeckdock) .
+ Storage aside, the hardware inside all three Steam Deck models is identical. It includes an AMD APU (combining Zen 2 and RDNA 2 architectures), 16GB RAM, Bluetooth, Wi-Fi, 40Whr battery, and runs SteamOS. Every model supports the optional [Steam Deck Docking Station](https://store.steampowered.com/steamdeckdock) .
 
- Providing a game passes[the Steam Deck compatibility check](https://www.makeuseof.com/how-to-check-steam-deck-compatibility/) , Valve's handheld can run it, albeit for more intense games you'll need to crank down the graphics if you want 60 frames per second.
+ Providing a game passes [the Steam Deck compatibility check](https://www.makeuseof.com/how-to-check-steam-deck-compatibility/) , Valve's handheld can run it, albeit for more intense games you'll need to crank down the graphics if you want 60 frames per second.
 
- For full information on the hardware, see Valve's[Steam Deck tech specs page](https://www.steamdeck.com/en/tech) .
+ For full information on the hardware, see Valve's [Steam Deck tech specs page](https://www.steamdeck.com/en/tech) .
 
 ## Do You Need Greater Storage?
 
@@ -61,7 +61,7 @@ Every model of the Steam Deck has the same display hardware:
 * **Brightness:** 400 nits
 * **Refresh rate:** 60Hz
 
- Whichever model you choose, you should find the Steam Deck's screen to be crisp, bright, and colorful. While it can't compete with the[vivid display on the OLED Nintendo Switch](https://www.makeuseof.com/what-is-nintendo-switch-oled-vivid-mode/) , it's still decent.
+ Whichever model you choose, you should find the Steam Deck's screen to be crisp, bright, and colorful. While it can't compete with the [vivid display on the OLED Nintendo Switch](https://www.makeuseof.com/what-is-nintendo-switch-oled-vivid-mode/) , it's still decent.
 
  The difference with the $649 model of the Steam Deck is that the screen has anti-glare etched glass. This means it should be easier to see in bright environments—like playing outside on a sunny day.
 
@@ -69,11 +69,11 @@ Every model of the Steam Deck has the same display hardware:
 
  Image Credit:[Valve](https://www.steamdeck.com/en/press)
 
- According to[PC Gamer](https://www.pcgamer.com/steam-decks-anti-glare-screen-is-actually-playable-in-bright-sunlight/) , with the Steam Deck at maximum brightness and the sun beaming, you can still comfortably make out what's on the anti-glare screen. However, it noted that the screen does struggle outdoors when you're playing a particularly dark game.
+ According to [PC Gamer](https://www.pcgamer.com/steam-decks-anti-glare-screen-is-actually-playable-in-bright-sunlight/) , with the Steam Deck at maximum brightness and the sun beaming, you can still comfortably make out what's on the anti-glare screen. However, it noted that the screen does struggle outdoors when you're playing a particularly dark game.
 
 [TechRadar](https://www.techradar.com/reviews/steam-deck) claims that "while the anti-glare coating certainly reduces reflections, it’s not enough of a change to justify the higher price".
 
- In[our review of the Steam Deck](https://www.makeuseof.com/steam-deck-review-ultimate-portable-gaming-console/) , using the $529 model with the standard screen, we found that it "wasn't bright enough to play a dark game ... outdoors, even in the early evening."
+ In [our review of the Steam Deck](https://www.makeuseof.com/steam-deck-review-ultimate-portable-gaming-console/) , using the $529 model with the standard screen, we found that it "wasn't bright enough to play a dark game ... outdoors, even in the early evening."
 
  Ultimately, it depends on where you plan to play your Steam Deck. While the $649 model has the better screen, if you'll mostly play indoors then you'll rarely see the benefit. However, if you live in a sunny climate and plan to play outdoors, consider the upgrade.
 
@@ -117,7 +117,7 @@ Close
 
 ## What About the Steam Deck's Virtual Goodies?
 
- There are plenty of[ways to customize your Steam profile](https://www.makeuseof.com/how-to-customize-design-steam-profile/) , like with a background and avatar border, and you can grab these from the Steam Points Shop. The $529 and $649 models of the Steam Deck come with an exclusive Steam Community profile bundle, only available through purchase of a Deck, which you can see in the video above.
+ There are plenty of [ways to customize your Steam profile](https://www.makeuseof.com/how-to-customize-design-steam-profile/) , like with a background and avatar border, and you can grab these from the Steam Points Shop. The $529 and $649 models of the Steam Deck come with an exclusive Steam Community profile bundle, only available through purchase of a Deck, which you can see in the video above.
 
  The $649 Deck includes the profile bundle plus an exclusive virtual keyboard theme, which you can see in Valve's tweet above. It makes the on-screen keyboard of the Steam Deck look like a mechanical keyboard.
 
@@ -146,3 +146,22 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/games-vanish-quickly-is-it-a-concern/"><u>Games Vanish Quickly: Is It a Concern?</u></a></li>
+<li><a href="https://games-able.techidaily.com/improving-stability-in-mouse-scrolling-mechanism/"><u>Improving Stability in Mouse Scrolling Mechanism</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-new-dimensions-in-your-steam-deck-gameplay/"><u>Unlocking New Dimensions in Your Steam Deck Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-halts-loophole-exploitation-impact-explored/"><u>Steam Halts Loophole Exploitation: Impact Explored</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-insiders-secrets-for-optimized-switch-gameplay/"><u>The Insider's Secrets for Optimized Switch Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-top-ranked-gaming-chairs-for-heavyset-heroes/"><u>The Top-Ranked Gaming Chairs for Heavyset Heroes</u></a></li>
+<li><a href="https://games-able.techidaily.com/cheap-gaming-conquered-top-11-websites-for-low-cost-games/"><u>Cheap Gaming Conquered: Top 11 Websites for Low-Cost Games</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-achieving-seamless-video-communication-between-xbox-and-zoom/"><u>In 2024, Achieving Seamless Video Communication Between Xbox & Zoom</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-turning-off-igtv-on-your-account/"><u>2024 Approved  Turning Off IGTV on Your Account</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/new-20-best-anime-movies-you-cannot-miss-2024-list/"><u>New 20 Best Anime Movies You Cannot Miss 2024 List</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-tailored-trends-the-pathway-to-a-specialized-youtube-niche/"><u>2024 Approved  Tailored Trends  The Pathway to a Specialized Youtube Niche</u></a></li>
+<li><a href="https://ai-video.techidaily.com/updated-2024-approved-create-lip-sync-tiktok-videos-without-installing-any-app/"><u>updated 2024 Approved Create Lip Sync TikTok Videos Without Installing Any App</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-bring-more-life-to-your-instagram-feed-with-these-4-gif-tips-for-2024/"><u>[Updated] Bring More Life to Your Instagram Feed with These 4 GIF Tips for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-how-to-archive-instagram-movies-a-comprehensive-pc-and-mac-approach/"><u>[Updated] In 2024, How to Archive Instagram Movies  A Comprehensive PC & Mac Approach</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-iphone-6-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From iPhone 6</u></a></li>
+</ul></div>

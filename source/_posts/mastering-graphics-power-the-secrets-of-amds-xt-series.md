@@ -1,7 +1,7 @@
 ---
 title: "Mastering Graphics Power: The Secrets of AMD's XT Series"
-date: 2024-06-21 19:54:28
-updated: 2024-06-24 11:33:30
+date: 2024-06-25T13:05:01.543Z
+updated: 2024-06-26T13:05:01.543Z
 tags:
   - games
 categories:
@@ -28,13 +28,13 @@ thumbnail: https://thmb.techidaily.com/9b6181d7d07722f8a9a54201f128a4424f9e657e4
 
  For starters, both the Radeon RX 7800 XT and RX 7700 XT are built around AMD's brand-new Navi 32 GPU die, which adopts a chiplet-based design to reduce manufacturing costs and facilitate production. Like before, the central section of this GPU features a relatively smaller GCD (Graphics Compute Die) than Navi 31 (fabricated on TSMC's N5 process), flanked by four MCDs (Memory Complex Die) utilizing an older yet efficient N6 technology.
 
- Consequently, AMD's Radeon RX 7800 XT and RX 7700 XT share a similar configuration with the flagship RX 7900 Series (we've previously compared[RX 7900 XTX vs. RX 7900 XT](https://www.makeuseof.com/amd-radeon-rx-7900-xtx-vs-rx-7900-xt-comparison/) ), as opposed to the[budget-oriented RX 7600](https://www.makeuseof.com/amd-launches-radeon-rx-7600-what-to-expect/) , which employs a monolithic Navi 33 die. On paper, the RX 7800 XT benefits from a fully unlocked Navi 32 GPU, incorporating 60 CUs (or 3,840 Stream Processors), 120 AI accelerators, 64MB of Infinity Cache, and 16GB of GDDR6 memory (clocked at 19.5Gbps) over a 256-bit memory bus.
+ Consequently, AMD's Radeon RX 7800 XT and RX 7700 XT share a similar configuration with the flagship RX 7900 Series (we've previously compared [RX 7900 XTX vs. RX 7900 XT](https://www.makeuseof.com/amd-radeon-rx-7900-xtx-vs-rx-7900-xt-comparison/) ), as opposed to the [budget-oriented RX 7600](https://www.makeuseof.com/amd-launches-radeon-rx-7600-what-to-expect/) , which employs a monolithic Navi 33 die. On paper, the RX 7800 XT benefits from a fully unlocked Navi 32 GPU, incorporating 60 CUs (or 3,840 Stream Processors), 120 AI accelerators, 64MB of Infinity Cache, and 16GB of GDDR6 memory (clocked at 19.5Gbps) over a 256-bit memory bus.
 
  Meanwhile, the RX 7700 XT uses a cut-down version of the same GPU die with three active MCDs, housing 54 CUs (or 3,456 cores), 108 AI accelerators, 48MB of Infinity Cache, and 12GB of GDDR6 memory (on a narrower 192-bit memory bus) clocked at around 18Gbps. Owing to these adjustments, the RX 7700 XT prioritizes slightly higher clock speeds than the RX 7800 XT, registering an average Game Clock of 2,171MHz and a maximum Boost Clock of 2,544MHz.
 
  Regarding power consumption, both GPUs from AMD remain comparable across the board, with the RX 7700 XT officially rated at 245W, whilst the RX 7800 XT exhibits a marginal increase in its TBP of about 18W. Despite the RDNA 3 microarchitecture's generational improvement, Team Red's upcoming duo still suffers from an inferior power profile compared to Nvidia's AD104 and AD106 silicon.
 
- Aside from the differences in compute performance, memory subsystem, power consumption, and core frequencies, the Radeon RX 7800 XT and RX 7700 XT take advantage of all the latest and greatest features associated with the RDNA 3 microarchitecture. Both variants offer native support for the new[DisplayPort 2.1 standard](https://www.makeuseof.com/everything-you-need-to-know-displayport-21/) , AV1 encoding and decoding, along with other proprietary technologies from Team Red, including Radeon Super Resolution, Radeon Anti-Lag, and many more.
+ Aside from the differences in compute performance, memory subsystem, power consumption, and core frequencies, the Radeon RX 7800 XT and RX 7700 XT take advantage of all the latest and greatest features associated with the RDNA 3 microarchitecture. Both variants offer native support for the new [DisplayPort 2.1 standard](https://www.makeuseof.com/everything-you-need-to-know-displayport-21/) , AV1 encoding and decoding, along with other proprietary technologies from Team Red, including Radeon Super Resolution, Radeon Anti-Lag, and many more.
 
  Moving on to the connectivity front, AMD's port configuration for the RX 7800 XT and RX 7700 XT misses out on the highly convenient USB-C Virtual Link connector, as seen previously in the RX 7900 Series. While providing a maximum of four video outputs, the upcoming models will include three DisplayPort 2.1 UHBR13.5 ports (at data rates up to 54Gbps) alongside a single HDMI 2.1 connector.
 
@@ -108,3 +108,23 @@ thumbnail: https://thmb.techidaily.com/9b6181d7d07722f8a9a54201f128a4424f9e657e4
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/resolving-issues-with-steams-payment-system/"><u>Resolving Issues with Steam's Payment System</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-reality-check-unraveling-six-fallacies-of-mac-gaming/"><u>The Reality Check: Unraveling Six Fallacies of Mac Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-restore-faulty-steam-remote-play-on-pc/"><u>Steps to Restore Faulty Steam Remote Play on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-keyswap-speed-importance-and-impact/"><u>Understanding Keyswap Speed: Importance & Impact</u></a></li>
+<li><a href="https://games-able.techidaily.com/system-optimization-how-to-decrease-steams-ram-consumption/"><u>System Optimization: How to Decrease Steam's RAM Consumption</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-athletes-paradise-the-best-iosandroid-sports-games/"><u>Digital Athletes' Paradise: The Best iOS/Android Sports Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/scrutinizing-mechanical-keys-impact-on-gamer-experience/"><u>Scrutinizing Mechanical Keys' Impact on Gamer Experience</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-steps-to-prevent-youtube-channels-mobile-and-desktop-methods/"><u>2024 Approved  Steps to Prevent Youtube Channels  Mobile and Desktop Methods</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-complete-pathway-to-success-with-your-first-facebook-live-for-2024/"><u>[Updated] The Complete Pathway to Success with Your First Facebook Live for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-years-most-loved-youtube-music-video-responses/"><u>The Year's Most Loved YouTube Music Video Responses</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-insta-influence-made-simple/"><u>[New] In 2024, Insta-Influence Made Simple</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/park-interest-everyones-free-with-our-youtube-banner-samples/"><u>[New] Spark Interest - Everyone's Free With Our YouTube Banner Samples!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-immersive-gaming-unlocked-by-htcs-revolutionary-vr-headset/"><u>[Updated] Immersive Gaming Unlocked by HTC's Revolutionary VR Headset</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-honor-magic-6-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2023-ranking-top-6-apps-for-fb-lite-video-downloads-for-2024/"><u>[Updated] 2023 Ranking  Top 6 Apps for FB Lite Video Downloads for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/strategies-for-structuring-an-efficient-collaborative-office-environment/"><u>Strategies for Structuring an Efficient, Collaborative Office Environment</u></a></li>
+</ul></div>

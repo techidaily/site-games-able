@@ -1,7 +1,7 @@
 ---
 title: Elite Groupings of 16 Joint Console Players' Games
-date: 2024-06-22 15:33:31
-updated: 2024-06-24 12:11:29
+date: 2024-06-25T13:08:20.189Z
+updated: 2024-06-26T13:08:20.189Z
 tags:
   - games
 categories:
@@ -20,13 +20,13 @@ thumbnail: https://thmb.techidaily.com/56db2abce12454619eb56aa29719b3ba982081a75
 
 ## 1. LEGO Star Wars: The Skywalker Saga
 
- Frankly, you could pick any of the Traveller's Tales LEGO games and have a wonderful time (they all make for[excellent LEGO gifts](https://www.makeuseof.com/tag/best-lego-gifts/) ), but LEGO Star Wars: The Skywalker Saga is perhaps the best the developer has produced. It collects together all nine Star Wars films in an action-adventure experience designed for co-op, with hundreds of characters and vehicles to try.
+ Frankly, you could pick any of the Traveller's Tales LEGO games and have a wonderful time (they all make for [excellent LEGO gifts](https://www.makeuseof.com/tag/best-lego-gifts/) ), but LEGO Star Wars: The Skywalker Saga is perhaps the best the developer has produced. It collects together all nine Star Wars films in an action-adventure experience designed for co-op, with hundreds of characters and vehicles to try.
 
 ## 2. Rocket League
 
  If you're looking for some kinetic entertainment, you'll find it with the free-to-play Rocket League. You control a fast-paced vehicle, whizzing on the ground and through the air to hit a ball into a goal. It's soccer combined with vehicular chaos. You can either play in couch co-op or against one another.
 
- Rocket League is also one of[the best local multiplayer games for PC](https://www.makeuseof.com/tag/7-best-couch-co-op-games-pc/) . In fact, you can compete against PC players online, thanks to the game's cross compatibility.
+ Rocket League is also one of [the best local multiplayer games for PC](https://www.makeuseof.com/tag/7-best-couch-co-op-games-pc/) . In fact, you can compete against PC players online, thanks to the game's cross compatibility.
 
 ## 3. It Takes Two
 
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/56db2abce12454619eb56aa29719b3ba982081a75
 
 ## 4. Cuphead
 
- Cuphead is a difficult yet rewarding platformer that lovingly recreates the style of old hand drawn cartoons. It's inventive and charming, with boss fights so tough that you'll be glad for support from your friend on the couch. Plus, if you enjoy the game, there's an equally[decent Netflix animated series](https://www.makeuseof.com/tag/animated-shows-adults-netflix/) that you can watch together.
+ Cuphead is a difficult yet rewarding platformer that lovingly recreates the style of old hand drawn cartoons. It's inventive and charming, with boss fights so tough that you'll be glad for support from your friend on the couch. Plus, if you enjoy the game, there's an equally [decent Netflix animated series](https://www.makeuseof.com/tag/animated-shows-adults-netflix/) that you can watch together.
 
 ## 5. Overcooked! All You Can Eat
 
@@ -103,3 +103,27 @@ thumbnail: https://thmb.techidaily.com/56db2abce12454619eb56aa29719b3ba982081a75
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/dissecting-the-implications-of-xboxs-controller-policy-limitations/"><u>Dissecting the Implications of Xbox's Controller Policy Limitations</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-adding-sd-to-steam-deck/"><u>Step-by-Step: Adding SD to Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-great-sound-beyerdynamic-mmx-200-review/"><u>Discovering Great Sound: Beyerdynamic MMX 200 Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/geforce-now-your-portal-to-play-fortnite-on-ios/"><u>GeForce Now: Your Portal to Play Fortnite on iOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/akko-mod007b-for-gamers-hall-effect-keyboard-discovered/"><u>Akko MOD007B for Gamers: Hall Effect Keyboard Discovered</u></a></li>
+<li><a href="https://games-able.techidaily.com/connecting-retro-nintendo-games/"><u>Connecting Retro Nintendo Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/taking-your-games-home-taking-control/"><u>Taking Your Games Home, Taking Control</u></a></li>
+<li><a href="https://games-able.techidaily.com/mwcs-standout-tech-recognized-by-makeuseof/"><u>MWC's Standout Tech: Recognized by MakeUseOf</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-input-devices-for-switch-gaming-setup-90-chars/"><u>Essential Input Devices for Switch Gaming Setup (90 Chars)</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-guide-joysticks-vs-controllers-in-fights/"><u>Gamer's Guide: Joysticks Vs. Controllers in Fights</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-broadcast-showdown-the-faceoff-between-obs-and-shadowtoolkit/"><u>2024 Approved  Broadcast Showdown  The Faceoff Between OBS & ShadowToolKit</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-innovative-ways-to-decrease-audio-levels/"><u>[Updated] Innovative Ways to Decrease Audio Levels</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-superlative-frame-storyteller-bundle/"><u>2024 Approved  Superlative Frame Storyteller Bundle</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-making-a-splash-how-to-improve-your-videos-with-instagram-edits-for-2024/"><u>[Updated] Making a Splash  How to Improve Your Videos with Instagram Edits for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/decoding-the-modern-content-creators-dilemma/"><u>Decoding the Modern Content Creator's Dilemma</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-smoothest-android-3d-video-streaming/"><u>[New] Smoothest Android 3D Video Streaming</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-best-gopro-accessories-for-beginners/"><u>In 2024, Best GoPro Accessories for Beginners</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pictorial-pop-culture-their-tales/"><u>[Updated] Pictorial Pop Culture  Their Tales</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/metaverses-versus-omniverse-unveiled-for-2024/"><u>Metaverses Versus Omniverse Unveiled for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-xiaomi-redmi-a2plus-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Xiaomi Redmi A2+</u></a></li>
+</ul></div>

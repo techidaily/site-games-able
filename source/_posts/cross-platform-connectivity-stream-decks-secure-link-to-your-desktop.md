@@ -1,7 +1,7 @@
 ---
 title: "Cross-Platform Connectivity: Stream Deck's Secure Link to Your Desktop"
-date: 2024-06-25T10:41:10.481Z
-updated: 2024-06-26T10:41:10.481Z
+date: 2024-06-25T12:48:36.041Z
+updated: 2024-06-26T12:48:36.041Z
 tags:
   - games
 categories:
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/e274a732c7d0d3f61527d48aecc65a65fbbf84ca4
 
 ## How to Set Up Barrier on the Host PC
 
- Start by downloading the app from[Barrier's official GitHub page](https://github.com/debauchee/barrier) . To find it, click**Releases** on the right and scroll down to find**Assets** under the latest release. Click on**BarrierSetup-VERSION\_NUMBER-release.exe** to download it.
+ Start by downloading the app from [Barrier's official GitHub page](https://github.com/debauchee/barrier) . To find it, click**Releases** on the right and scroll down to find**Assets** under the latest release. Click on**BarrierSetup-VERSION\_NUMBER-release.exe** to download it.
 
 ![Barrier GitHub Releases Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/barrier-github-releases-page.jpg)
 
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/e274a732c7d0d3f61527d48aecc65a65fbbf84ca4
 
 ## How to Set Up Barrier on Steam Deck
 
- To be able to follow along, make sure to switch your Steam Deck to its**Desktop mode** . For more on that, read our guide on[how to use the Steam Deck as a desktop replacement](https://www.makeuseof.com/how-to-use-steam-deck-as-a-desktop-replacement/) .To install Barrier, start by running KDE's**Discover** (Software Center).
+ To be able to follow along, make sure to switch your Steam Deck to its**Desktop mode** . For more on that, read our guide on [how to use the Steam Deck as a desktop replacement](https://www.makeuseof.com/how-to-use-steam-deck-as-a-desktop-replacement/) .To install Barrier, start by running KDE's**Discover** (Software Center).
 
 ![Steam Deck Discover Software Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/steam-deck-discover-software-center.jpg)
 
@@ -74,11 +74,11 @@ thumbnail: https://thmb.techidaily.com/e274a732c7d0d3f61527d48aecc65a65fbbf84ca4
 
 ### Disable Any Firewalls
 
- On the Windows side, ensure your firewall grants access to Barrier. Check our guide on[how to allow apps through Windows firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) for more information on that.
+ On the Windows side, ensure your firewall grants access to Barrier. Check our guide on [how to allow apps through Windows firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) for more information on that.
 
 ### Check Your Router
 
- In rare cases, you might need to manually configure your router to "open" Barrier's port. Check our guide on[what are default open ports and should you change them](https://www.makeuseof.com/tag/technology-explained-open-router-ports-their-security-implications/) , where we also cover how to open ports on a router.
+ In rare cases, you might need to manually configure your router to "open" Barrier's port. Check our guide on [what are default open ports and should you change them](https://www.makeuseof.com/tag/technology-explained-open-router-ports-their-security-implications/) , where we also cover how to open ports on a router.
 
 ## One For All
 

@@ -1,7 +1,7 @@
 ---
 title: Game On! Discover Revolutionary Devices at IFA 2023
-date: 2024-06-21 11:10:47
-updated: 2024-06-24 11:12:26
+date: 2024-06-25T13:06:37.621Z
+updated: 2024-06-26T13:06:37.621Z
 tags:
   - games
 categories:
@@ -22,13 +22,11 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
 
  Plenty of brands had a fine showing of their gaming hardware at IFA 2023\. But it was Lenovo that proverbially mopped the floor with the competition. It unveiled not one, or even two, but three pieces of gaming hardware that show Lenovo is making serious moves to become a leader in some of the game tech still in its infancy: portable gaming PCs and AR glasses.
 
-### Lenovo Legion GO
-
-![MUO site on Lenovo Legion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/muo-on-legion.jpg)
+### Lenovo Legion GO ![MUO site on Lenovo Legion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/muo-on-legion.jpg)
 
  Image Credit: Justin Duino /[MakeUseOf](http://www.makeuseof.com)
 
- Undoubtedly, the stand-out gaming tech of IFA 2023, the[Lenovo Legion GO](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Flegiongo%2F) , effectively stole the attention of every attendee who passed by Lenovo's booth. And who can blame them? The yellow RGB light around the joysticks of the Lenovo Legion GO makes it feel like it's ripped straight out of a "Deus Ex" game, giving it that "the future is now" look.
+ Undoubtedly, the stand-out gaming tech of IFA 2023, the [Lenovo Legion GO](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Flegiongo%2F) , effectively stole the attention of every attendee who passed by Lenovo's booth. And who can blame them? The yellow RGB light around the joysticks of the Lenovo Legion GO makes it feel like it's ripped straight out of a "Deus Ex" game, giving it that "the future is now" look.
 
  It doesn't just look pretty, though. It's sporting impressive specs, too:
 
@@ -36,9 +34,7 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
 * AMD Ryzen Z1/ Z1 Extreme processor
 * 512GB storage
 * MicroSD card reader
-* 8.8-inch OLED screen
-
-![Windows running on Lenovo Legion Go](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-windows.jpg)
+* 8.8-inch OLED screen ![Windows running on Lenovo Legion Go](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-windows.jpg)
 
  Image Credit: Justin Duino /[MakeUseOf](http://www.makeuseof.com)
 
@@ -60,9 +56,7 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
 
  The Lenovo Legion GO is scheduled to launch on October 31, 2023, for $799.
 
-### Lenovo Legion Glasses
-
-![legion-glasses-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-glasses-1.jpg)
+### Lenovo Legion Glasses ![legion-glasses-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-glasses-1.jpg)
 
  Image Credit: Justin Duino /[MakeUseOf](http://www.makeuseof.com)
 
@@ -80,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
 
  Image Credit: Justin Duino/[MakeUseOf](http://www.makeuseof.com)
 
- But are they better than its competition, namely the[XReal Air smart glasses, arguably the best accessory for the Steam Deck](https://www.makeuseof.com/nreal-air-glasses-are-the-best-accessory-for-steam-deck/) ? That remains to be seen. They're a bit heavier at 5oz (142g) than the XReal Air's 2.6oz (75g). But with the adjustable nose pads and its anti-slip adapter, pressure on the nose may not make the glasses feel like they're going to fall off.
+ But are they better than its competition, namely the [XReal Air smart glasses, arguably the best accessory for the Steam Deck](https://www.makeuseof.com/nreal-air-glasses-are-the-best-accessory-for-steam-deck/) ? That remains to be seen. They're a bit heavier at 5oz (142g) than the XReal Air's 2.6oz (75g). But with the adjustable nose pads and its anti-slip adapter, pressure on the nose may not make the glasses feel like they're going to fall off.
 
 ![Nosepad of the Legion Glasses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-glasses-nosepad.jpg)
 
@@ -88,15 +82,13 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
 
  The rebranded Lenovo Legion Glasses will be available sometime in October 2023 for $329.
 
-### Lenovo Legion 9i
-
-![legion-9i-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-9i-2.jpg)
+### Lenovo Legion 9i ![legion-9i-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-9i-2.jpg)
 
  Image Credit: Justin Duino /[MakeUseOf](http://www.makeuseof.com)
 
- Let's get one thing out of the way: the[Lenovo Legion 9i](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Flegion-laptops%2Flegion-9-series%2Flegion-9i-gen-8-%2816-inch-intel%29%2F83agcto1wwus1) fetches a crazy price: $4,399\. It's packed with premium features and new ideas, straying away from previous builds of the Legion series. So, what does this high price get you?
+ Let's get one thing out of the way: the [Lenovo Legion 9i](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Flegion-laptops%2Flegion-9-series%2Flegion-9i-gen-8-%2816-inch-intel%29%2F83agcto1wwus1) fetches a crazy price: $4,399\. It's packed with premium features and new ideas, straying away from previous builds of the Legion series. So, what does this high price get you?
 
- An integrated liquid cooling system, for starters. Unlike most laptops that utilize air cooling to safely transfer heat away from the important bits of your PC, the Legion 9i uses liquid cooling technology to keep its internal temperature at a reasonable level. It's the same[principle behind water-cooled PCs](https://www.makeuseof.com/water-cooled-pc/) but in laptop form.
+ An integrated liquid cooling system, for starters. Unlike most laptops that utilize air cooling to safely transfer heat away from the important bits of your PC, the Legion 9i uses liquid cooling technology to keep its internal temperature at a reasonable level. It's the same [principle behind water-cooled PCs](https://www.makeuseof.com/water-cooled-pc/) but in laptop form.
 
 ![Legion 9i's cooling system](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-9i-cooling-system.jpg)
 
@@ -114,13 +106,11 @@ The Legion 9i features a:
 
 The Lenovo Legion 9i will be available starting October 2023.
 
-## MSI GAMING SLIM Series Graphics Cards
-
-![msi 4070 slimline gpu on msi stand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/msi-4070-slimline-gpu-on-msi-stand.jpg)
+## MSI GAMING SLIM Series Graphics Cards ![msi 4070 slimline gpu on msi stand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/msi-4070-slimline-gpu-on-msi-stand.jpg)
 
  Image Credit: Gavin Phillips/MakeUseOf
 
- MSI impressed us with its new line of[GAMING SLIM series of graphics cards](https://www.msi.com/Graphics-Card/GeForce-RTX-4060-Ti-GAMING-X-SLIM-16G) . It effectively shrinks down the GeForce RTX 40 series, making installing it in small or tight spaces easier.
+ MSI impressed us with its new line of [GAMING SLIM series of graphics cards](https://www.msi.com/Graphics-Card/GeForce-RTX-4060-Ti-GAMING-X-SLIM-16G) . It effectively shrinks down the GeForce RTX 40 series, making installing it in small or tight spaces easier.
 
  Available in both black and white, MSI's GAMING SLIM graphics cards are also cooled by the TRI FROZR 3 and TORX Fan 5.0, directing proper airflow despite its small profile. It keeps itself cool with eight Core Pipes in the heatsink and a metal backplate with an opening to decrease heat.
 
@@ -130,9 +120,7 @@ The Lenovo Legion 9i will be available starting October 2023.
 
  MSI's GAMING SLIM version of its GeForce RTX 40 series graphics cards will be released sometime later this year.
 
-## Tecno MegaMini Watercooled Mini PC
-
-![The MegaMini Gaming G1 watercooled mini PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/megamini-gaming-g1.jpg)
+## Tecno MegaMini Watercooled Mini PC ![The MegaMini Gaming G1 watercooled mini PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/megamini-gaming-g1.jpg)
 
  Image Credit: Paul Antill/[MakeUseOf](http://www.makeuseof.com)
 
@@ -167,3 +155,24 @@ No word on the price or release date yet, but color us intrigued.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/disc-mishap-learn-how-to-manually-extract-series-x/"><u>Disc Mishap? Learn How To Manually Extract Series X</u></a></li>
+<li><a href="https://games-able.techidaily.com/hall-effect-keys-in-focus-review-of-modular-board-mod007b/"><u>Hall Effect Keys in Focus - Review of Modular Board MOD007B</u></a></li>
+<li><a href="https://games-able.techidaily.com/adapting-playstation-controller-for-pcmac-gaming/"><u>Adapting PlayStation Controller for PC/Mac Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-the-perplexing-roblox-error-code-403-for-windows-users/"><u>Fixing the Perplexing Roblox Error Code 403 for Windows Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/unbeatable-connectivity-choosing-top-ethernets/"><u>Unbeatable Connectivity: Choosing Top Ethernets</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-duality-of-pimax-crystal-headset-sharpness-vs-stability/"><u>The Duality of Pimax Crystal Headset: Sharpness vs Stability</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-robloxs-error-code-262-step-by-step/"><u>Fixing Roblox's Error Code 262 Step-by-Step</u></a></li>
+<li><a href="https://games-able.techidaily.com/outsmart-glitching-computers-get-the-latest-nvidia-driver-now/"><u>Outsmart Glitching Computers – Get the Latest Nvidia Driver Now</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/astering-video-rankings-on-youtube-essential-seo-techniques-unveiled-for-2024/"><u>[New] Mastering Video Rankings on YouTube  Essential SEO Techniques Unveiled for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-oppo-reno-11-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Oppo Reno 11 5G FRP Bypass</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtube-live-thumbnails-the-ultimate-guide-for-2024/"><u>YouTube Live Thumbnails  The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-sony-blu-ray-player-s6700-new-insights/"><u>[Updated] Sony Blu-Ray Player S6700  New Insights</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-bring-your-gopro-adventures-online-facebookperiscope-livestream-setup/"><u>[Updated] 2024 Approved  Bring Your Gopro Adventures Online  Facebook/Periscope Livestream Setup</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-honor-v-purse-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Honor V Purse Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-backward-glance-decoding-youtube-video-reversals-for-2024/"><u>[Updated] Backward Glance  Decoding YouTube Video Reversals for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-conquer-common-youtube-short-setbacks/"><u>[Updated] Conquer Common YouTube Short Setbacks</u></a></li>
+</ul></div>

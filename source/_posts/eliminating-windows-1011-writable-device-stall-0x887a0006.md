@@ -1,7 +1,7 @@
 ---
 title: Eliminating Windows 10/11' Writable Device Stall (0X887A0006)
-date: 2024-06-22 15:15:28
-updated: 2024-06-24 11:24:51
+date: 2024-06-25T13:04:42.537Z
+updated: 2024-06-26T13:04:42.538Z
 tags:
   - games
 categories:
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
 
  Make sure the games that error 0x887A0006 crashes have full system access by running them with administrator rights. You can temporarily select to run a game with admin rights or set it to always run with elevated privileges. This is how you can configure an affected game to run as an administrator:
 
-1. First, bring up Windows 11’s file manager with a method in our[guide for opening Explorer](https://www.makeuseof.com/windows-open-file-explorer/) .
+1. First, bring up Windows 11’s file manager with a method in our [guide for opening Explorer](https://www.makeuseof.com/windows-open-file-explorer/) .
 2. Then open the installation folder that contains the game’s EXE (application file).
 3. Right-click the game’s EXE file and select**Properties** .
 4. Click the properties window’s**Compatibility** tab.
@@ -85,7 +85,7 @@ For Steam:
 
 ## 5\. Roll Back the Most Recent Graphics Driver Update
 
- A few players have said they fixed error 0x887A0006 by rolling back graphics drivers. Applying such a resolution will restore the previous graphics driver installed on your PC. If the file for your previous graphics driver remains saved, you can select to roll back the driver via Device Manager. This article about[how to roll back a driver](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) includes instructions for applying this possible fix.
+ A few players have said they fixed error 0x887A0006 by rolling back graphics drivers. Applying such a resolution will restore the previous graphics driver installed on your PC. If the file for your previous graphics driver remains saved, you can select to roll back the driver via Device Manager. This article about [how to roll back a driver](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) includes instructions for applying this possible fix.
 
 ![The Roll Back Driver button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/roll-back-driver-option.jpg)
 
@@ -95,7 +95,7 @@ For Steam:
 
  You can update an NVIDIA or AMD driver in a few different ways. Some users utilize driver updater software packages, but some of them don't update graphics drivers to the newest ones available. To ensure you’re installing the very latest driver available for your GPU, download it from the manufacturer’s website.
 
- Our guide for[updating your graphics drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) provides further details about the various methods.
+ Our guide for [updating your graphics drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) provides further details about the various methods.
 
 ![The NVIDIA driver downloads page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-nvidia-driver-download-page.jpg)
 
@@ -138,7 +138,7 @@ For Steam:
 
  Disabling Timeout Detection and Recovery is another potential 0x887A0006 error fix some players have confirmed works. Time Detection and Recovery is a Windows feature that resets an unresponsive graphics driver. You can disable that feature by editing the**GraphicsDrivers** registry key in the following steps:
 
-1. Launch Windows’ Registry Editor app (check out our guide on[how to open Regedit](https://www.makeuseof.com/windows-11-open-registry-editor/) for further instructions.)
+1. Launch Windows’ Registry Editor app (check out our guide on [how to open Regedit](https://www.makeuseof.com/windows-11-open-registry-editor/) for further instructions.)
 2. Navigate to this**GraphicsDrivers** registry key location by entering the following path in the address bar:  
 `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers`
 3. Right-click GraphicsDrivers and select that key’s**New** \>**DWORD (32-bit) Value** options.  
@@ -149,11 +149,9 @@ For Steam:
 6. Enter**0** in TdrLevel’s**Value** box, and select**OK** to save.
 7. Close the Regedit app, and then restart your PC.
 
-## 11\. Reinstall the Game That's Crashing
+## 11\. Reinstall the Game That's Crashing ![The Uninstall option in Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-option-2.jpg)
 
-![The Uninstall option in Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-option-2.jpg)
-
- Reinstalling an affected game is the last thing to try when all else fails. Applying this potential solution will likely fix corrupted or missing game files that could be causing error 0x887A0006\. Some players may be concerned about losing saved games when reinstalling, but you can[back up game saves](https://www.makeuseof.com/tag/protect-your-game-saves/) in numerous ways.
+ Reinstalling an affected game is the last thing to try when all else fails. Applying this potential solution will likely fix corrupted or missing game files that could be causing error 0x887A0006\. Some players may be concerned about losing saved games when reinstalling, but you can [back up game saves](https://www.makeuseof.com/tag/protect-your-game-saves/) in numerous ways.
 
  You might be able to uninstall an affected game via Programs and Features or Settings. If you can’t see a game listed there, however, you’ll need to uninstall the title within the gaming client software with which you installed it. Then select to install the game in your gaming client.
 
@@ -176,3 +174,26 @@ For Steam:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/chatgpt-chronicles-a-beginners-guide-to-interactive-narrative-roleplaying/"><u>ChatGPT Chronicles: A Beginner's Guide to Interactive Narrative Roleplaying</u></a></li>
+<li><a href="https://games-able.techidaily.com/8-revolutionary-features-of-edge-for-gamers/"><u>8 Revolutionary Features of Edge for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/valves-latest-features-expand-steam-sharing-for-families/"><u>Valve’s Latest Features Expand Steam Sharing for Families</u></a></li>
+<li><a href="https://games-able.techidaily.com/slim-tech-meets-colorful-fun-with-tecnos-new-releases/"><u>Slim Tech Meets Colorful Fun with Tecno's New Releases</u></a></li>
+<li><a href="https://games-able.techidaily.com/connecting-retro-nintendo-games/"><u>Connecting Retro Nintendo Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-perk-predicament-which-console-service-wins/"><u>Gaming Perk Predicament: Which Console Service Wins?</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-list-of-16-shared-screening-experiences-on-xbox/"><u>Optimal List of 16 Shared Screening Experiences on XBox</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-xbox-unlimited-access-with-x-series/"><u>Streamlining Xbox Unlimited Access with X Series</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoidance-techniques-stop-random-disconnections-from-ps4-pad-on-windows/"><u>Avoidance Techniques: Stop Random Disconnections From PS4 Pad on Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/wireless-methods-to-mirrorapple-iphone-11-pro-and-ipad-to-fire-stick-with-ease-drfone-by-drfone-ios/"><u>Wireless Methods to MirrorApple iPhone 11 Pro & iPad to Fire Stick With Ease | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-best-friends-at-your-feeds-disposal-topest-15-trusty-gratis-aid-sites/"><u>[New] Best Friends at Your Feed's Disposal  Topest 15 Trusty, Gratis Aid Sites</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On OnePlus Ace 2? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-maximizing-viewing-tweeting-in-high-definition-hd/"><u>[Updated] Maximizing Viewing  Tweeting in High Definition (HD)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-your-guide-to-gaining-facebooks-elite-verification-badge/"><u>2024 Approved  Your Guide to Gaining Facebook's Elite Verification Badge</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-snap-into-fb-shorts-saga-for-2024/"><u>[New] Snap Into FB Shorts Saga for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-understanding-sudden-account-lockdowns-on-copyright-violations/"><u>2024 Approved  Understanding Sudden Account Lockdowns on Copyright Violations</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-apple-iphone-11-pro-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your Apple iPhone 11 Pro Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-chromatic-brilliance-for-video-enthusiasts/"><u>[Updated] In 2024, Chromatic Brilliance for Video Enthusiasts</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-apple-iphone-12-location-is-wrong-drfone-by-drfone-virtual-ios/"><u>How to Fix My Apple iPhone 12 Location Is Wrong | Dr.fone</u></a></li>
+</ul></div>

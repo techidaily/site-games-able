@@ -1,7 +1,7 @@
 ---
 title: Pinpointing Pivotal Pros and Cons in Gaming Displays
-date: 2024-06-21 19:20:32
-updated: 2024-06-24 10:47:49
+date: 2024-06-25T12:53:06.075Z
+updated: 2024-06-26T12:53:06.075Z
 tags:
   - games
 categories:
@@ -40,17 +40,15 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
  As someone who doesn’t need to out-compete other players in speed and reaction time, I can save my money by compromising on refresh rate.
 
- If you’re confused with these terms, we have a dedicated guide on[the difference between refresh rate and frame rate](https://www.makeuseof.com/frame-rate-vs-refresh-rate-difference/) .
+ If you’re confused with these terms, we have a dedicated guide on [the difference between refresh rate and frame rate](https://www.makeuseof.com/frame-rate-vs-refresh-rate-difference/) .
 
  When it comes to refresh rates, any decent monitor (or TV) these days starts at 60Hz. This term, Hertz, is how we measure refresh rates. To put it simply, 60Hz means that a maximum of 60 images will appear on the screen every second. This standard refresh rate ensures a smooth and enjoyable gaming experience, making it a reliable starting point for any gamer. But since my TV (and most likely yours) is already at 60Hz, it’s better to get something a little over 60Hz.
 
  Therefore, my monitor must start at 75Hz, which is marginally better than 60Hz, but it’s just enough to play Fortnite and Need for Speed competently. If you’re more into fast-paced games, you’ll need a monitor at 144Hz or higher, which is the standard refresh rate for competitive gamers.
 
- I also always opt for monitors with some kind of[variable refresh rate (VRR) technology](https://www.makeuseof.com/variable-refresh-rate-video-games/) . Check for a FreeSync, G-Sync, or similar banner on your monitor. Getting a VRR monitor will help reduce the chance of your display stuttering or lagging.
+ I also always opt for monitors with some kind of [variable refresh rate (VRR) technology](https://www.makeuseof.com/variable-refresh-rate-video-games/) . Check for a FreeSync, G-Sync, or similar banner on your monitor. Getting a VRR monitor will help reduce the chance of your display stuttering or lagging.
 
-## 2 Resolution
-
-![Monitor displaying Cities Skylines video game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/monitor-displaying-cities-skylines-video-game.jpg)
+## 2 Resolution ![Monitor displaying Cities Skylines video game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/monitor-displaying-cities-skylines-video-game.jpg)
 
  Dreamchild Obari/MakeUseOf
 
@@ -86,13 +84,11 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
  Apart from getting a monitor with enough HDMI options, I always remember to check if the monitor I’m buying supports Thunderbolt ports and DisplayPorts. The Thunderbolt port ensures that I can use it to daisy-chain displays for my Mac, and DisplayPort supports higher refresh rates.
 
- I don’t necessarily use these ports all the time, but the option is comforting. If I find a good monitor without them, it’s still a good buy. High-end gamers need DisplayPorts, though, and you can see more arguments for DisplayPort in our guide on[DisplayPort 2.1 vs HDMI 2.1](https://www.makeuseof.com/hdmi-21-vs-displayport-21-whats-the-difference/) .
+ I don’t necessarily use these ports all the time, but the option is comforting. If I find a good monitor without them, it’s still a good buy. High-end gamers need DisplayPorts, though, and you can see more arguments for DisplayPort in our guide on [DisplayPort 2.1 vs HDMI 2.1](https://www.makeuseof.com/hdmi-21-vs-displayport-21-whats-the-difference/) .
 
  If you’re curious where USB ports and a 3.5mm headphone jack fit into all of this, well, I’ve never seen a gaming monitor without those ports, so I wouldn’t be too worried. Additionally, I’ve never had any need for USB and headphones on a gaming monitor; my PC can replace whatever function those ports provide.
 
-## 5 Brightness, Contrast, and HDR Capability
-
-![Monitor displaying HDR option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/monitor-displaying-hdr-option.jpg)
+## 5 Brightness, Contrast, and HDR Capability ![Monitor displaying HDR option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/monitor-displaying-hdr-option.jpg)
 
 Dreamchild Obari
 
@@ -100,9 +96,9 @@ Dreamchild Obari
 
  We measure display brightness in nits, and around 200 to 250 nits is where most generic monitors and TVs stand. I try to do better than that when choosing a monitor, and I select a monitor with at least 400 nits.
 
- As a bonus, most gaming monitors with high brightness also come with[HDR (high dynamic range) capability](https://www.makeuseof.com/what-is-hdr/) . HDR enhances the display’s ability to show a wider and richer range of illumination resulting in brighter whites and deeper blacks.
+ As a bonus, most gaming monitors with high brightness also come with [HDR (high dynamic range) capability](https://www.makeuseof.com/what-is-hdr/) . HDR enhances the display’s ability to show a wider and richer range of illumination resulting in brighter whites and deeper blacks.
 
- This means that most HDR monitors will have a good color gamut and a standard constant contrast ratio of 1000:1 (the lowest I can go). Additionally, current-gen consoles are designed to work with HDR. With an HDR-enabled monitor, you can[enable auto HDR on an Xbox X|S](https://www.makeuseof.com/how-to-enable-or-disable-auto-hdr-on-xbox-series-xs/) and[adjust HDR settings on a PS5](https://www.makeuseof.com/how-to-adjust-ps5-hdr-settings/) .
+ This means that most HDR monitors will have a good color gamut and a standard constant contrast ratio of 1000:1 (the lowest I can go). Additionally, current-gen consoles are designed to work with HDR. With an HDR-enabled monitor, you can [enable auto HDR on an Xbox X|S](https://www.makeuseof.com/how-to-enable-or-disable-auto-hdr-on-xbox-series-xs/) and [adjust HDR settings on a PS5](https://www.makeuseof.com/how-to-adjust-ps5-hdr-settings/) .
 
 ## 6 Panel and Display Type
 
@@ -143,3 +139,22 @@ Dreamchild Obari
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/win1111s-dxgierror-0x887a0006-unlock-your-device/"><u>Win11/11's DXGI_ERROR 0X887A0006: Unlock Your Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-windows-11-steam-service-disruptions/"><u>Resolving Windows 11: Steam Service Disruptions</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-fix-or-replace-a-broken-nintendo-switch/"><u>Troubleshooting: Fix or Replace a Broken Nintendo Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-ranked-8-light-emulators-for-playing-android-titles/"><u>Top-Ranked 8 Light Emulators for Playing Android Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-gaming-alliances-explained/"><u>Next-Gen Gaming Alliances Explained</u></a></li>
+<li><a href="https://games-able.techidaily.com/tailor-your-tech-for-peak-performance-personalizing-series-sxs-refresh-rate/"><u>Tailor Your Tech for Peak Performance: Personalizing Series S/X's Refresh Rate</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-potential-on-twitch-tips-for-quality-content/"><u>Unlocking Potential on Twitch: Tips for Quality Content</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-oneplus-11r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/addressing-iphone-lens-failures-a-step-by-step-approach-for-2024/"><u>Addressing iPhone Lens Failures  A Step-by-Step Approach for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/mastering-audio-clarity-techniques-for-eliminating-distortion-in-videos/"><u>Mastering Audio Clarity Techniques for Eliminating Distortion in Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/gently-reducing-sound-levels-in-operating-systems/"><u>Gently Reducing Sound Levels in Operating Systems</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-elevate-your-online-presence-with-these-top-30-username-ideas/"><u>[Updated] In 2024, Elevate Your Online Presence with These Top 30 Username Ideas</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/miniature-harmonies-character-music-journey/"><u>Miniature Harmonies  Character Music Journey</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-xiaomi-redmi-a2-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Xiaomi Redmi A2 Without Them Knowing? | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Navigating the Reporting Process for Uncivil Players (Xbox)
-date: 2024-06-21 11:22:18
-updated: 2024-06-24 12:28:22
+date: 2024-06-25T13:36:39.521Z
+updated: 2024-06-26T13:36:39.521Z
 tags:
   - games
 categories:
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/48994c9ff35faf512b4c69833faf0e7ff28b80b0d
 
 ![A screenshot of the available categories when reporting an Xbox Profile on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot-2986.jpg)
 
- It's also important to note that you can access people's profiles in multiple ways. You can even[report players via your Xbox console or the Xbox app](https://www.makeuseof.com/xbox-one-xbox-app-how-to-block-and-report-users/) .
+ It's also important to note that you can access people's profiles in multiple ways. You can even [report players via your Xbox console or the Xbox app](https://www.makeuseof.com/xbox-one-xbox-app-how-to-block-and-report-users/) .
 
 ## 2\. How to Report Inappropriate Xbox Messages
 
@@ -80,13 +80,13 @@ thumbnail: https://thmb.techidaily.com/48994c9ff35faf512b4c69833faf0e7ff28b80b0d
 
  Like with any other Xbox report, you can then define the specific categories of your report and hit**Submit** to finalize it. With the report linked to an individual Xbox Activity Feed post, you can rest assured that Xbox will be able to evaluate your report with the evidence provided.
 
- However, your own Xbox Activity Feed content can just as easily be flagged by other users. So, it's important when you post a game capture or[create an Xbox Club](https://www.makeuseof.com/how-to-make-a-club-on-xbox-series-x-s/) that you're confident the content is appropriate.
+ However, your own Xbox Activity Feed content can just as easily be flagged by other users. So, it's important when you post a game capture or [create an Xbox Club](https://www.makeuseof.com/how-to-make-a-club-on-xbox-series-x-s/) that you're confident the content is appropriate.
 
 ## 4\. How to Report In-Game Voice Chat on Xbox Series X|S
 
  A final way you can report inappropriate content on your Xbox, and the most unique way, is by highlighting inappropriate voice communications to Xbox.
 
- However, to report voice chats, you need to have saved 60-second voice clips onto your Xbox. Luckily, you can[record and report in-game voice chat from your Xbox Series X|S](https://www.makeuseof.com/how-to-save-and-report-in-game-voice-chat-on-xbox-series-xs/) . To record voice chat, follow these steps:
+ However, to report voice chats, you need to have saved 60-second voice clips onto your Xbox. Luckily, you can [record and report in-game voice chat from your Xbox Series X|S](https://www.makeuseof.com/how-to-save-and-report-in-game-voice-chat-on-xbox-series-xs/) . To record voice chat, follow these steps:
 
 * Open the Guide menu by pressing the**Xbox button** on your controller.
 * Highlight**Parties & chats** , and select the bottom option for**Report in-game voice chat** .
@@ -131,3 +131,27 @@ thumbnail: https://thmb.techidaily.com/48994c9ff35faf512b4c69833faf0e7ff28b80b0d
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/fixing-broken-link-between-win-and-xbox-controllers/"><u>Fixing Broken Link Between Win and Xbox Controllers</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-back-your-gaming-voice-headset-and-console-tips/"><u>Get Back Your Gaming Voice: Headset and Console Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-the-power-of-corsairs-icue-link-and-upgrade-impact/"><u>Explore the Power of Corsair's iCUE Link and Upgrade Impact</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-fixes-for-xbox-gold-membership-cost-surge/"><u>Quick Fixes for Xbox Gold Membership Cost Surge</u></a></li>
+<li><a href="https://games-able.techidaily.com/nostalgia-at-a-swipe-ios-and-the-classics-of-psp/"><u>Nostalgia at a Swipe: IOS and the Classics of PSP!</u></a></li>
+<li><a href="https://games-able.techidaily.com/pi-console-showdown-batocera-vs-retropie/"><u>Pi Console Showdown: Batocera Vs. RetroPie</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-potential-boosting-valorants-frame-rates-on-pc-platform/"><u>Unleashing Potential: Boosting Valorant's Frame Rates on PC Platform</u></a></li>
+<li><a href="https://games-able.techidaily.com/pocketplay-retro-small-screen-large-memories/"><u>PocketPlay Retro: Small Screen, Large Memories</u></a></li>
+<li><a href="https://games-able.techidaily.com/mobilize-your-tetris-skills-on-android-and-ios/"><u>Mobilize Your Tetris Skills on Android and iOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/oled-switch-with-antique-dock-connectivity/"><u>OLED Switch with Antique Dock Connectivity?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-much-can-you-earn-on-youtube-via-ad-revenue/"><u>[New] In 2024, How Much Can You Earn on YouTube via Ad Revenue?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-how-to-reverse-image-search-instagram/"><u>[Updated] 2024 Approved  How To Reverse Image Search Instagram</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/social-synergy-add-friends-effortlessly-on-devices-for-2024/"><u>Social Synergy  Add Friends Effortlessly on Devices for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tips-and-tricks-for-windows-hdr-video-workflows-for-2024/"><u>Tips and Tricks for Windows HDR Video Workflows for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-realme-narzo-60-5g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Realme Narzo 60 5G Phone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/perfecting-your-phones-capability-for-youtube-thumbnail-creation/"><u>Perfecting Your Phone's Capability for YouTube Thumbnail Creation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-media-with-top-5-photo-and-video-apps-on-iosandroid-devices/"><u>[New] Mastering Media with Top 5 Photo & Video Apps on iOS/Android Devices</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-essential-imovie-steps-for-squaring-up-instagram-posts/"><u>[New] The Essential iMovie Steps for Squaring Up Instagram Posts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-crafting-captivating-asmr-scenes-techniques-for-successful-recording/"><u>[New] In 2024, Crafting Captivating ASMR Scenes  Techniques for Successful Recording</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-importance-of-tracking-igtv-conversion-rates/"><u>The Importance of Tracking IGTV Conversion Rates</u></a></li>
+</ul></div>

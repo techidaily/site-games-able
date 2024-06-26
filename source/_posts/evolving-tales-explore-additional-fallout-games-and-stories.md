@@ -1,7 +1,7 @@
 ---
 title: "Evolving Tales: Explore Additional Fallout Games and Stories"
-date: 2024-06-25T10:38:43.378Z
-updated: 2024-06-26T10:38:43.378Z
+date: 2024-06-25T12:48:34.453Z
+updated: 2024-06-26T12:48:34.453Z
 tags:
   - games
 categories:
@@ -65,9 +65,9 @@ thumbnail: https://thmb.techidaily.com/144ba6c2b445ab473f613c1a9b64b4025f1536845
 
  You're immediately thrust into the world to find a new water chip, a piece of hardware vital for the creation of clean water. Once you begin exploring the wasteland, it emerges that a lack of clean water is far from the only terrifying issue facing the survivors, and the Vault Dweller must work to ensure peace and unity in the post-apocalyptic world. ([Clean water is vital to survive an apocalyptic scenario](https://www.makeuseof.com/diy-projects-survive-zombie-apocalypse/) , though).
 
- Fallout is an amazing series spanning multiple decades. Each game brings its own unique storyline, building out the lore of the wasteland and post-apocalyptic world, and now, with the Fallout TV series, it's only getting better. Not forgetting that Fallout is far from the only[post-apocalyptic show you can watch](https://www.makeuseof.com/tag/5-postapocalyptic-short-films-youtube-watch/) .
+ Fallout is an amazing series spanning multiple decades. Each game brings its own unique storyline, building out the lore of the wasteland and post-apocalyptic world, and now, with the Fallout TV series, it's only getting better. Not forgetting that Fallout is far from the only [post-apocalyptic show you can watch](https://www.makeuseof.com/tag/5-postapocalyptic-short-films-youtube-watch/) .
 
- Better still, each modern-era Fallout game has extensive modding support and extremely passionate communities. Once you get through with the game, you can install a bunch of mods to change the game, and there are even[enormous total conversion mods](https://gamerant.com/x-best-fallout-new-vegas-total-conversion-mods/) that breathe new life into each title.
+ Better still, each modern-era Fallout game has extensive modding support and extremely passionate communities. Once you get through with the game, you can install a bunch of mods to change the game, and there are even [enormous total conversion mods](https://gamerant.com/x-best-fallout-new-vegas-total-conversion-mods/) that breathe new life into each title.
 
 
 <ins class="adsbygoogle"

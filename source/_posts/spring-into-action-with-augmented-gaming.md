@@ -1,7 +1,7 @@
 ---
 title: Spring Into Action with Augmented Gaming
-date: 2024-06-21 15:59:13
-updated: 2024-06-23 12:33:40
+date: 2024-06-25T13:17:00.382Z
+updated: 2024-06-26T13:17:00.382Z
 tags:
   - games
 categories:
@@ -24,9 +24,7 @@ thumbnail: https://thmb.techidaily.com/30033eb1d439e3a5ccb9587805c5084ce6ce6344b
 
  Although there are plenty of reasons to spend time in natural outdoor settings, for some it is easier said than done. These fun AR (augmented reality) mobile games merge the real world with the virtual one to offer some get-up-and-go when it comes to spending time outside in nature!
 
-## 1\. Jurassic World Alive
-
-![Jurassic World Alive Creature Discovered](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Jurassic-World-Alive-Creature-Discovered.jpeg)
+## 1\. Jurassic World Alive ![Jurassic World Alive Creature Discovered](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Jurassic-World-Alive-Creature-Discovered.jpeg)
 
 ![Jurassic World Alive Battle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Jurassic-World-Alive-Battle.jpeg)
 
@@ -38,11 +36,9 @@ Close
 
  The game requires you to actually walk around on the map to collect different dinosaurs and have them compete in ferocious PvP battles. Moreover, you can even create your own unique dinosaur breeds using the in-game laboratory and the DNA you've accumulated.
 
-**Download:** Jurassic World Alive for[iOS](https://apps.apple.com/app/id1231085864?mt=8) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029750/https://play.google.com/store/apps/details?id=com.ludia.jw2) (Free, in-app purchases and subscription available)
+**Download:** Jurassic World Alive for [iOS](https://apps.apple.com/app/id1231085864?mt=8) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029750/https://play.google.com/store/apps/details?id=com.ludia.jw2) (Free, in-app purchases and subscription available)
 
-## 2\. ZRX
-
-![ZRX augmented reality mobile fitness game home tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/zrx-home.jpg)
+## 2\. ZRX ![ZRX augmented reality mobile fitness game home tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/zrx-home.jpg)
 
 ![ZRX zombies run augmented reality mobile fitness game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/zrx-zombies.jpg)
 
@@ -52,15 +48,13 @@ Close
 
  ZRX is the only app on this list that is actually dedicated to fitness. Essentially, the app allows you to select an interactive story and choose how to track your run, and as you move so does the story.
 
- Possibly the most well-known storyline is Zombies, Run! But[what is Zombies, Run all about](https://www.makeuseof.com/what-is-zombies-run-app/) ? Zombies, Run is a[beginner-friendly running app](https://www.makeuseof.com/ranking-best-running-apps-beginners/) that encourages you to get moving using scare tactics. Essentially, you have to survive the zombie epidemic while doing a variety of dangerous missions.
+ Possibly the most well-known storyline is Zombies, Run! But [what is Zombies, Run all about](https://www.makeuseof.com/what-is-zombies-run-app/) ? Zombies, Run is a [beginner-friendly running app](https://www.makeuseof.com/ranking-best-running-apps-beginners/) that encourages you to get moving using scare tactics. Essentially, you have to survive the zombie epidemic while doing a variety of dangerous missions.
 
- Alternatively, there is also a[5K training app](https://www.makeuseof.com/best-couch-to-5k-apps-train-fitness-race/) from Zombies, Run! team to help you train for the next big race.
+ Alternatively, there is also a [5K training app](https://www.makeuseof.com/best-couch-to-5k-apps-train-fitness-race/) from Zombies, Run! team to help you train for the next big race.
 
-**Download:** ZRX for[iOS](https://apps.apple.com/app/zrx-zombies-run-marvel-move/id503519713) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029750/https://play.google.com/store/apps/details?id=com.sixtostart.zombiesrunclient) (Free, in-app purchases and subscription available)
+**Download:** ZRX for [iOS](https://apps.apple.com/app/zrx-zombies-run-marvel-move/id503519713) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029750/https://play.google.com/store/apps/details?id=com.sixtostart.zombiesrunclient) (Free, in-app purchases and subscription available)
 
-## 3\. Pokémon GO
-
-![Pokemon GO augmented reality mobile game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pokemon-go.jpg)
+## 3\. Pokémon GO ![Pokemon GO augmented reality mobile game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pokemon-go.jpg)
 
 ![Pokemon GO augmented reality mobile game lechonk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pokemon-go-lechonk.jpg)
 
@@ -74,11 +68,9 @@ Close
 
  Additionally, you can get your 10,000 steps in as you walk around your area looking for Gyms where you can join teams and put your Pokémon to the test against others.
 
-**Download:** Pokémon GO for[iOS](https://apps.apple.com/app/pok%C3%A9mon-go/id1094591345) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029750/https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo) (Free, in-app purchases available)
+**Download:** Pokémon GO for [iOS](https://apps.apple.com/app/pok%C3%A9mon-go/id1094591345) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029750/https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo) (Free, in-app purchases available)
 
-## 4\. Draconius GO
-
-![Draconius GO augmented reality mobile game world map](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/draconius-go-world.jpg)
+## 4\. Draconius GO ![Draconius GO augmented reality mobile game world map](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/draconius-go-world.jpg)
 
 ![Draconius GO augmented reality mobile game firepaw](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/draconius-go-firepaw.jpg)
 
@@ -90,13 +82,11 @@ Close
 
  The objective of the game is straightforward—go outside to explore the map and find eggs to collect and hatch. Who knows, you might find anything from a rare, winged Basilisk to an adorable Berrydillo.
 
- As you play you can level up, learn awesome spells, collect magical objects, and even take part in dragon battles. So, not only can Draconius GO get you motivated to spend time outdoors, but it can also help you[make friends in your community](https://www.makeuseof.com/best-social-media-apps-for-making-friends/) .
+ As you play you can level up, learn awesome spells, collect magical objects, and even take part in dragon battles. So, not only can Draconius GO get you motivated to spend time outdoors, but it can also help you [make friends in your community](https://www.makeuseof.com/best-social-media-apps-for-making-friends/) .
 
-**Download:** Draconius GO for[iOS](https://apps.apple.com/app/draconius-go-catch-a-dragon/id1222496828) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029750/https://play.google.com/store/apps/details?id=net.elyland.DraconiusGO) (Free, in-app purchases available)
+**Download:** Draconius GO for [iOS](https://apps.apple.com/app/draconius-go-catch-a-dragon/id1222496828) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029750/https://play.google.com/store/apps/details?id=net.elyland.DraconiusGO) (Free, in-app purchases available)
 
-## 5\. Star Walk 2
-
-![Star Walk 2 augmented reality mobile app satellite](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/star-walk-2-satellite.jpg)
+## 5\. Star Walk 2 ![Star Walk 2 augmented reality mobile app satellite](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/star-walk-2-satellite.jpg)
 
 ![Star Walk 2 augmented reality mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/star-walk-2-ar.jpg)
 
@@ -108,11 +98,9 @@ Close
 
  Star Walk 2 is a stunning mobile app that is easy to use with a clear premise. In simple terms, the idea is to aim your mobile phone towards the sky to find constellations, planets, stars, satellites, and so much more. You can then tap on the images in space to view 3D models or to learn more information.
 
-**Download:** Star Walk 2 for[iOS](https://apps.apple.com/app/star-walk-2-ads-sky-tracker/id1112481571) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029750/https://play.google.com/store/apps/details?id=com.vitotechnology.StarWalk2Free) (Free, in-app purchases and subscription available)
+**Download:** Star Walk 2 for [iOS](https://apps.apple.com/app/star-walk-2-ads-sky-tracker/id1112481571) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029750/https://play.google.com/store/apps/details?id=com.vitotechnology.StarWalk2Free) (Free, in-app purchases and subscription available)
 
-## 6\. Ingress Prime
-
-![Ingress Prime augmented reality mobile game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ingress.jpg)
+## 6\. Ingress Prime ![Ingress Prime augmented reality mobile game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ingress.jpg)
 
 ![Ingress Prime augmented reality mobile game items](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ingress-items.jpg)
 
@@ -124,11 +112,9 @@ Close
 
  To begin playing Ingress Prime you have to first choose a faction—The Enlightened or The Resistance. Once you've selected a side, you can collect XM to power your actions throughout the game, take part in fun missions in your local area, or hack portals to collect more items.
 
-**Download:** Ingress Prime for[iOS](https://apps.apple.com/app/ingress-prime/id576505181) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029750/https://play.google.com/store/apps/details?id=com.nianticproject.ingress) (Free, in-app purchases and subscription available)
+**Download:** Ingress Prime for [iOS](https://apps.apple.com/app/ingress-prime/id576505181) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029750/https://play.google.com/store/apps/details?id=com.nianticproject.ingress) (Free, in-app purchases and subscription available)
 
-## 7\. Orna
-
-![Orna The Adventure GPS RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/orna-world.jpg)
+## 7\. Orna ![Orna The Adventure GPS RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/orna-world.jpg)
 
 ![Orna The Adventure GPS RPG character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/orna-character.jpg)
 
@@ -140,11 +126,9 @@ Close
 
  The game offers over 50 character classes to choose from whether you want to play as a sorcerer, a druid, or a thief. Build up your weapons, spells, and defense to beat other players in the world around you, and then collect experience and new items. Even better, you can take part in a range of enchanting events and quests.
 
-**Download:** Orna for[iOS](https://apps.apple.com/app/orna-turn-based-gps-rpg/id1451775309) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029750/https://play.google.com/store/apps/details?id=playorna.com.orna) (Free, in-app purchases available)
+**Download:** Orna for [iOS](https://apps.apple.com/app/orna-turn-based-gps-rpg/id1451775309) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029750/https://play.google.com/store/apps/details?id=playorna.com.orna) (Free, in-app purchases available)
 
-## 8\. Pikmin Bloom
-
-![Pikmin Bloom augmented reality mobile game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pikmin-bloom.jpg)
+## 8\. Pikmin Bloom ![Pikmin Bloom augmented reality mobile game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pikmin-bloom.jpg)
 
 ![Pikmin Bloom augmented reality mobile game map](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pikmin-bloom-map.jpg)
 
@@ -156,7 +140,7 @@ Close
 
  Each Pikmin creature is a blend of an animal and a plant which makes them incredibly cute and also fun to collect. The trick is that you need to keep moving to grow your seedlings. So the more time you spend walking around outdoors, the more adorable Pikmin you can pluck and have to walk around with you.
 
-**Download:** Pikmin Bloom for[iOS](https://apps.apple.com/app/pikmin-bloom/id1556357398) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029750/https://play.google.com/store/apps/details?id=com.nianticlabs.pikmin) (Free, in-app purchases available)
+**Download:** Pikmin Bloom for [iOS](https://apps.apple.com/app/pikmin-bloom/id1556357398) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029750/https://play.google.com/store/apps/details?id=com.nianticlabs.pikmin) (Free, in-app purchases available)
 
 ## Outdoor Virtual and Real-Life Adventures Using the Power of AR
 
@@ -179,3 +163,27 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/play-and-win-with-youtubes-innovative-test-minigames/"><u>Play and Win with YouTube's Innovative Test Minigames</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-fiber-pairs-for-competitive-gaming/"><u>Elite Fiber Pairs for Competitive Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/subscribing-to-games-psplus-against-xbox-game-pass/"><u>Subscribing to Games: PS+ Against Xbox Game Pass</u></a></li>
+<li><a href="https://games-able.techidaily.com/assessing-dual-mode-displays-value-in-pc-gaming/"><u>Assessing Dual-Mode Display's Value in PC Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/retract-your-purchase-game-returns-on-series-xs-console/"><u>Retract Your Purchase: Game Returns on Series X/S Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/secure-silent-gaming-with-xbox-series-xs/"><u>Secure Silent Gaming with Xbox Series X/S</u></a></li>
+<li><a href="https://games-able.techidaily.com/clearing-up-roblox-memory-overload-on-your-iphone/"><u>Clearing Up Roblox Memory Overload on Your iPhone</u></a></li>
+<li><a href="https://games-able.techidaily.com/gameplay-exploration-older-titles-on-new-ps-console/"><u>Gameplay Exploration: Older Titles on New PS Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-essential-factors-for-peak-performance-in-gaming-mice/"><u>Discovering Essential Factors for Peak Performance in Gaming Mice</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-cosmetic-to-critical-the-gamers-advantage/"><u>From Cosmetic to Critical: The Gamer's Advantage</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-secret-glance-at-fb-snapshots/"><u>In 2024, Secret Glance at FB Snapshots</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-fast-track-to-realism-creating-convincing-motion-blur-in-fcp-for-2024/"><u>New Fast Track to Realism Creating Convincing Motion Blur in FCP for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-apple-iphone-12-icloud-activation-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing Apple iPhone 12 iCloud Activation Lock</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-video-magic-begins-macbooks-webcam-guide/"><u>[Updated] 2024 Approved  Video Magic Begins  MacBook's Webcam Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-reno-8t-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Reno 8T Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-samsung-lock-screen-password-by-drfone-android/"><u>How to Reset your Samsung Lock Screen Password</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/choosing-between-projectors-and-tvs-for-superior-4k-viewing/"><u>Choosing Between Projectors & TVs for Superior 4K Viewing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-tips-and-tricks-for-efficient-twitch-stream-recordings/"><u>[New] Tips and Tricks for Efficient Twitch Stream Recordings</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-up-space-5-best-video-compression-apps-for-ios/"><u>Free Up Space 5 Best Video Compression Apps for iOS</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-pixel-calculator-demystified-a-simple-ratio-guide-for-2024/"><u>New Pixel Calculator Demystified A Simple Ratio Guide for 2024</u></a></li>
+</ul></div>

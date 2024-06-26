@@ -1,7 +1,7 @@
 ---
 title: The Latest PS5's Capability to Support Past Titles
-date: 2024-06-22 16:48:23
-updated: 2024-06-24 10:47:59
+date: 2024-06-25T12:53:23.313Z
+updated: 2024-06-26T12:53:23.313Z
 tags:
   - games
 categories:
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/a830d2a24e442aebcbf388f14e166b1639967eaf0
 
 ## Can I Play PS4 Games on My PS5?
 
- If you have been wondering[if the PS5 is backward compatible](https://www.makeuseof.com/is-ps5-backward-compatible/) , the short answer is, yes. For the most part, you can play most of your old PS4 games on your PS5\. Some even offer free or discounted upgrades to the PS5 version to make your PS4 games better than they ever were before.
+ If you have been wondering [if the PS5 is backward compatible](https://www.makeuseof.com/is-ps5-backward-compatible/) , the short answer is, yes. For the most part, you can play most of your old PS4 games on your PS5\. Some even offer free or discounted upgrades to the PS5 version to make your PS4 games better than they ever were before.
 
  There are, however, some PS4 games that will not work on the PS5\. The selection of non-playable games pales in comparison to the list of games that are cross-gen, however, so the likelihood of a PS4 game not working on your PS5 is slim.
 
@@ -43,15 +43,13 @@ thumbnail: https://thmb.techidaily.com/a830d2a24e442aebcbf388f14e166b1639967eaf0
 
  There are a couple of ways to play PS4 games on your PS5\. The first is by inserting and installing PS4 game discs into your PS5, and the second is by re-downloading your previously purchased digital PS4 titles.
 
-### 1\. Play PS4 Games on Your PS5 Using the Disc Drive
-
-![playstation 4 game disc boxes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/playstation-4-game-disc-boxes.jpg)
+### 1\. Play PS4 Games on Your PS5 Using the Disc Drive ![playstation 4 game disc boxes](https://thmb.techidaily.com/92449e9d9f3ee8946cb03a78041d2307431f0fc5eaad89567c354cd2fc066c4c.jpg)
 
  charnsitr/[Shutterstock](https://www.shutterstock.com/image-photo/bangkok-thailand-october-19-2016-pile-520391851)
 
  Using the disc drive is the simplest and easiest way to play PS4 games on your PS5, but it does come with a catch. This method will only work if your PS5 has a disc drive.
 
- The PS5 Digital Edition does not have a disc drive, so take your PS4 library into consideration when you are deciding[which PS5 version to buy](https://www.makeuseof.com/ps5-vs-ps5-digital-edition-which-to-buy/) . If you opt for the cheaper, digital PS5 and have a large collection of physical PS4 games, you will be unable to play them on your new console.
+ The PS5 Digital Edition does not have a disc drive, so take your PS4 library into consideration when you are deciding [which PS5 version to buy](https://www.makeuseof.com/ps5-vs-ps5-digital-edition-which-to-buy/) . If you opt for the cheaper, digital PS5 and have a large collection of physical PS4 games, you will be unable to play them on your new console.
 
  To play physical PS4 games on your PS5, take your game of choice and insert it into your PS5\. Once your PS5 has read the disc, it will start copying the data onto your console for you.
 
@@ -81,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/a830d2a24e442aebcbf388f14e166b1639967eaf0
 
 ![Download PS4 Games onto PS5 via PS Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/download-ps4-games-onto-ps5-via-ps-account-1.jpg)
 
- If you would rather save your console's internal storage for PS5 games, you can also store and[play PS4 games on your PS5 from an external hard drive](https://www.makeuseof.com/how-to-play-ps4-games-on-ps5-external-hard-drive/) .
+ If you would rather save your console's internal storage for PS5 games, you can also store and [play PS4 games on your PS5 from an external hard drive](https://www.makeuseof.com/how-to-play-ps4-games-on-ps5-external-hard-drive/) .
 
 ## What’s the Difference Between PS4 Games and PS4 Games With PS5 Upgrades?
 
@@ -128,3 +126,27 @@ thumbnail: https://thmb.techidaily.com/a830d2a24e442aebcbf388f14e166b1639967eaf0
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/the-role-of-strikes-in-upholdeating-xbox-fairness/"><u>The Role of Strikes in Upholdeating Xbox Fairness</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-solve-noise-in-xbox-one-audio-signal/"><u>How to Solve Noise in Xbox One Audio Signal</u></a></li>
+<li><a href="https://games-able.techidaily.com/balancing-act-when-to-invest-in-your-systems-cpugpu/"><u>Balancing Act: When to Invest in Your System's CPU/GPU</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-picks-elite-144hz-monitors-for-gamers/"><u>Top Picks: Elite 144Hz Monitors for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminate-steam-content-blockage-on-your-pc/"><u>Eliminate Steam Content Blockage on Your PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-monitors-gameplay-at-165hz/"><u>Optimal Monitors: Gameplay at 165Hz</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-a-world-of-entertainment-with-netflixs-games/"><u>Unlock a World of Entertainment with Netflix's Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-steams-missing-game-detections/"><u>Resolving Steam's Missing Game Detections</u></a></li>
+<li><a href="https://games-able.techidaily.com/counteracting-steams-reacquire-data-alert/"><u>Counteracting Steam's Reacquire Data Alert</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-gameplay-the-right-gaming-system-pieces/"><u>Elevate Your Gameplay - The Right Gaming System Pieces</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-navigating-the-world-of-mac-screenshot-with-confidence/"><u>In 2024, Navigating the World of Mac Screenshot with Confidence</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-best-practices-for-secure-transfer-of-phones-camera-roll-content-to-snapchat/"><u>[Updated] Best Practices for Secure Transfer of Phone's Camera Roll Content to Snapchat</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-8-vr-gaming-accessories/"><u>[New] Top 8 VR Gaming Accessories</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-improving-viewer-experience-with-clearer-web-content/"><u>[New] Improving Viewer Experience with Clearer Web Content</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-13-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-nokia-c210-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Nokia C210 Phone Network-Ready</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-device-based-access-commence-google-meet-chat/"><u>2024 Approved  Device-Based Access  Commence Google Meet Chat</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-optimizing-display-youtubes-zoom-mastery/"><u>2024 Approved  Optimizing Display  YouTube's Zoom Mastery</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-guide-to-designing-powerful-youtube-logos/"><u>[New] The Ultimate Guide to Designing Powerful YouTube Logos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unveiling-the-veil-insta-story-exploration-without-trace/"><u>Unveiling the Veil  Insta Story Exploration without Trace</u></a></li>
+</ul></div>

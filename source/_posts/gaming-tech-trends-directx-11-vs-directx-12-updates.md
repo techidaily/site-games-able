@@ -1,7 +1,7 @@
 ---
 title: "Gaming Tech Trends: DirectX 11 Vs. DirectX 12 Updates"
-date: 2024-06-20 16:48:25
-updated: 2024-06-23 12:32:22
+date: 2024-06-25T13:34:50.145Z
+updated: 2024-06-26T13:34:50.145Z
 tags:
   - games
 categories:
@@ -22,13 +22,13 @@ thumbnail: https://thmb.techidaily.com/1734faea8dc6fb99b0356fb7510aa58c46806122f
 
 ![DirectX logo imposed on a photo of a man coding](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/untitled-design-1.jpg)
 
- As explained in[our overview of Microsoft DirectX](https://www.makeuseof.com/tag/everything-need-know-directx-2016/) , DirectX is a collection of application programming interfaces (APIs) used for handling tasks related to multimedia. This includes game programming on Microsoft-based platforms like Windows and Xbox. To provide some context, let's briefly talk about APIs.
+ As explained in [our overview of Microsoft DirectX](https://www.makeuseof.com/tag/everything-need-know-directx-2016/) , DirectX is a collection of application programming interfaces (APIs) used for handling tasks related to multimedia. This includes game programming on Microsoft-based platforms like Windows and Xbox. To provide some context, let's briefly talk about APIs.
 
- An API makes it possible for two or more computer programs to communicate with each other, which we discuss in[our overview of APIs](https://www.makeuseof.com/what-is-api/) . Think of it like a telephone. If your mom texts you with a grocery list, your phone will receive that data and display it for you. That is basically an API.
+ An API makes it possible for two or more computer programs to communicate with each other, which we discuss in [our overview of APIs](https://www.makeuseof.com/what-is-api/) . Think of it like a telephone. If your mom texts you with a grocery list, your phone will receive that data and display it for you. That is basically an API.
 
 ## What Are the Differences Between DirectX 11 and DirectX 12?
 
- So, what are the differences between DirectX 11 and DirectX 12? Put simply, DirectX 12 is the latest version of DirectX. One of the most noticeable differences is how they interact with your hardware. Most games developed with DirectX 11 only utilize between two and four[CPU cores](https://www.makeuseof.com/cpu-vs-vcpu-threads-vs-cores/) . One of these cores usually tells the GPU what to do.
+ So, what are the differences between DirectX 11 and DirectX 12? Put simply, DirectX 12 is the latest version of DirectX. One of the most noticeable differences is how they interact with your hardware. Most games developed with DirectX 11 only utilize between two and four [CPU cores](https://www.makeuseof.com/cpu-vs-vcpu-threads-vs-cores/) . One of these cores usually tells the GPU what to do.
 
  The game then uses the remaining cores to handle various CPU-intensive settings like a game's particles or draw distance. On the other hand, DirectX 12 spreads a CPU's workload across multiple cores and allows every core to talk to the GPU simultaneously.
 
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/1734faea8dc6fb99b0356fb7510aa58c46806122f
 
  Image Credit: Martin Kerstein/[Guild Wars 2](https://www.guildwars2.com/en/news/guesting-is-coming/)
 
- Believe it or not, it took nine years for ArenaNet to make the switch from DirectX 9 to DirectX 11\. However, some games do support both DirectX 11 and DirectX 12, including Fortnite (read[our Fortnite cheat sheet](https://www.makeuseof.com/tag/fortnite-essentials-cheat-sheet-controls-tips-terms/) ), Battlefield 5, Shadow of the Tomb Raider, and more. Users can switch between DirectX 11 and DirectX 12 in the game settings.
+ Believe it or not, it took nine years for ArenaNet to make the switch from DirectX 9 to DirectX 11\. However, some games do support both DirectX 11 and DirectX 12, including Fortnite (read [our Fortnite cheat sheet](https://www.makeuseof.com/tag/fortnite-essentials-cheat-sheet-controls-tips-terms/) ), Battlefield 5, Shadow of the Tomb Raider, and more. Users can switch between DirectX 11 and DirectX 12 in the game settings.
 
  Now, the fact that some games support both DirectX 11 and 12 has probably got you wondering about in-game performance. Does choosing DX 11 or DX 12 deliver better in-game performance? The following video illustrates the differences between DirectX 11 and DirectX 12 in a range of games, showcasing vital specs such as average frames per second, CPU usage, GPU usage, and more, using an AMD Ryzen 3600, Nvidia GeForce RTX 3060 Ti, and 16GB DDR4 RAM.
 
@@ -91,3 +91,26 @@ thumbnail: https://thmb.techidaily.com/1734faea8dc6fb99b0356fb7510aa58c46806122f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/ensuring-your-youngsters-safety-in-ps5-world/"><u>Ensuring Your Youngster's Safety in PS5 World</u></a></li>
+<li><a href="https://games-able.techidaily.com/modify-steam-interface-language/"><u>Modify Steam Interface Language</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-quick-guide-to-palworld-basics/"><u>Your Quick Guide to PalWorld Basics</u></a></li>
+<li><a href="https://games-able.techidaily.com/techniques-to-secure-your-kids-online-interactions-on-discord/"><u>Techniques to Secure Your Kid's Online Interactions on Discord</u></a></li>
+<li><a href="https://games-able.techidaily.com/leveraging-the-power-of-steam-currency/"><u>Leveraging the Power of Steam Currency</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-seekers-blueprint-unlocking-shiny-chances-84/"><u>The Seeker’s Blueprint: Unlocking Shiny Chances (84)</u></a></li>
+<li><a href="https://games-able.techidaily.com/an-in-depth-look-at-xbox-game-passs-offerings/"><u>An In-Depth Look at Xbox Game Pass's Offerings</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-into-the-mechanics-how-to-deconstruct-your-xbox-360s/"><u>Step Into the Mechanics: How to Deconstruct Your Xbox 360/S</u></a></li>
+<li><a href="https://games-able.techidaily.com/remedy-error-0x887a0006-a-step-by-step-approach-to-fixing-dxgi-devices/"><u>Remedy Error 0X887A0006: A Step-by-Step Approach to Fixing DXGI Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-4k-precision-on-asuss-professional-display/"><u>[New] Exploring 4K Precision on ASUS's Professional Display</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/leveraging-youtubes-cc-options-for-video-production/"><u>Leveraging YouTube's CC Options for Video Production</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/reel-your-audience-in-creating-dynamic-reaction-content-on-youtube-2-pov-technique/"><u>Reel Your Audience In  Creating Dynamic Reaction Content on YouTube (2 POV Technique)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-original-movie-recording-dissection-and-substitute-series/"><u>[New] Original Movie Recording Dissection & Substitute Series</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-what-makes-youtube-and-dailymention-stand-out/"><u>[New] What Makes YouTube and DailyMention Stand Out?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-youtubes-yummy-1-8-video-selection/"><u>In 2024, YouTube's Yummy  #1-#8 Video Selection</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/2024-approved-the-secret-to-saving-youtube-audio-a-comprehensive-guide/"><u>2024 Approved The Secret to Saving YouTube Audio A Comprehensive Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-unmasking-instagrams-unnoticed-capabilities-for-2024/"><u>[Updated] Unmasking Instagram’s Unnoticed Capabilities for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-iphone-14-pro-max-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone 14 Pro Max with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-zero-30-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Zero 30 5G to iPhone XS/11 | Dr.fone</u></a></li>
+</ul></div>

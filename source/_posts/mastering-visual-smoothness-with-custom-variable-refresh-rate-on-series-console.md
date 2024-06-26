@@ -1,7 +1,7 @@
 ---
 title: Mastering Visual Smoothness with Custom Variable Refresh Rate on Series Console
-date: 2024-06-25T10:47:32.561Z
-updated: 2024-06-26T10:47:32.561Z
+date: 2024-06-25T12:48:40.056Z
+updated: 2024-06-26T12:48:40.056Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/a6cda5d3da29aa302f42489d12b2f7ee98a977d6c
 
 ## What Is Variable Refresh Rate?
 
- Variable refresh rate is a feature on the Xbox Series X|S that operates similarly to the way that[VSync (or Vertical Sync) impacts games](https://www.makeuseof.com/what-is-vsync-vertical-sync-impact-games/) on your PC. Both settings work to ensure that your game's frame rate doesn’t exceed your display monitor's refresh rate.
+ Variable refresh rate is a feature on the Xbox Series X|S that operates similarly to the way that [VSync (or Vertical Sync) impacts games](https://www.makeuseof.com/what-is-vsync-vertical-sync-impact-games/) on your PC. Both settings work to ensure that your game's frame rate doesn’t exceed your display monitor's refresh rate.
 
  When your game's FPS surpasses your monitor's capabilities, the image suffers. If you’ve ever seen the different parts that make up your image not quite lining up right, then you have witnessed screen-tearing first-hand. It usually occurs along the horizontal axis and splits your screen into two or more parts.
 
@@ -58,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/a6cda5d3da29aa302f42489d12b2f7ee98a977d6c
 
  FPS, or frames per second, however, play an important role in the overall performance of your game.
 
- If you've heard of the term[FPS in video games](https://www.makeuseof.com/video-games-fps-meaning/) , but you're not sure what it means, you're not the only one. Essentially, your game image is composed of countless individual frames that are strung together to create the smooth picture that you see on screen. Frames per second stands for the number of individual images that are displayed each second. The higher that number is, the smoother your gameplay experience will be.
+ If you've heard of the term [FPS in video games](https://www.makeuseof.com/video-games-fps-meaning/) , but you're not sure what it means, you're not the only one. Essentially, your game image is composed of countless individual frames that are strung together to create the smooth picture that you see on screen. Frames per second stands for the number of individual images that are displayed each second. The higher that number is, the smoother your gameplay experience will be.
 
  Since VRR automatically drops the frames per second you see to save your screen from splitting, your gameplay may be less smooth—and you may experience input lag because of it.
 

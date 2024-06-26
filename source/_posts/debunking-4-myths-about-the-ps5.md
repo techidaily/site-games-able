@@ -1,7 +1,7 @@
 ---
 title: Debunking 4 Myths About the PS5
-date: 2024-06-21 21:51:16
-updated: 2024-06-24 12:56:41
+date: 2024-06-25T12:58:15.591Z
+updated: 2024-06-26T12:58:15.591Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/59bb6881bb451ab6f15e5a33afa6f776cb1ec0282
 
  The problem is that the PS5 only has a handful. While games like Astro's Playroom and Demon's Souls are great, it's not enough to plunge hundreds of dollars into a console.
 
- In May 2023, Sony hosted a PlayStation Showcase, with the expectation that viewers would be blown away by first-party announcements. Unfortunately, it didn't amount to much, with more of a focus on third-party games—many of which looked exciting but, as Microsoft were quick to point out on[Twitter](https://twitter.com/Xbox/status/1661489113814679553) , would also be available on other platforms.
+ In May 2023, Sony hosted a PlayStation Showcase, with the expectation that viewers would be blown away by first-party announcements. Unfortunately, it didn't amount to much, with more of a focus on third-party games—many of which looked exciting but, as Microsoft were quick to point out on [Twitter](https://twitter.com/Xbox/status/1661489113814679553) , would also be available on other platforms.
 
  Over time, this will change. Sony will eventually provide the wealth of first-party exclusive games that the PS5 sorely needs. However, at the time of writing, it's been almost three years since the PS5 launched and it's hard to point at a single game that's a system seller.
 
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/59bb6881bb451ab6f15e5a33afa6f776cb1ec0282
 
  Compounding the issue is that many of these "exclusives" use that term loosely because they are also available on the PS4, like God of War Ragnarök and Marvel's Spider-Man: Miles Morales. These games are fantastic on the PS5, but they're great on the PS4 too. For this reason,[it may still be worth buying the PS4](https://www.makeuseof.com/is-it-still-worth-buying-ps4/) if you don't own one.
 
- Sony has also committed to the PC market, bringing its console-exclusive titles like Ratchet & Clank: Rift Apart to the PC after a year or two, which is brilliant if you're a patient gamer who owns a powerful gaming desktop. You can even[connect a PS5 DualSense controller to your PC](https://www.makeuseof.com/how-to-use-ps5-controller-on-pc/) .
+ Sony has also committed to the PC market, bringing its console-exclusive titles like Ratchet & Clank: Rift Apart to the PC after a year or two, which is brilliant if you're a patient gamer who owns a powerful gaming desktop. You can even [connect a PS5 DualSense controller to your PC](https://www.makeuseof.com/how-to-use-ps5-controller-on-pc/) .
 
  Not to bemoan Sony for this too heavily, though. It's great that the company is supporting the PC and that it hasn't immediately cut PS4 owners off in a bid to force them to upgrade to the PS5\. It just means if you already own a PS4 or gaming PC, then there's not much incentive to buy the PS5—unless factors such as the console's graphical prowess or peripherals like PlayStation VR2 are draws for you.
 
@@ -52,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/59bb6881bb451ab6f15e5a33afa6f776cb1ec0282
 
  As such, why not just wait for the inevitable revamp? The PS4's Slim version released three years after the main console, bringing a much-needed sleeker form factor (which is now the primary PS4 model). Then there's the PS4 Pro, capable of 4K gaming over the main console's 1080p.
 
- The same thing is bound to happen with the PS5, as it has done every console cycle—rumors indicate that[a PS5 Slim will arrive in 2023](https://www.makeuseof.com/is-sony-releasing-ps5-slim-2023/) , with a smaller form factor and detachable disc drive. Plus, it might be cheaper. Patience pays off.
+ The same thing is bound to happen with the PS5, as it has done every console cycle—rumors indicate that [a PS5 Slim will arrive in 2023](https://www.makeuseof.com/is-sony-releasing-ps5-slim-2023/) , with a smaller form factor and detachable disc drive. Plus, it might be cheaper. Patience pays off.
 
 ## Should You Buy a PS5?
 
@@ -75,3 +75,24 @@ thumbnail: https://thmb.techidaily.com/59bb6881bb451ab6f15e5a33afa6f776cb1ec0282
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/gamings-future-path-directx-11-or-directx-12/"><u>Gaming's Future Path: DirectX 11 or DirectX 12?</u></a></li>
+<li><a href="https://games-able.techidaily.com/tech-analysis-safe-use-of-roblox-speed-up-tools/"><u>Tech Analysis: Safe Use of Roblox Speed Up Tools?</u></a></li>
+<li><a href="https://games-able.techidaily.com/lenovos-stronghold-the-latest-on-the-legion-go/"><u>Lenovo's Stronghold: The Latest on the Legion Go</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-dungeon-crafting-six-chatgpt-approaches-to-perfect-game-guidance/"><u>Enhancing Dungeon Crafting: Six ChatGPT Approaches to Perfect Game Guidance</u></a></li>
+<li><a href="https://games-able.techidaily.com/bypassing-steam-login-issues-on-rust-platforms-windows/"><u>Bypassing Steam Login Issues on Rust Platforms Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-chatgpt-written-world-top-6-game-journeys/"><u>Dive Into ChatGPT' Written World: Top 6 Game Journeys</u></a></li>
+<li><a href="https://games-able.techidaily.com/procuring-your-favorite-twitch-footage-with-5-tools/"><u>Procuring Your Favorite Twitch Footage with #5 Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719168632590-18-engaging-duet-conversations-texting-fun-hits-two/"><u>18 Engaging Duet Conversations: Texting Fun Hits Two</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-strategies-for-longer-content-on-the-social-network-giant/"><u>2024 Approved  Strategies for Longer Content on the Social Network Giant</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-vivo-t2-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Vivo T2 5G? Try These Fixes</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-t-mobile-apple-iphone-8-plus-online-without-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock T-Mobile Apple iPhone 8 Plus online without SIM Card?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-rhythm-and-reels-instagrams-music-playbook/"><u>[New] In 2024, Rhythm & Reels  Instagram’s Music Playbook</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-design-amazing-whatsapp-status-photos-and-videos-with-ease/"><u>Updated Design Amazing WhatsApp Status Photos and Videos with Ease</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-motorola-moto-g04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-from-iphone-se-2022-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock from iPhone SE (2022) or iPad?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-precision-and-quality-in-screen-recording-discovering-showmores-benefits/"><u>[New] Precision and Quality in Screen Recording - Discovering ShowMore's Benefits</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-amp-up-your-humor-arsenal-kapwings-meme-creator/"><u>[Updated] Amp Up Your Humor Arsenal – Kapwing's Meme Creator</u></a></li>
+</ul></div>

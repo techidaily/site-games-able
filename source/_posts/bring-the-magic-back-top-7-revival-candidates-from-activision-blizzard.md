@@ -1,7 +1,7 @@
 ---
 title: "Bring the Magic Back: Top 7 Revival Candidates From Activision Blizzard"
-date: 2024-06-20 13:34:49
-updated: 2024-06-23 10:27:58
+date: 2024-06-25T12:51:01.449Z
+updated: 2024-06-26T12:51:01.449Z
 tags:
   - games
 categories:
@@ -24,13 +24,13 @@ thumbnail: https://thmb.techidaily.com/0132287bf7d51b07521a43a3870f625dc6e6364d7
 
  Perhaps it was the shift in focus from guitars to other instruments like drums and microphones. These sorts of controllers were not only expensive but very hard to store. All of a sudden, instead of just needing one life-sized guitar-shaped controller, you needed a whole band set up for the one game.
 
- Guitar Hero is still a staple in many arcades all over the world, however, showing there are still enough people interested in the franchise who would absolutely love to see a modern Guitar Hero in a list of[the best couch co-op Xbox games.](https://www.makeuseof.com/best-couch-co-op-games-for-xbox-series-x-s/)
+ Guitar Hero is still a staple in many arcades all over the world, however, showing there are still enough people interested in the franchise who would absolutely love to see a modern Guitar Hero in a list of [the best couch co-op Xbox games.](https://www.makeuseof.com/best-couch-co-op-games-for-xbox-series-x-s/)
 
 ## 2\. Spyro the Dragon
 
  It’s relatively safe to say that most gamers alive during the golden age of console gaming know Spyro the Dragon. When you think about video games in the 90s, Spyro the Dragon is one of the mascots that immediately springs to mind.
 
- The original Spyro games received a full remaster in 2018 with the Spyro Reignited Trilogy, which sold incredibly well. According to[a PlayStation AU tweet](https://twitter.com/PlayStationAU/status/1065846654467694593) , it was the best-selling PS4 game in Australia during the week of its release.
+ The original Spyro games received a full remaster in 2018 with the Spyro Reignited Trilogy, which sold incredibly well. According to [a PlayStation AU tweet](https://twitter.com/PlayStationAU/status/1065846654467694593) , it was the best-selling PS4 game in Australia during the week of its release.
 
  Crash Bandicoot got a brand-new entry in 2020, and if there was ever a gaming duo that simultaneously took over the market, it was Crash Bandicoot and Spyro the Dragon. So it's only fair to give Spyro a new game too, right?
 
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/0132287bf7d51b07521a43a3870f625dc6e6364d7
 
 ## 4\. StarCraft
 
- StarCraft is an epic collection of real-time strategy games. RTS as a whole is an underrated genre, so much so that many gamers aren't sure[what an RTS game is](https://www.makeuseof.com/what-are-real-time-strategy-games-rts-games/) in the first place.
+ StarCraft is an epic collection of real-time strategy games. RTS as a whole is an underrated genre, so much so that many gamers aren't sure [what an RTS game is](https://www.makeuseof.com/what-are-real-time-strategy-games-rts-games/) in the first place.
 
  StarCraft’s story and lore are great, and since RTS games haven’t necessarily been flooding the gaming market, it would make for a refreshing change from the FPS and action games that usually fill the shelves of game stores. In saying that, however, an FPS spin-off of StarCraft would be undeniably awesome, and it was on the cards at one point.
 
@@ -91,3 +91,22 @@ thumbnail: https://thmb.techidaily.com/0132287bf7d51b07521a43a3870f625dc6e6364d7
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/495plus-high-framerate-display-by-innocn/"><u>$495+ High Framerate Display by InnoCN</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-connect-a-controller-to-an-android-phone-or-tablet/"><u>How to Connect a Controller to an Android Phone or Tablet</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-game-changer-essential-nintendo-switch-customizations/"><u>The Game Changer: Essential Nintendo Switch Customizations</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-storage-woes-fixing-windows-11-write-errors/"><u>Steam Storage Woes: Fixing Windows 11 Write Errors</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-truth-about-free-to-play-why-premium-games-are-better/"><u>The Truth About 'Free-to-Play': Why Premium Games Are Better</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-20-best-gamer-progress-tools/"><u>Top 20 Best Gamer Progress Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/determining-hardwares-graphic-memory/"><u>Determining Hardware's Graphic Memory</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/dive-into-freeware-for-precise-music-tempo-tracking/"><u>Dive Into Freeware for Precise Music Tempo Tracking</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-3-ways-to-unlock-your-apple-iphone-13-pro-for-free-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Your Apple iPhone 13 Pro for Free</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-motorola-moto-g84-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Motorola Moto G84 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-unleash-the-power-of-fcp-advanced-audio-editing-techniques/"><u>In 2024, Unleash the Power of FCP Advanced Audio Editing Techniques</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-art-of-going-viral-with-instagram-stories/"><u>The Art of Going Viral with Instagram Stories</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-video-expertise-elevated-streamline-your-edits-with-these-vimeo-shortening-techniques/"><u>2024 Approved  Video Expertise Elevated  Streamline Your Edits with These Vimeo Shortening Techniques</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-proven-steps-for-effortless-creation-of-youtube-shorts-credits/"><u>In 2024, Proven Steps for Effortless Creation of YouTube Shorts Credits</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-top-rated-5-web-videography-editing-suites/"><u>[New] 2024 Approved  Top-Rated 5 Web Videography Editing Suites</u></a></li>
+</ul></div>

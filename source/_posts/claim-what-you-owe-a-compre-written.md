@@ -1,7 +1,7 @@
 ---
 title: "Claim What You Owe: A Compre Written"
-date: 2024-06-25T10:48:08.459Z
-updated: 2024-06-26T10:48:08.459Z
+date: 2024-06-25T12:48:40.431Z
+updated: 2024-06-26T12:48:40.431Z
 tags:
   - games
 categories:
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
 
 * Steam offers refunds for games within 14 days of purchase and if you've played less than two hours, though it does make exceptions.
 * Some DLC isn't refundable, typically for online-only games where the DLC makes permanent changes.
-* To begin the refund process, go to[help.steampowered.com](https://help.steampowered.com) , select**"Purchases"** , then the game, then**"I would like a refund"** .
+* To begin the refund process, go to [help.steampowered.com](https://help.steampowered.com) , select**"Purchases"** , then the game, then**"I would like a refund"** .
 
  Have you bought a game on Steam and discovered it's not fun, your system can't run it smoothly, or it's gone on sale the next day?
 
@@ -51,11 +51,11 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
 
  Even if a game is successfully refunded, your hours played and achievements earned will remain on your profile.
 
- For further information on Steam's refund policy, visit the[Steam Refunds page](https://store.steampowered.com/steam%5Frefunds/) .
+ For further information on Steam's refund policy, visit the [Steam Refunds page](https://store.steampowered.com/steam%5Frefunds/) .
 
 ## How to Refund a Game on Steam
 
- To initiate a refund request, first go to[help.steampowered.com](https://help.steampowered.com) and log in to your Steam account. Alternatively, on the Steam mobile app, select the**hamburger icon** (three horizontal lines) from the bottom menu, then select**Support** .
+ To initiate a refund request, first go to [help.steampowered.com](https://help.steampowered.com) and log in to your Steam account. Alternatively, on the Steam mobile app, select the**hamburger icon** (three horizontal lines) from the bottom menu, then select**Support** .
 
  Next, select**Purchases** .
 
@@ -69,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
 
 ![Selecting 'I would like a refund' on Steam support.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/selecting-i-would-like-a-refund-on-steam-support.png)
 
- Use the**Choose refund method** dropdown to select where you want to receive the refunded money. This can be to[your Steam Wallet](https://www.makeuseof.com/how-to-fund-steam-wallet-buy-games/) (the quickest method) or the original payment source, providing your payment provider supports it.
+ Use the**Choose refund method** dropdown to select where you want to receive the refunded money. This can be to [your Steam Wallet](https://www.makeuseof.com/how-to-fund-steam-wallet-buy-games/) (the quickest method) or the original payment source, providing your payment provider supports it.
 
 ![Selecting a refund method on Steam.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/selecting-a-refund-method-on-steam.png)
 

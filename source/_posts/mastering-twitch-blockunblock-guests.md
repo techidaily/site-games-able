@@ -1,7 +1,7 @@
 ---
 title: "Mastering Twitch: Block/Unblock Guests"
-date: 2024-06-22 20:53:36
-updated: 2024-06-24 11:54:11
+date: 2024-06-25T12:55:50.019Z
+updated: 2024-06-26T12:55:50.019Z
 tags:
   - games
 categories:
@@ -30,7 +30,7 @@ Here's how to block or unblock someone on Twitch...
 
 ![Blocking someone on Twitch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/block-unblock-twitch-dots.png)
 
- Twitch will quickly remind you what a blocked person can and cannot do. In short, once you block someone, they can't whisper you, host you, add you as a friend, or gift[Twitch subscriptions](https://www.makeuseof.com/tag/twitch-complete-guide-buying-subscriptions/) to your channel.
+ Twitch will quickly remind you what a blocked person can and cannot do. In short, once you block someone, they can't whisper you, host you, add you as a friend, or gift [Twitch subscriptions](https://www.makeuseof.com/tag/twitch-complete-guide-buying-subscriptions/) to your channel.
 
  If you're okay with this, click**Block** .
 
@@ -92,7 +92,7 @@ Close
 
  If you're on Android, you'll find that you can follow the above instructions word-for-word, right up until the point where a blocked user list is supposed to appear. Strangely, the blocked user list never made it over from iOS.
 
- As such, a quick and hassle-free way to unblock someone on Android is by using Twitch's desktop site on your device. Just head over to Twitch and load the desktop version of the site (here's a guide on how you can[view the desktop version of any site](https://www.makeuseof.com/how-to-view-desktop-version-of-any-site-on-mobile/) ). After that, follow the steps above for unblocking Twitch users via Settings.
+ As such, a quick and hassle-free way to unblock someone on Android is by using Twitch's desktop site on your device. Just head over to Twitch and load the desktop version of the site (here's a guide on how you can [view the desktop version of any site](https://www.makeuseof.com/how-to-view-desktop-version-of-any-site-on-mobile/) ). After that, follow the steps above for unblocking Twitch users via Settings.
 
  If you don't want to use this method, we'd recommend logging into your Twitch account on PC to manage your blocked users list instead.
 
@@ -115,3 +115,22 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/exclusive-list-elite-8-sites-for-gamers-and-critics/"><u>Exclusive List: Elite 8 Sites for Gamers and Critics</u></a></li>
+<li><a href="https://games-able.techidaily.com/bring-your-games-closer-with-playnite-fullscreen-tv/"><u>Bring Your Games Closer with Playnite Fullscreen TV</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficient-controller-utilization-a-ryujinx-emulation-blueprint/"><u>Efficient Controller Utilization: A Ryujinx Emulation Blueprint</u></a></li>
+<li><a href="https://games-able.techidaily.com/protecting-personal-progress-implementing-passcode-on-your-switch/"><u>Protecting Personal Progress: Implementing Passcode on Your Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-selection-of-16-joint-play-console-games/"><u>Superior Selection of 16 Joint Play Console Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-your-need-a-guide-against-ps5-now/"><u>Evaluating Your Need: A Guide Against PS5 Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-new-era-of-gaming-rewards-microsofts-path-forward-with-xbox-points/"><u>A New Era of Gaming Rewards: Microsoft's Path Forward with Xbox Points</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-auto-reframe-video-editing-tools-top-picks-for-creators/"><u>2024 Approved Auto-Reframe Video Editing Tools Top Picks for Creators</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-eye-catching-snaps-made-simple-the-20-must-try-filters-and-lenses/"><u>In 2024, Eye-Catching Snaps Made Simple  The 20 Must-Try Filters & Lenses</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/ultimate-guide-to-remote-podcast-recording-for-2024/"><u>Ultimate Guide to Remote Podcast Recording for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-mastering-the-art-discord-stickers-unraveayered/"><u>[Updated] 2024 Approved  Mastering the Art  Discord Stickers Unraveayered</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-step-by-step-guide-to-joining-and-earning-as-a-tiktok-star/"><u>In 2024, Step-by-Step Guide to Joining & Earning as a TikTok Star</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-superior-systems-for-infusing-vocal-elements-into-instagram-tv-content/"><u>New In 2024, Superior Systems for Infusing Vocal Elements Into Instagram TV Content</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/1715860464485-in-2024-tapping-into-built-in-screen-recording-features-of-huaweis-mate-and-p-lineup/"><u>In 2024, Tapping Into Built-In Screen Recording Features of Huawei's Mate & P Lineup.</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-royal-sonata-sessions-an-elite-selection-of-free-original-piano-music-ideal-for-film-and-video-creation/"><u>2024 Approved Royal Sonata Sessions An Elite Selection of Free, Original Piano Music Ideal for Film & Video Creation</u></a></li>
+</ul></div>

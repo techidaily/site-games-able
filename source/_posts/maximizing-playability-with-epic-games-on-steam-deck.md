@@ -1,7 +1,7 @@
 ---
 title: Maximizing Playability with Epic Games on Steam Deck
-date: 2024-06-22 20:28:43
-updated: 2024-06-23 10:31:32
+date: 2024-06-25T12:51:24.532Z
+updated: 2024-06-26T12:51:24.532Z
 tags:
   - games
 categories:
@@ -66,15 +66,15 @@ thumbnail: https://thmb.techidaily.com/f567a9fec699d773d0b269b2abfaf091f129a875a
 
  If you’re concerned about breaking warranty or have some other reason to be concerned, don’t worry. A Steam Deck is capable of running most PC games, including those on Epic Games. You may have noticed some crossover between the Epic Games and the Steam libraries.
 
- Epic Games has given many games away over the past few years. It's simple to get[free games from Epic Games](https://www.makeuseof.com/how-to-get-free-games-on-the-epic-games-store/) and many gamers have grown a library of such games, preferring this to spending money on the exact same titles on Steam.
+ Epic Games has given many games away over the past few years. It's simple to get [free games from Epic Games](https://www.makeuseof.com/how-to-get-free-games-on-the-epic-games-store/) and many gamers have grown a library of such games, preferring this to spending money on the exact same titles on Steam.
 
- Furthermore, Steam Deck runs a special version of Arch Linux, and has a desktop mode where more games can be installed, if desired. Furthermore, the[Proton compatibility layer software](https://www.makeuseof.com/what-is-steam-proton-how-does-it-run-windows-games-on-steam-deck/) is regularly updated and ensures support for many Windows games.
+ Furthermore, Steam Deck runs a special version of Arch Linux, and has a desktop mode where more games can be installed, if desired. Furthermore, the [Proton compatibility layer software](https://www.makeuseof.com/what-is-steam-proton-how-does-it-run-windows-games-on-steam-deck/) is regularly updated and ensures support for many Windows games.
 
  In short, it’s completely safe to install non-Steam games on your Steam Deck.
 
  Before proceeding, you might want to make things easier for yourself by grabbing a USB keyboard and mouse and a USB type-C hub for the Steam Deck.
 
- While you can use the device’s on-screen keyboard (perhaps the most widely-used[Steam Deck shortcut](https://www.makeuseof.com/steam-deck-shortcuts/) , activated with**Steam + X** ), it is far easier to sign in to Epic Games with a physical keyboard.
+ While you can use the device’s on-screen keyboard (perhaps the most widely-used [Steam Deck shortcut](https://www.makeuseof.com/steam-deck-shortcuts/) , activated with**Steam + X** ), it is far easier to sign in to Epic Games with a physical keyboard.
 
  Otherwise, you’ll be using the right-hand touchpad as a laptop touchpad to control the mouse pointer on your Steam Deck.
 
@@ -98,10 +98,8 @@ thumbnail: https://thmb.techidaily.com/f567a9fec699d773d0b269b2abfaf091f129a875a
 1. First, launch the software, then use the mouse to select**Manage Accounts**  
 ![Log in to Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-login.jpg)
 2. Under GOG, click**Log in** and input your credentials, along with any two-factor authentication
-3. Go to**Library** and browse for the game you want to install  
-![GOG games on the Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-gog-games.jpg)
-4. Click**Install** on the selected game, confirm the installation location and click**Install** again  
-![Install GOG games on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-gog-smac.jpg)
+3. Go to**Library** and browse for the game you want to install ![GOG games on the Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-gog-games.jpg)
+4. Click**Install** on the selected game, confirm the installation location and click**Install** again ![Install GOG games on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-gog-smac.jpg)
 5. After installation is complete, click**Play Now**
 
  Because most GOG games are pre-2005 titles, they have varying compatibility requirements for Steam Deck. To tweak these, highlight the game and click the**Settings** cog icon.
@@ -114,15 +112,14 @@ thumbnail: https://thmb.techidaily.com/f567a9fec699d773d0b269b2abfaf091f129a875a
 
  In the Heroic Games Launcher, click**Manage Accounts** then on the Epic Games panel tap**Log in** .
 
- Enter your Epic Games account credentials and if you have[two-factor authentication](https://www.makeuseof.com/tag/what-is-two-factor-authentication-and-why-you-should-use-it/) set up this will also be required.
+ Enter your Epic Games account credentials and if you have [two-factor authentication](https://www.makeuseof.com/tag/what-is-two-factor-authentication-and-why-you-should-use-it/) set up this will also be required.
 
 You can then install Epic Games on the Steam Deck as follows:
 
 1. Click**Library**
 2. Browse for the game you want
 3. Select the game and click**Install**
-4. Confirm the installation location and click**Install** again  
-![Install Epic Games on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-install.jpg)
+4. Confirm the installation location and click**Install** again ![Install Epic Games on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-install.jpg)
 5. Once the installation has completed, click**Play Now**
 6. Use the**Settings** option to tweak the game’s launch and performance options
 
@@ -149,8 +146,7 @@ This will reboot the Steam Deck into the main console interface.
 3. Press**X**
 4. Select**Uninstall**  
 ![Uninstall a game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-uninstall-game.jpg)
-5. Confirm with**Yes** when prompted  
-![Uninstall an Epic Games title on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-uninstall.jpg)
+5. Confirm with**Yes** when prompted ![Uninstall an Epic Games title on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-uninstall.jpg)
 
 Wait for the process to complete before installing any other games.
 
@@ -179,3 +175,27 @@ Wait for the process to complete before installing any other games.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/10-reasons-why-your-games-keep-crashing-and-how-to-fix-issues/"><u>10 Reasons Why Your Games Keep Crashing (And How to Fix Issues)</u></a></li>
+<li><a href="https://games-able.techidaily.com/pinnacle-headphones-for-switch-gamers/"><u>Pinnacle Headphones for Switch Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/solutions-for-unregistered-games-on-steam-platform/"><u>Solutions for Unregistered Games on Steam Platform</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-tips-for-mac-players-in-cs2/"><u>Essential Tips for Mac Players in CS2</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-art-of-quiet-steam-usage/"><u>The Art of Quiet Steam Usage</u></a></li>
+<li><a href="https://games-able.techidaily.com/valuepixeldesign-monitor-budget-gamers-choice/"><u>ValuePixelDesign Monitor, Budget Gamers' Choice</u></a></li>
+<li><a href="https://games-able.techidaily.com/opera-and-discord-securing-a-free-membership-for-a-month/"><u>Opera & Discord: Securing a FREE Membership for a Month</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-safeguard-games-add-password-protection-to-your-nintendo-switch/"><u>How to Safeguard Games: Add Password Protection to Your Nintendo Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-gaming-experience-with-smart-modding-tips/"><u>Transform Your Gaming Experience with Smart Modding Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-the-art-of-combining-sony-and-switch-gameplay/"><u>Master the Art of Combining Sony & Switch Gameplay</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/correct-yt-monetization-checklist-maximize-your-earnings-for-2024/"><u>Correct YT Monetization Checklist – Maximize Your Earnings for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-14-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 14, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-pixel-gatherings-unique-ringtone-repository/"><u>[New] Ideal Pixel Gatherings  Unique Ringtone Repository</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-mp4-file-editor-for-mavericks-cut-merge-and-customize/"><u>Updated In 2024, MP4 File Editor for Mavericks Cut, Merge, and Customize</u></a></li>
+<li><a href="https://techidaily.com/is-your-xiaomi-mix-fold-3-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Xiaomi Mix Fold 3 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-understanding-youtubes-rating-mechanism-nuances/"><u>In 2024, Understanding YouTube's Rating Mechanism Nuances</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-high-quality-youtube-images-download-without-any-cost/"><u>[New] 2024 Approved  High-Quality YouTube Images  Download Without Any Cost</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-a79-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-mac-video-editing-for-dummies-picking-the-perfect-movie-maker-software/"><u>Updated Mac Video Editing for Dummies Picking the Perfect Movie Maker Software</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-5-samsung-gear-vr-experiences-for-2024/"><u>Best 5 Samsung Gear VR Experiences for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "A Seamless Switch: Windows on a Steam Deck Journey"
-date: 2024-06-23 18:26:34
-updated: 2024-06-24 10:38:12
+date: 2024-06-25T13:22:41.355Z
+updated: 2024-06-26T13:22:41.355Z
 tags:
   - games
 categories:
@@ -29,9 +29,7 @@ thumbnail: https://thmb.techidaily.com/a65df42cc8379f3aa4b0bec4cca01f43716f0f93a
 
  Do you want to have a familiar operating system or Game Pass on your Steam Deck? You can dual-boot SteamOS with Windows on the device. Here’s a thorough guide on installing Windows 11 on your Steam Deck.
 
-## Why You Should Install Windows on Your Steam Deck
-
-![Steam Deck surrounded by peripherals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/steam-deck-surrounded-by-peripherals.JPG)
+## Why You Should Install Windows on Your Steam Deck ![Steam Deck surrounded by peripherals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/steam-deck-surrounded-by-peripherals.JPG)
 
 Jhet Borja/MUO
 
@@ -39,7 +37,7 @@ Jhet Borja/MUO
 
  While not having a mouse and keyboard on your Steam Deck will pose some navigation issues, having an operating system that’s familiar to you and that you know how to use might be worth that sacrifice.
 
- Having Windows on your Steam Deck can also make it a work laptop or desktop replacement. You can easily use Photoshop, Microsoft Office apps, Lightroom, and all the usual suspects on Windows—so long as you’re willing to bring around a mouse and keyboard. Thankfully, there are plenty of[Steam Deck accessories](https://www.makeuseof.com/essential-steam-deck-accessories/) that can make doing real work on it a breeze.
+ Having Windows on your Steam Deck can also make it a work laptop or desktop replacement. You can easily use Photoshop, Microsoft Office apps, Lightroom, and all the usual suspects on Windows—so long as you’re willing to bring around a mouse and keyboard. Thankfully, there are plenty of [Steam Deck accessories](https://www.makeuseof.com/essential-steam-deck-accessories/) that can make doing real work on it a breeze.
 
 ## What You Need to Install Windows on Your Steam Deck
 
@@ -47,7 +45,7 @@ Jhet Borja/MUO
 
 ### Hardware
 
- For hardware, you really only need a USB flash drive and a USB-C hub to plug it into your Steam Deck. You can also[install an SD card on your Steam Deck](https://www.makeuseof.com/how-to-install-steam-deck-sd-card/) as long as it's decently fast. A USB 3.0 or higher flash drive or a UHS-I or higher SD card would suffice, but we wouldn’t suggest anything slower.
+ For hardware, you really only need a USB flash drive and a USB-C hub to plug it into your Steam Deck. You can also [install an SD card on your Steam Deck](https://www.makeuseof.com/how-to-install-steam-deck-sd-card/) as long as it's decently fast. A USB 3.0 or higher flash drive or a UHS-I or higher SD card would suffice, but we wouldn’t suggest anything slower.
 
  We also highly suggest using a separate PC as we've done in this guide, but you can also use your Steam Deck and follow similar steps using the Linux version of Ventoy.
 
@@ -57,29 +55,25 @@ Jhet Borja/MUO
 
 ![Ventoy Windows zip file from GitHub](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/ventoy-windows-zip-file-from-github.jpg)
 
- Head to[Ventoy’s GitHub page](https://github.com/ventoy/Ventoy/) and on the right side, click on**Releases** . Scroll down to**Assets** and click on the ZIP folder that says Windows on it. Extract the contents into a folder on your PC.
+ Head to [Ventoy’s GitHub page](https://github.com/ventoy/Ventoy/) and on the right side, click on**Releases** . Scroll down to**Assets** and click on the ZIP folder that says Windows on it. Extract the contents into a folder on your PC.
 
-### GNOME Partition Editor (GParted) ISO
+### GNOME Partition Editor (GParted) ISO ![downloading GParted amd64 version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/downloading-gparted-amd64-version.jpg)
 
-![downloading GParted amd64 version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/downloading-gparted-amd64-version.jpg)
-
- GParted is an ISO used to create partitions on your internal SSD on your Steam Deck. The new partition will be where you’ll place the Windows installation. To download it, head to[GParted.org](https://gparted.org/download.php) and click on the**amd64.iso** download file.
+ GParted is an ISO used to create partitions on your internal SSD on your Steam Deck. The new partition will be where you’ll place the Windows installation. To download it, head to [GParted.org](https://gparted.org/download.php) and click on the**amd64.iso** download file.
 
 ### Windows 11 ISO
 
- To put Windows onto your Steam Deck, you’ll of course need the installer. You can easily find this on[Microsoft’s Windows 11 page](https://www.microsoft.com/en-ca/software-download/windows11) .
+ To put Windows onto your Steam Deck, you’ll of course need the installer. You can easily find this on [Microsoft’s Windows 11 page](https://www.microsoft.com/en-ca/software-download/windows11) .
 
 ![Downloading Windows 11 ISO from Microsoft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/downloading-windows-11-iso-from-microsoft.jpg)
 
  Head to the**Download Windows 11 Disk Image (ISO)** option and on the dropdown menu, select**Windows 11 (multi-edition ISO)** . Click on**Download** , then select your language. It should then give you another download button to download the Windows ISO that is about 6GB to 7GB in size.
 
-### Windows Drivers for Steam Deck
-
-![Downloading Windows Drivers for Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/downloading-windows-drivers-for-steam-deck.jpg)
+### Windows Drivers for Steam Deck ![Downloading Windows Drivers for Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/downloading-windows-drivers-for-steam-deck.jpg)
 
  Windows doesn’t support all the Steam Deck’s hardware straight from the get-go. Fortunately, Steam has provided Windows drivers so that your audio, Wi-Fi, Bluetooth, SD card reader, and APU are all working properly.
 
- You can find and download the Windows drivers for your Steam Deck on the[Steam Deck Windows Resources support page](https://help.steampowered.com/en/faqs/view/6121-ECCD-D643-BAA8) . Extract all of them into a single folder so that you can paste it onto your SD card or flash drive later.
+ You can find and download the Windows drivers for your Steam Deck on the [Steam Deck Windows Resources support page](https://help.steampowered.com/en/faqs/view/6121-ECCD-D643-BAA8) . Extract all of them into a single folder so that you can paste it onto your SD card or flash drive later.
 
 ## How to Install Windows on Your Steam Deck
 
@@ -213,9 +207,7 @@ Jhet Borja/MUO
 
  If this doesn’t work, you may also try to delete the other ISO from the SD card or flash drive. You may also try reinstalling Ventoy as a last resort, but this will format the drive so make sure you have everything in a folder that you can easily paste onto the drive.
 
-### The Windows 0x80300001 Error
-
-![Selecting partition created in GParted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/selecting-partition-created-in-gparted.JPG)
+### The Windows 0x80300001 Error ![Selecting partition created in GParted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/selecting-partition-created-in-gparted.JPG)
 
 Jhet Borja/MUO
 
@@ -227,9 +219,7 @@ Jhet Borja/MUO
 
  You may have created a new partition as ext4 in GParted instead of leaving the unallocated partition as it is. If you insist on creating a new partition in GParted, make sure it’s in NTFS format and not ext4.
 
-### Windows Cannot Install Drivers
-
-![Windows cannot install required files error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-cannot-install-required-files-error.JPG)
+### Windows Cannot Install Drivers ![Windows cannot install required files error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-cannot-install-required-files-error.JPG)
 
 Jhet Borja/MUO
 
@@ -237,9 +227,7 @@ Jhet Borja/MUO
 
  Shut down your Steam Deck by holding down the power button and unplug any USB devices except your flash drive or SD card. Don’t plug in any USB devices during the installation to avoid this issue.
 
-### You Can’t Find SteamOS in the Boot Manager
-
-![No SteamOS option in boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/no-steamos-option-in-boot-manager.JPG)
+### You Can’t Find SteamOS in the Boot Manager ![No SteamOS option in boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/no-steamos-option-in-boot-manager.JPG)
 
 Jhet Borja/MUO
 
@@ -296,3 +284,26 @@ Then type:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/demystifying-meta-what-it-is-and-should-gamers-follow/"><u>Demystifying 'Meta': What It Is & Should Gamers Follow?</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-8-low-resource-android-game-environments-pc-and-mac/"><u>Ultimate 8 Low-Resource Android Game Environments, PC & Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-fix-it-guide-for-lost-location-alerts-in-pokemon-journey/"><u>The Ultimate Fix-It Guide for Lost Location Alerts in Pokémon Journey</u></a></li>
+<li><a href="https://games-able.techidaily.com/revive-and-thrive-with-atlasos-for-old-computers/"><u>Revive and Thrive with ATLASOS for Old Computers</u></a></li>
+<li><a href="https://games-able.techidaily.com/keyboard-speed-balancing-accuracy-and-fluidity/"><u>Keyboard Speed: Balancing Accuracy & Fluidity</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-xbox-joysticks-compared-2024/"><u>Elite Xbox Joysticks Compared 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-4-ios-emulation-apps-where-do-you-start/"><u>Top 4 iOS Emulation Apps: Where Do You Start?</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-lost-technology-ps5s-invisible-browsing-feature/"><u>The Lost Technology: PS5’s Invisible Browsing Feature</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-shell-the-creme-de-la-creme-case-2024/"><u>Ultimate Shell: The Crème De La Crème Case, 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-zero-to-hero-solo-podcast-trendsetters-secrets/"><u>In 2024, From Zero to Hero  Solo Podcast Trendsetters' Secrets</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-how-to-post-a-video-between-twitter-and-tumblr/"><u>2024 Approved  How to Post a Video Between Twitter and Tumblr?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-panasonic-hx-a1-wearable-camera-explored/"><u>[New] Panasonic HX-A1 Wearable Camera Explored</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-crafting-soundscapes-for-film-and-video-fusion/"><u>In 2024, Crafting Soundscapes for Film and Video Fusion</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-blending-multiple-exposures-into-a-single-hdr-in-lightroom/"><u>[New] The Ultimate Guide to Blending Multiple Exposures Into a Single HDR in Lightroom</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-instagram-story-straightforward-recording-tips/"><u>[Updated] In 2024, Instagram Story  Straightforward Recording Tips</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-behind-the-scenes-how-to-create-youtube-trailers-in-filmora/"><u>[Updated] 2024 Approved  Behind the Scenes  How-To Create YouTube Trailers in Filmora</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-depth-guide-best-audio-techniques-on-windows/"><u>In-Depth Guide  Best Audio Techniques on Windows</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-seamless-transitions-integrating-green-screen-and-yt/"><u>[Updated] Seamless Transitions  Integrating Green Screen & YT</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-getting-started-with-snapchats-new-spotlight/"><u>In 2024, Getting Started with Snapchat's New Spotlight</u></a></li>
+</ul></div>

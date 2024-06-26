@@ -1,7 +1,7 @@
 ---
 title: Virtual Sleuths and Artificial Intelligence Adventures
-date: 2024-06-21 15:16:24
-updated: 2024-06-24 11:34:26
+date: 2024-06-25T12:53:32.118Z
+updated: 2024-06-26T12:53:32.118Z
 tags:
   - games
 categories:
@@ -18,9 +18,7 @@ thumbnail: https://thmb.techidaily.com/2759ed3d822d64726b5041a7dfa5154bfc20081c3
 
  With the advent of ChatGPT and other such AI models comes a series of websites and apps that level up a traditional murder mystery game. In some, you'll be able to interact and talk with suspects for a single mystery. In others, the AI generates a new mystery every time you visit. The game is afoot!
 
-## 1. Solve the Murders
-
-![In Solve the Murders, you play a detective who has chat with AI suspects in a murder mystery to find out who the killer is](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-solve-the-murders.jpg)
+## 1. Solve the Murders ![In Solve the Murders, you play a detective who has chat with AI suspects in a murder mystery to find out who the killer is](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-solve-the-murders.jpg)
 
  Author Screenshot by Mihir Patkar - No attribution required
 
@@ -30,21 +28,17 @@ thumbnail: https://thmb.techidaily.com/2759ed3d822d64726b5041a7dfa5154bfc20081c3
 
  The points you earn are tradable for a few acts, such as checking alibis, checking records, investigating scenes, and tailing suspects. If you're stuck at any time, you can spend points to get a clue on how you should proceed. Once you're sure about the whodunnit, use the one-time "Solve the murder" action to see if you got it right.
 
-## 2. Gron
-
-![Gron is a retro 8-bit RPG-style online game where you unravel a murder mystery by finding evidence and clues, as well as interrogating suspects with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-gron-town.jpg)
+## 2. Gron ![Gron is a retro 8-bit RPG-style online game where you unravel a murder mystery by finding evidence and clues, as well as interrogating suspects with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-gron-town.jpg)
 
  Author Screenshot by Mihir Patkar - No attribution required
 
- You already know that[ChatGPT can create fictional characters](https://www.makeuseof.com/chatgpt-prompts-to-develop-book-characters/) to talk with or let you chat with existing famous characters once the right data is fed. Gron leverages this power to make a murder mystery game like an old-school 8-bit RPG.
+ You already know that [ChatGPT can create fictional characters](https://www.makeuseof.com/chatgpt-prompts-to-develop-book-characters/) to talk with or let you chat with existing famous characters once the right data is fed. Gron leverages this power to make a murder mystery game like an old-school 8-bit RPG.
 
  You play as Detective Samuel O'Connor, called to investigate the suspicious death of Elias Harrington, one of the wealthiest men in San Francisco. You'll need to move around in the game using the arrow keys and interact with characters or objects using the Spacebar. The game gives you no indication that a character or object is important, so it's all about using your detective skills.
 
  When you interact with a character, Gron automatically starts a chat window. Knowing the right prompts and asking the right questions is important. For example, we asked a character if he is the only son and got an affirmative response, but when asked if he had any siblings, he quickly replied that he misunderstood the first question and he had a sister. As you ask more questions, use the in-game diary to record responses so that you can cross-reference different testimonies to deduce who the murderer is.
 
-## 3. Mystery-o-Matic
-
-![Mystery-o-matic uses AI like ChatGPT to generate a new murder mystery every day where you have to guess the killer, the weapon, and the location based on a set of clues](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-mystery-o-matic.jpg)
+## 3. Mystery-o-Matic ![Mystery-o-matic uses AI like ChatGPT to generate a new murder mystery every day where you have to guess the killer, the weapon, and the location based on a set of clues](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-mystery-o-matic.jpg)
 
  Author Screenshot by Mihir Patkar - No attribution required
 
@@ -54,9 +48,7 @@ thumbnail: https://thmb.techidaily.com/2759ed3d822d64726b5041a7dfa5154bfc20081c3
 
  Use the built-in investigator's notebook to figure out who was in which room at what time and how they could have accessed a murder weapon. Once you're sure about the solution, say who the murderer was, the weapon was, and the time of the murder. The game might get a little repetitive the longer you play it, but hey, where else would you get to solve a murder mystery daily?
 
-## 4. Murdle
-
-![Murdle offers a new murder mystery everyday, generated by an AI and written by Hollywood mystery writer G. T. Karber, increasing in difficulty from Monday to Sunday](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-murdle.jpg)
+## 4. Murdle ![Murdle offers a new murder mystery everyday, generated by an AI and written by Hollywood mystery writer G. T. Karber, increasing in difficulty from Monday to Sunday](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-murdle.jpg)
 
  Author Screenshot by Mihir Patkar - No attribution required
 
@@ -87,3 +79,23 @@ thumbnail: https://thmb.techidaily.com/2759ed3d822d64726b5041a7dfa5154bfc20081c3
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/highlighting-java-games-with-unbeatable-design/"><u>Highlighting Java Games with Unbeatable Design</u></a></li>
+<li><a href="https://games-able.techidaily.com/will-radeon-and-nvidia-costs-escalate-soon/"><u>Will Radeon and Nvidia Costs Escalate Soon?</u></a></li>
+<li><a href="https://games-able.techidaily.com/virtual-gaming-reality-explore-fortnite-in-a-new-dimension/"><u>Virtual Gaming Reality: Explore Fortnite in a New Dimension</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-great-sound-from-mmx-200/"><u>Unleashing Great Sound From MMX 200</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-tech-trends-directx-11-vs-directx-12-updates/"><u>Gaming Tech Trends: DirectX 11 Vs. DirectX 12 Updates</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-xboxs-cloud-streaming-experience/"><u>Unveiling Xbox's Cloud Streaming Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-and-effective-steps-for-decks-sd-card-revamp/"><u>Quick & Effective Steps for Deck's SD Card Revamp</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-prestigious-websites-elevating-youtube-content/"><u>2024 Approved  Prestigious Websites Elevating YouTube Content</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-iphone-time-lapse-capturing-moments-quickly/"><u>2024 Approved  IPhone Time-Lapse  Capturing Moments Quickly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-upload-your-music-to-youtube-for-2024/"><u>[Updated] How to Upload Your Music to YouTube for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/did-your-apple-iphone-xs-max-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your Apple iPhone XS Max Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-nokia-g310-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Nokia G310 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-how-to-safeguard-tiktok-creations-a-phone-users-guide/"><u>[Updated] How to Safeguard TikTok Creations  A Phone User's Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-honor-magic-vs-2-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Honor Magic Vs 2 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-recommended-video-background-online-changers/"><u>Updated Recommended Video Background Online Changers</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-make-unforgettable-music-videos-from-your-favorite-photos-with-these-top-tools-for-2024/"><u>Updated Make Unforgettable Music Videos From Your Favorite Photos with These Top Tools for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Currents of Creativity: More Than Electricity"
-date: 2024-06-22 18:34:30
-updated: 2024-06-24 10:13:41
+date: 2024-06-25T12:50:12.940Z
+updated: 2024-06-26T12:50:12.940Z
 tags:
   - games
 categories:
@@ -24,9 +24,7 @@ thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4
 
  A faster CPU, sure. Better graphics, naturally. But what quirky, groundbreaking features could Nintendo’s out-of-the-box thinking bring to the Switch successor?
 
-## 1 The Switch Tablet as a Second Screen
-
-![A white Wii U GamePad with a large screen surrounded by joysticks and buttons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/shutterstock_79169617.jpg)
+## 1 The Switch Tablet as a Second Screen ![A white Wii U GamePad with a large screen surrounded by joysticks and buttons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/shutterstock_79169617.jpg)
 
  Barone Firenze/[Shutterstock](https://www.shutterstock.com/image-photo/los-angeles-june-7-nintendo-showing-79169617)
 
@@ -36,25 +34,21 @@ thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4
 
  A bold approach would see a new run of two-screen games, but also a development of the Switch’s flexible selling point, giving us one more way to play.
 
-## 2 An Upgradeable Dock
-
-![official nintendo switch docking station](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/official-nintendo-switch-docking-station.png)
+## 2 An Upgradeable Dock ![official nintendo switch docking station](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/official-nintendo-switch-docking-station.png)
 
 Nintendo
 
- One of the promises of a hybrid system was that it offers portability when you need it, and power when you can afford to stay still. The Switch has never quite borne this out, with a pretty ineffective[dock lacking in some obvious areas](https://www.makeuseof.com/the-nintendo-switch-dock-desperately-needs-an-upgrade-reasons-why/) . It does little more than serve as a hub for power and video output. By improving its dock, and introducing a broader range, Nintendo could do us all a huge favor.
+ One of the promises of a hybrid system was that it offers portability when you need it, and power when you can afford to stay still. The Switch has never quite borne this out, with a pretty ineffective [dock lacking in some obvious areas](https://www.makeuseof.com/the-nintendo-switch-dock-desperately-needs-an-upgrade-reasons-why/) . It does little more than serve as a hub for power and video output. By improving its dock, and introducing a broader range, Nintendo could do us all a huge favor.
 
  Of course, the technology needs to support it, but a dock with an upgradable CPU or GPU would be top of my list. I’d also love to see more video options: 1440p, 4K, and 8K if possible. The dock could even support fancier audio options, or other peripherals and accessories altogether.
 
 ## 3 Full Support for Current Eshop Purchases
 
- As[digital purchases grow ever more popular](https://www.makeuseof.com/physical-games-vs-digital-games-best-to-buy/) , more of us are amassing large gaming libraries and discovering new ways to rent and share games. Backward compatibility is now easier than ever and is a strong selling point, one which current Switch owners hope will see the light of day.
+ As [digital purchases grow ever more popular](https://www.makeuseof.com/physical-games-vs-digital-games-best-to-buy/) , more of us are amassing large gaming libraries and discovering new ways to rent and share games. Backward compatibility is now easier than ever and is a strong selling point, one which current Switch owners hope will see the light of day.
 
  Nintendo likes to test our patience, releasing remaster after remaster, and each console revision tends to introduce its own unique way of playing Super Mario Bros (1985). But I'd like the company to really push the boat out and embrace permanent ownership of digital titles, starting from this generation.
 
-## 4 Improved Screenshot and Video Features
-
-![Valnet Reviews Department Arlo Essential Indoor Camera placed on table with the privacy shutter covering the lens](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/05/arlo-essential-indoor-camera-placed-on-table-with-the-privacy-shutter-covering-the-lensjpg_53529842952_o.jpg)
+## 4 Improved Screenshot and Video Features ![Valnet Reviews Department Arlo Essential Indoor Camera placed on table with the privacy shutter covering the lens](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/05/arlo-essential-indoor-camera-placed-on-table-with-the-privacy-shutter-covering-the-lensjpg_53529842952_o.jpg)
 
  Jerome Thomas / MakeUseOf
 
@@ -64,9 +58,7 @@ Nintendo
 
  It might also be fun to see a return of a proper camera, as lovable as the JoyCon IR is.
 
-## 5 More Than One Game Card Slot
-
-![shutterstock_1447447304](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/shutterstock_1447447304.jpg)
+## 5 More Than One Game Card Slot ![shutterstock_1447447304](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/shutterstock_1447447304.jpg)
 
  Back in the heyday of compact discs, one of the most sought-after features was a disc changer or multi-disc tray that gave access to several albums at once. I've never wanted a console equivalent quite as much as I do with the Nintendo Switch.
 
@@ -89,3 +81,24 @@ Nintendo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/unveiling-the-finest-ea-play-games-for-sony-console/"><u>Unveiling the Finest EA Play Games for Sony Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/boost-valorant-speed-solutions-for-overcoming-low-fps-on-pc/"><u>Boost Valorant Speed: Solutions for Overcoming Low FPS on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/polling-pace-on-mice-vs-keyboards-a-comparative-analysis/"><u>Polling Pace on Mice vs Keyboards - A Comparative Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/compactbudget-screen-gamechanger-led/"><u>CompactBudget Screen - GameChanger LED</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-smooth-transitions-in-games-through-nvidia-g-sync/"><u>Exploring Smooth Transitions in Games Through Nvidia G-Sync</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-gaming-navigating-android-with-advanced-buttons/"><u>Enhancing Gaming: Navigating Android with Advanced Buttons</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-resolve-create-file-issue-error-30005-on-pcs/"><u>How to Resolve Create File Issue (Error 30005) on PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/embrace-the-game-subscribe-and-optimize-ps5s-ea-play-experience/"><u>Embrace the Game: Subscribe & Optimize PS5's EA Play Experience</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-vivo-s18-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Vivo S18 to Protect Your Individual Information</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-beginners-guide-to-canon-time-lapse-shooting/"><u>[Updated] The Beginner's Guide to Canon Time-Lapse Shooting</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/spectacular-screenwriting-revealed-for-2024/"><u>Spectacular Screenwriting Revealed for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premium-android-listening-helpers/"><u>Premium Android Listening Helpers</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-on-your-apple-iphone-6-plus-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card on Your Apple iPhone 6 Plus Apple ID and Apple Pay</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-quicktime-mov-editor-roundup-top-10-free-options/"><u>New In 2024, QuickTime MOV Editor Roundup Top 10 Free Options</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/choosing-between-obs-and-streamlabs-for-broadcast-excellence-for-2024/"><u>Choosing Between OBS and Streamlabs for Broadcast Excellence for 2024</u></a></li>
+</ul></div>

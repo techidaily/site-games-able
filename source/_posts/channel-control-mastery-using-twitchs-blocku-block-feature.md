@@ -1,7 +1,7 @@
 ---
 title: "Channel Control Mastery: Using Twitch's Block/U-Block Feature"
-date: 2024-06-22 17:30:18
-updated: 2024-06-23 12:33:36
+date: 2024-06-25T13:06:23.399Z
+updated: 2024-06-26T13:06:23.399Z
 tags:
   - games
 categories:
@@ -30,7 +30,7 @@ Here's how to block or unblock someone on Twitch...
 
 ![Blocking someone on Twitch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/block-unblock-twitch-dots.png)
 
- Twitch will quickly remind you what a blocked person can and cannot do. In short, once you block someone, they can't whisper you, host you, add you as a friend, or gift[Twitch subscriptions](https://www.makeuseof.com/tag/twitch-complete-guide-buying-subscriptions/) to your channel.
+ Twitch will quickly remind you what a blocked person can and cannot do. In short, once you block someone, they can't whisper you, host you, add you as a friend, or gift [Twitch subscriptions](https://www.makeuseof.com/tag/twitch-complete-guide-buying-subscriptions/) to your channel.
 
  If you're okay with this, click**Block** .
 
@@ -92,7 +92,7 @@ Close
 
  If you're on Android, you'll find that you can follow the above instructions word-for-word, right up until the point where a blocked user list is supposed to appear. Strangely, the blocked user list never made it over from iOS.
 
- As such, a quick and hassle-free way to unblock someone on Android is by using Twitch's desktop site on your device. Just head over to Twitch and load the desktop version of the site (here's a guide on how you can[view the desktop version of any site](https://www.makeuseof.com/how-to-view-desktop-version-of-any-site-on-mobile/) ). After that, follow the steps above for unblocking Twitch users via Settings.
+ As such, a quick and hassle-free way to unblock someone on Android is by using Twitch's desktop site on your device. Just head over to Twitch and load the desktop version of the site (here's a guide on how you can [view the desktop version of any site](https://www.makeuseof.com/how-to-view-desktop-version-of-any-site-on-mobile/) ). After that, follow the steps above for unblocking Twitch users via Settings.
 
  If you don't want to use this method, we'd recommend logging into your Twitch account on PC to manage your blocked users list instead.
 
@@ -115,3 +115,27 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/gaming-synergy-unpacking-keychron-and-lemokey/"><u>Gaming Synergy: Unpacking Keychron & Lemokey</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-a-world-of-fun-with-these-compelling-9-reasons-for-using-steam/"><u>Unlock a World of Fun with These Compelling 9 Reasons for Using Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/slimmer-smartphones-tecnos-exciting-showcase/"><u>Slimmer Smartphones: Tecno’s Exciting Showcase</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-role-of-endocannabinoids-in-modulating-immune-responses-and-disease-progression/"><u>The Role of Endocannabinoids in Modulating Immune Responses and Disease Progression</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamlessly-merge-console-pasts-emulating-xbox-on-pcs/"><u>Seamlessly Merge Console Pasts: Emulating Xbox on PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/pimax-crystal-unveiling-the-peak-of-virtual-immersion-and-problematic-aspects/"><u>Pimax Crystal: Unveiling the Peak of Virtual Immersion & Problematic Aspects</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719169636723-tackle-system-hiccups-update-your-gpu-driver/"><u>Tackle System Hiccups - Update Your GPU Driver!</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-iphones-functionality-as-a-game-device/"><u>Enhance iPhone's Functionality as a Game Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-steam-data-coordination-errors/"><u>Resolving Steam Data Coordination Errors</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-on-the-go-best-switch-cart-holder-ideas/"><u>Gaming on the Go: Best Switch Cart Holder Ideas</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-precision-video-capturing-on-mac-for-snapshares/"><u>2024 Approved  Precision Video Capturing on Mac for Snapshares</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-hashtags-hack-skyrocket-your-video-popularity/"><u>[New] Hashtags Hack  Skyrocket Your Video Popularity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transform-your-images-basic-tips-with-lunapic/"><u>2024 Approved  Transform Your Images  Basic Tips with LunaPic</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/in-2024-vn-video-editor-mobile-app-review-editing-on-the-go/"><u>In 2024, VN Video Editor Mobile App Review Editing on the Go</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-zoom-for-beginners-essential-webinar-skills-unveiled/"><u>[Updated] 2024 Approved  Zoom for Beginners  Essential Webinar Skills Unveiled</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-twitch-livestream-hacks-to-boost-engagement-and-followers-for-2024/"><u>[Updated] Twitch Livestream Hacks to Boost Engagement and Followers for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-authoritative-periscope-users-bible-for-2024/"><u>The Authoritative Periscope User's Bible for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Meizu 21 Pro? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-nokia-c210-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Nokia C210?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/video-sectioning-mastery-in-vimeo-videos/"><u>Video Sectioning Mastery in Vimeo Videos</u></a></li>
+</ul></div>

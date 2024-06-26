@@ -1,7 +1,7 @@
 ---
 title: "How to Fix the 0X887A0006: DXGI_ERROR_DEVICE_HUNG Error in Windows 11 & 11"
-date: 2024-06-21 20:21:16
-updated: 2024-06-24 10:18:32
+date: 2024-06-25T13:10:19.168Z
+updated: 2024-06-26T13:10:19.168Z
 tags:
   - games
 categories:
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 
  Make sure the games that error 0x887A0006 crashes have full system access by running them with administrator rights. You can temporarily select to run a game with admin rights or set it to always run with elevated privileges. This is how you can configure an affected game to run as an administrator:
 
-1. First, bring up Windows 11’s file manager with a method in our[guide for opening Explorer](https://www.makeuseof.com/windows-open-file-explorer/) .
+1. First, bring up Windows 11’s file manager with a method in our [guide for opening Explorer](https://www.makeuseof.com/windows-open-file-explorer/) .
 2. Then open the installation folder that contains the game’s EXE (application file).
 3. Right-click the game’s EXE file and select**Properties** .
 4. Click the properties window’s**Compatibility** tab.
@@ -85,7 +85,7 @@ For Steam:
 
 ## 5\. Roll Back the Most Recent Graphics Driver Update
 
- A few players have said they fixed error 0x887A0006 by rolling back graphics drivers. Applying such a resolution will restore the previous graphics driver installed on your PC. If the file for your previous graphics driver remains saved, you can select to roll back the driver via Device Manager. This article about[how to roll back a driver](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) includes instructions for applying this possible fix.
+ A few players have said they fixed error 0x887A0006 by rolling back graphics drivers. Applying such a resolution will restore the previous graphics driver installed on your PC. If the file for your previous graphics driver remains saved, you can select to roll back the driver via Device Manager. This article about [how to roll back a driver](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) includes instructions for applying this possible fix.
 
 ![The Roll Back Driver button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/roll-back-driver-option.jpg)
 
@@ -95,7 +95,7 @@ For Steam:
 
  You can update an NVIDIA or AMD driver in a few different ways. Some users utilize driver updater software packages, but some of them don't update graphics drivers to the newest ones available. To ensure you’re installing the very latest driver available for your GPU, download it from the manufacturer’s website.
 
- Our guide for[updating your graphics drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) provides further details about the various methods.
+ Our guide for [updating your graphics drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) provides further details about the various methods.
 
 ![The NVIDIA driver downloads page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-nvidia-driver-download-page.jpg)
 
@@ -138,7 +138,7 @@ For Steam:
 
  Disabling Timeout Detection and Recovery is another potential 0x887A0006 error fix some players have confirmed works. Time Detection and Recovery is a Windows feature that resets an unresponsive graphics driver. You can disable that feature by editing the**GraphicsDrivers** registry key in the following steps:
 
-1. Launch Windows’ Registry Editor app (check out our guide on[how to open Regedit](https://www.makeuseof.com/windows-11-open-registry-editor/) for further instructions.)
+1. Launch Windows’ Registry Editor app (check out our guide on [how to open Regedit](https://www.makeuseof.com/windows-11-open-registry-editor/) for further instructions.)
 2. Navigate to this**GraphicsDrivers** registry key location by entering the following path in the address bar:  
 `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers`
 3. Right-click GraphicsDrivers and select that key’s**New** \>**DWORD (32-bit) Value** options.  
@@ -149,11 +149,9 @@ For Steam:
 6. Enter**0** in TdrLevel’s**Value** box, and select**OK** to save.
 7. Close the Regedit app, and then restart your PC.
 
-## 11\. Reinstall the Game That's Crashing
+## 11\. Reinstall the Game That's Crashing ![The Uninstall option in Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-option-2.jpg)
 
-![The Uninstall option in Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-option-2.jpg)
-
- Reinstalling an affected game is the last thing to try when all else fails. Applying this potential solution will likely fix corrupted or missing game files that could be causing error 0x887A0006\. Some players may be concerned about losing saved games when reinstalling, but you can[back up game saves](https://www.makeuseof.com/tag/protect-your-game-saves/) in numerous ways.
+ Reinstalling an affected game is the last thing to try when all else fails. Applying this potential solution will likely fix corrupted or missing game files that could be causing error 0x887A0006\. Some players may be concerned about losing saved games when reinstalling, but you can [back up game saves](https://www.makeuseof.com/tag/protect-your-game-saves/) in numerous ways.
 
  You might be able to uninstall an affected game via Programs and Features or Settings. If you can’t see a game listed there, however, you’ll need to uninstall the title within the gaming client software with which you installed it. Then select to install the game in your gaming client.
 
@@ -176,3 +174,26 @@ For Steam:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/dive-into-6-curious-chess-programs-with-ai-matches/"><u>Dive Into 6 Curious Chess Programs with AI Matches</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-video-games-tracker-assemblies/"><u>Best Video Games Tracker Assemblies</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-key-elements-of-crafting-engrossing-steam-game-reviews/"><u>The Key Elements of Crafting Engrossing Steam Game Reviews</u></a></li>
+<li><a href="https://games-able.techidaily.com/will-imac-innovations-reign-in-gaming-markets/"><u>Will iMac Innovations Reign in Gaming Markets?</u></a></li>
+<li><a href="https://games-able.techidaily.com/trimming-unwanted-ui-in-discord-games/"><u>Trimming Unwanted UI in Discord Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/gameplay-experience-series-x-vs-custom-pc/"><u>Gameplay Experience: Series X Vs. Custom PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/npc-neighbors-network-five-friendly-mc-gameplay-styles/"><u>NPC Neighbors' Network: Five Friendly MC Gameplay Styles</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719165858880-unleash-your-inner-hero-in-the-ultimate-free-game-collection/"><u>Unleash Your Inner Hero in The Ultimate Free Game Collection!</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-steams-content-conflux-on-mac/"><u>Overcoming Steam's Content Conflux on Mac</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-video-editing-inshots-place/"><u>In 2024, The Ultimate Guide to Video Editing - InShot's Place</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-y77t-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo Y77t</u></a></li>
+<li><a href="https://extra-information.techidaily.com/invisible-impact-how-to-amplify-artwork-effectively/"><u>Invisible Impact  How to Amplify Artwork Effectively</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-complete-code-of-conduct-for-youtube-creators/"><u>[New] In 2024, Complete Code of Conduct for YouTube Creators</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-3-part-blueprint-to-monitor-and-maximize-your-youtube-profits/"><u>In 2024, 3-Part Blueprint to Monitor and Maximize Your YouTube Profits</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-avs-audio-editor-product-details-features-reviews-and-alternatives-for-2024/"><u>New AVS Audio Editor Product Details, Features, Reviews & Alternatives for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-easy-way-to-spot-and-view-trending-youtube-feedback/"><u>The Easy Way to Spot and View Trending YouTube Feedback</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-webcam-innovations-for-enhanced-connectivity-for-2024/"><u>[New] Webcam Innovations for Enhanced Connectivity for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-budget-friendly-high-quality-earphones-for-gaming/"><u>In 2024, Budget-Friendly, High-Quality Earphones for Gaming</u></a></li>
+</ul></div>

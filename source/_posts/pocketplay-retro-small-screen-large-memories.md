@@ -1,7 +1,7 @@
 ---
 title: "PocketPlay Retro: Small Screen, Large Memories"
-date: 2024-06-25T10:46:02.639Z
-updated: 2024-06-26T10:46:02.639Z
+date: 2024-06-25T12:48:39.136Z
+updated: 2024-06-26T12:48:39.136Z
 tags:
   - games
 categories:
@@ -121,7 +121,7 @@ Dual speakers, Bluetooth audio supported
 
 ## What Is a Retroid Pocket 3+?
 
- Playing old video games is as easy or as difficult as you want it to be. You could opt for a shrunk-down classic console like the NES Mini, or the curated cartridge collections of the[Evercade consoles](https://www.makeuseof.com/evercade-exp-review/) .
+ Playing old video games is as easy or as difficult as you want it to be. You could opt for a shrunk-down classic console like the NES Mini, or the curated cartridge collections of the [Evercade consoles](https://www.makeuseof.com/evercade-exp-review/) .
 
  Or you can get a bit more hands-on, select the ROMs you want to run, find the right emulator, and game like it’s 1989.
 
@@ -168,11 +168,11 @@ There’s even Nintendo GameCube and Wii support.
 * 3DO
 * Arcade titles via MAME, CPS (1, 2, and 3) and Final Burn Alpha
 
- Further emulation is possible across a wider selection of classic platforms (mostly computers) which rely on the touchscreen for keyboard access. Access to these is via RetroArch. The experience typically isn’t great here, especially when compared to[devices like the A500 Mini](https://www.makeuseof.com/amiga-a500-mini-review/) , but it’s good enough.
+ Further emulation is possible across a wider selection of classic platforms (mostly computers) which rely on the touchscreen for keyboard access. Access to these is via RetroArch. The experience typically isn’t great here, especially when compared to [devices like the A500 Mini](https://www.makeuseof.com/amiga-a500-mini-review/) , but it’s good enough.
 
  The Retroid Pocket 3+ also includes Steam Link and GameStream for streaming games from a suitably equipped PC, ScummVM for classic point-and-click adventure titles, and much more to help you enjoy games anywhere.
 
- Emulation of these platforms is available via the RetroidLauncher interface, which appears upon first launch. The Retroid community maintains an[online spreadsheet of tested games](https://docs.google.com/spreadsheets/u/0/d/1Vf7SIS7ecWa%5FJ301h0mb2bxMWBMtKLvcpAFyaa5-LDc/edit?usp=sharing&pli=1) .
+ Emulation of these platforms is available via the RetroidLauncher interface, which appears upon first launch. The Retroid community maintains an [online spreadsheet of tested games](https://docs.google.com/spreadsheets/u/0/d/1Vf7SIS7ecWa%5FJ301h0mb2bxMWBMtKLvcpAFyaa5-LDc/edit?usp=sharing&pli=1) .
 
 ## Console Design and Specification
 
@@ -224,7 +224,7 @@ There’s even Nintendo GameCube and Wii support.
 
  If you’re coming to the Retroid Pocket platform for the first time and want to play old games as quickly as possible, the Android app library is a good option. Various retro classics are available, from key entries in the Sega arcade pantheon to BANDAI NAMCO and Atari classics.
 
- Failing that, it also comes with Steam Link installed, for playing games over your network from a nearby PC. It’s almost as good as having a[Steam Deck](https://www.makeuseof.com/steam-deck-review-ultimate-portable-gaming-console/) (but not quite).
+ Failing that, it also comes with Steam Link installed, for playing games over your network from a nearby PC. It’s almost as good as having a [Steam Deck](https://www.makeuseof.com/steam-deck-review-ultimate-portable-gaming-console/) (but not quite).
 
 ## Retro Gaming and Gameplay on the Retroid Pocket 3+
 

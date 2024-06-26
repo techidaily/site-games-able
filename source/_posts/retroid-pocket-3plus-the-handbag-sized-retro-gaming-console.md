@@ -1,7 +1,7 @@
 ---
 title: "Retroid Pocket 3+: The Handbag-Sized Retro Gaming Console"
-date: 2024-06-21 10:28:34
-updated: 2024-06-24 12:29:16
+date: 2024-06-25T13:17:55.643Z
+updated: 2024-06-26T13:17:55.643Z
 tags:
   - games
 categories:
@@ -121,7 +121,7 @@ Dual speakers, Bluetooth audio supported
 
 ## What Is a Retroid Pocket 3+?
 
- Playing old video games is as easy or as difficult as you want it to be. You could opt for a shrunk-down classic console like the NES Mini, or the curated cartridge collections of the[Evercade consoles](https://www.makeuseof.com/evercade-exp-review/) .
+ Playing old video games is as easy or as difficult as you want it to be. You could opt for a shrunk-down classic console like the NES Mini, or the curated cartridge collections of the [Evercade consoles](https://www.makeuseof.com/evercade-exp-review/) .
 
  Or you can get a bit more hands-on, select the ROMs you want to run, find the right emulator, and game like it’s 1989.
 
@@ -168,11 +168,11 @@ There’s even Nintendo GameCube and Wii support.
 * 3DO
 * Arcade titles via MAME, CPS (1, 2, and 3) and Final Burn Alpha
 
- Further emulation is possible across a wider selection of classic platforms (mostly computers) which rely on the touchscreen for keyboard access. Access to these is via RetroArch. The experience typically isn’t great here, especially when compared to[devices like the A500 Mini](https://www.makeuseof.com/amiga-a500-mini-review/) , but it’s good enough.
+ Further emulation is possible across a wider selection of classic platforms (mostly computers) which rely on the touchscreen for keyboard access. Access to these is via RetroArch. The experience typically isn’t great here, especially when compared to [devices like the A500 Mini](https://www.makeuseof.com/amiga-a500-mini-review/) , but it’s good enough.
 
  The Retroid Pocket 3+ also includes Steam Link and GameStream for streaming games from a suitably equipped PC, ScummVM for classic point-and-click adventure titles, and much more to help you enjoy games anywhere.
 
- Emulation of these platforms is available via the RetroidLauncher interface, which appears upon first launch. The Retroid community maintains an[online spreadsheet of tested games](https://docs.google.com/spreadsheets/u/0/d/1Vf7SIS7ecWa%5FJ301h0mb2bxMWBMtKLvcpAFyaa5-LDc/edit?usp=sharing&pli=1) .
+ Emulation of these platforms is available via the RetroidLauncher interface, which appears upon first launch. The Retroid community maintains an [online spreadsheet of tested games](https://docs.google.com/spreadsheets/u/0/d/1Vf7SIS7ecWa%5FJ301h0mb2bxMWBMtKLvcpAFyaa5-LDc/edit?usp=sharing&pli=1) .
 
 ## Console Design and Specification
 
@@ -224,7 +224,7 @@ There’s even Nintendo GameCube and Wii support.
 
  If you’re coming to the Retroid Pocket platform for the first time and want to play old games as quickly as possible, the Android app library is a good option. Various retro classics are available, from key entries in the Sega arcade pantheon to BANDAI NAMCO and Atari classics.
 
- Failing that, it also comes with Steam Link installed, for playing games over your network from a nearby PC. It’s almost as good as having a[Steam Deck](https://www.makeuseof.com/steam-deck-review-ultimate-portable-gaming-console/) (but not quite).
+ Failing that, it also comes with Steam Link installed, for playing games over your network from a nearby PC. It’s almost as good as having a [Steam Deck](https://www.makeuseof.com/steam-deck-review-ultimate-portable-gaming-console/) (but not quite).
 
 ## Retro Gaming and Gameplay on the Retroid Pocket 3+
 
@@ -269,3 +269,27 @@ There’s even Nintendo GameCube and Wii support.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/1719168020295-epic-retro-play-ios-and-nintendo-fusion/"><u>Epic Retro Play: IOS & Nintendo Fusion!</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-adding-sd-to-steam-deck/"><u>Step-by-Step: Adding SD to Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/comprehensive-fixes-to-robloxs-error-code-403-a-guide-for-pc-gamers/"><u>Comprehensive Fixes to Roblox's Error Code 403: A Guide for PC Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/virtual-gaming-reality-explore-fortnite-in-a-new-dimension/"><u>Virtual Gaming Reality: Explore Fortnite in a New Dimension</u></a></li>
+<li><a href="https://games-able.techidaily.com/harmonizing-halo-passes-across-x-series/"><u>Harmonizing Halo Passes Across X Series</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-blue-blocker-eyewear-selection/"><u>Elite Blue Blocker Eyewear Selection</u></a></li>
+<li><a href="https://games-able.techidaily.com/stay-cool-keep-playing-essential-thermal-accessories/"><u>Stay Cool, Keep Playing: Essential Thermal Accessories</u></a></li>
+<li><a href="https://games-able.techidaily.com/6-reasons-why-you-shouldnt-buy-an-hdr-monitor-for-pc-gaming/"><u>6 Reasons Why You Shouldn't Buy an HDR Monitor for PC Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/harmonizing-playstation-5-memberships-for-efficiency/"><u>Harmonizing PlayStation 5 Memberships for Efficiency</u></a></li>
+<li><a href="https://games-able.techidaily.com/transition-from-screen-to-controller-for-fallout-gaming/"><u>Transition From Screen to Controller for Fallout Gaming</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-transforming-words-into-audio-proven-mp3-conversion-techniques/"><u>Updated In 2024, Transforming Words Into Audio Proven MP3 Conversion Techniques</u></a></li>
+<li><a href="https://extra-information.techidaily.com/superior-recording-devices-face-camera-included/"><u>Superior Recording Devices - Face Camera Included</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-htc-u23-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-harnessing-free-speech-to-text-technology-a-2023-roundup-of-online-resources-for-2024/"><u>New Harnessing Free Speech-to-Text Technology A 2023 Roundup of Online Resources for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-prime-voice-recorders-for-online-use/"><u>2024 Approved  Prime Voice Recorders for Online Use</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-cinematic-chronology-best-video-cameras-for-detailed-speed-recording/"><u>[New] Cinematic Chronology  Best Video Cameras for Detailed Speed Recording</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-scaling-back-obs-video-bandwidth/"><u>In 2024, Scaling Back OBS Video Bandwidth</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-sustainable-cinematic-solutions-catalog/"><u>[Updated] In 2024, Sustainable Cinematic Solutions Catalog</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Vivo Y78 5G? | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-how-to-generate-speech-from-text-the-best-text-to-speech-converters/"><u>Updated How To Generate Speech From Text | The Best Text-to-Speech Converters</u></a></li>
+</ul></div>

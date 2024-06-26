@@ -1,7 +1,7 @@
 ---
 title: "Steam Big Picture: Transforming Your Gaming Setup"
-date: 2024-06-25T10:50:28.776Z
-updated: 2024-06-26T10:50:28.776Z
+date: 2024-06-25T12:48:41.868Z
+updated: 2024-06-26T12:48:41.868Z
 tags:
   - games
 categories:
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/efc2d305e478474af3e17a5e089941fb3280acaab
 
 ## Why Should I Use Steam's Big Picture Mode?
 
- Big Picture mode is designed specifically to help gamers[set up and use console controllers to play games on Steam](https://www.makeuseof.com/how-to-set-up-use-console-controllers-steam/) . Not everyone likes gaming with a keyboard and mouse, some would prefer to hook Steam up to their TV and relax on the couch with a controller. There are many[ways to stream PC games to your TV](https://www.makeuseof.com/tag/3-ways-to-stream-video-games-from-your-pc-to-your-main-tv/) , and Big Picture mode is the perfect way to bring everything together and make it feel like you're playing on a home console.
+ Big Picture mode is designed specifically to help gamers [set up and use console controllers to play games on Steam](https://www.makeuseof.com/how-to-set-up-use-console-controllers-steam/) . Not everyone likes gaming with a keyboard and mouse, some would prefer to hook Steam up to their TV and relax on the couch with a controller. There are many [ways to stream PC games to your TV](https://www.makeuseof.com/tag/3-ways-to-stream-video-games-from-your-pc-to-your-main-tv/) , and Big Picture mode is the perfect way to bring everything together and make it feel like you're playing on a home console.
 
  But although it's designed to help gamers use Steam with a controller instead of a mouse and keyboard, you don't have to be gaming in your living room to use Big Picture mode. Steam's Big Picture mode works well in any setting, and it isn't just for TV use.
 

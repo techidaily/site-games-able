@@ -1,7 +1,7 @@
 ---
 title: "Meta in Gaming Decoded: What It Is & Should You Comply?"
-date: 2024-06-21 21:51:43
-updated: 2024-06-24 11:29:50
+date: 2024-06-25T13:22:05.691Z
+updated: 2024-06-26T13:22:05.691Z
 tags:
   - games
 categories:
@@ -44,7 +44,7 @@ OpenAI / MakeUseOf
 
  This shift of behavior will become the game's "meta." This will stay true until the Wizard is "nerfed" (decreased in power) or the Rogue is "buffed" (increased in power) to stabilize the meta.
 
- Metas aren't just limited to games with inherently unequal dynamics like video games with different character classes. They can affect games where both sides are on equal standing. The game of chess gives both sides the same amount of pieces, yet there is still a meta surrounding the best openers and counter-openers. And a lot of[apps that teach people chess](https://www.makeuseof.com/best-apps-learning-chess-phone-ios-android/) will educate players on what these meta-based moves are. Metas are found in all manner of games, even[dungeon masters have to be guard against player metagaming](https://gamerant.com/dungeons-dragons-5e-stop-metagaming/) overpowering the fun of their Dungeons & Dragons sessions.
+ Metas aren't just limited to games with inherently unequal dynamics like video games with different character classes. They can affect games where both sides are on equal standing. The game of chess gives both sides the same amount of pieces, yet there is still a meta surrounding the best openers and counter-openers. And a lot of [apps that teach people chess](https://www.makeuseof.com/best-apps-learning-chess-phone-ios-android/) will educate players on what these meta-based moves are. Metas are found in all manner of games, even [dungeon masters have to be guard against player metagaming](https://gamerant.com/dungeons-dragons-5e-stop-metagaming/) overpowering the fun of their Dungeons & Dragons sessions.
 
  At this point, you might be curious where the term meta came from. People sometimes claim that "meta" is an acronym, standing for "most efficient tactic available." There's no evidence of that, though it is a clever example of a "backronym," where people retroactively turn a word into an acronym. Instead, the term likely stemmed from the existing word "meta," which means something that refers to itself. This is because the meta is essentially a game based on a game, where strategies and tactics are devised before a round even starts.
 
@@ -62,9 +62,9 @@ OpenAI / MakeUseOf
 
  Metas can sometimes be seen as "flavors of the month." This is especially true for a game that receives consistent updates that tweak how the game is played. In this way, metas can help keep the game from going "stale" and introduce new play methods.
 
- For example, the trading card game Magic the Gathering started its life as a physical card game, but it now has a digital client called "Magic the Gathering Arena" which is one of the[best free PC games](https://www.makeuseof.com/tag/best-free-pc-games/) out there.
+ For example, the trading card game Magic the Gathering started its life as a physical card game, but it now has a digital client called "Magic the Gathering Arena" which is one of the [best free PC games](https://www.makeuseof.com/tag/best-free-pc-games/) out there.
 
- As an aside, there may be no finer example to use than Magic the Gathering on account of how its creator, game designer Richard Garfield, took the rarely used term "metagame" and injected it into the mainstream in the 1990s through his[conversations about game design and the "meta" strategies](https://edt210gamestechsociety.files.wordpress.com/2013/09/2000-garfield-metagame.pdf) found within the Magic the Gathering game system.
+ As an aside, there may be no finer example to use than Magic the Gathering on account of how its creator, game designer Richard Garfield, took the rarely used term "metagame" and injected it into the mainstream in the 1990s through his [conversations about game design and the "meta" strategies](https://edt210gamestechsociety.files.wordpress.com/2013/09/2000-garfield-metagame.pdf) found within the Magic the Gathering game system.
 
  Magic the Gathering has the Standard format, where new batches of cards are introduced every six months, and cards become illegal to play in Standard after two years of their release unless it's reprinted. This allows Standard to have a "rotating meta" where there's a flow of new cards coming in and older cards falling out of Standard. Any particularly overpowered or annoying cards are banned.
 
@@ -74,7 +74,7 @@ OpenAI / MakeUseOf
 
  Metas are not always positive. If a meta is too "powerful," it will warp the game around it. In severe instances, players will be at an active disadvantage if they do not, or cannot follow what the meta dictates.
 
- To stay on the topic of trading card games, Hearthstone is one of the best[cross-platform mobile multiplayer games](https://www.makeuseof.com/tag/10-awesome-cross-platform-mobile-multiplayer-games/) out there. Hearthstone had a period where its meta revolved around a card called "Dr. Boom," which had great stats and a powerful effect. And given how Hearthstone is designed, any deck could run Dr. Boom.
+ To stay on the topic of trading card games, Hearthstone is one of the best [cross-platform mobile multiplayer games](https://www.makeuseof.com/tag/10-awesome-cross-platform-mobile-multiplayer-games/) out there. Hearthstone had a period where its meta revolved around a card called "Dr. Boom," which had great stats and a powerful effect. And given how Hearthstone is designed, any deck could run Dr. Boom.
 
  The card was so good that people would add it as a "must-have" no matter what archetype their deck was. And people would concede if their opponent managed to play Dr. Boom and they hadn't drawn it yet. Deck builders had to ask themselves if their deck could handle Dr. Boom; if it couldn't, it was a bad deck.
 
@@ -127,3 +127,26 @@ OpenAI / MakeUseOf
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/enhancing-gaming-precision-with-core-parts/"><u>Enhancing Gaming Precision with Core Parts</u></a></li>
+<li><a href="https://games-able.techidaily.com/nostalgia-unleashed-psp-games-on-iphone/"><u>Nostalgia Unleashed: PSP Games on iPhone!</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719159193660-outsmart-glitching-computers-get-the-latest-nvidia-driver-now/"><u>Outsmart Glitching Computers – Get the Latest Nvidia Driver Now.</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-up-your-linux-playtime-top-7-terminal-games/"><u>Step Up Your Linux Playtime: Top 7 Terminal Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-2024s-finest-nintendo-switch-dock-compilation/"><u>Discovering 2024'S Finest: Nintendo Switch Dock Compilation</u></a></li>
+<li><a href="https://games-able.techidaily.com/lead-your-own-saga-old-championship-manager-for-the-cheapskates/"><u>Lead Your Own Saga: Old Championship Manager for the Cheapskates</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-surprising-advantages-of-late-game-launches/"><u>The Surprising Advantages of Late Game Launches</u></a></li>
+<li><a href="https://games-able.techidaily.com/my-gaming-adventure-with-an-advanced-oled-display/"><u>My Gaming Adventure with an Advanced OLED Display.</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-steam-decks-cloud-connectivity-problems/"><u>Resolving Steam Deck's Cloud Connectivity Problems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamlining-your-workflow-with-zooms-pre-meeting-protocol/"><u>In 2024, Streamlining Your Workflow with Zoom's Pre-Meeting Protocol</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-amplify-your-content-techniques-for-successful-youtube-and-twitch-multi-streams/"><u>2024 Approved  Amplify Your Content  Techniques for Successful Youtube & Twitch Multi-Streams</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-quick-guide-to-mp3-from-instagram-videos/"><u>2024 Approved  Quick Guide to MP3 From Instagram Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-budget-savvy-shoppers-guide-to-panoramic-recording-tech/"><u>In 2024, Budget-Savvy Shoppers' Guide to Panoramic Recording Tech</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-novice-to-vlogger-top-tips-to-enhance-your-tiktok-videos/"><u>[New] From Novice to Vlogger  Top Tips to Enhance Your TikTok Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-best-animated-text-generator/"><u>Updated Best Animated Text Generator</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-inside-track-full-adobe-cloud-storage-guide-and-why-other-solutions-matter-for-2024/"><u>[New] Inside Track  Full Adobe Cloud Storage Guide and Why Other Solutions Matter for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-itel-p55-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-cheap-pc-screenshot-and-recording-software-guide/"><u>[Updated] In 2024, Cheap PC Screenshot & Recording Software Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-leading-software-lineup-8-linux-editing-sleuths/"><u>2024 Approved  Leading Software Lineup  8 Linux Editing Sleuths</u></a></li>
+</ul></div>

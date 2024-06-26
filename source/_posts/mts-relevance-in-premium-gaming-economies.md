@@ -1,7 +1,7 @@
 ---
 title: MTs' Relevance in Premium Gaming Economies
-date: 2024-06-22 18:14:42
-updated: 2024-06-24 12:25:45
+date: 2024-06-25T13:34:57.767Z
+updated: 2024-06-26T13:34:57.767Z
 tags:
   - games
 categories:
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/5f965e05f94f7cfe9aba689162b9d85f8fa664dac
 
  At first, it came as expansion packs ([now known as DLC](https://www.makeuseof.com/dlc-video-games/) ), which you had to buy separately to expand the game’s content. But it didn’t take long for developers to realize they could make more money from selling small bits of seemingly inconsequential content for a token price.
 
- Eventually, this trend led to the introduction of[loot boxes and gacha microtransactions](https://www.makeuseof.com/are-loot-boxes-in-video-games-a-form-of-gambling-should-you-avoid-them/) . These were not just game-changers but financial jackpots. In fact, one of the pioneers in this field, ZT Online (2007), was raking in a staggering $15 million monthly at its peak.
+ Eventually, this trend led to the introduction of [loot boxes and gacha microtransactions](https://www.makeuseof.com/are-loot-boxes-in-video-games-a-form-of-gambling-should-you-avoid-them/) . These were not just game-changers but financial jackpots. In fact, one of the pioneers in this field, ZT Online (2007), was raking in a staggering $15 million monthly at its peak.
 
  Before we knew it, we had Facebook games like Farmville that offered Farm Cash to make the game easier to play and progress faster. From there, it made its way to mobile as smartphone games, like Clash of Clans.
 
@@ -76,9 +76,7 @@ But what about premium games? Should they have microtransactions?
 
  Apart from the inherent gambling nature of loot boxes, as a creator and an artist, doesn’t it feel fundamentally wrong to offer people a way to pay to experience less of your creation? It gives people the idea that your game is a chore, which shouldn’t be the case.
 
-### Bloat and Battle Passes
-
-![Assassin's Creed Origins Season Pass for sale on Ubisoft website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/assassin-s-creed-origins-season-pass-for-sale-on-ubisoft-website.png)
+### Bloat and Battle Passes ![Assassin's Creed Origins Season Pass for sale on Ubisoft website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/assassin-s-creed-origins-season-pass-for-sale-on-ubisoft-website.png)
 
  Another way you can tell microtransactions don’t have a place in premium games is that they only worm their way into established franchises. Ubisoft is a good example of this, seeing as it has added seasonal passes to many titles in their (mostly) offline single-player adventure series, Assassin’s Creed.
 
@@ -86,7 +84,7 @@ But what about premium games? Should they have microtransactions?
 
  Companies add these to leverage the cumulated love and loyalty some fans have to these established series—even though they know many wouldn’t like it. In the end, it comes off as parasitic.
 
- What makes passes even worse is that you have to play the game for a certain amount of time to earn the content on them. We've explored more on[why you shouldn't pay for passes](https://www.makeuseof.com/why-you-shouldnt-pay-for-season-passes-or-dlc/) in a dedicated piece.
+ What makes passes even worse is that you have to play the game for a certain amount of time to earn the content on them. We've explored more on [why you shouldn't pay for passes](https://www.makeuseof.com/why-you-shouldnt-pay-for-season-passes-or-dlc/) in a dedicated piece.
 
  Additionally, these games end up being bloated, as content you’ve bought, downloaded, and installed is locked behind an additional paywall. This will cost the paying player more internet bills for content they will likely never get to experience.
 
@@ -121,3 +119,26 @@ But what about premium games? Should they have microtransactions?
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/maximize-graphics-on-windows-with-efficient-dxvk-utility/"><u>Maximize Graphics on Windows with Efficient DXVK Utility</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-revive-your-gaming-library-on-ps5/"><u>How to Revive Your Gaming Library on PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719166740000-jumpstart-savings-with-sonys-midyear-blowout/"><u>Jumpstart Savings with Sony's Midyear Blowout</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-iphone-from-communication-to-entertainment-hub/"><u>Transform Your iPhone: From Communication to Entertainment Hub</u></a></li>
+<li><a href="https://games-able.techidaily.com/tech-titans-at-computex-with-new-ai-hardware/"><u>Tech Titans at Computex with New AI Hardware</u></a></li>
+<li><a href="https://games-able.techidaily.com/integration-tutorial-controller-phone-combo/"><u>Integration Tutorial: Controller, Phone Combo</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-steams-invisible-user-settings/"><u>Navigating Steam's Invisible User Settings</u></a></li>
+<li><a href="https://games-able.techidaily.com/mending-your-ps4-remotes-abrupt-severance-from-pc/"><u>Mending Your PS4 Remote's Abrupt Severance From PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-to-know-amds-newest-graphics-innovation-rdna-35/"><u>Get to Know AMD's Newest Graphics Innovation, RDNA 3.5</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/reel-it-in-techs-video-harvest/"><u>Reel It In  Tech's Video Harvest</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-embed-musical-layers-into-premiere-pro-productions/"><u>In 2024, Embed Musical Layers Into Premiere Pro Productions</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-25-most-high-performance-instant-vocal-change-apps-a-critical-perspective-for-2024/"><u>New The 25 Most High-Performance Instant Vocal Change Apps – A Critical Perspective for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-rotate-your-avi-videos-for-free-16-excellent-options-for-windows-mac-android-iphone-and-online/"><u>New In 2024, Rotate Your AVI Videos for Free 16 Excellent Options for Windows, MAC, Android, iPhone, and Online</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-mastering-twitch-broadcasts-recording-essentials/"><u>[New] In 2024, Mastering Twitch Broadcasts  Recording Essentials</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-compressing-time-how-to-create-engaging-time-lapse-videos-with-ease/"><u>New 2024 Approved Compressing Time How to Create Engaging Time Lapse Videos with Ease</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-melodic-movement-choosing-among-the-best-free-mobile-apps-for-youtube-tunes/"><u>[Updated] 2024 Approved  Melodic Movement  Choosing Among The Best Free Mobile Apps for YouTube Tunes</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/mac-video-editor-reviews-find-the-perfect-tool-for-your-needs-for-2024/"><u>Mac Video Editor Reviews Find the Perfect Tool for Your Needs for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/a-list-of-ten-soaring-youtube-creations-with-speed-and-purpose/"><u>A List of Ten Soaring YouTube Creations with Speed and Purpose</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-sleep-soundly-top-aspers-techniques-unveiled/"><u>[New] Sleep Soundly  Top Asper's Techniques Unveiled</u></a></li>
+</ul></div>

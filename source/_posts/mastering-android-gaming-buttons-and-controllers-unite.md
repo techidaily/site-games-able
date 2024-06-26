@@ -1,7 +1,7 @@
 ---
 title: "Mastering Android Gaming: Buttons and Controllers Unite"
-date: 2024-06-21 11:40:39
-updated: 2024-06-24 10:35:42
+date: 2024-06-25T12:55:48.065Z
+updated: 2024-06-26T12:55:48.065Z
 tags:
   - games
 categories:
@@ -34,9 +34,7 @@ thumbnail: https://thmb.techidaily.com/773bcb287706a7e5add3e76fb4807bc2dd418c60c
 
  For example, moving the analog stick can simulate dragging your thumb around the left side of the screen. Pressing the**A** button can imitate tapping on the right side of the screen. The task is easiest for games with a virtual game controller spread across the screen, since you can assign a physical button to the location of their virtual counterparts.
 
-## How to Get Started With Button Mapping on Android
-
-![Mantis prompting you to enable USB debugging.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-button-mapping-usb-debugging.png)
+## How to Get Started With Button Mapping on Android ![Mantis prompting you to enable USB debugging.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-button-mapping-usb-debugging.png)
 
 ![Enabling USB debugging on Android.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/android-developer-settings-usb-debugging.png)
 
@@ -55,14 +53,14 @@ Close
 1. **Enable floating widgets:** This allows the Mantis widget to float along the edge of your screen while you play a game.
 2. **Enable USB debugging:** This gives the app access to necessary parts of your phone in order to function.
 3. **Allow overlays over settings:** This allows Mantis to float instructions above other apps so that it can guide you through the settings you need to enable.
-4. **Enable wireless debugging:** Like[USB debugging on Android](https://www.makeuseof.com/tag/what-is-usb-debugging-mode-on-android-makeuseof-explains/) , wireless debugging provides access to necessary parts of your phone.
+4. **Enable wireless debugging:** Like [USB debugging on Android](https://www.makeuseof.com/tag/what-is-usb-debugging-mode-on-android-makeuseof-explains/) , wireless debugging provides access to necessary parts of your phone.
 5. **Pair via wireless debugging:** Establishes a connection between Mantis Gamepad Pro and your phone.
 
  According to the developer, this approach lets you enable and use physical controls without getting banned from playing certain games online.
 
- As part of the setup process, you also need to connect a controller to your phone. Whether you[use a Bluetooth controller with your Android device](https://www.makeuseof.com/tag/how-to-connect-a-game-controller-to-android-for-console-like-gameplay-si/) or a clamshell-style gamepad like[the Raser Kishi V2 we reviewed](http://makeuseof.com/razer-kishi-v2-review/) , Mantis should detect your gamepad automatically.
+ As part of the setup process, you also need to connect a controller to your phone. Whether you [use a Bluetooth controller with your Android device](https://www.makeuseof.com/tag/how-to-connect-a-game-controller-to-android-for-console-like-gameplay-si/) or a clamshell-style gamepad like [the Raser Kishi V2 we reviewed](http://makeuseof.com/razer-kishi-v2-review/) , Mantis should detect your gamepad automatically.
 
- Mantis Gamepad Pro isn't your only choice if you want to get started with button mapping on your Android device. You should also consider alternatives like[Octopus](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2031380/https://play.google.com/store/apps/details?id=com.chaozhuo.gameassistant&hl=en&gl=US) and[Panda Gamepad Pro](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2031380/https://play.google.com/store/apps/details?id=com.panda.gamepad&hl=en&gl=US) , which perform the same core function in different ways.
+ Mantis Gamepad Pro isn't your only choice if you want to get started with button mapping on your Android device. You should also consider alternatives like [Octopus](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2031380/https://play.google.com/store/apps/details?id=com.chaozhuo.gameassistant&hl=en&gl=US) and [Panda Gamepad Pro](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2031380/https://play.google.com/store/apps/details?id=com.panda.gamepad&hl=en&gl=US) , which perform the same core function in different ways.
 
 ## How to Assign Buttons to an Android Game
 
@@ -107,3 +105,23 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/steering-vs-touchscreen-choosing-the-right-gear-for-racers/"><u>Steering Vs. Touchscreen: Choosing the Right Gear for Racers</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-game-room-with-expert-3d-lighting-choices/"><u>Transform Your Game Room with Expert 3D Lighting Choices</u></a></li>
+<li><a href="https://games-able.techidaily.com/crossovers-essential-guide-for-playing-games-from-one-os-to-another/"><u>CrossOver's Essential Guide for Playing Games From One OS to Another</u></a></li>
+<li><a href="https://games-able.techidaily.com/amplify-your-skill-set-with-superior-hardware/"><u>Amplify Your Skill Set with Superior Hardware</u></a></li>
+<li><a href="https://games-able.techidaily.com/new-ps5-slim-understanding-its-impact/"><u>New PS5 Slim - Understanding Its Impact</u></a></li>
+<li><a href="https://games-able.techidaily.com/current-concepts-dreaming-beyond-watts/"><u>Current Concepts: Dreaming Beyond Watts</u></a></li>
+<li><a href="https://games-able.techidaily.com/identifying-your-ideal-elgato-for-productivity-boosts/"><u>Identifying Your Ideal Elgato for Productivity Boosts</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-swiftly-resolving-delayed-videos-in-facebooks-chatting-application-for-mobile-devices/"><u>[Updated] 2024 Approved  Swiftly Resolving Delayed Videos in Facebook's Chatting Application for Mobile Devices</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-13-mini-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 13 mini After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/metavision-quest-selecting-the-most-advanced-vr-headset-for-2024/"><u>Metavision Quest  Selecting the Most Advanced VR Headset for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-free-to-paid-transitioning-your-channel-via-partnership-for-2024/"><u>[Updated] From Free to Paid  Transitioning Your Channel via Partnership for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/harmonious-accompaniment-for-anniversary-video/"><u>Harmonious Accompaniment for Anniversary Video</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-twitch-livestream-hacks-to-boost-engagement-and-followers/"><u>[New] In 2024, Twitch Livestream Hacks to Boost Engagement and Followers</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/top-10-affordable-adventures-free-movies-streaming-on-youtube/"><u>Top 10 Affordable Adventures  Free Movies Streaming on YouTube</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/subtitle-your-videos-for-free-10-top-online-captioning-tools-for-2024/"><u>Subtitle Your Videos for Free 10 Top Online Captioning Tools for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-unlock-instagram-speed-mastering-video-and-likes/"><u>[New] Unlock Instagram Speed - Mastering Video and Likes</u></a></li>
+</ul></div>

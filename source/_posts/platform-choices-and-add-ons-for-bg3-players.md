@@ -1,7 +1,7 @@
 ---
 title: Platform Choices and Add-Ons for BG3 Players
-date: 2024-06-21 19:40:35
-updated: 2024-06-24 11:45:56
+date: 2024-06-25T12:52:19.486Z
+updated: 2024-06-26T12:52:19.486Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/a37756492ab1857a09a054e79025c0f5c34551efc
 
 ## What Are Baldur’s Gate 3's Hardware and Software Requirements?
 
- Unlike its predecessors, you can’t run Baldur’s Gate 3 on a potato computer. While you don’t need the most powerful graphic cards, you would need a decent one if you want to enjoy your experience and explore this corner of Faerûn. Take a look at our list of the[best graphic cards for any budget](https://www.makeuseof.com/tag/best-graphics-cards/) to find something that works for you if you plan to play on a PC.
+ Unlike its predecessors, you can’t run Baldur’s Gate 3 on a potato computer. While you don’t need the most powerful graphic cards, you would need a decent one if you want to enjoy your experience and explore this corner of Faerûn. Take a look at our list of the [best graphic cards for any budget](https://www.makeuseof.com/tag/best-graphics-cards/) to find something that works for you if you plan to play on a PC.
 
 Here’s a table for Baldur’s Gate 3’s specs:
 
@@ -33,7 +33,7 @@ Here’s a table for Baldur’s Gate 3’s specs:
 | **DirectX**   | Version 11                                                                                                            | \-                                                                                          |
 | **Storage**   | 150GB SSD                                                                                                             | **Minimum** \- 150GB HDD**Recommended** \- 150GB SSD                                        |
 
- Apple silicon Macs generally run Baldur’s Gate better than Intel Macs—just one of the reasons[you might need an Apple silicon Mac](https://www.makeuseof.com/do-i-need-an-apple-silicon-mac/) .
+ Apple silicon Macs generally run Baldur’s Gate better than Intel Macs—just one of the reasons [you might need an Apple silicon Mac](https://www.makeuseof.com/do-i-need-an-apple-silicon-mac/) .
 
 * M1 and M2 Macs with 8GB RAM could run this game on low settings (and this includes all MacBook Airs).
 * M1 and M2 Macs with 16GB of RAM can run Baldur’s Gate 3 on high or ultra settings.
@@ -43,7 +43,7 @@ Here’s a table for Baldur’s Gate 3’s specs:
 
 ![Baldur's Gate 3 Steam Store Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-steam-store-page.jpeg)
 
- Baldur’s Gate 3 came out for PC on August 3rd, but it will come out for macOS and PS5 on September 6th, and perhaps next year for Xbox Series X|S. Larian Studios has issues getting the split-screen to work effectively on the[cheaper and less powerful Xbox Series S](https://www.makeuseof.com/xbox-series-x-vs-xbox-series-s-which-should-you-buy/) .
+ Baldur’s Gate 3 came out for PC on August 3rd, but it will come out for macOS and PS5 on September 6th, and perhaps next year for Xbox Series X|S. Larian Studios has issues getting the split-screen to work effectively on the [cheaper and less powerful Xbox Series S](https://www.makeuseof.com/xbox-series-x-vs-xbox-series-s-which-should-you-buy/) .
 
  You can get Baldur’s Gate 3 on PC and Mac from Steam, GOG, and GeForce Now. It costs $59.99 alone or $69.98 with the Digital Deluxe Edition DLC.
 
@@ -92,3 +92,27 @@ Here’s a table for Baldur’s Gate 3’s specs:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/ai-powered-roleplay-top-6-gpt-methods-to-elevate-your-dandd-experience/"><u>AI-Powered Roleplay: Top 6 GPT Methods to Elevate Your D&D Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-to-know-amds-newest-graphics-innovation-rdna-35/"><u>Get to Know AMD's Newest Graphics Innovation, RDNA 3.5</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-hot-swappable-magic-razers-blackwidow-v4-unveiled/"><u>Discover the Hot-Swappable Magic: Razer's BlackWidow V4 Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-2024s-finest-nintendo-switch-dock-compilation/"><u>Discovering 2024'S Finest: Nintendo Switch Dock Compilation</u></a></li>
+<li><a href="https://games-able.techidaily.com/reviving-your-dormant-xbox-controller-on-windows/"><u>Reviving Your Dormant Xbox Controller on Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/slaying-competitors-amds-advances-in-rdna-35-tech-and-launch-timeline/"><u>Slaying Competitors: AMD’s Advances in RDNA 3.5 Tech and Launch Timeline</u></a></li>
+<li><a href="https://games-able.techidaily.com/mac-integration-with-nintendo-switch-games/"><u>Mac Integration with Nintendo Switch Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-twitch-guide-platform-overview-and-streamer-resources/"><u>The Twitch Guide: Platform Overview and Streamer Resources</u></a></li>
+<li><a href="https://games-able.techidaily.com/fine-tuning-your-steam-deck-for-optimal-typing/"><u>Fine-Tuning Your Steam Deck for Optimal Typing</u></a></li>
+<li><a href="https://games-able.techidaily.com/performance-showdown-founders-edition-vs-aib-graphics-cards/"><u>Performance Showdown: Founders Edition VS AIB Graphics Cards</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-revolutionize-your-content-10-best-online-animation-creators/"><u>New 2024 Approved Revolutionize Your Content 10 Best Online Animation Creators</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-from-iphone-13-pro-max-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock from iPhone 13 Pro Max</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-free-video-loop-creator-software-for-beginners/"><u>New In 2024, Free Video Loop Creator Software for Beginners</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-direct-transfer-of-pc-media-files-to-iphone-for-2024/"><u>[Updated] Direct Transfer of PC Media Files to iPhone for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-xiaomi-redmi-k70e-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Xiaomi Redmi K70E Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-designing-dynamic-videos-with-adobe-captivate-for-2024/"><u>[New] Designing Dynamic Videos with Adobe Captivate for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-silent-spectator-of-social-media-snippets/"><u>2024 Approved  Silent Spectator of Social Media Snippets</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-p40plus-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Itel P40+ Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-expedite-youtube-video-submission-rapid-rendering-secrets/"><u>In 2024, Expedite YouTube Video Submission  Rapid Rendering Secrets</u></a></li>
+</ul></div>

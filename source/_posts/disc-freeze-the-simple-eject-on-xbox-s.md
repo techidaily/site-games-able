@@ -1,7 +1,7 @@
 ---
 title: Disc Freeze? The Simple Eject on Xbox S
-date: 2024-06-25T10:48:13.353Z
-updated: 2024-06-26T10:48:13.353Z
+date: 2024-06-25T12:48:40.471Z
+updated: 2024-06-26T12:48:40.471Z
 tags:
   - games
 categories:
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 
  Image Credit:[Xbox](https://support.xbox.com/en-us/help/hardware-network/console/manually-eject-disc)
 
- After a few seconds of inserting the paper clip, the mechanism holding the disc inside your Xbox Series X should manually release, freeing your stuck disc. Even with the ability to[play old Xbox games on your Xbox Series X](https://www.makeuseof.com/how-to-play-old-xbox-games-on-xbox-series-x/) , triggering the**Eject hole** will eject any disc you insert into your console.
+ After a few seconds of inserting the paper clip, the mechanism holding the disc inside your Xbox Series X should manually release, freeing your stuck disc. Even with the ability to [play old Xbox games on your Xbox Series X](https://www.makeuseof.com/how-to-play-old-xbox-games-on-xbox-series-x/) , triggering the**Eject hole** will eject any disc you insert into your console.
 
  However, while utilizing the**Eject hole** is a quick and easy solution, there are some key points surrounding manually ejecting a disc that may prevent you from relying on the**Eject hole** as a permanent solution.
 
@@ -45,12 +45,12 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 
  For this reason, Xbox provides a few key points about dealing with stuck Xbox discs that may prevent you from dealing with the problem again. To be specific, these points can be defined by the following:
 
-* Xbox highlights that a stuck disc in an Xbox Series X may be fixed by simply[resetting your Xbox console](https://www.makeuseof.com/tag/reset-xbox-one-xbox-360/) . If discs continue to get stuck, you may want to reset your Xbox, instead of utilizing the**Eject hole** .
+* Xbox highlights that a stuck disc in an Xbox Series X may be fixed by simply [resetting your Xbox console](https://www.makeuseof.com/tag/reset-xbox-one-xbox-360/) . If discs continue to get stuck, you may want to reset your Xbox, instead of utilizing the**Eject hole** .
 * Xbox also points out that while the**Eject button** on your console may not retrieve your disc, utilizing your controller could. To do this, from the Home screen of your console, press the**X button** to**Eject** your disc.
 
 ![A screenshot of the Home screen option to Eject a disc from an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3183.jpg)
 
-* If you continually rely on the**Eject hole** to release a disc, it is likely your console has a hardware problem. To permanently fix this, it's recommended you[send your Xbox Series X in for a repair](https://www.makeuseof.com/how-to-fix-broken-xbox-series-xs-and-send-for-a-repair/) .
+* If you continually rely on the**Eject hole** to release a disc, it is likely your console has a hardware problem. To permanently fix this, it's recommended you [send your Xbox Series X in for a repair](https://www.makeuseof.com/how-to-fix-broken-xbox-series-xs-and-send-for-a-repair/) .
 
  But even with these pointers from Xbox regarding how to avoid relying on the**Eject hole** , you can always rely on the manual method to retrieve any disc that may be stuck inside your Series X.
 

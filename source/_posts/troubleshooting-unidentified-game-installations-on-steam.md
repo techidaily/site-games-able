@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Unidentified Game Installations on Steam
-date: 2024-06-25T10:47:58.648Z
-updated: 2024-06-26T10:47:58.648Z
+date: 2024-06-25T12:48:40.325Z
+updated: 2024-06-26T12:48:40.325Z
 tags:
   - games
 categories:
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
 
  According to Steam, some games may appear not installed if the Steam client fails to recognize the installation files. Provided that you have the game folder in the correct location, you can begin the download process. This will force Steam to recognize the existing installation files without downloading the files all over again.
 
- Note that this requires you to sign in to your Steam account. Explore our troubleshooting guide to fix[can't sign in to Steam](https://www.makeuseof.com/steam-login-troubleshooting/) issue if you struggle to log in.
+ Note that this requires you to sign in to your Steam account. Explore our troubleshooting guide to fix [can't sign in to Steam](https://www.makeuseof.com/steam-login-troubleshooting/) issue if you struggle to log in.
 
 Follow these steps to reinstall games in Steam without downloading:
 
@@ -49,7 +49,7 @@ C:\Program Files (x86)\Steam\steamapps\common
 
 ## 2\. Add an Existing Installation Folder
 
- You can[change the default game download location on Steam](https://www.makeuseof.com/how-to-change-game-download-location-steam/) to save large games on a different drive or partition. If you have moved your games previously or had a custom location to store game data , Steam won't be able to find the game files and will show them as uninstalled.
+ You can [change the default game download location on Steam](https://www.makeuseof.com/how-to-change-game-download-location-steam/) to save large games on a different drive or partition. If you have moved your games previously or had a custom location to store game data , Steam won't be able to find the game files and will show them as uninstalled.
 
  To fix this, you can manually add any existing game folders to the Steam client using Steam Manager.
 
@@ -89,7 +89,7 @@ C:\Program Files (x86)\Steam\steamapps\common
 3. Press**Win + E** to open File Explorer and navigate to the following location:  
 C:\Program Files (x86)\Steam\steamapps\
 4. If you have changed the default Steam installation folder, then navigate to the appropriate directory and check if all game files exist.
-5. Inside the**SteamApps** folder, locate the**.acf file** associated with the affected Steam game. For example, the .acf file for the**Counter-Strike: Global Offensive** game is**appmanifest\_730.acf** .**730** is the appid (App ID) for this game. Similarly, all the games have different appid. You can find the appid for all the Steam games on[Steamdb.info](https://steamdb.info/apps/) .  
+5. Inside the**SteamApps** folder, locate the**.acf file** associated with the affected Steam game. For example, the .acf file for the**Counter-Strike: Global Offensive** game is**appmanifest\_730.acf** .**730** is the appid (App ID) for this game. Similarly, all the games have different appid. You can find the appid for all the Steam games on [Steamdb.info](https://steamdb.info/apps/) .  
 ![move appmanifest_730 acf](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/move-appmanifest_730-acf.jpg)
 
 1. Locate the**appmanifest\_appid.acf** file for your game inside the**steamapps** folder and move it to a different folder or your desktop. Don’t delete the file, as you will need to move it back again.

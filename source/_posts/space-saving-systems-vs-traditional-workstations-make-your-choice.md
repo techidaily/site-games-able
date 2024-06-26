@@ -1,7 +1,7 @@
 ---
 title: "Space-Saving Systems Vs. Traditional Workstations: Make Your Choice"
-date: 2024-06-21 10:34:58
-updated: 2024-06-24 11:18:46
+date: 2024-06-25T13:16:05.170Z
+updated: 2024-06-26T13:16:05.170Z
 tags:
   - games
 categories:
@@ -30,9 +30,7 @@ thumbnail: https://thmb.techidaily.com/6244e9865f3cd047c2f60d5d60d859b9d635a96ea
 
  Mini PCs have proved powerful enough to work and game on as hardware components become more powerful each generation. As more games are optimized, and hardware output becomes more efficient, a mini PC could be your best PC hardware purchase in 2024.
 
-## Performance Comparisons
-
-![slotting in graphics card into pcie slot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/slotting-in-graphics-card-into-pcie-slot.JPG)
+## Performance Comparisons ![slotting in graphics card into pcie slot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/slotting-in-graphics-card-into-pcie-slot.JPG)
 
 Jhet Borja/MakeUseOf
 
@@ -44,19 +42,17 @@ Jhet Borja/MakeUseOf
 
 ![Nanoreview Ryzen 7 5800H vs 5700G](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/nanoreview-ryzen-7-5800h-vs-5700g.jpg)
 
- For example, compare the $499[Beelink SER5](https://www.amazon.com/Beelink-SER5-MAX-5800H-Processor/dp/B0CDLD8ZBS/?tag=makeusw-20&ascsubtag=UUmuoUeUpU2031444&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fmini-pc-vs-desktop-pc-what-should-you-buy%2F&asc%5Fcampaign=Evergreen) MAX's Ryzen 7 5800H APU to an equivalent desktop with a Ryzen 7 5700G APU.[Nanoreview benchmarks](https://nanoreview.net/en/cpu-compare/amd-ryzen-7-5800h-vs-amd-ryzen-7-5700g) show they're quite close in performance, with similar single and multi-core performance. Prebuilt PCs on Amazon and Newegg go for over $600, even up to the $800 mark. With comparable performance, it's hard to deny that the mini PC wins in the low-to-mid-range performance bracket.
+ For example, compare the $499 [Beelink SER5](https://www.amazon.com/Beelink-SER5-MAX-5800H-Processor/dp/B0CDLD8ZBS/?tag=makeusw-20&ascsubtag=UUmuoUeUpU2031444&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fmini-pc-vs-desktop-pc-what-should-you-buy%2F&asc%5Fcampaign=Evergreen) MAX's Ryzen 7 5800H APU to an equivalent desktop with a Ryzen 7 5700G APU.[Nanoreview benchmarks](https://nanoreview.net/en/cpu-compare/amd-ryzen-7-5800h-vs-amd-ryzen-7-5700g) show they're quite close in performance, with similar single and multi-core performance. Prebuilt PCs on Amazon and Newegg go for over $600, even up to the $800 mark. With comparable performance, it's hard to deny that the mini PC wins in the low-to-mid-range performance bracket.
 
-## Productivity and Ease of Use
-
-![aerofara-aero-2-pro-mini-pc-review-ports-02](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/aerofara-aero-2-pro-mini-pc-review-ports-02.jpg)
+## Productivity and Ease of Use ![aerofara-aero-2-pro-mini-pc-review-ports-02](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/aerofara-aero-2-pro-mini-pc-review-ports-02.jpg)
 
  Kannon Yamada/MakeUseOf
 
  Mini PCs are functionally the same as a desktop PC. However, what the mini PC has over the desktop is its easy access. You don't have to fuss around the back of your heavy PC with plenty of cables plugged into the back of it, and you have access to all you need right on the tiny PC on your desk.
 
- Mini PCs don't even have to be limited to IO and interfaces compared to full-sized motherboards. The[MINISFORUM UM780 XTX](https://www.amazon.com/MINISFORUM-EliteMini-Personal-Computer-Graphics/dp/B0CNPWTHQJ/?tag=makeusw-20&ascsubtag=UUmuoUeUpU2031444&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fmini-pc-vs-desktop-pc-what-should-you-buy%2F&asc%5Fcampaign=Evergreen) (around $630-640) with a Ryzen 7 7840HS and 32GB of DDR5 RAM has more interfaces than you would expect from a similarly priced desktop PC build. For a $650 desktop build with a Ryzen 7 7000 and 32GB of DDR5 RAM, you'll have to settle for an A620 motherboard. A-series AMD motherboards are the lowest-spec and usually don't even have DisplayPort.
+ Mini PCs don't even have to be limited to IO and interfaces compared to full-sized motherboards. The [MINISFORUM UM780 XTX](https://www.amazon.com/MINISFORUM-EliteMini-Personal-Computer-Graphics/dp/B0CNPWTHQJ/?tag=makeusw-20&ascsubtag=UUmuoUeUpU2031444&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fmini-pc-vs-desktop-pc-what-should-you-buy%2F&asc%5Fcampaign=Evergreen) (around $630-640) with a Ryzen 7 7840HS and 32GB of DDR5 RAM has more interfaces than you would expect from a similarly priced desktop PC build. For a $650 desktop build with a Ryzen 7 7000 and 32GB of DDR5 RAM, you'll have to settle for an A620 motherboard. A-series AMD motherboards are the lowest-spec and usually don't even have DisplayPort.
 
- If the UM780 XTX's ports aren't enough, you can plug in a[high-speed USB-C hub](https://www.makeuseof.com/best-usb-c-hubs-laptop/) . USB hubs are usually a pain to use on desktop PCs as they have very short cables, but with a mini PC that sits right on your desk, the short cables are actually welcome to add more IO without increasing cable clutter.
+ If the UM780 XTX's ports aren't enough, you can plug in a [high-speed USB-C hub](https://www.makeuseof.com/best-usb-c-hubs-laptop/) . USB hubs are usually a pain to use on desktop PCs as they have very short cables, but with a mini PC that sits right on your desk, the short cables are actually welcome to add more IO without increasing cable clutter.
 
  If you need to get work done quickly while needing to take your system with you, you can easily plug in your mini PC to your office setup and get to work. You can just as easily bring it home and plug it into your home setup, do some work there, or play some games by plugging it into your TV.
 
@@ -76,11 +72,11 @@ Ste Knight/MakeUseOf
 
  Surprisingly, mini PCs don't have as much of that "portable tax" compared to laptops, bringing their price-to-performance ratio quite close to desktop PCs in many instances.
 
- Granted, you're missing key features like a trackpad, display, and keyboard if we're[comparing a mini PC to a laptop](https://www.makeuseof.com/mini-pc-vs-laptop/) , but we're comparing between mini PCs and desktops.
+ Granted, you're missing key features like a trackpad, display, and keyboard if we're [comparing a mini PC to a laptop](https://www.makeuseof.com/mini-pc-vs-laptop/) , but we're comparing between mini PCs and desktops.
 
 ![PC Part Picker Vs. Beelink SER5 Ryzen 7 5700U](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/pc-part-picker-vs-beelink-ser5-ryzen-7-5700u.jpg)
 
- We've taken the $359[Beelink SER5 Mini PC](https://www.amazon.com/Beelink-SER5-5700U-4-34GHz-Computer/dp/B0CFDPLMNM?tag=makeusw-20&ascsubtag=UUmuoUeUpU2031444&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fmini-pc-vs-desktop-pc-what-should-you-buy%2F&asc%5Fcampaign=Evergreen) with a Ryzen 7 5700U with 16GB of DDR4 RAM and a 500GB SSD and compared it to the same parts we can find on[PC Part Picker](https://pcpartpicker.com/list/dR7xxH) , and the mini PC won by about $128, with the desktop costing $487 (at the time of writing—hardware prices do fluctuate).
+ We've taken the $359 [Beelink SER5 Mini PC](https://www.amazon.com/Beelink-SER5-5700U-4-34GHz-Computer/dp/B0CFDPLMNM?tag=makeusw-20&ascsubtag=UUmuoUeUpU2031444&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fmini-pc-vs-desktop-pc-what-should-you-buy%2F&asc%5Fcampaign=Evergreen) with a Ryzen 7 5700U with 16GB of DDR4 RAM and a 500GB SSD and compared it to the same parts we can find on [PC Part Picker](https://pcpartpicker.com/list/dR7xxH) , and the mini PC won by about $128, with the desktop costing $487 (at the time of writing—hardware prices do fluctuate).
 
  This is because a mini PC has a much simpler case; it already has a motherboard, doesn't need additional fans, and doesn't need a large power supply. The reduced cost does come with some sacrifices, like the aforementioned limited upgradability and a power-limited mobile-class APU instead of a desktop-class one.
 
@@ -103,3 +99,27 @@ Ste Knight/MakeUseOf
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/unveiling-nvidia-g-sync-enhancing-gameplay-through-seamless-graphics/"><u>Unveiling Nvidia G-Sync: Enhancing Gameplay Through Seamless Graphics</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-input-devices-for-switch-gaming-setup-90-chars/"><u>Essential Input Devices for Switch Gaming Setup (90 Chars)</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719168855962-enhance-performance-install-latest-nvidia-drivers-now/"><u>Enhance Performance! Install Latest Nvidia Drivers Now.</u></a></li>
+<li><a href="https://games-able.techidaily.com/dissecting-high-end-pc-brands-asus-vs-tuf-vs-proart-vs-prime/"><u>Dissecting High-End PC Brands: Asus Vs. Tuf Vs. ProArt Vs. Prime</u></a></li>
+<li><a href="https://games-able.techidaily.com/silent-sabotage-my-overclocked-nightmrange/"><u>Silent Sabotage: My Overclocked Nightmrange</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-power-of-play-chatgpts-6-thrilling-games/"><u>Discover the Power of Play: ChatGPT’s 6 Thrilling Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/precision-gamers-mice-best-hdmi-and-dpi-combinations/"><u>Precision Gamer's Mice: Best HDMI & DPI Combinations</u></a></li>
+<li><a href="https://games-able.techidaily.com/bg3-system-guide-specs-and-download-tips/"><u>BG3 System Guide - Specs & Download Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-ps5-remote-recovery/"><u>The Ultimate Guide to PS5 Remote Recovery</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-maximize-your-game-experience-on-an-external-drives/"><u>How to Maximize Your Game Experience on an External Drives</u></a></li>
+<li><a href="https://video-capture.techidaily.com/crystalgrabber-deluxe-winos/"><u>CrystalGrabber Deluxe - WinOS</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-discovering-the-elite-6-leading-auto-transcribing-software-solutions/"><u>Updated In 2024, Discovering the Elite 6 Leading Auto-Transcribing Software Solutions</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-honor-magic-6-pro-by-drfone-android/"><u>Top 10 Password Cracking Tools For Honor Magic 6 Pro</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/10-best-online-music-makers-freeandpaid/"><u>10 Best Online Music Makers Free&Paid</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-seamless-sound-selecting-4-websites-for-ringtones/"><u>[Updated] Seamless Sound  Selecting 4 Websites for Ringtones</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-motorola-g24-power-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Motorola G24 Power</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/navigating-facebook-analytics-simplified/"><u>Navigating Facebook Analytics Simplified</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-creative-expression-adding-video-filters-in-zoom/"><u>2024 Approved  Mastering Creative Expression  Adding Video Filters in Zoom</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-xiaomi-14-ultra-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Xiaomi 14 Ultra Location by Number | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-dont-make-a-mistake-5-things-to-check-before-selecting-a-video-to-audio-converter-for-2024/"><u>New Dont Make a Mistake 5 Things to Check Before Selecting a Video to Audio Converter for 2024</u></a></li>
+</ul></div>

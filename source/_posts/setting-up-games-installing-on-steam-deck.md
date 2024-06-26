@@ -1,7 +1,7 @@
 ---
 title: "Setting Up Games: Installing On Steam Deck"
-date: 2024-06-21 13:38:39
-updated: 2024-06-24 12:18:19
+date: 2024-06-25T12:49:45.135Z
+updated: 2024-06-26T12:49:45.135Z
 tags:
   - games
 categories:
@@ -26,13 +26,11 @@ thumbnail: https://thmb.techidaily.com/d1af8070250ed0fc44c0eb3bb732f040d9be0391d
 
  Linux has had a solution for running just about any Windows program you can imagine before the Steam Deck even released. Lutris is an open gaming platform that can be engineered to run just about any Windows app.
 
- You could follow[Lutris guides for getting different game launchers to run](https://www.makeuseof.com/how-to-play-pc-games-on-linux-with-lutris/) , but many users find Lutris to be a fickle or complicated program to deal with.
+ You could follow [Lutris guides for getting different game launchers to run](https://www.makeuseof.com/how-to-play-pc-games-on-linux-with-lutris/) , but many users find Lutris to be a fickle or complicated program to deal with.
 
 Instead, we have solutions designed specifically for the Steam Deck.
 
-## Heroic Games Launcher for GOG Galaxy, Epic Games Launcher, and Amazon Games
-
-![screenshot of heroic game launcher in the discover store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_heroic_in_discover_store.jpg)
+## Heroic Games Launcher for GOG Galaxy, Epic Games Launcher, and Amazon Games ![screenshot of heroic game launcher in the discover store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_heroic_in_discover_store.jpg)
 
  Heroic Games Launcher is a frontend for three different game launchers, letting you gain access the Epic Games Launcher, GOG Galaxy, and Amazon Games App with one installation.
 
@@ -50,7 +48,7 @@ Instead, we have solutions designed specifically for the Steam Deck.
 
  Once you're logged in to any of the services, you'll start seeing games appear under the**Library** tab. At this stage, games can be installed and will be automatically managed by the Heroic Games Launcher. Relevant Proton layers will be downloaded and applied to ensure compatibility.
 
- Even the free games offered by Epic will show up in your library, so make sure[you're grabbing those freebies from the Epic Games Launcher](https://www.makeuseof.com/how-to-get-free-games-on-the-epic-games-store/) if you're not already.
+ Even the free games offered by Epic will show up in your library, so make sure [you're grabbing those freebies from the Epic Games Launcher](https://www.makeuseof.com/how-to-get-free-games-on-the-epic-games-store/) if you're not already.
 
  One last change you'll want to make is to head into**Settings** and enable**Add games to Steam Automatically** .
 
@@ -58,11 +56,9 @@ Instead, we have solutions designed specifically for the Steam Deck.
 
  This will add shortcuts to Gaming Mode, allowing you to launch these games without worrying about Desktop Mode.
 
-## NonSteamLaunchers for Battle.net, EA App, and More
+## NonSteamLaunchers for Battle.net, EA App, and More ![screenshot of nonsteamlaunchers list of launchers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_nonsteamlaunchers_list_of_launchers.jpg)
 
-![screenshot of nonsteamlaunchers list of launchers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_nonsteamlaunchers_list_of_launchers.jpg)
-
- NonSteamLaunchers can be a little bit more difficult to install. This isn't available in the Discover Store, so you'll need to enter Desktop Mode and navigate to the[GitHub page for NonSteamLaunchers](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) .
+ NonSteamLaunchers can be a little bit more difficult to install. This isn't available in the Discover Store, so you'll need to enter Desktop Mode and navigate to the [GitHub page for NonSteamLaunchers](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) .
 
  Follow the download and installation instructions available on that page, taking care to execute the file and not simply open it.
 
@@ -97,3 +93,23 @@ Instead, we have solutions designed specifically for the Steam Deck.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/fast-and-furious-boost-your-counter-strike-fps/"><u>Fast and Furious: Boost Your Counter-Strike FPS</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-the-power-of-corsairs-icue-link-and-upgrade-impact/"><u>Explore the Power of Corsair's iCUE Link and Upgrade Impact</u></a></li>
+<li><a href="https://games-able.techidaily.com/stop-windows-interruptions-fixing-epic-games-launcher-crashes/"><u>Stop Windows Interruptions: Fixing Epic Games Launcher Crashes</u></a></li>
+<li><a href="https://games-able.techidaily.com/shine-upgrade-sparkling-ps5-techniques/"><u>Shine Upgrade: Sparkling PS5 Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-windows-11-steam-service-disruptions/"><u>Resolving Windows 11: Steam Service Disruptions</u></a></li>
+<li><a href="https://games-able.techidaily.com/storing-and-streamlining-gaming-history-using-chdman-compression/"><u>Storing and Streamlining Gaming History Using CHDMAN Compression</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-the-no-response-from-steam-servers-error/"><u>Addressing the No Response From Steam Servers Error</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-record-to-remember-a-curated-selection-of-tools-and-gadgets-for-capturing-favorite-tunes-with-ease/"><u>Updated In 2024, Record to Remember A Curated Selection of Tools and Gadgets for Capturing Favorite Tunes with Ease</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-ultimate-list-10-must-have-video-editing-tools/"><u>Updated In 2024, The Ultimate List 10 Must-Have Video Editing Tools</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-add-a-personal-touch-top-free-video-watermarking-apps/"><u>Updated 2024 Approved Add a Personal Touch Top Free Video Watermarking Apps</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-top-rated-pc-video-editors-for-trimming-clips/"><u>In 2024, Top-Rated PC Video Editors for Trimming Clips</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-unraveling-the-secrets-of-viral-content-creation/"><u>[Updated] Unraveling the Secrets of Viral Content Creation</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oppo-reno-9a-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Oppo Reno 9A Devices | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-unveiling-the-process-of-downloading-instagram-videos-pcmac/"><u>[New] Unveiling the Process of Downloading Instagram Videos (PC/Mac)</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/simplify-audio-extraction-find-the-most-affordable-solutions/"><u>Simplify Audio Extraction  Find the Most Affordable Solutions</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-plus-to-other-iphone-12-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Plus To Other iPhone 12 devices? | Dr.fone</u></a></li>
+</ul></div>

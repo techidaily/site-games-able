@@ -1,7 +1,7 @@
 ---
 title: Optimize Your Gaming Journey with Steam’s Storage Wisdom
-date: 2024-06-25T10:37:32.613Z
-updated: 2024-06-26T10:37:32.613Z
+date: 2024-06-25T12:48:33.681Z
+updated: 2024-06-26T12:48:33.681Z
 tags:
   - games
 categories:
@@ -34,21 +34,17 @@ thumbnail: https://thmb.techidaily.com/7055739b2ba9c96c4320b4adbabab9131b89b7fc1
 
  While the new Steam Storage Manager is great, it’s still hard to get to. Most people don’t even know it exists yet. Once you know where to find it, it’ll be hard to forget, though. Here are two ways to open the Steam Storage Manager.
 
-### 1\. Open the Steam Storage Manager Through the Steam Settings
-
-![Steam Storage Manager in Steam Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/steam-storage-manager-in-steam-settings.jpg)
+### 1\. Open the Steam Storage Manager Through the Steam Settings ![Steam Storage Manager in Steam Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/steam-storage-manager-in-steam-settings.jpg)
 
  The Steam settings menu itself is pretty hard to find as well (a very strange way of doing things, Valve). However, you might’ve opened it before if you tried setting download speed limits. Simply look to the upper-left corner and click on**Steam > Settings > Storage** .
 
-### 2\. Open the Steam Storage Manager Through the Downloads Page
-
-![Steam downloads page cog wheel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/steam-downloads-page-cog-wheel.jpg)
+### 2\. Open the Steam Storage Manager Through the Downloads Page ![Steam downloads page cog wheel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/steam-downloads-page-cog-wheel.jpg)
 
  If you’re already on the Steam Downloads page, there’s also a**cog** on the upper right, just below the**close window button** . Click that, and it will take you right to the**Downloads** section on the**Settings** page.
 
  Just like in the image in the previous section, you'll find the**Storage** section just below the Downloads section.
 
- While you’re at the Downloads page, you might want to check out[how to increase your Steam download speeds](https://www.makeuseof.com/tag/steam-download-speeds/) so you don’t have to wait so long to get playing.
+ While you’re at the Downloads page, you might want to check out [how to increase your Steam download speeds](https://www.makeuseof.com/tag/steam-download-speeds/) so you don’t have to wait so long to get playing.
 
 ## How to Add a New Steam Library Folder or Drive
 
@@ -60,11 +56,11 @@ thumbnail: https://thmb.techidaily.com/7055739b2ba9c96c4320b4adbabab9131b89b7fc1
 
 ![Add a new Steam Library folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/add-a-new-steam-library-folder.jpg)
 
- This will open up File Explorer and you can choose which drive or folder you want to add a new Steam Library folder to. It doesn't even need to be an internal drive, you can use an[external drive to store your Steam Games](https://www.makeuseof.com/how-to-play-steam-games-on-an-external-drive-with-steam-storage-manager/) and play straight from the external drive!
+ This will open up File Explorer and you can choose which drive or folder you want to add a new Steam Library folder to. It doesn't even need to be an internal drive, you can use an [external drive to store your Steam Games](https://www.makeuseof.com/how-to-play-steam-games-on-an-external-drive-with-steam-storage-manager/) and play straight from the external drive!
 
 ![Create or select new Steam library folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/create-or-select-new-steam-library-folder.jpg)
 
- If you only have one drive and you need space for more games but don’t want to delete any downloaded ones, check out[how to free up disk space on Windows 10](https://www.makeuseof.com/tag/6-tips-free-disk-space-windows-10/) . We’re pretty sure you can free up some space from places you didn’t know you could free up.
+ If you only have one drive and you need space for more games but don’t want to delete any downloaded ones, check out [how to free up disk space on Windows 10](https://www.makeuseof.com/tag/6-tips-free-disk-space-windows-10/) . We’re pretty sure you can free up some space from places you didn’t know you could free up.
 
 ## How to Set a Default Steam Library Folder or Drive
 

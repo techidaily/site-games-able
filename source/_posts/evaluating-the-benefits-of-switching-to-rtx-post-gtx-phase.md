@@ -1,7 +1,7 @@
 ---
 title: Evaluating the Benefits of Switching to RTX Post-GTX Phase
-date: 2024-06-22 22:42:51
-updated: 2024-06-24 11:11:24
+date: 2024-06-25T13:28:17.093Z
+updated: 2024-06-26T13:28:17.093Z
 tags:
   - games
 categories:
@@ -31,9 +31,9 @@ thumbnail: https://thmb.techidaily.com/66380fee6148181c7fbef919ab70be5b7f03dcd6b
 
 ## How Long Will GTX Support Last?
 
- In a news post on[VideoCardz](https://videocardz.com/newz/nvidia-discontinues-geforce-gtx-16-gpus-the-end-of-gtx-series) , Chinese sources reported that GTX GPUs are no longer being shipped out, and that all remaining stock will be allocated to custom card manufacturers. Once these last few GTX 16-series cards are out of stock, they will no longer be replenished, leaving the RTX 30 series as the lowest-tier dedicated graphics cards you can buy from stores.
+ In a news post on [VideoCardz](https://videocardz.com/newz/nvidia-discontinues-geforce-gtx-16-gpus-the-end-of-gtx-series) , Chinese sources reported that GTX GPUs are no longer being shipped out, and that all remaining stock will be allocated to custom card manufacturers. Once these last few GTX 16-series cards are out of stock, they will no longer be replenished, leaving the RTX 30 series as the lowest-tier dedicated graphics cards you can buy from stores.
 
- Checking the support statuses of GTX GPUs on[endoflife.date](https://endoflife.date/nvidia-gpu) , we can see that GTX 900 series GPUs are still being supported. However, after nine years and counting, the end of life looms closer. We can also expect this for the GTX 10 and 16 series. This means that the GTX 10 series cards will most likely lose support by 2026 and the GTX 16 series will lose support in 2029.
+ Checking the support statuses of GTX GPUs on [endoflife.date](https://endoflife.date/nvidia-gpu) , we can see that GTX 900 series GPUs are still being supported. However, after nine years and counting, the end of life looms closer. We can also expect this for the GTX 10 and 16 series. This means that the GTX 10 series cards will most likely lose support by 2026 and the GTX 16 series will lose support in 2029.
 
  However, that doesn’t mean your graphics card will be unusable. Despite not having the latest updates, you can still play games, especially older ones. However, you will start to run into compatibility and stability issues for newer games, or titles that get constant updates.
 
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/66380fee6148181c7fbef919ab70be5b7f03dcd6b
 
  You'll be stuck with those old card models without the ray tracing to make games like this look great. If there's a shortcut to take for better graphics, there's no doubt big game companies will take it.
 
- Meanwhile,[the new Nvidia app is also focused](https://www.makeuseof.com/what-is-nvidia-app-improve-gaming-experience/) on RTX features like the[various DLSS technologies](https://www.makeuseof.com/what-is-nvidia-ai-powered-dlss-3-5/) .
+ Meanwhile,[the new Nvidia app is also focused](https://www.makeuseof.com/what-is-nvidia-app-improve-gaming-experience/) on RTX features like the [various DLSS technologies](https://www.makeuseof.com/what-is-nvidia-ai-powered-dlss-3-5/) .
 
 ![nvidia app image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/nvidia-app-image.jpg)
 
@@ -86,3 +86,22 @@ thumbnail: https://thmb.techidaily.com/66380fee6148181c7fbef919ab70be5b7f03dcd6b
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/how-not-using-microphones-boosts-ps5-security/"><u>How Not Using Microphones Boosts PS5 Security</u></a></li>
+<li><a href="https://games-able.techidaily.com/visual-beats-integrating-tablets-into-games/"><u>Visual Beats: Integrating Tablets Into Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/choose-right-steam-deck-models/"><u>Choose Right: Steam Deck Models</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-top-independent-games-on-itchio/"><u>Unveiling Top Independent Games on Itch.io</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-rundown-of-crucial-gaming-headset-qualities/"><u>A Rundown of Crucial Gaming Headset Qualities</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-spec-comparison-asus-rog-ally-and-steam-deck-explored/"><u>The Spec Comparison: ASUS ROG Ally and Steam Deck Explored</u></a></li>
+<li><a href="https://games-able.techidaily.com/predicting-a-boom-in-chipset-prices-are-we-ready/"><u>Predicting a Boom in Chipset Prices: Are We Ready?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/visionary-thumbnails-inspiring-scenes/"><u>Visionary Thumbnails  Inspiring Scenes</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-cross-platform-content-transfer-youtube-meets-facebook-for-2024/"><u>[Updated] Cross-Platform Content Transfer  YouTube Meets Facebook for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-enhancing-media-experience-combining-video-content-with-audio-elements/"><u>Updated Enhancing Media Experience Combining Video Content with Audio Elements</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-a-comprehensive-manual-for-desktop-made-tiktok-hits/"><u>[Updated] A Comprehensive Manual for Desktop-Made TikTok Hits</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/hering-the-differences-between-youtubes-and-dailymentions/"><u>Deciphering the Differences Between YouTubes & DailyMentions</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-top-20-best-text-to-speech-software-windows-mac-android-iphone-and-online/"><u>New In 2024, Top 20 Best Text To Speech Software Windows, Mac, Android, iPhone & Online</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/vrecorder-your-quick-route-to-high-quality-sound-system-for-2024/"><u>VRecorder  Your Quick Route to High-Quality Sound System for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-funny-image-makers-for-ios-and-android-users/"><u>Top Funny Image Makers for iOS and Android Users</u></a></li>
+</ul></div>

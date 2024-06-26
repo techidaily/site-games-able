@@ -1,7 +1,7 @@
 ---
 title: "Slaying Competitors: AMD’s Advances in RDNA 3.5 Tech and Launch Timeline"
-date: 2024-06-25T10:41:40.957Z
-updated: 2024-06-26T10:41:40.957Z
+date: 2024-06-25T12:48:36.366Z
+updated: 2024-06-26T12:48:36.366Z
 tags:
   - games
 categories:
@@ -26,13 +26,13 @@ thumbnail: https://thmb.techidaily.com/c96841199ff180b06a551ff8b5da580eafb5a9f00
 
 ## What Is AMD RDNA 3.5?
 
- While AMD has been tight-lipped about the specifics, RDNA 3.5 is its new GPU architecture that's somewhere between[RDNA 3, AMD's Ada Lovelace competitor,](https://www.makeuseof.com/what-is-rdna-3/) and the upcoming RDNA 4\. It'll most likely be used as an integrated GPU (iGPU) solution for mobile APUs for handhelds and laptops.[Accelerated Processing Units combine a CPU and GPU](https://www.makeuseof.com/tag/what-is-the-difference-between-an-apu-a-cpu-and-a-gpu-makeuseof-explains/) into a single chip for efficiency and to deliver other benefits.
+ While AMD has been tight-lipped about the specifics, RDNA 3.5 is its new GPU architecture that's somewhere between [RDNA 3, AMD's Ada Lovelace competitor,](https://www.makeuseof.com/what-is-rdna-3/) and the upcoming RDNA 4\. It'll most likely be used as an integrated GPU (iGPU) solution for mobile APUs for handhelds and laptops.[Accelerated Processing Units combine a CPU and GPU](https://www.makeuseof.com/tag/what-is-the-difference-between-an-apu-a-cpu-and-a-gpu-makeuseof-explains/) into a single chip for efficiency and to deliver other benefits.
 
 ![AMD Radeon RX 7900 XTX](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rx-7900-xtx.jpg)
 
  Image Credit:[AMD](https://www.youtube.com/watch?v=XAGFS8d%5FqLw)
 
- These next-generation chips will be based on AMD's upcoming Zen 5 architecture (expected in 2024), built on a 4nm process with performance and efficiency cores set up very similar to Intel's design. We might also see updates to AMD's software stack, most notably to[FSR 3, AMD's equivalent of DLSS 3.5](https://www.makeuseof.com/amd-announces-fsr-3-but-will-it-compete-with-dlss-35/) .
+ These next-generation chips will be based on AMD's upcoming Zen 5 architecture (expected in 2024), built on a 4nm process with performance and efficiency cores set up very similar to Intel's design. We might also see updates to AMD's software stack, most notably to [FSR 3, AMD's equivalent of DLSS 3.5](https://www.makeuseof.com/amd-announces-fsr-3-but-will-it-compete-with-dlss-35/) .
 
  All the information available about RDNA 3.5 suggests that it's AMD's answer to modern dedicated mobile GPUs. Whether we'll see a standalone GPU with RDNA 3.5 architecture also remains a mystery. That said, if AMD decides to refresh RDNA 3 before RDNA 4 launches, it might be based on RDNA 3.5, so the possibility of a standalone GPU isn't completely out of the water.
 
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/c96841199ff180b06a551ff8b5da580eafb5a9f00
 
  With the limited information available, it's hard to tell how much of a lead RDNA 3.5 will be over previous RDNA generations, namely RDNA 3 and 2\. However, we can take a look at the CPUs and APUs that RDNA 3.5 will be launching with to get an idea of how it'll perform.
 
- An HWiNFO screenshot posted on[Performance Databases](https://performancedatabases.com/Content/Leak/Details/2023-09-01/Content.php) details a Ryzen 8000 series APU with 16 RDNA 3.5 GPU cores and 12 Zen 5 CPU cores in a mixed configuration. Other features include the average processor clock speed of 2.12 GHz in addition to 32GB of LPDDR4 6400 MHz RAM and a TDP of 45W.
+ An HWiNFO screenshot posted on [Performance Databases](https://performancedatabases.com/Content/Leak/Details/2023-09-01/Content.php) details a Ryzen 8000 series APU with 16 RDNA 3.5 GPU cores and 12 Zen 5 CPU cores in a mixed configuration. Other features include the average processor clock speed of 2.12 GHz in addition to 32GB of LPDDR4 6400 MHz RAM and a TDP of 45W.
 
 ![HWiNFO screenshot showing Ryzen 8000 CPU specs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/rdna3-5-screenshot.jpg)
 

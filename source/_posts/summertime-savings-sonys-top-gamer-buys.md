@@ -1,7 +1,7 @@
 ---
 title: "Summertime Savings: Sony's Top Gamer Buys"
-date: 2024-06-22 19:30:53
-updated: 2024-06-24 10:53:24
+date: 2024-06-25T12:56:59.554Z
+updated: 2024-06-26T12:56:59.554Z
 tags:
   - games
 categories:
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 
 ## 5\. Owlboy
 
- Owlboy is a whimsical platforming adventure with a beautiful pixel art style and story to match. While there are plenty of[differences between AAA and indie games](https://www.makeuseof.com/aaa-games-vs-indie-games-differences/) , indie’s have more than enough potential to be just as good, if not better, than AAA titles. Owlboy is a perfect example of that. And it’s on sale for roughly the price of a deli sandwich. While deli sandwiches are unarguably good, forgoing one for lunch is definitely worth experiencing the breathtaking adventure of Owlboy.
+ Owlboy is a whimsical platforming adventure with a beautiful pixel art style and story to match. While there are plenty of [differences between AAA and indie games](https://www.makeuseof.com/aaa-games-vs-indie-games-differences/) , indie’s have more than enough potential to be just as good, if not better, than AAA titles. Owlboy is a perfect example of that. And it’s on sale for roughly the price of a deli sandwich. While deli sandwiches are unarguably good, forgoing one for lunch is definitely worth experiencing the breathtaking adventure of Owlboy.
 
 **Download** :[Owlboy](https://store.playstation.com/en-us/product/UP4218-CUSA09914%5F00-OWLBOY0000000000) for $9.99 (60% off)
 
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 
 ## 7\. The Last of Us: Part II
 
- Even if you’re not a gamer, the chances are you know about The Last of Us. But Joel and Ellie’s story didn't just end when the hit TV series did. That is only one part of their adventure, so if you want a sneak peek into the events that you can expect from the second series, you can get it for half price in PlayStation’s summer sale. If you’ve been looking for[games to play if you like the Last of Us TV show](https://www.makeuseof.com/games-to-play-if-you-like-the-last-of-us-tv-show/) , this should be your first stop for obvious reasons.
+ Even if you’re not a gamer, the chances are you know about The Last of Us. But Joel and Ellie’s story didn't just end when the hit TV series did. That is only one part of their adventure, so if you want a sneak peek into the events that you can expect from the second series, you can get it for half price in PlayStation’s summer sale. If you’ve been looking for [games to play if you like the Last of Us TV show](https://www.makeuseof.com/games-to-play-if-you-like-the-last-of-us-tv-show/) , this should be your first stop for obvious reasons.
 
 **Download** :[The Last of Us: Part II](https://store.playstation.com/en-us/product/UP9000-CUSA07820%5F00-THELASTOFUSPART2) for &19.99 (50% off)
 
@@ -97,3 +97,23 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/unlock-pure-entertainment-discover-10-best-zero-ad-gaming-apps/"><u>Unlock Pure Entertainment: Discover 10 Best Zero-Ad Gaming Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyerdynamics-mmx-200-a-sound-revolution/"><u>Beyerdynamic's MMX 200: A Sound Revolution</u></a></li>
+<li><a href="https://games-able.techidaily.com/select-new-steam-language-option/"><u>Select New Steam Language Option</u></a></li>
+<li><a href="https://games-able.techidaily.com/beat-short-term-rise-in-game-pass-costs-quick-hacks/"><u>Beat Short-Term Rise in Game Pass Costs - Quick Hacks</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-game-with-top-10-pc-picks-google-play/"><u>Elevate Your Game with Top 10 PC Picks (Google Play)</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-fixes-for-joy-con-connection-issues-with-nintendo-switch/"><u>Quick Fixes for Joy-Con Connection Issues with Nintendo Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-headset-use-on-xbox-series-xs/"><u>Maximizing Headset Use on Xbox Series X/S</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-approach-breaking-down-videos-into-chapters-for-youtube/"><u>In 2024, Innovative Approach  Breaking Down Videos Into Chapters for YouTube</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-exploring-the-best-virtual-music-production-suites-comparison-chart-included/"><u>Updated Exploring the Best Virtual Music Production Suites – Comparison Chart Included</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-obs-green-screen-guide/"><u>Updated 2024 Approved OBS Green Screen Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-ultimate-list-of-powerful-instagram-hashtags/"><u>[Updated] 2024 Approved  The Ultimate List of Powerful Instagram Hashtags</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/dissecting-obs-technology-for-top-level-recording/"><u>Dissecting OBS Technology for Top-Level Recording</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-the-premier-selection-best-15-affordable-audio-cutter-apps/"><u>Updated 2024 Approved The Premier Selection Best 15 Affordable Audio Cutter Apps</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/turning-gaming-moments-into-legacy-proven-methods-for-documenting-your-sims-journey-in-sims-4/"><u>Turning Gaming Moments Into Legacy  Proven Methods for Documenting Your Sims' Journey in Sims 4</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-exploring-costless-alternatives-including-songs-in-video-content-creation/"><u>In 2024, Exploring Costless Alternatives Including Songs in Video Content Creation</u></a></li>
+</ul></div>

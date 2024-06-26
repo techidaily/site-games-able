@@ -1,7 +1,7 @@
 ---
 title: "Controller Skills: Play Android Games with Precision"
-date: 2024-06-22 18:36:42
-updated: 2024-06-24 12:10:14
+date: 2024-06-25T13:23:41.632Z
+updated: 2024-06-26T13:23:41.632Z
 tags:
   - games
 categories:
@@ -34,9 +34,7 @@ thumbnail: https://thmb.techidaily.com/ca38034074275621f4e2db5f63e60466f24745c23
 
  For example, moving the analog stick can simulate dragging your thumb around the left side of the screen. Pressing the**A** button can imitate tapping on the right side of the screen. The task is easiest for games with a virtual game controller spread across the screen, since you can assign a physical button to the location of their virtual counterparts.
 
-## How to Get Started With Button Mapping on Android
-
-![Mantis prompting you to enable USB debugging.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-button-mapping-usb-debugging.png)
+## How to Get Started With Button Mapping on Android ![Mantis prompting you to enable USB debugging.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-button-mapping-usb-debugging.png)
 
 ![Enabling USB debugging on Android.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/android-developer-settings-usb-debugging.png)
 
@@ -55,14 +53,14 @@ Close
 1. **Enable floating widgets:** This allows the Mantis widget to float along the edge of your screen while you play a game.
 2. **Enable USB debugging:** This gives the app access to necessary parts of your phone in order to function.
 3. **Allow overlays over settings:** This allows Mantis to float instructions above other apps so that it can guide you through the settings you need to enable.
-4. **Enable wireless debugging:** Like[USB debugging on Android](https://www.makeuseof.com/tag/what-is-usb-debugging-mode-on-android-makeuseof-explains/) , wireless debugging provides access to necessary parts of your phone.
+4. **Enable wireless debugging:** Like [USB debugging on Android](https://www.makeuseof.com/tag/what-is-usb-debugging-mode-on-android-makeuseof-explains/) , wireless debugging provides access to necessary parts of your phone.
 5. **Pair via wireless debugging:** Establishes a connection between Mantis Gamepad Pro and your phone.
 
  According to the developer, this approach lets you enable and use physical controls without getting banned from playing certain games online.
 
- As part of the setup process, you also need to connect a controller to your phone. Whether you[use a Bluetooth controller with your Android device](https://www.makeuseof.com/tag/how-to-connect-a-game-controller-to-android-for-console-like-gameplay-si/) or a clamshell-style gamepad like[the Raser Kishi V2 we reviewed](http://makeuseof.com/razer-kishi-v2-review/) , Mantis should detect your gamepad automatically.
+ As part of the setup process, you also need to connect a controller to your phone. Whether you [use a Bluetooth controller with your Android device](https://www.makeuseof.com/tag/how-to-connect-a-game-controller-to-android-for-console-like-gameplay-si/) or a clamshell-style gamepad like [the Raser Kishi V2 we reviewed](http://makeuseof.com/razer-kishi-v2-review/) , Mantis should detect your gamepad automatically.
 
- Mantis Gamepad Pro isn't your only choice if you want to get started with button mapping on your Android device. You should also consider alternatives like[Octopus](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2031380/https://play.google.com/store/apps/details?id=com.chaozhuo.gameassistant&hl=en&gl=US) and[Panda Gamepad Pro](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2031380/https://play.google.com/store/apps/details?id=com.panda.gamepad&hl=en&gl=US) , which perform the same core function in different ways.
+ Mantis Gamepad Pro isn't your only choice if you want to get started with button mapping on your Android device. You should also consider alternatives like [Octopus](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2031380/https://play.google.com/store/apps/details?id=com.chaozhuo.gameassistant&hl=en&gl=US) and [Panda Gamepad Pro](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2031380/https://play.google.com/store/apps/details?id=com.panda.gamepad&hl=en&gl=US) , which perform the same core function in different ways.
 
 ## How to Assign Buttons to an Android Game
 
@@ -107,3 +105,27 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/mwcs-finest-recognized-by-makeuseof/"><u>MWC's Finest: Recognized By MakeUseOf</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-tracker-for-video-game-quests/"><u>Prime Tracker for Video Game Quests</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-your-steam-screenshot-process/"><u>Streamline Your Steam Screenshot Process</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-the-impact-of-gpu-temperatures-on-performance/"><u>Understanding the Impact of GPU Temperatures on Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-giant-gamers-comfort-choice/"><u>The Ultimate Giant Gamers' Comfort Choice</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-brief-existence-of-game-worlds-should-we-care/"><u>The Brief Existence of Game Worlds – Should We Care?</u></a></li>
+<li><a href="https://games-able.techidaily.com/no-sub-to-ea-play-with-skyrocketing-fees/"><u>No Sub to EA Play With Skyrocketing Fees</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-premium-nitro-services/"><u>Evaluating Premium Nitro Services</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-psp-with-a-virtual-nessnes-experience/"><u>Elevate Your PSP with a Virtual NES/SNES Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-reigns-supreme-msi-raider-ge78-hx-reviewed/"><u>Gaming Reigns Supreme: MSI Raider GE78 HX Reviewed</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-zero-to-cool-video-star-your-mac-youtube-journey-starts-here/"><u>[Updated] 2024 Approved  From Zero to Cool Video Star  Your Mac Youtube Journey Starts Here</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-free-home-security-camera-apps-expert-reviews/"><u>In 2024, Best Free Home Security Camera Apps Expert Reviews</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-9-best-smartphone-camera-accessories-for-vloggers-for-2024/"><u>[Updated] The 9 Best Smartphone Camera Accessories for Vloggers for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-iphone-7-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even On iPhone 7 If Youve Tried Everything</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-securing-your-ps4-adventures-with-advanced-recording-for-2024/"><u>[New] Securing Your PS4 Adventures with Advanced Recording for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-methods-for-converting-twitter-videos-into-mp3-format/"><u>[Updated] Methods for Converting Twitter Videos Into MP3 Format</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-smart-choices-best-video-call-programs-on-devices/"><u>[Updated] Smart Choices  Best Video Call Programs on Devices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/encompassing-insight-a-look-inside-the-google-podcasts-app/"><u>Encompassing Insight  A Look Inside the Google Podcasts App</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-messages-from-apple-iphone-14-pro-max-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Messages from Apple iPhone 14 Pro Max to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+</ul></div>

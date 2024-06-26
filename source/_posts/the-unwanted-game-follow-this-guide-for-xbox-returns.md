@@ -1,7 +1,7 @@
 ---
 title: The Unwanted Game? Follow This Guide for Xbox Returns
-date: 2024-06-25T10:44:28.814Z
-updated: 2024-06-26T10:44:28.814Z
+date: 2024-06-25T12:48:38.149Z
+updated: 2024-06-26T12:48:38.149Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/543a8e6d7f06f3d9129829edd8982dbf9c6a6048e
 
 ## Do I Qualify for a Refund on the Xbox Series X|S?
 
- If you're a fan of gaming, you will be well versed in how expensive it is and are likely always looking for[ways to save money with your Xbox Series X|S](https://www.makeuseof.com/xbox-series-xs-ways-to-save-money/) . And refunding purchases that you aren't satisfied with is certainly one of them.
+ If you're a fan of gaming, you will be well versed in how expensive it is and are likely always looking for [ways to save money with your Xbox Series X|S](https://www.makeuseof.com/xbox-series-xs-ways-to-save-money/) . And refunding purchases that you aren't satisfied with is certainly one of them.
 
 ![an Xbox game controller on a gradient background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/video-game-designer-feature.jpg)
 
@@ -30,13 +30,13 @@ thumbnail: https://thmb.techidaily.com/543a8e6d7f06f3d9129829edd8982dbf9c6a6048e
 
  2\. You can’t have played the game in question for a significant amount of time.
 
- The definition of what exactly a ‘significant amount of time’ is isn’t explained on[Microsoft’s website](https://support.xbox.com/en-us/help/subscriptions-billing/buy-games-apps/refund-orders) , but it likely depends on the game. For example, if you’re returning a five-hour-long game and you’ve played it for two hours, that’s almost 50% of the game that you’ve experienced. But if the game in question is 50 hours long and you’ve played it for two hours, you’ve only experienced a fraction of it.
+ The definition of what exactly a ‘significant amount of time’ is isn’t explained on [Microsoft’s website](https://support.xbox.com/en-us/help/subscriptions-billing/buy-games-apps/refund-orders) , but it likely depends on the game. For example, if you’re returning a five-hour-long game and you’ve played it for two hours, that’s almost 50% of the game that you’ve experienced. But if the game in question is 50 hours long and you’ve played it for two hours, you’ve only experienced a fraction of it.
 
 ## How to Request a Refund for a Digital Game on the Xbox Series X|S
 
- Requesting a refund for a digital game on your Xbox Series X|S is thankfully very simple and is very similar to[refunding purchases on the PS4 or the PS5](https://www.makeuseof.com/how-to-refund-game-ps4-ps5/) . You can't do so from the comfort of your console, however. You will have to head to[Microsoft’s website](https://support.xbox.com/en-us/help/subscriptions-billing/buy-games-apps/refund-orders) to get started
+ Requesting a refund for a digital game on your Xbox Series X|S is thankfully very simple and is very similar to [refunding purchases on the PS4 or the PS5](https://www.makeuseof.com/how-to-refund-game-ps4-ps5/) . You can't do so from the comfort of your console, however. You will have to head to [Microsoft’s website](https://support.xbox.com/en-us/help/subscriptions-billing/buy-games-apps/refund-orders) to get started
 
-1. Head to[support.xbox.com](https://support.xbox.com/en-us/help/subscriptions-billing/buy-games-apps/refund-orders) or just click the link to be taken straight there.
+1. Head to [support.xbox.com](https://support.xbox.com/en-us/help/subscriptions-billing/buy-games-apps/refund-orders) or just click the link to be taken straight there.
 2. You will then need to log into the Microsoft account that you used to purchase the game in question. You can log in by pressing**Sign in** at the bottom of the page or in the top right corner.
 3. Once you’ve logged in, scroll down to the**Request availability** section. If there is a valid game there, click the box beside the title and press**Request a refund** to bring up the request form.  
 ![Request a Refund Microsoft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/request-a-refund-microsoft.jpg)

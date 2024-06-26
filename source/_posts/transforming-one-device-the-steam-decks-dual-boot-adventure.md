@@ -1,7 +1,7 @@
 ---
 title: "Transforming One Device: The Steam Deck's Dual-Boot Adventure"
-date: 2024-06-22 21:21:50
-updated: 2024-06-23 10:11:28
+date: 2024-06-25T13:26:06.988Z
+updated: 2024-06-26T13:26:06.988Z
 tags:
   - games
 categories:
@@ -120,9 +120,7 @@ Jhet Borja/MUO
 2. git clone <https://github.com/ryanrudolfoba/SteamDeck-Clover-dualboot>
 3. cd ~/SteamDeck-Clover-dualboot
 4. chmod +x install-Clover.sh
-5. ./install-Clover.sh
-
-![Clover successfully installed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/clover-successfully-installed.jpg)
+5. ./install-Clover.sh ![Clover successfully installed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/clover-successfully-installed.jpg)
 
  After the last command, you’ll have to enter your sudo password to start installing Clover on your Steam Deck.
 
@@ -138,9 +136,7 @@ Jhet Borja / MakeUseOf
 
  The Clover dual boot manager isn’t an official Steam dual boot wizard as Valve is still working on that. This means you might face a few issues. Here are a few fixes in case you run into these problems...
 
-### 1\. You Can’t Find SteamOS in the Boot Manager
-
-![No SteamOS option in boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/no-steamos-option-in-boot-manager.JPG)
+### 1\. You Can’t Find SteamOS in the Boot Manager ![No SteamOS option in boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/no-steamos-option-in-boot-manager.JPG)
 
 Jhet Borja/MUO
 
@@ -158,15 +154,11 @@ Jhet Borja/MakeUseOf
 
  To put SteamOS back on the boot manager, open up Konsole in desktop mode on your Steam Deck and enter this:
 
-sudo efibootmgr -c -L "SteamOS" -l "\EFI\steamos\steamcl.efi" -d /dev/nvme0n1p1
-
-![Konsole command to make SteamOS appear in boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/konsole-command-to-make-steamos-appear-in-boot-manager.JPG)
+sudo efibootmgr -c -L "SteamOS" -l "\EFI\steamos\steamcl.efi" -d /dev/nvme0n1p1 ![Konsole command to make SteamOS appear in boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/konsole-command-to-make-steamos-appear-in-boot-manager.JPG)
 
  This should put it back on the boot manager so that you don’t have to boot from the file anymore.
 
-### 2\. Setting a Sudo Password
-
-![Steam Deck user password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/steam-deck-user-password.jpg)
+### 2\. Setting a Sudo Password ![Steam Deck user password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/steam-deck-user-password.jpg)
 
  To set your sudo password, open desktop mode and head to **Settings** in the app manager or on the task manager at the bottom of your screen.
 
@@ -231,3 +223,27 @@ Jhet Borja/MakeUseOf
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/joining-forces-gaming-squad-on-xbox-10/"><u>Joining Forces: Gaming Squad on Xbox 10</u></a></li>
+<li><a href="https://games-able.techidaily.com/ifa-2023-premier-tv-and-monitor-showcase/"><u>IFA 2023: Premier TV & Monitor Showcase</u></a></li>
+<li><a href="https://games-able.techidaily.com/core-offerings-deciphering-xbox-game-pass-versus-psplus-essentials/"><u>Core Offerings: Deciphering Xbox Game Pass Versus PS+ Essentials</u></a></li>
+<li><a href="https://games-able.techidaily.com/pairing-devices-bonding-players-with-these-top-titles/"><u>Pairing Devices, Bonding Players with These Top Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/steering-clear-of-signal-shadows-on-your-pokemon-go-quest/"><u>Steering Clear of Signal Shadows on Your Pokémon Go Quest</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-playability-with-epic-games-on-steam-deck/"><u>Maximizing Playability with Epic Games on Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficiently-managing-your-switch-gaming-identity/"><u>Efficiently Managing Your Switch Gaming Identity</u></a></li>
+<li><a href="https://games-able.techidaily.com/3-reasons-why-30fps-console-gaming-isnt-as-bad-as-you-think/"><u>3 Reasons Why 30FPS Console Gaming Isn’t as Bad as You Think</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719167533097-transform-spaces-and-games-with-enhanced-cabinet-frames/"><u>Transform Spaces & Games with Enhanced Cabinet Frames</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-the-newest-gaming-hardware-at-ifa-2023/"><u>Explore the Newest Gaming Hardware at IFA 2023</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-the-best-binge-worthy-series-on-twittersphere/"><u>[New] 2024 Approved  The Best Binge-Worthy Series on Twittersphere</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-best-cost-effective-screen-capture-apps-explored/"><u>In 2024, Best Cost-Effective Screen Capture Apps Explored</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/leading-11-ios-and-android-tools-for-professional-sound-engineering-for-2024/"><u>Leading 11 iOS and Android Tools for Professional Sound Engineering for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-pick-a-perfect-virtual-reality-device-is-wireless-vision-or-connected-content-more-appealing/"><u>[New] How to Pick a Perfect Virtual Reality Device  Is Wireless Vision or Connected Content More Appealing?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-rev-up-creativity-instagrams-best-inspirational-snapshots/"><u>2024 Approved  Rev Up Creativity  Instagram's Best Inspirational Snapshots</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-clearing-the-path-for-smooth-fb-stories-posting-and-playback/"><u>2024 Approved  Clearing the Path for Smooth FB Stories Posting and Playback</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-navigating-the-world-of-insta-influencers-5-pivotal-moves-and-results-for-2024/"><u>[New] Navigating the World of Insta Influencers  5 Pivotal Moves and Results for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-samsung-galaxy-s24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-xiaomi-14-ultra-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Xiaomi 14 Ultra | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Streamline Your Classic Collection: Small-Sized ISOs by ChDMan' Cooking Method"
-date: 2024-06-23 16:27:30
-updated: 2024-06-24 10:18:47
+date: 2024-06-25T13:17:01.385Z
+updated: 2024-06-26T13:17:01.385Z
 tags:
   - games
 categories:
@@ -38,9 +38,9 @@ thumbnail: https://thmb.techidaily.com/04f98c03565f60c0b0ad3b1ba3f80966cc746c43e
 
 ## How to Compress Your ISOs With CHDMAN
 
- CHDMAN is distributed with the MAME emulator. If you already use that, you'll find CHDMAN's executable in MAME's installation directory. If not, download[the latest version of MAME from its official site](https://www.mamedev.org/) and install it on your PC to also get CHDMAN.
+ CHDMAN is distributed with the MAME emulator. If you already use that, you'll find CHDMAN's executable in MAME's installation directory. If not, download [the latest version of MAME from its official site](https://www.mamedev.org/) and install it on your PC to also get CHDMAN.
 
- To avoid typing the full path to CHDMAN every time you want to compress a ROM, add MAME's folder to your System Path variable. You can do this by[using environment variables in Windows 10](https://www.makeuseof.com/how-to-use-environment-variables-in-windows-10/) .
+ To avoid typing the full path to CHDMAN every time you want to compress a ROM, add MAME's folder to your System Path variable. You can do this by [using environment variables in Windows 10](https://www.makeuseof.com/how-to-use-environment-variables-in-windows-10/) .
 
  Open a**File Explorer** window (**Windows Key + E**) and, to keep things tidy, create a folder anywhere you wish, within which you'll do all CHDMAN-related file juggling.
 
@@ -103,7 +103,7 @@ Our command was:
 * Genesis Plus GX.
 * PicoDrive.
 
- Because of[how LaunchBox works](https://www.makeuseof.com/what-is-launchbox-how-it-works/) and other front-end services you can use for emulation, like[using RetroArch on Windows](https://www.makeuseof.com/windows-retroarch-setup/) , CHDs should work on these services too.
+ Because of [how LaunchBox works](https://www.makeuseof.com/what-is-launchbox-how-it-works/) and other front-end services you can use for emulation, like [using RetroArch on Windows](https://www.makeuseof.com/windows-retroarch-setup/) , CHDs should work on these services too.
 
 ### How Can You Check Your CHDs?
 
@@ -147,3 +147,27 @@ Our command was:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/connecting-modern-xbox-joysticks-to-windows-systems-140-chars/"><u>Connecting Modern Xbox Joysticks to Windows Systems (140 Chars)</u></a></li>
+<li><a href="https://games-able.techidaily.com/emulating-vintage-gaming-the-power-of-xemu-for-pc/"><u>Emulating Vintage Gaming: The Power of Xemu for PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/console-vs-computer-gaming-face-off/"><u>Console Vs. Computer: Gaming Face-Off</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719168632590-18-engaging-duet-conversations-texting-fun-hits-two/"><u>18 Engaging Duet Conversations: Texting Fun Hits Two</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-play-on-ps5-beyond-gamepad-use/"><u>Innovative Play on PS5 Beyond Gamepad Use</u></a></li>
+<li><a href="https://games-able.techidaily.com/should-premium-games-include-microtransactions/"><u>Should Premium Games Include Microtransactions?</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-mystery-how-to-activate-undisclosed-browser/"><u>PS5 Mystery: How to Activate Undisclosed Browser?</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-truth-about-free-to-play-why-premium-games-are-better/"><u>The Truth About 'Free-to-Play': Why Premium Games Are Better</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-duality-of-pimax-crystal-headset-sharpness-vs-stability/"><u>The Duality of Pimax Crystal Headset: Sharpness vs Stability</u></a></li>
+<li><a href="https://games-able.techidaily.com/protect-your-kids-navigating-discords-risks/"><u>Protect Your Kids: Navigating Discord's Risks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-wps-file-using-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Electronically Sign a .wps file Using DigiSigner</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-break-free-from-format-restrictions-chromecast-streaming-for-all-videos/"><u>Updated In 2024, Break Free From Format Restrictions Chromecast Streaming for All Videos</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/unlocking-speech-from-melody-top-3-online-methods-for-mp3-to-text-conversion-for-2024/"><u>Unlocking Speech From Melody Top 3 Online Methods for MP3-to-Text Conversion for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/becoming-a-reaction-guru-a-complete-guidebook/"><u>Becoming a Reaction Guru  A Complete Guidebook</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-x6-pro-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Poco X6 Pro Phone with Broken Screen</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-nokia-c110-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Nokia C110 Quickly | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-ultimate-guide-to-free-wmv-video-splitters-for-2024/"><u>New The Ultimate Guide to Free WMV Video Splitters for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unlock-the-full-potential-with-advanced-gopro-studio-edits/"><u>[Updated] Unlock the Full Potential with Advanced GoPro Studio Edits</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-close-up-confidence-navigating-google-meets-zoom-feature/"><u>[Updated] Close-Up Confidence  Navigating Google Meet's Zoom Feature</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-lava-yuva-2-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Lava Yuva 2? Heres A Full Solution | Dr.fone</u></a></li>
+</ul></div>

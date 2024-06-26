@@ -1,7 +1,7 @@
 ---
 title: Nine Entertaining Text Battles for Laughs & Connection
-date: 2024-06-23 17:48:54
-updated: 2024-06-24 11:17:58
+date: 2024-06-25T13:00:25.362Z
+updated: 2024-06-26T13:00:25.362Z
 tags:
   - games
 categories:
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/981f5aab13809d22943cf0e3715f6a9d6dac906b3
 
  While there is an app for everything, you don't need to download any apps to play games with your friends. Text-based games can provide hours of fun, and all you need is SMS text messaging or a chat app such as WhatsApp or iMessage.
 
- While there are plenty of[free mobile games without ads or in-app purchases](https://www.makeuseof.com/tag/free-mobile-games-no-ads/) , you may want to play something even simpler. The uncomplicated games listed below can be played over text or chat without the need to download and install yet another app on your phone.
+ While there are plenty of [free mobile games without ads or in-app purchases](https://www.makeuseof.com/tag/free-mobile-games-no-ads/) , you may want to play something even simpler. The uncomplicated games listed below can be played over text or chat without the need to download and install yet another app on your phone.
 
  If you play these in a messaging app, you're also not limited to just two participants. Suggest playing one of these in a group chat with family or friends, and you suddenly have a multiplayer option open to you.
 
@@ -70,7 +70,7 @@ Close
 
 Close
 
- Abbreviations are everywhere, as you can see from our list of[internet acronyms you need to know](https://www.makeuseof.com/tag/30-trendy-internet-acronyms-slang-need-know-fit/) . It's even possible to abbreviate your entire life by describing what you are up to with just the first letters of each word in that description.
+ Abbreviations are everywhere, as you can see from our list of [internet acronyms you need to know](https://www.makeuseof.com/tag/30-trendy-internet-acronyms-slang-need-know-fit/) . It's even possible to abbreviate your entire life by describing what you are up to with just the first letters of each word in that description.
 
  To play**Abbreviations** , one of you abbreviates the activity you're currently engaged in. For example: "In a coffee shop in town" becomes "IACSIT", and the other person sets about trying to un-abbreviate your short sentence back to its original form. Be prepared for some rude replies and some long message threads.
 
@@ -143,3 +143,23 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/discovering-2024s-finest-nintendo-switch-dock-compilation/"><u>Discovering 2024'S Finest: Nintendo Switch Dock Compilation</u></a></li>
+<li><a href="https://games-able.techidaily.com/more-than-just-numbers-evaluating-steam-status/"><u>More Than Just Numbers - Evaluating Steam Status</u></a></li>
+<li><a href="https://games-able.techidaily.com/8-day-to-day-strategies-for-circumventing-connections-gaming/"><u>8 Day-to-Day Strategies for Circumventing Connections Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/visual-beats-integrating-tablets-into-games/"><u>Visual Beats: Integrating Tablets Into Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/should-premium-games-include-microtransactions/"><u>Should Premium Games Include Microtransactions?</u></a></li>
+<li><a href="https://games-able.techidaily.com/three-unconventional-steps-to-re-launch-steam/"><u>Three Unconventional Steps to Re-Launch Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-potential-a-guide-to-all-steam-awards/"><u>Unlocking Potential: A Guide to All Steam Awards</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-vivo-v29-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-add-some-shake-to-videos-with-alight-motion-for-2024/"><u>Updated Add Some Shake to Videos with Alight Motion for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-determining-best-video-frames-per-second-fps-rate/"><u>[Updated] 2024 Approved  Determining Best Video Frames Per Second (FPS) Rate</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-make-your-text-pop-8-top-rated-neon-generators-online/"><u>New In 2024, Make Your Text Pop 8 Top-Rated Neon Generators Online</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-seamless-mac-screen-record-with-audio-device-for-2024/"><u>[New] Seamless Mac Screen Record with Audio Device for 2024</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-oneplus-open-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from OnePlus Open</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-max-passcode-without-computer-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 Pro Max Passcode without Computer?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-high-speed-windows-photoviewer/"><u>[Updated] High-Speed Windows Photoviewer</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-harmonizing-soundscapes-advanced-techniques-for-audio-normalization-in-davinci-resolve/"><u>In 2024, Harmonizing Soundscapes Advanced Techniques for Audio Normalization in DaVinci Resolve</u></a></li>
+</ul></div>

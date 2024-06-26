@@ -1,7 +1,7 @@
 ---
 title: Building Better Games Through Model Efficiency
-date: 2024-06-25T10:40:15.293Z
-updated: 2024-06-26T10:40:15.293Z
+date: 2024-06-25T12:48:35.462Z
+updated: 2024-06-26T12:48:35.462Z
 tags:
   - games
 categories:
@@ -18,9 +18,7 @@ thumbnail: https://thmb.techidaily.com/18d1ae3b93316df7253b6d9ca3430e2e7b9da85a6
 
  Designing and optimizing 3D models for your games is a big part of this, and we’re here to help you out. Let’s explore some of the key practices and techniques that you can employ to optimize 3D models for game development.
 
-## 3D Model Game Optimization: Development Practices
-
-![room 3d model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/room-3d-model.jpg)
+## 3D Model Game Optimization: Development Practices ![room 3d model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/room-3d-model.jpg)
 
  While a good deal of the work you can do to optimize 3D models for game development is done in your 3D design software, the game engine also gives you opportunities to make your game faster. These methods are easy to put to work, providing a good place to start if you have already begun development on your game.
 
@@ -34,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/18d1ae3b93316df7253b6d9ca3430e2e7b9da85a6
 
  Textures act like skin on the outside of a 3D object, adding patterns and other visual features to make the object look more real. Textures come in the form of image files, and each of these files needs to be loaded when it is used in a scene. By using compressed textures, you can free up a lot of resources.
 
- Alongside using compressed textures, it’s also worth making sure that the shaders you use are well-optimized. Most game engines have an asset store with both free and paid shaders available to make this easier. You can also find[free 3D models on the Unity Asset Store](https://www.makeuseof.com/unity-free-assets-websites/) that are already optimized, and this applies to other engines, too.
+ Alongside using compressed textures, it’s also worth making sure that the shaders you use are well-optimized. Most game engines have an asset store with both free and paid shaders available to make this easier. You can also find [free 3D models on the Unity Asset Store](https://www.makeuseof.com/unity-free-assets-websites/) that are already optimized, and this applies to other engines, too.
 
 ### Use Static Lighting
 
@@ -50,15 +48,11 @@ thumbnail: https://thmb.techidaily.com/18d1ae3b93316df7253b6d9ca3430e2e7b9da85a6
 
  The engine can automatically remove polygons from an object’s mesh when the player is far away, lowering resource costs without impacting immersion.
 
-## 3D Model Game Optimization: Design Workflow
-
-![3d designer working at PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3d-designer.jpg)
+## 3D Model Game Optimization: Design Workflow ![3d designer working at PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3d-designer.jpg)
 
  Designing 3D models that are optimized for video game development is easier than you might expect. This process mostly involves stripping your model down to ensure that it only has the vertices, lines, and faces that it needs. There are several ways to achieve this.
 
-### Manual Geometry Optimization
-
-![monkey model in blender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/manual-3d-optimization.jpg)
+### Manual Geometry Optimization ![monkey model in blender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/manual-3d-optimization.jpg)
 
  Optimizing simple geometry by hand is a good way to get used to designing models for video games. You have two main options for removing faces, lines, and vertices in 3D modeling software; deleting and dissolving.
 
@@ -68,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/18d1ae3b93316df7253b6d9ca3430e2e7b9da85a6
 
 * **Remove Hidden Faces** : Faces that the player will never see don’t need to be loaded into your game. The backs of buildings, the underside of a vehicle, and pieces of geometry that are below ground can usually be removed. This is the manual version of occlusion mapping.
 * **Remove Duplicate/Redundant Faces** : Duplicate faces should always be deleted, but you should also look for faces that aren’t necessary. A square, for example, only needs to have one face. If it has two triangular faces, dissolve them both to replace them with a single face.
-* **Object Merging** : Loading one object is always better than loading two or three.[Merging 3D objects in Blender](https://www.makeuseof.com/merge-objects-in-blender/) and[other game development software](https://www.makeuseof.com/tag/five-free-game-development-tools-make-your-own-games/) is easy, and it's a great way to reduce your resource costs.
+* **Object Merging** : Loading one object is always better than loading two or three.[Merging 3D objects in Blender](https://www.makeuseof.com/merge-objects-in-blender/) and [other game development software](https://www.makeuseof.com/tag/five-free-game-development-tools-make-your-own-games/) is easy, and it's a great way to reduce your resource costs.
 
 ### Automated Geometry Optimization
 

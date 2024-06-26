@@ -1,7 +1,7 @@
 ---
 title: Top 5 Challenges for GameFi's Mass Appeal
-date: 2024-06-22 16:12:47
-updated: 2024-06-24 12:24:53
+date: 2024-06-25T13:13:28.089Z
+updated: 2024-06-26T13:13:28.089Z
 tags:
   - games
 categories:
@@ -31,9 +31,9 @@ thumbnail: https://thmb.techidaily.com/7231e7cfa11b8c48bc0e8ca6efb14ca7e0a26276b
 
  GameFi ([short for gaming finance](https://www.makeuseof.com/what-is-gamefi/) ) is a blend of the gaming and decentralized finance (DeFi) industries, wherein users can play games to earn crypto tokens and other decentralized assets, such as NFTs. GameFi allows blockchain-based apps to shift into the gaming industry, attracting users with the lure of digital tokens.
 
- GameFi is also known as[play-to-earn (P2E)](https://www.makeuseof.com/are-play-to-earn-games-legit/) . P2E games often look and perform like typical games, with the tokenomics element usually being the only difference.
+ GameFi is also known as [play-to-earn (P2E)](https://www.makeuseof.com/are-play-to-earn-games-legit/) . P2E games often look and perform like typical games, with the tokenomics element usually being the only difference.
 
- Some notable examples of[popular P2E games](https://www.makeuseof.com/top-play-to-earn-mobile-crypto-games/) are Axie Infinity, Star Atlas, and Tamadodge. Each of these games has one or more of their own token types that users can earn. Some games, including Axie Infinity, reward winners with NFTs that they can sell for Ethereum or another cryptocurrency.
+ Some notable examples of [popular P2E games](https://www.makeuseof.com/top-play-to-earn-mobile-crypto-games/) are Axie Infinity, Star Atlas, and Tamadodge. Each of these games has one or more of their own token types that users can earn. Some games, including Axie Infinity, reward winners with NFTs that they can sell for Ethereum or another cryptocurrency.
 
  In P2E games, almost everything can be tokenized, from avatars to weapons to land. You can often receive these assets by completing quests and winning tournaments, but the nature of the P2E model changes from game to game.
 
@@ -45,13 +45,11 @@ thumbnail: https://thmb.techidaily.com/7231e7cfa11b8c48bc0e8ca6efb14ca7e0a26276b
 
  This naturally affects GameFi, as many P2E games reward users with crypto tokens. If a GameFi token's price increases, that's great news for gamers. But as we all know, cryptocurrency price drops and market crashes are by no means rare. If an individual spends hours building a solid holding of assets by playing a P2E game, much of their time and effort will go to waste if the reward token loses a large chunk of its value.
 
- Even if a P2E game solely rewards users with NFTs, cryptocurrency price fluctuations directly affect how much a user can get through the sale of their P2E NFTs. For instance, if an NFT is worth 2 ETH and Ethereum's price drops by 10%, the NFT owner stands to lose 10% of their original profit when they[sell this NFT on a marketplace](https://www.makeuseof.com/best-nft-marketplaces-buying-all-kinds-digital-assets/) like OpenSea.
+ Even if a P2E game solely rewards users with NFTs, cryptocurrency price fluctuations directly affect how much a user can get through the sale of their P2E NFTs. For instance, if an NFT is worth 2 ETH and Ethereum's price drops by 10%, the NFT owner stands to lose 10% of their original profit when they [sell this NFT on a marketplace](https://www.makeuseof.com/best-nft-marketplaces-buying-all-kinds-digital-assets/) like OpenSea.
 
  GameFi developers could aim to adopt stablecoins over regular cryptos in P2E games, as this provides more price stability and protects users from really suffering when the market turns downward.
 
-## 2\. Scams
-
-![person having crypto stolen from laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/crypto-scams-social-media.jpg)
+## 2\. Scams ![person having crypto stolen from laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/crypto-scams-social-media.jpg)
 
  Scams are, unfortunately, native to the crypto realm, and GameFi is no exception to this rule. If there's money to be stolen, chances are criminals will find some way to access it.
 
@@ -83,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/7231e7cfa11b8c48bc0e8ca6efb14ca7e0a26276b
 
 ### 5\. Lack of Regulation
 
- Cryptocurrency and DeFi already lack proper regulation (though[crypto regulation may soon change](https://www.makeuseof.com/is-government-sec-going-to-regulate-cryptocurrency/) ), but GameFi, a newer addition to the blockchain industry, suffers from this issue even more.
+ Cryptocurrency and DeFi already lack proper regulation (though [crypto regulation may soon change](https://www.makeuseof.com/is-government-sec-going-to-regulate-cryptocurrency/) ), but GameFi, a newer addition to the blockchain industry, suffers from this issue even more.
 
  In the US, no specific legal regulations surround GameFi, which could allow malicious actors to get away with a fair few swindles. Even legitimate game developers may be able to wriggle through a few loopholes without proper regulation, leaving gamers worse off.
 
@@ -126,3 +124,26 @@ thumbnail: https://thmb.techidaily.com/7231e7cfa11b8c48bc0e8ca6efb14ca7e0a26276b
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/secure-personalized-sound-experience-via-headsets/"><u>Secure Personalized Sound Experience via Headsets</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-for-dealing-with-nonfunctional-switch-situations/"><u>Steps for Dealing with Nonfunctional Switch Situations</u></a></li>
+<li><a href="https://games-able.techidaily.com/investment-tactics-fortnite-coins-on-sonys-platform/"><u>Investment Tactics: Fortnite Coins on Sony's Platform</u></a></li>
+<li><a href="https://games-able.techidaily.com/masterful-methods-infuse-iphone-with-video-game-magic/"><u>Masterful Methods: Infuse iPhone with Video Game Magic</u></a></li>
+<li><a href="https://games-able.techidaily.com/valve-enhances-game-access-via-steams-updated-family-sharing/"><u>Valve Enhances Game Access via Steam's Updated Family Sharing</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-your-console-writes-a-letter-of-resignation/"><u>Unleash Your Console’ Writes a Letter of Resignation</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-showdown-ps5-versus-low-cost-gaming-machine/"><u>Next-Gen Showdown: PS5 Versus Low-Cost Gaming Machine</u></a></li>
+<li><a href="https://games-able.techidaily.com/supercharge-your-gaming-system-with-ease/"><u>Supercharge Your Gaming System with Ease</u></a></li>
+<li><a href="https://games-able.techidaily.com/titanium-links-choosing-the-ultimate-gaming-networks/"><u>Titanium Links - Choosing The Ultimate Gaming Networks</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-compressing-time-how-to-create-engaging-time-lapse-videos-with-ease-for-2024/"><u>New Compressing Time How to Create Engaging Time Lapse Videos with Ease for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-equipment-for-gaming-channels-best-gaming-gears/"><u>2024 Approved  YouTube Equipment for Gaming Channels - Best Gaming Gears</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-best-5-rapid-setup-techniques-for-home-cinematography/"><u>[Updated] Best 5 Rapid Setup Techniques for Home Cinematography</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/all-you-need-to-know-about-mega-greninja-for-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-best-extensions-to-capture-firefox/"><u>[New] In 2024, Best Extensions to Capture Firefox</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/control-youtube-audio-mobiledesktop-approach-for-2024/"><u>Control YouTube Audio  Mobile/Desktop Approach for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cinematic-clarity-hub-query-responses/"><u>Cinematic Clarity Hub  Query Responses</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/vn-video-editor-mobile-app-review-editing-made-easy-for-2024/"><u>VN Video Editor Mobile App Review Editing Made Easy for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-from-iphone-xs-max-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even From iPhone XS Max If Youve Tried Everything</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/dual-view-video-recording-top-apps-for-iphone-and-android/"><u>Dual-View Video Recording Top Apps for iPhone and Android</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: How to Use a PS4 Controller on Your PC or Mac
-date: 2024-06-21 17:28:41
-updated: 2024-06-23 10:38:30
+date: 2024-06-25T13:16:40.789Z
+updated: 2024-06-26T13:16:40.789Z
 tags:
   - games
 categories:
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 
  Now your controller should be synced up via Bluetooth and you can do away with the USB cord. Though it is nice to have your controller charging every time you plug it into your computer.
 
- Even if you're not using Steam, connecting the DualShock 4 to your Mac is simple. OpenEmu, the best emulator out there, supports the DualShock 4 natively, so all you have to do is plug it in and start playing. It might take a minute to figure out how it maps to an NES or Genesis controller, but after a few minutes of pressing buttons, you'll have it down. Mac is usually pretty good about connecting to PlayStation controllers, you can even[use the PS5 DualSense controller on a Mac](https://www.makeuseof.com/how-to-use-ps5-dualsense-controller-with-mac/) .
+ Even if you're not using Steam, connecting the DualShock 4 to your Mac is simple. OpenEmu, the best emulator out there, supports the DualShock 4 natively, so all you have to do is plug it in and start playing. It might take a minute to figure out how it maps to an NES or Genesis controller, but after a few minutes of pressing buttons, you'll have it down. Mac is usually pretty good about connecting to PlayStation controllers, you can even [use the PS5 DualSense controller on a Mac](https://www.makeuseof.com/how-to-use-ps5-dualsense-controller-with-mac/) .
 
 ## Ho to Connect a PS4 Controller to Your PC
 
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 
 ### Connecting a DualShock 4 on Steam
 
- If you want to play some of the[best Steam games](https://www.makeuseof.com/tag/best-free-steam-games/) using a DualShock 4, you'll be pleased to know that the process is incredibly simple.
+ If you want to play some of the [best Steam games](https://www.makeuseof.com/tag/best-free-steam-games/) using a DualShock 4, you'll be pleased to know that the process is incredibly simple.
 
  Simply connect your controller to your PC via Bluetooth by holding the controller's PS button in and then scanning for Bluetooth devices on the PC to connect to. It should say "Wireless Controller". Alternatively, plug it into the PC using a micro-USB and it should then recognize the device.
 
@@ -52,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 
  If you want to use a DualShock 4 for non-Steam games, like emulated titles or old PC titles, or anything that you aren't playing on an official platform, the process takes a couple of steps.
 
- First, you'll need to download DS4Windows from the[DS4Windows download page](https://ds4-windows.com/download/ryochan7-ds4windows/) , a free app that allows you to emulate an Xbox 360 controller (which is supported by Windows) with your DualShock.
+ First, you'll need to download DS4Windows from the [DS4Windows download page](https://ds4-windows.com/download/ryochan7-ds4windows/) , a free app that allows you to emulate an Xbox 360 controller (which is supported by Windows) with your DualShock.
 
  Unzip the file and launch DS4Windows. Connect the DualShock 4 with the USB cable or pair it via Bluetooth (hold the**PS** and**Share** buttons until the light bar flashes, then pair it using the**Start > Settings > Devices > Bluetooth** menu. You may need to enter "0000" as the pairing code). From there, just follow the instructions in the DS4Windows app. It will walk you through setting up the controller.
 
@@ -66,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 
  If you're willing to shell out for an extra accessory, the DualShock 4 wireless USB adapter is a great way to use your controller on a computer that doesn't have Bluetooth or for some other reason isn't using the controller very well. It's a small USB dongle that enables all the DualShock's features in any app that supports them. That means you'll get full rumble, light bar, and even audio through the headphone jack.
 
- This adapter is no longer officially sold, but third-party versions exist on Amazon and other websites. You can find them for a relatively cheap price, and it could be a convenient way of getting full rumble, audio, and other functionality through the DualShock 4\. Despite being an older controller, the[DualShock 4 is a better PC controller than the Switch Pro controller](https://www.makeuseof.com/dualshock-4-vs-switch-pro-controller-best-for-pc-gaming/) , despite the latter controller coming out much later. This controller has stood the test of time for its robust design, superb responsiveness, and comfortable feel.
+ This adapter is no longer officially sold, but third-party versions exist on Amazon and other websites. You can find them for a relatively cheap price, and it could be a convenient way of getting full rumble, audio, and other functionality through the DualShock 4\. Despite being an older controller, the [DualShock 4 is a better PC controller than the Switch Pro controller](https://www.makeuseof.com/dualshock-4-vs-switch-pro-controller-best-for-pc-gaming/) , despite the latter controller coming out much later. This controller has stood the test of time for its robust design, superb responsiveness, and comfortable feel.
 
 ## Game on Your PC With a PS4 Controller
 
@@ -89,3 +89,27 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/slow-down-relax-indulge-in-idle-gaming/"><u>Slow Down, Relax: Indulge in Idle Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-without-the-chair-cushion/"><u>Gaming Without the Chair Cushion</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-ranked-gba-ios-simulators-unveiled/"><u>Top-Ranked GBA iOS Simulators Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/rectifying-lost-components-message-in-win-1011/"><u>Rectifying Lost Components Message in Win 10/11</u></a></li>
+<li><a href="https://games-able.techidaily.com/ensuring-smooth-gameplay-with-regular-ps5-control-resets/"><u>Ensuring Smooth Gameplay with Regular PS5 Control Resets</u></a></li>
+<li><a href="https://games-able.techidaily.com/revive-vanished-wordle-streaks-on-smartphones/"><u>Revive Vanished Wordle Streaks on Smartphones</u></a></li>
+<li><a href="https://games-able.techidaily.com/chicconsole-compact-modern-twist-on-classic-gaming/"><u>ChicConsole Compact: Modern Twist on Classic Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-techs-edge-series-x-vs-custom-pc/"><u>Exploring Tech's Edge: Series X VS. Custom PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-is-palworld-everything-you-need-to-know/"><u>What Is Palworld? Everything You Need to Know</u></a></li>
+<li><a href="https://games-able.techidaily.com/safe-spaces-online-educating-youth-about-risks-like-discord/"><u>Safe Spaces Online: Educating Youth About Risks Like Discord</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-step-by-step-methods-for-gameplay-recording-for-2024/"><u>[New] Step-by-Step Methods for Gameplay Recording for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-view-avchd-mts-files-on-galaxy-z-flip-5-by-aiseesoft-video-converter-play-mts-on-android/"><u>Can I view AVCHD .mts files on Galaxy Z Flip 5?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-initial-glimpse-at-vectors-classifying-and-choosing-right-tech/"><u>In 2024, Initial Glimpse at Vectors  Classifying and Choosing Right Tech</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-understanding-and-implementing-cc-licenses-wisely/"><u>2024 Approved  Understanding & Implementing CC Licenses Wisely</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-precision-photography-without-shake/"><u>2024 Approved  Precision Photography without Shake</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-realme-gt-neo-5-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Realme GT Neo 5 Phone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-quick-and-simple-access-high-res-youtube-images-for-free-here/"><u>[New] In 2024, Quick & Simple  Access High-Res YouTube Images for Free Here</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-securely-capturing-and-storing-itunes-media-content/"><u>In 2024, Securely Capturing and Storing iTunes Media Content</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/uninterrupted-airdrop-connections-in-the-world-of-iphones-and-macs-for-2024/"><u>Uninterrupted AirDrop Connections in the World of iPhones & Macs for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-selecting-the-perfect-screen-recorder-for-educational-purposes/"><u>[New] Selecting the Perfect Screen Recorder for Educational Purposes</u></a></li>
+</ul></div>

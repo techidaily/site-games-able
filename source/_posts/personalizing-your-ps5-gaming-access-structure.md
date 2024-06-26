@@ -1,7 +1,7 @@
 ---
 title: Personalizing Your PS5 Gaming Access Structure
-date: 2024-06-25T10:38:17.588Z
-updated: 2024-06-26T10:38:17.588Z
+date: 2024-06-25T12:48:34.185Z
+updated: 2024-06-26T12:48:34.185Z
 tags:
   - games
 categories:
@@ -26,9 +26,9 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
 
  While there’s a dedicated page for subscriptions, Sony offers only three for the US region:
 
-* **PlayStation Plus** \- Sony’s flagship game subscription service. You can learn all about the[PlayStation Plus subscription tiers](https://www.makeuseof.com/playstation-plus-essential-vs-extra-vs-premium/) in our dedicated guide.
+* **PlayStation Plus** \- Sony’s flagship game subscription service. You can learn all about the [PlayStation Plus subscription tiers](https://www.makeuseof.com/playstation-plus-essential-vs-extra-vs-premium/) in our dedicated guide.
 * **Ubisoft+ Classics** \- A compilation of some of the best Ubisoft games on PlayStation. It comes with a PS Plus Extra and Premium subscription.
-* **EA Play** \- It’s a standalone EA subscription that grants you access to generous discounts and access to over 50 games for only $5/month. We’ve previously explained[how to subscribe to EA Play on your PS5](https://www.makeuseof.com/how-to-subscribe-to-and-use-ea-play-on-ps5/) if you’re interested.
+* **EA Play** \- It’s a standalone EA subscription that grants you access to generous discounts and access to over 50 games for only $5/month. We’ve previously explained [how to subscribe to EA Play on your PS5](https://www.makeuseof.com/how-to-subscribe-to-and-use-ea-play-on-ps5/) if you’re interested.
 
  Sony might add more subscriptions down the line, but this is all it offers for now. You can check back to this page as often as possible to see what’s new. Sometimes there could be huge sales on the subscriptions, too.
 
@@ -87,11 +87,11 @@ Here’s how to renew a PS5 gaming subscription:
 
 ### Q: How Do You Refund PlayStation Store Purchases?
 
- If you have made a digital purchase through your PlayStation 5 or PlayStation account but want to refund the payment, as long as you made the purchase within the last 14 days and haven't started downloading or streaming the product, you can get a full refund from Sony. Luckily, all it takes to[refund your digital PlayStation purchases](https://www.makeuseof.com/how-to-refund-game-ps4-ps5/) is for you to contact PlayStation Support.
+ If you have made a digital purchase through your PlayStation 5 or PlayStation account but want to refund the payment, as long as you made the purchase within the last 14 days and haven't started downloading or streaming the product, you can get a full refund from Sony. Luckily, all it takes to [refund your digital PlayStation purchases](https://www.makeuseof.com/how-to-refund-game-ps4-ps5/) is for you to contact PlayStation Support.
 
 ### Q: How Do You Change Your PlayStation Plus Subscription Plan?
 
- To change your PlayStation Plus subscription tier, sign into your PlayStation account's**Account Management** settings online via[the official PlayStation website](https://id.sonyentertainmentnetwork.com/id/management%5Fca/?entry=p&pr%5Freferer=cam#/p/personal%5Finfo/list?cid=4a529aef-a3f3-41a6-a999-42f529175674&entry=p&state=cam%5F3af0585034c611577fab15ef3a9128ae) . From here, click on**Subscription** and select your**PlayStation Plus** subscription. Select**Change Plan** , then choose the plan you wish to switch to. Conveniently, if you want to[cancel your PlayStation Plus subscription](https://www.makeuseof.com/how-to-cancel-playstation-plus/) online, you can do so from the same**Subscription** settings page.
+ To change your PlayStation Plus subscription tier, sign into your PlayStation account's**Account Management** settings online via [the official PlayStation website](https://id.sonyentertainmentnetwork.com/id/management%5Fca/?entry=p&pr%5Freferer=cam#/p/personal%5Finfo/list?cid=4a529aef-a3f3-41a6-a999-42f529175674&entry=p&state=cam%5F3af0585034c611577fab15ef3a9128ae) . From here, click on**Subscription** and select your**PlayStation Plus** subscription. Select**Change Plan** , then choose the plan you wish to switch to. Conveniently, if you want to [cancel your PlayStation Plus subscription](https://www.makeuseof.com/how-to-cancel-playstation-plus/) online, you can do so from the same**Subscription** settings page.
 
 
 <ins class="adsbygoogle"

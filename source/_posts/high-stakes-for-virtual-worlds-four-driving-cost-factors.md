@@ -1,7 +1,7 @@
 ---
 title: "High Stakes for Virtual Worlds: Four Driving Cost Factors"
-date: 2024-06-25T10:48:26.734Z
-updated: 2024-06-26T10:48:26.734Z
+date: 2024-06-25T12:48:40.598Z
+updated: 2024-06-26T12:48:40.598Z
 tags:
   - games
 categories:
@@ -22,15 +22,13 @@ thumbnail: https://thmb.techidaily.com/55d1895b35f08f3d82ecb412a2b84639eef0d00ef
 
  Budget VR headsets do exist, but they're not the most popular options, and they'll often require a smartphone or a PC to function. Though there are many options, the most sought-after options right now include the Meta Quest 2, the PSVR2, and the HTC Vive Pro 2.
 
- The Meta Quest 2, known as the[Oculus Quest 2 when we reviewed](https://www.makeuseof.com/oculus-quest-2-review/) it, starts at $299.99, and this is by far the most affordable quality VR headset right now. Interestingly, the[Meta Quest 2 became $100 more expensive](<https://www.makeuseof.com/reasons-meta-quest-2-getting-more-expensive/>) two years after its release but has since dropped the price to match its original release price.
+ The Meta Quest 2, known as the [Oculus Quest 2 when we reviewed](https://www.makeuseof.com/oculus-quest-2-review/) it, starts at $299.99, and this is by far the most affordable quality VR headset right now. Interestingly, the [Meta Quest 2 became $100 more expensive](<https://www.makeuseof.com/reasons-meta-quest-2-getting-more-expensive/>) two years after its release but has since dropped the price to match its original release price.
 
  The PlayStation VR2 starts at $549.99, but you also need to own a PS5 to use the PSVR2, which adds at least $399.99 to the total cost. Similarly, the HTC Vive Pro 2 headset starts at $799, but you'll also need a high-end PC that could easily tack on an extra $1-2,000 to your total cost.
 
  Then, there are expensive options that seem more focused on businesses or developers, like the Meta Quest Pro ($999) or Apple's upcoming Vision Pro headset ($3,499). What about VR technology makes these headsets, standalone or not, so expensive?
 
-## 1\. There's a Lot of Expensive (and New) Tech Inside
-
-![Boy wearing a VR headset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/metaverse-kid.jpg)
+## 1\. There's a Lot of Expensive (and New) Tech Inside ![Boy wearing a VR headset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/metaverse-kid.jpg)
 
  Because virtual reality is a relatively new computer technology, there are a lot of costs associated strictly with research and development. Not all of these R&D costs come across in the final VR headset price for consumers, but some do. The best software and hardware to use inside VR headsets are constantly developing, and the price of these software and hardware components is higher now than it likely will be in the future.
 
@@ -42,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/55d1895b35f08f3d82ecb412a2b84639eef0d00ef
 
 ## 2\. VR Headsets Come With More Than Just Gaming Features
 
- There are some[great virtual reality ports of existing games](https://www.makeuseof.com/great-virtual-reality-ports-of-existing-games/) and fantastic games built from the ground up specifically for VR. If you're into gaming, these uniquely immersive gaming experiences are an easy selling point for VR headsets. However, modern VR headsets can do much more.
+ There are some [great virtual reality ports of existing games](https://www.makeuseof.com/great-virtual-reality-ports-of-existing-games/) and fantastic games built from the ground up specifically for VR. If you're into gaming, these uniquely immersive gaming experiences are an easy selling point for VR headsets. However, modern VR headsets can do much more.
 
 [VR technology is helping with certain mental health issues](https://www.makeuseof.com/vr-technology-mental-health/) , like PTSD, anxiety, depression, and phobias. This technology also allows people to virtually explore the wonders of the world if they're physically or financially unable to do so otherwise.
 
@@ -54,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/55d1895b35f08f3d82ecb412a2b84639eef0d00ef
 
 ## 3\. Many Are Portable, Needing a Robust Design, Battery, and Speakers
 
- Unlike a high-end PC that typically stays in your home, a VR headset is often made to be portable. It's easier to pack up a VR headset to take with you on vacation or to a friend's house. Because of this, a VR headset must be durable enough to withstand a little rough wear during transit. If you plan to travel by plane or don't want to risk any damage, packing it inside a case is one of the[best ways to store your VR headset safely](https://www.makeuseof.com/how-to-safely-store-and-display-vr-headsets/) .
+ Unlike a high-end PC that typically stays in your home, a VR headset is often made to be portable. It's easier to pack up a VR headset to take with you on vacation or to a friend's house. Because of this, a VR headset must be durable enough to withstand a little rough wear during transit. If you plan to travel by plane or don't want to risk any damage, packing it inside a case is one of the [best ways to store your VR headset safely](https://www.makeuseof.com/how-to-safely-store-and-display-vr-headsets/) .
 
 ![psvr2 video - controller held](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/psvr2-video-controller-held.jpg)
 

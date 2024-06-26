@@ -1,7 +1,7 @@
 ---
 title: "Sustained Play: Advanced Strategies for Extending Xbox Controller Lifespan"
-date: 2024-06-25T10:50:31.702Z
-updated: 2024-06-26T10:50:31.702Z
+date: 2024-06-25T12:48:41.895Z
+updated: 2024-06-26T12:48:41.895Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/1aaa1948c8657f1c3ade15a5850d4145b4cb86fea
 
  One of the main drainers on your Xbox Wireless Controller's battery life is its rumble and vibration features. While vibration may enhance your experience in-game, it takes up a lot of energy. Luckily, through your Xbox One or Xbox Series X|S console, you can disable vibrations and save energy.
 
- By utilizing the**Xbox Accessories** app on your Xbox console, it's easy to[turn off vibrations for your Xbox Wireless Controller](https://www.makeuseof.com/how-to-universally-turn-off-controller-vibration-on-xbox-series-x-s/) , but the steps can be summarized by the following:
+ By utilizing the**Xbox Accessories** app on your Xbox console, it's easy to [turn off vibrations for your Xbox Wireless Controller](https://www.makeuseof.com/how-to-universally-turn-off-controller-vibration-on-xbox-series-x-s/) , but the steps can be summarized by the following:
 
 * Enter the**My games & apps** section of your Xbox.
 * Highlight**Apps** , and select**Xbox Accessories** .
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/1aaa1948c8657f1c3ade15a5850d4145b4cb86fea
 
  Image Credit:[Microsoft](https://www.microsoft.com/en-us/d/controller-gear-universal-xbox-pro-charging-stand-shock-blue-latest-model/8w8v368g8kzx)
 
- If either of these accessories sound like they could improve your controller's battery life, you can find the official Xbox Rechargeable Battery and USB Cable pack via[the official Xbox website](https://www.xbox.com/en-us/accessories/batteries-chargers/play-and-charge-kit) , or you can purchase the official Universal Xbox Pro Charging Stand via[the Microsoft store](https://www.microsoft.com/en-us/d/controller-gear-universal-xbox-pro-charging-stand-shock-blue-latest-model/8w8v368g8kzx) .
+ If either of these accessories sound like they could improve your controller's battery life, you can find the official Xbox Rechargeable Battery and USB Cable pack via [the official Xbox website](https://www.xbox.com/en-us/accessories/batteries-chargers/play-and-charge-kit) , or you can purchase the official Universal Xbox Pro Charging Stand via [the Microsoft store](https://www.microsoft.com/en-us/d/controller-gear-universal-xbox-pro-charging-stand-shock-blue-latest-model/8w8v368g8kzx) .
 
 ## 3\. Ensure You Properly Turn Off Your Xbox Wireless Controller
 
@@ -68,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/1aaa1948c8657f1c3ade15a5850d4145b4cb86fea
 
 ![A screenshot of option to Turn Off Controller on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3156.jpg)
 
- And with that, you can guarantee that your controller won't be wasting any of your leftover battery life. While this may seem like a small method, when combined with methods like[adjusting the brightness of the Xbox button on your controller](https://www.makeuseof.com/how-to-adjust-brightness-of-xbox-controller-and-console-light/#:~:text=Navigate%20to%20the%20Profile%20%26%20system,the%20settings%20for%20controller%20brightness.) or disabling vibrations, you may see a substantial difference in battery life.
+ And with that, you can guarantee that your controller won't be wasting any of your leftover battery life. While this may seem like a small method, when combined with methods like [adjusting the brightness of the Xbox button on your controller](https://www.makeuseof.com/how-to-adjust-brightness-of-xbox-controller-and-console-light/#:~:text=Navigate%20to%20the%20Profile%20%26%20system,the%20settings%20for%20controller%20brightness.) or disabling vibrations, you may see a substantial difference in battery life.
 
 ## 4\. Use a Wired Connection for Your Xbox Wireless Controller
 

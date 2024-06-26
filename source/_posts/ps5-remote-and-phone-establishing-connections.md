@@ -1,7 +1,7 @@
 ---
 title: "PS5 Remote & Phone: Establishing Connections"
-date: 2024-06-21 22:27:24
-updated: 2024-06-24 10:13:32
+date: 2024-06-25T13:24:06.199Z
+updated: 2024-06-26T13:24:06.199Z
 tags:
   - games
 categories:
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/8e351a495ce579ab157428c084339d1c33794d9d4
 
 ## Which Smartphones Are Compatible With the PS5 Controller?
 
- The[PlayStation website](https://www.playstation.com/en-au/support/hardware/pair-dualsense-controller-bluetooth/#supported) states that the DualSense Controller is compatible with devices running Android 12 or later and iOS 14.5 or later. However, we were able to test the method on a device running Android 11 with no issues.
+ The [PlayStation website](https://www.playstation.com/en-au/support/hardware/pair-dualsense-controller-bluetooth/#supported) states that the DualSense Controller is compatible with devices running Android 12 or later and iOS 14.5 or later. However, we were able to test the method on a device running Android 11 with no issues.
 
  Not all Android devices are compatible with the DualSense Controller, however. The PlayStation website suggests consulting your device’s manufacturer to see if your device is compatible with the controller or not.
 
@@ -59,7 +59,7 @@ Close
 
  Put your controller in pairing mode by holding the Create and PS buttons down simultaneously. It should only take around three seconds before your controller light starts flashing to indicate it is in pairing mode.
 
- If you're unsure[what the DualSense Create button is](https://www.makeuseof.com/ps5-create-button/) , it's the small oval button on the left side of the touchpad.
+ If you're unsure [what the DualSense Create button is](https://www.makeuseof.com/ps5-create-button/) , it's the small oval button on the left side of the touchpad.
 
 ![a playstation 5 controller held in someone's hands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/a-playstation-5-controller-held-in-someone-s-hands.jpg)
 
@@ -91,7 +91,7 @@ Close
 
 Close
 
- If your operating software is compatible, press**General** in the top left corner to head back to your**Settings** and select**Bluetooth** . Ensure the**toggle** is switched on and[put your PS5 controller into pairing mode](https://www.makeuseof.com/how-to-ps5-dualsense-controller-pairing-mode/) .
+ If your operating software is compatible, press**General** in the top left corner to head back to your**Settings** and select**Bluetooth** . Ensure the**toggle** is switched on and [put your PS5 controller into pairing mode](https://www.makeuseof.com/how-to-ps5-dualsense-controller-pairing-mode/) .
 
  Scroll down to**Other Devices** on your mobile and wait until you see the**DualSense Wireless Controller** option.
 
@@ -134,3 +134,26 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/next-gen-gems-discover-the-best-nintendo-switch-docks/"><u>Next-Gen Gems: Discover the Best Nintendo Switch Docks</u></a></li>
+<li><a href="https://games-able.techidaily.com/access-all-features-on-xbox-1-without-standard-controls/"><u>Access All Features on Xbox 1 without Standard Controls</u></a></li>
+<li><a href="https://games-able.techidaily.com/solving-steam-network-not-available-problem/"><u>Solving Steam Network Not Available Problem</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-multiplayer-mobile-experiences-unite-friends-anywhere/"><u>Ultimate Multiplayer Mobile Experiences: Unite Friends Anywhere</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-region-swap-on-nintendo-switch/"><u>Mastering Region Swap on Nintendo Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/boost-brag-and-beat-the-odds-essential-achievement-websites/"><u>Boost, Brag & Beat The Odds: Essential Achievement Websites</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-key-elements-of-crafting-engrossing-steam-game-reviews/"><u>The Key Elements of Crafting Engrossing Steam Game Reviews</u></a></li>
+<li><a href="https://games-able.techidaily.com/tech-wizardry-discovering-ps5s-browsing-secret/"><u>Tech Wizardry: Discovering PS5's Browsing Secret</u></a></li>
+<li><a href="https://games-able.techidaily.com/end-of-shortage-era-how-will-ps5-retailers-adjust/"><u>End of Shortage Era: How Will PS5 Retailers Adjust?</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-essential-20-country-melodies-to-unwind-and-groove-at-home-tiktok/"><u>[Updated] 2024 Approved  Essential 20 Country Melodies to Unwind and Groove at Home (TikTok)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-excellent-mac-bandicam-substitutes-5-for-2024/"><u>[New] Excellent Mac Bandicam Substitutes [#5] for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-sleeper-coupons-in-instagram-the-underrated-tips-and-tricks/"><u>[Updated] 2024 Approved  Sleeper Coupons in Instagram  The Underrated Tips and Tricks</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ltimate-guide-to-live-recording-best-15-video-resources/"><u>The Ultimate Guide to Live Recording - Best 15 Video Resources</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-realme-12plus-5g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Realme 12+ 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-can-you-get-vhs-filter-and-glitch-filter-to-your-images-or-videos/"><u>Updated How Can You Get VHS Filter and Glitch Filter to Your Images or Videos?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/chromes-pip-magic-for-seamless-video-playback/"><u>Chrome's PIP Magic for Seamless Video Playback</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changefake-your-xiaomi-redmi-note-13-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Xiaomi Redmi Note 13 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-mastering-the-search-a-guide-to-finding-your-ideal-discord-server/"><u>In 2024, Mastering the Search  A Guide to Finding Your Ideal Discord Server</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Motorola G24 Power | Dr.fone</u></a></li>
+</ul></div>

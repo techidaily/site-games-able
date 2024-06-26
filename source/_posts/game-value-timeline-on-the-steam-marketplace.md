@@ -1,7 +1,7 @@
 ---
 title: Game Value Timeline on the Steam Marketplace
-date: 2024-06-25T10:46:41.457Z
-updated: 2024-06-26T10:46:41.457Z
+date: 2024-06-25T12:48:39.535Z
+updated: 2024-06-26T12:48:39.535Z
 tags:
   - games
 categories:
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/36b23ef4c54f4e12997c9a2584ed2c68d00394366
 
 Here's how you can access the price history of a Steam game:
 
-1. Go to the[SteamDB website](https://steamdb.info/) .
+1. Go to the [SteamDB website](https://steamdb.info/) .
 2. In the search bar at the top of the screen, type in the game whose price history you want to see. In this example, we'll look at Baldur's Gate 3.
 3. Click on the game's title when it appears in the search results.
 
@@ -64,11 +64,11 @@ Here's how you can access the price history of a Steam game:
 
  There are other websites that focus on tracking the price history of Steam games. For example,[GG.Deals](https://gg.deals/) focuses on highlighting games with historical lows on Steam as well as other storefronts.
 
- The drawback of this site is that it also highlights prices from game key shops, which are not always safe to buy from. You can see more about this topic in our guide on[whether game key sites are safe](https://www.makeuseof.com/are-game-keys-safe/) .
+ The drawback of this site is that it also highlights prices from game key shops, which are not always safe to buy from. You can see more about this topic in our guide on [whether game key sites are safe](https://www.makeuseof.com/are-game-keys-safe/) .
 
- You can also use[SteamPriceHistory.com](https://steampricehistory.com/) to see a quick overview of discounts on the platform. However, SteamDB remains the most comprehensive tool.
+ You can also use [SteamPriceHistory.com](https://steampricehistory.com/) to see a quick overview of discounts on the platform. However, SteamDB remains the most comprehensive tool.
 
- There are other[ways to get the best deals on Steam games](https://www.makeuseof.com/tag/5-ways-to-make-sure-you-get-the-best-deals-on-steam-games/) . For example, you can add games to your wishlist so that you receive a notification when the game's price drops. You can also wait for major annual sales such as the Steam Summer Sale.
+ There are other [ways to get the best deals on Steam games](https://www.makeuseof.com/tag/5-ways-to-make-sure-you-get-the-best-deals-on-steam-games/) . For example, you can add games to your wishlist so that you receive a notification when the game's price drops. You can also wait for major annual sales such as the Steam Summer Sale.
 
  Now you have all the tools you need to check whether a sale is offering an actual discount and not simply providing discounts on price-gouged games. Hopefully this will help you find the best discount possible.
 

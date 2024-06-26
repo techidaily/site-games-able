@@ -1,7 +1,7 @@
 ---
 title: "Transitioning to MacSilicon: Running Windows Games via CrossOver"
-date: 2024-06-25T10:37:37.435Z
-updated: 2024-06-26T10:37:37.435Z
+date: 2024-06-25T12:48:33.731Z
+updated: 2024-06-26T12:48:33.731Z
 tags:
   - games
 categories:
@@ -26,10 +26,10 @@ thumbnail: https://thmb.techidaily.com/b21b5439f80b1a102ace85a9da59aeae7943c3aff
 
 Follow the steps below to get started:
 
-1. Visit[CodeWeavers website](https://www.codeweavers.com/crossover#mac) to download CrossOver. The software isn’t free, but you can click the**Free Trial** button on the Mac category to get started with a 14-day trial.  
+1. Visit [CodeWeavers website](https://www.codeweavers.com/crossover#mac) to download CrossOver. The software isn’t free, but you can click the**Free Trial** button on the Mac category to get started with a 14-day trial.  
 ![CrossOver download link on its website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/crossover-download-link-on-its-website.jpeg)
 2. Enter your name and email, and hit**Return** on your keyboard to begin the download.
-3. Install the application from the crossover.zip file. If you run into any issues, you can read our guide on[how to install Mac software](https://www.makeuseof.com/tag/install-remove-mac-software-5-easy-methods/) for some guidance.
+3. Install the application from the crossover.zip file. If you run into any issues, you can read our guide on [how to install Mac software](https://www.makeuseof.com/tag/install-remove-mac-software-5-easy-methods/) for some guidance.
 4. When you run the app, you’ll see a dialogue box asking you to buy or try CrossOver. Select**Try Now** .  
 ![CrossOver purchase dialogue popup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/crossover-purchase-dialogue-popup.jpeg)
 5. You’ll find yourself in a window with an empty Home page.
@@ -56,7 +56,7 @@ Here’s how to get Steam on CrossOver:
 
 ## Install DirectX and DXVK
 
- DXVK is a Direct3D translation layer for running 3D applications, while[DirectX is a Microsoft API for improving software access to hardware](https://www.makeuseof.com/what-is-directx-why-important-for-gaming/) . You’ll need them both to run your games fluidly.
+ DXVK is a Direct3D translation layer for running 3D applications, while [DirectX is a Microsoft API for improving software access to hardware](https://www.makeuseof.com/what-is-directx-why-important-for-gaming/) . You’ll need them both to run your games fluidly.
 
 Here’s how to install them to your Steam bottle:
 

@@ -1,7 +1,7 @@
 ---
 title: Secretive Steam Game Stashing
-date: 2024-06-22 21:18:52
-updated: 2024-06-24 11:50:25
+date: 2024-06-25T13:23:10.011Z
+updated: 2024-06-26T13:23:10.011Z
 tags:
   - games
 categories:
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/ff0e2bc796f68a77c989442115175dff38598efbd
 
 ## Steam Now Lets You Set Games as Private
 
- Steam announced on the[Steam News Hub](https://store.steampowered.com/news/collection/steam/?emclan=103582791457287600&emgid=4149575031731807335) that the Private Apps feature is now out of beta, meaning that as soon as you log into Steam again, you should have access to it. But what does setting a game as private on Steam do?
+ Steam announced on the [Steam News Hub](https://store.steampowered.com/news/collection/steam/?emclan=103582791457287600&emgid=4149575031731807335) that the Private Apps feature is now out of beta, meaning that as soon as you log into Steam again, you should have access to it. But what does setting a game as private on Steam do?
 
  According to Steam, games marked as private will only be visible to you. In the past, the only way to keep friends from seeing the games you play was to mark your entire library as private (which was overkill if you only wanted to hide a few titles).
 
@@ -68,11 +68,11 @@ thumbnail: https://thmb.techidaily.com/ff0e2bc796f68a77c989442115175dff38598efbd
 
  You can also head to your library to remove a game from your private items. Right-click on the title and then select**Manage > Unmark as Private** .
 
- You should also keep in mind that if you[enabled a custom playing status on Discord](https://www.makeuseof.com/set-custom-playing-status-discord/) , a private Steam game will still show up on Discord while you're playing it.
+ You should also keep in mind that if you [enabled a custom playing status on Discord](https://www.makeuseof.com/set-custom-playing-status-discord/) , a private Steam game will still show up on Discord while you're playing it.
 
 ## Don't Mix Up Private Games and Hidden Games on Steam
 
- When you right-clicked on a title in your library, you might have noticed an existing option to**Hide this game** . This, however, is a separate feature that simply hides a game from your own library menu—it remains visible if friends search through your games list. This means that the feature is essentially an organization feature to[get rid of games on your Steam account](https://www.makeuseof.com/tag/how-to-finally-get-rid-of-games-from-your-steam-account/) rather than a privacy feature.
+ When you right-clicked on a title in your library, you might have noticed an existing option to**Hide this game** . This, however, is a separate feature that simply hides a game from your own library menu—it remains visible if friends search through your games list. This means that the feature is essentially an organization feature to [get rid of games on your Steam account](https://www.makeuseof.com/tag/how-to-finally-get-rid-of-games-from-your-steam-account/) rather than a privacy feature.
 
  If you've been using the wrong feature to try making your games private, you can find all your hidden games in your library. If you remember the name of the specific title, you can search for it and it will show up under a hidden tab.
 
@@ -99,3 +99,26 @@ thumbnail: https://thmb.techidaily.com/ff0e2bc796f68a77c989442115175dff38598efbd
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/mastering-ps5-networking-your-wi-fi-problems-guide/"><u>Mastering PS5 Networking: Your Wi-Fi Problems Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-game-tracker-software-guide/"><u>Prime Game Tracker Software Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-role-of-strikes-in-upholdeating-xbox-fairness/"><u>The Role of Strikes in Upholdeating Xbox Fairness</u></a></li>
+<li><a href="https://games-able.techidaily.com/keeping-system-steam-free-on-restart/"><u>Keeping System Steam-Free on Restart</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-synergy-of-skill-and-equipment-ultimate-gameplay/"><u>The Synergy of Skill and Equipment: Ultimate Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-correct-mc-launcher-failure-error-0x803f8001-in-mcpc/"><u>How to Correct MC Launcher Failure: Error 0X803F8001 in MCPC</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-most-reliable-ios-gaming-tools-ranked-find-out-now/"><u>The Most Reliable iOS Gaming Tools Ranked: Find Out Now!</u></a></li>
+<li><a href="https://games-able.techidaily.com/ios-vs-android-battle-royale-edition-of-tetris/"><u>IOS vs Android: Battle Royale Edition of Tetris</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-end-graphics-on-a-minimalist-budget/"><u>High End Graphics on a Minimalist Budget</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/how-to-boost-your-youtube-revenue-from-mobile-a-comprehensive-guide-for-2024/"><u>How to Boost Your YouTube Revenue From Mobile - A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-quick-windows-gallery-app-for-2024/"><u>Best Quick Windows Gallery App for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/record-yourself-on-webcam-via-vlc-media/"><u>Record Yourself on Webcam via VLC Media</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-ar-a-modern-illusionists-toolkit/"><u>2024 Approved  Unveiling AR  A Modern Illusionist's Toolkit</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/step-by-step-techniques-for-audio-retrieval-in-multimedia-content-windows-mac-iosandroid-for-2024/"><u>Step-by-Step Techniques for Audio Retrieval in Multimedia Content (Windows, Mac, iOS/Android) for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unleash-video-potential-leading-youtube-seo-tools/"><u>In 2024, Unleash Video Potential - Leading YouTube SEO Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-compelling-metaverse-campaigns/"><u>Crafting Compelling Metaverse Campaigns</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/leveraging-slug-lines-for-content-engagement-for-2024/"><u>Leveraging Slug Lines for Content Engagement for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-how-to-record-your-favorite-youtube-show-regardless-of-your-gear/"><u>In 2024, How to Record Your Favorite YouTube Show, Regardless of Your Gear</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unleash-your-gameplays-social-impact-from-xbox-live-to-facebook-for-2024/"><u>[New] Unleash Your Gameplay's Social Impact  From Xbox Live to Facebook for 2024</u></a></li>
+</ul></div>

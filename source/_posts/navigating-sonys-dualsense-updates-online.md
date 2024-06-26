@@ -1,7 +1,7 @@
 ---
 title: Navigating Sony's DualSense Updates Online
-date: 2024-06-25T10:45:01.243Z
-updated: 2024-06-26T10:45:01.243Z
+date: 2024-06-25T12:48:38.485Z
+updated: 2024-06-26T12:48:38.485Z
 tags:
   - games
 categories:
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/48eff568c35933b40401a65faa40dbe7bb6a58eb4
 
 ## 1\. Update Your PS5
 
- To have the ability to wirelessly update your controller, you need to make sure that your PS5 is running the latest firmware update. So, if you haven't done so lately, make sure to[update your PS5](https://www.makeuseof.com/how-to-update-ps5/) . Updates are also important because they can also introduce things like new features, bug fixes, performance improvements, and security upgrades.
+ To have the ability to wirelessly update your controller, you need to make sure that your PS5 is running the latest firmware update. So, if you haven't done so lately, make sure to [update your PS5](https://www.makeuseof.com/how-to-update-ps5/) . Updates are also important because they can also introduce things like new features, bug fixes, performance improvements, and security upgrades.
 
 ## 2\. Go to the Controller Settings Screen
 
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/48eff568c35933b40401a65faa40dbe7bb6a58eb4
 
  To trigger the wireless update, just select**Update** . Since this is not a full system software update, the process will only take a few seconds to complete. If you find that the**Update** option is grayed out, connect your PS5 controller to the console with a USB-C cable and update it the old way. The next time, your controller will be able to update wirelessly.
 
- We recommend you install PS5 controller updates the moment they're available or when you experience issues with your DualSense (it's actually one of the ways to[fix PS5 controller drift](https://www.makeuseof.com/fix-drifting-ps5-dualsense-controller/) ).
+ We recommend you install PS5 controller updates the moment they're available or when you experience issues with your DualSense (it's actually one of the ways to [fix PS5 controller drift](https://www.makeuseof.com/fix-drifting-ps5-dualsense-controller/) ).
 
 ## Updating Your DualSense Controller Has Never Been Easier
 

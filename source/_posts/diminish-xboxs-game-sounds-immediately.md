@@ -1,7 +1,7 @@
 ---
 title: Diminish Xbox's Game Sounds Immediately
-date: 2024-06-25T10:45:41.544Z
-updated: 2024-06-26T10:45:41.544Z
+date: 2024-06-25T12:48:38.930Z
+updated: 2024-06-26T12:48:38.930Z
 tags:
   - games
 categories:
@@ -26,20 +26,20 @@ thumbnail: https://thmb.techidaily.com/4a0e802a162a5a423f94ca329819be0d261aa988b
 
  The ability to silence your Xbox controller becomes particularly valuable during intense gaming sessions, especially when there's a lot of firing or shooting involved. In these action-packed moments, a constantly vibrating controller can be overwhelming. Additionally, turning off vibrations on your controller can conserve its battery life, ensuring extended gaming sessions and reducing the need for frequent battery recharging or replacements.
 
- Remember that silencing your Xbox controller and console is entirely optional and depends on what enhances your gaming experience. If you do not wish to mute the sounds completely, you can also adjust the[sound settings on your Xbox](https://www.makeuseof.com/xbox-series-xs-sound-settings/) to fit your preferences.
+ Remember that silencing your Xbox controller and console is entirely optional and depends on what enhances your gaming experience. If you do not wish to mute the sounds completely, you can also adjust the [sound settings on your Xbox](https://www.makeuseof.com/xbox-series-xs-sound-settings/) to fit your preferences.
 
 ## How to Turn Off Your Xbox Controller's Vibration
 
  Xbox controllers have a built-in vibration feature that provides haptic feedback during gameplay. Here's how to turn off the vibration on your Xbox controller:
 
-1. Open your Xbox console and[ensure your controller is connected and synced to your Xbox](https://www.makeuseof.com/tag/sync-xbox-one-controller/) .
+1. Open your Xbox console and [ensure your controller is connected and synced to your Xbox](https://www.makeuseof.com/tag/sync-xbox-one-controller/) .
 2. Press the**Xbox button** on your controller to open the guide.
 3. Navigate to the**Profile & system** tab and go to**Settings > Accessibility > Controller >** **Vibration settings** .  
 ![Accessibility settings on Xbox One](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/accessibility-setting-xbox.jpeg)  
 ![Controller settings on Xbox One](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/controller-setting-xbox.jpeg)
 4. On the**Xbox Accessories** page, you’ll see your controller. Select**Configure** and choose your profile on the**Profiles** panel. You should see your controller’s profile open up on the right. Select the pencil icon to open controller settings.  
 ![Xbox One Accessories page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-accessories-xbox.jpeg)
-5. On this page, you'll see several options for configuring your Xbox controller, including options for[remapping your Xbox controller buttons](https://www.makeuseof.com/tag/how-to-remap-your-xbox-one-controller-buttons/) . From these options, locate and select the**Turn on vibration** setting and press**A** on your controller to uncheck the box next to it.  
+5. On this page, you'll see several options for configuring your Xbox controller, including options for [remapping your Xbox controller buttons](https://www.makeuseof.com/tag/how-to-remap-your-xbox-one-controller-buttons/) . From these options, locate and select the**Turn on vibration** setting and press**A** on your controller to uncheck the box next to it.  
 ![Xbox configure setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-configure-setting.jpeg)
 
  With this, your Xbox controller's vibration is now disabled. Remember that you can enable it again following the same steps if you wish to revert to the default setting.

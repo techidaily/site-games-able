@@ -1,7 +1,7 @@
 ---
 title: $499 Virtual Driving Dream - Embrace MOZA R5 Bundle
-date: 2024-06-22 10:16:29
-updated: 2024-06-24 12:15:52
+date: 2024-06-25T12:58:58.874Z
+updated: 2024-06-26T12:58:58.874Z
 tags:
   - games
 categories:
@@ -140,9 +140,7 @@ Yes
 
  The pedals are also heavy with a thick powder coating, but the edges are quite sharp, which makes them a little scary to handle. I was also disappointed to find that all the pedal faces are the same shape and size and completely flat with no adjustability. This could pose a problem, which I’ll discuss in the driving experience later.
 
-## MOZA R5 Bundle Hardware Setup Experience
-
-![MOZA R5 on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-on-desk.JPG)
+## MOZA R5 Bundle Hardware Setup Experience ![MOZA R5 on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-on-desk.JPG)
 
  Jhet Borja / MakeUseOf
 
@@ -152,9 +150,7 @@ Yes
 
  I was able to clamp it to my desk and get in position after just about 20 minutes since unboxing—and that’s including adding the clutch pedal and brake mod.
 
-## MOZA Pit House Software
-
-![MOZA Pit House software with configured games list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-pit-house-software-with-configured-games-list.jpg)
+## MOZA Pit House Software ![MOZA Pit House software with configured games list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-pit-house-software-with-configured-games-list.jpg)
 
  I thought I’d have a headache trying to get everything ready on the software side for driving, but the MOZA Pit House software on PC impressed me. It was able to detect the wheel and pedals without any hitches and even had pre-configured settings for all the racing simulators I wanted to drive except for Dirt Rally.
 
@@ -196,9 +192,7 @@ Close
 
  The app could use some language improvements though, as the wording can be quite strange, such as “Enter the car” to change the settings, “SteeringWheel Recenter,” and “Unconnected to the screen".
 
-## Desk Usage
-
-![MOZA R5 beside headphones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-beside-headphones.JPG)
+## Desk Usage ![MOZA R5 beside headphones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-beside-headphones.JPG)
 
  Jhet Borja / MakeUseOf
 
@@ -222,9 +216,7 @@ Close
 
  When I’m done racing, I usually stow it away at the far edge of my desk and unplug the USB and pedal cables. It’s pretty convenient to set up, as I don’t have to move the wheel base far. The wheel can also stay detached, so it’s not in the way all the time. My table is a bit wobbly though, so the monitor gets all shaky, especially when driving Rally cars.
 
-## Quick Release System
-
-![R5 Quick Release](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/r5-quick-release.JPG)
+## Quick Release System ![R5 Quick Release](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/r5-quick-release.JPG)
 
  Jhet Borja / MakeUseOf
 
@@ -238,9 +230,7 @@ Close
 
  Coming from a Logitech G29, the driving experience is wildly different. It’s no longer a clunky mess that feels like it’s about to rattle itself to pieces. It legitimately feels immersive and connected. I’ve separated the driving experience into three sections so I can go into detail for each major component.
 
-### MOZA R5 Wheel Base
-
-![Turning with Formula Wheel mod](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/turning-with-formula-wheel-mod.JPG)
+### MOZA R5 Wheel Base ![Turning with Formula Wheel mod](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/turning-with-formula-wheel-mod.JPG)
 
  Jhet Borja / MakeUseOf
 
@@ -323,3 +313,24 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/connecting-modern-xbox-joysticks-to-windows-systems-140-chars/"><u>Connecting Modern Xbox Joysticks to Windows Systems (140 Chars)</u></a></li>
+<li><a href="https://games-able.techidaily.com/effortlessly-linking-an-external-device-for-enhanced-play/"><u>Effortlessly Linking an External Device for Enhanced Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-xbox-one-controller-pairing-101/"><u>Navigating Xbox One: Controller Pairing 101</u></a></li>
+<li><a href="https://games-able.techidaily.com/melody-match-up-leading-audio-trivia-apps/"><u>Melody Match-Up: Leading Audio Trivia Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-the-value-of-quick-resume-on-xbox-series/"><u>Understanding the Value of Quick Resume on Xbox Series</u></a></li>
+<li><a href="https://games-able.techidaily.com/no-moving-discs-unjam-your-xbox-sx-series-x/"><u>No Moving Discs? Unjam Your Xbox SX Series X</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-gamify-your-evening-routine-try-netflix-games/"><u>Why Gamify Your Evening Routine - Try Netflix Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-fixes-for-robloxs-error-262/"><u>Unveiling Fixes for Roblox's Error 262</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-legal-pathways-for-youtube-to-mp4-file-downloading/"><u>[Updated] Legal Pathways for YouTube to MP4 File Downloading</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-comprehensive-review-slomo-video-app-2024-edition/"><u>[New] Comprehensive Review  SloMo Video App - 2024 Edition</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-for-lenovo-screen-recording-enthusiasts/"><u>[Updated] 2024 Approved  The Ultimate Guide for Lenovo Screen Recording Enthusiasts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-exposure-boost-for-your-social-media-visuals/"><u>In 2024, Exposure Boost for Your Social Media Visuals</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-voice-capture-made-easy-the-ultimate-ipad-guide/"><u>[New] 2024 Approved  Voice Capture Made Easy  The Ultimate iPad Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-personalizing-who-can-see-your-youtube-content/"><u>In 2024, Personalizing Who Can See Your YouTube Content</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-direct-download-of-video-to-mp3-from-vimeo/"><u>[New] Direct Download of Video to MP3 From Vimeo</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-the-complete-process-of-logging-google-voice-calls/"><u>[Updated] In 2024, The Complete Process of Logging Google Voice Calls</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-the-best-iphone-recording-software-a-comprehensive-guide/"><u>Updated The Best iPhone Recording Software - A Comprehensive Guide</u></a></li>
+</ul></div>

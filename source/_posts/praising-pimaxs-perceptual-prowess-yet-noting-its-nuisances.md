@@ -1,7 +1,7 @@
 ---
 title: Praising Pimax's Perceptual Prowess, Yet Noting Its Nuisances
-date: 2024-06-22 17:50:44
-updated: 2024-06-24 12:27:36
+date: 2024-06-25T12:59:30.684Z
+updated: 2024-06-26T12:59:30.684Z
 tags:
   - games
 categories:
@@ -89,9 +89,7 @@ SnapDragon XR2
 
 [See at Pimax](https://pimax.com/crystal/) [See at Amazon](https://www.amazon.com/Pimax-Crystal-headsets-All-One/dp/B0BZSGFLQ7?tag=makeusw-20&ascsubtag=UUmuoUeUpU2031352&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fpimax-crystal-review%2F&asc%5Fcampaign=Affiliate)
 
-## Unpacking: There's a Lot
-
-![pimax crystal - box contents](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-box-contents.jpg)
+## Unpacking: There's a Lot ![pimax crystal - box contents](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-box-contents.jpg)
 
  James Bruce / MakeUseOf
 
@@ -104,13 +102,11 @@ Inside the large and densely packed box you'll find:
 * USB power adaptor, and USB A to A cable to connect the hub to your computer.
 * Two USB-A to C cables for charging the controllers.
 
-## Controllers: Functional but Nasty
-
-![pimax crystal - controller buttons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-controller-buttons.jpg)
+## Controllers: Functional but Nasty ![pimax crystal - controller buttons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-controller-buttons.jpg)
 
  James Bruce / MakeUseOf
 
- The controllers feel a little cheap and are clearly modeled after the[Quest 2](https://www.makeuseof.com/oculus-quest-2-review/) , with large tracking rings that house the infrared LEDs. Meanwhile, the[Quest 3](http://www.makeuseof.com/meta-quest-3-review/) has done away with these rings.
+ The controllers feel a little cheap and are clearly modeled after the [Quest 2](https://www.makeuseof.com/oculus-quest-2-review/) , with large tracking rings that house the infrared LEDs. Meanwhile, the [Quest 3](http://www.makeuseof.com/meta-quest-3-review/) has done away with these rings.
 
 [meta quest 3 - featured](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/meta-quest-3-featured.jpg) ](/meta-quest-3-review/)
 
@@ -122,11 +118,9 @@ Related
 
  The buttons feel a little too janky for my taste, and the joysticks too creaky. There's no resistance in the triggers, and they just don't feel that good to use.
 
- The Pimax Crystal controllers are good enough in that they get the job done and track well, but have no unique features or design. They're a far cry from the[PSVR2](https://www.makeuseof.com/playstation-vr2-review/) controllers with their advanced haptics, adaptive trigger, and general Sony mastery of all things controller-related. The Valve Index set is cheaper and arguably has more advanced controllers, but I’m not a fan of those either—I’m forever accidentally dropping or grabbing items thanks to the pressure-sensitive grab features. At least the Pimax Crystal controllers have a basic physical grip button. If I'm honest, nothing compares to the enormous[HTC Vive](https://www.makeuseof.com/tag/virtual-reality-is-finally-here-htc-vive-review-giveaway/) wands, which always felt like you were holding a gun or sword.
+ The Pimax Crystal controllers are good enough in that they get the job done and track well, but have no unique features or design. They're a far cry from the [PSVR2](https://www.makeuseof.com/playstation-vr2-review/) controllers with their advanced haptics, adaptive trigger, and general Sony mastery of all things controller-related. The Valve Index set is cheaper and arguably has more advanced controllers, but I’m not a fan of those either—I’m forever accidentally dropping or grabbing items thanks to the pressure-sensitive grab features. At least the Pimax Crystal controllers have a basic physical grip button. If I'm honest, nothing compares to the enormous [HTC Vive](https://www.makeuseof.com/tag/virtual-reality-is-finally-here-htc-vive-review-giveaway/) wands, which always felt like you were holding a gun or sword.
 
-## Design: Heavy but Comfortable
-
-![pimax crystal - headset overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-headset-overview.jpg)
+## Design: Heavy but Comfortable ![pimax crystal - headset overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-headset-overview.jpg)
 
  James Bruce / MakeUseOf
 
@@ -154,13 +148,11 @@ Related
 
  I should also caveat by saying that while I found the Pimax Crystal to be comfortable, everyone will be different. It's a very subjective issue, with different head sizes, shapes, and eye positions. My wife could tolerate it for only a short time. A headset that's perfect for everyone doesn't exist, and never will. I would always encourage you to demo a headset before purchasing—which might be difficult with the Pimax Crystal. Still, the combination of a ratcheting strap and balancing weight at the back of the Crystal is far more comfortable, in my opinion, than a regular fabric strap and lighter headset.
 
-## Set Up and Experience Is Less Well Polished
-
-![pimax crystal - motion sim chair side on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-motion-sim-chair-side-on.jpg)
+## Set Up and Experience Is Less Well Polished ![pimax crystal - motion sim chair side on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-motion-sim-chair-side-on.jpg)
 
  James Bruce / MakeUseOf
 
- After installing the required PiPlay software and putting on the headset, you'll be greeted by the same default barren Martian landscape that I remember from[my original Pimax 5K review five years ago](https://www.makeuseof.com/tag/pimax-5k-plus/) , but it's a higher resolution now. That’s even more pixels to view a bleak, unimpressive landscape that you can't interact with in any way or move around.
+ After installing the required PiPlay software and putting on the headset, you'll be greeted by the same default barren Martian landscape that I remember from [my original Pimax 5K review five years ago](https://www.makeuseof.com/tag/pimax-5k-plus/) , but it's a higher resolution now. That’s even more pixels to view a bleak, unimpressive landscape that you can't interact with in any way or move around.
 
  By contrast, the Meta Home environments are fun and varied; on a PC, you can even interact with them and place objects. Steam VR offers something similar. But at the very least, you'd expect a menu system. There isn't one here. You'll need to take the headset off to either launch a game directly or open up Steam VR and then jump in from there.
 
@@ -170,9 +162,7 @@ Related
 
  KayakVR has been my go-to experience for relaxation and really shows off the beauty of the Pimax Crystal's display. The vibrant colors and shimmering water are jaw-dropping, even if I can't whack up the resolution to full.
 
-## The Image Quality Is Superb
-
-![pimax crystal - lenses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-lenses.jpg)
+## The Image Quality Is Superb ![pimax crystal - lenses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-lenses.jpg)
 
  James Bruce / MakeUseOf
 
@@ -192,7 +182,7 @@ Related
 
  Apart from being able to show your eye movements in applications like VRChat, and setting your IPD automatically, this eye tracking can be also be used for Dynamic Foveated Rendering—which means only rendering the details for the bit you’re actually looking at. This is something the PSVR2 has also implemented. Since your peripheral vision is blurred anyway, it doesn’t need the same amount of details as what you’re directly looking at. So you should be able to get some degree of performance boost.
 
- However, the game must also support DFR to get a benefit. I found a[user-submitted list of titles and the claimed boosts](https://docs.google.com/spreadsheets/d/16GNwXAVCjUF9vCW6ubiUPQT00hZ7hRT5K%5FsbO6P9nYc/edit#gid=0) . Note that some games are natively supported, and some you must configure to use a different driver.
+ However, the game must also support DFR to get a benefit. I found a [user-submitted list of titles and the claimed boosts](https://docs.google.com/spreadsheets/d/16GNwXAVCjUF9vCW6ubiUPQT00hZ7hRT5K%5FsbO6P9nYc/edit#gid=0) . Note that some games are natively supported, and some you must configure to use a different driver.
 
  I tried a handful of these, and in practice, it made no difference to my performance. The problem, as I understand it, is that because my system is unable to achieve 90fps, it targets 45fps and opts to interpolate frames in between for the best experience. Even with eye tracking on, the performance boost of perhaps 5-15fps (I'm guessing there, because again, I couldn't actually measure a framerate boost) wasn’t enough to make a difference—so it still targets 45fps. Unfortunately, I found no way of disabling this automatic frame interpolation in SteamVR.
 
@@ -236,7 +226,7 @@ Related
 
  For everyone else, the Quest 3 is a better overall buy if you want some of that sweet standalone action and wireless PCVR. If you refuse to have anything to do with Meta, either the Valve Index or HP Reverb G2 are probably your best bet for tethered VR, but both are outdated at this point. We know a new Valve headset, codenamed Deckard, is in the works, which is rumored to offer some sort of wireless streaming. But it's not officially announced, so it's likely at least six months away from shipping.
 
- That said, I think the Pimax Crystal has a huge amount of potential. The top-end hardware, combined with eye tracking for foveated rendering, is future-proofed for a while. The software bugs can be worked on, and I’m confident improvements will come, along with various upgrades. Pimax has already announced[they’re developing a 60G wireless module](https://pimax.com/60g-airlink-demo-current-status/) , though there’s no firm shipping date at the time of writing. A modular design is to be applauded, but only if those modules come to fruition.
+ That said, I think the Pimax Crystal has a huge amount of potential. The top-end hardware, combined with eye tracking for foveated rendering, is future-proofed for a while. The software bugs can be worked on, and I’m confident improvements will come, along with various upgrades. Pimax has already announced [they’re developing a 60G wireless module](https://pimax.com/60g-airlink-demo-current-status/) , though there’s no firm shipping date at the time of writing. A modular design is to be applauded, but only if those modules come to fruition.
 
  For Pimax, the Crystal represents a pinnacle of achievement.[On their eighth anniversary](https://pimax.com/pimax-8th-anniversary/?utm%5Fsource=10&utm%5Fid=8+years) , they believe they've finally achieved the original aim of making "a VR headset that blurs the line between the real and the virtual". While there are always improvements to be made, and I'd question some of the design choices made for the Crystal, there's no doubt that it fills a high-end niche for PCVR sim enthusiasts.
 
@@ -269,3 +259,24 @@ Related
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/revolutionizing-tech-ai-innovations-at-computex/"><u>Revolutionizing Tech: AI Innovations at Computex</u></a></li>
+<li><a href="https://games-able.techidaily.com/pathways-to-procuring-and-incorporating-jolly-roger-realms/"><u>Pathways to Procuring & Incorporating Jolly Roger Realms</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-check-your-fps-in-games-on-android-2-methods/"><u>How to Check Your FPS in Games on Android: 2 Methods</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719161479393-transform-your-playtime-claim-deals/"><u>Transform Your Playtime, Claim Deals</u></a></li>
+<li><a href="https://games-able.techidaily.com/revel-in-great-sounds-a-look-at-mmx-200/"><u>Revel in Great Sounds: A Look at MMX 200</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719167112863-explore-gaming-with-chatgpt-the-top-6-titles/"><u>Explore Gaming with ChatGPT: The Top 6 Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/forgoing-a-game-a-refund-approach-for-xbox-users/"><u>Forgoing a Game - A Refund Approach for Xbox Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-tech-showdown-xbox-and-pc/"><u>Next-Gen Tech Showdown: Xbox and PC</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-elevating-your-audio-game-a-comprehensive-list-of-the-best-tools-to-modify-and-transform-sound-for-2024/"><u>New Elevating Your Audio Game A Comprehensive List of the Best Tools to Modify and Transform Sound for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-v30-pro-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo V30 Pro Device</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-windows-11-wallpaper-transformation-tactics/"><u>The Window's 11 Wallpaper Transformation Tactics</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-inexpensive-pc-monitoring-software/"><u>[Updated] In 2024, Inexpensive PC Monitoring Software</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/crafting-perfect-squares-imovie-guide-for-instagram-videos-for-2024/"><u>Crafting Perfect Squares  IMovie Guide for Instagram Videos for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-ultimate-rule-book-on-instagram-video-length-for-2024/"><u>[New] The Ultimate Rule Book on Instagram Video Length for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-beam-breakthroughs-lighting-know-how-for-video-success/"><u>[New] Beam Breakthroughs  Lighting Know-How for Video Success</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-dissecting-drama-introducing-chapters-to-video-content/"><u>[New] In 2024, Dissecting Drama  Introducing Chapters to Video Content</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unleash-the-potential-of-your-gopro-streaming-made-easy-on-facebookperiscope/"><u>[New] Unleash the Potential of Your Gopro  Streaming Made Easy on Facebook/Periscope</u></a></li>
+</ul></div>

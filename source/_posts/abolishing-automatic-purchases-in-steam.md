@@ -1,7 +1,7 @@
 ---
 title: Abolishing Automatic Purchases in Steam
-date: 2024-06-23 22:44:52
-updated: 2024-06-24 10:55:17
+date: 2024-06-25T13:21:43.065Z
+updated: 2024-06-26T13:21:43.065Z
 tags:
   - games
 categories:
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/bb9708a331c4c3dd31e799c079bb73652a9e75d1a
 
  Steam subscriptions are monthly fees you pay when you sign up for an online service, such as a subscription for one of the many MMO games ([what are MMO games?](https://www.makeuseof.com/what-are-mmo-games/) ) available these days, or a game library like EA Play. These subscription fees will continue every payment period until you tell Steam to cancel them.
 
- It's important to note that[uninstalling a game or service on Steam](https://www.makeuseof.com/how-to-uninstall-steam-games-reinstall/) does not cancel any active subscriptions with it. You need to explicitly tell Steam to cancel the recurring payments if you're not using the service anymore.
+ It's important to note that [uninstalling a game or service on Steam](https://www.makeuseof.com/how-to-uninstall-steam-games-reinstall/) does not cancel any active subscriptions with it. You need to explicitly tell Steam to cancel the recurring payments if you're not using the service anymore.
 
  To get started canceling a subscription on Steam, use the Steam desktop app and click on your display name at the top-right of the window. Then, select**Account details: \[Username\]** .
 
@@ -59,7 +59,7 @@ This will cancel your subscription to the service or game on Steam.
 
 ## Can You Get a Refund for a Steam Subscription?
 
- It is possible to[refund a game on Steam](https://www.makeuseof.com/how-to-refund-a-game-on-steam/) if it's not to your liking, but did you know that you can do it for subscriptions too? The rules are a lot stricter, but it is possible if you accidentally subscribe to a service you don't want.
+ It is possible to [refund a game on Steam](https://www.makeuseof.com/how-to-refund-a-game-on-steam/) if it's not to your liking, but did you know that you can do it for subscriptions too? The rules are a lot stricter, but it is possible if you accidentally subscribe to a service you don't want.
 
  To refund a subscription, you need to apply for one within 48 hours of buying the subscription. You'll only be eligible for a refund if you didn't boot up the game or service during those 48 hours. Even if you open it once, Valve will consider that as having used the subscription. and therefore won't refund you.
 
@@ -84,3 +84,22 @@ This will cancel your subscription to the service or game on Steam.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/why-waiting-outperforms-immediate-releases/"><u>Why Waiting Outperforms Immediate Releases</u></a></li>
+<li><a href="https://games-able.techidaily.com/productivity-machines-vs-gaming-computing-units/"><u>Productivity Machines Vs. Gaming Computing Units</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaining-starfield-previews-a-step-by-step-guide/"><u>Gaining Starfield Previews: A Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-inter-server-maze-from-bedrock-to-java-with-geysermc/"><u>Navigating the Inter-Server Maze From Bedrock to Java with GeyserMC</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-rectify-silence-or-distortion-in-xbox-audio/"><u>How to Rectify Silence or Distortion in Xbox Audio</u></a></li>
+<li><a href="https://games-able.techidaily.com/selecting-an-elgato-stream-deck-for-creative-professionals/"><u>Selecting an Elgato Stream Deck for Creative Professionals</u></a></li>
+<li><a href="https://games-able.techidaily.com/curated-collection-of-best-console-emulators-for-mac/"><u>Curated Collection of Best Console Emulators for Mac</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-50plus-tiktok-quotes-to-inspire-you-and-make-videos-go-viral-for-2024/"><u>[Updated] 50+ TikTok Quotes to Inspire You and Make Videos Go Viral for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-comprehensive-scrutiny-of-elite-parrot-ar-20/"><u>[New] Comprehensive Scrutiny of Elite Parrot AR 2.0</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-boosting-your-content-quality-essential-tips-for-youtube-users/"><u>[Updated] 2024 Approved  Boosting Your Content Quality  Essential Tips for YouTube Users</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-complete-guide-to-understanding-obs-screen-capture/"><u>[New] In 2024, Complete Guide to Understanding OBS Screen Capture</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-6-plus-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 6 Plus in Lost Mode</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/formula-field-report-game-reviews-for-2024/"><u>FORMULA FIELD REPORT  Game Reviews for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-audience-wow-factor-how-to-create-spectacular-live-streams/"><u>2024 Approved  Audience Wow Factor  How to Create Spectacular Live Streams</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-pros-playbook-for-top-10-music-videos-that-define-genres/"><u>In 2024, The Pros' Playbook for Top 10 Music Videos That Define Genres</u></a></li>
+</ul></div>

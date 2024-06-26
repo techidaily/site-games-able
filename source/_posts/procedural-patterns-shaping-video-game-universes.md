@@ -1,7 +1,7 @@
 ---
 title: "Procedural Patterns: Shaping Video Game Universes"
-date: 2024-06-25T10:48:39.554Z
-updated: 2024-06-26T10:48:39.554Z
+date: 2024-06-25T12:48:40.737Z
+updated: 2024-06-26T12:48:40.737Z
 tags:
   - games
 categories:
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/769d83492280fd0660acd0112190d1d990d0e4305
 
 ## How Does Procedural Generation Work?
 
- Procedural generation starts with the algorithm and the seed. This is the basis of what you're trying to make, and the game will use this as the template for its creation. As the[X-Team blog](https://x-team.com/blog/procedural-generation-evolutionary-algorithms-and-possible-worlds/) puts it, the seed is "the DNA for a specific copy of whatever you're trying to procedurally produce."
+ Procedural generation starts with the algorithm and the seed. This is the basis of what you're trying to make, and the game will use this as the template for its creation. As the [X-Team blog](https://x-team.com/blog/procedural-generation-evolutionary-algorithms-and-possible-worlds/) puts it, the seed is "the DNA for a specific copy of whatever you're trying to procedurally produce."
 
  For example, you can use the human body as the seed of your procedural generation. You can then introduce variables to your algorithm, so the final product will always look like a person but have unique features with each run.
 
@@ -44,33 +44,27 @@ thumbnail: https://thmb.techidaily.com/769d83492280fd0660acd0112190d1d990d0e4305
 
  So, here are a few modern titles which use this method when creating a game session.
 
-### No Man's Sky
-
-![No Mans Sky trailer screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/no-mans-sky-trailer-screenshot.jpg)
+### No Man's Sky ![No Mans Sky trailer screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/no-mans-sky-trailer-screenshot.jpg)
 
  Image Credit: PlayStation/[YouTube](https://www.youtube.com/watch?v=nLtmEjqzg7M&t=1s&ab%5Fchannel=PlayStation)
 
- This title is one of[the best space exploration games](https://www.makeuseof.com/best-space-based-exploration-crafting-games/) today owing to its use of procedural generation. Its developers used this technique to create over 18,000,000,000,000,000,000 (yes, that’s 18 zeroes) planets you can explore in the game world.
+ This title is one of [the best space exploration games](https://www.makeuseof.com/best-space-based-exploration-crafting-games/) today owing to its use of procedural generation. Its developers used this technique to create over 18,000,000,000,000,000,000 (yes, that’s 18 zeroes) planets you can explore in the game world.
 
  Because of this technique, each planet has its own unique ecosystem—including plants, animals, climates, and even alien species you may engage in trade or combat. Despite this massive game world, the game is only 15GB.
 
-### Civilization VI
-
-![Civilization VI trailer screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/civilization-vi-trailer-screenshot.jpg)
+### Civilization VI ![Civilization VI trailer screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/civilization-vi-trailer-screenshot.jpg)
 
  Image Credit: Sid Meier's Civilization/[YouTube](https://www.youtube.com/watch?v=5KdE0p2joJw&ab%5Fchannel=SidMeier%27sCivilization)
 
  While the Civilization franchise have a few maps based on regions of the world and one map of the entire world, the main game mode uses procedural generation to create unique maps. So, whenever you start a random game, you’re guaranteed a unique world.
 
- This feature makes Civilization highly replayable. Even if you’re playing the games for several years, each session will be a challenge. That’s why Civilization VI, the latest release of the franchise, is one of[the best offline games you can play on the iPad](https://www.makeuseof.com/tag/best-offline-games-iphone-ipad/) .
+ This feature makes Civilization highly replayable. Even if you’re playing the games for several years, each session will be a challenge. That’s why Civilization VI, the latest release of the franchise, is one of [the best offline games you can play on the iPad](https://www.makeuseof.com/tag/best-offline-games-iphone-ipad/) .
 
-### Rust
-
-![Rust trailer screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/rust-trailer-screenshot.jpg)
+### Rust ![Rust trailer screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/rust-trailer-screenshot.jpg)
 
  Image Credit: Facepunch/[YouTube](https://www.youtube.com/watch?v=LGcECozNXEw&t=17s&ab%5Fchannel=Facepunch)
 
- Rust is one of[the best exploration and crafting games](https://www.makeuseof.com/best-exploration-and-crafting-games/) because of its massive and unique maps. These procedurally generated maps ensure that each map is unique, with natural and man-made features randomly placed in every iteration.
+ Rust is one of [the best exploration and crafting games](https://www.makeuseof.com/best-exploration-and-crafting-games/) because of its massive and unique maps. These procedurally generated maps ensure that each map is unique, with natural and man-made features randomly placed in every iteration.
 
 ## Play in Unique Game Worlds Created With Procedural Generation
 

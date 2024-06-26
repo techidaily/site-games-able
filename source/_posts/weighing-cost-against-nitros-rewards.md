@@ -1,7 +1,7 @@
 ---
 title: Weighing Cost Against Nitro's Rewards
-date: 2024-06-25T10:42:46.917Z
-updated: 2024-06-26T10:42:46.917Z
+date: 2024-06-25T12:48:37.093Z
+updated: 2024-06-26T12:48:37.093Z
 tags:
   - games
 categories:
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/0b50962ffa3e17ae709bef162c3f8ff4d960cae11
 
  Free Discord is actually pretty great if you’re not a heavy user. There might be a limit on how many servers you can join, where you can use animated emojis, an 8MB file-upload limit, and a maximum of 2,000 characters per message. Still, these issues are minor if you only need Discord to communicate with your fellow gamer friends and not much else.
 
- Additionally, if you are on a boosted server, you get to enjoy all the[perks that come with boosting a Discord server](https://www.makeuseof.com/how-to-boost-discord-server/) . Some of these perks include 1080p/60FPS video quality and larger upload limits. You don’t need a Discord Nitro subscription to enjoy the perks of a boosted server.
+ Additionally, if you are on a boosted server, you get to enjoy all the [perks that come with boosting a Discord server](https://www.makeuseof.com/how-to-boost-discord-server/) . Some of these perks include 1080p/60FPS video quality and larger upload limits. You don’t need a Discord Nitro subscription to enjoy the perks of a boosted server.
 
 ## Nitro Basic vs. Nitro: What’s the Difference?
 
@@ -68,7 +68,7 @@ Here are what Nitro tiers offer:
 
  The main commodities Discord sells with its payment plans are customization and personalization. Even with a Basic plan, you can use custom emojis, stickers, sounds (for Nitro users), Super Reactions, and video backgrounds and wear a Nitro badge on your profile. It seems to prioritize making you stand out in any community you join.
 
- Meanwhile, users with Nitro can create really cool themes and[customize their Discord profiles with colors, banners](https://www.makeuseof.com/how-to-customize-discord-profile-color-banner/) , and animated images. These help you stand out and give your online visage more personality. And you can even create custom server profiles and wear different profiles depending on what server you’re in. Nitro also lets you change your general Discord color to a custom color instead of the default light or dark mode.
+ Meanwhile, users with Nitro can create really cool themes and [customize their Discord profiles with colors, banners](https://www.makeuseof.com/how-to-customize-discord-profile-color-banner/) , and animated images. These help you stand out and give your online visage more personality. And you can even create custom server profiles and wear different profiles depending on what server you’re in. Nitro also lets you change your general Discord color to a custom color instead of the default light or dark mode.
 
  Let’s also not forget the server boosts that come with getting Nitro. They can make your server stand out with a custom profile, more emoji slots, a server banner, and an animated server icon.
 

@@ -1,7 +1,7 @@
 ---
 title: "The Art of Gaming Controls: Buttons and Controllers on Mobile"
-date: 2024-06-21 14:51:31
-updated: 2024-06-24 12:45:49
+date: 2024-06-25T13:34:06.552Z
+updated: 2024-06-26T13:34:06.552Z
 tags:
   - games
 categories:
@@ -34,9 +34,7 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 
  For example, moving the analog stick can simulate dragging your thumb around the left side of the screen. Pressing the**A** button can imitate tapping on the right side of the screen. The task is easiest for games with a virtual game controller spread across the screen, since you can assign a physical button to the location of their virtual counterparts.
 
-## How to Get Started With Button Mapping on Android
-
-![Mantis prompting you to enable USB debugging.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-button-mapping-usb-debugging.png)
+## How to Get Started With Button Mapping on Android ![Mantis prompting you to enable USB debugging.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-button-mapping-usb-debugging.png)
 
 ![Enabling USB debugging on Android.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/android-developer-settings-usb-debugging.png)
 
@@ -55,14 +53,14 @@ Close
 1. **Enable floating widgets:** This allows the Mantis widget to float along the edge of your screen while you play a game.
 2. **Enable USB debugging:** This gives the app access to necessary parts of your phone in order to function.
 3. **Allow overlays over settings:** This allows Mantis to float instructions above other apps so that it can guide you through the settings you need to enable.
-4. **Enable wireless debugging:** Like[USB debugging on Android](https://www.makeuseof.com/tag/what-is-usb-debugging-mode-on-android-makeuseof-explains/) , wireless debugging provides access to necessary parts of your phone.
+4. **Enable wireless debugging:** Like [USB debugging on Android](https://www.makeuseof.com/tag/what-is-usb-debugging-mode-on-android-makeuseof-explains/) , wireless debugging provides access to necessary parts of your phone.
 5. **Pair via wireless debugging:** Establishes a connection between Mantis Gamepad Pro and your phone.
 
  According to the developer, this approach lets you enable and use physical controls without getting banned from playing certain games online.
 
- As part of the setup process, you also need to connect a controller to your phone. Whether you[use a Bluetooth controller with your Android device](https://www.makeuseof.com/tag/how-to-connect-a-game-controller-to-android-for-console-like-gameplay-si/) or a clamshell-style gamepad like[the Raser Kishi V2 we reviewed](http://makeuseof.com/razer-kishi-v2-review/) , Mantis should detect your gamepad automatically.
+ As part of the setup process, you also need to connect a controller to your phone. Whether you [use a Bluetooth controller with your Android device](https://www.makeuseof.com/tag/how-to-connect-a-game-controller-to-android-for-console-like-gameplay-si/) or a clamshell-style gamepad like [the Raser Kishi V2 we reviewed](http://makeuseof.com/razer-kishi-v2-review/) , Mantis should detect your gamepad automatically.
 
- Mantis Gamepad Pro isn't your only choice if you want to get started with button mapping on your Android device. You should also consider alternatives like[Octopus](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2031380/https://play.google.com/store/apps/details?id=com.chaozhuo.gameassistant&hl=en&gl=US) and[Panda Gamepad Pro](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2031380/https://play.google.com/store/apps/details?id=com.panda.gamepad&hl=en&gl=US) , which perform the same core function in different ways.
+ Mantis Gamepad Pro isn't your only choice if you want to get started with button mapping on your Android device. You should also consider alternatives like [Octopus](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2031380/https://play.google.com/store/apps/details?id=com.chaozhuo.gameassistant&hl=en&gl=US) and [Panda Gamepad Pro](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2031380/https://play.google.com/store/apps/details?id=com.panda.gamepad&hl=en&gl=US) , which perform the same core function in different ways.
 
 ## How to Assign Buttons to an Android Game
 
@@ -107,3 +105,26 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/twitch-decoded-a-comprehensive-overview-of-live-broadcasts/"><u>Twitch Decoded: A Comprehensive Overview of Live Broadcasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-list-of-2024s-top-nintendo-switch-docks/"><u>The Ultimate List of 2024'S Top Nintendo Switch Docks</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-shiny-journey-to-immaculate-playstation/"><u>A Shiny Journey to Immaculate PlayStation</u></a></li>
+<li><a href="https://games-able.techidaily.com/rapid-recreation-for-everyone-select-the-best-20-fast-playing-apps/"><u>Rapid Recreation for Everyone: Select the Best 20 Fast-Playing Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/android-application-transition-to-linux-devices/"><u>Android Application Transition to Linux Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-exclusive-guide-to-top-8-gaming-websites/"><u>Your Exclusive Guide to Top 8 Gaming Websites</u></a></li>
+<li><a href="https://games-able.techidaily.com/zero-lag-peak-gameplay-the-new-era-with-razers-basilisk-v3/"><u>Zero Lag, Peak Gameplay: The New Era with Razer's Basilisk V3</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-reactivate-steams-inaccessible-network-servers/"><u>How To Reactivate Steam's Inaccessible Network Servers</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5s-compatibility-with-legacy-playstation-systems/"><u>PS5's Compatibility with Legacy PlayStation Systems?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-unlock-mac-with-apple-watch-sierra/"><u>[Updated] How to Unlock Mac with Apple Watch [Sierra]</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-skyrocket-to-fame-with-these-30-innovative-tiktok-nicknames/"><u>[Updated] In 2024, Skyrocket to Fame with These 30 Innovative TikTok Nicknames</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-boost-your-discord-experience-mastering-emoji-enriched-statuses-for-2024/"><u>[New] Boost Your Discord Experience  Mastering Emoji-Enriched Statuses for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/additional-tips-about-sinnoh-stone-for-realme-11-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-art-of-instagram-covers-your-stepwise-journey-begins-here-for-2024/"><u>The Art of Instagram Covers  Your Stepwise Journey Begins Here for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-instas-tunes-ownership-and-legalities/"><u>[Updated] 2024 Approved  Insta's Tunes  Ownership & Legalities</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-steps-to-remove-unseen-portions-in-streamed-youtube-videos/"><u>In 2024, Steps to Remove Unseen Portions in Streamed YouTube Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/aural-alchemy-transforming-sound-tracks-in-logic-pro-x/"><u>Aural Alchemy  Transforming Sound Tracks In Logic Pro X</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unlock-the-full-potential-of-your-videos-on-instagram-platform/"><u>[Updated] Unlock the Full Potential of Your Videos on Instagram Platform</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-leading-plot-crafting-hub/"><u>[New] Leading Plot Crafting Hub</u></a></li>
+</ul></div>

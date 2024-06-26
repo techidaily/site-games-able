@@ -1,7 +1,7 @@
 ---
 title: Prioritize These Specs in Your Next Game Display Purchase
-date: 2024-06-20 23:49:25
-updated: 2024-06-23 12:15:38
+date: 2024-06-25T13:01:19.766Z
+updated: 2024-06-26T13:01:19.766Z
 tags:
   - games
 categories:
@@ -40,17 +40,15 @@ thumbnail: https://thmb.techidaily.com/030f43c520c13566e766031892a27e4f35e056dc7
 
  As someone who doesn’t need to out-compete other players in speed and reaction time, I can save my money by compromising on refresh rate.
 
- If you’re confused with these terms, we have a dedicated guide on[the difference between refresh rate and frame rate](https://www.makeuseof.com/frame-rate-vs-refresh-rate-difference/) .
+ If you’re confused with these terms, we have a dedicated guide on [the difference between refresh rate and frame rate](https://www.makeuseof.com/frame-rate-vs-refresh-rate-difference/) .
 
  When it comes to refresh rates, any decent monitor (or TV) these days starts at 60Hz. This term, Hertz, is how we measure refresh rates. To put it simply, 60Hz means that a maximum of 60 images will appear on the screen every second. This standard refresh rate ensures a smooth and enjoyable gaming experience, making it a reliable starting point for any gamer. But since my TV (and most likely yours) is already at 60Hz, it’s better to get something a little over 60Hz.
 
  Therefore, my monitor must start at 75Hz, which is marginally better than 60Hz, but it’s just enough to play Fortnite and Need for Speed competently. If you’re more into fast-paced games, you’ll need a monitor at 144Hz or higher, which is the standard refresh rate for competitive gamers.
 
- I also always opt for monitors with some kind of[variable refresh rate (VRR) technology](https://www.makeuseof.com/variable-refresh-rate-video-games/) . Check for a FreeSync, G-Sync, or similar banner on your monitor. Getting a VRR monitor will help reduce the chance of your display stuttering or lagging.
+ I also always opt for monitors with some kind of [variable refresh rate (VRR) technology](https://www.makeuseof.com/variable-refresh-rate-video-games/) . Check for a FreeSync, G-Sync, or similar banner on your monitor. Getting a VRR monitor will help reduce the chance of your display stuttering or lagging.
 
-## 2 Resolution
-
-![Monitor displaying Cities Skylines video game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/monitor-displaying-cities-skylines-video-game.jpg)
+## 2 Resolution ![Monitor displaying Cities Skylines video game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/monitor-displaying-cities-skylines-video-game.jpg)
 
  Dreamchild Obari/MakeUseOf
 
@@ -86,13 +84,11 @@ thumbnail: https://thmb.techidaily.com/030f43c520c13566e766031892a27e4f35e056dc7
 
  Apart from getting a monitor with enough HDMI options, I always remember to check if the monitor I’m buying supports Thunderbolt ports and DisplayPorts. The Thunderbolt port ensures that I can use it to daisy-chain displays for my Mac, and DisplayPort supports higher refresh rates.
 
- I don’t necessarily use these ports all the time, but the option is comforting. If I find a good monitor without them, it’s still a good buy. High-end gamers need DisplayPorts, though, and you can see more arguments for DisplayPort in our guide on[DisplayPort 2.1 vs HDMI 2.1](https://www.makeuseof.com/hdmi-21-vs-displayport-21-whats-the-difference/) .
+ I don’t necessarily use these ports all the time, but the option is comforting. If I find a good monitor without them, it’s still a good buy. High-end gamers need DisplayPorts, though, and you can see more arguments for DisplayPort in our guide on [DisplayPort 2.1 vs HDMI 2.1](https://www.makeuseof.com/hdmi-21-vs-displayport-21-whats-the-difference/) .
 
  If you’re curious where USB ports and a 3.5mm headphone jack fit into all of this, well, I’ve never seen a gaming monitor without those ports, so I wouldn’t be too worried. Additionally, I’ve never had any need for USB and headphones on a gaming monitor; my PC can replace whatever function those ports provide.
 
-## 5 Brightness, Contrast, and HDR Capability
-
-![Monitor displaying HDR option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/monitor-displaying-hdr-option.jpg)
+## 5 Brightness, Contrast, and HDR Capability ![Monitor displaying HDR option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/monitor-displaying-hdr-option.jpg)
 
 Dreamchild Obari
 
@@ -100,9 +96,9 @@ Dreamchild Obari
 
  We measure display brightness in nits, and around 200 to 250 nits is where most generic monitors and TVs stand. I try to do better than that when choosing a monitor, and I select a monitor with at least 400 nits.
 
- As a bonus, most gaming monitors with high brightness also come with[HDR (high dynamic range) capability](https://www.makeuseof.com/what-is-hdr/) . HDR enhances the display’s ability to show a wider and richer range of illumination resulting in brighter whites and deeper blacks.
+ As a bonus, most gaming monitors with high brightness also come with [HDR (high dynamic range) capability](https://www.makeuseof.com/what-is-hdr/) . HDR enhances the display’s ability to show a wider and richer range of illumination resulting in brighter whites and deeper blacks.
 
- This means that most HDR monitors will have a good color gamut and a standard constant contrast ratio of 1000:1 (the lowest I can go). Additionally, current-gen consoles are designed to work with HDR. With an HDR-enabled monitor, you can[enable auto HDR on an Xbox X|S](https://www.makeuseof.com/how-to-enable-or-disable-auto-hdr-on-xbox-series-xs/) and[adjust HDR settings on a PS5](https://www.makeuseof.com/how-to-adjust-ps5-hdr-settings/) .
+ This means that most HDR monitors will have a good color gamut and a standard constant contrast ratio of 1000:1 (the lowest I can go). Additionally, current-gen consoles are designed to work with HDR. With an HDR-enabled monitor, you can [enable auto HDR on an Xbox X|S](https://www.makeuseof.com/how-to-enable-or-disable-auto-hdr-on-xbox-series-xs/) and [adjust HDR settings on a PS5](https://www.makeuseof.com/how-to-adjust-ps5-hdr-settings/) .
 
 ## 6 Panel and Display Type
 
@@ -143,3 +139,24 @@ Dreamchild Obari
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/mastering-button-controls-android-games-via-controller-mapping/"><u>Mastering Button Controls: Android Games via Controller Mapping</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-logitech-mouse-for-gamers/"><u>Ultimate Logitech Mouse for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/opera-users-guide-to-unlimited-discord-time/"><u>Opera Users' Guide to Unlimited Discord Time</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-dungeon-crafting-six-chatgpt-approaches-to-perfect-game-guidance/"><u>Enhancing Dungeon Crafting: Six ChatGPT Approaches to Perfect Game Guidance</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-apple-m1-and-windows-games-with-crossover-software/"><u>Mastering Apple M1 and Windows Games with Crossover Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-gaming-gpu-showdown-amds-radeon-xt-series-explained/"><u>The Ultimate Gaming GPU Showdown: AMD's Radeon XT Series Explained</u></a></li>
+<li><a href="https://games-able.techidaily.com/first-impressions-of-keychron-lemokey-l3-analysis/"><u>First Impressions of Keychron: Lemokey L3 Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/dashboard-deluge-oc-induced-chaos/"><u>Dashboard Deluge: OC-Induced Chaos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-contrast-in-colors-crafting-cinematic-moods-for-2024/"><u>[Updated] Contrast in Colors  Crafting Cinematic Moods for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-ultimate-list-of-ios-solutions-to-play-your-favorite-psp-games/"><u>[New] In 2024, The Ultimate List of iOS Solutions to Play Your Favorite PSP Games</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-step-by-step-guide-to-extracting-and-editing-audio-in-adobe-premiere-pro/"><u>2024 Approved Step-by-Step Guide to Extracting and Editing Audio in Adobe Premiere Pro</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/get-more-out-of-youtube-with-8-handpicked-download-apps/"><u>Get More Out of YouTube with 8 Handpicked Download Apps</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-harmonizing-acoustics-and-imagery-find-out-the-top-5-integrated-soundvisual-devices/"><u>New In 2024, Harmonizing Acoustics and Imagery Find Out the Top 5 Integrated Sound/Visual Devices</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-discover-engaging-youtube-threads/"><u>2024 Approved  Discover Engaging YouTube Threads</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-esl-english-as-second-language-for-vr/"><u>[Updated] The ESL (English as Second Language) for VR</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pioneering-free-convertors-top-5-online-apps-for-gifs-to-videos/"><u>[New] Pioneering Free Convertors  Top 5 Online Apps for GIFs to Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhance-your-virtual-stage-the-ultimate-list-of-top-6-microphones/"><u>Enhance Your Virtual Stage  The Ultimate List of Top 6 Microphones</u></a></li>
+</ul></div>

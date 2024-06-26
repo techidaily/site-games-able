@@ -1,7 +1,7 @@
 ---
 title: Forgoing a Game - A Refund Approach for Xbox Users
-date: 2024-06-21 20:18:50
-updated: 2024-06-24 11:16:52
+date: 2024-06-25T13:01:06.727Z
+updated: 2024-06-26T13:01:06.727Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/095ce3d3eacef166f46f59459d5ef71a92a706285
 
 ## Do I Qualify for a Refund on the Xbox Series X|S?
 
- If you're a fan of gaming, you will be well versed in how expensive it is and are likely always looking for[ways to save money with your Xbox Series X|S](https://www.makeuseof.com/xbox-series-xs-ways-to-save-money/) . And refunding purchases that you aren't satisfied with is certainly one of them.
+ If you're a fan of gaming, you will be well versed in how expensive it is and are likely always looking for [ways to save money with your Xbox Series X|S](https://www.makeuseof.com/xbox-series-xs-ways-to-save-money/) . And refunding purchases that you aren't satisfied with is certainly one of them.
 
 ![an Xbox game controller on a gradient background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/video-game-designer-feature.jpg)
 
@@ -30,13 +30,13 @@ thumbnail: https://thmb.techidaily.com/095ce3d3eacef166f46f59459d5ef71a92a706285
 
  2\. You can’t have played the game in question for a significant amount of time.
 
- The definition of what exactly a ‘significant amount of time’ is isn’t explained on[Microsoft’s website](https://support.xbox.com/en-us/help/subscriptions-billing/buy-games-apps/refund-orders) , but it likely depends on the game. For example, if you’re returning a five-hour-long game and you’ve played it for two hours, that’s almost 50% of the game that you’ve experienced. But if the game in question is 50 hours long and you’ve played it for two hours, you’ve only experienced a fraction of it.
+ The definition of what exactly a ‘significant amount of time’ is isn’t explained on [Microsoft’s website](https://support.xbox.com/en-us/help/subscriptions-billing/buy-games-apps/refund-orders) , but it likely depends on the game. For example, if you’re returning a five-hour-long game and you’ve played it for two hours, that’s almost 50% of the game that you’ve experienced. But if the game in question is 50 hours long and you’ve played it for two hours, you’ve only experienced a fraction of it.
 
 ## How to Request a Refund for a Digital Game on the Xbox Series X|S
 
- Requesting a refund for a digital game on your Xbox Series X|S is thankfully very simple and is very similar to[refunding purchases on the PS4 or the PS5](https://www.makeuseof.com/how-to-refund-game-ps4-ps5/) . You can't do so from the comfort of your console, however. You will have to head to[Microsoft’s website](https://support.xbox.com/en-us/help/subscriptions-billing/buy-games-apps/refund-orders) to get started
+ Requesting a refund for a digital game on your Xbox Series X|S is thankfully very simple and is very similar to [refunding purchases on the PS4 or the PS5](https://www.makeuseof.com/how-to-refund-game-ps4-ps5/) . You can't do so from the comfort of your console, however. You will have to head to [Microsoft’s website](https://support.xbox.com/en-us/help/subscriptions-billing/buy-games-apps/refund-orders) to get started
 
-1. Head to[support.xbox.com](https://support.xbox.com/en-us/help/subscriptions-billing/buy-games-apps/refund-orders) or just click the link to be taken straight there.
+1. Head to [support.xbox.com](https://support.xbox.com/en-us/help/subscriptions-billing/buy-games-apps/refund-orders) or just click the link to be taken straight there.
 2. You will then need to log into the Microsoft account that you used to purchase the game in question. You can log in by pressing**Sign in** at the bottom of the page or in the top right corner.
 3. Once you’ve logged in, scroll down to the**Request availability** section. If there is a valid game there, click the box beside the title and press**Request a refund** to bring up the request form.  
 ![Request a Refund Microsoft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/request-a-refund-microsoft.jpg)
@@ -97,3 +97,24 @@ thumbnail: https://thmb.techidaily.com/095ce3d3eacef166f46f59459d5ef71a92a706285
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/no-internet-required-here-are-your-best-game-choices-on-ios/"><u>No Internet Required? Here Are Your Best Game Choices on iOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/examining-the-value-of-microtransactions-in-elite-gaming/"><u>Examining the Value of Microtransactions in Elite Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/ea-plays-rise-in-prices-means-ending-subscription/"><u>EA Play's Rise in Prices Means Ending Subscription</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-game-design-with-helldivers-2/"><u>Mastering the Art of Game Design with Helldivers 2</u></a></li>
+<li><a href="https://games-able.techidaily.com/batocera-vs-retropie-the-best-rpi-game-platform-debated/"><u>Batocera Vs. RetroPie: The Best RPi Game Platform Debated</u></a></li>
+<li><a href="https://games-able.techidaily.com/anonymity-in-multiplayer-xbox-chats/"><u>Anonymity in Multiplayer Xbox Chats</u></a></li>
+<li><a href="https://games-able.techidaily.com/fresh-start-with-new-installations-on-ps5/"><u>Fresh Start with New Installations on PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/dashboard-deluge-oc-induced-chaos/"><u>Dashboard Deluge: OC-Induced Chaos</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-realme-12-5g-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Realme 12 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-top-video-conference-solutions-security-first-for-businesses/"><u>[New] Top Video Conference Solutions  Security First for Businesses</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-iphone-close-up-tips-for-astounding-photos/"><u>In 2024, Innovative iPhone Close-Up Tips for Astounding Photos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-creating-a-calm-sequence-the-art-of-reducing-sound-in-pp/"><u>In 2024, Creating a Calm Sequence  The Art of Reducing Sound in PP</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-realme-c53-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Realme C53 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-creating-captivating-life-enriching-video-content/"><u>2024 Approved  Creating Captivating Life-Enriching Video Content</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-oppo-reno-10-pro-5g-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Oppo Reno 10 Pro 5G has been deleted.</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/top-5-ways-to-convert-hdr-to-sdr-videos/"><u>Top 5 Ways To Convert Hdr To Sdr Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-iphone-photography-hacks-upside-down-and-sideways-shots/"><u>[New] IPhone Photography Hacks  Upside-Down & Sideways Shots</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "The Offscreen Enigma: Solving Xbox's Social Puzzle"
-date: 2024-06-23 12:52:31
-updated: 2024-06-24 12:38:59
+date: 2024-06-25T13:36:00.950Z
+updated: 2024-06-26T13:36:00.950Z
 tags:
   - games
 categories:
@@ -69,13 +69,13 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
 
  From here, you should be able to see your friend's most recently unlocked Achievement and how long ago it was unlocked. You know your friend is appearing offline if they are offline but have unlocked Achievements recently.
 
- Alternatively, you can[compare gaming statistics with a friend on your Xbox Series X|S](https://www.makeuseof.com/xbox-how-to-compare-gaming-stats-with-friends/) to provide direct Achievement comparisons with the games you have been playing.
+ Alternatively, you can [compare gaming statistics with a friend on your Xbox Series X|S](https://www.makeuseof.com/xbox-how-to-compare-gaming-stats-with-friends/) to provide direct Achievement comparisons with the games you have been playing.
 
 ## 4\. Use the Time Played Feature for Specific Xbox Games
 
  A final way you can tell if one of your Xbox friends is appearing offline is by checking a friend's**Time played** statistic in a specific Xbox game.
 
- Because Xbox allows you to[check the time played for any Xbox Series X|S game](https://www.makeuseof.com/how-to-check-time-played-on-xbox-series-xs/) , if you have a game you know the offline person has been playing, you can tell in real-time if they are playing a game despite being offline. To do this, follow these steps:
+ Because Xbox allows you to [check the time played for any Xbox Series X|S game](https://www.makeuseof.com/how-to-check-time-played-on-xbox-series-xs/) , if you have a game you know the offline person has been playing, you can tell in real-time if they are playing a game despite being offline. To do this, follow these steps:
 
 * Press the**Xbox button** to open the Guide menu on your Xbox.
 * Highlight the options for**People** and select**Friends** .
@@ -111,3 +111,23 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/1719168855962-enhance-performance-install-latest-nvidia-drivers-now/"><u>Enhance Performance! Install Latest Nvidia Drivers Now.</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-portable-gameplay-steam-deck-and-your-computer/"><u>Enhancing Portable Gameplay: Steam Deck and Your Computer</u></a></li>
+<li><a href="https://games-able.techidaily.com/play-again-4-solutions-for-flash-game-enthusiasts/"><u>Play Again: 4 Solutions for Flash Game Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-new-realms-shifting-from-minecraft-bedrock-to-java-network-using-geysermc/"><u>Dive Into New Realms: Shifting From Minecraft Bedrock to Java Network Using GeyserMC</u></a></li>
+<li><a href="https://games-able.techidaily.com/engage-in-tech-tussle-which-cpu-wins-the-game/"><u>Engage in Tech Tussle: Which CPU Wins the Game?</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-framerate-in-consoles-defies-expectations/"><u>Why Framerate in Consoles Defies Expectations</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionize-your-arcade-with-expansive-front-ends/"><u>Revolutionize Your Arcade with Expansive Front Ends!</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-best-free-dvd-players-for-windows-10/"><u>Updated In 2024, Best Free DVD Players for Windows 10</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-infinix-note-30-vip-racing-edition-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Infinix Note 30 VIP Racing Edition FRP</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pushing-boundaries-with-samsungs-ue590-monitor-review/"><u>[New] Pushing Boundaries with Samsung's UE590 Monitor Review</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-key-features-to-look-for-in-a-video-to-audio-converter-a-beginners-guide-for-2024/"><u>New Key Features to Look for in a Video to Audio Converter A Beginners Guide for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-a-guide-to-effective-video-capture-methods-for-playstation-4/"><u>[Updated] A Guide to Effective Video Capture Methods for PlayStation 4</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-vertical-or-horizontal-facebook-video-tactic-for-2024/"><u>[Updated] Vertical or Horizontal  Facebook Video Tactic for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-beatfinder-tools-tune-in-to-online-freshness/"><u>[Updated] Beatfinder Tools  Tune in to Online Freshness</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-apple-iphone-14-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From Apple iPhone 14</u></a></li>
+<li><a href="https://extra-information.techidaily.com/explore-oceans-anew-top-camcorders-for-divers-and-snorkelers/"><u>Explore Oceans Anew - Top Camcorders for Divers & Snorkelers</u></a></li>
+</ul></div>

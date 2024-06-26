@@ -1,7 +1,7 @@
 ---
 title: Rectifying Discrepancies of Installed Games on Steam
-date: 2024-06-20 19:16:58
-updated: 2024-06-23 11:50:46
+date: 2024-06-25T13:14:04.314Z
+updated: 2024-06-26T13:14:04.314Z
 tags:
   - games
 categories:
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/5a612b69f151ee0b6ea165a5e0a8368a6294f13ac
 
  According to Steam, some games may appear not installed if the Steam client fails to recognize the installation files. Provided that you have the game folder in the correct location, you can begin the download process. This will force Steam to recognize the existing installation files without downloading the files all over again.
 
- Note that this requires you to sign in to your Steam account. Explore our troubleshooting guide to fix[can't sign in to Steam](https://www.makeuseof.com/steam-login-troubleshooting/) issue if you struggle to log in.
+ Note that this requires you to sign in to your Steam account. Explore our troubleshooting guide to fix [can't sign in to Steam](https://www.makeuseof.com/steam-login-troubleshooting/) issue if you struggle to log in.
 
 Follow these steps to reinstall games in Steam without downloading:
 
@@ -49,7 +49,7 @@ C:\Program Files (x86)\Steam\steamapps\common
 
 ## 2\. Add an Existing Installation Folder
 
- You can[change the default game download location on Steam](https://www.makeuseof.com/how-to-change-game-download-location-steam/) to save large games on a different drive or partition. If you have moved your games previously or had a custom location to store game data , Steam won't be able to find the game files and will show them as uninstalled.
+ You can [change the default game download location on Steam](https://www.makeuseof.com/how-to-change-game-download-location-steam/) to save large games on a different drive or partition. If you have moved your games previously or had a custom location to store game data , Steam won't be able to find the game files and will show them as uninstalled.
 
  To fix this, you can manually add any existing game folders to the Steam client using Steam Manager.
 
@@ -89,7 +89,7 @@ C:\Program Files (x86)\Steam\steamapps\common
 3. Press**Win + E** to open File Explorer and navigate to the following location:  
 C:\Program Files (x86)\Steam\steamapps\
 4. If you have changed the default Steam installation folder, then navigate to the appropriate directory and check if all game files exist.
-5. Inside the**SteamApps** folder, locate the**.acf file** associated with the affected Steam game. For example, the .acf file for the**Counter-Strike: Global Offensive** game is**appmanifest\_730.acf** .**730** is the appid (App ID) for this game. Similarly, all the games have different appid. You can find the appid for all the Steam games on[Steamdb.info](https://steamdb.info/apps/) .  
+5. Inside the**SteamApps** folder, locate the**.acf file** associated with the affected Steam game. For example, the .acf file for the**Counter-Strike: Global Offensive** game is**appmanifest\_730.acf** .**730** is the appid (App ID) for this game. Similarly, all the games have different appid. You can find the appid for all the Steam games on [Steamdb.info](https://steamdb.info/apps/) .  
 ![move appmanifest_730 acf](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/move-appmanifest_730-acf.jpg)
 
 1. Locate the**appmanifest\_appid.acf** file for your game inside the**steamapps** folder and move it to a different folder or your desktop. Don’t delete the file, as you will need to move it back again.
@@ -120,3 +120,26 @@ C:\Program Files (x86)\Steam\steamapps\
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/spring-into-action-with-augmented-gaming/"><u>Spring Into Action with Augmented Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719164816351-why-your-gameplay-screams-for-an-oled-display/"><u>Why Your Gameplay Screams for an OLED Display.</u></a></li>
+<li><a href="https://games-able.techidaily.com/methodical-approach-to-preventing-ps4-controller-loss-on-windows/"><u>Methodical Approach to Preventing PS4 Controller Loss on Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/echoes-of-yesteryears-gaming-systems-of-tomorrow/"><u>Echoes of Yesteryears: Gaming Systems of Tomorrow</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-ps5-upgrades-from-past-to-present/"><u>Exploring PS5 Upgrades From Past to Present</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-xbox-unlimited-access-with-x-series/"><u>Streamlining Xbox Unlimited Access with X Series</u></a></li>
+<li><a href="https://games-able.techidaily.com/securing-victory-resolving-valorants-frames-per-second-challenges-on-pc/"><u>Securing Victory: Resolving Valorant's Frames Per Second Challenges on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/recovering-from-online-rush-top-6-methods/"><u>Recovering From Online Rush: Top 6 Methods</u></a></li>
+<li><a href="https://games-able.techidaily.com/creating-innocuous-steam-fun-for-kids-and-parents/"><u>Creating Innocuous Steam Fun for Kids and Parents</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-note-30i-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Note 30i</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-top-3-affordable-switch-game-counterparts/"><u>[New] In 2024, Top 3 Affordable Switch Game Counterparts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-whats-buzzing-the-social-sphere-tiktok-and-twitter-hits/"><u>2024 Approved  What's Buzzing the Social Sphere? TikTok & Twitter Hits</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-custom-whatsapp-ringtone-for-ios-and-android-users/"><u>[Updated] Mastering Custom WhatsApp Ringtone for iOS and Android Users</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-100-pro-phone-without-google-account-by-drfone-android/"><u>How to Unlock Honor 100 Pro Phone without Google Account?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-importance-of-tracking-igtv-conversion-rates/"><u>[New] In 2024, The Importance of Tracking IGTV Conversion Rates</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-pioneering-gigantic-appearance-tricks-for-tiktok-videos-for-2024/"><u>[Updated] Pioneering Gigantic Appearance Tricks for TikTok Videos for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-the-secrets-of-srt-creation-from-text-formats/"><u>Unveiling the Secrets of SRT Creation From Text Formats</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-top-picks-non-intrusive-android-recorders-for-2024/"><u>[New] Top Picks  Non-Intrusive Android Recorders for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/quantifying-igtv-engagement-and-outreach/"><u>Quantifying IGTV Engagement and Outreach</u></a></li>
+</ul></div>

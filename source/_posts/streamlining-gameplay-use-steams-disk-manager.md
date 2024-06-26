@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Gameplay: Use Steam’s Disk Manager"
-date: 2024-06-21 13:33:57
-updated: 2024-06-23 10:18:13
+date: 2024-06-25T13:02:28.145Z
+updated: 2024-06-26T13:02:28.145Z
 tags:
   - games
 categories:
@@ -34,21 +34,17 @@ thumbnail: https://thmb.techidaily.com/b138b868d1835e887dd60f251ee7ea4ef4f6730ac
 
  While the new Steam Storage Manager is great, it’s still hard to get to. Most people don’t even know it exists yet. Once you know where to find it, it’ll be hard to forget, though. Here are two ways to open the Steam Storage Manager.
 
-### 1\. Open the Steam Storage Manager Through the Steam Settings
-
-![Steam Storage Manager in Steam Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/steam-storage-manager-in-steam-settings.jpg)
+### 1\. Open the Steam Storage Manager Through the Steam Settings ![Steam Storage Manager in Steam Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/steam-storage-manager-in-steam-settings.jpg)
 
  The Steam settings menu itself is pretty hard to find as well (a very strange way of doing things, Valve). However, you might’ve opened it before if you tried setting download speed limits. Simply look to the upper-left corner and click on**Steam > Settings > Storage** .
 
-### 2\. Open the Steam Storage Manager Through the Downloads Page
-
-![Steam downloads page cog wheel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/steam-downloads-page-cog-wheel.jpg)
+### 2\. Open the Steam Storage Manager Through the Downloads Page ![Steam downloads page cog wheel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/steam-downloads-page-cog-wheel.jpg)
 
  If you’re already on the Steam Downloads page, there’s also a**cog** on the upper right, just below the**close window button** . Click that, and it will take you right to the**Downloads** section on the**Settings** page.
 
  Just like in the image in the previous section, you'll find the**Storage** section just below the Downloads section.
 
- While you’re at the Downloads page, you might want to check out[how to increase your Steam download speeds](https://www.makeuseof.com/tag/steam-download-speeds/) so you don’t have to wait so long to get playing.
+ While you’re at the Downloads page, you might want to check out [how to increase your Steam download speeds](https://www.makeuseof.com/tag/steam-download-speeds/) so you don’t have to wait so long to get playing.
 
 ## How to Add a New Steam Library Folder or Drive
 
@@ -60,11 +56,11 @@ thumbnail: https://thmb.techidaily.com/b138b868d1835e887dd60f251ee7ea4ef4f6730ac
 
 ![Add a new Steam Library folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/add-a-new-steam-library-folder.jpg)
 
- This will open up File Explorer and you can choose which drive or folder you want to add a new Steam Library folder to. It doesn't even need to be an internal drive, you can use an[external drive to store your Steam Games](https://www.makeuseof.com/how-to-play-steam-games-on-an-external-drive-with-steam-storage-manager/) and play straight from the external drive!
+ This will open up File Explorer and you can choose which drive or folder you want to add a new Steam Library folder to. It doesn't even need to be an internal drive, you can use an [external drive to store your Steam Games](https://www.makeuseof.com/how-to-play-steam-games-on-an-external-drive-with-steam-storage-manager/) and play straight from the external drive!
 
 ![Create or select new Steam library folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/create-or-select-new-steam-library-folder.jpg)
 
- If you only have one drive and you need space for more games but don’t want to delete any downloaded ones, check out[how to free up disk space on Windows 10](https://www.makeuseof.com/tag/6-tips-free-disk-space-windows-10/) . We’re pretty sure you can free up some space from places you didn’t know you could free up.
+ If you only have one drive and you need space for more games but don’t want to delete any downloaded ones, check out [how to free up disk space on Windows 10](https://www.makeuseof.com/tag/6-tips-free-disk-space-windows-10/) . We’re pretty sure you can free up some space from places you didn’t know you could free up.
 
 ## How to Set a Default Steam Library Folder or Drive
 
@@ -107,3 +103,27 @@ thumbnail: https://thmb.techidaily.com/b138b868d1835e887dd60f251ee7ea4ef4f6730ac
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/premier-ps5-flash-drive-choices/"><u>Premier PS5 Flash Drive Choices</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-art-of-choosing-prime-games-in-apples-marketplace/"><u>The Art of Choosing Prime Games in Apple's Marketplace</u></a></li>
+<li><a href="https://games-able.techidaily.com/diminish-xboxs-game-sounds-immediately/"><u>Diminish Xbox's Game Sounds Immediately</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719167756680-the-unmatched-performance-of-2-years-on-an-oled-monitor/"><u>The Unmatched Performance of 2 Years on an OLED Monitor</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-sonys-mini-gaming-hub-to-classic-game-boy-shell/"><u>From Sony's Mini Gaming Hub to Classic Game Boy Shell</u></a></li>
+<li><a href="https://games-able.techidaily.com/console-countdown-who-wins-in-the-ps5-vs-xbox-series-x/"><u>Console Countdown: Who Wins in the PS5 Vs. Xbox Series X?</u></a></li>
+<li><a href="https://games-able.techidaily.com/winning-strategies-for-smooth-play-fps-fixes-on-your-windows-valorant-machine/"><u>Winning Strategies for Smooth Play: FPS Fixes on Your Windows Valorant Machine</u></a></li>
+<li><a href="https://games-able.techidaily.com/comprehensive-guide-to-fixing-driver-not-starting-on-windows-11/"><u>Comprehensive Guide to Fixing Driver Not Starting on Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/assistant-controller-the-secret-to-ps5-mastery/"><u>Assistant Controller: The Secret to PS5 Mastery</u></a></li>
+<li><a href="https://games-able.techidaily.com/investment-wise-finding-the-best-economical-1440p-displays-for-gamers/"><u>Investment Wise: Finding the Best Economical 1440P Displays for Gamers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-expert-guide-to-creating-compact-engaging-youtube-content/"><u>In 2024, Expert Guide to Creating Compact, Engaging YouTube Content</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-infinix-hot-40-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On OnePlus Nord N30 5G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-unlock-smooth-communication-best-10-secured-fee-free-apps-for-ios-and-android-users-for-2024/"><u>[New] Unlock Smooth Communication  Best 10 Secured, Fee-Free Apps for iOS and Android Users for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-vivo-t2x-5g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Vivo T2x 5G Phones</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-motorola-moto-g13-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Motorola Moto G13 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-craft-the-perfect-stream-a-comprehensive-guide-to-youtubes-full-rotation-videos/"><u>[Updated] In 2024, Craft the Perfect Stream  A Comprehensive Guide to YouTube’s Full-Rotation Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-enhancing-photos-and-videos-with-instagrams-creative-features/"><u>[Updated] In 2024, Enhancing Photos and Videos with Instagram's Creative Features</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-do-i-sim-unlock-my-apple-iphone-xs-max-by-drfone-ios/"><u>How Do I SIM Unlock My Apple iPhone XS Max?</u></a></li>
+</ul></div>

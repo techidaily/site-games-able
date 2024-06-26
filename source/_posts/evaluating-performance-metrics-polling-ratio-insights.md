@@ -1,7 +1,7 @@
 ---
 title: "Evaluating Performance Metrics: Polling Ratio Insights"
-date: 2024-06-25T10:49:11.422Z
-updated: 2024-06-26T10:49:11.422Z
+date: 2024-06-25T12:48:41.056Z
+updated: 2024-06-26T12:48:41.056Z
 tags:
   - games
 categories:
@@ -91,9 +91,9 @@ But nothing can replace actual in-game skills!
 
 * **Keyboard Software** : Many keyboards come with companion desktop software. Depending on the software, you may find a specific section dedicated to adjusting and checking your keyboard polling rate, like Razer Synapse, Logitech G Hub, Corsair iQue, and so on.
 * **On-Board Switch** : Some keyboards have a physical switch that lets you change the keyboard polling rate. Check if your keyboard has this switch, typically found at the device's rear.
-* **Third-Party Software** : Numerous third-party apps are designed to track and test keyboard polling rates. For example, free and open-source[Keyboard Inspector](https://github.com/mat1jaczyyy/Keyboard-Inspector) can detect your keyboard polling rate in seconds using its test mode, and it's incredibly simple to use.  
+* **Third-Party Software** : Numerous third-party apps are designed to track and test keyboard polling rates. For example, free and open-source [Keyboard Inspector](https://github.com/mat1jaczyyy/Keyboard-Inspector) can detect your keyboard polling rate in seconds using its test mode, and it's incredibly simple to use.  
 ![keyboard inspector analyzing keyboard polling rate](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/keyboard-inspector-analyzing-keyboard-polling-rate.jpg)  
- Note that the above tool is for Windows and Linux. This[handy Reddit post](https://www.reddit.com/r/linux%5Fgaming/comments/15ii0um/how%5Fdo%5Fi%5Ffind%5Fmy%5Flaptop%5Fkeyboard%5Fpolling%5Frate/) explains how to check the keyboard polling rate on Linux using the command line.
+ Note that the above tool is for Windows and Linux. This [handy Reddit post](https://www.reddit.com/r/linux%5Fgaming/comments/15ii0um/how%5Fdo%5Fi%5Ffind%5Fmy%5Flaptop%5Fkeyboard%5Fpolling%5Frate/) explains how to check the keyboard polling rate on Linux using the command line.
 * **Manual Calculation** : If you don't have any of the above tools to hand and can't get hold of them or use them, a manual keyboard polling rate check might suffice. However, it's not particularly accurate. To measure the keyboard polling rate manually, open a text editor, then set a ten-second timer. Hit go on the timer and press a key as many times as possible. Divide the number of keypresses by the time, and you'll get a very, very rough estimate of your polling rate.
 
  The manual option exists, but you're much better off using one of the other methods to track your keyboard polling rate.

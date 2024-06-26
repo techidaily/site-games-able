@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Win11/11's 0X887A0006 Error
-date: 2024-06-23 14:37:55
-updated: 2024-06-24 12:50:23
+date: 2024-06-25T13:18:57.925Z
+updated: 2024-06-26T13:18:57.925Z
 tags:
   - games
 categories:
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/983f31d4ff46a88bf34dd06f49261024f8d7c362e
 
  Make sure the games that error 0x887A0006 crashes have full system access by running them with administrator rights. You can temporarily select to run a game with admin rights or set it to always run with elevated privileges. This is how you can configure an affected game to run as an administrator:
 
-1. First, bring up Windows 11’s file manager with a method in our[guide for opening Explorer](https://www.makeuseof.com/windows-open-file-explorer/) .
+1. First, bring up Windows 11’s file manager with a method in our [guide for opening Explorer](https://www.makeuseof.com/windows-open-file-explorer/) .
 2. Then open the installation folder that contains the game’s EXE (application file).
 3. Right-click the game’s EXE file and select**Properties** .
 4. Click the properties window’s**Compatibility** tab.
@@ -85,7 +85,7 @@ For Steam:
 
 ## 5\. Roll Back the Most Recent Graphics Driver Update
 
- A few players have said they fixed error 0x887A0006 by rolling back graphics drivers. Applying such a resolution will restore the previous graphics driver installed on your PC. If the file for your previous graphics driver remains saved, you can select to roll back the driver via Device Manager. This article about[how to roll back a driver](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) includes instructions for applying this possible fix.
+ A few players have said they fixed error 0x887A0006 by rolling back graphics drivers. Applying such a resolution will restore the previous graphics driver installed on your PC. If the file for your previous graphics driver remains saved, you can select to roll back the driver via Device Manager. This article about [how to roll back a driver](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) includes instructions for applying this possible fix.
 
 ![The Roll Back Driver button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/roll-back-driver-option.jpg)
 
@@ -95,7 +95,7 @@ For Steam:
 
  You can update an NVIDIA or AMD driver in a few different ways. Some users utilize driver updater software packages, but some of them don't update graphics drivers to the newest ones available. To ensure you’re installing the very latest driver available for your GPU, download it from the manufacturer’s website.
 
- Our guide for[updating your graphics drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) provides further details about the various methods.
+ Our guide for [updating your graphics drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) provides further details about the various methods.
 
 ![The NVIDIA driver downloads page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-nvidia-driver-download-page.jpg)
 
@@ -138,7 +138,7 @@ For Steam:
 
  Disabling Timeout Detection and Recovery is another potential 0x887A0006 error fix some players have confirmed works. Time Detection and Recovery is a Windows feature that resets an unresponsive graphics driver. You can disable that feature by editing the**GraphicsDrivers** registry key in the following steps:
 
-1. Launch Windows’ Registry Editor app (check out our guide on[how to open Regedit](https://www.makeuseof.com/windows-11-open-registry-editor/) for further instructions.)
+1. Launch Windows’ Registry Editor app (check out our guide on [how to open Regedit](https://www.makeuseof.com/windows-11-open-registry-editor/) for further instructions.)
 2. Navigate to this**GraphicsDrivers** registry key location by entering the following path in the address bar:  
 `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers`
 3. Right-click GraphicsDrivers and select that key’s**New** \>**DWORD (32-bit) Value** options.  
@@ -149,11 +149,9 @@ For Steam:
 6. Enter**0** in TdrLevel’s**Value** box, and select**OK** to save.
 7. Close the Regedit app, and then restart your PC.
 
-## 11\. Reinstall the Game That's Crashing
+## 11\. Reinstall the Game That's Crashing ![The Uninstall option in Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-option-2.jpg)
 
-![The Uninstall option in Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-option-2.jpg)
-
- Reinstalling an affected game is the last thing to try when all else fails. Applying this potential solution will likely fix corrupted or missing game files that could be causing error 0x887A0006\. Some players may be concerned about losing saved games when reinstalling, but you can[back up game saves](https://www.makeuseof.com/tag/protect-your-game-saves/) in numerous ways.
+ Reinstalling an affected game is the last thing to try when all else fails. Applying this potential solution will likely fix corrupted or missing game files that could be causing error 0x887A0006\. Some players may be concerned about losing saved games when reinstalling, but you can [back up game saves](https://www.makeuseof.com/tag/protect-your-game-saves/) in numerous ways.
 
  You might be able to uninstall an affected game via Programs and Features or Settings. If you can’t see a game listed there, however, you’ll need to uninstall the title within the gaming client software with which you installed it. Then select to install the game in your gaming client.
 
@@ -176,3 +174,26 @@ For Steam:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/duplicating-saved-games-securing-your-digital-artifacts/"><u>Duplicating Saved Games: Securing Your Digital Artifacts</u></a></li>
+<li><a href="https://games-able.techidaily.com/secure-your-steam-deck-2024s-premium-cases-list/"><u>Secure Your Steam Deck: 2024'S Premium Cases List</u></a></li>
+<li><a href="https://games-able.techidaily.com/flawless-facade-on-first-frame-fixing-freeze/"><u>Flawless Facade on First Frame: Fixing Freeze</u></a></li>
+<li><a href="https://games-able.techidaily.com/constraining-background-observations-by-game-bar-on-os-11/"><u>Constraining Background Observations by Game Bar on OS 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essence-of-modernizing-classics-six-stories-on-pi/"><u>The Essence of Modernizing Classics - Six Stories on Pi</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-mod-steam-games-using-the-steam-workshop/"><u>How to Mod Steam Games Using the Steam Workshop</u></a></li>
+<li><a href="https://games-able.techidaily.com/valve-squeezes-out-misuse-in-easy-game-returns/"><u>Valve Squeezes Out Misuse in Easy Game Returns</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-non-functional-display-drivers-in-win10/"><u>Troubleshooting Non-Functional Display Drivers in Win10</u></a></li>
+<li><a href="https://games-able.techidaily.com/gifting-games-from-steam-a-guide-for-friends/"><u>Gifting Games From Steam: A Guide for Friends</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-how-to-download-discord-videos-for-free-on-desktop-and-mobile/"><u>[Updated] How to Download Discord Videos for Free on Desktop & Mobile?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-multiangle-exploration-guide-for-2024/"><u>[New] MultiAngle Exploration Guide for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-create-viral-memes-with-these-10-top-rated-mobile-apps/"><u>Updated 2024 Approved Create Viral Memes with These 10 Top-Rated Mobile Apps</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-get-steady-the-ultimate-guide-to-video-stabilization-in-adobe-premiere-pro/"><u>Updated Get Steady The Ultimate Guide to Video Stabilization in Adobe Premiere Pro</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-unparalleled-screenshot-solutions-for-discord-users/"><u>[New] 2024 Approved  Unparalleled Screenshot Solutions for Discord Users</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-file-sync-solutions-top-ways-to-bring-data-home/"><u>2024 Approved  File Sync Solutions  Top Ways To Bring Data Home</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-capturing-the-immersive-world-tips-for-recording-vr-games/"><u>2024 Approved  Capturing the Immersive World  Tips for Recording VR Games</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-prime-selection-of-invisible-android-recorders/"><u>[New] Prime Selection of Invisible Android Recorders</u></a></li>
+<li><a href="https://extra-information.techidaily.com/leading-free-graphic-websites-for-quality-vectors/"><u>Leading Free Graphic Websites for Quality Vectors</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-iphone-12-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock iPhone 12 After Forgetting the Passcode? | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Digital Delivery of Games: A Steam Guide to Gifts"
-date: 2024-06-25T10:50:56.066Z
-updated: 2024-06-26T10:50:56.066Z
+date: 2024-06-25T12:48:42.127Z
+updated: 2024-06-26T12:48:42.127Z
 tags:
   - games
 categories:
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/e9711d2ba9e06d496671fabcb5c03dc2cfd9b4b1e
 
 ## How to Purchase a Steam Game as a Gift at Checkout
 
- This is the most popular method, and it requires you to[fund your Steam wallet](https://www.makeuseof.com/how-to-fund-steam-wallet-buy-games/) or to use one of the accepted payment methods on Steam. You also need to already have the person as a friend on Steam.
+ This is the most popular method, and it requires you to [fund your Steam wallet](https://www.makeuseof.com/how-to-fund-steam-wallet-buy-games/) or to use one of the accepted payment methods on Steam. You also need to already have the person as a friend on Steam.
 
 Once you have all of that ready, follow the steps below:
 
@@ -80,7 +80,7 @@ Follow these instructions to gift a duplicate game on Steam:
 
 We’ll show you how to do this on Humble Bundle:
 
-1. Visit[humblebundle.com](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2031630/https://www.humblebundle.com/) and search for the game you want. Alternatively, you can select a pay-what-you-want game bundle by clicking**Bundles** or**Store** \>**On Sale** to find deals.  
+1. Visit [humblebundle.com](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2031630/https://www.humblebundle.com/) and search for the game you want. Alternatively, you can select a pay-what-you-want game bundle by clicking**Bundles** or**Store** \>**On Sale** to find deals.  
 ![Humble Bundle displaying games on sale](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/humble-bundle-displaying-games-on-sale.png)
 2. Select a game and add it to your cart. When you’re done shopping, click the cart icon in the top-right corner of the website.
 3. When the checkout window appears, you can select if the purchase is a gift. Tick the box and enter the recipient’s email in the relevant field.
@@ -88,13 +88,13 @@ We’ll show you how to do this on Humble Bundle:
 
  These instructions are more or less the same across all websites that offer a similar service to Humble Bundle.
 
- Alternatively, you could just copy the Steam activation key and send it to someone you would like to gift it to. They’ll then have to follow the instructions outlined in our guide on[how to redeem a game key on Steam](https://www.makeuseof.com/how-to-redeem-game-key-on-steam/) before they can play the game.
+ Alternatively, you could just copy the Steam activation key and send it to someone you would like to gift it to. They’ll then have to follow the instructions outlined in our guide on [how to redeem a game key on Steam](https://www.makeuseof.com/how-to-redeem-game-key-on-steam/) before they can play the game.
 
 ## How to Send a Steam Gift Card
 
  If you’re not sure what game to buy for someone, you could just give them a gift card so that they can choose what they want themselves. Since you can’t gift DLCs on Steam, this is a good way to help the gift recipient get one anyway.
 
- We have full instructions on[how to send digital Steam gift cards to friends](https://www.makeuseof.com/how-to-send-steam-gift-cards/) , but here’s a summary to get you started:
+ We have full instructions on [how to send digital Steam gift cards to friends](https://www.makeuseof.com/how-to-send-steam-gift-cards/) , but here’s a summary to get you started:
 
 1. Click your name in the top-right corner of the Steam client and select**View my wallet** .
 2. Choose**Redeem a Steam Gift Card or Wallet Code** on the left side of the window.  
@@ -106,7 +106,7 @@ We’ll show you how to do this on Humble Bundle:
 
  This method only works for friends you’ve had on your friends list for at least three days. The recipient must have a Steam account; you can’t send Steam gift cards via email or through any other methods.
 
- If you want to use the Steam website to purchase a gift card instead, you can visit the[Steam store's gift card page](https://store.steampowered.com/digitalgiftcards/selectgiftcard) and log into your account.
+ If you want to use the Steam website to purchase a gift card instead, you can visit the [Steam store's gift card page](https://store.steampowered.com/digitalgiftcards/selectgiftcard) and log into your account.
 
  That sums up all the ways to gift games to friends on Steam. Be careful not to fall for scams and only send gifts to people that you actually know.
 

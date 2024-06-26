@@ -1,7 +1,7 @@
 ---
 title: Get Free Games with a Simple Redeem
-date: 2024-06-25T10:51:09.844Z
-updated: 2024-06-26T10:51:09.844Z
+date: 2024-06-25T12:48:42.288Z
+updated: 2024-06-26T12:48:42.288Z
 tags:
   - games
 categories:
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 
  If you instead want to save your offer for later, select**Decide later** . But if you need to transfer ownership of your offer to another Xbox account, you should choose**Redeem for another account** , and follow the on-screen guidance to add a new Xbox account to your console.
 
- But with**Claim it** selected, your Digital Direct offer will be unlocked and available within**My games & apps** on your console. Unfortunately, if you want to alter your offer or if you selected**Decide later** or**Redeem for another account** , the process is more complex and more akin to[managing your Xbox subscriptions from your console](https://www.makeuseof.com/how-to-manage-xbox-subscriptions-from-xbox-series-x-s/) .
+ But with**Claim it** selected, your Digital Direct offer will be unlocked and available within**My games & apps** on your console. Unfortunately, if you want to alter your offer or if you selected**Decide later** or**Redeem for another account** , the process is more complex and more akin to [managing your Xbox subscriptions from your console](https://www.makeuseof.com/how-to-manage-xbox-subscriptions-from-xbox-series-x-s/) .
 
 ## What to Do if You Declined Your Digital Direct Offer
 
@@ -71,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 
  Your Digital Direct offer will then be redeemed and available, as mentioned previously, within your**My games & apps** library on your console.
 
- While redeeming your Digital Direct offer should be one of the[first things you need to do with your Xbox Series X|S](https://www.makeuseof.com/first-things-to-do-with-xbox-series-x/) , there are many reasons you may want to wait to redeem your offer, including moving it to another account. And despite being hidden, the**Included with this Xbox** option guarantees you can access your offer.
+ While redeeming your Digital Direct offer should be one of the [first things you need to do with your Xbox Series X|S](https://www.makeuseof.com/first-things-to-do-with-xbox-series-x/) , there are many reasons you may want to wait to redeem your offer, including moving it to another account. And despite being hidden, the**Included with this Xbox** option guarantees you can access your offer.
 
 ## Never Miss Any Xbox Games or Offers With Xbox Series X|S
 
@@ -87,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 
 ### Q: How Do You Claim Your Reward Points on Xbox Series X|S?
 
- To[redeem Microsoft Reward Points on your Xbox Series X|S](https://www.makeuseof.com/how-to-redeem-microsoft-reward-points-on-xbox-series-xs/) , open the**Microsoft Rewards on Xbox** application from**My games & apps** . With the app loaded, open the**Redeem** tab and select the reward you want to exchange your Microsoft Reward Points. Select**Redeem reward** to claim your chosen benefit.
+ To [redeem Microsoft Reward Points on your Xbox Series X|S](https://www.makeuseof.com/how-to-redeem-microsoft-reward-points-on-xbox-series-xs/) , open the**Microsoft Rewards on Xbox** application from**My games & apps** . With the app loaded, open the**Redeem** tab and select the reward you want to exchange your Microsoft Reward Points. Select**Redeem reward** to claim your chosen benefit.
 
 ### Q: Do Xbox Digital Direct Offers and Codes Expire?
 

@@ -1,7 +1,7 @@
 ---
 title: "Steam Deck's New Frontier: External Memory Expansion"
-date: 2024-06-25T10:43:30.591Z
-updated: 2024-06-26T10:43:30.591Z
+date: 2024-06-25T12:48:37.542Z
+updated: 2024-06-26T12:48:37.542Z
 tags:
   - games
 categories:
@@ -38,9 +38,7 @@ thumbnail: https://thmb.techidaily.com/8859a6a8995fd23a6d3c164e4eb7814defea1c5b8
 
  We have a great selection of [the best microSD cards for the Steam Deck](https://www.makeuseof.com/best-microsd-cards-steam-deck/) if you haven't selected one already.
 
-## How to Format Your SD Card for the Steam Deck
-
-![screenshot of the steam deck settings menu showing an option to format the SD card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_steam_deck_sd_format_option.jpg)
+## How to Format Your SD Card for the Steam Deck ![screenshot of the steam deck settings menu showing an option to format the SD card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_steam_deck_sd_format_option.jpg)
 
  The Steam Deck uses a specific format, so a full wipe of your SD card is required when adding extra storage to the device.
 
@@ -52,9 +50,7 @@ thumbnail: https://thmb.techidaily.com/8859a6a8995fd23a6d3c164e4eb7814defea1c5b8
 
  When the Steam Deck is done, your SD card will no longer be readable by Windows or Mac devices.
 
-## How to Install and Move Games to Your Steam Deck's SD Card
-
-![screenshot of the games options menu on the steam deck showing a game installed on an SD card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_steam_deck_game_options_sd_card.jpg)
+## How to Install and Move Games to Your Steam Deck's SD Card ![screenshot of the games options menu on the steam deck showing a game installed on an SD card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_steam_deck_game_options_sd_card.jpg)
 
  With an SD card installed, you can choose to install a game directly onto your SD card or move an already installed game manually by opening its **Properties** and clicking on **Installed Files.**
 

@@ -1,7 +1,7 @@
 ---
 title: Post-Shortage, What's Next for PS5 Retail Costs?
-date: 2024-06-21 12:30:11
-updated: 2024-06-23 12:11:58
+date: 2024-06-25T12:49:38.288Z
+updated: 2024-06-26T12:49:38.288Z
 tags:
   - games
 categories:
@@ -22,13 +22,13 @@ thumbnail: https://thmb.techidaily.com/85a7b59f6ebac3b02742cde59cd187960869a90ca
 
  The global PS5 shortage is finally over. But the question on everyone's lips now is, will this prompt PlayStation 5 prices to start falling?
 
- The PS5 had a rough start to its lifecycle, taking a massive hit from both global chip shortages and scalpers buying and reselling consoles at eye-watering prices. And while this didn't impact Sony's ability to[sell PS5 consoles and make money](https://www.makeuseof.com/sony-sells-over-7-5-million-consoles/) , it was frustrating for gamers.
+ The PS5 had a rough start to its lifecycle, taking a massive hit from both global chip shortages and scalpers buying and reselling consoles at eye-watering prices. And while this didn't impact Sony's ability to [sell PS5 consoles and make money](https://www.makeuseof.com/sony-sells-over-7-5-million-consoles/) , it was frustrating for gamers.
 
 So, now that the PS5 shortage is over, could we see prices drop?
 
 ## PS5 Consoles Are Now in Plentiful Supply
 
- The news that the PS5 shortage is officially over came from Sony’s president, Jim Ryan, during[a press conference at CES 2023](https://square.sony.com/ces2023/) .
+ The news that the PS5 shortage is officially over came from Sony’s president, Jim Ryan, during [a press conference at CES 2023](https://square.sony.com/ces2023/) .
 
  With the PS5 in plentiful supply around the world,[it's finally time to say goodbye to the PS4](https://www.makeuseof.com/is-it-finally-time-to-say-goodbye-to-the-ps4/) and embrace Sony's next-gen console. This means a healthy shelf of PS5 consoles in almost any game store for gamers to take their pick from.
 
@@ -40,17 +40,17 @@ So, now that the PS5 shortage is over, could we see prices drop?
 
 ## However, the PS5 Slim Could Keep Prices High
 
- Just a few months after the announcement that marked the end of the PS5 shortage, an October 10, 2023 post on the[PlayStation Blog](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/) brought yet another exciting announcement—the unveiling of new (slimmer) PS5 models.
+ Just a few months after the announcement that marked the end of the PS5 shortage, an October 10, 2023 post on the [PlayStation Blog](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/) brought yet another exciting announcement—the unveiling of new (slimmer) PS5 models.
 
 ![the attachable disk drive for the new smaller PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/detachable-disk-drive-for-the-new-smaller-ps5.jpg)
 
  Image Credit:[Sony](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/)
 
- The[PS5 "Slim" comes with a few major differences](https://www.makeuseof.com/old-ps5-vs-the-new-slimmer-ps5-what-are-the-differences/) , including a slimmer frame, a detachable disc drive, and a heftier price tag. Considering the announcement of a brand-new, more expensive PS5 model, it seems unlikely that gamers can expect prices to come down any time soon.
+ The [PS5 "Slim" comes with a few major differences](https://www.makeuseof.com/old-ps5-vs-the-new-slimmer-ps5-what-are-the-differences/) , including a slimmer frame, a detachable disc drive, and a heftier price tag. Considering the announcement of a brand-new, more expensive PS5 model, it seems unlikely that gamers can expect prices to come down any time soon.
 
 ## PS5 Prices Have Actually Risen in Recent Years
 
- Rather than the PS5 becoming cheaper and more accessible to gamers years after release, in August 2022, Sony announced in a post on the[PlayStation Blog](https://blog.playstation.com/2022/08/25/ps5-price-to-increase-in-select-markets-due-to-global-economic-environment-including-high-inflation-rates/#:~:text=Based%20on%20these%20challenging%20economic,%29%2C%20as%20well%20as%20Canada.) that the cost of PS5 consoles sold in Europe, the UK, Japan, China, Australia, Mexico, and Canada was actually increasing. Reversing the trend we have seen with previous console generations, where the hardwar got significantly cheaper over time.
+ Rather than the PS5 becoming cheaper and more accessible to gamers years after release, in August 2022, Sony announced in a post on the [PlayStation Blog](https://blog.playstation.com/2022/08/25/ps5-price-to-increase-in-select-markets-due-to-global-economic-environment-including-high-inflation-rates/#:~:text=Based%20on%20these%20challenging%20economic,%29%2C%20as%20well%20as%20Canada.) that the cost of PS5 consoles sold in Europe, the UK, Japan, China, Australia, Mexico, and Canada was actually increasing. Reversing the trend we have seen with previous console generations, where the hardwar got significantly cheaper over time.
 
 ![A person holding multiple dollar notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/counting-money.jpg)
 
@@ -87,3 +87,24 @@ So, now that the PS5 shortage is over, could we see prices drop?
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/digital-puzzles-navigating-through-the-good-and-bad-aspects/"><u>Digital Puzzles: Navigating Through the Good & Bad Aspects</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-your-discord-experience-with-top-servers/"><u>Maximizing Your Discord Experience with Top Servers</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-find-the-best-discord-servers-worth-joining/"><u>How to Find the Best Discord Servers Worth Joining</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-quick-fix-manual-to-overcome-4-common-gpu-setbacks/"><u>The Quick Fix Manual to Overcome 4 Common GPU Setbacks</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-mode-functionality-and-benefits-for-mac-users-on-sonoma-os-by-apple/"><u>Game Mode Functionality and Benefits for Mac Users on Sonoma OS by Apple</u></a></li>
+<li><a href="https://games-able.techidaily.com/screen-technology-battle-comparing-the-best-among-oled-amoled-and-lcds/"><u>Screen Technology Battle: Comparing The Best Among OLED, AMOLED and LCDs</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-sonys-compact-gaming-experience-psl/"><u>Unveiling Sony's Compact Gaming Experience: PSL</u></a></li>
+<li><a href="https://games-able.techidaily.com/free-fc-champions-guide-old-championship-manager-for-pc/"><u>Free FC Champions Guide: Old Championship Manager for PC</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-no-budget-no-problem-best-free-open-source-video-editors/"><u>Updated No Budget, No Problem Best Free Open-Source Video Editors</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-on-apple-iphone-se-2020-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock On Apple iPhone SE (2020)?</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-vlog-to-audio-conversion-with-twitta/"><u>2024 Approved  Vlog-to-Audio Conversion with Twitta</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-striding-forward-a-comprehensive-review-of-vr-walkers/"><u>In 2024, Striding Forward  A Comprehensive Review of VR Walkers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-costless-methods-for-superior-photo-quality/"><u>In 2024, Explore Costless Methods for Superior Photo Quality</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-10-best-free-text-to-speech-software-windows-macandroid-iphone-and-online/"><u>Updated In 2024, 10 Best Free Text to Speech Software Windows, Mac，Android, iPhone & Online</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamlining-windows-photos-with-customized-audio-and-visual-settings/"><u>In 2024, Streamlining Windows Photos with Customized Audio & Visual Settings</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y27-4g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y27 4G Phone without Google Account?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-google-pixel-fold-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Google Pixel Fold | Dr.fone</u></a></li>
+</ul></div>

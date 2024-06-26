@@ -1,7 +1,7 @@
 ---
 title: "Play Responsibly: Skip the PS5 Controller's Mic"
-date: 2024-06-21 23:31:22
-updated: 2024-06-24 12:36:58
+date: 2024-06-25T13:03:08.459Z
+updated: 2024-06-26T13:03:08.459Z
 tags:
   - games
 categories:
@@ -20,11 +20,11 @@ thumbnail: https://thmb.techidaily.com/3b4f38d4b261acb2c277f07ba409b2b6a3f82798b
 
 ## Why You Shouldn't Use Your PS5 Controller's Microphone
 
- By default, your DualSense's microphone will activate whenever you're playing a game that supports voice chat, as long as you don't have any other microphones connected. However, when the controller microphone activates, it will also reduce the intensity of two other[key DualSense features](https://www.makeuseof.com/ps5-dualsense-controller-hidden-features/) : adaptive triggers and haptic feedback.
+ By default, your DualSense's microphone will activate whenever you're playing a game that supports voice chat, as long as you don't have any other microphones connected. However, when the controller microphone activates, it will also reduce the intensity of two other [key DualSense features](https://www.makeuseof.com/ps5-dualsense-controller-hidden-features/) : adaptive triggers and haptic feedback.
 
  As you likely know, adaptive triggers adjust the resistance of the L2 and R2 buttons depending on what you're doing in a game. And haptic feedback is a more advanced version of the classic rumble feature that provides different feedback for various kinds of in-game actions.
 
- In the PS5's Settings menu under**Settings > Accessories > Controllers** , you can adjust both the**Vibration Intensity** and**Trigger Effect Intensity** , which you might do to[save battery on your PS5 controller](http://www.makeuseof.com/save-battery-life-ps5-dualsense-controller/) . However, when your DualSense's built-in microphone is active, it will set both of them to**Weak** , regardless of the setting you've chosen here.
+ In the PS5's Settings menu under**Settings > Accessories > Controllers** , you can adjust both the**Vibration Intensity** and**Trigger Effect Intensity** , which you might do to [save battery on your PS5 controller](http://www.makeuseof.com/save-battery-life-ps5-dualsense-controller/) . However, when your DualSense's built-in microphone is active, it will set both of them to**Weak** , regardless of the setting you've chosen here.
 
 ![PS5 Controller Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS5-Controller-Options.jpg)
 
@@ -69,3 +69,27 @@ thumbnail: https://thmb.techidaily.com/3b4f38d4b261acb2c277f07ba409b2b6a3f82798b
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/the-ultimate-playlist-for-exceptional-ps5-fun/"><u>The Ultimate Playlist for Exceptional PS5 Fun</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-team-guide-to-split-screen-minecraft/"><u>The Ultimate Team Guide to Split-Screen Minecraft</u></a></li>
+<li><a href="https://games-able.techidaily.com/improving-virtual-connectivity-speed-addressing-high-latency-issues/"><u>Improving Virtual Connectivity Speed: Addressing High Latency Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-gameplay-with-improved-3d-models/"><u>Enhancing Gameplay with Improved 3D Models</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-error-0x803f8001-on-minecraft-for-windows-pcs/"><u>Resolving Error 0X803F8001 on Minecraft for Windows PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-does-it-really-mean-to-be-idle-in-discord/"><u>What Does It Really Mean to Be Idle in Discord?</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-precision-gaming-the-ideal-mouse-sensitivity-levels/"><u>High Precision Gaming: The Ideal Mouse Sensitivity Levels</u></a></li>
+<li><a href="https://games-able.techidaily.com/mmx-200-evaluation-powerful-but-feature-limited/"><u>MMX 200 Evaluation: Powerful but Feature-Limited</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-use-activities-on-discord-including-chess-and-poker/"><u>How to Use Activities on Discord (Including Chess and Poker)</u></a></li>
+<li><a href="https://games-able.techidaily.com/disable-gaming-mode-in-discord-settings/"><u>Disable Gaming Mode in Discord Settings</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-ranking-the-best-third-place-recording-tools-for-ipad/"><u>2024 Approved  Ranking the Best Third-Place Recording Tools for iPad</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-freestyle-audio-editors-guide-to-the-top-12-tools-without-a-price-tag/"><u>New The Freestyle Audio Editors Guide to the Top 12 Tools Without a Price Tag</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-a-step-by-step-aspect-ratio-guide-for-youtube-creators-for-2024/"><u>[Updated] A Step-by-Step Aspect Ratio Guide for YouTube Creators for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-guide-to-removing-melodic-elements-focusing-on-basslines-for-media-projects/"><u>Updated In 2024, Guide to Removing Melodic Elements Focusing on Basslines for Media Projects</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/guide-to-completely-erase-data-on-iphone-12-pro-max-to-avoid-privacy-leak-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Guide to Completely Erase Data on iPhone 12 Pro Max to Avoid Privacy Leak | Stellar</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigating-the-world-of-time-stamps-in-youtube-links-desktopmobile-for-2024/"><u>Navigating the World of Time Stamps in YouTube Links (Desktop/Mobile) for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-chuckles-and-challenges-best-fun-for-young-minds-for-2024/"><u>[Updated] Chuckles & Challenges - Best Fun for Young Minds for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/capture-kings-face-off-for-2024/"><u>Capture Kings Face-Off for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-the-best-free-online-tool-to-convert-dailymotion-videos-for-2024/"><u>New The Best Free Online Tool to Convert Dailymotion Videos for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-zte-nubia-z60-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
+</ul></div>

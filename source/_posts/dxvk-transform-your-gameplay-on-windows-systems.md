@@ -1,7 +1,7 @@
 ---
 title: "DXVK: Transform Your Gameplay on Windows Systems"
-date: 2024-06-22 13:48:25
-updated: 2024-06-24 10:22:30
+date: 2024-06-25T13:06:31.607Z
+updated: 2024-06-26T13:06:31.607Z
 tags:
   - games
 categories:
@@ -34,13 +34,13 @@ thumbnail: https://thmb.techidaily.com/9929e26ad232462fb3012e528ec110b36cc8e34a7
 
  Like OpenGL, and unlike Microsoft's Windows-bound Direct3D, Vulkan is "open" and cross-platform. You can use Vulkan on Windows, Linux, and even smartphones. Although not natively supported on Macs, it's usable there through MoltenVK.
 
- That was the short version. To learn more about Vulkan, check our article on[what Vulkan run time libraries are in Windows](https://www.makeuseof.com/tag/vulkan-run-time-libraries-windows/) .
+ That was the short version. To learn more about Vulkan, check our article on [what Vulkan run time libraries are in Windows](https://www.makeuseof.com/tag/vulkan-run-time-libraries-windows/) .
 
 ## What Is DXVK?
 
  DXVK is a wrapper, "translating" Direct3D to Vulkan. In the human world, a translator can be a mediator between an English and a Japanese speaker, enabling them to understand one another. Similarly, "wrappers", or "translation layers", can "take" code written for a specific piece of hardware, platform, or API, and translate it to run on another.
 
- DXVK was originally developed for Linux with support from Valve, which also uses it on SteamOS and the Steam Deck. You can learn more about that in our article where we saw[what is Steam Proton and how it runs Windows games on Steam Deck](https://www.makeuseof.com/what-is-steam-proton-how-does-it-run-windows-games-on-steam-deck/) .
+ DXVK was originally developed for Linux with support from Valve, which also uses it on SteamOS and the Steam Deck. You can learn more about that in our article where we saw [what is Steam Proton and how it runs Windows games on Steam Deck](https://www.makeuseof.com/what-is-steam-proton-how-does-it-run-windows-games-on-steam-deck/) .
 
 ## Why Should You Use DXVK on Windows?
 
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/9929e26ad232462fb3012e528ec110b36cc8e34a7
 
  By "translating" old-and-buggy Direct3D code into the more modern Vulkan API, there's a minimal toll on performance (if any). At the same time, problematic games with broken graphics or missing features may become fully playable again.
 
- Since Vulkan is on par with Direct3D 12, and both are much better (and faster) than older versions of Direct3D (as we saw when[we compared DirectX 11 VS DirectX 12](https://www.makeuseof.com/directx-11-vs-directx-12-differences/) ), "translating" old Direct3D games to Vulkan can sometimes improve the game's performance.
+ Since Vulkan is on par with Direct3D 12, and both are much better (and faster) than older versions of Direct3D (as we saw when [we compared DirectX 11 VS DirectX 12](https://www.makeuseof.com/directx-11-vs-directx-12-differences/) ), "translating" old Direct3D games to Vulkan can sometimes improve the game's performance.
 
  Intel's work on their Arc GPUs is proof of that. Intel could try to add support for every single older title in Arc GPU drivers. Instead, Intel decided to work on further improving DXVK. Initial results from Intel's "experiment" lead up to a 2x boost in performance for older titles, with dozens rendered playable "through" DXVK.
 
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/9929e26ad232462fb3012e528ec110b36cc8e34a7
 
  DXVK is open-source software and free to use. You can find its latest version on GitHub.
 
-1. Visit DXVK's[official GitHub page](https://GitHub.com/doitsujin/dxvk) and click on the**Latest** version link on the right of the page, under**Releases** .
+1. Visit DXVK's [official GitHub page](https://GitHub.com/doitsujin/dxvk) and click on the**Latest** version link on the right of the page, under**Releases** .
 2. Scroll down on the releases page and find the**Assets** section of the latest version. Click on the latest DXVK tar.gz archive to download it. At the time of writing, it was version 2.2.  
 ![DXVK Latest Release Asset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dxvk-latest-release-asset-1.jpg)
 3. Store the downloaded archive somewhere, for you will need to extract its contents to the folder of every game you want to run with DXVK instead of Direct3D.
@@ -73,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/9929e26ad232462fb3012e528ec110b36cc8e34a7
 
  If you need to know which version of Direct3D your game is using, the PC Gaming Wiki website can help.
 
-1. Visit[PC Gaming Wiki](https://pcgamingwiki.com/) with your browser, and use the search field on the top right to seek the game to which you want to add DXVK.
+1. Visit [PC Gaming Wiki](https://pcgamingwiki.com/) with your browser, and use the search field on the top right to seek the game to which you want to add DXVK.
 2. When you find your game, visit its page and scroll down to reach the**Other Information** section. Turn your attention to the API tables. There, on the**Technical Specs** and**Supported** columns, you will see the version of Direct3D your game is using. Underneath, the**Executable** ,**32-bit** , and**64-bit** columns will "tell" you which architecture you should choose.  
 ![PCGamingWiki Game API Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/pcgamingwiki-game-api-information-1.jpg)
 
@@ -149,3 +149,23 @@ thumbnail: https://thmb.techidaily.com/9929e26ad232462fb3012e528ec110b36cc8e34a7
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/does-the-nintendo-switch-oled-work-with-an-old-dock/"><u>Does the Nintendo Switch OLED Work With an Old Dock?</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-selection-of-console-games-for-macos/"><u>The Ultimate Selection of Console Games for macOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-level-gameplay-best-portable-accessories-for-nintendo-switch/"><u>Next Level Gameplay: Best Portable Accessories for Nintendo Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-your-game-repositorys-visibility-on-epic-labs/"><u>Enhancing Your Game Repository's Visibility on Epic Labs</u></a></li>
+<li><a href="https://games-able.techidaily.com/regretting-the-steep-price-tag-for-graphics-power/"><u>Regretting the Steep Price Tag for Graphics Power</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-s-excellence-achieving-perfect-blue-ray/"><u>XBox S Excellence - Achieving Perfect Blue-Ray</u></a></li>
+<li><a href="https://games-able.techidaily.com/sony-ps5-audio-via-bluetooth-technology/"><u>Sony PS5 Audio via Bluetooth Technology</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Honor X50i? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-xiaomi-redmi-note-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-apple-iphone-8-plus-and-android-phones-by-drfone-ios/"><u>In 2024, Top IMEI Unlokers for Apple iPhone 8 Plus and Android Phones</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-personalize-your-google-meet-experience-with-fresh-backgrounds/"><u>[Updated] In 2024, Personalize Your Google Meet Experience with Fresh Backgrounds</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-leading-the-charge-in-sustainable-filmmaking-for-2024/"><u>[Updated] Leading the Charge in Sustainable Filmmaking for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-ultimate-non-timebound-screen-recording-selection/"><u>[New] 2024 Approved  Ultimate Non-Timebound Screen Recording Selection</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-precision-control-for-incredible-android-time-lapses/"><u>2024 Approved  Precision Control for Incredible Android Time-Lapses</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-xiaomi-redmi-k70-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Xiaomi Redmi K70 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-proven-techniques-for-uploading-and-displaying-imovie-films-on-vimeo/"><u>[Updated] In 2024, Proven Techniques for Uploading and Displaying iMovie Films on Vimeo</u></a></li>
+</ul></div>

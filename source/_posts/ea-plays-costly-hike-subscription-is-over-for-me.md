@@ -1,7 +1,7 @@
 ---
 title: EA Play’s Costly Hike, Subscription Is Over for Me
-date: 2024-06-22 23:48:35
-updated: 2024-06-24 10:56:52
+date: 2024-06-25T13:30:02.955Z
+updated: 2024-06-26T13:30:02.955Z
 tags:
   - games
 categories:
@@ -30,9 +30,7 @@ thumbnail: https://thmb.techidaily.com/3e8a6c48903de348edfc32de01dc40c1bc954d345
 
  EA Play subscribers received an email from the company in April 2024 announcing a price increase for its subscription services. While I've been using the service since 2019, when it was still called EA Origin, this price increase is finally causing me to end my subscription.
 
-## EA Play Prices Are Increasing Globally
-
-![Ea Play new prices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ea-play-new-prices.jpg)
+## EA Play Prices Are Increasing Globally ![Ea Play new prices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ea-play-new-prices.jpg)
 
  EA Play started at $4.99 monthly or $29.99 yearly for the standard subscription, while the premium EA Play Pro cost $14.99 a month or $99.99 yearly. However, the company's recent announcement drives the prices by $1 a month or $10 annually for the standard EA Play. If you're subscribed to Pro, the price goes up by $2 monthly or $20 yearly. This means the new prices are now $5.99 monthly or $39.99 annually for the base EA Play and $16.99 a month or $119.99 a year for EA Play Pro.
 
@@ -44,13 +42,11 @@ thumbnail: https://thmb.techidaily.com/3e8a6c48903de348edfc32de01dc40c1bc954d345
 
  South African gamers are in for a bigger surprise, as the base EA Play went up to R89.95 from R48.50, raising the monthly price by 85%. On the other hand, the annual subscription price went from R299 to R649.95—a 117% increase for subscribers who pay yearly. EA Play Pro subscribers also get price jumps: from R200 a month to R304.99 (52% more expensive) or from R1,199 annually to R1,699.95 (almost 42% more).
 
- Even though EA Play is still the most affordable option out of[the best PC game subscriptions](https://www.makeuseof.com/best-pc-games-subscription-services/) , this price increase across the board (and across the globe) reduces its value. Furthermore, the people who subscribed to EA's offering because it's the cheapest gaming subscription will be most affected, as they now have to pay more just to get the same service.
+ Even though EA Play is still the most affordable option out of [the best PC game subscriptions](https://www.makeuseof.com/best-pc-games-subscription-services/) , this price increase across the board (and across the globe) reduces its value. Furthermore, the people who subscribed to EA's offering because it's the cheapest gaming subscription will be most affected, as they now have to pay more just to get the same service.
 
  Even though EA Play is still an affordable service, I'm finally quitting it after five years. So, these are the reasons why I'm canceling my EA Play subscription.
 
-## 1\. I Don't Want to Pay Too Much for Just EA Titles
-
-![EA Play games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ea-play-games.jpg)
+## 1\. I Don't Want to Pay Too Much for Just EA Titles ![EA Play games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ea-play-games.jpg)
 
  The biggest reason I'm no longer signing up for EA Play is its limited library. The standard EA Play library only features 90 titles at the time of writing. While EA Play Pro gives you 60 more games, they're mostly niche titles that I don't really care for.
 
@@ -58,9 +54,7 @@ thumbnail: https://thmb.techidaily.com/3e8a6c48903de348edfc32de01dc40c1bc954d345
 
  While EA Play gives me early access to some of their new releases up to ten days before they launch, I don't see any new EA titles coming up. I also rarely use the 10% discount EA Play offers to subscribers like me, as I find the idea of paying for DLC while spending on a monthly subscription just too much.
 
-## 2\. EA Isn't Adding New Perks and Features
-
-![EA Play vs EA Play Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ea-play-vs-ea-play-pro.jpg)
+## 2\. EA Isn't Adding New Perks and Features ![EA Play vs EA Play Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ea-play-vs-ea-play-pro.jpg)
 
  I understand EA's need to increase prices; after all, it's the company's first time hiking up EA Play's subscription costs. This is especially true as overall operational expenses have steadily increased globally due to inflation.
 
@@ -70,27 +64,23 @@ thumbnail: https://thmb.techidaily.com/3e8a6c48903de348edfc32de01dc40c1bc954d345
 
  Furthermore, EA's price hikes across the pond and in other parts of the world are way over the compounded rate. A 117% increase in one year is simply too much, even if the company had added features like VR gaming or free DLCs.
 
-## 3\. Other Gaming Subscriptions Offer Better Value for Money
-
-![Humble Bundle logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/humble-bundle-logo.png)
+## 3\. Other Gaming Subscriptions Offer Better Value for Money ![Humble Bundle logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/humble-bundle-logo.png)
 
  Image Credit:[Humble Bundle](https://support.humblebundle.com/hc/en-us/articles/202742060-Bundle-Logos)
 
  As I said earlier, EA Play is still the most affordable gaming subscription in 2024\. However, it doesn't mean it offers excellent value for your money. That's because while other gaming subscriptions are more expensive, they also have a more extensive library.
 
- For example, if you have a PlayStation 5, you can[get a PlayStation Plus subscription](https://www.makeuseof.com/what-is-playstation-plus/) and enjoy hundreds of games, including several PlayStation exclusives.
+ For example, if you have a PlayStation 5, you can [get a PlayStation Plus subscription](https://www.makeuseof.com/what-is-playstation-plus/) and enjoy hundreds of games, including several PlayStation exclusives.
 
  You can also pick Humble Bundle's Humble Choice subscription. Although it's more expensive at $11.99 a month, you get a mix of titles every month that you get to keep forever; you don't have to rely on a library where your favorite games might come and go at a moment's notice.
 
-## 4\. I Can Get EA Play With Xbox Game Pass
-
-![A promotional image for Xbox Game Pass and EA Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/xbox-game-pass-and-ea-play.jpg)
+## 4\. I Can Get EA Play With Xbox Game Pass ![A promotional image for Xbox Game Pass and EA Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/xbox-game-pass-and-ea-play.jpg)
 
  Image Credit: [Xbox](https://www.xbox.com/en-us/games/store/xbox-game-pass-ultimate/cfq7ttc0khs0?WT.mc%5Fid=CNavGamesXboxGamePassUltimate)
 
- However, the biggest reason to cancel my EA Play subscription is that[EA Play already comes with Xbox Game Pass for PC and Ultimate](https://www.makeuseof.com/how-to-use-ea-play-xbox-game-pass-pc/) . If you're a PC or Xbox gamer, getting this subscription makes the most sense, as you get 456 titles in your library as of April 2024 (and that's just for PC games). Although Game Pass for PC costs $9.99 monthly ($4 or 66% more expensive than the standard EA Play subscription), it offers much more value.
+ However, the biggest reason to cancel my EA Play subscription is that [EA Play already comes with Xbox Game Pass for PC and Ultimate](https://www.makeuseof.com/how-to-use-ea-play-xbox-game-pass-pc/) . If you're a PC or Xbox gamer, getting this subscription makes the most sense, as you get 456 titles in your library as of April 2024 (and that's just for PC games). Although Game Pass for PC costs $9.99 monthly ($4 or 66% more expensive than the standard EA Play subscription), it offers much more value.
 
- If you pick Xbox Game Pass Ultimate, you must pay $16.99 a month—the same price as EA Play Pro. However, aside from the more extensive game library, you also get additional perks like[Xbox cloud gaming](https://www.makeuseof.com/what-is-xbox-cloud-gaming-how-does-it-work/) and access to both Xbox and PC game titles.
+ If you pick Xbox Game Pass Ultimate, you must pay $16.99 a month—the same price as EA Play Pro. However, aside from the more extensive game library, you also get additional perks like [Xbox cloud gaming](https://www.makeuseof.com/what-is-xbox-cloud-gaming-how-does-it-work/) and access to both Xbox and PC game titles.
 
  Because of these reasons, I'm canceling my EA Play subscription and moving to Xbox Game Pass for PC. And unless you're a hardcore EA fan, I suggest you do, too.
 
@@ -109,3 +99,22 @@ thumbnail: https://thmb.techidaily.com/3e8a6c48903de348edfc32de01dc40c1bc954d345
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/unpacking-the-mysteries-of-the-xbox-360-slim-console/"><u>Unpacking the Mysteries of the Xbox 360 Slim Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-potential-conquering-counter-strike-2-on-a-mac/"><u>Unleash Potential: Conquering Counter-Strike 2 on a Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-longevous-play-why-physical-is-prevailing/"><u>The Longevous Play: Why Physical Is Prevailing</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-playing-monthly-cant-match-game-collection/"><u>Why Playing Monthly Can't Match Game Collection</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-your-gain-steam-points-strategies/"><u>Maximizing Your Gain: Steam Points Strategies</u></a></li>
+<li><a href="https://games-able.techidaily.com/3-ways-to-redeem-digital-codes-for-your-xbox/"><u>3 Ways to Redeem Digital Codes for Your Xbox</u></a></li>
+<li><a href="https://games-able.techidaily.com/auditory-acumen-top-mobile-trivia-applications-in-sound/"><u>Auditory Acumen: Top Mobile Trivia Applications in Sound</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-quick-glance-at-stars-contribution/"><u>[New] Quick Glance at Star's Contribution</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-nubia-z50-ultra-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Nubia Z50 Ultra Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/drive-audience-participation-through-custom-stories-queries/"><u>Drive Audience Participation Through Custom Stories Queries</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-craft-an-enigmatic-profile-on-tiktok-with-these-unique-ideas/"><u>[New] In 2024, Craft an Enigmatic Profile on TikTok with These Unique Ideas</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-navigating-the-nuances-of-ppt-voiceover-performance-for-2024/"><u>[New] Navigating the Nuances of PPT Voiceover Performance for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-visual-delight-expertly-ranked-top-8k-televisions-reviewed/"><u>[Updated] In 2024, Visual Delight  Expertly Ranked Top 8K Televisions Reviewed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-steps-to-disable-auto-recommended-podcasts-in-spotify/"><u>In 2024, Steps to Disable Auto-Recommended Podcasts in Spotify</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/cant-view-hevc-h265-content-on-razr-40-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Can’t view HEVC H.265 content on Razr 40</u></a></li>
+</ul></div>

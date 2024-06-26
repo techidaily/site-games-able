@@ -1,7 +1,7 @@
 ---
 title: Artificial Wisdom Deciphers Virtual Murders
-date: 2024-06-21 10:50:37
-updated: 2024-06-24 11:40:17
+date: 2024-06-25T12:50:58.518Z
+updated: 2024-06-26T12:50:58.518Z
 tags:
   - games
 categories:
@@ -18,9 +18,7 @@ thumbnail: https://thmb.techidaily.com/2861a5dab13720b2493f18438249b45a68a3216a3
 
  With the advent of ChatGPT and other such AI models comes a series of websites and apps that level up a traditional murder mystery game. In some, you'll be able to interact and talk with suspects for a single mystery. In others, the AI generates a new mystery every time you visit. The game is afoot!
 
-## 1. Solve the Murders
-
-![In Solve the Murders, you play a detective who has chat with AI suspects in a murder mystery to find out who the killer is](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-solve-the-murders.jpg)
+## 1. Solve the Murders ![In Solve the Murders, you play a detective who has chat with AI suspects in a murder mystery to find out who the killer is](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-solve-the-murders.jpg)
 
  Author Screenshot by Mihir Patkar - No attribution required
 
@@ -30,21 +28,17 @@ thumbnail: https://thmb.techidaily.com/2861a5dab13720b2493f18438249b45a68a3216a3
 
  The points you earn are tradable for a few acts, such as checking alibis, checking records, investigating scenes, and tailing suspects. If you're stuck at any time, you can spend points to get a clue on how you should proceed. Once you're sure about the whodunnit, use the one-time "Solve the murder" action to see if you got it right.
 
-## 2. Gron
-
-![Gron is a retro 8-bit RPG-style online game where you unravel a murder mystery by finding evidence and clues, as well as interrogating suspects with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-gron-town.jpg)
+## 2. Gron ![Gron is a retro 8-bit RPG-style online game where you unravel a murder mystery by finding evidence and clues, as well as interrogating suspects with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-gron-town.jpg)
 
  Author Screenshot by Mihir Patkar - No attribution required
 
- You already know that[ChatGPT can create fictional characters](https://www.makeuseof.com/chatgpt-prompts-to-develop-book-characters/) to talk with or let you chat with existing famous characters once the right data is fed. Gron leverages this power to make a murder mystery game like an old-school 8-bit RPG.
+ You already know that [ChatGPT can create fictional characters](https://www.makeuseof.com/chatgpt-prompts-to-develop-book-characters/) to talk with or let you chat with existing famous characters once the right data is fed. Gron leverages this power to make a murder mystery game like an old-school 8-bit RPG.
 
  You play as Detective Samuel O'Connor, called to investigate the suspicious death of Elias Harrington, one of the wealthiest men in San Francisco. You'll need to move around in the game using the arrow keys and interact with characters or objects using the Spacebar. The game gives you no indication that a character or object is important, so it's all about using your detective skills.
 
  When you interact with a character, Gron automatically starts a chat window. Knowing the right prompts and asking the right questions is important. For example, we asked a character if he is the only son and got an affirmative response, but when asked if he had any siblings, he quickly replied that he misunderstood the first question and he had a sister. As you ask more questions, use the in-game diary to record responses so that you can cross-reference different testimonies to deduce who the murderer is.
 
-## 3. Mystery-o-Matic
-
-![Mystery-o-matic uses AI like ChatGPT to generate a new murder mystery every day where you have to guess the killer, the weapon, and the location based on a set of clues](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-mystery-o-matic.jpg)
+## 3. Mystery-o-Matic ![Mystery-o-matic uses AI like ChatGPT to generate a new murder mystery every day where you have to guess the killer, the weapon, and the location based on a set of clues](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-mystery-o-matic.jpg)
 
  Author Screenshot by Mihir Patkar - No attribution required
 
@@ -54,9 +48,7 @@ thumbnail: https://thmb.techidaily.com/2861a5dab13720b2493f18438249b45a68a3216a3
 
  Use the built-in investigator's notebook to figure out who was in which room at what time and how they could have accessed a murder weapon. Once you're sure about the solution, say who the murderer was, the weapon was, and the time of the murder. The game might get a little repetitive the longer you play it, but hey, where else would you get to solve a murder mystery daily?
 
-## 4. Murdle
-
-![Murdle offers a new murder mystery everyday, generated by an AI and written by Hollywood mystery writer G. T. Karber, increasing in difficulty from Monday to Sunday](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-murdle.jpg)
+## 4. Murdle ![Murdle offers a new murder mystery everyday, generated by an AI and written by Hollywood mystery writer G. T. Karber, increasing in difficulty from Monday to Sunday](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-murdle.jpg)
 
  Author Screenshot by Mihir Patkar - No attribution required
 
@@ -87,3 +79,26 @@ thumbnail: https://thmb.techidaily.com/2861a5dab13720b2493f18438249b45a68a3216a3
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/strategies-for-mending-or-swapping-faulty-nintendo-switches/"><u>Strategies for Mending or Swapping Faulty Nintendo Switches</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-discoveries-top-8-for-gamer-news-outlets/"><u>Essential Discoveries: Top 8 for Gamer News Outlets</u></a></li>
+<li><a href="https://games-able.techidaily.com/tapping-into-rhythm-games-with-tablets/"><u>Tapping Into Rhythm Games With Tablets</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-apply-for-a-refund-for-unwanted-fortnite-purchases/"><u>How to Apply for a Refund for Unwanted Fortnite Purchases</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-novice-to-pro-mobile-twitch-streaming-mastery/"><u>From Novice to Pro: Mobile Twitch Streaming Mastery</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-easy-way-to-secure-your-gameplay-with-nintendos-passcode-feature/"><u>The Easy Way to Secure Your Gameplay with Nintendo's Passcode Feature</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-nvidia-best-gpus-for-enthusiasts/"><u>Beyond Nvidia: Best GPUs for Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-non-functional-display-drivers-in-win10/"><u>Troubleshooting Non-Functional Display Drivers in Win10</u></a></li>
+<li><a href="https://games-able.techidaily.com/share-your-pc-world-with-friends-using-steam-deck-remote/"><u>Share Your PC World with Friends Using Steam Deck Remote</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-lens-clarity-not-cloudiness-anti-fog-tips-for-gopro/"><u>In 2024, Lens Clarity, Not Cloudiness  Anti-Fog Tips for GoPro</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-links-between-instagram-and-tiktok-for-2024/"><u>Navigating Links Between Instagram and TikTok for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-elevate-your-videos-impact-with-customizable-youtube-thumbnails/"><u>[Updated] In 2024, Elevate Your Video's Impact with Customizable YouTube Thumbnails</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-zte-nubia-flip-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent ZTE Nubia Flip 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-merge-videos-with-ease-best-alternatives-to-software-for-beginners/"><u>New In 2024, Merge Videos with Ease Best Alternatives to Software for Beginners</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-high-quality-mobile-audio-editing-discover-the-best-alternatives-to-audacity-on-your-android-device-for-2024/"><u>Updated High-Quality Mobile Audio Editing Discover the Best Alternatives to Audacity on Your Android Device for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-whos-at-the-forefront-of-tiktok-gaming/"><u>In 2024, Who's at the Forefront of TikTok Gaming?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/diving-deep-into-lyric-video-designs-powered-by-lyric-video-maker-for-2024/"><u>Diving Deep Into Lyric Video Designs, Powered by Lyric Video Maker for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-reimagined-analysis-new-developments-in-sonys-s6500-bdhd/"><u>In 2024, Reimagined Analysis  New Developments in Sony's S6500 BD/HD</u></a></li>
+</ul></div>

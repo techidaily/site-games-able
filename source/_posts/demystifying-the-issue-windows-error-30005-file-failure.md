@@ -1,7 +1,7 @@
 ---
 title: "Demystifying the Issue: Windows' Error 30005 File Failure"
-date: 2024-06-21 17:51:31
-updated: 2024-06-24 12:24:57
+date: 2024-06-25T13:20:02.101Z
+updated: 2024-06-26T13:20:02.101Z
 tags:
   - games
 categories:
@@ -75,25 +75,25 @@ If you encounter the same error again, proceed to the next step.
 
  If your game files get corrupted, Easy Anti-Cheat will consider it unauthorized tampering. Therefore, repairing them is essential. Some game clients allow you to repair corrupt files from within the client; therefore, if the game you're running offers this functionality, go ahead and repair the corrupt files.
 
- If you have installed the game through Steam, you can repair your game files more easily. In our guide on[repairing game files using different launchers](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/#how-to-verify-game-file-integrity-on-steam) , we have covered the process for verifying the integrity of game files (or fixing corrupt game files) in Steam. So, follow the relevant instructions to repair corrupt files.
+ If you have installed the game through Steam, you can repair your game files more easily. In our guide on [repairing game files using different launchers](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/#how-to-verify-game-file-integrity-on-steam) , we have covered the process for verifying the integrity of game files (or fixing corrupt game files) in Steam. So, follow the relevant instructions to repair corrupt files.
 
 ## 4\. Whitelist Easy Anti-Cheat in Windows Defender or Antivirus
 
  Even though Easy Anti-Cheat is a trusted service, Microsoft Defender or antivirus software you use may consider it a threat and block it. Once blocked, Easy Anti-Cheat won't be able to create the file it needs to, and the game launcher will display this error. Therefore, you should ensure it isn't the cause of the problem.
 
- Disable both programs to determine if Windows Defender or an antivirus program is causing the problem. Check out our guide on[how to disable Windows Defender](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) . There should be a similar option in your antivirus program's settings. Use that to disable it. Once both programs have been disabled, run the game again and see if the error occurs.
+ Disable both programs to determine if Windows Defender or an antivirus program is causing the problem. Check out our guide on [how to disable Windows Defender](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) . There should be a similar option in your antivirus program's settings. Use that to disable it. Once both programs have been disabled, run the game again and see if the error occurs.
 
  If the game launches successfully this time, that confirms the problem lies with Windows Defender or a third-party antivirus program that you're using. If you don't enable either of these programs, you won't encounter this error again, but disabling them puts your device at risk.
 
  So, instead of doing that, you should whitelist Easy Anti-Cheat from Windows Defender and your antivirus program. Doing so will prevent either of these apps from blocking the Easy Anti-Cheat program, and both apps will continue to do their job of catching viruses.
 
- If you aren't familiar with the process to whitelist apps, check out our guide on[how to allow apps through Windows Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) . Likewise, visit the official website of the antivirus you're using. There, you'll find the instructions to whitelist apps in that particular software.
+ If you aren't familiar with the process to whitelist apps, check out our guide on [how to allow apps through Windows Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) . Likewise, visit the official website of the antivirus you're using. There, you'll find the instructions to whitelist apps in that particular software.
 
 ## 5\. Disable Kernel-Mode Hardware-Enforced Stack Protection
 
- Activating Kernel-mode Hardware-enforced Stack Protection, a security feature on Windows, interferes with Easy Anti-Cheat software, as reported by a user in a[Microsoft Community forum](https://answers.microsoft.com/en-us/windows/forum/all/kernel-mode-hardware-enforced-stack-protection/e6a47f27-fd08-4ce1-bc64-ecc4306182d3) . This feature prevents malicious software from interfering with the operating system but can sometimes conflict with safe programs, such as Easy Anti-Cheat.
+ Activating Kernel-mode Hardware-enforced Stack Protection, a security feature on Windows, interferes with Easy Anti-Cheat software, as reported by a user in a [Microsoft Community forum](https://answers.microsoft.com/en-us/windows/forum/all/kernel-mode-hardware-enforced-stack-protection/e6a47f27-fd08-4ce1-bc64-ecc4306182d3) . This feature prevents malicious software from interfering with the operating system but can sometimes conflict with safe programs, such as Easy Anti-Cheat.
 
- One user confirmed in a[Reddit thread](https://www.reddit.com/r/lostarkgame/comments/qn2utd/fix%5Ffor%5Feasyanticheat%5Ferror%5F30005%5Fcreate%5Ffile/) that turning off this security feature fixed the problem. If your processor supports this security feature, turn it off. Here's how you can do that:
+ One user confirmed in a [Reddit thread](https://www.reddit.com/r/lostarkgame/comments/qn2utd/fix%5Ffor%5Feasyanticheat%5Ferror%5F30005%5Fcreate%5Ffile/) that turning off this security feature fixed the problem. If your processor supports this security feature, turn it off. Here's how you can do that:
 
 1. Type**"Windows Security"** in Windows Search and open the**Windows Security** app.
 2. Navigate to the**Device Security** tab in the left sidebar.
@@ -156,3 +156,24 @@ If you encounter the same error again, proceed to the next step.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/unveiling-top-6-gamified-chatgpt-experiences/"><u>Unveiling: Top 6 Gamified ChatGPT Experiences!</u></a></li>
+<li><a href="https://games-able.techidaily.com/bending-no-more-tackling-gpu-display-deformity/"><u>Bending No More: Tackling GPU Display Deformity</u></a></li>
+<li><a href="https://games-able.techidaily.com/unblocking-dxgi-device-hang-issue-error-0x887a0006/"><u>Unblocking DXGI: Device Hang Issue, Error 0X887A0006</u></a></li>
+<li><a href="https://games-able.techidaily.com/bargain-hunters-guide-top-11-gaming-deals-online/"><u>Bargain Hunters' Guide: Top 11 Gaming Deals Online</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-10-gamers-secrets-mastering-steam-games/"><u>Top 10 Gamers' Secrets: Mastering Steam Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-to-handle-xbox-gold-on-series-xs/"><u>Strategies to Handle Xbox Gold on Series X/S</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-your-gaming-setup-switch-keyboardmouse-techniques-72-chars-this-title-is-under-the-limit-needs-reworking-to-fit-more-closely-related-content-but-adhe3/"><u>Master Your Gaming Setup: Switch Keyboard/Mouse Techniques (72 Chars) – This Title Is Under the Limit; Needs Reworking to Fit More Closely Related Content but Adheres to Character Count Constraint.</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-javas-best-game-experiences/"><u>The Ultimate Guide to Java's Best Game Experiences</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-immutable-tiktok-hyperlink-process-for-profiles/"><u>In 2024, Immutable TikTok Hyperlink Process for Profiles</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-magix-image-suite-assessment/"><u>[Updated] MAGIX Image Suite Assessment</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-is-ipogo-not-working-on-samsung-galaxy-m54-5g-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Samsung Galaxy M54 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-video-voyage-to-victory-secrets-from-youtube-stars/"><u>[New] 2024 Approved  Video Voyage to Victory  Secrets From YouTube Stars</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-playbook-iphone-downloading-for-podcast-enthusiasts/"><u>[Updated] The Ultimate Playbook  IPhone Downloading for Podcast Enthusiasts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-encompassing-explanation-what-is-googles-podcast-service/"><u>[New] 2024 Approved  Encompassing Explanation  What Is Google's Podcast Service?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-mastering-instagram-video-edits-ultimate-tutorial-guide/"><u>[Updated] In 2024, Mastering Instagram Video Edits  Ultimate Tutorial Guide</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-want-to-use-wondershare-video-editor-for-an-affordable-price-read-on-to-avail-of-the-filmora-coupon-code-2022-and-enjoy-extra-savings-for-2024/"><u>Updated Want to Use Wondershare Video Editor for an Affordable Price? Read on to Avail of the Filmora Coupon Code 2022 and Enjoy Extra Savings for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+</ul></div>

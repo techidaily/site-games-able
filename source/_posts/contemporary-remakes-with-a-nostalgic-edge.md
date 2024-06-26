@@ -1,7 +1,7 @@
 ---
 title: Contemporary Remakes with a Nostalgic Edge
-date: 2024-06-25T10:41:09.515Z
-updated: 2024-06-26T10:41:09.515Z
+date: 2024-06-25T12:48:36.033Z
+updated: 2024-06-26T12:48:36.033Z
 tags:
   - games
 categories:
@@ -104,9 +104,7 @@ Best for Android
 Best for 90s Kids  
 [$92 at Amazon](https://www.amazon.com/sales-North-America%E3%80%91SEGA-Genesis-Mini-%E3%83%9E%E3%82%B7%E3%83%B3%E9%9D%9E%E4%BE%9D%E5%AD%98/dp/B0B4D19JJ4?tag=makeusw-20&ascsubtag=UUmuoUeUpU2016666&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-modern-retro-consoles%2F&asc%5Fcampaign=Affiliate)
 
-## Our Favorite Modern Retro Consoles in 2023
-
-![Switch OLED](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Switch-OLED.jpg)
+## Our Favorite Modern Retro Consoles in 2023 ![Switch OLED](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Switch-OLED.jpg)
 
 Best Overall
 

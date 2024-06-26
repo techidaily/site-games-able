@@ -1,7 +1,7 @@
 ---
 title: "A New Virtual Frontier: The Meta Quest 3 Story"
-date: 2024-06-23 21:56:30
-updated: 2024-06-24 12:38:35
+date: 2024-06-25T12:57:12.279Z
+updated: 2024-06-26T12:57:12.279Z
 tags:
   - games
 categories:
@@ -105,9 +105,9 @@ But let me back up for a moment.
 
 ![oculus rift development kit 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2013/05/oculus-rift-review-6.jpg)
 
- The[Oculus Dev Kit 1](https://www.makeuseof.com/tag/oculus-rift-development-kit-review-and-giveaway/) was enormous, clunky, and had a sum total of two demos you could play on it—a Tuscany villa, and a single rollercoaster track—but it was enough to convince me that affordable, consumer VR was finally a reality, and it was glorious.
+ The [Oculus Dev Kit 1](https://www.makeuseof.com/tag/oculus-rift-development-kit-review-and-giveaway/) was enormous, clunky, and had a sum total of two demos you could play on it—a Tuscany villa, and a single rollercoaster track—but it was enough to convince me that affordable, consumer VR was finally a reality, and it was glorious.
 
- Fast forward another decade, and VR has been somewhat normalized for me as just another way to play games. I don’t get goosebumps anymore, and I’m just as likely to boot up a flatscreen game as I am to jump into my motion simulator and spin around some tracks with the PSVR2 version of Gran Turismo (read[my PSVR2 review](https://www.makeuseof.com/playstation-vr2-review/) ).
+ Fast forward another decade, and VR has been somewhat normalized for me as just another way to play games. I don’t get goosebumps anymore, and I’m just as likely to boot up a flatscreen game as I am to jump into my motion simulator and spin around some tracks with the PSVR2 version of Gran Turismo (read [my PSVR2 review](https://www.makeuseof.com/playstation-vr2-review/) ).
 
  The true value of the Quest line of mobile-powered headsets has always been the ease of use. Of all the headsets I own (including the PSVR2 and the Valve Index), the Quest 2 is the one I use most often. Not because I have a mountain of games on that platform, but because it's so easy to jump in and play something—anywhere.
 
@@ -123,7 +123,7 @@ But let me back up for a moment.
 
  James Bruce / MakeUseOf
 
- So far, the[Apple Vision Pro](https://www.makeuseof.com/apple-vision-pro-headset-explained/) has offered us the first real glimpse of what Mixed Reality in all its glory could be, by combining a larger VR headset format with full-color passthrough cameras. And with the Quest 3, Meta has taken an enormous swipe at the Apple Vision Pro. The difference is that Meta Quest 3 offers an affordable, “good enough for most” version of that Mixed Reality dream, and it’s available now.
+ So far, the [Apple Vision Pro](https://www.makeuseof.com/apple-vision-pro-headset-explained/) has offered us the first real glimpse of what Mixed Reality in all its glory could be, by combining a larger VR headset format with full-color passthrough cameras. And with the Quest 3, Meta has taken an enormous swipe at the Apple Vision Pro. The difference is that Meta Quest 3 offers an affordable, “good enough for most” version of that Mixed Reality dream, and it’s available now.
 
  More importantly, for the price of one Apple Vision Pro, you could buy six Quest 3s. I know which I’d rather have.
 
@@ -259,7 +259,7 @@ So, how good are the Mixed Reality features of the Quest 3?
 
 ## Quest Link
 
- If you have a desktop PC that’s powerful enough to run VR, you might be wondering whether you should buy a tethered headset or a standalone one like the Quest. But you needn’t pick between the two, because with the[Quest Link feature](https://www.makeuseof.com/oculus-quest-2-into-windows-pc-vr-headset/) , your Quest 3 can become a tethered headset, either via a suitable USB-C or wirelessly through a Wi-Fi 6 router.
+ If you have a desktop PC that’s powerful enough to run VR, you might be wondering whether you should buy a tethered headset or a standalone one like the Quest. But you needn’t pick between the two, because with the [Quest Link feature](https://www.makeuseof.com/oculus-quest-2-into-windows-pc-vr-headset/) , your Quest 3 can become a tethered headset, either via a suitable USB-C or wirelessly through a Wi-Fi 6 router.
 
  I must admit, since I also have a Valve Index, this isn’t something I’ve used a lot in the past, but it offers another compelling reason to buy the Quest 3 over another headset.
 
@@ -277,7 +277,7 @@ So, how good are the Mixed Reality features of the Quest 3?
 
  Sadly, it seems you can’t interact with your desktop this way, so it’s strictly a mirroring view rather than an actual Remote Desktop experience. You’ll still need your mouse and keyboard plugged in and to be physically close to your desktop if you want to actually operate it instead of just observing.
 
- Another alternative to both the Quest Link and Remote Desktop feature is[Virtual Desktop](https://www.meta.com/en-gb/experiences/2017050365004772/) , which is a paid application from a third-party developer. In my experience, it’s more reliable and allows you to interact with your desktop over a fast Wi-Fi connection, as well as playing any PCVR games from Steam or Oculus. You can even emulate a gamepad for regular flat games. However, using the Touch controllers as an Xbox gamepad isn’t exactly intuitive with half your buttons on the other thumb, so you’d better off just pairing a gamepad with your Quest 3 if you’ll be flat gaming.
+ Another alternative to both the Quest Link and Remote Desktop feature is [Virtual Desktop](https://www.meta.com/en-gb/experiences/2017050365004772/) , which is a paid application from a third-party developer. In my experience, it’s more reliable and allows you to interact with your desktop over a fast Wi-Fi connection, as well as playing any PCVR games from Steam or Oculus. You can even emulate a gamepad for regular flat games. However, using the Touch controllers as an Xbox gamepad isn’t exactly intuitive with half your buttons on the other thumb, so you’d better off just pairing a gamepad with your Quest 3 if you’ll be flat gaming.
 
 ## Should You Buy the Meta Quest 3?
 
@@ -317,3 +317,27 @@ So, how good are the Mixed Reality features of the Quest 3?
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/uncover-additional-excitement-fallout-game-series/"><u>Uncover Additional Excitement: Fallout Game Series</u></a></li>
+<li><a href="https://games-able.techidaily.com/sagittariuss-satisfaction-comfortable-gaming-support/"><u>Sagittarius’s Satisfaction: Comfortable Gaming Support</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-top-ranked-gaming-chairs-for-heavyset-heroes/"><u>The Top-Ranked Gaming Chairs for Heavyset Heroes</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-gaming-cost-evolution-analysis/"><u>Steam's Gaming Cost Evolution Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/safeguarding-your-playstation-5-games-with-a-passcode/"><u>Safeguarding Your PlayStation 5 Games with a Passcode</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-win1111s-0x887a0006-error/"><u>Troubleshooting Win11/11's 0X887A0006 Error</u></a></li>
+<li><a href="https://games-able.techidaily.com/hitchless-guide-to-gaming-consoles-refunds-xbox/"><u>Hitchless Guide to Gaming Consoles Refunds (Xbox)</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-erratic-scroll-action-in-mice/"><u>Fixing Erratic Scroll Action in Mice</u></a></li>
+<li><a href="https://games-able.techidaily.com/opera-gx-and-edge-combat-ultimate-gaming-browser-winner/"><u>Opera GX & Edge Combat: Ultimate Gaming Browser Winner?</u></a></li>
+<li><a href="https://games-able.techidaily.com/acquiring-ps5-steamboat-to-fortnite-vip-points/"><u>Acquiring PS5: Steamboat to Fortnite VIP Points</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-descript-ai-voice-enhancing-your-content-through-voice-replication/"><u>Updated 2024 Approved Descript AI Voice Enhancing Your Content Through Voice Replication</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-from-apple-iphone-13-mini-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud From Apple iPhone 13 mini Smoothly</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-merge-videos-without-logos-best-7-software-options/"><u>Updated Merge Videos Without Logos Best 7 Software Options</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/exploring-depths-smoothly-premium-camcorders-for-water-sports/"><u>Exploring Depths Smoothly  Premium Camcorders for Water Sports</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Nubia Red Magic 9 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-perfect-wave-linker-the-podcastists-choice/"><u>2024 Approved  Perfect Wave Linker  The Podcastist's Choice</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-extracting-audio-from-instagram-methods-and-tools/"><u>New Extracting Audio From Instagram Methods and Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-phased-opening-visuals/"><u>[New] Phased Opening Visuals</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/video-splitting-wins-ranking-recorder-titans/"><u>Video Splitting Wins  Ranking Recorder Titans?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premier-digital-applications-for-visual-storytelling/"><u>[Updated] Premier Digital Applications for Visual Storytelling</u></a></li>
+</ul></div>

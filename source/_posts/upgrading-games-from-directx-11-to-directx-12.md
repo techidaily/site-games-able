@@ -1,7 +1,7 @@
 ---
 title: "Upgrading Games: From DirectX 11 to DirectX 12"
-date: 2024-06-23 17:48:39
-updated: 2024-06-24 10:14:34
+date: 2024-06-25T13:28:54.732Z
+updated: 2024-06-26T13:28:54.732Z
 tags:
   - games
 categories:
@@ -22,13 +22,13 @@ thumbnail: https://thmb.techidaily.com/a63a5a9ae6eb1efed5733d165b83ad90e6d4d9274
 
 ![DirectX logo imposed on a photo of a man coding](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/untitled-design-1.jpg)
 
- As explained in[our overview of Microsoft DirectX](https://www.makeuseof.com/tag/everything-need-know-directx-2016/) , DirectX is a collection of application programming interfaces (APIs) used for handling tasks related to multimedia. This includes game programming on Microsoft-based platforms like Windows and Xbox. To provide some context, let's briefly talk about APIs.
+ As explained in [our overview of Microsoft DirectX](https://www.makeuseof.com/tag/everything-need-know-directx-2016/) , DirectX is a collection of application programming interfaces (APIs) used for handling tasks related to multimedia. This includes game programming on Microsoft-based platforms like Windows and Xbox. To provide some context, let's briefly talk about APIs.
 
- An API makes it possible for two or more computer programs to communicate with each other, which we discuss in[our overview of APIs](https://www.makeuseof.com/what-is-api/) . Think of it like a telephone. If your mom texts you with a grocery list, your phone will receive that data and display it for you. That is basically an API.
+ An API makes it possible for two or more computer programs to communicate with each other, which we discuss in [our overview of APIs](https://www.makeuseof.com/what-is-api/) . Think of it like a telephone. If your mom texts you with a grocery list, your phone will receive that data and display it for you. That is basically an API.
 
 ## What Are the Differences Between DirectX 11 and DirectX 12?
 
- So, what are the differences between DirectX 11 and DirectX 12? Put simply, DirectX 12 is the latest version of DirectX. One of the most noticeable differences is how they interact with your hardware. Most games developed with DirectX 11 only utilize between two and four[CPU cores](https://www.makeuseof.com/cpu-vs-vcpu-threads-vs-cores/) . One of these cores usually tells the GPU what to do.
+ So, what are the differences between DirectX 11 and DirectX 12? Put simply, DirectX 12 is the latest version of DirectX. One of the most noticeable differences is how they interact with your hardware. Most games developed with DirectX 11 only utilize between two and four [CPU cores](https://www.makeuseof.com/cpu-vs-vcpu-threads-vs-cores/) . One of these cores usually tells the GPU what to do.
 
  The game then uses the remaining cores to handle various CPU-intensive settings like a game's particles or draw distance. On the other hand, DirectX 12 spreads a CPU's workload across multiple cores and allows every core to talk to the GPU simultaneously.
 
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/a63a5a9ae6eb1efed5733d165b83ad90e6d4d9274
 
  Image Credit: Martin Kerstein/[Guild Wars 2](https://www.guildwars2.com/en/news/guesting-is-coming/)
 
- Believe it or not, it took nine years for ArenaNet to make the switch from DirectX 9 to DirectX 11\. However, some games do support both DirectX 11 and DirectX 12, including Fortnite (read[our Fortnite cheat sheet](https://www.makeuseof.com/tag/fortnite-essentials-cheat-sheet-controls-tips-terms/) ), Battlefield 5, Shadow of the Tomb Raider, and more. Users can switch between DirectX 11 and DirectX 12 in the game settings.
+ Believe it or not, it took nine years for ArenaNet to make the switch from DirectX 9 to DirectX 11\. However, some games do support both DirectX 11 and DirectX 12, including Fortnite (read [our Fortnite cheat sheet](https://www.makeuseof.com/tag/fortnite-essentials-cheat-sheet-controls-tips-terms/) ), Battlefield 5, Shadow of the Tomb Raider, and more. Users can switch between DirectX 11 and DirectX 12 in the game settings.
 
  Now, the fact that some games support both DirectX 11 and 12 has probably got you wondering about in-game performance. Does choosing DX 11 or DX 12 deliver better in-game performance? The following video illustrates the differences between DirectX 11 and DirectX 12 in a range of games, showcasing vital specs such as average frames per second, CPU usage, GPU usage, and more, using an AMD Ryzen 3600, Nvidia GeForce RTX 3060 Ti, and 16GB DDR4 RAM.
 
@@ -91,3 +91,26 @@ thumbnail: https://thmb.techidaily.com/a63a5a9ae6eb1efed5733d165b83ad90e6d4d9274
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/essential-mice-characteristics-for-gamers-5-must-haves-uncovered/"><u>Essential Mice Characteristics for Gamers - 5 Must-Haves Uncovered</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-next-generation-handheld-power-pdw4/"><u>Discover Next Generation Handheld Power - PDW4</u></a></li>
+<li><a href="https://games-able.techidaily.com/balancing-act-when-to-invest-in-your-systems-cpugpu/"><u>Balancing Act: When to Invest in Your System's CPU/GPU</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-indispensable-gaming-accessory-traits/"><u>Exploring Indispensable Gaming Accessory Traits</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-gaming-by-controlling-background-game-bar/"><u>Optimizing Gaming by Controlling Background Game Bar</u></a></li>
+<li><a href="https://games-able.techidaily.com/guaranteeing-perfectly-integrated-pc-components/"><u>Guaranteeing Perfectly Integrated PC Components</u></a></li>
+<li><a href="https://games-able.techidaily.com/reclaiming-unresponsive-controllers-for-windows-systems/"><u>Reclaiming Unresponsive Controllers for Windows Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/three-unconventional-steps-to-re-launch-steam/"><u>Three Unconventional Steps to Re-Launch Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-240hz-displays-the-ultimate-game-setup/"><u>Top 240Hz Displays: The Ultimate Game Setup</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-6-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-nailing-the-perfect-gameplay-with-fbx/"><u>[Updated] 2024 Approved  Nailing the Perfect Gameplay with FBX</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-venture-beyond-final-cut-pro-x-10-impressive-video-editing-software-alternatives/"><u>Updated Venture Beyond Final Cut Pro X 10 Impressive Video Editing Software Alternatives</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-motorola-moto-g34-5g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Motorola Moto G34 5G Device</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-guide-to-outstanding-hdr-cameras/"><u>A Guide to Outstanding HDR Cameras</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-filming-in-full-view-9-tips-for-2024/"><u>The Ultimate Guide to Filming in Full View (9 Tips) for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-nubia-z50-ultra-easily-by-drfone-android/"><u>In 2024, How To Unlock a Nubia Z50 Ultra Easily?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/does-influencing-youtube-metrics-justify-costs-in-2024/"><u>Does Influencing Youtube Metrics Justify Costs, In 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-leading-offline-pc-screen-recording-software-for-2024/"><u>[New] Leading Offline PC Screen Recording Software for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-epic-encounters-a-selection-of-supreme-7-total-war-conflicts/"><u>2024 Approved  Epic Encounters  A Selection of Supreme 7 Total War Conflicts</u></a></li>
+</ul></div>

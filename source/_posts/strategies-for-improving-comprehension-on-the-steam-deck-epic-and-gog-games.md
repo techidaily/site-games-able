@@ -1,7 +1,7 @@
 ---
 title: "Strategies for Improving Comprehension on the Steam Deck: Epic & GOG Games"
-date: 2024-06-22 16:43:18
-updated: 2024-06-24 11:49:31
+date: 2024-06-25T13:37:36.724Z
+updated: 2024-06-26T13:37:36.724Z
 tags:
   - games
 categories:
@@ -66,15 +66,15 @@ thumbnail: https://thmb.techidaily.com/1e51a070d33ae9b31b39fd46bedbd90cddc68c490
 
  If you’re concerned about breaking warranty or have some other reason to be concerned, don’t worry. A Steam Deck is capable of running most PC games, including those on Epic Games. You may have noticed some crossover between the Epic Games and the Steam libraries.
 
- Epic Games has given many games away over the past few years. It's simple to get[free games from Epic Games](https://www.makeuseof.com/how-to-get-free-games-on-the-epic-games-store/) and many gamers have grown a library of such games, preferring this to spending money on the exact same titles on Steam.
+ Epic Games has given many games away over the past few years. It's simple to get [free games from Epic Games](https://www.makeuseof.com/how-to-get-free-games-on-the-epic-games-store/) and many gamers have grown a library of such games, preferring this to spending money on the exact same titles on Steam.
 
- Furthermore, Steam Deck runs a special version of Arch Linux, and has a desktop mode where more games can be installed, if desired. Furthermore, the[Proton compatibility layer software](https://www.makeuseof.com/what-is-steam-proton-how-does-it-run-windows-games-on-steam-deck/) is regularly updated and ensures support for many Windows games.
+ Furthermore, Steam Deck runs a special version of Arch Linux, and has a desktop mode where more games can be installed, if desired. Furthermore, the [Proton compatibility layer software](https://www.makeuseof.com/what-is-steam-proton-how-does-it-run-windows-games-on-steam-deck/) is regularly updated and ensures support for many Windows games.
 
  In short, it’s completely safe to install non-Steam games on your Steam Deck.
 
  Before proceeding, you might want to make things easier for yourself by grabbing a USB keyboard and mouse and a USB type-C hub for the Steam Deck.
 
- While you can use the device’s on-screen keyboard (perhaps the most widely-used[Steam Deck shortcut](https://www.makeuseof.com/steam-deck-shortcuts/) , activated with**Steam + X** ), it is far easier to sign in to Epic Games with a physical keyboard.
+ While you can use the device’s on-screen keyboard (perhaps the most widely-used [Steam Deck shortcut](https://www.makeuseof.com/steam-deck-shortcuts/) , activated with**Steam + X** ), it is far easier to sign in to Epic Games with a physical keyboard.
 
  Otherwise, you’ll be using the right-hand touchpad as a laptop touchpad to control the mouse pointer on your Steam Deck.
 
@@ -98,10 +98,8 @@ thumbnail: https://thmb.techidaily.com/1e51a070d33ae9b31b39fd46bedbd90cddc68c490
 1. First, launch the software, then use the mouse to select**Manage Accounts**  
 ![Log in to Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-login.jpg)
 2. Under GOG, click**Log in** and input your credentials, along with any two-factor authentication
-3. Go to**Library** and browse for the game you want to install  
-![GOG games on the Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-gog-games.jpg)
-4. Click**Install** on the selected game, confirm the installation location and click**Install** again  
-![Install GOG games on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-gog-smac.jpg)
+3. Go to**Library** and browse for the game you want to install ![GOG games on the Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-gog-games.jpg)
+4. Click**Install** on the selected game, confirm the installation location and click**Install** again ![Install GOG games on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-gog-smac.jpg)
 5. After installation is complete, click**Play Now**
 
  Because most GOG games are pre-2005 titles, they have varying compatibility requirements for Steam Deck. To tweak these, highlight the game and click the**Settings** cog icon.
@@ -114,15 +112,14 @@ thumbnail: https://thmb.techidaily.com/1e51a070d33ae9b31b39fd46bedbd90cddc68c490
 
  In the Heroic Games Launcher, click**Manage Accounts** then on the Epic Games panel tap**Log in** .
 
- Enter your Epic Games account credentials and if you have[two-factor authentication](https://www.makeuseof.com/tag/what-is-two-factor-authentication-and-why-you-should-use-it/) set up this will also be required.
+ Enter your Epic Games account credentials and if you have [two-factor authentication](https://www.makeuseof.com/tag/what-is-two-factor-authentication-and-why-you-should-use-it/) set up this will also be required.
 
 You can then install Epic Games on the Steam Deck as follows:
 
 1. Click**Library**
 2. Browse for the game you want
 3. Select the game and click**Install**
-4. Confirm the installation location and click**Install** again  
-![Install Epic Games on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-install.jpg)
+4. Confirm the installation location and click**Install** again ![Install Epic Games on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-install.jpg)
 5. Once the installation has completed, click**Play Now**
 6. Use the**Settings** option to tweak the game’s launch and performance options
 
@@ -149,8 +146,7 @@ This will reboot the Steam Deck into the main console interface.
 3. Press**X**
 4. Select**Uninstall**  
 ![Uninstall a game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-uninstall-game.jpg)
-5. Confirm with**Yes** when prompted  
-![Uninstall an Epic Games title on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-uninstall.jpg)
+5. Confirm with**Yes** when prompted ![Uninstall an Epic Games title on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-uninstall.jpg)
 
 Wait for the process to complete before installing any other games.
 
@@ -179,3 +175,26 @@ Wait for the process to complete before installing any other games.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/visual-enhancements-for-gamers-top-144hz-widescreens/"><u>Visual Enhancements for Gamers: Top 144Hz Widescreens</u></a></li>
+<li><a href="https://games-able.techidaily.com/inquiring-about-the-value-proposition-for-ea-play/"><u>Inquiring About the Value Proposition for EA Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-frame-rate-165hz-monitors/"><u>Elite Frame Rate 165Hz Monitors</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719171155782-gamers-delight-large-scale-arcade-framing/"><u>Gamer's Delight - Large-Scale Arcade Framing</u></a></li>
+<li><a href="https://games-able.techidaily.com/audio-devices-the-game-changer-for-gamers/"><u>Audio Devices: The Game-Changer for Gamers?</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-hardware-and-downloads-for-bg3-lovers/"><u>Dive Into Hardware & Downloads for BG3 Lovers</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-guide-getting-google-play-games-on-desktop/"><u>Essential Guide: Getting Google Play Games on Desktop</u></a></li>
+<li><a href="https://games-able.techidaily.com/inadequacies-hindering-gamefi-from-becoming-a-trend/"><u>Inadequacies Hindering GameFi From Becoming a Trend</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-long-term-win-of-late-game-drops/"><u>The Long-Term Win of Late Game Drops</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/essential-guide-to-capturing-your-screens-stepwise-approach/"><u>Essential Guide to Capturing Your Screens - Stepwise Approach</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-3dr-navigating-the-single-user-realm-of-3d-tech/"><u>2024 Approved  '3DR'  Navigating the Single User Realm of 3D Tech</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-precision-audio-cleanup-advanced-methods-to-eradicate-echo-and-hum/"><u>Updated In 2024, Precision Audio Cleanup Advanced Methods to Eradicate Echo and Hum</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-launching-professional-instagram-starting-an-enterprise-account/"><u>2024 Approved  Launching Professional Instagram  Starting an Enterprise Account</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-enable-and-use-obs-zoom-camera/"><u>In 2024, How to Enable and Use OBS Zoom Camera</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-xiaomi-13t-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-style-spectrum-top-10-discotheme-innovations-by-expert-curators/"><u>[New] 2024 Approved  Style Spectrum  Top 10 DiscoTheme Innovations by Expert Curators</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-revamping-imagery-leading-insta-edits-explored/"><u>[New] 2024 Approved  Revamping Imagery  Leading Insta Edits Explored</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-a-look-at-googles-ar-graphics-and-others/"><u>[New] A Look at Google's AR Graphics & Others</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on OnePlus Nord N30 5G | Dr.fone</u></a></li>
+</ul></div>

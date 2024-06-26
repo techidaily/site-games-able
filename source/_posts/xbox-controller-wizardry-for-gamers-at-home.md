@@ -1,7 +1,7 @@
 ---
 title: Xbox Controller Wizardry for Gamers at Home
-date: 2024-06-21 10:48:30
-updated: 2024-06-24 10:59:12
+date: 2024-06-25T13:06:15.103Z
+updated: 2024-06-26T13:06:15.103Z
 tags:
   - games
 categories:
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 
  Unlike most companies that would rather gobble up your money and make you purchase a new controller every year or two, Xbox has turned a new leaf. Gamers from North America can now purchase official replacement parts from Xbox directly and follow the free tutorials provided to fix their controller themselves.
 
- Replacement parts for all major components are available on[Microsoft's official website](https://www.microsoft.com/en-us/store/b/xbox-repair-parts) , including replacement PCBAs, motor assemblies, shell cases, and buttons. New buttons and shell replacements are available in either black or white, so you can give your controller a whole new look while you’re at it.
+ Replacement parts for all major components are available on [Microsoft's official website](https://www.microsoft.com/en-us/store/b/xbox-repair-parts) , including replacement PCBAs, motor assemblies, shell cases, and buttons. New buttons and shell replacements are available in either black or white, so you can give your controller a whole new look while you’re at it.
 
 ![A disassembled Xbox Series X|S controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/xbox-x-controller-disassembly-4-1.JPG)
 
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 
  Unless you are already well-versed in the inner workings of a video game controller, you are probably going to want to check out one of Xbox’s free tutorials to walk you through the job. Even if you are experienced, it can’t hurt to freshen up your memory before cracking open your controller and fiddling around in there. Luckily for those who are keen to learn this handy new skill,[Xbox Support](https://support.xbox.com/en-us/help/hardware-network/warranty-service/xbox-self-repair) has provided both written instructions for the repair and a YouTube tutorial for visual learners, which you can view above.
 
- If Xbox's tutorials aren't doing the trick for you, you can also learn a variety of repair techniques like[how to fix your drifting Xbox controller](https://www.makeuseof.com/xbox-controller-drift/) or[how to open your Xbox Series X|S Controller](https://www.makeuseof.com/xbox-series-xs-controller-how-to-take-apart/) from our very own experts.
+ If Xbox's tutorials aren't doing the trick for you, you can also learn a variety of repair techniques like [how to fix your drifting Xbox controller](https://www.makeuseof.com/xbox-controller-drift/) or [how to open your Xbox Series X|S Controller](https://www.makeuseof.com/xbox-series-xs-controller-how-to-take-apart/) from our very own experts.
 
 ## Why You Should Fix Your Own Xbox Controller
 
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 
  Now, you can purchase new parts for anywhere between $19.99 to $34.99, depending on what you need. These savings are even more apparent when you’re talking about the Xbox Elite Series 2 Wireless controller.
 
- Not only does fixing your own controller save you money, but it also saves the planet from unnecessary waste. Xbox has done a lot in recent years to reduce its carbon footprint and help its customers do the same, from introducing a[power-saving mode on the Xbox](https://www.makeuseof.com/xbox-shutdown-vs-sleep-mode/) to[crafting a whole Xbox controller out of trash](https://www.makeuseof.com/how-xbox-wireless-controller-remix-edition-make-life-easier/) .
+ Not only does fixing your own controller save you money, but it also saves the planet from unnecessary waste. Xbox has done a lot in recent years to reduce its carbon footprint and help its customers do the same, from introducing a [power-saving mode on the Xbox](https://www.makeuseof.com/xbox-shutdown-vs-sleep-mode/) to [crafting a whole Xbox controller out of trash](https://www.makeuseof.com/how-xbox-wireless-controller-remix-edition-make-life-easier/) .
 
 ![Close up of Xbox Wireless Controller Remix Edition on a Leafy Background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/close-up-of-xbox-wireless-controller-remix-edition-on-a-leafy-background.jpg)
 
@@ -73,3 +73,24 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/verifying-the-real-magic-experience-by-am08-pro/"><u>Verifying the Real Magic Experience by AM08 Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/primes-direct-link-to-your-favorite-twitch-stars/"><u>Prime's Direct Link to Your Favorite Twitch Stars</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-stories-gaming-and-chatgpt/"><u>Unleashing Stories: Gaming and ChatGPT</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-advice-on-epic-steam-linkage/"><u>Expert Advice on Epic-Steam Linkage</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshoot-missing-wordle-streaks-in-apps/"><u>Troubleshoot Missing Wordle Streaks in Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/slim-tech-meets-colorful-fun-with-tecnos-new-releases/"><u>Slim Tech Meets Colorful Fun with Tecno's New Releases</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-leave-a-game-review-on-steam/"><u>How to Leave a Game Review on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719168020295-epic-retro-play-ios-and-nintendo-fusion/"><u>Epic Retro Play: IOS & Nintendo Fusion!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/unleash-your-social-media-potential-with-insta-post-magic-for-2024/"><u>Unleash Your Social Media Potential with Insta Post Magic for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-crafting-crystal-clear-soundscapes-for-home-video-filmmakers-what-you-need-to-know/"><u>Updated Crafting Crystal Clear Soundscapes for Home Video Filmmakers (What You Need to Know )</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-screencasting-simplified-adopting-the-ezvide-method/"><u>In 2024, Screencasting Simplified  Adopting the EZvide Method</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-on-apple-iphone-8-plus-by-drfone-ios/"><u>How to Bypass iCloud Lock on Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/does-buying-youtube-likes-help-boost-your-channel-for-2024/"><u>Does Buying YouTube Likes Help Boost Your Channel for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-vivo-y100-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Vivo Y100 Phones</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-screenrec-made-simple-for-laptop-users/"><u>In 2024, ScreenRec Made Simple for Laptop Users</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-samsung-galaxy-a05-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Samsung Galaxy A05</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-epicmosaic-insta-video-fusion-for-iosandroid/"><u>[Updated] EpicMosaic  Insta Video Fusion for iOS/Android</u></a></li>
+</ul></div>

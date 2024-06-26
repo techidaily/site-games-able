@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Streaming Xbox Games to Steam via GlosSI"
-date: 2024-06-21 10:42:59
-updated: 2024-06-24 12:41:36
+date: 2024-06-25T13:31:24.719Z
+updated: 2024-06-26T13:31:24.719Z
 tags:
   - games
 categories:
@@ -36,25 +36,21 @@ thumbnail: https://thmb.techidaily.com/be8ed6a4e78ad75b0aa927e5deab19fb5e1ff02b9
 
  Image Credit: Flatspot Pictures/[GlosSI](http://glossi.flatspot.pictures/)
 
- GlosSI (formerly known as GloSC) stands for Global (systemwide) Steam Input. It’s a program created by Peter Repukat, also known as Alia5 on[GitHub](https://github.com/Alia5) or Flatspot Software on[YouTube](https://www.youtube.com/@flatspotsoftware5380/videos) .
+ GlosSI (formerly known as GloSC) stands for Global (systemwide) Steam Input. It’s a program created by Peter Repukat, also known as Alia5 on [GitHub](https://github.com/Alia5) or Flatspot Software on [YouTube](https://www.youtube.com/@flatspotsoftware5380/videos) .
 
  GlosSI is intended to be used as an emulator for programs or games that don’t support Steam Input, such as UWP games from the Microsoft Store or Xbox Game Pass. Without Steam Input emulation, you wouldn't be able to use a controller with Steam Link on UWP apps as Steam Link relies on Steam Input for gamepad controls.
 
  Besides Steam Input emulation, GlosSI also allows you to import UWP games to Steam which is a critical part of playing games on Steam Link. Those two features are what you need to play or use almost any UWP program through Steam Link. All you need now is to know how to use the application and get it running.
 
-## How to Install GlosSI to Play Xbox Game Pass Games Through Steam Link
-
-![Minecraft Main menu on tablet connected to Steam Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/minecraft-main-menu-on-tablet-connected-to-steam-link-1.JPG)
+## How to Install GlosSI to Play Xbox Game Pass Games Through Steam Link ![Minecraft Main menu on tablet connected to Steam Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/minecraft-main-menu-on-tablet-connected-to-steam-link-1.JPG)
 
  Image Credit: Jhet Borja
 
  Xbox Game Pass allows you to save a ton of money on games through its affordable subscription model. However, Game Pass lacks the ability to locally stream games to your other devices like a TV or tablet/phone. With GlosSI, you’re able to use Steam Link to play your Game Pass games. Here’s how to set GlosSI up so you can play Microsoft or Xbox Games anywhere in your house:
 
-### Step 1: Download and Install GlosSI
+### Step 1: Download and Install GlosSI ![Download GlosSI installer page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/download-glossi-installer-page.jpg)
 
-![Download GlosSI installer page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/download-glossi-installer-page.jpg)
-
- To download GlosSI, first head to[GlosSI download page](https://glossi.flatspot.pictures/#downloads) and look for the**Download Installer button** .
+ To download GlosSI, first head to [GlosSI download page](https://glossi.flatspot.pictures/#downloads) and look for the**Download Installer button** .
 
 ![GlosSI installing components](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/glossi-installing-components-1.jpg)
 
@@ -62,9 +58,7 @@ thumbnail: https://thmb.techidaily.com/be8ed6a4e78ad75b0aa927e5deab19fb5e1ff02b9
 
  After all the components have been installed, you must restart your PC to make it work.
 
-### Step 2: Import GlosSI-Target to Steam
-
-![GlosSI-Target and GlosSI on Windows Start page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/glossi-target-and-glossi-on-windows-start-page-2.jpg)
+### Step 2: Import GlosSI-Target to Steam ![GlosSI-Target and GlosSI on Windows Start page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/glossi-target-and-glossi-on-windows-start-page-2.jpg)
 
  Now that your PC is restarted, two programs have been added to your PC; the GlosSI-Target and GlosSI. You will be able to see these on your Windows Start menu. You can also search them up if you can’t find them.
 
@@ -104,7 +98,7 @@ thumbnail: https://thmb.techidaily.com/be8ed6a4e78ad75b0aa927e5deab19fb5e1ff02b9
 
 ![GlosSI config selecting UWP app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/glossi-config-selecting-uwp-app-2.jpg)
 
- You’ll then be prompted to select a UWP app, like the Microsoft programs and Xbox Game Pass games that you’ve already downloaded. In our case, we’ll select Aragami 2\. Here are some suggestions on[low-storage Xbox Game Pass games](https://www.makeuseof.com/low-storage-games-on-xbox-game-pass/) that are perfect to play through Steam Link.
+ You’ll then be prompted to select a UWP app, like the Microsoft programs and Xbox Game Pass games that you’ve already downloaded. In our case, we’ll select Aragami 2\. Here are some suggestions on [low-storage Xbox Game Pass games](https://www.makeuseof.com/low-storage-games-on-xbox-game-pass/) that are perfect to play through Steam Link.
 
 ![GlosSI config saving UWP app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/glossi-config-saving-uwp-app-1.jpg)
 
@@ -128,7 +122,7 @@ thumbnail: https://thmb.techidaily.com/be8ed6a4e78ad75b0aa927e5deab19fb5e1ff02b9
 
  Firstly, make sure Remote Play is enabled. Go to**Steam > Settings > Remote Play** and switch on**Enable Remote Play** .
 
- Next, go to your Steam Link device of choice. It can be a TV, phone, tablet, another PC, or wherever you want to stream your games. In our case, we’re going to be using a[Huawei MatePad 11 2023](https://www.makeuseof.com/huawei-matepad-11-2023-review/) .
+ Next, go to your Steam Link device of choice. It can be a TV, phone, tablet, another PC, or wherever you want to stream your games. In our case, we’re going to be using a [Huawei MatePad 11 2023](https://www.makeuseof.com/huawei-matepad-11-2023-review/) .
 
 ![Steam Link Start Playing button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/steam-link-start-playing-button-1.JPG)
 
@@ -144,7 +138,7 @@ thumbnail: https://thmb.techidaily.com/be8ed6a4e78ad75b0aa927e5deab19fb5e1ff02b9
 
  Image Credit: Jhet Borja
 
- Once it’s authorized, Steam will open up in Big Picture mode and stream to your Steam Link device. If you’re having trouble setting this up, check out[how to fix Steam Remote Play on Windows](https://www.makeuseof.com/windows-steam-remote-play-not-working/) .
+ Once it’s authorized, Steam will open up in Big Picture mode and stream to your Steam Link device. If you’re having trouble setting this up, check out [how to fix Steam Remote Play on Windows](https://www.makeuseof.com/windows-steam-remote-play-not-working/) .
 
  Head to the UWP game you just added and connect your controller of choice, or use the on-screen controls. In my case, I’m plugging in an Xbox 360 controller through an OTG adapter into my tablet.
 
@@ -177,3 +171,27 @@ thumbnail: https://thmb.techidaily.com/be8ed6a4e78ad75b0aa927e5deab19fb5e1ff02b9
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/embracing-netflix-gaming-a-winning-experience/"><u>Embracing Netflix Gaming – A Winning Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/opera-vs-edge-the-ultimate-browser-face-off-for-gamers/"><u>Opera Vs. Edge - The Ultimate Browser Face-Off for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-use-playstation-4-on-your-windows-or-macos-device/"><u>How to Use PlayStation 4 on Your Windows or macOS Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/reactivate-lost-wordle-streak-iosandroid-fixes/"><u>Reactivate Lost Wordle Streak: IOS/Android Fixes</u></a></li>
+<li><a href="https://games-able.techidaily.com/smart-cooling-tech-top-choices-for-a-steam-deck-lover/"><u>Smart Cooling Tech: Top Choices for a Steam Deck Lover</u></a></li>
+<li><a href="https://games-able.techidaily.com/counteracting-steams-reacquire-data-alert/"><u>Counteracting Steam's Reacquire Data Alert</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-lost-gps-connection-in-pokemon-adventure/"><u>Troubleshooting Lost GPS Connection in Pokémon Adventure</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-duality-of-pimax-crystal-headset-sharpness-vs-stability/"><u>The Duality of Pimax Crystal Headset: Sharpness vs Stability</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-playnite-on-television/"><u>The Ultimate Guide to Playnite on Television</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-nvidia-g-sync-enhancing-gameplay-through-seamless-graphics/"><u>Unveiling Nvidia G-Sync: Enhancing Gameplay Through Seamless Graphics</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unlocking-verified-status-essential-strategies-for-increasing-instagram-popularity-for-2024/"><u>Unlocking Verified Status  Essential Strategies for Increasing Instagram Popularity for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-a-duel-of-viewers-google-cardboard-vs-samsung-vr/"><u>[New] A Duel of Viewers  Google Cardboard Vs. Samsung VR</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-amazon-primes-social-success-stories-likes-and-watches-galore/"><u>[New] In 2024, Amazon Prime’s Social Success Stories  Likes & Watches Galore</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-telegram-tactics-for-aspiring-marketers-a-compreeher-guide/"><u>In 2024, Telegram Tactics for Aspiring Marketers  A Compreeher Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-on-apple-iphone-xs-max-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on Apple iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-create-the-night-to-day-effect-videos/"><u>Updated Create the Night-to-Day Effect Videos</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-nokia-c12-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Nokia C12 Device SIM</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-vertical-video-mastery-top-editing-apps-for-iphone-and-android/"><u>New Vertical Video Mastery Top Editing Apps for iPhone and Android</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/exploring-discord-nitro-vip-access-and-the-steps-for-obtainment-for-2024/"><u>Exploring Discord Nitro  VIP Access & The Steps for Obtainment for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-discover-top-9-podcast-microphone-models-designed-for-expert-level-use/"><u>Updated 2024 Approved Discover Top 9 Podcast Microphone Models Designed for Expert Level Use</u></a></li>
+</ul></div>

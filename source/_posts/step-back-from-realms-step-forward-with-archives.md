@@ -1,7 +1,7 @@
 ---
 title: Step Back From Realms, Step Forward with Archives
-date: 2024-06-22 18:34:27
-updated: 2024-06-24 11:29:39
+date: 2024-06-25T13:20:31.803Z
+updated: 2024-06-26T13:20:31.803Z
 tags:
   - games
 categories:
@@ -20,19 +20,15 @@ thumbnail: https://thmb.techidaily.com/270d60dd7eabb30b6772ffb66d3ea0dacdceb2788
 
  In this guide, we’ll be using the Microsoft account to unsubscribe from Minecraft Realms. If you’re on a different platform on Bedrock Edition, you should still be able to find your subscription on your Microsoft account if you made the purchase with it. If you made the purchase using Google Play, PlayStation, Amazon, or iOS, you will need to find the subscription manangement settings on your respective platform.
 
-### 1\. Open Your Microsoft Order History
+### 1\. Open Your Microsoft Order History ![Xbox Account main page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/xbox-account-main-page.jpg)
 
-![Xbox Account main page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/xbox-account-main-page.jpg)
-
- To get to your Microsoft account, you can open it from the Xbox app on PC. Click on your profile name on the upper left, then click**Settings > Account > View order history** . This will open up your[Microsoft order history](https://account.microsoft.com/billing/orders/) .
+ To get to your Microsoft account, you can open it from the Xbox app on PC. Click on your profile name on the upper left, then click**Settings > Account > View order history** . This will open up your [Microsoft order history](https://account.microsoft.com/billing/orders/) .
 
 ![View order history on Xbox Game Pass](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/view-order-history-on-xbox-game-pass.jpg)
 
- Alternatively, you can head directly to[Microsoft Services & Subscriptions](https://account.microsoft.com/services) which is where you’ll eventually end up.
+ Alternatively, you can head directly to [Microsoft Services & Subscriptions](https://account.microsoft.com/services) which is where you’ll eventually end up.
 
-### 2\. Manage Your Minecraft Realms Subscriptions and Unsubscribe
-
-![Microsoft Account Orders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/microsoft-account-orders.jpg)
+### 2\. Manage Your Minecraft Realms Subscriptions and Unsubscribe ![Microsoft Account Orders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/microsoft-account-orders.jpg)
 
  If you’re on the order history page, find your Minecraft Realms order and click on**Manage Subscription** . This will take you to the previously linked Services & Subscriptions page.
 
@@ -52,15 +48,13 @@ thumbnail: https://thmb.techidaily.com/270d60dd7eabb30b6772ffb66d3ea0dacdceb2788
 
  For both the Java and Bedrock Editions, your personal server will go offline, meaning neither you nor your friends will be able to join your Realm. On the Bedrock Edition, you’ll also lose access to the free Marketplace content from Realms Plus.
 
- You won’t lose your Realms world immediately, and the backups will still exist. However, the Realms servers will only keep them for 18 months. We’ll be covering how to download your Minecraft Realms backups for offline play or on[free Minecraft server hosting services](https://www.makeuseof.com/how-to-set-up-minecraft-server-free/) .
+ You won’t lose your Realms world immediately, and the backups will still exist. However, the Realms servers will only keep them for 18 months. We’ll be covering how to download your Minecraft Realms backups for offline play or on [free Minecraft server hosting services](https://www.makeuseof.com/how-to-set-up-minecraft-server-free/) .
 
 ## How to Download Your Minecraft Realms Worlds After Unsubscribing
 
  If you don’t want to lose your backups, you should download them locally. Here’s how to download your backups and find the files so you can use them elsewhere.
 
-### Downloading Your World on Minecraft Java Edition
-
-![Configure button Minecraft Realms Java Edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/configure-button-minecraft-realms-java-edition.jpg)
+### Downloading Your World on Minecraft Java Edition ![Configure button Minecraft Realms Java Edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/configure-button-minecraft-realms-java-edition.jpg)
 
  To back up a Java Edition Realm world, select the Realm that contains the world you want to back up and click**Configure** .
 
@@ -74,11 +68,9 @@ thumbnail: https://thmb.techidaily.com/270d60dd7eabb30b6772ffb66d3ea0dacdceb2788
 
 ![Minecraft Java Edition world saves file location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/minecraft-java-edition-world-saves-file-location.jpg)
 
- Once it’s saved, it’ll show up in your single-player worlds with your username. In this case it’s Majikoeda. The file location can be found in**AppData/Roaming/.minecraft/saves** in case you want to move it to a different device, upload it to a server hosting service, or save it on Google Drive. That file location can also be used to[add downloadable Minecraft maps](https://www.makeuseof.com/how-to-download-install-minecraft-maps/) .
+ Once it’s saved, it’ll show up in your single-player worlds with your username. In this case it’s Majikoeda. The file location can be found in**AppData/Roaming/.minecraft/saves** in case you want to move it to a different device, upload it to a server hosting service, or save it on Google Drive. That file location can also be used to [add downloadable Minecraft maps](https://www.makeuseof.com/how-to-download-install-minecraft-maps/) .
 
-### Downloading Your World on Minecraft Bedrock Edition
-
-![Pencil button on Minecraft Realms Bedrock Edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/pencil-button-on-minecraft-realms-bedrock-edition.jpg)
+### Downloading Your World on Minecraft Bedrock Edition ![Pencil button on Minecraft Realms Bedrock Edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/pencil-button-on-minecraft-realms-bedrock-edition.jpg)
 
  To back up a Realm world on the Bedrock Edition, click Play. Then, on the Realms section, click the**pencil icon** on the Realm you want to back up.
 
@@ -113,3 +105,27 @@ thumbnail: https://thmb.techidaily.com/270d60dd7eabb30b6772ffb66d3ea0dacdceb2788
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/top-notch-nintendo-switch-audio-experience/"><u>Top-Notch Nintendo Switch Audio Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-steams-disk-manager-efficiently/"><u>Navigating Steam's Disk Manager Efficiently</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-the-nintendo-switch-online-packaging/"><u>Understanding the Nintendo Switch Online Packaging</u></a></li>
+<li><a href="https://games-able.techidaily.com/eas-pricing-jab-i-retreat-from-subscription-life/"><u>EA’s Pricing Jab, I Retreat From Subscription Life</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-showdown-ps5-versus-low-cost-gaming-machine/"><u>Next-Gen Showdown: PS5 Versus Low-Cost Gaming Machine</u></a></li>
+<li><a href="https://games-able.techidaily.com/galactic-genius-reviews-uncovering-top-brand-pcs/"><u>Galactic Genius Reviews: Uncovering Top Brand PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-lost-games-to-clean-start-ps4-recovery/"><u>From Lost Games to Clean Start: PS4 Recovery</u></a></li>
+<li><a href="https://games-able.techidaily.com/securely-tear-down-previous-game-saves-on-playstation-5/"><u>Securely Tear Down Previous Game Saves on PlayStation 5</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-streaming-your-desktop-adventures-to-steam-deck/"><u>Step-by-Step: Streaming Your Desktop Adventures to Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-240hz-displays-the-ultimate-game-setup/"><u>Top 240Hz Displays: The Ultimate Game Setup</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-best-7-photo-talking-ai/"><u>Updated Best 7 Photo Talking AI</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-elevating-your-listening-palette-with-youtube-music-for-2024/"><u>[Updated] Elevating Your Listening Palette with YouTube Music for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-realme-v30t-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Realme V30T? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2020-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE (2020) without Passcode or Face ID</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-spicing-up-chats-with-gifs-a-complete-snapchat-tutorial/"><u>In 2024, Spicing Up Chats with GIFs  A Complete Snapchat Tutorial</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-live-broadcast-plus-media-management-at-your-fingertips/"><u>In 2024, Live Broadcast + Media Management at Your Fingertips</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-from-silence-to-soundtrack-transforming-video-narratives-using-filmoras-audio-tools/"><u>New From Silence to Soundtrack Transforming Video Narratives Using Filmoras Audio Tools</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-chromebook-hacks-installing-linux-for-enhanced-productivity/"><u>In 2024, Chromebook Hacks Installing Linux for Enhanced Productivity</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-step-by-step-srt-addition-to-mp4s-for-next-level-audio/"><u>[Updated] Step-by-Step SRT Addition to MP4s for Next-Level Audio</u></a></li>
+</ul></div>

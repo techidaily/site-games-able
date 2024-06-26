@@ -1,7 +1,7 @@
 ---
 title: Zero Internet, No Problem - List of Phone Game Delights
-date: 2024-06-25T10:41:04.668Z
-updated: 2024-06-26T10:41:04.668Z
+date: 2024-06-25T12:48:35.978Z
+updated: 2024-06-26T12:48:35.978Z
 tags:
   - games
 categories:
@@ -20,13 +20,13 @@ thumbnail: https://thmb.techidaily.com/1c9229fb0800113350dfae57f612d2aef9036646b
 
 ## 1\. Alto's Odyssey
 
- There's no doubt that Alto's Odyssey is one of[the most beautiful games you can play on your smartphone](https://www.makeuseof.com/tag/5-games-pretty-youll-forget-theyre-played-smartphone/) . But that's not all; it's also incredibly fun to play.
+ There's no doubt that Alto's Odyssey is one of [the most beautiful games you can play on your smartphone](https://www.makeuseof.com/tag/5-games-pretty-youll-forget-theyre-played-smartphone/) . But that's not all; it's also incredibly fun to play.
 
  Alto's Odyssey has everything that made its predecessor, Alto's Adventure, great. That means intuitive and easy-to-learn controls, a beautiful atmosphere, and many places to explore. Your goal is to go as far as you can, exploring different places and learning their secrets.
 
- Along the way, you'll also unlock other characters you can use on your adventure. Overall, this game is extremely fun, and you'll love experiencing a new world with beautiful places. And if you think[Apple Arcade is worth it](https://www.makeuseof.com/is-apple-arcade-worth-it-in-2021/) , then you'll love playing Alto's Odyssey — Remastered, which looks even better than the original.
+ Along the way, you'll also unlock other characters you can use on your adventure. Overall, this game is extremely fun, and you'll love experiencing a new world with beautiful places. And if you think [Apple Arcade is worth it](https://www.makeuseof.com/is-apple-arcade-worth-it-in-2021/) , then you'll love playing Alto's Odyssey — Remastered, which looks even better than the original.
 
-**Download:** Alto's Odyssey for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU36652/https://play.google.com/store/apps/details?id=com.noodlecake.altosodyssey&hl=en%5FUS&gl=US) (free, in-app purchases available) |[iOS](https://apps.apple.com/app/altos-odyssey/id1182456409) ($0.99)
+**Download:** Alto's Odyssey for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU36652/https://play.google.com/store/apps/details?id=com.noodlecake.altosodyssey&hl=en%5FUS&gl=US) (free, in-app purchases available) |[iOS](https://apps.apple.com/app/altos-odyssey/id1182456409) ($0.99)
 
 ## 2\. Plague Inc
 
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/1c9229fb0800113350dfae57f612d2aef9036646b
 
  It sounds like it would be easy, but this is a strategy game at its core—not so difficult that you'll want to give up, but it offers enough of a challenge to keep you playing. Every country will try its best to stop the plague, so you'll need to be quick and smart to stop them.
 
-**Download:** Plague Inc. for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU36652/https://play.google.com/store/apps/details?id=com.miniclip.plagueinc) (free, in-app purchases available) |[iOS](https://apps.apple.com/app/plague-inc/id525818839) ($0.99)
+**Download:** Plague Inc. for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU36652/https://play.google.com/store/apps/details?id=com.miniclip.plagueinc) (free, in-app purchases available) |[iOS](https://apps.apple.com/app/plague-inc/id525818839) ($0.99)
 
 ## 3\. Shattered Pixel Dungeon
 
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/1c9229fb0800113350dfae57f612d2aef9036646b
 
  This means that no two playthroughs are ever the same. It's unique every time, so it'll be a long time before you get bored of playing this one.
 
-**Download:** Shattered Pixel Dungeon for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU36652/https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon) (free, in-app purchases available) |[iOS](https://apps.apple.com/us/app/shattered-pixel-dungeon/id1563121109) ($4.99)
+**Download:** Shattered Pixel Dungeon for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU36652/https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon) (free, in-app purchases available) |[iOS](https://apps.apple.com/us/app/shattered-pixel-dungeon/id1563121109) ($4.99)
 
 ## 4\. Unblock Me
 
@@ -50,21 +50,21 @@ thumbnail: https://thmb.techidaily.com/1c9229fb0800113350dfae57f612d2aef9036646b
 
  It's a puzzle game, obviously, harder than you might expect—but in a fun, addictive way. At first, you won't have a problem with any level, but as you go forward, you'll have to stop and think about your next move. It pushes you to think outside the box, and each victory is quite satisfying.
 
-**Download:** Unblock Me for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU36652/https://play.google.com/store/apps/details?id=com.kiragames.unblockmefree) |[iOS](https://apps.apple.com/app/unblock-me-free/id315019111) (free, in-app purchases available)
+**Download:** Unblock Me for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU36652/https://play.google.com/store/apps/details?id=com.kiragames.unblockmefree) |[iOS](https://apps.apple.com/app/unblock-me-free/id315019111) (free, in-app purchases available)
 
 ## 5\. Doodle Jump
 
- Doodle Jump is a never-ending vertical jumper. In contrast to a lot of popular endless runner games, Doodle Jump feels less frantic and chaotic. Instead, it's addictive and one of[the best mobile games to kill time](https://www.makeuseof.com/tag/fast-fun-free-mobile-games/) .
+ Doodle Jump is a never-ending vertical jumper. In contrast to a lot of popular endless runner games, Doodle Jump feels less frantic and chaotic. Instead, it's addictive and one of [the best mobile games to kill time](https://www.makeuseof.com/tag/fast-fun-free-mobile-games/) .
 
  Your goal is to climb each level as high as you can go. Just make sure you don't fall or collide with any enemies. There are lots of unique obstacles that pose a challenge, but there are also many power-ups to help you out. Of course, if you want something more modern, you can also try Doodle Jump 2, but you really can't beat the classics.
 
-**Download:** Doodle Jump for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU36652/https://play.google.com/store/apps/details?id=com.lima.doodlejump) (free, in-app purchases available) |[iOS](https://apps.apple.com/app/doodle-jump/id307727765) ($0.99)
+**Download:** Doodle Jump for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU36652/https://play.google.com/store/apps/details?id=com.lima.doodlejump) (free, in-app purchases available) |[iOS](https://apps.apple.com/app/doodle-jump/id307727765) ($0.99)
 
 ## 6\. Mini Metro
 
- Mini Metro must be one of the[most relaxing strategy games](https://www.makeuseof.com/relaxing-mobile-games/) ever made. Ever wanted to be a subway network planner, trying to maximize passenger pickup/dropoff efficiency while chilling to the calm, rhythmic bopping of ambient sounds? Then this is the game for you, and we believe everyone should try it at least once.
+ Mini Metro must be one of the [most relaxing strategy games](https://www.makeuseof.com/relaxing-mobile-games/) ever made. Ever wanted to be a subway network planner, trying to maximize passenger pickup/dropoff efficiency while chilling to the calm, rhythmic bopping of ambient sounds? Then this is the game for you, and we believe everyone should try it at least once.
 
-**Download:** Mini Metro for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU36652/https://play.google.com/store/apps/details?id=nz.co.codepoint.minimetro) ($1.06) |[iOS](https://apps.apple.com/app/mini-metro/id837860959) ($3.99)
+**Download:** Mini Metro for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU36652/https://play.google.com/store/apps/details?id=nz.co.codepoint.minimetro) ($1.06) |[iOS](https://apps.apple.com/app/mini-metro/id837860959) ($3.99)
 
 ## 7\. Cut the Rope
 
@@ -72,31 +72,31 @@ thumbnail: https://thmb.techidaily.com/1c9229fb0800113350dfae57f612d2aef9036646b
 
  Even since the massive popularity of Cut the Rope, there have been many new sequels to the game, but the original Cut the Rope is still just as fun, and you should definitely give it a shot.
 
-**Download:** Cut the Rope for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU36652/https://play.google.com/store/apps/details?id=com.zeptolab.ctr.ads) |[iOS](https://apps.apple.com/app/cut-the-rope/id1024506959) (Free, in-app purchases available)
+**Download:** Cut the Rope for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU36652/https://play.google.com/store/apps/details?id=com.zeptolab.ctr.ads) |[iOS](https://apps.apple.com/app/cut-the-rope/id1024506959) (Free, in-app purchases available)
 
 ## 8\. Super Hexagon
 
- Looking for a tough game that doesn't treat you like a child? Super Hexagon is that game. It's really simple but really hard—in fact, it's one of[the hardest games](https://www.makeuseof.com/tag/the-hardest-games-in-the-whole-wide-world/) available. The average player loses their first game in three seconds.
+ Looking for a tough game that doesn't treat you like a child? Super Hexagon is that game. It's really simple but really hard—in fact, it's one of [the hardest games](https://www.makeuseof.com/tag/the-hardest-games-in-the-whole-wide-world/) available. The average player loses their first game in three seconds.
 
  What's great about Super Hexagon is that it's hard but fair. Every loss is your fault, making you want to try again. With enough practice, everyone can eventually beat this game (assuming they don't give up first).
 
-**Download:** Super Hexagon for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU36652/https://play.google.com/store/apps/details?id=com.distractionware.superhexagon) |[iOS](https://apps.apple.com/us/app/super-hexagon/id549027629) ($2.99)
+**Download:** Super Hexagon for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU36652/https://play.google.com/store/apps/details?id=com.distractionware.superhexagon) |[iOS](https://apps.apple.com/us/app/super-hexagon/id549027629) ($2.99)
 
 ## 9\. Papers, Please
 
- Papers, Please is one of the[best console games you can play on your smartphone](https://www.makeuseof.com/tag/console-games-android-iphone/) . Its story is intriguing, the characters are unique, mysterious, and sometimes even funny, and every decision you make in the game can save or destroy your—and your family's—life.
+ Papers, Please is one of the [best console games you can play on your smartphone](https://www.makeuseof.com/tag/console-games-android-iphone/) . Its story is intriguing, the characters are unique, mysterious, and sometimes even funny, and every decision you make in the game can save or destroy your—and your family's—life.
 
  You'll play as an immigration officer from Arstotzka, a fictional land that recently ended a war. Your job is to make sure everyone is allowed to enter your country and that they're not looking for trouble. Of course, you'll soon realize that playing as an immigration officer is more exciting than it sounds.
 
-**Download:** Papers, Please for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU36652/https://play.google.com/store/apps/details?id=com.llc3909.papersplease) ($5.04) |[iOS](https://apps.apple.com/app/papers-please/id935216956) ($4.99)
+**Download:** Papers, Please for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU36652/https://play.google.com/store/apps/details?id=com.llc3909.papersplease) ($5.04) |[iOS](https://apps.apple.com/app/papers-please/id935216956) ($4.99)
 
 ## 10\. Wordsmyth
 
- Wordsmyth is a relaxing word game that you'll love if you are part of[the Wordle trend](https://www.makeuseof.com/what-is-wordle/) . This game will give you nine different letters, and your job is to find as many words as possible. Don't worry; the game will give you as many hints as you need if you get stuck.
+ Wordsmyth is a relaxing word game that you'll love if you are part of [the Wordle trend](https://www.makeuseof.com/what-is-wordle/) . This game will give you nine different letters, and your job is to find as many words as possible. Don't worry; the game will give you as many hints as you need if you get stuck.
 
- Every day, you'll get a new set of letters and words for you to find, but you can always go back to the previous day in case you want to finish before starting a new day. Overall, this is one of the[best word games you can play on your smartphone](https://www.makeuseof.com/tag/free-mobile-single-player-word-games/) .
+ Every day, you'll get a new set of letters and words for you to find, but you can always go back to the previous day in case you want to finish before starting a new day. Overall, this is one of the [best word games you can play on your smartphone](https://www.makeuseof.com/tag/free-mobile-single-player-word-games/) .
 
-**Download:** Wordsmyth for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU36652/https://play.google.com/store/apps/details?id=com.RDaES.Wordsmyth.Word) |[iOS](https://apps.apple.com/app/wordsmyth-boggle-relaxed/id1534959553) ($2.99)
+**Download:** Wordsmyth for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU36652/https://play.google.com/store/apps/details?id=com.RDaES.Wordsmyth.Word) |[iOS](https://apps.apple.com/app/wordsmyth-boggle-relaxed/id1534959553) ($2.99)
 
 ## 11\. Journey
 
@@ -104,7 +104,7 @@ thumbnail: https://thmb.techidaily.com/1c9229fb0800113350dfae57f612d2aef9036646b
 
  Journey takes you on an adventure through a unique world you've never experienced before, and you'll love every minute of it.
 
-**Download:** Journey for[iOS](https://apps.apple.com/app/journey/id1445593893) ($2.99)
+**Download:** Journey for [iOS](https://apps.apple.com/app/journey/id1445593893) ($2.99)
 
 ## Which Fun Mobile Games Are You Playing?
 

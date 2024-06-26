@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Gaming Value: V-Bucks on PlayStation 5"
-date: 2024-06-25T10:42:26.544Z
-updated: 2024-06-26T10:42:26.544Z
+date: 2024-06-25T12:48:36.859Z
+updated: 2024-06-26T12:48:36.859Z
 tags:
   - games
 categories:
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
 
  The first thing you must do to get V-Bucks is ready a payment method. There are generally two options: fund your PSN wallet with a gift card (or credit/debit card or PayPal account) or add a functioning payment method to your PS5.
 
- The methods are a bit long, so we’ve detailed it in our dedicated guide on[how to add funds to your PSN wallet on a PS5](https://www.makeuseof.com/add-psn-wallet-funds-and-buy-games-on-ps5/) . You’ll find where to add payment methods in **Settings > Users and Accounts > Accounts > Payment and Subscriptions > Payment Methods** . You could also redeem a gift card in the**Redeem Codes** section of the Payment and Subscriptions panel.
+ The methods are a bit long, so we’ve detailed it in our dedicated guide on [how to add funds to your PSN wallet on a PS5](https://www.makeuseof.com/add-psn-wallet-funds-and-buy-games-on-ps5/) . You’ll find where to add payment methods in **Settings > Users and Accounts > Accounts > Payment and Subscriptions > Payment Methods** . You could also redeem a gift card in the**Redeem Codes** section of the Payment and Subscriptions panel.
 
  Fortnite won’t charge you tax for buying V-Bucks, so you don’t have to worry about unexpected inflated prices.
 

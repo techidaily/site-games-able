@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Dual-Boot Potential: Deck with Two Operating Systems"
-date: 2024-06-22 16:27:15
-updated: 2024-06-23 12:11:31
+date: 2024-06-25T13:33:28.004Z
+updated: 2024-06-26T13:33:28.005Z
 tags:
   - games
 categories:
@@ -120,9 +120,7 @@ Jhet Borja/MUO
 2. git clone <https://github.com/ryanrudolfoba/SteamDeck-Clover-dualboot>
 3. cd ~/SteamDeck-Clover-dualboot
 4. chmod +x install-Clover.sh
-5. ./install-Clover.sh
-
-![Clover successfully installed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/clover-successfully-installed.jpg)
+5. ./install-Clover.sh ![Clover successfully installed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/clover-successfully-installed.jpg)
 
  After the last command, you’ll have to enter your sudo password to start installing Clover on your Steam Deck.
 
@@ -138,9 +136,7 @@ Jhet Borja / MakeUseOf
 
  The Clover dual boot manager isn’t an official Steam dual boot wizard as Valve is still working on that. This means you might face a few issues. Here are a few fixes in case you run into these problems...
 
-### 1\. You Can’t Find SteamOS in the Boot Manager
-
-![No SteamOS option in boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/no-steamos-option-in-boot-manager.JPG)
+### 1\. You Can’t Find SteamOS in the Boot Manager ![No SteamOS option in boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/no-steamos-option-in-boot-manager.JPG)
 
 Jhet Borja/MUO
 
@@ -158,15 +154,11 @@ Jhet Borja/MakeUseOf
 
  To put SteamOS back on the boot manager, open up Konsole in desktop mode on your Steam Deck and enter this:
 
-sudo efibootmgr -c -L "SteamOS" -l "\EFI\steamos\steamcl.efi" -d /dev/nvme0n1p1
-
-![Konsole command to make SteamOS appear in boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/konsole-command-to-make-steamos-appear-in-boot-manager.JPG)
+sudo efibootmgr -c -L "SteamOS" -l "\EFI\steamos\steamcl.efi" -d /dev/nvme0n1p1 ![Konsole command to make SteamOS appear in boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/konsole-command-to-make-steamos-appear-in-boot-manager.JPG)
 
  This should put it back on the boot manager so that you don’t have to boot from the file anymore.
 
-### 2\. Setting a Sudo Password
-
-![Steam Deck user password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/steam-deck-user-password.jpg)
+### 2\. Setting a Sudo Password ![Steam Deck user password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/steam-deck-user-password.jpg)
 
  To set your sudo password, open desktop mode and head to **Settings** in the app manager or on the task manager at the bottom of your screen.
 
@@ -231,3 +223,27 @@ Jhet Borja/MakeUseOf
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/three-unconventional-steps-to-re-launch-steam/"><u>Three Unconventional Steps to Re-Launch Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-twitch-guide-platform-overview-and-streamer-resources/"><u>The Twitch Guide: Platform Overview and Streamer Resources</u></a></li>
+<li><a href="https://games-able.techidaily.com/mapping-out-uncharted-digital-territories/"><u>Mapping Out Uncharted Digital Territories</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-choose-xbox-game-pass-ultimate-over-regular-plans/"><u>Why Choose Xbox Game Pass Ultimate Over Regular Plans</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-your-bg3-experience-with-dlc-and-upgrades/"><u>Maximizing Your BG3 Experience with DLC & Upgrades</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-neighborhoods-titans-territories/"><u>Prime Neighborhoods: Titans’ Territories</u></a></li>
+<li><a href="https://games-able.techidaily.com/select-new-steam-language-option/"><u>Select New Steam Language Option</u></a></li>
+<li><a href="https://games-able.techidaily.com/featuring-exclusive-advanced-logitech-tech/"><u>Featuring Exclusive, Advanced Logitech Tech</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-steam-purchase-anomalies-quickly/"><u>Fixing Steam Purchase Anomalies Quickly</u></a></li>
+<li><a href="https://games-able.techidaily.com/embrace-space-savings-how-to-compress-retro-gaming-discs-with-chdman/"><u>Embrace Space Savings: How to Compress Retro Gaming Discs with ChDMan</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-cinematic-wonders-with-hero5-black-a-filmmakers-companion/"><u>2024 Approved  Cinematic Wonders with Hero5 Black  A Filmmaker's Companion</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-maximize-fun-mp4-extractor-for-fb-videos-for-2024/"><u>[Updated] Maximize Fun  MP4 Extractor for FB Videos for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-download-twitter-gif-3-ways-to-download-gifs-from-twitter-on-your-pc/"><u>[Updated] In 2024, Download Twitter GIF  3 Ways to Download GIFs From Twitter on Your PC</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-ultimate-list-igtv-masterminds-and-maestros/"><u>[Updated] The Ultimate List  IGTV Masterminds & Maestros</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-essential-android-tools-for-video-recording/"><u>2024 Approved  Essential Android Tools for Video Recording</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-oneclickfreeze-easy-screen-recording-quit-for-2024/"><u>[Updated] OneClickFreeze  Easy Screen Recording Quit for 2024</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-11-pro-screen-lock-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 11 Pro screen lock without passcode</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/crafting-cinema-youtubes-compreranche-guide-for-filmmakers/"><u>Crafting Cinema  YouTube's Compreranche Guide for Filmmakers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-ultimate-collection-top-6-fb-lite-vids/"><u>[Updated] 2024 Approved  Ultimate Collection  #Top 6 FB Lite Vids</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-motorola-edge-40-neo-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Motorola Edge 40 Neo to Other Android Devices? | Dr.fone</u></a></li>
+</ul></div>

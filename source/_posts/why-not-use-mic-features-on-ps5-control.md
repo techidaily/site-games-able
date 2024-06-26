@@ -1,7 +1,7 @@
 ---
 title: Why Not Use Mic Features on PS5 Control?
-date: 2024-06-23 10:49:32
-updated: 2024-06-24 10:11:58
+date: 2024-06-25T12:58:55.825Z
+updated: 2024-06-26T12:58:55.825Z
 tags:
   - games
 categories:
@@ -20,11 +20,11 @@ thumbnail: https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7
 
 ## Why You Shouldn't Use Your PS5 Controller's Microphone
 
- By default, your DualSense's microphone will activate whenever you're playing a game that supports voice chat, as long as you don't have any other microphones connected. However, when the controller microphone activates, it will also reduce the intensity of two other[key DualSense features](https://www.makeuseof.com/ps5-dualsense-controller-hidden-features/) : adaptive triggers and haptic feedback.
+ By default, your DualSense's microphone will activate whenever you're playing a game that supports voice chat, as long as you don't have any other microphones connected. However, when the controller microphone activates, it will also reduce the intensity of two other [key DualSense features](https://www.makeuseof.com/ps5-dualsense-controller-hidden-features/) : adaptive triggers and haptic feedback.
 
  As you likely know, adaptive triggers adjust the resistance of the L2 and R2 buttons depending on what you're doing in a game. And haptic feedback is a more advanced version of the classic rumble feature that provides different feedback for various kinds of in-game actions.
 
- In the PS5's Settings menu under**Settings > Accessories > Controllers** , you can adjust both the**Vibration Intensity** and**Trigger Effect Intensity** , which you might do to[save battery on your PS5 controller](http://www.makeuseof.com/save-battery-life-ps5-dualsense-controller/) . However, when your DualSense's built-in microphone is active, it will set both of them to**Weak** , regardless of the setting you've chosen here.
+ In the PS5's Settings menu under**Settings > Accessories > Controllers** , you can adjust both the**Vibration Intensity** and**Trigger Effect Intensity** , which you might do to [save battery on your PS5 controller](http://www.makeuseof.com/save-battery-life-ps5-dualsense-controller/) . However, when your DualSense's built-in microphone is active, it will set both of them to**Weak** , regardless of the setting you've chosen here.
 
 ![PS5 Controller Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS5-Controller-Options.jpg)
 
@@ -69,3 +69,22 @@ thumbnail: https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/resolving-steams-order-delays-effectively/"><u>Resolving Steam's Order Delays Effectively</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-alone-to-together-reestablishing-winmc-network-connections/"><u>From Alone to Together: Reestablishing WinMC Network Connections</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfecting-precision-initial-fps-adjustments/"><u>Perfecting Precision: Initial FPS Adjustments</u></a></li>
+<li><a href="https://games-able.techidaily.com/securing-your-pc-experience-by-managing-game-bar/"><u>Securing Your PC Experience by Managing Game Bar</u></a></li>
+<li><a href="https://games-able.techidaily.com/do-you-actually-need-a-mechanical-keyboard-for-gaming/"><u>Do You Actually Need a Mechanical Keyboard for Gaming?</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-robloxs-error-code-262-step-by-step/"><u>Fixing Roblox's Error Code 262 Step-by-Step</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-apples-branding-unpacking-6-myths-of-mac-gaming/"><u>Beyond Apple's Branding: Unpacking 6 Myths of Mac Gaming</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-10-free-video-tools-cross-platform-os-support-for-2024/"><u>Top 10 Free Video Tools  Cross-Platform OS Support for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/in-2024-smart-video-editing-tools-with-one-click-reframe/"><u>In 2024, Smart Video Editing Tools with One-Click Reframe</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-boosting-discords-potential-with-the-leading-10-plugins/"><u>[Updated] Boosting Discord's Potential with the Leading 10 Plugins</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-innovations-a-comparison-between-iphones-face-id-and-galaxy-recognition/"><u>2024 Approved  Unlocking Innovations  A Comparison Between iPhone's Face ID & Galaxy Recognition</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-art-of-reel-production-embedding-soundtracks/"><u>The Art of Reel Production  Embedding Soundtracks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-average-to-exceptional-discover-the-finest-free-intra-designs/"><u>[Updated] 2024 Approved  From Average to Exceptional  Discover the Finest Free Intra Designs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fusing-frequencies-smoothly-with-logic-pro-x-methods-for-2024/"><u>Fusing Frequencies Smoothly with Logic Pro X Methods for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-effortless-fusion-of-youtube-audio-with-imovie-masterpieces/"><u>In 2024, Effortless Fusion of YouTube Audio with iMovie Masterpieces</u></a></li>
+</ul></div>

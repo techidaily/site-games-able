@@ -1,7 +1,7 @@
 ---
 title: Playing Older PS4 Games on the New PS5
-date: 2024-06-21 22:51:58
-updated: 2024-06-24 11:13:42
+date: 2024-06-25T12:48:47.093Z
+updated: 2024-06-26T12:48:47.093Z
 tags:
   - games
 categories:
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/773bcb287706a7e5add3e76fb4807bc2dd418c60c
 
 ## Can I Play PS4 Games on My PS5?
 
- If you have been wondering[if the PS5 is backward compatible](https://www.makeuseof.com/is-ps5-backward-compatible/) , the short answer is, yes. For the most part, you can play most of your old PS4 games on your PS5\. Some even offer free or discounted upgrades to the PS5 version to make your PS4 games better than they ever were before.
+ If you have been wondering [if the PS5 is backward compatible](https://www.makeuseof.com/is-ps5-backward-compatible/) , the short answer is, yes. For the most part, you can play most of your old PS4 games on your PS5\. Some even offer free or discounted upgrades to the PS5 version to make your PS4 games better than they ever were before.
 
  There are, however, some PS4 games that will not work on the PS5\. The selection of non-playable games pales in comparison to the list of games that are cross-gen, however, so the likelihood of a PS4 game not working on your PS5 is slim.
 
@@ -43,15 +43,13 @@ thumbnail: https://thmb.techidaily.com/773bcb287706a7e5add3e76fb4807bc2dd418c60c
 
  There are a couple of ways to play PS4 games on your PS5\. The first is by inserting and installing PS4 game discs into your PS5, and the second is by re-downloading your previously purchased digital PS4 titles.
 
-### 1\. Play PS4 Games on Your PS5 Using the Disc Drive
-
-![playstation 4 game disc boxes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/playstation-4-game-disc-boxes.jpg)
+### 1\. Play PS4 Games on Your PS5 Using the Disc Drive ![playstation 4 game disc boxes](https://thmb.techidaily.com/92449e9d9f3ee8946cb03a78041d2307431f0fc5eaad89567c354cd2fc066c4c.jpg)
 
  charnsitr/[Shutterstock](https://www.shutterstock.com/image-photo/bangkok-thailand-october-19-2016-pile-520391851)
 
  Using the disc drive is the simplest and easiest way to play PS4 games on your PS5, but it does come with a catch. This method will only work if your PS5 has a disc drive.
 
- The PS5 Digital Edition does not have a disc drive, so take your PS4 library into consideration when you are deciding[which PS5 version to buy](https://www.makeuseof.com/ps5-vs-ps5-digital-edition-which-to-buy/) . If you opt for the cheaper, digital PS5 and have a large collection of physical PS4 games, you will be unable to play them on your new console.
+ The PS5 Digital Edition does not have a disc drive, so take your PS4 library into consideration when you are deciding [which PS5 version to buy](https://www.makeuseof.com/ps5-vs-ps5-digital-edition-which-to-buy/) . If you opt for the cheaper, digital PS5 and have a large collection of physical PS4 games, you will be unable to play them on your new console.
 
  To play physical PS4 games on your PS5, take your game of choice and insert it into your PS5\. Once your PS5 has read the disc, it will start copying the data onto your console for you.
 
@@ -81,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/773bcb287706a7e5add3e76fb4807bc2dd418c60c
 
 ![Download PS4 Games onto PS5 via PS Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/download-ps4-games-onto-ps5-via-ps-account-1.jpg)
 
- If you would rather save your console's internal storage for PS5 games, you can also store and[play PS4 games on your PS5 from an external hard drive](https://www.makeuseof.com/how-to-play-ps4-games-on-ps5-external-hard-drive/) .
+ If you would rather save your console's internal storage for PS5 games, you can also store and [play PS4 games on your PS5 from an external hard drive](https://www.makeuseof.com/how-to-play-ps4-games-on-ps5-external-hard-drive/) .
 
 ## What’s the Difference Between PS4 Games and PS4 Games With PS5 Upgrades?
 
@@ -128,3 +126,23 @@ thumbnail: https://thmb.techidaily.com/773bcb287706a7e5add3e76fb4807bc2dd418c60c
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/enhancing-your-desktop-gaming-experience-with-a-ps5-pad/"><u>Enhancing Your Desktop Gaming Experience with a PS5 Pad</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719167112863-explore-gaming-with-chatgpt-the-top-6-titles/"><u>Explore Gaming with ChatGPT: The Top 6 Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-device-connectivity-steam-deck-and-pc-via-barrier-method/"><u>Streamline Device Connectivity: Steam Deck & PC via Barrier Method</u></a></li>
+<li><a href="https://games-able.techidaily.com/post-gtx-era-assessing-the-need-for-an-immediate-rtx-shift/"><u>Post-GTX Era: Assessing the Need for an Immediate RTX Shift</u></a></li>
+<li><a href="https://games-able.techidaily.com/recognizing-and-responding-to-gaming-abuse-series-sx/"><u>Recognizing and Responding to Gaming Abuse (Series S/X)</u></a></li>
+<li><a href="https://games-able.techidaily.com/ea-plays-costly-hike-subscription-is-over-for-me/"><u>EA Play’s Costly Hike, Subscription Is Over for Me</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-to-handle-xbox-gold-on-series-xs/"><u>Strategies to Handle Xbox Gold on Series X/S</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-honor-magic-6-pro-easily-by-drfone-android/"><u>In 2024, How To Unlock a Honor Magic 6 Pro Easily?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-top-free-apps-for-youtube-gallery-downloading/"><u>In 2024, Top FREE Apps for YouTube Gallery Downloading</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-canva-expertise-ditching-image-backdrops-with-ease/"><u>[Updated] In 2024, Canva Expertise  Ditching Image Backdrops with Ease</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-collect-lifes-moments-tiktok-files-free-and-pure/"><u>[New] 2024 Approved  Collect Life's Moments - TikTok Files, FREE & Pure</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/saving-your-social-media-face-from-spurious-support-for-2024/"><u>Saving Your Social Media Face From Spurious Support for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/seamless-online-gif-to-video-conversion-top-5-for-2024/"><u>Seamless Online GIF to Video Conversion (Top 5) for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-price-scale-for-shooting-tunes-in-visual-narratives/"><u>2024 Approved  Price Scale for Shooting Tunes in Visual Narratives</u></a></li>
+</ul></div>

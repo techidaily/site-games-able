@@ -1,7 +1,7 @@
 ---
 title: "Mastering Might: Top 11 War History Strategy Titles"
-date: 2024-06-25T10:44:13.801Z
-updated: 2024-06-26T10:44:13.801Z
+date: 2024-06-25T12:48:38.006Z
+updated: 2024-06-26T12:48:38.006Z
 tags:
   - games
 categories:
@@ -78,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/9878ff62b08356ff78ffb4d4ce5fd0c27ab1ffdc4
 
  If you're looking for a WW2 strategy game that has a lot to offer, you can't go wrong with Assault Squad 2\. It's a top-down real-time strategy game that lets you control every unit in your squad. 200 soldiers with unique loadouts, 250 vehicles, and five different factions make for a huge amount of variety.
 
- There's a realistic and gritty feel here that few games manage to capture—it's almost like starring in one of[the best World War II movies](https://www.makeuseof.com/tag/world-war-ii-movies-watch-netflix/) . The graphics are great and help immerse in the action. You face off against other armored units, engage in sniper battles, and pit groups of infantry against the enemy in massive engagements.
+ There's a realistic and gritty feel here that few games manage to capture—it's almost like starring in one of [the best World War II movies](https://www.makeuseof.com/tag/world-war-ii-movies-watch-netflix/) . The graphics are great and help immerse in the action. You face off against other armored units, engage in sniper battles, and pit groups of infantry against the enemy in massive engagements.
 
  Be warned that this game won't hold your hand and you will find it very difficult. Welcome to World War II.
 

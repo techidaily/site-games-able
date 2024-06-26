@@ -1,7 +1,7 @@
 ---
 title: "Game Selector 101: Finding Your Next Apple Arcade Hit"
-date: 2024-06-23 16:28:15
-updated: 2024-06-24 10:32:19
+date: 2024-06-25T13:06:38.621Z
+updated: 2024-06-26T13:06:38.621Z
 tags:
   - games
 categories:
@@ -45,7 +45,7 @@ Close
 
  Must-Play Games is a short list with only 21 titles in it, but most, if not all of them, are worth the time. I found Snake.io and Turmoil from this list, and I quite enjoyed them.
 
- The second category, App Store Greats, is more like an expansion of the Must-Play list. Any game on the list in a genre that you like is bound to be a lot of fun. I found Prune, Stardew Valley, and Slay the Spire here, and I must add that Stardew Valley is one of the[reasons I subscribe to Apple Arcade](https://www.makeuseof.com/apple-arcade-reasons-to-subscribe/) .
+ The second category, App Store Greats, is more like an expansion of the Must-Play list. Any game on the list in a genre that you like is bound to be a lot of fun. I found Prune, Stardew Valley, and Slay the Spire here, and I must add that Stardew Valley is one of the [reasons I subscribe to Apple Arcade](https://www.makeuseof.com/apple-arcade-reasons-to-subscribe/) .
 
 ## 2 Checking the Reviews to See What Others Think
 
@@ -59,7 +59,7 @@ Close
 2. Scroll to the**Ratings & Reviews** section. You’ll see a number indicating the average score (maximum of five) and how many people have rated it.
 3. Select**See All** next to the**Ratings & Reviews** header.
 
- Reviews are a great way to get insight into a game, but[you shouldn’t completely trust video game reviews](https://www.makeuseof.com/reasons-why-you-shouldnt-trust-game-reviews-or-review-scores/) . Use reviews, but pair it with some personal judgment.
+ Reviews are a great way to get insight into a game, but [you shouldn’t completely trust video game reviews](https://www.makeuseof.com/reasons-why-you-shouldnt-trust-game-reviews-or-review-scores/) . Use reviews, but pair it with some personal judgment.
 
  Following the steps above will take you to a page dedicated to all the reviews for the game. I don’t expect any game on Apple Arcade to have a rating of less than 4.0\. But if it does, and it has 100 or more reviews, you should probably skip it. On the flip side, a rating of 4.5 or higher from 100 or more reviews is also a good sign.
 
@@ -73,7 +73,7 @@ Close
 
 ## 3 Filtering Games by Controller Compatibility and Last Updated
 
- Developers who create their games to be controller-friendly and those who still update and maintain their games count for making the best games on Apple Arcade. This is only because they are intentional with their creation. One of the[cons of Apple Arcade](https://www.makeuseof.com/apple-arcade-pros-and-cons/) is that it caters more to casual gamers; filtering by controller support helps mitigate that disadvantage.
+ Developers who create their games to be controller-friendly and those who still update and maintain their games count for making the best games on Apple Arcade. This is only because they are intentional with their creation. One of the [cons of Apple Arcade](https://www.makeuseof.com/apple-arcade-pros-and-cons/) is that it caters more to casual gamers; filtering by controller support helps mitigate that disadvantage.
 
  However, this is no hard-and-fast rule; it doesn’t mean all the games in these categories will fit the bill. But it’s a good way to filter out the fluff and old, irrelevant games.
 
@@ -110,3 +110,22 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/retro-gaming-setup-oled-switch-with-vintage-power-source/"><u>Retro Gaming Setup: OLED Switch with Vintage Power Source</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-strategies-for-psp-as-a-wii-u-clone/"><u>Innovative Strategies for PSP as a Wii U Clone</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-8-premier-gaming-outlets-and-reviews/"><u>Top 8 Premier Gaming Outlets & Reviews</u></a></li>
+<li><a href="https://games-able.techidaily.com/revive-retro-gaming-playing-psp-classics-on-iphone/"><u>Revive Retro Gaming: Playing PSP Classics on iPhone</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-pausing-is-better-than-never-breaking/"><u>Why Pausing Is Better than Never Breaking</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-missing-titles-in-egc/"><u>Troubleshooting Missing Titles in EGC</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-your-desktop-gaming-experience-with-a-ps5-pad/"><u>Enhancing Your Desktop Gaming Experience with a PS5 Pad</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-images-into-textbooks-photo-text-editor-hacks/"><u>[Updated] Transform Images Into Textbooks  Photo Text Editor Hacks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-visualslice-software/"><u>[Updated] VisualSlice Software</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-exploring-apowersofts-pc-screen-snap-recorder/"><u>2024 Approved  Exploring Apowersoft's PC Screen Snap Recorder</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-free-video-editing-magic-top-special-effects-apps-for-mobile-devices/"><u>Updated In 2024, Free Video Editing Magic Top Special Effects Apps for Mobile Devices</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-ornate-asian-dwellings-for-your-next-build-off-for-2024/"><u>[Updated] Ornate Asian Dwellings for Your Next Build-Off for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-ultimate-comparison-vsdc-screen-recorder-vs-other-leading-solutions/"><u>2024 Approved  The Ultimate Comparison  VSDC Screen Recorder vs Other Leading Solutions</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-unlock-free-music-anytime-facebook-app/"><u>In 2024, Unlock Free Music, Anytime - Facebook App</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-humorhub-generate-hilarious-jokes-and-gifs-easily/"><u>2024 Approved  HumorHub  Generate Hilarious Jokes and GIFs Easily</u></a></li>
+</ul></div>

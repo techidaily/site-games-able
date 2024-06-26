@@ -1,7 +1,7 @@
 ---
 title: "Sony’s Summer Offering: A Hitter List of Steals"
-date: 2024-06-23 10:30:32
-updated: 2024-06-24 10:43:16
+date: 2024-06-25T13:14:10.341Z
+updated: 2024-06-26T13:14:10.341Z
 tags:
   - games
 categories:
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/a6f140ff4ddda64bd14cec3cab639274aa642e4bb
 
 ## 5\. Owlboy
 
- Owlboy is a whimsical platforming adventure with a beautiful pixel art style and story to match. While there are plenty of[differences between AAA and indie games](https://www.makeuseof.com/aaa-games-vs-indie-games-differences/) , indie’s have more than enough potential to be just as good, if not better, than AAA titles. Owlboy is a perfect example of that. And it’s on sale for roughly the price of a deli sandwich. While deli sandwiches are unarguably good, forgoing one for lunch is definitely worth experiencing the breathtaking adventure of Owlboy.
+ Owlboy is a whimsical platforming adventure with a beautiful pixel art style and story to match. While there are plenty of [differences between AAA and indie games](https://www.makeuseof.com/aaa-games-vs-indie-games-differences/) , indie’s have more than enough potential to be just as good, if not better, than AAA titles. Owlboy is a perfect example of that. And it’s on sale for roughly the price of a deli sandwich. While deli sandwiches are unarguably good, forgoing one for lunch is definitely worth experiencing the breathtaking adventure of Owlboy.
 
 **Download** :[Owlboy](https://store.playstation.com/en-us/product/UP4218-CUSA09914%5F00-OWLBOY0000000000) for $9.99 (60% off)
 
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/a6f140ff4ddda64bd14cec3cab639274aa642e4bb
 
 ## 7\. The Last of Us: Part II
 
- Even if you’re not a gamer, the chances are you know about The Last of Us. But Joel and Ellie’s story didn't just end when the hit TV series did. That is only one part of their adventure, so if you want a sneak peek into the events that you can expect from the second series, you can get it for half price in PlayStation’s summer sale. If you’ve been looking for[games to play if you like the Last of Us TV show](https://www.makeuseof.com/games-to-play-if-you-like-the-last-of-us-tv-show/) , this should be your first stop for obvious reasons.
+ Even if you’re not a gamer, the chances are you know about The Last of Us. But Joel and Ellie’s story didn't just end when the hit TV series did. That is only one part of their adventure, so if you want a sneak peek into the events that you can expect from the second series, you can get it for half price in PlayStation’s summer sale. If you’ve been looking for [games to play if you like the Last of Us TV show](https://www.makeuseof.com/games-to-play-if-you-like-the-last-of-us-tv-show/) , this should be your first stop for obvious reasons.
 
 **Download** :[The Last of Us: Part II](https://store.playstation.com/en-us/product/UP9000-CUSA07820%5F00-THELASTOFUSPART2) for &19.99 (50% off)
 
@@ -97,3 +97,26 @@ thumbnail: https://thmb.techidaily.com/a6f140ff4ddda64bd14cec3cab639274aa642e4bb
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/essential-discoveries-top-8-for-gamer-news-outlets/"><u>Essential Discoveries: Top 8 for Gamer News Outlets</u></a></li>
+<li><a href="https://games-able.techidaily.com/tecnos-new-era-of-slimmer-and-more-dynamic-phones/"><u>Tecno's New Era of Slimmer and More Dynamic Phones</u></a></li>
+<li><a href="https://games-able.techidaily.com/spark-innovation-with-these-9-themed-gaming-sessions/"><u>Spark Innovation with These 9 Themed Gaming Sessions</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-to-obtain-starfields-beta-test-invite/"><u>Strategies to Obtain Starfield's Beta Test Invite</u></a></li>
+<li><a href="https://games-able.techidaily.com/rendering-rivalry-directx-11-vs-directx-12-benefits/"><u>Rendering Rivalry: DirectX 11 Vs. DirectX 12 Benefits</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-ps4-factory-reset-process/"><u>Step-by-Step PS4 Factory Reset Process</u></a></li>
+<li><a href="https://games-able.techidaily.com/internet-setup-for-the-switch-hq/"><u>Internet Setup for the Switch HQ</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-game-experiene-the-top-9-reasons-to-use-steam-first/"><u>Elevating Game Experiene: The Top 9 Reasons to Use Steam First</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-xbox-series-xs-controller-dismantling-guide/"><u>Step-by-Step Xbox Series X/S Controller Dismantling Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-a-comprehensive-guide-to-facebooks-full-screen-feature/"><u>[New] A Comprehensive Guide to Facebook's Full Screen Feature</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-quick-clicks-guide-dells-screenshots-made-simple/"><u>[New] 2024 Approved  Quick Clicks Guide  Dell's Screenshots Made Simple</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-boost-your-fb-campaigns-the-critical-3-part-writing-strategy-for-2024/"><u>[New] Boost Your FB Campaigns  The Critical 3-Part Writing Strategy for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-honor-magic-5-pro-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Honor Magic 5 Pro without App | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-sky-sprinting-guide-plus-mastering-the-art-of-fpv-drone-racing/"><u>2024 Approved  Sky Sprinting Guide + Mastering the Art of FPV Drone Racing</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-itel-a70-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Itel A70 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-budget-conscious-skydrive-keepers-mass-file-basket-savings/"><u>2024 Approved  Budget-Conscious Skydrive Keepers  Mass File Basket Savings</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-mp4-play-on-motorola-moto-g-stylus-5g-2023-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Does MP4 play on Motorola Moto G Stylus 5G (2023)?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-dailymotion-converter-download-and-convert-videos-in-seconds-for-2024/"><u>Free Dailymotion Converter Download and Convert Videos in Seconds for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-master-meetings-the-ultimate-list-of-10-free-recorders/"><u>2024 Approved  Master Meetings  The Ultimate List of 10 Free Recorders</u></a></li>
+</ul></div>

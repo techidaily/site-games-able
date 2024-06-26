@@ -1,7 +1,7 @@
 ---
 title: "Post-GTX World: Do You Need an RTX Right Away?"
-date: 2024-06-25T10:46:58.573Z
-updated: 2024-06-26T10:46:58.573Z
+date: 2024-06-25T12:48:39.700Z
+updated: 2024-06-26T12:48:39.700Z
 tags:
   - games
 categories:
@@ -31,9 +31,9 @@ thumbnail: https://thmb.techidaily.com/704c497d76ce3443a342fa34e8883ce74ed2e3eea
 
 ## How Long Will GTX Support Last?
 
- In a news post on[VideoCardz](https://videocardz.com/newz/nvidia-discontinues-geforce-gtx-16-gpus-the-end-of-gtx-series) , Chinese sources reported that GTX GPUs are no longer being shipped out, and that all remaining stock will be allocated to custom card manufacturers. Once these last few GTX 16-series cards are out of stock, they will no longer be replenished, leaving the RTX 30 series as the lowest-tier dedicated graphics cards you can buy from stores.
+ In a news post on [VideoCardz](https://videocardz.com/newz/nvidia-discontinues-geforce-gtx-16-gpus-the-end-of-gtx-series) , Chinese sources reported that GTX GPUs are no longer being shipped out, and that all remaining stock will be allocated to custom card manufacturers. Once these last few GTX 16-series cards are out of stock, they will no longer be replenished, leaving the RTX 30 series as the lowest-tier dedicated graphics cards you can buy from stores.
 
- Checking the support statuses of GTX GPUs on[endoflife.date](https://endoflife.date/nvidia-gpu) , we can see that GTX 900 series GPUs are still being supported. However, after nine years and counting, the end of life looms closer. We can also expect this for the GTX 10 and 16 series. This means that the GTX 10 series cards will most likely lose support by 2026 and the GTX 16 series will lose support in 2029.
+ Checking the support statuses of GTX GPUs on [endoflife.date](https://endoflife.date/nvidia-gpu) , we can see that GTX 900 series GPUs are still being supported. However, after nine years and counting, the end of life looms closer. We can also expect this for the GTX 10 and 16 series. This means that the GTX 10 series cards will most likely lose support by 2026 and the GTX 16 series will lose support in 2029.
 
  However, that doesn’t mean your graphics card will be unusable. Despite not having the latest updates, you can still play games, especially older ones. However, you will start to run into compatibility and stability issues for newer games, or titles that get constant updates.
 
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/704c497d76ce3443a342fa34e8883ce74ed2e3eea
 
  You'll be stuck with those old card models without the ray tracing to make games like this look great. If there's a shortcut to take for better graphics, there's no doubt big game companies will take it.
 
- Meanwhile,[the new Nvidia app is also focused](https://www.makeuseof.com/what-is-nvidia-app-improve-gaming-experience/) on RTX features like the[various DLSS technologies](https://www.makeuseof.com/what-is-nvidia-ai-powered-dlss-3-5/) .
+ Meanwhile,[the new Nvidia app is also focused](https://www.makeuseof.com/what-is-nvidia-app-improve-gaming-experience/) on RTX features like the [various DLSS technologies](https://www.makeuseof.com/what-is-nvidia-ai-powered-dlss-3-5/) .
 
 ![nvidia app image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/nvidia-app-image.jpg)
 

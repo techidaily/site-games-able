@@ -1,7 +1,7 @@
 ---
 title: Inadequacies Hindering GameFi From Becoming a Trend
-date: 2024-06-21 21:49:47
-updated: 2024-06-23 10:18:12
+date: 2024-06-25T13:25:44.024Z
+updated: 2024-06-26T13:25:44.024Z
 tags:
   - games
 categories:
@@ -31,9 +31,9 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
 
  GameFi ([short for gaming finance](https://www.makeuseof.com/what-is-gamefi/) ) is a blend of the gaming and decentralized finance (DeFi) industries, wherein users can play games to earn crypto tokens and other decentralized assets, such as NFTs. GameFi allows blockchain-based apps to shift into the gaming industry, attracting users with the lure of digital tokens.
 
- GameFi is also known as[play-to-earn (P2E)](https://www.makeuseof.com/are-play-to-earn-games-legit/) . P2E games often look and perform like typical games, with the tokenomics element usually being the only difference.
+ GameFi is also known as [play-to-earn (P2E)](https://www.makeuseof.com/are-play-to-earn-games-legit/) . P2E games often look and perform like typical games, with the tokenomics element usually being the only difference.
 
- Some notable examples of[popular P2E games](https://www.makeuseof.com/top-play-to-earn-mobile-crypto-games/) are Axie Infinity, Star Atlas, and Tamadodge. Each of these games has one or more of their own token types that users can earn. Some games, including Axie Infinity, reward winners with NFTs that they can sell for Ethereum or another cryptocurrency.
+ Some notable examples of [popular P2E games](https://www.makeuseof.com/top-play-to-earn-mobile-crypto-games/) are Axie Infinity, Star Atlas, and Tamadodge. Each of these games has one or more of their own token types that users can earn. Some games, including Axie Infinity, reward winners with NFTs that they can sell for Ethereum or another cryptocurrency.
 
  In P2E games, almost everything can be tokenized, from avatars to weapons to land. You can often receive these assets by completing quests and winning tournaments, but the nature of the P2E model changes from game to game.
 
@@ -45,13 +45,11 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
 
  This naturally affects GameFi, as many P2E games reward users with crypto tokens. If a GameFi token's price increases, that's great news for gamers. But as we all know, cryptocurrency price drops and market crashes are by no means rare. If an individual spends hours building a solid holding of assets by playing a P2E game, much of their time and effort will go to waste if the reward token loses a large chunk of its value.
 
- Even if a P2E game solely rewards users with NFTs, cryptocurrency price fluctuations directly affect how much a user can get through the sale of their P2E NFTs. For instance, if an NFT is worth 2 ETH and Ethereum's price drops by 10%, the NFT owner stands to lose 10% of their original profit when they[sell this NFT on a marketplace](https://www.makeuseof.com/best-nft-marketplaces-buying-all-kinds-digital-assets/) like OpenSea.
+ Even if a P2E game solely rewards users with NFTs, cryptocurrency price fluctuations directly affect how much a user can get through the sale of their P2E NFTs. For instance, if an NFT is worth 2 ETH and Ethereum's price drops by 10%, the NFT owner stands to lose 10% of their original profit when they [sell this NFT on a marketplace](https://www.makeuseof.com/best-nft-marketplaces-buying-all-kinds-digital-assets/) like OpenSea.
 
  GameFi developers could aim to adopt stablecoins over regular cryptos in P2E games, as this provides more price stability and protects users from really suffering when the market turns downward.
 
-## 2\. Scams
-
-![person having crypto stolen from laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/crypto-scams-social-media.jpg)
+## 2\. Scams ![person having crypto stolen from laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/crypto-scams-social-media.jpg)
 
  Scams are, unfortunately, native to the crypto realm, and GameFi is no exception to this rule. If there's money to be stolen, chances are criminals will find some way to access it.
 
@@ -83,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
 
 ### 5\. Lack of Regulation
 
- Cryptocurrency and DeFi already lack proper regulation (though[crypto regulation may soon change](https://www.makeuseof.com/is-government-sec-going-to-regulate-cryptocurrency/) ), but GameFi, a newer addition to the blockchain industry, suffers from this issue even more.
+ Cryptocurrency and DeFi already lack proper regulation (though [crypto regulation may soon change](https://www.makeuseof.com/is-government-sec-going-to-regulate-cryptocurrency/) ), but GameFi, a newer addition to the blockchain industry, suffers from this issue even more.
 
  In the US, no specific legal regulations surround GameFi, which could allow malicious actors to get away with a fair few swindles. Even legitimate game developers may be able to wriggle through a few loopholes without proper regulation, leaving gamers worse off.
 
@@ -126,3 +124,26 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/you-can-now-fix-your-own-xbox-controller/"><u>You Can Now Fix Your Own Xbox Controller</u></a></li>
+<li><a href="https://games-able.techidaily.com/cosmic-crafter-navigating-novel-pc-choices/"><u>Cosmic Crafter: Navigating Novel PC Choices</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-smartly-engage-with-steams-economic-system/"><u>How to Smartly Engage With Steam's Economic System</u></a></li>
+<li><a href="https://games-able.techidaily.com/oled-gaming-monitors-my-2-year-experience/"><u>OLED Gaming Monitors: My 2-Year Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-efficiency-and-speed-unlocking-potential-in-your-docked-device/"><u>Boosting Efficiency and Speed: Unlocking Potential in Your Docked Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-quality-titles-should-mts-be-compulsory/"><u>High-Quality Titles: Should MTs Be Compulsory?</u></a></li>
+<li><a href="https://games-able.techidaily.com/passed-geforce-now-does-it-deliver-value/"><u>Passed GeForce Now: Does It Deliver Value?</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-big-picture-transforming-your-gaming-setup/"><u>Steam Big Picture: Transforming Your Gaming Setup</u></a></li>
+<li><a href="https://games-able.techidaily.com/switch-out-for-peak-performance/"><u>Switch Out for Peak Performance?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-premier-windows-video-chat-apps-7-1/"><u>2024 Approved  Premier Windows Video Chat Apps #7-#1</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-from-your-apple-iphone-xs-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID from Your Apple iPhone XS?</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-nokia-c32-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia C32 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-a-step-by-step-guide-to-crafting-an-effective-youtube-watch-later-playlist/"><u>[New] 2024 Approved  A Step-by-Step Guide to Crafting an Effective YouTube Watch Later Playlist</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-best-side-by-side-video-editors-for-ios-and-android-phones/"><u>New 2024 Approved Best Side-by-Side Video Editors for iOS and Android Phones</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/streamline-your-workflow-learn-to-record-macs-screen-with-shortcuts-for-2024/"><u>Streamline Your Workflow  Learn to Record Mac's Screen with Shortcuts for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-infuse-photo-radiance-distortion-in-adobe-cs/"><u>[Updated] Infuse Photo Radiance Distortion in Adobe CS</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-nokia-c12-plus-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Nokia C12 Plus FRP In 3 Different Ways</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-are-video-selfies-on-instagram-really-genuine-in-2024/"><u>[New] Are Video Selfies on Instagram Really Genuine, In 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-strategies-for-optimal-spotify-ad-reach-and-engagement/"><u>2024 Approved  Strategies for Optimal Spotify Ad Reach and Engagement</u></a></li>
+</ul></div>

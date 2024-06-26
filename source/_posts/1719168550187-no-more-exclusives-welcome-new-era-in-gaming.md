@@ -1,7 +1,7 @@
 ---
 title: No More Exclusives? Welcome New Era in Gaming!
-date: 2024-06-23 14:42:53
-updated: 2024-06-24 11:13:27
+date: 2024-06-25T13:19:02.905Z
+updated: 2024-06-26T13:19:02.905Z
 tags:
   - games
 categories:
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/1c82bb77bafb99b9b6611b5302d1fb010d446c70d
 
  For decades, platform exclusives have played a big part in the story of video games. And they have had a hand in deciding which console won each generation.
 
- Console exclusives started in the 1980s, with Atari securing exclusive home console rights to popular arcade games such as Space Invaders and Pac-Man. At this point, the idea was to persuade regular arcade-goers to buy a home console in order to play their favorite titles from the comfort of their sofa and without having to feed a machine with endless quarters. Ironically, you can now buy[arcade machines designed for your home](https://www.makeuseof.com/best-home-arcade-machines/) .
+ Console exclusives started in the 1980s, with Atari securing exclusive home console rights to popular arcade games such as Space Invaders and Pac-Man. At this point, the idea was to persuade regular arcade-goers to buy a home console in order to play their favorite titles from the comfort of their sofa and without having to feed a machine with endless quarters. Ironically, you can now buy [arcade machines designed for your home](https://www.makeuseof.com/best-home-arcade-machines/) .
 
 ![Joysticks on an old arcade cabinet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/shutterstock_1089499448.jpg)
 
@@ -45,9 +45,9 @@ thumbnail: https://thmb.techidaily.com/1c82bb77bafb99b9b6611b5302d1fb010d446c70d
 
 ## How Platform Exclusives Are Coming to an End
 
- Thankfully, things are starting to change. In February 2024, in a post on[Xbox Wire](https://news.xbox.com/en-us/2024/02/21/new-platforms-new-players-xbox-games-switch-playstation/) , Microsoft announced that four Xbox exclusives would also be coming to PS5 and Switch, with more titles to follow. The games currently confirmed to be coming to other platforms are Hi-Fi Rush, Pentiment, Sea of Thieves, and Grounded.
+ Thankfully, things are starting to change. In February 2024, in a post on [Xbox Wire](https://news.xbox.com/en-us/2024/02/21/new-platforms-new-players-xbox-games-switch-playstation/) , Microsoft announced that four Xbox exclusives would also be coming to PS5 and Switch, with more titles to follow. The games currently confirmed to be coming to other platforms are Hi-Fi Rush, Pentiment, Sea of Thieves, and Grounded.
 
- The industry is clearly changing, and Microsoft's gaming executives are adapting. On an episode of[the official Xbox Podcast](https://youtu.be/KGlD9SO3rKU?feature=shared) , Microsoft Gaming CEO Phil Spencer said, "I do have a fundamental belief that over the next five or ten years exclusive games, games that are exclusive to one piece of hardware, are going to be a smaller and smaller part of the game industry".
+ The industry is clearly changing, and Microsoft's gaming executives are adapting. On an episode of [the official Xbox Podcast](https://youtu.be/KGlD9SO3rKU?feature=shared) , Microsoft Gaming CEO Phil Spencer said, "I do have a fundamental belief that over the next five or ten years exclusive games, games that are exclusive to one piece of hardware, are going to be a smaller and smaller part of the game industry".
 
  Spencer also made the reason for this change clear, saying, "We’re focused on these four games and learning from the experience \[...\] really want to respond to what customers want and what our players and creators are looking for".
 
@@ -59,13 +59,11 @@ thumbnail: https://thmb.techidaily.com/1c82bb77bafb99b9b6611b5302d1fb010d446c70d
 
  The same is true for Nintendo, which has released games featuring some of its biggest characters (Mario, Pokemon) on smartphones. The company hasn't yet released a Mario game on a rival console, but that doesn't mean it never will.
 
-## Why Platform Exclusives Are Going Away
-
-![horizon forbidden west page on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/horizon-forbidden-west-page-on-steam.png)
+## Why Platform Exclusives Are Going Away ![horizon forbidden west page on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/horizon-forbidden-west-page-on-steam.png)
 
  So, why are platform exclusives coming to an end? The obvious answer is that they're no longer the best option available to the companies responsible. The benefits of opening titles up to everyone, regardless of platform, massively outweigh the benefits of keeping titles exclusive to one console. As outlined above, Phil Spencer, someone who should know, said as much.
 
- For Microsoft, the logic is clear to see. In[the battle between PS5 and Xbox Series X](https://www.makeuseof.com/ps5-vs-xbox-series-x/) , the PS5 is winning. The Switch has also outsold the Xbox Series X|S to date, with no hint of that changing. So, not only have Microsoft's exclusives not shifted units, the company is losing out on potential revenue by not selling software to as many people as possible.
+ For Microsoft, the logic is clear to see. In [the battle between PS5 and Xbox Series X](https://www.makeuseof.com/ps5-vs-xbox-series-x/) , the PS5 is winning. The Switch has also outsold the Xbox Series X|S to date, with no hint of that changing. So, not only have Microsoft's exclusives not shifted units, the company is losing out on potential revenue by not selling software to as many people as possible.
 
  Under those circumstances, it makes more sense from a business point of view to launch games on as many platforms as possible and make money from those sales. Especially when games hardware is usually sold at a loss.
 
@@ -73,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/1c82bb77bafb99b9b6611b5302d1fb010d446c70d
 
  The biggest element driving this change is Xbox Game Pass and the other gaming subscription services that include cloud-based gaming. These essentially mean that you don't need to own a games console anymore.
 
- This is especially true for Microsoft, as Game Pass Ultimate includes[Xbox Cloud Gaming](https://www.makeuseof.com/what-is-xbox-cloud-gaming-how-does-it-work/) . While currently in beta, this lets subscribers play Xbox games on a range of devices beyond Xbox consoles. This includes phones, tablets, PCs, smart TVs, and VR headsets.
+ This is especially true for Microsoft, as Game Pass Ultimate includes [Xbox Cloud Gaming](https://www.makeuseof.com/what-is-xbox-cloud-gaming-how-does-it-work/) . While currently in beta, this lets subscribers play Xbox games on a range of devices beyond Xbox consoles. This includes phones, tablets, PCs, smart TVs, and VR headsets.
 
 ## Why I'm Glad Platform Exclusives Are No More
 
@@ -102,3 +100,22 @@ thumbnail: https://thmb.techidaily.com/1c82bb77bafb99b9b6611b5302d1fb010d446c70d
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/gpu-market-trends-are-higher-costs-on-the-horizon/"><u>GPU Market Trends: Are Higher Costs on the Horizon?</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-blue-blocker-eyewear-selection/"><u>Elite Blue Blocker Eyewear Selection</u></a></li>
+<li><a href="https://games-able.techidaily.com/atlasos-for-the-unconventional-gamer/"><u>AtlasOS for the Unconventional Gamer</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-apple-arcade-for-your-next-favorite-game/"><u>Navigating Apple Arcade for Your Next Favorite Game</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoid-overheating-with-controlled-usage/"><u>Avoid Overheating with Controlled Usage</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoiding-costly-hdr-top-6-reasons-for-gamers/"><u>Avoiding Costly HDR: Top 6 Reasons for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-perk-predicament-which-console-service-wins/"><u>Gaming Perk Predicament: Which Console Service Wins?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-proven-strategies-for-saving-your-digital-discussions-google-meets/"><u>[Updated] In 2024, Proven Strategies for Saving Your Digital Discussions (Google Meets)</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-easy-guide-to-youtube-livestreaming-from-google-meet/"><u>[New] 2024 Approved  Easy Guide to YouTube Livestreaming From Google Meet</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-vivo-v30-lite-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Vivo V30 Lite 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-brush-up-your-youtube-videos-with-color-correction-for-2024/"><u>[Updated] Brush Up Your Youtube Videos with Color Correction for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-from-your-iphone-15-pro-max-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled From your iPhone 15 Pro Max? How to Fix</u></a></li>
+<li><a href="https://techidaily.com/solved-bad-and-corrupt-videos-that-wont-play-on-oppo-find-x7-by-stellar-video-repair-mobile-video-repair/"><u>Solved  Bad and Corrupt Videos that won't Play on Oppo Find X7</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-samsung-galaxy-a34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-ultimate-guide-to-top-6-instagram-reel-enhancements/"><u>2024 Approved  The Ultimate Guide to Top 6 Instagram Reel Enhancements</u></a></li>
+</ul></div>

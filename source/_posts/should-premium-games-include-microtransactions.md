@@ -1,7 +1,7 @@
 ---
 title: Should Premium Games Include Microtransactions?
-date: 2024-06-22 19:52:20
-updated: 2024-06-24 12:44:37
+date: 2024-06-25T12:56:54.676Z
+updated: 2024-06-26T12:56:54.676Z
 tags:
   - games
 categories:
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/d20682484ee39b27689e93ff94b9b7638592055fc
 
  At first, it came as expansion packs ([now known as DLC](https://www.makeuseof.com/dlc-video-games/) ), which you had to buy separately to expand the game’s content. But it didn’t take long for developers to realize they could make more money from selling small bits of seemingly inconsequential content for a token price.
 
- Eventually, this trend led to the introduction of[loot boxes and gacha microtransactions](https://www.makeuseof.com/are-loot-boxes-in-video-games-a-form-of-gambling-should-you-avoid-them/) . These were not just game-changers but financial jackpots. In fact, one of the pioneers in this field, ZT Online (2007), was raking in a staggering $15 million monthly at its peak.
+ Eventually, this trend led to the introduction of [loot boxes and gacha microtransactions](https://www.makeuseof.com/are-loot-boxes-in-video-games-a-form-of-gambling-should-you-avoid-them/) . These were not just game-changers but financial jackpots. In fact, one of the pioneers in this field, ZT Online (2007), was raking in a staggering $15 million monthly at its peak.
 
  Before we knew it, we had Facebook games like Farmville that offered Farm Cash to make the game easier to play and progress faster. From there, it made its way to mobile as smartphone games, like Clash of Clans.
 
@@ -76,9 +76,7 @@ But what about premium games? Should they have microtransactions?
 
  Apart from the inherent gambling nature of loot boxes, as a creator and an artist, doesn’t it feel fundamentally wrong to offer people a way to pay to experience less of your creation? It gives people the idea that your game is a chore, which shouldn’t be the case.
 
-### Bloat and Battle Passes
-
-![Assassin's Creed Origins Season Pass for sale on Ubisoft website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/assassin-s-creed-origins-season-pass-for-sale-on-ubisoft-website.png)
+### Bloat and Battle Passes ![Assassin's Creed Origins Season Pass for sale on Ubisoft website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/assassin-s-creed-origins-season-pass-for-sale-on-ubisoft-website.png)
 
  Another way you can tell microtransactions don’t have a place in premium games is that they only worm their way into established franchises. Ubisoft is a good example of this, seeing as it has added seasonal passes to many titles in their (mostly) offline single-player adventure series, Assassin’s Creed.
 
@@ -86,7 +84,7 @@ But what about premium games? Should they have microtransactions?
 
  Companies add these to leverage the cumulated love and loyalty some fans have to these established series—even though they know many wouldn’t like it. In the end, it comes off as parasitic.
 
- What makes passes even worse is that you have to play the game for a certain amount of time to earn the content on them. We've explored more on[why you shouldn't pay for passes](https://www.makeuseof.com/why-you-shouldnt-pay-for-season-passes-or-dlc/) in a dedicated piece.
+ What makes passes even worse is that you have to play the game for a certain amount of time to earn the content on them. We've explored more on [why you shouldn't pay for passes](https://www.makeuseof.com/why-you-shouldnt-pay-for-season-passes-or-dlc/) in a dedicated piece.
 
  Additionally, these games end up being bloated, as content you’ve bought, downloaded, and installed is locked behind an additional paywall. This will cost the paying player more internet bills for content they will likely never get to experience.
 
@@ -121,3 +119,24 @@ But what about premium games? Should they have microtransactions?
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/how-does-intels-technology-make-gaming-smarter/"><u>How Does Intel's Technology Make Gaming Smarter?</u></a></li>
+<li><a href="https://games-able.techidaily.com/secretive-steam-game-stashing/"><u>Secretive Steam Game Stashing</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-world-class-tv-and-monitor-innovations-at-ifa-2-written-using-latex-format-including-an-equation-representing-the-relationship-between-velocity-v-11/"><u>Unveiling World-Class TV & Monitor Innovations at IFA 2 Written Using Latex Format, Including an Equation Representing the Relationship Between Velocity (v), Distance (D), and Time (T): (D = v Times T)</u></a></li>
+<li><a href="https://games-able.techidaily.com/play-ball-a-guide-to-the-top-7-mobile-sports-apps-iosandroid/"><u>Play Ball! A Guide to the Top 7 Mobile Sports Apps (iOS/Android)</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-fixing-roblox-error-code-403-on-windows-systems/"><u>Mastering the Art of Fixing Roblox Error Code 403 on Windows Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/zero-lag-peak-gameplay-the-new-era-with-razers-basilisk-v3/"><u>Zero Lag, Peak Gameplay: The New Era with Razer's Basilisk V3</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-performance-gaming-from-logitech-mice/"><u>Ultimate Performance Gaming From Logitech Mice</u></a></li>
+<li><a href="https://games-able.techidaily.com/tech-titans-at-computex-with-new-ai-hardware/"><u>Tech Titans at Computex with New AI Hardware</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-7-cost-effective-user-friendly-movie-software/"><u>Top 7 Cost-Effective, User-Friendly Movie Software</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-is-active-setting-new-standards-in-screen-recording-in-2024/"><u>[New] Is Active Setting New Standards in Screen Recording, In 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-create-an-instant-slideshow-on-mac/"><u>New In 2024, How to Create an Instant Slideshow on Mac</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-copyright-quest-for-content-creators-tiktok-edition/"><u>[Updated] In 2024, Copyright Quest for Content Creators (TikTok Edition)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-comparing-cloud-providers-who-offers-what-price/"><u>In 2024, Comparing Cloud Providers  Who Offers What Price</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/unlock-tiktoks-full-potential-strategies-for-popularity-surge/"><u>Unlock TikTok's Full Potential  Strategies for Popularity Surge</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-az-capture-insights-apps-explored/"><u>[Updated] AZ Capture Insights  Apps Explored</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-digitizing-and-saving-faded-frames/"><u>2024 Approved  The Ultimate Guide to Digitizing and Saving Faded Frames</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/2024-approved-rotate-your-videos-with-ease-10-free-online-and-offline-solutions/"><u>2024 Approved Rotate Your Videos with Ease 10 Free Online and Offline Solutions</u></a></li>
+</ul></div>

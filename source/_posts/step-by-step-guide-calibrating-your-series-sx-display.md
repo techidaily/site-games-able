@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Calibrating Your Series S/X Display"
-date: 2024-06-25T10:50:30.735Z
-updated: 2024-06-26T10:50:30.735Z
+date: 2024-06-25T12:48:41.887Z
+updated: 2024-06-26T12:48:41.887Z
 tags:
   - games
 categories:
@@ -109,7 +109,7 @@ thumbnail: https://thmb.techidaily.com/7f531620a49852bbff7e687b5f3193b68bdfdcb0d
 
  Once your TV display is blue, open the**Color** settings on your TV and adjust it so the blue and white columns on the top look the same. Then scroll to**Tint** or**Hue** and adjust it so the pink and cyan columns on the bottom match. Once all the colors are matching, change your**RGB filter** back to normal and press**Done** . Your TV will now be perfectly calibrated to your Xbox Series X|S.
 
- There are plenty more settings to explore on your Xbox Series X|S to make sure it is providing you with the best gaming experience possible.[Boosting the FPS on your Xbox Series](https://www.makeuseof.com/what-is-fps-boost-feature-xbox-series-x/) can give you an even better performance, and there are also a series of[sound settings to optimize on your Xbox Series X|S](https://www.makeuseof.com/xbox-series-xs-sound-settings/) so your sound quality can match that of your display.
+ There are plenty more settings to explore on your Xbox Series X|S to make sure it is providing you with the best gaming experience possible.[Boosting the FPS on your Xbox Series](https://www.makeuseof.com/what-is-fps-boost-feature-xbox-series-x/) can give you an even better performance, and there are also a series of [sound settings to optimize on your Xbox Series X|S](https://www.makeuseof.com/xbox-series-xs-sound-settings/) so your sound quality can match that of your display.
 
 ## Allow Your Xbox Games to Look as Good as Possible
 

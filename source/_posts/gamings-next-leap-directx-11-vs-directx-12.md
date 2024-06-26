@@ -1,7 +1,7 @@
 ---
 title: "Gaming's Next Leap: DirectX 11 V/S DirectX 12"
-date: 2024-06-21 16:57:51
-updated: 2024-06-24 11:20:48
+date: 2024-06-25T13:00:14.339Z
+updated: 2024-06-26T13:00:14.339Z
 tags:
   - games
 categories:
@@ -22,13 +22,13 @@ thumbnail: https://thmb.techidaily.com/8f0f7ad73a0fa3da9b0369f5be30ef87f2772c066
 
 ![DirectX logo imposed on a photo of a man coding](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/untitled-design-1.jpg)
 
- As explained in[our overview of Microsoft DirectX](https://www.makeuseof.com/tag/everything-need-know-directx-2016/) , DirectX is a collection of application programming interfaces (APIs) used for handling tasks related to multimedia. This includes game programming on Microsoft-based platforms like Windows and Xbox. To provide some context, let's briefly talk about APIs.
+ As explained in [our overview of Microsoft DirectX](https://www.makeuseof.com/tag/everything-need-know-directx-2016/) , DirectX is a collection of application programming interfaces (APIs) used for handling tasks related to multimedia. This includes game programming on Microsoft-based platforms like Windows and Xbox. To provide some context, let's briefly talk about APIs.
 
- An API makes it possible for two or more computer programs to communicate with each other, which we discuss in[our overview of APIs](https://www.makeuseof.com/what-is-api/) . Think of it like a telephone. If your mom texts you with a grocery list, your phone will receive that data and display it for you. That is basically an API.
+ An API makes it possible for two or more computer programs to communicate with each other, which we discuss in [our overview of APIs](https://www.makeuseof.com/what-is-api/) . Think of it like a telephone. If your mom texts you with a grocery list, your phone will receive that data and display it for you. That is basically an API.
 
 ## What Are the Differences Between DirectX 11 and DirectX 12?
 
- So, what are the differences between DirectX 11 and DirectX 12? Put simply, DirectX 12 is the latest version of DirectX. One of the most noticeable differences is how they interact with your hardware. Most games developed with DirectX 11 only utilize between two and four[CPU cores](https://www.makeuseof.com/cpu-vs-vcpu-threads-vs-cores/) . One of these cores usually tells the GPU what to do.
+ So, what are the differences between DirectX 11 and DirectX 12? Put simply, DirectX 12 is the latest version of DirectX. One of the most noticeable differences is how they interact with your hardware. Most games developed with DirectX 11 only utilize between two and four [CPU cores](https://www.makeuseof.com/cpu-vs-vcpu-threads-vs-cores/) . One of these cores usually tells the GPU what to do.
 
  The game then uses the remaining cores to handle various CPU-intensive settings like a game's particles or draw distance. On the other hand, DirectX 12 spreads a CPU's workload across multiple cores and allows every core to talk to the GPU simultaneously.
 
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/8f0f7ad73a0fa3da9b0369f5be30ef87f2772c066
 
  Image Credit: Martin Kerstein/[Guild Wars 2](https://www.guildwars2.com/en/news/guesting-is-coming/)
 
- Believe it or not, it took nine years for ArenaNet to make the switch from DirectX 9 to DirectX 11\. However, some games do support both DirectX 11 and DirectX 12, including Fortnite (read[our Fortnite cheat sheet](https://www.makeuseof.com/tag/fortnite-essentials-cheat-sheet-controls-tips-terms/) ), Battlefield 5, Shadow of the Tomb Raider, and more. Users can switch between DirectX 11 and DirectX 12 in the game settings.
+ Believe it or not, it took nine years for ArenaNet to make the switch from DirectX 9 to DirectX 11\. However, some games do support both DirectX 11 and DirectX 12, including Fortnite (read [our Fortnite cheat sheet](https://www.makeuseof.com/tag/fortnite-essentials-cheat-sheet-controls-tips-terms/) ), Battlefield 5, Shadow of the Tomb Raider, and more. Users can switch between DirectX 11 and DirectX 12 in the game settings.
 
  Now, the fact that some games support both DirectX 11 and 12 has probably got you wondering about in-game performance. Does choosing DX 11 or DX 12 deliver better in-game performance? The following video illustrates the differences between DirectX 11 and DirectX 12 in a range of games, showcasing vital specs such as average frames per second, CPU usage, GPU usage, and more, using an AMD Ryzen 3600, Nvidia GeForce RTX 3060 Ti, and 16GB DDR4 RAM.
 
@@ -91,3 +91,27 @@ thumbnail: https://thmb.techidaily.com/8f0f7ad73a0fa3da9b0369f5be30ef87f2772c066
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/unlocking-the-secrets-of-nyt-networking/"><u>Unlocking the Secrets of NYT Networking</u></a></li>
+<li><a href="https://games-able.techidaily.com/techniques-to-secure-your-kids-online-interactions-on-discord/"><u>Techniques to Secure Your Kid's Online Interactions on Discord</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-launch-googles-mobile-game-platform-on-your-computer/"><u>How to Launch Google's Mobile Game Platform on Your Computer</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-smooth-transitions-in-games-through-nvidia-g-sync/"><u>Exploring Smooth Transitions in Games Through Nvidia G-Sync</u></a></li>
+<li><a href="https://games-able.techidaily.com/pulsar-pioneer-top-brand-revelations-in-pcs/"><u>Pulsar Pioneer: Top Brand Revelations in PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-fun-uncover-the-5-advantages-of-investing-in-games/"><u>Maximize Fun: Uncover the 5 Advantages of Investing in Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-gaming-thrills-the-best-1440p-monitors-worth-every-penny/"><u>Affordable Gaming Thrills: The Best 1440P Monitors Worth Every Penny</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-your-steam-experience-fixes-for-win11/"><u>Enhancing Your Steam Experience: Fixes for Win11</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-will-amds-new-anti-aliasing-solution-fsr-3-compete-with-nvidias-dlss-35/"><u>How Will AMD’s New Anti-Aliasing Solution, FSR 3 Compete with NVIDIA's DLSS 3.5?</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-game-access-launcher-setup-on-steam-devices/"><u>Streamlining Game Access: Launcher Setup on Steam Devices</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-honor-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Honor</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-streammaster-showdown-obs-or-shadowplay-for-2024/"><u>[Updated] StreamMaster Showdown  OBS or ShadowPlay for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-secrets-of-successful-podcast-covers-revealed/"><u>2024 Approved  Secrets of Successful Podcast Covers Revealed</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-real-story-exploring-recordcast-features/"><u>[Updated] The Real Story  Exploring RecordCast Features</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-discover-optimal-free-webm-players-for-your-browser-for-2024/"><u>[Updated] Discover Optimal Free WebM Players for Your Browser for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-action-cams-reduce-jitter-for-smooth-videos/"><u>In 2024, Best Action Cams  Reduce Jitter for Smooth Videos</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-the-complete-guide-to-cashing-in-on-tiktok-in-8-steps/"><u>In 2024, The Complete Guide to Cashing In on TikTok in 8 Steps</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-the-art-of-leading-lines-crafting-images-on-iphones-for-2024/"><u>[New] The Art of Leading Lines  Crafting Images on iPhones for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-compose-better-yi-4k-footage-must-have-accessories/"><u>In 2024, Compose Better YI 4K Footage  Must-Have Accessories</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-best-mkv-video-cutters-for-mac-users/"><u>Updated In 2024, Best MKV Video Cutters for Mac Users</u></a></li>
+</ul></div>

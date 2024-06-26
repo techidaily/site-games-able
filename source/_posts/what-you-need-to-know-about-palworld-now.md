@@ -1,7 +1,7 @@
 ---
 title: What You Need to Know About PalWorld Now
-date: 2024-06-25T10:48:04.553Z
-updated: 2024-06-26T10:48:04.553Z
+date: 2024-06-25T12:48:40.397Z
+updated: 2024-06-26T12:48:40.397Z
 tags:
   - games
 categories:
@@ -55,9 +55,7 @@ thumbnail: https://thmb.techidaily.com/f86f99b6d8051e2301c0b59b59f0f49d547931786
 
  However, there's currently no crossplay between the platforms, as they’re not the same version. Cross-platform support will be released in a future update, according to the developers.
 
-## Palworld PC Requirements
-
-![Steam Deck playing Palworld](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/steam-deck-playing-palworld-1.JPG)
+## Palworld PC Requirements ![Steam Deck playing Palworld](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/steam-deck-playing-palworld-1.JPG)
 
 Jhet Borja/MakeUseOf
 
@@ -69,7 +67,7 @@ Jhet Borja/MakeUseOf
 * 16GB of RAM
 * RX 6600 XT or GeForce RTX 3060 GPU
 
- These specs should get you over 60FPS on medium settings. But you could always lower the graphics settings to get a higher framerate. Check out[how to figure out your PC's specs](https://www.makeuseof.com/how-to-check-pc-specs/) in case you can't find them. They don't need to exactly match these, but if the performance is close, you should be fine.
+ These specs should get you over 60FPS on medium settings. But you could always lower the graphics settings to get a higher framerate. Check out [how to figure out your PC's specs](https://www.makeuseof.com/how-to-check-pc-specs/) in case you can't find them. They don't need to exactly match these, but if the performance is close, you should be fine.
 
 ## Which Platform Should You Play Palworld On?
 
@@ -77,7 +75,7 @@ Jhet Borja/MakeUseOf
 
  We recommend playing on Steam for the most up-to-date experience. However, when the Xbox Game Pass version eventually gets updates as quickly as on Steam with cross-play enabled, it’ll be up to your preference.
 
- Another benefit of Steam is that buying it through the storefront means you can play it on a Steam Deck. You can also[use the Steam Deck's Remote Play feature](https://www.makeuseof.com/steam-deck-remote-play-stream-games-from-pc/) to stream the title.
+ Another benefit of Steam is that buying it through the storefront means you can play it on a Steam Deck. You can also [use the Steam Deck's Remote Play feature](https://www.makeuseof.com/steam-deck-remote-play-stream-games-from-pc/) to stream the title.
 
 ## How Does Palworld's Multiplayer Work?
 

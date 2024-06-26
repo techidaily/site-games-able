@@ -1,7 +1,7 @@
 ---
 title: From Joy-Con to Console, Now to Steam
-date: 2024-06-22 10:19:13
-updated: 2024-06-23 12:47:30
+date: 2024-06-25T12:58:27.222Z
+updated: 2024-06-26T12:58:27.222Z
 tags:
   - games
 categories:
@@ -20,13 +20,13 @@ thumbnail: https://thmb.techidaily.com/566315d56d553ccbd049a4fe3b4211dbde8cabf2c
 
 ## How to Connect Your Classic Nintendo Controller to Steam
 
- Connecting your Classic Nintendo controller to Steam begins with securing the controller itself. These controllers are only available to those with Nintendo Switch Online subscriptions. So if you don't have one of those yet, here is[everything you need to know about Nintendo Switch Online](https://www.makeuseof.com/tag/nintendo-switch-online-everything-need-know/) .
+ Connecting your Classic Nintendo controller to Steam begins with securing the controller itself. These controllers are only available to those with Nintendo Switch Online subscriptions. So if you don't have one of those yet, here is [everything you need to know about Nintendo Switch Online](https://www.makeuseof.com/tag/nintendo-switch-online-everything-need-know/) .
 
 ![Nintendo Switch Online logo with Mario characters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/09/nintendo-switch-online-characters.jpg)
 
  Image Credit: Nintendo/[YouTube](https://www.youtube.com/watch?v=v6gTTzfs3sI&ab%5Fchannel=NintendoofAmerica)
 
- This subscription does cost money, of course, but if you really just want the controller, you could simply[cancel your Nintendo Switch Online subscription](https://www.makeuseof.com/how-to-cancel-nintendo-switch-online/) after you get your hands on it, and everyone's a winner.
+ This subscription does cost money, of course, but if you really just want the controller, you could simply [cancel your Nintendo Switch Online subscription](https://www.makeuseof.com/how-to-cancel-nintendo-switch-online/) after you get your hands on it, and everyone's a winner.
 
  The next step toward using your Classic Nintendo controller to play Steam games is connecting your controller to your PC. This can only be done via Bluetooth, so if your computer doesn’t support Bluetooth, a Bluetooth dongle might have to make an appearance on your shopping list.
 
@@ -89,3 +89,26 @@ thumbnail: https://thmb.techidaily.com/566315d56d553ccbd049a4fe3b4211dbde8cabf2c
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/minimizing-roblox-written-in-swift-ios-memory-management-guide/"><u>Minimizing Roblox' Written in Swift: IOS Memory Management Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/five-digital-desktop-text-adventures-await/"><u>Five Digital, Desktop Text-Adventures Await</u></a></li>
+<li><a href="https://games-able.techidaily.com/decade-old-changes-valves-latest-steam-family-sharing-update/"><u>Decade-Old Changes: Valve’s Latest Steam Family Sharing Update</u></a></li>
+<li><a href="https://games-able.techidaily.com/msi-raider-ge78-gaming-throne-desktop-king/"><u>MSI Raider GE78 Gaming Throne - Desktop King</u></a></li>
+<li><a href="https://games-able.techidaily.com/immediate-steps-to-address-steam-buyback-problems/"><u>Immediate Steps to Address Steam Buyback Problems</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-correct-mc-launcher-failure-error-0x803f8001-in-mcpc/"><u>How to Correct MC Launcher Failure: Error 0X803F8001 in MCPC</u></a></li>
+<li><a href="https://games-able.techidaily.com/everyday-tactics-for-circumventing-nyt-connections/"><u>Everyday Tactics for Circumventing NYT Connections</u></a></li>
+<li><a href="https://games-able.techidaily.com/switching-up-your-game-with-optical-flair/"><u>Switching Up Your Game with Optical Flair</u></a></li>
+<li><a href="https://games-able.techidaily.com/icue-link-boost-your-system-why-choose-corsair/"><u>ICUE Link: Boost Your System - Why Choose Corsair?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-setting-up-your-youtube-standings-from-beginner-to-beneficial-businesses/"><u>2024 Approved  Setting Up Your YouTube Standings  From Beginner to Beneficial Businesses</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-how-to-create-discord-logo-gif/"><u>2024 Approved How to Create Discord Logo GIF</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-easy-steps-to-mastering-audio-in-windows-11/"><u>[New] 2024 Approved  Easy Steps to Mastering Audio in Windows 11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-formatting-a-subscription-link-on-youtube/"><u>[New] In 2024, Formatting a Subscription Link on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guiding-adding-songs-to-your-yt-channel/"><u>[Updated] 2024 Approved  Guiding  Adding Songs to Your YT Channel</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-prime-routines-for-documenting-live-sports-events/"><u>2024 Approved  Prime Routines for Documenting Live Sports Events</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-boosting-traffic-with-smart-youtube-title-and-tag-use-for-2024/"><u>[New] Boosting Traffic with Smart YouTube Title & Tag Use for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-mastering-audio-capture-from-skype-for-mp3-for-2024/"><u>[Updated] Mastering Audio Capture From Skype for MP3 for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/first-steps-in-simplified-nft-designing-guide-for-2024/"><u>First Steps in Simplified NFT Designing Guide for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-unleash-your-creativity-easy-gopro-video-editing-for-beginners/"><u>Updated 2024 Approved Unleash Your Creativity Easy GoPro Video Editing for Beginners</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Keep Gaming Secure: Don't Use PS5 Microphone"
-date: 2024-06-21 21:24:35
-updated: 2024-06-24 12:23:34
+date: 2024-06-25T13:07:37.943Z
+updated: 2024-06-26T13:07:37.943Z
 tags:
   - games
 categories:
@@ -20,11 +20,11 @@ thumbnail: https://thmb.techidaily.com/721844d81a2674aaafe28cc93fa85dbee744a7d0e
 
 ## Why You Shouldn't Use Your PS5 Controller's Microphone
 
- By default, your DualSense's microphone will activate whenever you're playing a game that supports voice chat, as long as you don't have any other microphones connected. However, when the controller microphone activates, it will also reduce the intensity of two other[key DualSense features](https://www.makeuseof.com/ps5-dualsense-controller-hidden-features/) : adaptive triggers and haptic feedback.
+ By default, your DualSense's microphone will activate whenever you're playing a game that supports voice chat, as long as you don't have any other microphones connected. However, when the controller microphone activates, it will also reduce the intensity of two other [key DualSense features](https://www.makeuseof.com/ps5-dualsense-controller-hidden-features/) : adaptive triggers and haptic feedback.
 
  As you likely know, adaptive triggers adjust the resistance of the L2 and R2 buttons depending on what you're doing in a game. And haptic feedback is a more advanced version of the classic rumble feature that provides different feedback for various kinds of in-game actions.
 
- In the PS5's Settings menu under**Settings > Accessories > Controllers** , you can adjust both the**Vibration Intensity** and**Trigger Effect Intensity** , which you might do to[save battery on your PS5 controller](http://www.makeuseof.com/save-battery-life-ps5-dualsense-controller/) . However, when your DualSense's built-in microphone is active, it will set both of them to**Weak** , regardless of the setting you've chosen here.
+ In the PS5's Settings menu under**Settings > Accessories > Controllers** , you can adjust both the**Vibration Intensity** and**Trigger Effect Intensity** , which you might do to [save battery on your PS5 controller](http://www.makeuseof.com/save-battery-life-ps5-dualsense-controller/) . However, when your DualSense's built-in microphone is active, it will set both of them to**Weak** , regardless of the setting you've chosen here.
 
 ![PS5 Controller Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS5-Controller-Options.jpg)
 
@@ -69,3 +69,22 @@ thumbnail: https://thmb.techidaily.com/721844d81a2674aaafe28cc93fa85dbee744a7d0e
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/unleash-your-console-writes-a-letter-of-resignation/"><u>Unleash Your Console’ Writes a Letter of Resignation</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-official-method-to-alter-console-regions/"><u>The Official Method to Alter Console Regions</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-the-newest-gaming-hardware-at-ifa-2023/"><u>Explore the Newest Gaming Hardware at IFA 2023</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidia-vs-asus-picking-the-best-gpu-out-there/"><u>Nvidia Vs. ASUS: Picking the Best GPU Out There</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-the-genetic-basis-for-variations-in-cannabinoid-sensitivity/"><u>Unraveling the Genetic Basis for Variations in Cannabinoid Sensitivity</u></a></li>
+<li><a href="https://games-able.techidaily.com/competing-with-precision-in-tetris-showdowns-phone-style/"><u>Competing with Precision in Tetris Showdowns, Phone Style</u></a></li>
+<li><a href="https://games-able.techidaily.com/lenovos-stronghold-the-latest-on-the-legion-go/"><u>Lenovo's Stronghold: The Latest on the Legion Go</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-step-by-step-guide-to-facebook-mastery-pro-and-novice-edition/"><u>2024 Approved  Step-by-Step Guide to Facebook Mastery  Pro & Novice Edition</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/addressed-hidden-shorters-now-visible-for-2024/"><u>Addressed  Hidden Shorters, Now Visible for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-infinix-note-30-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-how-to-zoom-inout-in-instagram-stories/"><u>[Updated] In 2024, How to Zoom In/Out in Instagram Stories</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-complete-manual-to-perfect-proportions-in-youtube-videosshortsads/"><u>2024 Approved  The Complete Manual to Perfect Proportions in YouTube Videos/Shorts/Ads</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-how-to-use-suspense-music-to-master-film-score-for-2024/"><u>Updated How to Use Suspense Music to Master Film Score for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-discreet-youtube-playback-on-mobile-devices/"><u>[New] 2024 Approved  Discreet YouTube Playback on Mobile Devices</u></a></li>
+</ul></div>

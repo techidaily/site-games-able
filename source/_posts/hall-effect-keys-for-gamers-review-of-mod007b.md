@@ -1,7 +1,7 @@
 ---
 title: Hall Effect Keys for Gamers - Review of Mod007B
-date: 2024-06-23 16:26:19
-updated: 2024-06-24 10:21:16
+date: 2024-06-25T12:59:15.911Z
+updated: 2024-06-26T12:59:15.911Z
 tags:
   - games
 categories:
@@ -109,9 +109,7 @@ No
 
 [See at Akko](https://en.akkogear.com/product/mod007b-pc-santorini-mechanical-keyboard/)
 
-## A Great-Looking Keyboard on the Surface
-
-![Akko MOD007B HE Spacebar Detail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-spacebar-detail.jpg)
+## A Great-Looking Keyboard on the Surface ![Akko MOD007B HE Spacebar Detail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-spacebar-detail.jpg)
 
  Jowi Morales / MakeUseOf
 
@@ -121,9 +119,7 @@ No
 
  All of these sit on a plain white plastic case with two-level adjustable feet. You also get a plain white knob for adjusting volume and RGB brightness. This keyboard would look great on any desk. Even if you aim for a minimalist gaming station, its design could be your PC’s focal point.
 
-## Tokyo-Themed Keys and Accessories Included
-
-![Akko MOD007B HE Tokyo-themed Accessories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-tokyo-themed-accessories.jpg)
+## Tokyo-Themed Keys and Accessories Included ![Akko MOD007B HE Tokyo-themed Accessories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-tokyo-themed-accessories.jpg)
 
  Jowi Morales / MakeUseOf
 
@@ -139,7 +135,7 @@ No
 
  What makes the Akko MOD007B different from most gaming keyboards is that it uses Hall Effect switches instead of mechanical keys.[Mechanical keyboards work by using springs](http://www.makeuseof.com/tag/mechanical-keyboard-work-technology-explained/) to control how much pressure you need to apply before it closes the switch.
 
- On the other hand, Hall Effect switches have no moving parts. Instead, it uses the changing position of two magnets to determine a key’s position. Because of this, Hall Effect keyboards have a longer lifespan than traditional mechanical switches, just like[Hall Effect joysticks](https://www.makeuseof.com/what-are-hall-effect-joysticks-can-they-cure-controller-drift/) .
+ On the other hand, Hall Effect switches have no moving parts. Instead, it uses the changing position of two magnets to determine a key’s position. Because of this, Hall Effect keyboards have a longer lifespan than traditional mechanical switches, just like [Hall Effect joysticks](https://www.makeuseof.com/what-are-hall-effect-joysticks-can-they-cure-controller-drift/) .
 
 ![Akko MOD007B HE Hall-Effect Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-hall-effect-switch.jpg)
 
@@ -169,9 +165,7 @@ Related
 
  Even when you bottom out the keys, you’ll feel as if it’s cushioned, reducing the stress on your fingertips. And although it doesn’t have the bassy, thocky sound some keyboard enthusiasts look for, it still delivers excellent audible feedback for each keypress you make.
 
-## Extensive Customization With the Akko Cloud Driver
-
-![Akko MOD007B HE Cloud Driver Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/akko-mod007b-he-cloud-driver-screenshot.jpg)
+## Extensive Customization With the Akko Cloud Driver ![Akko MOD007B HE Cloud Driver Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/akko-mod007b-he-cloud-driver-screenshot.jpg)
 
  Of course, hardware is no good if you don’t pair it with great software. Thankfully, the Akko MOD007B comes with an easy-to-use and easy-to-understand driver. On thge Main tab you can remap your keyboard, change its Dynamic Keystroke settings, and set custom actuation distances for the entire keyboard or each key.
 
@@ -179,9 +173,7 @@ Related
 
  But best of all, any changes you make to the keyboard are stored on it. So, even if you switch PCs or upgrade to a newer device, you don’t have to download the driver and recreate your saved keyboard settings.
 
-## Confusing Multi-Mode Pairing
-
-![Akko MOD007B HE mode switch slider under the caps lock key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-mode-switch-slider-under-the-caps-lock-key.jpg)
+## Confusing Multi-Mode Pairing ![Akko MOD007B HE mode switch slider under the caps lock key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-mode-switch-slider-under-the-caps-lock-key.jpg)
 
  Jowi Morales / MakeUseOf
 
@@ -193,9 +185,7 @@ Related
 
  It would’ve been better if Akko included at least a single color-changing LED bulb to indicate the mode the keyboard is currently on. And maybe they could put the OS mode switch on an easily reachable surface.
 
-## Questionable Battery Life
-
-![Akko MOD007B HE Battery-Level Check](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-battery-level-check.jpg)
+## Questionable Battery Life ![Akko MOD007B HE Battery-Level Check](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-battery-level-check.jpg)
 
  Jowi Morales / MakeUseOf
 
@@ -302,3 +292,27 @@ No
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/cryptic-gamers-hiding-your-activities/"><u>Cryptic Gamers: Hiding Your Activities</u></a></li>
+<li><a href="https://games-able.techidaily.com/preserving-games-on-disk-efficient-chdman-iso-compression-tips/"><u>Preserving Games on Disk: Efficient CHDMAN ISO Compression Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/muting-game-sounds-a-comprehensive-guide-to-noise-reduction/"><u>Muting Game Sounds: A Comprehensive Guide to Noise Reduction</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-critical-views-on-mobility-in-gaming/"><u>7 Critical Views on Mobility in Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-pros-and-cons-of-mobile-gaming/"><u>The Pros and Cons of Mobile Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-gaming-mice-high-pixels-per-inch-excellence/"><u>Elite Gaming Mice - High Pixels Per Inch Excellence</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-gaming-unboxing-the-30-top-switch-cartridge-holders-of-2024/"><u>Innovative Gaming - Unboxing the 30 Top Switch Cartridge Holders of 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-guide-resolving-display-driver-failed-errors-on-windows-11/"><u>Expert Guide: Resolving Display Driver Failed Errors on Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-handheld-powerhouse-enter-the-world-of-pdw4/"><u>Next Gen Handheld Powerhouse - Enter the World of PDW4</u></a></li>
+<li><a href="https://games-able.techidaily.com/leveraging-the-power-of-steam-currency/"><u>Leveraging the Power of Steam Currency</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-elevate-engagement-the-hottest-tiktok-hashtags-for-now/"><u>[Updated] 2024 Approved  Elevate Engagement  The Hottest TikTok Hashtags for Now</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-what-is-chatgpt/"><u>New In 2024, What Is ChatGPT?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-whats-youtube-creative-commons-and-how-to-use-it-to-make-video/"><u>In 2024, What's YouTube Creative Commons and How to Use It to Make Video</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-14-pro-max-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix iPhone 14 Pro Max Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-10-most-popular-tiktok-challenges-deserves-a-try-for-2024/"><u>[New] 10 Most Popular TikTok Challenges Deserves A Try for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-transforming-text-into-voice-for-tiktok-enthusiasts/"><u>[New] In 2024, Transforming Text Into Voice for TikTok Enthusiasts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlock-creative-potential-with-kinemaster-skills-plus-10-superior-alternatives/"><u>2024 Approved  Unlock Creative Potential with KineMaster Skills + 10 Superior Alternatives</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Motorola Edge 40? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-your-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On your Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-on-your-apple-iphone-x-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password On your Apple iPhone X</u></a></li>
+</ul></div>

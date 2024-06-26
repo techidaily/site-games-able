@@ -1,7 +1,7 @@
 ---
 title: Why GameFi Can't Attract the Core Gamers
-date: 2024-06-22 10:30:23
-updated: 2024-06-24 10:22:51
+date: 2024-06-25T13:01:41.477Z
+updated: 2024-06-26T13:01:41.477Z
 tags:
   - games
 categories:
@@ -31,9 +31,9 @@ thumbnail: https://thmb.techidaily.com/ecc3916e90aab64f99ff84f9c45d036bcf1e08682
 
  GameFi ([short for gaming finance](https://www.makeuseof.com/what-is-gamefi/) ) is a blend of the gaming and decentralized finance (DeFi) industries, wherein users can play games to earn crypto tokens and other decentralized assets, such as NFTs. GameFi allows blockchain-based apps to shift into the gaming industry, attracting users with the lure of digital tokens.
 
- GameFi is also known as[play-to-earn (P2E)](https://www.makeuseof.com/are-play-to-earn-games-legit/) . P2E games often look and perform like typical games, with the tokenomics element usually being the only difference.
+ GameFi is also known as [play-to-earn (P2E)](https://www.makeuseof.com/are-play-to-earn-games-legit/) . P2E games often look and perform like typical games, with the tokenomics element usually being the only difference.
 
- Some notable examples of[popular P2E games](https://www.makeuseof.com/top-play-to-earn-mobile-crypto-games/) are Axie Infinity, Star Atlas, and Tamadodge. Each of these games has one or more of their own token types that users can earn. Some games, including Axie Infinity, reward winners with NFTs that they can sell for Ethereum or another cryptocurrency.
+ Some notable examples of [popular P2E games](https://www.makeuseof.com/top-play-to-earn-mobile-crypto-games/) are Axie Infinity, Star Atlas, and Tamadodge. Each of these games has one or more of their own token types that users can earn. Some games, including Axie Infinity, reward winners with NFTs that they can sell for Ethereum or another cryptocurrency.
 
  In P2E games, almost everything can be tokenized, from avatars to weapons to land. You can often receive these assets by completing quests and winning tournaments, but the nature of the P2E model changes from game to game.
 
@@ -45,13 +45,11 @@ thumbnail: https://thmb.techidaily.com/ecc3916e90aab64f99ff84f9c45d036bcf1e08682
 
  This naturally affects GameFi, as many P2E games reward users with crypto tokens. If a GameFi token's price increases, that's great news for gamers. But as we all know, cryptocurrency price drops and market crashes are by no means rare. If an individual spends hours building a solid holding of assets by playing a P2E game, much of their time and effort will go to waste if the reward token loses a large chunk of its value.
 
- Even if a P2E game solely rewards users with NFTs, cryptocurrency price fluctuations directly affect how much a user can get through the sale of their P2E NFTs. For instance, if an NFT is worth 2 ETH and Ethereum's price drops by 10%, the NFT owner stands to lose 10% of their original profit when they[sell this NFT on a marketplace](https://www.makeuseof.com/best-nft-marketplaces-buying-all-kinds-digital-assets/) like OpenSea.
+ Even if a P2E game solely rewards users with NFTs, cryptocurrency price fluctuations directly affect how much a user can get through the sale of their P2E NFTs. For instance, if an NFT is worth 2 ETH and Ethereum's price drops by 10%, the NFT owner stands to lose 10% of their original profit when they [sell this NFT on a marketplace](https://www.makeuseof.com/best-nft-marketplaces-buying-all-kinds-digital-assets/) like OpenSea.
 
  GameFi developers could aim to adopt stablecoins over regular cryptos in P2E games, as this provides more price stability and protects users from really suffering when the market turns downward.
 
-## 2\. Scams
-
-![person having crypto stolen from laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/crypto-scams-social-media.jpg)
+## 2\. Scams ![person having crypto stolen from laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/crypto-scams-social-media.jpg)
 
  Scams are, unfortunately, native to the crypto realm, and GameFi is no exception to this rule. If there's money to be stolen, chances are criminals will find some way to access it.
 
@@ -83,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/ecc3916e90aab64f99ff84f9c45d036bcf1e08682
 
 ### 5\. Lack of Regulation
 
- Cryptocurrency and DeFi already lack proper regulation (though[crypto regulation may soon change](https://www.makeuseof.com/is-government-sec-going-to-regulate-cryptocurrency/) ), but GameFi, a newer addition to the blockchain industry, suffers from this issue even more.
+ Cryptocurrency and DeFi already lack proper regulation (though [crypto regulation may soon change](https://www.makeuseof.com/is-government-sec-going-to-regulate-cryptocurrency/) ), but GameFi, a newer addition to the blockchain industry, suffers from this issue even more.
 
  In the US, no specific legal regulations surround GameFi, which could allow malicious actors to get away with a fair few swindles. Even legitimate game developers may be able to wriggle through a few loopholes without proper regulation, leaving gamers worse off.
 
@@ -126,3 +124,26 @@ thumbnail: https://thmb.techidaily.com/ecc3916e90aab64f99ff84f9c45d036bcf1e08682
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/tactile-triumphs-phones-or-larger-screens-for-play/"><u>Tactile Triumphs: Phones or Larger Screens for Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-secret-to-thriving-in-fortnite-on-a-mac/"><u>The Secret to Thriving in Fortnite on a Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-outputs-weighing-in-on-mini-and-full-desktop-pcs/"><u>Optimal Outputs: Weighing In on Mini and Full Desktop Pcs</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-the-secrets-to-choosing-a-superior-gaming-screen/"><u>Unlock the Secrets to Choosing a Superior Gaming Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-conventional-to-revolutionary-the-pdw4-story/"><u>From Conventional to Revolutionary: The PDW4 Story</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-you-need-to-know-about-palworld-now/"><u>What You Need to Know About PalWorld Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-the-nintendo-switch-online-packaging/"><u>Understanding the Nintendo Switch Online Packaging</u></a></li>
+<li><a href="https://games-able.techidaily.com/unmasking-game-meta-interpretation-and-adherence/"><u>Unmasking Game 'Meta': Interpretation & Adherence</u></a></li>
+<li><a href="https://games-able.techidaily.com/assembled-now-deconstructed-your-xbox-360-slim-guide/"><u>Assembled, Now Deconstructed: Your Xbox 360 Slim Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/in-2024-the-best-flac-converters-compared-make-an-informed-decision/"><u>In 2024, The Best FLAC Converters Compared Make an Informed Decision</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-kingdoms-collide-ranking-top-7-total-war-historical-games/"><u>2024 Approved  Kingdoms Collide  Ranking Top 7 Total War Historical Games</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-love-hunt-top-10-discord-dating-destinations-for-2024/"><u>[New] Love Hunt  Top 10 Discord Dating Destinations for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-unlocking-tiktoks-photoshop-magic-effortlessly/"><u>[Updated] In 2024, Unlocking TikTok's Photoshop Magic Effortlessly</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-iphone-14-plus-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock From your iPhone 14 Plus</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/transform-tweets-converting-video-to-gifs-at-no-cost/"><u>Transform Tweets  Converting Video to GIFs at No Cost</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-cutting-edge-techniques-a-guide-to-next-level-effectiveness-in-your-youtube-ads-for-2024/"><u>[New] Cutting-Edge Techniques  A Guide to Next-Level Effectiveness in Your YouTube Ads for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/where-can-i-find-monster-sounds-effect-for-2024/"><u>Where Can I Find Monster Sounds Effect for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-unveiling-the-ultimate-strategy-to-record-your-favorite-streamed-series-hulu/"><u>2024 Approved  Unveiling the Ultimate Strategy to Record Your Favorite Streamed Series (Hulu)</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-transform-your-singing-with-autotune-in-audacity-a-complete-tutorial-followed-through/"><u>New In 2024, Transform Your Singing with Autotune in Audacity – A Complete Tutorial Followed Through</u></a></li>
+</ul></div>

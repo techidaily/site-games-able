@@ -1,7 +1,7 @@
 ---
 title: "Discord for Mac Users: Step-by-Step Setup Instructions"
-date: 2024-06-25T10:43:53.442Z
-updated: 2024-06-26T10:43:53.442Z
+date: 2024-06-25T12:48:37.776Z
+updated: 2024-06-26T12:48:37.776Z
 tags:
   - games
 categories:
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/c811d888eaef42c6d49c05cdca31aa1712344b1b9
 
 [Installation files on macOS are called DMG files](https://www.makeuseof.com/what-is-a-dmg-file/) . You should download Discord's DMG file from its website by following these steps:
 
-1. Go to[Discord's download page](https://discord.com/download) on your browser.  
+1. Go to [Discord's download page](https://discord.com/download) on your browser.  
 ![Download for Mac button on the Discord website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/download-for-mac-button-on-the-discord-website.jpeg)
 2. Click**Download for Mac** , and a Finder window will appear for you to choose the location to save Discord's installation file.  
 ![Saving Discord to Downloads on macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/saving-discord-to-downloads-on-macos.jpeg)
@@ -40,15 +40,13 @@ thumbnail: https://thmb.techidaily.com/c811d888eaef42c6d49c05cdca31aa1712344b1b9
 3. After a window appears, drag the**Discord logo** into the**Application** window.  
 ![Discord logo being dragged into the Applications folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/discord-logo-being-dragged-into-the-applications-folder.jpeg)
 4. Close the Finder window.
-5. Click**Launchpad** from the Dock and select**Discord** from one of the pages. Or launch it[using Spotlight search on your Mac](https://www.makeuseof.com/spotlight-search-on-mac-beginners-guide/) .
+5. Click**Launchpad** from the Dock and select**Discord** from one of the pages. Or launch it [using Spotlight search on your Mac](https://www.makeuseof.com/spotlight-search-on-mac-beginners-guide/) .
 
  You might receive a security prompt that Discord is an app downloaded from the internet, but click**Open** anyway.
 
- macOS's Gatekeeper might not let you install or run Discord right away. If you run into that problem or any other problems, read our guide on[installing third-party apps on a Mac](https://www.makeuseof.com/how-to-install-third-party-apps-mac/) .
+ macOS's Gatekeeper might not let you install or run Discord right away. If you run into that problem or any other problems, read our guide on [installing third-party apps on a Mac](https://www.makeuseof.com/how-to-install-third-party-apps-mac/) .
 
-## Step 3: Sign Up or Sign In to Discord
-
-![Discord's login page on the Mac app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/discord-s-login-page-on-the-mac-app.jpeg)
+## Step 3: Sign Up or Sign In to Discord ![Discord's login page on the Mac app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/discord-s-login-page-on-the-mac-app.jpeg)
 
  When Discord opens, you'll be greeted by its login page. If you already have an account, type in your email or phone number, enter your password, and click**Log In** to sign in.
 

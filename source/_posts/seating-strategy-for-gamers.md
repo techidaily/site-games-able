@@ -1,7 +1,7 @@
 ---
 title: Seating Strategy for Gamers
-date: 2024-06-22 15:48:45
-updated: 2024-06-23 11:55:28
+date: 2024-06-25T12:52:24.380Z
+updated: 2024-06-26T12:52:24.380Z
 tags:
   - games
 categories:
@@ -32,9 +32,7 @@ thumbnail: https://thmb.techidaily.com/d04a298cb4efeef55fca68d7eaf14aa0f3c43f69f
 
  Because office chairs aren’t restricted to some “gaming” aesthetic, they are often designed more ergonomically than gaming chairs. Here are some gaming chair ergonomics pain points for me...
 
-### Race car Bucket Seat Design
-
-![a man playing pc games in a gaming chair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/a-man-playing-pc-games-in-a-gaming-chair.jpg)
+### Race car Bucket Seat Design ![a man playing pc games in a gaming chair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/a-man-playing-pc-games-in-a-gaming-chair.jpg)
 
  Standret/[Shutterstock](https://www.shutterstock.com/image-photo/next-gen-graphics-online-streamer-playing-2159933123)
 
@@ -52,23 +50,21 @@ thumbnail: https://thmb.techidaily.com/d04a298cb4efeef55fca68d7eaf14aa0f3c43f69f
 
  Oddly enough, larger people may still struggle with gaming chairs because the bucket seat design is restrictive.
 
-### Bad Lumbar Support
-
-![Man in an office chair at a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/05/man-in-an-office-chair-at-a-desk.jpg)
+### Bad Lumbar Support ![Man in an office chair at a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/05/man-in-an-office-chair-at-a-desk.jpg)
 
  Dreamchild Obari/MakeUseOf
 
  Lumbar support is one of the key arguments for using ergonomic chairs. You may have heard it a lot as a buzzword in the ergonomic chair industry, but it boils down to supporting the natural curve of your spine.
 
- It’s important because good lumbar support will minimize back pain in those long gaming sessions. Additionally, it helps correct your sitting posture and reduces the risk of long-term problems arising from improper posture. I should add that good posture is a key tenet to[staying healthy as a gamer](https://www.makeuseof.com/tips-to-stay-healthy-as-a-gamer/) .
+ It’s important because good lumbar support will minimize back pain in those long gaming sessions. Additionally, it helps correct your sitting posture and reduces the risk of long-term problems arising from improper posture. I should add that good posture is a key tenet to [staying healthy as a gamer](https://www.makeuseof.com/tips-to-stay-healthy-as-a-gamer/) .
 
  If you look at the profile of most low-end gaming chairs, they have a long, straight back with a pillow as lumbar support. Give it a couple of hours, and that lumbar support pillow will flatten and take away what little lumbar support it provides.
 
- For gamers reading this who have some kind of back pain from using gaming chairs, it might be time to consider switching to an[office desk chair designed to prevent back pain](https://www.makeuseof.com/tag/the-5-best-office-chairs-you-can-buy-right-now/) . I use a mesh office chair with a curve that matches my spine, and it has helped improve the pain I developed from my gaming chair days.
+ For gamers reading this who have some kind of back pain from using gaming chairs, it might be time to consider switching to an [office desk chair designed to prevent back pain](https://www.makeuseof.com/tag/the-5-best-office-chairs-you-can-buy-right-now/) . I use a mesh office chair with a curve that matches my spine, and it has helped improve the pain I developed from my gaming chair days.
 
 ## 2 Gaming Chairs Are Cheaply Built and Overpriced
 
- I’ve seen this many times: a regular, not-so-great accessory is packaged with a “gaming” design and sold for a markup. It’s a popular marketing gimmick, and you may have noticed it yourself. Unfortunately, this is also often the case with gaming chairs. In fact, it’s a core[reason not to buy a gaming chair](https://www.makeuseof.com/dont-buy-a-gaming-chair-reasons-why/) .
+ I’ve seen this many times: a regular, not-so-great accessory is packaged with a “gaming” design and sold for a markup. It’s a popular marketing gimmick, and you may have noticed it yourself. Unfortunately, this is also often the case with gaming chairs. In fact, it’s a core [reason not to buy a gaming chair](https://www.makeuseof.com/dont-buy-a-gaming-chair-reasons-why/) .
 
  If you compared a $300 regular ergonomic office chair to a $300 - $500 gaming chair, you’d see that the office chair offers more by way of comfort and adjustability than its gaming counterpart. Additionally, in the category of budget-friendly ergonomic chairs, office chairs seem to be the ones with the better build quality these days.
 
@@ -78,9 +74,7 @@ thumbnail: https://thmb.techidaily.com/d04a298cb4efeef55fca68d7eaf14aa0f3c43f69f
 
  Gaming chairs’ costs go into their metal frames and multi-colored upholsteries. However, while office chairs have more modest designs and plastics, they are better designed and cost less.
 
-## 3 An Office Chair Is Aesthetically Safer
-
-![Computer setup with a white office chair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/05/computer-setup-with-a-white-office-chair.jpg)
+## 3 An Office Chair Is Aesthetically Safer ![Computer setup with a white office chair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/05/computer-setup-with-a-white-office-chair.jpg)
 
  Dreamchild Obari/MakeUseOf
 
@@ -107,3 +101,26 @@ thumbnail: https://thmb.techidaily.com/d04a298cb4efeef55fca68d7eaf14aa0f3c43f69f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/in-gaming-is-everyone-for-the-big-boys-episode-review/"><u>In Gaming, Is Everyone for the Big Boys? [Episode Review]</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-guide-to-superior-xbox-capture-tech/"><u>Exclusive Guide to Superior Xbox Capture Tech</u></a></li>
+<li><a href="https://games-able.techidaily.com/journey-through-social-and-multiplayer-worlds-subscribing-to-and-using-ea-play-on-ps5/"><u>Journey Through Social & Multiplayer Worlds: Subscribing to and Using EA Play on PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-secret-to-thriving-in-fortnite-on-a-mac/"><u>The Secret to Thriving in Fortnite on a Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/galactic-genius-reviews-uncovering-top-brand-pcs/"><u>Galactic Genius Reviews: Uncovering Top Brand PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-lost-gps-connection-in-pokemon-adventure/"><u>Troubleshooting Lost GPS Connection in Pokémon Adventure</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-your-gaming-sessions-with-emudeck-and-steam-deck/"><u>Streamline Your Gaming Sessions with EmuDeck & Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-6-curious-chess-programs-with-ai-matches/"><u>Dive Into 6 Curious Chess Programs with AI Matches</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-twitch-platform-features-and-usage-tips/"><u>Decoding Twitch: Platform Features and Usage Tips</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-honor-x8b-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Honor X8b Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-how-to-add-music-to-ig-story-an-ultimate-guide/"><u>[Updated] How to Add Music to IG Story – an Ultimate Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-the-value-of-sns-hdr-and-its-market-rivals-for-2024/"><u>Exploring the Value of SNS HDR and Its Market Rivals for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-memes-that-spark-global-conversation/"><u>In 2024, Memes that Spark Global Conversation</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/in-2024-want-to-get-vsdc-video-editor-on-mac-but-it-is-only-available-on-windows-dont-worry-we-compiled-a-list-of-best-vsdc-video-editor-for-mac-alternative/"><u>In 2024, Want to Get VSDC Video Editor on Mac? But It Is only Available on Windows. Dont Worry, We Compiled a List of Best VSDC Video Editor for Mac Alternatives</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-turn-off-chatter-secrets-for-muting-users-on-gomeet/"><u>[Updated] In 2024, Turn Off Chatter  Secrets for Muting Users on GoMeet</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/unveiling-secrets-for-superior-user-imagery-on-discord/"><u>Unveiling Secrets for Superior User Imagery on Discord</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-segmented-screen-success-is-splitcam-superior-in-2024/"><u>[Updated] Segmented Screen Success  Is SplitCam Superior, In 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-asus-rog-phone-8-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Asus ROG Phone 8</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-oneplus-ace-2v-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove OnePlus Ace 2V Fingerprint Lock</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Exploring Hardware Requirements for BG3
-date: 2024-06-23 16:10:41
-updated: 2024-06-24 10:53:25
+date: 2024-06-25T13:19:16.872Z
+updated: 2024-06-26T13:19:16.872Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
 
 ## What Are Baldur’s Gate 3's Hardware and Software Requirements?
 
- Unlike its predecessors, you can’t run Baldur’s Gate 3 on a potato computer. While you don’t need the most powerful graphic cards, you would need a decent one if you want to enjoy your experience and explore this corner of Faerûn. Take a look at our list of the[best graphic cards for any budget](https://www.makeuseof.com/tag/best-graphics-cards/) to find something that works for you if you plan to play on a PC.
+ Unlike its predecessors, you can’t run Baldur’s Gate 3 on a potato computer. While you don’t need the most powerful graphic cards, you would need a decent one if you want to enjoy your experience and explore this corner of Faerûn. Take a look at our list of the [best graphic cards for any budget](https://www.makeuseof.com/tag/best-graphics-cards/) to find something that works for you if you plan to play on a PC.
 
 Here’s a table for Baldur’s Gate 3’s specs:
 
@@ -33,7 +33,7 @@ Here’s a table for Baldur’s Gate 3’s specs:
 | **DirectX**   | Version 11                                                                                                            | \-                                                                                          |
 | **Storage**   | 150GB SSD                                                                                                             | **Minimum** \- 150GB HDD**Recommended** \- 150GB SSD                                        |
 
- Apple silicon Macs generally run Baldur’s Gate better than Intel Macs—just one of the reasons[you might need an Apple silicon Mac](https://www.makeuseof.com/do-i-need-an-apple-silicon-mac/) .
+ Apple silicon Macs generally run Baldur’s Gate better than Intel Macs—just one of the reasons [you might need an Apple silicon Mac](https://www.makeuseof.com/do-i-need-an-apple-silicon-mac/) .
 
 * M1 and M2 Macs with 8GB RAM could run this game on low settings (and this includes all MacBook Airs).
 * M1 and M2 Macs with 16GB of RAM can run Baldur’s Gate 3 on high or ultra settings.
@@ -43,7 +43,7 @@ Here’s a table for Baldur’s Gate 3’s specs:
 
 ![Baldur's Gate 3 Steam Store Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-steam-store-page.jpeg)
 
- Baldur’s Gate 3 came out for PC on August 3rd, but it will come out for macOS and PS5 on September 6th, and perhaps next year for Xbox Series X|S. Larian Studios has issues getting the split-screen to work effectively on the[cheaper and less powerful Xbox Series S](https://www.makeuseof.com/xbox-series-x-vs-xbox-series-s-which-should-you-buy/) .
+ Baldur’s Gate 3 came out for PC on August 3rd, but it will come out for macOS and PS5 on September 6th, and perhaps next year for Xbox Series X|S. Larian Studios has issues getting the split-screen to work effectively on the [cheaper and less powerful Xbox Series S](https://www.makeuseof.com/xbox-series-x-vs-xbox-series-s-which-should-you-buy/) .
 
  You can get Baldur’s Gate 3 on PC and Mac from Steam, GOG, and GeForce Now. It costs $59.99 alone or $69.98 with the Digital Deluxe Edition DLC.
 
@@ -92,3 +92,22 @@ Here’s a table for Baldur’s Gate 3’s specs:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/expert-advice-on-epic-steam-linkage/"><u>Expert Advice on Epic-Steam Linkage</u></a></li>
+<li><a href="https://games-able.techidaily.com/velocity-and-valor-in-sim-racing-with-moza-r5-bundle/"><u>Velocity & Valor in Sim Racing with MOZA R5 Bundle</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-new-approach-assessing-your-priorities-beyond-steam-points/"><u>A New Approach: Assessing Your Priorities Beyond Steam Points</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-home-entertainment-with-playnite-fullscreen-tv/"><u>Transform Home Entertainment with Playnite Fullscreen TV</u></a></li>
+<li><a href="https://games-able.techidaily.com/adjust-linguistic-preferences-in-steam-app/"><u>Adjust Linguistic Preferences in Steam App</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-resolving-4-frequent-gpu-issues/"><u>Mastering the Art of Resolving 4 Frequent GPU Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/guide-to-remove-unwanted-game-data-on-ps5/"><u>Guide to Remove Unwanted Game Data on PS5</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-color-lut-is-an-easy-and-powerful-tool-to-make-your-video-stands-out-from-the-crowd-check-this-article-to-learn-the-details-about-color-lut/"><u>In 2024, Color Lut Is an Easy and Powerful Tool to Make Your Video Stands Out From the Crowd. Check This Article to Learn the Details About Color Lut</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-tips-for-dynamic-and-engaging-video-covers-on-the-worlds-largest-social-media-network-for-2024/"><u>[Updated] Tips for Dynamic & Engaging Video Covers on the World's Largest Social Media Network for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/discover-revolutionary-bots-for-a-better-sonic-experience-on-discord-for-2024/"><u>Discover Revolutionary Bots for a Better Sonic Experience on Discord for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-vivo-s17t-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Vivo S17t</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a-drone-transformed-with-yuneecs-typhoon-q500/"><u>2024 Approved  A Drone Transformed with Yuneec's Typhoon Q500</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-experts-choice-top-6-software-solutions-for-signature-erasure/"><u>2024 Approved  Expert's Choice  Top 6 Software Solutions for Signature Erasure</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-ultimate-guide-to-gopro-quik-for-pc-and-alternative-solutions-for-2024/"><u>The Ultimate Guide to GoPro Quik for PC and Alternative Solutions for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-10-amazing-anime-character-designs-to-inspire-you/"><u>Updated 10 Amazing Anime Character Designs to Inspire You</u></a></li>
+</ul></div>

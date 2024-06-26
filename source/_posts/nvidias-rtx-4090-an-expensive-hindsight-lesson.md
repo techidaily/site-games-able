@@ -1,7 +1,7 @@
 ---
 title: "NVIDIA's RTX 4090: An Expensive Hindsight Lesson"
-date: 2024-06-22 11:42:36
-updated: 2024-06-24 11:54:55
+date: 2024-06-25T13:35:46.364Z
+updated: 2024-06-26T13:35:46.364Z
 tags:
   - games
 categories:
@@ -42,11 +42,11 @@ thumbnail: https://thmb.techidaily.com/15a61f0827860e342a65d573fdf8ef935cbe188b5
 
 ![RTSS OSD stats appearing in Valorant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/rtss-osd-stats-appearing-in-valorant.png)
 
- Even in graphically demanding AAA games, my GPU usage rarely exceeds 90 percent. And that's because my CPU can't keep up. I use a Ryzen 5900X, which is a generation older than the top-of-the-line AMD Ryzen processors available today, like[the Ryzen 7800X3D, 7900X3D, and 7950X3D](https://www.makeuseof.com/ryzen-9-7950x3d-vs-ryzen-9-7900x3d-vs-ryzen-7-7800x3d/) .
+ Even in graphically demanding AAA games, my GPU usage rarely exceeds 90 percent. And that's because my CPU can't keep up. I use a Ryzen 5900X, which is a generation older than the top-of-the-line AMD Ryzen processors available today, like [the Ryzen 7800X3D, 7900X3D, and 7950X3D](https://www.makeuseof.com/ryzen-9-7950x3d-vs-ryzen-9-7900x3d-vs-ryzen-7-7800x3d/) .
 
 ## 2 Power Consumption Is Very High
 
- The RTX 4090 is a monster of a GPU that consumes a lot of power. The Founders Edition (reference) version of the RTX 4090 has a[TDP (Thermal Design Power)](https://www.makeuseof.com/tag/thermal-design-power-technology-explained/) of 450W. This means the GPU can consume up to 450W under general usage.
+ The RTX 4090 is a monster of a GPU that consumes a lot of power. The Founders Edition (reference) version of the RTX 4090 has a [TDP (Thermal Design Power)](https://www.makeuseof.com/tag/thermal-design-power-technology-explained/) of 450W. This means the GPU can consume up to 450W under general usage.
 
  However, the RTX 4090 I own is no ordinary unit. It's the Colorful iGame RTX 4090 Neptune, a liquid-cooled variant with a 360mm radiator that has a TDP of 630W! Like this one, several RTX 4090 variants from NVIDIA's board partners have a TDP higher than 450W.
 
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/15a61f0827860e342a65d573fdf8ef935cbe188b5
 
  However, the Colorful Neptune RTX 4090 I have cost me a little over two grand, but at that time, I thought it was worth it because of the overclocking headroom I got from liquid cooling. Another reason is that this card isn't nearly as chunky as other air-cooled RTX 4090 cards on the market.
 
- Unfortunately, I haven't even come close to maximizing the RTX 4090's full potential because of the kind of games I mostly play. I now feel like I could've spent half the money on an RTX 4080 for similar frame rates on esports titles like Valorant, Overwatch 2, or Fortnite. To get the most out of my RTX 4090 now, I need one of[the fastest gaming CPUs from AMD or Intel](https://www.makeuseof.com/amd-vs-intel-gaming/) .
+ Unfortunately, I haven't even come close to maximizing the RTX 4090's full potential because of the kind of games I mostly play. I now feel like I could've spent half the money on an RTX 4080 for similar frame rates on esports titles like Valorant, Overwatch 2, or Fortnite. To get the most out of my RTX 4090 now, I need one of [the fastest gaming CPUs from AMD or Intel](https://www.makeuseof.com/amd-vs-intel-gaming/) .
 
  So, if you're on the fence about buying an RTX 4090, think about the games you play and the resolution you play at because I don't want you to make the same mistake as I did. I wouldn't recommend buying an RTX 4090 if you don't plan to play AAA games at 4K resolution regularly.
 
@@ -83,3 +83,22 @@ thumbnail: https://thmb.techidaily.com/15a61f0827860e342a65d573fdf8ef935cbe188b5
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/expert-insights-choosing-the-right-joystick/"><u>Expert Insights: Choosing the Right Joystick</u></a></li>
+<li><a href="https://games-able.techidaily.com/questful-commuting-smart-tips-for-in-transit-gaming/"><u>Questful Commuting: Smart Tips for In-Transit Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-recharge-strategies-2024s-top-controllers/"><u>Ultimate Recharge Strategies: 2024'S Top Controllers</u></a></li>
+<li><a href="https://games-able.techidaily.com/pathways-to-procuring-and-incorporating-jolly-roger-realms/"><u>Pathways to Procuring & Incorporating Jolly Roger Realms</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-these-5-features-make-all-the-difference-in-high-end-mice/"><u>Why These 5 Features Make All the Difference in High-End Mice</u></a></li>
+<li><a href="https://games-able.techidaily.com/chicconsole-compact-modern-twist-on-classic-gaming/"><u>ChicConsole Compact: Modern Twist on Classic Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-gpu-face-off-supers-ti-and-rtx-4080-compared/"><u>The Ultimate GPU Face-Off: Supers, Ti & RTX 4080 Compared</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-from-iphone-13-pro-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked From iPhone 13 Pro?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tweeting-visual-content-from-video-to-gif-transformation/"><u>[New] Tweeting Visual Content  From Video to GIF Transformation</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-conquer-kinemaster-efficient-use-plus-top-online-gaming-platforms-reviewed/"><u>In 2024, Conquer KineMaster  Efficient Use + Top Online Gaming Platforms Reviewed</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlock-video-insights-mastering-youtube-statistics-with-social-blade/"><u>2024 Approved  Unlock Video Insights  Mastering YouTube Statistics with Social Blade</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-xiaomi-redmi-k70-pro-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Xiaomi Redmi K70 Pro</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-expand-your-igtv-reach-the-top-5-methods-to-attract-more-viewers/"><u>[Updated] In 2024, Expand Your IGTV Reach  The Top 5 Methods to Attract More Viewers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/adapting-to-instagrams-evolved-content-curation-for-2024/"><u>Adapting to Instagram's Evolved Content Curation for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-capturing-glass-disintegration-noise-sequence/"><u>In 2024, Capturing Glass Disintegration Noise Sequence</u></a></li>
+</ul></div>

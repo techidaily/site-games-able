@@ -1,7 +1,7 @@
 ---
 title: Reviewing Razer's Mechanical Marvel, BlackWidow V4
-date: 2024-06-25T10:50:24.106Z
-updated: 2024-06-26T10:50:24.106Z
+date: 2024-06-25T12:48:41.813Z
+updated: 2024-06-26T12:48:41.813Z
 tags:
   - games
 categories:
@@ -215,7 +215,7 @@ Razer
 
  Paul Antill / MakeUseOf
 
- It's one of those integrations that, until you've tried it, sounds like a gimmick, but once you have, can hook you into that ecosystem. When paired with their Basilisk V3 Pro, which we are also reviewing, the synced effects are even cooler. Taking things even further, we added the Synapse-compatible[Yeelight Cubes](https://www.makeuseof.com/yeelight-cube-review/) for an even more immersive lighting experience that filled our gaming room.
+ It's one of those integrations that, until you've tried it, sounds like a gimmick, but once you have, can hook you into that ecosystem. When paired with their Basilisk V3 Pro, which we are also reviewing, the synced effects are even cooler. Taking things even further, we added the Synapse-compatible [Yeelight Cubes](https://www.makeuseof.com/yeelight-cube-review/) for an even more immersive lighting experience that filled our gaming room.
 
 ![Razer Blackwidow 75% - Red Setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/razer-blackwidow-75-red-setup.jpg)
 

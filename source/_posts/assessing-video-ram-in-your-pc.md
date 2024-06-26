@@ -1,7 +1,7 @@
 ---
 title: Assessing Video RAM in Your PC
-date: 2024-06-25T10:41:07.568Z
-updated: 2024-06-26T10:41:07.568Z
+date: 2024-06-25T12:48:36.003Z
+updated: 2024-06-26T12:48:36.003Z
 tags:
   - games
 categories:
@@ -54,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/fe5ef092604af77627e37eb91892932d5bd09d30f
 
 ![Screenshot showing OpenHardwareMonitor tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/openhardwaremonitor-screenshot.jpg)
 
- Tools like[GPU-Z](https://www.techpowerup.com/gpuz/) ,[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) , and[OpenHardwareMonitor](https://openhardwaremonitor.org/downloads/) are your best friends here. These are lightweight utilities that won't stress your system when running in the background while also providing a lot of information on how specific components function.
+ Tools like [GPU-Z](https://www.techpowerup.com/gpuz/) ,[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) , and [OpenHardwareMonitor](https://openhardwaremonitor.org/downloads/) are your best friends here. These are lightweight utilities that won't stress your system when running in the background while also providing a lot of information on how specific components function.
 
 ## How to Check VRAM on Linux
 
@@ -94,9 +94,9 @@ sudo apt-get install radeontop`
 
 ![asus graphics card on granite surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpu-card-1.jpg)
 
- As a general rule of thumb, you should have at least 4GB of VRAM for gaming and 8GB of VRAM for video editing. This requirement can vary based on what games you're playing or the resolution of the video you're editing, but the more, the better. We've already covered[how much VRAM you need for modern games](https://www.makeuseof.com/how-much-vram-do-you-need-modern-games/) in case you need some help.
+ As a general rule of thumb, you should have at least 4GB of VRAM for gaming and 8GB of VRAM for video editing. This requirement can vary based on what games you're playing or the resolution of the video you're editing, but the more, the better. We've already covered [how much VRAM you need for modern games](https://www.makeuseof.com/how-much-vram-do-you-need-modern-games/) in case you need some help.
 
- There are, of course, other factors that affect these requirements as well. The architecture and generation of your GPU, the type of VRAM, GPU, CPU clock speeds, and even the rest of your computer's hardware can all affect how much VRAM you actually need. If you're building a PC, knowing the[difference between RAM and VRAM](https://www.makeuseof.com/ram-vs-vram-differences/) is also important.
+ There are, of course, other factors that affect these requirements as well. The architecture and generation of your GPU, the type of VRAM, GPU, CPU clock speeds, and even the rest of your computer's hardware can all affect how much VRAM you actually need. If you're building a PC, knowing the [difference between RAM and VRAM](https://www.makeuseof.com/ram-vs-vram-differences/) is also important.
 
 ## Knowing Your PC Specs Is Important
 

@@ -1,7 +1,7 @@
 ---
 title: "PS5 Stock Stabilized: Expecting Pricing Changes"
-date: 2024-06-25T10:48:42.510Z
-updated: 2024-06-26T10:48:42.510Z
+date: 2024-06-25T12:48:40.766Z
+updated: 2024-06-26T12:48:40.766Z
 tags:
   - games
 categories:
@@ -22,13 +22,13 @@ thumbnail: https://thmb.techidaily.com/c60589952f8c878c66c4d03c2dc7430570638a52b
 
  The global PS5 shortage is finally over. But the question on everyone's lips now is, will this prompt PlayStation 5 prices to start falling?
 
- The PS5 had a rough start to its lifecycle, taking a massive hit from both global chip shortages and scalpers buying and reselling consoles at eye-watering prices. And while this didn't impact Sony's ability to[sell PS5 consoles and make money](https://www.makeuseof.com/sony-sells-over-7-5-million-consoles/) , it was frustrating for gamers.
+ The PS5 had a rough start to its lifecycle, taking a massive hit from both global chip shortages and scalpers buying and reselling consoles at eye-watering prices. And while this didn't impact Sony's ability to [sell PS5 consoles and make money](https://www.makeuseof.com/sony-sells-over-7-5-million-consoles/) , it was frustrating for gamers.
 
 So, now that the PS5 shortage is over, could we see prices drop?
 
 ## PS5 Consoles Are Now in Plentiful Supply
 
- The news that the PS5 shortage is officially over came from Sony’s president, Jim Ryan, during[a press conference at CES 2023](https://square.sony.com/ces2023/) .
+ The news that the PS5 shortage is officially over came from Sony’s president, Jim Ryan, during [a press conference at CES 2023](https://square.sony.com/ces2023/) .
 
  With the PS5 in plentiful supply around the world,[it's finally time to say goodbye to the PS4](https://www.makeuseof.com/is-it-finally-time-to-say-goodbye-to-the-ps4/) and embrace Sony's next-gen console. This means a healthy shelf of PS5 consoles in almost any game store for gamers to take their pick from.
 
@@ -40,17 +40,17 @@ So, now that the PS5 shortage is over, could we see prices drop?
 
 ## However, the PS5 Slim Could Keep Prices High
 
- Just a few months after the announcement that marked the end of the PS5 shortage, an October 10, 2023 post on the[PlayStation Blog](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/) brought yet another exciting announcement—the unveiling of new (slimmer) PS5 models.
+ Just a few months after the announcement that marked the end of the PS5 shortage, an October 10, 2023 post on the [PlayStation Blog](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/) brought yet another exciting announcement—the unveiling of new (slimmer) PS5 models.
 
 ![the attachable disk drive for the new smaller PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/detachable-disk-drive-for-the-new-smaller-ps5.jpg)
 
  Image Credit:[Sony](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/)
 
- The[PS5 "Slim" comes with a few major differences](https://www.makeuseof.com/old-ps5-vs-the-new-slimmer-ps5-what-are-the-differences/) , including a slimmer frame, a detachable disc drive, and a heftier price tag. Considering the announcement of a brand-new, more expensive PS5 model, it seems unlikely that gamers can expect prices to come down any time soon.
+ The [PS5 "Slim" comes with a few major differences](https://www.makeuseof.com/old-ps5-vs-the-new-slimmer-ps5-what-are-the-differences/) , including a slimmer frame, a detachable disc drive, and a heftier price tag. Considering the announcement of a brand-new, more expensive PS5 model, it seems unlikely that gamers can expect prices to come down any time soon.
 
 ## PS5 Prices Have Actually Risen in Recent Years
 
- Rather than the PS5 becoming cheaper and more accessible to gamers years after release, in August 2022, Sony announced in a post on the[PlayStation Blog](https://blog.playstation.com/2022/08/25/ps5-price-to-increase-in-select-markets-due-to-global-economic-environment-including-high-inflation-rates/#:~:text=Based%20on%20these%20challenging%20economic,%29%2C%20as%20well%20as%20Canada.) that the cost of PS5 consoles sold in Europe, the UK, Japan, China, Australia, Mexico, and Canada was actually increasing. Reversing the trend we have seen with previous console generations, where the hardwar got significantly cheaper over time.
+ Rather than the PS5 becoming cheaper and more accessible to gamers years after release, in August 2022, Sony announced in a post on the [PlayStation Blog](https://blog.playstation.com/2022/08/25/ps5-price-to-increase-in-select-markets-due-to-global-economic-environment-including-high-inflation-rates/#:~:text=Based%20on%20these%20challenging%20economic,%29%2C%20as%20well%20as%20Canada.) that the cost of PS5 consoles sold in Europe, the UK, Japan, China, Australia, Mexico, and Canada was actually increasing. Reversing the trend we have seen with previous console generations, where the hardwar got significantly cheaper over time.
 
 ![A person holding multiple dollar notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/counting-money.jpg)
 

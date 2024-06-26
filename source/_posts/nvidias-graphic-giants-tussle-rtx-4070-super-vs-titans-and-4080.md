@@ -1,7 +1,7 @@
 ---
 title: "Nvidia’s Graphic Giants Tussle: RTX 4070 Super Vs. Titans & 4080"
-date: 2024-06-22 12:59:25
-updated: 2024-06-24 10:45:52
+date: 2024-06-25T13:33:12.430Z
+updated: 2024-06-26T13:33:12.430Z
 tags:
   - games
 categories:
@@ -67,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/2749ec4be60f0504bc654efda73e1c73772893136
 
 ### Price to Performance
 
- The[RTX 4080 launched in 2022](https://www.makeuseof.com/nvidia-rtx-4080-reasons-upgrade/) , priced around $1,199—the highest figure ever for one of Nvidia's "80" tier cards. Even allowing for inflation between the launch of the RTX 3080 in 2020 (around $699), the sky-high pricing put many would-be buyers off.
+ The [RTX 4080 launched in 2022](https://www.makeuseof.com/nvidia-rtx-4080-reasons-upgrade/) , priced around $1,199—the highest figure ever for one of Nvidia's "80" tier cards. Even allowing for inflation between the launch of the RTX 3080 in 2020 (around $699), the sky-high pricing put many would-be buyers off.
 
  Now, Nvidia is dropping the price of the RTX 4080 Super to $999\. It's still an expensive outlay; there's no escaping that, but the performance boost and price drop make the new RTX 4080 Super more palatable.
 
@@ -94,3 +94,27 @@ thumbnail: https://thmb.techidaily.com/2749ec4be60f0504bc654efda73e1c73772893136
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/game-mode-in-macos-sonoma-explained/"><u>Game Mode in macOS Sonoma Explained</u></a></li>
+<li><a href="https://games-able.techidaily.com/inquiring-about-the-value-proposition-for-ea-play/"><u>Inquiring About the Value Proposition for EA Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/five-digital-desktop-text-adventures-await/"><u>Five Digital, Desktop Text-Adventures Await</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-playroom-to-digital-space-broadcast-your-xbox-experience-on-discord/"><u>From Playroom to Digital Space: Broadcast Your Xbox Experience on Discord</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-pathway-to-pristine-gameplay-with-your-xbox-series-xs-high-res-mode/"><u>The Pathway to Pristine Gameplay with Your Xbox Series X's High Res Mode</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-to-mitigate-low-memory-issues-in-roblox-ios-app/"><u>Strategies to Mitigate Low-Memory Issues in Roblox iOS App</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-steam-installation-issues-in-windows-11/"><u>Troubleshooting Steam Installation Issues in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoid-data-disruptions-with-steam-image-backups/"><u>Avoid Data Disruptions with Steam Image Backups</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-big-picture-crashes-with-steam/"><u>Fixing Big Picture Crashes with Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-and-manipulating-steam-credits/"><u>Understanding and Manipulating Steam Credits</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-the-ultimate-guide-to-videography-with-your-macs-webcam-5-easy-ways/"><u>In 2024, The Ultimate Guide to Videography with Your Mac's Webcam (5 Easy Ways)</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-tiktok-top-ten-for-cutting-edge-content-creation/"><u>[New] TikTok Top Ten for Cutting-Edge Content Creation</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-the-science-of-audience-retention-on-tweets/"><u>[Updated] In 2024, The Science of Audience Retention on Tweets</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-realme-c51-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Realme C51 Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-pc-video-editing-made-easy-a-review-of-vn-editor/"><u>New PC Video Editing Made Easy A Review of VN Editor</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-the-art-of-stillness-freezing-frames-in-videos-made-easy/"><u>Updated The Art of Stillness Freezing Frames in Videos Made Easy</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-content-distribution-showdown-vimeo-vs-youtubes-and-dailymotions/"><u>[Updated] In 2024, Content Distribution Showdown  Vimeo vs YouTubes and DailyMotions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-special-features-virtual-location-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Xiaomi Redmi Note 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-find-my-friends-work-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/how-to-fix-obs-high-encoding-problem/"><u>How To Fix OBS High Encoding Problem?</u></a></li>
+</ul></div>

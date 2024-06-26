@@ -1,7 +1,7 @@
 ---
 title: Game Boy Mastery Through Linux Scripting and Commands
-date: 2024-06-25T10:43:11.698Z
-updated: 2024-06-26T10:43:11.698Z
+date: 2024-06-25T12:48:37.348Z
+updated: 2024-06-26T12:48:37.348Z
 tags:
   - games
 categories:
@@ -28,15 +28,15 @@ thumbnail: https://thmb.techidaily.com/d4d65dffa6d108b05861c08e391929dff0db7f6eb
 
  By running an emulator in your terminal, you can run every single one of these, transforming your terminal into an extensive library of playable games.
 
- As the name suggests, php-terminal-gameboy-emulator is written in PHP—a language[usually used to create websites](https://www.makeuseof.com/tag/build-simple-php-website/) —and although the project's readme only states that it supports PHP 5.6, PHP 7, and HHVM, we've had it running almost flawlessly on PHP versions up to 8.2.
+ As the name suggests, php-terminal-gameboy-emulator is written in PHP—a language [usually used to create websites](https://www.makeuseof.com/tag/build-simple-php-website/) —and although the project's readme only states that it supports PHP 5.6, PHP 7, and HHVM, we've had it running almost flawlessly on PHP versions up to 8.2.
 
- With php-terminal-gameboy-emulator, you're not limited to your computer either and can run sessions over[Secure Shell (SSH)](https://www.makeuseof.com/learn-how-to-manage-remote-access-via-ssh/) on remote machines.
+ With php-terminal-gameboy-emulator, you're not limited to your computer either and can run sessions over [Secure Shell (SSH)](https://www.makeuseof.com/learn-how-to-manage-remote-access-via-ssh/) on remote machines.
 
  Because it's running in a terminal, your Game Boy games won't have any sound, but we're sure you can hum the Tetris theme tune.
 
  You also won't be able to save games. If these limitations are too restrictive, there are dozens of excellent emulators available on Linux.
 
- You should only use ROMS you legally own. You can find a huge variety of homebrew Game Boy ROMS at[Homebrew Hub](https://hh.gbdev.io/) .
+ You should only use ROMS you legally own. You can find a huge variety of homebrew Game Boy ROMS at [Homebrew Hub](https://hh.gbdev.io/) .
 
 ## How to Install php-terminal-gameboy-emulator on Linux
 

@@ -1,7 +1,7 @@
 ---
 title: The Genesis of Foddian Entertainment
-date: 2024-06-20 16:26:15
-updated: 2024-06-23 11:32:31
+date: 2024-06-25T12:53:22.328Z
+updated: 2024-06-26T12:53:22.328Z
 tags:
   - games
 categories:
@@ -22,9 +22,7 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
 
  Games that fall under the Foddian category are as unique as the name, but how did they come about? Here are some events that led to a platform game revolution, birthing the Foddian genre as we know and love it.
 
-### The First Bennet Foddy Game
-
-![A guy in a pot holding a sledgehammer who is about to fall off a cliff](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/2-getting-over-it.jpg)
+### The First Bennet Foddy Game ![A guy in a pot holding a sledgehammer who is about to fall off a cliff](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/2-getting-over-it.jpg)
 
  It all began with the Foddian game, "Getting Over It with Bennett Foddy". Getting Over It is a puzzle game that challenges the player to use a sledgehammer to propel themselves up steep ledges and across slick platforms to get to space. “Foddian” refers to the creator of the first game, Bennett Foddy, in this genre and represents titles of a similar format.
 
@@ -34,27 +32,23 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
 
  Getting Over It wasn’t the first platformer, but it created a format that has been improved upon in newer games that fall under the Foddian genre. Bennet Foddy pioneered an era of gaming, whether he intended to or not, and complex puzzle platforming games are better for it.
 
-### The Rise of Jump King
-
-![The Jump King lying flat on a mossy platform after falling](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-jump-king.jpg)
+### The Rise of Jump King ![The Jump King lying flat on a mossy platform after falling](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-jump-king.jpg)
 
  Jump King is a title that transcends the Foddian game genre. You may have heard about the game thanks to its tendency to be played live on Twitch streams. Speedrunners are especially fond of the small series of Jump King games.
 
  The player starts at the bottom of a tall path, at the pinnacle of which stands a majestic babe. Evidently, the goal of the game is for the player to jump from platform to platform all the way to the top.
 
- Jump King is an excellent game for content creation because it is easy to gauge a player’s progress, making it easier for viewers to follow along. It is also relatively easy to run and could offset how much a streamer needs to[optimize their game streams using OBS](https://www.makeuseof.com/how-to-optimize-game-streams-using-obs-studio/) .
+ Jump King is an excellent game for content creation because it is easy to gauge a player’s progress, making it easier for viewers to follow along. It is also relatively easy to run and could offset how much a streamer needs to [optimize their game streams using OBS](https://www.makeuseof.com/how-to-optimize-game-streams-using-obs-studio/) .
 
  Almost every popular streamer and YouTuber you can think of has played Jump King to some extent, indirectly marketing the game to their viewers. As such, it didn’t take long for a community to spawn around this game, and it remains one of the most played in its genre.
 
-## Foddian Games and Content Creation
-
-![A streaming setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-streamer.jpg)
+## Foddian Games and Content Creation ![A streaming setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-streamer.jpg)
 
  Streaming goes beyond just playing a game. Streamers understand that they need to engage their chat as much as possible to keep interest high. Fortunately, Foddian games are the perfect gateway for viewer engagement.
 
  A player still needs to focus on the game, especially when speedrunning it. However, the punishment for responding to chat is not so severe as to ruin your game. In other titles, like shooters or racers, you may end up dying to an opponent or losing a race if you are distracted.
 
- Ultimately, Foddian games are[a great way to interact with your subscribers](https://www.makeuseof.com/how-to-interact-with-subscribers-followers/) and let your personality shine. Some popular creators who have tried this include Ludwig, CdawgVA, Apharad, and Ironmouse. What’s more, there’s a high chance that your favorite creator has played some popular Foddian titles like Getting Over It, Pogostuck, Only Up!, or Jump King.
+ Ultimately, Foddian games are [a great way to interact with your subscribers](https://www.makeuseof.com/how-to-interact-with-subscribers-followers/) and let your personality shine. Some popular creators who have tried this include Ludwig, CdawgVA, Apharad, and Ironmouse. What’s more, there’s a high chance that your favorite creator has played some popular Foddian titles like Getting Over It, Pogostuck, Only Up!, or Jump King.
 
 ## The Evolution of Foddian Games
 
@@ -76,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
 
 ### Q: What Games Are Similar to Getting Over It With Bennett Foddy?
 
- Within the genre of Foddian games, numerous titles emulate the addicting frustration of games like Getting Over With Bennett Foddy. Of these games, titles like QWOP, an aggravating sprinting game in which you need to order every limb of your runner to move, or the classic browser game Happy Wheels, are some of the most popular Foddian-like games. That said, tons of[difficult browser games](https://www.makeuseof.com/tag/the-hardest-games-in-the-whole-wide-world/) also provide a similar Foddian experience.
+ Within the genre of Foddian games, numerous titles emulate the addicting frustration of games like Getting Over With Bennett Foddy. Of these games, titles like QWOP, an aggravating sprinting game in which you need to order every limb of your runner to move, or the classic browser game Happy Wheels, are some of the most popular Foddian-like games. That said, tons of [difficult browser games](https://www.makeuseof.com/tag/the-hardest-games-in-the-whole-wide-world/) also provide a similar Foddian experience.
 
 ### Q: How Long Is Only Up!?
 
@@ -101,3 +95,22 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/reviews-in-retrospect-the-untrustworthy-truth/"><u>Reviews in Retrospect: The Untrustworthy Truth</u></a></li>
+<li><a href="https://games-able.techidaily.com/budget-brilliance-top-deals-on-cost-effective-mobo/"><u>Budget Brilliance: Top Deals on Cost-Effective Mobo</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-up-your-linux-playtime-top-7-terminal-games/"><u>Step Up Your Linux Playtime: Top 7 Terminal Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-insights-for-gamers-6-reasons-to-ignore-high-res-monitors/"><u>Essential Insights for Gamers - 6 Reasons to Ignore High-Res Monitors</u></a></li>
+<li><a href="https://games-able.techidaily.com/compact-mini-led-screen-best-value-deal/"><u>Compact Mini-LED Screen: Best Value Deal!</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridging-the-gap-how-ps4-works-with-personal-computers/"><u>Bridging the Gap: How PS4 Works with Personal Computers</u></a></li>
+<li><a href="https://games-able.techidaily.com/yearly-review-top-rated-steam-deck-housings-24/"><u>Yearly Review: Top-Rated Steam Deck Housings '24</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-infinix-smart-8-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Infinix Smart 8 Phone FRP Lock</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-obs-live-broadcasting-on-instagram/"><u>[New] OBS Live Broadcasting on Instagram</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/expert-guide-to-instagram-video-sizing-for-2024/"><u>Expert Guide to Instagram Video Sizing for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/oppo-a1-5g-messages-recovery-recover-deleted-messages-from-oppo-a1-5g-by-fonelab-android-recover-messages/"><u>Oppo A1 5G Messages Recovery - Recover Deleted Messages from Oppo A1 5G</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-your-iphone-game-with-smart-gif-storage-strategies/"><u>Elevate Your iPhone Game with Smart GIF Storage Strategies</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/strategic-giants-identifying-the-prime-7-total-war-battles-for-2024/"><u>Strategic Giants  Identifying the Prime 7 Total War Battles for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/browsing-boredom-away-15-chuckle-inducing-youtubers/"><u>Browsing Boredom Away  15 Chuckle-Inducing YouTubers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/reimagined-analysis-new-developments-in-sonys-s6500-bdhd-for-2024/"><u>Reimagined Analysis  New Developments in Sony's S6500 BD/HD for 2024</u></a></li>
+</ul></div>

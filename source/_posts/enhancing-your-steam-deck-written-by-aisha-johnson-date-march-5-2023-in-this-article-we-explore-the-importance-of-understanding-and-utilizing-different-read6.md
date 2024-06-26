@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Your Steam Deck' Written By: Aisha Johnson Date: March 5, 2023 In This Article, We Explore the Importance of Understanding and Utilizing Different Reading Strategies to Improve Comprehension Skills in Students. Reading Is a Fundamental Skill that Serves as a Foundation for Further Learning Across Various Disciplines. However, Not All Reading Materials Are Created Equal; They Can Present Challenges Such as Complex Vocabulary, Unfamiliar Concepts, or Intricate Sentence Structures. To Address These Challenges and Promote Effective Reading Habits, Students Must Develop Strategies to Decode Texts and Enhance Their Comprehension Abilities. This Article Outlines Several Key Strategies that Educators Can Teach Students to Maximize Their Understanding of Diverse Materials."
-date: 2024-06-22 12:40:29
-updated: 2024-06-24 10:17:24
+date: 2024-06-25T13:19:14.897Z
+updated: 2024-06-26T13:19:14.897Z
 tags:
   - games
 categories:
@@ -66,15 +66,15 @@ thumbnail: https://thmb.techidaily.com/92449e9d9f3ee8946cb03a78041d2307431f0fc5e
 
  If you’re concerned about breaking warranty or have some other reason to be concerned, don’t worry. A Steam Deck is capable of running most PC games, including those on Epic Games. You may have noticed some crossover between the Epic Games and the Steam libraries.
 
- Epic Games has given many games away over the past few years. It's simple to get[free games from Epic Games](https://www.makeuseof.com/how-to-get-free-games-on-the-epic-games-store/) and many gamers have grown a library of such games, preferring this to spending money on the exact same titles on Steam.
+ Epic Games has given many games away over the past few years. It's simple to get [free games from Epic Games](https://www.makeuseof.com/how-to-get-free-games-on-the-epic-games-store/) and many gamers have grown a library of such games, preferring this to spending money on the exact same titles on Steam.
 
- Furthermore, Steam Deck runs a special version of Arch Linux, and has a desktop mode where more games can be installed, if desired. Furthermore, the[Proton compatibility layer software](https://www.makeuseof.com/what-is-steam-proton-how-does-it-run-windows-games-on-steam-deck/) is regularly updated and ensures support for many Windows games.
+ Furthermore, Steam Deck runs a special version of Arch Linux, and has a desktop mode where more games can be installed, if desired. Furthermore, the [Proton compatibility layer software](https://www.makeuseof.com/what-is-steam-proton-how-does-it-run-windows-games-on-steam-deck/) is regularly updated and ensures support for many Windows games.
 
  In short, it’s completely safe to install non-Steam games on your Steam Deck.
 
  Before proceeding, you might want to make things easier for yourself by grabbing a USB keyboard and mouse and a USB type-C hub for the Steam Deck.
 
- While you can use the device’s on-screen keyboard (perhaps the most widely-used[Steam Deck shortcut](https://www.makeuseof.com/steam-deck-shortcuts/) , activated with**Steam + X** ), it is far easier to sign in to Epic Games with a physical keyboard.
+ While you can use the device’s on-screen keyboard (perhaps the most widely-used [Steam Deck shortcut](https://www.makeuseof.com/steam-deck-shortcuts/) , activated with**Steam + X** ), it is far easier to sign in to Epic Games with a physical keyboard.
 
  Otherwise, you’ll be using the right-hand touchpad as a laptop touchpad to control the mouse pointer on your Steam Deck.
 
@@ -98,10 +98,8 @@ thumbnail: https://thmb.techidaily.com/92449e9d9f3ee8946cb03a78041d2307431f0fc5e
 1. First, launch the software, then use the mouse to select**Manage Accounts**  
 ![Log in to Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-login.jpg)
 2. Under GOG, click**Log in** and input your credentials, along with any two-factor authentication
-3. Go to**Library** and browse for the game you want to install  
-![GOG games on the Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-gog-games.jpg)
-4. Click**Install** on the selected game, confirm the installation location and click**Install** again  
-![Install GOG games on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-gog-smac.jpg)
+3. Go to**Library** and browse for the game you want to install ![GOG games on the Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-gog-games.jpg)
+4. Click**Install** on the selected game, confirm the installation location and click**Install** again ![Install GOG games on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-gog-smac.jpg)
 5. After installation is complete, click**Play Now**
 
  Because most GOG games are pre-2005 titles, they have varying compatibility requirements for Steam Deck. To tweak these, highlight the game and click the**Settings** cog icon.
@@ -114,15 +112,14 @@ thumbnail: https://thmb.techidaily.com/92449e9d9f3ee8946cb03a78041d2307431f0fc5e
 
  In the Heroic Games Launcher, click**Manage Accounts** then on the Epic Games panel tap**Log in** .
 
- Enter your Epic Games account credentials and if you have[two-factor authentication](https://www.makeuseof.com/tag/what-is-two-factor-authentication-and-why-you-should-use-it/) set up this will also be required.
+ Enter your Epic Games account credentials and if you have [two-factor authentication](https://www.makeuseof.com/tag/what-is-two-factor-authentication-and-why-you-should-use-it/) set up this will also be required.
 
 You can then install Epic Games on the Steam Deck as follows:
 
 1. Click**Library**
 2. Browse for the game you want
 3. Select the game and click**Install**
-4. Confirm the installation location and click**Install** again  
-![Install Epic Games on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-install.jpg)
+4. Confirm the installation location and click**Install** again ![Install Epic Games on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-install.jpg)
 5. Once the installation has completed, click**Play Now**
 6. Use the**Settings** option to tweak the game’s launch and performance options
 
@@ -149,8 +146,7 @@ This will reboot the Steam Deck into the main console interface.
 3. Press**X**
 4. Select**Uninstall**  
 ![Uninstall a game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-uninstall-game.jpg)
-5. Confirm with**Yes** when prompted  
-![Uninstall an Epic Games title on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-uninstall.jpg)
+5. Confirm with**Yes** when prompted ![Uninstall an Epic Games title on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-uninstall.jpg)
 
 Wait for the process to complete before installing any other games.
 
@@ -178,3 +174,26 @@ Wait for the process to complete before installing any other games.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/win-at-csgo-increase-fps-quickly/"><u>Win at CS:GO: Increase FPS Quickly</u></a></li>
+<li><a href="https://games-able.techidaily.com/choose-right-steam-deck-models/"><u>Choose Right: Steam Deck Models</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamings-next-step-directx-11-vs-12-innovation/"><u>Gaming's Next Step: DirectX 11 Vs. 12 Innovation</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-value-of-switchs-online-service/"><u>Navigating the Value of Switch's Online Service</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-future-of-gaming-streamline-your-experience-with-steam-and-meta-quest/"><u>Discover the Future of Gaming: Streamline Your Experience with Steam and Meta Quest</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-ps5s-dualsense-play-on-ps4-devices/"><u>Can PS5's DualSense Play on PS4 Devices?</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-advanced-features-of-amds-rx-7800xt-7700xt/"><u>Navigating the Advanced Features of AMD's RX 7800XT, 7700XT</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-sonys-miniature-gaming-device/"><u>Discovering Sony's Miniature Gaming Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/secrets-to-a-better-gameplay-the-5-payment-perks-for-gamers/"><u>Secrets to a Better Gameplay: The 5 Payment Perks for Gamers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-breakout-8-channel-visionaries-amplifying-impact/"><u>2024 Approved  Breakout 8 Channel Visionaries Amplifying Impact</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-vhs-nostalgia-on-your-phone-best-apps-for-retro-video-editing/"><u>New In 2024, VHS Nostalgia on Your Phone Best Apps for Retro Video Editing</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-screen-to-share-3-easy-video-game-recording-methods/"><u>2024 Approved From Screen to Share 3 Easy Video Game Recording Methods</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-rise-to-fame-comprehensive-youtube-creators-series/"><u>[New] Rise to Fame  Comprehensive YouTube Creator's Series</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unleashing-creative-potential-making-youtube-trailers-in-filmora/"><u>[New] Unleashing Creative Potential  Making YouTube Trailers in Filmora</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-audio-editing-mastery-l-cuts-and-j-cuts-in-final-cut-pro-x-for-2024/"><u>New Audio Editing Mastery L-Cuts and J-Cuts in Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/realism-refined-how-to-use-motion-blur-in-faces-using-picsart-for-2024/"><u>Realism Refined  How to Use Motion Blur in Faces Using Picsart for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-syncopated-mix-management-in-sonar-by-platinum/"><u>[Updated] Syncopated Mix Management in Sonar by Platinum</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-final-cut-pro-x-hack-add-a-countdown-timer-in-3-easy-steps/"><u>In 2024, Final Cut Pro X Hack Add a Countdown Timer in 3 Easy Steps</u></a></li>
+</ul></div>

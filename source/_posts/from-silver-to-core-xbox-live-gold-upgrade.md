@@ -1,7 +1,7 @@
 ---
 title: "From Silver to Core: Xbox Live Gold Upgrade"
-date: 2024-06-22 22:25:45
-updated: 2024-06-24 10:23:54
+date: 2024-06-25T13:12:51.446Z
+updated: 2024-06-26T13:12:51.446Z
 tags:
   - games
 categories:
@@ -22,11 +22,11 @@ thumbnail: https://thmb.techidaily.com/dcd52c68a0261301dc49a434565ff933798115ab3
 
 ![A hero image and headline for an Xbox announcement about Game Pass Core](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/game-pass-core-announcement.jpg)
 
- If you regularly play on Xbox you will likely want to know what the change to Xbox Game Pass Core means for you. Your subscription will automatically change from Xbox Live Gold to Xbox Game Pass Core on September 14th, 2023 when the change takes place. Your pricing stays the same. Upon the immediate change, you will then have access to a library of over 25 games, as per a post on[Xbox Wire](https://news.xbox.com/en-us/2023/07/17/xbox-game-pass-core/) that originally broke the news.
+ If you regularly play on Xbox you will likely want to know what the change to Xbox Game Pass Core means for you. Your subscription will automatically change from Xbox Live Gold to Xbox Game Pass Core on September 14th, 2023 when the change takes place. Your pricing stays the same. Upon the immediate change, you will then have access to a library of over 25 games, as per a post on [Xbox Wire](https://news.xbox.com/en-us/2023/07/17/xbox-game-pass-core/) that originally broke the news.
 
  As the announcement details, Games With Gold will also be retired along with the Xbox Live Gold package, but don't worry; any games you claimed using the service when it was active will remain in your library forever.
 
- Essentially, nothing will change from your end. You can continue to enjoy access to multiplayer and pay the same monthly fee—with the added bonus of 25 free games to play. There are potential[reasons Game Pass could become more expensive over time](https://www.makeuseof.com/reasons-xbox-game-pass-will-get-more-expensive/) , but that won't be happening in the initial switchover period from Xbox Live Gold to Game Pass Core.
+ Essentially, nothing will change from your end. You can continue to enjoy access to multiplayer and pay the same monthly fee—with the added bonus of 25 free games to play. There are potential [reasons Game Pass could become more expensive over time](https://www.makeuseof.com/reasons-xbox-game-pass-will-get-more-expensive/) , but that won't be happening in the initial switchover period from Xbox Live Gold to Game Pass Core.
 
 ## Is the Change to Xbox Game Pass Core a Good Thing?
 
@@ -57,3 +57,22 @@ thumbnail: https://thmb.techidaily.com/dcd52c68a0261301dc49a434565ff933798115ab3
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/examining-xbox-encasements/"><u>Examining Xbox Encasements</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-list-9-superior-emulators-for-steam-decks/"><u>The Ultimate List: 9 Superior Emulators for Steam Decks</u></a></li>
+<li><a href="https://games-able.techidaily.com/insights-into-xbox-casing/"><u>Insights Into Xbox Casing</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-steam-data-coordination-errors/"><u>Resolving Steam Data Coordination Errors</u></a></li>
+<li><a href="https://games-able.techidaily.com/guidelines-for-purging-previous-ps5-save-files/"><u>Guidelines for Purging Previous PS5 Save Files</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-steam-deck-to-hands-on-power-the-pdw4-tale/"><u>From Steam Deck to Hands-On Power - The PDW4 Tale</u></a></li>
+<li><a href="https://games-able.techidaily.com/expedite-boredom-20plus-high-speed-online-games/"><u>Expedite Boredom: 20+ High-Speed Online Games</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/syncing-twitter-vids-with-instagrams-social-sharing-for-2024/"><u>Syncing Twitter Vids with Instagram's Social Sharing for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-mac-webcam-video-recording-demystified-a-comprehensive-guide-5-steps/"><u>[New] 2024 Approved  Mac Webcam Video Recording Demystified  A Comprehensive Guide (5 Steps)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/excellent-5-add-ons-to-amplify-oceanic-shoots-for-2024/"><u>Excellent 5 Add-Ons to Amplify Oceanic Shoots for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-a-comprehensive-review-of-descript-overdub-ai-feature/"><u>Updated In 2024, A Comprehensive Review of Descript Overdub AI Feature</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-discover-free-pioneering-apps-to-supercharge-social-storytelling-for-2024/"><u>[Updated] Discover FREE Pioneering Apps to Supercharge Social Storytelling for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-how-to-harvest-huge-volumes-of-content-from-tiktok-effortlessly/"><u>[New] 2024 Approved  How to Harvest Huge Volumes of Content From TikTok Effortlessly</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-most-influential-gamers-on-youtube/"><u>2024 Approved  Most Influential Gamers on YouTube</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-superior-choices-top-5-sd-cards-for-gopro-hero-cameras-8-7-for-2024/"><u>[New] Superior Choices  Top 5 SD Cards for GoPro Hero Cameras (8, 7) for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Breaking Down the Cost of Switch Online Service
-date: 2024-06-21 12:47:22
-updated: 2024-06-24 11:23:14
+date: 2024-06-25T13:24:31.211Z
+updated: 2024-06-26T13:24:31.211Z
 tags:
   - games
 categories:
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/65d11e70a3e2b524202510534160699ecec295d81
 
  In case you're not familiar, Nintendo Switch Online is an optional paid subscription service available for the Nintendo Switch system. It grants you several benefits, including access to online multiplayer, cloud backup for your saved data, and a selection of classic NES, SNES, Game Boy, and Game Boy Color titles.
 
- See our[full overview of Switch Online](https://www.makeuseof.com/tag/nintendo-switch-online-everything-need-know/) for more details.
+ See our [full overview of Switch Online](https://www.makeuseof.com/tag/nintendo-switch-online-everything-need-know/) for more details.
 
 ## What Is the Switch Online Expansion Pack?
 
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/65d11e70a3e2b524202510534160699ecec295d81
 * The Game Boy Advance Switch Online app, which is the same as the above for GBA titles.
 * Access to DLC packs for Mario Kart 8 Deluxe, Animal Crossing: New Horizons, and Splatoon 2.
 
- Like the existing NES and SNES libraries included with Switch Online, the N64, Genesis, and GBA titles include[quality-of-life emulation benefits](https://www.makeuseof.com/pros-cons-playing-video-games-emulator/) . These include save states, which let you stop and pick up from anywhere (not just where the original game had save points).
+ Like the existing NES and SNES libraries included with Switch Online, the N64, Genesis, and GBA titles include [quality-of-life emulation benefits](https://www.makeuseof.com/pros-cons-playing-video-games-emulator/) . These include save states, which let you stop and pick up from anywhere (not just where the original game had save points).
 
 ## Nintendo Switch Expansion Pack: Included Games
 
@@ -67,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/65d11e70a3e2b524202510534160699ecec295d81
 * Pokémon Stadium
 * Pokémon Stadium 2
 * Sin & Punishment
-* Star Fox 64 (Lylat Wars[in PAL regions](https://www.makeuseof.com/ntsc-vs-pal/) )
+* Star Fox 64 (Lylat Wars [in PAL regions](https://www.makeuseof.com/ntsc-vs-pal/) )
 * Super Mario 64
 * Wave Race 64
 * WinBack: Covert Operations (Operation: WinBack in PAL regions)
@@ -79,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/65d11e70a3e2b524202510534160699ecec295d81
 
 ### Games Included in the Genesis/Mega Drive Switch Online Library
 
- The Switch Expansion Pack also lets you play dozens of classic Sega Genesis titles. There are too many to list here; see[Nintendo's Genesis Switch Online page](https://www.nintendo.com/store/products/sega-genesis-nintendo-switch-online-switch/) for a full list.
+ The Switch Expansion Pack also lets you play dozens of classic Sega Genesis titles. There are too many to list here; see [Nintendo's Genesis Switch Online page](https://www.nintendo.com/store/products/sega-genesis-nintendo-switch-online-switch/) for a full list.
 
  Interestingly, several of these games were never officially released for the Genesis in North America. As with the N64 titles, any multiplayer-enabled games (including Gunstar Heroes and Streets of Rage 2) are playable with friends online, but there are no public matches.
 
@@ -111,7 +111,7 @@ thumbnail: https://thmb.techidaily.com/65d11e70a3e2b524202510534160699ecec295d81
 
  This gameplay is similar to the 2015 game Animal Crossing: Happy Home Designer on 3DS. With the Expansion Pack, you have full access, but it's also available to purchase separately for a one-time $24.99 cost.
 
- If you cancel your subscription down the road, you'll retain some items earned for your own home from the DLC, but will lose access to the archipelago where the main vacation home designing takes place. Check out our[tips for New Horizons](http://www.makeuseof.com/tag/animal-crossing-new-horizons-tips-tricks/) to get the most from the game.
+ If you cancel your subscription down the road, you'll retain some items earned for your own home from the DLC, but will lose access to the archipelago where the main vacation home designing takes place. Check out our [tips for New Horizons](http://www.makeuseof.com/tag/animal-crossing-new-horizons-tips-tricks/) to get the most from the game.
 
 ### Splatoon 2: Octo Expansion
 
@@ -131,15 +131,15 @@ thumbnail: https://thmb.techidaily.com/65d11e70a3e2b524202510534160699ecec295d81
 
  The Switch Online Expansion Pack is only available as an annual membership; there's no option to pay monthly like the base plan. Subscribing to the Expansion Pack costs $49.99 for 12 months, compared to $19.99/year for the regular subscription.
 
- Like the standard Switch Online plan, you can also subscribe to the Expansion Pack using a family membership. This costs $79.99 for 12 months, and allows up to eight Nintendo accounts to enjoy the benefits. Thankfully, you can[share a Switch Online subscription with friends](https://www.makeuseof.com/share-nintendo-switch-family-different-households/) who don't live at the same address.
+ Like the standard Switch Online plan, you can also subscribe to the Expansion Pack using a family membership. This costs $79.99 for 12 months, and allows up to eight Nintendo accounts to enjoy the benefits. Thankfully, you can [share a Switch Online subscription with friends](https://www.makeuseof.com/share-nintendo-switch-family-different-households/) who don't live at the same address.
 
- To sign up, open the**Nintendo Switch Online** tab at the bottom of your Switch's home screen. You can also visit the[Switch Online membership page](https://ec.nintendo.com/US/en/membership) to sign up using your computer. If you've already paid for a Switch Online membership annually, you can get a prorated discount when you upgrade to the Expansion Pack, based on the time remaining in your plan.
+ To sign up, open the**Nintendo Switch Online** tab at the bottom of your Switch's home screen. You can also visit the [Switch Online membership page](https://ec.nintendo.com/US/en/membership) to sign up using your computer. If you've already paid for a Switch Online membership annually, you can get a prorated discount when you upgrade to the Expansion Pack, based on the time remaining in your plan.
 
 ![Switch Online Expansion Pack July 2022](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Switch-Online-Expansion-Pack-July-2022.jpg)
 
 ### New Nintendo Switch Replica Controllers
 
- Note that alongside the Expansion Pack, Nintendo also offers replica[N64](https://store.nintendo.com/nintendo-64-controller.html) and[Genesis/Mega Drive](https://store.nintendo.com/sega-genesis-control-pad.html) controllers. Aside from being rechargeable instead of wired, and including Switch controller buttons like Home and Capture, they're almost identical to the original versions.
+ Note that alongside the Expansion Pack, Nintendo also offers replica [N64](https://store.nintendo.com/nintendo-64-controller.html) and [Genesis/Mega Drive](https://store.nintendo.com/sega-genesis-control-pad.html) controllers. Aside from being rechargeable instead of wired, and including Switch controller buttons like Home and Capture, they're almost identical to the original versions.
 
  These cost $49.99 each, and you must subscribe to any Switch Online plan to purchase them. However, both controllers regularly sell out due to high demand and it's not always clear when more stock will arrive. They're not required to play the new games, but do make it a more authentic experience.
 
@@ -153,7 +153,7 @@ thumbnail: https://thmb.techidaily.com/65d11e70a3e2b524202510534160699ecec295d81
 
  If you're only interested in one of the DLC packs, it makes more sense to pay $20 or $25 to own that expansion forever, instead of being locked into paying $50 per year to access it.
 
- Similarly, if you're primarily looking for the Sega Genesis games, you can get more retro titles without a subscription by buying[Sega Genesis Classics](https://www.nintendo.com/games/detail/sega-genesis-classics-switch/) for $30 on the eShop. This doesn't include every game that Switch Online does, but has far more games overall. This compilation also packs in the same convenience features as Switch Online, like rewinding and online multiplayer. It also goes on sale sometimes, offering more value if you're willing to wait for a price drop.
+ Similarly, if you're primarily looking for the Sega Genesis games, you can get more retro titles without a subscription by buying [Sega Genesis Classics](https://www.nintendo.com/games/detail/sega-genesis-classics-switch/) for $30 on the eShop. This doesn't include every game that Switch Online does, but has far more games overall. This compilation also packs in the same convenience features as Switch Online, like rewinding and online multiplayer. It also goes on sale sometimes, offering more value if you're willing to wait for a price drop.
 
 ### If You Primarily Want N64 Games or GBA Games
 
@@ -177,7 +177,7 @@ thumbnail: https://thmb.techidaily.com/65d11e70a3e2b524202510534160699ecec295d81
 
  The Expansion Pack is worth joining for a year, for most people. That's enough time to experience each of the DLCs and play through some of the Genesis, N64, and GBA games you want to try. After that, you may wish to drop down to the base tier unless Nintendo adds more value.
 
- We'd recommend finding a few friends and[subscribing to the shareable plan](https://www.makeuseof.com/tag/save-premium-subscriptions-9-shareable-accounts/) . That way, you can drop the price down to as low as $10/person/year, which negates some of the above worries.
+ We'd recommend finding a few friends and [subscribing to the shareable plan](https://www.makeuseof.com/tag/save-premium-subscriptions-9-shareable-accounts/) . That way, you can drop the price down to as low as $10/person/year, which negates some of the above worries.
 
 ## Switch Online Expansion Pack: Decent, but Expensive
 
@@ -200,3 +200,27 @@ thumbnail: https://thmb.techidaily.com/65d11e70a3e2b524202510534160699ecec295d81
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/ascend-the-peak-of-playability-insights-into-androids-frame-rate-2-ways/"><u>Ascend the Peak of Playability: Insights Into Android's Frame Rate (2 Ways)</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-and-repairing-robloxs-error-403-in-your-computer-system/"><u>Unraveling and Repairing Roblox's Error 403 in Your Computer System</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-16-multiplayer-couch-games-for-next-gen-xbox/"><u>Top 16 Multiplayer Couch Games for Next-Gen Xbox</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-best-free-gaming-without-investments/"><u>Discover the Best Free Gaming without Investments</u></a></li>
+<li><a href="https://games-able.techidaily.com/balancing-act-when-to-invest-in-your-systems-cpugpu/"><u>Balancing Act: When to Invest in Your System's CPU/GPU</u></a></li>
+<li><a href="https://games-able.techidaily.com/499-virtual-driving-dream-embrace-moza-r5-bundle/"><u>$499 Virtual Driving Dream - Embrace MOZA R5 Bundle</u></a></li>
+<li><a href="https://games-able.techidaily.com/unbeatable-connectivity-choosing-top-ethernets/"><u>Unbeatable Connectivity: Choosing Top Ethernets</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoid-regret-right-oled-display-selection-tips/"><u>Avoid Regret: Right OLED Display Selection Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-is-the-new-nvidia-app-how-it-can-improve-your-gaming-experience/"><u>What Is the New Nvidia App? How It Can Improve Your Gaming Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/tech-analysis-safe-use-of-roblox-speed-up-tools/"><u>Tech Analysis: Safe Use of Roblox Speed Up Tools?</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-collective-echo-boom-impact-for-2024/"><u>Updated Collective Echo Boom Impact for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-brainpower-of-moto-z2-detailed-insights/"><u>The Brainpower of Moto Z2  Detailed Insights</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-y36-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo Y36 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/facebooks-vision-for-video-unpacking-the-short-form-movement/"><u>Facebook's Vision for Video   Unpacking the Short Form Movement</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-apple-iphone-15-pro-max-icloud-activation-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing Apple iPhone 15 Pro Max iCloud Activation Lock</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-making-cash-with-zero-skills-check-out-these-13-ways-on-reddit/"><u>[New] Making Cash with Zero Skills? Check Out These 13 Ways on Reddit</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-expert-roundup-leading-audio-transformation-tools-on-windows-and-mac-platforms/"><u>New 2024 Approved Expert Roundup Leading Audio Transformation Tools on Windows & Mac Platforms</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-deciphering-ad-revenue-and-affiliate-opportunities-on-youtube/"><u>[New] Deciphering Ad Revenue and Affiliate Opportunities on YouTube</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-say-goodbye-to-shaky-videos-top-stabilizer-apps-for-mobile/"><u>Updated In 2024, Say Goodbye to Shaky Videos Top Stabilizer Apps for Mobile</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-into-virtual-realms-assessing-current-progress-future-hurdles/"><u>In 2024, Into Virtual Realms  Assessing Current Progress, Future Hurdles</u></a></li>
+</ul></div>

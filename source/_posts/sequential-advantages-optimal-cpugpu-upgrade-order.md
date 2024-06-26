@@ -1,7 +1,7 @@
 ---
 title: "Sequential Advantages: Optimal CPU/GPU Upgrade Order"
-date: 2024-06-21 14:51:35
-updated: 2024-06-23 10:49:17
+date: 2024-06-25T12:53:14.485Z
+updated: 2024-06-26T12:53:14.485Z
 tags:
   - games
 categories:
@@ -31,25 +31,21 @@ thumbnail: https://thmb.techidaily.com/f8310fb64fe59131a1a603b74493ef91ec9be3bf9
 
 ## Is Your CPU or GPU Bottlenecking Your PC?
 
- First, it's worth learning[the differences between a CPU and a GPU](https://www.makeuseof.com/tag/what-is-the-difference-between-an-apu-a-cpu-and-a-gpu-makeuseof-explains/) , as they handle different tasks on your PC. The CPU handles the core computing processes, whereas the GPU handles all the graphics-related tasks.
+ First, it's worth learning [the differences between a CPU and a GPU](https://www.makeuseof.com/tag/what-is-the-difference-between-an-apu-a-cpu-and-a-gpu-makeuseof-explains/) , as they handle different tasks on your PC. The CPU handles the core computing processes, whereas the GPU handles all the graphics-related tasks.
 
  You need to determine which hardware component is bottlenecking your PC. The hardware that's holding your PC back is what you should always upgrade first. But how do you find if it's your CPU or GPU bottlenecking your PC?
 
- You'll need a third-party app like MSI Afterburner to closely monitor your PC's performance. Learn[how to set up MSI Afterburner to display stats while gaming on Windows](https://www.makeuseof.com/windows-11-msi-afterburner-stats/) and keep an eye on the GPU usage while playing games.
+ You'll need a third-party app like MSI Afterburner to closely monitor your PC's performance. Learn [how to set up MSI Afterburner to display stats while gaming on Windows](https://www.makeuseof.com/windows-11-msi-afterburner-stats/) and keep an eye on the GPU usage while playing games.
 
- Another easy way to check if your CPU is holding your PC back is by simply[using Task Manager on Windows](https://www.makeuseof.com/how-to-use-windows-task-manager/) to monitor CPU usage as you perform basic tasks like web browsing, photo editing, etc.
+ Another easy way to check if your CPU is holding your PC back is by simply [using Task Manager on Windows](https://www.makeuseof.com/how-to-use-windows-task-manager/) to monitor CPU usage as you perform basic tasks like web browsing, photo editing, etc.
 
-## Upgrade Your CPU if It Struggles to Handle Basic Tasks
-
-![CPU usage being monitored in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/cpu-usage-being-monitored-in-task-manager.png)
+## Upgrade Your CPU if It Struggles to Handle Basic Tasks ![CPU usage being monitored in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/cpu-usage-being-monitored-in-task-manager.png)
 
  If you notice that your CPU usage is high when you're not even gaming or running any demanding apps on your PC, for example, if you just have a few browser tabs open, your CPU is likely holding your PC back.
 
 [Open Task Manager on Windows](https://www.makeuseof.com/how-to-access-task-manager-on-windows-11/) , group apps by CPU usage, and see if the app you're running is consuming half of your CPU resources. But before you conclude that your CPU is the bottleneck, monitor your resources using MSI Afterburner while playing a game. We'll cover that below.
 
-## Upgrade Your CPU if Your GPU Isn't Fully Utilized
-
-![RTSS OSD stats appearing in Valorant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/rtss-osd-stats-appearing-in-valorant.png)
+## Upgrade Your CPU if Your GPU Isn't Fully Utilized ![RTSS OSD stats appearing in Valorant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/rtss-osd-stats-appearing-in-valorant.png)
 
  To monitor your PC hardware while gaming, you need to open MSI Afterburner and Rivatuner Statistics Server first. Then, load up a game you play regularly, and you should see the stats appear in the top-left corner of the screen.
 
@@ -57,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/f8310fb64fe59131a1a603b74493ef91ec9be3bf9
 
  In the screenshot above, I'm getting a GPU usage of 35 percent while playing Valorant. For reference, I own an RTX 4090 with an AMD Ryzen 5900X. Although I'm getting close to 500FPS, the frame rate occasionally dips to 200-300FPS.
 
- This isn't ideal for me because I play on a[360Hz monitor](https://www.amazon.com/s?k=360hz+monitor&tag=makeusw-20&ascsubtag=UUmuoUeUpU2032015&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fupgrade-cpu-or-gpu-first%2F&asc%5Fcampaign=Evergreen) . So, I should upgrade my CPU first to a[Ryzen 7800X3D](https://www.amazon.com/AMD-Ryzen-7800X3D-16-Thread-Processor/dp/B0BTZB7F88/?tag=makeusw-20&ascsubtag=UUmuoUeUpU2032015&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fupgrade-cpu-or-gpu-first%2F&asc%5Fcampaign=Evergreen) or[7950X3D](https://www.amazon.com/AMD-Ryzen-7950X3D-Hexadeca-core-Processor/dp/B0BTRH9MNS/?tag=makeusw-20&ascsubtag=UUmuoUeUpU2032015&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fupgrade-cpu-or-gpu-first%2F&asc%5Fcampaign=Evergreen) to get a higher and more consistent frame rate.
+ This isn't ideal for me because I play on a [360Hz monitor](https://www.amazon.com/s?k=360hz+monitor&tag=makeusw-20&ascsubtag=UUmuoUeUpU2032015&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fupgrade-cpu-or-gpu-first%2F&asc%5Fcampaign=Evergreen) . So, I should upgrade my CPU first to a [Ryzen 7800X3D](https://www.amazon.com/AMD-Ryzen-7800X3D-16-Thread-Processor/dp/B0BTZB7F88/?tag=makeusw-20&ascsubtag=UUmuoUeUpU2032015&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fupgrade-cpu-or-gpu-first%2F&asc%5Fcampaign=Evergreen) or [7950X3D](https://www.amazon.com/AMD-Ryzen-7950X3D-Hexadeca-core-Processor/dp/B0BTRH9MNS/?tag=makeusw-20&ascsubtag=UUmuoUeUpU2032015&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fupgrade-cpu-or-gpu-first%2F&asc%5Fcampaign=Evergreen) to get a higher and more consistent frame rate.
 
  However, it's worth testing your GPU usage across multiple games to confirm the bottleneck. More often than not, poor optimization can also cause low GPU usage, as that was the case when I first tested Battlefield 2042 on my PC.
 
@@ -69,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/f8310fb64fe59131a1a603b74493ef91ec9be3bf9
 
  However, if you often play AAA games like Assassin's Creed Mirage, God of War, or Cyberpunk 2077 at 4K resolution, prioritize upgrading your graphics card. At higher resolutions, games put more stress on the graphics card to push more frames. So, if you're not getting 60FPS on these titles despite a 90 percent or higher GPU usage, you need a better graphics card.
 
- Now, you know exactly what component to upgrade in your PC first. So, if you're in the market for a new CPU,[the Ryzen 7800X3D and 7950X3D are the best options for gaming](https://www.makeuseof.com/ryzen-9-7950x3d-vs-ryzen-9-7900x3d-vs-ryzen-7-7800x3d/) . But if you need a new graphics card,[consider upgrading to an RTX 4080](https://www.makeuseof.com/nvidia-rtx-4080-reasons-upgrade/) or even an[RTX 4090](https://www.amazon.com/s?k=rtx+4090&tag=makeusw-20&ascsubtag=UUmuoUeUpU2032015&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fupgrade-cpu-or-gpu-first%2F&asc%5Fcampaign=Evergreen) if you can afford it.
+ Now, you know exactly what component to upgrade in your PC first. So, if you're in the market for a new CPU,[the Ryzen 7800X3D and 7950X3D are the best options for gaming](https://www.makeuseof.com/ryzen-9-7950x3d-vs-ryzen-9-7900x3d-vs-ryzen-7-7800x3d/) . But if you need a new graphics card,[consider upgrading to an RTX 4080](https://www.makeuseof.com/nvidia-rtx-4080-reasons-upgrade/) or even an [RTX 4090](https://www.amazon.com/s?k=rtx+4090&tag=makeusw-20&ascsubtag=UUmuoUeUpU2032015&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fupgrade-cpu-or-gpu-first%2F&asc%5Fcampaign=Evergreen) if you can afford it.
 
 
 <ins class="adsbygoogle"
@@ -86,3 +82,24 @@ thumbnail: https://thmb.techidaily.com/f8310fb64fe59131a1a603b74493ef91ec9be3bf9
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/supercharge-your-switch-games-select-3-streaming-services/"><u>Supercharge Your Switch Games: Select 3 Streaming Services</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-to-know-amds-newest-graphics-innovation-rdna-35/"><u>Get to Know AMD's Newest Graphics Innovation, RDNA 3.5</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-curated-list-of-unconventional-game-choices/"><u>A Curated List of Unconventional Game Choices</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-windows-error-30005-unable-to-create-files/"><u>Overcoming Windows Error 30005: Unable to Create Files</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-gamble-worth-taking-adventures-in-independent-gaming/"><u>A Gamble Worth Taking: Adventures in Independent Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719164156571-play-retro-psp-hits-with-ios-now/"><u>Play Retro PSP Hits with iOS Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/effortless-steam-gifts-joyful-digital-delights/"><u>Effortless Steam Gifts: Joyful Digital Delights</u></a></li>
+<li><a href="https://games-able.techidaily.com/opening-a-second-front/"><u>Opening a Second Front</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-evaluating-and-improving-your-facebook-in-stream-ad-campaigns/"><u>[New] In 2024, Evaluating & Improving Your Facebook In-Stream Ad Campaigns</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-starting-with-av1-an-essential-overview/"><u>2024 Approved  Starting with AV1  An Essential Overview</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-seamless-google-meet-integration-for-youtube-enthusiasts/"><u>[New] Seamless Google Meet Integration for YouTube Enthusiasts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-filmoquery-your-guide-to-video-editing-insights/"><u>[Updated] In 2024, FilmoQuery  Your Guide to Video Editing Insights</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-the-6-best-audio-converter-software-to-pick/"><u>New 2024 Approved The 6 Best Audio Converter Software to Pick</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/journey-into-the-captivating-realm-of-animated-content-on-tiktok/"><u>Journey Into the Captivating Realm of Animated Content on TikTok</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-direct-video-sync-from-twitter-to-tumblr-for-2024/"><u>[New] Direct Video Sync  From Twitter to Tumblr for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-mastering-screen-sharing-on-skype-for-remote-collaboration-for-2024/"><u>[Updated] Mastering Screen Sharing on Skype for Remote Collaboration for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-comprehensive-io-recorder-explained-for-users/"><u>[New] In 2024, Comprehensive IO Recorder Explained for Users</u></a></li>
+</ul></div>

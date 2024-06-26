@@ -1,7 +1,7 @@
 ---
 title: "Efficient Controller Utilization: A Ryujinx Emulation Blueprint"
-date: 2024-06-25T10:42:12.474Z
-updated: 2024-06-26T10:42:12.474Z
+date: 2024-06-25T12:48:36.707Z
+updated: 2024-06-26T12:48:36.707Z
 tags:
   - games
 categories:
@@ -23,12 +23,12 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
  Instead of diving straight ahead to connecting and mapping your controller, you need to know a few key features of Ryujinx and its controller mapping beforehand. These features can be defined by the following:
 
 * Because of the nature of emulation, whenever you use an emulator like Ryujinx, you need to ensure you only emulate ROMs of games you own to guarantee legality.
-* Some versions of Ryujinx may prompt you to use a hacked Nintendo Switch or encourage you to hack your Switch. Avoid doing so, as Nintendo can issue permanent bans to owners of hacked Switch consoles. Instead, you can download Ryujinx for PC via[the official Ryujinx site](https://ryujinx.org/download) .
+* Some versions of Ryujinx may prompt you to use a hacked Nintendo Switch or encourage you to hack your Switch. Avoid doing so, as Nintendo can issue permanent bans to owners of hacked Switch consoles. Instead, you can download Ryujinx for PC via [the official Ryujinx site](https://ryujinx.org/download) .
 * In terms of controller support, Ryujinx enables you to use almost every popular controller. This includes Xbox Wireless Controllers, PlayStation DualShock 4 or DualShock 5 controllers, Nintendo Switch Pro Controllers, or Nintendo Switch Joy-Con.
 
 ![A photograph of retro games and gaming consoles](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/stock-retro.jpg)
 
- If you are yet to[install Ryujinx as a Nintendo Switch emulator for your PC](https://www.makeuseof.com/how-to-install-ryujinx-nintendo-switch-emulator-for-pc/) , the process can be tricky and may require individual file alterations. But even with the base version of Ryujinx installed, you can start mapping your controller of choice straight away.
+ If you are yet to [install Ryujinx as a Nintendo Switch emulator for your PC](https://www.makeuseof.com/how-to-install-ryujinx-nintendo-switch-emulator-for-pc/) , the process can be tricky and may require individual file alterations. But even with the base version of Ryujinx installed, you can start mapping your controller of choice straight away.
 
 ## How to Map a PlayStation, Xbox, or Third-Party Controller in Ryujinx
 
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 
 ## How to Customize Your Ryujinx Controller Settings
 
- Much like other[Nintendo Switch emulators available for Windows](https://www.makeuseof.com/windows-best-nintendo-switch-emulators/) , now you have a connected and mapped controller for Ryujinx, there are a few extra tips to help streamline and customize your emulating experience.
+ Much like other [Nintendo Switch emulators available for Windows](https://www.makeuseof.com/windows-best-nintendo-switch-emulators/) , now you have a connected and mapped controller for Ryujinx, there are a few extra tips to help streamline and customize your emulating experience.
 
  The**Configure** screen for mapping a controller, for instance, comes with a few extra features beyond classically mapping a controller's input. Most of these extras come down to useful quality-of-life alterations you can make, but some even alter the way you play your emulated Switch games. These features include:
 

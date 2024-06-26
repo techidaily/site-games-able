@@ -1,7 +1,7 @@
 ---
 title: Why Playing Monthly Can't Match Game Collection
-date: 2024-06-22 12:10:56
-updated: 2024-06-24 12:44:35
+date: 2024-06-25T13:32:36.906Z
+updated: 2024-06-26T13:32:36.906Z
 tags:
   - games
 categories:
@@ -29,27 +29,23 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
 
 ## Games Are Heading Towards an All-Digital Future
 
- According to a report by[GamesIndustry.biz](https://www.gamesindustry.biz/gamesindustrybiz-presents-the-year-in-number-2023) , 95% of games sold in 2023 were digital. We’re even seeing some games, such as Alan Wake 2 and Hellblade 2, release digital-only versions with no physical copies. Furthermore, legendary physical retailers like GameStop are closing more stores each year.
+ According to a report by [GamesIndustry.biz](https://www.gamesindustry.biz/gamesindustrybiz-presents-the-year-in-number-2023) , 95% of games sold in 2023 were digital. We’re even seeing some games, such as Alan Wake 2 and Hellblade 2, release digital-only versions with no physical copies. Furthermore, legendary physical retailers like GameStop are closing more stores each year.
 
- These are just a few signs, but with the decline of physical games, game companies have an incentive to push for an all-digital future. Not only does this raise[concerns about game preservation](https://www.makeuseof.com/what-is-video-game-preservation/) , but it also means players will have to purchase digital copies or subscribe to a service to play games. This throws game ownership out the window.
+ These are just a few signs, but with the decline of physical games, game companies have an incentive to push for an all-digital future. Not only does this raise [concerns about game preservation](https://www.makeuseof.com/what-is-video-game-preservation/) , but it also means players will have to purchase digital copies or subscribe to a service to play games. This throws game ownership out the window.
 
- In fact, Phillipe Tremblay, Ubisoft's director of subscriptions, has stated that players should get comfortable not owning their games, according to an article by[GamesIndustry.biz](https://www.gamesindustry.biz/the-new-ubisoft-and-getting-gamers-comfortable-with-not-owning-their-games) . Not long after that, Blizzard updated its[EULA](https://www.blizzard.com/en-us/legal/fba4d00f-c7e4-4883-b8b9-1b4500a402ea/blizzard-end-user-license-agreement) in March 2024, telling users that they don’t own their games.
+ In fact, Phillipe Tremblay, Ubisoft's director of subscriptions, has stated that players should get comfortable not owning their games, according to an article by [GamesIndustry.biz](https://www.gamesindustry.biz/the-new-ubisoft-and-getting-gamers-comfortable-with-not-owning-their-games) . Not long after that, Blizzard updated its [EULA](https://www.blizzard.com/en-us/legal/fba4d00f-c7e4-4883-b8b9-1b4500a402ea/blizzard-end-user-license-agreement) in March 2024, telling users that they don’t own their games.
 
- Furthermore, with Sony and Xbox adding more games and perks to[PS Plus and Game Pass](https://www.makeuseof.com/playstation-now-vs-xbox-game-pass/) , subscriptions are becoming more attractive. Even shifts in consumer behavior show that these gaming subscriptions, including Apple Arcade, are gradually outpacing game purchases each year, according to[Statista](https://www.statista.com/statistics/1240342/consumer-spending-video-game-subscriptions-growth/) .
+ Furthermore, with Sony and Xbox adding more games and perks to [PS Plus and Game Pass](https://www.makeuseof.com/playstation-now-vs-xbox-game-pass/) , subscriptions are becoming more attractive. Even shifts in consumer behavior show that these gaming subscriptions, including Apple Arcade, are gradually outpacing game purchases each year, according to [Statista](https://www.statista.com/statistics/1240342/consumer-spending-video-game-subscriptions-growth/) .
 
-## Why Subscriptions Can't Beat Game Ownership
-
-![EA Play games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ea-play-games.jpg)
+## Why Subscriptions Can't Beat Game Ownership ![EA Play games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ea-play-games.jpg)
 
  As game subscriptions keep trending upward and game companies embrace them, the benefits of complete game ownership are becoming more apparent.
 
- When we talk about game ownership here, we’re referring to physical games. While[purchasing digital games](https://www.makeuseof.com/physical-games-vs-digital-games-best-to-buy/) gives you more control over games than subscriptions, you can run into similar problems.
+ When we talk about game ownership here, we’re referring to physical games. While [purchasing digital games](https://www.makeuseof.com/physical-games-vs-digital-games-best-to-buy/) gives you more control over games than subscriptions, you can run into similar problems.
 
 Here are several reasons game ownership is king over subscriptions.
 
-### 1\. You Have Complete Access
-
-![hands holding a ps5 controller in front of a tv screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/hands-holding-a-ps5-controller-in-front-of-a-tv-screen.jpg)
+### 1\. You Have Complete Access ![hands holding a ps5 controller in front of a tv screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/hands-holding-a-ps5-controller-in-front-of-a-tv-screen.jpg)
 
  Mohsen Vaziri/[Shutterstock](https://www.shutterstock.com/image-photo/toronto-canada-november-24-2020-person-1860839008)
 
@@ -71,9 +67,7 @@ Here are several reasons game ownership is king over subscriptions.
 
  If you’re not a collector, you can easily sell or trade in the games once you’re done with them. This can help you recover some of the costs of purchasing the game, which you can then use to purchase another game. If you hold on to the games long enough, there’s a chance (although small) that they will be worth substantially more in the future.
 
-### 5\. You Can Share the Games with Others
-
-![two people playing mobile games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/two-people-playing-mobile-games.jpg)
+### 5\. You Can Share the Games with Others ![two people playing mobile games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/two-people-playing-mobile-games.jpg)
 
  Chay\_Tee/[Shutterstock](https://www.shutterstock.com/image-photo/young-adult-asia-cute-sweet-couple-2342605331)
 
@@ -100,3 +94,27 @@ Here are several reasons game ownership is king over subscriptions.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/your-blueprint-to-discovering-exceptional-discord-communities/"><u>Your Blueprint to Discovering Exceptional Discord Communities</u></a></li>
+<li><a href="https://games-able.techidaily.com/npc-neighbors-network-five-friendly-mc-gameplay-styles/"><u>NPC Neighbors' Network: Five Friendly MC Gameplay Styles</u></a></li>
+<li><a href="https://games-able.techidaily.com/screen-size-selection-for-gamers/"><u>Screen Size Selection for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/did-you-know-chatgpt-has-games-here-are-the-6-best-ones-to-play/"><u>Did You Know ChatGPT Has Games? Here Are the 6 Best Ones to Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-console-or-computer-playing-style-duel/"><u>Ultimate Console or Computer? Playing Style Duel</u></a></li>
+<li><a href="https://games-able.techidaily.com/leading-the-pack-premium-ps5-dualsense-controllers-chargers/"><u>Leading the Pack: Premium PS5 DualSense Controllers Chargers</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-5-game-console-emulations-that-enhance-your-macgaming/"><u>Top 5 Game Console Emulations That Enhance Your macGaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-androidios-steam-link-for-gaming-enthusiasts/"><u>Explore Android/iOS: Steam Link for Gaming Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/android-vs-iphone-clashing-for-tetris-glory/"><u>Android vs iPhone: Clashing for Tetris Glory</u></a></li>
+<li><a href="https://games-able.techidaily.com/methods-for-correcting-erratic-mouse-scrolling/"><u>Methods for Correcting Erratic Mouse Scrolling</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-top-10-webm-converters-to-mp4-expert-reviews-for-2024/"><u>New Top 10 WebM Converters to MP4 Expert Reviews for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-unlocking-the-secrets-of-duplicating-your-tiktok-aura/"><u>[Updated] In 2024, Unlocking the Secrets of Duplicating Your TikTok Aura</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-cutting-edge-tips-for-stitching-your-best-tiktok-ever/"><u>[New] 2024 Approved  Cutting Edge Tips for Stitching Your Best TikTok Ever</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-crafting-captivating-edu-vids-on-youtube-a-step-by-step-guide/"><u>In 2024, Crafting Captivating Edu-Vids on YouTube  A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-diverse-template-online/"><u>New Diverse Template | Online</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-oppo-a38-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Oppo A38? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-capture-every-moment-the-premier-8-free-screen-capture-apps-for-android/"><u>[New] 2024 Approved  Capture Every Moment  The Premier 8 Free Screen Capture Apps for Android</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-samsung-galaxy-m34-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Samsung Galaxy M34 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-infinix-note-30-vip-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Infinix Note 30 VIP Without Them Knowing? | Dr.fone</u></a></li>
+</ul></div>

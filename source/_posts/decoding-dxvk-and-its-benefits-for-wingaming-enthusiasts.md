@@ -1,7 +1,7 @@
 ---
 title: Decoding DXVK and Its Benefits for WinGaming Enthusiasts
-date: 2024-06-22 18:21:22
-updated: 2024-06-24 12:54:49
+date: 2024-06-25T13:14:36.935Z
+updated: 2024-06-26T13:14:36.935Z
 tags:
   - games
 categories:
@@ -34,13 +34,13 @@ thumbnail: https://thmb.techidaily.com/6b564cfcc68d7fa9fa2ebcc8ac34b00c6e2d610d2
 
  Like OpenGL, and unlike Microsoft's Windows-bound Direct3D, Vulkan is "open" and cross-platform. You can use Vulkan on Windows, Linux, and even smartphones. Although not natively supported on Macs, it's usable there through MoltenVK.
 
- That was the short version. To learn more about Vulkan, check our article on[what Vulkan run time libraries are in Windows](https://www.makeuseof.com/tag/vulkan-run-time-libraries-windows/) .
+ That was the short version. To learn more about Vulkan, check our article on [what Vulkan run time libraries are in Windows](https://www.makeuseof.com/tag/vulkan-run-time-libraries-windows/) .
 
 ## What Is DXVK?
 
  DXVK is a wrapper, "translating" Direct3D to Vulkan. In the human world, a translator can be a mediator between an English and a Japanese speaker, enabling them to understand one another. Similarly, "wrappers", or "translation layers", can "take" code written for a specific piece of hardware, platform, or API, and translate it to run on another.
 
- DXVK was originally developed for Linux with support from Valve, which also uses it on SteamOS and the Steam Deck. You can learn more about that in our article where we saw[what is Steam Proton and how it runs Windows games on Steam Deck](https://www.makeuseof.com/what-is-steam-proton-how-does-it-run-windows-games-on-steam-deck/) .
+ DXVK was originally developed for Linux with support from Valve, which also uses it on SteamOS and the Steam Deck. You can learn more about that in our article where we saw [what is Steam Proton and how it runs Windows games on Steam Deck](https://www.makeuseof.com/what-is-steam-proton-how-does-it-run-windows-games-on-steam-deck/) .
 
 ## Why Should You Use DXVK on Windows?
 
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/6b564cfcc68d7fa9fa2ebcc8ac34b00c6e2d610d2
 
  By "translating" old-and-buggy Direct3D code into the more modern Vulkan API, there's a minimal toll on performance (if any). At the same time, problematic games with broken graphics or missing features may become fully playable again.
 
- Since Vulkan is on par with Direct3D 12, and both are much better (and faster) than older versions of Direct3D (as we saw when[we compared DirectX 11 VS DirectX 12](https://www.makeuseof.com/directx-11-vs-directx-12-differences/) ), "translating" old Direct3D games to Vulkan can sometimes improve the game's performance.
+ Since Vulkan is on par with Direct3D 12, and both are much better (and faster) than older versions of Direct3D (as we saw when [we compared DirectX 11 VS DirectX 12](https://www.makeuseof.com/directx-11-vs-directx-12-differences/) ), "translating" old Direct3D games to Vulkan can sometimes improve the game's performance.
 
  Intel's work on their Arc GPUs is proof of that. Intel could try to add support for every single older title in Arc GPU drivers. Instead, Intel decided to work on further improving DXVK. Initial results from Intel's "experiment" lead up to a 2x boost in performance for older titles, with dozens rendered playable "through" DXVK.
 
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/6b564cfcc68d7fa9fa2ebcc8ac34b00c6e2d610d2
 
  DXVK is open-source software and free to use. You can find its latest version on GitHub.
 
-1. Visit DXVK's[official GitHub page](https://GitHub.com/doitsujin/dxvk) and click on the**Latest** version link on the right of the page, under**Releases** .
+1. Visit DXVK's [official GitHub page](https://GitHub.com/doitsujin/dxvk) and click on the**Latest** version link on the right of the page, under**Releases** .
 2. Scroll down on the releases page and find the**Assets** section of the latest version. Click on the latest DXVK tar.gz archive to download it. At the time of writing, it was version 2.2.  
 ![DXVK Latest Release Asset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dxvk-latest-release-asset-1.jpg)
 3. Store the downloaded archive somewhere, for you will need to extract its contents to the folder of every game you want to run with DXVK instead of Direct3D.
@@ -73,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/6b564cfcc68d7fa9fa2ebcc8ac34b00c6e2d610d2
 
  If you need to know which version of Direct3D your game is using, the PC Gaming Wiki website can help.
 
-1. Visit[PC Gaming Wiki](https://pcgamingwiki.com/) with your browser, and use the search field on the top right to seek the game to which you want to add DXVK.
+1. Visit [PC Gaming Wiki](https://pcgamingwiki.com/) with your browser, and use the search field on the top right to seek the game to which you want to add DXVK.
 2. When you find your game, visit its page and scroll down to reach the**Other Information** section. Turn your attention to the API tables. There, on the**Technical Specs** and**Supported** columns, you will see the version of Direct3D your game is using. Underneath, the**Executable** ,**32-bit** , and**64-bit** columns will "tell" you which architecture you should choose.  
 ![PCGamingWiki Game API Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/pcgamingwiki-game-api-information-1.jpg)
 
@@ -149,3 +149,27 @@ thumbnail: https://thmb.techidaily.com/6b564cfcc68d7fa9fa2ebcc8ac34b00c6e2d610d2
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/game-changing-motherboards-at-reasonable-prices/"><u>Game-Changing Motherboards at Reasonable Prices</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-selection-of-multiplayer-titles-anywhere-you-are/"><u>Exclusive Selection of Multiplayer Titles, Anywhere You Are</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-6-curious-chess-programs-with-ai-matches/"><u>Dive Into 6 Curious Chess Programs with AI Matches</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-social-interaction-via-virtual-gaming-platforms-discord/"><u>Unlocking Social Interaction via Virtual Gaming Platforms (Discord)</u></a></li>
+<li><a href="https://games-able.techidaily.com/guide-enjoy-xbox-games-anyhow/"><u>Guide: Enjoy Xbox Games Anyhow</u></a></li>
+<li><a href="https://games-able.techidaily.com/keeping-cool-tactics-for-enduring-xbox-game-pass-hike/"><u>Keeping Cool: Tactics for Enduring Xbox Game Pass Hike</u></a></li>
+<li><a href="https://games-able.techidaily.com/clearing-false-payment-failures-on-playstation/"><u>Clearing False Payment Failures on PlayStation</u></a></li>
+<li><a href="https://games-able.techidaily.com/embracing-versatility-windows-and-ossteamos-coexistence/"><u>Embracing Versatility: Windows and OS/SteamOS Coexistence</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-storage-woes-fixing-windows-11-write-errors/"><u>Steam Storage Woes: Fixing Windows 11 Write Errors</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-fix-it-guide-for-lost-location-alerts-in-pokemon-journey/"><u>The Ultimate Fix-It Guide for Lost Location Alerts in Pokémon Journey</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/exploring-the-creme-de-la-creme-of-android-mobas-10-for-2024/"><u>Exploring the Crème De La Crème of Android MOBAs (#10) for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-building-your-own-youtube-organization-toolkit-the-watch-later-way/"><u>[New] 2024 Approved  Building Your Own YouTube Organization Toolkit  The Watch Later Way</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-best-sound-transforming-apps-for-youtube-vloggers/"><u>[New] In 2024, Best Sound Transforming Apps for YouTube Vloggers</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-a-comprehensive-look-editing-and-polishing-yt-videos-via-movie-maker/"><u>[Updated] A Comprehensive Look  Editing and Polishing YT Videos via Movie Maker</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-revised-interview-guidelines-for-captivating-listeners/"><u>[Updated] Revised Interview Guidelines for Captivating Listeners</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-mastery-in-broadcast-4-approaches-for-televised-facebook-lives-for-2024/"><u>[New] Mastery in Broadcast  4 Approaches for Televised Facebook Lives for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-smooth-operations-screen-recording-basics-for-lenovo-users/"><u>[New] Smooth Operations  Screen Recording Basics for Lenovo Users</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-image-to-video-converters-free-and-paid-options/"><u>In 2024, Best Image to Video Converters Free and Paid Options</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-premier-recorder-clean-and-clear-android-edition/"><u>2024 Approved  Premier Recorder  Clean and Clear Android Edition</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-from-iphone-xs-max-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server From iPhone XS Max</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Game Mode: Apple's Answer to Optimized Gaming on macOS Sonoma"
-date: 2024-06-25T10:41:18.224Z
-updated: 2024-06-26T10:41:18.224Z
+date: 2024-06-25T12:48:36.125Z
+updated: 2024-06-26T12:48:36.125Z
 tags:
   - games
 categories:
@@ -28,13 +28,11 @@ thumbnail: https://thmb.techidaily.com/6befd60c173a5cd8b8d9dfcf598dea7f7e1558ad2
 
  This is particularly useful for titles where even a small amount of input lag can make a big difference, such as first-person shooters or fighting games.
 
-## How to Enable Game Mode on Your Mac
+## How to Enable Game Mode on Your Mac ![macOS Game Mode Menu with the option to turn Game Mode off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/macos-game-mode-menu.jpeg)
 
-![macOS Game Mode Menu with the option to turn Game Mode off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/macos-game-mode-menu.jpeg)
+ Game Mode is automatically turned on when you launch a game in full-screen mode. There are no controls or options to turn it on manually until then. Once the game is running in full screen, you'll see an icon of a game controller in [the macOS menu bar](https://www.makeuseof.com/mac-menu-bar-beginners-guide/) .
 
- Game Mode is automatically turned on when you launch a game in full-screen mode. There are no controls or options to turn it on manually until then. Once the game is running in full screen, you'll see an icon of a game controller in[the macOS menu bar](https://www.makeuseof.com/mac-menu-bar-beginners-guide/) .
-
- You will get this icon regardless of whether or not you[connect a controller to your Mac](https://www.makeuseof.com/how-to-use-ps5-dualsense-controller-with-mac/) . Clicking the game controller icon will open a menu with the name of the game being played in full screen. The only option in this menu is to**Turn Game Mode Off** .
+ You will get this icon regardless of whether or not you [connect a controller to your Mac](https://www.makeuseof.com/how-to-use-ps5-dualsense-controller-with-mac/) . Clicking the game controller icon will open a menu with the name of the game being played in full screen. The only option in this menu is to**Turn Game Mode Off** .
 
  To turn Game Mode back on, click the**Turn Game Mode On** option or simply re-launch the game in full screen.
 
@@ -44,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/6befd60c173a5cd8b8d9dfcf598dea7f7e1558ad2
 
  When I first tried running Minecraft: Java Edition with Sildur's Vibrant Shaders in Game Mode, I didn't see any improvement in the frame rate (FPS). The game still ran at a steady 30–35 FPS on a base model M1 MacBook Air with 8GB of unified memory (RAM). This was disappointing, as I was expecting a bigger difference.
 
- However, I wanted to make sure that Game Mode was actually giving a higher priority to the game, so I ran the[Speedometer 2.0](https://browserbench.org/Speedometer2.0/) browser benchmark simultaneously.
+ However, I wanted to make sure that Game Mode was actually giving a higher priority to the game, so I ran the [Speedometer 2.0](https://browserbench.org/Speedometer2.0/) browser benchmark simultaneously.
 
  When Game Mode was turned off, the game ran alongside the Speedometer 2.0 benchmark with constant frame drops, resulting in a benchmark score of 360\. Upon turning on Game Mode, the frame drops disappeared and the frame rate became stable, even though the benchmark score dropped to 240.
 

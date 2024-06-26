@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Steam Deck Storage Switcheroo
-date: 2024-06-25T10:50:15.507Z
-updated: 2024-06-26T10:50:15.507Z
+date: 2024-06-25T12:48:41.722Z
+updated: 2024-06-26T12:48:41.722Z
 tags:
   - games
 categories:
@@ -31,9 +31,7 @@ thumbnail: https://thmb.techidaily.com/bed92abb4b13bfb35e12a54bfe3958abc331bc994
 
  Are you upgrading your Steam Deck SSD but don't want to set up your device from scratch? Here’s how to clone your SSD for an easier upgrade.
 
-## Why Cloning Your Steam Deck's SSD Is Better
-
-![Steam Deck SSD installed without sleeve](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/steam-deck-ssd-installed-without-sleeve-1.JPG)
+## Why Cloning Your Steam Deck's SSD Is Better ![Steam Deck SSD installed without sleeve](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/steam-deck-ssd-installed-without-sleeve-1.JPG)
 
  Jhet Borja/MakeUseOf  
 
@@ -41,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/bed92abb4b13bfb35e12a54bfe3958abc331bc994
 
  Cloning your old SSD will trick your Steam Deck into thinking it’s the same one, except with more storage. All your files, Steam Deck settings, login information, games, etc., will all be recognized the same way by your Steam Deck.
 
- If you're looking to install a bigger[SSD for your Steam Deck](https://www.makeuseof.com/best-ssd-for-steam-deck/) , clone your old one to it first so that you can immediately start downloading new games to it instead of sitting fussing about installing SteamOS.
+ If you're looking to install a bigger [SSD for your Steam Deck](https://www.makeuseof.com/best-ssd-for-steam-deck/) , clone your old one to it first so that you can immediately start downloading new games to it instead of sitting fussing about installing SteamOS.
 
 ## How to Clone Your Steam Deck's SSD to a New One
 
@@ -55,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/bed92abb4b13bfb35e12a54bfe3958abc331bc994
 
 ![Macrium Reflect trial download](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/macrium-reflect-trial-download-1.jpg)
 
- Register and create a[Macrium Reflect](https://manage.macrium.com/) account and download the free trial as it has everything you need for this process.
+ Register and create a [Macrium Reflect](https://manage.macrium.com/) account and download the free trial as it has everything you need for this process.
 
  Copy your registration code, click on**Download Trial** on the Home version, and run the setup.
 
@@ -73,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/bed92abb4b13bfb35e12a54bfe3958abc331bc994
 
  Jhet Borja/MakeUseOf  
 
- First, remove your Steam Deck’s old SSD. If you don’t know how, check out this[Steam Deck SSD installation guide](https://www.makeuseof.com/how-to-install-ssd-steam-deck/) as you’ll be using it later to install your upgraded SSD as well.
+ First, remove your Steam Deck’s old SSD. If you don’t know how, check out this [Steam Deck SSD installation guide](https://www.makeuseof.com/how-to-install-ssd-steam-deck/) as you’ll be using it later to install your upgraded SSD as well.
 
  Next, with your PC shut down and unplugged, you should install the NVME or M.2 SSD into your motherboard. Since the Steam Deck uses a 2230-size SSD, you most likely won’t be able to screw it down. But that’s okay so long as you don’t knock it off or move your PC too much during the process.
 

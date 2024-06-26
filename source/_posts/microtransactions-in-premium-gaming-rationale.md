@@ -1,7 +1,7 @@
 ---
 title: Microtransactions in Premium Gaming - Rationale?
-date: 2024-06-23 13:16:33
-updated: 2024-06-24 10:11:56
+date: 2024-06-25T12:54:55.112Z
+updated: 2024-06-26T12:54:55.112Z
 tags:
   - games
 categories:
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/895e63c00991de11c3a5bb60d914f7ce63bcb7f1c
 
  At first, it came as expansion packs ([now known as DLC](https://www.makeuseof.com/dlc-video-games/) ), which you had to buy separately to expand the game’s content. But it didn’t take long for developers to realize they could make more money from selling small bits of seemingly inconsequential content for a token price.
 
- Eventually, this trend led to the introduction of[loot boxes and gacha microtransactions](https://www.makeuseof.com/are-loot-boxes-in-video-games-a-form-of-gambling-should-you-avoid-them/) . These were not just game-changers but financial jackpots. In fact, one of the pioneers in this field, ZT Online (2007), was raking in a staggering $15 million monthly at its peak.
+ Eventually, this trend led to the introduction of [loot boxes and gacha microtransactions](https://www.makeuseof.com/are-loot-boxes-in-video-games-a-form-of-gambling-should-you-avoid-them/) . These were not just game-changers but financial jackpots. In fact, one of the pioneers in this field, ZT Online (2007), was raking in a staggering $15 million monthly at its peak.
 
  Before we knew it, we had Facebook games like Farmville that offered Farm Cash to make the game easier to play and progress faster. From there, it made its way to mobile as smartphone games, like Clash of Clans.
 
@@ -76,9 +76,7 @@ But what about premium games? Should they have microtransactions?
 
  Apart from the inherent gambling nature of loot boxes, as a creator and an artist, doesn’t it feel fundamentally wrong to offer people a way to pay to experience less of your creation? It gives people the idea that your game is a chore, which shouldn’t be the case.
 
-### Bloat and Battle Passes
-
-![Assassin's Creed Origins Season Pass for sale on Ubisoft website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/assassin-s-creed-origins-season-pass-for-sale-on-ubisoft-website.png)
+### Bloat and Battle Passes ![Assassin's Creed Origins Season Pass for sale on Ubisoft website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/assassin-s-creed-origins-season-pass-for-sale-on-ubisoft-website.png)
 
  Another way you can tell microtransactions don’t have a place in premium games is that they only worm their way into established franchises. Ubisoft is a good example of this, seeing as it has added seasonal passes to many titles in their (mostly) offline single-player adventure series, Assassin’s Creed.
 
@@ -86,7 +84,7 @@ But what about premium games? Should they have microtransactions?
 
  Companies add these to leverage the cumulated love and loyalty some fans have to these established series—even though they know many wouldn’t like it. In the end, it comes off as parasitic.
 
- What makes passes even worse is that you have to play the game for a certain amount of time to earn the content on them. We've explored more on[why you shouldn't pay for passes](https://www.makeuseof.com/why-you-shouldnt-pay-for-season-passes-or-dlc/) in a dedicated piece.
+ What makes passes even worse is that you have to play the game for a certain amount of time to earn the content on them. We've explored more on [why you shouldn't pay for passes](https://www.makeuseof.com/why-you-shouldnt-pay-for-season-passes-or-dlc/) in a dedicated piece.
 
  Additionally, these games end up being bloated, as content you’ve bought, downloaded, and installed is locked behind an additional paywall. This will cost the paying player more internet bills for content they will likely never get to experience.
 
@@ -121,3 +119,26 @@ But what about premium games? Should they have microtransactions?
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/transform-your-gaming-experience-with-smart-modding-tips/"><u>Transform Your Gaming Experience with Smart Modding Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-transition-from-xbox-live-gold-to-game-pass-core-explained/"><u>The Transition From Xbox Live Gold to Game Pass Core Explained</u></a></li>
+<li><a href="https://games-able.techidaily.com/reversing-windows-gpu-hang-addressing-error-code-0x887a0006/"><u>Reversing Window's GPU Hang: Addressing Error Code 0X887A0006</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-game-enthusiasm-with-a-revamped-microsoft-xbox-points-system/"><u>Unlocking Game Enthusiasm with a Revamped Microsoft Xbox Points System</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-gaming-analysis-on-steam-platform/"><u>Maximizing Gaming Analysis on Steam Platform</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-check-your-fps-in-games-on-android-2-methods/"><u>How to Check Your FPS in Games on Android: 2 Methods</u></a></li>
+<li><a href="https://games-able.techidaily.com/key-elements-for-a-gaming-mouse-worth-every-penny-a-quick-rundown/"><u>Key Elements for a Gaming Mouse Worth Every Penny: A Quick Rundown</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficient-game-file-handling-using-steams-manager/"><u>Efficient Game File Handling Using Steam’s Manager</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-foddian-games-origins-explored/"><u>Unveiling Foddian Games: Origins Explored</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-webcamsavvy-essentialrecordinghacks/"><u>[Updated] 2024 Approved  WebCamSavvy  EssentialRecordingHacks</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-12-pro-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 12 Pro Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oppo-a58-4g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Oppo A58 4G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-exploring-the-potential-of-movie-maker-for-anime/"><u>[Updated] In 2024, Exploring the Potential of Movie Maker for Anime</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-guide-overcoming-youtube-short-hurdles-for-2024/"><u>Quick Guide  Overcoming YouTube Short Hurdles for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-battle-of-av1-and-vp9-outcomes-revealed/"><u>[New] The Battle of AV1 and VP9  Outcomes Revealed</u></a></li>
+<li><a href="https://extra-information.techidaily.com/craft-your-own-story-10-best-cost-free-ios-photo-collage-tools-for-2024/"><u>Craft Your Own Story  10 Best, Cost-Free iOS Photo Collage Tools for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-deep-dive-into-apps-with-az-recorder/"><u>[New] Deep Dive Into Apps with AZ Recorder</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/from-slides-to-screens-easy-recording-techniques/"><u>From Slides to Screens  Easy Recording Techniques</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-ideal-screen-snapshot-service-chromebook/"><u>[New] In 2024, Ideal Screen Snapshot Service  Chromebook</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Gaming Gala: The Glory of Game Guardianship"
-date: 2024-06-23 14:21:15
-updated: 2024-06-24 10:24:44
+date: 2024-06-25T13:20:08.110Z
+updated: 2024-06-26T13:20:08.110Z
 tags:
   - games
 categories:
@@ -29,27 +29,23 @@ thumbnail: https://thmb.techidaily.com/f3b5fbbb41ff3e0e15766362f9082ba5609c00b84
 
 ## Games Are Heading Towards an All-Digital Future
 
- According to a report by[GamesIndustry.biz](https://www.gamesindustry.biz/gamesindustrybiz-presents-the-year-in-number-2023) , 95% of games sold in 2023 were digital. We’re even seeing some games, such as Alan Wake 2 and Hellblade 2, release digital-only versions with no physical copies. Furthermore, legendary physical retailers like GameStop are closing more stores each year.
+ According to a report by [GamesIndustry.biz](https://www.gamesindustry.biz/gamesindustrybiz-presents-the-year-in-number-2023) , 95% of games sold in 2023 were digital. We’re even seeing some games, such as Alan Wake 2 and Hellblade 2, release digital-only versions with no physical copies. Furthermore, legendary physical retailers like GameStop are closing more stores each year.
 
- These are just a few signs, but with the decline of physical games, game companies have an incentive to push for an all-digital future. Not only does this raise[concerns about game preservation](https://www.makeuseof.com/what-is-video-game-preservation/) , but it also means players will have to purchase digital copies or subscribe to a service to play games. This throws game ownership out the window.
+ These are just a few signs, but with the decline of physical games, game companies have an incentive to push for an all-digital future. Not only does this raise [concerns about game preservation](https://www.makeuseof.com/what-is-video-game-preservation/) , but it also means players will have to purchase digital copies or subscribe to a service to play games. This throws game ownership out the window.
 
- In fact, Phillipe Tremblay, Ubisoft's director of subscriptions, has stated that players should get comfortable not owning their games, according to an article by[GamesIndustry.biz](https://www.gamesindustry.biz/the-new-ubisoft-and-getting-gamers-comfortable-with-not-owning-their-games) . Not long after that, Blizzard updated its[EULA](https://www.blizzard.com/en-us/legal/fba4d00f-c7e4-4883-b8b9-1b4500a402ea/blizzard-end-user-license-agreement) in March 2024, telling users that they don’t own their games.
+ In fact, Phillipe Tremblay, Ubisoft's director of subscriptions, has stated that players should get comfortable not owning their games, according to an article by [GamesIndustry.biz](https://www.gamesindustry.biz/the-new-ubisoft-and-getting-gamers-comfortable-with-not-owning-their-games) . Not long after that, Blizzard updated its [EULA](https://www.blizzard.com/en-us/legal/fba4d00f-c7e4-4883-b8b9-1b4500a402ea/blizzard-end-user-license-agreement) in March 2024, telling users that they don’t own their games.
 
- Furthermore, with Sony and Xbox adding more games and perks to[PS Plus and Game Pass](https://www.makeuseof.com/playstation-now-vs-xbox-game-pass/) , subscriptions are becoming more attractive. Even shifts in consumer behavior show that these gaming subscriptions, including Apple Arcade, are gradually outpacing game purchases each year, according to[Statista](https://www.statista.com/statistics/1240342/consumer-spending-video-game-subscriptions-growth/) .
+ Furthermore, with Sony and Xbox adding more games and perks to [PS Plus and Game Pass](https://www.makeuseof.com/playstation-now-vs-xbox-game-pass/) , subscriptions are becoming more attractive. Even shifts in consumer behavior show that these gaming subscriptions, including Apple Arcade, are gradually outpacing game purchases each year, according to [Statista](https://www.statista.com/statistics/1240342/consumer-spending-video-game-subscriptions-growth/) .
 
-## Why Subscriptions Can't Beat Game Ownership
-
-![EA Play games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ea-play-games.jpg)
+## Why Subscriptions Can't Beat Game Ownership ![EA Play games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ea-play-games.jpg)
 
  As game subscriptions keep trending upward and game companies embrace them, the benefits of complete game ownership are becoming more apparent.
 
- When we talk about game ownership here, we’re referring to physical games. While[purchasing digital games](https://www.makeuseof.com/physical-games-vs-digital-games-best-to-buy/) gives you more control over games than subscriptions, you can run into similar problems.
+ When we talk about game ownership here, we’re referring to physical games. While [purchasing digital games](https://www.makeuseof.com/physical-games-vs-digital-games-best-to-buy/) gives you more control over games than subscriptions, you can run into similar problems.
 
 Here are several reasons game ownership is king over subscriptions.
 
-### 1\. You Have Complete Access
-
-![hands holding a ps5 controller in front of a tv screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/hands-holding-a-ps5-controller-in-front-of-a-tv-screen.jpg)
+### 1\. You Have Complete Access ![hands holding a ps5 controller in front of a tv screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/hands-holding-a-ps5-controller-in-front-of-a-tv-screen.jpg)
 
  Mohsen Vaziri/[Shutterstock](https://www.shutterstock.com/image-photo/toronto-canada-november-24-2020-person-1860839008)
 
@@ -71,9 +67,7 @@ Here are several reasons game ownership is king over subscriptions.
 
  If you’re not a collector, you can easily sell or trade in the games once you’re done with them. This can help you recover some of the costs of purchasing the game, which you can then use to purchase another game. If you hold on to the games long enough, there’s a chance (although small) that they will be worth substantially more in the future.
 
-### 5\. You Can Share the Games with Others
-
-![two people playing mobile games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/two-people-playing-mobile-games.jpg)
+### 5\. You Can Share the Games with Others ![two people playing mobile games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/two-people-playing-mobile-games.jpg)
 
  Chay\_Tee/[Shutterstock](https://www.shutterstock.com/image-photo/young-adult-asia-cute-sweet-couple-2342605331)
 
@@ -100,3 +94,26 @@ Here are several reasons game ownership is king over subscriptions.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/the-ultimate-list-of-apples-pre-installed-offline-games/"><u>The Ultimate List of Apple's Pre-Installed, Offline Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-the-secrets-of-nyt-networking/"><u>Unlocking the Secrets of NYT Networking</u></a></li>
+<li><a href="https://games-able.techidaily.com/timeless-play-changing-regions-on-xbox-system/"><u>Timeless Play: Changing Regions on Xbox System</u></a></li>
+<li><a href="https://games-able.techidaily.com/live-your-xbox-experience-no-controller-needed/"><u>Live Your Xbox Experience, No Controller Needed</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-metagame-concept-meaning-importance-and-order/"><u>Unveiling Metagame Concept: Meaning, Importance, & Order</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-core-elements-for-exciting-mobile-gaming/"><u>Mastering Core Elements for Exciting Mobile Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-gamings-meta-meaning-and-adherence/"><u>Deciphering Gaming's Meta: Meaning & Adherence</u></a></li>
+<li><a href="https://games-able.techidaily.com/noblepixel-display-smart-mini-led-budget/"><u>NoblePixel Display: Smart Mini-LED Budget</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficient-use-of-time-and-cash-on-your-xbox-console/"><u>Efficient Use of Time & Cash on Your Xbox Console</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-troubleshooting-quieted-facebook-streams/"><u>In 2024, Troubleshooting Quieted Facebook Streams</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-video-editing-tips-tips-for-making-a-better-home-movie-for-2024/"><u>Updated Video Editing Tips - Tips for Making a Better Home Movie for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/10plus-best-free-video-editing-programs-of-2023/"><u>10+ Best Free Video Editing Programs of 2023</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-strategy-for-developing-and-managing-youtube-collaborations-for-2024/"><u>The Ultimate Strategy for Developing & Managing YouTube Collaborations for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-xiaomi-redmi-note-12-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Xiaomi Redmi Note 12 5G FRP Bypass</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-oppo-a18s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Oppo A18s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-unleash-your-creativity-with-fast-video-editing-tools/"><u>New Unleash Your Creativity with Fast Video Editing Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-sound-design-editing-your-podcasts-in-garageband-for-2024/"><u>The Ultimate Sound Design  Editing Your Podcasts in GarageBand for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-oppo-find-x6-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Oppo Find X6 Through Google Earth?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-realme-c33-2023-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Realme C33 2023 Location Is Wrong | Dr.fone</u></a></li>
+</ul></div>

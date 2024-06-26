@@ -1,7 +1,7 @@
 ---
 title: Fleeting Online Realms – A Reason for Concern?
-date: 2024-06-25T10:45:48.310Z
-updated: 2024-06-26T10:45:48.310Z
+date: 2024-06-25T12:48:38.997Z
+updated: 2024-06-26T12:48:38.997Z
 tags:
   - games
 categories:
@@ -47,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/84fef5f35988a89f310851ba69e27f36f222e4900
 * PUBG: Battlegrounds
 * Among Us
 
- What’s more, many of these games let you create or use private servers, either for local multiplayer gameplay or simply as an alternative to the official servers. You can[make your own Minecraft server](https://www.makeuseof.com/how-to-make-a-minecraft-server/) if you want to restrict players to a small group of friends.
+ What’s more, many of these games let you create or use private servers, either for local multiplayer gameplay or simply as an alternative to the official servers. You can [make your own Minecraft server](https://www.makeuseof.com/how-to-make-a-minecraft-server/) if you want to restrict players to a small group of friends.
 
  But not every game offers self-hosted servers as an alternative. In particular, games that encourage players to upload and share their own content are usually restricted to official servers.
 
@@ -61,11 +61,11 @@ thumbnail: https://thmb.techidaily.com/84fef5f35988a89f310851ba69e27f36f222e4900
 
  Long-running game servers are few and far between, although Furcadia’s servers have been up and running for 30 years. The majority of very popular server-backed games have only been around for the last decade or so, and are still running, with large customer bases.
 
- Fortnite’s servers have been running for seven years now and there’s no sign of the game being shuttered anytime soon. The original[Minecraft: Bedrock Edition](https://findmcserver.com/server/lifeboat) server has been up since 2013.
+ Fortnite’s servers have been running for seven years now and there’s no sign of the game being shuttered anytime soon. The original [Minecraft: Bedrock Edition](https://findmcserver.com/server/lifeboat) server has been up since 2013.
 
  Meanwhile, the Wii U Super Mario Maker server lasted for just under 9 years. Sony’s LittleBigPlanet 3 lasted for almost 10 years, although its servers were plagued by problems resulting from hacks and mods.
 
- The Overwatch 1 servers lasted just six years, and[the game is now officially dead](https://gamerant.com/overwatch-servers-shutdown-status-offline/) . But that decision was simply to make way for the game’s sequel. Generally, a game server stays up for at least as long as a console generation. Publishers could argue that anything beyond this is a sign of goodwill.
+ The Overwatch 1 servers lasted just six years, and [the game is now officially dead](https://gamerant.com/overwatch-servers-shutdown-status-offline/) . But that decision was simply to make way for the game’s sequel. Generally, a game server stays up for at least as long as a console generation. Publishers could argue that anything beyond this is a sign of goodwill.
 
 ## What Happens When Servers Shut Down?
 
@@ -79,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/84fef5f35988a89f310851ba69e27f36f222e4900
 
  Gamers have broadly accepted this as the consequence of massive online multiplayer gaming. With many online games—especially Battle Royale types like PUBG and Fortnite—reaching their ten-year anniversaries soon, we may see some high-profile shutdowns and resulting outcry.
 
- A smaller group of players is[concerned about game preservation](https://www.makeuseof.com/what-is-video-game-preservation/) . Once servers are gone, they often remove access to beloved games; not even emulation can save the day, unless enterprising developers can find a way of using alternative servers.
+ A smaller group of players is [concerned about game preservation](https://www.makeuseof.com/what-is-video-game-preservation/) . Once servers are gone, they often remove access to beloved games; not even emulation can save the day, unless enterprising developers can find a way of using alternative servers.
 
 
 <ins class="adsbygoogle"

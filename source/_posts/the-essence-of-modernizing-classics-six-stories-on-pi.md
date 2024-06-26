@@ -1,7 +1,7 @@
 ---
 title: The Essence of Modernizing Classics - Six Stories on Pi
-date: 2024-06-21 12:58:55
-updated: 2024-06-24 11:58:14
+date: 2024-06-25T13:01:29.814Z
+updated: 2024-06-26T13:01:29.814Z
 tags:
   - games
 categories:
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
 
  This chip features a quad-core, 64-bit Arm Cortex-A76 processor, clocked at 2.4GHz, up from the 1.8GHz base clock speed offered by the Raspberry Pi 4\. The Cortex-A76 is a noteworthy processor that was featured in the Exynos 990 system-on-chip and used in Rockchip RK3588 and RK3588s.
 
- The Cortex-A76 is three generations ahead of the Cortex-A72 and offers more instructions per clock (IPC) at a lower energy consumption rate. This allows for faster processing speeds, better power efficiency, and improvement in machine learning capability over the Raspberry Pi 4B. According to the official[Raspberry Pi 5 page](https://www.raspberrypi.com/products/raspberry-pi-5/) , this new board offers two to three times the speed of the Raspberry Pi.
+ The Cortex-A76 is three generations ahead of the Cortex-A72 and offers more instructions per clock (IPC) at a lower energy consumption rate. This allows for faster processing speeds, better power efficiency, and improvement in machine learning capability over the Raspberry Pi 4B. According to the official [Raspberry Pi 5 page](https://www.raspberrypi.com/products/raspberry-pi-5/) , this new board offers two to three times the speed of the Raspberry Pi.
 
  There will be two RAM options at release, 4GB and 8GB, but other variants should be available later. We might even see a 16GB RAM Raspberry Pi 5.
 
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
 
  We have to wait till the Raspberry Pi 5 is released before we get specific power consumption numbers. We do know that the Raspberry Pi 5 draws more power than the Raspberry Pi 4 when running at full throttle. It has a peak power consumption of 12W compared to Pi 4’s peak of 8W. This increase in power consumption won’t matter for basic productivity tasks and light browsing, but it may become significant when running heavier workloads.
 
- The Raspberry Pi 5 uses a new power management integrated circuit (PMIC) which provides up to 20A of current to power the Cortex-A76 and other digital logic in the BCM2712 application processor. The PMIC allows the Raspberry Pi to sport a shiny new real-time clock and an actual onboard power button. This means that you can make a[handheld Raspberry Pi gaming console](https://www.makeuseof.com/portable-retro-gaming-console-build-with-raspberry-pi/) without having to mess around with the GPIO pins. You may be surprised to know that there are several[ways to turn on a Raspberry Pi](https://www.makeuseof.com/how-to-turn-on-a-raspberry-pi/) .
+ The Raspberry Pi 5 uses a new power management integrated circuit (PMIC) which provides up to 20A of current to power the Cortex-A76 and other digital logic in the BCM2712 application processor. The PMIC allows the Raspberry Pi to sport a shiny new real-time clock and an actual onboard power button. This means that you can make a [handheld Raspberry Pi gaming console](https://www.makeuseof.com/portable-retro-gaming-console-build-with-raspberry-pi/) without having to mess around with the GPIO pins. You may be surprised to know that there are several [ways to turn on a Raspberry Pi](https://www.makeuseof.com/how-to-turn-on-a-raspberry-pi/) .
 
 ## 4\. It Can Run DreamCast, GameCube, and PSP Games
 
@@ -60,15 +60,13 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
 
 ## 5\. Cheaper Than Alternatives
 
- The Raspberry Pi has not lost its edge when it comes to pricing. Although there are more[powerful single-board computer alternatives](http://www.makeuseof.com/powerful-sbc-extra-computing-power/) on the market, the Raspberry Pi 5 is competitively priced. It is not the cheapest SBC, but it does maintain a fair balance between price and performance.
+ The Raspberry Pi has not lost its edge when it comes to pricing. Although there are more [powerful single-board computer alternatives](http://www.makeuseof.com/powerful-sbc-extra-computing-power/) on the market, the Raspberry Pi 5 is competitively priced. It is not the cheapest SBC, but it does maintain a fair balance between price and performance.
 
  The 4GB and 8GB variants are priced at $60 and $80 (excluding taxes), respectively. 1GB and 2GB models will be even cheaper. However, be sure to buy from authorized resellers only, to avoid paying scalper prices.
 
- According to Eben Upton in the[Pi 5 launch announcement](https://www.raspberrypi.com/news/introducing-raspberry-pi-5/) , the company will “ring-fence all of the Raspberry Pi 5s we sell until at least the end of the year for single-unit sales to individuals, so you get the first bite of the cherry.” So, that should mitigate[Raspberry Pi availability issues](https://www.makeuseof.com/raspberry-pi-stock-levels-finally-improving/) early on.
+ According to Eben Upton in the [Pi 5 launch announcement](https://www.raspberrypi.com/news/introducing-raspberry-pi-5/) , the company will “ring-fence all of the Raspberry Pi 5s we sell until at least the end of the year for single-unit sales to individuals, so you get the first bite of the cherry.” So, that should mitigate [Raspberry Pi availability issues](https://www.makeuseof.com/raspberry-pi-stock-levels-finally-improving/) early on.
 
-## 6\. Better Software Support Than Most Alternatives
-
-![ODROID N2+ SBC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/odroidn2aplusa.jpg)
+## 6\. Better Software Support Than Most Alternatives ![ODROID N2+ SBC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/odroidn2aplusa.jpg)
 
  Image Credit:[Hardkernel](https://www.hardkernel.com/shop/odroid-n2-with-4gbyte-ram-2/)
 
@@ -95,3 +93,26 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/decoding-dxvk-and-its-benefits-for-wingaming-enthusiasts/"><u>Decoding DXVK and Its Benefits for WinGaming Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/beat-xboxs-ultimate-plan-spike-with-smart-planning/"><u>Beat Xbox's Ultimate Plan Spike with Smart Planning</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-psvr2-the-ultimate-add-on-guide/"><u>Enhancing PSVR2: The Ultimate Add-On Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/ddr5-bests-2024-edition-list/"><u>DDR5 Bests: 2024 Edition List</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-fixes-for-steam-authentication-failures-in-rust/"><u>Quick Fixes for Steam Authentication Failures in Rust</u></a></li>
+<li><a href="https://games-able.techidaily.com/reign-supreme-on-twitch-with-these-7-streamer-assistants/"><u>Reign Supreme on Twitch With These 7 Streamer Assistants</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-palworld-inside-out/"><u>Discover PalWorld Inside Out</u></a></li>
+<li><a href="https://games-able.techidaily.com/will-radeon-and-nvidia-costs-escalate-soon/"><u>Will Radeon and Nvidia Costs Escalate Soon?</u></a></li>
+<li><a href="https://games-able.techidaily.com/shielding-your-digital-actions-from-watchful-eyes/"><u>Shielding Your Digital Actions From Watchful Eyes</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-building-a-sustainable-income-via-youtube-and-adsense/"><u>In 2024, Building a Sustainable Income via YouTube and AdSense</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-skys-limit-broken-by-djis-pro-drone-review-for-2024/"><u>The Sky's Limit Broken by DJI’s Pro Drone Review for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-navigating-instagram-the-essential-guide-to-mastering-reels/"><u>[Updated] Navigating Instagram  The Essential Guide to Mastering Reels</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-free-wmv-video-trimming-software-top-5-options/"><u>New In 2024, Free WMV Video Trimming Software Top 5 Options</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-15-must-use-gifs-editors/"><u>Updated 15 Must-Use Gifs Editors</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-photoshop-and-beyond-unlocking-visual-potential-with-luts/"><u>[New] Photoshop and Beyond  Unlocking Visual Potential with Luts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-explore-together-a-list-of-engaging-metaverse-games/"><u>[New] Explore Together  A List of Engaging Metaverse Games</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-unmask-tiktok-on-devices-best-watermark-apps-for-iphone-and-android/"><u>2024 Approved  Unmask TikTok on Devices  Best Watermark Apps for iPhone & Android</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Oppo K11x? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-cloud-stop-motion-software-guidelines-and-alternatives/"><u>New In 2024, Cloud Stop Motion Software Guidelines and Alternatives</u></a></li>
+</ul></div>

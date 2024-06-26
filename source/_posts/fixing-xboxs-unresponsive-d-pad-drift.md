@@ -1,7 +1,7 @@
 ---
 title: Fixing Xbox's Unresponsive D-Pad Drift
-date: 2024-06-25T10:41:17.260Z
-updated: 2024-06-26T10:41:17.260Z
+date: 2024-06-25T12:48:36.117Z
+updated: 2024-06-26T12:48:36.117Z
 tags:
   - games
 categories:
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/ff0b61be790a55820d60db4c7ad60b6e5b6b95574
 
  With your Xbox controller reconnected you have successfully reset your Xbox Wireless Controller. However, this method of troubleshooting only really tells you if the stick drift issue is a temporary problem caused by a system error.
 
- If your stick drift issues continue, a larger software fault could be to blame, and you may need to[reset your Xbox console](https://www.makeuseof.com/tag/reset-xbox-one-xbox-360/) . But before doing something that drastic, it's worthwhile attempting to physically fix the stick drift issues with your Xbox Wireless Controller.
+ If your stick drift issues continue, a larger software fault could be to blame, and you may need to [reset your Xbox console](https://www.makeuseof.com/tag/reset-xbox-one-xbox-360/) . But before doing something that drastic, it's worthwhile attempting to physically fix the stick drift issues with your Xbox Wireless Controller.
 
 ## How to Physically Repair Xbox Wireless Controller Stick Drift
 
@@ -91,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/ff0b61be790a55820d60db4c7ad60b6e5b6b95574
 
  Now the internal parts of your Xbox Wireless Controller are accessible, you should be able to see whether there are any blockages interfering with the analog stick mechanism. If you want to replace the sticks altogether, simply pull each plastic cover off and replace them with your new analog sticks.
 
- You can also take the opportunity to[clean your Xbox Wireless Controller](https://www.makeuseof.com/how-to-clean-xbox-one-controller/) . After all, a clean and well-maintained controller is less likely to develop faults in the first place and the internal parts are a nightmare for gathering dust and muck.
+ You can also take the opportunity to [clean your Xbox Wireless Controller](https://www.makeuseof.com/how-to-clean-xbox-one-controller/) . After all, a clean and well-maintained controller is less likely to develop faults in the first place and the internal parts are a nightmare for gathering dust and muck.
 
 ## Keep Your Xbox One and Xbox Series X|S Controllers Healthy
 

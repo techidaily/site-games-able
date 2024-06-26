@@ -1,7 +1,7 @@
 ---
 title: Change Your Gaming Console's Lookup
-date: 2024-06-25T10:46:26.774Z
-updated: 2024-06-26T10:46:26.774Z
+date: 2024-06-25T12:48:39.371Z
+updated: 2024-06-26T12:48:39.371Z
 tags:
   - games
 categories:
@@ -28,11 +28,9 @@ thumbnail: https://thmb.techidaily.com/4552dd09d3248cdc2d2f0b5a8866485e28d07f676
 
  Console owners often enjoy making their user interface unique with custom themes and backgrounds. But can you change your background or theme on the PS5?
 
-## Can You Change Your PS5 Background? The Options Explained
+## Can You Change Your PS5 Background? The Options Explained ![background on ps5 with baldurs gate 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/background-on-ps5.jpg)
 
-![background on ps5 with baldurs gate 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/background-on-ps5.jpg)
-
- While you can[change the background wallpaper on your PS4](https://www.makeuseof.com/how-to-change-ps4-wallpaper/) , the background on your PS5 depends on what game or menu icon you have selected. These automatic backgrounds can't be changed and will alternate according to which menu item you have selected.
+ While you can [change the background wallpaper on your PS4](https://www.makeuseof.com/how-to-change-ps4-wallpaper/) , the background on your PS5 depends on what game or menu icon you have selected. These automatic backgrounds can't be changed and will alternate according to which menu item you have selected.
 
 ![media gallery selected on ps5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/media-gallery-selected-on-ps5.jpg)
 
@@ -76,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/4552dd09d3248cdc2d2f0b5a8866485e28d07f676
 
  Once you have changed your background to your liking, select**Done** .
 
- If you want to customize your profile further, such as[changing your PS5 profile avatar](https://www.makeuseof.com/how-to-change-ps5-profile-picture-avatar-cover-image/) , you can go back to the edit menu and select**Profile Picture** . There you can choose to use a pre-made avatar or upload a profile picture through the PS App.
+ If you want to customize your profile further, such as [changing your PS5 profile avatar](https://www.makeuseof.com/how-to-change-ps5-profile-picture-avatar-cover-image/) , you can go back to the edit menu and select**Profile Picture** . There you can choose to use a pre-made avatar or upload a profile picture through the PS App.
 
  If you select the Avatar option in the edit menu, you can choose between several avatars that you receive from your games, as well as some default avatars from Sony.
 

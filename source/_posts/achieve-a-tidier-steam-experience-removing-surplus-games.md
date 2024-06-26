@@ -1,7 +1,7 @@
 ---
 title: "Achieve a Tidier Steam Experience: Removing Surplus Games"
-date: 2024-06-25T10:38:32.710Z
-updated: 2024-06-26T10:38:32.710Z
+date: 2024-06-25T12:48:34.331Z
+updated: 2024-06-26T12:48:34.331Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/59ebf54bbd2728b1cee67f80e126289c9f6737977
 
 ## How to Remove a Game From Your Steam Library
 
- Before removing a game, check if you can[get a refund from Steam](https://www.makeuseof.com/how-to-refund-a-game-on-steam/) . You can get a refund if you've played the game for less than two hours and no more than two weeks have passed since the purchase. But if this is not the case, here's how to remove the game from your Steam library.
+ Before removing a game, check if you can [get a refund from Steam](https://www.makeuseof.com/how-to-refund-a-game-on-steam/) . You can get a refund if you've played the game for less than two hours and no more than two weeks have passed since the purchase. But if this is not the case, here's how to remove the game from your Steam library.
 
  First, you should uninstall the game using the Steam app. Otherwise, you'll have to manually uninstall it from your computer once you remove it from your Steam account.
 
@@ -77,9 +77,9 @@ Here’s how you can share your Steam games:
 
 ## Can You Sell Your Steam Games?
 
- Unfortunately, Steam doesn’t allow you to sell games from your library. So, the next time you have to choose between[physical games or digital games](https://www.makeuseof.com/physical-games-vs-digital-games-best-to-buy/) , the first option might be better, if you've got a physical edition of a PC game that you can sell (i.e one without a unique, one-time download code). At least, there’s no one stopping you from selling the games you’re no longer playing.
+ Unfortunately, Steam doesn’t allow you to sell games from your library. So, the next time you have to choose between [physical games or digital games](https://www.makeuseof.com/physical-games-vs-digital-games-best-to-buy/) , the first option might be better, if you've got a physical edition of a PC game that you can sell (i.e one without a unique, one-time download code). At least, there’s no one stopping you from selling the games you’re no longer playing.
 
- However, you can still get some of your money back for your Steam games. On the[Steam Community Market](https://www.makeuseof.com/beginners-guide-to-the-steam-community-market/) , you can sell in-game items such as inventory pieces, trading cards, profile wallpapers, and so on. The rarer an item is, the more money you can get for it.
+ However, you can still get some of your money back for your Steam games. On the [Steam Community Market](https://www.makeuseof.com/beginners-guide-to-the-steam-community-market/) , you can sell in-game items such as inventory pieces, trading cards, profile wallpapers, and so on. The rarer an item is, the more money you can get for it.
 
  However, you should know that you can only spend the earned money to buy Steam games or other items from the marketplace.
 

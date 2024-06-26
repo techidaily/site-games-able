@@ -1,7 +1,7 @@
 ---
 title: Embrace the Power of Both Windows and SteamOS On Your Deck
-date: 2024-06-21 23:46:50
-updated: 2024-06-24 11:37:50
+date: 2024-06-25T13:27:22.857Z
+updated: 2024-06-26T13:27:22.857Z
 tags:
   - games
 categories:
@@ -120,9 +120,7 @@ Jhet Borja/MUO
 2. git clone <https://github.com/ryanrudolfoba/SteamDeck-Clover-dualboot>
 3. cd ~/SteamDeck-Clover-dualboot
 4. chmod +x install-Clover.sh
-5. ./install-Clover.sh
-
-![Clover successfully installed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/clover-successfully-installed.jpg)
+5. ./install-Clover.sh ![Clover successfully installed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/clover-successfully-installed.jpg)
 
  After the last command, you’ll have to enter your sudo password to start installing Clover on your Steam Deck.
 
@@ -138,9 +136,7 @@ Jhet Borja / MakeUseOf
 
  The Clover dual boot manager isn’t an official Steam dual boot wizard as Valve is still working on that. This means you might face a few issues. Here are a few fixes in case you run into these problems...
 
-### 1\. You Can’t Find SteamOS in the Boot Manager
-
-![No SteamOS option in boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/no-steamos-option-in-boot-manager.JPG)
+### 1\. You Can’t Find SteamOS in the Boot Manager ![No SteamOS option in boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/no-steamos-option-in-boot-manager.JPG)
 
 Jhet Borja/MUO
 
@@ -158,15 +154,11 @@ Jhet Borja/MakeUseOf
 
  To put SteamOS back on the boot manager, open up Konsole in desktop mode on your Steam Deck and enter this:
 
-sudo efibootmgr -c -L "SteamOS" -l "\EFI\steamos\steamcl.efi" -d /dev/nvme0n1p1
-
-![Konsole command to make SteamOS appear in boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/konsole-command-to-make-steamos-appear-in-boot-manager.JPG)
+sudo efibootmgr -c -L "SteamOS" -l "\EFI\steamos\steamcl.efi" -d /dev/nvme0n1p1 ![Konsole command to make SteamOS appear in boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/konsole-command-to-make-steamos-appear-in-boot-manager.JPG)
 
  This should put it back on the boot manager so that you don’t have to boot from the file anymore.
 
-### 2\. Setting a Sudo Password
-
-![Steam Deck user password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/steam-deck-user-password.jpg)
+### 2\. Setting a Sudo Password ![Steam Deck user password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/steam-deck-user-password.jpg)
 
  To set your sudo password, open desktop mode and head to **Settings** in the app manager or on the task manager at the bottom of your screen.
 
@@ -231,3 +223,27 @@ Jhet Borja/MakeUseOf
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/whats-the-best-gaming-audio-a-guide-to-iems/"><u>What's the Best Gaming Audio? A Guide to IEMs</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-remote-access-to-your-games-on-an-alternate-drive/"><u>Seamless Remote Access to Your Games on an Alternate Drive</u></a></li>
+<li><a href="https://games-able.techidaily.com/directx-progress-xna-series-edition/"><u>DirectX Progress: XNA Series Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-time-silence-concealing-your-gaming-discourse/"><u>Game-Time Silence: Concealing Your Gaming Discourse</u></a></li>
+<li><a href="https://games-able.techidaily.com/intel-stream-assist-unraveled-a-game-changer-in-streaming/"><u>Intel Stream Assist Unraveled: A Game-Changer in Streaming?</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfect-pitch-turn-off-series-s-shakes/"><u>Perfect Pitch: Turn Off Series S Shakes</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-iems-for-ultimate-gameplay-immersion/"><u>Exploring IEMs for Ultimate Gameplay Immersion</u></a></li>
+<li><a href="https://games-able.techidaily.com/sailing-down-memory-lane-with-pokemon-apps/"><u>Sailing Down Memory Lane with Pokémon Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/dispelling-the-incompatibility-with-steam-files/"><u>Dispelling the Incompatibility with Steam Files</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-gaming-written-by-katherine/"><u>Unleash Gaming' Written by Katherine</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveil-the-finest-vr-cycling-worlds/"><u>[Updated] Unveil the Finest VR Cycling Worlds</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/10-facebook-jail-secrets-to-avoid-being-blocked-get-out-of-it/"><u>10 Facebook Jail Secrets to Avoid Being Blocked / Get Out of It</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-rethink-your-youtube-videos-with-these-non-youtube-edits/"><u>In 2024, Rethink Your YouTube Videos with These Non-Youtube Edits</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Vivo T2 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-cost-efficient-pc-video-harvesters/"><u>[New] 2024 Approved  Cost-Efficient PC Video Harvesters</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-essential-no-cost-software-compilation-for-high-quality-discord-audio-capture/"><u>[New] In 2024, Essential, No-Cost Software Compilation for High-Quality Discord Audio Capture</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/discover-the-leading-free-naming-resources-11-must-have-makers/"><u>Discover the Leading Free Naming Resources - 11 Must-Have Makers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-ultimate-game-capture-kit-tools-and-methodologies/"><u>[New] The Ultimate Game Capture Kit  Tools and Methodologies</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-instagrams-backward-video-display-an-insight/"><u>[Updated] Instagram's Backward Video Display  An Insight</u></a></li>
+</ul></div>

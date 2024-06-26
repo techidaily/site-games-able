@@ -1,7 +1,7 @@
 ---
 title: "Deciphering AMD’s RDNA 3.5: Tech Details and Launch Estimates"
-date: 2024-06-20 18:12:35
-updated: 2024-06-23 11:50:11
+date: 2024-06-25T13:34:36.152Z
+updated: 2024-06-26T13:34:36.152Z
 tags:
   - games
 categories:
@@ -26,13 +26,13 @@ thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594
 
 ## What Is AMD RDNA 3.5?
 
- While AMD has been tight-lipped about the specifics, RDNA 3.5 is its new GPU architecture that's somewhere between[RDNA 3, AMD's Ada Lovelace competitor,](https://www.makeuseof.com/what-is-rdna-3/) and the upcoming RDNA 4\. It'll most likely be used as an integrated GPU (iGPU) solution for mobile APUs for handhelds and laptops.[Accelerated Processing Units combine a CPU and GPU](https://www.makeuseof.com/tag/what-is-the-difference-between-an-apu-a-cpu-and-a-gpu-makeuseof-explains/) into a single chip for efficiency and to deliver other benefits.
+ While AMD has been tight-lipped about the specifics, RDNA 3.5 is its new GPU architecture that's somewhere between [RDNA 3, AMD's Ada Lovelace competitor,](https://www.makeuseof.com/what-is-rdna-3/) and the upcoming RDNA 4\. It'll most likely be used as an integrated GPU (iGPU) solution for mobile APUs for handhelds and laptops.[Accelerated Processing Units combine a CPU and GPU](https://www.makeuseof.com/tag/what-is-the-difference-between-an-apu-a-cpu-and-a-gpu-makeuseof-explains/) into a single chip for efficiency and to deliver other benefits.
 
 ![AMD Radeon RX 7900 XTX](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rx-7900-xtx.jpg)
 
  Image Credit:[AMD](https://www.youtube.com/watch?v=XAGFS8d%5FqLw)
 
- These next-generation chips will be based on AMD's upcoming Zen 5 architecture (expected in 2024), built on a 4nm process with performance and efficiency cores set up very similar to Intel's design. We might also see updates to AMD's software stack, most notably to[FSR 3, AMD's equivalent of DLSS 3.5](https://www.makeuseof.com/amd-announces-fsr-3-but-will-it-compete-with-dlss-35/) .
+ These next-generation chips will be based on AMD's upcoming Zen 5 architecture (expected in 2024), built on a 4nm process with performance and efficiency cores set up very similar to Intel's design. We might also see updates to AMD's software stack, most notably to [FSR 3, AMD's equivalent of DLSS 3.5](https://www.makeuseof.com/amd-announces-fsr-3-but-will-it-compete-with-dlss-35/) .
 
  All the information available about RDNA 3.5 suggests that it's AMD's answer to modern dedicated mobile GPUs. Whether we'll see a standalone GPU with RDNA 3.5 architecture also remains a mystery. That said, if AMD decides to refresh RDNA 3 before RDNA 4 launches, it might be based on RDNA 3.5, so the possibility of a standalone GPU isn't completely out of the water.
 
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594
 
  With the limited information available, it's hard to tell how much of a lead RDNA 3.5 will be over previous RDNA generations, namely RDNA 3 and 2\. However, we can take a look at the CPUs and APUs that RDNA 3.5 will be launching with to get an idea of how it'll perform.
 
- An HWiNFO screenshot posted on[Performance Databases](https://performancedatabases.com/Content/Leak/Details/2023-09-01/Content.php) details a Ryzen 8000 series APU with 16 RDNA 3.5 GPU cores and 12 Zen 5 CPU cores in a mixed configuration. Other features include the average processor clock speed of 2.12 GHz in addition to 32GB of LPDDR4 6400 MHz RAM and a TDP of 45W.
+ An HWiNFO screenshot posted on [Performance Databases](https://performancedatabases.com/Content/Leak/Details/2023-09-01/Content.php) details a Ryzen 8000 series APU with 16 RDNA 3.5 GPU cores and 12 Zen 5 CPU cores in a mixed configuration. Other features include the average processor clock speed of 2.12 GHz in addition to 32GB of LPDDR4 6400 MHz RAM and a TDP of 45W.
 
 ![HWiNFO screenshot showing Ryzen 8000 CPU specs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/rdna3-5-screenshot.jpg)
 
@@ -75,3 +75,27 @@ thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/unseen-games-evasive-steam-practices/"><u>Unseen Games: Evasive Steam Practices</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-tech-game-4-key-advantages-of-corsair-icue-link/"><u>Elevate Your Tech Game - 4 Key Advantages of Corsair iCUE Link</u></a></li>
+<li><a href="https://games-able.techidaily.com/supercharge-your-console-with-3-innovative-strategies/"><u>Supercharge Your Console with 3 Innovative Strategies</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-playstation-to-pc-mastering-controller-commands/"><u>From PlayStation to PC: Mastering Controller Commands</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-your-virtual-reality-gaming-experience-steam-and-meta-quest/"><u>Enhancing Your Virtual Reality Gaming Experience - Steam & Meta Quest</u></a></li>
+<li><a href="https://games-able.techidaily.com/remedying-launcher-malfunction-in-mc-with-code-0x803f8001/"><u>Remedying Launcher Malfunction in MC with Code 0X803F8001</u></a></li>
+<li><a href="https://games-able.techidaily.com/sonys-playstation-5-triumphs-over-microsofts-xbox-sx/"><u>Sony's PlayStation 5 Triumphs Over Microsoft's Xbox SX?</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridge-between-smartphones-and-pc-google-play-games-explained/"><u>Bridge Between Smartphones and PC: Google Play Games Explained</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-check-your-fps-in-games-on-android-2-methods/"><u>How to Check Your FPS in Games on Android: 2 Methods</u></a></li>
+<li><a href="https://games-able.techidaily.com/linkedin-has-added-games-but-heres-why-you-shouldnt-play-them/"><u>LinkedIn Has Added Games, but Here's Why You Shouldn't Play Them</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/create-harmonious-hits-a-step-by-step-guide-to-making-youtube-playlists-online-and-app-for-2024/"><u>Create Harmonious Hits  A Step-by-Step Guide to Making YouTube Playlists Online & App for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-refine-and-revamp-your-videos-using-youtube-studio-tools/"><u>2024 Approved  Refine and Revamp Your Videos Using YouTube Studio Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-free-photo-manipulation-software-top-picks/"><u>2024 Approved  Free Photo Manipulation Software  Top Picks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-live-stream-via-network-in-vlc/"><u>Step-by-Step  Live Stream via Network in VLC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-new-realms-best-iphoneandroid-vr-games/"><u>[Updated] Explore New Realms  Best iPhone/Android VR Games</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-crafting-memorable-content-on-snapchat-top-tips/"><u>[New] Crafting Memorable Content on Snapchat (Top Tips)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-insider-guide-to-listening-to-podcasts-on-your-iphone/"><u>2024 Approved  The Insider Guide to Listening to Podcasts on Your iPhone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-guide-for-aspiring-movie-makers-beyond-youtube/"><u>2024 Approved  The Ultimate Guide for Aspiring Movie Makers, Beyond YouTube</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-unlock-expertise-perfectly-executing-screen-sharing-on-discord/"><u>[Updated] Unlock Expertise  Perfectly Executing Screen Sharing on Discord</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-art-of-auditory-transformation-replacing-audio-in-videos-step-by-step/"><u>New The Art of Auditory Transformation Replacing Audio in Videos Step by Step</u></a></li>
+</ul></div>

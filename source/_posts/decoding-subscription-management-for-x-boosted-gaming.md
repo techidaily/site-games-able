@@ -1,7 +1,7 @@
 ---
 title: Decoding Subscription Management for X Boosted Gaming
-date: 2024-06-25T10:41:12.420Z
-updated: 2024-06-26T10:41:12.420Z
+date: 2024-06-25T12:48:36.064Z
+updated: 2024-06-26T12:48:36.064Z
 tags:
   - games
 categories:
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/200bad50912773155a76642b85b00bc52b52d7ab3
 
  If you need to manage your subscriptions outside the available features of the**Subscriptions** settings, or if you want to join a new subscription, you may need to use an alternative way to manage subscriptions.
 
- Luckily, just like how you can[cancel your Xbox Game Pass subscription](https://www.makeuseof.com/how-to-cancel-your-xbox-game-pass-subscription/) online or from your console, you can do the same with all other Xbox subscriptions.
+ Luckily, just like how you can [cancel your Xbox Game Pass subscription](https://www.makeuseof.com/how-to-cancel-your-xbox-game-pass-subscription/) online or from your console, you can do the same with all other Xbox subscriptions.
 
 ## How to Add and Remove Subscriptions on Your Xbox Series X|S
 

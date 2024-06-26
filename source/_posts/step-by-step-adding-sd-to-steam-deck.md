@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Adding SD to Steam Deck"
-date: 2024-06-22 20:55:27
-updated: 2024-06-23 11:17:18
+date: 2024-06-25T13:12:24.769Z
+updated: 2024-06-26T13:12:24.769Z
 tags:
   - games
 categories:
@@ -38,9 +38,7 @@ thumbnail: https://thmb.techidaily.com/3c3e9aebd6b49c0af91473b8783124a08a04e227f
 
  We have a great selection of [the best microSD cards for the Steam Deck](https://www.makeuseof.com/best-microsd-cards-steam-deck/) if you haven't selected one already.
 
-## How to Format Your SD Card for the Steam Deck
-
-![screenshot of the steam deck settings menu showing an option to format the SD card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_steam_deck_sd_format_option.jpg)
+## How to Format Your SD Card for the Steam Deck ![screenshot of the steam deck settings menu showing an option to format the SD card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_steam_deck_sd_format_option.jpg)
 
  The Steam Deck uses a specific format, so a full wipe of your SD card is required when adding extra storage to the device.
 
@@ -52,9 +50,7 @@ thumbnail: https://thmb.techidaily.com/3c3e9aebd6b49c0af91473b8783124a08a04e227f
 
  When the Steam Deck is done, your SD card will no longer be readable by Windows or Mac devices.
 
-## How to Install and Move Games to Your Steam Deck's SD Card
-
-![screenshot of the games options menu on the steam deck showing a game installed on an SD card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_steam_deck_game_options_sd_card.jpg)
+## How to Install and Move Games to Your Steam Deck's SD Card ![screenshot of the games options menu on the steam deck showing a game installed on an SD card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_steam_deck_game_options_sd_card.jpg)
 
  With an SD card installed, you can choose to install a game directly onto your SD card or move an already installed game manually by opening its **Properties** and clicking on **Installed Files.**
 
@@ -91,3 +87,27 @@ run/media/mmcblk0p1
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/navigating-high-speed-seas-handheld-grip-or-finger-tap/"><u>Navigating High-Speed Seas: Handheld Grip or Finger Tap?</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-smooth-transitions-in-games-through-nvidia-g-sync/"><u>Exploring Smooth Transitions in Games Through Nvidia G-Sync</u></a></li>
+<li><a href="https://games-able.techidaily.com/erasing-previous-save-files-on-ps5-a-step-by-step-guide/"><u>Erasing Previous Save Files on PS5: A Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/chatgpt-and-dungeons-6-secrets-to-perfect-assistantship/"><u>ChatGPT & Dungeons: 6 Secrets to Perfect Assistantship</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-gamers-assortment-of-high-refresh-rate-panels/"><u>Elite Gamers’ Assortment of High-Refresh Rate Panels</u></a></li>
+<li><a href="https://games-able.techidaily.com/moza-r5-unlocking-the-future-of-simulated-driving/"><u>MOZA R5: Unlocking the Future of Simulated Driving</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridging-the-gap-how-ps4-works-with-personal-computers/"><u>Bridging the Gap: How PS4 Works with Personal Computers</u></a></li>
+<li><a href="https://games-able.techidaily.com/managing-roblox-data-consumption-on-iphones/"><u>Managing Roblox Data Consumption on iPhones</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-insights-choosing-the-right-joystick/"><u>Expert Insights: Choosing the Right Joystick</u></a></li>
+<li><a href="https://games-able.techidaily.com/safe-operating-zones-navigating-gpu-temps/"><u>Safe Operating Zones: Navigating GPU Temps</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-curated-selection-of-platforms-offering-no-cost-ending-music-pieces-no-intellectual-property-rights-for-2024/"><u>New Curated Selection of Platforms Offering No-Cost Ending Music Pieces No Intellectual Property Rights for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-elevate-your-profile-cool-discord-monikers-ranked/"><u>[New] Elevate Your Profile  Cool Discord Monikers Ranked</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-explore-the-advanced-tools-to-help-you-reshape-the-art-of-sky-replacement-in-digital-imagery-discover-methods-to-enhance-your-visual-narrati/"><u>Updated In 2024, Explore the Advanced Tools to Help You Reshape the Art of Sky Replacement in Digital Imagery. Discover Methods to Enhance Your Visual Narratives Through AI</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changefake-your-xiaomi-13t-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Xiaomi 13T Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-10-free-video-editing-software-for-windows-10-trim-cut-and-more-for-2024/"><u>New 10 Free Video Editing Software for Windows 10 Trim, Cut, and More for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-harnessing-google-trends-for-video-concept-generation/"><u>2024 Approved  Harnessing Google Trends for Video Concept Generation</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-brand-protection-effective-techniques-for-instagram-watermarks/"><u>[New] In 2024, Brand Protection  Effective Techniques for Instagram Watermarks</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/eight-free-android-recorders-top-selection-list/"><u>Eight Free Android Recorders – Top Selection List</u></a></li>
+<li><a href="https://extra-support.techidaily.com/smartphone-face-makeovers-iosandroid-edition-for-2024/"><u>Smartphone Face Makeovers  IOS/Android Edition for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/5-tried-and-true-methods-to-gif-making/"><u>5 Tried-And-True Methods to GIF Making</u></a></li>
+</ul></div>

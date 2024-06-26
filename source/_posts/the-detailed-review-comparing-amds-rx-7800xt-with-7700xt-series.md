@@ -1,7 +1,7 @@
 ---
 title: "The Detailed Review: Comparing AMD's RX 7800XT with 7700XT Series"
-date: 2024-06-23 21:57:33
-updated: 2024-06-24 11:44:55
+date: 2024-06-25T13:34:07.553Z
+updated: 2024-06-26T13:34:07.553Z
 tags:
   - games
 categories:
@@ -28,13 +28,13 @@ thumbnail: https://thmb.techidaily.com/57a07625ab9c873f1b8816cfe4ef02cf1a6f9bda4
 
  For starters, both the Radeon RX 7800 XT and RX 7700 XT are built around AMD's brand-new Navi 32 GPU die, which adopts a chiplet-based design to reduce manufacturing costs and facilitate production. Like before, the central section of this GPU features a relatively smaller GCD (Graphics Compute Die) than Navi 31 (fabricated on TSMC's N5 process), flanked by four MCDs (Memory Complex Die) utilizing an older yet efficient N6 technology.
 
- Consequently, AMD's Radeon RX 7800 XT and RX 7700 XT share a similar configuration with the flagship RX 7900 Series (we've previously compared[RX 7900 XTX vs. RX 7900 XT](https://www.makeuseof.com/amd-radeon-rx-7900-xtx-vs-rx-7900-xt-comparison/) ), as opposed to the[budget-oriented RX 7600](https://www.makeuseof.com/amd-launches-radeon-rx-7600-what-to-expect/) , which employs a monolithic Navi 33 die. On paper, the RX 7800 XT benefits from a fully unlocked Navi 32 GPU, incorporating 60 CUs (or 3,840 Stream Processors), 120 AI accelerators, 64MB of Infinity Cache, and 16GB of GDDR6 memory (clocked at 19.5Gbps) over a 256-bit memory bus.
+ Consequently, AMD's Radeon RX 7800 XT and RX 7700 XT share a similar configuration with the flagship RX 7900 Series (we've previously compared [RX 7900 XTX vs. RX 7900 XT](https://www.makeuseof.com/amd-radeon-rx-7900-xtx-vs-rx-7900-xt-comparison/) ), as opposed to the [budget-oriented RX 7600](https://www.makeuseof.com/amd-launches-radeon-rx-7600-what-to-expect/) , which employs a monolithic Navi 33 die. On paper, the RX 7800 XT benefits from a fully unlocked Navi 32 GPU, incorporating 60 CUs (or 3,840 Stream Processors), 120 AI accelerators, 64MB of Infinity Cache, and 16GB of GDDR6 memory (clocked at 19.5Gbps) over a 256-bit memory bus.
 
  Meanwhile, the RX 7700 XT uses a cut-down version of the same GPU die with three active MCDs, housing 54 CUs (or 3,456 cores), 108 AI accelerators, 48MB of Infinity Cache, and 12GB of GDDR6 memory (on a narrower 192-bit memory bus) clocked at around 18Gbps. Owing to these adjustments, the RX 7700 XT prioritizes slightly higher clock speeds than the RX 7800 XT, registering an average Game Clock of 2,171MHz and a maximum Boost Clock of 2,544MHz.
 
  Regarding power consumption, both GPUs from AMD remain comparable across the board, with the RX 7700 XT officially rated at 245W, whilst the RX 7800 XT exhibits a marginal increase in its TBP of about 18W. Despite the RDNA 3 microarchitecture's generational improvement, Team Red's upcoming duo still suffers from an inferior power profile compared to Nvidia's AD104 and AD106 silicon.
 
- Aside from the differences in compute performance, memory subsystem, power consumption, and core frequencies, the Radeon RX 7800 XT and RX 7700 XT take advantage of all the latest and greatest features associated with the RDNA 3 microarchitecture. Both variants offer native support for the new[DisplayPort 2.1 standard](https://www.makeuseof.com/everything-you-need-to-know-displayport-21/) , AV1 encoding and decoding, along with other proprietary technologies from Team Red, including Radeon Super Resolution, Radeon Anti-Lag, and many more.
+ Aside from the differences in compute performance, memory subsystem, power consumption, and core frequencies, the Radeon RX 7800 XT and RX 7700 XT take advantage of all the latest and greatest features associated with the RDNA 3 microarchitecture. Both variants offer native support for the new [DisplayPort 2.1 standard](https://www.makeuseof.com/everything-you-need-to-know-displayport-21/) , AV1 encoding and decoding, along with other proprietary technologies from Team Red, including Radeon Super Resolution, Radeon Anti-Lag, and many more.
 
  Moving on to the connectivity front, AMD's port configuration for the RX 7800 XT and RX 7700 XT misses out on the highly convenient USB-C Virtual Link connector, as seen previously in the RX 7900 Series. While providing a maximum of four video outputs, the upcoming models will include three DisplayPort 2.1 UHBR13.5 ports (at data rates up to 54Gbps) alongside a single HDMI 2.1 connector.
 
@@ -108,3 +108,27 @@ thumbnail: https://thmb.techidaily.com/57a07625ab9c873f1b8816cfe4ef02cf1a6f9bda4
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/quickly-reactivate-steam-alternative-approaches/"><u>Quickly Reactivate Steam: Alternative Approaches</u></a></li>
+<li><a href="https://games-able.techidaily.com/excellent-gamer-tracking-apps-review/"><u>Excellent Gamer Tracking Apps Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/accessing-classic-game-images-in-windows-11-pics-space/"><u>Accessing Classic Game Images in Windows 11 Pics Space</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-picks-for-mobile-mmo-enthusiasts-unveiled/"><u>Top Picks for Mobile MMO Enthusiasts Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/system-optimization-how-to-decrease-steams-ram-consumption/"><u>System Optimization: How to Decrease Steam's RAM Consumption</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-performance-for-gamers-with-pdw4/"><u>Ultimate Performance for Gamers with PDW4</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-stakes-for-virtual-worlds-four-driving-cost-factors/"><u>High Stakes for Virtual Worlds: Four Driving Cost Factors</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-superior-joy-cons-the-ultimate-guide-to-2024/"><u>Unleashing Superior Joy-Cons: The Ultimate Guide to 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-5-web-exclusive-tactical-quests/"><u>Top 5 Web-Exclusive Tactical Quests</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-pathway-to-pristine-gameplay-with-your-xbox-series-xs-high-res-mode/"><u>The Pathway to Pristine Gameplay with Your Xbox Series X's High Res Mode</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-free-online-music-archives-copyright-free-gaming-tunes/"><u>In 2024, Free Online Music Archives (Copyright-Free Gaming Tunes)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-2-methods-to-add-effects-on-tiktok/"><u>[New] 2 Methods To Add Effects On TikTok</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-filmoras-peer-level-alternatives-the-top-10-background-changers/"><u>In 2024, Filmora's Peer-Level Alternatives  The Top 10 Background Changers</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-20-wonderful-stop-motion-ideas-for-beginners-and-kids-for-2024/"><u>Updated 20 Wonderful Stop Motion Ideas for Beginners and Kids for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-art-of-aural-storytelling-on-instagram-reels/"><u>[Updated] In 2024, The Art of Aural Storytelling on Instagram Reels</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-honor-magic-vs-2-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Honor Magic Vs 2 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/resolve-your-apple-iphone-x-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your Apple iPhone X Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-on-your-apple-iphone-15-pro-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID On Your Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harmonizing-hit-hits-building-the-perfect-youtube-soundtrack/"><u>[New] In 2024, Harmonizing Hit Hits  Building the Perfect YouTube Soundtrack</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-tailor-your-vocal-expression-masterful-techniques-for-snapchat-voices/"><u>[New] In 2024, Tailor Your Vocal Expression  Masterful Techniques for Snapchat Voices</u></a></li>
+</ul></div>

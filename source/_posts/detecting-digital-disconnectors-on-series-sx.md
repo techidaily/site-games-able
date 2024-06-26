@@ -1,7 +1,7 @@
 ---
 title: Detecting Digital Disconnectors on Series S/X
-date: 2024-06-23 13:17:23
-updated: 2024-06-24 10:16:20
+date: 2024-06-25T13:17:23.016Z
+updated: 2024-06-26T13:17:23.016Z
 tags:
   - games
 categories:
@@ -69,13 +69,13 @@ thumbnail: https://thmb.techidaily.com/7104eb033fbf632865800cb348d315fa27012665c
 
  From here, you should be able to see your friend's most recently unlocked Achievement and how long ago it was unlocked. You know your friend is appearing offline if they are offline but have unlocked Achievements recently.
 
- Alternatively, you can[compare gaming statistics with a friend on your Xbox Series X|S](https://www.makeuseof.com/xbox-how-to-compare-gaming-stats-with-friends/) to provide direct Achievement comparisons with the games you have been playing.
+ Alternatively, you can [compare gaming statistics with a friend on your Xbox Series X|S](https://www.makeuseof.com/xbox-how-to-compare-gaming-stats-with-friends/) to provide direct Achievement comparisons with the games you have been playing.
 
 ## 4\. Use the Time Played Feature for Specific Xbox Games
 
  A final way you can tell if one of your Xbox friends is appearing offline is by checking a friend's**Time played** statistic in a specific Xbox game.
 
- Because Xbox allows you to[check the time played for any Xbox Series X|S game](https://www.makeuseof.com/how-to-check-time-played-on-xbox-series-xs/) , if you have a game you know the offline person has been playing, you can tell in real-time if they are playing a game despite being offline. To do this, follow these steps:
+ Because Xbox allows you to [check the time played for any Xbox Series X|S game](https://www.makeuseof.com/how-to-check-time-played-on-xbox-series-xs/) , if you have a game you know the offline person has been playing, you can tell in real-time if they are playing a game despite being offline. To do this, follow these steps:
 
 * Press the**Xbox button** to open the Guide menu on your Xbox.
 * Highlight the options for**People** and select**Friends** .
@@ -111,3 +111,24 @@ thumbnail: https://thmb.techidaily.com/7104eb033fbf632865800cb348d315fa27012665c
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/break-free-from-consoles-with-pc-advantages/"><u>Break Free From Consoles with PC Advantages</u></a></li>
+<li><a href="https://games-able.techidaily.com/redefine-chess-fun-explore-these-6-novel-online-variants/"><u>Redefine Chess Fun: Explore These 6 Novel Online Variants</u></a></li>
+<li><a href="https://games-able.techidaily.com/old-systems-new-strength-atlasos-power-up/"><u>Old Systems, New Strength: AtlasOS Power-Up</u></a></li>
+<li><a href="https://games-able.techidaily.com/chatgpt-and-dungeons-6-secrets-to-perfect-assistantship/"><u>ChatGPT & Dungeons: 6 Secrets to Perfect Assistantship</u></a></li>
+<li><a href="https://games-able.techidaily.com/4-achievement-hunting-sites-to-improve-your-gamerscore/"><u>4 Achievement Hunting Sites to Improve Your Gamerscore</u></a></li>
+<li><a href="https://games-able.techidaily.com/weighing-mobile-gamings-positive-and-negative-aspects/"><u>Weighing Mobile Gaming's Positive and Negative Aspects</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-16-multiplayer-couch-games-for-next-gen-xbox/"><u>Top 16 Multiplayer Couch Games for Next-Gen Xbox</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-high-refresh-monitor-selection/"><u>Optimal High Refresh Monitor Selection</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-revolutionize-your-animations-for-2024/"><u>Updated Revolutionize Your Animations for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-pinnacle-of-zooid-creations-guide-for-2024/"><u>The Pinnacle of Zooid Creations Guide for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-spectacular-top-liquid-physics-gaming/"><u>[Updated] 2024 Approved  Spectacular Top Liquid Physics Gaming</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-lowering-sounds-on-mac-and-pc-gradually-and-invisibly/"><u>[Updated] Lowering Sounds On Mac & PC Gradually and Invisibly</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/the-strategy-for-flawless-selfies-on-tiktok-repeatedly/"><u>The Strategy for Flawless Selfies on TikTok, Repeatedly</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-enhance-your-facebook-presence-with-clear-hd-vids-for-2024/"><u>[Updated] Enhance Your Facebook Presence with Clear HD Vids for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-how-to-add-audio-to-quicktime-video-files/"><u>Updated In 2024, How to Add Audio to QuickTime Video Files</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-digital-portraits-proven-the-science-of-social-snap-validation-for-2024/"><u>[New] Digital Portraits Proven  The Science of Social Snap Validation for 2024</u></a></li>
+</ul></div>

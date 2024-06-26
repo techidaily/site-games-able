@@ -1,7 +1,7 @@
 ---
 title: "Xbox, Unlock the Past: Seven Iconic Blizzard Games Need You"
-date: 2024-06-23 22:34:29
-updated: 2024-06-24 10:15:47
+date: 2024-06-25T13:04:27.857Z
+updated: 2024-06-26T13:04:27.857Z
 tags:
   - games
 categories:
@@ -24,13 +24,13 @@ thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2
 
  Perhaps it was the shift in focus from guitars to other instruments like drums and microphones. These sorts of controllers were not only expensive but very hard to store. All of a sudden, instead of just needing one life-sized guitar-shaped controller, you needed a whole band set up for the one game.
 
- Guitar Hero is still a staple in many arcades all over the world, however, showing there are still enough people interested in the franchise who would absolutely love to see a modern Guitar Hero in a list of[the best couch co-op Xbox games.](https://www.makeuseof.com/best-couch-co-op-games-for-xbox-series-x-s/)
+ Guitar Hero is still a staple in many arcades all over the world, however, showing there are still enough people interested in the franchise who would absolutely love to see a modern Guitar Hero in a list of [the best couch co-op Xbox games.](https://www.makeuseof.com/best-couch-co-op-games-for-xbox-series-x-s/)
 
 ## 2\. Spyro the Dragon
 
  It’s relatively safe to say that most gamers alive during the golden age of console gaming know Spyro the Dragon. When you think about video games in the 90s, Spyro the Dragon is one of the mascots that immediately springs to mind.
 
- The original Spyro games received a full remaster in 2018 with the Spyro Reignited Trilogy, which sold incredibly well. According to[a PlayStation AU tweet](https://twitter.com/PlayStationAU/status/1065846654467694593) , it was the best-selling PS4 game in Australia during the week of its release.
+ The original Spyro games received a full remaster in 2018 with the Spyro Reignited Trilogy, which sold incredibly well. According to [a PlayStation AU tweet](https://twitter.com/PlayStationAU/status/1065846654467694593) , it was the best-selling PS4 game in Australia during the week of its release.
 
  Crash Bandicoot got a brand-new entry in 2020, and if there was ever a gaming duo that simultaneously took over the market, it was Crash Bandicoot and Spyro the Dragon. So it's only fair to give Spyro a new game too, right?
 
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2
 
 ## 4\. StarCraft
 
- StarCraft is an epic collection of real-time strategy games. RTS as a whole is an underrated genre, so much so that many gamers aren't sure[what an RTS game is](https://www.makeuseof.com/what-are-real-time-strategy-games-rts-games/) in the first place.
+ StarCraft is an epic collection of real-time strategy games. RTS as a whole is an underrated genre, so much so that many gamers aren't sure [what an RTS game is](https://www.makeuseof.com/what-are-real-time-strategy-games-rts-games/) in the first place.
 
  StarCraft’s story and lore are great, and since RTS games haven’t necessarily been flooding the gaming market, it would make for a refreshing change from the FPS and action games that usually fill the shelves of game stores. In saying that, however, an FPS spin-off of StarCraft would be undeniably awesome, and it was on the cards at one point.
 
@@ -91,3 +91,24 @@ thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/dissecting-steam-stats-tracking-gametime-and-accumulated-rewards/"><u>Dissecting Steam Stats: Tracking Gametime & Accumulated Rewards</u></a></li>
+<li><a href="https://games-able.techidaily.com/475plus-ultra-responsive-screen-innocn-39g1r/"><u>$475+ Ultra-Responsive Screen: InnoCN 39G1R</u></a></li>
+<li><a href="https://games-able.techidaily.com/predicting-pc-gamings-leaders-is-it-apple/"><u>Predicting PC Gaming's Leaders – Is It Apple?</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficient-game-file-handling-using-steams-manager/"><u>Efficient Game File Handling Using Steam’s Manager</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-11-gaming-marketplaces-for-game-enthusiasts-on-a-budget/"><u>Top 11 Gaming Marketplaces for Game Enthusiasts on a Budget</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-pc-gaming-setup-with-basilisk-v3-pro/"><u>The Ultimate PC Gaming Setup with Basilisk V3 Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-innovative-ways-to-tailor-the-xbox-game-bar-for-optimal-gaming-on-windows/"><u>5 Innovative Ways to Tailor the Xbox Game Bar for Optimal Gaming on Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/solutions-for-correcting-roblox-error-262/"><u>Solutions for Correcting Roblox Error 262</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-the-ultimate-list-of-premium-android-audioscriptors-to-enhance-your-music/"><u>2024 Approved The Ultimate List of Premium Android Audioscriptors to Enhance Your Music</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/filmora/download/"><u>Filmora - AI Video Editing Software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-13-pro-max-without-apple-password-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 13 Pro Max Without Apple Password? | Stellar</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On OnePlus Ace 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-innovative-screencapping-a-practical-sequential-handbook/"><u>[Updated] In 2024, Innovative Screencapping  A Practical, Sequential Handbook</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-kinemaster-app-for-android-complete-review-2023/"><u>2024 Approved  KineMaster App for Android - Complete Review 2023</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/step-up-your-iphones-selfie-game-with-these-best-free-app-tools-for-2024/"><u>Step-Up Your iPhone's Selfie Game with These Best Free App Tools for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-honor-80-pro-straight-screen-edition-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Honor 80 Pro Straight Screen Edition</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/8-popular-oculus-rift-games/"><u>8 Popular Oculus Rift Games</u></a></li>
+</ul></div>

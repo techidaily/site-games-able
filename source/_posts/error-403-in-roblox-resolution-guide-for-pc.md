@@ -1,7 +1,7 @@
 ---
 title: "Error 403 in Roblox: Resolution Guide for PC"
-date: 2024-06-22 20:49:13
-updated: 2024-06-23 10:14:32
+date: 2024-06-25T13:30:59.140Z
+updated: 2024-06-26T13:30:59.140Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
 
 ## What Is Roblox Error Code 403?
 
- Nowadays, it's almost impossible to find a game without issues, and[Roblox](https://www.makeuseof.com/what-is-roblox-why-is-everyone-talking-about-it/) is no different. The error code 403 is very common in Roblox, and you will see this upon clicking the Play button.
+ Nowadays, it's almost impossible to find a game without issues, and [Roblox](https://www.makeuseof.com/what-is-roblox-why-is-everyone-talking-about-it/) is no different. The error code 403 is very common in Roblox, and you will see this upon clicking the Play button.
 
  Alongside this error code, you will usually get a note saying, "An error was encountered during authentication. Please try again.". This error means that you don't have permission to access the page.
 
@@ -33,11 +33,9 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
 
  Now, let's check out all the working fixes to eliminate the error code and get into gaming again.
 
-## 1\. Check the Roblox Server Status
+## 1\. Check the Roblox Server Status ![Roblox Server status in server page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Roblox-Server-page.jpg)
 
-![Roblox Server status in server page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Roblox-Server-page.jpg)
-
- The first port of call is to visit the[Roblox server status page](https://status.roblox.com/pages/59db90dbcdeb2f04dadcf16d) . Roblox is a multiplayer game; therefore, it's very common for its servers to undergo maintenance now and then.
+ The first port of call is to visit the [Roblox server status page](https://status.roblox.com/pages/59db90dbcdeb2f04dadcf16d) . Roblox is a multiplayer game; therefore, it's very common for its servers to undergo maintenance now and then.
 
  Whenever Roblox servers are under maintenance or facing downtime, you'll encounter various issues, including the one in the discussion. The best thing you can do in this situation is to wait until the servers become operational again.
 
@@ -50,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
  To delete the content of the Roblox cache folder, follow the below instructions:
 
 1. Press the**Win + X** hotkeys to open the**Power menu.**
-2. Choose the**Run** option from the menu list. Alternatively, you can press the**Win + R** hotkeys to[open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
+2. Choose the**Run** option from the menu list. Alternatively, you can press the**Win + R** hotkeys to [open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
 3. In the search bar, type**%localappdata%** and click**OK.** It'll open the**Local** folder, which contains the cache folder of all the installed applications.
 4. Search and open the**Roblox** folder.  
 ![Roblox folder in local folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Roblox-folder.jpg)
@@ -92,15 +90,15 @@ After the scan is complete, check for the issue.
 
 ## 5\. Allow Roblox to Run Through Firewall
 
- Oftentimes, online games like Roblox might fail to work and throw error 403 by facing interuption from Windows Firewall. To fix this issue, you'll have to allow Roblox to run through the Windows Firewall. You can check out how to do that on our guide on[how to allow apps through Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) .
+ Oftentimes, online games like Roblox might fail to work and throw error 403 by facing interuption from Windows Firewall. To fix this issue, you'll have to allow Roblox to run through the Windows Firewall. You can check out how to do that on our guide on [how to allow apps through Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) .
 
  After that, restart your computer and check if the issue presists. If not, try the next solution on the list.
 
 ## 6\. Switch to Google DNS
 
- Your ISP will likely have its own[DNS server](https://www.makeuseof.com/tag/what-is-dns-server/) , but probably it isn't the most stable option available. In this case, you can switch to a DNS provider.
+ Your ISP will likely have its own [DNS server](https://www.makeuseof.com/tag/what-is-dns-server/) , but probably it isn't the most stable option available. In this case, you can switch to a DNS provider.
 
- While there are plenty of[great DNS service providers for added safety](https://www.makeuseof.com/tag/best-dns-providers-security/) , Google DNS is considered the fastest among all. To switch to Google DNS, follow the below steps:
+ While there are plenty of [great DNS service providers for added safety](https://www.makeuseof.com/tag/best-dns-providers-security/) , Google DNS is considered the fastest among all. To switch to Google DNS, follow the below steps:
 
 1. Open the Power Menu, and then choose**Network Connections** from the menu list.
 2. Choose**Advanced network settings.**
@@ -118,7 +116,7 @@ After the scan is complete, check for the issue.
 
  Another quick way to solve the issue is to make few registry edits and give the required persmissions to the important folders. Here's how to do that:
 
- Before proceeding, don't forget to[back up the registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) so you have something to revert to if something goes wrong.
+ Before proceeding, don't forget to [back up the registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) so you have something to revert to if something goes wrong.
 
 1. Open the Start Menu, type**regedit** and press Enter.
 2. In the Registry Editor, right click on the**HKEY\_CURRENT\_USER** folder in the left pane, and choose**Permissions** from the context menu.  
@@ -147,3 +145,27 @@ After the scan is complete, check for the issue.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/gameplay-experience-series-x-vs-custom-pc/"><u>Gameplay Experience: Series X Vs. Custom PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/mapping-out-uncharted-digital-territories/"><u>Mapping Out Uncharted Digital Territories</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-upside-of-staggered-game-drops/"><u>The Upside of Staggered Game Drops</u></a></li>
+<li><a href="https://games-able.techidaily.com/keep-google-chromes-running-fb-game-troubleshooting-guide/"><u>Keep Google Chromes Running: FB Game Troubleshooting Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/diverging-from-the-norm-why-developers-can-overlook-ray-tracing/"><u>Diverging From the Norm: Why Developers Can Overlook Ray Tracing</u></a></li>
+<li><a href="https://games-able.techidaily.com/disable-gaming-mode-in-discord-settings/"><u>Disable Gaming Mode in Discord Settings</u></a></li>
+<li><a href="https://games-able.techidaily.com/activating-full-gaming-potential-ps5s-assist-controller/"><u>Activating Full Gaming Potential: PS5's Assist Controller</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-why-gamer-friendly-monitors-are-overrated/"><u>Exploring Why Gamer-Friendly Monitors Are Overrated</u></a></li>
+<li><a href="https://games-able.techidaily.com/securely-tear-down-previous-game-saves-on-playstation-5/"><u>Securely Tear Down Previous Game Saves on PlayStation 5</u></a></li>
+<li><a href="https://games-able.techidaily.com/easy-removal-and-reinstallation-of-ps5-games/"><u>Easy Removal & Reinstallation of PS5 Games</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-adjust-privacy-settings-for-secure-online-viewing/"><u>[New] 2024 Approved  Adjust Privacy Settings for Secure Online Viewing</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-no-more-shaky-cam-free-video-stabilization-software-for-windows-and-macos/"><u>Updated 2024 Approved No More Shaky Cam Free Video Stabilization Software for Windows and macOS</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-fusion-feats-mixing-genres-in-the-worlds-most-engaging-tiktoks/"><u>[Updated] Fusion Feats  Mixing Genres in the World's Most Engaging TikToks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlock-your-movies-gratis-player-for-windowsmacos/"><u>[New] Unlock Your Movies  Gratis Player for Windows/MacOS</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-lenovo-thinkphone-by-drfone-android/"><u>In 2024, How to Bypass FRP from Lenovo ThinkPhone?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-high-level-behavior-tips-for-youtube-users/"><u>[New] High-Level Behavior Tips for YouTube Users</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-leaders-in-conversion-6-best-no-cost-tiktok-to-mp3-online-tools/"><u>In 2024, Leaders in Conversion - 6 Best No-Cost TikTok to MP3 Online Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-maximize-your-hd-vids-experience-the-ultimate-android-apps-list/"><u>2024 Approved  Maximize Your Hd Vids Experience  The Ultimate Android Apps List</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-practices-to-speed-up-or-slow-down-music-in-spotify/"><u>In 2024, Best Practices to Speed Up or Slow Down Music in Spotify</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Navigating Game Pass on X Series X
-date: 2024-06-25T10:40:33.208Z
-updated: 2024-06-26T10:40:33.208Z
+date: 2024-06-25T12:48:35.650Z
+updated: 2024-06-26T12:48:35.650Z
 tags:
   - games
 categories:
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
 
  If you need to manage your subscriptions outside the available features of the**Subscriptions** settings, or if you want to join a new subscription, you may need to use an alternative way to manage subscriptions.
 
- Luckily, just like how you can[cancel your Xbox Game Pass subscription](https://www.makeuseof.com/how-to-cancel-your-xbox-game-pass-subscription/) online or from your console, you can do the same with all other Xbox subscriptions.
+ Luckily, just like how you can [cancel your Xbox Game Pass subscription](https://www.makeuseof.com/how-to-cancel-your-xbox-game-pass-subscription/) online or from your console, you can do the same with all other Xbox subscriptions.
 
 ## How to Add and Remove Subscriptions on Your Xbox Series X|S
 

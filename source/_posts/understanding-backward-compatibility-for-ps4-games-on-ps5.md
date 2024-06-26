@@ -1,7 +1,7 @@
 ---
 title: Understanding Backward Compatibility for PS4 Games on PS5
-date: 2024-06-23 11:48:32
-updated: 2024-06-24 10:59:32
+date: 2024-06-25T13:37:41.722Z
+updated: 2024-06-26T13:37:41.722Z
 tags:
   - games
 categories:
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/1e11de4cf4f80ef092048741d4366db23f2bbee14
 
 ## Can I Play PS4 Games on My PS5?
 
- If you have been wondering[if the PS5 is backward compatible](https://www.makeuseof.com/is-ps5-backward-compatible/) , the short answer is, yes. For the most part, you can play most of your old PS4 games on your PS5\. Some even offer free or discounted upgrades to the PS5 version to make your PS4 games better than they ever were before.
+ If you have been wondering [if the PS5 is backward compatible](https://www.makeuseof.com/is-ps5-backward-compatible/) , the short answer is, yes. For the most part, you can play most of your old PS4 games on your PS5\. Some even offer free or discounted upgrades to the PS5 version to make your PS4 games better than they ever were before.
 
  There are, however, some PS4 games that will not work on the PS5\. The selection of non-playable games pales in comparison to the list of games that are cross-gen, however, so the likelihood of a PS4 game not working on your PS5 is slim.
 
@@ -43,15 +43,13 @@ thumbnail: https://thmb.techidaily.com/1e11de4cf4f80ef092048741d4366db23f2bbee14
 
  There are a couple of ways to play PS4 games on your PS5\. The first is by inserting and installing PS4 game discs into your PS5, and the second is by re-downloading your previously purchased digital PS4 titles.
 
-### 1\. Play PS4 Games on Your PS5 Using the Disc Drive
-
-![playstation 4 game disc boxes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/playstation-4-game-disc-boxes.jpg)
+### 1\. Play PS4 Games on Your PS5 Using the Disc Drive ![playstation 4 game disc boxes](https://thmb.techidaily.com/92449e9d9f3ee8946cb03a78041d2307431f0fc5eaad89567c354cd2fc066c4c.jpg)
 
  charnsitr/[Shutterstock](https://www.shutterstock.com/image-photo/bangkok-thailand-october-19-2016-pile-520391851)
 
  Using the disc drive is the simplest and easiest way to play PS4 games on your PS5, but it does come with a catch. This method will only work if your PS5 has a disc drive.
 
- The PS5 Digital Edition does not have a disc drive, so take your PS4 library into consideration when you are deciding[which PS5 version to buy](https://www.makeuseof.com/ps5-vs-ps5-digital-edition-which-to-buy/) . If you opt for the cheaper, digital PS5 and have a large collection of physical PS4 games, you will be unable to play them on your new console.
+ The PS5 Digital Edition does not have a disc drive, so take your PS4 library into consideration when you are deciding [which PS5 version to buy](https://www.makeuseof.com/ps5-vs-ps5-digital-edition-which-to-buy/) . If you opt for the cheaper, digital PS5 and have a large collection of physical PS4 games, you will be unable to play them on your new console.
 
  To play physical PS4 games on your PS5, take your game of choice and insert it into your PS5\. Once your PS5 has read the disc, it will start copying the data onto your console for you.
 
@@ -81,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/1e11de4cf4f80ef092048741d4366db23f2bbee14
 
 ![Download PS4 Games onto PS5 via PS Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/download-ps4-games-onto-ps5-via-ps-account-1.jpg)
 
- If you would rather save your console's internal storage for PS5 games, you can also store and[play PS4 games on your PS5 from an external hard drive](https://www.makeuseof.com/how-to-play-ps4-games-on-ps5-external-hard-drive/) .
+ If you would rather save your console's internal storage for PS5 games, you can also store and [play PS4 games on your PS5 from an external hard drive](https://www.makeuseof.com/how-to-play-ps4-games-on-ps5-external-hard-drive/) .
 
 ## What’s the Difference Between PS4 Games and PS4 Games With PS5 Upgrades?
 
@@ -128,3 +126,26 @@ thumbnail: https://thmb.techidaily.com/1e11de4cf4f80ef092048741d4366db23f2bbee14
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/optimizing-valorant-play-eliminating-frames-per-second-lags/"><u>Optimizing Valorant Play: Eliminating Frames Per Second Lags</u></a></li>
+<li><a href="https://games-able.techidaily.com/ryujinx-for-the-console-gamer-a-guide-to-controller-proficiency/"><u>Ryujinx for the Console Gamer: A Guide to Controller Proficiency</u></a></li>
+<li><a href="https://games-able.techidaily.com/pioneering-the-path-to-play-pre-starfield/"><u>Pioneering the Path to Play Pre-Starfield</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-broken-link-between-win-and-xbox-controllers/"><u>Fixing Broken Link Between Win and Xbox Controllers</u></a></li>
+<li><a href="https://games-able.techidaily.com/key-elements-for-a-gaming-mouse-worth-every-penny-a-quick-rundown/"><u>Key Elements for a Gaming Mouse Worth Every Penny: A Quick Rundown</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-aesthetics-game-gear-upgrades-enhance-play/"><u>Beyond Aesthetics: Game Gear Upgrades Enhance Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-troubleshooting-correct-read-only-library-folder-issue/"><u>Steam Troubleshooting: Correct Read-Only Library Folder Issue</u></a></li>
+<li><a href="https://games-able.techidaily.com/switch-joy-con-revamp-joystick-changeover/"><u>Switch Joy-Con Revamp: Joystick Changeover</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-gaming-and-productivity-which-upgrade-comes-first-cpu-or-gpu/"><u>Maximizing Gaming & Productivity: Which Upgrade Comes First, CPu or GPU?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-how-to-keep-your-virtual-talks-on-record-for-2024/"><u>[New] How to Keep Your Virtual Talks on Record for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-masterclass-the-elite-group-of-top-10-free-artistic-youtube-platforms/"><u>2024 Approved  Masterclass  The Elite Group of Top 10 Free Artistic YouTube Platforms</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-strategies-for-effective-screen-sharing-via-skype-at-home/"><u>[Updated] Strategies for Effective Screen Sharing via Skype at Home</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-breaking-down-why-your-tiktok-freezes/"><u>[New] In 2024, Breaking Down Why Your TikTok Freezes</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-capturing-perfection-a-deep-dive-into-apeaksofts-technology-for-2024/"><u>[Updated] Capturing Perfection  A Deep Dive Into Apeaksoft's Technology for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-real-time-capture-mastery-discover-the-top-4-livestream-strategies/"><u>[Updated] In 2024, Real-Time Capture Mastery  Discover the Top 4 Livestream Strategies</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/effortless-online-transformation-ff-vids-to-mp4-in-high-definition/"><u>Effortless Online Transformation  FF Vids to MP4 in High Definition</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/proven-ways-to-enhance-your-fb-presence-and-boost-engagement-for-2024/"><u>Proven Ways to Enhance Your FB Presence and Boost Engagement for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-tips-for-decelerating-video-playback-on-snapchat/"><u>[Updated] 2024 Approved  Tips for Decelerating Video Playback on Snapchat</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/tripod-alignment-secrets-for-clearer-videos/"><u>Tripod Alignment Secrets for Clearer Videos</u></a></li>
+</ul></div>

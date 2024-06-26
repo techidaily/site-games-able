@@ -1,7 +1,7 @@
 ---
 title: Reflecting on an Excessive GPU Purchase Decision
-date: 2024-06-22 18:28:49
-updated: 2024-06-24 12:36:31
+date: 2024-06-25T13:07:49.573Z
+updated: 2024-06-26T13:07:49.573Z
 tags:
   - games
 categories:
@@ -42,11 +42,11 @@ thumbnail: https://thmb.techidaily.com/264e08da433495c55cd3d8de7fab0afb684fb451a
 
 ![RTSS OSD stats appearing in Valorant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/rtss-osd-stats-appearing-in-valorant.png)
 
- Even in graphically demanding AAA games, my GPU usage rarely exceeds 90 percent. And that's because my CPU can't keep up. I use a Ryzen 5900X, which is a generation older than the top-of-the-line AMD Ryzen processors available today, like[the Ryzen 7800X3D, 7900X3D, and 7950X3D](https://www.makeuseof.com/ryzen-9-7950x3d-vs-ryzen-9-7900x3d-vs-ryzen-7-7800x3d/) .
+ Even in graphically demanding AAA games, my GPU usage rarely exceeds 90 percent. And that's because my CPU can't keep up. I use a Ryzen 5900X, which is a generation older than the top-of-the-line AMD Ryzen processors available today, like [the Ryzen 7800X3D, 7900X3D, and 7950X3D](https://www.makeuseof.com/ryzen-9-7950x3d-vs-ryzen-9-7900x3d-vs-ryzen-7-7800x3d/) .
 
 ## 2 Power Consumption Is Very High
 
- The RTX 4090 is a monster of a GPU that consumes a lot of power. The Founders Edition (reference) version of the RTX 4090 has a[TDP (Thermal Design Power)](https://www.makeuseof.com/tag/thermal-design-power-technology-explained/) of 450W. This means the GPU can consume up to 450W under general usage.
+ The RTX 4090 is a monster of a GPU that consumes a lot of power. The Founders Edition (reference) version of the RTX 4090 has a [TDP (Thermal Design Power)](https://www.makeuseof.com/tag/thermal-design-power-technology-explained/) of 450W. This means the GPU can consume up to 450W under general usage.
 
  However, the RTX 4090 I own is no ordinary unit. It's the Colorful iGame RTX 4090 Neptune, a liquid-cooled variant with a 360mm radiator that has a TDP of 630W! Like this one, several RTX 4090 variants from NVIDIA's board partners have a TDP higher than 450W.
 
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/264e08da433495c55cd3d8de7fab0afb684fb451a
 
  However, the Colorful Neptune RTX 4090 I have cost me a little over two grand, but at that time, I thought it was worth it because of the overclocking headroom I got from liquid cooling. Another reason is that this card isn't nearly as chunky as other air-cooled RTX 4090 cards on the market.
 
- Unfortunately, I haven't even come close to maximizing the RTX 4090's full potential because of the kind of games I mostly play. I now feel like I could've spent half the money on an RTX 4080 for similar frame rates on esports titles like Valorant, Overwatch 2, or Fortnite. To get the most out of my RTX 4090 now, I need one of[the fastest gaming CPUs from AMD or Intel](https://www.makeuseof.com/amd-vs-intel-gaming/) .
+ Unfortunately, I haven't even come close to maximizing the RTX 4090's full potential because of the kind of games I mostly play. I now feel like I could've spent half the money on an RTX 4080 for similar frame rates on esports titles like Valorant, Overwatch 2, or Fortnite. To get the most out of my RTX 4090 now, I need one of [the fastest gaming CPUs from AMD or Intel](https://www.makeuseof.com/amd-vs-intel-gaming/) .
 
  So, if you're on the fence about buying an RTX 4090, think about the games you play and the resolution you play at because I don't want you to make the same mistake as I did. I wouldn't recommend buying an RTX 4090 if you don't plan to play AAA games at 4K resolution regularly.
 
@@ -83,3 +83,26 @@ thumbnail: https://thmb.techidaily.com/264e08da433495c55cd3d8de7fab0afb684fb451a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/infiltrating-early-adopter-groups-a-guide-to-starfield-trials/"><u>Infiltrating Early Adopter Groups: A Guide to Starfield Trials</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-designing-for-tomorrow-steams-new-ai-framework/"><u>Game Designing for Tomorrow: Steam's New AI Framework</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-without-fear-reduce-steam-web-helpers-ram-demands/"><u>Gaming without Fear: Reduce Steam Web Helper’s RAM Demands</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-simple-ways-to-prolong-your-nintendo-switchs-life/"><u>The Simple Ways to Prolong Your Nintendo Switch's Life</u></a></li>
+<li><a href="https://games-able.techidaily.com/rom-localization-made-simple-language-patch-guide/"><u>Rom Localization Made Simple: Language Patch Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/interpretation-and-correction-of-error-code-30005/"><u>Interpretation and Correction of Error Code 30005</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719169261659-amp-up-the-atmosphere-big-box-for-arcade-fronts/"><u>Amp up the Atmosphere: Big Box for Arcade Fronts!</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-best-free-gaming-without-investments/"><u>Discover the Best Free Gaming without Investments</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-8-lite-android-simulators-for-pc-and-mac-gamers/"><u>Essential 8 Lite Android Simulators for PC and Mac Gamers</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-premier-audio-file-transformer-effortless-mp3-creation-in-seconds/"><u>Updated Premier Audio File Transformer Effortless MP3 Creation in Seconds</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-enhancing-twitter-posts-via-facebook-connection/"><u>[New] Enhancing Twitter Posts via Facebook Connection</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-social-media-sensations-8-growth-titans-online/"><u>[New] Social Media Sensations 8  Growth Titans Online</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-integrating-harmonious-sounds-into-your-canva-videos/"><u>[Updated] Integrating Harmonious Sounds Into Your Canva Videos</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-crafting-a-hit-list-youtubes-way-for-fans/"><u>[Updated] Crafting a Hit-List  Youtube's Way for Fans</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-the-user-friendly-guide-to-voice-alteration-using-audacitys-features/"><u>New In 2024, The User-Friendly Guide to Voice Alteration Using Audacitys Features</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On HTC U23 Pro? | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-inside-disconitro-navigating-the-premium-experience-with-ease-for-2024/"><u>[Updated] Inside DiscoNitro  Navigating the Premium Experience with Ease for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-smooth-start-gradual-appearance/"><u>In 2024, Smooth Start  Gradual Appearance</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-fbx-the-ultimate-gaming-video-guide/"><u>[Updated] In 2024, FBX  The Ultimate Gaming Video Guide</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Pondering the Usefulness of Hybrid Gaming Screens
-date: 2024-06-25T10:42:30.424Z
-updated: 2024-06-26T10:42:30.424Z
+date: 2024-06-25T12:48:36.900Z
+updated: 2024-06-26T12:48:36.900Z
 tags:
   - games
 categories:
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/d560431f923ced226ef363014bbd59707b7820d52
 
 ## What Is a Dual-Mode Monitor?
 
- A dual-mode monitor is a display that offers two refresh rates at different resolutions. For example, the 32-inch ROG Swift OLED, which[Asus unveiled at CES 2024](https://rog.asus.com/articles/gaming-monitors/rog-swift-oled-pg39wcdm-pg32ucdp-pg27aqdp/) , allows users to switch between 4K@240Hz or 1080p@480Hz.[LG also announced](https://www.lgnewsroom.com/2023/12/lg-ultragear-unveils-worlds-first-4k-oled-gaming-monitor-with-dual-hz-feature/) the UltraGear 32GS95UE around the same time, featuring the same technology.
+ A dual-mode monitor is a display that offers two refresh rates at different resolutions. For example, the 32-inch ROG Swift OLED, which [Asus unveiled at CES 2024](https://rog.asus.com/articles/gaming-monitors/rog-swift-oled-pg39wcdm-pg32ucdp-pg27aqdp/) , allows users to switch between 4K@240Hz or 1080p@480Hz.[LG also announced](https://www.lgnewsroom.com/2023/12/lg-ultragear-unveils-worlds-first-4k-oled-gaming-monitor-with-dual-hz-feature/) the UltraGear 32GS95UE around the same time, featuring the same technology.
 
  Dual-mode monitors allow gamers to switch between an ultra-high resolution mode or an ultra-fast monitor refresh rate, allowing you to enjoy the best of both worlds if you're a competitive gamer.
 
@@ -40,9 +40,9 @@ thumbnail: https://thmb.techidaily.com/d560431f923ced226ef363014bbd59707b7820d52
 
 [LG](http://www.lgnewsroom.com/2023/12/lg-ultragear-unveils-worlds-first-4k-oled-gaming-monitor-with-dual-hz-feature/)
 
- The most significant advantage of a dual-mode monitor is getting a screen with a refresh rate as high as 480Hz. This is great for competitive gamers and esports players, where[monitor refresh rates matter](https://www.makeuseof.com/tag/60hz-vs-144hz/) every second of the match.
+ The most significant advantage of a dual-mode monitor is getting a screen with a refresh rate as high as 480Hz. This is great for competitive gamers and esports players, where [monitor refresh rates matter](https://www.makeuseof.com/tag/60hz-vs-144hz/) every second of the match.
 
- However, high-refresh rates are taxing to computer resources, especially if you don't have[a high-end graphics card](https://www.makeuseof.com/what-is-high-end-graphics-card-how-much-do-they-cost/) . Furthermore, most monitors with a refresh rate greater than 300Hz only have resolutions of 1440p or lower. That's why you only get a 1080p resolution at the maximum refresh rate setting with the current crop of dual-mode monitors.
+ However, high-refresh rates are taxing to computer resources, especially if you don't have [a high-end graphics card](https://www.makeuseof.com/what-is-high-end-graphics-card-how-much-do-they-cost/) . Furthermore, most monitors with a refresh rate greater than 300Hz only have resolutions of 1440p or lower. That's why you only get a 1080p resolution at the maximum refresh rate setting with the current crop of dual-mode monitors.
 
  But at 32 inches or greater, the 1920x1080 resolution used at 480Hz does not offer a sharp and crisp image. This means you will not get the optimal experience when using your computer for other tasks like watching a movie or playing less intensive, more relaxing games.
 
@@ -62,11 +62,11 @@ thumbnail: https://thmb.techidaily.com/d560431f923ced226ef363014bbd59707b7820d52
 
  But if you're a competitive gamer, especially if you play first-person shooters and like to enjoy other content at higher resolutions, too, this might be a worthwhile investment.
 
- However, you should also look at your available hardware. For example, my computer only has an RTX 3060 video card, so it's struggling to run the 4K 144Hz[Redmagic 4K Gaming Monitor](https://www.makeuseof.com/redmagic-4k-gaming-monitor-review/) .
+ However, you should also look at your available hardware. For example, my computer only has an RTX 3060 video card, so it's struggling to run the 4K 144Hz [Redmagic 4K Gaming Monitor](https://www.makeuseof.com/redmagic-4k-gaming-monitor-review/) .
 
  If you want to maximize the 4K@240Hz or 1080p@480Hz feature of these dual-mode monitors, you should ensure that you're running the latest, most powerful video cards, like the 7900 XTX or 7900 XT from AMD and RTX 4090 or RTX 4080 from NVIDIA.
 
- Aside from that, you must consider that your other components, like your CPU or RAM, can support your GPU. Otherwise, you might run into[PC bottlenecking issues](https://www.makeuseof.com/what-is-bottlenecking-my-pc-how-do-i-fix-it/) and not get the most out of these dual-mode monitors.
+ Aside from that, you must consider that your other components, like your CPU or RAM, can support your GPU. Otherwise, you might run into [PC bottlenecking issues](https://www.makeuseof.com/what-is-bottlenecking-my-pc-how-do-i-fix-it/) and not get the most out of these dual-mode monitors.
 
 ![Redmagic 4K Gaming Monitor setup with two laptops](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/redmagic-4k-gaming-monitor-setup-with-two-laptops.jpg)
 

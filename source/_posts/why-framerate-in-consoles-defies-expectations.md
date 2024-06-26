@@ -1,7 +1,7 @@
 ---
 title: Why Framerate in Consoles Defies Expectations
-date: 2024-06-21 14:51:19
-updated: 2024-06-24 12:34:18
+date: 2024-06-25T13:02:36.750Z
+updated: 2024-06-26T13:02:36.750Z
 tags:
   - games
 categories:
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/545eb30532b146292d910492a3de0882f942d02de
 
  Specifically, a console title needs to balance elements like frame rate, game complexity, and resolution against the performance limitations of the platform in question. This represents a triangle of needs that often has to shift and change to meet performance demands.
 
- There are many[reasons to play PlayStation 5 titles in performance mode](https://www.makeuseof.com/use-ps5-performance-mode/) , where 60FPS may be reachable, but this can often only be achieved by reducing other elements of your game. Commonly, games will be locked to 30FPS to reduce the strain on performance and increase console stability.
+ There are many [reasons to play PlayStation 5 titles in performance mode](https://www.makeuseof.com/use-ps5-performance-mode/) , where 60FPS may be reachable, but this can often only be achieved by reducing other elements of your game. Commonly, games will be locked to 30FPS to reduce the strain on performance and increase console stability.
 
 ![A photograph of a PlayStation 5 console and a DualSense wireless controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/stock-playstation-5.jpg)
 
@@ -52,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/545eb30532b146292d910492a3de0882f942d02de
 
  Other forms of gaming, like PC gaming, face completely different levels of complexity when it comes to optimization. PCs have countless amounts of specs and potential devices a game can be played on. For this reason, 30FPS can feel worse on PC than on consoles.
 
- Even using a keyboard and mouse, which can allow you to react faster in games than a controller, will highlight flaws in frame rate as the game races to catch up to your inputs. And this is before you attempt things like[optimizing Windows for PC gaming](https://www.makeuseof.com/tag/optimize-windows-10-gaming/) or any other operating system you're playing a 30FPS game with.
+ Even using a keyboard and mouse, which can allow you to react faster in games than a controller, will highlight flaws in frame rate as the game races to catch up to your inputs. And this is before you attempt things like [optimizing Windows for PC gaming](https://www.makeuseof.com/tag/optimize-windows-10-gaming/) or any other operating system you're playing a 30FPS game with.
 
 ![A photograph of an Xbox Series X console and an Xbox Wireless Controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/stock-xbox.jpg)
 
@@ -81,3 +81,26 @@ thumbnail: https://thmb.techidaily.com/545eb30532b146292d910492a3de0882f942d02de
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/ryzen-rivalry-which-cpu-leads-in-gaming/"><u>Ryzen Rivalry: Which CPU Leads in Gaming?</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-mysteries-of-shiny-pokemon-in-scarlet-and-violet-85/"><u>Unveiling Mysteries of Shiny Pokémon in Scarlet and Violet (85)</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-next-chapter-in-gaming-meta-quest-3-reviewed/"><u>The Next Chapter in Gaming: Meta Quest 3 Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/commanding-the-dungeon-top-6-strategies-with-gpt-assisted-gameplay/"><u>Commanding the Dungeon: Top 6 Strategies with GPT-Assisted Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/identifying-your-ideal-elgato-for-productivity-boosts/"><u>Identifying Your Ideal Elgato for Productivity Boosts</u></a></li>
+<li><a href="https://games-able.techidaily.com/pitch-perfect-your-guide-to-the-best-mobile-sports-apps-iosandroid/"><u>Pitch Perfect: Your Guide to the Best Mobile Sports Apps (iOS/Android)</u></a></li>
+<li><a href="https://games-able.techidaily.com/easy-removal-and-reinstallation-of-ps5-games/"><u>Easy Removal & Reinstallation of PS5 Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-controller-on-pc-heres-how-to-get-there-quickly-140-chars/"><u>Xbox Controller on PC? Here's How to Get There Quickly (140 Chars)</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-does-hrtf-affect-your-valorant-play/"><u>How Does HRTF Affect Your Valorant Play?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/vdy-hd-snapshot-reviews-complete-evaluation-for-2024/"><u>VDY HD Snapshot Reviews  Complete Evaluation for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/pro-rated-list-the-best-5-hd-webcams-with-capture-microphones/"><u>Pro-Rated List  The Best 5 HD Webcams with Capture Microphones</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-deciphering-youtubes-profit-for-a-mil-of-viewers-for-2024/"><u>[New] Deciphering YouTube’s Profit for A Mil of Viewers for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-effective-use-of-adsense-on-youtube-to-boost-channel-income/"><u>[New] 2024 Approved  Effective Use of AdSense on YouTube to Boost Channel Income</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-streamlining-sales-with-snapchats-marketing-features/"><u>[Updated] In 2024, Streamlining Sales with Snapchat's Marketing Features</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-the-comprehensive-guide-to-adjusting-siris-voice-in-ios-devices/"><u>Updated The Comprehensive Guide to Adjusting Siris Voice in iOS Devices</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-invaluable-tips-harness-the-power-of-voxal-audio-alteration-for-enhanced-discord-engagement/"><u>New In 2024, Invaluable Tips Harness the Power of Voxal Audio Alteration for Enhanced Discord Engagement</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-earnings-engineering-crafting-a-high-yield-strategy-for-your-youtube-channel/"><u>[New] In 2024, Earnings Engineering  Crafting a High Yield Strategy for Your YouTube Channel</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-the-most-engaged-twitters-most-watched-videos/"><u>In 2024, The Most Engaged  Twitter's Most Watched Videos</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-motorola-edge-40-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Motorola Edge 40 in Minutes | Dr.fone</u></a></li>
+</ul></div>

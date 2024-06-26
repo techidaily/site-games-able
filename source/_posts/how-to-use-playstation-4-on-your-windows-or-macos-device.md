@@ -1,7 +1,7 @@
 ---
 title: How to Use PlayStation 4 on Your Windows or macOS Device
-date: 2024-06-25T10:44:57.374Z
-updated: 2024-06-26T10:44:57.374Z
+date: 2024-06-25T12:48:38.450Z
+updated: 2024-06-26T12:48:38.450Z
 tags:
   - games
 categories:
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 
  Now your controller should be synced up via Bluetooth and you can do away with the USB cord. Though it is nice to have your controller charging every time you plug it into your computer.
 
- Even if you're not using Steam, connecting the DualShock 4 to your Mac is simple. OpenEmu, the best emulator out there, supports the DualShock 4 natively, so all you have to do is plug it in and start playing. It might take a minute to figure out how it maps to an NES or Genesis controller, but after a few minutes of pressing buttons, you'll have it down. Mac is usually pretty good about connecting to PlayStation controllers, you can even[use the PS5 DualSense controller on a Mac](https://www.makeuseof.com/how-to-use-ps5-dualsense-controller-with-mac/) .
+ Even if you're not using Steam, connecting the DualShock 4 to your Mac is simple. OpenEmu, the best emulator out there, supports the DualShock 4 natively, so all you have to do is plug it in and start playing. It might take a minute to figure out how it maps to an NES or Genesis controller, but after a few minutes of pressing buttons, you'll have it down. Mac is usually pretty good about connecting to PlayStation controllers, you can even [use the PS5 DualSense controller on a Mac](https://www.makeuseof.com/how-to-use-ps5-dualsense-controller-with-mac/) .
 
 ## Ho to Connect a PS4 Controller to Your PC
 
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 
 ### Connecting a DualShock 4 on Steam
 
- If you want to play some of the[best Steam games](https://www.makeuseof.com/tag/best-free-steam-games/) using a DualShock 4, you'll be pleased to know that the process is incredibly simple.
+ If you want to play some of the [best Steam games](https://www.makeuseof.com/tag/best-free-steam-games/) using a DualShock 4, you'll be pleased to know that the process is incredibly simple.
 
  Simply connect your controller to your PC via Bluetooth by holding the controller's PS button in and then scanning for Bluetooth devices on the PC to connect to. It should say "Wireless Controller". Alternatively, plug it into the PC using a micro-USB and it should then recognize the device.
 
@@ -52,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 
  If you want to use a DualShock 4 for non-Steam games, like emulated titles or old PC titles, or anything that you aren't playing on an official platform, the process takes a couple of steps.
 
- First, you'll need to download DS4Windows from the[DS4Windows download page](https://ds4-windows.com/download/ryochan7-ds4windows/) , a free app that allows you to emulate an Xbox 360 controller (which is supported by Windows) with your DualShock.
+ First, you'll need to download DS4Windows from the [DS4Windows download page](https://ds4-windows.com/download/ryochan7-ds4windows/) , a free app that allows you to emulate an Xbox 360 controller (which is supported by Windows) with your DualShock.
 
  Unzip the file and launch DS4Windows. Connect the DualShock 4 with the USB cable or pair it via Bluetooth (hold the**PS** and**Share** buttons until the light bar flashes, then pair it using the**Start > Settings > Devices > Bluetooth** menu. You may need to enter "0000" as the pairing code). From there, just follow the instructions in the DS4Windows app. It will walk you through setting up the controller.
 
@@ -66,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 
  If you're willing to shell out for an extra accessory, the DualShock 4 wireless USB adapter is a great way to use your controller on a computer that doesn't have Bluetooth or for some other reason isn't using the controller very well. It's a small USB dongle that enables all the DualShock's features in any app that supports them. That means you'll get full rumble, light bar, and even audio through the headphone jack.
 
- This adapter is no longer officially sold, but third-party versions exist on Amazon and other websites. You can find them for a relatively cheap price, and it could be a convenient way of getting full rumble, audio, and other functionality through the DualShock 4\. Despite being an older controller, the[DualShock 4 is a better PC controller than the Switch Pro controller](https://www.makeuseof.com/dualshock-4-vs-switch-pro-controller-best-for-pc-gaming/) , despite the latter controller coming out much later. This controller has stood the test of time for its robust design, superb responsiveness, and comfortable feel.
+ This adapter is no longer officially sold, but third-party versions exist on Amazon and other websites. You can find them for a relatively cheap price, and it could be a convenient way of getting full rumble, audio, and other functionality through the DualShock 4\. Despite being an older controller, the [DualShock 4 is a better PC controller than the Switch Pro controller](https://www.makeuseof.com/dualshock-4-vs-switch-pro-controller-best-for-pc-gaming/) , despite the latter controller coming out much later. This controller has stood the test of time for its robust design, superb responsiveness, and comfortable feel.
 
 ## Game on Your PC With a PS4 Controller
 

@@ -1,7 +1,7 @@
 ---
 title: "Game On: Playing Xbox Without a Standard Controller"
-date: 2024-06-22 15:12:34
-updated: 2024-06-23 10:10:17
+date: 2024-06-25T13:08:23.205Z
+updated: 2024-06-26T13:08:23.205Z
 tags:
   - games
 categories:
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/7886b93aef2a0639ec1e094763681d9231c505608
 
 ## Use Your Smartphone to Control Your Xbox
 
- You can control your Xbox console using the native Xbox app, available for[iOS](https://apps.apple.com/us/app/xbox/id736179781) and[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027778/https://play.google.com/store/apps/details?id=com.microsoft.xboxone.smartglass&hl=en&gl=US) . This app provides a convenient and user-friendly interface for managing your Xbox remotely.
+ You can control your Xbox console using the native Xbox app, available for [iOS](https://apps.apple.com/us/app/xbox/id736179781) and [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027778/https://play.google.com/store/apps/details?id=com.microsoft.xboxone.smartglass&hl=en&gl=US) . This app provides a convenient and user-friendly interface for managing your Xbox remotely.
 
  Using the Xbox app, you can navigate through menus on your Xbox console, launch games and apps, control media playback, capture screenshots and even search for things using your smartphone's keyboard. The app replicates the functionality of an Xbox controller, providing virtual buttons and controls that mirror those found on the physical controller.
 
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/7886b93aef2a0639ec1e094763681d9231c505608
 
 1. Open the Xbox app and tap**Sign in** to log into the Microsoft account that you use on your Xbox One console.
 2. Once logged in, tap on the console icon in the top right corner of the home screen and tap**Add an existing console** .
-3. Next, you’ll be asked to turn on remote features. Make sure you’ve[enabled remote features on your Xbox One](https://www.makeuseof.com/how-to-connect-your-xbox-series-xs-to-your-mobile-device/) before proceeding. Then, tap**Next** to continue.
+3. Next, you’ll be asked to turn on remote features. Make sure you’ve [enabled remote features on your Xbox One](https://www.makeuseof.com/how-to-connect-your-xbox-series-xs-to-your-mobile-device/) before proceeding. Then, tap**Next** to continue.
 
 ![Add an existing console option on Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-an-existing-console-option-on-xbox-app.jpeg)
 
@@ -62,9 +62,7 @@ Close
 
  However, it’s worth noting that you may not be able to play most of the games using the remote control on the Xbox app. The virtual remote control within the app is primarily designed for basic tasks and navigation within the Xbox console interface rather than fully-fledged gaming experiences.
 
-## Connect a Keyboard and Mouse to Your Xbox
-
-![Mouse keyboard iphone and xbox controller on wooden desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/mouse-keyboard-and-xbox-controller.jpg)
+## Connect a Keyboard and Mouse to Your Xbox ![Mouse keyboard iphone and xbox controller on wooden desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/mouse-keyboard-and-xbox-controller.jpg)
 
  For those seeking greater accessibility and precision, connecting a keyboard and mouse to your Xbox One is an excellent option. By doing so, you can perform all the functions typically carried out with a regular Xbox controller but with added convenience. While not all games support keyboard and mouse inputs, many do, especially those with cross-platform compatibility.
 
@@ -74,13 +72,13 @@ Close
 
 ## Use Digital Assistants to Control Your Xbox One
 
- Another alternative method to control your Xbox One console without a controller is by using digital assistants such as[Google Assistant](https://www.makeuseof.com/tag/what-is-google-assistant/) or Alexa. With the integration of these voice-activated assistants, you can conveniently navigate through menus, launch games, control media playback, and perform various other tasks using voice commands.
+ Another alternative method to control your Xbox One console without a controller is by using digital assistants such as [Google Assistant](https://www.makeuseof.com/tag/what-is-google-assistant/) or Alexa. With the integration of these voice-activated assistants, you can conveniently navigate through menus, launch games, control media playback, and perform various other tasks using voice commands.
 
  The process of setting up and using digital assistants on an Xbox One is pretty straightforward. Go to **Settings > Devices & connections > Digital assistants** and check the box next to**Enable digital assistants** . If you do not have a controller, you can also perform these actions using the keyboard shortcuts mentioned in the above section.
 
 ![xbox digital assistants menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/xbox-enable-digital-assistants.jpg)
 
- If you haven’t already got it, download and open the respective digital assistant app on your smartphone and add your Xbox console to the app. You can check out our dedicated guides on[how to set up and use Alexa on your Xbox](https://www.makeuseof.com/xbox-series-x-s-how-to-set-up-alexa/) and[how to set up and use Google Assistant on your Xbox](https://www.makeuseof.com/xbox-series-x-s-how-to-set-up-and-use-google-assistant/) for detailed step-by-step instructions on how to achieve this.
+ If you haven’t already got it, download and open the respective digital assistant app on your smartphone and add your Xbox console to the app. You can check out our dedicated guides on [how to set up and use Alexa on your Xbox](https://www.makeuseof.com/xbox-series-x-s-how-to-set-up-alexa/) and [how to set up and use Google Assistant on your Xbox](https://www.makeuseof.com/xbox-series-x-s-how-to-set-up-and-use-google-assistant/) for detailed step-by-step instructions on how to achieve this.
 
  Once connected, you can use voice commands to control your Xbox by speaking into the digital assistant app. To give a voice command, use the name that you assigned to your Xbox during the setup process. For instance, if you named your Xbox "Living Room Xbox," you can say, "Hey Google, play Fortnite on Living Room Xbox" to launch Fortnite on Xbox or "Hey Alexa, turn off Living Room Xbox" to turn off your Xbox console.
 
@@ -117,3 +115,22 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/playstation-hygiene-masterclass-for-gamers/"><u>PlayStation Hygiene Masterclass for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-is-twitch-how-to-use-the-live-streaming-platform/"><u>What Is Twitch? How to Use the Live Streaming Platform</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplify-fun-enter-the-realm-of-idles/"><u>Simplify Fun: Enter the Realm of Idles</u></a></li>
+<li><a href="https://games-able.techidaily.com/assessing-video-ram-in-your-pc/"><u>Assessing Video RAM in Your PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-disassemblers-path-to-understanding-an-xbox-360-slim/"><u>The Disassembler's Path to Understanding an Xbox 360 Slim</u></a></li>
+<li><a href="https://games-able.techidaily.com/canceling-out-your-costly-fortnite-purchase-and-claiming-back/"><u>Canceling Out Your Costly Fortnite Purchase and Claiming Back</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-peak-performance-with-our-best-gamers-keyboard-lists/"><u>Unlock Peak Performance with Our Best Gamers' Keyboard Lists</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-capture-selfie-snap-shots-with-vintage-iphone-x/"><u>2024 Approved  Capture Selfie  Snap Shots with Vintage iPhone X</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-avi-video-rotation-made-easy-16-best-free-solutions-for-all-devices-for-2024/"><u>New AVI Video Rotation Made Easy 16 Best Free Solutions for All Devices for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/elevate-your-farming-adventures-with-stardews-top-7-mods-for-2024/"><u>Elevate Your Farming Adventures with Stardew's Top 7 Mods for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-honor-x7b-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Honor X7b Phone Screen?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/exploring-the-functionality-of-vlc-screencaster-for-2024/"><u>Exploring the Functionality of VLC Screencaster for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-realme-c53-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Realme C53 to iPod | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-split-your-wmv-videos-for-free-top-5-tools/"><u>New 2024 Approved Split Your WMV Videos for Free Top 5 Tools</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Oppo A18 | Dr.fone</u></a></li>
+</ul></div>

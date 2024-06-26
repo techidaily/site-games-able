@@ -1,7 +1,7 @@
 ---
 title: Tackling Storage Challenges in Steam Games
-date: 2024-06-23 15:15:59
-updated: 2024-06-24 10:47:40
+date: 2024-06-25T13:30:39.549Z
+updated: 2024-06-26T13:30:39.549Z
 tags:
   - games
 categories:
@@ -34,21 +34,17 @@ thumbnail: https://thmb.techidaily.com/79f38eb573cc99e5f54bf7180a8b2f400aa646add
 
  While the new Steam Storage Manager is great, it’s still hard to get to. Most people don’t even know it exists yet. Once you know where to find it, it’ll be hard to forget, though. Here are two ways to open the Steam Storage Manager.
 
-### 1\. Open the Steam Storage Manager Through the Steam Settings
-
-![Steam Storage Manager in Steam Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/steam-storage-manager-in-steam-settings.jpg)
+### 1\. Open the Steam Storage Manager Through the Steam Settings ![Steam Storage Manager in Steam Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/steam-storage-manager-in-steam-settings.jpg)
 
  The Steam settings menu itself is pretty hard to find as well (a very strange way of doing things, Valve). However, you might’ve opened it before if you tried setting download speed limits. Simply look to the upper-left corner and click on**Steam > Settings > Storage** .
 
-### 2\. Open the Steam Storage Manager Through the Downloads Page
-
-![Steam downloads page cog wheel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/steam-downloads-page-cog-wheel.jpg)
+### 2\. Open the Steam Storage Manager Through the Downloads Page ![Steam downloads page cog wheel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/steam-downloads-page-cog-wheel.jpg)
 
  If you’re already on the Steam Downloads page, there’s also a**cog** on the upper right, just below the**close window button** . Click that, and it will take you right to the**Downloads** section on the**Settings** page.
 
  Just like in the image in the previous section, you'll find the**Storage** section just below the Downloads section.
 
- While you’re at the Downloads page, you might want to check out[how to increase your Steam download speeds](https://www.makeuseof.com/tag/steam-download-speeds/) so you don’t have to wait so long to get playing.
+ While you’re at the Downloads page, you might want to check out [how to increase your Steam download speeds](https://www.makeuseof.com/tag/steam-download-speeds/) so you don’t have to wait so long to get playing.
 
 ## How to Add a New Steam Library Folder or Drive
 
@@ -60,11 +56,11 @@ thumbnail: https://thmb.techidaily.com/79f38eb573cc99e5f54bf7180a8b2f400aa646add
 
 ![Add a new Steam Library folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/add-a-new-steam-library-folder.jpg)
 
- This will open up File Explorer and you can choose which drive or folder you want to add a new Steam Library folder to. It doesn't even need to be an internal drive, you can use an[external drive to store your Steam Games](https://www.makeuseof.com/how-to-play-steam-games-on-an-external-drive-with-steam-storage-manager/) and play straight from the external drive!
+ This will open up File Explorer and you can choose which drive or folder you want to add a new Steam Library folder to. It doesn't even need to be an internal drive, you can use an [external drive to store your Steam Games](https://www.makeuseof.com/how-to-play-steam-games-on-an-external-drive-with-steam-storage-manager/) and play straight from the external drive!
 
 ![Create or select new Steam library folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/create-or-select-new-steam-library-folder.jpg)
 
- If you only have one drive and you need space for more games but don’t want to delete any downloaded ones, check out[how to free up disk space on Windows 10](https://www.makeuseof.com/tag/6-tips-free-disk-space-windows-10/) . We’re pretty sure you can free up some space from places you didn’t know you could free up.
+ If you only have one drive and you need space for more games but don’t want to delete any downloaded ones, check out [how to free up disk space on Windows 10](https://www.makeuseof.com/tag/6-tips-free-disk-space-windows-10/) . We’re pretty sure you can free up some space from places you didn’t know you could free up.
 
 ## How to Set a Default Steam Library Folder or Drive
 
@@ -107,3 +103,24 @@ thumbnail: https://thmb.techidaily.com/79f38eb573cc99e5f54bf7180a8b2f400aa646add
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/top-affordable-gamers-keyboard-selection/"><u>Top Affordable Gamers' Keyboard Selection</u></a></li>
+<li><a href="https://games-able.techidaily.com/play-and-win-with-youtubes-innovative-test-minigames/"><u>Play and Win with YouTube's Innovative Test Minigames</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-launch-googles-mobile-game-platform-on-your-computer/"><u>How to Launch Google's Mobile Game Platform on Your Computer</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-fix-the-minecraft-launcher-error-0x803f8001-in-windows-11-and-10/"><u>How to Fix the Minecraft Launcher Error 0X803f8001 in Windows 11 and 10</u></a></li>
+<li><a href="https://games-able.techidaily.com/nano-systems-and-mighty-machines-which-to-choose/"><u>Nano Systems & Mighty Machines: Which to Choose?</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-evolved-introducing-razers-v4-hot-swap-design/"><u>Gaming Evolved: Introducing Razer’s V4 Hot-Swap Design</u></a></li>
+<li><a href="https://games-able.techidaily.com/rom-multilingualization-made-practical-and-simple/"><u>Rom Multilingualization Made Practical and Simple</u></a></li>
+<li><a href="https://games-able.techidaily.com/switch-to-smoothness-wi-fi-fixes-guide/"><u>Switch to Smoothness: Wi-Fi Fixes Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-infinix-zero-30-5g-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Infinix Zero 30 5G</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-voice-changer-for-valorant-gamers-free-to-use/"><u>Ultimate Voice Changer for Valorant Gamers – Free to Use</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-photoshop-facebackground-anonymity-guide/"><u>In 2024, Photoshop Face/Background Anonymity Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-free-lut-strategies-for-enhancing-ar-experiences/"><u>In 2024, Free LUT Strategies for Enhancing AR Experiences</u></a></li>
+<li><a href="https://extra-information.techidaily.com/audiovisual-mastery-imovie-sound-guide-for-2024/"><u>Audiovisual Mastery  IMovie Sound Guide for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/full-guide-erase-tiktok-footprints-forevermore-for-2024/"><u>Full Guide  Erase TikTok Footprints Forevermore for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-tecno-spark-20c-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Tecno Spark 20C Screen | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-picture-perfect-the-essential-photo-editing-tools-for-2024/"><u>[Updated] Picture Perfect  The Essential Photo Editing Tools for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-unlock-tiktok-a-macbook-users-guide/"><u>[Updated] Unlock TikTok  A MacBook User's Guide</u></a></li>
+</ul></div>

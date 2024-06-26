@@ -1,7 +1,7 @@
 ---
 title: "Unlocking LoL: Overcoming Initial Hurdles"
-date: 2024-06-23 23:33:31
-updated: 2024-06-24 10:58:24
+date: 2024-06-25T13:19:00.918Z
+updated: 2024-06-26T13:19:00.918Z
 tags:
   - games
 categories:
@@ -37,16 +37,14 @@ thumbnail: https://thmb.techidaily.com/cd939fa7a6d55f7872fb793de3dd6a0a1cf42f10f
  You should first apply the following preliminary fixes, as they may resolve the problem right away:
 
 * Run League of Legends as an administrator. For that, right-click on the game file and click**Run as administrator** .
-* Check the minimum and recommended game requirements from the[League of Legends website](https://www.leagueoflegends.com/en-pl/news/game-updates/updated-min-and-recommended-specs-for-lol-tft/) and compare them with your device's specifications. If your hardware does not meet the requirements, it needs to be upgraded.
+* Check the minimum and recommended game requirements from the [League of Legends website](https://www.leagueoflegends.com/en-pl/news/game-updates/updated-min-and-recommended-specs-for-lol-tft/) and compare them with your device's specifications. If your hardware does not meet the requirements, it needs to be upgraded.
 * To ensure that account-specific issues aren't causing this problem, create a new account and use it to log in. If you don't experience any issues this time and the game successfully loads, there is a problem with your other account. Therefore, from now on, you should use the new account.
 * Close any other games running concurrently with League of Legends, especially those that use the same gaming client. This will eliminate the possibility of their interference causing the problem.
-* Though less likely, having an outdated graphics driver can also cause the issue under discussion. To prevent this, be sure to[update your graphics driver on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) .
+* Though less likely, having an outdated graphics driver can also cause the issue under discussion. To prevent this, be sure to [update your graphics driver on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) .
 
  If the above fixes don't help, start applying the remaining fixes.
 
-## 2\. Wait It Out
-
-![Round silver-colored analog stopwatch on brown wooden panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/pexels-anton-makarenko-1078057.jpg)
+## 2\. Wait It Out ![Round silver-colored analog stopwatch on brown wooden panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/pexels-anton-makarenko-1078057.jpg)
 
  Sometimes, League of Legends takes a bit longer than usual to start up. It's more likely to happen if your hardware isn't strong enough and barely meets the system requirements. So, if you have just launched League of Legends and it appears to be stuck at the loading screen, wait a while to ensure the game isn't just taking extra time to load.
 
@@ -116,7 +114,7 @@ thumbnail: https://thmb.techidaily.com/cd939fa7a6d55f7872fb793de3dd6a0a1cf42f10f
 
 ## 9\. Whitelist League of Legends From the Windows Defender Firewall
 
- If the game opens for a few seconds and then closes down, the Windows Defender Firewall might be blocking it. To rule out this possibility, you should whitelist League of Legends from Windows Defender Firewall. If you've never done that before, check out our guide on[how to allow apps through Windows Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) .
+ If the game opens for a few seconds and then closes down, the Windows Defender Firewall might be blocking it. To rule out this possibility, you should whitelist League of Legends from Windows Defender Firewall. If you've never done that before, check out our guide on [how to allow apps through Windows Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) .
 
  Similarly, if you're using a third-party antivirus that you think may interfere with the game process, either disable it or whitelist the game files through it.
 
@@ -143,3 +141,23 @@ thumbnail: https://thmb.techidaily.com/cd939fa7a6d55f7872fb793de3dd6a0a1cf42f10f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/diagnosing-and-solving-gpu-induced-image-droop/"><u>Diagnosing & Solving GPU-Induced Image Droop</u></a></li>
+<li><a href="https://games-able.techidaily.com/reclaim-your-control-over-noncooperative-steam-software/"><u>Reclaim Your Control Over Noncooperative Steam Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-you-control-your-ps4-with-ps5-controller/"><u>Can You Control Your PS4 with PS5 Controller?</u></a></li>
+<li><a href="https://games-able.techidaily.com/facing-the-fire-my-gpus-cry-for-help/"><u>Facing the Fire: My GPU's Cry for Help</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-your-computer-5-ways-to-curb-steams-ram-consumption/"><u>Optimizing Your Computer - 5 Ways to Curb Steam's RAM Consumption</u></a></li>
+<li><a href="https://games-able.techidaily.com/galaxy-forger-unveiling-top-gaming-pcs/"><u>Galaxy Forger: Unveiling Top Gaming PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/compact-mini-led-screen-best-value-deal/"><u>Compact Mini-LED Screen: Best Value Deal!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-expand-your-youtube-video-footprint/"><u>2024 Approved  How to Expand Your YouTube Video Footprint</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-chromebook-video-editor-roundup-top-picks/"><u>New In 2024, Chromebook Video Editor Roundup Top Picks</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-vivo-y78t-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Vivo Y78t for Streaming | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-simplify-your-workflow-top-aspect-ratio-calculators-online/"><u>Updated Simplify Your Workflow Top Aspect Ratio Calculators Online</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/elevate-your-content-game-best-practices-for-mac-based-tiktok-intros-for-2024/"><u>Elevate Your Content Game  Best Practices for Mac-Based TikTok Intros for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-step-by-step-introduction-to-ffpm/"><u>A Step-by-Step Introduction to FFPM</u></a></li>
+<li><a href="https://article-helps.techidaily.com/inside-the-studio-world-xvideo-studio-breakdown/"><u>Inside the Studio World  XVideo Studio Breakdown</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-optimizing-twitter-clips-for-instagram-display/"><u>[Updated] 2024 Approved  Optimizing Twitter Clips for Instagram Display</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/green-screen-on-a-mac-which-software-reigns-supreme-for-2024/"><u>Green Screen on a Mac Which Software Reigns Supreme for 2024</u></a></li>
+</ul></div>

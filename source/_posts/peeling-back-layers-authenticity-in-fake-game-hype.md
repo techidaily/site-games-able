@@ -1,7 +1,7 @@
 ---
 title: "Peeling Back Layers: Authenticity in Fake Game Hype"
-date: 2024-06-25T10:43:23.818Z
-updated: 2024-06-26T10:43:23.818Z
+date: 2024-06-25T12:48:37.474Z
+updated: 2024-06-26T12:48:37.474Z
 tags:
   - games
 categories:
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/d27bd20369a0206f3a047b7bb4f9e0b9ec6c2aca3
 
  Ad companies usually approve such ads for publication and do not ban them because they are designed so that, despite misleading the audience, they do not violate a company's terms and conditions.
 
- Advertising companies consider ads deceptive and[suspend ad accounts](https://www.makeuseof.com/reasons-facebook-bans-ad-accounts/) if they misrepresent a product or service in an effort to sell it. As fake gameplay ads do not involve a sale, they don't qualify as misleading; they simply want the user to download the game free of charge.
+ Advertising companies consider ads deceptive and [suspend ad accounts](https://www.makeuseof.com/reasons-facebook-bans-ad-accounts/) if they misrepresent a product or service in an effort to sell it. As fake gameplay ads do not involve a sale, they don't qualify as misleading; they simply want the user to download the game free of charge.
 
  Just like that, advertisers make every effort to ensure that their ads align with the company's policies to avoid being banned. It begs the question: Why do companies use fake advertisements?
 
@@ -64,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/d27bd20369a0206f3a047b7bb4f9e0b9ec6c2aca3
 
  Besides not downloading the app through the misleading advertisement, if you are confident that the ad is fake, here's what else you can do to prevent the wider community from wasting their time downloading the app:
 
-* [Add a review under the app listing on Android](https://www.makeuseof.com/write-edit-reviews-google-play-store/) or[alternatively rate apps on iOS](https://www.makeuseof.com/how-to-rate-iphone-ipad-apps-app-store/) describing how it uses fake gameplay to increase the number of installations.
+* [Add a review under the app listing on Android](https://www.makeuseof.com/write-edit-reviews-google-play-store/) or [alternatively rate apps on iOS](https://www.makeuseof.com/how-to-rate-iphone-ipad-apps-app-store/) describing how it uses fake gameplay to increase the number of installations.
 * If you've seen the ad on a social media platform that lets you comment under the listing, such as Facebook, comment about how misleading it is.
 * Immediately report the ad to the social media network so that they may review it and take it down.
-* Expose how the game misrepresents gameplay in its ad campaigns on Reddit and other platforms. Users who search for the game directly on Google or any[other search engine](https://www.makeuseof.com/tag/13-alternative-search-engines-that-find-what-google-cant/) will find this information useful.
+* Expose how the game misrepresents gameplay in its ad campaigns on Reddit and other platforms. Users who search for the game directly on Google or any [other search engine](https://www.makeuseof.com/tag/13-alternative-search-engines-that-find-what-google-cant/) will find this information useful.
 
 ## How Do Fake Advertisements Affect Companies?
 

@@ -1,7 +1,7 @@
 ---
 title: Streamlining the Steam Deck Experience with Keyboard Settings Optimization
-date: 2024-06-25T10:45:15.762Z
-updated: 2024-06-26T10:45:15.762Z
+date: 2024-06-25T12:48:38.644Z
+updated: 2024-06-26T12:48:38.644Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ Here’s how to bring up the Steam Deck in various scenarios.
 
 ### What if My Steam Deck’s Keyboard Still Doesn’t Appear After Selecting a Text Field?
 
- First, be sure you’ve given the Steam Deck two seconds at most for the Steam Deck keyboard to appear. If nothing is happening,**hold Steam Button > X** (just one of several[secret Steam Deck shortcuts you need to know](https://www.makeuseof.com/steam-deck-shortcuts/) ). The Steam Deck will appear at the bottom of the screen per usual. See it in action below in the classic immersive RPG "Deus Ex".
+ First, be sure you’ve given the Steam Deck two seconds at most for the Steam Deck keyboard to appear. If nothing is happening,**hold Steam Button > X** (just one of several [secret Steam Deck shortcuts you need to know](https://www.makeuseof.com/steam-deck-shortcuts/) ). The Steam Deck will appear at the bottom of the screen per usual. See it in action below in the classic immersive RPG "Deus Ex".
 
 ## How to Bring Up the Steam Deck Keyboard in SteamOS
 
@@ -50,11 +50,11 @@ Here’s how to bring up the Steam Deck in various scenarios.
 
 ### Q: How Do You Use the Escape Command on Your Steam Deck Keyboard?
 
- Numerous[secret shortcuts for your Steam Deck](https://www.makeuseof.com/steam-deck-shortcuts/) can make navigation a breeze. But, to specifically use the escape command shortcut on your Steam Deck with the on-screen keyboard, press the**Steam Button + D-pad left** at the same time. Your Steam Deck should then close the current software you are running as soon as you enter the command.
+ Numerous [secret shortcuts for your Steam Deck](https://www.makeuseof.com/steam-deck-shortcuts/) can make navigation a breeze. But, to specifically use the escape command shortcut on your Steam Deck with the on-screen keyboard, press the**Steam Button + D-pad left** at the same time. Your Steam Deck should then close the current software you are running as soon as you enter the command.
 
 ### Q: How Do You Use a Mouse and Keyboard With Your Steam Deck?
 
- You can connect a keyboard and mouse to your Steam Deck via wired connections or Bluetooth. For a wired connection, plug your accessories into your Steam Deck through the USB-C or USB-A ports on your console. For Bluetooth, ensure**Bluetooth** is enabled, and hold down the**Create** button on your console while simultaneously pressing whatever represents the sync button on your accessories. This process is similar to[connecting a DualSense controller to your Steam Deck](https://www.makeuseof.com/how-to-connect-ps5-controller-to-steam-deck/) .
+ You can connect a keyboard and mouse to your Steam Deck via wired connections or Bluetooth. For a wired connection, plug your accessories into your Steam Deck through the USB-C or USB-A ports on your console. For Bluetooth, ensure**Bluetooth** is enabled, and hold down the**Create** button on your console while simultaneously pressing whatever represents the sync button on your accessories. This process is similar to [connecting a DualSense controller to your Steam Deck](https://www.makeuseof.com/how-to-connect-ps5-controller-to-steam-deck/) .
 
 ### Q: How Do You Change the Keyboard Layout on Your Steam Deck?
 
