@@ -1,7 +1,7 @@
 ---
 title: Custom Fan Scheduling for Maximum Performance Gain
-date: 2024-06-23 21:59:45
-updated: 2024-06-24 11:25:14
+date: 2024-06-25T10:38:38.536Z
+updated: 2024-06-26T10:38:38.536Z
 tags:
   - games
 categories:
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/d4c3e08ad2c1079e3a0235e50a952e0f146bf5d50
 
 ## Why Should You Use a Custom GPU Fan Curve?
 
-![1080 Ti fans](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/1080-ti-fans.JPG)
+![1080 Ti fans](https://thmb.techidaily.com/7886b93aef2a0639ec1e094763681d9231c505608c149e23de7fcb6df36e4813.JPG)
 
 Jhet Borja/MakeUseOf
 
@@ -122,3 +122,24 @@ Jhet Borja/MakeUseOf
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/top-4-gamercentric-websites-for-boosting-your-score/"><u>Top 4 Gamercentric Websites for Boosting Your Score</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-pads-a-gamers-dream-selection/"><u>Elite Pads: A Gamer's Dream Selection</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-3-innovative-streaming-solutions-for-switch/"><u>Explore 3 Innovative Streaming Solutions for Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-future-in-your-hands-ifa-2023-displays/"><u>The Future in Your Hands - IFA 2023 Displays</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-your-steam-profile-tracking-gametime-and-awards/"><u>Explore Your Steam Profile: Tracking Gametime and Awards</u></a></li>
+<li><a href="https://games-able.techidaily.com/featuring-exclusive-advanced-logitech-tech/"><u>Featuring Exclusive, Advanced Logitech Tech</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-strategies-for-psp-as-a-wii-u-clone/"><u>Innovative Strategies for PSP as a Wii U Clone</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-office-matts-for-health-and-productivity-gains/"><u>Optimal Office Matts for Health and Productivity Gains</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/12-best-gif-editors-to-use/"><u>12 Best GIF Editors to Use</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-breaking-the-monotony-infusing-novelty-in-ppt-voiceovers/"><u>2024 Approved  Breaking the Monotony  Infusing Novelty in PPT Voiceovers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/decoding-the-tech-behind-immersive-vr-experiences/"><u>Decoding the Tech Behind Immersive VR Experiences</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-cross-cuisine-delights-tasty-treats-from-around-the-globe/"><u>[Updated] Cross-Cuisine Delights  Tasty Treats From Around The Globe</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-paired-monitors-preservation/"><u>2024 Approved  Paired Monitors Preservation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-computational-photography-what-are-auto-hdr-smart-hdr-3-and-4-shooting-modes/"><u>[Updated] Computational Photography  What Are Auto HDR, Smart HDR 3 & 4 Shooting Modes?</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-vivo-x-flip-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo X Flip in Minutes | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-savvy-scribblers-selection-the-top-compiler-of-twitter-animation/"><u>[Updated] 2024 Approved  Savvy Scribbler's Selection - The Top Compiler of Twitter Animation</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-finding-the-perfect-pair-matching-mics-with-every-type-of-youtubers-style/"><u>In 2024, Finding the Perfect Pair  Matching Mics with Every Type of YouTuber's Style</u></a></li>
+</ul></div>
