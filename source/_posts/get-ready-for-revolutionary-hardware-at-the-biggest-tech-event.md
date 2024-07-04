@@ -1,7 +1,7 @@
 ---
 title: Get Ready for Revolutionary Hardware at the Biggest Tech Event
-date: 2024-06-25T13:37:22.117Z
-updated: 2024-06-26T13:37:22.117Z
+date: 2024-07-03T11:59:18.451Z
+updated: 2024-07-04T11:59:18.451Z
 tags:
   - games
 categories:
@@ -22,7 +22,8 @@ thumbnail: https://thmb.techidaily.com/11e98257d7e7257e5883dcc5757d573b33d04f0ec
 
  Plenty of brands had a fine showing of their gaming hardware at IFA 2023\. But it was Lenovo that proverbially mopped the floor with the competition. It unveiled not one, or even two, but three pieces of gaming hardware that show Lenovo is making serious moves to become a leader in some of the game tech still in its infancy: portable gaming PCs and AR glasses.
 
-### Lenovo Legion GO ![MUO site on Lenovo Legion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/muo-on-legion.jpg)
+### Lenovo Legion GO
+![MUO site on Lenovo Legion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/muo-on-legion.jpg)
 
  Image Credit: Justin Duino /[MakeUseOf](http://www.makeuseof.com)
 
@@ -56,7 +57,8 @@ thumbnail: https://thmb.techidaily.com/11e98257d7e7257e5883dcc5757d573b33d04f0ec
 
  The Lenovo Legion GO is scheduled to launch on October 31, 2023, for $799.
 
-### Lenovo Legion Glasses ![legion-glasses-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-glasses-1.jpg)
+### Lenovo Legion Glasses
+![legion-glasses-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-glasses-1.jpg)
 
  Image Credit: Justin Duino /[MakeUseOf](http://www.makeuseof.com)
 
@@ -82,7 +84,8 @@ thumbnail: https://thmb.techidaily.com/11e98257d7e7257e5883dcc5757d573b33d04f0ec
 
  The rebranded Lenovo Legion Glasses will be available sometime in October 2023 for $329.
 
-### Lenovo Legion 9i ![legion-9i-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-9i-2.jpg)
+### Lenovo Legion 9i
+![legion-9i-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-9i-2.jpg)
 
  Image Credit: Justin Duino /[MakeUseOf](http://www.makeuseof.com)
 
@@ -106,7 +109,8 @@ The Legion 9i features a:
 
 The Lenovo Legion 9i will be available starting October 2023.
 
-## MSI GAMING SLIM Series Graphics Cards ![msi 4070 slimline gpu on msi stand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/msi-4070-slimline-gpu-on-msi-stand.jpg)
+## MSI GAMING SLIM Series Graphics Cards
+![msi 4070 slimline gpu on msi stand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/msi-4070-slimline-gpu-on-msi-stand.jpg)
 
  Image Credit: Gavin Phillips/MakeUseOf
 
@@ -120,7 +124,8 @@ The Lenovo Legion 9i will be available starting October 2023.
 
  MSI's GAMING SLIM version of its GeForce RTX 40 series graphics cards will be released sometime later this year.
 
-## Tecno MegaMini Watercooled Mini PC ![The MegaMini Gaming G1 watercooled mini PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/megamini-gaming-g1.jpg)
+## Tecno MegaMini Watercooled Mini PC
+![The MegaMini Gaming G1 watercooled mini PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/megamini-gaming-g1.jpg)
 
  Image Credit: Paul Antill/[MakeUseOf](http://www.makeuseof.com)
 

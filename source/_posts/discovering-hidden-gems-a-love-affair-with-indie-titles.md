@@ -1,7 +1,7 @@
 ---
 title: "Discovering Hidden Gems: A Love Affair with Indie Titles"
-date: 2024-06-25T13:35:28.389Z
-updated: 2024-06-26T13:35:28.389Z
+date: 2024-07-03T11:59:17.179Z
+updated: 2024-07-04T11:59:17.179Z
 tags:
   - games
 categories:
@@ -40,7 +40,8 @@ thumbnail: https://thmb.techidaily.com/861e642d844db4b2f3d772a017498464c5809d872
 
  It’s a fairly accessible title for kids and those who don’t play video games a lot—and perfect for anyone who likes to embrace their inner chaos goblin.
 
-## 3 A Short Hike ![Video game screenshot of a small bird flying over a wooden bridge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/a-short-hike-screenshot.png)
+## 3 A Short Hike
+![Video game screenshot of a small bird flying over a wooden bridge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/a-short-hike-screenshot.png)
 
 [Adam Robinson-Yu](https://ashorthike.com/)
 
@@ -50,7 +51,8 @@ thumbnail: https://thmb.techidaily.com/861e642d844db4b2f3d772a017498464c5809d872
 
  To do so you’ll need to collect feathers that make it possible to fly just a little bit higher each time, and to collect these you’ll explore a park’s various nooks and crannies and meet various other hikers and other park visitors. It’s a sweet reminder of family vacations past, with gameplay that is easy to understand but challenging to fully master (I still haven’t found all the feathers).
 
-## 4 Storyteller ![Video game screenshot of a six-panel comic strip showing a woman being bitten by a vampire and a man kills the vampire, curing the woman](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/storyteller-vampire-screenshot.jpg)
+## 4 Storyteller
+![Video game screenshot of a six-panel comic strip showing a woman being bitten by a vampire and a man kills the vampire, curing the woman](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/storyteller-vampire-screenshot.jpg)
 
 [Daniel Benmergui / Annapurna Interactive](https://annapurnainteractive.com/en/games/storyteller)
 
@@ -62,7 +64,8 @@ thumbnail: https://thmb.techidaily.com/861e642d844db4b2f3d772a017498464c5809d872
 
  Storyteller is also now available on mobile as one of [Netflix's games](https://www.makeuseof.com/how-to-play-games-on-netflix/) .
 
-## 5 VA-11 Hall-A: Cyberpunk Bartender Action ![Video game screenshot of a woman with teal hair saying, "It makes me feel comfy and nostalgic."](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/valhalla-bartending-screenshot.png)
+## 5 VA-11 Hall-A: Cyberpunk Bartender Action
+![Video game screenshot of a woman with teal hair saying, "It makes me feel comfy and nostalgic."](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/valhalla-bartending-screenshot.png)
 
 [Sukeban Games / Ysbryd Games](https://waifubartending.com/)
 

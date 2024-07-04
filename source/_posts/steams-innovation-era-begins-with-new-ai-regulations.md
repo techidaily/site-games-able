@@ -1,7 +1,7 @@
 ---
 title: Steam's Innovation Era Begins with New AI Regulations
-date: 2024-06-25T13:22:19.687Z
-updated: 2024-06-26T13:22:19.687Z
+date: 2024-07-03T11:59:16.407Z
+updated: 2024-07-04T11:59:16.407Z
 tags:
   - games
 categories:
@@ -43,7 +43,8 @@ thumbnail: https://thmb.techidaily.com/b344d8db48d6d42211b0b57079da5753b23f49ded
 
  In addition, games that use live-generated AI content will need to disclose what guardrails will be in place to make sure that the AI is not generating illegal content.
 
-## How Steam's AI Games Policy Could Affect Gamers ![artificial intelligence tag on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/artificial-intelligence-tag-on-steam.png)
+## How Steam's AI Games Policy Could Affect Gamers
+![artificial intelligence tag on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/artificial-intelligence-tag-on-steam.png)
 
  While many games use AI systems to make non-playable characters (NPCs) and enemies responsive, generative AI is a newer form of AI that involves generating text, images, video, audio, and even code. To learn more, read [our guide to generative AI](https://www.makeuseof.com/what-is-generative-ai/) .
 
@@ -67,7 +68,8 @@ thumbnail: https://thmb.techidaily.com/b344d8db48d6d42211b0b57079da5753b23f49ded
 
  Luckily, you_can_ [request a refund on Steam](https://www.makeuseof.com/how-to-refund-a-game-on-steam/) . But you will need to do this within 14 days from purchase, and you can't have played the game for more than two hours.
 
-### 3\. Gamers Will Need to Report Illegal AI Content ![steam window on a pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/shutterstock_357785195.jpg)
+### 3\. Gamers Will Need to Report Illegal AI Content
+![steam window on a pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/shutterstock_357785195.jpg)
 
  Image Credit: g0d4ather/[Shutterstock](https://www.shutterstock.com/image-photo/saransk-russia-january-03-2016-steam-357785195)
 

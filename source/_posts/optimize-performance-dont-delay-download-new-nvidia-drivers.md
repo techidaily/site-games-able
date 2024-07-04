@@ -1,7 +1,7 @@
 ---
 title: Optimize Performance - Don’t Delay, Download New Nvidia Drivers
-date: 2024-06-25T13:25:51.000Z
-updated: 2024-06-26T13:25:51.000Z
+date: 2024-07-03T11:59:20.000Z
+updated: 2024-07-04T11:59:20.000Z
 tags:
   - games
 categories:
@@ -29,7 +29,8 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
  Fortunately, Nvidia has published a driver update that fixes this annoying issue, and you can grab it right now.
 
-## How to Fix Micro Stuttering on Nvidia GPUs ![msi 4070 slimline gpu on stand black and white colors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/msi-4070-slimline-gpu-on-stand-black-and-white-colors.JPG)
+## How to Fix Micro Stuttering on Nvidia GPUs
+![msi 4070 slimline gpu on stand black and white colors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/msi-4070-slimline-gpu-on-stand-black-and-white-colors.JPG)
 
  Gavin Phillips/MakeUseOf
 
@@ -37,7 +38,8 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
  The issue currently relates specifically to Nvidia GPUs, and Nvidia is aware of it. So, if you've noticed micro stuttering after a recent Nvidia GPU driver update, the Nvidia version 551.46 driver should fix things again. If it doesn't, you may instead need to perform a more in-depth fix. Check out [how to fix game stuttering on Windows 11](https://www.makeuseof.com/windows-11-game-stutter-fix/) for more information.
 
-## How to Download and Install an Nvidia Driver Update ![nvidia rtx 4070 super and rtx 4080 gpus together](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/nvidia-rtx-4070-super-and-rtx-4080-gpus-together.jpg)
+## How to Download and Install an Nvidia Driver Update
+![nvidia rtx 4070 super and rtx 4080 gpus together](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/nvidia-rtx-4070-super-and-rtx-4080-gpus-together.jpg)
 
 [Nvidia](https://nvidianews.nvidia.com/news/geforce-rtx-40-super-series)
 

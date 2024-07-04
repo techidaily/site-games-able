@@ -1,7 +1,7 @@
 ---
 title: Optimize Your Gaming Journey with Steam’s Storage Wisdom
-date: 2024-06-25T12:48:33.681Z
-updated: 2024-06-26T12:48:33.681Z
+date: 2024-07-03T11:59:16.759Z
+updated: 2024-07-04T11:59:16.759Z
 tags:
   - games
 categories:
@@ -34,11 +34,13 @@ thumbnail: https://thmb.techidaily.com/7055739b2ba9c96c4320b4adbabab9131b89b7fc1
 
  While the new Steam Storage Manager is great, it’s still hard to get to. Most people don’t even know it exists yet. Once you know where to find it, it’ll be hard to forget, though. Here are two ways to open the Steam Storage Manager.
 
-### 1\. Open the Steam Storage Manager Through the Steam Settings ![Steam Storage Manager in Steam Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/steam-storage-manager-in-steam-settings.jpg)
+### 1\. Open the Steam Storage Manager Through the Steam Settings
+![Steam Storage Manager in Steam Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/steam-storage-manager-in-steam-settings.jpg)
 
  The Steam settings menu itself is pretty hard to find as well (a very strange way of doing things, Valve). However, you might’ve opened it before if you tried setting download speed limits. Simply look to the upper-left corner and click on**Steam > Settings > Storage** .
 
-### 2\. Open the Steam Storage Manager Through the Downloads Page ![Steam downloads page cog wheel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/steam-downloads-page-cog-wheel.jpg)
+### 2\. Open the Steam Storage Manager Through the Downloads Page
+![Steam downloads page cog wheel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/steam-downloads-page-cog-wheel.jpg)
 
  If you’re already on the Steam Downloads page, there’s also a**cog** on the upper right, just below the**close window button** . Click that, and it will take you right to the**Downloads** section on the**Settings** page.
 

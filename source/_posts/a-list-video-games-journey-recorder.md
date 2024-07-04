@@ -1,7 +1,7 @@
 ---
 title: A-List Video Games Journey Recorder
-date: 2024-06-25T13:20:50.833Z
-updated: 2024-06-26T13:20:50.833Z
+date: 2024-07-03T11:59:18.890Z
+updated: 2024-07-04T11:59:18.890Z
 tags:
   - games
 categories:
@@ -20,7 +20,8 @@ thumbnail: https://thmb.techidaily.com/80c97e26a42ec85426e926d8a619570205ae66ef3
 
 These are the best video game trackers.
 
-## 1. Grouvee ![grouvee](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/grouvee-game-page.jpg)
+## 1. Grouvee
+![grouvee](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/grouvee-game-page.jpg)
 
  Grouvee has a clean interface and is easy to navigate. It's bound to have any game you want to track because it's powered by Giant Bomb's API (a user-editable wiki).
 
@@ -30,7 +31,8 @@ These are the best video game trackers.
 
  Going beyond simply cataloging, Grouvee lets you leave comments to share your thoughts on the game as you play it. These are highlighted prominently on game pages, which makes Grouvee a logical choice if you're after a Goodreads for gaming. You can also track how long it took you to finish a game and what level of completion you achieved.
 
-## 2. GG ![gg](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gg.jpg)
+## 2. GG
+![gg](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gg.jpg)
 
  GG is a stylish website that focuses on the simple features you need from a video game tracker.
 
@@ -40,7 +42,8 @@ These are the best video game trackers.
 
  One downside to GG is that you need a paid membership to clone existing lists or merge your own. This can make it quite cumbersome when you first create your game collection as you have to go into each game manually. You also can't specify which platform you own the game on.
 
-## 3. Completionator ![Completionator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Completionator.png)
+## 3. Completionator
+![Completionator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Completionator.png)
 
  Completionator is a fantastic choice as a simple video game tracker, but it's also packed full of extra features if you want to take it to the next level.
 
@@ -50,7 +53,8 @@ These are the best video game trackers.
 
  Something that makes Completionator different is its social aspect. It has a forum to chat with others. More interesting, though, is the ability to complete challenges set by other people. This is like a book club, where you all agree to complete a game and discuss it after.
 
-## 4. HowLongToBeat ![HowLongToBeat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/HowLongToBeat.png)
+## 4. HowLongToBeat
+![HowLongToBeat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/HowLongToBeat.png)
 
  As you might guess from the name, HowLongToBeat was designed as a way to find out the length of a game. That's useful to know if you have a limited amount of time to play or want to crack through your backlog with the shortest games (which is one way to [decide what game to buy next](https://www.makeuseof.com/tag/decide-what-game-to-buy-next/) .)
 
@@ -60,7 +64,8 @@ These are the best video game trackers.
 
  The site is powered by community contribution, so be sure to let others know how long it takes you to complete a game once you've finished with it.
 
-## 5. Darkadia ![Darkadia](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Darkadia.png)
+## 5. Darkadia
+![Darkadia](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Darkadia.png)
 
  When most of our games are digital nowadays, it's a shame to miss out on the satisfaction of seeing everything lined up on shelves (an important factor when [comparing physical games against digital games](https://www.makeuseof.com/physical-games-vs-digital-games-best-to-buy/) .) That's where video game tracker Darkadia comes in, which brings your virtual collection to life.
 
@@ -70,7 +75,8 @@ These are the best video game trackers.
 
  Two excellent features include the ability to add private notes to a game (perhaps to record its digital game key), plus an export functionality so that you're not tied into Darkadia's platform.
 
-## 6. The Backloggery ![Backloggery](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Backloggery.png)
+## 6. The Backloggery
+![Backloggery](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Backloggery.png)
 
  Backloggery is a simple service compared to others listed here, but it still works as a way to catalog your video games.
 
@@ -78,7 +84,8 @@ These are the best video game trackers.
 
  You fill in the name, system, and region of the game alongside its completion status. Although this provides some flexibility to manage your games however you'd like, it's more cumbersome an experience than the other sites due to the manual nature. Nevertheless, if you want a simple video game tracker, Backloggery serves its purpose.
 
-## 7. Backloggd ![backloggd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/backloggd.jpg)
+## 7. Backloggd
+![backloggd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/backloggd.jpg)
 
  Backloggd is a free service to track your video games from all platforms. Use it to log the games you own, are currently playing, and have played. You can also build a wishlist, since Backloggd's catalog includes games which aren't yet released.
 

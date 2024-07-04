@@ -1,7 +1,7 @@
 ---
 title: Is LinkedIn's Game Add-On Really Worth Your Time?
-date: 2024-06-25T12:55:43.555Z
-updated: 2024-06-26T12:55:43.555Z
+date: 2024-07-03T11:59:20.270Z
+updated: 2024-07-04T11:59:20.270Z
 tags:
   - games
 categories:
@@ -34,15 +34,18 @@ thumbnail: https://thmb.techidaily.com/e72d3325cc82dd8ab836962e9def246da610dd4ef
 
  Now, LinkedIn has decided to join in with the fun, adding a Games tab populated with (at the time of writing), three "fun" games. These are Pinpoint, Crossclimb, and Queens.
 
-### Pinpoint ![Playing the Pinpoint game on LinkedIn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/pinpoint-linkedin-games.png)
+### Pinpoint
+![Playing the Pinpoint game on LinkedIn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/pinpoint-linkedin-games.png)
 
 [Pinpoint](https://www.linkedin.com/games/pinpoint/) is a simple game that has you guessing the category from the clues provided. There are five clues in total, with the idea being to guess the category from the fewest number of clues. Its simple nature means this is the most fun and least frustrating game on offer.
 
-### Crossclimb ![Playing the Crossclimb game on LinkedIn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/crossclimb-linkedin-games.png)
+### Crossclimb
+![Playing the Crossclimb game on LinkedIn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/crossclimb-linkedin-games.png)
 
 [Crossclimb](https://www.linkedin.com/games/crossclimb/) has two elements to it. First, you need to find the four-letter answers to the clues provided. Second, you need to rearrange the answers so that there's only one letter different to the answer above and below. Only then will you unlock the top and bottom clues.
 
-### Queens ![Playing the Queens game on LinkedIn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/queens-linkedin-games.png)
+### Queens
+![Playing the Queens game on LinkedIn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/queens-linkedin-games.png)
 
 [Queens](https://www.linkedin.com/games/queens/) is a little like Sudoku, in that you have to be aware of several different elements in order to place things correctly. In Sudoku, it's numbers, whereas in Queens, it's crowns. There's a lot of trial and error with this, so you'll either love it or hate it.
 

@@ -1,7 +1,7 @@
 ---
 title: "Explore Your Steam Profile: Tracking Gametime and Awards"
-date: 2024-06-25T13:03:54.190Z
-updated: 2024-06-26T13:03:54.190Z
+date: 2024-07-03T11:59:17.389Z
+updated: 2024-07-04T11:59:17.389Z
 tags:
   - games
 categories:
@@ -36,7 +36,8 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 
  Once you've seen your report, you can share it on social media and other platforms. You can also [check out your Steam Replay 2022](https://www.makeuseof.com/how-to-see-steam-replay-2022/) and compare how your gaming habits changed over the year.
 
-## How to See Your Steam Stats for 2023 ![Steam Year in Review Banner in the Steam Store Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/steam-year-in-review-banner-in-the-steam-store-page.jpg)
+## How to See Your Steam Stats for 2023
+![Steam Year in Review Banner in the Steam Store Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/steam-year-in-review-banner-in-the-steam-store-page.jpg)
 
  If you had opened the Steam app between December 19 and 21, 2023, you would have seen the Year in Review banner at the top of the store page. However, if you missed that, you can still see the banner if you scroll down a bit during December 2023.
 

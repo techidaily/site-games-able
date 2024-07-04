@@ -1,7 +1,7 @@
 ---
 title: No More Exclusives? Welcome New Era in Gaming!
-date: 2024-06-25T13:19:02.905Z
-updated: 2024-06-26T13:19:02.905Z
+date: 2024-07-03T11:59:17.145Z
+updated: 2024-07-04T11:59:17.145Z
 tags:
   - games
 categories:
@@ -59,7 +59,8 @@ thumbnail: https://thmb.techidaily.com/1c82bb77bafb99b9b6611b5302d1fb010d446c70d
 
  The same is true for Nintendo, which has released games featuring some of its biggest characters (Mario, Pokemon) on smartphones. The company hasn't yet released a Mario game on a rival console, but that doesn't mean it never will.
 
-## Why Platform Exclusives Are Going Away ![horizon forbidden west page on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/horizon-forbidden-west-page-on-steam.png)
+## Why Platform Exclusives Are Going Away
+![horizon forbidden west page on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/horizon-forbidden-west-page-on-steam.png)
 
  So, why are platform exclusives coming to an end? The obvious answer is that they're no longer the best option available to the companies responsible. The benefits of opening titles up to everyone, regardless of platform, massively outweigh the benefits of keeping titles exclusive to one console. As outlined above, Phil Spencer, someone who should know, said as much.
 

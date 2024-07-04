@@ -1,7 +1,7 @@
 ---
 title: Why Rewarding Game Making Could Hurt the Industry
-date: 2024-06-25T12:58:56.862Z
-updated: 2024-06-26T12:58:56.862Z
+date: 2024-07-03T11:59:18.613Z
+updated: 2024-07-04T11:59:18.613Z
 tags:
   - games
 categories:
@@ -38,7 +38,8 @@ thumbnail: https://thmb.techidaily.com/fef6203ef0318484835e6be326e62ec1be7635f93
 
  Game devs working on their own, meanwhile, will struggle unless they strike gold. Perhaps the best example is Eric Barone, the creator of the smash-hit farming sim Stardew Valley. Barone worked on his own for over four years, but his game’s success has repaid him significantly; the developer now has a net worth estimated at $45m.
 
-## Alternatives Are Already Available ![A screenshot showing the Hollow Knight kickstarter campaign.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/hollow-knight-kickstarter.png)
+## Alternatives Are Already Available
+![A screenshot showing the Hollow Knight kickstarter campaign.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/hollow-knight-kickstarter.png)
 
  Tipping is an interesting idea, but do we really need one more payment method?
 
@@ -56,7 +57,8 @@ thumbnail: https://thmb.techidaily.com/fef6203ef0318484835e6be326e62ec1be7635f93
 
  Encouraging a focus on tipping may just be papering over cracks in the model, and could serve to distract from the issue of a sustainable gaming economy that’s future-proofed against [AI and other threats](https://www.makeuseof.com/types-of-jobs-risk-ai/) .
 
-## When Tips Might Work ![A screenshot of Super Cable Boy’s page on itch.io showing a minimum price with an option to pay extra.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/super-cable-boy-itch.png)
+## When Tips Might Work
+![A screenshot of Super Cable Boy’s page on itch.io showing a minimum price with an option to pay extra.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/super-cable-boy-itch.png)
 
  Seeking some positivity, I reached out to two indie game developers for their take on the story.
 

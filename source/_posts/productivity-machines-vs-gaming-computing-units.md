@@ -1,7 +1,7 @@
 ---
 title: Productivity Machines Vs. Gaming Computing Units
-date: 2024-06-25T13:05:54.856Z
-updated: 2024-06-26T13:05:54.856Z
+date: 2024-07-03T11:59:18.322Z
+updated: 2024-07-04T11:59:18.322Z
 tags:
   - games
 categories:
@@ -36,7 +36,8 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 
  For a more concrete distinction between the two, let's talk about their hardware and why each type of PC is more inclined to use a certain kind of hardware over the other.
 
-## Gaming Hardware vs. Workstation Hardware ![Gaming hardware vs workstation hardware comparison](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/high-core-count-cpu.jpg)
+## Gaming Hardware vs. Workstation Hardware
+![Gaming hardware vs workstation hardware comparison](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/high-core-count-cpu.jpg)
 
  Image Credit: AMD/[AMD Media Library](https://www.amd.com/en/newsroom/media-library.html)
 

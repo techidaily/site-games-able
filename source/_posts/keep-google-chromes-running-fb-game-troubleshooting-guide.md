@@ -1,7 +1,7 @@
 ---
 title: "Keep Google Chromes Running: FB Game Troubleshooting Guide"
-date: 2024-06-25T13:12:11.754Z
-updated: 2024-06-26T13:12:11.754Z
+date: 2024-07-03T11:59:16.692Z
+updated: 2024-07-04T11:59:16.692Z
 tags:
   - games
 categories:
@@ -26,13 +26,15 @@ thumbnail: https://thmb.techidaily.com/2d544a9f24903c4dca30f002769bbf9a409fd7c6d
 
  So, restart Google Chrome and then check whether Facebook games are loading.
 
-### 2\. Enable JavaScript in Chrome ![Site Settings page of Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/site-settings-page.jpg)
+### 2\. Enable JavaScript in Chrome
+![Site Settings page of Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/site-settings-page.jpg)
 
  JavaScript is a [programming language](https://www.makeuseof.com/programming-language-different-types/) that helps browsers like Google Chrome understand the actions available on a website. It also creates and displays animations, sound effects, and other interactive features in online minigames, such as Facebook games.
 
  If JavaScript is disabled, Facebook games may not work properly or may not load at all. Therefore, if Facebook games are not loading in Chrome, make sure to [enable JavaScript](https://www.makeuseof.com/how-to-enable-javascript-chrome/) .
 
-### 3\. Clear Chrome's Cache Data ![Clear cache option in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/clear-cache-option.jpg)
+### 3\. Clear Chrome's Cache Data
+![Clear cache option in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/clear-cache-option.jpg)
 
  When you visit a website, your browser stores copies of certain files on your computer to load that website faster the next time you visit. These files contain images, scripts, links, and various other details of the website and are together known as cache data.
 

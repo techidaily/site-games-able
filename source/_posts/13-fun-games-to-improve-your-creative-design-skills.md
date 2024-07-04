@@ -1,7 +1,7 @@
 ---
 title: 13 Fun Games to Improve Your Creative Design Skills
-date: 2024-06-25T13:39:08.894Z
-updated: 2024-06-26T13:39:08.894Z
+date: 2024-07-03T11:59:16.635Z
+updated: 2024-07-04T11:59:16.635Z
 tags:
   - games
 categories:
@@ -18,7 +18,8 @@ thumbnail: https://thmb.techidaily.com/04c62b2f290b2c5f1899e5598ab465be77832cb08
 
  We’ve provided a list of 13 fun games you can play that will help improve your creative design skills. Some will make you a better graphic designer or illustrator, and some allow you to identify design elements with more accuracy. You can have fun playing and improving your creative design skills.
 
-## 1. Color ![Color design game.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/color-design-game.jpg)
+## 1. Color
+![Color design game.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/color-design-game.jpg)
 
  The Color game is a great way for you to learn color harmony while having fun. The most stressful part of this game is learning linguistic terms for different color pairings while simultaneously under the clock.
 
@@ -35,7 +36,8 @@ The game presents a gradient color wheel. There are six rounds:
 
  Depending on the round, you’ll complete a circle of color with a new color based on the round name. You’re against the clock, but there’s plenty of time. There’s a calm, meditative feeling when you get the color matched correctly.
 
-## 2. Pixactly ![Pixactly design game.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/pixactly-design-game.jpg)
+## 2. Pixactly
+![Pixactly design game.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/pixactly-design-game.jpg)
 
  Pixactly is a great game for pixel perfectionists. If you think you can estimate pixel sizes, now’s your time to test yourself.
 
@@ -43,7 +45,8 @@ The game presents a gradient color wheel. There are six rounds:
 
  It’s a crushing reality to draw a box and find you were off by over 50px. Back to the drawing board for more practice.
 
-## 3. I Love Hue ![I Love Hue app start page.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/i-love-hue-001.jpg)
+## 3. I Love Hue
+![I Love Hue app start page.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/i-love-hue-001.jpg)
 
 ![I Love Hue app game screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/i-love-hue-002.jpg)
 
@@ -55,7 +58,8 @@ Close
 
  The game developers even released a sequel for I Love Hue called I Love Hue Too. Both games are fun and simple ways to test your color perception.
 
-## 4. Can’t Unsee ![Can't Unsee design game.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/cant-unsee-design-game.jpg)
+## 4. Can’t Unsee
+![Can't Unsee design game.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/cant-unsee-design-game.jpg)
 
  This is the design game for perfectionists. Can’t Unsee presents two UX/UI designs, and you must select which one is wrong.
 
@@ -63,13 +67,15 @@ Close
 
  This game is helpful for those new to UX/UI design. Once you’ve mastered the do’s and don’ts of interface design, you should [master some other technical skills of UX/UI designers](https://www.makeuseof.com/ui-ux-designer-skills-you-should-master/) .
 
-## 5. Kolor ![Kolor design game.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/kolor-design-game.jpg)
+## 5. Kolor
+![Kolor design game.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/kolor-design-game.jpg)
 
  Kolor is another great color-matching game. It’s a simple premise: match the color to one of the options.
 
  This game is scored and timed, and with every few rounds, it increases in difficulty. If you’ve got a good eye for color, you’ll enjoy this game and score highly.
 
-## 6. It’s Centred That ![It's Centred That design game screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/its-centered-that-001.jpg)
+## 6. It’s Centred That
+![It's Centred That design game screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/its-centered-that-001.jpg)
 
 ![It's Centred That design game screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/its-centered-that-002.jpg)
 
@@ -81,25 +87,29 @@ Close
 
  In ten levels, you’ll be asked if a black dot is central to the shape on which it's placed. Select the happy emoji if you think it is or the poop emoji if you think it isn’t. Keep going through the rounds and find your results. It’s a great practice for eye measurements in design.
 
-## 7. Hex Invaders ![Hex Invaders design game.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hex-invaders-design-game.jpg)
+## 7. Hex Invaders
+![Hex Invaders design game.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hex-invaders-design-game.jpg)
 
  Another great color game, Hex Invaders helps you identify color combinations by their HEX codes. The HEX code is a 6-digit code that uses letters and numbers to represent the levels of Red, Green, and Blue—RGB—that make up any screen color.
 
  Hex Invaders is reminiscent of arcade games from the past. It’s easy to play and helps you recognize HEX codes quickly and with more understanding than just copying and pasting them in Adobe Illustrator.
 
-## 8. Font Memory Game ![Font Memory Game screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/font-memory-game-design-game.jpg)
+## 8. Font Memory Game
+![Font Memory Game screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/font-memory-game-design-game.jpg)
 
  It’s everybody’s favorite card game—Snap—for typography enthusiasts. This game tests not only your creative knowledge of font recognition, but also your memory.
 
  Flip each card presenting a typographic example and match it with its partner. This game is low-stakes and a reminder to use some [games or apps to improve your memory](https://www.makeuseof.com/best-adult-memory-game-apps/) in your spare time, too.
 
-## 9. The Bézier Game ![The Bezier Game design game screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/bezier-design-game.jpg)
+## 9. The Bézier Game
+![The Bezier Game design game screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/bezier-design-game.jpg)
 
  If you draw with the Bézier tool in Illustrator or other software, you’ll know that the best drawings use the least amount of nodes and steps. The Bézier Game is a fun game to test your Bézier skills.
 
  The game provides a shape outline and a number of nodes. You must use the Bézier tool to draw the outline in as many nodes as have been provided. You can’t use more. This game will test your skills and sanity as you improve your Bézier drawing technique. Once you've mastered the Bézier tool, take your skills to Adobe Illustrator and learn [how to scale your stroke widths](https://www.makeuseof.com/illustrator-how-to-scale-strokes-proportionally/) too.
 
-## 10. Figma Ninja ![Figma Ninja design game in Figma.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/figma-ninja-design-game.jpg)
+## 10. Figma Ninja
+![Figma Ninja design game in Figma.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/figma-ninja-design-game.jpg)
 
  This game is most interesting because it isn’t programmed like a game. There’s no animation or automation. Figma Ninja is an open Figma file where each page is a game screen; it has instructions on the pages, and you move through each page yourself.
 
@@ -107,7 +117,8 @@ Close
 
  Figma Ninja has turned design into a game while retaining the background of a design program. Read our [beginner’s guide to Figma](https://www.makeuseof.com/how-to-use-figma-beginners-guide/) if you want a level playing field before playing.
 
-## 11. Kerntype ![Kerntype design game.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/kerntype-design-game.jpg)
+## 11. Kerntype
+![Kerntype design game.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/kerntype-design-game.jpg)
 
  Kerning is an important aspect of graphic design. Think you know about correct letter spacing? Kerntype is a fun and helpful game to train your eye for better letter spacing.
 
@@ -121,7 +132,8 @@ Close
 
  It’s a low-stakes game with no points system or timer. You can get as many wrong as there are available, but it’s better for your creative design skills to think about the HEX code and what each part means for colors.
 
-## 13. Dudel Draw ![Dudel Draw app home page.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/dudle-draw-app-001.jpg)
+## 13. Dudel Draw
+![Dudel Draw app home page.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/dudle-draw-app-001.jpg)
 
 ![Dudel Draw app with doodle on screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/dudel-draw-app-002.jpg)
 

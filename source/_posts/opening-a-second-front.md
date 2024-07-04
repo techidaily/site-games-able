@@ -1,7 +1,7 @@
 ---
 title: Opening a Second Front
-date: 2024-06-25T13:36:41.517Z
-updated: 2024-06-26T13:36:41.517Z
+date: 2024-07-03T11:59:20.388Z
+updated: 2024-07-04T11:59:20.388Z
 tags:
   - games
 categories:
@@ -49,7 +49,8 @@ thumbnail: https://thmb.techidaily.com/2dc71f07a766ca604beda3fe20bd5fd81321c87e0
 
 **Optional Login:** If you've ever been frustrated by having to log in to the GeForce Experience app just to download the latest drivers, you're not alone. The login requirement has been removed—but you'll still be eligible for some bonuses and rewards if you choose to log in.
 
-## Getting Started With the Nvidia App ![nvidia app - install](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/nvidia-app-install.PNG)
+## Getting Started With the Nvidia App
+![nvidia app - install](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/nvidia-app-install.PNG)
 
  As it's a new and trending app, you're sure to find some sketchy sites offering downloads that may not be safe or come bundled with other software. You should never download the app from anywhere except the [official Nvidia website](https://www.nvidia.com/en-us/software/nvidia-app/) .
 
@@ -69,7 +70,8 @@ thumbnail: https://thmb.techidaily.com/2dc71f07a766ca604beda3fe20bd5fd81321c87e0
 
  Finally, you can log in to an Nvidia account for rewards such as an exclusive Call of Duty bundle. This step is entirely optional, and you won't be missing out on any driver features by not logging in.
 
-## Overview of the Nvidia App Interface ![nvidia app- drivers screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/nvidia-app-drivers-screen.PNG)
+## Overview of the Nvidia App Interface
+![nvidia app- drivers screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/nvidia-app-drivers-screen.PNG)
 
  When you first launch the app, you'll find the home screen, containing quick links to some apps it found and a Discover tab to launch the other Nvidia creative apps.
 

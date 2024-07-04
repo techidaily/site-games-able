@@ -1,7 +1,7 @@
 ---
 title: Change Your Gaming Console's Lookup
-date: 2024-06-25T12:48:39.371Z
-updated: 2024-06-26T12:48:39.371Z
+date: 2024-07-03T11:59:19.110Z
+updated: 2024-07-04T11:59:19.110Z
 tags:
   - games
 categories:
@@ -28,7 +28,8 @@ thumbnail: https://thmb.techidaily.com/4552dd09d3248cdc2d2f0b5a8866485e28d07f676
 
  Console owners often enjoy making their user interface unique with custom themes and backgrounds. But can you change your background or theme on the PS5?
 
-## Can You Change Your PS5 Background? The Options Explained ![background on ps5 with baldurs gate 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/background-on-ps5.jpg)
+## Can You Change Your PS5 Background? The Options Explained
+![background on ps5 with baldurs gate 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/background-on-ps5.jpg)
 
  While you can [change the background wallpaper on your PS4](https://www.makeuseof.com/how-to-change-ps4-wallpaper/) , the background on your PS5 depends on what game or menu icon you have selected. These automatic backgrounds can't be changed and will alternate according to which menu item you have selected.
 

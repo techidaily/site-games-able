@@ -1,7 +1,7 @@
 ---
 title: Exploring Why Gamer-Friendly Monitors Are Overrated
-date: 2024-06-25T13:15:41.206Z
-updated: 2024-06-26T13:15:41.206Z
+date: 2024-07-03T11:59:19.955Z
+updated: 2024-07-04T11:59:19.955Z
 tags:
   - games
 categories:
@@ -26,7 +26,8 @@ thumbnail: https://thmb.techidaily.com/639d037a37b2c4b70f42aebe7df41fe55ddc0ed82
 
  Of course, there are a few monitors that perform admirably for HDR gaming, but you might end up paying even more than your entire PC in some cases.
 
-## 2\. The HDR400 Trap ![Dual monitors desk set up for visual comparison.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dual-monitors-desk-set-up-for-visual-comparison.jpg)
+## 2\. The HDR400 Trap
+![Dual monitors desk set up for visual comparison.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dual-monitors-desk-set-up-for-visual-comparison.jpg)
 
 [If you bought an HDR monitor and aren't enjoying the experience](https://www.makeuseof.com/reasons-not-enjoying-true-hdr/) , then you've likely fallen into the HDR400 trap. True HDR (HDR10) monitors require at least 1,000 nits of peak brightness, but you can find plenty of monitors that feature an HDR400 certification. If the monitor has a wide color gamut, you will get better color reproduction and better highlights in brighter scenes with HDR400.
 
@@ -40,7 +41,8 @@ thumbnail: https://thmb.techidaily.com/639d037a37b2c4b70f42aebe7df41fe55ddc0ed82
 
  In contrast, monitors that have support for dynamic metadata or HDR10+ fare better. With dynamic metadata, you get dynamic brightness and colors on a frame-by-frame basis. This is why games with HDR support can look great on certain monitors but bad on others. There's no universal or consistent experience.
 
-## 4\. You’ll Spend More Time Tweaking In-Game Settings ![young boy interacting with game settings on a monitor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/young-boy-doing-game-settings-on-the-monitor.jpg)
+## 4\. You’ll Spend More Time Tweaking In-Game Settings
+![young boy interacting with game settings on a monitor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/young-boy-doing-game-settings-on-the-monitor.jpg)
 
  HDR is something that should work seamlessly and elevate the immersion in your gaming sessions. However, it can quickly turn into a source of frustration when it doesn't work. You might end up spending a lot of time within game menus, playing around with lighting and other graphical settings.
 
@@ -52,7 +54,8 @@ thumbnail: https://thmb.techidaily.com/639d037a37b2c4b70f42aebe7df41fe55ddc0ed82
 
  Developers don't want to dedicate a lot of time or budget to creating an experience that only a handful of people will be able to enjoy. The experience you get from games that support HDR varies from title to title. One game might look superb, but others won't. In comparison, the HDR experience is usually better on consoles because those games are developed with specific hardware in mind.
 
-## 6\. You Need a Powerful PC ![computer monitor set up on a desk for gaming](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/big-flat-screen-computer-monitor-set-up-on-a-desk-for-gaming.jpg)
+## 6\. You Need a Powerful PC
+![computer monitor set up on a desk for gaming](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/big-flat-screen-computer-monitor-set-up-on-a-desk-for-gaming.jpg)
 
  It's obvious that you care about visuals if you're thinking of buying an HDR monitor. This means cranking all those graphical settings in-game to the max and turning on HDR when it's available. Now while HDR itself doesn't require any extra graphical horsepower, playing games at max settings does require high-end hardware.
 

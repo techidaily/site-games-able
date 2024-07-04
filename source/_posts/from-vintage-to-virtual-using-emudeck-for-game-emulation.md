@@ -1,7 +1,7 @@
 ---
 title: "From Vintage to Virtual: Using EmuDeck for Game Emulation"
-date: 2024-06-25T13:03:57.195Z
-updated: 2024-06-26T13:03:57.195Z
+date: 2024-07-03T11:59:16.916Z
+updated: 2024-07-04T11:59:16.916Z
 tags:
   - games
 categories:
@@ -47,7 +47,8 @@ thumbnail: https://thmb.techidaily.com/128652f3635b5c02571aebd32ea42bdf5de3d8228
 
  To get started, switch to Desktop Mode by holding the power button down and selecting**Switch to Desktop.**
 
-### 1\. Install and Set Up EmuDeck ![screenshot of the emudeck install package on the steam deck desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emudeck_install_package_on_desktop.jpg)
+### 1\. Install and Set Up EmuDeck
+![screenshot of the emudeck install package on the steam deck desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emudeck_install_package_on_desktop.jpg)
 
  Once you've switched to Desktop Mode, you'll need to head to the [EmuDeck website](https://www.emudeck.com) and download the install package. Make sure you do this on your actual Steam Deck, unless you're willing to copy it over from another device.
 
@@ -89,7 +90,8 @@ We'll choose easy mode, as it's the most straightforward.
 
  With that, you have everything you need to get the emulation going. There's still one more step to completing the Steam Deck emulation experience, though.
 
-### 3\. Add Emulators to Your Steam Deck's Gaming Mode ![screenshot of emulator categories on the steam deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emulators_on_steam_deck.jpg)
+### 3\. Add Emulators to Your Steam Deck's Gaming Mode
+![screenshot of emulator categories on the steam deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emulators_on_steam_deck.jpg)
 
  So now you have a bunch of emulators installed. But you don't really want to launch into desktop mode every time you want to play them.
 

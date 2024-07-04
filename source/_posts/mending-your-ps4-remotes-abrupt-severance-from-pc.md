@@ -1,7 +1,7 @@
 ---
 title: Mending Your PS4 Remote's Abrupt Severance From PC
-date: 2024-06-25T13:00:19.337Z
-updated: 2024-06-26T13:00:19.337Z
+date: 2024-07-03T11:59:17.424Z
+updated: 2024-07-04T11:59:17.424Z
 tags:
   - games
 categories:
@@ -24,7 +24,8 @@ thumbnail: https://thmb.techidaily.com/60c0536f1fc5d6831a20d36d45e0ac93bc7d119ca
 
  If it's the controller, consider contacting Sony or taking it to a hardware professional to see if they can fix it. If none of them can help, you might have to replace the controller. But if the controller works fine after testing it on other devices, the problem could be your Windows computer.
 
-## 2\. Check for Port Issues ![Picture of Black Laptop’s USB Ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/endpoint-security-best-practices-regulate-usb-ports.jpg)
+## 2\. Check for Port Issues
+![Picture of Black Laptop’s USB Ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/endpoint-security-best-practices-regulate-usb-ports.jpg)
 
  If you're using your controller wired (for example, when using it with the Remote Play app), it could be that the port you're connecting it to has a fault. To rule that out, try plugging the gamepad into another port and see if you can play without it disconnecting. If it doesn't disconnect, you might want to have a hardware professional look at the port where you're experiencing the issue.
 

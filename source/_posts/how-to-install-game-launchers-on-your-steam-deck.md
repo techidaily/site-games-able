@@ -1,7 +1,7 @@
 ---
 title: How to Install Game Launchers on Your Steam Deck
-date: 2024-06-25T12:59:16.909Z
-updated: 2024-06-26T12:59:16.909Z
+date: 2024-07-03T11:59:17.498Z
+updated: 2024-07-04T11:59:17.498Z
 tags:
   - games
 categories:
@@ -30,7 +30,8 @@ thumbnail: https://thmb.techidaily.com/d6e8710c36c5978badec227a1052e8c4e84f42f10
 
 Instead, we have solutions designed specifically for the Steam Deck.
 
-## Heroic Games Launcher for GOG Galaxy, Epic Games Launcher, and Amazon Games ![screenshot of heroic game launcher in the discover store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_heroic_in_discover_store.jpg)
+## Heroic Games Launcher for GOG Galaxy, Epic Games Launcher, and Amazon Games
+![screenshot of heroic game launcher in the discover store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_heroic_in_discover_store.jpg)
 
  Heroic Games Launcher is a frontend for three different game launchers, letting you gain access the Epic Games Launcher, GOG Galaxy, and Amazon Games App with one installation.
 
@@ -56,7 +57,8 @@ Instead, we have solutions designed specifically for the Steam Deck.
 
  This will add shortcuts to Gaming Mode, allowing you to launch these games without worrying about Desktop Mode.
 
-## NonSteamLaunchers for Battle.net, EA App, and More ![screenshot of nonsteamlaunchers list of launchers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_nonsteamlaunchers_list_of_launchers.jpg)
+## NonSteamLaunchers for Battle.net, EA App, and More
+![screenshot of nonsteamlaunchers list of launchers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_nonsteamlaunchers_list_of_launchers.jpg)
 
  NonSteamLaunchers can be a little bit more difficult to install. This isn't available in the Discover Store, so you'll need to enter Desktop Mode and navigate to the [GitHub page for NonSteamLaunchers](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) .
 

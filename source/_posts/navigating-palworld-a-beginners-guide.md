@@ -1,7 +1,7 @@
 ---
 title: "Navigating PalWorld: A Beginner's Guide"
-date: 2024-06-25T13:06:49.236Z
-updated: 2024-06-26T13:06:49.236Z
+date: 2024-07-03T11:59:18.917Z
+updated: 2024-07-04T11:59:18.917Z
 tags:
   - games
 categories:
@@ -55,7 +55,8 @@ thumbnail: https://thmb.techidaily.com/d108669ab03559524bb77121c4032c30df350e077
 
  However, there's currently no crossplay between the platforms, as they’re not the same version. Cross-platform support will be released in a future update, according to the developers.
 
-## Palworld PC Requirements ![Steam Deck playing Palworld](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/steam-deck-playing-palworld-1.JPG)
+## Palworld PC Requirements
+![Steam Deck playing Palworld](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/steam-deck-playing-palworld-1.JPG)
 
 Jhet Borja/MakeUseOf
 

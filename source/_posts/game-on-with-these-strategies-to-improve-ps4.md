@@ -1,7 +1,7 @@
 ---
 title: Game On with These Strategies to Improve PS4
-date: 2024-06-25T12:48:41.656Z
-updated: 2024-06-26T12:48:41.656Z
+date: 2024-07-03T11:59:17.310Z
+updated: 2024-07-04T11:59:17.310Z
 tags:
   - games
 categories:
@@ -38,7 +38,8 @@ thumbnail: https://thmb.techidaily.com/4552dd09d3248cdc2d2f0b5a8866485e28d07f676
 
  Take a look at [how to add an external drive to your PS4](https://www.makeuseof.com/set-up-use-external-storage-ps4/) if you need a lot more space. With this, you can move some games to the secondary storage location and keep enough space free on your system disk for it to run smoothly.
 
-## 2\. Physically Clean Your PlayStation 4 ![PS4 Cleaning with Air](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/05/07-PS4-Cleaning-with-Air.jpg)
+## 2\. Physically Clean Your PlayStation 4
+![PS4 Cleaning with Air](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/05/07-PS4-Cleaning-with-Air.jpg)
 
  If you've had your PS4 for some time, chances are that dust and other grime have built up inside. This can deteriorate performance if left unchecked—with more heat trapped in the system from the debris, the system fans have to work harder, decreasing overall efficiency.
 

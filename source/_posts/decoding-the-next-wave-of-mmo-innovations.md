@@ -1,7 +1,7 @@
 ---
 title: Decoding the Next Wave of MMO Innovations
-date: 2024-06-25T13:25:32.432Z
-updated: 2024-06-26T13:25:32.432Z
+date: 2024-07-03T11:59:18.566Z
+updated: 2024-07-04T11:59:18.566Z
 tags:
   - games
 categories:
@@ -47,7 +47,8 @@ MMOs allow you to play as:
 
  Finally, some players want to feel a sense of longevity and progress with the games they choose to play. A game like NBA or Call of Duty would have their progress essentially wiped year-on-year if they wanted to keep up with the latest titles. On an MMO, you can commit to playing on one account for the next 10–20 years at least, usually. MMOs tend to be constantly-evolving games that require a commitment, a bit of buy-in from you and other players. That speaks to certain gamers, while others find it too intense.
 
-## The History of MMO Games ![Old School Runescape running on the RuneLite app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/old-school-runescape.jpg)
+## The History of MMO Games
+![Old School Runescape running on the RuneLite app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/old-school-runescape.jpg)
 
  MMO games have come a long way from where they first started. Though the genre's popularity has fluctuated over the years, it has been solidified as one of the most popular types of gaming available.
 
@@ -55,7 +56,8 @@ MMOs allow you to play as:
 
  By the 2000s, MMOs like World of Warcraft, RuneScape, and Lord of the Rings Online were all popular choices, amassing pretty impressive player bases. In the 2010s, you'd have seen titles like Star Wars: The Old Republic, Black Desert, and The Elder Scrolls Online. The fluctuating popularity of MMOs has clearly not prevented new titles from being released, though the peak of World of Warcraft and similar titles in the early 21st century seems unlikely to be repeated.
 
-## State of Play: The Modern MMO ![Data about New World on the Steam Charts website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/steamcharts-new-world.jpg)
+## State of Play: The Modern MMO
+![Data about New World on the Steam Charts website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/steamcharts-new-world.jpg)
 
  Battle royale and FPS have arguably been the most prominent genres in gaming for quite some time, which has led to an [MMO drought from developers](https://www.makeuseof.com/what-is-mmo-drought/) . It is unsurprising that the masses of gamers cannot offer the level of commitment necessary to play an MMO properly. Even if they could, the MMO then has the difficult task of offering enough content to sustain their attention.
 

@@ -1,7 +1,7 @@
 ---
 title: Struggle Your Way Through Frustrating Fiddly Games
-date: 2024-06-25T13:35:02.766Z
-updated: 2024-06-26T13:35:02.766Z
+date: 2024-07-03T11:59:20.070Z
+updated: 2024-07-04T11:59:20.070Z
 tags:
   - games
 categories:
@@ -20,7 +20,8 @@ thumbnail: https://thmb.techidaily.com/5279af7c39b88fd4998fb7b9c2ae678e663ed7715
 
 Let’s explore some of the names leading the scene.
 
-## 1\. Jump King ![The top of the tower in base Jump King](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/jump-king.jpg)
+## 1\. Jump King
+![The top of the tower in base Jump King](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/jump-king.jpg)
 
  If you just discovered [what Foddian games are](https://www.makeuseof.com/what-are-foddian-games/) , chances are you’ve heard of Jump King. It’s a massive title in the community, the completion of which holds a lot of sway. Jump King is one of the easiest Foddian games to grasp because of its simple mechanics.
 
@@ -38,7 +39,8 @@ Let’s explore some of the names leading the scene.
 
 **Download** : Jump King on [Steam](https://store.steampowered.com/app/1061090/Jump%5FKing/) , the [Nintendo Store](https://www.nintendo.com/store/products/jump-king-switch/) , the [PlayStation Store](https://store.playstation.com/en-us/product/UP3883-CUSA18541%5F00-JUMPKINGPS4US001) , or the [Xbox Store](https://www.xbox.com/en-US/games/store/jump-king/9PNLTX169N7L) .
 
-## 2\. Getting Over It ![A guy in a pot holding a sledgehammer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/a-guy-in-a-pot-holding-a-sledgehammer.jpg)
+## 2\. Getting Over It
+![A guy in a pot holding a sledgehammer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/a-guy-in-a-pot-holding-a-sledgehammer.jpg)
 
  Getting Over It with Bennet Foddy, often called “Getting Over It,” is often considered the first game to fall under the Foddian game genre, even though it isn’t the first by release date. The game allows you to maneuver Diogenes, the pot-sitting, sledgehammer-wielding character, to help him break the surly bonds of earth and touch the sky.
 
@@ -52,7 +54,8 @@ Let’s explore some of the names leading the scene.
 
 **Download** : Getting Over It with Bennet Foddy on [Steam](https://store.steampowered.com/app/240720/Getting%5FOver%5FIt%5Fwith%5FBennett%5FFoddy/) ,[Google Play](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029855/https://play.google.com/store/apps/details?id=com.noodlecake.gettingoverit&hl=en&gl=US) , or the [Apple Store](https://apps.apple.com/us/app/getting-over-it/id1319618742) .
 
-## 3\. Pogostuck ![About to cross the finish line in Pogostuck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/about-to-cross-the-finish-line-in-pogostuck.jpg)
+## 3\. Pogostuck
+![About to cross the finish line in Pogostuck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/about-to-cross-the-finish-line-in-pogostuck.jpg)
 
  The experience of attempting to beat Pogostuck is summarized in the official title, Pogostuck: Rage With Your Friends. You play as a caveman on a pogo stick, attempting to scale large hills, garden-themed locations, and more to get to the top—like other Foddian games.
 
@@ -62,7 +65,8 @@ Let’s explore some of the names leading the scene.
 
 **Download** : Pogostuck on [Steam](https://store.steampowered.com/app/688130/Pogostuck%5FRage%5FWith%5FYour%5FFriends/) .
 
-## 4\. Bread & Fred ![Bread and Fred sitting on a platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/bread-and-fred-sitting-on-a-platform.jpg)
+## 4\. Bread & Fred
+![Bread and Fred sitting on a platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/bread-and-fred-sitting-on-a-platform.jpg)
 
  Bread & Fred builds on the existing Foddian formula but adds unique elements that completely alter the gameplay flow. It’s a two-player game that follows the journey of Bread & Fred, two adorable penguins who want to reach the snow-capped summit. Both players must work together to get the penguins to the very top.
 
@@ -74,7 +78,8 @@ Let’s explore some of the names leading the scene.
 
 **Download** : Bread & Fred on [Steam](https://store.steampowered.com/app/1607680/Bread%5F%5FFred/) and [Epic Games](https://store.epicgames.com/en-US/p/bread-and-fred-1db362) .
 
-## 5\. Only Up ![Gazing down at the world limit on spine in Only Up!](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gazing-down-at-the-world-limit-on-spine-in-only-up.jpg)
+## 5\. Only Up
+![Gazing down at the world limit on spine in Only Up!](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gazing-down-at-the-world-limit-on-spine-in-only-up.jpg)
 
  Only Up! has helped redefine the Foddian genre, challenging what it means to be a Foddian game. It is the only 3D title on this list, but it still contains the key traits of a good Foddian game. The goal is to help a teenage boy, Jackie, escape his life while learning about the word as he ascends to the top.
 

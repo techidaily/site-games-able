@@ -1,7 +1,7 @@
 ---
 title: Leveraging the Power of Steam Currency
-date: 2024-06-25T12:48:35.123Z
-updated: 2024-06-26T12:48:35.123Z
+date: 2024-07-03T11:59:19.477Z
+updated: 2024-07-04T11:59:19.477Z
 tags:
   - games
 categories:
@@ -102,11 +102,13 @@ thumbnail: https://thmb.techidaily.com/0c8f696950ea736c2174f2d7e8a74906124afdbd8
 
 **Chat Items** are emoticons and stickers unlockable for use in Steam's on-platform chat feature. There are different kinds of chat items, but they all work in pretty much the same way.
 
-## How to Award Steam Points to Others ![User reviews of a Steam game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Steam-reviews.jpg)
+## How to Award Steam Points to Others
+![User reviews of a Steam game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Steam-reviews.jpg)
 
  As mentioned above, you can also use your Steam Points to award other Steam Community members for their contributions. To do this, select the**Award** button on a comment. From there, you can select how many Steam Points you want to spend on the award (from 300 to 4800), depending on how valuable the comment was to you.
 
-## How to Redeem Steam Points ![Previewing an item for sale on the Steam Points Shop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/steam-points-shop-buy-item.jpg)
+## How to Redeem Steam Points
+![Previewing an item for sale on the Steam Points Shop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/steam-points-shop-buy-item.jpg)
 
  When you find an item you want, click it to display a preview of how unlocking that item will affect your profile. If you like it and you have enough Steam Points, click the box displaying the cost of the item in the lower right corner of the pane.
 

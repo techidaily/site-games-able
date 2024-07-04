@@ -1,7 +1,7 @@
 ---
 title: PlayStation Hygiene Masterclass for Gamers
-date: 2024-06-25T13:33:14.429Z
-updated: 2024-06-26T13:33:14.429Z
+date: 2024-07-03T11:59:16.947Z
+updated: 2024-07-04T11:59:16.947Z
 tags:
   - games
 categories:
@@ -63,7 +63,8 @@ thumbnail: https://thmb.techidaily.com/c8cc0b50d6a862024b28911d2e2409173d05c3a9f
 
  Thankfully, both the PS5 console and DualSense controller can be easily cleaned without having to be fully dismantled. As long as you are using the correct methods and products, not much can go wrong. To learn how to safely clean both your PS5 console and DualSense controller, see the instructions below.
 
-### Cleaning Your PS5 Console ![How to safely clean your PS5 console before and after](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/241E8BA0-13CF-411F-A96A-2055E42D1869.jpeg)
+### Cleaning Your PS5 Console
+![How to safely clean your PS5 console before and after](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/241E8BA0-13CF-411F-A96A-2055E42D1869.jpeg)
 
  The only thing you will have to remove from your PS5 console to clean it is the covers. These covers are intentionally easy to remove for cleaning and even customization purposes. Here’s how:
 

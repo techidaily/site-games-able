@@ -1,7 +1,7 @@
 ---
 title: How to Smartly Pick the Right Handheld Videogame Device
-date: 2024-06-25T12:48:39.562Z
-updated: 2024-06-26T12:48:39.562Z
+date: 2024-07-03T11:59:17.298Z
+updated: 2024-07-04T11:59:17.298Z
 tags:
   - games
 categories:
@@ -30,7 +30,8 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 
  With the increasing interest in gaming handhelds, should you pull the trigger and get one for yourself? Here are some things to consider before buying a handheld gaming console and how to choose which one is best for you.
 
-## 1 Decide on Your Budget ![rog ally](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/rog-ally.jpg)
+## 1 Decide on Your Budget
+![rog ally](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/rog-ally.jpg)
 
  Hannah Stryker / MakeUseOf
 
@@ -52,7 +53,8 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 
  However, not all games are optimized for handheld gaming, even if you can install them on one of these consoles. This is especially true for [real-time strategy games](https://www.makeuseof.com/what-are-real-time-strategy-games-rts-games/) , often designed to be played on a larger screen with a mouse and keyboard. If these are the games you like, we suggest sticking to your PC or at least getting a console dock, like these [great ROG Ally docks](https://www.makeuseof.com/best-rog-ally-docks/) or a genuine Valve Docking Station for the Steam Deck.
 
-## 3 Determine Whether You Want to Use a Dock ![valve steam deck docked](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/valve-steam-deck-docked.jpg)
+## 3 Determine Whether You Want to Use a Dock
+![valve steam deck docked](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/valve-steam-deck-docked.jpg)
 
 [Valve](https://store.steampowered.com/steamdeck)
 
@@ -72,7 +74,8 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 
  But if your games use a lot of battery power, the handheld’s portability advantage diminishes, as you need to find an outlet to recharge it while you’re playing. But if you only play games for less than an hour a day or prefer older, simpler games that don’t require that much power, then a handheld gaming console will make sense for you.
 
-## 5 Check the Specs ![Steam Deck SSD installed without sleeve](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/steam-deck-ssd-installed-without-sleeve-1.JPG)
+## 5 Check the Specs
+![Steam Deck SSD installed without sleeve](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/steam-deck-ssd-installed-without-sleeve-1.JPG)
 
  Jhet Borja/MakeUseOf  
 

@@ -1,7 +1,7 @@
 ---
 title: Optic Power Vs. Mechanical Might in Gaming
-date: 2024-06-25T12:48:40.707Z
-updated: 2024-06-26T12:48:40.707Z
+date: 2024-07-03T11:59:17.199Z
+updated: 2024-07-04T11:59:17.199Z
 tags:
   - games
 categories:
@@ -34,7 +34,8 @@ thumbnail: https://thmb.techidaily.com/5ccaaabe736ffa61c5b51b0c29ef16cab934fcf39
 
 So, which is better for gaming?
 
-## Optical Switches vs. Mechanical Switches ![Mechanical keyboard with back-lighting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/vipul-jha-a4X1cdC1QAc-unsplash.jpg)
+## Optical Switches vs. Mechanical Switches
+![Mechanical keyboard with back-lighting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/vipul-jha-a4X1cdC1QAc-unsplash.jpg)
 
  There are a few important aspects of mechanical switches you must consider when deciding which is better for gaming, including:
 
@@ -73,7 +74,8 @@ Let's take a look at these four factors in closer detail.
 
  The [Razer Huntsman](https://www.amazon.com/Razer-Huntsman-Tournament-Tenkeyless-Keyboard/dp/B07V25YPVW?linkCode=ll1&tag=muo-v2-2jbrk02-20&linkId=5b69344691c987a7fdf2e0c9ed994455&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU2004621&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Foptical-vs-mechanical-switches-best-for-gaming%2F&asc%5Fcampaign=Evergreen) series offers the Razer Linear Optical Reds and the Razer Clicky Optical Purples. Gateron also has several options, including Gateron Optical Black, Blue, Brown, and Red, each with characteristics similar to their mechanical counterparts.
 
-### Price and Availability ![Sleek mechanical keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/jay-zhang-XX8zaI3XbvE-unsplash.jpg)
+### Price and Availability
+![Sleek mechanical keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/jay-zhang-XX8zaI3XbvE-unsplash.jpg)
 
  Because there are dozens of manufacturers and types of mechanical keys, you're likely to find a mechanical keyboard you like fairly easily. You can also modify most mechanical keysets to make them louder, quieter, quicker, or last longer. As mentioned above, buying a hot-swappable mechanical keyboard makes this process much easier, as you won't have to desolder the switches before changing or silencing them.
 

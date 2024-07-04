@@ -1,7 +1,7 @@
 ---
 title: "Pimax Crystal Review: The Best Looking PCVR Headset Around, but Still Buggy"
-date: 2024-06-25T12:48:39.123Z
-updated: 2024-06-26T12:48:39.123Z
+date: 2024-07-03T11:59:18.908Z
+updated: 2024-07-04T11:59:18.908Z
 tags:
   - games
 categories:
@@ -89,7 +89,8 @@ SnapDragon XR2
 
 [See at Pimax](https://pimax.com/crystal/) [See at Amazon](https://www.amazon.com/Pimax-Crystal-headsets-All-One/dp/B0BZSGFLQ7?tag=makeusw-20&ascsubtag=UUmuoUeUpU2031352&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fpimax-crystal-review%2F&asc%5Fcampaign=Affiliate)
 
-## Unpacking: There's a Lot ![pimax crystal - box contents](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-box-contents.jpg)
+## Unpacking: There's a Lot
+![pimax crystal - box contents](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-box-contents.jpg)
 
  James Bruce / MakeUseOf
 
@@ -102,7 +103,8 @@ Inside the large and densely packed box you'll find:
 * USB power adaptor, and USB A to A cable to connect the hub to your computer.
 * Two USB-A to C cables for charging the controllers.
 
-## Controllers: Functional but Nasty ![pimax crystal - controller buttons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-controller-buttons.jpg)
+## Controllers: Functional but Nasty
+![pimax crystal - controller buttons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-controller-buttons.jpg)
 
  James Bruce / MakeUseOf
 
@@ -120,7 +122,8 @@ Related
 
  The Pimax Crystal controllers are good enough in that they get the job done and track well, but have no unique features or design. They're a far cry from the [PSVR2](https://www.makeuseof.com/playstation-vr2-review/) controllers with their advanced haptics, adaptive trigger, and general Sony mastery of all things controller-related. The Valve Index set is cheaper and arguably has more advanced controllers, but I’m not a fan of those either—I’m forever accidentally dropping or grabbing items thanks to the pressure-sensitive grab features. At least the Pimax Crystal controllers have a basic physical grip button. If I'm honest, nothing compares to the enormous [HTC Vive](https://www.makeuseof.com/tag/virtual-reality-is-finally-here-htc-vive-review-giveaway/) wands, which always felt like you were holding a gun or sword.
 
-## Design: Heavy but Comfortable ![pimax crystal - headset overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-headset-overview.jpg)
+## Design: Heavy but Comfortable
+![pimax crystal - headset overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-headset-overview.jpg)
 
  James Bruce / MakeUseOf
 
@@ -148,7 +151,8 @@ Related
 
  I should also caveat by saying that while I found the Pimax Crystal to be comfortable, everyone will be different. It's a very subjective issue, with different head sizes, shapes, and eye positions. My wife could tolerate it for only a short time. A headset that's perfect for everyone doesn't exist, and never will. I would always encourage you to demo a headset before purchasing—which might be difficult with the Pimax Crystal. Still, the combination of a ratcheting strap and balancing weight at the back of the Crystal is far more comfortable, in my opinion, than a regular fabric strap and lighter headset.
 
-## Set Up and Experience Is Less Well Polished ![pimax crystal - motion sim chair side on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-motion-sim-chair-side-on.jpg)
+## Set Up and Experience Is Less Well Polished
+![pimax crystal - motion sim chair side on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-motion-sim-chair-side-on.jpg)
 
  James Bruce / MakeUseOf
 
@@ -162,7 +166,8 @@ Related
 
  KayakVR has been my go-to experience for relaxation and really shows off the beauty of the Pimax Crystal's display. The vibrant colors and shimmering water are jaw-dropping, even if I can't whack up the resolution to full.
 
-## The Image Quality Is Superb ![pimax crystal - lenses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-lenses.jpg)
+## The Image Quality Is Superb
+![pimax crystal - lenses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-lenses.jpg)
 
  James Bruce / MakeUseOf
 

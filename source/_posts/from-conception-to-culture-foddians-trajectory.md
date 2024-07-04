@@ -1,7 +1,7 @@
 ---
 title: "From Conception to Culture: Foddian's Trajectory"
-date: 2024-06-25T13:27:26.854Z
-updated: 2024-06-26T13:27:26.854Z
+date: 2024-07-03T11:59:18.739Z
+updated: 2024-07-04T11:59:18.739Z
 tags:
   - games
 categories:
@@ -22,7 +22,8 @@ thumbnail: https://thmb.techidaily.com/01edaba53137429381532b08b94562d4a741359e1
 
  Games that fall under the Foddian category are as unique as the name, but how did they come about? Here are some events that led to a platform game revolution, birthing the Foddian genre as we know and love it.
 
-### The First Bennet Foddy Game ![A guy in a pot holding a sledgehammer who is about to fall off a cliff](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/2-getting-over-it.jpg)
+### The First Bennet Foddy Game
+![A guy in a pot holding a sledgehammer who is about to fall off a cliff](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/2-getting-over-it.jpg)
 
  It all began with the Foddian game, "Getting Over It with Bennett Foddy". Getting Over It is a puzzle game that challenges the player to use a sledgehammer to propel themselves up steep ledges and across slick platforms to get to space. “Foddian” refers to the creator of the first game, Bennett Foddy, in this genre and represents titles of a similar format.
 
@@ -32,7 +33,8 @@ thumbnail: https://thmb.techidaily.com/01edaba53137429381532b08b94562d4a741359e1
 
  Getting Over It wasn’t the first platformer, but it created a format that has been improved upon in newer games that fall under the Foddian genre. Bennet Foddy pioneered an era of gaming, whether he intended to or not, and complex puzzle platforming games are better for it.
 
-### The Rise of Jump King ![The Jump King lying flat on a mossy platform after falling](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-jump-king.jpg)
+### The Rise of Jump King
+![The Jump King lying flat on a mossy platform after falling](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-jump-king.jpg)
 
  Jump King is a title that transcends the Foddian game genre. You may have heard about the game thanks to its tendency to be played live on Twitch streams. Speedrunners are especially fond of the small series of Jump King games.
 
@@ -42,7 +44,8 @@ thumbnail: https://thmb.techidaily.com/01edaba53137429381532b08b94562d4a741359e1
 
  Almost every popular streamer and YouTuber you can think of has played Jump King to some extent, indirectly marketing the game to their viewers. As such, it didn’t take long for a community to spawn around this game, and it remains one of the most played in its genre.
 
-## Foddian Games and Content Creation ![A streaming setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-streamer.jpg)
+## Foddian Games and Content Creation
+![A streaming setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-streamer.jpg)
 
  Streaming goes beyond just playing a game. Streamers understand that they need to engage their chat as much as possible to keep interest high. Fortunately, Foddian games are the perfect gateway for viewer engagement.
 

@@ -1,7 +1,7 @@
 ---
 title: Premium Games Before Launch - Exploration or Caution?
-date: 2024-06-25T12:56:48.847Z
-updated: 2024-06-26T12:56:48.847Z
+date: 2024-07-03T11:59:17.071Z
+updated: 2024-07-04T11:59:17.071Z
 tags:
   - games
 categories:
@@ -48,7 +48,8 @@ Jhet Borja/MakeUseOf
 
  Steam is one of the most popular platforms to get early access to many games, but you can also get [early access for Xbox games](https://www.makeuseof.com/how-to-participate-in-xbox-research-for-xbox-series-xs/) or even Google Play.
 
-## Pro: Contributing to the Development of the Game ![Dinkum gameplay](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/dinkum-gameplay.jpg)
+## Pro: Contributing to the Development of the Game
+![Dinkum gameplay](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/dinkum-gameplay.jpg)
 
  Early access games usually allow players to have an active role in how the game transforms. Players can often join Discord servers where the developers are easily accessible and their concerns, feedback, bug reports, and suggestions can all be taken seriously.
 
@@ -82,7 +83,8 @@ Jhet Borja/MakeUseOf
 
  Thankfully [Steam refunds are pretty easy to do](https://www.makeuseof.com/how-to-refund-a-game-on-steam/) ; so long as your playtime is less than 2 hours or you’ve owned the game for less than 14 days, you can refund it.
 
-## Con: Incomplete Story/World/Mechanics ![Wide view of Palworld world](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/wide-view-of-palworld-world.jpg)
+## Con: Incomplete Story/World/Mechanics
+![Wide view of Palworld world](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/wide-view-of-palworld-world.jpg)
 
  If the game was ready to go, it wouldn’t be in early access now would it? You’re very likely to experience many features missing, from plots, places, or even whole mechanics.
 

@@ -1,7 +1,7 @@
 ---
 title: 10 Mistakes to Avoid When Shopping for a Monitor
-date: 2024-06-25T13:38:31.392Z
-updated: 2024-06-26T13:38:31.392Z
+date: 2024-07-03T11:59:16.398Z
+updated: 2024-07-04T11:59:16.398Z
 tags:
   - games
 categories:
@@ -41,7 +41,8 @@ thumbnail: https://thmb.techidaily.com/7771a2b06b1c9409671f87688822caf9758687ec7
 
  Spending some time thinking of what you'll primarily use the monitor for will guide you toward the right features and specifications your monitor should have.
 
-## 2 Getting the Wrong-Sized Monitor for Your Room ![Valorant game running on an OLED monitor mounted on a desk with keyboard and mouse below](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/04/valorant-game-running-on-an-oled-monitor-mounted-on-a-desk-with-keyboard-and-mouse-below.jpg)
+## 2 Getting the Wrong-Sized Monitor for Your Room
+![Valorant game running on an OLED monitor mounted on a desk with keyboard and mouse below](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/04/valorant-game-running-on-an-oled-monitor-mounted-on-a-desk-with-keyboard-and-mouse-below.jpg)
 
  Hamlin Rozario/MakeUseOf
 
@@ -51,7 +52,8 @@ thumbnail: https://thmb.techidaily.com/7771a2b06b1c9409671f87688822caf9758687ec7
 
  Take measurements and ensure the monitor fits comfortably in your environment.
 
-## 3 Forgetting About Ports ![TV HDMI ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/muo-gaming-wii-tv-connection-av-hdmi-2023-3.jpg)
+## 3 Forgetting About Ports
+![TV HDMI ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/muo-gaming-wii-tv-connection-av-hdmi-2023-3.jpg)
 
  Ports are often overlooked but are essential for connectivity. Consider what devices you'll connect to your monitor and ensure it has the necessary ports. Having the wrong ports on your monitor can cause performance issues—or worse, it won't even work for your system.
 

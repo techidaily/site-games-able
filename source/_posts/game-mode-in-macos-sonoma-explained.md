@@ -1,7 +1,7 @@
 ---
 title: Game Mode in macOS Sonoma Explained
-date: 2024-06-25T12:51:17.696Z
-updated: 2024-06-26T12:51:17.696Z
+date: 2024-07-03T11:59:18.440Z
+updated: 2024-07-04T11:59:18.440Z
 tags:
   - games
 categories:
@@ -28,7 +28,8 @@ thumbnail: https://thmb.techidaily.com/aca28fbc907b3b2134a063785955f99d7ee87845f
 
  This is particularly useful for titles where even a small amount of input lag can make a big difference, such as first-person shooters or fighting games.
 
-## How to Enable Game Mode on Your Mac ![macOS Game Mode Menu with the option to turn Game Mode off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/macos-game-mode-menu.jpeg)
+## How to Enable Game Mode on Your Mac
+![macOS Game Mode Menu with the option to turn Game Mode off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/macos-game-mode-menu.jpeg)
 
  Game Mode is automatically turned on when you launch a game in full-screen mode. There are no controls or options to turn it on manually until then. Once the game is running in full screen, you'll see an icon of a game controller in [the macOS menu bar](https://www.makeuseof.com/mac-menu-bar-beginners-guide/) .
 

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Secure PS5 Access: Setting Up Custom Passwords"
-date: 2024-06-25T12:55:20.137Z
-updated: 2024-06-26T12:55:20.137Z
+date: 2024-07-03T11:59:18.076Z
+updated: 2024-07-04T11:59:18.076Z
 tags:
   - games
 categories:
@@ -32,7 +32,8 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 
  There are several more reasons you should lock your PS5, but the main disadvantage is that it might be a little more inconvenient to log into your PS5\. We think that’s a small price to pay to control who has access to your PS5.
 
-## Console Restriction Code vs. Login Passcode ![PS5 passcode login screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ps5-passcode-login-screen.JPG)
+## Console Restriction Code vs. Login Passcode
+![PS5 passcode login screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ps5-passcode-login-screen.JPG)
 
  Your PS5 actually has two passcodes: a console restriction code and a login passcode. The login passcode will stop users from logging in, but you must first have a PSN account signed in on that user account. The console restriction code, on the other hand, is designed to protect the**PS5 Console Restriction** settings.
 

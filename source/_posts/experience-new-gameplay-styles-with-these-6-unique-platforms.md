@@ -1,7 +1,7 @@
 ---
 title: Experience New Gameplay Styles with These 6 Unique Platforms
-date: 2024-06-25T13:14:43.950Z
-updated: 2024-06-26T13:14:43.950Z
+date: 2024-07-03T11:59:18.387Z
+updated: 2024-07-04T11:59:18.387Z
 tags:
   - games
 categories:
@@ -18,7 +18,8 @@ thumbnail: https://thmb.techidaily.com/5f93c49b1c440b80d1268f9b261207858efb54997
 
  Have you ever played three-player chess? Or how about a game of chess where you don't take turns but keep playing all the time? From chess variants that challenge you to discard classical strategies and think anew to playing chess with AI for fun or to get your FIDE rating, these are some of the quirkiest and most fun ways to play a different type of chess.
 
-## 1. Noctie ![Play a game against the Noctie AI to find your FIDE Elo rating in chess](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-noctie-ai.jpg)
+## 1. Noctie
+![Play a game against the Noctie AI to find your FIDE Elo rating in chess](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-noctie-ai.jpg)
 
  Based on wins, losses, and draws, FIDE assigns an official Elo rating to players, with Candidate Masters starting at 2000\. Of course, this is only for those participating in official tournaments. But if you've ever wondered what your rating would be, you can find out by playing a game with Noctie AI.
 
@@ -26,7 +27,8 @@ thumbnail: https://thmb.techidaily.com/5f93c49b1c440b80d1268f9b261207858efb54997
 
  For reference, you can refer to the Wikipedia Elo rating range table. Above a rating of 1000, every 2000 points puts you in a different class of chess player.
 
-## 2. Kung Fu Chess ![In Kung Fu Chess, you and your opponent don't take turns to play, but can move any and all pieces simultaneously](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-kung-fu-chess.jpg)
+## 2. Kung Fu Chess
+![In Kung Fu Chess, you and your opponent don't take turns to play, but can move any and all pieces simultaneously](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-kung-fu-chess.jpg)
 
  Chess is a turn-by-turn game, and the standard game encourages taking your time to think through each move. Kung Fu Chess changes the rules to remove the turn-by-turn style. You can move any piece at any moment without waiting for the opponent to make a move. It's basically taking the principles of real-time strategy games like Age of Empires and applying them to chess.
 
@@ -34,7 +36,8 @@ thumbnail: https://thmb.techidaily.com/5f93c49b1c440b80d1268f9b261207858efb54997
 
  Beginners should ideally start with the Kung Fu Chess solo campaign mode to play against a bot to learn and practice the new rules. Once you're confident, you can play against AI or a friend in both standard or lightning modes.
 
-## 3. Chesswith.Ai ![Chesswith.Ai uses ChatGPT to let you play against fictional characters who talk to you after each turn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-chesswithai.jpg)
+## 3. Chesswith.Ai
+![Chesswith.Ai uses ChatGPT to let you play against fictional characters who talk to you after each turn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-chesswithai.jpg)
 
  Among the many [cool things to do with ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/) is to use it to chat with a fictional character. Chesswith.Ai has created profiles of several popular fictional characters and even real historical people such as Harry Potter, Dwight Schrute, John F. Kennedy, Marie Curie, etc. And you can now play a game of chess with them while they chat with you.
 
@@ -62,7 +65,8 @@ thumbnail: https://thmb.techidaily.com/5f93c49b1c440b80d1268f9b261207858efb54997
 
 **Download:** Really Bad Chess for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027833/https://play.google.com/store/apps/details?id=com.noodlecake.reallybadchess) |[iOS](https://apps.apple.com/app/id1109751921) (Free)
 
-## 6. Green Chess ![Green Chess has a large variety of chess variants to play online, and an active community so you'll find matchups easily](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-green-chess.jpg)
+## 6. Green Chess
+![Green Chess has a large variety of chess variants to play online, and an active community so you'll find matchups easily](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-green-chess.jpg)
 
  If you're digging the idea of playing chess variants, you need to register for an account at Green Chess. This website has the largest collection of chess variants and an active community of users, so you're likely to find a match-up quickly.
 

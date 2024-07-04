@@ -1,7 +1,7 @@
 ---
 title: Ensuring Smooth Mouse Scrolling Action
-date: 2024-06-25T12:48:39.899Z
-updated: 2024-06-26T12:48:39.899Z
+date: 2024-07-03T11:59:20.108Z
+updated: 2024-07-04T11:59:20.108Z
 tags:
   - games
 categories:
@@ -46,7 +46,8 @@ thumbnail: https://thmb.techidaily.com/0be5a94dd3d4589909d5a9db46fde9f5e7dc17aa8
 
  Here's a step-by-step guide for how to stop your mouse scroll wheel from jumping up and down.
 
-## Step 1: Disassemble the Mouse Casing ![Person Unmounting the Screws to Disassemble the Mouse Casing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/1-Person-Unmounting-the-Screws-to-Disassemble-the-Mouse-Casing.jpg)
+## Step 1: Disassemble the Mouse Casing
+![Person Unmounting the Screws to Disassemble the Mouse Casing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/1-Person-Unmounting-the-Screws-to-Disassemble-the-Mouse-Casing.jpg)
 
  Image Credit: TechClub/[YouTube](https://www.youtube.com/watch?v=%5FWBHLISDp80)
 
@@ -64,13 +65,15 @@ thumbnail: https://thmb.techidaily.com/0be5a94dd3d4589909d5a9db46fde9f5e7dc17aa8
 
  Even though removing your mouse's circuit from the lower panel is unnecessary, if you want to do that, make sure there are no screws attached. If there are any, remove them and take the circuit off the bottom panel of your mouse. Alternatively, you can unmount the scroll wheel directly without unmounting the circuit.
 
-## Step 3: Unmount the Scroll Wheel ![Person Unmounting the Scroll Wheel From Mouse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/4-Person-Unmounting-the-Scroll-Wheel-From-Mouse.jpg)
+## Step 3: Unmount the Scroll Wheel
+![Person Unmounting the Scroll Wheel From Mouse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/4-Person-Unmounting-the-Scroll-Wheel-From-Mouse.jpg)
 
  Image Credit: TechClub/[YouTube](https://www.youtube.com/watch?v=%5FWBHLISDp80)
 
  Unplug the encoder attached to the scroll wheel from the main board before unmounting the scroll wheel. Then, unplug any other connections, unscrew any screws, and take out the scroll wheel. After you have unmounted the scroll wheel, remove the encoder and proceed to the next step: fix the encoder.
 
-## Step 4: Fix the Encoder Assembly ![Person Showing the Mouse Encoder Assembly](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/5-Person-Showing-the-Mouse-Encoder-Assembly.jpg)
+## Step 4: Fix the Encoder Assembly
+![Person Showing the Mouse Encoder Assembly](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/5-Person-Showing-the-Mouse-Encoder-Assembly.jpg)
 
  Image Credit: TechClub/[YouTube](https://www.youtube.com/watch?v=%5FWBHLISDp80)
 
@@ -89,7 +92,8 @@ thumbnail: https://thmb.techidaily.com/0be5a94dd3d4589909d5a9db46fde9f5e7dc17aa8
 
  If the issue persists, there might be a problem with the scroll wheel hub. So, fixing the encoder coil spring assembly may not help.
 
-## Step 5: Wrap a Small Piece of Paper Around the Scroll Wheel Hub ![Man Holding a Small Piece of Paper to Fit in the Mouse Scroll Wheel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/7-Man-Holding-a-Small-Piece-of-Paper-to-Fit-in-the-Mouse-Scroll-Wheel.jpg)
+## Step 5: Wrap a Small Piece of Paper Around the Scroll Wheel Hub
+![Man Holding a Small Piece of Paper to Fit in the Mouse Scroll Wheel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/7-Man-Holding-a-Small-Piece-of-Paper-to-Fit-in-the-Mouse-Scroll-Wheel.jpg)
 
  Image Credit: Orkhan Aliyev/[YouTube](https://www.youtube.com/watch?v=%5FJwUUjLzAMY)
 

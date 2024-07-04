@@ -1,7 +1,7 @@
 ---
 title: Examining the Value of Microtransactions in Elite Gaming
-date: 2024-06-25T12:49:22.033Z
-updated: 2024-06-26T12:49:22.033Z
+date: 2024-07-03T11:59:18.234Z
+updated: 2024-07-04T11:59:18.234Z
 tags:
   - games
 categories:
@@ -76,7 +76,8 @@ But what about premium games? Should they have microtransactions?
 
  Apart from the inherent gambling nature of loot boxes, as a creator and an artist, doesn’t it feel fundamentally wrong to offer people a way to pay to experience less of your creation? It gives people the idea that your game is a chore, which shouldn’t be the case.
 
-### Bloat and Battle Passes ![Assassin's Creed Origins Season Pass for sale on Ubisoft website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/assassin-s-creed-origins-season-pass-for-sale-on-ubisoft-website.png)
+### Bloat and Battle Passes
+![Assassin's Creed Origins Season Pass for sale on Ubisoft website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/assassin-s-creed-origins-season-pass-for-sale-on-ubisoft-website.png)
 
  Another way you can tell microtransactions don’t have a place in premium games is that they only worm their way into established franchises. Ubisoft is a good example of this, seeing as it has added seasonal passes to many titles in their (mostly) offline single-player adventure series, Assassin’s Creed.
 

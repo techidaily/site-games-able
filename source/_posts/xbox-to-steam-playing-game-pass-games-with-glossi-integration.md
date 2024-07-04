@@ -1,7 +1,7 @@
 ---
 title: "Xbox to Steam: Playing Game Pass Games with GlosSI Integration"
-date: 2024-06-25T13:12:37.439Z
-updated: 2024-06-26T13:12:37.439Z
+date: 2024-07-03T11:59:19.880Z
+updated: 2024-07-04T11:59:19.880Z
 tags:
   - games
 categories:
@@ -42,13 +42,15 @@ thumbnail: https://thmb.techidaily.com/c8c0a761aab973c79a26bc00df92df723a573173c
 
  Besides Steam Input emulation, GlosSI also allows you to import UWP games to Steam which is a critical part of playing games on Steam Link. Those two features are what you need to play or use almost any UWP program through Steam Link. All you need now is to know how to use the application and get it running.
 
-## How to Install GlosSI to Play Xbox Game Pass Games Through Steam Link ![Minecraft Main menu on tablet connected to Steam Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/minecraft-main-menu-on-tablet-connected-to-steam-link-1.JPG)
+## How to Install GlosSI to Play Xbox Game Pass Games Through Steam Link
+![Minecraft Main menu on tablet connected to Steam Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/minecraft-main-menu-on-tablet-connected-to-steam-link-1.JPG)
 
  Image Credit: Jhet Borja
 
  Xbox Game Pass allows you to save a ton of money on games through its affordable subscription model. However, Game Pass lacks the ability to locally stream games to your other devices like a TV or tablet/phone. With GlosSI, you’re able to use Steam Link to play your Game Pass games. Here’s how to set GlosSI up so you can play Microsoft or Xbox Games anywhere in your house:
 
-### Step 1: Download and Install GlosSI ![Download GlosSI installer page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/download-glossi-installer-page.jpg)
+### Step 1: Download and Install GlosSI
+![Download GlosSI installer page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/download-glossi-installer-page.jpg)
 
  To download GlosSI, first head to [GlosSI download page](https://glossi.flatspot.pictures/#downloads) and look for the**Download Installer button** .
 
@@ -58,7 +60,8 @@ thumbnail: https://thmb.techidaily.com/c8c0a761aab973c79a26bc00df92df723a573173c
 
  After all the components have been installed, you must restart your PC to make it work.
 
-### Step 2: Import GlosSI-Target to Steam ![GlosSI-Target and GlosSI on Windows Start page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/glossi-target-and-glossi-on-windows-start-page-2.jpg)
+### Step 2: Import GlosSI-Target to Steam
+![GlosSI-Target and GlosSI on Windows Start page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/glossi-target-and-glossi-on-windows-start-page-2.jpg)
 
  Now that your PC is restarted, two programs have been added to your PC; the GlosSI-Target and GlosSI. You will be able to see these on your Windows Start menu. You can also search them up if you can’t find them.
 

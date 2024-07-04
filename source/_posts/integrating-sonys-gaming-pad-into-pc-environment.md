@@ -1,7 +1,7 @@
 ---
 title: Integrating Sony's Gaming Pad Into PC Environment
-date: 2024-06-25T13:17:39.017Z
-updated: 2024-06-26T13:17:39.017Z
+date: 2024-07-03T11:59:20.119Z
+updated: 2024-07-04T11:59:20.119Z
 tags:
   - games
 categories:
@@ -29,7 +29,8 @@ thumbnail: https://thmb.techidaily.com/9c17d408eef8eb942c240704209721146d1ae1a43
 
  The PS5's DualSense controller is a popular choice among gamers for its comfort and advanced features. You can also connect it to your PC with a wired or wireless connection. Here's how.
 
-## How to Connect the PS5 DualSense Controller to a PC With a USB Cable ![Playstation 5 controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/playstation-controller-usbc.jpg)
+## How to Connect the PS5 DualSense Controller to a PC With a USB Cable
+![Playstation 5 controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/playstation-controller-usbc.jpg)
 
  Amir M. Bohlooli/MakeUseOf
 
@@ -41,7 +42,8 @@ thumbnail: https://thmb.techidaily.com/9c17d408eef8eb942c240704209721146d1ae1a43
 
  That's about it! Your controller is now usable and you can go ahead and play video games. Once you launch a video game with controller support, your PS5 controller will shine with a white glow around the touchpad.
 
-## How to Connect the PS5 DualSense Controller to a PC With Bluetooth ![PlayStation 5 controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/playstation-dualsense-keymap.jpg)
+## How to Connect the PS5 DualSense Controller to a PC With Bluetooth
+![PlayStation 5 controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/playstation-dualsense-keymap.jpg)
 
  Amir M. Bohlooli/MakeUseOf
 

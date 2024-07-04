@@ -1,7 +1,7 @@
 ---
 title: "Budget Gaming: Aesthetics and Function"
-date: 2024-06-25T13:07:22.940Z
-updated: 2024-06-26T13:07:22.940Z
+date: 2024-07-03T11:59:19.944Z
+updated: 2024-07-04T11:59:19.944Z
 tags:
   - games
 categories:
@@ -110,7 +110,8 @@ Best GTX
 Affordable 30 Series  
 [$300 at Newegg](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.newegg.com%2Fgigabyte-geforce-rtx-3050-gv-n3050eagle-oc-8gd%2Fp%2FN82E16814932498)
 
-## The Best Graphics Cards in 2023 ![GIGABYTE AORUS GeForce RTX 4090](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/gigabyte-aorus-geforce-rtx-4090.jpg)
+## The Best Graphics Cards in 2023
+![GIGABYTE AORUS GeForce RTX 4090](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/gigabyte-aorus-geforce-rtx-4090.jpg)
 
 Best Overall
 

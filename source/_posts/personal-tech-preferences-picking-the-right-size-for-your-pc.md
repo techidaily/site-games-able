@@ -1,7 +1,7 @@
 ---
 title: "Personal Tech Preferences: Picking the Right Size for Your PC"
-date: 2024-06-25T12:48:41.774Z
-updated: 2024-06-26T12:48:41.774Z
+date: 2024-07-03T11:59:18.603Z
+updated: 2024-07-04T11:59:18.603Z
 tags:
   - games
 categories:
@@ -30,7 +30,8 @@ thumbnail: https://thmb.techidaily.com/30c580f4aaa4373c8a4d05322fd912eb007bcd184
 
  Mini PCs have proved powerful enough to work and game on as hardware components become more powerful each generation. As more games are optimized, and hardware output becomes more efficient, a mini PC could be your best PC hardware purchase in 2024.
 
-## Performance Comparisons ![slotting in graphics card into pcie slot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/slotting-in-graphics-card-into-pcie-slot.JPG)
+## Performance Comparisons
+![slotting in graphics card into pcie slot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/slotting-in-graphics-card-into-pcie-slot.JPG)
 
 Jhet Borja/MakeUseOf
 
@@ -44,7 +45,8 @@ Jhet Borja/MakeUseOf
 
  For example, compare the $499 [Beelink SER5](https://www.amazon.com/Beelink-SER5-MAX-5800H-Processor/dp/B0CDLD8ZBS/?tag=makeusw-20&ascsubtag=UUmuoUeUpU2031444&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fmini-pc-vs-desktop-pc-what-should-you-buy%2F&asc%5Fcampaign=Evergreen) MAX's Ryzen 7 5800H APU to an equivalent desktop with a Ryzen 7 5700G APU.[Nanoreview benchmarks](https://nanoreview.net/en/cpu-compare/amd-ryzen-7-5800h-vs-amd-ryzen-7-5700g) show they're quite close in performance, with similar single and multi-core performance. Prebuilt PCs on Amazon and Newegg go for over $600, even up to the $800 mark. With comparable performance, it's hard to deny that the mini PC wins in the low-to-mid-range performance bracket.
 
-## Productivity and Ease of Use ![aerofara-aero-2-pro-mini-pc-review-ports-02](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/aerofara-aero-2-pro-mini-pc-review-ports-02.jpg)
+## Productivity and Ease of Use
+![aerofara-aero-2-pro-mini-pc-review-ports-02](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/aerofara-aero-2-pro-mini-pc-review-ports-02.jpg)
 
  Kannon Yamada/MakeUseOf
 

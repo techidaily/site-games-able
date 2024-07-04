@@ -1,7 +1,7 @@
 ---
 title: "Delve Into Digital Dramas: Game Edition!"
-date: 2024-06-25T13:38:07.412Z
-updated: 2024-06-26T13:38:07.412Z
+date: 2024-07-03T11:59:20.322Z
+updated: 2024-07-04T11:59:20.322Z
 tags:
   - games
 categories:
@@ -18,7 +18,8 @@ thumbnail: https://thmb.techidaily.com/6ba823e70571284a0c45a2acec26bb9d28a4fab8b
 
  You don't have to pay or install anything to play many text-based games. Instead, you can play them right now in your web browser. Here are some great text-adventure games available to play online.
 
-## 1. The Dreamhold ![The Dreamhold Interactive Fiction Game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/The-Dreamhold-2022.png)
+## 1. The Dreamhold
+![The Dreamhold Interactive Fiction Game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/The-Dreamhold-2022.png)
 
  As it was specifically created for first-time interactive fiction players, The Dreamhold is an excellent way to get acquainted with this genre. Aside from its relatively short length and low difficulty, the game also features a "tutorial voice" that gives you hints throughout the experience.
 
@@ -26,7 +27,8 @@ thumbnail: https://thmb.techidaily.com/6ba823e70571284a0c45a2acec26bb9d28a4fab8b
 
  As for the game itself, the plot here revolves around you waking up inside a cell. You don't remember how you got there and need to explore to figure it out.
 
-## 2. Zork ![Zork Interactive Fiction Game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Zork-Game-2022.png)
+## 2. Zork
+![Zork Interactive Fiction Game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Zork-Game-2022.png)
 
  Zork is an early and well-known text adventure. Originally released in the late 1970s, it has survived the test of time due to its high quality of storytelling and advanced text recognition. For such an old game, the text parser is not particularly picky about what you enter.
 
@@ -34,7 +36,8 @@ thumbnail: https://thmb.techidaily.com/6ba823e70571284a0c45a2acec26bb9d28a4fab8b
 
  Zork supports saving and restoring, and you can even change how much information the game gives you about new locations using the**brief** and**verbose** commands. This classic is a great starting point for getting into text adventure games. Give it a try to enjoy the [origins of the adventure genre](https://www.makeuseof.com/what-are-adventure-games/) and see how long you can survive before you're eaten by a grue.
 
-## 3. Spider and Web ![Spider and Web Interactive Fiction Game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Spider-and-Web-2022.png)
+## 3. Spider and Web
+![Spider and Web Interactive Fiction Game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Spider-and-Web-2022.png)
 
  Spider and Web is a text-adventure game from 1998, created by the same person behind The Dreamhold. In this adventure, you're a spy who was captured when masquerading as a tourist. You gradually figure out what's going on at the same time your character does.
 
@@ -42,7 +45,8 @@ thumbnail: https://thmb.techidaily.com/6ba823e70571284a0c45a2acec26bb9d28a4fab8b
 
  It's often tough to keep track of what's going on and keep your story straight, so expect a [high level of game difficulty](https://www.makeuseof.com/what-is-video-game-difficulty/) . You can save and restore to avoid having to replay large chunks; the game also includes an**Undo** command for when you fail.
 
-## 4. Night House ![Night House Interactive Fiction Game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Night-House-2022.png)
+## 4. Night House
+![Night House Interactive Fiction Game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Night-House-2022.png)
 
  Are you in the mood for a spooky horror game? Night House has you play as a young boy who wakes up in the middle of the night to use the bathroom. He soon discovers that his family isn't home, and is thrust into a much scarier experience than he imagined.
 

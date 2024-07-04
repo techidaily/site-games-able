@@ -1,7 +1,7 @@
 ---
 title: 7 Reasons Why Mobile Gaming Actually Sucks
-date: 2024-06-25T13:07:16.945Z
-updated: 2024-06-26T13:07:16.945Z
+date: 2024-07-03T11:59:19.089Z
+updated: 2024-07-04T11:59:19.089Z
 tags:
   - games
 categories:
@@ -62,7 +62,8 @@ thumbnail: https://thmb.techidaily.com/bebadbeb051f48ac7f74b5607da42c1eb14a12e1d
 
  As cruel as some negative reviews can be, they are helpful for spotting errors. For mobile games, that level of passion and commitment simply doesn't exist.
 
-## 4\. Poor Touchscreen Controls ![video game console and mobile phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/video-game.jpg)
+## 4\. Poor Touchscreen Controls
+![video game console and mobile phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/video-game.jpg)
 
  Unless you buy a dedicated gaming phone with shoulder buttons (such as the [Black Shark 4 we reviewed](https://www.makeuseof.com/black-shark-4-review/) ), regular smartphones simply can't compete with the likes of a console controller. All the controls of a mobile game have to be crammed inside the very limited screen estate of the device.
 
@@ -74,7 +75,8 @@ thumbnail: https://thmb.techidaily.com/bebadbeb051f48ac7f74b5607da42c1eb14a12e1d
 
  However, because a higher storage space also means a higher price, the only phones that can take advantage of this are flagships. And since most smartphones sales aren't flagships but budget and mid-range phones, the advantage of higher storage space becomes redundant.
 
-## 6\. Lack of Standardized Platforms ![how to use share play on ps5 playstation 5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/how-to-use-share-play-on-ps5-playstation-5.jpg)
+## 6\. Lack of Standardized Platforms
+![how to use share play on ps5 playstation 5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/how-to-use-share-play-on-ps5-playstation-5.jpg)
 
  Unlike standardized consoles such as PlayStation and Xbox, smartphones come in all shapes, sizes, and configurations. This is true even more so for Android phones than iPhones.
 
@@ -84,7 +86,8 @@ thumbnail: https://thmb.techidaily.com/bebadbeb051f48ac7f74b5607da42c1eb14a12e1d
 
  So, this leaves them with only two options; either create poor games that everyone can download or create good games that only a few can download. It seems the former gets the upper hand in boardroom meetings.
 
-## 7\. Frequent In-Game Ads ![a man frustrated using his mobile phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/upset-young-african-man-reading-message-his-mobile-phone.jpg)
+## 7\. Frequent In-Game Ads
+![a man frustrated using his mobile phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/upset-young-african-man-reading-message-his-mobile-phone.jpg)
 
  Aside from microtransactions, mobile game developers also rely on in-game ads to earn money. This allows them to keep the game running and introduce new features such as maps, weapons, outfits, and other similar in-game items.
 

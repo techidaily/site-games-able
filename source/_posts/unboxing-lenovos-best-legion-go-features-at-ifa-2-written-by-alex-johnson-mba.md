@@ -1,7 +1,7 @@
 ---
 title: Unboxing Lenovo's Best Legion Go Features at IFA 2 Written by Alex Johnson, MBA
-date: 2024-06-25T13:09:53.130Z
-updated: 2024-06-26T13:09:53.130Z
+date: 2024-07-03T11:59:16.839Z
+updated: 2024-07-04T11:59:16.839Z
 tags:
   - games
 categories:
@@ -26,7 +26,8 @@ Watch out Steam, ASUS, and dare I say, even Nintendo?
 
  So, what makes the Lenovo Legion Go a worthy competitor? We had a hands-on play with the Legion Go at IFA 2023, and this is why it's set to claim a strong stake among its peers.
 
-## Lenovo Legion Go Hardware Specs ![man holding lenovo legion go at ifa 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/man-holding-lenovo-legion-go-at-ifa-2023.jpg)
+## Lenovo Legion Go Hardware Specs
+![man holding lenovo legion go at ifa 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/man-holding-lenovo-legion-go-at-ifa-2023.jpg)
 
  Image Credit: Gavin Phillips/MakeUseOf
 
@@ -57,7 +58,8 @@ You can check out the Lenovo Legion Go's specs below.
 
  The Lenovo Legion Go is shaping up to be a cracking gaming handheld, so much so, we gave it a [Best Tech in Show award for IFA 2023](https://www.makeuseof.com/makeuseof-best-of-ifa-2023-awards/) . These are the features we loved during our hands-on test.
 
-### 1\. The Lenovo Legion Go Has an Excellent Screen ![close up of lenovo legion go screen at ifa 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/close-up-of-lenovo-legion-go-screen-at-ifa-2023.jpg)
+### 1\. The Lenovo Legion Go Has an Excellent Screen
+![close up of lenovo legion go screen at ifa 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/close-up-of-lenovo-legion-go-screen-at-ifa-2023.jpg)
 
  Image Credit: Gavin Phillips/MakeUseOf
 
@@ -67,7 +69,8 @@ You can check out the Lenovo Legion Go's specs below.
 
  Although the brightness of the Legion Go and the ROG Ally are the same, at 500 nits, the Lenovo unit delivers much greater color range and depth by way of its 97% DCI-P3 color gamut support. In short, it displays a wider range of colors, which really shows.
 
-### 2\. FPS Mode ![man using lenovo legion go fps mode at ifa 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/man-using-lenovo-legion-go-fps-mode-at-ifa-2023.jpg)
+### 2\. FPS Mode
+![man using lenovo legion go fps mode at ifa 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/man-using-lenovo-legion-go-fps-mode-at-ifa-2023.jpg)
 
  Image Credit: Gavin Phillips/MakeUseOf
 
@@ -83,7 +86,8 @@ You can check out the Lenovo Legion Go's specs below.
 
  Lenovo opted for a 49.2Wh battery, which will theoretically give it the edge over the competition. Again, the battery life is something we'd have to test with more time, but the figures show a clear boost.
 
-### 4\. Excellent Hardware ![lenovo legion go on table at ifa 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/lenovo-legion-go-on-table-at-ifa-2023.jpg)
+### 4\. Excellent Hardware
+![lenovo legion go on table at ifa 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/lenovo-legion-go-on-table-at-ifa-2023.jpg)
 
  Image Credit: Gavin Phillips/MakeUseOf
 
@@ -91,7 +95,8 @@ You can check out the Lenovo Legion Go's specs below.
 
  You should be able to really make the most of the 8.8-inch QHD screen, though we must concede that you'll be playing around with resolution and settings to prolong battery life. That's just a fact of life for any handheld gaming device, though.
 
-### 5\. Size and Weight ![man holding lenovo legion go with separate controller atifa 2023-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/man-holding-lenovo-legion-go-with-separate-controller-atifa-2023-1.jpg)
+### 5\. Size and Weight
+![man holding lenovo legion go with separate controller atifa 2023-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/man-holding-lenovo-legion-go-with-separate-controller-atifa-2023-1.jpg)
 
  Image Credit: Gavin Phillips/MakeUseOf
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastery in Membership: Your Guide to Top Servers"
-date: 2024-06-25T12:48:35.642Z
-updated: 2024-06-26T12:48:35.642Z
+date: 2024-07-03T11:59:18.703Z
+updated: 2024-07-04T11:59:18.703Z
 tags:
   - games
 categories:
@@ -18,7 +18,8 @@ thumbnail: https://thmb.techidaily.com/4344716e214d80fc0302240776bca3183fcb221b8
 
  But it's not always easy to know where to begin your search, especially if you're new to Discord. That's why we've put together the ways to find the best Discord servers.
 
-## 1\. Use the Discord Discover Page ![discord discover](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/discord-discover.jpg)
+## 1\. Use the Discord Discover Page
+![discord discover](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/discord-discover.jpg)
 
  If you're using Discord on your computer, one of [the must-know Discord tips](https://www.makeuseof.com/tag/discord-tips-and-tricks/) is that you can find public community servers through the Discover page. From Discord's left-hand menu, select**Explore Discoverable Servers** (the compass icon).
 
@@ -28,7 +29,8 @@ thumbnail: https://thmb.techidaily.com/4344716e214d80fc0302240776bca3183fcb221b8
 
  Unfortunately, Discord doesn't have a Discover page in its mobile app. Instead, navigate to the [Discord Servers website](https://discord.com/servers) —you can use this on a computer too, if you prefer.
 
-## 2\. Use Third-Party Discord Server Directories ![disboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disboard.jpg)
+## 2\. Use Third-Party Discord Server Directories
+![disboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disboard.jpg)
 
  Another method to find the best Discord servers is to use a third-party directory. These aren't vetted by Discord itself, which means they list public servers that Discord's Discover page won't necessarily include. It's a great way to uncover small or niche servers.
 

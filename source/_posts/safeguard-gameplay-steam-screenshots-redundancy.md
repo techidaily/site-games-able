@@ -1,7 +1,7 @@
 ---
 title: "Safeguard Gameplay: Steam Screenshots Redundancy"
-date: 2024-06-25T13:33:17.423Z
-updated: 2024-06-26T13:33:17.423Z
+date: 2024-07-03T11:59:18.044Z
+updated: 2024-07-04T11:59:18.044Z
 tags:
   - games
 categories:
@@ -70,7 +70,8 @@ thumbnail: https://thmb.techidaily.com/1505d6f4180ef3234fcf66cf60e394c6b774b5274
 
  Next, copy the**760** folder on your old PC to a flash drive. Finally, replace the**760** folder on your new PC with the one on your flash drive. That's it! You have successfully moved your Steam screenshot library to a new PC. Furthermore, Steam will still recognize which of the images were already uploaded to the Steam Cloud. Steam recognizes the photos correctly since your original screenshots.vdf file was transferred as part of your**760** folder.
 
-## How to Combine Multiple Libraries on One PC ![The GameSave Manager backup menu with Steam screenshots selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/gamesave-manager-steam-screenshots.jpg)
+## How to Combine Multiple Libraries on One PC
+![The GameSave Manager backup menu with Steam screenshots selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/gamesave-manager-steam-screenshots.jpg)
 
  What should you do if you are trying to combine multiple Steam screenshot libraries from different PCs together on one computer? As long as the screenshots are from the same account, there is a way. GameSave Manager, a free popular platform that backs up PC game content for hundreds of games, is also capable of creating a backup of your Steam screenshots.
 

@@ -1,7 +1,7 @@
 ---
 title: "Unleash Peak Performance: Elevate Low FPS on PC"
-date: 2024-06-25T12:48:38.709Z
-updated: 2024-06-26T12:48:38.709Z
+date: 2024-07-03T11:59:19.522Z
+updated: 2024-07-04T11:59:19.522Z
 tags:
   - games
 categories:
@@ -32,7 +32,8 @@ thumbnail: https://thmb.techidaily.com/56330953ffdc4465c49b828b7088926c62fd587a1
 
  Let's begin by looking at a few fundamental fixes you should perform to boost game frame rates. In many cases, when you wonder why your game FPS is so low, these tweaks will make a big improvement.
 
-### 1\. Update Your Drivers ![screenshot of amd radeon program updating drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_radeon_program_updating_drivers.jpg)
+### 1\. Update Your Drivers
+![screenshot of amd radeon program updating drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_radeon_program_updating_drivers.jpg)
 
  Drivers are special pieces of software that handle the interface between your computer and connected hardware. Average PC users don't usually need to worry about updating them, but it's a different story for gamers. Running out-of-date drivers, especially your video drivers, can hamper gaming performance.
 
@@ -42,7 +43,8 @@ thumbnail: https://thmb.techidaily.com/56330953ffdc4465c49b828b7088926c62fd587a1
 
  Instead of downloading drivers manually, Nvidia and AMD both offer software utilities that make downloading the latest drivers easy. You can download these on the driver pages above, which we recommend doing. In addition to letting you know when a new update is available, they give you access to more tweaks and features.
 
-### 2\. Close Unnecessary Background Programs ![windows 10 task manager process list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/windows-10-task-manager-process-list.jpg)
+### 2\. Close Unnecessary Background Programs
+![windows 10 task manager process list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/windows-10-task-manager-process-list.jpg)
 
  When you're playing a game, especially demanding modern titles, it's a good idea to close other processes that you don't need. This frees up resources that your computer can further dedicate to the game.
 
@@ -52,7 +54,8 @@ thumbnail: https://thmb.techidaily.com/56330953ffdc4465c49b828b7088926c62fd587a1
 
  Having your browser open with 50 tabs, letting cloud storage apps sync, or running file transfers while trying to play games can result in lower FPS—even on a good computer. If your frame rate is low all of a sudden, check for programs that just started using a lot of resources.
 
-### 3\. Defragment Your HDD ![Disk defragmentation tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/disk-defragmentation.jpg)
+### 3\. Defragment Your HDD
+![Disk defragmentation tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/disk-defragmentation.jpg)
 
  Most gamers have hopefully upgraded to a solid-state drive (SSD) by now. But in case you're still using an HDD, you should make sure the disk is defragmented. If you use an SSD, you should not defragment, as doing so can shorten the life of your drive.
 
@@ -148,7 +151,8 @@ thumbnail: https://thmb.techidaily.com/56330953ffdc4465c49b828b7088926c62fd587a1
 
  Overclocking might sound dangerous, but it's safe if you do it properly. See our [guide to overclocking your GPU](https://www.makeuseof.com/overclock-gpu-windows-10-asus-gpu-tweak/) if you'd like to give it a try.
 
-### 12\. Upgrade Your Hardware ![Man modifying PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2017/04/pc_modification.png)
+### 12\. Upgrade Your Hardware
+![Man modifying PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2017/04/pc_modification.png)
 
  Image Credit: Denis Rozhnovsky/[Shutterstock](https://www.shutterstock.com/image-photo/computer-technician-installs-cooling-system-359995697)
 

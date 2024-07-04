@@ -1,7 +1,7 @@
 ---
 title: "Gaming Controls Explained: Buttons for Android Devices"
-date: 2024-06-25T13:35:38.383Z
-updated: 2024-06-26T13:35:38.383Z
+date: 2024-07-03T11:59:18.773Z
+updated: 2024-07-04T11:59:18.773Z
 tags:
   - games
 categories:
@@ -34,7 +34,8 @@ thumbnail: https://thmb.techidaily.com/375603cf480909bd9b580ef05e67947950bbf1e13
 
  For example, moving the analog stick can simulate dragging your thumb around the left side of the screen. Pressing the**A** button can imitate tapping on the right side of the screen. The task is easiest for games with a virtual game controller spread across the screen, since you can assign a physical button to the location of their virtual counterparts.
 
-## How to Get Started With Button Mapping on Android ![Mantis prompting you to enable USB debugging.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-button-mapping-usb-debugging.png)
+## How to Get Started With Button Mapping on Android
+![Mantis prompting you to enable USB debugging.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-button-mapping-usb-debugging.png)
 
 ![Enabling USB debugging on Android.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/android-developer-settings-usb-debugging.png)
 

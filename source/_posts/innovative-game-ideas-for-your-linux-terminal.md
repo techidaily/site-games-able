@@ -1,7 +1,7 @@
 ---
 title: Innovative Game Ideas for Your Linux Terminal
-date: 2024-06-25T13:12:09.749Z
-updated: 2024-06-26T13:12:09.749Z
+date: 2024-07-03T11:59:18.274Z
+updated: 2024-07-04T11:59:18.274Z
 tags:
   - games
 categories:
@@ -18,7 +18,8 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
 
  And if you have some spare time, but don't want to fire up the latest open-world, immersive gore-fest, you can open a terminal and have fun with these command-line games for Linux.
 
-## 1\. doom-ascii ![playing Doom in the Linux terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/playing-doom-in-the-linux-terminal.jpg)
+## 1\. doom-ascii
+![playing Doom in the Linux terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/playing-doom-in-the-linux-terminal.jpg)
 
  Doom is possibly the best-known first-person shooter ever created, and was insanely popular at schools and campuses throughout the 1990s.
 
@@ -26,7 +27,8 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
 
  doom-ascii makes it easy to [play Doom in your Linux terminal](https://www.makeuseof.com/how-to-play-doom-in-linux-terminal/) , with ASCII characters standing in for individual pixels. You'll need to have some original**WAD** files from either Doom or Doom II to play.
 
-## 2\. solitaire-tui ![playing solitaire in the linux terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/playing-solitaire-in-the-linux-terminal.jpg)
+## 2\. solitaire-tui
+![playing solitaire in the linux terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/playing-solitaire-in-the-linux-terminal.jpg)
 
  Solitaire is the perfect way to waste some time on your own while you wait for binaries to [compile from the source](https://www.makeuseof.com/compile-install-software-from-source-linux/) .
 
@@ -46,7 +48,8 @@ You can now launch solitaire-tui by typing:
 
 `solitaire`
 
-## 3\. Conway's Game of Life ![conway game of life in progress](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/conway-game-in-progress.jpg)
+## 3\. Conway's Game of Life
+![conway game of life in progress](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/conway-game-in-progress.jpg)
 
 [Conway's Game of Life](https://www.makeuseof.com/play-conways-game-of-life-in-linux-terminal/) isn't actually a game as such. Rather it's a virtual evolution simulator.
 
@@ -54,7 +57,8 @@ You can now launch solitaire-tui by typing:
 
  Possibilities are endless, and given enough time, Conway's game of life will reveal to you the infinite secrets and mysteries of the universe.
 
-## 4\. nInvaders ![ninvaders in linux terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ninvaders-in-linux-terminal.jpg)
+## 4\. nInvaders
+![ninvaders in linux terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ninvaders-in-linux-terminal.jpg)
 
  nInvaders is a reimagining of the classic Space Invaders arcade games—one of the first and most successful video games ever.
 
@@ -68,7 +72,8 @@ You can install nInvaders on Debian-based systems with:
 
  Alternatively, you can clone the nInvaders [GitHub](https://github.com/doctorfree/ninvaders) repository and build from the source.
 
-## 5\. Gambit ![gambit chessboard with checkmate imminent](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/gambit-chessboard-with-checkmate-imminent.jpg)
+## 5\. Gambit
+![gambit chessboard with checkmate imminent](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/gambit-chessboard-with-checkmate-imminent.jpg)
 
  Chess is one of the greatest adversarial games ever invented and pits strategic thinkers against each other in a battle of wits.
 
@@ -78,7 +83,8 @@ You can install nInvaders on Debian-based systems with:
 
  It's easy to [install Gambit on Linux](https://www.makeuseof.com/play-chess-linux-terminal-multiplayer-over-ssh/) , and you can have a game set up in mere minutes.
 
-## 6\. Clidle ![clidle in the linux terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/clidle-in-the-linux-terminal.jpg)
+## 6\. Clidle
+![clidle in the linux terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/clidle-in-the-linux-terminal.jpg)
 
  Wordle is a guessing game where you try to guess a five-letter word, by inputting your word and seeing how many letters they have in common. You're limited to six guesses in total, so the stakes are high, and there are dozens of [tricks and strategies to help you improve your Wordle score](https://www.makeuseof.com/wordle-tips-hints-tricks/) .
 
@@ -92,7 +98,8 @@ Type a five-letter word to begin and see how good your score is!
 
  A green highlighted letter shows that you have the right letter in the right space, while a yellow highlight indicates the letter is present, but in a different slot.
 
-## 7\. Tetris ![tetris in the linux terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/tetris-in-the-linux-terminal.jpg)
+## 7\. Tetris
+![tetris in the linux terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/tetris-in-the-linux-terminal.jpg)
 
  Tetris is a quick time-killer that has been around since 1985 and holds the record for the most ported game ever, having been adapted for 65 different platforms.
 

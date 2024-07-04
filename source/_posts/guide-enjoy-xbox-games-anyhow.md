@@ -1,7 +1,7 @@
 ---
 title: "Guide: Enjoy Xbox Games Anyhow"
-date: 2024-06-25T13:28:26.101Z
-updated: 2024-06-26T13:28:26.101Z
+date: 2024-07-03T11:59:19.905Z
+updated: 2024-07-04T11:59:19.905Z
 tags:
   - games
 categories:
@@ -62,7 +62,8 @@ Close
 
  However, it’s worth noting that you may not be able to play most of the games using the remote control on the Xbox app. The virtual remote control within the app is primarily designed for basic tasks and navigation within the Xbox console interface rather than fully-fledged gaming experiences.
 
-## Connect a Keyboard and Mouse to Your Xbox ![Mouse keyboard iphone and xbox controller on wooden desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/mouse-keyboard-and-xbox-controller.jpg)
+## Connect a Keyboard and Mouse to Your Xbox
+![Mouse keyboard iphone and xbox controller on wooden desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/mouse-keyboard-and-xbox-controller.jpg)
 
  For those seeking greater accessibility and precision, connecting a keyboard and mouse to your Xbox One is an excellent option. By doing so, you can perform all the functions typically carried out with a regular Xbox controller but with added convenience. While not all games support keyboard and mouse inputs, many do, especially those with cross-platform compatibility.
 

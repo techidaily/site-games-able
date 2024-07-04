@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steam Deck: Overcoming Cloud Sync Issues"
-date: 2024-06-25T12:51:47.612Z
-updated: 2024-06-26T12:51:47.612Z
+date: 2024-07-03T11:59:18.647Z
+updated: 2024-07-04T11:59:18.647Z
 tags:
   - games
 categories:
@@ -33,19 +33,22 @@ thumbnail: https://thmb.techidaily.com/2fabafc66fe8d6c738eceaf2d94bef9969abb79ce
 
  However, it's still possible to temporarily fix this issue, and get on with your gaming session.
 
-## 1\. Reconnect the Wi-Fi ![screenshot of the steam deck settings wi-fi option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_deck_settings_wi_fi.jpg)
+## 1\. Reconnect the Wi-Fi
+![screenshot of the steam deck settings wi-fi option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_deck_settings_wi_fi.jpg)
 
  The first step you can try is a simple one. To toggle the Wi-Fi off, hit the **Steam** button and scroll down to **Settings.** Then head into the **Internet** category.
 
  Toggle **Enable Wi-Fi** off, then back on. It's important you try to launch the game after this so that it attempts to sync to the cloud again.
 
-## 2\. Enter Offline Mode ![screenshot of steam deck settings offline mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_deck_settings_offline_mode.jpg)
+## 2\. Enter Offline Mode
+![screenshot of steam deck settings offline mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_deck_settings_offline_mode.jpg)
 
  If toggling the Wi-Fi produced no results, try to enter offline mode on the very same screen. After you hit **Enable Offline Mode**, restart the device so that it launches into offline mode fresh. Then, disable offline mode and attempt to launch your game.
 
  This can often force the cloud sync to work, as syncing save data is a crucial part of exiting offline mode.
 
-## 3\. Check for Updates ![screenshot of the steam deck settings update menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_deck_settings_update_channel.jpg)
+## 3\. Check for Updates
+![screenshot of the steam deck settings update menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_deck_settings_update_channel.jpg)
 
  There is a chance that an update could fix cloud syncing errors. In **Settings,** head up to the **System** category. Hit the first option, **Check For Updates,** and apply any that are applicable.
 
@@ -53,7 +56,8 @@ thumbnail: https://thmb.techidaily.com/2fabafc66fe8d6c738eceaf2d94bef9969abb79ce
 
  Be careful, as beta and preview builds can contain unexpected bugs and might even corrupt your drive. In this case, [you would need to restore SteamOS with a recovery image](https://www.makeuseof.com/how-to-restore-steamos-on-steam-deck/).
 
-## 4\. Disable Cloud Sync ![screenshot of steam deck game properties menu to toggle steam cloud](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_deck_game_properties_enable_steam_cloud.jpg)
+## 4\. Disable Cloud Sync
+![screenshot of steam deck game properties menu to toggle steam cloud](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_deck_game_properties_enable_steam_cloud.jpg)
 
  This next fix brings us out of the settings menu. Instead, head to the library page for any of the affected games. Hit the **gear icon** and go into **Properties**. Scroll down in the General category until you find the **Steam Cloud** header.
 
@@ -61,7 +65,8 @@ thumbnail: https://thmb.techidaily.com/2fabafc66fe8d6c738eceaf2d94bef9969abb79ce
 
  Exit the game after a short time and re-enable cloud sync for the game. Next time you launch the game, it should sync to the cloud and ask you which save file you'd like to use.
 
-## 5\. Clear Compatdata Files ![screenshot of the compatdata folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_compatdata_folder.jpg)
+## 5\. Clear Compatdata Files
+![screenshot of the compatdata folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_compatdata_folder.jpg)
 
  This method is the most reliable way to force a successful cloud sync, but is the most hands-on. You'll need to be familiar with [Steam Deck's desktop mode](https://www.makeuseof.com/tips-use-steam-deck-desktop-mode-without-dock/) and be comfortable using i [t](https://www.makeuseof.com/tips-use-steam-deck-desktop-mode-without-dock/).
 

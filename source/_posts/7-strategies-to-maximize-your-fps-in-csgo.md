@@ -1,7 +1,7 @@
 ---
 title: "7 Strategies to Maximize Your FPS in CS:GO"
-date: 2024-06-25T13:15:25.594Z
-updated: 2024-06-26T13:15:25.594Z
+date: 2024-07-03T11:59:16.417Z
+updated: 2024-07-04T11:59:16.417Z
 tags:
   - games
 categories:
@@ -61,7 +61,8 @@ thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc31
 
  The above settings will consume more battery. So, if you are using a laptop, make sure it is connected to a power supply before you start gaming.
 
-## 4\. Change Counter-Strike: Global Offensive's In-Game Settings ![Adjusting CSGO graphical settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/CSGO-Settings.jpg)
+## 4\. Change Counter-Strike: Global Offensive's In-Game Settings
+![Adjusting CSGO graphical settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/CSGO-Settings.jpg)
 
  High in-game graphical settings are a prime reason behind Counter-Strike: Global Offensive's low FPS issues. The more you push your PC past its breaking point, the worse framerates you get.
 
@@ -95,7 +96,8 @@ thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc31
 
  Try playing Counter-Strike: Global Offensive again and see if your FPS has improved.
 
-## 6\. Enable Windows' Gaming Mode ![The Game Mode option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/game-mode-option.jpg)
+## 6\. Enable Windows' Gaming Mode
+![The Game Mode option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/game-mode-option.jpg)
 
  Windows 10 and 11 both come with a dedicated gaming mode that prioritizes the gaming experience. This feature helps in achieving better FPS and stable gameplay. It also ensures that Windows won't start downloading updates while you game.
 
@@ -106,7 +108,8 @@ Here are the steps to enable gaming mode on Windows PC.
 
 Now that Game Mode is active, you should notice a performance boost.
 
-## 7\. Repair Counter-Strike: Global Offensive's Files ![Checking for corruption in CSGO game files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Verify-Integrity-of-Game-Files-CSGO.jpg)
+## 7\. Repair Counter-Strike: Global Offensive's Files
+![Checking for corruption in CSGO game files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Verify-Integrity-of-Game-Files-CSGO.jpg)
 
  If you are getting low FPS only in CS:GO, there is probably something wrong with the game files. As it turns out, if the game files get corrupted, it can cause different issues, including a low FPS.
 

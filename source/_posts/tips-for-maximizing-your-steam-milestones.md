@@ -1,7 +1,7 @@
 ---
 title: Tips for Maximizing Your Steam Milestones
-date: 2024-06-25T13:21:29.063Z
-updated: 2024-06-26T13:21:29.063Z
+date: 2024-07-03T11:59:17.547Z
+updated: 2024-07-04T11:59:17.547Z
 tags:
   - games
 categories:
@@ -40,7 +40,8 @@ thumbnail: https://thmb.techidaily.com/700293ffdf9a4730d9df7fa5093979f42d9fa58b0
 
  It's up to you to decide if the risk, however minimal, is worth it. If it is, read on to find out how to use SAM.
 
-## 1\. Getting Started With Steam Achievement Manager ![screenshot of steam achievement manager extracted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/screenshot_of_steam_achievement_manager_extracted_to_folder.jpg)
+## 1\. Getting Started With Steam Achievement Manager
+![screenshot of steam achievement manager extracted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/screenshot_of_steam_achievement_manager_extracted_to_folder.jpg)
 
  Once you've extracted the files, you should be left with two executables.
 
@@ -48,7 +49,8 @@ thumbnail: https://thmb.techidaily.com/700293ffdf9a4730d9df7fa5093979f42d9fa58b0
 
  Once you've launched the program, it's time to scan and find some games.
 
-## 2\. Scan and Find Your Games ![screenshot of steam achievement manager main page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/screenshot_of_steam_achievement_manager_main_page_1.jpg)
+## 2\. Scan and Find Your Games
+![screenshot of steam achievement manager main page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/screenshot_of_steam_achievement_manager_main_page_1.jpg)
 
  Scanning will occur automatically on launching the program. It may take up to half a minute to complete if this is your first time opening the program.
 
@@ -58,7 +60,8 @@ SAM should display all the games you have connected to your account.
 
  Still having problems? It might be worthwhile ensuring the game is installed and detected on Steam. Check out our [troubleshooting guide on Steam failing to recognize installed games for more help](https://www.makeuseof.com/steam-not-recognizing-installed-games-fix/) .
 
-## 3\. Find and Select Your Achievements ![screenshot of steam achievement manager showing apex legends achievements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/screenshot_of_steam_achievement_manager_apex_achievements_page.jpg)
+## 3\. Find and Select Your Achievements
+![screenshot of steam achievement manager showing apex legends achievements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/screenshot_of_steam_achievement_manager_apex_achievements_page.jpg)
 
  Let's look at achievements for Apex Legends. After selecting your game from the list, or pulling it up with the AppID, SAM will bring up a list of all the achievements available for that title.
 
@@ -72,7 +75,8 @@ SAM should display all the games you have connected to your account.
 
  Note that you can also lock achievements over again using this same method. Just deselect the achievements instead.
 
-## Steam Achievement Manager for the Steam Deck ![screenshot of steam achievement manager on steam deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_steam_achievement_manager_on_steam_deck.jpg)
+## Steam Achievement Manager for the Steam Deck
+![screenshot of steam achievement manager on steam deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_steam_achievement_manager_on_steam_deck.jpg)
 
  If you're using a Steam Deck, you're still able to follow this method, just with a few adjustments. You'll need to [ensure you're up to speed with using the desktop mode on the Steam Deck](https://www.makeuseof.com/how-to-use-steam-deck-as-a-desktop-replacement/) , and then follow the steps from this guide, with a few differences.
 

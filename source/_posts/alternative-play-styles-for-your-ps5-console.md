@@ -1,7 +1,7 @@
 ---
 title: Alternative Play Styles for Your PS5 Console
-date: 2024-06-25T13:21:45.064Z
-updated: 2024-06-26T13:21:45.064Z
+date: 2024-07-03T11:59:19.699Z
+updated: 2024-07-04T11:59:19.699Z
 tags:
   - games
 categories:
@@ -18,7 +18,8 @@ thumbnail: https://thmb.techidaily.com/99e083d06891d6b9709e3f748eff8a9d6ada1ef30
 
  Some of these options might not be as easy as a controller, but they have unique strengths and weaknesses you can take advantage of. You can also use many options listed here to explore your PS5’s remote access features. And the others provide hardware alternatives you can take advantage of.
 
-## 1\. Power Off and On and Eject Discs via the PS5 Buttons ![Eject and power buttons on the lower end of a PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/eject-and-power-buttons-on-the-lower-end-of-a-ps5.jpg)
+## 1\. Power Off and On and Eject Discs via the PS5 Buttons
+![Eject and power buttons on the lower end of a PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/eject-and-power-buttons-on-the-lower-end-of-a-ps5.jpg)
 
  You can power your PS5 by pressing the**PS** button on your controller, and you can eject discs with your controller by hovering over a game on your home screen, pressing the**options** button, and selecting**Eject Disc** from the menu. But you could also switch your PS5 off and on and eject discs by pressing the power and eject buttons on the body of the PS5.
 
@@ -44,7 +45,8 @@ thumbnail: https://thmb.techidaily.com/99e083d06891d6b9709e3f748eff8a9d6ada1ef30
 
  Of course, you can’t play games with a media remote; it works best for media playback.
 
-## 4\. Alternate From Your Controller Using a Mouse and Keyboard ![Astronomical Desk Pad under a Keyboard and Mouse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/astronomical-desk-pad-under-a-keyboard-and-mouse.jpg)
+## 4\. Alternate From Your Controller Using a Mouse and Keyboard
+![Astronomical Desk Pad under a Keyboard and Mouse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/astronomical-desk-pad-under-a-keyboard-and-mouse.jpg)
 
  Image Credit:[Jowi Morales](https://www.makeuseof.com/author/jowi-morales)
 
@@ -52,7 +54,8 @@ thumbnail: https://thmb.techidaily.com/99e083d06891d6b9709e3f748eff8a9d6ada1ef30
 
  You can navigate your PS5 with a keyboard; use the arrow keys to move through the lists and the**Enter** or**Return** button to select the games or apps you want to launch. However, unlike the Xbox, which returns you to the home screen when you press the**Windows** button on a keyboard, the PS5 doesn’t recognize any home key on the keyboard. You must press the**PS** button on your controller or media remote to return home.
 
-## 5\. Control Your PS5 With Voice Commands ![Enabling voice command in PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/ps5-voice-command.JPG)
+## 5\. Control Your PS5 With Voice Commands
+![Enabling voice command in PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/ps5-voice-command.JPG)
 
  Like the PS4, the PS5 also has a voice command feature. You can use this to control your PS5 with several commands. Of course, its functionality is limited, and you might not be able to access this feature at all in other regions, but here’s a list of things you can do with it for now:
 

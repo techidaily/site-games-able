@@ -1,7 +1,7 @@
 ---
 title: Playing Baldur's Gate 3 in Full on Apple M Devices
-date: 2024-06-25T13:15:55.170Z
-updated: 2024-06-26T13:15:55.170Z
+date: 2024-07-03T11:59:19.796Z
+updated: 2024-07-04T11:59:19.796Z
 tags:
   - games
 categories:
@@ -38,7 +38,8 @@ thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c
 
  Once that’s done, log in to Steam with your details and install Baldur’s Gate 3 from your library. As soon as it’s done, you can attempt to run it.
 
-## Run Baldur’s Gate 3 With CrossOver ![Baldur's Gate 3 page in the Steam library on CrossOver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-page-in-the-steam-library-on-crossover.jpeg)
+## Run Baldur’s Gate 3 With CrossOver
+![Baldur's Gate 3 page in the Steam library on CrossOver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-page-in-the-steam-library-on-crossover.jpeg)
 
  Baldur’s Gate 3 should run the moment you click**Play** , but in some cases, it might not. What you should do is find Baldur’s Gate 3 on the left side menu and**Control** \-click (secondary-click) it to open the context menu. Go to**Manage > Browse Local Files** .
 

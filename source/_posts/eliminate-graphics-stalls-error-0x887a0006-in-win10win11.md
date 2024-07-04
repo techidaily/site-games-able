@@ -1,7 +1,7 @@
 ---
 title: Eliminate Graphics Stalls (Error 0X887A0006) in Win10/Win11
-date: 2024-06-25T12:48:37.268Z
-updated: 2024-06-26T12:48:37.268Z
+date: 2024-07-03T11:59:17.769Z
+updated: 2024-07-04T11:59:17.769Z
 tags:
   - games
 categories:
@@ -149,7 +149,8 @@ For Steam:
 6. Enter**0** in TdrLevel’s**Value** box, and select**OK** to save.
 7. Close the Regedit app, and then restart your PC.
 
-## 11\. Reinstall the Game That's Crashing ![The Uninstall option in Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-option-2.jpg)
+## 11\. Reinstall the Game That's Crashing
+![The Uninstall option in Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-option-2.jpg)
 
  Reinstalling an affected game is the last thing to try when all else fails. Applying this potential solution will likely fix corrupted or missing game files that could be causing error 0x887A0006\. Some players may be concerned about losing saved games when reinstalling, but you can [back up game saves](https://www.makeuseof.com/tag/protect-your-game-saves/) in numerous ways.
 

@@ -1,7 +1,7 @@
 ---
 title: Transform Your Gaming Experience with a Dual-Boot System
-date: 2024-06-25T12:48:40.306Z
-updated: 2024-06-26T12:48:40.306Z
+date: 2024-07-03T11:59:19.246Z
+updated: 2024-07-04T11:59:19.246Z
 tags:
   - games
 categories:
@@ -136,7 +136,8 @@ Jhet Borja / MakeUseOf
 
  The Clover dual boot manager isn’t an official Steam dual boot wizard as Valve is still working on that. This means you might face a few issues. Here are a few fixes in case you run into these problems...
 
-### 1\. You Can’t Find SteamOS in the Boot Manager ![No SteamOS option in boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/no-steamos-option-in-boot-manager.JPG)
+### 1\. You Can’t Find SteamOS in the Boot Manager
+![No SteamOS option in boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/no-steamos-option-in-boot-manager.JPG)
 
 Jhet Borja/MUO
 
@@ -158,7 +159,8 @@ sudo efibootmgr -c -L "SteamOS" -l "\EFI\steamos\steamcl.efi" -d /dev/nvme0n1p1 
 
  This should put it back on the boot manager so that you don’t have to boot from the file anymore.
 
-### 2\. Setting a Sudo Password ![Steam Deck user password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/steam-deck-user-password.jpg)
+### 2\. Setting a Sudo Password
+![Steam Deck user password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/steam-deck-user-password.jpg)
 
  To set your sudo password, open desktop mode and head to **Settings** in the app manager or on the task manager at the bottom of your screen.
 

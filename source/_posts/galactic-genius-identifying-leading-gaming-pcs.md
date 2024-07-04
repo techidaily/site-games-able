@@ -1,7 +1,7 @@
 ---
 title: "Galactic Genius: Identifying Leading Gaming PCs"
-date: 2024-06-25T12:48:42.242Z
-updated: 2024-06-26T12:48:42.242Z
+date: 2024-07-03T11:59:19.723Z
+updated: 2024-07-04T11:59:19.723Z
 tags:
   - games
 categories:
@@ -117,7 +117,8 @@ CableMod Pro ModMesh Sleeved Cable Extensions (Black)
 
 ## Hardware and Comparable Custom Builds
 
-### PC Part Picker ![Starforge Voyager Creator - PC Part Picker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/starforge-voyager-creator-pc-part-picker.png)
+### PC Part Picker
+![Starforge Voyager Creator - PC Part Picker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/starforge-voyager-creator-pc-part-picker.png)
 
  By using PCPartPicker, a nearly identical build with the same components can be configured for $2364.50 after rebates. However, this estimate doesn't include additional components like the CableMod Pro ModMesh Sleeved Cable kit, which retails for $49.90, or the custom backplate. If you were to build the PC yourself, you might expect to spend around $2400.
 
@@ -193,15 +194,18 @@ CableMod Pro ModMesh Sleeved Cable Extensions (Black)
 
  Plus, since we have a bunch of current gaming laptops with the latest Intel mobile CPUs, we can see how the Voyager Creator's desktop setup compares in terms of portability and power efficiency.
 
-### PCMark 10 ![Starforge Voyager Creator - PCMark10BM](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/starforge-voyager-creator-pcmark10bm.png)
+### PCMark 10
+![Starforge Voyager Creator - PCMark10BM](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/starforge-voyager-creator-pcmark10bm.png)
 
 ![Starforge Voyager Creator - PCMark 10 - Benchmark](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/starforge-voyager-creator-pcmark-10-benchmark.png)
 
-### 3DMark TimeSpy ![Starforge Voyager Creator - 3DMark10BM](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/starforge-voyager-creator-3dmark10bm.png)
+### 3DMark TimeSpy
+![Starforge Voyager Creator - 3DMark10BM](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/starforge-voyager-creator-3dmark10bm.png)
 
 ![Starforge Voyager Creator - Timespy - Benchmark](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/starforge-voyager-creator-timespy-benchmark.png)
 
-### Davinci Resolve ![Starforge Voyager Creator - Davinci - FullBM](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/starforge-voyager-creator-davinci-fullbm.png)
+### Davinci Resolve
+![Starforge Voyager Creator - Davinci - FullBM](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/starforge-voyager-creator-davinci-fullbm.png)
 
 ![Starforge Voyager Creator - Davinci Resolve Benchmark](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/starforge-voyager-creator-davinci-resolve-benchmark.png)
 

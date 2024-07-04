@@ -1,7 +1,7 @@
 ---
 title: A Rundown of Crucial Gaming Headset Qualities
-date: 2024-06-25T13:34:27.151Z
-updated: 2024-06-26T13:34:27.151Z
+date: 2024-07-03T11:59:17.218Z
+updated: 2024-07-04T11:59:17.218Z
 tags:
   - games
 categories:
@@ -30,7 +30,8 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
 
  Gaming keyboards have been around for years, but if you're looking to buy one today, you should expect it to meet certain standards. We'll take a look at some unique features a modern gaming keyboard should have to make it worth your money.
 
-## 1 Form Factor: 60 Percent, TKL, and More ![Wooting 60HE product image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/wooting-60he-product-image.jpg)
+## 1 Form Factor: 60 Percent, TKL, and More
+![Wooting 60HE product image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/wooting-60he-product-image.jpg)
 
 [Wooting](https://wooting.io/wooting-60he)
 
@@ -40,7 +41,8 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
 
  If you've only used a full-sized keyboard so far, consider switching to a TKL keyboard, as the transition should be easy.[60 percent keyboards](https://www.makeuseof.com/best-60-keyboards-for-gamers/) have a steep learning curve due to the missing function and arrow keys. You can also go for 65 percent or [75 percent keyboards on Amazon](https://www.amazon.com/s?k=75+percent+keyboard&tag=makeusw-20&ascsubtag=UUmuoUeUpU2032167&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Funique-features-to-look-for-in-gaming-keyboard%2F&asc%5Fcampaign=Evergreen) if you really want those arrow keys without losing too much mouse real estate.
 
-## 2 Higher Polling Rates ![Razer Polling Rate setting in Synapse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/razer-polling-rate-setting-in-synapse.png)
+## 2 Higher Polling Rates
+![Razer Polling Rate setting in Synapse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/razer-polling-rate-setting-in-synapse.png)
 
  For the longest time, a 1000Hz polling rate has been the industry standard for gaming keyboards and mice. But thanks to the popularity of competitive gaming with 240Hz and 360 Hz monitors, higher mouse and [keyboard polling rates](https://www.makeuseof.com/what-is-keyboard-polling-rate-and-how-much-does-it-matter/) are becoming more of a necessity rather than a luxury.
 
@@ -50,7 +52,8 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
 
  I recommend the [Wooting 80HE](https://wooting.io/wooting-80he) , as it features industry-leading analog switches, which I'll get to in a bit. You can also find other popular options on Amazon, like the [Corsair K65 Mini](https://www.amazon.com/Corsair-Customizable-Backlighting-Keyswitches-Hyper-Processing/dp/B08W2CSXLM/?tag=makeusw-20&ascsubtag=UUmuoUeUpU2032167&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Funique-features-to-look-for-in-gaming-keyboard%2F&asc%5Fcampaign=Evergreen) ,[Razer Huntsman V2](https://www.amazon.com/Razer-Huntsman-Optical-Gaming-Keyboard/dp/B09C12L49Z/?tag=makeusw-20&ascsubtag=UUmuoUeUpU2032167&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Funique-features-to-look-for-in-gaming-keyboard%2F&asc%5Fcampaign=Evergreen) , and [NZXT Function 2](https://www.amazon.com/NZXT-Tenkeyless-Adjustable-Double-Shot-Hot-Swappable/dp/B0CST2HK9G/?tag=makeusw-20&ascsubtag=UUmuoUeUpU2032167&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Funique-features-to-look-for-in-gaming-keyboard%2F&asc%5Fcampaign=Evergreen) .
 
-## 3 Low-Latency 2.4GHz Wireless Mode ![Logitech Pro X 60 promo image showing Lightspeed wireless feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/logitech-pro-x-60-promo-image-showing-lightspeed-wireless-feature.jpg)
+## 3 Low-Latency 2.4GHz Wireless Mode
+![Logitech Pro X 60 promo image showing Lightspeed wireless feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/logitech-pro-x-60-promo-image-showing-lightspeed-wireless-feature.jpg)
 
 [Logitech](https://www.logitechg.com/en-us/products/gaming-keyboards/pro-x-60-wireless-keyboard.html)
 
@@ -60,7 +63,8 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
 
  These keyboards come with a dongle that you connect to your PC to set up a wireless connection between the keyboard and the dongle. You can choose from [Logitech Pro X 60](https://www.amazon.com/Logitech-Lightspeed-Mechanical-LIGHTSYNC-Dual-Shot/dp/B0BRSSGBCN/?tag=makeusw-20&ascsubtag=UUmuoUeUpU2032167&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Funique-features-to-look-for-in-gaming-keyboard%2F&asc%5Fcampaign=Evergreen) ,[SteelSeries Apex Pro TKL](https://www.amazon.com/New-SteelSeries-Apex-Wireless-2023/dp/B0BF67DM6K/?tag=makeusw-20&ascsubtag=UUmuoUeUpU2032167&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Funique-features-to-look-for-in-gaming-keyboard%2F&asc%5Fcampaign=Evergreen) , and [Razer DeathStalker V2 Pro TKL](https://www.amazon.com/Razer-DeathStalker-Wireless-Gaming-Keyboard/dp/B0BLZXCZSL/?tag=makeusw-20&ascsubtag=UUmuoUeUpU2032167&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Funique-features-to-look-for-in-gaming-keyboard%2F&asc%5Fcampaign=Evergreen) if you're not satisfied with [our wireless mechanical keyboard recommendations](https://www.makeuseof.com/best-wireless-mechanical-keyboards/) .
 
-## 4 Analog Switches With Rapid Trigger ![Wooting 60HE rapid trigger and actuation point settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/wooting-60he-rapid-trigger-and-actuation-point-settings.png)
+## 4 Analog Switches With Rapid Trigger
+![Wooting 60HE rapid trigger and actuation point settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/wooting-60he-rapid-trigger-and-actuation-point-settings.png)
 
  You may be familiar with traditional mechanical switches because most gaming keyboards have them already. Consider analog switches as a step up from mechanical switches; they give you much more control over the actuation point and distance. Analog keyboards can use either [magnetic hall effect switches or optical switches](https://www.makeuseof.com/hall-effect-vs-optical-switches/) . They both work differently to give you the same benefits.
 
@@ -70,7 +74,8 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
 
  Analog keyboards typically offer a feature called Rapid Trigger, which instantly deactivates the key when you release it. Also, you don't have to wait for the key to completely reset before you press it again to register another keypress. This lets you "spam" a key as much as you want. These keyboards also let you adjust the Rapid Trigger sensitivity to as low as 0.1mm.
 
-## 5 The Actuation Point and Actuation Force of Switches ![cherry mx switch tester up close with other switches](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/cherry-mx-switch-tester-up-close-with-other-switches.jpg)
+## 5 The Actuation Point and Actuation Force of Switches
+![cherry mx switch tester up close with other switches](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/cherry-mx-switch-tester-up-close-with-other-switches.jpg)
 
  Gavin Phillips/MakeUseOf
 

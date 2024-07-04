@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Connection Performance: Lower Pings and Higher Rates"
-date: 2024-06-25T12:48:33.976Z
-updated: 2024-06-26T12:48:33.976Z
+date: 2024-07-03T11:59:18.728Z
+updated: 2024-07-04T11:59:18.728Z
 tags:
   - games
 categories:
@@ -57,7 +57,8 @@ thumbnail: https://thmb.techidaily.com/f13aeea6c73457fbc5bbd1b6bff4a0c00a428af0a
 
  Getting the best ping possible on your device will require you to optimize your internet connection on top of finding the root cause of the high ping. But no worries, though, as we'll teach you how to reduce it.
 
-## 1\. Check Your Internet Connection ![screenshot of Speedtest by Ookla using a fiber connection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/screenshot-of-speedtest-by-ookla-using-a-fiber-connection.jpg)
+## 1\. Check Your Internet Connection
+![screenshot of Speedtest by Ookla using a fiber connection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/screenshot-of-speedtest-by-ookla-using-a-fiber-connection.jpg)
 
  Poor internet connection is the leading cause of high ping. If your internet speed is too low, your online games will lag. A bad internet connection could be due to a terrible connection from your ISP or inefficient hardware, such as a modem or router. So, test your connection on any [free internet speed test website](https://www.makeuseof.com/best-free-websites-test-internet-speed/) and see how fast it is.
 
@@ -87,7 +88,8 @@ thumbnail: https://thmb.techidaily.com/f13aeea6c73457fbc5bbd1b6bff4a0c00a428af0a
 
  Likewise, if too many devices are connected to the same internet connection, hogging its resources, you can encounter the same problem. You should also disconnect other devices connected to the same internet connection. However, if no other device on your network is [using your internet bandwidth](https://www.makeuseof.com/tag/find-out-whos-eating-your-bandwidth-with-these-tips/) , the problem could be with the DNS cache or the game's server.
 
-## 3\. Switch Your Server ![An illustration showing two web servers deployed in a network](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/web-server.jpg)
+## 3\. Switch Your Server
+![An illustration showing two web servers deployed in a network](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/web-server.jpg)
 
  A high ping rate is usually a result of miscommunication between your connection's packet transmission rate and the game's server's response. When you're sure your internet speed is good enough, the culprit could be the game's server you're connected to.
 
@@ -95,7 +97,8 @@ thumbnail: https://thmb.techidaily.com/f13aeea6c73457fbc5bbd1b6bff4a0c00a428af0a
 
  If you see that the nearest server is overcrowded, choose a server that's a bit farther but has less traffic.
 
-## 4\. Enable or Disable Your VPN ![A person holding a credit card with a VPN connected on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/premium-vpn-money.jpg)
+## 4\. Enable or Disable Your VPN
+![A person holding a credit card with a VPN connected on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/premium-vpn-money.jpg)
 
  Most internet service providers throttle the user's internet connection to limit the bandwidth consumption for specific processes. This is known as [ISP throttling](https://www.makeuseof.com/what-is-isp-throttling-how-can-you-tell/) .
 
@@ -113,7 +116,8 @@ thumbnail: https://thmb.techidaily.com/f13aeea6c73457fbc5bbd1b6bff4a0c00a428af0a
 
 [Flushing the DNS cache on Windows](https://www.makeuseof.com/flush-dns-cache-windows-11/) and [macOS](https://www.makeuseof.com/how-to-flush-dns-cache-mac/) is very straightforward. Therefore, try clearing it and see if it helps resolve the issue.
 
-## 6\. Play the Game Outside the Regular Hours ![four clocks showing different time zones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/dl-featured-img-size-1.jpg)
+## 6\. Play the Game Outside the Regular Hours
+![four clocks showing different time zones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/dl-featured-img-size-1.jpg)
 
  There are some games whose servers get crowded during specific hours of the day, but this isn't the case with most online games. Therefore, scheduling your gaming hours for a different time during the day may help you attain lower ping.
 
@@ -131,7 +135,8 @@ thumbnail: https://thmb.techidaily.com/f13aeea6c73457fbc5bbd1b6bff4a0c00a428af0a
 
  For example, lowering the graphics settings may negatively impact your visuals, but it will reduce perceived lag significantly. Likewise, if your game allows you to control the audio quality, screen refresh rate, and similar settings, be sure to adjust them so that your game runs smoothly.
 
-## 9\. Change Your Internet Plan or ISP ![modern wifi router placed on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/modern-wifi-router.jpg)
+## 9\. Change Your Internet Plan or ISP
+![modern wifi router placed on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/modern-wifi-router.jpg)
 
  If none of the above fixes lower the ping rate and the issue persists, you should probably switch to a better internet plan, offering higher speed than your current subscription. Therefore, upgrade your internet package to see if the improved speed makes your connection more stable and reduces the ping rate.
 

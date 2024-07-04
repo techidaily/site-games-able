@@ -1,7 +1,7 @@
 ---
 title: The Disassembler's Path to Understanding an Xbox 360 Slim
-date: 2024-06-25T13:04:17.828Z
-updated: 2024-06-26T13:04:17.828Z
+date: 2024-07-03T11:59:20.172Z
+updated: 2024-07-04T11:59:20.172Z
 tags:
   - games
 categories:
@@ -31,13 +31,15 @@ thumbnail: https://thmb.techidaily.com/f8d5308a72df2042f1308b78dc1efb598f7f3491c
 
  Remember to ground yourself as you work by touching an unpainted metal surface within the Xbox 360\. This will reduce the likelihood of static electricity damaging the internal components. There is also the option of an anti-static wristband to protect against potential shocks that could damage or even fry your Xbox 360.
 
-## Xbox 360 Disassembly Steps ![xbox 360 slim isolated on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/xbox-360-slim-isolated-on-a-table.jpg)
+## Xbox 360 Disassembly Steps
+![xbox 360 slim isolated on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/xbox-360-slim-isolated-on-a-table.jpg)
 
  Once you've gathered your tools, you're ready to open your Xbox 360\. Unlike many comparative consoles, accessing the inner workings of your Xbox 360 is somewhat difficult. You'll need to remove the faceplate, end grilles, bottom panel, and top panel before you have access to the internal components.
 
  The process of opening your Xbox 360 will vary by model. The Xbox 360, Xbox 360 S (Slim), and Xbox 360 E have notably different cases. As a result, the locations of the brackets holding the case together differ. In this article, we've disassembled an Xbox 360 S.
 
-### 1\. Remove the Side Covers ![removing the bottom panel of xbox 360 slim](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/removing-the-bottom-panel-of-xbox-360-slim.jpg)
+### 1\. Remove the Side Covers
+![removing the bottom panel of xbox 360 slim](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/removing-the-bottom-panel-of-xbox-360-slim.jpg)
 
  In some ways, tearing down the Xbox 360 S is simpler than its previous iterations. You'll need to start by detaching the two side covers. The bottom side cover has a latch that lets you click and release it. Afterward, you'll need to unclip the other side panel portion gently. It's often possible to do this by gently pulling, but you can use your spudger to ease the clips loose if you're in doubt.
 
@@ -45,19 +47,22 @@ thumbnail: https://thmb.techidaily.com/f8d5308a72df2042f1308b78dc1efb598f7f3491c
 
  After you've removed the bottom side cover, you'll need to remove the top side cover. The top side cover doesn't have any latch and is instead clipped to the Xbox chassis on all sides. Ease your spudger or screwdriver into the seam between the top side cover and the Xbox 360 until it begins to lift away.
 
-### 2\. Remove the Side Faceplates ![removing the top faceplate from an xbox 360 slim](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/removing-the-top-faceplate-from-an-xbox-360-slim.jpg)
+### 2\. Remove the Side Faceplates
+![removing the top faceplate from an xbox 360 slim](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/removing-the-top-faceplate-from-an-xbox-360-slim.jpg)
 
  Now that you've removed the side covers on both ends of your Xbox 360, you'll need to remove the underlying side faceplates. Unfortunately, these can be quite difficult to remove. You'll need to ease your spudger under the leftmost, middle, and rightmost holes on each side of the faceplate. Angle the blade of the spudger upward until the clip holding the faceplate pops loose.
 
  It's hard not to feel like you're breaking something during this step. Ultimately, removing the two faceplates for the first time will require a bit of pressure.
 
-### 3\. Uninstall the Wi-Fi Adapter and Hard Drive ![unscrewing the wifi adapter screw inside xbox 360 slim](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/unscrewing-the-wifi-adapter-screw-inside-xbox-360-slim.jpg)
+### 3\. Uninstall the Wi-Fi Adapter and Hard Drive
+![unscrewing the wifi adapter screw inside xbox 360 slim](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/unscrewing-the-wifi-adapter-screw-inside-xbox-360-slim.jpg)
 
  With the side covers removed and faceplates removed, you're ready to remove the Wi-Fi adapter and hard drive. The Wi-Fi adapter is under the top faceplate, while the hard drive is under the bottom faceplate. You'll need to use your Torx T10 screwdriver to remove the Wi-Fi adapter. Remove the screw, then gently pull the Wi-Fi adapter from its port and out of the chassis.
 
  After you've set the Wi-Fi adapter aside, you'll need to remove your Xbox 360's hard drive. You'll find removing the hard drive much easier than removing the adapter, as it includes a convenient pull tab. Place the Xbox 360 on its side so the hard drive faces upward, then pull directly upward on the tab until the hard drive disconnects from its ports. Set the hard drive and Wi-Fi adapter aside on a safe, clean surface.
 
-### 4\. Remove the Frames and Pry Apart the Back Panel ![removing the bottom lip from xbox 360 slim](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/removing-the-bottom-lip-from-xbox-360-slim.jpg)
+### 4\. Remove the Frames and Pry Apart the Back Panel
+![removing the bottom lip from xbox 360 slim](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/removing-the-bottom-lip-from-xbox-360-slim.jpg)
 
  Now that you've removed the Wi-Fi adapter and hard drive, you're almost ready to access your Xbox 360 Slim's internal chassis. Before doing that, you'll need to remove the frames on the top and bottom side panels that once held the faceplates and side covers in place. Much like with the faceplates, you can accomplish this by easing your screwdriver behind any clips under the frame as you peel it away from the Xbox.
 
@@ -75,7 +80,8 @@ thumbnail: https://thmb.techidaily.com/f8d5308a72df2042f1308b78dc1efb598f7f3491c
 
 ###
 
-### 5\. Remove the Internal Case Screws ![an xbox 360 slim sits with its side panel removed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/an-xbox-360-slim-sits-with-its-side-panel-removed-1.jpg)
+### 5\. Remove the Internal Case Screws
+![an xbox 360 slim sits with its side panel removed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/an-xbox-360-slim-sits-with-its-side-panel-removed-1.jpg)
 
  After you've removed the bottom panel, you should see the underlying metal chassis of your Xbox 360\. Six screws hold the top of the internal case in place, including two screws on the right side, two screws on the left side, and two screws in the indentations in the middle. Remove all the screws with your T12 screwdriver and set them aside in a secure container. It's vital to make sure that you remove the correct screws—in this case, the six pictured above. Each screw is 2.5" long. You will not be able to remove the top panel of your Xbox 360 until the six T12 screws are removed.
 

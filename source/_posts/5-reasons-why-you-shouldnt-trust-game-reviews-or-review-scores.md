@@ -1,0 +1,112 @@
+---
+title: 5 Reasons Why You Shouldn't Trust Game Reviews or Review Scores
+date: 2024-07-03T12:05:46.270Z
+updated: 2024-07-04T12:05:46.270Z
+tags:
+  - games
+categories:
+  - games
+description: This Article Describes 5 Reasons Why You Shouldn't Trust Game Reviews or Review Scores
+excerpt: This Article Describes 5 Reasons Why You Shouldn't Trust Game Reviews or Review Scores
+keywords: Game Reviews Unreliability,Don't Rely on Ratings,Gaming Skepticism Tips,Trust in Games Caution,Review Scores Validity Doubt,Why Mistrust Game Scores,Questioning Game Reviews
+thumbnail: https://thmb.techidaily.com/0217ab2f78f4ec22b4e817c364c8596747881cd4ccd50e41e8a2b78b87f09590.jpg
+---
+
+## 5 Reasons Why You Shouldn't Trust Game Reviews or Review Scores
+
+ Reviews are important metrics for products because they help us decide what to pick when there are so many options out there. This logic still applies to video games—especially because there are many games to choose from.
+
+ But should you always trust game reviews? Even when they come from major names like IGN or Games Radar? No, not really. And we’ve detailed why you should use your own judgment before swallowing a game review hook, line, and sinker.
+
+## 1\. Reviewers Can Approach the Review With Bias
+
+ Bias is human, and reviewers are human. While most good reviewers try their best to make sure their personal preferences don’t show when making reviews, it’s something not even the best reviewers can help.
+
+ Take Hogwarts Legacy, for instance; IGN gave it a 9/10, PC Gamer gave it an 83/100, and Wired gave it 1/10, essentially saying the game isn’t even worth picking up due to anti-Semitic tropes, bad graphics, and flat storytelling. But how can a game acclaimed by other strong reviewers be virtually unplayable to another?
+
+![Hogwarts Legacy ratings on IGN, Wired, and PC Gamer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/hogwarts-legacy-ratings-on-ign-wired-and-pc-gamer.jpeg)
+
+ The bottom line is that opinions, political stances, and backgrounds matter a lot when it comes to something as subjective as reviews. Do not completely trust any review you read.
+
+## 2\. Some Groups of People Review-Bomb Games
+
+ Review-bombing is when a large number of people collectively give something bad reviews for reasons that don’t correspond to the quality of the product itself. For games, it’s usually an external factor like news concerning the game developers or controversy that prompts such actions as a form of “social justice.”
+
+ A famous example of this was when Camp Santo filed a [DMCA takedown](https://www.makeuseof.com/what-is-dmca-meaning/) of PewDiePie’s Firewatch content in 2017\. PewDiePie’s fanbase wasn’t happy about it and decided to retaliate by review-bombing Firewatch on Steam.
+
+ The result of such actions is that unassuming potential buyers could get dissuaded from buying a game purely because of a group’s spite. You can avoid falling into that trap if you are skeptical about game reviews.
+
+## 3\. Early Impressions Can Be Misleading
+
+![A screenshot taken from CD Projekt Red of the key art for Cyberpunk 2077](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/cyberpunk-2077-key-art.jpg)
+
+ Image Credit:[CD Projekt Red](https://www.cdprojektred.com/en/our-games)
+
+ Most major game reviewing platforms like to give game reviews as early as possible to set the trend for the game’s reception. However, the problem here is that time can really change the way a game is perceived.
+
+ Cyberpunk 2077 was a highly anticipated game from CD Projekt Red (developers of The Witcher 3). However, many gamers reported bugs and performance issues when it was released in 2020\. This was the core reason for many of its bad reviews on Metacritic.
+
+ Since 2020, Cyberpunk 2077 has received several patches that have optimized it. It runs a lot better now on the PS4 and Xbox One. You would be wrong if you judged it based solely on Metacritic’s old assessment.
+
+ Besides developers literally improving games with updates, some games age quite nicely. And thanks to [community-created mods](https://www.makeuseof.com/mods-video-games/) , you can improve some games the way you like.
+
+## 4\. Game Studios Sometimes Encourage False Reviews
+
+![A person holding out a handful of US dollar bills](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/person-holding-money.jpg)
+
+ While it’s generally frowned upon as bad marketing practice, some studios pay reviewers to give them positive reviews. The issue with doing this is that it could be difficult to tell when a reviewer is genuine, or they have taken some money under the table.
+
+ We can’t name names for obvious reasons, but you should be extra careful when basing your gaming decision on reviews. Stick to watching or reading reviewers you know have a history of stoic integrity.
+
+ In some cases, you might gain more from a criticism made by a not-so-popular reviewer. They are less likely to be approached by big studios, and they will mostly be speaking based on personal interest and nothing as sinister as deceptive capitalism.
+
+## 5\. Reviewers Sometimes Have Tight Time Constraints
+
+![black bell alarm clock on office desk](https://thmb.techidaily.com/2b0be1d254da9a28eb7fb0462b3c66de235332cf8b2fab4ba3941b84a9d75cac.jpg)
+
+ The world of game reviews and media is a cutthroat world based on views and attention. Anyone who gets their stuff out early will get the most traction because they’re sharing new and exclusive information.
+
+ This can put a lot of pressure on reviewers as they strive to speed-run games to come up with a “comprehensive review.” Even the most faithful gamers might not properly appreciate a game if they had to rush it for work.
+
+ For this reason, you should be extra wary of early reviews. They might not properly capture the game by virtue of the fact that the critic might have rushed it.
+
+## Make Your Own Assessment of Games
+
+ We aren’t saying reviews are useless, but you can now see how fallible they are. It’s a great way to gain insight into other people’s feelings toward a game. In conjunction with reviews, you should assess video games by playing a demo or watching a gameplay video. Those will set more realistic expectations and give you a more direct experience with the game.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/deciphering-the-price-history-of-games-on-steam/"><u>Deciphering the Price History of Games on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/apples-oversights-a-closer-look-at-6-gaming-drawbacks/"><u>Apple's Oversights: A Closer Look at 6 Gaming Drawbacks</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-full-console-experience-integrating-controllers-with-androids/"><u>Unlock Full Console Experience: Integrating Controllers with Androids</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-240hz-screen-guide-for-gamers/"><u>The Ultimate 240Hz Screen Guide for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719159997750-immediate-relief-best-online-games-now/"><u>Immediate Relief: Best Online Games Now!</u></a></li>
+<li><a href="https://games-able.techidaily.com/durability-and-design-selecting-the-perfect-casing-in-24/"><u>Durability & Design: Selecting the Perfect Casing in '24</u></a></li>
+<li><a href="https://games-able.techidaily.com/will-imac-innovations-reign-in-gaming-markets/"><u>Will iMac Innovations Reign in Gaming Markets?</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-asus-rog-ally-dock-compilation-2024-edition/"><u>Premium ASUS ROG Ally Dock Compilation, 2024 Edition</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-income-in-the-cloud-making-money-on-youtube-without-relying-on-ads/"><u>[Updated] Income in the Cloud  Making Money on YouTube Without Relying on Ads</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-8-web-archives-of-3d-letterforms/"><u>2024 Approved  Top 8 Web Archives of 3D Letterforms</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-tecno-spark-20c-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Tecno Spark 20C Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-snapshotwiz-10-pro-windows-screen-master/"><u>[Updated] In 2024, SnapshotWiz 10 Pro - Windows Screen Master</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-find-x6-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Find X6 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/crafting-memes-with-ease-top-7-tools-unveiled/"><u>Crafting Memes with Ease  Top 7 Tools Unveiled</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-investing-in-the-future-learning-to-proficiently-record-skype-calls/"><u>[New] 2024 Approved  Investing in the Future  Learning to Proficiently Record Skype Calls</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/2024-approved-make-a-movie-on-your-mac-a-comprehensive-tutorial/"><u>2024 Approved Make a Movie on Your Mac A Comprehensive Tutorial</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-excellence-on-screen-the-years-best-camcorders-reviewed/"><u>[New] Excellence on Screen  The Year's Best Camcorders Reviewed</u></a></li>
+</ul></div>
