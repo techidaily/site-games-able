@@ -1,0 +1,158 @@
+---
+title: From Sony's Mini Gaming Hub to Classic Game Boy Shell
+date: 2024-06-25T12:48:34.065Z
+updated: 2024-06-26T12:48:34.065Z
+tags:
+  - games
+categories:
+  - games
+description: This Article Describes From Sony's Mini Gaming Hub to Classic Game Boy Shell
+excerpt: This Article Describes From Sony's Mini Gaming Hub to Classic Game Boy Shell
+keywords: Sony Mini Gaming Console,Mini Gaming Systems Comparison,Portable Game Consoles Review,Retro Game Boy Replica Designs,Game Console Aesthetics & Design Trends,the evolution from playing classic ps4 games to ps5,from sonys mini gaming hub to classic game boy shell
+thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f8bcbe092ec793162bb9610d.jpg
+---
+
+## From Sony's Mini Gaming Hub to Classic Game Boy Shell
+
+ The Sony PSP is a legendary piece of gaming hardware. What makes it even more amazing are the things you can do to modify it and get more out of it.
+
+ Emulators are a great way to get the most out of your old PSP as besides playing PSP titles natively, Game Boy games run especially well on the PSP, so it's the perfect platform to emulate.
+
+## The Sony PSP Is a Great Platform for Emulation
+
+ The Sony PlayStation Portable is often thought of as being ahead of its time. It had a great form factor, decently powerful internals, and could be a whole media center in a tiny package. Even [the PS Vita failed](https://www.makeuseof.com/why-ps-vita-failed/) and couldn't live up to the PSP.
+
+ Since it is so much more powerful than previous-generation hardware, the PSP could easily emulate platforms like all the Game Boy versions, Nintendo 64, SNES, GameCube, and even some PS1 and PS2 games.
+
+![PSP emulating GameBoy games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/psp-emulating-gameboy-games.JPG)
+
+ Image Credit: Jhet Borja
+
+ You can buy something like the [Retroid Pocket 3+](https://www.makeuseof.com/retroid-pocket-3-plus-review/) for $149, but used PSPs are quite abundant, and old units could easily be had for a small price. Granted, the Pocket 3+ is quite powerful and can play demanding 3D PS2 games that the PSP can't.
+
+ If you have an old PSP or can get your hands on one for a low price, emulation is a great way to make the most of it and play multiple retro platforms on one convenient handheld. While there are [great emulators on Android](https://www.makeuseof.com/tag/best-game-emulators-for-android/) , a physical device just makes the experience so much better.
+
+## How to Emulate Game Boy Games on Your PSP
+
+ In this article, we’re going to be focusing on Game Boy emulation, as it’s one of the easiest platforms to get running on a PSP. Many of these steps will still apply for other platforms as the program we’ll be using has many platforms built in already. Let’s get to turning your PSP into a Game Boy.
+
+### Disclaimer
+
+ Installing custom firmware is not jailbreaking. However, we do not condone piracy and we do not encourage you to illegally access copyrighted content such as ROMs. Please use rips and backups of games you already own and do not use redistributed copyrighted content from the internet.
+
+### Step 1: Download Custom Firmware and Set Up Your PSP
+
+ Before we delve further into this step, you’re going to need to update your PSP version 6.61\. Updating your PSP is outside the scope of this article, but updating your PSP follows the same steps as installing custom firmware. You can also quickly watch how to update your PSP in the video above.
+
+![Downloading PSP custom firmware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/downloading-psp-custom-firmware.jpg)
+
+ Firstly, head to the [PSPunk website](https://www.pspunk.com/psp-cfw/) and go to the tab of your PSP model. You’ll want to download the**6.61 Pro C2** and the**Infinity v2.0.3** files.
+
+ We can’t just carelessly paste those downloaded files into your PSP. PSPs rely on a folder structure system and can’t recognize files just because they’re in the Memory Stick.
+
+![Complete folder structure for PSP update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/complete-folder-structure-for-psp-update.jpg)
+
+ For Infinity, follow this folder structure: PSP/GAME/UPDATE. If the UPDATE folder already exists, skip this step.
+
+![Moving Infinity update file into PSP UPDATE folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/moving-infinity-update-file-into-psp-update-folder.jpg)
+
+ Inside the**UPDATE** folder, transfer the**EBOOT.PBP** file from the Infinity ZIP file like in the image above. Make sure to choose the file inside the**pspgo** folder if you have a PSP GO. Otherwise, choose the file in the**standard** folder.
+
+![Moving custom firmware folder into PSP GAME folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/moving-custom-firmware-folder-into-psp-game-folder.jpg)
+
+ Go back one tier in the folder structure into the**GAME** folder and transfer the**PROUPDATE** folder into it.
+
+### Step 2: Install Infinity and Pro C2 Firmware Into Your PSP
+
+ Pro C2 is the custom firmware, and Infinity helps the firmware stay persistently so you don’t have to install the firmware every time you reboot your PSP. Since these two go together and follow similar steps, we’ll just put them into one section.
+
+![Infinity 2 thumbnail on PSP](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/infinity-2-thumbnail-on-psp.jpg)
+
+ We’ll start with Infinity first; turn your PSP on and head to**Game > Memory Stick** . Look for the Infinity 2 thumbnail and select it.
+
+ Once you open Infinity, you’ll need to install it by pressing**X** on your PSP. After the installation completes, you’ll then be asked to reboot your PSP.
+
+![Pro-C thumbnail on PSP](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/pro-c-thumbnail-on-psp-1.jpg)
+
+ After rebooting your PSP, we can now install the custom firmware. To do this, head to**Game** on your PSP again and select the Pro C2 thumbnail.
+
+![PRO-C installation screen on PSP](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/pro-c-installation-screen-on-psp-1.jpg)
+
+ After launching it, you’ll see small text on the upper left of your PSP. All you need to do now is press**X** to execute the installation of the firmware. After installation, press**X** again to reboot your PSP and launch the custom firmware.
+
+### Step 3: Make the PSP Custom Firmware Persistent
+
+ Now that you’re in the custom firmware, you’ll need to make it persistent with Infinity. If you don’t, rebooting your PSP will revert it back to official firmware.
+
+![PRO CFW selected in Infinity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/pro-cfw-selected-in-infinity.jpg)
+
+ To make the custom firmware permanent, open up Infinity. With Infinity open, press left on your D-Pad. Select**PRO CFW by Coldbird** . You’ll know if you’ve selected it once you see an asterisk beside the text.
+
+ Press right on your D-Pad to go back to the main Infinity screen and press the**Home button** on your PSP to exit.
+
+![PSP system version with Pro-C and Infinity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/psp-system-version-with-pro-c-and-infinity-1.jpg)
+
+ You can check if the custom firmware is installed by going to**Settings > System Settings > System Information** . You should see an infinity symbol next to the version number of your system software.
+
+### Step 4: Set Up RetroArch
+
+ Now that you’ve got custom firmware installed on your PSP, you can now start installing the emulator. In our case, we’re going to use RetroArch, as it’s easy to download and get running.
+
+![RetroArch PSP download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/retroarch-psp-download-page.jpg)
+
+ Firstly, head to the [RetroArch Downloads page](https://www.retroarch.com/?page=platforms) . Scroll down until you find the PSP emulator and click on**Download** .
+
+![Extracting retroarch folder into PSP GAME folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/extracting-retroarch-folder-into-psp-game-folder.jpg)
+
+ Once you’ve downloaded RetroArch, plug your PSP in and open the RetroArch ZIP file and transfer the**retroarch** folder into the**PSP/GAME** folder in your PSP.
+
+![RetroArch main menu with Quit RetroArch highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/retroarch-main-menu-with-quit-retroarch-highlighted-1.jpg)
+
+ Unplug your PSP and on it, head to**Game > Memory Stick** . You should see the RetroArch thumbnail added. Run RetroArch so it creates new folders in your PSP. These new folders are where you place your games, emulator cores, configs, etc. You can now quit RetroArch and plug it back into your computer to add your legally obtained games.
+
+![RetroArch Downloads highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/retroarch-downloads-highlighted-1.jpg)
+
+ When moving games to your PSP for RetroArch to run, place it in the PSP/RETROARCH/DOWNLOADS folder and you should see them in the Downloads when selecting**Load Content** RetroArch on your PSP.
+
+## An Old Platform to Play Older Platforms
+
+ The first PSP was released in 2004, but it was way ahead of its time. The fact that it can play multiple retro platforms despite being considered retro itself is quite impressive.
+
+ You can get a used PSP for cheap and be able to play PSP games natively on it, but you can also enjoy classic 2D games from other platforms with ease. Just avoid demanding 3D games as it starts to struggle with those.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/streamlining-the-steam-deck-experience-with-keyboard-settings-optimization/"><u>Streamlining the Steam Deck Experience with Keyboard Settings Optimization</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-is-twitch-how-to-use-the-live-streaming-platform/"><u>What Is Twitch? How to Use the Live Streaming Platform</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-playing-legacy-xbox-games-on-pc/"><u>Step-by-Step: Playing Legacy Xbox Games on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-picture-quality-with-personalized-xbox-variable-refresh-rate/"><u>Optimizing Picture Quality with Personalized Xbox Variable Refresh Rate</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-s-no-planned-discs-despite-patent/"><u>Xbox S: No Planned Discs Despite Patent?</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-step-by-step-guide-for-a-supercharged-ps4-experience/"><u>A Step-by-Step Guide for a Supercharged PS4 Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-overcome-display-drivers-not-launching-on-pcs/"><u>Steps to Overcome Display Drivers Not Launching on PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/enrich-gameplay-with-advanced-focused-3d-light-panels/"><u>Enrich Gameplay with Advanced, Focused 3D Light Panels</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/remedy-non-playing-youtube-tweet-clips/"><u>Remedy  Non-Playing YouTube Tweet Clips</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-iphone-x-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On iPhone X? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-online-webm-video-reducers-fast-and-efficient/"><u>New In 2024, Online WebM Video Reducers Fast and Efficient</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-google-pixel-7a-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Google Pixel 7a To Phone | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-5-homemade-shot-strategies-the-fastest-hacks-you-need/"><u>Top 5 Homemade Shot Strategies – The Fastest Hacks You Need</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/1716475411832-triller-vs-tiktok-similarities-and-differences-a-complete-guide-for-2024/"><u>Triller Vs. TikTok - Similarities & Differences - a Complete Guide for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-the-ultimate-list-best-aspect-ratio-calculators-for-web-and-design/"><u>Updated The Ultimate List Best Aspect Ratio Calculators for Web and Design</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-elevate-your-tiktok-footage-with-stunning-template-techniques/"><u>[Updated] 2024 Approved  Elevate Your TikTok Footage with Stunning Template Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-explore-the-art-of-vocal-transformation-with-these-cost-free-alternatives/"><u>[New] Explore the Art of Vocal Transformation with These Cost-Free Alternatives</u></a></li>
+</ul></div>

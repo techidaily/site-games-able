@@ -1,0 +1,72 @@
+---
+title: Giant Games, Niche Play? [Opinion Broadcast]
+date: 2024-06-25T12:48:39.540Z
+updated: 2024-06-26T12:48:39.540Z
+tags:
+  - games
+categories:
+  - games
+description: This Article Describes Giant Games, Niche Play? [Opinion Broadcast]
+excerpt: This Article Describes Giant Games, Niche Play? [Opinion Broadcast]
+keywords: Giant Games Analysis,Niche Gaming Insights,Opinions on Game Sizes,Broadcasting Video Games,Play Niche Trends,Large-Scale Gaming Effects,Expert Game Industry Views
+thumbnail: https://thmb.techidaily.com/399b71f22f6a0f097f9f941327a817b697b933fa54dbaf37480f689ec0e73886.jpg
+---
+
+## Giant Games, Niche Play? [Opinion Broadcast]
+
+ This week's podcast is a discussion around the recent comments from Ubisoft executive Philippe Tremblay concerning the [future of game subscriptions](https://www.ign.com/articles/ubisoft-exec-says-gamers-need-to-get-comfortable-not-owning-their-games-for-subscriptions-to-take-off) . Specifically:
+
+> "One of the things we saw is that gamers are used to, a little bit like DVD, having and owning their games. That's the consumer shift that needs to happen. (...) So it's about feeling comfortable with not owning your game."
+
+ You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
+
+## Shownotes
+
+Our conversation takes in:
+
+* @WeirdBongs' take on [game ownership vs purchase](https://twitter.com/WeirdBongs/status/1747982655302344705)
+* [The "process" behind unlinking Epic Games from Rockstar Games](https://support.rockstargames.com/articles/22802468744467/Unlinking-your-Epic-Games-account-from-your-Rockstar-Games-account)
+* Small Kingdoms on [Steam](https://store.steampowered.com/app/2533000/Small%5FKingdoms/)
+
+We finish this week's show with these recommendations:
+
+* Dave the Diver ([Steam](https://store.steampowered.com/app/1868140/DAVE%5FTHE%5FDIVER/) |[Switch](https://www.nintendo.com/us/store/products/dave-the-diver-switch/) )
+* [LEGO Insiders](https://www.lego.com/en-at/aboutus/news/2023/august/lego-insiders-where-play-is-rewarding-) (previous LEGO VIP)
+
+ Christian Cawley hosts this week's podcast, and is joined by Ben Stegner. You can contact them on Twitter:[@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and [@stegnersaurus](https://twitter.com/stegnersaurus) , with your suggestions for future topics.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/cross-platform-connectivity-stream-decks-secure-link-to-your-desktop/"><u>Cross-Platform Connectivity: Stream Deck's Secure Link to Your Desktop</u></a></li>
+<li><a href="https://games-able.techidaily.com/discontinued-games-beyond-your-psp-network/"><u>Discontinued Games: Beyond Your PSP Network</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-dual-boot-potential-deck-with-two-operating-systems/"><u>Unlocking Dual-Boot Potential: Deck with Two Operating Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/no-spinning-discs-no-stress-on-your-series-x/"><u>No Spinning Discs, No Stress! On Your Series X</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-step-by-step-of-unsubscribing-on-steam/"><u>The Step-by-Step of Unsubscribing on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-gaming-with-chatgpt-the-top-6-titles/"><u>Explore Gaming with ChatGPT: The Top 6 Titles!</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-gaming-specifications-unveiled/"><u>Essential Gaming Specifications Unveiled</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-elevate-your-edits-the-beginners-insider-look-at-editing-techniques/"><u>2024 Approved  Elevate Your Edits  The Beginner's Insider Look at Editing Techniques</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-selective-removers-to-purify-video-identity-signs/"><u>[New] 2024 Approved  Selective Removers to Purify Video Identity Signs</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/2024-approved-the-art-of-color-consistency-a-powerdirector-users-guide/"><u>2024 Approved The Art of Color Consistency A PowerDirector Users Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-streamline-your-videos-crop-and-export-tutorial-for-instagram/"><u>[Updated] 2024 Approved  Streamline Your Videos  Crop & Export Tutorial for Instagram</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/dial-in-the-ideal-aspect-ratio-for-stunning-youtube-videos/"><u>Dial in the Ideal Aspect Ratio for Stunning YouTube Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-prime-construction-tips-for-mc-community-abodes/"><u>[New] 2024 Approved  Prime Construction Tips for MC Community Abodes</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/dodge-digital-duplicates-to-increase-youtube-exposure-for-2024/"><u>Dodge Digital Duplicates to Increase YouTube Exposure for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-audio-experience-budget-friendly-asmr-mics-reviewed/"><u>In 2024, Ultimate Audio Experience  Budget-Friendly ASMR Mics Reviewed</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-honor-v-purse-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Honor V Purse | Dr.fone</u></a></li>
+</ul></div>

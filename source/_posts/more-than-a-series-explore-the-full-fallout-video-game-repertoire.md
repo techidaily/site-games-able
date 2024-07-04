@@ -1,0 +1,109 @@
+---
+title: "More than a Series: Explore the Full Fallout Video Game Repertoire"
+date: 2024-06-25T13:13:58.720Z
+updated: 2024-06-26T13:13:58.720Z
+tags:
+  - games
+categories:
+  - games
+description: "This Article Describes More than a Series: Explore the Full Fallout Video Game Repertoire"
+excerpt: "This Article Describes More than a Series: Explore the Full Fallout Video Game Repertoire"
+keywords: Fallout Repertoire Analysis,Complete Fallout Experience,Fallout Video Game Collection,Expanding Fallout Universe,Fallout Series Insight,Full Fallout Gaming Guide,Explore Fallout Titles Deeply
+thumbnail: https://thmb.techidaily.com/3de73e34857cd0f78a7df37ffea6db9e6fc87f29fa552917e2c2599c84130202.jpg
+---
+
+## More than a Series: Explore the Full Fallout Video Game Repertoire
+
+### Quick Links
+
+* [Fallout: New Vegas](#fallout-new-vegas)
+* [Fallout 3](#fallout-3)
+* [Fallout 4](#fallout-4)
+* [Fallout](#fallout)
+
+ You've just finished binging the excellent Fallout TV show, and now you're hooked. But as there is only one series, you'll have to turn elsewhere to get your Fallout fix.
+
+ Well, you probably already know that Fallout was based on a long-running series of outstanding games, first launching in 1997 and continuing to this day—so you have heaps of Fallout games to choose from.
+
+ The big question is, where do you start? What are the best Fallout games to play if you've just watched the show?
+
+## Fallout: New Vegas
+
+ It was always going to be easy to start this list: Fallout: New Vegas isn't just a great Fallout game; it's also one of the best RPGs of all time, and that's saying something in such a densely packed genre.
+
+ Fallout: New Vegas launched in 2010 and is chronologically set four years after the events of Fallout 3, in the year 2281 (don't worry, it's a standalone game in the series, and you don't need to have played the other titles, though it does help in overall immersion). You take on the role of a Mojave Express courier who has to deliver a package in the hellish wasteland, but you're ambushed and left for dead on the way.
+
+ What unfolds is a dramatic quest through New Vegas for vengeance, with warring factions seeking control over the area and, ultimately, the Hoover Dam. You'll have to choose between the factions you help, with your choices directly affecting the wasteland and the ending you receive, along with which side of the war you're on. The New California Republic, Caesar's Legion, and Mr. House all present convincing arguments, but what will you choose?
+
+ The city of New Vegas also specifically appears in the show's finale, so that's a nice link back into the game and likely an indicator of where the second series of Fallout will focus.
+
+## Fallout 3
+
+ Fallout 3 was the first Fallout title I played and was the first to move from its original isometric design into the fully rendered, open world we know and love today. Like Fallout: NV, Fallout 3 is a classic, though the writing isn't as tight in places.
+
+ Your story begins in the year 2277, 200 years after the nuclear war that wiped out civilization, and you're tasked with one role: find your missing father. Once you leave the safe confines of Vault 101 into the ruins of Washington D.C., it quickly emerges that there is more going on across the Capital Wasteland than first appears, and you're sucked into the battle between factions attempting to control a water purity project.
+
+ Fallout 3's main protagonists are the Enclave, the Brotherhood of Steel, and you, the Lone Wanderer. There is a rich tapestry of NPCs throughout the wasteland, and you can pick up companions to assist with certain quests. Dogmeat, a scavenging dog, is a personal favorite and one that you can spot in the Fallout TV show (and also appears in Fallout 4).
+
+ Although Fallout: NV is the better game, Fallout 3 holds a special place in the hearts of many gamers as the first 3D game in the series. For many folks, it was their introduction to Fallout.
+
+## Fallout 4
+
+ Fallout 4 is the last release in the "numbered" game series ([Fallout 1, 2, 3, & 4](https://www.makeuseof.com/fallout-series-explained/) —the multiplayer game, Fallout 76, doesn't count), launched in 2015\. It received great reviews when it launched, though it simplified many of the in-depth role-playing elements that made previous Fallout titles such unique, personal experiences. However, it did introduce detailed base building and crafting, which were both great new elements to get to grips with.
+
+ That aside, Fallout 4's events take place ten years after Fallout 3, and similar to the other titles, you're once again questing through the wasteland to find lost people and avenge the death of a loved one.
+
+ You, as the Sole Survivor, must travel throughout the Commonwealth, which is the post-apocalyptic Boston area. On the way, the story deepens, revealing that the Institute is creating synthetic humans and replacing the remaining human survivors, and there are organizations that want to free them and others that want to destroy them (check out the Brotherhood of Steel's evolved T-60 armor in the show, and you'll know where it came from!).
+
+ There are enormous battle sequences, an incredible amount of NPCs and quests to check out, and a whole world for you to start rebuilding. Don't forget to keep an eye out for the Red Rocket, which you'll have spotted in the Fallout TV show.
+
+## Fallout
+
+ Fallout is a great game, and it's the one that started it all. Launched in 1997, Fallout 1 was a remarkable feat of world-building for the time, and the game's scale was breathtaking. It's a little difficult to go back to now as it lacks so many of the mod-cons of modern gaming, but if you're delving into Fallout games, it's absolutely worth a play. It's not considered one of the best RPGs ever for no reason!
+
+ Fallout is set significantly earlier than the later games, taking place in 2161 (less than 100 years after the global nuclear war in 2077). You find a world that fuses 50s America with a nuclear apocalypse, and it combines detailed characters, NPCs, and quests with some dark humor to set the tone.
+
+ You're immediately thrust into the world to find a new water chip, a piece of hardware vital for the creation of clean water. Once you begin exploring the wasteland, it emerges that a lack of clean water is far from the only terrifying issue facing the survivors, and the Vault Dweller must work to ensure peace and unity in the post-apocalyptic world. ([Clean water is vital to survive an apocalyptic scenario](https://www.makeuseof.com/diy-projects-survive-zombie-apocalypse/) , though).
+
+ Fallout is an amazing series spanning multiple decades. Each game brings its own unique storyline, building out the lore of the wasteland and post-apocalyptic world, and now, with the Fallout TV series, it's only getting better. Not forgetting that Fallout is far from the only [post-apocalyptic show you can watch](https://www.makeuseof.com/tag/5-postapocalyptic-short-films-youtube-watch/) .
+
+ Better still, each modern-era Fallout game has extensive modding support and extremely passionate communities. Once you get through with the game, you can install a bunch of mods to change the game, and there are even [enormous total conversion mods](https://gamerant.com/x-best-fallout-new-vegas-total-conversion-mods/) that breathe new life into each title.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/the-most-immersive-mobile-mmo-experiences/"><u>The Most Immersive Mobile MMO Experiences</u></a></li>
+<li><a href="https://games-able.techidaily.com/direct-lineup-xbox-one-and-your-controller/"><u>Direct Lineup: Xbox One & Your Controller</u></a></li>
+<li><a href="https://games-able.techidaily.com/using-smart-technology-for-xbox-controller-free-use/"><u>Using Smart Technology for Xbox Controller-Free Use</u></a></li>
+<li><a href="https://games-able.techidaily.com/nintendo-switch-woes-assessing-repairs-and-replacements/"><u>Nintendo Switch Woes: Assessing Repairs and Replacements</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-entertainment-navigating-costs-with-series-sx/"><u>Affordable Entertainment: Navigating Costs with Series S/X</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-google-play-games-console-compatibility/"><u>Understanding Google Play Games Console Compatibility</u></a></li>
+<li><a href="https://games-able.techidaily.com/virtual-warfare-odyssey-exploring-the-best-11-simulators/"><u>Virtual Warfare Odyssey: Exploring the Best 11 Simulators</u></a></li>
+<li><a href="https://games-able.techidaily.com/linux-guide-running-android-apps-seamlessly/"><u>Linux Guide: Running Android Apps Seamlessly</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-xboxs-capabilities-beyond-traditional-inputs/"><u>Explore Xbox's Capabilities Beyond Traditional Inputs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-deciphering-the-auto-cut-functionality-in-imovie/"><u>[New] 2024 Approved  Deciphering the Auto-Cut Functionality in iMovie</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/click-to-victory-the-best-12-pc-games-for-dedicated-players/"><u>Click to Victory  The Best 12 PC Games for Dedicated Players</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/summer-screen-escapades-top-10-classic-kids-films-for-2024/"><u>Summer Screen Escapades  Top 10 Classic Kid's Films for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-dynamic-subtitle-artisan/"><u>In 2024, Dynamic Subtitle Artisan</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/garagebands-easy-way-to-dull-down-noise-levels/"><u>Garageband's Easy Way to Dull Down Noise Levels</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-do-you-want-to-remove-the-unnecessary-scene-from-your-tiktok-video-this-article-will-help-you-to-adjust-the-length-of-tiktok-clip-by-providing/"><u>2024 Approved Do You Want to Remove the Unnecessary Scene From Your TikTok Video? This Article Will Help You to Adjust the Length of TikTok Clip by Providing Easy Methods</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-vivo-y100i-power-5g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Vivo Y100i Power 5G</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-customize-and-captivate-thumbnail-magic-for-shorts/"><u>[New] Customize & Captivate  Thumbnail Magic for Shorts</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unveiling-websites-your-source-for-youtube-branding-collabs/"><u>In 2024, Unveiling Websites  Your Source for YouTube Branding Collabs</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-the-art-of-crafting-a-youtube-video-with-100kplus-reach-for-2024/"><u>[Updated] The Art of Crafting a YouTube Video with 100K+ Reach for 2024</u></a></li>
+</ul></div>

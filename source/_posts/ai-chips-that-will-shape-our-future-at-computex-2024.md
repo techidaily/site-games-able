@@ -1,0 +1,106 @@
+---
+title: AI Chips That Will Shape Our Future at Computex 2024
+date: 2024-06-25T13:07:18.943Z
+updated: 2024-06-26T13:07:18.943Z
+tags:
+  - games
+categories:
+  - games
+description: This Article Describes AI Chips That Will Shape Our Future at Computex 2024
+excerpt: This Article Describes AI Chips That Will Shape Our Future at Computex 2024
+keywords: AI Chip Technology,Future of Artificial Intelligence (AI),Computex 2024 Innovations,Next-Generation Processors,High-Performance Semiconductors,Impact of AI on Electronics,Tech Industry Trends 2024
+thumbnail: https://thmb.techidaily.com/bb9708a331c4c3dd31e799c079bb73652a9e75d1a08dd178d051b1af275cc7e6.jpg
+---
+
+## AI Chips That Will Shape Our Future at Computex 2024
+
+### Quick Links
+
+* [Intel Lunar Lake](#intel-lunar-lake)
+* [Nvidia GeForce RTX AI Laptops](#nvidia-geforce-rtx-ai-laptops)
+* [AMD Ryzen AI 300](#amd-ryzen-ai-300)
+
+### Key Takeaways
+
+* Intel's Lunar Lake laptop chips offer faster processing & NPUs than Snapdragon X Elite chips.
+* Nvidia's GeForce RTX AI laptops boast up to 686 TOPS for high-end AI processing.
+* AMD's Ryzen AI 300-Series chips promise up to 50 TOPS, surpassing Lunar Lake & Snapdragon X Elite.
+
+ The world is dominated by AI, and Computex 2024 is no different. No matter where you look or what you read, it seems every new piece of hardware is riding the AI wave—some much better than others, it has to be said.
+
+So, these are the best bits of AI hardware launched at Computex 2024.
+
+## Intel Lunar Lake
+
+ Laptop chips have been hot business in 2024\. Intel's last generation laptop chips, Meteor Lake, launched in December 2023, featuring a chiplet design and Intel's first NPU, carrying the company into 2024 with aplomb. Then it was Qualcomm's turn to step up to the plate; it very much seized the opportunity with its Snapdragon X Elite chips, coinciding with Microsoft's Copilot+ AI PC platform launch.
+
+![intel lunar lake overall spec sheet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/intel-lunar-lake-overall-spec-sheet.png)
+
+Intel
+
+ Despite Qualcomm's ongoing plaudits at Computex 2024 (Snapdragon X Elite is also coming to desktops!), Intel's new Lunar Lake laptop chips have grasped some of its spotlight, promising rapid CPUs, faster NPUs, substantial upgrades to integrated graphics, and big battery life boosts.
+
+[Intel claims](https://www.intel.com/content/www/us/en/newsroom/news/intels-lunar-lake-processors-arriving-q3-2024.html#gs.93h4cy) Lunar Lake will deliver 1.4 times faster processing than a Snapdragon X Elite chip in Stable Diffusion 1.5, while its NPU will deliver more than 40 TOPS (tera operations per second), which is substantially more than the 10 TOPS offered by its Meteor Lake chips.
+
+![intel lunar lake npu spec sheet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/intel-lunar-lake-npu-spec-sheet.png)
+
+Intel
+
+ Aside from the AI side, the most interesting Lunar Lake upgrade is fully integrated memory. Intel Lunar Lake won't ship with specific memory chips. Instead, Intel will integrate 16 or 32GB memory into the chip design, saving space and boosting efficiency.
+
+## Nvidia GeForce RTX AI Laptops
+
+ Nvidia is the world's leading GPU manufacturer, so it's perfectly positioned as the world transitions to high-end AI processing hardware. Now, Nvidia is launching a new range of "GeForce RTX AI" branded laptops, pushing services that make the most of its Tensor cores.
+
+ The new GeForce RTX AI models include Asus' new TUF A14 and A16 gaming laptops, its ProArt PX13 and PX16 laptops, and the updated ROG Zephyrus G16\. Also carrying the RTX AI branding is a new MSI Stealth A16 Studio, with more laptops to launch from Acer, Dell, Gigabyte, Lenovo, Samsung, and more.
+
+ Although the new RTX AI models launched are all Windows Copilot+ laptops, Nvidia's GeForce RTX AI adds extra features like Nvidia's Project G-Assist (an AI chatbot assistant within your games), RTX Remix, Nvidia ACE, RTX Video, and more.
+
+ Interestingly,[Nvidia claims](https://www.nvidia.com/en-gb/geforce/news/computex-2024-new-rtx-ai-laptops/) its RTX AI will deliver a bonkers performance boost over other AI-enabled PCs and laptops, delivering up to 686 TOPS (compared to Lunar Lake's 40+ TOPS). It's an enormous boost that Nvidia attributes to its powerful GPUs, while integrated AI chips like Lunar Lake and Snapdragon X Elite are still bound to and limited by CPUs.
+
+## AMD Ryzen AI 300
+
+ Not to be outdone by Intel, Nvidia, and Qualcomm, AMD revealed its long-awaited AI chips at Computex 2024, built on its shiny new Zen 5 architecture (another AMD upgrade we've been patiently waiting for).
+
+![amd ai pc chips npu stats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/amd-ai-pc-chips-npu-stats.png)
+
+AMD
+
+ Starting from the top, AMDD claims its new Ryzen AI 300-Series laptop chips XDNA2 NPU will deliver up to 50 TOPS, outstripping both Lunar Lake and the Snapdragon X Elite. However, like Lunar Lake, the real tests will come when these chips are finally launched; only Qualcomm's Snapdragon X Elite has been tested in the wild.
+
+ Still, it means a new generation of AMD AI-powered laptops are incoming, to be powered by either the Ryzen AI 9 HX 370, which features 12 Zen 5 cores with a maximum boost frequency of up to 5.1 GHz, or the Ryzen AI 9 365 featuring 10 Zen 5 cores and a maximum boost clock of 5.0GHz.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/effectively-using-a-controller-on-ryujinxs-emulators-for-ps4switch/"><u>Effectively Using a Controller on Ryujinx's Emulators for PS4/Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/key-attributes-to-enhance-your-gaming-experience-with-a-mouse/"><u>Key Attributes to Enhance Your Gaming Experience with a Mouse</u></a></li>
+<li><a href="https://games-able.techidaily.com/battle-for-betterment-assessing-game-pass-against-psplus-essential/"><u>Battle for Betterment: Assessing Game Pass Against PS+ Essential</u></a></li>
+<li><a href="https://games-able.techidaily.com/better-computing-awaits-update-with-newest-nvidia-drivers-now/"><u>Better Computing Awaits! Update with Newest Nvidia Drivers Now.</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-tv-and-monitor-releases-ifa-2023-highlights/"><u>Innovative TV & Monitor Releases IFA 2023 Highlights</u></a></li>
+<li><a href="https://games-able.techidaily.com/subtle-variations-in-steams-offerings-compared-to-gog/"><u>Subtle Variations in Steam's Offerings Compared to GOG</u></a></li>
+<li><a href="https://games-able.techidaily.com/joint-adventures-await-uniting-your-epic-and-steam-life/"><u>Joint Adventures Await: Uniting Your Epic and Steam Life</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-flip-and-flash-unveiling-the-power-of-instagrams-angled-photos/"><u>[New] 2024 Approved  Flip and Flash  Unveiling the Power of Instagram's Angled Photos</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-apple-watch-or-apple-iphone-xr-from-icloud-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Apple Watch Or Apple iPhone XR from iCloud</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/do-you-have-any-idea-about-changing-the-video-speed-using-the-editors-had-you-worked-with-the-vlc-playback-speed-this-article-enlightens-you-with-the-best-v/"><u>Do You Have Any Idea About Changing the Video Speed Using the Editors? Had You Worked with the VLC Playback Speed? This Article Enlightens You with the Best Video Edits Using the Perfect Tool in the Digital Space</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Vivo Y27s? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/understanding-your-instagram-stories-visibility/"><u>Understanding Your Instagram Stories Visibility</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-transforming-mobile-content-into-profitable-youtube-experiences/"><u>2024 Approved  Transforming Mobile Content Into Profitable YouTube Experiences</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-filming-in-water-proven-7-tips-for-vids/"><u>2024 Approved  Streamline Filming in Water  Proven 7 Tips for Vids</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-ultimate-list-best-virtual-playstation-3-software/"><u>[New] Ultimate List  Best Virtual PlayStation 3 Software</u></a></li>
+</ul></div>
