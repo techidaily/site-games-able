@@ -1,7 +1,7 @@
 ---
 title: Microtransactions in Premium Gaming - Rationale?
-date: 2024-06-25T12:54:55.112Z
-updated: 2024-06-26T12:54:55.112Z
+date: 2024-07-12T03:27:20.568Z
+updated: 2024-07-13T03:27:20.568Z
 tags:
   - games
 categories:
@@ -76,7 +76,8 @@ But what about premium games? Should they have microtransactions?
 
  Apart from the inherent gambling nature of loot boxes, as a creator and an artist, doesn’t it feel fundamentally wrong to offer people a way to pay to experience less of your creation? It gives people the idea that your game is a chore, which shouldn’t be the case.
 
-### Bloat and Battle Passes ![Assassin's Creed Origins Season Pass for sale on Ubisoft website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/assassin-s-creed-origins-season-pass-for-sale-on-ubisoft-website.png)
+### Bloat and Battle Passes
+![Assassin's Creed Origins Season Pass for sale on Ubisoft website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/assassin-s-creed-origins-season-pass-for-sale-on-ubisoft-website.png)
 
  Another way you can tell microtransactions don’t have a place in premium games is that they only worm their way into established franchises. Ubisoft is a good example of this, seeing as it has added seasonal passes to many titles in their (mostly) offline single-player adventure series, Assassin’s Creed.
 
@@ -121,3 +122,57 @@ But what about premium games? Should they have microtransactions?
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-unlock-professional-vimeo-edits-without-paid-software/"><u>[New] Unlock Professional Vimeo Edits Without Paid Software</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-the-ultimate-guide-to-video-editing-splitting-videos-in-windows-live-movie-maker/"><u>New 2024 Approved The Ultimate Guide to Video Editing Splitting Videos in Windows Live Movie Maker</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/file-format-and-extension-of-filename-dont-match-in-excel-file-by-stellar-guide/"><u>File Format and Extension of filename dont Match in Excel File</u></a></li>
+<li><a href="https://games-able.techidaily.com/timeless-play-changing-regions-on-xbox-system/"><u>Timeless Play: Changing Regions on Xbox System</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-retro-gaming-revolution-six-reasons-to-choose-pi/"><u>The Retro Gaming Revolution: Six Reasons to Choose Pi</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719173627124-elevate-your-arcade-experience-large-format-framing-recommended/"><u>Elevate Your Arcade Experience: Large-Format Framing Recommended!</u></a></li>
+<li><a href="https://games-able.techidaily.com/quests-and-triumphs-why-i-cherish-netflixs-gameplay/"><u>Quests & Triumphs: Why I Cherish Netflix's Gameplay</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-the-mystery-of-non-existent-videos-insight-into-fb-feed-absence/"><u>[New] 2024 Approved  The Mystery of Non-Existent Videos  Insight Into FB Feed Absence</u></a></li>
+<li><a href="https://games-able.techidaily.com/should-your-pc-get-an-original-founders-gpu-or-asus-branded-vega/"><u>Should Your PC Get an Original Founder's GPU or Asus-Branded Vega?</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-led-3d-panel-sets-for-an-elevated-play-area/"><u>Best LED 3D Panel Sets for an Elevated Play Area</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplifying-your-xbox-odin-game-pass-edition/"><u>Simplifying Your Xbox ODIN: Game Pass Edition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/leveraging-vlc-media-player-for-remote-streaming/"><u>Leveraging VLC Media Player for Remote Streaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-key-advantages-edge-for-gamers-unrivaled-experience/"><u>7 Key Advantages: Edge for Gamers' Unrivaled Experience</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-elevate-video-performance-following-the-path-of-stars/"><u>[Updated] 2024 Approved  Elevate Video Performance  Following the Path of Stars</u></a></li>
+<li><a href="https://games-able.techidaily.com/anonymity-in-multiplayer-xbox-chats/"><u>Anonymity in Multiplayer Xbox Chats</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-device-based-mobile-gaming-experiences/"><u>Premium Device-Based Mobile Gaming Experiences</u></a></li>
+<li><a href="https://games-able.techidaily.com/re-establishing-win11-steam-connections/"><u>Re-Establishing Win11 Steam Connections</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-xbox-graphics-with-an-additional-laptop-screen/"><u>Elevate Xbox Graphics with an Additional Laptop Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-nostalgia-segas-dreamcatcher-experience-for-android-users/"><u>Digital Nostalgia: Sega's Dreamcatcher Experience for Android Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/change-your-gaming-consoles-lookup/"><u>Change Your Gaming Console's Lookup</u></a></li>
+<li><a href="https://games-able.techidaily.com/embark-on-virtual-journeys-game-edition/"><u>Embark on Virtual Journeys - Game Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/voice-chat-security-how-to-mask-your-game-talks/"><u>Voice Chat Security: How to Mask Your Game Talks</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-achieve-flawless-live-videos-with-strategic-obs-utilization/"><u>[New] 2024 Approved  Achieve Flawless Live Videos with Strategic OBS Utilization</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-nintendo-switch-game-with-peripherals-90-chars/"><u>Elevate Your Nintendo Switch Game With Peripherals (90 Chars)</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-playstation-5-with-best-add-ons/"><u>Transform Your PlayStation 5 With Best Add-Ons</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-thorough-examination-of-dji-inspire-1/"><u>2024 Approved  Thorough Examination of DJI Inspire 1</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-portable-power-stations-for-gaming/"><u>Exclusive Portable Power Stations for Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-play-establishing-a-4k-environment-on-xbox-series-x/"><u>Elevate Your Play: Establishing a 4K Environment on Xbox Series X</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/hering-how-to-spot-your-video-enthusiasts-for-2024/"><u>Deciphering How to Spot Your Video Enthusiasts for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/companionable-combat-discover-the-coolest-two-person-phone-adventures-top-15/"><u>Companionable Combat: Discover the Coolest Two-Person Phone Adventures (Top 15)</u></a></li>
+<li><a href="https://games-able.techidaily.com/pocketplay-retro-small-screen-large-memories/"><u>PocketPlay Retro: Small Screen, Large Memories</u></a></li>
+<li><a href="https://games-able.techidaily.com/tailored-sound-output-for-headset-users/"><u>Tailored Sound Output for Headset Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719165858880-unleash-your-inner-hero-in-the-ultimate-free-game-collection/"><u>Unleash Your Inner Hero in The Ultimate Free Game Collection!</u></a></li>
+<li><a href="https://games-able.techidaily.com/demystifying-steams-virtual-economy/"><u>Demystifying Steam's Virtual Economy</u></a></li>
+<li><a href="https://games-able.techidaily.com/xboxs-quick-resume-an-essential-advantage/"><u>Xbox's Quick Résumé - An Essential Advantage?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleash-creativity-with-canons-time-lapse-capabilities/"><u>2024 Approved  Unleash Creativity with Canon's Time-Lapse Capabilities</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-tools-to-keep-your-steam-deck-cool/"><u>Essential Tools to Keep Your Steam Deck Cool</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/shing-youtube-potential-with-effective-seo-methods-1-11-for-2024/"><u>Unleashing YouTube Potential with Effective SEO Methods (1-11) for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-game-streaming-cloud-computing-in-action/"><u>Xbox Game Streaming: Cloud Computing in Action</u></a></li>
+<li><a href="https://games-able.techidaily.com/preserving-games-on-disk-efficient-chdman-iso-compression-tips/"><u>Preserving Games on Disk: Efficient CHDMAN ISO Compression Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-fiber-pairs-for-competitive-gaming/"><u>Elite Fiber Pairs for Competitive Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/comparing-regular-and-premium-discord-service/"><u>Comparing Regular and Premium Discord Service</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-longevous-play-why-physical-is-prevailing/"><u>The Longevous Play: Why Physical Is Prevailing</u></a></li>
+<li><a href="https://games-able.techidaily.com/unpacking-the-mysteries-of-the-xbox-360-slim-console/"><u>Unpacking the Mysteries of the Xbox 360 Slim Console</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-face-generation-software-top-online-options/"><u>New Free Face Generation Software Top Online Options</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/dive-into-rank-tracker-solutions-for-peak-success-on-youtube-for-2024/"><u>Deep Dive Into Rank Tracker Solutions for Peak Success on YouTube for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/revive-your-consoles-controller-with-a-diy-fix/"><u>Revive Your Console's Controller with a DIY Fix</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-ranked-8-light-virtual-platforms-for-gameplay/"><u>Top-Ranked 8 Light Virtual Platforms for Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172797184-playing-fortnite-on-mac-watch-out-for-exceptions/"><u>Playing Fortnite on Mac? Watch Out for Exceptions</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-strategies-for-securely-amassing-one-million-video-watches/"><u>In 2024, Strategies for Securely Amassing One Million Video Watches</u></a></li>
+</ul></div>

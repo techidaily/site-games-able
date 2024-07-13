@@ -1,7 +1,7 @@
 ---
 title: Velocity & Valor in Sim Racing with MOZA R5 Bundle
-date: 2024-06-25T13:20:43.828Z
-updated: 2024-06-26T13:20:43.828Z
+date: 2024-07-12T03:56:32.573Z
+updated: 2024-07-13T03:56:32.573Z
 tags:
   - games
 categories:
@@ -140,7 +140,8 @@ Yes
 
  The pedals are also heavy with a thick powder coating, but the edges are quite sharp, which makes them a little scary to handle. I was also disappointed to find that all the pedal faces are the same shape and size and completely flat with no adjustability. This could pose a problem, which I’ll discuss in the driving experience later.
 
-## MOZA R5 Bundle Hardware Setup Experience ![MOZA R5 on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-on-desk.JPG)
+## MOZA R5 Bundle Hardware Setup Experience
+![MOZA R5 on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-on-desk.JPG)
 
  Jhet Borja / MakeUseOf
 
@@ -150,7 +151,8 @@ Yes
 
  I was able to clamp it to my desk and get in position after just about 20 minutes since unboxing—and that’s including adding the clutch pedal and brake mod.
 
-## MOZA Pit House Software ![MOZA Pit House software with configured games list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-pit-house-software-with-configured-games-list.jpg)
+## MOZA Pit House Software
+![MOZA Pit House software with configured games list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-pit-house-software-with-configured-games-list.jpg)
 
  I thought I’d have a headache trying to get everything ready on the software side for driving, but the MOZA Pit House software on PC impressed me. It was able to detect the wheel and pedals without any hitches and even had pre-configured settings for all the racing simulators I wanted to drive except for Dirt Rally.
 
@@ -192,7 +194,8 @@ Close
 
  The app could use some language improvements though, as the wording can be quite strange, such as “Enter the car” to change the settings, “SteeringWheel Recenter,” and “Unconnected to the screen".
 
-## Desk Usage ![MOZA R5 beside headphones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-beside-headphones.JPG)
+## Desk Usage
+![MOZA R5 beside headphones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-beside-headphones.JPG)
 
  Jhet Borja / MakeUseOf
 
@@ -216,7 +219,8 @@ Close
 
  When I’m done racing, I usually stow it away at the far edge of my desk and unplug the USB and pedal cables. It’s pretty convenient to set up, as I don’t have to move the wheel base far. The wheel can also stay detached, so it’s not in the way all the time. My table is a bit wobbly though, so the monitor gets all shaky, especially when driving Rally cars.
 
-## Quick Release System ![R5 Quick Release](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/r5-quick-release.JPG)
+## Quick Release System
+![R5 Quick Release](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/r5-quick-release.JPG)
 
  Jhet Borja / MakeUseOf
 
@@ -230,7 +234,8 @@ Close
 
  Coming from a Logitech G29, the driving experience is wildly different. It’s no longer a clunky mess that feels like it’s about to rattle itself to pieces. It legitimately feels immersive and connected. I’ve separated the driving experience into three sections so I can go into detail for each major component.
 
-### MOZA R5 Wheel Base ![Turning with Formula Wheel mod](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/turning-with-formula-wheel-mod.JPG)
+### MOZA R5 Wheel Base
+![Turning with Formula Wheel mod](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/turning-with-formula-wheel-mod.JPG)
 
  Jhet Borja / MakeUseOf
 
@@ -315,3 +320,54 @@ Close
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-content-creator.techidaily.com/new-ditch-the-search-get-filmora-discounts-without-reddit-for-2024/"><u>New Ditch the Search Get Filmora Discounts Without Reddit for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-the-art-of-video-polishing-with-youtube-studio-tools/"><u>2024 Approved  The Art of Video Polishing with YouTube Studio Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/solutions-for-unregistered-games-on-steam-platform/"><u>Solutions for Unregistered Games on Steam Platform</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-20-shared-game-sessions-across-multiple-systems/"><u>Top 20 Shared Game Sessions Across Multiple Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-nvidia-g-sync-enhancing-gameplay-through-seamless-graphics/"><u>Unveiling Nvidia G-Sync: Enhancing Gameplay Through Seamless Graphics</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-bg3-adventure-seamlessly-on-an-apple-m-device/"><u>Dive Into BG3 Adventure Seamlessly on an Apple M Device</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-vr-advantages-and-disadvantages/"><u>[New] 2024 Approved  VR  Advantages & Disadvantages</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-blue-blocker-eyewear-selection/"><u>Elite Blue Blocker Eyewear Selection</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-steam-deck-usage-expert-dock-tips-unveiled/"><u>Elevating Steam Deck Usage: Expert Dock Tips Unveiled</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/picture-perfection-apply-filters-to-your-videos-for-2024/"><u>Picture Perfection  Apply Filters to Your Videos for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-stream-smoothness-tweets-buffering-in-chrome/"><u>In 2024, Stream Smoothness  Tweets Buffering in Chrome</u></a></li>
+<li><a href="https://games-able.techidaily.com/brightening-up-tech-life-with-tecnos-new-colors/"><u>Brightening Up Tech Life with Tecno's New Colors</u></a></li>
+<li><a href="https://games-able.techidaily.com/beating-the-big-picture-breakdown-in-steam/"><u>Beating The Big Picture Breakdown in Steam</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-your-craft-a-guide-to-samsungs-photography-tools/"><u>[New] Mastering Your Craft  A Guide to Samsung's Photography Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-ergonomic-seats-for-giants-in-games/"><u>Ultimate Ergonomic Seats for Giants in Games</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-top-audio-splitter-on-mac/"><u>2024 Approved Top Audio Splitter on Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/balancing-engagement-the-skillful-application-of-block-and-unblock-on-twitch/"><u>Balancing Engagement: The Skillful Application of Block & Unblock on Twitch</u></a></li>
+<li><a href="https://games-able.techidaily.com/core-offerings-deciphering-xbox-game-pass-versus-psplus-essentials/"><u>Core Offerings: Deciphering Xbox Game Pass Versus PS+ Essentials</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-selection-of-16-joint-play-console-games/"><u>Superior Selection of 16 Joint Play Console Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/virtual-journeys-browsing-through-5-adventures/"><u>Virtual Journeys: Browsing Through 5 Adventures</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-xbox-unlimited-access-with-x-series/"><u>Streamlining Xbox Unlimited Access with X Series</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-hidden-advantages-of-turning-off-console/"><u>The Hidden Advantages of Turning Off Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplify-gaming-bliss-play-xbox-game-pass-on-steam-and-glossi/"><u>Simplify Gaming Bliss - Play Xbox Game Pass on Steam & GlosSI</u></a></li>
+<li><a href="https://games-able.techidaily.com/ascend-the-peak-of-playability-insights-into-androids-frame-rate-2-ways/"><u>Ascend the Peak of Playability: Insights Into Android's Frame Rate (2 Ways)</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-digital-duos-for-multiplayer-fun-anywhere/"><u>Best Digital Duos for Multiplayer Fun Anywhere</u></a></li>
+<li><a href="https://games-able.techidaily.com/chdman-to-the-rescue-tailoring-old-games-for-modern-storage/"><u>ChDMan to the Rescue: Tailoring Old Games for Modern Storage</u></a></li>
+<li><a href="https://games-able.techidaily.com/skyrocketing-your-computers-gaming-pace-fps-fixes/"><u>Skyrocketing Your Computer’s Gaming Pace: FPS Fixes</u></a></li>
+<li><a href="https://games-able.techidaily.com/change-your-preferred-language-on-steam-platform/"><u>Change Your Preferred Language on Steam Platform</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-infinix-note-30i-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Infinix Note 30i to iPod | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-reasons-to-pay-for-mobile-games-rather-than-play-for-free/"><u>5 Reasons to Pay for Mobile Games Rather Than Play for Free</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-safely-stream-your-soundtracks-three-methods-from-youtube/"><u>[Updated] In 2024, Safely Stream Your Soundtracks  Three Methods From YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harnessing-imovies-capabilities-for-youtube-video-perfection-for-2024/"><u>[Updated] Harnessing iMovie's Capabilities for YouTube Video Perfection for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-apple-iphone-14-pro-to-chromecast-drfone-by-drfone-ios/"><u>How to Cast Apple iPhone 14 Pro to Chromecast? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/sonys-handheld-console-unpacked/"><u>Sony’s Handheld Console Unpacked</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-functionality-of-xboxs-online-gaming-service/"><u>The Functionality of Xbox's Online Gaming Service</u></a></li>
+<li><a href="https://games-able.techidaily.com/transforming-tv-viewing-experience-with-xbox-tools/"><u>Transforming TV Viewing Experience with Xbox Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/embark-on-epic-journeys-from-your-computer/"><u>Embark on Epic Journeys From Your Computer</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-step-by-step-approach-to-boosting-typing-on-a-steam-deck/"><u>A Step-by-Step Approach to Boosting Typing on a Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-gaming-experience-with-key-monitor-specs/"><u>Elevate Your Gaming Experience with Key Monitor Specs</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-beyond-the-basics-a-compreran-comparative-analysis/"><u>2024 Approved  Beyond the Basics  A Compreran Comparative Analysis</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-inspirational-images-a-top-20-guide-for-insta-gratification-for-2024/"><u>[New] Inspirational Images  A Top 20 Guide for Insta Gratification for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/slow-down-relax-indulge-in-idle-gaming/"><u>Slow Down, Relax: Indulge in Idle Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-computer-gaming-experience-through-steam-deck/"><u>Transform Your Computer Gaming Experience Through Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/amplify-your-skill-set-with-superior-hardware/"><u>Amplify Your Skill Set with Superior Hardware</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/in-2024-best-gif-to-video-converters/"><u>In 2024, Best GIF to Video Converters</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-steams-concealed-user-feature/"><u>Understanding Steam's Concealed User Feature</u></a></li>
+<li><a href="https://games-able.techidaily.com/unexpected-indie-gems-the-games-that-stood-out/"><u>Unexpected Indie Gems: The Games That Stood Out</u></a></li>
+</ul></div>

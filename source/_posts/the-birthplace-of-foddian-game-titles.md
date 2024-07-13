@@ -1,7 +1,7 @@
 ---
 title: The Birthplace of Foddian Game Titles
-date: 2024-06-25T13:01:26.797Z
-updated: 2024-06-26T13:01:26.797Z
+date: 2024-07-12T03:34:46.963Z
+updated: 2024-07-13T03:34:46.963Z
 tags:
   - games
 categories:
@@ -22,7 +22,8 @@ thumbnail: https://thmb.techidaily.com/836971730456bc9358fe3cf3cc37a571dba17728e
 
  Games that fall under the Foddian category are as unique as the name, but how did they come about? Here are some events that led to a platform game revolution, birthing the Foddian genre as we know and love it.
 
-### The First Bennet Foddy Game ![A guy in a pot holding a sledgehammer who is about to fall off a cliff](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/2-getting-over-it.jpg)
+### The First Bennet Foddy Game
+![A guy in a pot holding a sledgehammer who is about to fall off a cliff](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/2-getting-over-it.jpg)
 
  It all began with the Foddian game, "Getting Over It with Bennett Foddy". Getting Over It is a puzzle game that challenges the player to use a sledgehammer to propel themselves up steep ledges and across slick platforms to get to space. “Foddian” refers to the creator of the first game, Bennett Foddy, in this genre and represents titles of a similar format.
 
@@ -32,7 +33,8 @@ thumbnail: https://thmb.techidaily.com/836971730456bc9358fe3cf3cc37a571dba17728e
 
  Getting Over It wasn’t the first platformer, but it created a format that has been improved upon in newer games that fall under the Foddian genre. Bennet Foddy pioneered an era of gaming, whether he intended to or not, and complex puzzle platforming games are better for it.
 
-### The Rise of Jump King ![The Jump King lying flat on a mossy platform after falling](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-jump-king.jpg)
+### The Rise of Jump King
+![The Jump King lying flat on a mossy platform after falling](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-jump-king.jpg)
 
  Jump King is a title that transcends the Foddian game genre. You may have heard about the game thanks to its tendency to be played live on Twitch streams. Speedrunners are especially fond of the small series of Jump King games.
 
@@ -42,7 +44,8 @@ thumbnail: https://thmb.techidaily.com/836971730456bc9358fe3cf3cc37a571dba17728e
 
  Almost every popular streamer and YouTuber you can think of has played Jump King to some extent, indirectly marketing the game to their viewers. As such, it didn’t take long for a community to spawn around this game, and it remains one of the most played in its genre.
 
-## Foddian Games and Content Creation ![A streaming setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-streamer.jpg)
+## Foddian Games and Content Creation
+![A streaming setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-streamer.jpg)
 
  Streaming goes beyond just playing a game. Streamers understand that they need to engage their chat as much as possible to keep interest high. Fortunately, Foddian games are the perfect gateway for viewer engagement.
 
@@ -97,3 +100,55 @@ thumbnail: https://thmb.techidaily.com/836971730456bc9358fe3cf3cc37a571dba17728e
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/in-2024-radiant-realities-setting-up-for-standout-videos/"><u>In 2024, Radiant Realities  Setting Up for Standout Videos</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-pathway-to-seamless-integration-of-voice-inputs-in-powerpoint-presentations/"><u>In 2024, The Pathway to Seamless Integration of Voice Inputs in PowerPoint Presentations</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/4-ways-to-mirror-apple-iphone-12-to-laptop-via-usb-or-wi-fi-drfone-by-drfone-ios/"><u>4 Ways to Mirror Apple iPhone 12 to Laptop via USB or Wi-Fi | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-release-reschedule-a-good-idea/"><u>Gaming Release Reschedule: A Good Idea?</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-8-minimalist-android-simulations-home-devices/"><u>Elite 8 Minimalist Android Simulations, Home Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-the-game-quality-gear-for-maximum-efficiency/"><u>Master the Game: Quality Gear for Maximum Efficiency</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-navigate-your-way-to-the-best-idevice-apps-for-extracting-content-from-facebook/"><u>[New] In 2024, Navigate Your Way to the Best iDevice Apps for Extracting Content From Facebook</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminating-mc-launcher-failure-solve-0x803f8001-error/"><u>Eliminating MC Launcher Failure: Solve 0X803F8001 Error</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-novice-to-expert-gaming-with-steam-tokens/"><u>From Novice to Expert: Gaming with Steam Tokens</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-vivo-v27-pro-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Vivo V27 Pro ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-cultivating-a-thriving-business-model-with-snapchat-insights/"><u>[New] 2024 Approved  Cultivating a Thriving Business Model with Snapchat Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-guide-to-mending-broken-xbox-series-xs/"><u>Master Guide to Mending Broken Xbox Series X|S</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-xs-max-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone XS Max to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/integrating-shared-games-in-ps5-settings/"><u>Integrating Shared Games in PS5 Settings</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-easy-steps-to-alter-your-voice-on-the-latest-tiktok-updates/"><u>In 2024, Easy Steps to Alter Your Voice on the Latest TikTok Updates</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-play-on-ps5-beyond-gamepad-use/"><u>Innovative Play on PS5 Beyond Gamepad Use</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-master-igtv-edits-top-10-tools-ranked-for-2024/"><u>[Updated] Master IGTV Edits  Top 10 Tools Ranked for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/highlighting-java-games-with-unbeatable-design/"><u>Highlighting Java Games with Unbeatable Design</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-brighten-your-surroundings-with-21plus-collage-wonders/"><u>[New] In 2024, Brighten Your Surroundings with 21+ Collage Wonders</u></a></li>
+<li><a href="https://games-able.techidaily.com/mmx-200-evaluation-powerful-but-feature-limited/"><u>MMX 200 Evaluation: Powerful but Feature-Limited</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-chords-to-chart-toppers-essential-musician-focused-youtube-content/"><u>[New] In 2024, From Chords to Chart-Toppers  Essential Musician-Focused YouTube Content</u></a></li>
+<li><a href="https://games-able.techidaily.com/old-ps5-and-slimmer-tech-differences-discussed/"><u>Old PS5 & Slimmer Tech: Differences Discussed</u></a></li>
+<li><a href="https://games-able.techidaily.com/considerations-for-a-smart-ps5-acquisition/"><u>Considerations for a Smart PS5 Acquisition</u></a></li>
+<li><a href="https://games-able.techidaily.com/leaner-gaming-efficient-model-structuring/"><u>Leaner Gaming: Efficient Model Structuring</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-make-big-bucks-fast-with-a-focus-on-youtube-short-video-creation/"><u>2024 Approved  Make Big Bucks Fast with a Focus on YouTube Short Video Creation</u></a></li>
+<li><a href="https://games-able.techidaily.com/mwc-unveiled-innovations-and-winners-by-makeuseof/"><u>MWC Unveiled: Innovations and Winners by MakeUseOf</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-samsung-galaxy-m54-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Samsung Galaxy M54 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-android-video-editors-for-chromebook-top-recommendations/"><u>Updated In 2024, Android Video Editors for Chromebook Top Recommendations</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/my-2-years-in-high-definition-with-an-oled-monitor/"><u>My 2 Years in High Definition with an OLED Monitor!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/behind-the-scenes-crafting-your-next-big-fb-reel/"><u>Behind-the-Scenes  Crafting Your Next Big FB Reel</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-no-more-searching-the-best-filmora-coupon-codes-revealed-for-2024/"><u>New No More Searching The Best Filmora Coupon Codes Revealed for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-anime-for-the-soul-selecting-youtube-channels-to-brighten-today-for-2024/"><u>[New] Anime for the Soul  Selecting YouTube Channels to Brighten Today for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-xbox-joysticks-compared-2024/"><u>Elite Xbox Joysticks Compared 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-thrilling-with-these-7-command-line-games/"><u>Get Thrilling with These 7 Command Line Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-conception-to-culture-foddians-trajectory/"><u>From Conception to Culture: Foddian's Trajectory</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-swift-transformations-top-5-no-download-online-gif-to-video-tools/"><u>[New] Swift Transformations  Top 5 No-Download, Online GIF to Video Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/hitchless-guide-to-gaming-consoles-refunds-xbox/"><u>Hitchless Guide to Gaming Consoles Refunds (Xbox)</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-tips-for-buying-ps-games-effectively/"><u>Essential Tips for Buying PS Games Effectively</u></a></li>
+<li><a href="https://games-able.techidaily.com/expanding-your-fortnite-investment-with-sony-ps5/"><u>Expanding Your Fortnite Investment with Sony PS5</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/highlighted-viewer-insights-unveiled-for-2024/"><u>Highlighted Viewer Insights Unveiled for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-xiaomi-redmi-k70-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Xiaomi Redmi K70 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://games-able.techidaily.com/decipher-graphics-card-ram-capacity/"><u>Decipher Graphics Card RAM Capacity</u></a></li>
+<li><a href="https://games-able.techidaily.com/embrace-the-power-of-both-windows-and-steamos-on-your-deck/"><u>Embrace the Power of Both Windows and SteamOS On Your Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-emulation-tools-the-ultimate-ios-game-guide/"><u>Essential Emulation Tools: The Ultimate iOS Game Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/linking-worlds-across-platforms-transition-from-bedrock-writes-to-java-geysermc-server/"><u>Linking Worlds Across Platforms: Transition From Bedrock' Writes to Java, GeyserMC Server</u></a></li>
+</ul></div>

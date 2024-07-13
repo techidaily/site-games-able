@@ -1,7 +1,7 @@
 ---
 title: Dive Into 6 Curious Chess Programs with AI Matches
-date: 2024-06-25T12:57:22.915Z
-updated: 2024-06-26T12:57:22.915Z
+date: 2024-07-12T03:30:11.363Z
+updated: 2024-07-13T03:30:11.363Z
 tags:
   - games
 categories:
@@ -18,7 +18,8 @@ thumbnail: https://thmb.techidaily.com/22aa5877473f7aef18423fbe77d7ea5e7e2937ae2
 
  Have you ever played three-player chess? Or how about a game of chess where you don't take turns but keep playing all the time? From chess variants that challenge you to discard classical strategies and think anew to playing chess with AI for fun or to get your FIDE rating, these are some of the quirkiest and most fun ways to play a different type of chess.
 
-## 1. Noctie ![Play a game against the Noctie AI to find your FIDE Elo rating in chess](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-noctie-ai.jpg)
+## 1. Noctie
+![Play a game against the Noctie AI to find your FIDE Elo rating in chess](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-noctie-ai.jpg)
 
  Based on wins, losses, and draws, FIDE assigns an official Elo rating to players, with Candidate Masters starting at 2000\. Of course, this is only for those participating in official tournaments. But if you've ever wondered what your rating would be, you can find out by playing a game with Noctie AI.
 
@@ -26,7 +27,8 @@ thumbnail: https://thmb.techidaily.com/22aa5877473f7aef18423fbe77d7ea5e7e2937ae2
 
  For reference, you can refer to the Wikipedia Elo rating range table. Above a rating of 1000, every 2000 points puts you in a different class of chess player.
 
-## 2. Kung Fu Chess ![In Kung Fu Chess, you and your opponent don't take turns to play, but can move any and all pieces simultaneously](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-kung-fu-chess.jpg)
+## 2. Kung Fu Chess
+![In Kung Fu Chess, you and your opponent don't take turns to play, but can move any and all pieces simultaneously](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-kung-fu-chess.jpg)
 
  Chess is a turn-by-turn game, and the standard game encourages taking your time to think through each move. Kung Fu Chess changes the rules to remove the turn-by-turn style. You can move any piece at any moment without waiting for the opponent to make a move. It's basically taking the principles of real-time strategy games like Age of Empires and applying them to chess.
 
@@ -34,7 +36,8 @@ thumbnail: https://thmb.techidaily.com/22aa5877473f7aef18423fbe77d7ea5e7e2937ae2
 
  Beginners should ideally start with the Kung Fu Chess solo campaign mode to play against a bot to learn and practice the new rules. Once you're confident, you can play against AI or a friend in both standard or lightning modes.
 
-## 3. Chesswith.Ai ![Chesswith.Ai uses ChatGPT to let you play against fictional characters who talk to you after each turn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-chesswithai.jpg)
+## 3. Chesswith.Ai
+![Chesswith.Ai uses ChatGPT to let you play against fictional characters who talk to you after each turn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-chesswithai.jpg)
 
  Among the many [cool things to do with ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/) is to use it to chat with a fictional character. Chesswith.Ai has created profiles of several popular fictional characters and even real historical people such as Harry Potter, Dwight Schrute, John F. Kennedy, Marie Curie, etc. And you can now play a game of chess with them while they chat with you.
 
@@ -62,7 +65,8 @@ thumbnail: https://thmb.techidaily.com/22aa5877473f7aef18423fbe77d7ea5e7e2937ae2
 
 **Download:** Really Bad Chess for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027833/https://play.google.com/store/apps/details?id=com.noodlecake.reallybadchess) |[iOS](https://apps.apple.com/app/id1109751921) (Free)
 
-## 6. Green Chess ![Green Chess has a large variety of chess variants to play online, and an active community so you'll find matchups easily](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-green-chess.jpg)
+## 6. Green Chess
+![Green Chess has a large variety of chess variants to play online, and an active community so you'll find matchups easily](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-green-chess.jpg)
 
  If you're digging the idea of playing chess variants, you need to register for an account at Green Chess. This website has the largest collection of chess variants and an active community of users, so you're likely to find a match-up quickly.
 
@@ -93,3 +97,51 @@ thumbnail: https://thmb.techidaily.com/22aa5877473f7aef18423fbe77d7ea5e7e2937ae2
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-free-and-paid-android-video-editors-compared-top-10-picks/"><u>Updated In 2024, Free and Paid Android Video Editors Compared Top 10 Picks</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-playing-legacy-xbox-games-on-pc/"><u>Step-by-Step: Playing Legacy Xbox Games on PC</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-the-ultimate-guide-to-choosing-a-top-10-windows-and-macos-digital-audio-workstation/"><u>Updated In 2024, The Ultimate Guide to Choosing a Top 10 Windows & macOS Digital Audio Workstation</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminate-freezing-woes-securing-epic-game-launcher-stability/"><u>Eliminate Freezing Woes: Securing Epic Game Launcher Stability</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-your-gaming-experience-with-counter-strike-2-on-a-mac/"><u>Elevating Your Gaming Experience with Counter-Strike 2 on a Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/embark-on-bedrock-server-conversion-to-java/"><u>Embark on Bedrock Server Conversion to Java</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-new-ways-to-play-xbox-one/"><u>Discovering New Ways to Play Xbox One</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-how-to-make-money-on-youtube-shorts-effective-practical-ways-for-2024/"><u>[Updated] How to Make Money on YouTube Shorts? [Effective Practical Ways] for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-lost-signals-a-quick-guide-for-go-trainers/"><u>Navigating Lost Signals: A Quick Guide for Go Trainers</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionize-your-gaming-setup-psvr2-accessories/"><u>Revolutionize Your Gaming Setup: PSVR2 Accessories</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-nostalgia-revisited-a-curated-list-of-top-ps3-emulators-for-pc/"><u>Gaming Nostalgia Revisited: A Curated List of Top PS3 Emulators for PC</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-palette-perfection-translating-color-concepts/"><u>2024 Approved  Palette Perfection  Translating Color Concepts</u></a></li>
+<li><a href="https://games-able.techidaily.com/smart-choices-affordable-white-motherboards/"><u>Smart Choices: Affordable White Motherboards</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-gallery-archive-websites-for-2024/"><u>Best Gallery Archive Websites for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713939568574-ultimate-guide-on-how-to-plan-and-storyboard-a-music-video/"><u>Ultimate Guide on How To Plan and Storyboard a Music Video</u></a></li>
+<li><a href="https://games-able.techidaily.com/my-gaming-adventure-with-an-advanced-oled-display/"><u>My Gaming Adventure with an Advanced OLED Display.</u></a></li>
+<li><a href="https://games-able.techidaily.com/expecting-more-from-play-understanding-steams-ai-directive/"><u>Expecting More From Play: Understanding Steam's AI Directive</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-sonys-dualsense-updates-online/"><u>Navigating Sony's DualSense Updates Online</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-pinnacle-creation-hub-synopsis-studio-assessment-2023/"><u>In 2024, Pinnacle Creation Hub Synopsis, Studio Assessment 2023</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-nokia-150-2023-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Nokia 150 (2023) Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-use-playstation-4-on-your-windows-or-macos-device/"><u>How to Use PlayStation 4 on Your Windows or macOS Device</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/integrated-systems-approach-for-film-recording-on-diverse-computers-for-2024/"><u>Integrated Systems Approach for Film Recording on Diverse Computers for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/smarter-system-control-with-corsair-icue-link-top-4-reasons-to-purchase/"><u>Smarter System Control with Corsair iCUE Link - Top 4 Reasons to Purchase</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-halts-loophole-exploitation-impact-explored/"><u>Steam Halts Loophole Exploitation: Impact Explored</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-streaming-your-desktop-adventures-to-steam-deck/"><u>Step-by-Step: Streaming Your Desktop Adventures to Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-monitors-gameplay-at-165hz/"><u>Optimal Monitors: Gameplay at 165Hz</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-from-vision-to-execution-the-full-spectrum-of-personal-branding-on-youtube/"><u>In 2024, From Vision to Execution  The Full Spectrum of Personal Branding on YouTube</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/masterful-voice-modification-tools-for-smartphones-for-2024/"><u>Masterful Voice Modification Tools for Smartphones for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-premier-mac-recording-software-top-5-innovations-revealed/"><u>[New] In 2024, Premier Mac Recording Software  Top 5 Innovations Revealed</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-navigating-the-spin-a-step-by-step-instagram-video-reversal-guide/"><u>2024 Approved  Navigating the Spin  A Step-by-Step Instagram Video Reversal Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitter-clip-sound-and-format-transformation/"><u>[Updated] Twitter Clip  Sound and Format Transformation</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-oppo-a18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-slow-down-discover-idles/"><u>Game On, Slow Down: Discover Idles</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-hits-back-against-easy-refund-scams/"><u>Steam Hits Back Against Easy Refund Scams</u></a></li>
+<li><a href="https://games-able.techidaily.com/protect-your-kids-navigating-discords-risks/"><u>Protect Your Kids: Navigating Discord's Risks</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-input-devices-for-switch-gaming-setup-90-chars/"><u>Essential Input Devices for Switch Gaming Setup (90 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategic-service-management-for-optimized-windows-11/"><u>Strategic Service Management for Optimized Windows 11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-screensnipers-digest-the-ultimate-2023-software-roundup/"><u>[Updated] ScreenSniper's Digest  The Ultimate 2023 Software Roundup</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidia-vs-asus-picking-the-best-gpu-out-there/"><u>Nvidia Vs. ASUS: Picking the Best GPU Out There</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-masterful-descriptions-for-impactful-podcast-intros/"><u>[Updated] In 2024, Masterful Descriptions for Impactful Podcast Intros</u></a></li>
+<li><a href="https://games-able.techidaily.com/old-systems-new-strength-atlasos-power-up/"><u>Old Systems, New Strength: AtlasOS Power-Up</u></a></li>
+<li><a href="https://games-able.techidaily.com/intel-stream-assist-unraveled-a-game-changer-in-streaming/"><u>Intel Stream Assist Unraveled: A Game-Changer in Streaming?</u></a></li>
+<li><a href="https://games-able.techidaily.com/remedying-the-0x887a0006-dxgierror-in-win1111/"><u>Remedying the 0X887A0006 DXGI_ERROR in Win11/11</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-correct-mc-launcher-failure-error-0x803f8001-in-mcpc/"><u>How to Correct MC Launcher Failure: Error 0X803F8001 in MCPC</u></a></li>
+</ul></div>

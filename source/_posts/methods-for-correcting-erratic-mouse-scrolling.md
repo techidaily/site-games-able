@@ -1,7 +1,7 @@
 ---
 title: Methods for Correcting Erratic Mouse Scrolling
-date: 2024-06-25T13:16:49.404Z
-updated: 2024-06-26T13:16:49.404Z
+date: 2024-07-12T03:52:08.029Z
+updated: 2024-07-13T03:52:08.029Z
 tags:
   - games
 categories:
@@ -46,7 +46,8 @@ thumbnail: https://thmb.techidaily.com/c614df743851cde902b9dc7b624e356646f565efb
 
  Here's a step-by-step guide for how to stop your mouse scroll wheel from jumping up and down.
 
-## Step 1: Disassemble the Mouse Casing ![Person Unmounting the Screws to Disassemble the Mouse Casing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/1-Person-Unmounting-the-Screws-to-Disassemble-the-Mouse-Casing.jpg)
+## Step 1: Disassemble the Mouse Casing
+![Person Unmounting the Screws to Disassemble the Mouse Casing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/1-Person-Unmounting-the-Screws-to-Disassemble-the-Mouse-Casing.jpg)
 
  Image Credit: TechClub/[YouTube](https://www.youtube.com/watch?v=%5FWBHLISDp80)
 
@@ -64,13 +65,15 @@ thumbnail: https://thmb.techidaily.com/c614df743851cde902b9dc7b624e356646f565efb
 
  Even though removing your mouse's circuit from the lower panel is unnecessary, if you want to do that, make sure there are no screws attached. If there are any, remove them and take the circuit off the bottom panel of your mouse. Alternatively, you can unmount the scroll wheel directly without unmounting the circuit.
 
-## Step 3: Unmount the Scroll Wheel ![Person Unmounting the Scroll Wheel From Mouse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/4-Person-Unmounting-the-Scroll-Wheel-From-Mouse.jpg)
+## Step 3: Unmount the Scroll Wheel
+![Person Unmounting the Scroll Wheel From Mouse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/4-Person-Unmounting-the-Scroll-Wheel-From-Mouse.jpg)
 
  Image Credit: TechClub/[YouTube](https://www.youtube.com/watch?v=%5FWBHLISDp80)
 
  Unplug the encoder attached to the scroll wheel from the main board before unmounting the scroll wheel. Then, unplug any other connections, unscrew any screws, and take out the scroll wheel. After you have unmounted the scroll wheel, remove the encoder and proceed to the next step: fix the encoder.
 
-## Step 4: Fix the Encoder Assembly ![Person Showing the Mouse Encoder Assembly](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/5-Person-Showing-the-Mouse-Encoder-Assembly.jpg)
+## Step 4: Fix the Encoder Assembly
+![Person Showing the Mouse Encoder Assembly](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/5-Person-Showing-the-Mouse-Encoder-Assembly.jpg)
 
  Image Credit: TechClub/[YouTube](https://www.youtube.com/watch?v=%5FWBHLISDp80)
 
@@ -89,7 +92,8 @@ thumbnail: https://thmb.techidaily.com/c614df743851cde902b9dc7b624e356646f565efb
 
  If the issue persists, there might be a problem with the scroll wheel hub. So, fixing the encoder coil spring assembly may not help.
 
-## Step 5: Wrap a Small Piece of Paper Around the Scroll Wheel Hub ![Man Holding a Small Piece of Paper to Fit in the Mouse Scroll Wheel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/7-Man-Holding-a-Small-Piece-of-Paper-to-Fit-in-the-Mouse-Scroll-Wheel.jpg)
+## Step 5: Wrap a Small Piece of Paper Around the Scroll Wheel Hub
+![Man Holding a Small Piece of Paper to Fit in the Mouse Scroll Wheel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/7-Man-Holding-a-Small-Piece-of-Paper-to-Fit-in-the-Mouse-Scroll-Wheel.jpg)
 
  Image Credit: Orkhan Aliyev/[YouTube](https://www.youtube.com/watch?v=%5FJwUUjLzAMY)
 
@@ -134,3 +138,56 @@ thumbnail: https://thmb.techidaily.com/c614df743851cde902b9dc7b624e356646f565efb
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-realme-gt-neo-5-se-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Realme GT Neo 5 SE Phone</u></a></li>
+<li><a href="https://games-able.techidaily.com/fast-and-furious-games-boost-your-windows-fps/"><u>Fast and Furious Games: Boost Your Windows FPS</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-add-effects-in-premiere-pro/"><u>Updated In 2024, How to Add Effects in Premiere Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/emulator-showdown-which-one-crushes-it-on-raspberry-pi/"><u>Emulator Showdown: Which One Crushes It on Raspberry Pi?</u></a></li>
+<li><a href="https://games-able.techidaily.com/opera-vs-edge-the-ultimate-browser-face-off-for-gamers/"><u>Opera Vs. Edge - The Ultimate Browser Face-Off for Gamers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/master-windows-11-revolutionary-techniques-for-efficient-video-trimming-for-2024/"><u>Master Window's 11  Revolutionary Techniques for Efficient Video Trimming for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieve-seamless-gameplay-how-to-use-controllers-with-ryujinx/"><u>Achieve Seamless Gameplay: How to Use Controllers with Ryujinx</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-pass-unfolds-for-xbox-live-gold-what-you-should-know/"><u>Game Pass Unfolds for Xbox Live Gold: What You Should Know</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-screenrecorder-evaluation-tool/"><u>2024 Approved  ScreenRecorder Evaluation Tool</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-gameplay-integrating-old-games-into-steam-deck/"><u>Seamless Gameplay: Integrating Old Games Into Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/prioritize-these-five-game-changing-mouse-features-today/"><u>Prioritize These Five Game-Changing Mouse Features Today!</u></a></li>
+<li><a href="https://games-able.techidaily.com/ace-at-searching-spotting-individuals-in-steam/"><u>Ace at Searching: Spotting Individuals in Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/asuss-visionary-docking-stations-the-premier-rog-ally-models-of-2024/"><u>Asus's Visionary Docking Stations - The Premier RoG Ally Models of 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/energize-vision-ideas-for-change/"><u>Energize Vision: Ideas for Change</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-honor-x50iplus-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Honor X50i+ to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-next-move-must-you-upgrade-to-rtx-now/"><u>Nvidia's Next Move: Must You Upgrade to RTX Now?</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-create-a-vacation-slideshow-in-5-minutes/"><u>New How to Create a Vacation Slideshow in 5 Minutes</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-integrated-technique-for-cross-platform-movie-logging/"><u>[New] Integrated Technique for Cross-Platform Movie Logging</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/perfecting-stability-a-no-tripod-guide/"><u>Perfecting Stability  A No-Tripod Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-trendsetting-emblems-in-digital-landscapes/"><u>[New] In 2024, Trendsetting Emblems in Digital Landscapes</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-ultrahd-pixel-rich-gaming-mouse-collection/"><u>Elite UltraHD, Pixel Rich Gaming Mouse Collection</u></a></li>
+<li><a href="https://games-able.techidaily.com/an-intimate-exploration-of-beloved-independent-games/"><u>An Intimate Exploration of Beloved Independent Games</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unifiedvision-mixer-hub/"><u>[Updated] UnifiedVision Mixer Hub</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-secrets-to-superior-color-grading/"><u>[Updated] Unveiling the Secrets to Superior Color Grading</u></a></li>
+<li><a href="https://games-able.techidaily.com/chicconsole-compact-modern-twist-on-classic-gaming/"><u>ChicConsole Compact: Modern Twist on Classic Gaming</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-the-most-direct-guide-to-learning-how-to-clone-your-voice/"><u>2024 Approved The Most Direct Guide to Learning How to Clone Your Voice</u></a></li>
+<li><a href="https://games-able.techidaily.com/nurturing-kids-through-safe-playstation-5-games/"><u>Nurturing Kids Through Safe Playstation 5 Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/notifying-of-violations-how-to-report-on-screen-offenses-xbox/"><u>Notifying of Violations: How to Report On-Screen Offenses (Xbox)</u></a></li>
+<li><a href="https://games-able.techidaily.com/3-reasons-why-30fps-console-gaming-isnt-as-bad-as-you-think/"><u>3 Reasons Why 30FPS Console Gaming Isn’t as Bad as You Think</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719163821039-10-hidden-gem-free-mobile-games-pure-fun/"><u>10 Hidden Gem Free Mobile Games - Pure Fun</u></a></li>
+<li><a href="https://games-able.techidaily.com/zonal-gameplay-changes-tweak-your-consoles-hour/"><u>Zonal Gameplay Changes: Tweak Your Console's Hour</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-console-joy-to-computer-control-the-process-explained-156-chars/"><u>From Console Joy to Computer Control: The Process Explained (156 Chars)</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-nyts-strands-an-expert-tutorial-for-word-games-enthusiasts/"><u>Mastering NYT's 'Strands': An Expert Tutorial for Word Games Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/bring-your-psp-experience-to-todays-technology/"><u>Bring Your PSP Experience to Today's Technology</u></a></li>
+<li><a href="https://games-able.techidaily.com/enrich-gameplay-with-advanced-focused-3d-light-panels/"><u>Enrich Gameplay with Advanced, Focused 3D Light Panels</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-pass-unveiled-what-this-means-for-xbox-gold-subscribers/"><u>Game Pass Unveiled: What This Means for Xbox Gold Subscribers</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-on-steroids-keychron-and-lemokey-reviewed/"><u>Gaming on Steroids: Keychron & Lemokey Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-and-repairing-robloxs-error-403-in-your-computer-system/"><u>Unraveling and Repairing Roblox's Error 403 in Your Computer System</u></a></li>
+<li><a href="https://games-able.techidaily.com/primes-direct-link-to-your-favorite-twitch-stars/"><u>Prime's Direct Link to Your Favorite Twitch Stars</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-infinix-note-30-pro-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Infinix Note 30 Pro</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/transforming-video-makeup-through-color-alignment-for-2024/"><u>Transforming Video Makeup Through Color Alignment for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-gaming-thrills-the-best-1440p-monitors-worth-every-penny/"><u>Affordable Gaming Thrills: The Best 1440P Monitors Worth Every Penny</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-valorant-efficiency-addressing-windows-frames-per-second-lags/"><u>Boosting Valorant Efficiency: Addressing Windows Frames Per Second Lags</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-premium-mac-and-pc-fullscreen-recording-apps/"><u>In 2024, Premium Mac & PC Fullscreen Recording Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/masterclass-enhancing-games-through-model-efficiency/"><u>Masterclass: Enhancing Games Through Model Efficiency</u></a></li>
+<li><a href="https://games-able.techidaily.com/armor-upgrade-guide-choosing-your-steam-deck-case-2024/"><u>Armor Upgrade Guide: Choosing Your Steam Deck Case, 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/online-signatures-for-word-2013-by-ldigisigner-sign-a-word-sign-a-word/"><u>Online signatures for Word 2013</u></a></li>
+<li><a href="https://games-able.techidaily.com/behind-the-blogosphere-why-we-should-doubt-critics/"><u>Behind the Blogosphere: Why We Should Doubt Critics</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Realme Narzo N55 | Dr.fone</u></a></li>
+</ul></div>

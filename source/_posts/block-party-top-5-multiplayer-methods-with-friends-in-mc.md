@@ -1,7 +1,7 @@
 ---
 title: "Block Party: Top 5 Multiplayer Methods with Friends in MC"
-date: 2024-06-25T13:07:20.948Z
-updated: 2024-06-26T13:07:20.948Z
+date: 2024-07-12T03:41:25.627Z
+updated: 2024-07-13T03:41:25.627Z
 tags:
   - games
 categories:
@@ -28,7 +28,8 @@ thumbnail: https://thmb.techidaily.com/74732f3286f05f088e049d5a5051d94a307e70b48
 
  While Java Edition is only on PC, you can [play Minecraft on Steam Link](https://www.makeuseof.com/how-to-play-game-pass-on-steam-link-with-glossi/) and play it on your TV, phone, or tablet and get close to a cross-platform experience.
 
-### Minecraft Java Edition ![Minecraft multiplayer server list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/mc-server-list-multiplayer.png)
+### Minecraft Java Edition
+![Minecraft multiplayer server list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/mc-server-list-multiplayer.png)
 
  Public servers are what most Java players use to link up with others. Servers are free to join and you can find them by using any of the many server-listing sites such as [minecraftservers.org](https://minecraftservers.org) (just search "Minecraft Servers" in your web browser to find more listing sites).
 
@@ -41,7 +42,8 @@ thumbnail: https://thmb.techidaily.com/74732f3286f05f088e049d5a5051d94a307e70b48
 
  Joining servers in Bedrock Edition is a lot easier, here's how to do it:
 
-### Minecraft Bedrock Edition ![Minecraft Bedrock Edition Servers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/minecraft-bedrock-edition-servers.jpg)
+### Minecraft Bedrock Edition
+![Minecraft Bedrock Edition Servers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/minecraft-bedrock-edition-servers.jpg)
 
  While your range is narrower than Java Edition players', there are definitely public servers you can join to play Minecraft with your friends in Bedrock Edition.
 
@@ -74,7 +76,8 @@ thumbnail: https://thmb.techidaily.com/74732f3286f05f088e049d5a5051d94a307e70b48
 
  Minecraft Realms is available for both Java and Bedrock, but they are separate subscriptions. Realms are officially hosted servers that you have to pay for, but it has the benefit of being more convenient, streamlined, and reliable than third-party hosting services.
 
-### How to Create a Minecraft Realm ![Minecraft Realms start new realm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/minecraft-realms-start-new-realm-1.jpg)
+### How to Create a Minecraft Realm
+![Minecraft Realms start new realm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/minecraft-realms-start-new-realm-1.jpg)
 
 **Java Edition** : First, you'll need to purchase a subscription for a Realm (you can check the pricing plans on [Minecraft's website](https://www.minecraft.net/en-us/realms-for-java/plans/) ). You can activate a 30-day free trial to test the waters and cancel anytime.
 
@@ -98,7 +101,8 @@ thumbnail: https://thmb.techidaily.com/74732f3286f05f088e049d5a5051d94a307e70b48
 
  Now that you know how to create a Realm, you probably want to check out your friends' Realms too. Here's how to join a Realm:
 
-### How to Join a Minecraft Realm ![Minecraft Realms invite envelope](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/minecraft-realms-invite-envelope.jpg)
+### How to Join a Minecraft Realm
+![Minecraft Realms invite envelope](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/minecraft-realms-invite-envelope.jpg)
 
 **Java Edition** : If you've received an invitation to join your friend's Realm, open Minecraft and navigate to**Minecraft Realms** .
 
@@ -114,7 +118,8 @@ thumbnail: https://thmb.techidaily.com/74732f3286f05f088e049d5a5051d94a307e70b48
 
  While servers are the best way to play Minecraft with friends who are far away, a LAN (Local Access Network) connection is an easy way to craft with friends who are nearby.
 
-### Minecraft Java Edition ![Minecraft Java edition scanning for LAN games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/mc-scanning-for-lan-games.png)
+### Minecraft Java Edition
+![Minecraft Java edition scanning for LAN games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/mc-scanning-for-lan-games.png)
 
  If you're under the same local IP address as the player you want to join, you can do this pretty easily. Launch Minecraft and click on**Multiplayer** . Minecraft will automatically scan for games on your local network.
 
@@ -124,7 +129,8 @@ thumbnail: https://thmb.techidaily.com/74732f3286f05f088e049d5a5051d94a307e70b48
 
  LAN play is on by default in Bedrock Edition. Just navigate to the**Worlds** tab, and if there are any available games on your network, they'll appear here for you to join.
 
-## 5\. Use Minecraft Split-Screen ![Split Screen Minecraft on Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/img_3176.jpeg)
+## 5\. Use Minecraft Split-Screen
+![Split Screen Minecraft on Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/img_3176.jpeg)
 
  Just like old-school console games, you can play split-screen on Minecraft Bedrock edition with up to four players. This is only available on consoles, but you can get on your couch, and [play split-screen Minecraft on your Nintendo Switch](https://www.makeuseof.com/how-to-play-two-player-minecraft-on-nintendo-switch/) .
 
@@ -151,3 +157,63 @@ thumbnail: https://thmb.techidaily.com/74732f3286f05f088e049d5a5051d94a307e70b48
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-nokia-xr21-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Nokia XR21? Fixed | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfect-your-panel-management-u-ban-and-block-users-on-twitch/"><u>Perfect Your Panel Management: U-Ban & Block Users on Twitch</u></a></li>
+<li><a href="https://games-able.techidaily.com/expedite-boredom-20plus-high-speed-online-games/"><u>Expedite Boredom: 20+ High-Speed Online Games</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-websites-to-download-public-domain-videos-for-2024/"><u>Best Websites to Download Public Domain Videos for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/echoes-of-yesteryears-gaming-systems-of-tomorrow/"><u>Echoes of Yesteryears: Gaming Systems of Tomorrow</u></a></li>
+<li><a href="https://games-able.techidaily.com/running-ps3-titles-on-newer-ps-console/"><u>Running PS3 Titles on Newer PS Console</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-nokia-c32-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-fruition-for-virtual-quests/"><u>In 2024, Ultimate Fruition for Virtual Quests</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-full-potential-of-steam-deck-keys/"><u>Unlocking Full Potential of Steam Deck Keys</u></a></li>
+<li><a href="https://games-able.techidaily.com/infiltrating-early-adopter-groups-a-guide-to-starfield-trials/"><u>Infiltrating Early Adopter Groups: A Guide to Starfield Trials</u></a></li>
+<li><a href="https://games-able.techidaily.com/leveraging-the-power-of-steam-currency/"><u>Leveraging the Power of Steam Currency</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-nintendo-switch-docks-a-compilation/"><u>Top Nintendo Switch Docks : A Compilation</u></a></li>
+<li><a href="https://games-able.techidaily.com/journey-through-social-and-multiplayer-worlds-subscribing-to-and-using-ea-play-on-ps5/"><u>Journey Through Social & Multiplayer Worlds: Subscribing to and Using EA Play on PS5</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-most-acclaimed-digital-music-cutter-tools-updated/"><u>New In 2024, Most Acclaimed Digital Music Cutter Tools – Updated</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-browser-showdown-opera-gx-vs-microsofts-edge/"><u>Gaming Browser Showdown: Opera GX vs Microsoft's Edge</u></a></li>
+<li><a href="https://games-able.techidaily.com/adventure-alliances-building-bonds-through-multiplayer-mc/"><u>Adventure Alliances: Building Bonds Through Multiplayer MC</u></a></li>
+<li><a href="https://games-able.techidaily.com/innocn-39g1r-high-framerate-monitor-under-500/"><u>InnoCN 39G1R: High Framerate Monitor Under $500</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-shiny-journey-to-immaculate-playstation/"><u>A Shiny Journey to Immaculate PlayStation</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-vivo-x100-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Vivo X100</u></a></li>
+<li><a href="https://games-able.techidaily.com/comprehensive-guide-to-fixing-driver-not-starting-on-windows-11/"><u>Comprehensive Guide to Fixing Driver Not Starting on Windows 11</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-click-worthy-thumbnails-a-step-by-step-guide-to-youtube-success/"><u>New Click-Worthy Thumbnails A Step-by-Step Guide to YouTube Success</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-simplicity-to-complexity-an-mmo-journey/"><u>From Simplicity to Complexity: An MMO Journey</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/from-inquiry-to-insight-best-practices-for-story-based-polls/"><u>From Inquiry to Insight  Best Practices for Story-Based Polls</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-methods-to-transfer-from-apple-iphone-12-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Methods to Transfer from Apple iPhone 12 Pro Max to Android | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-ethernet-choices-for-peak-gaming-performance/"><u>Top Ethernet Choices for Peak Gaming Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-novice-to-pro-mobile-twitch-streaming-mastery/"><u>From Novice to Pro: Mobile Twitch Streaming Mastery</u></a></li>
+<li><a href="https://games-able.techidaily.com/mmo-evolution-adaptation-and-survival-in-gaming-world/"><u>MMO Evolution: Adaptation & Survival in Gaming World</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-cozy-games-appeal/"><u>Discovering Cozy Games Appeal</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-12-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone 12</u></a></li>
+<li><a href="https://games-able.techidaily.com/diverse-methods-to-kickstart-your-ps5-console/"><u>Diverse Methods to Kickstart Your PS5 Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-excellence-achieved-with-oled-technology/"><u>Gaming Excellence Achieved with OLED Technology</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-pick-a-winner-top-5-features-in-next-gen-game-mice/"><u>How to Pick a Winner: Top 5 Features in Next-Gen Game Mice</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-your-steam-library-a-quick-guide-for-pc-users/"><u>Unlocking Your Steam Library: A Quick Guide for PC Users</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-melodic-editing-for-impactful-instagram-videos/"><u>[New] Melodic Editing for Impactful Instagram Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-dominion-deciding-between-ps5-and-budget-pc-gamersphere/"><u>Digital Dominion: Deciding Between PS5 & Budget PC Gamersphere</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-6-unique-online-chess-games-and-apps-for-strategic-fun/"><u>Top 6 Unique Online Chess Games & Apps for Strategic Fun</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-xboxs-stance-prohibition-of-unapproved-controllers/"><u>Understanding Xbox's Stance: Prohibition of Unapproved Controllers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-create-standout-videos-with-these-top-7-free-thumbnail-builders-for-2024/"><u>[New] Create Standout Videos with These Top 7 Free Thumbnail Builders for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-easily-accessible-shorts-on-youtube-for-2024/"><u>Fixed  Easily Accessible Shorts on YouTube for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-picks-for-ultimate-portability-asus-rog-ally-docks/"><u>Top Picks for Ultimate Portability: ASUS ROG Ally Docks</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-10-best-youtube-conversion-tools-for-webm-format/"><u>[New] 10 Best YouTube Conversion Tools for WebM Format</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-podcast-recorder-quality-check/"><u>[New] In 2024, Podcast Recorder Quality Check</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-shuttered-creations-sudden-delete-incidents/"><u>In 2024, Shuttered Creations  Sudden Delete Incidents</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-game-based-activities-in-discord-servers/"><u>Navigating Game-Based Activities in Discord Servers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-innovative-discord-font-tools-online-and-portable-editions/"><u>[New] In 2024, Innovative Discord Font Tools - Online & Portable Editions</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-improve-your-blu-ray-experience-on-xbox-series-x/"><u>How to Improve Your Blu-Ray Experience on Xbox Series X</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-disable-and-restrict-xbox-game-bar-background-activity-in-windows-11-and-11/"><u>How to Disable and Restrict Xbox Game Bar Background Activity in Windows 11 and 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/melody-match-up-leading-audio-trivia-apps/"><u>Melody Match-Up: Leading Audio Trivia Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-get-a-month-of-free-discord-nitro-with-opera-gx/"><u>How to Get a Month of Free Discord Nitro With Opera GX</u></a></li>
+<li><a href="https://games-able.techidaily.com/conquering-win10win11-graphic-freeze-error-0x887a0006/"><u>Conquering Win10/Win11 Graphic Freeze (Error 0X887A0006)</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-a-compelling-story-the-essentials-of-using-chatgpt-as-an-rpg/"><u>Crafting a Compelling Story: The Essentials of Using ChatGPT as an RPG</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-gameplay-with-improved-3d-models/"><u>Enhancing Gameplay with Improved 3D Models</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-unplugging-pauses-from-social-streams-a-2023-approach-to-fixing-livestream-issues/"><u>[Updated] Unplugging Pauses From Social Streams  A 2023 Approach to Fixing Livestream Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-fixes-for-steam-connection-failed-errors/"><u>Quick Fixes for Steam Connection Failed Errors</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-samsung-galaxy-xcover-7-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Samsung Galaxy XCover 7 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/facing-the-fire-my-gpus-cry-for-help/"><u>Facing the Fire: My GPU's Cry for Help</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Disconnect From Realms; Reclaim Your Virtual Territories
-date: 2024-06-25T13:17:24.014Z
-updated: 2024-06-26T13:17:24.014Z
+date: 2024-07-12T03:52:47.204Z
+updated: 2024-07-13T03:52:47.204Z
 tags:
   - games
 categories:
@@ -20,7 +20,8 @@ thumbnail: https://thmb.techidaily.com/19639e4ac05cfca12a97f4159ad1c138d0c42ce69
 
  In this guide, we’ll be using the Microsoft account to unsubscribe from Minecraft Realms. If you’re on a different platform on Bedrock Edition, you should still be able to find your subscription on your Microsoft account if you made the purchase with it. If you made the purchase using Google Play, PlayStation, Amazon, or iOS, you will need to find the subscription manangement settings on your respective platform.
 
-### 1\. Open Your Microsoft Order History ![Xbox Account main page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/xbox-account-main-page.jpg)
+### 1\. Open Your Microsoft Order History
+![Xbox Account main page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/xbox-account-main-page.jpg)
 
  To get to your Microsoft account, you can open it from the Xbox app on PC. Click on your profile name on the upper left, then click**Settings > Account > View order history** . This will open up your [Microsoft order history](https://account.microsoft.com/billing/orders/) .
 
@@ -28,7 +29,8 @@ thumbnail: https://thmb.techidaily.com/19639e4ac05cfca12a97f4159ad1c138d0c42ce69
 
  Alternatively, you can head directly to [Microsoft Services & Subscriptions](https://account.microsoft.com/services) which is where you’ll eventually end up.
 
-### 2\. Manage Your Minecraft Realms Subscriptions and Unsubscribe ![Microsoft Account Orders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/microsoft-account-orders.jpg)
+### 2\. Manage Your Minecraft Realms Subscriptions and Unsubscribe
+![Microsoft Account Orders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/microsoft-account-orders.jpg)
 
  If you’re on the order history page, find your Minecraft Realms order and click on**Manage Subscription** . This will take you to the previously linked Services & Subscriptions page.
 
@@ -54,7 +56,8 @@ thumbnail: https://thmb.techidaily.com/19639e4ac05cfca12a97f4159ad1c138d0c42ce69
 
  If you don’t want to lose your backups, you should download them locally. Here’s how to download your backups and find the files so you can use them elsewhere.
 
-### Downloading Your World on Minecraft Java Edition ![Configure button Minecraft Realms Java Edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/configure-button-minecraft-realms-java-edition.jpg)
+### Downloading Your World on Minecraft Java Edition
+![Configure button Minecraft Realms Java Edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/configure-button-minecraft-realms-java-edition.jpg)
 
  To back up a Java Edition Realm world, select the Realm that contains the world you want to back up and click**Configure** .
 
@@ -70,7 +73,8 @@ thumbnail: https://thmb.techidaily.com/19639e4ac05cfca12a97f4159ad1c138d0c42ce69
 
  Once it’s saved, it’ll show up in your single-player worlds with your username. In this case it’s Majikoeda. The file location can be found in**AppData/Roaming/.minecraft/saves** in case you want to move it to a different device, upload it to a server hosting service, or save it on Google Drive. That file location can also be used to [add downloadable Minecraft maps](https://www.makeuseof.com/how-to-download-install-minecraft-maps/) .
 
-### Downloading Your World on Minecraft Bedrock Edition ![Pencil button on Minecraft Realms Bedrock Edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/pencil-button-on-minecraft-realms-bedrock-edition.jpg)
+### Downloading Your World on Minecraft Bedrock Edition
+![Pencil button on Minecraft Realms Bedrock Edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/pencil-button-on-minecraft-realms-bedrock-edition.jpg)
 
  To back up a Realm world on the Bedrock Edition, click Play. Then, on the Realms section, click the**pencil icon** on the Realm you want to back up.
 
@@ -107,3 +111,59 @@ thumbnail: https://thmb.techidaily.com/19639e4ac05cfca12a97f4159ad1c138d0c42ce69
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/game-pass-integration-how-xbox-live-gold-subscribers-adapt/"><u>Game Pass Integration: How Xbox Live Gold Subscribers Adapt</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-playfields-trophies-terrains/"><u>Ultimate Playfields: Trophies Terrains</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/premier-open-source-windowsmac-screenshots-and-recorders/"><u>Premier Open-Source Windows/Mac Screenshots & Recorders</u></a></li>
+<li><a href="https://games-able.techidaily.com/future-ready-ergonomic-desk-surfaces/"><u>Future-Ready Ergonomic Desk Surfaces</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-does-idle-mean-on-discord-and-is-it-accurate/"><u>What Does Idle Mean on Discord and Is It Accurate?</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-iphone-potential-for-high-end-gaming/"><u>Unleashing iPhone Potential for High-End Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-ps5-fun-key-player-insights/"><u>Enhance PS5 Fun: Key Player Insights</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discover-easy-free-video-transformation-platforms-with-unmatched-features/"><u>Discover Easy, Free Video Transformation Platforms with Unmatched Features</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-cam-clash-sj6-legend-versus-yi-4k-visionary/"><u>In 2024, Cam Clash  SJ6 Legend Versus Yi 4K Visionary</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-the-nuances-of-nonlinear-audio-editing-in-audacity/"><u>Navigating the Nuances of Nonlinear Audio Editing in Audacity</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-flip-the-script-mastering-instagram-video-replay/"><u>[Updated] Flip the Script  Mastering Instagram Video Replay</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-picks-for-economical-virtual-reality-experiences/"><u>Top Picks for Economical Virtual Reality Experiences</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-secrets-of-blending-into-steam-backgrounds/"><u>The Secrets of Blending Into Steam Backgrounds</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-path-to-mastering-steams-review-system/"><u>The Path to Mastering Steam's Review System</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-nostalgia-using-emudeck-for-old-games/"><u>Exploring Nostalgia: Using EmuDeck for Old Games</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-unleashing-creativity-with-audacity-sound-capture-on-your-mac/"><u>In 2024, Unleashing Creativity with Audacity Sound Capture on Your Mac</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-prime-streaming-platforms-for-authors/"><u>2024 Approved  Prime Streaming Platforms for Authors</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-rectify-gpu-induced-image-sagging/"><u>Steps to Rectify GPU-Induced Image Sagging</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-hunt-top-achievement-boosting-websites/"><u>The Ultimate Hunt: Top Achievement Boosting Websites</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-capture-studio-screen-recorder-win10-for-2024/"><u>[New] Capture Studio  Screen Recorder Win10 for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/cutting-excess-from-your-ps5-club-selections/"><u>Cutting Excess From Your PS5 Club Selections</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-perfect-add-ons-for-your-steam-deck-journey/"><u>The Perfect Add-Ons for Your Steam Deck Journey</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-vr-headsets-high-quality-low-price/"><u>Affordable VR Headsets: High Quality, Low Price</u></a></li>
+<li><a href="https://review-topics.techidaily.com/2-ways-to-transfer-text-messages-from-vivo-y78t-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Vivo Y78t to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-engaging-and-ethical-mobile-game-play/"><u>The Ultimate Guide to Engaging & Ethical Mobile Game Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-gaming-with-chatgpt-the-top-6-titles/"><u>Explore Gaming with ChatGPT: The Top 6 Titles!</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-cost-of-enhancing-nintendo-switch-connectivity/"><u>The Cost of Enhancing Nintendo Switch Connectivity</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-shaky-to-steady-selecting-an-ideal-camera-gimbals-for-uavs/"><u>2024 Approved  From Shaky to Steady  Selecting an Ideal Camera Gimbals for UAVs</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-a-champion-critical-settings-to-customize-in-fps-games/"><u>Crafting a Champion: Critical Settings to Customize in FPS Games</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-effortlessly-access-your-most-watched-fb-movies-post-2023/"><u>[Updated] In 2024, Effortlessly Access Your Most-Watched FB Movies Post-2023</u></a></li>
+<li><a href="https://games-able.techidaily.com/unseen-dangers-players-as-primary-funders-for-game-devs-work/"><u>Unseen Dangers: Players as Primary Funders for Game Dev's Work</u></a></li>
+<li><a href="https://games-able.techidaily.com/building-better-games-through-model-efficiency/"><u>Building Better Games Through Model Efficiency</u></a></li>
+<li><a href="https://games-able.techidaily.com/exchange-joy-through-steam-games-as-presents/"><u>Exchange Joy Through Steam Games as Presents</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-discovering-budget-friendly-framed-imagery/"><u>2024 Approved  Discovering Budget-Friendly Framed Imagery</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyerdynamics-mmx-200-a-sound-revolution/"><u>Beyerdynamic's MMX 200: A Sound Revolution</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-apple-iphone-6s-location-on-skout-drfone-by-drfone-virtual-ios/"><u>How to Change Apple iPhone 6s Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-full-guide-to-apple-iphone-15-icloud-bypass-by-drfone-ios/"><u>In 2024, Full guide to Apple iPhone 15 iCloud Bypass</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-sound-sculpture-shaping-your-youtube-audio-experience/"><u>[Updated] Sound Sculpture  Shaping Your YouTube Audio Experience</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-honor-x9b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/core-content-contrast-delving-into-xbox-vs-playstation-plans/"><u>Core Content Contrast: Delving Into Xbox Vs. PlayStation Plans</u></a></li>
+<li><a href="https://games-able.techidaily.com/uninterrupted-gameplay-with-xbox-s-controller/"><u>Uninterrupted Gameplay with Xbox S Controller</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-achieving-seamless-ages-shifting-scenes/"><u>2024 Approved  Achieving Seamless Ages Shifting Scenes</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-record-your-screen-with-ease-a-comprehensive-guide-to-filmora-scrn/"><u>Updated 2024 Approved Record Your Screen with Ease A Comprehensive Guide to Filmora Scrn</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-ultimate-rankings-exceptional-free-auditory-slicing-applications-online-for-2024/"><u>Updated Ultimate Rankings Exceptional Free Auditory Slicing Applications Online for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/which-rpi-console-powers-retro-gaming-more-batocera-or-retropie/"><u>Which RPi Console Powers Retro Gaming More: Batocera or RetroPie?</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-transition-from-xbox-live-gold-to-game-pass-core-explained/"><u>The Transition From Xbox Live Gold to Game Pass Core Explained</u></a></li>
+<li><a href="https://games-able.techidaily.com/combat-commanders-unite-discovering-best-11-war-sims/"><u>Combat Commanders Unite: Discovering Best 11 War Sims</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-ranked-light-panel-sets-for-ultimate-gaming-spaces/"><u>Top-Ranked Light Panel Sets for Ultimate Gaming Spaces</u></a></li>
+<li><a href="https://games-able.techidaily.com/better-computing-awaits-update-with-newest-nvidia-drivers-now/"><u>Better Computing Awaits! Update with Newest Nvidia Drivers Now.</u></a></li>
+<li><a href="https://games-able.techidaily.com/building-the-perfect-kid-safe-gaming-sanctuary/"><u>Building the Perfect Kid-Safe Gaming Sanctuary</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-se-2022-data-completely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone SE (2022) Data Completely | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-personalizing-interactions-deepening-connections-with-viewers/"><u>[Updated] In 2024, Personalizing Interactions  Deepening Connections with Viewers</u></a></li>
+</ul></div>

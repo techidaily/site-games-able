@@ -1,7 +1,7 @@
 ---
 title: "Steam Deck's New Frontier: External Memory Expansion"
-date: 2024-06-25T12:48:37.542Z
-updated: 2024-06-26T12:48:37.542Z
+date: 2024-07-12T03:11:12.534Z
+updated: 2024-07-13T03:11:12.534Z
 tags:
   - games
 categories:
@@ -38,7 +38,8 @@ thumbnail: https://thmb.techidaily.com/8859a6a8995fd23a6d3c164e4eb7814defea1c5b8
 
  We have a great selection of [the best microSD cards for the Steam Deck](https://www.makeuseof.com/best-microsd-cards-steam-deck/) if you haven't selected one already.
 
-## How to Format Your SD Card for the Steam Deck ![screenshot of the steam deck settings menu showing an option to format the SD card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_steam_deck_sd_format_option.jpg)
+## How to Format Your SD Card for the Steam Deck
+![screenshot of the steam deck settings menu showing an option to format the SD card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_steam_deck_sd_format_option.jpg)
 
  The Steam Deck uses a specific format, so a full wipe of your SD card is required when adding extra storage to the device.
 
@@ -50,7 +51,8 @@ thumbnail: https://thmb.techidaily.com/8859a6a8995fd23a6d3c164e4eb7814defea1c5b8
 
  When the Steam Deck is done, your SD card will no longer be readable by Windows or Mac devices.
 
-## How to Install and Move Games to Your Steam Deck's SD Card ![screenshot of the games options menu on the steam deck showing a game installed on an SD card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_steam_deck_game_options_sd_card.jpg)
+## How to Install and Move Games to Your Steam Deck's SD Card
+![screenshot of the games options menu on the steam deck showing a game installed on an SD card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_steam_deck_game_options_sd_card.jpg)
 
  With an SD card installed, you can choose to install a game directly onto your SD card or move an already installed game manually by opening its **Properties** and clicking on **Installed Files.**
 
@@ -89,3 +91,41 @@ run/media/mmcblk0p1
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/reflecting-on-an-excessive-gpu-purchase-decision/"><u>Reflecting on an Excessive GPU Purchase Decision</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-transform-your-memories-into-a-captivating-video/"><u>Updated 2024 Approved Transform Your Memories Into a Captivating Video</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-terrain-of-xbox-sxs-high-res-mode/"><u>Navigating the Terrain of Xbox SX's High Res Mode</u></a></li>
+<li><a href="https://games-able.techidaily.com/screen-technology-battle-comparing-the-best-among-oled-amoled-and-lcds/"><u>Screen Technology Battle: Comparing The Best Among OLED, AMOLED and LCDs</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-unveiling-the-10-most-reliable-youtube-to-webm-transformers/"><u>[Updated] 2024 Approved  Unveiling the 10 Most Reliable YouTube-to-WebM Transformers</u></a></li>
+<li><a href="https://games-able.techidaily.com/individualized-fan-settings-optimize-gpu-temperature-and-power/"><u>Individualized Fan Settings Optimize GPU Temperature & Power</u></a></li>
+<li><a href="https://games-able.techidaily.com/speedy-game-management-with-steams-space-toolkit/"><u>Speedy Game Management with Steam's Space Toolkit</u></a></li>
+<li><a href="https://games-able.techidaily.com/minecraft-network-disconnect-on-windows-quick-tips/"><u>Minecraft Network Disconnect on Windows: Quick Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/playstation-5-versus-xbox-series-x-the-ultimate-decision/"><u>PlayStation 5 Versus Xbox Series X: The Ultimate Decision</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-tecno-spark-20-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/reconciling-false-invalid-payment-methods-on-ps5/"><u>Reconciling False Invalid Payment Methods on PS5</u></a></li>
+<li><a href="https://techidaily.com/solved-mac-doesnt-recognize-my-iphone-15-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Mac Doesnt Recognize my iPhone 15 Plus | Stellar</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-use-video-titles-and-youtube-tags-for-2024/"><u>How to Use Video Titles and YouTube Tags for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/lenovos-latest-tablet-a-deep-dive-into-the-legion-go/"><u>Lenovo's Latest Tablet: A Deep Dive Into the Legion Go</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-economic-trajectory-of-video-games/"><u>Steam's Economic Trajectory of Video Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/securing-fortnites-elite-status-the-ps5-approach/"><u>Securing Fortnite's Elite Status: The PS5 Approach</u></a></li>
+<li><a href="https://games-able.techidaily.com/integration-tutorial-controller-phone-combo/"><u>Integration Tutorial: Controller, Phone Combo</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-bluetooth-disconnects-on-xbox-s/"><u>Overcoming Bluetooth Disconnects on Xbox S</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionary-flaw-rectification-by-rog-ally-x/"><u>Revolutionary Flaw Rectification by ROG Ally X</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-change-steams-default-language/"><u>How to Change Steam’s Default Language</u></a></li>
+<li><a href="https://games-able.techidaily.com/mobile-operating-system-migration-tips-for-linux/"><u>Mobile Operating System Migration Tips for Linux</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-xbox-ones-drift-repair-techniques/"><u>Mastering Xbox One's Drift Repair Techniques</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-live-sound-perfection-our-selections-of-the-top-6-stream-friendly-mics/"><u>[Updated] In 2024, Live Sound Perfection  Our Selections of the Top 6 Stream-Friendly Mics</u></a></li>
+<li><a href="https://games-able.techidaily.com/revive-retro-gaming-playing-psp-classics-on-iphone/"><u>Revive Retro Gaming: Playing PSP Classics on iPhone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-how-to-add-subtitlescaptions-in-final-cut-pro-x/"><u>Updated How to Add Subtitles/Captions in Final Cut Pro X?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-maximize-efficiency-with-wmp-for-audio-conversion/"><u>2024 Approved  Maximize Efficiency with WMP for Audio Conversion</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-nokia-c110-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Nokia C110.</u></a></li>
+<li><a href="https://games-able.techidaily.com/keep-gaming-secure-dont-use-ps5-microphone/"><u>Keep Gaming Secure: Don't Use PS5 Microphone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/next-gen-cross-format-data-retrieval-solution-state-of-the-art-software-for-restoring-all-kinds-of-lost-digital-information/"><u>Next-Gen Cross-Format Data Retrieval Solution: State-of-the-Art Software for Restoring All Kinds of Lost Digital Information</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimize-your-gaming-session-a-2-step-guide-to-detecting-android-fps/"><u>Optimize Your Gaming Session: A 2-Step Guide to Detecting Android FPS</u></a></li>
+<li><a href="https://games-able.techidaily.com/solving-xbox-s-x-connectivity-issues/"><u>Solving Xbox S X Connectivity Issues</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-motorola-moto-g14-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Motorola Moto G14 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-samsung-galaxy-a34-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Samsung Galaxy A34 5G Phone</u></a></li>
+<li><a href="https://games-able.techidaily.com/office-environmentals-vs-playstation-specifications/"><u>Office Environmentals Vs. PlayStation Specifications</u></a></li>
+</ul></div>

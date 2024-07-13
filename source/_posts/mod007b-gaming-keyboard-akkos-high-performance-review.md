@@ -1,7 +1,7 @@
 ---
 title: Mod007B Gaming Keyboard - Akko's High-Performance Review
-date: 2024-06-25T12:50:26.609Z
-updated: 2024-06-26T12:50:26.609Z
+date: 2024-07-12T03:22:10.192Z
+updated: 2024-07-13T03:22:10.192Z
 tags:
   - games
 categories:
@@ -109,7 +109,8 @@ No
 
 [See at Akko](https://en.akkogear.com/product/mod007b-pc-santorini-mechanical-keyboard/)
 
-## A Great-Looking Keyboard on the Surface ![Akko MOD007B HE Spacebar Detail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-spacebar-detail.jpg)
+## A Great-Looking Keyboard on the Surface
+![Akko MOD007B HE Spacebar Detail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-spacebar-detail.jpg)
 
  Jowi Morales / MakeUseOf
 
@@ -119,7 +120,8 @@ No
 
  All of these sit on a plain white plastic case with two-level adjustable feet. You also get a plain white knob for adjusting volume and RGB brightness. This keyboard would look great on any desk. Even if you aim for a minimalist gaming station, its design could be your PC’s focal point.
 
-## Tokyo-Themed Keys and Accessories Included ![Akko MOD007B HE Tokyo-themed Accessories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-tokyo-themed-accessories.jpg)
+## Tokyo-Themed Keys and Accessories Included
+![Akko MOD007B HE Tokyo-themed Accessories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-tokyo-themed-accessories.jpg)
 
  Jowi Morales / MakeUseOf
 
@@ -165,7 +167,8 @@ Related
 
  Even when you bottom out the keys, you’ll feel as if it’s cushioned, reducing the stress on your fingertips. And although it doesn’t have the bassy, thocky sound some keyboard enthusiasts look for, it still delivers excellent audible feedback for each keypress you make.
 
-## Extensive Customization With the Akko Cloud Driver ![Akko MOD007B HE Cloud Driver Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/akko-mod007b-he-cloud-driver-screenshot.jpg)
+## Extensive Customization With the Akko Cloud Driver
+![Akko MOD007B HE Cloud Driver Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/akko-mod007b-he-cloud-driver-screenshot.jpg)
 
  Of course, hardware is no good if you don’t pair it with great software. Thankfully, the Akko MOD007B comes with an easy-to-use and easy-to-understand driver. On thge Main tab you can remap your keyboard, change its Dynamic Keystroke settings, and set custom actuation distances for the entire keyboard or each key.
 
@@ -173,7 +176,8 @@ Related
 
  But best of all, any changes you make to the keyboard are stored on it. So, even if you switch PCs or upgrade to a newer device, you don’t have to download the driver and recreate your saved keyboard settings.
 
-## Confusing Multi-Mode Pairing ![Akko MOD007B HE mode switch slider under the caps lock key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-mode-switch-slider-under-the-caps-lock-key.jpg)
+## Confusing Multi-Mode Pairing
+![Akko MOD007B HE mode switch slider under the caps lock key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-mode-switch-slider-under-the-caps-lock-key.jpg)
 
  Jowi Morales / MakeUseOf
 
@@ -185,7 +189,8 @@ Related
 
  It would’ve been better if Akko included at least a single color-changing LED bulb to indicate the mode the keyboard is currently on. And maybe they could put the OS mode switch on an easily reachable surface.
 
-## Questionable Battery Life ![Akko MOD007B HE Battery-Level Check](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-battery-level-check.jpg)
+## Questionable Battery Life
+![Akko MOD007B HE Battery-Level Check](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-battery-level-check.jpg)
 
  Jowi Morales / MakeUseOf
 
@@ -294,3 +299,50 @@ No
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ai-video-tools.techidaily.com/in-2024-unleash-your-creativity-the-top-5-avchd-video-editing-software/"><u>In 2024, Unleash Your Creativity The Top 5 AVCHD Video Editing Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/stabilizing-xbox-s-controller-signal-loss/"><u>Stabilizing Xbox S Controller Signal Loss</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-direct-transition-from-youtube-to-instagram-reels/"><u>[Updated] 2024 Approved  Direct Transition From YouTube to Instagram Reels</u></a></li>
+<li><a href="https://games-able.techidaily.com/valve-squeezes-out-misuse-in-easy-game-returns/"><u>Valve Squeezes Out Misuse in Easy Game Returns</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-of-the-bunch-6-audio-conversion-tools-compared/"><u>In 2024, Best of the Bunch 6 Audio Conversion Tools Compared</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-seize-and-setup-your-mc-mapping-adventures/"><u>Steps to Seize & Setup Your MC Mapping Adventures</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-remote-play-windows-connection-problems-guide/"><u>Steam Remote Play: Windows Connection Problems Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-linking-controllers-and-android-devices/"><u>The Ultimate Guide to Linking Controllers & Android Devices</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-content-creation-and-currency-maximizing-youtube-wealth/"><u>In 2024, Content Creation & Currency  Maximizing YouTube Wealth</u></a></li>
+<li><a href="https://games-able.techidaily.com/uncovering-users-on-steam-efficiently/"><u>Uncovering Users on Steam Efficiently</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Realme Narzo 60 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/uncovering-java-games-standout-characteristics/"><u>Uncovering Java Games’ Standout Characteristics</u></a></li>
+<li><a href="https://games-able.techidaily.com/comprehensible-approaches-to-fix-error-30005-in-files/"><u>Comprehensible Approaches to Fix Error 30005 in Files</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-psd-transparency-tricks/"><u>[Updated] Ultimate PSD Transparency Tricks</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-selection-of-console-games-for-macos/"><u>The Ultimate Selection of Console Games for macOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-new-virtual-frontier-the-meta-quest-3-story/"><u>A New Virtual Frontier: The Meta Quest 3 Story</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-unleash-the-power-of-your-youtube-channel-with-expert-editing-techniques/"><u>[New] In 2024, Unleash the Power of Your YouTube Channel with Expert Editing Techniques</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-6s-plus-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 6s Plus</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-critique-on-luminances-approach-to-hdr-creation/"><u>2024 Approved  Critique on Luminance’s Approach to HDR Creation</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-unlock-adobe-premieres-full-potential-top-15-plugins-free-download/"><u>New Unlock Adobe Premieres Full Potential Top 15 Plugins (Free Download)</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-video-production-on-mac-tips-and-tricks/"><u>Updated 2024 Approved Video Production on Mac Tips and Tricks</u></a></li>
+<li><a href="https://games-able.techidaily.com/summertime-savings-sonys-top-gamer-buys/"><u>Summertime Savings: Sony's Top Gamer Buys</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-depth-look-mycam-cams-performance-for-2024/"><u>In-Depth Look  MyCam Cam's Performance for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-perfect-combo-tablets-and-game-rhythms/"><u>The Perfect Combo: Tablets and Game Rhythms</u></a></li>
+<li><a href="https://games-able.techidaily.com/slimmer-smartphones-tecnos-exciting-showcase/"><u>Slimmer Smartphones: Tecno’s Exciting Showcase</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/essential-tips-for-capturing-sound-with-your-samsung-s10s9-for-2024/"><u>Essential Tips for Capturing Sound with Your Samsung S10/S9 for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719157080006-oled-monitor-my-secret-weapon-for-games/"><u>OLED Monitor - My Secret Weapon for Games!</u></a></li>
+<li><a href="https://games-able.techidaily.com/zero-lag-peak-gameplay-the-new-era-with-razers-basilisk-v3/"><u>Zero Lag, Peak Gameplay: The New Era with Razer's Basilisk V3</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719160288445-uncover-chatgpts-hidden-game-treasures-the-best-6/"><u>Uncover ChatGPT's Hidden Game Treasures - The Best 6</u></a></li>
+<li><a href="https://games-able.techidaily.com/behemoth-rising-raider-hx-reviewed/"><u>Behemoth Rising: Raider HX Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/uniting-epic-and-steam-step-by-step-guide/"><u>Uniting Epic & Steam: Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-steam-modding-a-step-by-step-guide/"><u>Unlocking Steam Modding: A Step-by-Step Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-12-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone 12</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-making-life-easier-watching-fb-videos-on-your-tv/"><u>[New] Making Life Easier  Watching FB Videos on Your TV</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-savoring-secrets-tiktok-food-trends-you-cant-miss/"><u>2024 Approved  Savoring Secrets  #Tiktok Food Trends You Can't Miss</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/discord-customization-essentials-selecting-eye-catching-flag-designs-for-2024/"><u>Discord Customization Essentials  Selecting Eye-Catching Flag Designs for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/apex-players-in-tetris-arena-on-mobile-giants/"><u>Apex Players in Tetris Arena on Mobile Giants</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-the-tech-behind-robloxs-fps-boosters/"><u>Deciphering the Tech Behind Roblox's FPS Boosters</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-flawless-blend-incorporating-linktree-into-your-tiktok-about-section/"><u>In 2024, Flawless Blend  Incorporating Linktree Into Your TikTok About Section</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridge-pc-and-steam-deck-remote-game-casting-basics/"><u>Bridge PC and Steam Deck: Remote Game Casting Basics</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-fix-it-guide-for-lost-location-alerts-in-pokemon-journey/"><u>The Ultimate Fix-It Guide for Lost Location Alerts in Pokémon Journey</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoid-bad-buys-with-these-lessons-from-wrong-oled-choices/"><u>Avoid Bad Buys with These Lessons From Wrong OLED Choices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-behind-the-camera-studio-insights-extended-xvideoguide/"><u>[Updated] Behind-the-Camera Studio Insights  Extended XVideoGuide</u></a></li>
+</ul></div>

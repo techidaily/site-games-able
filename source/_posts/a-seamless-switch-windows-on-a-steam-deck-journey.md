@@ -1,7 +1,7 @@
 ---
 title: "A Seamless Switch: Windows on a Steam Deck Journey"
-date: 2024-06-25T13:22:41.355Z
-updated: 2024-06-26T13:22:41.355Z
+date: 2024-07-12T03:58:44.583Z
+updated: 2024-07-13T03:58:44.583Z
 tags:
   - games
 categories:
@@ -29,7 +29,8 @@ thumbnail: https://thmb.techidaily.com/a65df42cc8379f3aa4b0bec4cca01f43716f0f93a
 
  Do you want to have a familiar operating system or Game Pass on your Steam Deck? You can dual-boot SteamOS with Windows on the device. Here’s a thorough guide on installing Windows 11 on your Steam Deck.
 
-## Why You Should Install Windows on Your Steam Deck ![Steam Deck surrounded by peripherals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/steam-deck-surrounded-by-peripherals.JPG)
+## Why You Should Install Windows on Your Steam Deck
+![Steam Deck surrounded by peripherals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/steam-deck-surrounded-by-peripherals.JPG)
 
 Jhet Borja/MUO
 
@@ -57,7 +58,8 @@ Jhet Borja/MUO
 
  Head to [Ventoy’s GitHub page](https://github.com/ventoy/Ventoy/) and on the right side, click on**Releases** . Scroll down to**Assets** and click on the ZIP folder that says Windows on it. Extract the contents into a folder on your PC.
 
-### GNOME Partition Editor (GParted) ISO ![downloading GParted amd64 version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/downloading-gparted-amd64-version.jpg)
+### GNOME Partition Editor (GParted) ISO
+![downloading GParted amd64 version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/downloading-gparted-amd64-version.jpg)
 
  GParted is an ISO used to create partitions on your internal SSD on your Steam Deck. The new partition will be where you’ll place the Windows installation. To download it, head to [GParted.org](https://gparted.org/download.php) and click on the**amd64.iso** download file.
 
@@ -69,7 +71,8 @@ Jhet Borja/MUO
 
  Head to the**Download Windows 11 Disk Image (ISO)** option and on the dropdown menu, select**Windows 11 (multi-edition ISO)** . Click on**Download** , then select your language. It should then give you another download button to download the Windows ISO that is about 6GB to 7GB in size.
 
-### Windows Drivers for Steam Deck ![Downloading Windows Drivers for Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/downloading-windows-drivers-for-steam-deck.jpg)
+### Windows Drivers for Steam Deck
+![Downloading Windows Drivers for Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/downloading-windows-drivers-for-steam-deck.jpg)
 
  Windows doesn’t support all the Steam Deck’s hardware straight from the get-go. Fortunately, Steam has provided Windows drivers so that your audio, Wi-Fi, Bluetooth, SD card reader, and APU are all working properly.
 
@@ -207,7 +210,8 @@ Jhet Borja/MUO
 
  If this doesn’t work, you may also try to delete the other ISO from the SD card or flash drive. You may also try reinstalling Ventoy as a last resort, but this will format the drive so make sure you have everything in a folder that you can easily paste onto the drive.
 
-### The Windows 0x80300001 Error ![Selecting partition created in GParted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/selecting-partition-created-in-gparted.JPG)
+### The Windows 0x80300001 Error
+![Selecting partition created in GParted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/selecting-partition-created-in-gparted.JPG)
 
 Jhet Borja/MUO
 
@@ -219,7 +223,8 @@ Jhet Borja/MUO
 
  You may have created a new partition as ext4 in GParted instead of leaving the unallocated partition as it is. If you insist on creating a new partition in GParted, make sure it’s in NTFS format and not ext4.
 
-### Windows Cannot Install Drivers ![Windows cannot install required files error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-cannot-install-required-files-error.JPG)
+### Windows Cannot Install Drivers
+![Windows cannot install required files error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-cannot-install-required-files-error.JPG)
 
 Jhet Borja/MUO
 
@@ -227,7 +232,8 @@ Jhet Borja/MUO
 
  Shut down your Steam Deck by holding down the power button and unplug any USB devices except your flash drive or SD card. Don’t plug in any USB devices during the installation to avoid this issue.
 
-### You Can’t Find SteamOS in the Boot Manager ![No SteamOS option in boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/no-steamos-option-in-boot-manager.JPG)
+### You Can’t Find SteamOS in the Boot Manager
+![No SteamOS option in boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/no-steamos-option-in-boot-manager.JPG)
 
 Jhet Borja/MUO
 
@@ -286,3 +292,42 @@ Then type:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/pocketplay-retro-small-screen-large-memories/"><u>PocketPlay Retro: Small Screen, Large Memories</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-key-factors-for-a-smart-ps5-buy/"><u>Evaluating Key Factors for a Smart PS5 Buy</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-recording-movies-best-practices-with-windows-11-for-2024/"><u>[Updated] Recording Movies  Best Practices with Windows 11 for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-steams-workshop-for-game-customization/"><u>Mastering Steam's Workshop for Game Customization</u></a></li>
+<li><a href="https://games-able.techidaily.com/pimax-crystal-review-the-best-looking-pcvr-headset-around-but-still-buggy/"><u>Pimax Crystal Review: The Best Looking PCVR Headset Around, but Still Buggy</u></a></li>
+<li><a href="https://games-able.techidaily.com/managing-failed-transactions-on-steam/"><u>Managing Failed Transactions on Steam</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-decoding-facebooks-algorithm-the-way-to-access-vids/"><u>[New] 2024 Approved  Decoding Facebook's Algorithm  The Way to Access Vids</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-obstacles-for-opening-origins/"><u>Overcoming Obstacles for Opening Origins</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-steams-sync-shenanigans-on-pc/"><u>Overcoming Steam's Sync Shenanigans on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-discords-indolence-identifier-accurate/"><u>Is Discord's Indolence Identifier Accurate?</u></a></li>
+<li><a href="https://games-able.techidaily.com/disassembling-new-controller-firmware-on-series-xs/"><u>Disassembling New Controller Firmware on Series X/S</u></a></li>
+<li><a href="https://games-able.techidaily.com/duplicating-saved-games-securing-your-digital-artifacts/"><u>Duplicating Saved Games: Securing Your Digital Artifacts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-speedy-shot-mastery-discovering-the-best-5-hacks-for-filming/"><u>2024 Approved  Speedy Shot Mastery  Discovering the Best 5 Hacks for Filming</u></a></li>
+<li><a href="https://video-capture.techidaily.com/essential-skills-for-quiet-movie-production-for-2024/"><u>Essential Skills for Quiet Movie Production for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-gaming-unboxing-the-30-top-switch-cartridge-holders-of-2024/"><u>Innovative Gaming - Unboxing the 30 Top Switch Cartridge Holders of 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-12-leading-free-video-viewing-apps-for-loving-watchers-worldwide/"><u>[Updated] 2024 Approved  12 Leading Free Video Viewing Apps for Loving Watchers Worldwide</u></a></li>
+<li><a href="https://games-able.techidaily.com/ensuring-complete-game-displays-in-epics-library/"><u>Ensuring Complete Game Displays in Epic's Library</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-unlocking-discord-the-ultimate-video-submission-guide/"><u>[New] Unlocking Discord  The Ultimate Video Submission Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/locating-steam-screenshot-archives/"><u>Locating Steam Screenshot Archives</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfecting-precision-mastering-cs2-on-a-mac-laptop/"><u>Perfecting Precision: Mastering CS2 on a Mac Laptop</u></a></li>
+<li><a href="https://games-able.techidaily.com/excellent-gamer-tracking-apps-review/"><u>Excellent Gamer Tracking Apps Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/fleeting-online-realms-a-reason-for-concern/"><u>Fleeting Online Realms – A Reason for Concern?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-windows-11-acer-driver-updates/"><u>Quick Windows 11 Acer Driver Updates</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-finally-get-rid-of-games-from-your-steam-account/"><u>How to Finally Get Rid of Games From Your Steam Account</u></a></li>
+<li><a href="https://extra-information.techidaily.com/bring-out-canons-best-enjoy-10-free-luts-and-beyond-selection/"><u>Bring Out Canon's Best  Enjoy 10 Free LUTs and Beyond Selection</u></a></li>
+<li><a href="https://games-able.techidaily.com/cut-out-console-noise-with-ease-on-xbox/"><u>Cut Out Console Noise with Ease on Xbox</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-record-and-save-with-zero-cost-on-android-devices/"><u>[Updated] In 2024, Record & Save with Zero Cost on Android Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/guide-to-remove-unwanted-game-data-on-ps5/"><u>Guide to Remove Unwanted Game Data on PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/harmonious-device-interaction-via-securely-shared-controls/"><u>Harmonious Device Interaction via Securely Shared Controls</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-fix-the-youtube-shorts-not-showing-up-issue/"><u>[New] 2024 Approved  How to Fix the YouTube Shorts Not Showing Up Issue?</u></a></li>
+<li><a href="https://games-able.techidaily.com/diminish-xboxs-game-sounds-immediately/"><u>Diminish Xbox's Game Sounds Immediately</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-expose-your-guide-to-finding-censored-youtube-clips/"><u>[New] In 2024, Exposé  Your Guide to Finding Censored YouTube Clips</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-xboxs-golden-era-via-emulation-on-a-pc/"><u>Exploring Xbox's Golden Era via Emulation on a PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-hack-finding-the-epic-games-on-apple-arcade/"><u>Gamer's Hack: Finding the Epic Games on Apple Arcade</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-high-quality-methods-and-guides-to-add-music-to-igtv/"><u>New 2024 Approved High-Quality Methods & Guides to Add Music to IGTV</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: IFA 2023 Gaming Innovation Showcase
-date: 2024-06-25T13:28:30.096Z
-updated: 2024-06-26T13:28:30.096Z
+date: 2024-07-12T04:05:18.757Z
+updated: 2024-07-13T04:05:18.757Z
 tags:
   - games
 categories:
@@ -22,7 +22,8 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 
  Plenty of brands had a fine showing of their gaming hardware at IFA 2023\. But it was Lenovo that proverbially mopped the floor with the competition. It unveiled not one, or even two, but three pieces of gaming hardware that show Lenovo is making serious moves to become a leader in some of the game tech still in its infancy: portable gaming PCs and AR glasses.
 
-### Lenovo Legion GO ![MUO site on Lenovo Legion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/muo-on-legion.jpg)
+### Lenovo Legion GO
+![MUO site on Lenovo Legion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/muo-on-legion.jpg)
 
  Image Credit: Justin Duino /[MakeUseOf](http://www.makeuseof.com)
 
@@ -56,7 +57,8 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 
  The Lenovo Legion GO is scheduled to launch on October 31, 2023, for $799.
 
-### Lenovo Legion Glasses ![legion-glasses-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-glasses-1.jpg)
+### Lenovo Legion Glasses
+![legion-glasses-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-glasses-1.jpg)
 
  Image Credit: Justin Duino /[MakeUseOf](http://www.makeuseof.com)
 
@@ -82,7 +84,8 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 
  The rebranded Lenovo Legion Glasses will be available sometime in October 2023 for $329.
 
-### Lenovo Legion 9i ![legion-9i-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-9i-2.jpg)
+### Lenovo Legion 9i
+![legion-9i-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-9i-2.jpg)
 
  Image Credit: Justin Duino /[MakeUseOf](http://www.makeuseof.com)
 
@@ -106,7 +109,8 @@ The Legion 9i features a:
 
 The Lenovo Legion 9i will be available starting October 2023.
 
-## MSI GAMING SLIM Series Graphics Cards ![msi 4070 slimline gpu on msi stand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/msi-4070-slimline-gpu-on-msi-stand.jpg)
+## MSI GAMING SLIM Series Graphics Cards
+![msi 4070 slimline gpu on msi stand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/msi-4070-slimline-gpu-on-msi-stand.jpg)
 
  Image Credit: Gavin Phillips/MakeUseOf
 
@@ -120,7 +124,8 @@ The Lenovo Legion 9i will be available starting October 2023.
 
  MSI's GAMING SLIM version of its GeForce RTX 40 series graphics cards will be released sometime later this year.
 
-## Tecno MegaMini Watercooled Mini PC ![The MegaMini Gaming G1 watercooled mini PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/megamini-gaming-g1.jpg)
+## Tecno MegaMini Watercooled Mini PC
+![The MegaMini Gaming G1 watercooled mini PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/megamini-gaming-g1.jpg)
 
  Image Credit: Paul Antill/[MakeUseOf](http://www.makeuseof.com)
 
@@ -157,3 +162,45 @@ No word on the price or release date yet, but color us intrigued.
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/squeeze-life-out-of-your-games-retro-iso-reduction-with-chdman/"><u>Squeeze Life Out of Your Games: Retro ISO Reduction with CHDMAN</u></a></li>
+<li><a href="https://games-able.techidaily.com/stay-alert-parenting-in-the-era-of-virtual-connectivity/"><u>Stay Alert! Parenting in the Era of Virtual Connectivity</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-ultimate-top-tier-nintendo-switch-docks-in-2e2024/"><u>Unveiling the Ultimate: Top-Tier Nintendo Switch Docks in 2E2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-become-a-videographer-essentials-of-recording-with-logitech-for-2024/"><u>[New] Become a Videographer  Essentials of Recording with Logitech for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-hidden-secrets-for-advanced-win10-users/"><u>In 2024, Unveiling Hidden Secrets for Advanced Win10 Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-integration-xbox-games-in-discord-networks/"><u>Seamless Integration: Xbox Games in Discord Networks</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-gaming-device-razers-hot-swappable-keyboard/"><u>The Ultimate Gaming Device: Razer's Hot-Swappable Keyboard</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-audio-mastery-in-logic-pro-x-creating-fluidity/"><u>[New] Audio Mastery in Logic Pro X  Creating Fluidity</u></a></li>
+<li><a href="https://games-able.techidaily.com/subtle-steam-title-concealment/"><u>Subtle Steam Title Concealment</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-high-fidelity-recordings-leading-10-software-choices/"><u>In 2024, High-Fidelity Recordings  Leading 10 Software Choices</u></a></li>
+<li><a href="https://games-able.techidaily.com/rethink-your-gaming-setup-6-good-arguments-against-hdr-displays/"><u>Rethink Your Gaming Setup - 6 Good Arguments Against HDR Displays</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-asus-rog-ally-dock-line-up-2024/"><u>Ultimate ASUS ROG Ally Dock Line-Up 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-steam-refund-process-a-step-by-step-guide/"><u>Unveiling the Steam Refund Process: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/discover-top-6-short-video-download-sites-free-for-2024/"><u>Discover Top 6 Short Video Download Sites (FREE) for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/psplus-vs-xbgplus-best-gaming-subscription-comparison/"><u>PS+ vs XBG+: Best Gaming Subscription Comparison</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-budget-friendly-pc-video-snippet-creators/"><u>[New] Budget-Friendly PC Video Snippet Creators</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-most-reliable-ios-gaming-tools-ranked-find-out-now/"><u>The Most Reliable iOS Gaming Tools Ranked: Find Out Now!</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-treasure-map-unlocking-scv-shiny-mysteries-76/"><u>The Ultimate Treasure Map: Unlocking SCV Shiny Mysteries (76)</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-turning-psp-into-gba-emulator/"><u>The Ultimate Guide to Turning PSP Into GBA Emulator</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-poco-f5-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Poco F5 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-sonys-games-for-free-with-psplus/"><u>Unlocking Sony's Games for Free with PS+</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-connectors-designed-for-playstation-5-devices/"><u>Ultimate Connectors: Designed for PlayStation 5 Devices</u></a></li>
+<li><a href="https://facebook.techidaily.com/unveiling-realities-seeing-the-whole-picture-in-fb-data-exposes/"><u>Unveiling Realities: Seeing the Whole Picture in FB Data Exposés</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gigglegraphy-laughter-in-a-frame/"><u>In 2024, GiggleGraphy  Laughter in a Frame</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-8-plus-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 8 Plus, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/sprintsecrets-the-fleeting-gameplay-fiesta/"><u>SprintSecrets: The Fleeting Gameplay Fiesta</u></a></li>
+<li><a href="https://games-able.techidaily.com/tackling-missing-elements-alert-in-windows/"><u>Tackling “Missing Elements” Alert in Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/reverting-card-invalid-status-in-sony-gaming-system/"><u>Reverting Card Invalid Status in Sony Gaming System</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-essential-tips-for-youtube-edits-with-sony-vegas-for-2024/"><u>[New] Essential Tips for YouTube Edits with Sony Vegas for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-energy-kits-for-hero5-official-and-alternative-products-for-2024/"><u>Ultimate Energy Kits for Hero5 - Official & Alternative Products for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-these-5-features-make-all-the-difference-in-high-end-mice/"><u>Why These 5 Features Make All the Difference in High-End Mice</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-guide-to-fan-translated-rom-patches/"><u>Step-by-Step Guide to Fan Translated Rom Patches</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-incorporating-b-footage-a-filmmakers-guide/"><u>2024 Approved  Incorporating B-Footage  A Filmmaker's Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-11-gaming-marketplaces-for-game-enthusiasts-on-a-budget/"><u>Top 11 Gaming Marketplaces for Game Enthusiasts on a Budget</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-fight-like-a-warrior-5-intense-martial-arts-rpgs/"><u>[New] Fight Like a Warrior  5 Intense Martial Arts RPGs</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-4-ios-superior-game-boy-advance-emulators/"><u>Top 4 iOS: Superior Game Boy Advance Emulators!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/iconic-stop-motion-creations-15-greatest-of-all-time/"><u>Iconic Stop-Motion Creations - #15 Greatest of All Time</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mobile-magic-unleashed-funimate-pro-apk-exploration/"><u>Mobile Magic Unleashed  Funimate Pro APK Exploration</u></a></li>
+</ul></div>

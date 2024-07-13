@@ -1,7 +1,7 @@
 ---
 title: "Valve Breaks Inertia: Revamps Shared Gaming on Steam"
-date: 2024-06-25T13:02:34.745Z
-updated: 2024-06-26T13:02:34.745Z
+date: 2024-07-12T03:36:03.598Z
+updated: 2024-07-13T03:36:03.598Z
 tags:
   - games
 categories:
@@ -48,7 +48,8 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
 
  These changes allow you to truly have a parental system for Steam, much like a [kid's account for Netflix](https://www.makeuseof.com/how-to-create-netflix-kids-profile/) or YouTube.
 
-## How to Enter the Steam Families Beta ![How to enter Steam Families Beta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/how-to-enter-steam-families-beta.JPG)
+## How to Enter the Steam Families Beta
+![How to enter Steam Families Beta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/how-to-enter-steam-families-beta.JPG)
 
  If you want to try out the new hub for yourself, you need to enter the Steam Families beta. To do this, open Steam and head to**Settings > Interface > Client Beta Participation** , then choose**Steam Families Beta** in the dropdown menu.
 
@@ -97,3 +98,54 @@ Some of the drawbacks of the feature include:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/compactbudget-screen-gamechanger-led/"><u>CompactBudget Screen - GameChanger LED</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-final-cut-pro-for-free-your-90-day-trial-awaits/"><u>New 2024 Approved Final Cut Pro for Free Your 90-Day Trial Awaits</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-video-sharing-triad-vimeo-vs-youtube-and-dailymotion-showdown/"><u>In 2024, The Video Sharing Triad  Vimeo vs YouTube & Dailymotion Showdown</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovation-leaders-makeuseof-and-mwc-2024-honors/"><u>Innovation Leaders: MakeUseOf & MWC 2024 Honors</u></a></li>
+<li><a href="https://games-able.techidaily.com/thinking-about-ps5-consider-these-flaws/"><u>Thinking About PS5? Consider These Flaws</u></a></li>
+<li><a href="https://games-able.techidaily.com/activating-full-gaming-potential-ps5s-assist-controller/"><u>Activating Full Gaming Potential: PS5's Assist Controller</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-anti-haze-vision-accessories/"><u>Top Anti-Haze Vision Accessories</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-javas-game-world-what-catches-our-eye/"><u>Exploring Java's Game World: What Catches Our Eye</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-with-these-strategies-to-improve-ps4/"><u>Game On with These Strategies to Improve PS4</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-10-pc-games-in-google-play-games-beta-tests/"><u>Top 10 PC Games in Google Play Games Beta Tests</u></a></li>
+<li><a href="https://games-able.techidaily.com/makeuseof-awards-mwc-innovation-highlights/"><u>MakeUseOf Awards: MWC Innovation Highlights</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-steam-deck-storage-switcheroo/"><u>Mastering the Art of Steam Deck Storage Switcheroo</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-the-power-of-corsairs-icue-link-and-upgrade-impact/"><u>Explore the Power of Corsair's iCUE Link and Upgrade Impact</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-infinix-note-30-pro-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Infinix Note 30 Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-lost-web-browser-of-ps5/"><u>The Lost Web Browser of PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/breaking-down-walls-universal-access-in-gaming/"><u>Breaking Down Walls: Universal Access in Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/easy-ways-to-reset-and-reload-steam/"><u>Easy Ways to Reset and Reload Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-you-need-to-know-about-the-new-ps5-slim-model/"><u>What You Need to Know About the New PS5 Slim Model</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-crafting-compelling-content-strategies-for-snapbiz/"><u>In 2024, Crafting Compelling Content  Strategies for SnapBiz</u></a></li>
+<li><a href="https://games-able.techidaily.com/invisible-steam-games-cache/"><u>Invisible Steam Games Cache</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-hidden-pleasures-in-playstation-5/"><u>Unleashing Hidden Pleasures in PlayStation 5</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/how-to-use-emojis-on-windows/"><u>How to Use Emojis on Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-price-of-playing-free-to-play-switch-gems/"><u>The Price of Playing: Free-to-Play Switch Gems</u></a></li>
+<li><a href="https://games-able.techidaily.com/tips-for-private-discussions-with-friends-on-xbox/"><u>Tips for Private Discussions with Friends on Xbox</u></a></li>
+<li><a href="https://games-able.techidaily.com/steering-through-new-york-times-connections/"><u>Steering Through New York Times Connections</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/delving-into-the-digital-depot-of-discarded-art/"><u>Delving Into the Digital Depot of Discarded Art</u></a></li>
+<li><a href="https://games-able.techidaily.com/crossover-techniques-for-windows-gaming-on-arm-apple-silicon/"><u>CrossOver Techniques for Windows Gaming on ARM Apple Silicon</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-game-industry-influence-the-new-age-of-artificial-intelligence/"><u>Steam’s Game Industry Influence: The New Age of Artificial Intelligence</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-discoveries-top-8-for-gamer-news-outlets/"><u>Essential Discoveries: Top 8 for Gamer News Outlets</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-and-correcting-robloxs-error-403-on-windows-systems/"><u>Understanding and Correcting Roblox's Error 403 on Windows Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-modern-parents-toolkit-for-securing-online-kids/"><u>The Modern Parent’s Toolkit for Securing Online Kids</u></a></li>
+<li><a href="https://games-able.techidaily.com/enjoy-the-best-of-both-worlds-nintendo-and-mac/"><u>Enjoy the Best of Both Worlds: Nintendo & Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/customization-for-a-fresh-ps5-vibe/"><u>Customization for a Fresh PS5 Vibe</u></a></li>
+<li><a href="https://games-able.techidaily.com/continuing-the-legacy-discover-fallout-gaming-lineup/"><u>Continuing the Legacy: Discover Fallout Gaming Lineup</u></a></li>
+<li><a href="https://games-able.techidaily.com/guiding-yourself-past-low-memory-warnings-in-roblox-ios/"><u>Guiding Yourself Past Low-Memory Warnings in Roblox iOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/detailed-review-beyerdynamic-mmx-200-sound-performance/"><u>Detailed Review: Beyerdynamic MMX 200 Sound Performance</u></a></li>
+<li><a href="https://extra-information.techidaily.com/key-10-plug-ins-for-elevating-your-fcp-workflow/"><u>Key 10 Plug-Ins for Elevating Your FCP Workflow</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-samsung-galaxy-m54-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Samsung Galaxy M54 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-realme-c67-4g-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Realme C67 4G Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://games-able.techidaily.com/fresh-start-with-new-installations-on-ps5/"><u>Fresh Start with New Installations on PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-servers-are-fleeting-but-should-you-care/"><u>Game Servers Are Fleeting, but Should You Care?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pc-transfer-protocols-effective-five-ways-to-send-your-files/"><u>[New] PC Transfer Protocols  Effective Five Ways to Send Your Files</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-mode-functionality-and-benefits-for-mac-users-on-sonoma-os-by-apple/"><u>Game Mode Functionality and Benefits for Mac Users on Sonoma OS by Apple</u></a></li>
+<li><a href="https://games-able.techidaily.com/stealthy-storage-of-virtual-games/"><u>Stealthy Storage of Virtual Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-performance-gaming-from-logitech-mice/"><u>Ultimate Performance Gaming From Logitech Mice</u></a></li>
+<li><a href="https://games-able.techidaily.com/econopcs-meet-gaming-budget-board-guide/"><u>EconoPCs Meet Gaming: Budget Board Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/unlocking-professional-filming-on-windows-macos-ios/"><u>Unlocking Professional Filming on Windows, macOS, iOS</u></a></li>
+</ul></div>

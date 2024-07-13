@@ -1,7 +1,7 @@
 ---
 title: "In-Browser Blitzkrieg: A Ranked List of Top Online Shooter Games"
-date: 2024-06-25T12:55:42.586Z
-updated: 2024-06-26T12:55:42.586Z
+date: 2024-07-12T03:28:16.377Z
+updated: 2024-07-13T03:28:16.377Z
 tags:
   - games
 categories:
@@ -18,49 +18,57 @@ thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980
 
  Unfortunately, a lot of the best FPS browser games have been discontinued. This leaves us with indie FPS games that are playable but tend to come with standard indie game problems. In this article, we list the best FPS browser games you can play directly on the web right now.
 
-## 1. Rush Team ![The player standing in front of a crate on Rush Team](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2017/03/browser-shooter-rush-team.png)
+## 1. Rush Team
+![The player standing in front of a crate on Rush Team](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2017/03/browser-shooter-rush-team.png)
 
  Rush Team is the game you play if you want a traditional, bare-bones shooter experience. Don't come into this one expecting flashy effects, innovative gameplay, or anything else that's anywhere near industry-changing. An FPS packed with competitiveness and combat, it's one of the [best tactical shooters you need to play](https://www.makeuseof.com/tag/5-highly-tactical-shooters-that-are-worth-your-time/) even if it's "only" a browser game.
 
  You'll find the usual gameplay elements: melee weapons, pistols, rifles, grenades, etc. A**Free For All** mode is available, but Rush Team becomes even better when played in one of its team-based, objective-focused modes. Some cosmetic and gameplay features are only available to VIPs, but you'll be fine without them.
 
-## 2. Warmerise: Red vs. Blue ![The player standing in front of caravans on the browser FPS Warmerise](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2017/03/browser-shooter-warmerise.png)
+## 2. Warmerise: Red vs. Blue
+![The player standing in front of caravans on the browser FPS Warmerise](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2017/03/browser-shooter-warmerise.png)
 
  Warmerise: Red vs. Blue looks closer in aesthetics to 90s-era shooters like Quake and the original Counter-Strike, but it's balanced out by its gameplay and player activity. Mainly featuring elimination-based game modes, it has vehicular combat that makes it unique.
 
  In terms of the player base, Warmerise: Red vs. Blue is one of the healthiest FPS browser-based games. Matches are easy to find even during off-peak hours in the U.S. All in all, if you can get over the outdated graphics, this is a solid choice for a browser shooter.
 
-## 3. Wolfenstein 3D ![The player standing in front of a locked door on the browser FPS Wolfenstein 3D](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2017/03/browser-shooter-wolfenstein-3d.png)
+## 3. Wolfenstein 3D
+![The player standing in front of a locked door on the browser FPS Wolfenstein 3D](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2017/03/browser-shooter-wolfenstein-3d.png)
 
  Often called the grandfather of modern 3D shooters, Wolfenstein 3D is a monumental classic that all FPS fans need to play at some point. You play as an Allied spy who fights his way through Castle Wolfenstein, slaughtering Nazis and tracking down the Fuhrer himself for a final showdown. Despite the simplistic gameplay, it's surprisingly fun and features charming old-school graphics.
 
  The developers originally released the game for MS-DOS. However, Wolfenstein 3D is now available online for free and is considered one of the best retro browser shooter games. It is also worth noting that [you can play old DOS games on your Mac](https://www.makeuseof.com/tag/5-ways-play-old-windows-dos-games-mac/) , so you may find the original version out there.
 
-## 4. Superhot ![The player shooting at an enemy in the browser FPS Superhot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/07/superhot-browser-fps.jpg)
+## 4. Superhot
+![The player shooting at an enemy in the browser FPS Superhot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/07/superhot-browser-fps.jpg)
 
  You can play Superhot on your PC, Xbox One, or PS4, but it's much easier to play the prototype from your browser. The prototype is the perfect way to try out the game in case you want to buy it, eventually. This FPS is unlike any other on this list—instead of the events around you happening in real-time, time only passes when you move, adding a tactical shooter game element to it.
 
  You can use this to your advantage to dodge bullets and to buy some time to pick up a weapon. Your enemies come in the form of red people who shatter into pieces when you hit or shoot them. The browser-based version of Superhot doesn't come with as many levels as the full game, but it's still just as enjoyable.
 
-## 5. Krunker ![The player standing on a rooftop in the browser FPS Krunker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/07/krunker-browser-fps.jpg)
+## 5. Krunker
+![The player standing on a rooftop in the browser FPS Krunker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/07/krunker-browser-fps.jpg)
 
  No matter how powerful of a computer you have, you can run Krunker. Which is what makes it such a great browser shooter. It uses Minecraft-like graphics that allow it to run on any type of computer (even ancient ones). You assume the role of a soldier who's tasked with killing their enemies.
 
  Krunker has 10 game modes you can choose from. One of the most popular modes includes**Free For All** , where the game pits you against other players, and the player with the most kills wins. You can also choose from several character classes, including a bullet-crazed**Triggerman** , a marksman**Hunter** , and a revolver-wielding**Detective** .
 
-## 6. War Brokers ![The player standing in front of a Stop sign on the browser FPS War Brokers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/07/war-brokers-browser-fps.jpg)
+## 6. War Brokers
+![The player standing in front of a Stop sign on the browser FPS War Brokers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/07/war-brokers-browser-fps.jpg)
 
  War Brokers also uses blocky graphics, similar to Krunker. You can customize your character by editing your appearance and choosing your weapons. War Brokers offers plenty of variety when it comes to weapons—decide between a rifle, sniper, homing missile, mini-gun, and more. All of these options (including the chance to drive vehicles) make War Brokers one of the best browser FPS games you can play right now.
 
  The game currently has two game modes:**Classic** and**Battle** **Royale** . Its**Classic** version comes with several game modes, including**Team Deathmatch** and**Vehicle Escort** , among others. If you're a competitive PvP gamer you'll feel right at home with this browser-based FPS.
 
-## 7. Venge ![A player vs player gunfight in the browser based FPS Venge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/venge-gunfight-browser-shooter.jpg)
+## 7. Venge
+![A player vs player gunfight in the browser based FPS Venge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/venge-gunfight-browser-shooter.jpg)
 
  Venge is a much more comprehensive browser-based FPS game, incorporating abilities and class-based systems while prioritizing two versus two matchmaking which guarantees you won't have to wait around too long for a game.
 
  Venge has a leveling system that you can use to upgrade one of your characters' abilities, adding further offensive powers to your game. To say that it doesn't even require a download, Venge certainly offers a lot of content with mechanics that feel smooth and easy to play every session.
 
-## 8. Global Strike ![The player standing in front of mutated enemies on the browser FPS Global Strike](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/07/global-strike-browser-fps.jpg)
+## 8. Global Strike
+![The player standing in front of mutated enemies on the browser FPS Global Strike](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/07/global-strike-browser-fps.jpg)
 
  We know this FPS browser game for its fast-paced, highly-competitive multiplayer action. This is not the game to play if you want to [stop getting motion sickness when playing video games](https://www.makeuseof.com/tag/motion-sickness-playing-video-games/) , as you have to have eyes in the back of your head on the game to be successful. Global Strike features several modes that keep the game from getting boring, for example,**Team Deathmatch** and**Mutation** .
 
@@ -68,13 +76,15 @@ thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980
 
  This gives them a tremendous advantage over other players, and can definitely put a damper on the gameplay. It is also worth mentioning that there is a huge skill gap, in part because of the dedication of Global Strike's community, so don't be discouraged if you're struggling in the early game.
 
-## 9. Kirka ![The Kirka home screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/kirka-home-screen.jpg)
+## 9. Kirka
+![The Kirka home screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/kirka-home-screen.jpg)
 
  Kirka is a fast-paced browser FPS game with a Minecraft art style. There are plenty of weapons for you to choose from as you battle it out with other players around the world. The high jumping mechanic as well as the dash mechanic ensures really fast gunfights and a learning curve.
 
  Don't be discouraged if you find that you struggle in your first few games. When you're more familiar with the mechanics, you'll find that you begin placing higher on the leaderboards. The game even offers different Quests to complete for in-game rewards, offering a continued experience you can play from any browser rather than a once-and-done type of game
 
-## 10. 1v1.LOL ![The homescreen of browser FPS game 1v1LOL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/1v1lol-home-screen.jpg)
+## 10. 1v1.LOL
+![The homescreen of browser FPS game 1v1LOL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/1v1lol-home-screen.jpg)
 
  1v1.LOL is a building sim, battle royale, and one of the best FPS browser games online, ideal if you're a fan of Fortnite but can't run it on your current device. You'll find fast, responsive gameplay across a sizable map as you fight dozens of players from across the world.
 
@@ -103,3 +113,44 @@ thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/budget-gaming-aesthetics-and-function/"><u>Budget Gaming: Aesthetics and Function</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-debating-digital-communication-who-wins-discord-or-skype-for-2024/"><u>[New] Debating Digital Communication  Who Wins, Discord or Skype for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-snort-spree-twitters-funniest-humor-chronicles/"><u>[New] 2024 Approved  Snort Spree  Twitter’s Funniest Humor Chronicles</u></a></li>
+<li><a href="https://games-able.techidaily.com/guarantee-secure-xbox-series-x-linking/"><u>Guarantee Secure Xbox Series X Linking</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-pass-the-next-chapter-for-xbox-live-gold-users/"><u>Game Pass: The Next Chapter for Xbox Live Gold Users</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-discover-the-secret-to-seamless-music-conversion-a-must-read-article/"><u>New 2024 Approved Discover the Secret to Seamless Music Conversion A Must-Read Article</u></a></li>
+<li><a href="https://games-able.techidaily.com/easy-steps-to-enjoy-games-anywhere-anytime/"><u>Easy Steps to Enjoy Games Anywhere, Anytime</u></a></li>
+<li><a href="https://games-able.techidaily.com/advances-in-imaging-techniques-for-monitoring-neurocannabinoid-dynamics-in-real-time/"><u>Advances in Imaging Techniques for Monitoring Neurocannabinoid Dynamics in Real-Time</u></a></li>
+<li><a href="https://games-able.techidaily.com/boost-your-gaming-pleasure-learn-5-mac-optimizations/"><u>Boost Your Gaming Pleasure - Learn 5 Mac Optimizations</u></a></li>
+<li><a href="https://games-able.techidaily.com/499-for-expertise-start-with-moza-r5-bundle-review/"><u>$499 for Expertise Start with MOZA R5 Bundle Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/ai-chips-that-will-shape-our-future-at-computex-2024/"><u>AI Chips That Will Shape Our Future at Computex 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/disappear-your-xbox-noise-quickly/"><u>Disappear Your Xbox Noise Quickly</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-performance-nvidias-founder-vs-asus-branded-vega/"><u>Evaluating Performance: Nvidia's Founder VS Asus-Branded Vega</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-poco-x6-pro-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Poco X6 Pro Phones with/without a PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoid-data-disruptions-with-steam-image-backups/"><u>Avoid Data Disruptions with Steam Image Backups</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-9-critical-steps-to-double-down-on-your-tiktok-clans-growth/"><u>In 2024, 9 Critical Steps to Double Down on Your TikTok Clan's Growth</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-exploring-leading-apps-to-purify-recordings-from-distractive-noises/"><u>New In 2024, Exploring Leading Apps to Purify Recordings From Distractive Noises</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/high-res-webcam-videos-in-minutes-a-step-guide-for-2024/"><u>High-Res Webcam Videos in Minutes  A Step Guide for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719168463782-the-ultimate-arcade-upgrade-wide-front-panels/"><u>The Ultimate Arcade Upgrade: Wide Front Panels!</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-simple-steps-to-extend-switchs-service-life/"><u>5 Simple Steps to Extend Switch's Service Life</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hp-envy-27-4k-usb-c-monitor-review/"><u>2024 Approved  HP Envy 27 4K USB-C Monitor Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/galaxy-forger-unveiling-top-gaming-pcs/"><u>Galaxy Forger: Unveiling Top Gaming PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/choosing-your-ideal-elgato-stream-deck/"><u>Choosing Your Ideal Elgato Stream Deck</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-passive-watchers-to-profit-youtube-monetization/"><u>[Updated] 2024 Approved  From Passive Watchers To Profit  YouTube Monetization</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-development-winner-directx-11-or-12/"><u>Game Development Winner: DirectX 11 or 12?</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-reigns-supreme-msi-raider-ge78-hx-reviewed/"><u>Gaming Reigns Supreme: MSI Raider GE78 HX Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/block-party-top-5-multiplayer-methods-with-friends-in-mc/"><u>Block Party: Top 5 Multiplayer Methods with Friends in MC</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-5-most-inspiring-tiktok-stars/"><u>[Updated] 2024 Approved  5 Most Inspiring TikTok Stars</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-add-a-touch-of-vintage-best-apps-for-applying-vhs-effects-to-your-videos-for-2024/"><u>Updated Add a Touch of Vintage Best Apps for Applying VHS Effects to Your Videos for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-achieving-pure-sound-filtering-out-auditory-interference/"><u>[New] Achieving Pure Sound  Filtering Out Auditory Interference</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/illustration-enthusiasts-dream-best-free-tools-for-mac-for-2024/"><u>Illustration Enthusiasts' Dream - Best FREE Tools for Mac for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/desk-dwelling-gamers-delight/"><u>Desk Dwelling: Gamers’ Delight</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-reasons-why-mobile-gaming-actually-sucks/"><u>7 Reasons Why Mobile Gaming Actually Sucks</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-change-steams-default-language/"><u>How to Change Steam’s Default Language</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-the-complete-playbook-for-broadcasting-spherical-content-on-youtube/"><u>[New] 2024 Approved  The Complete Playbook for Broadcasting Spherical Content on Youtube</u></a></li>
+<li><a href="https://games-able.techidaily.com/budget-gaming-winner-innocn-39g1-r/"><u>Budget Gaming Winner: InnoCN 39G1 R</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-capturing-slide-decks-via-webcam-a-step-by-step-guide/"><u>[Updated] Capturing Slide Decks via Webcam  A Step-by-Step Guide</u></a></li>
+</ul></div>

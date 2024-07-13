@@ -1,7 +1,7 @@
 ---
 title: Tackling Intermittent Mouse Scroll Glitches
-date: 2024-06-25T13:22:21.691Z
-updated: 2024-06-26T13:22:21.691Z
+date: 2024-07-12T03:58:23.077Z
+updated: 2024-07-13T03:58:23.077Z
 tags:
   - games
 categories:
@@ -46,7 +46,8 @@ thumbnail: https://thmb.techidaily.com/dab2ef0415897bd2885169e6ea9bd44d0885cdc86
 
  Here's a step-by-step guide for how to stop your mouse scroll wheel from jumping up and down.
 
-## Step 1: Disassemble the Mouse Casing ![Person Unmounting the Screws to Disassemble the Mouse Casing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/1-Person-Unmounting-the-Screws-to-Disassemble-the-Mouse-Casing.jpg)
+## Step 1: Disassemble the Mouse Casing
+![Person Unmounting the Screws to Disassemble the Mouse Casing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/1-Person-Unmounting-the-Screws-to-Disassemble-the-Mouse-Casing.jpg)
 
  Image Credit: TechClub/[YouTube](https://www.youtube.com/watch?v=%5FWBHLISDp80)
 
@@ -64,13 +65,15 @@ thumbnail: https://thmb.techidaily.com/dab2ef0415897bd2885169e6ea9bd44d0885cdc86
 
  Even though removing your mouse's circuit from the lower panel is unnecessary, if you want to do that, make sure there are no screws attached. If there are any, remove them and take the circuit off the bottom panel of your mouse. Alternatively, you can unmount the scroll wheel directly without unmounting the circuit.
 
-## Step 3: Unmount the Scroll Wheel ![Person Unmounting the Scroll Wheel From Mouse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/4-Person-Unmounting-the-Scroll-Wheel-From-Mouse.jpg)
+## Step 3: Unmount the Scroll Wheel
+![Person Unmounting the Scroll Wheel From Mouse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/4-Person-Unmounting-the-Scroll-Wheel-From-Mouse.jpg)
 
  Image Credit: TechClub/[YouTube](https://www.youtube.com/watch?v=%5FWBHLISDp80)
 
  Unplug the encoder attached to the scroll wheel from the main board before unmounting the scroll wheel. Then, unplug any other connections, unscrew any screws, and take out the scroll wheel. After you have unmounted the scroll wheel, remove the encoder and proceed to the next step: fix the encoder.
 
-## Step 4: Fix the Encoder Assembly ![Person Showing the Mouse Encoder Assembly](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/5-Person-Showing-the-Mouse-Encoder-Assembly.jpg)
+## Step 4: Fix the Encoder Assembly
+![Person Showing the Mouse Encoder Assembly](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/5-Person-Showing-the-Mouse-Encoder-Assembly.jpg)
 
  Image Credit: TechClub/[YouTube](https://www.youtube.com/watch?v=%5FWBHLISDp80)
 
@@ -89,7 +92,8 @@ thumbnail: https://thmb.techidaily.com/dab2ef0415897bd2885169e6ea9bd44d0885cdc86
 
  If the issue persists, there might be a problem with the scroll wheel hub. So, fixing the encoder coil spring assembly may not help.
 
-## Step 5: Wrap a Small Piece of Paper Around the Scroll Wheel Hub ![Man Holding a Small Piece of Paper to Fit in the Mouse Scroll Wheel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/7-Man-Holding-a-Small-Piece-of-Paper-to-Fit-in-the-Mouse-Scroll-Wheel.jpg)
+## Step 5: Wrap a Small Piece of Paper Around the Scroll Wheel Hub
+![Man Holding a Small Piece of Paper to Fit in the Mouse Scroll Wheel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/7-Man-Holding-a-Small-Piece-of-Paper-to-Fit-in-the-Mouse-Scroll-Wheel.jpg)
 
  Image Credit: Orkhan Aliyev/[YouTube](https://www.youtube.com/watch?v=%5FJwUUjLzAMY)
 
@@ -134,3 +138,48 @@ thumbnail: https://thmb.techidaily.com/dab2ef0415897bd2885169e6ea9bd44d0885cdc86
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/addressing-misconduct-on-series-xs-gaming-console/"><u>Addressing Misconduct on Series X/S Gaming Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/access-advantages-analysis-xbox-game-pass-vs-psplus-essential-comparison/"><u>Access Advantages Analysis: Xbox Game Pass Vs. PS+ Essential Comparison</u></a></li>
+<li><a href="https://games-able.techidaily.com/adapting-android-for-a-linux-user-environment/"><u>Adapting Android for a Linux User Environment</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-transforming-ordinary-moments-into-viral-instagram-reels-for-2024/"><u>[New] Transforming Ordinary Moments Into Viral Instagram Reels for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719170858411-top-10-ps-summer-discount-extravaganza/"><u>Top 10 PS Summer Discount Extravaganza!</u></a></li>
+<li><a href="https://games-able.techidaily.com/489plus-innocn-39g1-r-top-refresh-tech/"><u>$489+ InnoCN 39G1 R: Top Refresh Tech</u></a></li>
+<li><a href="https://games-able.techidaily.com/accessing-steam-games-from-mobile-iphone-and-android-steam-link-methods/"><u>Accessing Steam Games From Mobile: IPhone & Android Steam Link Methods</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-2024-approved-top-8-tools-tell-you-how-to-make-slideshows-for-instagram/"><u>Updated 2024 Approved Top 8 Tools Tell You How to Make Slideshows for Instagram</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-quick-guide-to-palworlds-core/"><u>A Quick Guide to PalWorld's Core</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-file-imports-into-windows-11-with-ease/"><u>In 2024, Mastering File Imports Into Windows 11 with Ease</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-reasons-why-you-should-ignore-ray-tracing-in-video-games/"><u>7 Reasons Why You Should Ignore Ray Tracing in Video Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719173432882-compact-mini-led-screen-best-value-deal/"><u>Compact Mini-LED Screen: Best Value Deal</u></a></li>
+<li><a href="https://games-able.techidaily.com/access-your-game-desires-with-ps-store-credits/"><u>Access Your Game Desires with PS Store Credits</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-expired-card-issues-on-sony-console/"><u>Addressing Expired Card Issues on Sony Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-comprehensible-guide-for-itchios-great-gaming-finds/"><u>A Comprehensible Guide for Itch.io’s Great Gaming Finds</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/mend-error-non-playing-vids-in-chrome/"><u>Mend Error  Non-Playing Vids in Chrome</u></a></li>
+<li><a href="https://games-able.techidaily.com/9-settings-that-every-nintendo-switch-owner-should-use/"><u>9 Settings That Every Nintendo Switch Owner Should Use</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719167966376-master-all-6-ps5-startup-techniques-now/"><u>Master All 6 Ps5 Startup Techniques Now!</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-realme-c33-2023-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Realme C33 2023? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719167760189-baldurs-gate-3-download-path-unveiled/"><u>Baldur's Gate 3: Download Path Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/6-ways-to-use-your-ps5-without-a-controller/"><u>6 Ways to Use Your PS5 Without a Controller</u></a></li>
+<li><a href="https://games-able.techidaily.com/6-ways-to-make-chatgpt-your-perfect-dungeon-master-assistant/"><u>6 Ways to Make ChatGPT Your Perfect Dungeon Master Assistant</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719173038183-top-7-iosandroid-sports-games-unmatched-excitement/"><u>Top 7 iOS/Android Sports Games: Unmatched Excitement</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719170473879-master-the-gbc-games-4-ioss-best-emulators/"><u>Master the GBC Games: 4 iOS's Best Emulators!</u></a></li>
+<li><a href="https://games-able.techidaily.com/adapting-sonys-console-to-pc-gaming-with-ease/"><u>Adapting Sony's Console to PC Gaming with Ease</u></a></li>
+<li><a href="https://games-able.techidaily.com/access-google-play-games-your-pc-edition-journey/"><u>Access Google Play Games: Your PC Edition Journey</u></a></li>
+<li><a href="https://games-able.techidaily.com/9-strategies-to-tackle-windows-steam-folder-access/"><u>9 Strategies to Tackle Windows Steam Folder Access</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719169659919-step-up-your-game-with-these-unique-chatgpt-titles/"><u>Step Up Your Game With These Unique ChatGPT Titles</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-note-30-phone-without-pin-by-drfone-android/"><u>How to Unlock Infinix Note 30 Phone without PIN</u></a></li>
+<li><a href="https://games-able.techidaily.com/accelerating-data-transmission-understanding-and-reducing-extended-response-times/"><u>Accelerating Data Transmission: Understanding and Reducing Extended Response Times</u></a></li>
+<li><a href="https://games-able.techidaily.com/abolish-your-subscription-commitments-in-steam/"><u>Abolish Your Subscription Commitments in Steam</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Motorola Moto G04? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-the-art-of-channel-creation-on-youtube/"><u>[Updated] Mastering the Art of Channel Creation on YouTube</u></a></li>
+<li><a href="https://games-able.techidaily.com/ace-the-strategy-acquire-spiderman-2-early-edition-ps5/"><u>Ace the Strategy: Acquire SPIDERMAN 2 Early Edition PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-step-by-step-approach-to-subscribing-and-enjoying-ea-play-on-ps5/"><u>A Step-by-Step Approach to Subscribing & Enjoying EA Play on PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-must-play-ps5-games-from-ea-play/"><u>7 Must-Play PS5 Games From EA Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/3-insider-tips-for-cost-effective-xbox-series-owners/"><u>3 Insider Tips for Cost-Effective Xbox Series Owners</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719171067592-amplify-your-game-space-go-for-giant-arcade-panels/"><u>Amplify Your Game Space - Go for Giant Arcade Panels</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/evaluating-the-impact-of-reduced-shake-on-photoshop-usability/"><u>Evaluating the Impact of Reduced Shake on Photoshop Usability</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719171491789-enhancing-ipadiphone-experience-top-4-gba-emulators/"><u>Enhancing iPad/iPhone Experience: Top 4 GBA Emulators</u></a></li>
+</ul></div>

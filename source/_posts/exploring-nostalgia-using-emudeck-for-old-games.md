@@ -1,7 +1,7 @@
 ---
 title: "Exploring Nostalgia: Using EmuDeck for Old Games"
-date: 2024-06-25T12:48:35.566Z
-updated: 2024-06-26T12:48:35.566Z
+date: 2024-07-12T03:07:38.890Z
+updated: 2024-07-13T03:07:38.890Z
 tags:
   - games
 categories:
@@ -47,7 +47,8 @@ thumbnail: https://thmb.techidaily.com/485fa639637af95e40bb39955015be2d5660936e6
 
  To get started, switch to Desktop Mode by holding the power button down and selecting**Switch to Desktop.**
 
-### 1\. Install and Set Up EmuDeck ![screenshot of the emudeck install package on the steam deck desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emudeck_install_package_on_desktop.jpg)
+### 1\. Install and Set Up EmuDeck
+![screenshot of the emudeck install package on the steam deck desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emudeck_install_package_on_desktop.jpg)
 
  Once you've switched to Desktop Mode, you'll need to head to the [EmuDeck website](https://www.emudeck.com) and download the install package. Make sure you do this on your actual Steam Deck, unless you're willing to copy it over from another device.
 
@@ -89,7 +90,8 @@ We'll choose easy mode, as it's the most straightforward.
 
  With that, you have everything you need to get the emulation going. There's still one more step to completing the Steam Deck emulation experience, though.
 
-### 3\. Add Emulators to Your Steam Deck's Gaming Mode ![screenshot of emulator categories on the steam deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emulators_on_steam_deck.jpg)
+### 3\. Add Emulators to Your Steam Deck's Gaming Mode
+![screenshot of emulator categories on the steam deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emulators_on_steam_deck.jpg)
 
  So now you have a bunch of emulators installed. But you don't really want to launch into desktop mode every time you want to play them.
 
@@ -126,3 +128,72 @@ We'll choose easy mode, as it's the most straightforward.
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-se-2022-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone SE (2022) when Phone is Broken?</u></a></li>
+<li><a href="https://games-able.techidaily.com/easy-ways-to-reset-and-reload-steam/"><u>Easy Ways to Reset and Reload Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-reset-techniques-for-steam/"><u>Quick Reset Techniques for Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/crossover-techniques-for-windows-gaming-on-arm-apple-silicon/"><u>CrossOver Techniques for Windows Gaming on ARM Apple Silicon</u></a></li>
+<li><a href="https://games-able.techidaily.com/quickly-reactivate-steam-alternative-approaches/"><u>Quickly Reactivate Steam: Alternative Approaches</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-javas-game-world-what-catches-our-eye/"><u>Exploring Java's Game World: What Catches Our Eye</u></a></li>
+<li><a href="https://games-able.techidaily.com/enjoy-the-best-of-both-worlds-nintendo-and-mac/"><u>Enjoy the Best of Both Worlds: Nintendo & Mac</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-t2-pro-5g-by-fonelab-android-recover-data/"><u>How to recover lost data from T2 Pro 5G?</u></a></li>
+<li><a href="https://games-able.techidaily.com/simpliplay-portable-simple-classics-made-easy/"><u>SimpliPlay Portable: Simple Classics Made Easy</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-discoveries-top-8-for-gamer-news-outlets/"><u>Essential Discoveries: Top 8 for Gamer News Outlets</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-create-stunning-video-invites-for-free-top-online-makers/"><u>2024 Approved Create Stunning Video Invites for Free Top Online Makers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-safeguard-your-live-streams-on-periscope-for-2024/"><u>How To Safeguard Your Live Streams on Periscope for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-current-drone-functions-a-glimpse-into-future-possibilities/"><u>[New] Current Drone Functions  A Glimpse Into Future Possibilities</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-best-vsdc-video-editor-replacements-for-mac-users/"><u>Updated Best VSDC Video Editor Replacements for Mac Users</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-tecno-spark-10c-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Tecno Spark 10C Devices | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/breaking-down-walls-universal-access-in-gaming/"><u>Breaking Down Walls: Universal Access in Gaming</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rejuvenating-your-system-msi-driver-updates-in-older-windows-versions/"><u>Rejuvenating Your System: MSI Driver Updates in Older Windows Versions</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-servers-are-fleeting-but-should-you-care/"><u>Game Servers Are Fleeting, but Should You Care?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-motorola-moto-g84-5g-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Motorola Moto G84 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-14-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 14 Pro Max without Passcode or Face ID</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-the-power-of-corsairs-icue-link-and-upgrade-impact/"><u>Explore the Power of Corsair's iCUE Link and Upgrade Impact</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-evaluating-the-boundaries-of-hero5-sessions/"><u>2024 Approved  Evaluating the Boundaries of Hero5 Sessions</u></a></li>
+<li><a href="https://games-able.techidaily.com/compactbudget-screen-gamechanger-led/"><u>CompactBudget Screen - GameChanger LED</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-pioneering-programs-3d-animation-crafting/"><u>[New] Pioneering Programs  3D Animation Crafting</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-infinix-hot-30i-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Infinix Hot 30i to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mmx-200-review-superior-sounds-with-room-for-growth/"><u>MMX 200 Review: Superior Sounds with Room for Growth</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-android-beat-best-free-apps-for-downloading-youtube-tunes/"><u>[New] In 2024, Android Beat  Best Free Apps for Downloading YouTube Tunes</u></a></li>
+<li><a href="https://games-able.techidaily.com/fresh-start-with-new-installations-on-ps5/"><u>Fresh Start with New Installations on PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/noblepixel-display-smart-mini-led-budget/"><u>NoblePixel Display: Smart Mini-LED Budget</u></a></li>
+<li><a href="https://games-able.techidaily.com/makeuseof-awards-mwc-innovation-highlights/"><u>MakeUseOf Awards: MWC Innovation Highlights</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-soundless-screen-experience-a-walkthrough-to-remove-loud-elements-from-multiple-video-formats-mp4mkvavimov/"><u>2024 Approved Soundless Screen Experience A Walkthrough to Remove Loud Elements From Multiple Video Formats (MP4/MKV/AVI/MOV)</u></a></li>
+<li><a href="https://games-able.techidaily.com/continuing-the-legacy-discover-fallout-gaming-lineup/"><u>Continuing the Legacy: Discover Fallout Gaming Lineup</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-gems-discover-the-best-nintendo-switch-docks/"><u>Next-Gen Gems: Discover the Best Nintendo Switch Docks</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-sneak-peek-into-the-secret-of-silent-videos-in-windows-10-no-additional-software-for-2024/"><u>Updated Sneak Peek Into the Secret of Silent Videos in Windows 10 (No Additional Software) for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-selecting-the-right-audio-for-your-unboxing-projects-for-2024/"><u>[Updated] Selecting the Right Audio for Your Unboxing Projects for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-steam-deck-storage-switcheroo/"><u>Mastering the Art of Steam Deck Storage Switcheroo</u></a></li>
+<li><a href="https://games-able.techidaily.com/econopcs-meet-gaming-budget-board-guide/"><u>EconoPCs Meet Gaming: Budget Board Guide</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-videos-look-better-when-edited-professionally-if-youre-looking-to-edit-recorded-video-with-a-pro-level-editing-then-weve-got-you-covered-learn-about/"><u>In 2024, Videos Look Better when Edited Professionally. If Youre Looking to Edit Recorded Video with a Pro-Level Editing Then Weve Got You Covered. Learn About Editing Recorded Videos with the Best Toolkit Here</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-converting-vimeo-videos-to-mp3-format/"><u>[Updated] 2024 Approved  Converting Vimeo Videos to MP3 Format</u></a></li>
+<li><a href="https://games-able.techidaily.com/reviewing-razers-mechanical-marvel-blackwidow-v4/"><u>Reviewing Razer's Mechanical Marvel, BlackWidow V4</u></a></li>
+<li><a href="https://games-able.techidaily.com/scrutinizing-mechanical-keys-impact-on-gamer-experience/"><u>Scrutinizing Mechanical Keys' Impact on Gamer Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/detailed-review-beyerdynamic-mmx-200-sound-performance/"><u>Detailed Review: Beyerdynamic MMX 200 Sound Performance</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-affluent-streaming-stars-for-2024/"><u>[New] Affluent Streaming Stars for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-how-to-instantly-recover-lost-reddit-posts-for-2024/"><u>[New] How to Instantly Recover Lost Reddit Posts for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unveiling-how-content-makers-profit-from-shorter-videos-for-2024/"><u>Unveiling How Content Makers Profit From Shorter Videos for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/activating-full-gaming-potential-ps5s-assist-controller/"><u>Activating Full Gaming Potential: PS5's Assist Controller</u></a></li>
+<li><a href="https://games-able.techidaily.com/personal-tech-preferences-picking-the-right-size-for-your-pc/"><u>Personal Tech Preferences: Picking the Right Size for Your PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/playing-fortnite-on-mac-watch-out-for-exceptions/"><u>Playing Fortnite on Mac? Watch Out for Exceptions!</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-guide-to-pre-recorded-yoga-on-youtube/"><u>In 2024, The Ultimate Guide to Pre-Recorded Yoga on YouTube</u></a></li>
+<li><a href="https://games-able.techidaily.com/invisible-steam-games-cache/"><u>Invisible Steam Games Cache</u></a></li>
+<li><a href="https://games-able.techidaily.com/rhythm-revolutions-new-device-wins-gameplay/"><u>Rhythm Revolutions: New Device Wins Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-remote-access-to-your-games-on-an-alternate-drive/"><u>Seamless Remote Access to Your Games on an Alternate Drive</u></a></li>
+<li><a href="https://games-able.techidaily.com/guiding-yourself-past-low-memory-warnings-in-roblox-ios/"><u>Guiding Yourself Past Low-Memory Warnings in Roblox iOS</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/after-effects-vs-premiere-pro-understanding-their-unique-strengths-and-weaknesses/"><u>After Effects vs Premiere Pro Understanding Their Unique Strengths and Weaknesses</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovation-leaders-makeuseof-and-mwc-2024-honors/"><u>Innovation Leaders: MakeUseOf & MWC 2024 Honors</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-less-loud-more-effective-a-comprehensive-overview-of-audio-cleanup-in-premiere-pro/"><u>Updated 2024 Approved Less Loud, More Effective A Comprehensive Overview of Audio Cleanup in Premiere Pro</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-transforming-text-to-speech-on-discord/"><u>[Updated] In 2024, Transforming Text to Speech on Discord</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/how-to-promote-instagram-post-successfully/"><u>How to Promote Instagram Post Successfully</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-thumbnail-tutorial-for-youtube-using-mobile-devices/"><u>2024 Approved  Thumbnail Tutorial for YouTube Using Mobile Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-with-these-strategies-to-improve-ps4/"><u>Game On with These Strategies to Improve PS4</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-mode-functionality-and-benefits-for-mac-users-on-sonoma-os-by-apple/"><u>Game Mode Functionality and Benefits for Mac Users on Sonoma OS by Apple</u></a></li>
+<li><a href="https://games-able.techidaily.com/customization-for-a-fresh-ps5-vibe/"><u>Customization for a Fresh PS5 Vibe</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-unleash-the-power-of-time-lapse-a-step-by-step-tutorial-for-video-creators-for-2024/"><u>New Unleash the Power of Time Lapse A Step-by-Step Tutorial for Video Creators for 2024</u></a></li>
+</ul></div>

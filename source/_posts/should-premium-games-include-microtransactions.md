@@ -1,7 +1,7 @@
 ---
 title: Should Premium Games Include Microtransactions?
-date: 2024-06-25T12:56:54.676Z
-updated: 2024-06-26T12:56:54.676Z
+date: 2024-07-12T03:29:39.012Z
+updated: 2024-07-13T03:29:39.012Z
 tags:
   - games
 categories:
@@ -76,7 +76,8 @@ But what about premium games? Should they have microtransactions?
 
  Apart from the inherent gambling nature of loot boxes, as a creator and an artist, doesn’t it feel fundamentally wrong to offer people a way to pay to experience less of your creation? It gives people the idea that your game is a chore, which shouldn’t be the case.
 
-### Bloat and Battle Passes ![Assassin's Creed Origins Season Pass for sale on Ubisoft website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/assassin-s-creed-origins-season-pass-for-sale-on-ubisoft-website.png)
+### Bloat and Battle Passes
+![Assassin's Creed Origins Season Pass for sale on Ubisoft website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/assassin-s-creed-origins-season-pass-for-sale-on-ubisoft-website.png)
 
  Another way you can tell microtransactions don’t have a place in premium games is that they only worm their way into established franchises. Ubisoft is a good example of this, seeing as it has added seasonal passes to many titles in their (mostly) offline single-player adventure series, Assassin’s Creed.
 
@@ -121,3 +122,53 @@ But what about premium games? Should they have microtransactions?
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-essential-hash-strategies-for-optimizing-youtube-gameplay-videos/"><u>[New] In 2024, Essential Hash Strategies for Optimizing YouTube Gameplay Videos</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719580829731-breeze-through-basic-numbers-in-japanese/"><u>Breeze Through Basic Numbers in Japanese</u></a></li>
+<li><a href="https://games-able.techidaily.com/9-remedies-troubleshoot-steams-unwritable-library/"><u>9 Remedies: Troubleshoot Steam's Unwritable Library</u></a></li>
+<li><a href="https://games-able.techidaily.com/8-actionable-hacks-to-elevate-your-ny-network-status/"><u>8 Actionable Hacks to Elevate Your NY Network Status</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-steam-connections-in-windows-11/"><u>Addressing Steam Connections in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719166993933-pinnacle-game-boy-advance-simulation-apps-for-iphone/"><u>Pinnacle Game Boy Advance Simulation Apps for iPhone!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-the-chronicle-of-creation-weaving-time-lapse-animations-via-movie-maker/"><u>2024 Approved  The Chronicle of Creation  Weaving Time-Lapse Animations via Movie Maker</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-elevate-your-video-rankings-with-effective-seo-tactics/"><u>[New] 2024 Approved  Elevate Your Video Rankings with Effective SEO Tactics</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-essential-steps-for-pc-components-cohesion/"><u>7 Essential Steps for PC Components Cohesion</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-reasons-game-developers-may-skip-ray-tracing/"><u>7 Reasons Game Developers May Skip Ray Tracing</u></a></li>
+<li><a href="https://games-able.techidaily.com/advanced-methods-for-automatic-game-highlighting/"><u>Advanced Methods for Automatic Game Highlighting</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719171355880-unplugged-and-entertained-ioss-hottest-game-titles/"><u>Unplugged & Entertained: IOS's Hottest Game Titles!</u></a></li>
+<li><a href="https://games-able.techidaily.com/4-ways-to-see-if-someone-is-appearing-offline-using-an-xbox-series-xs/"><u>4 Ways to See if Someone Is Appearing Offline Using an Xbox Series X|S</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-display-driver-failed-on-pc-systems/"><u>Addressing Display Driver Failed on PC Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieving-optimal-steam-gaming-experience-through-smart-financing/"><u>Achieving Optimal Steam Gaming Experience Through Smart Financing</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-closer-look-at-postponed-video-game-releases/"><u>A Closer Look at Postponed Video Game Releases</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-settings-to-make-a-ps5-safer-for-kids-to-use/"><u>5 Settings to Make a PS5 Safer for Kids to Use</u></a></li>
+<li><a href="https://games-able.techidaily.com/adraise-the-curtain-on-amd-rdna-35-when-to-expect/"><u>ADRaise the Curtain on AMD RDNA 3.5 - When to Expect?</u></a></li>
+<li><a href="https://games-able.techidaily.com/adaptive-cpu-temperature-management-system-efficiency/"><u>Adaptive CPU Temperature Management System Efficiency</u></a></li>
+<li><a href="https://games-able.techidaily.com/4-ingenious-ways-to-save-on-gaming-expenses/"><u>4 Ingenious Ways to Save on Gaming Expenses</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172894778-ecoled-gamingpanel-mini-led-big-savings/"><u>EcoLED GamingPanel: Mini-LED, Big Savings</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-closer-look-at-ai-powered-dlss-version-35-by-nvidia/"><u>A Closer Look at AI-Powered DLSS Version 3.5 by Nvidia</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719167883005-rekindle-the-joy-classics-reimagined-for-your-device/"><u>Rekindle the Joy: Classics Reimagined for Your Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-deep-dive-into-dynamic-game-environments/"><u>A Deep Dive Into Dynamic Game Environments</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-ways-to-improve-system-efficiency-and-limit-steams-ram-usage/"><u>5 Ways to Improve System Efficiency & Limit Steam's RAM Usage</u></a></li>
+<li><a href="https://games-able.techidaily.com/6-factors-to-contemplate-when-comparing-mac-and-pc-games/"><u>6 Factors to Contemplate When Comparing Mac and PC Games</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/creating-magnetic-storylines-for-your-vlog-videos/"><u>Creating Magnetic Storylines for Your Vlog Videos</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/a-deep-dive-into-video-platform-profit-margins-dailymovement-vs-youtube/"><u>A Deep-Dive Into Video Platform Profit Margins  DailyMovement vs YouTube</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-elite-setup-pieces-for-uninterrupted-streaming/"><u>[New] Elite Setup Pieces for Uninterrupted Streaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/adjusting-xbox-series-xs-vrr-for-optimal-viewing-pleasure/"><u>Adjusting Xbox Series X|S VRR for Optimal Viewing Pleasure</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-leading-edge-free-online-platforms-for-seamless-audio-trimming-for-2024/"><u>New Leading Edge Free Online Platforms for Seamless Audio Trimming for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-shift-of-focus-7-compelling-arguments-against-ray-tracing/"><u>A Shift of Focus: 7 Compelling Arguments Against Ray Tracing</u></a></li>
+<li><a href="https://games-able.techidaily.com/adapt-overcome-playing-fortnite-on-your-mac-wisely/"><u>Adapt, Overcome: Playing Fortnite on Your Mac Wisely</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-requires-additional-hardware-in-windows-11-systems/"><u>Addressing 'Requires Additional Hardware' In Windows 11 Systems</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-poco-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Poco on Windows?</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719168976644-gaming-revolution-embracing-the-power-of-oled-monitors/"><u>Gaming Revolution: Embracing the Power of OLED Monitors.</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-guide-for-parents-to-monitor-children-on-discord/"><u>A Guide for Parents to Monitor Children on Discord</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-mastering-iphones-voice-memo-functionality/"><u>[Updated] Mastering iPhone's Voice Memo Functionality</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-must-do-tips-for-a-lasting-reliable-switch-experience/"><u>5 Must-Do Tips for a Lasting, Reliable Switch Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719170168370-overcome-system-errors-install-updated-nvidia-drivers/"><u>Overcome System Errors - Install Updated Nvidia Drivers</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieve-peak-performance-install-updated-nvidia-graphics-driver-now/"><u>Achieve Peak Performance - Install Updated Nvidia Graphics Driver Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-look-at-steam-vs-gog-digital-storefront-divergences/"><u>A Look at Steam vs GOG: Digital Storefront Divergences</u></a></li>
+<li><a href="https://games-able.techidaily.com/6-reasons-why-you-shouldnt-leave-your-ps5-running-all-the-time/"><u>6 Reasons Why You Shouldn’t Leave Your PS5 Running All the Time</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172130344-make-every-sound-count-on-xbox-one-again/"><u>Make Every Sound Count on Xbox One Again</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-guide-to-unbeatable-ps5-accessory-choices/"><u>A Guide to Unbeatable PS5 Accessory Choices</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-new-chapter-for-deck-unleashing-power-in-two-operating-systems/"><u>A New Chapter for Deck: Unleashing Power in Two Operating Systems</u></a></li>
+</ul></div>

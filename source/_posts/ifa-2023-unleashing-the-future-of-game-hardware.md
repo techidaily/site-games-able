@@ -1,7 +1,7 @@
 ---
 title: "IFA 2023: Unleashing the Future of Game Hardware"
-date: 2024-06-25T13:04:55.534Z
-updated: 2024-06-26T13:04:55.534Z
+date: 2024-07-12T03:38:42.280Z
+updated: 2024-07-13T03:38:42.280Z
 tags:
   - games
 categories:
@@ -22,7 +22,8 @@ thumbnail: https://thmb.techidaily.com/33a2fc3d19b1294697014cd8a346990d81bbe0b37
 
  Plenty of brands had a fine showing of their gaming hardware at IFA 2023\. But it was Lenovo that proverbially mopped the floor with the competition. It unveiled not one, or even two, but three pieces of gaming hardware that show Lenovo is making serious moves to become a leader in some of the game tech still in its infancy: portable gaming PCs and AR glasses.
 
-### Lenovo Legion GO ![MUO site on Lenovo Legion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/muo-on-legion.jpg)
+### Lenovo Legion GO
+![MUO site on Lenovo Legion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/muo-on-legion.jpg)
 
  Image Credit: Justin Duino /[MakeUseOf](http://www.makeuseof.com)
 
@@ -56,7 +57,8 @@ thumbnail: https://thmb.techidaily.com/33a2fc3d19b1294697014cd8a346990d81bbe0b37
 
  The Lenovo Legion GO is scheduled to launch on October 31, 2023, for $799.
 
-### Lenovo Legion Glasses ![legion-glasses-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-glasses-1.jpg)
+### Lenovo Legion Glasses
+![legion-glasses-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-glasses-1.jpg)
 
  Image Credit: Justin Duino /[MakeUseOf](http://www.makeuseof.com)
 
@@ -82,7 +84,8 @@ thumbnail: https://thmb.techidaily.com/33a2fc3d19b1294697014cd8a346990d81bbe0b37
 
  The rebranded Lenovo Legion Glasses will be available sometime in October 2023 for $329.
 
-### Lenovo Legion 9i ![legion-9i-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-9i-2.jpg)
+### Lenovo Legion 9i
+![legion-9i-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-9i-2.jpg)
 
  Image Credit: Justin Duino /[MakeUseOf](http://www.makeuseof.com)
 
@@ -106,7 +109,8 @@ The Legion 9i features a:
 
 The Lenovo Legion 9i will be available starting October 2023.
 
-## MSI GAMING SLIM Series Graphics Cards ![msi 4070 slimline gpu on msi stand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/msi-4070-slimline-gpu-on-msi-stand.jpg)
+## MSI GAMING SLIM Series Graphics Cards
+![msi 4070 slimline gpu on msi stand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/msi-4070-slimline-gpu-on-msi-stand.jpg)
 
  Image Credit: Gavin Phillips/MakeUseOf
 
@@ -120,7 +124,8 @@ The Lenovo Legion 9i will be available starting October 2023.
 
  MSI's GAMING SLIM version of its GeForce RTX 40 series graphics cards will be released sometime later this year.
 
-## Tecno MegaMini Watercooled Mini PC ![The MegaMini Gaming G1 watercooled mini PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/megamini-gaming-g1.jpg)
+## Tecno MegaMini Watercooled Mini PC
+![The MegaMini Gaming G1 watercooled mini PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/megamini-gaming-g1.jpg)
 
  Image Credit: Paul Antill/[MakeUseOf](http://www.makeuseof.com)
 
@@ -157,3 +162,68 @@ No word on the price or release date yet, but color us intrigued.
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/efficiently-managing-your-switch-gaming-identity/"><u>Efficiently Managing Your Switch Gaming Identity</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-ultimate-mac-os-guide-for-screen-casting/"><u>[New] The Ultimate Mac OS Guide for Screen Casting</u></a></li>
+<li><a href="https://games-able.techidaily.com/mechanical-masterpiece-revealed-razers-hot-swap-widow-v4/"><u>Mechanical Masterpiece Revealed - Razer's Hot-Swap Widow V4</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-iphone-voice-recording-made-simple-an-instructional-guide/"><u>New In 2024, IPhone Voice Recording Made Simple An Instructional Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-visual-storytelling-tools-intro-templates/"><u>2024 Approved  Free Visual Storytelling Tools - Intro Templates</u></a></li>
+<li><a href="https://games-able.techidaily.com/investment-wise-finding-the-best-economical-1440p-displays-for-gamers/"><u>Investment Wise: Finding the Best Economical 1440P Displays for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-boy-mastery-through-linux-scripting-and-commands/"><u>Game Boy Mastery Through Linux Scripting and Commands</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-to-reconnect-with-steam-server-services/"><u>Strategies to Reconnect with Steam Server Services</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-ideal-audio-solution-for-iphone-find-the-best-6-free-apps-for-youtube-to-mp3/"><u>2024 Approved  Ideal Audio Solution for iPhone  Find the Best 6 Free Apps for YouTube-to-MP3</u></a></li>
+<li><a href="https://games-able.techidaily.com/play-by-the-seat-of-your-pants-with-classic-psp-on-iphone/"><u>Play by the Seat of Your Pants with Classic PSP on iPhone</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-cs2-strategies-for-mac-users/"><u>Navigating CS2: Strategies for Mac Users</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-oppo-a59-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/creating-innocuous-steam-fun-for-kids-and-parents/"><u>Creating Innocuous Steam Fun for Kids and Parents</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-infinix-smart-8-hd-by-drfone-android/"><u>How to Bypass FRP from Infinix Smart 8 HD?</u></a></li>
+<li><a href="https://games-able.techidaily.com/reignite-controller-functionality-in-windows-settings/"><u>Reignite Controller Functionality in Windows Settings</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-tech-showdown-xbox-and-pc/"><u>Next-Gen Tech Showdown: Xbox and PC</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-detailed-steps-to-record-hulu-on-every-os-and-device-type/"><u>2024 Approved  Detailed Steps to Record Hulu on Every OS and Device Type</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-innovations-in-digital-vocal-alteration-top-notch-applications/"><u>In 2024, Innovations in Digital Vocal Alteration Top-Notch Applications</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-sonys-miniature-gaming-device/"><u>Discovering Sony's Miniature Gaming Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-your-computer-5-ways-to-curb-steams-ram-consumption/"><u>Optimizing Your Computer - 5 Ways to Curb Steam's RAM Consumption</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-vivo-t2x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-iphone-12-mini-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked iPhone 12 mini Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://games-able.techidaily.com/investing-in-style-reaping-gameplay-rewards/"><u>Investing in Style, Reaping Gameplay Rewards</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-outro-checklist-for-youtube-success/"><u>In 2024, The Ultimate Outro Checklist for YouTube Success</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-gastronomy-gurus-the-elite-of-food-vlogs/"><u>[New] Gastronomy Gurus  The Elite of Food Vlogs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-the-art-of-comfortable-virtual-experiences/"><u>[Updated] Mastering the Art of Comfortable Virtual Experiences</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-discover-and-make-the-fb-most-watched-song-videos/"><u>[New] Discover & Make the #FB Most-Watched Song Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/dial-in-destination-timezone-tweaks-on-sxb1/"><u>Dial in Destination: Timezone Tweaks on S/XB1</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-5-insights-the-power-of-classic-portable-games/"><u>Essential 5 Insights: The Power of Classic Portable Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-decks-new-frontier-external-memory-expansion/"><u>Steam Deck's New Frontier: External Memory Expansion</u></a></li>
+<li><a href="https://games-able.techidaily.com/key-features-to-consider-for-ultimate-gaming-screens/"><u>Key Features to Consider for Ultimate Gaming Screens</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-white-hardware-choices-on-a-tight-budget/"><u>Essential White Hardware Choices on a Tight Budget</u></a></li>
+<li><a href="https://games-able.techidaily.com/peeling-back-layers-authenticity-in-fake-game-hype/"><u>Peeling Back Layers: Authenticity in Fake Game Hype</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-loop-a-video-with-imovie-on-mac-and-iphone-for-2024/"><u>Updated How to Loop a Video with iMovie on Mac and iPhone for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-a-complete-guide-to-utilizing-ios-screenshot-feature/"><u>[New] 2024 Approved  A Complete Guide to Utilizing IO's Screenshot Feature</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminate-graphics-stalls-error-0x887a0006-in-win10win11/"><u>Eliminate Graphics Stalls (Error 0X887A0006) in Win10/Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-and-resolving-m365-error-30015-26-on-pcs/"><u>Understanding and Resolving M365 Error 30015-26 on PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/customize-your-interactive-language-in-steam/"><u>Customize Your Interactive Language in Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-googles-game-service-on-desktops-a-guide/"><u>Navigating Google's Game Service on Desktops: A Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/secure-your-space-adventure-preorder-mars-spiderman-2/"><u>Secure Your Space Adventure: Preorder Mar's Spiderman 2</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-xiaomi-redmi-note-13-5g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Xiaomi Redmi Note 13 5G Phone Screen?</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-the-art-of-combining-sony-and-switch-gameplay/"><u>Master the Art of Combining Sony & Switch Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-analysis-top-cards-for-exceptional-xbox-capturing/"><u>Expert Analysis: Top Cards for Exceptional Xbox Capturing</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-it-feasible-to-connect-ps5-controller-with-ps4/"><u>Is It Feasible to Connect PS5 Controller with PS4?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-plotting-the-pathway-for-engaging-youtube-content/"><u>[Updated] Plotting the Pathway for Engaging YouTube Content</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-ripple-on-windows-7-screens/"><u>Rectifying Ripple on Windows 7 Screens</u></a></li>
+<li><a href="https://games-able.techidaily.com/supercharge-your-console-with-3-innovative-strategies/"><u>Supercharge Your Console with 3 Innovative Strategies</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplify-fun-enter-the-realm-of-idles/"><u>Simplify Fun: Enter the Realm of Idles</u></a></li>
+<li><a href="https://games-able.techidaily.com/favorite-variety-games-for-multitasking-broadcasters/"><u>Favorite Variety Games for Multitasking Broadcasters</u></a></li>
+<li><a href="https://games-able.techidaily.com/real-time-gaming-footage-extraction-made-effortless/"><u>Real-Time Gaming Footage Extraction Made Effortless</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-framework-for-employing-videos-in-educational-settings/"><u>[Updated] A Framework for Employing Videos in Educational Settings</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-the-perplexing-roblox-error-code-403-for-windows-users/"><u>Fixing the Perplexing Roblox Error Code 403 for Windows Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-your-ps-vr2-adventure/"><u>Enhancing Your PS VR2 Adventure</u></a></li>
+<li><a href="https://games-able.techidaily.com/quality-graphics-without-breaking-bank/"><u>Quality Graphics Without Breaking Bank</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-using-steam-deck-for-pc-gaming-broadcasts/"><u>Step-By-Step: Using Steam Deck for PC Gaming Broadcasts</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-discovering-new-wave-top-7-high-quality-transition-sounds-for-creatives/"><u>In 2024, Discovering New Wave Top 7 High-Quality Transition Sounds for Creatives</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-contacts-from-zte-blade-a73-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from ZTE Blade A73 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-invalidate-and-reclaim-your-fortnite-expenses/"><u>How to Invalidate and Reclaim Your Fortnite Expenses</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-streamline-your-virtual-conferencing-from-skype-to-zoom/"><u>[Updated] 2024 Approved  Streamline Your Virtual Conferencing  From Skype to Zoom</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-eliminated-invisible-youtube-micro-videos/"><u>[Updated] Eliminated  Invisible YouTube Micro Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/how-to-add-end-screen-to-video-on-vimeo-in-2024/"><u>How to Add End Screen to Video on Vimeo, In 2024</u></a></li>
+</ul></div>

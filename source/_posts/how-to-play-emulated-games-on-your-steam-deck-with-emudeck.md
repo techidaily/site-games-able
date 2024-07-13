@@ -1,7 +1,7 @@
 ---
 title: How to Play Emulated Games on Your Steam Deck With EmuDeck
-date: 2024-06-25T12:48:36.200Z
-updated: 2024-06-26T12:48:36.200Z
+date: 2024-07-12T03:08:48.032Z
+updated: 2024-07-13T03:08:48.032Z
 tags:
   - games
 categories:
@@ -47,7 +47,8 @@ thumbnail: https://thmb.techidaily.com/24c4d966d5ae08b9992d6ca8e560b523aa54e9e6e
 
  To get started, switch to Desktop Mode by holding the power button down and selecting**Switch to Desktop.**
 
-### 1\. Install and Set Up EmuDeck ![screenshot of the emudeck install package on the steam deck desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emudeck_install_package_on_desktop.jpg)
+### 1\. Install and Set Up EmuDeck
+![screenshot of the emudeck install package on the steam deck desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emudeck_install_package_on_desktop.jpg)
 
  Once you've switched to Desktop Mode, you'll need to head to the [EmuDeck website](https://www.emudeck.com) and download the install package. Make sure you do this on your actual Steam Deck, unless you're willing to copy it over from another device.
 
@@ -89,7 +90,8 @@ We'll choose easy mode, as it's the most straightforward.
 
  With that, you have everything you need to get the emulation going. There's still one more step to completing the Steam Deck emulation experience, though.
 
-### 3\. Add Emulators to Your Steam Deck's Gaming Mode ![screenshot of emulator categories on the steam deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emulators_on_steam_deck.jpg)
+### 3\. Add Emulators to Your Steam Deck's Gaming Mode
+![screenshot of emulator categories on the steam deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emulators_on_steam_deck.jpg)
 
  So now you have a bunch of emulators installed. But you don't really want to launch into desktop mode every time you want to play them.
 
@@ -126,3 +128,54 @@ We'll choose easy mode, as it's the most straightforward.
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/the-blueprint-for-discovering-top-tier-servers/"><u>The Blueprint for Discovering Top-Tier Servers</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719170860868-gamers-delight-classic-retro-games-for-your-ios-device/"><u>Gamers Delight: Classic Retro Games for Your iOS Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/methods-for-correcting-erratic-mouse-scrolling/"><u>Methods for Correcting Erratic Mouse Scrolling</u></a></li>
+<li><a href="https://games-able.techidaily.com/spring-into-action-with-augmented-gaming/"><u>Spring Into Action with Augmented Gaming</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-12-pro-passcode-screen-by-drfone-ios/"><u>How to Unlock iPhone 12 Pro Passcode Screen?</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-realme-narzo-60x-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-dissecting-the-emerging-trends-in-facebook-short-videos-for-2024/"><u>[Updated] Dissecting the Emerging Trends in Facebook Short Videos for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-obs-settings-for-smooth-skype-video-streaming/"><u>[New] 2024 Approved  OBS Settings for Smooth Skype Video Streaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-new-nintendo-switch-joystick-installation/"><u>The Ultimate Guide to New Nintendo Switch Joystick Installation</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-the-genetic-basis-for-variations-in-cannabinoid-sensitivity/"><u>Unraveling the Genetic Basis for Variations in Cannabinoid Sensitivity</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-power-adapters-customized-for-ps5-accessories/"><u>Optimal Power Adapters: Customized for PS5 Accessories</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-comfortable-gamepad-guide/"><u>Ultimate Comfortable Gamepad Guide</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-xiaomi-redmi-12-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Xiaomi Redmi 12 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-premier-dramatic-structuring-zone/"><u>In 2024, Premier Dramatic Structuring Zone</u></a></li>
+<li><a href="https://games-able.techidaily.com/neuroprotective-agents-in-dementia-the-potential-role-of-cannabinoids/"><u>Neuroprotective Agents in Dementia: The Potential Role of Cannabinoids</u></a></li>
+<li><a href="https://games-able.techidaily.com/shine-upgrade-sparkling-ps5-techniques/"><u>Shine Upgrade: Sparkling PS5 Techniques</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-understanding-and-executing-photo-gender-modification-across-platforms/"><u>In 2024, Understanding and Executing Photo Gender Modification Across Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-does-it-really-mean-to-be-idle-in-discord/"><u>What Does It Really Mean to Be Idle in Discord?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-how-to-stream-in-superior-quality-on-facebook-network-for-2024/"><u>[Updated] How To Stream in Superior Quality on Facebook Network for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-oppo-a2-phone-by-drfone-android/"><u>How to Reset a Locked Oppo A2 Phone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-a-stuck-discord-interface-element-on-your-system/"><u>Mending a Stuck Discord Interface Element on Your System</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-deck-revamp-the-ultimate-ssd-cloning-method/"><u>Quick Deck Revamp: The Ultimate SSD Cloning Method</u></a></li>
+<li><a href="https://games-able.techidaily.com/amplify-your-game-space-go-for-giant-arcade-panels/"><u>Amplify Your Game Space - Go for Giant Arcade Panels!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-8-stability-tools-for-high-definition-cameras/"><u>[Updated] Best 8 Stability Tools for High-Definition Cameras</u></a></li>
+<li><a href="https://games-able.techidaily.com/reducing-background-monitoring-by-game-bar-on-win-11/"><u>Reducing Background Monitoring by Game Bar on Win 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-samsung-galaxy-a25-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Samsung Galaxy A25 5G Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-your-classic-collection-small-sized-isos-by-chdman-cooking-method/"><u>Streamline Your Classic Collection: Small-Sized ISOs by ChDMan' Cooking Method</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-destinations-players-peak-places/"><u>Ultimate Destinations: Players' Peak Places</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-art-of-turning-youtube-media-on-its-head/"><u>The Art of Turning YouTube Media on Its Head</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-image-retrieval-on-pexels-a-step-by-step-guide/"><u>2024 Approved  Mastering Image Retrieval on Pexels  A Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/selecting-superior-mats-for-enhanced-desk-ergonomics/"><u>Selecting Superior Mats for Enhanced Desk Ergonomics</u></a></li>
+<li><a href="https://games-able.techidaily.com/uncover-the-downside-to-linkedins-new-game-platform/"><u>Uncover the Downside to LinkedIn's New Game Platform</u></a></li>
+<li><a href="https://games-able.techidaily.com/pro-valorant-techniques-to-cure-windows-high-fps-issues/"><u>Pro-Valorant: Techniques to Cure Windows High FPS Issues</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-itel-a60-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Itel A60 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/tricks-to-project-an-invisible-presence-in-steam/"><u>Tricks to Project an Invisible Presence in Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-vintage-joy-the-ultimate-list-of-ps3-games-for-pc-emulation/"><u>Unlock Vintage Joy: The Ultimate List of PS3 Games for PC Emulation</u></a></li>
+<li><a href="https://games-able.techidaily.com/reviving-video-game-classics-on-a-budget-a-pi-story/"><u>Reviving Video Game Classics on a Budget - A Pi Story</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-10-premier-ios-games-fully-enjoyable-without-wireless-connection/"><u>[Updated] In 2024, 10 Premier iOS Games, Fully Enjoyable without Wireless Connection</u></a></li>
+<li><a href="https://games-able.techidaily.com/mobility-meets-gaming-a-handy-list-of-strategies/"><u>Mobility Meets Gaming: A Handy List of Strategies</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-master-screen-recording-on-windows-macos-and-android-devices/"><u>[Updated] Master Screen Recording on Windows, macOS, and Android Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-steam-errors-in-windows-rust-setup/"><u>Addressing Steam Errors in Windows-Rust Setup</u></a></li>
+<li><a href="https://games-able.techidaily.com/analyzing-the-lure-of-cozy-game-genres/"><u>Analyzing the Lure of Cozy Game Genres</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-white-list-microphones-for-frugal-filmmakers/"><u>[Updated] White-List Microphones for Frugal Filmmakers</u></a></li>
+<li><a href="https://games-able.techidaily.com/balancing-freedom-and-security-kids-in-the-cyber-world/"><u>Balancing Freedom & Security: Kids in the Cyber World</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-game-stream-from-pc-to-cloud-platform/"><u>Xbox Game Stream: From PC to Cloud Platform</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-your-gaming-sessions-with-emudeck-and-steam-deck/"><u>Streamline Your Gaming Sessions with EmuDeck & Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/secure-your-xbox-s-controller-connectivity/"><u>Secure Your Xbox S Controller Connectivity</u></a></li>
+</ul></div>

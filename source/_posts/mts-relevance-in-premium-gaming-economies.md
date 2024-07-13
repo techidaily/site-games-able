@@ -1,7 +1,7 @@
 ---
 title: MTs' Relevance in Premium Gaming Economies
-date: 2024-06-25T13:34:57.767Z
-updated: 2024-06-26T13:34:57.767Z
+date: 2024-07-12T04:12:38.567Z
+updated: 2024-07-13T04:12:38.567Z
 tags:
   - games
 categories:
@@ -76,7 +76,8 @@ But what about premium games? Should they have microtransactions?
 
  Apart from the inherent gambling nature of loot boxes, as a creator and an artist, doesn’t it feel fundamentally wrong to offer people a way to pay to experience less of your creation? It gives people the idea that your game is a chore, which shouldn’t be the case.
 
-### Bloat and Battle Passes ![Assassin's Creed Origins Season Pass for sale on Ubisoft website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/assassin-s-creed-origins-season-pass-for-sale-on-ubisoft-website.png)
+### Bloat and Battle Passes
+![Assassin's Creed Origins Season Pass for sale on Ubisoft website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/assassin-s-creed-origins-season-pass-for-sale-on-ubisoft-website.png)
 
  Another way you can tell microtransactions don’t have a place in premium games is that they only worm their way into established franchises. Ubisoft is a good example of this, seeing as it has added seasonal passes to many titles in their (mostly) offline single-player adventure series, Assassin’s Creed.
 
@@ -121,3 +122,80 @@ But what about premium games? Should they have microtransactions?
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-visual-culture-posthumous-works-unbound/"><u>2024 Approved  Free Visual Culture  Posthumous Works Unbound</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-the-ultimate-guide-to-cloud-stop-motion-software-features-best-practices-and-more-for-2024/"><u>Updated The Ultimate Guide to Cloud Stop Motion Software Features, Best Practices, and More for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-do-i-sim-unlock-my-iphone-13-pro-by-drfone-ios/"><u>In 2024, How Do I SIM Unlock My iPhone 13 Pro?</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-strategies-for-ultimate-ps5-gaming-bliss/"><u>5 Strategies for Ultimate PS5 Gaming Bliss</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-on-the-iphone-8-plus-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock On the iPhone 8 Plus Without Previous Owner?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-drive-engagement-with-instagram-top-10-video-marketing-ideas-unveiled/"><u>2024 Approved  Drive Engagement with Instagram  Top 10 Video Marketing Ideas Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/ace-the-game-preorder-limited-marvels-spidey-ps5/"><u>Ace the Game - Preorder Limited Marvel's Spidey PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/ace-valorant-high-fps-and-performance-fixes-guide-for-pc-users/"><u>Ace Valorant: High FPS & Performance Fixes Guide for PC Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/accessories-more-than-just-visual-enhancements/"><u>Accessories: More Than Just Visual Enhancements</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-discover-unlimited-free-emojis-for-your-social-media-chats/"><u>In 2024, Discover Unlimited Free Emojis for Your Social Media Chats</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-dividing-footage-top-splitcams-worth-in-review-for-2024/"><u>[Updated] Dividing Footage  Top SplitCam's Worth in Review for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/4-cryptic-quests-for-the-digital-detective-ai/"><u>4 Cryptic Quests for the Digital Detective AI</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-click-to-victory-the-best-12-pc-games-for-dedicated-players/"><u>[Updated] 2024 Approved  Click to Victory  The Best 12 PC Games for Dedicated Players</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-obstacles-to-gamefis-adoption-by-true-gamers/"><u>5 Obstacles to GameFi's Adoption by True Gamers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-tecno-spark-20-proplus-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Tecno Spark 20 Pro+ in Minutes | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/4-ways-to-see-if-someone-is-appearing-offline-using-an-xbox-series-xs/"><u>4 Ways to See if Someone Is Appearing Offline Using an Xbox Series X|S</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-8-best-mirrorless-cameras-vloggers-should-know-for-2024/"><u>[Updated] 8 Best Mirrorless Cameras Vloggers Should Know for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/adraise-the-curtain-on-amd-rdna-35-when-to-expect/"><u>ADRaise the Curtain on AMD RDNA 3.5 - When to Expect?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-history-buffs-favorite-youtube-history-channels/"><u>[New] History Buffs' Favorite YouTube History Channels</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-itel-p40-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Itel P40 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-new-chapter-for-deck-unleashing-power-in-two-operating-systems/"><u>A New Chapter for Deck: Unleashing Power in Two Operating Systems</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-enhance-your-media-presentation-top-12-players-list/"><u>2024 Approved  Enhance Your Media Presentation  Top 12 Players List</u></a></li>
+<li><a href="https://games-able.techidaily.com/activate-your-ps5-faster-with-these-6-hacks/"><u>Activate Your PS5 Faster with These 6 Hacks</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172625751-immerse-in-gaming-the-power-of-oled-technology/"><u>Immerse in Gaming: The Power of OLED Technology</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-evaluation-of-viewing-seconds-in-a-20mb-videography/"><u>[New] In 2024, Evaluation of Viewing Seconds in a 20MB Videography</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172130344-make-every-sound-count-on-xbox-one-again/"><u>Make Every Sound Count on Xbox One Again</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-guide-to-playing-pre-ps5-titles-on-ps5/"><u>A Guide to Playing Pre-PS5 Titles on PS5</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Xiaomi Redmi 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-steams-faulty-game-loading-mechanism/"><u>Addressing Steam's Faulty Game Loading Mechanism</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/speak-up-age-defying-linguistic-benefits/"><u>Speak Up: Age-Defying Linguistic Benefits</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-motorola-moto-g34-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Motorola Moto G34 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-brand-showdown-assessing-asus-tuf-proart-and-primes-performance/"><u>A Brand Showdown: Assessing Asus, TUF, ProArt & Prime's Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/advanced-refresh-tech-in-gaming-displays-at-240hz/"><u>Advanced Refresh Tech in Gaming Displays at 240Hz</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-steam-connections-in-windows-11/"><u>Addressing Steam Connections in Windows 11</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-a-step-by-step-guide-to-updating-photos-and-videos-on-instagram/"><u>2024 Approved  A Step-by-Step Guide to Updating Photos and Videos on Instagram</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719173579642-nintendos-past-present-in-your-palm/"><u>Nintendo's Past, Present in Your Palm</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-ways-to-improve-system-efficiency-and-limit-steams-ram-usage/"><u>5 Ways to Improve System Efficiency & Limit Steam's RAM Usage</u></a></li>
+<li><a href="https://games-able.techidaily.com/6-ways-to-use-chatgpt-as-a-video-game-scriptwriter/"><u>6 Ways to Use ChatGPT as a Video Game Scriptwriter</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieve-optimal-gaming-learn-how-to-fine-tune-xbox-series-vrr-configurations/"><u>Achieve Optimal Gaming: Learn How to Fine-Tune Xbox Series VRR Configurations</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-free-video-editors-for-chrome-os-a-review-of-the-top-options/"><u>Updated In 2024, Free Video Editors for Chrome OS A Review of the Top Options</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/harmonic-phone-chimes-the-step-by-step-to-cut-tamil-alerts/"><u>Harmonic Phone Chimes  The Step-by-Step to Cut Tamil Alerts</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-display-driver-failed-on-pc-systems/"><u>Addressing Display Driver Failed on PC Systems</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-samsung-galaxy-m34-5g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Samsung Galaxy M34 5G Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172356979-unleash-gaming-with-chatgpt-experience-our-best-6/"><u>Unleash Gaming with ChatGPT - Experience Our Best 6</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-advantages-of-ignoring-ray-tracing-in-gaming/"><u>7 Advantages of Ignoring Ray Tracing in Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/active-exploration-augmented-reality-adventures/"><u>Active Exploration: Augmented Reality Adventures</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-template-packs-for-effective-business-communications/"><u>[New] Innovative Template Packs for Effective Business Communications</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-vivo-v29-by-drfone-android/"><u>In 2024, How to Bypass FRP on Vivo V29?</u></a></li>
+<li><a href="https://games-able.techidaily.com/aaa-game-giants-expansion-good-or-overboard-analysis-report/"><u>AAA Game Giants' Expansion: Good or Overboard? [Analysis Report]</u></a></li>
+<li><a href="https://games-able.techidaily.com/6-engaging-features-that-define-great-game-design/"><u>6 Engaging Features That Define Great Game Design</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172752956-game-boy-advance-excellence-with-ioss-leading-emulators/"><u>Game Boy Advance Excellence with iOS's Leading Emulators!</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719169788582-the-powerful-advantages-of-using-an-oled-screen-for-2-years/"><u>The Powerful Advantages of Using an OLED Screen for 2 Years!</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-comprehensive-guide-to-selecting-superior-discords/"><u>A Comprehensive Guide to Selecting Superior Discords</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719168719205-sonys-summer-gaming-extravaganza-essential-picks/"><u>Sony’s Summer Gaming Extravaganza: Essential Picks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/preserving-profile-prestige-from-pretend-popularity-pitfalls-for-2024/"><u>Preserving Profile Prestige From Pretend Popularity Pitfalls for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/8-factors-to-consider-before-buying-a-cpu-cooler/"><u>8 Factors to Consider Before Buying a CPU Cooler</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-accelerate-your-vimeo-experience/"><u>[Updated] Accelerate Your Vimeo Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieving-cinematic-experience-at-home-setting-up-4k-gaming-on-xbox-sx/"><u>Achieving Cinematic Experience at Home: Setting Up 4K Gaming on Xbox SX</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-experts-insight-efficiently-using-mobizen-for-capturing-screens/"><u>2024 Approved  Expert's Insight  Efficiently Using Mobizen for Capturing Screens</u></a></li>
+<li><a href="https://games-able.techidaily.com/acquiring-exclusive-items-in-fortnite-for-ps5/"><u>Acquiring Exclusive Items in Fortnite for PS5</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-unveiling-the-secrets-to-profitable-facebook-animation-strategies-for-2024/"><u>[Updated] Unveiling the Secrets to Profitable Facebook Animation Strategies for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719168172703-embrace-all-games-free-to-play-and-premium-on-one-plan/"><u>Embrace All Games, Free-to-Play & Premium On One Plan</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-guide-to-quieter-xbox-gaming-bliss/"><u>A Guide to Quieter Xbox Gaming Bliss</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/podcasting-perfection-premium-recording-mics-for-2024/"><u>Podcasting Perfection  Premium Recording Mics for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-list-best-reaction-video-editing-software/"><u>Updated The Ultimate List Best Reaction Video Editing Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/4-fundamental-improvements-for-maximizing-xbox-player-loyalty/"><u>4 Fundamental Improvements for Maximizing Xbox Player Loyalty</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-settings-to-make-a-ps5-safer-for-kids-to-use/"><u>5 Settings to Make a PS5 Safer for Kids to Use</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/essential-leisure-ideal-screen-time-solutions-for-2024/"><u>Essential Leisure  Ideal Screen-Time Solutions for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pros-best-top-8-tripods-excelling-at-4k-video-capture/"><u>Pro's Best  Top 8 Tripods Excelling at 4K Video Capture</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/capturing-gotomeet-pc-and-mobile-recording-tutorial-for-2024/"><u>Capturing GoToMeet  PC & Mobile Recording Tutorial for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-showcase-of-nintendos-finest-switch-docks/"><u>A Showcase of Nintendo's Finest Switch Docks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-smoothly-transition-sounds-with-audition/"><u>[Updated] How to Smoothly Transition Sounds with Audition</u></a></li>
+</ul></div>

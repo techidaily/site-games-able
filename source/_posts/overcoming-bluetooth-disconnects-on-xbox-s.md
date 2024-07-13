@@ -1,7 +1,7 @@
 ---
 title: Overcoming Bluetooth Disconnects on Xbox S
-date: 2024-06-25T13:07:45.956Z
-updated: 2024-06-26T13:07:45.956Z
+date: 2024-07-12T03:41:54.450Z
+updated: 2024-07-13T03:41:54.450Z
 tags:
   - games
 categories:
@@ -38,7 +38,8 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
  If not, just select the controller and update it. Once your Xbox carries out this update, you'll no longer have issues where your Xbox controller keeps disconnecting. That's because Microsoft pushes out firmware updates regularly to fix minor bugs that crop up—like this one.
 
-## 2\. Update Your Xbox Series X Console ![Xbox Series X Update Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/Xbox-Series-X-Update-Menu.jpg)
+## 2\. Update Your Xbox Series X Console
+![Xbox Series X Update Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/Xbox-Series-X-Update-Menu.jpg)
 
  Besides checking if your controllers have the latest firmware installed, you should also make sure your console is running the latest version of its software. This can help resolve any problems with your Xbox Series X or S controller disconnecting all the time.
 
@@ -46,7 +47,8 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
  To [update your Series X or Series S](https://www.makeuseof.com/how-to-update-xbox-series-x-series-s/) console, go to **Profile & system > Settings > System > Updates** . If a console update is available, it will say so next to your console on this settings page. Just update your console, as this might resolve the problem.
 
-## 3\. Reset and Re-Sync Your Series X Controller ![series x joypad power button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/series-x-joypad-power-button.png)
+## 3\. Reset and Re-Sync Your Series X Controller
+![series x joypad power button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/series-x-joypad-power-button.png)
 
  One potential workaround for the connectivity issue is resetting your Xbox Series X controller. You can achieve this without being connected to the console, so if your gamepad and console have lost connection, this is a way to re-sync the two.
 
@@ -54,7 +56,8 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
  You can then switch it on again via the same method and see if that solves the connection issue.
 
-## 4\. Use a Wired Connection ![xbox series x controller usb c port](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/xbox-series-x-controller-usb-c-port.png)
+## 4\. Use a Wired Connection
+![xbox series x controller usb c port](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/xbox-series-x-controller-usb-c-port.png)
 
  At the top of the Xbox Series X controller, you will notice it has a USB-C port, which is typically used for charging. However, you can use it to try to solve any disconnection problems.
 
@@ -64,7 +67,8 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
  Physically connecting your controller and console will immediately overcome the wireless connectivity issue. Once the two devices talk to each other again, you can remove the wired connection and check whether your controller works wirelessly. If it doesn't, you could always stay wired if it's convenient enough.
 
-## 5\. Hard Restart Your Xbox Series X ![xbox series x power button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/xbox-series-x-power-button.png)
+## 5\. Hard Restart Your Xbox Series X
+![xbox series x power button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/xbox-series-x-power-button.png)
 
  If all else fails, you can always exercise the IT expert's golden rule... try turning it off and on again. This is an operation you'd only want to carry out as a last resort, especially if you are in the middle of a game and haven't saved recently. Try all the other steps here first, or you risk losing your game progress.
 
@@ -74,7 +78,8 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
  Once you have switched the console off, just press the power button again to start it up. If you have performed the action correctly, the console should initialize with the logo screen before loading up your Xbox dashboard.
 
-## 6\. Replace Your Controller's Batteries ![Batteries inside an Xbox controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/batteries-inside-an-xbox-controller.jpg)
+## 6\. Replace Your Controller's Batteries
+![Batteries inside an Xbox controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/batteries-inside-an-xbox-controller.jpg)
 
  More often than not, if your Xbox controller is low on battery, it will disconnect, blink for a couple of seconds, and turn off when you're actively playing a game. You can power it back on immediately, but it will only work for a minute or less before disconnecting and turning off again.
 
@@ -82,7 +87,8 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
  To access and swap the AA batteries, all you need to do is push the battery cover below the controller upwards and pull either end of each battery outwards. Then, put the new ones back in and snap the battery cover in place.
 
-## 7\. Use an Xbox One Controller ![Xbox One controllers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/Xbox-One-Pad.jpg)
+## 7\. Use an Xbox One Controller
+![Xbox One controllers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/Xbox-One-Pad.jpg)
 
  Did you know you can [connect an Xbox One controller to your Xbox Series X](https://www.makeuseof.com/how-to-use-xbox-one-controllers-on-your-xbox-series-x/) ? Thanks to backward compatibility, the Xbox One joypad functions almost exactly the same way as a Series X controller.
 
@@ -115,3 +121,61 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/why-tipping-devs-could-distort-creative-priorities/"><u>Why Tipping Devs Could Distort Creative Priorities</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-full-potential-of-steam-deck-with-epic-and-gog/"><u>Unlock Full Potential of Steam Deck with Epic & GOG</u></a></li>
+<li><a href="https://games-able.techidaily.com/guaranteeing-perfectly-integrated-pc-components/"><u>Guaranteeing Perfectly Integrated PC Components</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-playnite-experience-activating-tv-fullscreen/"><u>Enhance Playnite Experience: Activating TV Fullscreen</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-instant-video-link-up-using-whatsapp-desktop-for-pc-calls/"><u>[New] In 2024, Instant Video Link-Up  Using WhatsApp Desktop for PC Calls</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-the-ultimate-guide-to-using-zoom-features-in-gmail-emails-for-2024/"><u>[Updated] The Ultimate Guide to Using Zoom Features in Gmail Emails for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-navigating-faster-tips-for-tiktok-users/"><u>In 2024, Navigating Faster  Tips for TikTok Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-proven-methods-to-excellence-in-srt-file-design/"><u>In 2024, Proven Methods to Excellence in SRT File Design</u></a></li>
+<li><a href="https://games-able.techidaily.com/tips-for-unblocking-windows-from-oculus-app-failure/"><u>Tips for Unblocking Windows From Oculus App Failure</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-it-motorola-g54-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Motorola G54 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-clear-youtube-watch-later-playlist-step-by-step/"><u>[New] In 2024, Clear YouTube Watch Later Playlist - [Step-by-Step]</u></a></li>
+<li><a href="https://games-able.techidaily.com/choosing-between-founders-original-and-aib-graphics-cards/"><u>Choosing Between Founder's Original & AIB Graphics Cards</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-decoding-youtube-income-how-much-does-each-1000-viewer-earn-for-2024/"><u>[New] Decoding YouTube Income  How Much Does Each 1,000 Viewer Earn for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-does-roblox-fps-unlocker-work-and-is-it-really-safe/"><u>How Does Roblox FPS Unlocker Work, and Is It Really Safe?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-pioneering-popularity-with-powerful-instagram-videos/"><u>[New] Pioneering Popularity with Powerful Instagram Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-amplify-your-insta-impact-essential-5-lessons-for-influencers-and-real-life-proofs/"><u>[New] 2024 Approved  Amplify Your Insta Impact  Essential 5 Lessons for Influencers & Real-Life Proofs</u></a></li>
+<li><a href="https://games-able.techidaily.com/android-vs-iphone-clashing-for-tetris-glory/"><u>Android vs iPhone: Clashing for Tetris Glory</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-secrets-of-smartphone-based-twitch-streams/"><u>Unveiling the Secrets of Smartphone-Based Twitch Streams</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-prime-interactive-face-time-festivals/"><u>2024 Approved  Prime Interactive Face Time Festivals</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-conquering-live-broadcast-a-comprehensive-guide-for-youtube-and-twitch/"><u>[New] 2024 Approved  Conquering Live Broadcast  A Comprehensive Guide for YouTube & Twitch</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-game-changer-going-from-console-to-pc/"><u>The Ultimate Game-Changer: Going From Console to PC</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-perfect-slide-sharing-techniques-the-best-ways-to-use-a-webcam-for-2024/"><u>[Updated] Perfect Slide Sharing Techniques  The Best Ways to Use a Webcam for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-mastering-growth-trajectories-with-top-7-tiktok-tools/"><u>[New] In 2024, Mastering Growth Trajectories with Top 7 TikTok Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-future-fables-top-30-quotes-on-tomorrows-realities/"><u>2024 Approved  Future Fables  Top 30 Quotes on Tomorrow's Realities</u></a></li>
+<li><a href="https://games-able.techidaily.com/walletfriendly-hd-gamerscreen-led27m2v/"><u>WalletFriendly HD GamerScreen LED27M2V</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-making-youtube-based-twitter-videos-hearable/"><u>[Updated] Making YouTube-Based Twitter Videos Hearable</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-crucial-checkpoints-to-validate-your-pc-component-fit/"><u>7 Crucial Checkpoints to Validate Your PC Component Fit</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/essential-platforms-for-purchasing-professional-game-noise-files-for-2024/"><u>Essential Platforms for Purchasing Professional Game Noise Files for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/keeping-cool-tactics-for-enduring-xbox-game-pass-hike/"><u>Keeping Cool: Tactics for Enduring Xbox Game Pass Hike</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-the-secrets-of-premium-insta-tunes-a-complete-guide/"><u>[New] Unlocking the Secrets of Premium Insta Tunes  A Complete Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-steam-how-to-find-a-specific-gamer/"><u>Decoding Steam: How to Find a Specific Gamer</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-request-a-refund-for-a-digital-game-on-the-xbox-series-xs/"><u>How to Request a Refund for a Digital Game on the Xbox Series X|S</u></a></li>
+<li><a href="https://games-able.techidaily.com/break-free-from-consoles-with-pc-advantages/"><u>Break Free From Consoles with PC Advantages</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-celeb-in-a-nutshell-vimeo/"><u>In 2024, Celeb in a Nutshell – Vimeo</u></a></li>
+<li><a href="https://games-able.techidaily.com/crack-the-code-spotting-exceptional-games-in-apple-arcade/"><u>Crack the Code: Spotting Exceptional Games in Apple Arcade</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-your-consoles-potential-with-these-wi-fi-tips/"><u>Unlock Your Console's Potential with These Wi-Fi Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/using-smart-technology-for-xbox-controller-free-use/"><u>Using Smart Technology for Xbox Controller-Free Use</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficient-use-of-time-and-cash-on-your-xbox-console/"><u>Efficient Use of Time & Cash on Your Xbox Console</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-realme-v30-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Realme V30 Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-mixing-tunes-with-videos-on-vimeo-platform-for-2024/"><u>[Updated] Mixing Tunes with Videos on Vimeo Platform for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/masterclass-perfecting-home-theater-on-xbox-sx/"><u>Masterclass: Perfecting Home Theater on XBox SX</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-dealing-with-mistakes-self-representation-during-online-chats/"><u>[New] In 2024, Dealing with Mistakes  Self-Representation During Online Chats</u></a></li>
+<li><a href="https://games-able.techidaily.com/examining-the-value-of-microtransactions-in-elite-gaming/"><u>Examining the Value of Microtransactions in Elite Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719173428059-oled-gaming-tech-why-i-made-the-switch-in-2-years/"><u>OLED Gaming Tech: Why I Made the Switch in 2 Years</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-pokemons-universe-on-your-ios-device-today/"><u>Explore Pokémon's Universe on Your iOS Device Today</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-real-cost-behind-ea-play-experience/"><u>The Real Cost Behind EA Play Experience</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-asus-rog-phone-8-pro-frp-by-drfone-android/"><u>Full Guide to Bypass Asus ROG Phone 8 Pro FRP</u></a></li>
+<li><a href="https://games-able.techidaily.com/ifa-2023-discover-tecnos-streamlined-phones/"><u>IFA 2023: Discover Tecno's Streamlined Phones</u></a></li>
+<li><a href="https://games-able.techidaily.com/finding-the-perfect-pc-mix-for-top-tier-games/"><u>Finding the Perfect PC Mix for Top-Tier Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrade-to-unparalleled-gaming-with-nvidias-new-app/"><u>Upgrade to Unparalleled Gaming with Nvidia’s New App</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advanced-vr-tech-for-drone-enthusiasts-for-2024/"><u>Advanced VR Tech for Drone Enthusiasts for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/balancing-act-growth-in-the-game-publishing-sector-in-depth-analysis-podcast/"><u>Balancing Act: Growth in the Game Publishing Sector [In-Depth Analysis Podcast]</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-techniques-for-assessing-xbox-gameplay-duration/"><u>Essential Techniques for Assessing Xbox Gameplay Duration</u></a></li>
+</ul></div>

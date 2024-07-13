@@ -1,7 +1,7 @@
 ---
 title: "Streamlining OS: Windows Setup on Steam Deck"
-date: 2024-06-25T13:24:18.205Z
-updated: 2024-06-26T13:24:18.205Z
+date: 2024-07-12T04:00:34.427Z
+updated: 2024-07-13T04:00:34.427Z
 tags:
   - games
 categories:
@@ -29,7 +29,8 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
 
  Do you want to have a familiar operating system or Game Pass on your Steam Deck? You can dual-boot SteamOS with Windows on the device. Here’s a thorough guide on installing Windows 11 on your Steam Deck.
 
-## Why You Should Install Windows on Your Steam Deck ![Steam Deck surrounded by peripherals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/steam-deck-surrounded-by-peripherals.JPG)
+## Why You Should Install Windows on Your Steam Deck
+![Steam Deck surrounded by peripherals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/steam-deck-surrounded-by-peripherals.JPG)
 
 Jhet Borja/MUO
 
@@ -57,7 +58,8 @@ Jhet Borja/MUO
 
  Head to [Ventoy’s GitHub page](https://github.com/ventoy/Ventoy/) and on the right side, click on**Releases** . Scroll down to**Assets** and click on the ZIP folder that says Windows on it. Extract the contents into a folder on your PC.
 
-### GNOME Partition Editor (GParted) ISO ![downloading GParted amd64 version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/downloading-gparted-amd64-version.jpg)
+### GNOME Partition Editor (GParted) ISO
+![downloading GParted amd64 version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/downloading-gparted-amd64-version.jpg)
 
  GParted is an ISO used to create partitions on your internal SSD on your Steam Deck. The new partition will be where you’ll place the Windows installation. To download it, head to [GParted.org](https://gparted.org/download.php) and click on the**amd64.iso** download file.
 
@@ -69,7 +71,8 @@ Jhet Borja/MUO
 
  Head to the**Download Windows 11 Disk Image (ISO)** option and on the dropdown menu, select**Windows 11 (multi-edition ISO)** . Click on**Download** , then select your language. It should then give you another download button to download the Windows ISO that is about 6GB to 7GB in size.
 
-### Windows Drivers for Steam Deck ![Downloading Windows Drivers for Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/downloading-windows-drivers-for-steam-deck.jpg)
+### Windows Drivers for Steam Deck
+![Downloading Windows Drivers for Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/downloading-windows-drivers-for-steam-deck.jpg)
 
  Windows doesn’t support all the Steam Deck’s hardware straight from the get-go. Fortunately, Steam has provided Windows drivers so that your audio, Wi-Fi, Bluetooth, SD card reader, and APU are all working properly.
 
@@ -207,7 +210,8 @@ Jhet Borja/MUO
 
  If this doesn’t work, you may also try to delete the other ISO from the SD card or flash drive. You may also try reinstalling Ventoy as a last resort, but this will format the drive so make sure you have everything in a folder that you can easily paste onto the drive.
 
-### The Windows 0x80300001 Error ![Selecting partition created in GParted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/selecting-partition-created-in-gparted.JPG)
+### The Windows 0x80300001 Error
+![Selecting partition created in GParted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/selecting-partition-created-in-gparted.JPG)
 
 Jhet Borja/MUO
 
@@ -219,7 +223,8 @@ Jhet Borja/MUO
 
  You may have created a new partition as ext4 in GParted instead of leaving the unallocated partition as it is. If you insist on creating a new partition in GParted, make sure it’s in NTFS format and not ext4.
 
-### Windows Cannot Install Drivers ![Windows cannot install required files error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-cannot-install-required-files-error.JPG)
+### Windows Cannot Install Drivers
+![Windows cannot install required files error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-cannot-install-required-files-error.JPG)
 
 Jhet Borja/MUO
 
@@ -227,7 +232,8 @@ Jhet Borja/MUO
 
  Shut down your Steam Deck by holding down the power button and unplug any USB devices except your flash drive or SD card. Don’t plug in any USB devices during the installation to avoid this issue.
 
-### You Can’t Find SteamOS in the Boot Manager ![No SteamOS option in boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/no-steamos-option-in-boot-manager.JPG)
+### You Can’t Find SteamOS in the Boot Manager
+![No SteamOS option in boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/no-steamos-option-in-boot-manager.JPG)
 
 Jhet Borja/MUO
 
@@ -286,3 +292,49 @@ Then type:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/custom-fan-curve-configuration-for-improved-graphics/"><u>Custom Fan Curve Configuration for Improved Graphics</u></a></li>
+<li><a href="https://games-able.techidaily.com/do-you-actually-need-a-mechanical-keyboard-for-gaming/"><u>Do You Actually Need a Mechanical Keyboard for Gaming?</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-virtual-voyage-review-meta-quest-3/"><u>The Ultimate Virtual Voyage Review: Meta Quest 3</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrading-games-from-directx-11-to-directx-12/"><u>Upgrading Games: From DirectX 11 to DirectX 12</u></a></li>
+<li><a href="https://games-able.techidaily.com/winning-the-race-addressing-low-fps-and-enhancing-valorant-performance/"><u>Winning the Race: Addressing Low FPS & Enhancing Valorant Performance</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-how-to-seamlessly-share-tweets-as-video-on-instagram-for-2024/"><u>[New] How To Seamlessly Share Tweets as Video on Instagram for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-makes-a-great-steam-deck/"><u>What Makes a Great Steam Deck?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/ultimate-free-fb-photovideo-maker/"><u>Ultimate Free FB Photo/Video Maker</u></a></li>
+<li><a href="https://games-able.techidaily.com/emulating-legends-pokemon-games-resurgence/"><u>Emulating Legends: Pokémon Games' Resurgence</u></a></li>
+<li><a href="https://games-able.techidaily.com/breaking-the-code-ps5s-internet-enigma/"><u>Breaking the Code: PS5's Internet Enigma</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-to-do-if-your-controller-wont-work-on-your-windows-pc/"><u>What to Do if Your Controller Won't Work on Your Windows PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-significance-of-hrtf-in-valorant-sound-design/"><u>The Significance of HRTF in Valorant Sound Design</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-unveiling-top-7-tiktok-devices-for-peak-performance-for-2024/"><u>[Updated] Unveiling Top 7 TikTok Devices for Peak Performance for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-navigating-the-in-built-recording-app-a-comprehensive-guide-to-samsung-s10s9/"><u>New In 2024, Navigating the In-Built Recording App A Comprehensive Guide to Samsung S10/S9</u></a></li>
+<li><a href="https://games-able.techidaily.com/curating-my-collection-of-innovative-indie-games/"><u>Curating My Collection of Innovative Indie Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-8-elements-for-choosing-an-effective-cpu-cooler/"><u>Top 8 Elements for Choosing an Effective CPU Cooler</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-errors-on-roblox-262/"><u>Streamlining Errors on Roblox: 262</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-big-time-savings-with-these-top-11-discounted-games-websites/"><u>Unlock Big-Time Savings with These Top 11 Discounted Games Websites</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-halt-steam-initialization/"><u>How to Halt Steam Initialization</u></a></li>
+<li><a href="https://games-able.techidaily.com/advanced-techniques-for-steam-shot-collection/"><u>Advanced Techniques for Steam Shot Collection</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminating-low-memory-alerts-while-using-roblox-in-ios/"><u>Eliminating Low-Memory Alerts While Using Roblox in iOS</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/streamlining-your-live-events-merging-obs-and-zoom-for-2024/"><u>Streamlining Your Live Events  Merging OBS and Zoom for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/4-achievement-hunting-sites-to-improve-your-gamerscore/"><u>4 Achievement Hunting Sites to Improve Your Gamerscore</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-5-game-mice-qualities-essential-specifications-to-check/"><u>Top 5 Game Mice Qualities: Essential Specifications to Check</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-tips-for-resetting-ps5-gamepad/"><u>Essential Tips for Resetting PS5 Gamepad</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-ipod-and-iphone-12-the-right-way-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock On iPod and iPhone 12 The Right Way</u></a></li>
+<li><a href="https://games-able.techidaily.com/budget-brilliance-top-deals-on-cost-effective-mobo/"><u>Budget Brilliance: Top Deals on Cost-Effective Mobo</u></a></li>
+<li><a href="https://games-able.techidaily.com/winning-strategies-for-pokemon-games-on-iphoneipad-gaming/"><u>Winning Strategies for Pokémon Games on iPhone/iPad Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-screen-magic-unmasking-bogus-gameshows/"><u>Beyond Screen Magic: Unmasking Bogus Gameshows</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-unlinking-from-ps5-accounts/"><u>Step-by-Step: Unlinking From PS5 Accounts</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-get-adobe-premiere-pro-cs6-mac-edition-free-download-link/"><u>Updated In 2024, Get Adobe Premiere Pro CS6 Mac Edition (Free Download Link)</u></a></li>
+<li><a href="https://games-able.techidaily.com/inside-the-world-of-professional-gaming-audio-tech/"><u>Inside the World of Professional Gaming Audio Tech</u></a></li>
+<li><a href="https://games-able.techidaily.com/bringing-pc-gaming-power-to-your-iphone-with-geforce-now/"><u>Bringing PC Gaming Power to Your iPhone with GeForce Now</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/join-forces-in-these-20-cross-system-gaming-adventures/"><u>Join Forces in These 20 Cross-System Gaming Adventures</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/media-streamlining-is-a-podcast-or-youtube-better-for-you-in-2024/"><u>Media Streamlining  Is a Podcast or YouTube Better for You, In 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/hall-effect-keys-in-focus-review-of-modular-board-mod007b/"><u>Hall Effect Keys in Focus - Review of Modular Board MOD007B</u></a></li>
+<li><a href="https://games-able.techidaily.com/gameplay-exploration-older-titles-on-new-ps-console/"><u>Gameplay Exploration: Older Titles on New PS Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoid-overcharges-with-smart-game-management/"><u>Avoid Overcharges with Smart Game Management</u></a></li>
+<li><a href="https://games-able.techidaily.com/examining-xbox-encasements/"><u>Examining Xbox Encasements</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-discords-potential-mac-setup-guide/"><u>Unlocking Discord's Potential: Mac Setup Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simple-gpu-upgrade-gtx-750-ti-latest-version/"><u>Simple GPU Upgrade: GTX 750 Ti Latest Version</u></a></li>
+</ul></div>

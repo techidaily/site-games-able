@@ -1,0 +1,168 @@
+---
+title: "Avoid Incompatibility: 7 Steps to Check Your Future PC's Harmony"
+date: 2024-07-12T04:27:59.609Z
+updated: 2024-07-13T04:27:59.610Z
+tags:
+  - games
+categories:
+  - games
+description: "This Article Describes Avoid Incompatibility: 7 Steps to Check Your Future PC's Harmony"
+excerpt: "This Article Describes Avoid Incompatibility: 7 Steps to Check Your Future PC's Harmony"
+keywords: Future PC Compatibility,PC Harmony and Integration,Avoiding Computer Incompatibility Issues,Hardware Compatibility Checklist,Upgrading Your PC,Prevent Technical Conflicts in Computers,Compatible Computer Hardware Guide
+thumbnail: https://thmb.techidaily.com/6bf5f8c3a7d4525074ba1b28f14c511bc7c37f5e8a7742b128774ee55042b67a.jpg
+---
+
+## Avoid Incompatibility: 7 Steps to Check Your Future PC's Harmony
+
+ When you're building a new PC or considering upgrading your hardware, the most important consideration is compatibility. Making sure all your hardware components work together can save you hours down the line, and make sure your shiny new bit of kit fits into your existing build.
+
+ Figuring out hardware compatibility isn't always easy, so we've compiled a list of seven ways to check hardware compatibility before you buy.
+
+## 1\. PCPartPicker
+
+ Top of any PC hardware compatibility list is always [PCPartPicker](ttps://pcpartpicker.com) . It's the ultimate go-to for anyone building a new PC or considering a hardware upgrade. It's filled with a vast array of PC hardware, and you can use it to build out a whole configuration or to check if two parts work together.
+
+![pcpartpicker muo example pc build](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/pcpartpicker-muo-example-pc-build.jpg)
+
+ You can find motherboards, hard drives, CPUs, power supply units, and everything else you need on PCParkPicker, and its easy-to-use interface, Build Guides, and Completed Builds sections are great for newcomers or those that want some inspiration.
+
+## 2\. Manufacturer Website
+
+ Unsurprisingly, the hardware manufacturers know a thing or two about compatibility. While PCPartPicker makes this process even easier, sometimes the hardware manufacturer's additional information and clarity is useful.
+
+ Most manufacturers provide extensively detailed information on their hardware, including compatibility, updates, warranty information, and more. For example, if you head on over to the Intel site and search for a CPU, it'll tell you the exact chipset to use (which tells you which type of motherboard to buy), along with the supported amount and type of RAM.
+
+![intel i9 13900k spec sheet 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/intel-i9-13900k-spec-sheet-1.jpg)
+
+## 3\. GPU Check
+
+[GPU Check](https://www.gpucheck.com/gpu-benchmark-comparison) is a handy tool for figuring out how your CPU and GPU might perform together. Sure, the go-to is typically to buy the biggest and best of both, and when you're building a new PC from scratch, that's a straightforward option.
+
+ But when upgrading a PC with new components, you might want to consider how your older CPU will play with a newer GPU or vice versa. With GPU Check, you can compare CPU and GPU combinations against one another and see how the changes affect performance. Of course, it's a general guide; CPU and GPU age, cooling, and other factors will affect your outright performance, but it's a good gauge, nonetheless.
+
+## 4\. Newegg Custom PC Builder
+
+ PCPartPicker tops the list because it's [the biggest and best of the PC hardware compatibility bunch](https://www.makeuseof.com/best-custom-pc-builder-website/) , but the [Newegg Custom PC Builder](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.newegg.com%2Ftools%2Fcustom-pc-builder) is also worth a shout.
+
+ Now, what makes the Newegg Custom PC Builder a great option is the integration of its Build With AI tool, which you can use to build up a PC with compatible parts quickly. Alternatively, you can still select individual components, which Newegg streamlines for compatibility with each selection.
+
+ I asked the Build With AI tool for a "PC to play Cities Skylines 2 at very high quality," which is clear enough for humans but maybe a little vague for an AI tool, as the game hasn't been released at the time of writing. Whether the AI tool understands the specs of Cities Skylines 2 or is just responding to the "very high quality" prompt, it produced three fully-compatible custom PC builds within seconds.
+
+![newegg ai pc part picker high end custom pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/newegg-ai-pc-part-picker-high-end-custom-pc.jpg)
+
+ I switched up the prompt to "budget $700, want to play racing games, would like RGB" to add some challenge. The three custom PC builds were a little more hit-and-miss but would still run some racing games at 1080p (though not much RGB on show!).
+
+![newegg ai pc part picker racing game build budget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/newegg-ai-pc-part-picker-racing-game-build-budget.jpg)
+
+ The individual component selection works similarly to PCPartPicker, helping you match compatible hardware by eliminating parts that don't work after each selection.
+
+## 5\. Google Bard (Or Another Internet-Connected AI Chatbot)
+
+ The world's leading AI chatbot, ChatGPT, doesn't have direct internet access. Or rather, it did, but it has been switched off at the time of writing. But that's no problem because we can [turn to Google's Bard AI chatbot instead](https://www.makeuseof.com/how-to-use-google-bard/) to help check if our hardware is compatible.
+
+ You can use Bard to help check PC hardware compatibility in two ways. First, you can straight-up ask Bard to create a custom PC build for you, making sure each part is compatible.
+
+![google bard ai custom pc build prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-bard-ai-custom-pc-build-prompt.jpg)
+
+ Bard suggested the following build for a PC that can "play FPS games at least 1080p 60FPS" with "a high-end CPU and good GPU."
+
+* **CPU** : I [ntel Core i5-12600KF](https://www.amazon.com/Intel-i5-12600KF-Desktop-Processor-Unlocked/dp/B09FXFJW2F?linkCode=ll1&tag=muo-v2-53vo5f4-20&linkId=1a6fdfcfd07f1dc95f9124bd1a532c0a&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU2027728&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fways-check-pc-parts-compatible-before-buy%2F&asc%5Fcampaign=Evergreen)
+* **GPU** :[Nvidia GeForce RTX 3060 Ti](https://www.amazon.com/ZOTAC-Graphics-IceStorm-Advanced-ZT-A30610H-10MLHR/dp/B097YW4FW9?linkCode=ll1&tag=muo-v2-53vo5f4-20&linkId=29be074a28fff6a50ef8308da83d8f66&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU2027728&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fways-check-pc-parts-compatible-before-buy%2F&asc%5Fcampaign=Evergreen)
+* **RAM** : Crucial Ballistix 16GB DDR4-3200 (2x8GB)
+* **Storage** :[Samsung 970 EVO Plus NVMe SSD](https://www.amazon.com/Samsung-970-EVO-Plus-MZ-V7S1T0B/dp/B07MFZY2F2?linkCode=ll1&tag=muo-v2-53vo5f4-20&linkId=b0a93347f049d255d129b29b8a31bae2&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU2027728&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fways-check-pc-parts-compatible-before-buy%2F&asc%5Fcampaign=Evergreen) \+ Seagate 1TB HDD
+* **Motherboard** :[MSI B660M Mortar WiFi](https://www.amazon.com/MSI-MAG-B660M-DDR4-Motherboard/dp/B09PXD16F6?linkCode=ll1&tag=muo-v2-53vo5f4-20&linkId=f435f3f39c4b598ffab1b206a53ea107&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU2027728&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fways-check-pc-parts-compatible-before-buy%2F&asc%5Fcampaign=Evergreen)
+* **PSU** :[Corsair RM750x](https://www.amazon.com/CORSAIR-RM750x-Certified-Modular-Supply/dp/B07XGLQX7D?linkCode=ll1&tag=muo-v2-53vo5f4-20&linkId=f2f2361cd5cf212d4fb0fba51d5c911d&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU2027728&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fways-check-pc-parts-compatible-before-buy%2F&asc%5Fcampaign=Evergreen)
+* **Case** :[Fractal Design Meshify C](https://www.amazon.com/Fractal-Design-FD-CA-MESH-C-BKO-TG-Case/dp/B074PGBGHW?linkCode=ll1&tag=muo-v2-53vo5f4-20&linkId=2988a0d9b367f61961482a1a79e14c47&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU2027728&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fways-check-pc-parts-compatible-before-buy%2F&asc%5Fcampaign=Evergreen)
+* **Operating System** : Windows 11
+
+ I added the components to PCPartPicker (yes, it's worth checking the compatibility!), and the build comes to £1,200-ish (check the [PCParkPicker build list](https://uk.pcpartpicker.com/user/gavinspavin/saved/#view=zgbfpg) ). Bard did forget one thing though: a CPU cooler!
+
+ Consider also that Bard doesn't know or understand the prices of its suggestions. Although the build above comes to around £1,200, I asked it for another custom PC with a maximum budget of £1,500—but it downgraded the CPU and GPU despite having more headroom for better hardware (it could have suggested a higher specced 12th-Gen Intel CPU and an Nvidia GeForce RTX 3070 GPU).
+
+ The second way you can use Google Bard is to cross-check a custom PC build list for compatibility issues.
+
+![google bard checks custom pc build list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-bard-checks-custom-pc-build-list.jpg)
+
+ In both scenarios, Google Bard helped figure out which PC components were compatible.
+
+## 6\. Power Supply Calculator
+
+ A power supply unit (PSU) calculator is a handy tool that helps you figure out the size of PSU your custom PC will need. There are [several power supply unit calculators](https://www.makeuseof.com/best-online-power-supply-calculators/) , including options from OuterVision, Cooler Master, and Be Quiet!, all of which can help you figure out what you need.
+
+## 7\. Forums and Communities
+
+ One of the greatest ways to find out what works and what doesn't is to use a PC hardware forum or community, like Linus Tech Tips Forums, Reddit's r/buildapc, and so on. These forums are packed with people passionate about PC building and ensuring your hardware works as it should, and the knowledge of many folks on these forums is second-to-none.
+
+ On some forums, you're encouraged to post your proposed build and ask for feedback or use the search function to see if someone has already asked about the compatibility of your selected components. If you find a build similar to yours, you can check if it worked or not, while if you're still in the planning stages, you might receive friendly advice regarding your upcoming build.
+
+## Always Check Your PC Hardware Compatibility Before Buying
+
+ Building a new PC or upgrading your existing rig can feel a little overwhelming. We've all been there; will that new CPU play nicely with the motherboard? Should you upgrade your GPU at the same time as your RAM?
+
+ But with the tools listed above, the one issue you'll never have to worry about is PC hardware compatibility!
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-speed-up-or-slow-down-videos-in-quicktime-player-for-windows-and-mac/"><u>New 2024 Approved Speed Up or Slow Down Videos in QuickTime Player for Windows and Mac</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-essential-audacity-manual-for-mac-audio-capture/"><u>[New] In 2024, The Essential Audacity Manual for Mac Audio Capture</u></a></li>
+<li><a href="https://games-able.techidaily.com/battle-royale-xbox-sxs-vs-gaming-pc/"><u>Battle Royale: Xbox SXS Vs. Gaming PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/anticipating-a-steep-climb-in-video-card-prices/"><u>Anticipating a Steep Climb in Video Card Prices?</u></a></li>
+<li><a href="https://games-able.techidaily.com/become-a-word-game-virtuoso-mastering-strands-new-york-times-edition/"><u>Become a Word Game Virtuoso: Mastering Strands, New York Times Edition</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-audiovisual-excellence-ranking-the-top-5-zoom-transcription-apps/"><u>[New] Audiovisual Excellence  Ranking the Top 5 Zoom Transcription Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/ai-innovation-showcase-at-computex-2024/"><u>AI Innovation Showcase at Computex 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoiding-hurdles-in-your-next-steam-decks-ssd-changeover/"><u>Avoiding Hurdles in Your Next Steam Deck's SSD Changeover</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoiding-overstimulation-in-your-gaming-journey/"><u>Avoiding Overstimulation in Your Gaming Journey</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-design-dynamics-font-application-in-adobe-after-effects/"><u>[New] 2024 Approved  Design Dynamics  Font Application in Adobe After Effects</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/non-game-console-apps-excelling-at-game-recordings-for-2024/"><u>Non-Game Console Apps Excelling at Game Recordings for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/be-your-own-hero-mend-and-modify-xbox-controllers/"><u>Be Your Own Hero - Mend and Modify Xbox Controllers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-initiate-xp-project-masterpiece-creation-package/"><u>[New] Initiate XP Project Masterpiece Creation Package</u></a></li>
+<li><a href="https://games-able.techidaily.com/becoming-a-word-game-pro-tips-to-thrive-in-new-york-times-strands/"><u>Becoming a Word Game Pro: Tips to Thrive in New York Times' Strands</u></a></li>
+<li><a href="https://games-able.techidaily.com/apex-adjustable-seating-for-tall-titans/"><u>Apex Adjustable Seating for Tall Titans</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/masterful-artwork-corrections/"><u>Masterful Artwork Corrections</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-strategies-for-indefinitely-removing-a-tiktok-profile/"><u>[New] In 2024, Strategies for Indefinitely Removing a TikTok Profile</u></a></li>
+<li><a href="https://games-able.techidaily.com/amds-new-tech-fsr-3-in-the-ring-with-nvidias-advanced-dlss-35/"><u>AMD’s New Tech FSR 3 in the Ring with NVIDIA's Advanced DLSS 3.5?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-windows-best-facsimile-software-for-ps3-games/"><u>[Updated] In 2024, Windows' Best Facsimile Software for PS3 Games</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-social-media-success-strategies-for-effective-facebook-reel-creation/"><u>In 2024, Social Media Success  Strategies for Effective Facebook Reel Creation</u></a></li>
+<li><a href="https://games-able.techidaily.com/all-games-unite-saying-goodbye-to-exclusives/"><u>All Games Unite: Saying Goodbye to Exclusives</u></a></li>
+<li><a href="https://games-able.techidaily.com/altering-the-base-language-of-steam-ui/"><u>Altering the Base Language of Steam UI</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-gaming-ears-for-nintendo-switch/"><u>Best Gaming Ears for Nintendo Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/bedrock-servers-joining-java-via-cross-server-gateway-geysermc/"><u>Bedrock Servers Joining Java via Cross-Server Gateway, GeyserMC</u></a></li>
+<li><a href="https://games-able.techidaily.com/akko-mod007b-pro-gaming-keyboard-unveiled/"><u>Akko MOD007B Pro-Gaming Keyboard Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/astral-artisan-examining-emerging-pc-brands/"><u>Astral Artisan: Examining Emerging PC Brands</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-apexs-single-player-focus-how-to-optimize-your-game-experience-for-2024/"><u>[Updated] Apex's Single Player Focus  How to Optimize Your Game Experience for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/behind-the-name-foddian-game-chronicles/"><u>Behind the Name: Foddian Game Chronicles</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-oppo-a59-5g-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Oppo A59 5G by Name | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/behind-the-billions-in-virtual-realty-4-costly-considerations/"><u>Behind the Billions in Virtual Realty: 4 Costly Considerations</u></a></li>
+<li><a href="https://games-able.techidaily.com/before-launch-gamers-dilemma-explored/"><u>Before Launch: Gamers' Dilemma Explored</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-the-xbox-chronicles-essential-steps-in-gameplay-documentation/"><u>2024 Approved  The Xbox Chronicles  Essential Steps in Gameplay Documentation</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-top-10-cost-free-discord-audio-transformers/"><u>In 2024, Top 10 Cost-Free Discord Audio Transformers</u></a></li>
+<li><a href="https://games-able.techidaily.com/beat-the-boosted-price-of-game-pass-ephemeral-advice/"><u>Beat the Boosted Price of Game Pass - Ephemeral Advice</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-8-light-weighted-virtual-worlds-home-games-pcmac/"><u>Best 8 Light-Weighted Virtual Worlds: Home Games Pc/Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/are-elite-games-obligated-to-feature-microtransactions/"><u>Are Elite Games Obligated to Feature Microtransactions?</u></a></li>
+<li><a href="https://games-able.techidaily.com/beginners-tips-using-emudeck-on-steam-deck/"><u>Beginner's Tips: Using EmuDeck on Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/apex-studios-rise-too-large-for-the-market-interview-series/"><u>Apex Studios' Rise: Too Large for the Market? [Interview Series]</u></a></li>
+<li><a href="https://games-able.techidaily.com/become-a-pro-at-mobile-gaming-learn-button-controls/"><u>Become a Pro at Mobile Gaming: Learn Button Controls</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tips-for-ios-downloading-podcasts-on-iphone/"><u>2024 Approved  Expert Tips for iOS  Downloading Podcasts on iPhone</u></a></li>
+<li><a href="https://games-able.techidaily.com/androidiphone-showdowns-where-gamers-clash-in-tetris/"><u>Android/iPhone Showdowns: Where Gamers Clash in Tetris</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-itel-p55-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Itel P55 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/authentic-gaming-with-or-without-am08-pro/"><u>Authentic Gaming with or without AM08 Pro?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/navigating-the-nuances-of-ppt-voiceover-performance/"><u>Navigating the Nuances of PPT Voiceover Performance</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-live-excellence-a-comprehensive-tutorial/"><u>[New] YouTube Live Excellence  A Comprehensive Tutorial</u></a></li>
+<li><a href="https://games-able.techidaily.com/apples-mac-gaming-revolution-with-sonoma-os-and-its-new-game-mode-feature/"><u>Apple's Mac Gaming Revolution with Sonoma OS and Its New Game Mode Feature</u></a></li>
+<li><a href="https://games-able.techidaily.com/barriers-to-gamefis-acceptance-by-true-gamers/"><u>Barriers to GameFi’s Acceptance by True Gamers</u></a></li>
+</ul></div>

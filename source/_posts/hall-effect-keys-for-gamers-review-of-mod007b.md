@@ -1,7 +1,7 @@
 ---
 title: Hall Effect Keys for Gamers - Review of Mod007B
-date: 2024-06-25T12:59:15.911Z
-updated: 2024-06-26T12:59:15.911Z
+date: 2024-07-12T03:32:19.414Z
+updated: 2024-07-13T03:32:19.414Z
 tags:
   - games
 categories:
@@ -109,7 +109,8 @@ No
 
 [See at Akko](https://en.akkogear.com/product/mod007b-pc-santorini-mechanical-keyboard/)
 
-## A Great-Looking Keyboard on the Surface ![Akko MOD007B HE Spacebar Detail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-spacebar-detail.jpg)
+## A Great-Looking Keyboard on the Surface
+![Akko MOD007B HE Spacebar Detail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-spacebar-detail.jpg)
 
  Jowi Morales / MakeUseOf
 
@@ -119,7 +120,8 @@ No
 
  All of these sit on a plain white plastic case with two-level adjustable feet. You also get a plain white knob for adjusting volume and RGB brightness. This keyboard would look great on any desk. Even if you aim for a minimalist gaming station, its design could be your PC’s focal point.
 
-## Tokyo-Themed Keys and Accessories Included ![Akko MOD007B HE Tokyo-themed Accessories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-tokyo-themed-accessories.jpg)
+## Tokyo-Themed Keys and Accessories Included
+![Akko MOD007B HE Tokyo-themed Accessories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-tokyo-themed-accessories.jpg)
 
  Jowi Morales / MakeUseOf
 
@@ -165,7 +167,8 @@ Related
 
  Even when you bottom out the keys, you’ll feel as if it’s cushioned, reducing the stress on your fingertips. And although it doesn’t have the bassy, thocky sound some keyboard enthusiasts look for, it still delivers excellent audible feedback for each keypress you make.
 
-## Extensive Customization With the Akko Cloud Driver ![Akko MOD007B HE Cloud Driver Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/akko-mod007b-he-cloud-driver-screenshot.jpg)
+## Extensive Customization With the Akko Cloud Driver
+![Akko MOD007B HE Cloud Driver Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/akko-mod007b-he-cloud-driver-screenshot.jpg)
 
  Of course, hardware is no good if you don’t pair it with great software. Thankfully, the Akko MOD007B comes with an easy-to-use and easy-to-understand driver. On thge Main tab you can remap your keyboard, change its Dynamic Keystroke settings, and set custom actuation distances for the entire keyboard or each key.
 
@@ -173,7 +176,8 @@ Related
 
  But best of all, any changes you make to the keyboard are stored on it. So, even if you switch PCs or upgrade to a newer device, you don’t have to download the driver and recreate your saved keyboard settings.
 
-## Confusing Multi-Mode Pairing ![Akko MOD007B HE mode switch slider under the caps lock key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-mode-switch-slider-under-the-caps-lock-key.jpg)
+## Confusing Multi-Mode Pairing
+![Akko MOD007B HE mode switch slider under the caps lock key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-mode-switch-slider-under-the-caps-lock-key.jpg)
 
  Jowi Morales / MakeUseOf
 
@@ -185,7 +189,8 @@ Related
 
  It would’ve been better if Akko included at least a single color-changing LED bulb to indicate the mode the keyboard is currently on. And maybe they could put the OS mode switch on an easily reachable surface.
 
-## Questionable Battery Life ![Akko MOD007B HE Battery-Level Check](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-battery-level-check.jpg)
+## Questionable Battery Life
+![Akko MOD007B HE Battery-Level Check](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-battery-level-check.jpg)
 
  Jowi Morales / MakeUseOf
 
@@ -294,3 +299,58 @@ No
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-oneplus-nord-3-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your OnePlus Nord 3 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-quick-guide-to-palworld-basics/"><u>Your Quick Guide to PalWorld Basics</u></a></li>
+<li><a href="https://games-able.techidaily.com/amp-up-playtime-exciting-20-fast-playing-games-for-phones/"><u>Amp Up Playtime: Exciting 20 Fast-Playing Games for Phones</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-step-by-step-checklist-before-you-purchase-your-ps5/"><u>A Step-by-Step Checklist: Before You Purchase Your PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-recommendations-optimal-3d-lights-for-gamers-sanctuaries/"><u>Expert Recommendations: Optimal 3D Lights for Gamers' Sanctuaries</u></a></li>
+<li><a href="https://games-able.techidaily.com/upping-the-ante-counter-strikes-frame-game/"><u>Upping the Ante: Counter-Strike's Frame Game</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-the-xbox-360-slim-assembly/"><u>Unraveling the Xbox 360 Slim Assembly</u></a></li>
+<li><a href="https://games-able.techidaily.com/easing-device-freeze-unraveling-the-0x887a0006-problems/"><u>Easing Device Freeze - Unraveling the 0X887A0006 Problems</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-to-know-amds-newest-graphics-innovation-rdna-35/"><u>Get to Know AMD's Newest Graphics Innovation, RDNA 3.5</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoiding-digital-drain-6-healthy-habits-for-gamers/"><u>Avoiding Digital Drain: 6 Healthy Habits for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-reporting-process-for-uncivil-players-xbox/"><u>Navigating the Reporting Process for Uncivil Players (Xbox)</u></a></li>
+<li><a href="https://games-able.techidaily.com/key-elements-for-a-gaming-mouse-worth-every-penny-a-quick-rundown/"><u>Key Elements for a Gaming Mouse Worth Every Penny: A Quick Rundown</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-cozy-gamings-charm/"><u>Unraveling Cozy Gaming's Charm</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-gaming-bliss-uncover-5-game-changing-strategies-for-mac-users/"><u>Elevate Gaming Bliss: Uncover 5 Game-Changing Strategies for Mac Users</u></a></li>
+<li><a href="https://extra-information.techidaily.com/gopros-deep-sea-capturing-unforgettable-underwater-scenes/"><u>GoPro's Deep Sea  Capturing Unforgettable Underwater Scenes</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-dos-and-donts-of-youtube-video-logging/"><u>In 2024, The Do's and Don'ts of YouTube Video Logging</u></a></li>
+<li><a href="https://games-able.techidaily.com/analyzing-the-strategic-alliance-between-tech-giant-microsoft-and-game-industry-heavyweight-blizzardactivision/"><u>Analyzing the Strategic Alliance Between Tech Giant Microsoft & Game Industry Heavyweight Blizzard/Activision</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-gaming-navigating-android-with-advanced-buttons/"><u>Enhancing Gaming: Navigating Android with Advanced Buttons</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-gaming-excellence-with-google-play-games-beta-pc/"><u>Unlocking Gaming Excellence with Google Play Games Beta (PC)</u></a></li>
+<li><a href="https://games-able.techidaily.com/watch-out-could-gpu-prices-see-an-uptick-next-month/"><u>Watch Out! Could GPU Prices See an Uptick Next Month?</u></a></li>
+<li><a href="https://games-able.techidaily.com/champions-choice-7-incredible-sports-games-for-iphonestablets/"><u>Champion's Choice: 7 Incredible Sports Games for iPhones/Tablets</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-free-and-fabulous-top-10-online-video-enhancers-for-better-quality-for-2024/"><u>Updated Free & Fabulous Top 10 Online Video Enhancers for Better Quality for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-guide-to-boost-your-telegram-marketing-efforts/"><u>2024 Approved  Guide to Boost Your Telegram Marketing Efforts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-streamline-your-views-the-ultimate-8-fb-movie-download-guide/"><u>In 2024, Streamline Your Views  The Ultimate #8 FB Movie Download Guide</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-authenticity-matters-selecting-reliable-tiktok-followers/"><u>[Updated] In 2024, Authenticity Matters  Selecting Reliable TikTok Followers</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-honor-x9a-frp-bypass-by-drfone-android/"><u>About Honor X9a FRP Bypass</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-video-effects-guide-transform-your-footage-for-2024/"><u>Updated The Ultimate Video Effects Guide Transform Your Footage for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-one-reviving-your-hdmi-cable-connected-headset/"><u>Xbox One: Reviving Your HDMI-Cable Connected Headset</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-gateway-to-enhanced-experiences-nvidias-new-app/"><u>Gamer's Gateway to Enhanced Experiences – Nvidia's New App</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/narratives-galore-top-20-storytelling-channels-of-the-year-for-2024/"><u>Narratives Galore  Top 20 Storytelling Channels of the Year for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/monetary-milestones-pewdiepies-income-summary-for-2024/"><u>Monetary Milestones  PewDiePie’s Income Summary for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-windows-gaming-on-m1-macs-using-crossover-suite/"><u>Dive Into Windows Gaming on M1 Macs Using Crossover Suite</u></a></li>
+<li><a href="https://games-able.techidaily.com/internet-setup-for-the-switch-hq/"><u>Internet Setup for the Switch HQ</u></a></li>
+<li><a href="https://games-able.techidaily.com/android-mobile-games-with-optimal-inputs/"><u>Android Mobile Games with Optimal Inputs</u></a></li>
+<li><a href="https://games-able.techidaily.com/fast-and-furious-boost-your-counter-strike-fps/"><u>Fast and Furious: Boost Your Counter-Strike FPS</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-performance-for-gamers-with-pdw4/"><u>Ultimate Performance for Gamers with PDW4</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-pedagogic-pros-the-finest-lecture-recording-devices-for-instructors/"><u>[New] In 2024, Pedagogic Pros  The Finest Lecture Recording Devices for Instructors</u></a></li>
+<li><a href="https://games-able.techidaily.com/uniting-play-step-by-step-guide-for-controller-linkage/"><u>Uniting Play: Step-by-Step Guide for Controller Linkage</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-choices-what-to-look-for-in-a-portable-games-device/"><u>Navigating Choices: What To Look For in a Portable Games Device</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-the-high-def-odyssey-of-youtubes-twitter-vids/"><u>In 2024, The High-Def Odyssey of YouTube's Twitter Vids</u></a></li>
+<li><a href="https://games-able.techidaily.com/ai-tech-unleashed-at-computex-2024/"><u>AI Tech Unleashed at Computex 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-revolutionizing-podcast-titles-leading-10-ai-generators/"><u>2024 Approved  Revolutionizing Podcast Titles  Leading 10 AI Generators</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidia-vs-intel-the-quest-for-the-top-gamers-cpu/"><u>Nvidia Vs. Intel: The Quest for the Top Gamer's CPU</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719173711358-experience-game-on-youtube-introduces-mini-games-for-all/"><u>Experience Game On: YouTube Introduces Mini-Games for All</u></a></li>
+<li><a href="https://games-able.techidaily.com/entertainment-evolution-showdown-ps5-vs-thrifty-computer-setup/"><u>Entertainment Evolution Showdown: PS5 vs Thrifty Computer Setup</u></a></li>
+<li><a href="https://games-able.techidaily.com/effortless-control-change-upgrading-your-switchs-joystick/"><u>Effortless Control Change: Upgrading Your Switch's Joystick</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-keyswap-speed-importance-and-impact/"><u>Understanding Keyswap Speed: Importance & Impact</u></a></li>
+<li><a href="https://games-able.techidaily.com/investment-tactics-fortnite-coins-on-sonys-platform/"><u>Investment Tactics: Fortnite Coins on Sony's Platform</u></a></li>
+<li><a href="https://games-able.techidaily.com/opening-a-second-front/"><u>Opening a Second Front</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-systems-that-blend-the-past-with-now/"><u>Game Systems That Blend the Past with Now</u></a></li>
+</ul></div>

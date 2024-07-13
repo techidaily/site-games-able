@@ -1,7 +1,7 @@
 ---
 title: "Breaking Down Walls: Universal Access in Gaming"
-date: 2024-06-25T12:48:41.510Z
-updated: 2024-06-26T12:48:41.510Z
+date: 2024-07-12T03:18:36.360Z
+updated: 2024-07-13T03:18:36.360Z
 tags:
   - games
 categories:
@@ -59,7 +59,8 @@ thumbnail: https://thmb.techidaily.com/058506d9dfd3499ce050a0189a74f361c7f5cd9f1
 
  The same is true for Nintendo, which has released games featuring some of its biggest characters (Mario, Pokemon) on smartphones. The company hasn't yet released a Mario game on a rival console, but that doesn't mean it never will.
 
-## Why Platform Exclusives Are Going Away ![horizon forbidden west page on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/horizon-forbidden-west-page-on-steam.png)
+## Why Platform Exclusives Are Going Away
+![horizon forbidden west page on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/horizon-forbidden-west-page-on-steam.png)
 
  So, why are platform exclusives coming to an end? The obvious answer is that they're no longer the best option available to the companies responsible. The benefits of opening titles up to everyone, regardless of platform, massively outweigh the benefits of keeping titles exclusive to one console. As outlined above, Phil Spencer, someone who should know, said as much.
 
@@ -102,3 +103,44 @@ thumbnail: https://thmb.techidaily.com/058506d9dfd3499ce050a0189a74f361c7f5cd9f1
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/mastering-might-top-11-war-history-strategy-titles/"><u>Mastering Might: Top 11 War History Strategy Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-check-your-fps-in-games-on-android-2-methods/"><u>How to Check Your FPS in Games on Android: 2 Methods</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/elevate-your-content-game-with-these-powerful-youtube-shortcuts/"><u>Elevate Your Content Game with These Powerful YouTube Shortcuts</u></a></li>
+<li><a href="https://games-able.techidaily.com/play-again-4-solutions-for-flash-game-enthusiasts/"><u>Play Again: 4 Solutions for Flash Game Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-smartphones-android-vs-iphone-tetris-face-offs/"><u>Game On Smartphones: Android vs iPhone Tetris Face-Offs</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-controlling-ps4-possible-or-not/"><u>PS5 Controlling PS4: Possible or Not?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/boost-your-channels-subscribers-on-a-shoestring-budget-for-2024/"><u>Boost Your Channel's Subscribers on a Shoestring Budget for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-choice-analyzing-the-pros-and-cons-of-game-downloads/"><u>Gamer's Choice: Analyzing the Pros & Cons of Game Downloads</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-optimal-cloud-audio-devices/"><u>[Updated] In 2024, Optimal Cloud Audio Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-hunters-manual-locating-premium-costless-steam-titles/"><u>Game Hunter's Manual: Locating Premium, Costless Steam Titles</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-how-to-change-audio-speed-and-pitch-online/"><u>New In 2024, How To Change Audio Speed and Pitch Online</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-free-video-loop-creator-software-for-beginners/"><u>Updated 2024 Approved Free Video Loop Creator Software for Beginners</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-multiple-excel-files-by-stellar-guide/"><u>How to Repair Multiple Excel Files</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-hilarious-highlights-reddit-and-twitters-best-bits/"><u>In 2024, Hilarious Highlights  Reddit and Twitter's Best Bits</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-ultimate-10-survival-arena-matches/"><u>In 2024, Ultimate 10 Survival Arena Matches</u></a></li>
+<li><a href="https://games-able.techidaily.com/pitch-perfect-excellent-audio-games-for-music-enthusiasts/"><u>Pitch Perfect: Excellent Audio Games for Music Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-connect-a-controller-to-an-android-phone-or-tablet/"><u>How to Connect a Controller to an Android Phone or Tablet</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-easy-guide-to-start-product-review-channel/"><u>2024 Approved  Easy Guide to Start Product Review Channel</u></a></li>
+<li><a href="https://games-able.techidaily.com/lessons-in-tech-pick-correct-oled-screen/"><u>Lessons in Tech: Pick Correct OLED Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-ps5-upgrades-from-past-to-present/"><u>Exploring PS5 Upgrades From Past to Present</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-oneplus-ace-2v-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide OnePlus Ace 2V Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fix-d1360-printer-drivers-not-working-on-windows-7-10/"><u>[Fix] D1360 Printer Drivers Not Working on Windows 7-10</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-new-best-facebook-story-savers-for-free-extensiononlinemobile-apps/"><u>[Updated] In 2024, NEW Best Facebook Story Savers for FREE [Extension/Online/Mobile Apps]</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/step-by-step-to-superior-image-clarity-by-removing-backgrounds-using-affinity-for-2024/"><u>Step-by-Step to Superior Image Clarity by Removing Backgrounds Using Affinity for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/fast-fingers-and-sharp-minds-mobile-tetris-victory-edition/"><u>Fast Fingers and Sharp Minds: Mobile Tetris Victory Edition</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/zenith-zooms-ideal-laptops-for-sharp-resolution-crafting-for-2024/"><u>Zenith Zooms  Ideal Laptops for Sharp-Resolution Crafting for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-on-the-go-best-switch-cart-holder-ideas/"><u>Gaming on the Go: Best Switch Cart Holder Ideas</u></a></li>
+<li><a href="https://games-able.techidaily.com/interact-and-master-youtubes-fresh-fun-mini-gaming-challenges/"><u>Interact & Master YouTube's Fresh, Fun Mini Gaming Challenges</u></a></li>
+<li><a href="https://games-able.techidaily.com/masterclass-choosing-the-premier-titles-on-apple-arcade/"><u>Masterclass: Choosing the Premier Titles on Apple Arcade</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, The Best iSpoofer Alternative to Try On Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-gamers-guide-setting-up-windows-on-steam-deck/"><u>Master Gamer's Guide: Setting up Windows on Steam Deck</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-mastering-the-short-video-sphere-the-roadmap-for-profitable-tiktok-marketing/"><u>[Updated] In 2024, Mastering the Short-Video Sphere  The Roadmap for Profitable TikTok Marketing</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-alone-to-together-reestablishing-winmc-network-connections/"><u>From Alone to Together: Reestablishing WinMC Network Connections</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-investigating-why-specific-youtube-remarks-get-prominence/"><u>[New] Investigating Why Specific YouTube Remarks Get Prominence</u></a></li>
+<li><a href="https://games-able.techidaily.com/ideal-emulation-tools-for-mac-gamers/"><u>Ideal Emulation Tools for Mac Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-merger-xbox-live-gold-and-game-pass/"><u>Navigating the Merger: Xbox Live Gold and Game Pass</u></a></li>
+</ul></div>

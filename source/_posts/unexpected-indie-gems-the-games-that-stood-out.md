@@ -1,7 +1,7 @@
 ---
 title: "Unexpected Indie Gems: The Games That Stood Out"
-date: 2024-06-25T12:59:49.717Z
-updated: 2024-06-26T12:59:49.717Z
+date: 2024-07-12T03:32:57.272Z
+updated: 2024-07-13T03:32:57.272Z
 tags:
   - games
 categories:
@@ -40,7 +40,8 @@ thumbnail: https://thmb.techidaily.com/a27b3a3de27d6b4c9a23aaf5bc90c6e51b30c3f53
 
  It’s a fairly accessible title for kids and those who don’t play video games a lot—and perfect for anyone who likes to embrace their inner chaos goblin.
 
-## 3 A Short Hike ![Video game screenshot of a small bird flying over a wooden bridge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/a-short-hike-screenshot.png)
+## 3 A Short Hike
+![Video game screenshot of a small bird flying over a wooden bridge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/a-short-hike-screenshot.png)
 
 [Adam Robinson-Yu](https://ashorthike.com/)
 
@@ -50,7 +51,8 @@ thumbnail: https://thmb.techidaily.com/a27b3a3de27d6b4c9a23aaf5bc90c6e51b30c3f53
 
  To do so you’ll need to collect feathers that make it possible to fly just a little bit higher each time, and to collect these you’ll explore a park’s various nooks and crannies and meet various other hikers and other park visitors. It’s a sweet reminder of family vacations past, with gameplay that is easy to understand but challenging to fully master (I still haven’t found all the feathers).
 
-## 4 Storyteller ![Video game screenshot of a six-panel comic strip showing a woman being bitten by a vampire and a man kills the vampire, curing the woman](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/storyteller-vampire-screenshot.jpg)
+## 4 Storyteller
+![Video game screenshot of a six-panel comic strip showing a woman being bitten by a vampire and a man kills the vampire, curing the woman](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/storyteller-vampire-screenshot.jpg)
 
 [Daniel Benmergui / Annapurna Interactive](https://annapurnainteractive.com/en/games/storyteller)
 
@@ -62,7 +64,8 @@ thumbnail: https://thmb.techidaily.com/a27b3a3de27d6b4c9a23aaf5bc90c6e51b30c3f53
 
  Storyteller is also now available on mobile as one of [Netflix's games](https://www.makeuseof.com/how-to-play-games-on-netflix/) .
 
-## 5 VA-11 Hall-A: Cyberpunk Bartender Action ![Video game screenshot of a woman with teal hair saying, "It makes me feel comfy and nostalgic."](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/valhalla-bartending-screenshot.png)
+## 5 VA-11 Hall-A: Cyberpunk Bartender Action
+![Video game screenshot of a woman with teal hair saying, "It makes me feel comfy and nostalgic."](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/valhalla-bartending-screenshot.png)
 
 [Sukeban Games / Ysbryd Games](https://waifubartending.com/)
 
@@ -91,3 +94,38 @@ thumbnail: https://thmb.techidaily.com/a27b3a3de27d6b4c9a23aaf5bc90c6e51b30c3f53
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/xbox-third-party-controller-ban-consequences-for-gamers/"><u>Xbox Third-Party Controller Ban – Consequences for Gamers?</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-a-world-of-fun-with-these-compelling-9-reasons-for-using-steam/"><u>Unlock a World of Fun with These Compelling 9 Reasons for Using Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-defender-kit-top-cases-of-24-for-devices/"><u>The Ultimate Defender Kit: Top Cases of '24 for Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/weighing-cost-against-nitros-rewards/"><u>Weighing Cost Against Nitro's Rewards</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719167632937-gaming-excellence-achieved-with-oled-technology/"><u>Gaming Excellence Achieved with OLED Technology.</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-guide-to-unlocking-every-steam-badge/"><u>A Guide to Unlocking Every Steam Badge</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-controller-enhanced-mobile-platforms/"><u>Top Controller-Enhanced Mobile Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-steam-decks-best-friend-emulating-games-via-emudeck/"><u>A Steam Deck's Best Friend: Emulating Games via EmuDeck</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-choices-for-enhancing-your-steam-deck-experience/"><u>Top Choices for Enhancing Your Steam Deck Experience</u></a></li>
+<li><a href="https://driver-install.techidaily.com/comprehensive-guide-on-win810-plus-7-and-xp-startech-fix/"><u>Comprehensive Guide on Win8/10 + 7 & XP: StarTech Fix</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Honor X50i? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-expert-move-dial-down-console-shaking/"><u>The Expert Move: Dial Down Console Shaking</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/dji-unmanned-aircraft-series-basic-high-end-4k-pro/"><u>DJI Unmanned Aircraft Series  Basic, High-End, 4K Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-next-chapter-in-gaming-meta-quest-3-reviewed/"><u>The Next Chapter in Gaming: Meta Quest 3 Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/virtual-detective-duties-powered-by-artificial-intelligence/"><u>Virtual Detective Duties Powered by Artificial Intelligence</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-strategize-music-mixes-your-guide-to-youtube-playlists/"><u>2024 Approved  Strategize Music Mixes  Your Guide to YouTube Playlists</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-swapping-console-zones/"><u>The Ultimate Guide to Swapping Console Zones</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-best-at-memes-app-version/"><u>In 2024, The Best at Memes (App Version)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Vivo V29 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-unraveling-the-secrets-of-iphone-hdr-for-2024/"><u>[New] Unraveling the Secrets of iPhone HDR for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-future-of-viewing-ifa-2023-reveals/"><u>The Future of Viewing: IFA 2023 Reveals</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-ps5-boot-options-6-ways/"><u>The Ultimate Guide to PS5 Boot Options (6 Ways)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-harmony-in-minutes-no-credit-due-for-2024/"><u>[New] Harmony in Minutes, No Credit Due for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-game-magic-with-customizations-on-steam/"><u>Unlocking Game Magic with Customizations on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/10-fun-texting-games-to-play-on-chat-with-friends-and-family/"><u>10 Fun Texting Games to Play on Chat With Friends and Family</u></a></li>
+<li><a href="https://games-able.techidaily.com/10-reasons-why-your-games-keep-crashing-and-how-to-fix-issues/"><u>10 Reasons Why Your Games Keep Crashing (And How to Fix Issues)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/list-of-10-invisible-stories-watchers-for-2024/"><u>List of 10 Invisible Stories Watchers for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-advanced-digital-music-composer-and-cutter-platform/"><u>Updated In 2024, Advanced Digital Music Composer & Cutter Platform</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-all-you-need-to-know-about-adding-apple-music-to-video/"><u>[New] In 2024, All You Need to Know About Adding Apple Music to Video</u></a></li>
+<li><a href="https://games-able.techidaily.com/unwired-playtime-explore-idle-games/"><u>Unwired Playtime: Explore Idle Games</u></a></li>
+</ul></div>

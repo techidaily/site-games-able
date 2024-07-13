@@ -1,7 +1,7 @@
 ---
 title: Efficient Game File Handling Using Steam’s Manager
-date: 2024-06-25T13:17:30.021Z
-updated: 2024-06-26T13:17:30.021Z
+date: 2024-07-12T03:52:53.898Z
+updated: 2024-07-13T03:52:53.898Z
 tags:
   - games
 categories:
@@ -34,11 +34,13 @@ thumbnail: https://thmb.techidaily.com/ebbfde368b81e7f396fe512ace44b149bef6fef39
 
  While the new Steam Storage Manager is great, it’s still hard to get to. Most people don’t even know it exists yet. Once you know where to find it, it’ll be hard to forget, though. Here are two ways to open the Steam Storage Manager.
 
-### 1\. Open the Steam Storage Manager Through the Steam Settings ![Steam Storage Manager in Steam Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/steam-storage-manager-in-steam-settings.jpg)
+### 1\. Open the Steam Storage Manager Through the Steam Settings
+![Steam Storage Manager in Steam Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/steam-storage-manager-in-steam-settings.jpg)
 
  The Steam settings menu itself is pretty hard to find as well (a very strange way of doing things, Valve). However, you might’ve opened it before if you tried setting download speed limits. Simply look to the upper-left corner and click on**Steam > Settings > Storage** .
 
-### 2\. Open the Steam Storage Manager Through the Downloads Page ![Steam downloads page cog wheel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/steam-downloads-page-cog-wheel.jpg)
+### 2\. Open the Steam Storage Manager Through the Downloads Page
+![Steam downloads page cog wheel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/steam-downloads-page-cog-wheel.jpg)
 
  If you’re already on the Steam Downloads page, there’s also a**cog** on the upper right, just below the**close window button** . Click that, and it will take you right to the**Downloads** section on the**Settings** page.
 
@@ -105,3 +107,68 @@ thumbnail: https://thmb.techidaily.com/ebbfde368b81e7f396fe512ace44b149bef6fef39
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/10-reasons-why-your-games-keep-crashing-and-how-to-fix-issues/"><u>10 Reasons Why Your Games Keep Crashing (And How to Fix Issues)</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-controller-enhanced-mobile-platforms/"><u>Top Controller-Enhanced Mobile Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/unwired-playtime-explore-idle-games/"><u>Unwired Playtime: Explore Idle Games</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-current-drone-applications-vs-future-technological-paradigm/"><u>[Updated] 2024 Approved  Current Drone Applications vs Future Technological Paradigm</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/forming-online-meeting-areas-via-whatsapp-for-2024/"><u>Forming Online Meeting Areas via WhatsApp for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-video-creators-guide-to-copyright-compliance-on-youtube/"><u>[New] The Video Creator's Guide to Copyright Compliance on YouTube</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-surviving-and-thriving-adapting-to-facebooks-algorithm-changes/"><u>In 2024, Surviving and Thriving  Adapting to Facebook's Algorithm Changes</u></a></li>
+<li><a href="https://games-able.techidaily.com/10-fun-texting-games-to-play-on-chat-with-friends-and-family/"><u>10 Fun Texting Games to Play on Chat With Friends and Family</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-5-insights-the-power-of-classic-portable-games/"><u>Essential 5 Insights: The Power of Classic Portable Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-your-ps-vr2-adventure/"><u>Enhancing Your PS VR2 Adventure</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719167632937-gaming-excellence-achieved-with-oled-technology/"><u>Gaming Excellence Achieved with OLED Technology.</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-logic-pro-techniques-for-fading-out-sounds/"><u>[New] Logic Pro Techniques for Fading Out Sounds</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-sonys-miniature-gaming-device/"><u>Discovering Sony's Miniature Gaming Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-guide-to-unlocking-every-steam-badge/"><u>A Guide to Unlocking Every Steam Badge</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-7-plus-in-different-conditionsin-drfone-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone 7 Plus In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-instant-viral-potential-learn-kinemaster-memes/"><u>2024 Approved  Instant Viral Potential  Learn KineMaster Memes</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-guide-to-swapping-out-your-daily-youtube-fix/"><u>2024 Approved  The Ultimate Guide to Swapping Out Your Daily YouTube Fix</u></a></li>
+<li><a href="https://games-able.techidaily.com/weighing-cost-against-nitros-rewards/"><u>Weighing Cost Against Nitro's Rewards</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-a-world-of-fun-with-these-compelling-9-reasons-for-using-steam/"><u>Unlock a World of Fun with These Compelling 9 Reasons for Using Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-the-perplexing-roblox-error-code-403-for-windows-users/"><u>Fixing the Perplexing Roblox Error Code 403 for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-subduing-file-explorers-default-views/"><u>Guide to Subduing File Explorer's Default Views</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-game-magic-with-customizations-on-steam/"><u>Unlocking Game Magic with Customizations on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-analysis-top-cards-for-exceptional-xbox-capturing/"><u>Expert Analysis: Top Cards for Exceptional Xbox Capturing</u></a></li>
+<li><a href="https://games-able.techidaily.com/assistant-controller-the-secret-to-ps5-mastery/"><u>Assistant Controller: The Secret to PS5 Mastery</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/avoid-facebooks-invasion-keeping-feeds-free-of-ads-for-2024/"><u>Avoid Facebook's Invasion  Keeping Feeds Free of Ads for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-poco-m6-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Poco M6 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-audio-animation-for-dynamic-snapchat-films/"><u>[New] Audio Animation for Dynamic Snapchat Films</u></a></li>
+<li><a href="https://games-able.techidaily.com/customize-your-interactive-language-in-steam/"><u>Customize Your Interactive Language in Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-fun-in-games-invest-in-high-quality-tech/"><u>Boosting Fun in Games: Invest in High-Quality Tech</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-choices-for-enhancing-your-steam-deck-experience/"><u>Top Choices for Enhancing Your Steam Deck Experience</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevate-your-content-with-these-20-pro-video-shortcuts/"><u>[New] In 2024, Elevate Your Content With These 20 Pro Video Shortcuts</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminate-graphics-stalls-error-0x887a0006-in-win10win11/"><u>Eliminate Graphics Stalls (Error 0X887A0006) in Win10/Win11</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficiently-managing-your-switch-gaming-identity/"><u>Efficiently Managing Your Switch Gaming Identity</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/be-a-reddit-pro-the-13-best-ways-to-make-cash-fast-and-easy/"><u>Be a Reddit Pro  The 13 Best Ways to Make Cash Fast & Easy</u></a></li>
+<li><a href="https://games-able.techidaily.com/virtual-detective-duties-powered-by-artificial-intelligence/"><u>Virtual Detective Duties Powered by Artificial Intelligence</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/assessing-quicker-resume-usage-in-xbox-series-gaming/"><u>Assessing Quicker Résumé Usage in Xbox Series Gaming</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-are-there-restrictions-in-saving-youtube-videos-in-2024/"><u>[New] Are There Restrictions in Saving YouTube Videos, In 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-you-control-your-ps4-with-ps5-controller/"><u>Can You Control Your PS4 with PS5 Controller?</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-the-ultimate-list-free-mac-speech-to-text-apps-that-will-boost-your-productivity/"><u>In 2024, The Ultimate List Free Mac Speech-to-Text Apps That Will Boost Your Productivity</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-conquer-copious-drafts-with-clever-edits-on-tiktok/"><u>[Updated] Conquer Copious Drafts with Clever Edits on TikTok</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Honor Magic5 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/favorite-variety-games-for-multitasking-broadcasters/"><u>Favorite Variety Games for Multitasking Broadcasters</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-streamlining-fb-live-recording-for-maximum-clarity/"><u>2024 Approved  Streamlining FB Live Recording for Maximum Clarity</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-chart-topping-content-youtubes-top-5/"><u>[Updated] 2024 Approved  Chart-Topping Content  YouTube's Top 5</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-an-efficient-strategy-for-low-memory-alerts-on-iphone/"><u>Crafting an Efficient Strategy for Low-Memory Alerts on iPhone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-poco-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Poco?</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-make-a-video-by-mouse-in-filmora/"><u>New In 2024, How To Make a Video by Mouse in Filmora?</u></a></li>
+<li><a href="https://games-able.techidaily.com/dial-in-destination-timezone-tweaks-on-sxb1/"><u>Dial in Destination: Timezone Tweaks on S/XB1</u></a></li>
+<li><a href="https://games-able.techidaily.com/creating-innocuous-steam-fun-for-kids-and-parents/"><u>Creating Innocuous Steam Fun for Kids and Parents</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-framingfraction-analysis-for-2024/"><u>[New] FramingFraction Analysis for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-achieve-high-quality-streams-youtube-and-twitch-via-obs/"><u>[New] 2024 Approved  Achieve High-Quality Streams  YouTube & Twitch via OBS</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-steam-decks-best-friend-emulating-games-via-emudeck/"><u>A Steam Deck's Best Friend: Emulating Games via EmuDeck</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-guide-switching-on-windows-11s-dynamic-hdr-mode/"><u>2024 Approved  Guide  Switching on Windows 11'S Dynamic HDR Mode</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-third-party-controller-ban-consequences-for-gamers/"><u>Xbox Third-Party Controller Ban – Consequences for Gamers?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-capturing-attention-striking-shots-for-youtube-success/"><u>[New] 2024 Approved  Capturing Attention  Striking Shots for YouTube Success</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-white-hardware-choices-on-a-tight-budget/"><u>Essential White Hardware Choices on a Tight Budget</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-social-media-savvy-making-memorable-facebook-reels/"><u>[New] In 2024, Social Media Savvy  Making Memorable Facebook Reels</u></a></li>
+<li><a href="https://games-able.techidaily.com/all-about-palworld-in-a-nutshell/"><u>All About PalWorld, in a Nutshell</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/lullabies-on-a-screen-analysis-of-story-tapes-for-sleep-for-2024/"><u>Lullabies on a Screen  Analysis of Story Tapes for Sleep for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-swapping-console-zones/"><u>The Ultimate Guide to Swapping Console Zones</u></a></li>
+</ul></div>

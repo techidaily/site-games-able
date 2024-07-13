@@ -1,7 +1,7 @@
 ---
 title: "Platform-Exclusive Games Might Be a Thing of The Past: Here's Why That's Good"
-date: 2024-06-25T12:50:31.516Z
-updated: 2024-06-26T12:50:31.516Z
+date: 2024-07-12T03:22:15.885Z
+updated: 2024-07-13T03:22:15.885Z
 tags:
   - games
 categories:
@@ -59,7 +59,8 @@ thumbnail: https://thmb.techidaily.com/98cce883f8c6d6df0bb852da7eb40767e5514e430
 
  The same is true for Nintendo, which has released games featuring some of its biggest characters (Mario, Pokemon) on smartphones. The company hasn't yet released a Mario game on a rival console, but that doesn't mean it never will.
 
-## Why Platform Exclusives Are Going Away ![horizon forbidden west page on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/horizon-forbidden-west-page-on-steam.png)
+## Why Platform Exclusives Are Going Away
+![horizon forbidden west page on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/horizon-forbidden-west-page-on-steam.png)
 
  So, why are platform exclusives coming to an end? The obvious answer is that they're no longer the best option available to the companies responsible. The benefits of opening titles up to everyone, regardless of platform, massively outweigh the benefits of keeping titles exclusive to one console. As outlined above, Phil Spencer, someone who should know, said as much.
 
@@ -102,3 +103,60 @@ thumbnail: https://thmb.techidaily.com/98cce883f8c6d6df0bb852da7eb40767e5514e430
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-iphone-12-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 12</u></a></li>
+<li><a href="https://games-able.techidaily.com/assessing-dual-mode-displays-value-in-pc-gaming/"><u>Assessing Dual-Mode Display's Value in PC Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-windows-error-30005-unable-to-create-files/"><u>Overcoming Windows Error 30005: Unable to Create Files</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-enhance-your-shorts-fresh-and-original-thumbnails-with-minimal-effort-for-2024/"><u>[New] Enhance Your Shorts  Fresh and Original Thumbnails with Minimal Effort for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-revolutionize-your-workflow-best-free-mac-speech-recognition-software-with-no-downloads-for-2024/"><u>Updated Revolutionize Your Workflow Best Free Mac Speech Recognition Software with No Downloads for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/guaranteeing-reliable-mouse-wheel-performance/"><u>Guaranteeing Reliable Mouse Wheel Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/praising-pimaxs-perceptual-prowess-yet-noting-its-nuisances/"><u>Praising Pimax's Perceptual Prowess, Yet Noting Its Nuisances</u></a></li>
+<li><a href="https://games-able.techidaily.com/identifying-your-ideal-elgato-for-productivity-boosts/"><u>Identifying Your Ideal Elgato for Productivity Boosts</u></a></li>
+<li><a href="https://games-able.techidaily.com/budget-friendly-keyboards-a-comprehensive-look/"><u>Budget-Friendly Keyboards: A Comprehensive Look</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-oppo-a38-by-drfone-android/"><u>How to Show Wi-Fi Password on Oppo A38</u></a></li>
+<li><a href="https://games-able.techidaily.com/erasing-previous-save-files-on-ps5-a-step-by-step-guide/"><u>Erasing Previous Save Files on PS5: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/hering-the-code-understanding-what-unlisted-on-youtube-means-for-2024/"><u>Deciphering the Code  Understanding What 'Unlisted' On YouTube Means for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimize-your-stream-with-these-high-ranking-ai-tools-for-twitchers/"><u>Optimize Your Stream with These High-Ranking AI Tools for Twitchers</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-of-the-best-logitech-gaming-mice/"><u>Best of the Best: Logitech Gaming Mice</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-beginner-to-pro-your-roadmap-for-pokemon-igameplay/"><u>From Beginner to Pro: Your Roadmap for Pokémon iGameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/play-under-the-sun-8-summer-ar-games/"><u>Play Under the Sun: 8 Summer AR Games</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-what-is-an-ai-voice-generator-for-2024/"><u>Updated What Is an AI Voice Generator for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcome-software-hurdles-for-a-smooth-steam-experience/"><u>Overcome Software Hurdles for a Smooth Steam Experience</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-samsung-galaxy-f15-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Samsung Galaxy F15 5G Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/revive-and-thrive-with-atlasos-for-old-computers/"><u>Revive and Thrive with ATLASOS for Old Computers</u></a></li>
+<li><a href="https://games-able.techidaily.com/be-first-in-line-preorder-marvels-spidey-for-ps5/"><u>Be First in Line - Preorder Marvel's Spidey for PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/mac-integration-with-nintendo-switch-games/"><u>Mac Integration with Nintendo Switch Games</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/decoding-the-usage-of-pfp-across-social-networks-including-tiktok-for-2024/"><u>Decoding the Usage of 'PFP' Across Social Networks, Including TikTok for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-chime-connoisseurs-curated-list-of-download-websites/"><u>2024 Approved  Chime Connoisseurs  Curated List of Download Websites</u></a></li>
+<li><a href="https://games-able.techidaily.com/companionable-conquest-the-best-15-smartphone-duo-adventures/"><u>Companionable Conquest: The Best 15 Smartphone Duo Adventures</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/effortless-embedding-techniques-for-streaming-video-in-presentations-for-2024/"><u>Effortless Embedding Techniques for Streaming Video in Presentations for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-revealed-the-best-10-in-4k-no-hassle/"><u>[Updated] Revealed  The Best 10 in 4K, No Hassle</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-ideal-choices-the-very-best-6-video-grabber-tools/"><u>[New] In 2024, Ideal Choices  The Very Best 6 Video Grabber Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/methods-for-overcoming-required-items-failure/"><u>Methods for Overcoming ‘Required Items’ Failure</u></a></li>
+<li><a href="https://games-able.techidaily.com/comprehensive-fixes-to-robloxs-error-code-403-a-guide-for-pc-gamers/"><u>Comprehensive Fixes to Roblox's Error Code 403: A Guide for PC Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/new-steam-features-enhance-family-playtime-today/"><u>New Steam Features Enhance Family Playtime Today</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-itel-p55plus-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Itel P55+ Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://games-able.techidaily.com/hall-effect-keys-for-gamers-review-of-mod007b/"><u>Hall Effect Keys for Gamers - Review of Mod007B</u></a></li>
+<li><a href="https://games-able.techidaily.com/retro-play-simulating-historic-pokemon-games/"><u>Retro Play: Simulating Historic Pokémon Games</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-the-ancient-art-of-role-playing-evolutionary-trajectory/"><u>[Updated] 2024 Approved  The Ancient Art of Role-Playing  Evolutionary Trajectory</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/mastering-vocal-alteration-in-free-fire-complimentary-tips/"><u>Mastering Vocal Alteration in Free Fire  Complimentary Tips</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/step-by-step-setting-up-snapchat-on-mac-for-2024/"><u>Step-by-Step  Setting Up Snapchat on Mac for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-comparing-stream-quality-with-obs-studio-and-fraps/"><u>[Updated] Comparing Stream Quality with OBS Studio and Fraps</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-playing-to-puzzle-dismantling-xbox-s-controllers/"><u>From Playing to Puzzle: Dismantling Xbox S Controllers</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-steam-deck-to-hands-on-power-the-pdw4-tale/"><u>From Steam Deck to Hands-On Power - The PDW4 Tale</u></a></li>
+<li><a href="https://games-able.techidaily.com/contrary-to-belief-the-strength-of-30fps/"><u>Contrary to Belief: The Strength of 30FPS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovating-imagery-topiary-techniques-for-stellar-iphone-photos/"><u>In 2024, Innovating Imagery  Topiary Techniques for Stellar iPhone Photos</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-lost-dll-mfc71u-on-windows/"><u>Troubleshooting Lost DLL: Mfc71u on Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/remedying-launcher-malfunction-in-mc-with-code-0x803f8001/"><u>Remedying Launcher Malfunction in MC with Code 0X803F8001</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-region-swap-on-nintendo-switch/"><u>Mastering Region Swap on Nintendo Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-install-game-launchers-on-your-steam-deck/"><u>How to Install Game Launchers on Your Steam Deck</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-maximize-view-count-best-yt-thumbnail-sizes/"><u>In 2024, Maximize View Count  Best YT Thumbnail Sizes</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-movie-magic-9-best-intro-makers-for-your-video-projects/"><u>New Movie Magic 9 Best Intro Makers for Your Video Projects</u></a></li>
+<li><a href="https://games-able.techidaily.com/minimizing-roblox-written-in-swift-ios-memory-management-guide/"><u>Minimizing Roblox' Written in Swift: IOS Memory Management Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-crafting-the-perfect-soundtrack-for-your-vimeo-content/"><u>In 2024, Crafting the Perfect Soundtrack for Your Vimeo Content</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-your-androids-potential-for-steam-gaming/"><u>Maximize Your Android's Potential for Steam Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-polling-rates-for-peak-productivity/"><u>Optimal Polling Rates for Peak Productivity?</u></a></li>
+<li><a href="https://games-able.techidaily.com/competing-with-precision-in-tetris-showdowns-phone-style/"><u>Competing with Precision in Tetris Showdowns, Phone Style</u></a></li>
+</ul></div>

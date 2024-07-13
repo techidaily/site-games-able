@@ -1,7 +1,7 @@
 ---
 title: "Chat & Builds: Top 5 Ways Friends Can Join Forces in MC"
-date: 2024-06-25T13:01:52.486Z
-updated: 2024-06-26T13:01:52.486Z
+date: 2024-07-12T03:35:15.799Z
+updated: 2024-07-13T03:35:15.799Z
 tags:
   - games
 categories:
@@ -28,7 +28,8 @@ thumbnail: https://thmb.techidaily.com/06e8346e5608d987194209ad6987c897b2a9a9792
 
  While Java Edition is only on PC, you can [play Minecraft on Steam Link](https://www.makeuseof.com/how-to-play-game-pass-on-steam-link-with-glossi/) and play it on your TV, phone, or tablet and get close to a cross-platform experience.
 
-### Minecraft Java Edition ![Minecraft multiplayer server list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/mc-server-list-multiplayer.png)
+### Minecraft Java Edition
+![Minecraft multiplayer server list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/mc-server-list-multiplayer.png)
 
  Public servers are what most Java players use to link up with others. Servers are free to join and you can find them by using any of the many server-listing sites such as [minecraftservers.org](https://minecraftservers.org) (just search "Minecraft Servers" in your web browser to find more listing sites).
 
@@ -41,7 +42,8 @@ thumbnail: https://thmb.techidaily.com/06e8346e5608d987194209ad6987c897b2a9a9792
 
  Joining servers in Bedrock Edition is a lot easier, here's how to do it:
 
-### Minecraft Bedrock Edition ![Minecraft Bedrock Edition Servers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/minecraft-bedrock-edition-servers.jpg)
+### Minecraft Bedrock Edition
+![Minecraft Bedrock Edition Servers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/minecraft-bedrock-edition-servers.jpg)
 
  While your range is narrower than Java Edition players', there are definitely public servers you can join to play Minecraft with your friends in Bedrock Edition.
 
@@ -74,7 +76,8 @@ thumbnail: https://thmb.techidaily.com/06e8346e5608d987194209ad6987c897b2a9a9792
 
  Minecraft Realms is available for both Java and Bedrock, but they are separate subscriptions. Realms are officially hosted servers that you have to pay for, but it has the benefit of being more convenient, streamlined, and reliable than third-party hosting services.
 
-### How to Create a Minecraft Realm ![Minecraft Realms start new realm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/minecraft-realms-start-new-realm-1.jpg)
+### How to Create a Minecraft Realm
+![Minecraft Realms start new realm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/minecraft-realms-start-new-realm-1.jpg)
 
 **Java Edition** : First, you'll need to purchase a subscription for a Realm (you can check the pricing plans on [Minecraft's website](https://www.minecraft.net/en-us/realms-for-java/plans/) ). You can activate a 30-day free trial to test the waters and cancel anytime.
 
@@ -98,7 +101,8 @@ thumbnail: https://thmb.techidaily.com/06e8346e5608d987194209ad6987c897b2a9a9792
 
  Now that you know how to create a Realm, you probably want to check out your friends' Realms too. Here's how to join a Realm:
 
-### How to Join a Minecraft Realm ![Minecraft Realms invite envelope](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/minecraft-realms-invite-envelope.jpg)
+### How to Join a Minecraft Realm
+![Minecraft Realms invite envelope](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/minecraft-realms-invite-envelope.jpg)
 
 **Java Edition** : If you've received an invitation to join your friend's Realm, open Minecraft and navigate to**Minecraft Realms** .
 
@@ -114,7 +118,8 @@ thumbnail: https://thmb.techidaily.com/06e8346e5608d987194209ad6987c897b2a9a9792
 
  While servers are the best way to play Minecraft with friends who are far away, a LAN (Local Access Network) connection is an easy way to craft with friends who are nearby.
 
-### Minecraft Java Edition ![Minecraft Java edition scanning for LAN games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/mc-scanning-for-lan-games.png)
+### Minecraft Java Edition
+![Minecraft Java edition scanning for LAN games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/mc-scanning-for-lan-games.png)
 
  If you're under the same local IP address as the player you want to join, you can do this pretty easily. Launch Minecraft and click on**Multiplayer** . Minecraft will automatically scan for games on your local network.
 
@@ -124,7 +129,8 @@ thumbnail: https://thmb.techidaily.com/06e8346e5608d987194209ad6987c897b2a9a9792
 
  LAN play is on by default in Bedrock Edition. Just navigate to the**Worlds** tab, and if there are any available games on your network, they'll appear here for you to join.
 
-## 5\. Use Minecraft Split-Screen ![Split Screen Minecraft on Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/img_3176.jpeg)
+## 5\. Use Minecraft Split-Screen
+![Split Screen Minecraft on Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/img_3176.jpeg)
 
  Just like old-school console games, you can play split-screen on Minecraft Bedrock edition with up to four players. This is only available on consoles, but you can get on your couch, and [play split-screen Minecraft on your Nintendo Switch](https://www.makeuseof.com/how-to-play-two-player-minecraft-on-nintendo-switch/) .
 
@@ -151,3 +157,45 @@ thumbnail: https://thmb.techidaily.com/06e8346e5608d987194209ad6987c897b2a9a9792
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/addressing-roblox-error-262-anomaly/"><u>Addressing Roblox: Error 262 Anomaly</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-display-hang-up-eradicating-dxgierror-0x887a0006-in-win1111/"><u>Addressing Display Hang-Up - Eradicating DXGI_ERROR 0X887A0006 in Win11/11</u></a></li>
+<li><a href="https://games-able.techidaily.com/adjusting-discords-game-overlay-on-pc/"><u>Adjusting Discord’s Game Overlay on PC</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-future-sounds-a-journey-through-the-new-wave-of-elegiac-harmonies-for-2024/"><u>Updated Future Sounds A Journey Through the New Wave of Elegiac Harmonies for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-word-of-caution-for-those-attracted-to-linkedins-game-feature/"><u>A Word of Caution for Those Attracted to LinkedIn's Game Feature</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-closer-look-at-mobilitys-flaws-in-playing/"><u>A Closer Look at Mobility's Flaws in Playing</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-beginners-guide-to-steam-in-big-screen-mode/"><u>A Beginner’s Guide to Steam in Big Screen Mode</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieve-seamless-gaming-experience-on-steam-by-clearing-titles/"><u>Achieve Seamless Gaming Experience on Steam by Clearing Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-comprehensible-guide-to-using-google-play-games-desktop-version/"><u>A Comprehensible Guide to Using Google Play Games Desktop Version</u></a></li>
+<li><a href="https://games-able.techidaily.com/20-ways-to-improve-gaming-performance-on-your-laptop/"><u>20 Ways to Improve Gaming Performance on Your Laptop</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-look-at-the-most-outstanding-leds/"><u>A Look at the Most Outstanding LEDs</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-vocalists-choice-the-finest-9-online-mic-recorders/"><u>[New] Vocalist's Choice  The Finest 9 Online Mic Recorders</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieving-persistent-ps5-network-links/"><u>Achieving Persistent PS5 Network Links</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-poco-x6-pro-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Poco X6 Pro Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/clearer-screen-cleaner-sound-techniques-for-dampening-background-audio-in-digital-videos/"><u>Clearer Screen, Cleaner Sound Techniques for Dampening Background Audio in Digital Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-explore-top-12-gear-best-on-the-go-flip-screen-cameras/"><u>[Updated] Explore Top 12 Gear  Best On-the-Go Flip-Screen Cameras</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-comprehensive-look-at-steam-decks-keyboard/"><u>A Comprehensive Look at Steam Deck's Keyboard</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expert-insights-making-time-move-with-your-hero-10-camera/"><u>Expert Insights  Making Time Move with Your Hero 10 Camera</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-breakthrough-tactics-for-improved-voice-identity-in-pubg/"><u>In 2024, Breakthrough Tactics for Improved Voice Identity in PUBG</u></a></li>
+<li><a href="https://games-able.techidaily.com/3-quick-fixes-for-recognizing-unplugged-headsets-on-xbox/"><u>3 Quick Fixes for Recognizing Unplugged Headsets on Xbox</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-anymp4-screen-recorder-review-for-2024/"><u>[New] AnyMP4 Screen Recorder Review for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/ace-in-the-hole-adding-windows-to-your-steam-deck/"><u>Ace in the Hole: Adding Windows to Your Steam Deck</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-thriving-as-a-team-on-youtube-perfect-pairings-for-success/"><u>2024 Approved  Thriving as a Team on YouTube  Perfect Pairings for Success</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-steps-to-prevent-incompatibility-in-your-new-computer-buy/"><u>7 Steps to Prevent Incompatibility in Your New Computer Buy</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-missing-titles-in-steam-inventory/"><u>Addressing Missing Titles in Steam Inventory</u></a></li>
+<li><a href="https://games-able.techidaily.com/accessory-upgrades-transform-your-playtime/"><u>Accessory Upgrades Transform Your Playtime</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719166384648-maximizing-your-budget-these-are-the-best-1440p-monitors/"><u>Maximizing Your Budget? These Are the Best 1440P Monitors!</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/how-to-change-voice-on-snapchat-with-2-easy-methods-for-2024/"><u>How to Change Voice on Snapchat with 2 Easy Methods for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-non-sticky-scroll-wheel-problems/"><u>Addressing Non-Sticky Scroll Wheel Problems</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-skyrocket-your-youtube-speed-render-and-upload-hacks/"><u>In 2024, Skyrocket Your YouTube Speed - Render and Upload Hacks</u></a></li>
+<li><a href="https://facebook.techidaily.com/ranking-safe-digital-connections/"><u>Ranking Safe Digital Connections</u></a></li>
+<li><a href="https://games-able.techidaily.com/adept-utilization-of-xbox-add-ons-with-series-sx/"><u>Adept Utilization of Xbox Add-Ons with Series S/X</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-samsung-galaxy-z-flip-5-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Samsung Galaxy Z Flip 5 Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-driver-not-starting-on-modern-windows-pcs/"><u>Addressing Driver Not Starting on Modern Windows PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/8-features-that-make-microsoft-edge-the-best-gaming-browser/"><u>8 Features That Make Microsoft Edge the Best Gaming Browser</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-wizardry-of-images-elevate-your-snapchat-with-edits-for-2024/"><u>[New] The Wizardry of Images  Elevate Your Snapchat with Edits for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieve-peak-performance-with-optimal-mouse-settings-in-gaming/"><u>Achieve Peak Performance with Optimal Mouse Settings in Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719170335503-what-is-the-essence-of-meta-in-video-games-compliance-matters/"><u>What Is the Essence of Meta in Video Games? Compliance Matters!</u></a></li>
+</ul></div>

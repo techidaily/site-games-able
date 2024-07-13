@@ -1,7 +1,7 @@
 ---
 title: "A Journey Through Time: Foddian Games Origin"
-date: 2024-06-25T13:22:40.347Z
-updated: 2024-06-26T13:22:40.347Z
+date: 2024-07-12T03:58:43.462Z
+updated: 2024-07-13T03:58:43.462Z
 tags:
   - games
 categories:
@@ -22,7 +22,8 @@ thumbnail: https://thmb.techidaily.com/f60b5cb5d31f0db6c00b1faa5bbb82ce655e5c5fa
 
  Games that fall under the Foddian category are as unique as the name, but how did they come about? Here are some events that led to a platform game revolution, birthing the Foddian genre as we know and love it.
 
-### The First Bennet Foddy Game ![A guy in a pot holding a sledgehammer who is about to fall off a cliff](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/2-getting-over-it.jpg)
+### The First Bennet Foddy Game
+![A guy in a pot holding a sledgehammer who is about to fall off a cliff](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/2-getting-over-it.jpg)
 
  It all began with the Foddian game, "Getting Over It with Bennett Foddy". Getting Over It is a puzzle game that challenges the player to use a sledgehammer to propel themselves up steep ledges and across slick platforms to get to space. “Foddian” refers to the creator of the first game, Bennett Foddy, in this genre and represents titles of a similar format.
 
@@ -32,7 +33,8 @@ thumbnail: https://thmb.techidaily.com/f60b5cb5d31f0db6c00b1faa5bbb82ce655e5c5fa
 
  Getting Over It wasn’t the first platformer, but it created a format that has been improved upon in newer games that fall under the Foddian genre. Bennet Foddy pioneered an era of gaming, whether he intended to or not, and complex puzzle platforming games are better for it.
 
-### The Rise of Jump King ![The Jump King lying flat on a mossy platform after falling](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-jump-king.jpg)
+### The Rise of Jump King
+![The Jump King lying flat on a mossy platform after falling](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-jump-king.jpg)
 
  Jump King is a title that transcends the Foddian game genre. You may have heard about the game thanks to its tendency to be played live on Twitch streams. Speedrunners are especially fond of the small series of Jump King games.
 
@@ -42,7 +44,8 @@ thumbnail: https://thmb.techidaily.com/f60b5cb5d31f0db6c00b1faa5bbb82ce655e5c5fa
 
  Almost every popular streamer and YouTuber you can think of has played Jump King to some extent, indirectly marketing the game to their viewers. As such, it didn’t take long for a community to spawn around this game, and it remains one of the most played in its genre.
 
-## Foddian Games and Content Creation ![A streaming setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-streamer.jpg)
+## Foddian Games and Content Creation
+![A streaming setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-streamer.jpg)
 
  Streaming goes beyond just playing a game. Streamers understand that they need to engage their chat as much as possible to keep interest high. Fortunately, Foddian games are the perfect gateway for viewer engagement.
 
@@ -97,3 +100,74 @@ thumbnail: https://thmb.techidaily.com/f60b5cb5d31f0db6c00b1faa5bbb82ce655e5c5fa
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-convert-for-free-from-twitter-videos-to-animated-gifs/"><u>[Updated] Convert for Free  From Twitter Videos to Animated Gifs</u></a></li>
+<li><a href="https://games-able.techidaily.com/remedying-the-0x887a0006-dxgierror-in-win1111/"><u>Remedying the 0X887A0006 DXGI_ERROR in Win11/11</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/comprehensive-bg3-gear-checklist-and-more/"><u>Comprehensive BG3 Gear Checklist & More</u></a></li>
+<li><a href="https://games-able.techidaily.com/android-companion-emulating-your-favored-dreamcatcher-titles/"><u>Android Companion: Emulating Your Favored Dreamcatcher Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/apc-handheld-reinvented-the-pdw4-story/"><u>APC Handheld Reinvented: The PDW4 Story</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-elite-arena-top-10-royale-game-spectacles/"><u>[New] In 2024, Elite Arena  Top 10 Royale Game Spectacles</u></a></li>
+<li><a href="https://games-able.techidaily.com/choose-your-battles-wisely-switches-in-gaming/"><u>Choose Your Battles Wisely: SWITCHES in Gaming</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-diy-techniques-transforming-smartphones-into-webcams/"><u>[New] In 2024, DIY Techniques  Transforming Smartphones Into Webcams</u></a></li>
+<li><a href="https://games-able.techidaily.com/browsing-for-fun-the-9-intriguing-advantages-and-disadvantages-of-e-games/"><u>Browsing for Fun: The 9 Intriguing Advantages & Disadvantages of E-Games</u></a></li>
+<li><a href="https://windows11.techidaily.com/alleviating-overuse-of-wmi-in-windows-installer/"><u>Alleviating Overuse of WMI in Windows Installer</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-a-digital-signature-block-to-word-2000-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to add a digital signature block to Word 2000</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-up-your-arcade-game-with-massive-fronts/"><u>Step Up Your Arcade Game with Massive Fronts</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-peak-performance-elevate-low-fps-on-pc/"><u>Unleash Peak Performance: Elevate Low FPS on PC</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-best-free-video-editing-programs-you-should-know/"><u>In 2024, Best Free Video Editing Programs You Should Know</u></a></li>
+<li><a href="https://games-able.techidaily.com/acquiring-ps5-steamboat-to-fortnite-vip-points/"><u>Acquiring PS5: Steamboat to Fortnite VIP Points</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/little-known-ways-of-adding-emojis-to-photos-on-iphone-and-android-2023-for-2024/"><u>Little Known Ways of Adding Emojis to Photos on iPhone & Android 2023 for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pictureweaversierra-blending-apple-media-artfully/"><u>[Updated] PictureWeaverSierra  Blending Apple Media Artfully</u></a></li>
+<li><a href="https://games-able.techidaily.com/old-systems-new-strength-atlasos-power-up/"><u>Old Systems, New Strength: AtlasOS Power-Up</u></a></li>
+<li><a href="https://games-able.techidaily.com/conquering-windows-11-steam-installation-errors/"><u>Conquering Windows 11 Steam Installation Errors</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Vivo Y77t? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidia-vs-asus-picking-the-best-gpu-out-there/"><u>Nvidia Vs. ASUS: Picking the Best GPU Out There</u></a></li>
+<li><a href="https://games-able.techidaily.com/smart-choices-affordable-white-motherboards/"><u>Smart Choices: Affordable White Motherboards</u></a></li>
+<li><a href="https://games-able.techidaily.com/conquer-classic-ps3-titles-30-powerful-pc-emulators/"><u>Conquer Classic PS3 Titles: 30 Powerful PC Emulators</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Lava Yuva 3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/11-useful-youtube-seo-tips-to-rank-your-video/"><u>11 Useful YouTube SEO Tips to Rank Your Video</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-infographic-dji-mavic-air-vs-dji-spark-a-gamer-changer-again/"><u>[New] [Infographic] DJI Mavic Air Vs. DJI Spark - A Gamer Changer Again?</u></a></li>
+<li><a href="https://games-able.techidaily.com/unblocking-dxgi-device-hang-issue-error-0x887a0006/"><u>Unblocking DXGI: Device Hang Issue, Error 0X887A0006</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-from-iphone-6-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock From iPhone 6 You Should Try Out</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionize-your-gaming-setup-psvr2-accessories/"><u>Revolutionize Your Gaming Setup: PSVR2 Accessories</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-hits-back-against-easy-refund-scams/"><u>Steam Hits Back Against Easy Refund Scams</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-enhance-your-tiktok-viewing-experience/"><u>[Updated] Enhance Your TikTok Viewing Experience</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-20-essentials-every-new-creator-should-own/"><u>In 2024, 20 Essentials Every New Creator Should Own</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ye-catcher-gaming-creating-striking-template-designs/"><u>[New] Eye Catcher Gaming  Creating Striking Template Designs</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-epitome-of-gaming-power-razers-low-latency-v3-pro/"><u>The Epitome of Gaming Power: Razer's Low Latency V3 Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-leading-contenders-in-elgato-steam-decks/"><u>Unveiling the Leading Contenders in Elgato Steam Decks</u></a></li>
+<li><a href="https://games-able.techidaily.com/visionary-swings-for-game-changers/"><u>Visionary Swings for Game-Changers</u></a></li>
+<li><a href="https://games-able.techidaily.com/weighing-mobile-gamings-positive-and-negative-aspects/"><u>Weighing Mobile Gaming's Positive and Negative Aspects</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719168126928-space-saving-systems-vs-traditional-workstations-make-your-choice/"><u>Space-Saving Systems Vs. Traditional Workstations: Make Your Choice!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/maximizing-visibility-with-smart-hashtag-use-in-fb-advertising/"><u>Maximizing Visibility with Smart Hashtag Use in FB Advertising</u></a></li>
+<li><a href="https://windows11.techidaily.com/keep-your-data-and-save-space-win11s-secure-drive-management-methods-max-156-chars/"><u>Keep Your Data and Save Space: Win11's Secure Drive Management Methods (Max 156 Chars)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-tecno-spark-go-2023-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Tecno Spark Go (2023) to Protect Your Individual Information</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-enhancing-accessibility-documenting-computer-audio-in-audacity/"><u>Updated 2024 Approved Enhancing Accessibility Documenting Computer Audio in Audacity</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-social-media-snipping-an-easy-method-for-capturing-twitters-gifs/"><u>[Updated] Social Media Snipping  An Easy Method for Capturing Twitter’s GIFs</u></a></li>
+<li><a href="https://games-able.techidaily.com/smarter-system-control-with-corsair-icue-link-top-4-reasons-to-purchase/"><u>Smarter System Control with Corsair iCUE Link - Top 4 Reasons to Purchase</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-bars-universal-game-accessibility/"><u>Beyond Bars: Universal Game Accessibility</u></a></li>
+<li><a href="https://games-able.techidaily.com/3-alternative-methods-for-enjoying-flash-games-post-adobe/"><u>3 Alternative Methods for Enjoying Flash Games Post-Adobe</u></a></li>
+<li><a href="https://games-able.techidaily.com/transforming-virtual-fun-steam-gaming-setup-for-meta-quest-headset/"><u>Transforming Virtual Fun: Steam Gaming Setup for Meta Quest Headset</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-streaming-your-desktop-adventures-to-steam-deck/"><u>Step-by-Step: Streaming Your Desktop Adventures to Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/building-a-robust-steam-wallet-investment-guide/"><u>Building a Robust Steam Wallet - Investment Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/cosmic-crafter-navigating-novel-pc-choices/"><u>Cosmic Crafter: Navigating Novel PC Choices</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-fixes-for-robloxs-error-262/"><u>Unveiling Fixes for Roblox's Error 262</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-playing-legacy-xbox-games-on-pc/"><u>Step-by-Step: Playing Legacy Xbox Games on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-the-steam-deck-experience-with-keyboard-settings-optimization/"><u>Streamlining the Steam Deck Experience with Keyboard Settings Optimization</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719170370005-enriching-joy-con-gameplay-with-additional-inputs-96-chars-adjusted-for-relevancy-and-fitting-within-limits/"><u>Enriching Joy-Con Gameplay with Additional Inputs (96 Chars) - Adjusted for Relevancy and Fitting Within Limits.</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-steam-login-issues-on-rust-oses/"><u>Streamlining Steam Login Issues on Rust OSes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/disable-blank-window-mode-on-win10/"><u>Disable Blank Window Mode on Win10</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-steam-disconnection-issue-on-pc/"><u>Addressing Steam Disconnection Issue on PC</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-brief-methods-for-sending-iphone-media-to-pc/"><u>[Updated] Brief Methods for Sending iPhone Media to PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-monitors-gameplay-at-165hz/"><u>Optimal Monitors: Gameplay at 165Hz</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-maximize-video-potential-a-complete-guide-to-youtube-thumbnail-dimensions/"><u>[New] Maximize Video Potential  A Complete Guide to YouTube Thumbnail Dimensions</u></a></li>
+<li><a href="https://games-able.techidaily.com/protect-your-kids-navigating-discords-risks/"><u>Protect Your Kids: Navigating Discord's Risks</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-list-of-2024s-top-nintendo-switch-docks/"><u>The Ultimate List of 2024'S Top Nintendo Switch Docks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-industrial-giants-taking-flight-heavy-duty-drones/"><u>2024 Approved  Industrial Giants Taking Flight  Heavy-Duty Drones</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-the-essentials-to-establish-a-singular-hashtag-on-tiktok/"><u>[Updated] 2024 Approved  The Essentials to Establish a Singular Hashtag on TikTok</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-halts-loophole-exploitation-impact-explored/"><u>Steam Halts Loophole Exploitation: Impact Explored</u></a></li>
+</ul></div>

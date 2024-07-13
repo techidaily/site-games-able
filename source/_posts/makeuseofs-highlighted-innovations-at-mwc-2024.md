@@ -1,7 +1,7 @@
 ---
 title: MakeUseOf's Highlighted Innovations at MWC 2024
-date: 2024-06-25T12:48:34.576Z
-updated: 2024-06-26T12:48:34.576Z
+date: 2024-07-12T03:05:55.554Z
+updated: 2024-07-13T03:05:55.554Z
 tags:
   - games
 categories:
@@ -35,7 +35,8 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 
  Either way, they've all made MakeUseOf's Best of MWC 2024 list—in no particular order.
 
-## 1\. Tecno Megabook T16 Pro ![tecno megabook ultimate t16 with awards mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/tecno-megabook-ultimate-t16-with-awards-mwc-2024.jpg)
+## 1\. Tecno Megabook T16 Pro
+![tecno megabook ultimate t16 with awards mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/tecno-megabook-ultimate-t16-with-awards-mwc-2024.jpg)
 
  Gavin Phillips/MakeUseOf
 
@@ -51,7 +52,8 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 
  Furthermore, the Megabook T16 Pro ships with a whopping 99.99Wh battery that supports 100W charging, and its upgraded 65W cooling system helps to keep everything purring along nicely.
 
-## 2\. Honor Magic 6 Pro ![honor magic 6 pro on stand with muo mwc 2024 award](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/honor-magic-6-pro-on-stand-with-muo-mwc-2024-award.jpg)
+## 2\. Honor Magic 6 Pro
+![honor magic 6 pro on stand with muo mwc 2024 award](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/honor-magic-6-pro-on-stand-with-muo-mwc-2024-award.jpg)
 
  Gavin Phillips/MakeUseOf
 
@@ -69,7 +71,8 @@ Close
 
  Finally, Honor's second-generation silicon-carbon battery allows it to pack in a whopping 5,600mAh while keeping the Magic 6 Pro's design slim and sleek; it's a great bit of kit.
 
-## 3\. Motorola Adaptive Display Concept ![motorola adaptive display concept smartphone with muo mwc 2024 award](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/motorola-adaptive-display-concept-smartphone-with-muo-mwc-2024-award.jpg)
+## 3\. Motorola Adaptive Display Concept
+![motorola adaptive display concept smartphone with muo mwc 2024 award](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/motorola-adaptive-display-concept-smartphone-with-muo-mwc-2024-award.jpg)
 
  Gavin Phillips/MakeUseOf
 
@@ -79,7 +82,8 @@ Close
 
  The concept smartphone features a 6.9-inch pOLED screen. Most interestingly, the battery and other components are built in multiple segments to help the device achieve its bendiness.
 
-## 4\. Tecno Camon 30 Premier 5G ![tecno camon on stand with muo mwc 2024 award](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/tecno-camon-on-stand-with-muo-mwc-2024-award.jpg)
+## 4\. Tecno Camon 30 Premier 5G
+![tecno camon on stand with muo mwc 2024 award](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/tecno-camon-on-stand-with-muo-mwc-2024-award.jpg)
 
  Gavin Phillips/MakeUseOf
 
@@ -95,7 +99,8 @@ Close
 
  It also includes a substantial 5,000mAh battery and supports 70W fast charging.
 
-## 5\. ZTE Nubia Flip 5G ![zte nubia flip 5g smartphone on stand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/zte-nubia-flip-5g-smartphone-on-stand.jpg)
+## 5\. ZTE Nubia Flip 5G
+![zte nubia flip 5g smartphone on stand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/zte-nubia-flip-5g-smartphone-on-stand.jpg)
 
  Gavin Phillips/MakeUseOf
 
@@ -109,7 +114,8 @@ Close
 
  The budget flip-phone market is heating up, with strong entries like the ZTE Nubia Flip 5G and Tecno Phantom V Flip 5G battling it out with the Motorola Razr.
 
-## 6\. Ayaneo Pocket S ![ayaneo pocket s on stand at mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/ayaneo-pocket-s-on-stand-at-mwc-2024.jpg)
+## 6\. Ayaneo Pocket S
+![ayaneo pocket s on stand at mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/ayaneo-pocket-s-on-stand-at-mwc-2024.jpg)
 
  Gavin Phillips/MakeUseOf
 
@@ -123,7 +129,8 @@ Close
 
  The Pocket S also features multiple performance modes, integrated vibration, RGB lighting on the Hall Sensing joysticks, and heaps of gaming integrations.
 
-## 7\. Xiaomi 14 Ultra ![xiaomi 14 ultra on stand mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/xiaomi-14-ultra-on-stand-mwc-2024.jpg)
+## 7\. Xiaomi 14 Ultra
+![xiaomi 14 ultra on stand mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/xiaomi-14-ultra-on-stand-mwc-2024.jpg)
 
  Gavin Phillips/MakeUseOf
 
@@ -137,7 +144,8 @@ Close
 
  Like Honor, Xiaomi has also made the jump to a new silicon carbon cell battery, which delivers greater power density. The Xiaomi 14 Ultra has a 5,300mAh battery, along with 90W wired fast charging and 80W wireless charging.
 
-## 8\. Honor MagicBook Pro 16 ![honor magicbook pro 16 at mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/honor-magicbook-pro-16-at-mwc-2024.jpg)
+## 8\. Honor MagicBook Pro 16
+![honor magicbook pro 16 at mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/honor-magicbook-pro-16-at-mwc-2024.jpg)
 
  Gavin Phillips/MakeUseOf
 
@@ -151,7 +159,8 @@ Close
 
  Furthermore, the MagicBook Pro 16 comes equipped with an Nvidia RTX 4060 GPU, which is plenty powerful, and a 75Wh battery, which Honor says should last up to ten hours (usage dependant).
 
-## 9\. Tecno Phantom Ultimate Concept ![tecno phantom ultimate concept smartphone in hand closed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/tecno-phantom-ultimate-concept-smartphone-in-hand-closed.jpg)
+## 9\. Tecno Phantom Ultimate Concept
+![tecno phantom ultimate concept smartphone in hand closed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/tecno-phantom-ultimate-concept-smartphone-in-hand-closed.jpg)
 
  Gavin Phillips/MakeUseOf
 
@@ -161,7 +170,8 @@ Close
 
  It's also decently slimline, measuring 9.93mm thickness, and feels good in your hand. The extra tech for the sliding mechanism doesn't add much to its weight at all.
 
-## 10\. ZTE Nubia Pad 3D II ![zte nubia 3d pad II on stand at mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/zte-nubia-3d-pad-ii-on-stand-at-mwc-2024.jpg)
+## 10\. ZTE Nubia Pad 3D II
+![zte nubia 3d pad II on stand at mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/zte-nubia-3d-pad-ii-on-stand-at-mwc-2024.jpg)
 
  Gavin Phillips/MakeUseOf
 
@@ -173,7 +183,8 @@ Close
 
  The 3D glasses-free tech is great on its own, but what's better is that the Nubia Pad 3D II will convert images, video, and games from 2D into 3D, giving you incredible depth across an 86-degree viewing angle. It also runs at 2560x1600, giving great resolution, and the 3D effect is evident from a wide range of viewing points.
 
-## 11\. Samsung Galaxy Ring ![samsung galaxy smart ring on stand at mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/samsung-galaxy-smart-ring-on-stand-at-mwc-2024.jpg)
+## 11\. Samsung Galaxy Ring
+![samsung galaxy smart ring on stand at mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/samsung-galaxy-smart-ring-on-stand-at-mwc-2024.jpg)
 
  Gavin Phillips/MakeUseOf
 
@@ -185,7 +196,8 @@ Close
 
  The Samsung Galaxy Ring also looks smart, eschewing the matte option delivered by other smart ring options in favor of a shiny metal finish.
 
-## 12\. Lenovo ThinkBook Transparent Concept ![lenovo transparent laptop concept mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/lenovo-transparent-laptop-concept-mwc-2024.jpg)
+## 12\. Lenovo ThinkBook Transparent Concept
+![lenovo transparent laptop concept mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/lenovo-transparent-laptop-concept-mwc-2024.jpg)
 
  Gavin Phillips/MakeUseOf
 
@@ -214,3 +226,55 @@ Close
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/tricks-to-project-an-invisible-presence-in-steam/"><u>Tricks to Project an Invisible Presence in Steam</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-clear-youtube-watch-later-playlist/"><u>[Updated] In 2024, How to Clear YouTube Watch Later Playlist</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-gpt-top-6-strategies-for-a-flawless-game-guide/"><u>Mastering GPT: Top 6 Strategies for a Flawless Game Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-exploring-the-legal-aspects-of-youtube-content-capture/"><u>[Updated] In 2024, Exploring the Legal Aspects of YouTube Content Capture</u></a></li>
+<li><a href="https://games-able.techidaily.com/methods-for-correcting-erratic-mouse-scrolling/"><u>Methods for Correcting Erratic Mouse Scrolling</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y27s-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Vivo Y27s Phone with Broken Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-blueprint-for-discovering-top-tier-servers/"><u>The Blueprint for Discovering Top-Tier Servers</u></a></li>
+<li><a href="https://games-able.techidaily.com/reviving-video-game-classics-on-a-budget-a-pi-story/"><u>Reviving Video Game Classics on a Budget - A Pi Story</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719170860868-gamers-delight-classic-retro-games-for-your-ios-device/"><u>Gamers Delight: Classic Retro Games for Your iOS Device</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-is-there-a-perfect-fps-for-everyone-comparing-30-and-60/"><u>[Updated] In 2024, Is There a 'Perfect' FPS for Everyone? Comparing 30 and 60</u></a></li>
+<li><a href="https://games-able.techidaily.com/selecting-superior-mats-for-enhanced-desk-ergonomics/"><u>Selecting Superior Mats for Enhanced Desk Ergonomics</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-your-gaming-sessions-with-emudeck-and-steam-deck/"><u>Streamline Your Gaming Sessions with EmuDeck & Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/spring-into-action-with-augmented-gaming/"><u>Spring Into Action with Augmented Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-does-it-really-mean-to-be-idle-in-discord/"><u>What Does It Really Mean to Be Idle in Discord?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-examining-instagrams-unusual-video-aspect-ratio-anomalies/"><u>In 2024, Examining Instagram's Unusual Video Aspect Ratio Anomalies</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-comfortable-gamepad-guide/"><u>Ultimate Comfortable Gamepad Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/linux-emulator-techniques-for-game-boy-titles/"><u>Linux Emulator Techniques for Game Boy Titles</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-free-animation-software-roundup-windows-and-mac-compatible/"><u>Updated 2024 Approved Free Animation Software Roundup Windows and Mac Compatible</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-digital-chuckles-the-ultimate-10-meme-guidebook/"><u>[Updated] Digital Chuckles  The Ultimate #10 Meme Guidebook</u></a></li>
+<li><a href="https://games-able.techidaily.com/reducing-background-monitoring-by-game-bar-on-win-11/"><u>Reducing Background Monitoring by Game Bar on Win 11</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-record-video-in-slow-motion-comprehending-important-points/"><u>Updated In 2024, How To Record Video in Slow Motion Comprehending Important Points</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-how-to-use-zoom-breakout-rooms/"><u>[New] 2024 Approved  How to Use Zoom Breakout Rooms</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/new-10-great-apps-to-turn-funny-animated-images-into-comics/"><u>New 10 Great Apps to Turn Funny Animated Images Into Comics</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/cutting-edge-top-8-free-online-video-tools-for-2024/"><u>Cutting Edge  Top 8 Free Online Video Tools for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-techniques-for-modifying-voice-on-instagram-profiles/"><u>[New] Techniques for Modifying Voice on Instagram Profiles</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-vintage-joy-the-ultimate-list-of-ps3-games-for-pc-emulation/"><u>Unlock Vintage Joy: The Ultimate List of PS3 Games for PC Emulation</u></a></li>
+<li><a href="https://video-capture.techidaily.com/alternative-solutions-to-game-bar-recording/"><u>Alternative Solutions to Game Bar Recording</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-the-genetic-basis-for-variations-in-cannabinoid-sensitivity/"><u>Unraveling the Genetic Basis for Variations in Cannabinoid Sensitivity</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-destinations-players-peak-places/"><u>Ultimate Destinations: Players' Peak Places</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-prime-video-streamers-camera-picks-for-quality-content/"><u>[Updated] 2024 Approved  Prime Video Streamers' Camera Picks for Quality Content</u></a></li>
+<li><a href="https://games-able.techidaily.com/neuroprotective-agents-in-dementia-the-potential-role-of-cannabinoids/"><u>Neuroprotective Agents in Dementia: The Potential Role of Cannabinoids</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-mastering-the-installation-of-movie-maker-6-for-2024/"><u>[Updated] Mastering the Installation of Movie Maker 6 for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-samsung-galaxy-a15-4g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Samsung Galaxy A15 4G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-the-art-of-compelling-vlog-dialogue-crafting/"><u>[Updated] 2024 Approved  The Art of Compelling Vlog Dialogue Crafting</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-crafting-successful-videos-on-youtube-for-beginners/"><u>2024 Approved  Crafting Successful Videos on YouTube for Beginners</u></a></li>
+<li><a href="https://games-able.techidaily.com/pro-valorant-techniques-to-cure-windows-high-fps-issues/"><u>Pro-Valorant: Techniques to Cure Windows High FPS Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/uncover-the-downside-to-linkedins-new-game-platform/"><u>Uncover the Downside to LinkedIn's New Game Platform</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/rafting-thumbnails-on-the-go-for-aspiring-mobile-film-makers-for-2024/"><u>[New] Crafting Thumbnails on the Go  For Aspiring Mobile Film Makers for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-your-classic-collection-small-sized-isos-by-chdman-cooking-method/"><u>Streamline Your Classic Collection: Small-Sized ISOs by ChDMan' Cooking Method</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-adjusting-sound-levels-in-audacity-raising-the-volume-up-lowering-it-down/"><u>In 2024, Adjusting Sound Levels in Audacity Raising the Volume Up, Lowering It Down</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-game-stream-from-pc-to-cloud-platform/"><u>Xbox Game Stream: From PC to Cloud Platform</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-power-adapters-customized-for-ps5-accessories/"><u>Optimal Power Adapters: Customized for PS5 Accessories</u></a></li>
+<li><a href="https://games-able.techidaily.com/shine-upgrade-sparkling-ps5-techniques/"><u>Shine Upgrade: Sparkling PS5 Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/secure-your-xbox-s-controller-connectivity/"><u>Secure Your Xbox S Controller Connectivity</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-pioneering-audio-visual-integration-generating-waveforms-and-introducing-dynamic-animations-with-premiere-pro/"><u>New Pioneering Audio-Visual Integration Generating Waveforms & Introducing Dynamic Animations with Premiere Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-deck-revamp-the-ultimate-ssd-cloning-method/"><u>Quick Deck Revamp: The Ultimate SSD Cloning Method</u></a></li>
+<li><a href="https://games-able.techidaily.com/mobility-meets-gaming-a-handy-list-of-strategies/"><u>Mobility Meets Gaming: A Handy List of Strategies</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-new-nintendo-switch-joystick-installation/"><u>The Ultimate Guide to New Nintendo Switch Joystick Installation</u></a></li>
+</ul></div>

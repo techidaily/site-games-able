@@ -1,7 +1,7 @@
 ---
 title: Selecting the Right Input Devices for Gamers
-date: 2024-06-25T13:17:56.645Z
-updated: 2024-06-26T13:17:56.645Z
+date: 2024-07-12T03:53:23.871Z
+updated: 2024-07-13T03:53:23.871Z
 tags:
   - games
 categories:
@@ -30,7 +30,8 @@ thumbnail: https://thmb.techidaily.com/8154242c4b48a5a3e2c375932f0ce95d88da4301b
 
  Gaming keyboards have been around for years, but if you're looking to buy one today, you should expect it to meet certain standards. We'll take a look at some unique features a modern gaming keyboard should have to make it worth your money.
 
-## 1 Form Factor: 60 Percent, TKL, and More ![Wooting 60HE product image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/wooting-60he-product-image.jpg)
+## 1 Form Factor: 60 Percent, TKL, and More
+![Wooting 60HE product image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/wooting-60he-product-image.jpg)
 
 [Wooting](https://wooting.io/wooting-60he)
 
@@ -40,7 +41,8 @@ thumbnail: https://thmb.techidaily.com/8154242c4b48a5a3e2c375932f0ce95d88da4301b
 
  If you've only used a full-sized keyboard so far, consider switching to a TKL keyboard, as the transition should be easy.[60 percent keyboards](https://www.makeuseof.com/best-60-keyboards-for-gamers/) have a steep learning curve due to the missing function and arrow keys. You can also go for 65 percent or [75 percent keyboards on Amazon](https://www.amazon.com/s?k=75+percent+keyboard&tag=makeusw-20&ascsubtag=UUmuoUeUpU2032167&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Funique-features-to-look-for-in-gaming-keyboard%2F&asc%5Fcampaign=Evergreen) if you really want those arrow keys without losing too much mouse real estate.
 
-## 2 Higher Polling Rates ![Razer Polling Rate setting in Synapse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/razer-polling-rate-setting-in-synapse.png)
+## 2 Higher Polling Rates
+![Razer Polling Rate setting in Synapse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/razer-polling-rate-setting-in-synapse.png)
 
  For the longest time, a 1000Hz polling rate has been the industry standard for gaming keyboards and mice. But thanks to the popularity of competitive gaming with 240Hz and 360 Hz monitors, higher mouse and [keyboard polling rates](https://www.makeuseof.com/what-is-keyboard-polling-rate-and-how-much-does-it-matter/) are becoming more of a necessity rather than a luxury.
 
@@ -50,7 +52,8 @@ thumbnail: https://thmb.techidaily.com/8154242c4b48a5a3e2c375932f0ce95d88da4301b
 
  I recommend the [Wooting 80HE](https://wooting.io/wooting-80he) , as it features industry-leading analog switches, which I'll get to in a bit. You can also find other popular options on Amazon, like the [Corsair K65 Mini](https://www.amazon.com/Corsair-Customizable-Backlighting-Keyswitches-Hyper-Processing/dp/B08W2CSXLM/?tag=makeusw-20&ascsubtag=UUmuoUeUpU2032167&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Funique-features-to-look-for-in-gaming-keyboard%2F&asc%5Fcampaign=Evergreen) ,[Razer Huntsman V2](https://www.amazon.com/Razer-Huntsman-Optical-Gaming-Keyboard/dp/B09C12L49Z/?tag=makeusw-20&ascsubtag=UUmuoUeUpU2032167&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Funique-features-to-look-for-in-gaming-keyboard%2F&asc%5Fcampaign=Evergreen) , and [NZXT Function 2](https://www.amazon.com/NZXT-Tenkeyless-Adjustable-Double-Shot-Hot-Swappable/dp/B0CST2HK9G/?tag=makeusw-20&ascsubtag=UUmuoUeUpU2032167&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Funique-features-to-look-for-in-gaming-keyboard%2F&asc%5Fcampaign=Evergreen) .
 
-## 3 Low-Latency 2.4GHz Wireless Mode ![Logitech Pro X 60 promo image showing Lightspeed wireless feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/logitech-pro-x-60-promo-image-showing-lightspeed-wireless-feature.jpg)
+## 3 Low-Latency 2.4GHz Wireless Mode
+![Logitech Pro X 60 promo image showing Lightspeed wireless feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/logitech-pro-x-60-promo-image-showing-lightspeed-wireless-feature.jpg)
 
 [Logitech](https://www.logitechg.com/en-us/products/gaming-keyboards/pro-x-60-wireless-keyboard.html)
 
@@ -60,7 +63,8 @@ thumbnail: https://thmb.techidaily.com/8154242c4b48a5a3e2c375932f0ce95d88da4301b
 
  These keyboards come with a dongle that you connect to your PC to set up a wireless connection between the keyboard and the dongle. You can choose from [Logitech Pro X 60](https://www.amazon.com/Logitech-Lightspeed-Mechanical-LIGHTSYNC-Dual-Shot/dp/B0BRSSGBCN/?tag=makeusw-20&ascsubtag=UUmuoUeUpU2032167&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Funique-features-to-look-for-in-gaming-keyboard%2F&asc%5Fcampaign=Evergreen) ,[SteelSeries Apex Pro TKL](https://www.amazon.com/New-SteelSeries-Apex-Wireless-2023/dp/B0BF67DM6K/?tag=makeusw-20&ascsubtag=UUmuoUeUpU2032167&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Funique-features-to-look-for-in-gaming-keyboard%2F&asc%5Fcampaign=Evergreen) , and [Razer DeathStalker V2 Pro TKL](https://www.amazon.com/Razer-DeathStalker-Wireless-Gaming-Keyboard/dp/B0BLZXCZSL/?tag=makeusw-20&ascsubtag=UUmuoUeUpU2032167&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Funique-features-to-look-for-in-gaming-keyboard%2F&asc%5Fcampaign=Evergreen) if you're not satisfied with [our wireless mechanical keyboard recommendations](https://www.makeuseof.com/best-wireless-mechanical-keyboards/) .
 
-## 4 Analog Switches With Rapid Trigger ![Wooting 60HE rapid trigger and actuation point settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/wooting-60he-rapid-trigger-and-actuation-point-settings.png)
+## 4 Analog Switches With Rapid Trigger
+![Wooting 60HE rapid trigger and actuation point settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/wooting-60he-rapid-trigger-and-actuation-point-settings.png)
 
  You may be familiar with traditional mechanical switches because most gaming keyboards have them already. Consider analog switches as a step up from mechanical switches; they give you much more control over the actuation point and distance. Analog keyboards can use either [magnetic hall effect switches or optical switches](https://www.makeuseof.com/hall-effect-vs-optical-switches/) . They both work differently to give you the same benefits.
 
@@ -70,7 +74,8 @@ thumbnail: https://thmb.techidaily.com/8154242c4b48a5a3e2c375932f0ce95d88da4301b
 
  Analog keyboards typically offer a feature called Rapid Trigger, which instantly deactivates the key when you release it. Also, you don't have to wait for the key to completely reset before you press it again to register another keypress. This lets you "spam" a key as much as you want. These keyboards also let you adjust the Rapid Trigger sensitivity to as low as 0.1mm.
 
-## 5 The Actuation Point and Actuation Force of Switches ![cherry mx switch tester up close with other switches](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/cherry-mx-switch-tester-up-close-with-other-switches.jpg)
+## 5 The Actuation Point and Actuation Force of Switches
+![cherry mx switch tester up close with other switches](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/cherry-mx-switch-tester-up-close-with-other-switches.jpg)
 
  Gavin Phillips/MakeUseOf
 
@@ -103,3 +108,59 @@ thumbnail: https://thmb.techidaily.com/8154242c4b48a5a3e2c375932f0ce95d88da4301b
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/remediation-techniques-for-low-end-display-effects/"><u>Remediation Techniques for Low-End Display Effects</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-guide-to-outsmarting-ny-times-influence-daily/"><u>The Guide to Outsmarting NY Times Influence Daily</u></a></li>
+<li><a href="https://games-able.techidaily.com/pulsar-pioneer-top-brand-revelations-in-pcs/"><u>Pulsar Pioneer: Top Brand Revelations in PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-creativity-5-techniques-for-upgrading-the-xbox-game-bar-interface/"><u>Unleashing Creativity: 5 Techniques for Upgrading the Xbox Game Bar Interface</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-5-tracking-apps-to-track-apple-iphone-se-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>Top 5 Tracking Apps to Track Apple iPhone SE without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-seamless-audio-switch-from-srt-to-xmlssa-guide/"><u>2024 Approved  Seamless Audio Switch  From SRT to XML/SSA Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-spherical-videos-on-the-go-iphones-social-media-blueprint/"><u>[New] 2024 Approved  Spherical Videos on the Go  IPhone's Social Media Blueprint</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfecting-your-review-format-for-steam-games/"><u>Perfecting Your Review Format for Steam Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/platform-choices-and-add-ons-for-bg3-players/"><u>Platform Choices and Add-Ons for BG3 Players</u></a></li>
+<li><a href="https://games-able.techidaily.com/sweep-the-screen-with-savvy-tetris-techniques/"><u>Sweep the Screen with Savvy Tetris Techniques</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-discover-gaseous-release-audio-representation/"><u>New In 2024, Discover Gaseous Release Audio Representation</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-6-stats-show-macs-fall-behind-on-gaming-benchmarks/"><u>Why 6 Stats Show Macs Fall Behind on Gaming Benchmarks</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-samsung-galaxy-a15-4g-by-drfone-android/"><u>Universal Unlock Pattern for Samsung Galaxy A15 4G</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-the-top-tier-games-in-apples-game-library/"><u>Unlocking the Top-Tier Games in Apple's Game Library</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-visionaries-choice-top-10-graphics-creation-apps-for-2024/"><u>Innovative Visionaries' Choice  Top 10 Graphics Creation Apps for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-gamify-your-evening-routine-try-netflix-games/"><u>Why Gamify Your Evening Routine - Try Netflix Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/visual-comparison-challenge-evaluating-oled-amoled-and-ips-displays/"><u>Visual Comparison Challenge: Evaluating OLED, AMOLED & IPS Displays</u></a></li>
+<li><a href="https://games-able.techidaily.com/transformative-tactics-for-gaming-via-steam-modding-mastery/"><u>Transformative Tactics for Gaming via Steam Modding Mastery</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/precision-power-supplies-s-ps5-dualsense/"><u>Precision Power Supplies 'S PS5 DualSense</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-honor-magic-v2-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Honor Magic V2 Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-cut-videos-for-instagram-on-mac/"><u>2024 Approved How To Cut Videos For Instagram On Mac</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-screenplay-essential-dialogue-techniques/"><u>[Updated] Mastering Screenplay  Essential Dialogue Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-to-think-before-investing-in-a-ps5/"><u>What to Think Before Investing in a PS5?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-xiaomi-13t-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Xiaomi 13T is off? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/essential-asmr-channel-discoveries/"><u>Essential ASMR Channel Discoveries</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-gamers-toolkit-razers-v4-unveiled/"><u>The Ultimate Gamer's Toolkit - Razer's V4 Unveiled</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-something-you-need-to-know-about-twistedwave-audio-editor/"><u>2024 Approved Something You Need to Know About TwistedWave Audio Editor</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-high-quality-gaming-lights/"><u>The Ultimate Guide to High-Quality Gaming Lights</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-titles-need-top-tech-for-optimal-play/"><u>Top Titles Need Top Tech for Optimal Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigate-the-virtual-world-offline-top-gaming-apps/"><u>Navigate the Virtual World Offline - Top Gaming Apps</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Honor Magic5 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/seating-strategy-for-gamers/"><u>Seating Strategy for Gamers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-breaking-the-mold-how-to-create-a-standout-youtube-channel-name-for-2024/"><u>[New] Breaking the Mold  How to Create a Standout YouTube Channel Name for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-ultimate-screenshot-saver-windows-11-version/"><u>[New] Ultimate Screenshot Saver  Windows 11 Version</u></a></li>
+<li><a href="https://games-able.techidaily.com/melody-maven-leading-audio-trivia-games-on-smartphones/"><u>Melody Maven: Leading Audio Trivia Games on Smartphones</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-the-science-of-screen-resolutions-calculating-pixel-ratios-like-a-pro/"><u>Updated In 2024, The Science of Screen Resolutions Calculating Pixel Ratios Like a Pro</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-samsung-galaxy-a14-4g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Samsung Galaxy A14 4G Phone</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfect-harmony-assembling-android-devices-and-controllers/"><u>Perfect Harmony: Assembling Android Devices and Controllers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Realme Narzo N55? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-astonishingly-fast-finders-of-forlorn-reddit-content/"><u>2024 Approved  Astonishingly Fast Finders of Forlorn Reddit Content</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-path-to-prosperous-steam-utilization/"><u>The Path to Prosperous Steam Utilization</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fifas-favorite-footage-charted-on-youtube/"><u>[New] 2024 Approved  FIFA's Favorite Footage  Charted on YouTube</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-top-4-imperatives-boosting-xbox-points-strategy/"><u>The Top 4 Imperatives: Boosting Xbox Points Strategy</u></a></li>
+<li><a href="https://games-able.techidaily.com/re-launching-steam-a-triad-of-tips/"><u>Re-Launching Steam: A Triad of Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-and-executing-ps5-remote-reset/"><u>Understanding and Executing PS5 Remote Reset</u></a></li>
+<li><a href="https://games-able.techidaily.com/uncover-the-11-superb-free-word-puzzle-apps-today/"><u>Uncover the 11 Superb Free Word Puzzle Apps Today</u></a></li>
+<li><a href="https://games-able.techidaily.com/transition-from-screen-to-controller-for-fallout-gaming/"><u>Transition From Screen to Controller for Fallout Gaming</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-top-tricks-for-capturing-your-google-meeting-experience-flawlessly/"><u>[Updated] In 2024, Top Tricks for Capturing Your Google Meeting Experience Flawlessly</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-stories-gaming-and-chatgpt/"><u>Unleashing Stories: Gaming and ChatGPT</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-2023-8-most-viewed-videos-on-facebook/"><u>[Updated] In 2024, 2023 | 8 Most Viewed Videos on Facebook</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/beginners-guide-to-iphone-screen-capture-for-2024/"><u>Beginner's Guide to iPhone Screen Capture for 2024</u></a></li>
+</ul></div>

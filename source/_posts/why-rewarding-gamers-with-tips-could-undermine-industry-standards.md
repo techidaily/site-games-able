@@ -1,7 +1,7 @@
 ---
 title: Why Rewarding Gamers with Tips Could Undermine Industry Standards
-date: 2024-06-25T12:48:37.666Z
-updated: 2024-06-26T12:48:37.666Z
+date: 2024-07-12T03:11:25.989Z
+updated: 2024-07-13T03:11:25.989Z
 tags:
   - games
 categories:
@@ -38,7 +38,8 @@ thumbnail: https://thmb.techidaily.com/9aed4fec120c663cc65ec80b49fa66d7e36432e1c
 
  Game devs working on their own, meanwhile, will struggle unless they strike gold. Perhaps the best example is Eric Barone, the creator of the smash-hit farming sim Stardew Valley. Barone worked on his own for over four years, but his game’s success has repaid him significantly; the developer now has a net worth estimated at $45m.
 
-## Alternatives Are Already Available ![A screenshot showing the Hollow Knight kickstarter campaign.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/hollow-knight-kickstarter.png)
+## Alternatives Are Already Available
+![A screenshot showing the Hollow Knight kickstarter campaign.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/hollow-knight-kickstarter.png)
 
  Tipping is an interesting idea, but do we really need one more payment method?
 
@@ -56,7 +57,8 @@ thumbnail: https://thmb.techidaily.com/9aed4fec120c663cc65ec80b49fa66d7e36432e1c
 
  Encouraging a focus on tipping may just be papering over cracks in the model, and could serve to distract from the issue of a sustainable gaming economy that’s future-proofed against [AI and other threats](https://www.makeuseof.com/types-of-jobs-risk-ai/) .
 
-## When Tips Might Work ![A screenshot of Super Cable Boy’s page on itch.io showing a minimum price with an option to pay extra.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/super-cable-boy-itch.png)
+## When Tips Might Work
+![A screenshot of Super Cable Boy’s page on itch.io showing a minimum price with an option to pay extra.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/super-cable-boy-itch.png)
 
  Seeking some positivity, I reached out to two indie game developers for their take on the story.
 
@@ -97,3 +99,57 @@ thumbnail: https://thmb.techidaily.com/9aed4fec120c663cc65ec80b49fa66d7e36432e1c
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/rectifying-discrepancies-of-installed-games-on-steam/"><u>Rectifying Discrepancies of Installed Games on Steam</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-best-free-tools-for-converting-youtube-videos/"><u>[New] Best Free Tools for Converting YouTube Videos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-gain-traction-in-the-algorithm-the-insiders-manual-for-featured-channels/"><u>[Updated] Gain Traction in the Algorithm  The Insider's Manual for Featured Channels</u></a></li>
+<li><a href="https://games-able.techidaily.com/safeguarding-games-how-to-activate-screen-lock-on-switch-console/"><u>Safeguarding Games: How to Activate Screen Lock on Switch Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/modify-steam-interface-language/"><u>Modify Steam Interface Language</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-xiaomi-redmi-note-13-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Xiaomi Redmi Note 13 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/reclaiming-unresponsive-controllers-for-windows-systems/"><u>Reclaiming Unresponsive Controllers for Windows Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-rdna-35-its-role-and-arrival/"><u>Discovering RDNA 3.5 - Its Role and Arrival</u></a></li>
+<li><a href="https://games-able.techidaily.com/more-than-a-series-explore-the-full-fallout-video-game-repertoire/"><u>More than a Series: Explore the Full Fallout Video Game Repertoire</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-top-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>In 2024, Top 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-poco-f5-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Poco F5 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://games-able.techidaily.com/instant-relief-how-to-reset-sony-ps5-remote/"><u>Instant Relief: How to Reset Sony PS5 Remote</u></a></li>
+<li><a href="https://games-able.techidaily.com/pairing-devices-bonding-players-with-these-top-titles/"><u>Pairing Devices, Bonding Players with These Top Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-guide-emulating-games-for-steam-deck-users/"><u>Essential Guide: Emulating Games for Steam Deck Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/setting-your-preferred-steam-language/"><u>Setting Your Preferred Steam Language</u></a></li>
+<li><a href="https://games-able.techidaily.com/embrace-global-gaming-culture-apply-translation-patches-on-roms/"><u>Embrace Global Gaming Culture: Apply Translation Patches on ROMs</u></a></li>
+<li><a href="https://games-able.techidaily.com/old-vs-slim-unveiling-ps5-evolution/"><u>Old VS. Slim: Unveiling PS5 Evolution</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplified-pathways-to-restart-steam/"><u>Simplified Pathways to Restart Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/budget-friendly-immersion-for-the-wise-gamer/"><u>Budget-Friendly Immersion for the Wise Gamer</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-guide-to-superior-xbox-capture-tech/"><u>Exclusive Guide to Superior Xbox Capture Tech</u></a></li>
+<li><a href="https://games-able.techidaily.com/advanced-techniques-in-cs2-the-mac-approach/"><u>Advanced Techniques in CS2 - The Mac Approach</u></a></li>
+<li><a href="https://games-able.techidaily.com/no-sub-to-ea-play-with-skyrocketing-fees/"><u>No Sub to EA Play With Skyrocketing Fees</u></a></li>
+<li><a href="https://games-able.techidaily.com/directx-progress-xna-series-edition/"><u>DirectX Progress: XNA Series Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719163251677-achieve-peak-performance-install-updated-nvidia-graphics-driver-now/"><u>Achieve Peak Performance - Install Updated Nvidia Graphics Driver Now.</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieving-an-optimal-steam-inventory-with-simple-steps/"><u>Achieving an Optimal Steam Inventory with Simple Steps</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-quick-guide-best-free-instagram-to-mp4-tools-windowsmac/"><u>In 2024, Quick Guide  Best Free Instagram-to-MP4 Tools (Windows/Mac)</u></a></li>
+<li><a href="https://games-able.techidaily.com/bargain-hunters-guide-top-11-gaming-deals-online/"><u>Bargain Hunters' Guide: Top 11 Gaming Deals Online</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-highlights-of-short-track-speed-skating-olympics-2022/"><u>[New] Highlights of Short Track Speed Skating Olympics 2022</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-vs-gog-consumer-benefits-explored-in-depth/"><u>Steam vs GOG: Consumer Benefits Explored in Depth</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-unveiling-stardew-valleys-most-innovative-game-updates/"><u>[New] 2024 Approved  Unveiling Stardew Valley's Most Innovative Game Updates</u></a></li>
+<li><a href="https://games-able.techidaily.com/manage-screen-playback-overlays-in-discord/"><u>Manage Screen Playback Overlays in Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-10-must-have-plugins-to-boost-discord-experience/"><u>[New] 2024 Approved  10 Must-Have Plugins to Boost Discord Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-speed-vs-precision-the-polling-conundrum/"><u>High-Speed Vs. Precision: The Polling Conundrum</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionizing-interaction-meta-quest-3-insights/"><u>Revolutionizing Interaction: Meta Quest 3 Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/ensuring-your-youngsters-safety-in-ps5-world/"><u>Ensuring Your Youngster's Safety in PS5 World</u></a></li>
+<li><a href="https://games-able.techidaily.com/reliving-history-with-microsoft-7-activision-blizzard-game-retrospectives/"><u>Reliving History with Microsoft - 7 Activision Blizzard Game Retrospectives</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-tecno-spark-10-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Tecno Spark 10 5GFRP Lock</u></a></li>
+<li><a href="https://games-able.techidaily.com/soundproofing-your-in-game-chat-on-series-sx/"><u>Soundproofing Your In-Game Chat on Series S/X</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-broken-to-superior-reviving-xbox-d-pads/"><u>From Broken to Superior - Reviving Xbox D-Pads</u></a></li>
+<li><a href="https://games-able.techidaily.com/irksome-quest-five-difficult-games-to-master/"><u>Irksome Quest: Five Difficult Games to Master</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-infinix-smart-8-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Infinix Smart 8 to Roku | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-13-mini-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 13 mini to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-game-top-8-sites-and-review-agencies/"><u>Mastering the Game: Top 8 Sites & Review Agencies</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-joy-con-connectivity-problems-on-switch/"><u>Addressing Joy-Con Connectivity Problems on Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/sonys-summer-offering-a-hitter-list-of-steals/"><u>Sony’s Summer Offering: A Hitter List of Steals</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieve-peak-performance-with-corsairs-icue-link-the-4-ultimate-reasons/"><u>Achieve Peak Performance with Corsair's iCUE Link - The 4 Ultimate Reasons</u></a></li>
+<li><a href="https://games-able.techidaily.com/449plus-game-on-with-innocns-39g1r-monitor/"><u>$449+ Game On with InnoCN's 39G1R Monitor</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-gameplay-and-engagement-best-7-bots-for-twitch-pros/"><u>Elevate Gameplay & Engagement: Best 7 Bots For Twitch Pros</u></a></li>
+<li><a href="https://games-able.techidaily.com/embrace-the-game-subscribe-and-optimize-ps5s-ea-play-experience/"><u>Embrace the Game: Subscribe & Optimize PS5's EA Play Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719171331292-eliminate-system-lags-with-updated-nvidia-graphics-drivers/"><u>Eliminate System Lags with Updated Nvidia Graphics Drivers</u></a></li>
+</ul></div>

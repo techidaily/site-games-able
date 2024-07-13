@@ -1,7 +1,7 @@
 ---
 title: $499 Virtual Driving Dream - Embrace MOZA R5 Bundle
-date: 2024-06-25T12:58:58.874Z
-updated: 2024-06-26T12:58:58.874Z
+date: 2024-07-12T03:31:59.446Z
+updated: 2024-07-13T03:31:59.446Z
 tags:
   - games
 categories:
@@ -140,7 +140,8 @@ Yes
 
  The pedals are also heavy with a thick powder coating, but the edges are quite sharp, which makes them a little scary to handle. I was also disappointed to find that all the pedal faces are the same shape and size and completely flat with no adjustability. This could pose a problem, which I’ll discuss in the driving experience later.
 
-## MOZA R5 Bundle Hardware Setup Experience ![MOZA R5 on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-on-desk.JPG)
+## MOZA R5 Bundle Hardware Setup Experience
+![MOZA R5 on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-on-desk.JPG)
 
  Jhet Borja / MakeUseOf
 
@@ -150,7 +151,8 @@ Yes
 
  I was able to clamp it to my desk and get in position after just about 20 minutes since unboxing—and that’s including adding the clutch pedal and brake mod.
 
-## MOZA Pit House Software ![MOZA Pit House software with configured games list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-pit-house-software-with-configured-games-list.jpg)
+## MOZA Pit House Software
+![MOZA Pit House software with configured games list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-pit-house-software-with-configured-games-list.jpg)
 
  I thought I’d have a headache trying to get everything ready on the software side for driving, but the MOZA Pit House software on PC impressed me. It was able to detect the wheel and pedals without any hitches and even had pre-configured settings for all the racing simulators I wanted to drive except for Dirt Rally.
 
@@ -192,7 +194,8 @@ Close
 
  The app could use some language improvements though, as the wording can be quite strange, such as “Enter the car” to change the settings, “SteeringWheel Recenter,” and “Unconnected to the screen".
 
-## Desk Usage ![MOZA R5 beside headphones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-beside-headphones.JPG)
+## Desk Usage
+![MOZA R5 beside headphones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-beside-headphones.JPG)
 
  Jhet Borja / MakeUseOf
 
@@ -216,7 +219,8 @@ Close
 
  When I’m done racing, I usually stow it away at the far edge of my desk and unplug the USB and pedal cables. It’s pretty convenient to set up, as I don’t have to move the wheel base far. The wheel can also stay detached, so it’s not in the way all the time. My table is a bit wobbly though, so the monitor gets all shaky, especially when driving Rally cars.
 
-## Quick Release System ![R5 Quick Release](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/r5-quick-release.JPG)
+## Quick Release System
+![R5 Quick Release](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/r5-quick-release.JPG)
 
  Jhet Borja / MakeUseOf
 
@@ -230,7 +234,8 @@ Close
 
  Coming from a Logitech G29, the driving experience is wildly different. It’s no longer a clunky mess that feels like it’s about to rattle itself to pieces. It legitimately feels immersive and connected. I’ve separated the driving experience into three sections so I can go into detail for each major component.
 
-### MOZA R5 Wheel Base ![Turning with Formula Wheel mod](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/turning-with-formula-wheel-mod.JPG)
+### MOZA R5 Wheel Base
+![Turning with Formula Wheel mod](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/turning-with-formula-wheel-mod.JPG)
 
  Jhet Borja / MakeUseOf
 
@@ -315,3 +320,43 @@ Close
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/old-ps5-and-slimmer-tech-differences-discussed/"><u>Old PS5 & Slimmer Tech: Differences Discussed</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-10-year-revamp-game-access-revolutionized-for-families/"><u>Steam's 10-Year Revamp: Game Access Revolutionized for Families</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essence-of-metagame-strategy-understanding-and-following/"><u>The Essence of Metagame Strategy - Understanding & Following</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-future-of-personalized-medicine-tailoring-endocannabinoid-treatments/"><u>The Future of Personalized Medicine: Tailoring Endocannabinoid Treatments</u></a></li>
+<li><a href="https://games-able.techidaily.com/valuepixeldesign-monitor-budget-gamers-choice/"><u>ValuePixelDesign Monitor, Budget Gamers' Choice</u></a></li>
+<li><a href="https://games-able.techidaily.com/rethinking-graphics-innovation-why-discount-ray-tracing/"><u>Rethinking Graphics Innovation: Why Discount Ray Tracing</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-complete-guide-to-gaming-success-on-steam/"><u>The Complete Guide to Gaming Success on Steam</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-capture-your-gaming-adventures-with-steam/"><u>[Updated] Capture Your Gaming Adventures with Steam</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-best-cameras-to-amplify-your-yt-presence-for-2024/"><u>[Updated] Best Cameras to Amplify Your YT Presence for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-neighborhoods-titans-territories/"><u>Prime Neighborhoods: Titans’ Territories</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/determining-frame-rates-master-choice-between-30fps-and-60fps/"><u>Determining Frame Rates  Master Choice Between 30Fps and 60Fps</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/mastering-fcp-audio-a-step-by-step-guide-for-video-editors-for-2024/"><u>Mastering FCP Audio A Step-by-Step Guide for Video Editors for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-unravel-the-power-of-fbx-elevate-your-game-savings/"><u>In 2024, Unravel the Power of FBX  Elevate Your Game Savings</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-does-error-403-mean-in-roblox-solutions-for-windows-users/"><u>What Does Error 403 Mean in Roblox? Solutions for Windows Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-streaming-transform-xbox-playback-quality/"><u>Seamless Streaming: Transform XBox Playback Quality</u></a></li>
+<li><a href="https://games-able.techidaily.com/reinstate-your-disappeared-wordle-streak-seamlessly/"><u>Reinstate Your Disappeared Wordle Streak Seamlessly</u></a></li>
+<li><a href="https://games-able.techidaily.com/unwind-and-enjoy-netflixs-mobile-game-haven/"><u>Unwind and Enjoy: Netflix’s Mobile Game Haven</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-and-justifying-a-dual-capable-screen/"><u>Understanding and Justifying a Dual-Capable Screen?</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-steams-bp-display-glitches/"><u>Overcoming Steam's BP Display Glitches</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-streamline-your-audio-capture-with-these-top-5-mp3-specific-recording-devices/"><u>Updated Streamline Your Audio Capture with These Top 5 MP3-Specific Recording Devices</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-integrate-playlist-into-facebook-cross-platform-method-for-2024/"><u>[Updated] Integrate Playlist Into Facebook - Cross-Platform Method for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-grip-challenge-steering-wheel-or-virtual-dashboard/"><u>The Ultimate Grip Challenge: Steering Wheel or Virtual Dashboard</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-it-lava-yuva-3-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Lava Yuva 3 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-step-by-step-perfecting-your-lol-recordings/"><u>[Updated] 2024 Approved  Step-by-Step  Perfecting Your LOL Recordings</u></a></li>
+<li><a href="https://games-able.techidaily.com/surprise-your-squad-steams-game-tastic-presents/"><u>Surprise Your Squad: Steam's Game-Tastic Presents</u></a></li>
+<li><a href="https://games-able.techidaily.com/recognizing-and-responding-to-gaming-abuse-series-sx/"><u>Recognizing and Responding to Gaming Abuse (Series S/X)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oneplus-nord-n30-se-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track OnePlus Nord N30 SE by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-choice-finding-a-top-tier-144hz-monitor/"><u>The Best Choice: Finding a Top-Tier 144Hz Monitor</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-path-to-flawless-streams-a-guide-to-recording-on-steam-for-2024/"><u>The Path to Flawless Streams  A Guide to Recording on Steam for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/mwc-unveiled-innovations-and-winners-by-makeuseof/"><u>MWC Unveiled: Innovations and Winners by MakeUseOf</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/conquer-common-youtube-short-setbacks-for-2024/"><u>Conquer Common YouTube Short Setbacks for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/my-2-years-in-high-definition-with-an-oled-monitor/"><u>My 2 Years in High Definition with an OLED Monitor!</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfect-purchase-how-to-evade-monitor-shopping-fails/"><u>Perfect Purchase: How to Evade Monitor Shopping Fails</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-accoutrement-assortment-for-a-top-tier-steam-deck-experience/"><u>The Ultimate Accoutrement Assortment for a Top-Tier Steam Deck Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrade-to-corsairs-icue-link-and-experience-unparalleled-pc-control/"><u>Upgrade to Corsair's iCUE Link & Experience Unparalleled PC Control</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-tightens-rules-to-prevent-refund-manipulation/"><u>Steam Tightens Rules to Prevent Refund Manipulation</u></a></li>
+</ul></div>

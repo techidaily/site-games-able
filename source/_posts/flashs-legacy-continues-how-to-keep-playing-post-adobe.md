@@ -1,7 +1,7 @@
 ---
 title: "Flash's Legacy Continues: How to Keep Playing Post-Adobe"
-date: 2024-06-25T13:14:46.951Z
-updated: 2024-06-26T13:14:46.951Z
+date: 2024-07-12T03:49:49.638Z
+updated: 2024-07-13T03:49:49.638Z
 tags:
   - games
 categories:
@@ -28,7 +28,8 @@ thumbnail: https://thmb.techidaily.com/5cf7e45072025cfbbdb41e62586d386e0a0a7b211
 
  As a lightweight animation tool, it helped turn the static text-based interface of the internet into the interactive portal it has become today. It wouldn’t take long to get noticed by the gaming community, who would start using it to build video games.
 
-## A Gaming Legacy That Spans Over Two Decades ![dark arcade room with adobe flash logo in front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/flash-arcade-1.jpg)
+## A Gaming Legacy That Spans Over Two Decades
+![dark arcade room with adobe flash logo in front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/flash-arcade-1.jpg)
 
  Logo Credit: Adobe/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Adobe%5FFlash%5FPlayer%5F32.svg)
 
@@ -44,7 +45,8 @@ thumbnail: https://thmb.techidaily.com/5cf7e45072025cfbbdb41e62586d386e0a0a7b211
 
  The following projects are seeking to preserve Flash games, ensuring we can all continue to enjoy playing Flash games without Flash well into the future:
 
-### 1. BlueMaxima’s Flashpoint ![A screenshot of BlueMaxima's Flashpoint home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/bluemaximas-flashpoint-home-page-1.png)
+### 1. BlueMaxima’s Flashpoint
+![A screenshot of BlueMaxima's Flashpoint home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/bluemaximas-flashpoint-home-page-1.png)
 
  Efforts to save Flash games began with the individual contributions of Ben Latimore [(Medium)](https://medium.com/@bluemaximax011) . After Latimore published a [Medium article](https://medium.com/@bluemaximax011/adobe-flashs-gaming-legacy-thousands-upon-thousands-of-titles-and-my-efforts-to-save-it-58c14811558a) that gathered very positive attention over his efforts, Flashpoint turned into the international web game preservation project that it is now.
 
@@ -56,7 +58,8 @@ thumbnail: https://thmb.techidaily.com/5cf7e45072025cfbbdb41e62586d386e0a0a7b211
 
  Flashpoint offers two versions of its software:**Ultimate** , a 478GB full-size version that contains every piece of media saved by the project in an offline-ready format, and**Infinity** , a smaller 500MB version that allows you to download and play Flash games without Flash at will.
 
-### 2. The Flash Game Archive ![flash game archive website homepage screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/flash-game-archive.jpg)
+### 2. The Flash Game Archive
+![flash game archive website homepage screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/flash-game-archive.jpg)
 
  The Flash Game Archive is a free archive of Flash games that you can play locally on your computer at any time. Its stated goal is to preserve Flash games before they are completely lost.
 
@@ -66,7 +69,8 @@ thumbnail: https://thmb.techidaily.com/5cf7e45072025cfbbdb41e62586d386e0a0a7b211
 
  Games and other media are stored in a data center, with over 4000 games currently in the archive. With each update, more games are added to the Flash Game Archive.
 
-### 3. The Internet Archive ![internet archive software library webpage screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/internet-archive-1.jpg)
+### 3. The Internet Archive
+![internet archive software library webpage screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/internet-archive-1.jpg)
 
  The Internet Archive, the non-profit digital library of internet sites and other cultural artifacts famous for [the Wayback Machine](https://archive.org/web/) , is now emulating Flash games and content. Following its tenet, "access drives preservation," the Internet Archive launched the Emularity project, which makes a wide range of old software run.
 
@@ -74,7 +78,8 @@ thumbnail: https://thmb.techidaily.com/5cf7e45072025cfbbdb41e62586d386e0a0a7b211
 
  Together, The Internet Archive and Ruffle allow you to play Flash games without Flash just as you used to do, even after December 2020\. The system works in all browsers that support Webassembly and does not require you to have Adobe Flash Player installed.
 
-### 4. Newgrounds ![newgrounds website homepage screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/new-grounds-1.jpg)
+### 4. Newgrounds
+![newgrounds website homepage screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/new-grounds-1.jpg)
 
  Newgrounds, the online entertainment website and company (yes, the same one that helped catapult Flash games to greatness), is another organization that is helping preserve and play Flash games without Flash. Having been home to over 20 years of content built using Flash, it intends to continue to be so even after browsers removed Flash plugin support.
 
@@ -105,3 +110,38 @@ thumbnail: https://thmb.techidaily.com/5cf7e45072025cfbbdb41e62586d386e0a0a7b211
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/budget-savvy-whitescape-choices-the-best-systems-in-2-writes/"><u>Budget-Savvy Whitescape Choices: The Best Systems in 2 Writes</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-on-iphone-xsipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock on iPhone XS/iPad/iPod</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-potential-conquering-counter-strike-2-on-a-mac/"><u>Unleash Potential: Conquering Counter-Strike 2 on a Mac</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-creating-captivating-loops-for-instagram-posts/"><u>[Updated] 2024 Approved  Creating Captivating Loops for Instagram Posts</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-techniques-for-selective-youtube-video-downloading/"><u>2024 Approved  Techniques for Selective YouTube Video Downloading</u></a></li>
+<li><a href="https://extra-information.techidaily.com/experience-nba-like-a-pro-master-these-top-15-livestream-methods/"><u>Experience NBA Like a Pro - Master These Top 15 Livestream Methods</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieve-a-tidier-steam-experience-removing-surplus-games/"><u>Achieve a Tidier Steam Experience: Removing Surplus Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/techniques-to-restore-access-to-steam-content/"><u>Techniques to Restore Access to Steam Content</u></a></li>
+<li><a href="https://games-able.techidaily.com/xna-evolution-directx-11-vs-directx-12/"><u>XNA Evolution: DirectX 11 Vs. DirectX 12</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-match-made-in-heaven-syncing-colors-across-video-clips-in-powerdirector/"><u>Updated 2024 Approved Match Made in Heaven Syncing Colors Across Video Clips in PowerDirector</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-ios-why-apple-arcade-wins-my-heart/"><u>Discovering iOS: Why Apple Arcade Wins My Heart</u></a></li>
+<li><a href="https://games-able.techidaily.com/storing-and-streamlining-gaming-history-using-chdman-compression/"><u>Storing and Streamlining Gaming History Using CHDMAN Compression</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-an-xbox-360-slim-how-to-disassemble-it-efficiently/"><u>Deciphering an Xbox 360 Slim: How to Disassemble It Efficiently</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-innovative-approaches-to-integrating-vocal-elements-into-video-storytelling-for-2024/"><u>[New] Innovative Approaches to Integrating Vocal Elements Into Video Storytelling for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-perfect-tiktok-start-mac-based-production-strategies-for-2024/"><u>[Updated] Perfect TikTok Start  Mac-Based Production Strategies for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-create-a-bokeh-effect/"><u>Updated In 2024, How to Create a Bokeh Effect</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-from-iphone-15-pro-max-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud from iPhone 15 Pro Max Safe and Legal</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-escape-artists-guide-to-gamers/"><u>The Escape Artist's Guide to Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/custom-fan-scheduling-for-maximum-performance-gain/"><u>Custom Fan Scheduling for Maximum Performance Gain</u></a></li>
+<li><a href="https://games-able.techidaily.com/ai-ally-in-gaming-top-6-approaches-with-chatgpt/"><u>AI Ally in Gaming: Top 6 Approaches with ChatGPT</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-notch-ssd-compatibility-with-ps5/"><u>Top-Notch SSD Compatibility with PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-multiplayer-mobile-experiences-unite-friends-anywhere/"><u>Ultimate Multiplayer Mobile Experiences: Unite Friends Anywhere</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-your-playstyle-for-cs2-on-mac/"><u>Streamlining Your Playstyle for CS2 on Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/voltage-to-values-more-than-energys-promise/"><u>Voltage to Values: More Than Energy's Promise</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-misconceptions-about-mobility-in-play/"><u>Unraveling Misconceptions About Mobility in Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/ai-game-landscape-understanding-steams-latest-regulations/"><u>AI Game Landscape: Understanding Steam's Latest Regulations</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-comparative-study-of-cannabinoid-delivery-systems-and-their-impact-on-treatment-outcomes/"><u>A Comparative Study of Cannabinoid Delivery Systems and Their Impact on Treatment Outcomes</u></a></li>
+<li><a href="https://games-able.techidaily.com/cpu-vs-gpu-upgrade-sequence-for-maximum-benefit/"><u>CPU Vs. GPU: Upgrade Sequence for Maximum Benefit</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transforming-visuals-the-power-of-customized-luts/"><u>[Updated] Transforming Visuals  The Power of Customized LUTs</u></a></li>
+<li><a href="https://games-able.techidaily.com/apples-game-selection-mastery-the-arcade-advantage/"><u>Apple's Game Selection Mastery – The Arcade Advantage</u></a></li>
+</ul></div>

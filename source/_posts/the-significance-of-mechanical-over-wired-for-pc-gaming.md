@@ -1,7 +1,7 @@
 ---
 title: The Significance of Mechanical Over Wired for PC Gaming
-date: 2024-06-25T12:48:41.936Z
-updated: 2024-06-26T12:48:41.936Z
+date: 2024-07-12T03:19:24.050Z
+updated: 2024-07-13T03:19:24.050Z
 tags:
   - games
 categories:
@@ -32,7 +32,8 @@ thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad62
 
  Since we’re talking about gaming, we’re mainly going to focus on gaming mechanical keyboards since they offer many features that normal mechanical keyboards don’t offer. Of course, we’ll also state the benefits of using any mechanical keyboard for gaming.
 
-### Lighter Actuation Force ![Pushing down stem of mechanical switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/pushing-down-stem-of-mechanical-switch.jpg)
+### Lighter Actuation Force
+![Pushing down stem of mechanical switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/pushing-down-stem-of-mechanical-switch.jpg)
 
 Jhet Borja/MakeUseOf
 
@@ -40,7 +41,8 @@ Jhet Borja/MakeUseOf
 
  Rubber dome keyboards also require you to press the key all the way down in order to register a click and add to that the squishy feeling that makes you want to press the keyboard harder to feel some sort of tactile feedback. Mechanical keyboards, on the other hand, have the actuation somewhere in the middle, making bottoming out less of a necessity.
 
-### Mechanical Keyboards Have Better Tactile Feedback ![hands holding mouse and keyboard-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/05/hands-holding-mouse-and-keyboard-1.JPG)
+### Mechanical Keyboards Have Better Tactile Feedback
+![hands holding mouse and keyboard-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/05/hands-holding-mouse-and-keyboard-1.JPG)
 
 Jhet Borja/MakeUseOf
 
@@ -50,7 +52,8 @@ Jhet Borja/MakeUseOf
 
  When you’re gaming intensely, this tactile feedback is precious. It lets you know that you’ve done the action without second-guessing yourself. If you’re not constantly worried about whether you’ve successfully pressed a key on your keyboard or not, you’re left with more mental capacity to worry about what you need to do in the game.
 
-### Gaming Mechanical Keyboards Have Many Functions and Features ![Wooting 60HE rapid trigger and actuation point settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/wooting-60he-rapid-trigger-and-actuation-point-settings.png)
+### Gaming Mechanical Keyboards Have Many Functions and Features
+![Wooting 60HE rapid trigger and actuation point settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/wooting-60he-rapid-trigger-and-actuation-point-settings.png)
 
  Gaming mechanical keyboards have come a long way since they were first popularized in the early 2010s. Gaming brands have come up with many new features that bring gaming to a different level.
 
@@ -60,7 +63,8 @@ Jhet Borja/MakeUseOf
 
  Most gaming mechanical keyboards also feature dedicated macro buttons—easily accessible buttons that you can assign any action. Arma, for example, has so many keybinds that you’ll often have to either move your hand from one side of the keyboard to the other, or move your other hand from your mouse to your keyboard. Macros and layers would allow you to bring those keys and functions to just one side, saving you time.
 
-### Mechanical Keyboards Are Highly Customizable ![Switch lubing tools and keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/switch-lubing-tools-and-keyboard.JPG)
+### Mechanical Keyboards Are Highly Customizable
+![Switch lubing tools and keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/switch-lubing-tools-and-keyboard.JPG)
 
 Jhet Borja/MakeUseOf
 
@@ -74,7 +78,8 @@ Jhet Borja/MakeUseOf
 
  There aren’t many drawbacks to mechanical keyboards since they do everything regular keyboards do but better. However, that doesn’t mean there aren’t any. If you’re using a non-mechanical keyboard right now, you should take these into consideration and see whether it’s worth switching to a mechanical keyboard.
 
-### Mechanical Keyboards Are Heavier ![Keychon Q1 side profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/05/keychon-q1-side-profile.JPG)
+### Mechanical Keyboards Are Heavier
+![Keychon Q1 side profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/05/keychon-q1-side-profile.JPG)
 
 Jhet Borja/MakeUseOf
 
@@ -84,7 +89,8 @@ Jhet Borja/MakeUseOf
 
  However, the customizable nature of mechanical keyboards means that if you really did want a lightweight, ultra-portable keyboard, you can definitely build one yourself.
 
-### Mechanical Keyboards Cost More ![gateron yellow switches beside keyboard and wrist rest](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gateron-yellow-switches-beside-keyboard-and-wrist-rest-1.JPG)
+### Mechanical Keyboards Cost More
+![gateron yellow switches beside keyboard and wrist rest](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gateron-yellow-switches-beside-keyboard-and-wrist-rest-1.JPG)
 
 Jhet Borja/MakeUseOf
 
@@ -125,3 +131,51 @@ Jhet Borja/MakeUseOf
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/the-best-steam-deck-cases-of-2024/"><u>The Best Steam Deck Cases of 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-how-to-convert-twitter-videos-to-gifs/"><u>In 2024, How To Convert Twitter Videos To GIFS?</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-top-6-best-alternatives-to-clownfish-voice-changer/"><u>New In 2024, Top 6 Best Alternatives to Clownfish Voice Changer</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-interactions-proper-use-of-twitchs-bans-and-u-bans/"><u>Streamline Interactions: Proper Use of Twitch's Bans and U-Bans</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-through-error-403-on-roblox-tips-and-tricks-for-windows/"><u>Navigating Through Error 403 on Roblox: Tips and Tricks for Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/scrutinizing-discords-assumption-behind-idle-status/"><u>Scrutinizing Discord’s Assumption Behind Idle Status</u></a></li>
+<li><a href="https://games-able.techidaily.com/nine-entertaining-text-battles-for-laughs-and-connection/"><u>Nine Entertaining Text Battles for Laughs & Connection</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-tightens-grip-on-irregular-refund-practices/"><u>Steam Tightens Grip on Irregular Refund Practices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/magix-acid-pros-successors-in-vector-editing/"><u>Magix ACID Pro's Successors in Vector Editing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-rhythm-raiders-your-guide-to-downloading-skype-melodies/"><u>[Updated] Rhythm Raiders  Your Guide to Downloading Skype Melodies</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-best-elgato-models/"><u>Unveiling the Best Elgato Models</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplifying-steam-problem-solving-in-windows-11-os/"><u>Simplifying Steam Problem Solving in Windows 11 OS</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-vivo-y200-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/how-to-protectively-download-youtube-audio-without-fear-for-2024/"><u>How to Protectively Download YouTube Audio Without Fear for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/tune-treasure-hunters-discovering-hidden-musical-gems/"><u>Tune Treasure Hunters: Discovering Hidden Musical Gems</u></a></li>
+<li><a href="https://games-able.techidaily.com/roblox-cheat-code-risks-and-mechanics-insight/"><u>Roblox Cheat Code: Risks and Mechanics Insight</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-maximum-potential-of-nintendo-switch-life/"><u>Unlock Maximum Potential of Nintendo Switch Life</u></a></li>
+<li><a href="https://games-able.techidaily.com/risks-to-game-quality-with-players-funding-dev-work/"><u>Risks to Game Quality with Players Funding Dev Work</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-controller-on-pc-heres-how-to-get-there-quickly-140-chars/"><u>Xbox Controller on PC? Here's How to Get There Quickly (140 Chars)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-fbs-flash-video-frontier-for-2024/"><u>[New] FB's Flash Video Frontier for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/puzzle-yourself-through-pesky-gaming-plights/"><u>Puzzle Yourself Through Pesky Gaming Plights</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-case-purpose-and-usage/"><u>Xbox Case: Purpose & Usage</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enhancing-online-privacy-youtubes-access-controls/"><u>[New] 2024 Approved  Enhancing Online Privacy  YouTube's Access Controls</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-choosing-between-obs-and-fraps-for-excellent-screen-capture/"><u>2024 Approved  Choosing Between OBS and Fraps for Excellent Screen Capture</u></a></li>
+<li><a href="https://games-able.techidaily.com/save-money-upgrade-games-240hz-displays-specials/"><u>Save Money, Upgrade Games: 240Hz Displays Specials</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-10-errors-smart-buying-tips-for-choosing-a-monitor/"><u>Top 10 Errors: Smart Buying Tips for Choosing a Monitor</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719167112863-explore-gaming-with-chatgpt-the-top-6-titles/"><u>Explore Gaming with ChatGPT: The Top 6 Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-superior-joy-cons-the-ultimate-guide-to-2024/"><u>Unleashing Superior Joy-Cons: The Ultimate Guide to 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-unlinked-joy-con-with-switch-console/"><u>Troubleshooting Unlinked Joy-Con with Switch Console</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-realme-note-50-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Realme Note 50 Devices</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-honor-x50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-configuring-ps4-for-windows-or-macos/"><u>Step-By-Step: Configuring PS4 for Windows or macOS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-best-non-zoom-video-conferencing-tools-desktopmobile/"><u>2024 Approved  Best Non-Zoom Video Conferencing Tools (Desktop/Mobile)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-hdr-video-power-windows-edition-explained/"><u>[New] HDR Video Power  Windows Edition Explained</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-visionguard-recorder-update-and-assessment-2023/"><u>[New] VisionGuard Recorder Update and Assessment 2023</u></a></li>
+<li><a href="https://games-able.techidaily.com/sagittariuss-satisfaction-comfortable-gaming-support/"><u>Sagittarius’s Satisfaction: Comfortable Gaming Support</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/easy-steps-how-to-record-on-vimeo/"><u>Easy Steps  How to Record on Vimeo</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719173164603-game-on-office-seat-style/"><u>Game on, Office Seat Style!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-future-appraisal-unconventional-thoughts/"><u>[Updated] Future Appraisal  Unconventional Thoughts</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-complete-rankings-of-mobile-apps-altering-your-speech/"><u>[New] In 2024, The Complete Rankings of Mobile Apps Altering Your Speech</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-combo-crusade-sharing-vids-on-twitter-and-tumblr/"><u>[Updated] The Combo Crusade  Sharing Vids on Twitter and Tumblr</u></a></li>
+<li><a href="https://games-able.techidaily.com/shining-up-your-guide-to-cleaner-gaming-tech/"><u>Shining Up: Your Guide to Cleaner Gaming Tech</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-steam-service-unavailable-errors/"><u>Troubleshooting Steam Service Unavailable Errors</u></a></li>
+</ul></div>

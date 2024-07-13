@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Mystery: Foddian's Beginnings"
-date: 2024-06-25T13:25:18.423Z
-updated: 2024-06-26T13:25:18.423Z
+date: 2024-07-12T04:01:42.294Z
+updated: 2024-07-13T04:01:42.294Z
 tags:
   - games
 categories:
@@ -22,7 +22,8 @@ thumbnail: https://thmb.techidaily.com/c2a5d8a295d9ad4098701941bf7b844bb3d03e72b
 
  Games that fall under the Foddian category are as unique as the name, but how did they come about? Here are some events that led to a platform game revolution, birthing the Foddian genre as we know and love it.
 
-### The First Bennet Foddy Game ![A guy in a pot holding a sledgehammer who is about to fall off a cliff](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/2-getting-over-it.jpg)
+### The First Bennet Foddy Game
+![A guy in a pot holding a sledgehammer who is about to fall off a cliff](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/2-getting-over-it.jpg)
 
  It all began with the Foddian game, "Getting Over It with Bennett Foddy". Getting Over It is a puzzle game that challenges the player to use a sledgehammer to propel themselves up steep ledges and across slick platforms to get to space. “Foddian” refers to the creator of the first game, Bennett Foddy, in this genre and represents titles of a similar format.
 
@@ -32,7 +33,8 @@ thumbnail: https://thmb.techidaily.com/c2a5d8a295d9ad4098701941bf7b844bb3d03e72b
 
  Getting Over It wasn’t the first platformer, but it created a format that has been improved upon in newer games that fall under the Foddian genre. Bennet Foddy pioneered an era of gaming, whether he intended to or not, and complex puzzle platforming games are better for it.
 
-### The Rise of Jump King ![The Jump King lying flat on a mossy platform after falling](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-jump-king.jpg)
+### The Rise of Jump King
+![The Jump King lying flat on a mossy platform after falling](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-jump-king.jpg)
 
  Jump King is a title that transcends the Foddian game genre. You may have heard about the game thanks to its tendency to be played live on Twitch streams. Speedrunners are especially fond of the small series of Jump King games.
 
@@ -42,7 +44,8 @@ thumbnail: https://thmb.techidaily.com/c2a5d8a295d9ad4098701941bf7b844bb3d03e72b
 
  Almost every popular streamer and YouTuber you can think of has played Jump King to some extent, indirectly marketing the game to their viewers. As such, it didn’t take long for a community to spawn around this game, and it remains one of the most played in its genre.
 
-## Foddian Games and Content Creation ![A streaming setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-streamer.jpg)
+## Foddian Games and Content Creation
+![A streaming setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-streamer.jpg)
 
  Streaming goes beyond just playing a game. Streamers understand that they need to engage their chat as much as possible to keep interest high. Fortunately, Foddian games are the perfect gateway for viewer engagement.
 
@@ -97,3 +100,67 @@ thumbnail: https://thmb.techidaily.com/c2a5d8a295d9ad4098701941bf7b844bb3d03e72b
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-exquisite-note-taking-experience-on-mematic/"><u>[New] In 2024, Exquisite Note-Taking Experience on Mematic</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-building-wealth-through-video-content-revenue-for-2024/"><u>[Updated] Building Wealth Through Video Content Revenue for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-led-3d-panel-sets-for-an-elevated-play-area/"><u>Best LED 3D Panel Sets for an Elevated Play Area</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-network-navigation-on-nintendo-switch/"><u>Navigating Network Navigation on Nintendo Switch</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Tecno Pova 5? | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/unleash-creativity-10-top-notch-video-editing-apps-for-kids-for-2024/"><u>Unleash Creativity 10 Top-Notch Video Editing Apps for Kids for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-xboxs-capabilities-beyond-traditional-inputs/"><u>Explore Xbox's Capabilities Beyond Traditional Inputs</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-weaving-a-memorable-tiktok-outro-narrative/"><u>In 2024, Weaving A Memorable TikTok Outro Narrative</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-play-streamlining-epic-and-gog-games-on-steam-deck/"><u>Mastering the Art of Play: Streamlining Epic & GOG Games on Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/embark-on-virtual-journeys-game-edition/"><u>Embark on Virtual Journeys - Game Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-solutions-the-leading-cartridge-holder-brands/"><u>Innovative Solutions: The Leading Cartridge Holder Brands</u></a></li>
+<li><a href="https://games-able.techidaily.com/demystifying-steams-virtual-economy/"><u>Demystifying Steam's Virtual Economy</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-decoding-the-marketplace-where-to-invest-in-monetized-channels/"><u>[New] 2024 Approved  Decoding the Marketplace  Where to Invest in Monetized Channels</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-tools-to-keep-your-steam-deck-cool/"><u>Essential Tools to Keep Your Steam Deck Cool</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-value-timeline-on-the-steam-marketplace/"><u>Game Value Timeline on the Steam Marketplace</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/unlocking-the-secrets-of-slow-mo-mastery-for-tiktok-users/"><u>Unlocking the Secrets of Slow Mo Mastery for TikTok Users</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-direct-conversion-from-tiktok-videos-to-professional-mp4s/"><u>2024 Approved  Direct Conversion  From TikTok Videos to Professional MP4s</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719173627124-elevate-your-arcade-experience-large-format-framing-recommended/"><u>Elevate Your Arcade Experience: Large-Format Framing Recommended!</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-googles-guide-to-seamless-podcast-submission-for-2024/"><u>[Updated] Google's Guide to Seamless Podcast Submission for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-key-advantages-edge-for-gamers-unrivaled-experience/"><u>7 Key Advantages: Edge for Gamers' Unrivaled Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastery-over-mishaps-understanding-and-correcting-10-gaming-slip-ups/"><u>Mastery Over Mishaps: Understanding and Correcting 10 Gaming Slip-Ups</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-portable-power-stations-for-gaming/"><u>Exclusive Portable Power Stations for Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-the-subtle-art-of-steam-invisibility/"><u>Master the Subtle Art of Steam Invisibility</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-compelling-narratives-with-spotify-ads/"><u>2024 Approved  Crafting Compelling Narratives with Spotify Ads</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-fiber-pairs-for-competitive-gaming/"><u>Elite Fiber Pairs for Competitive Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/comparing-regular-and-premium-discord-service/"><u>Comparing Regular and Premium Discord Service</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-satiresnapshots-jokeframe-world/"><u>In 2024, SatireSnapshots  JokeFrame World</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-nostalgia-segas-dreamcatcher-experience-for-android-users/"><u>Digital Nostalgia: Sega's Dreamcatcher Experience for Android Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/make-the-most-of-your-xbox-games-on-steam-via-glossi/"><u>Make the Most of Your Xbox Games on Steam via GlosSI</u></a></li>
+<li><a href="https://games-able.techidaily.com/anonymity-in-multiplayer-xbox-chats/"><u>Anonymity in Multiplayer Xbox Chats</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-leveraging-social-integration-auto-play-youtube-videos-on-fb-pages-for-2024/"><u>[New] Leveraging Social Integration  Auto-Play Youtube Videos on FB Pages for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/decoding-the-cost-per-thousand-views-on-youtube-for-successful-earning/"><u>Decoding the Cost Per Thousand Views on YouTube for Successful Earning</u></a></li>
+<li><a href="https://games-able.techidaily.com/outsmart-glitching-computers-get-the-latest-nvidia-driver-now/"><u>Outsmart Glitching Computers – Get the Latest Nvidia Driver Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-play-the-nyc-connection-game-like-a-pro-8-steps/"><u>How to Play the NYC Connection Game Like a Pro (8 Steps)</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-nintendo-switch-game-with-peripherals-90-chars/"><u>Elevate Your Nintendo Switch Game With Peripherals (90 Chars)</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-top-8-live-selling-platforms-beginners-tool-tip/"><u>2024 Approved Top 8 Live Selling Platforms Beginners Tool Tip</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-play-establishing-a-4k-environment-on-xbox-series-x/"><u>Elevate Your Play: Establishing a 4K Environment on Xbox Series X</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-switch-maintenance-to-extend-its-usefulness/"><u>Mastering Switch Maintenance to Extend Its Usefulness</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y27s-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y27s to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-14-plus-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/curing-unable-to-retrieve-settings-issue-with-geforce-experience-on-windows-11/"><u>Curing Unable to Retrieve Settings Issue with GeForce Experience on Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-with-ar-8-games-promoting-great-health/"><u>Explore with AR: 8 Games Promoting Great Health</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Use Special Features - Virtual Location On Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-complete-control-over-clips-with-powerdirectors-latest-24-updates/"><u>[New] Complete Control Over Clips with PowerDirector's Latest '24 Updates</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-crafting-illusions-the-art-of-time-and-space-manipulation/"><u>2024 Approved  Crafting Illusions  The Art of Time & Space Manipulation</u></a></li>
+<li><a href="https://games-able.techidaily.com/companionable-combat-discover-the-coolest-two-person-phone-adventures-top-15/"><u>Companionable Combat: Discover the Coolest Two-Person Phone Adventures (Top 15)</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-unmute-youtube-links-in-silent-twitter-videos-for-2024/"><u>[Updated] Unmute YouTube Links in Silent Twitter Videos for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/mirrored-worldviews-on-insta-discover-100-reflective-captions/"><u>Mirrored Worldviews on Insta - Discover 100 Reflective Captions</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-recovering-missing-pokemon-go-locations/"><u>Mastering the Art of Recovering Missing Pokémon GO Locations</u></a></li>
+<li><a href="https://games-able.techidaily.com/giant-games-niche-play-opinion-broadcast/"><u>Giant Games, Niche Play? [Opinion Broadcast]</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-demystifying-the-purpose-and-use-of-a-blue-status-symbol-on-facebook/"><u>[Updated] 2024 Approved  Demystifying the Purpose and Use of a Blue Status Symbol on Facebook</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-top-10-recorders-that-wont-break-your-wallet/"><u>[New] In 2024, Top 10 Recorders That Won't Break Your Wallet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-tecno-pova-5-pro-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Tecno Pova 5 Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/change-your-gaming-consoles-lookup/"><u>Change Your Gaming Console's Lookup</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-ultimate-wild-top-10-unforgettable-tiktok-challenges/"><u>2024 Approved  Ultimate Wild  Top 10 Unforgettable TikTok Challenges</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-xbox-graphics-with-an-additional-laptop-screen/"><u>Elevate Xbox Graphics with an Additional Laptop Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/join-the-digital-detective-game-with-ai-partners/"><u>Join the Digital Detective Game with AI Partners</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-5-effective-ways-for-improved-mac-game-experience/"><u>Explore 5 Effective Ways for Improved Mac Game Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-smartly-pick-the-right-handheld-videogame-device/"><u>How to Smartly Pick the Right Handheld Videogame Device</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-vivo-v29-pro-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Vivo V29 Pro PC | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: From Retro Playback to Modern Windows - The Steam Deck Route
-date: 2024-06-25T12:53:55.277Z
-updated: 2024-06-26T12:53:55.277Z
+date: 2024-07-12T03:26:11.100Z
+updated: 2024-07-13T03:26:11.100Z
 tags:
   - games
 categories:
@@ -29,7 +29,8 @@ thumbnail: https://thmb.techidaily.com/f0eb15dbd4d3bc9550ae7ac5d466cfd7136ebba59
 
  Do you want to have a familiar operating system or Game Pass on your Steam Deck? You can dual-boot SteamOS with Windows on the device. Here’s a thorough guide on installing Windows 11 on your Steam Deck.
 
-## Why You Should Install Windows on Your Steam Deck ![Steam Deck surrounded by peripherals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/steam-deck-surrounded-by-peripherals.JPG)
+## Why You Should Install Windows on Your Steam Deck
+![Steam Deck surrounded by peripherals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/steam-deck-surrounded-by-peripherals.JPG)
 
 Jhet Borja/MUO
 
@@ -57,7 +58,8 @@ Jhet Borja/MUO
 
  Head to [Ventoy’s GitHub page](https://github.com/ventoy/Ventoy/) and on the right side, click on**Releases** . Scroll down to**Assets** and click on the ZIP folder that says Windows on it. Extract the contents into a folder on your PC.
 
-### GNOME Partition Editor (GParted) ISO ![downloading GParted amd64 version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/downloading-gparted-amd64-version.jpg)
+### GNOME Partition Editor (GParted) ISO
+![downloading GParted amd64 version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/downloading-gparted-amd64-version.jpg)
 
  GParted is an ISO used to create partitions on your internal SSD on your Steam Deck. The new partition will be where you’ll place the Windows installation. To download it, head to [GParted.org](https://gparted.org/download.php) and click on the**amd64.iso** download file.
 
@@ -69,7 +71,8 @@ Jhet Borja/MUO
 
  Head to the**Download Windows 11 Disk Image (ISO)** option and on the dropdown menu, select**Windows 11 (multi-edition ISO)** . Click on**Download** , then select your language. It should then give you another download button to download the Windows ISO that is about 6GB to 7GB in size.
 
-### Windows Drivers for Steam Deck ![Downloading Windows Drivers for Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/downloading-windows-drivers-for-steam-deck.jpg)
+### Windows Drivers for Steam Deck
+![Downloading Windows Drivers for Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/downloading-windows-drivers-for-steam-deck.jpg)
 
  Windows doesn’t support all the Steam Deck’s hardware straight from the get-go. Fortunately, Steam has provided Windows drivers so that your audio, Wi-Fi, Bluetooth, SD card reader, and APU are all working properly.
 
@@ -207,7 +210,8 @@ Jhet Borja/MUO
 
  If this doesn’t work, you may also try to delete the other ISO from the SD card or flash drive. You may also try reinstalling Ventoy as a last resort, but this will format the drive so make sure you have everything in a folder that you can easily paste onto the drive.
 
-### The Windows 0x80300001 Error ![Selecting partition created in GParted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/selecting-partition-created-in-gparted.JPG)
+### The Windows 0x80300001 Error
+![Selecting partition created in GParted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/selecting-partition-created-in-gparted.JPG)
 
 Jhet Borja/MUO
 
@@ -219,7 +223,8 @@ Jhet Borja/MUO
 
  You may have created a new partition as ext4 in GParted instead of leaving the unallocated partition as it is. If you insist on creating a new partition in GParted, make sure it’s in NTFS format and not ext4.
 
-### Windows Cannot Install Drivers ![Windows cannot install required files error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-cannot-install-required-files-error.JPG)
+### Windows Cannot Install Drivers
+![Windows cannot install required files error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-cannot-install-required-files-error.JPG)
 
 Jhet Borja/MUO
 
@@ -227,7 +232,8 @@ Jhet Borja/MUO
 
  Shut down your Steam Deck by holding down the power button and unplug any USB devices except your flash drive or SD card. Don’t plug in any USB devices during the installation to avoid this issue.
 
-### You Can’t Find SteamOS in the Boot Manager ![No SteamOS option in boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/no-steamos-option-in-boot-manager.JPG)
+### You Can’t Find SteamOS in the Boot Manager
+![No SteamOS option in boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/no-steamos-option-in-boot-manager.JPG)
 
 Jhet Borja/MUO
 
@@ -286,3 +292,49 @@ Then type:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/slowdown-simplicity-discover-idles/"><u>Slowdown Simplicity: Discover Idles</u></a></li>
+<li><a href="https://games-able.techidaily.com/spark-innovation-with-these-9-themed-gaming-sessions/"><u>Spark Innovation with These 9 Themed Gaming Sessions</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-7-fps-configurations-for-optimal-play/"><u>Top 7 FPS Configurations for Optimal Play</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6 Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-full-console-experience-integrating-controllers-with-androids/"><u>Unlock Full Console Experience: Integrating Controllers with Androids</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-the-essentials-of-navigating-googles-podcast-experience-for-2024/"><u>Updated The Essentials of Navigating Googles Podcast Experience for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-perfected-presence-the-art-of-blurring-conference-backdrops/"><u>In 2024, Perfected Presence  The Art of Blurring Conference Backdrops</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-samsung-galaxy-a05-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Samsung Galaxy A05 Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/system-stability-and-me-driver/"><u>System Stability & ME Driver</u></a></li>
+<li><a href="https://games-able.techidaily.com/preventing-xbox-controller-gaming-malfunctions/"><u>Preventing Xbox Controller Gaming Malfunctions</u></a></li>
+<li><a href="https://games-able.techidaily.com/retro-controller-enhancing-classic-games/"><u>Retro Controller: Enhancing Classic Games</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-seeking-out-reputable-sources-for-free-unlicensed-avian-music-files/"><u>Updated In 2024, Seeking Out Reputable Sources for Free, Unlicensed Avian Music Files</u></a></li>
+<li><a href="https://games-able.techidaily.com/mending-the-inconsistencies-of-steams-data-exchange/"><u>Mending the Inconsistencies of Steam's Data Exchange</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-speech-logger-must-haves-for-mac-devices-our-picks-of-the-best-five/"><u>[New] In 2024, Speech Logger Must-Haves for Mac Devices  Our Picks of the Best Five</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/calculating-expenses-for-youtubers-success-for-2024/"><u>Calculating Expenses for YouTubers' Success for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/switch-out-for-peak-performance/"><u>Switch Out for Peak Performance?</u></a></li>
+<li><a href="https://games-able.techidaily.com/rolling-older-xbox-controllers-settings-forward/"><u>Rolling Older Xbox Controllers Settings Forward</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-pathway-to-pristine-gameplay-with-your-xbox-series-xs-high-res-mode/"><u>The Pathway to Pristine Gameplay with Your Xbox Series X's High Res Mode</u></a></li>
+<li><a href="https://games-able.techidaily.com/pinnacle-headphones-for-switch-gamers/"><u>Pinnacle Headphones for Switch Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-windows-steams-bp-dilemmas/"><u>Overcoming Windows-Steam's BP Dilemmas</u></a></li>
+<li><a href="https://games-able.techidaily.com/name-that-tune-the-8-best-mobile-music-trivia-games/"><u>Name That Tune! The 8 Best Mobile Music Trivia Games</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-ultimate-guide-to-audio-treasures-for-podcast-production/"><u>New 2024 Approved The Ultimate Guide to Audio Treasures for Podcast Production</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-powerful-advantages-of-using-an-oled-screen-for-2-years/"><u>The Powerful Advantages of Using an OLED Screen for 2 Years</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlock-your-youtube-potential-idea-generation-guide/"><u>2024 Approved  Unlock Your YouTube Potential  Idea Generation Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-tech-ultimate-gaming-mouse/"><u>Superior Tech, Ultimate Gaming Mouse</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-lava-yuva-3-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/reducing-risks-dont-tap-into-ps5s-microphone/"><u>Reducing Risks: Don't Tap Into PS5's Microphone</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-error-0x803f8001-on-minecraft-for-windows-pcs/"><u>Resolving Error 0X803F8001 on Minecraft for Windows PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/streams-money-back-promise-executing-a-perfect-refund/"><u>Stream's Money-Back Promise: Executing a Perfect Refund</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-5-popular-photo-movie-maker-to-create-impressive-slideshow-videos/"><u>Updated 2024 Approved 5 Popular Photo Movie Maker to Create Impressive Slideshow Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-for-reconnecting-joy-cons-to-switch-system/"><u>Steps for Reconnecting Joy-Cons to Switch System</u></a></li>
+<li><a href="https://games-able.techidaily.com/tips-for-earning-early-starfield-access-credits/"><u>Tips for Earning Early Starfield Access Credits</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigate-the-digital-labyrinths-with-us/"><u>Navigate the Digital Labyrinths with Us!</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-windows-10s-most-popular-free-video-trimming-tools-for-2024/"><u>Updated Windows 10S Most Popular Free Video Trimming Tools for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-usb-hubs-tailored-for-playstation-5/"><u>Superior USB Hubs, Tailored for PlayStation 5</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-exploring-the-possibility-of-monthly-youtube-income/"><u>[Updated] 2024 Approved  Exploring the Possibility of Monthly YouTube Income</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionizing-tech-ai-innovations-at-computex/"><u>Revolutionizing Tech: AI Innovations at Computex</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-samsung-galaxy-s24plus-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Samsung Galaxy S24+ with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-guide-to-discovering-the-voice-generatorschangers-with-the-most-anime/"><u>2024 Approved Guide to Discovering the Voice Generators/Changers with the Most Anime</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-secure-mov-file-storage-in-windows-11/"><u>[Updated] Secure MOV File Storage in Windows 11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enabling-wi-fi-directly-for-canon-printers/"><u>Enabling Wi-Fi Directly for Canon Printers</u></a></li>
+</ul></div>

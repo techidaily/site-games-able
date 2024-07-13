@@ -1,7 +1,7 @@
 ---
 title: EA Play’s Costly Hike, Subscription Is Over for Me
-date: 2024-06-25T13:30:02.955Z
-updated: 2024-06-26T13:30:02.955Z
+date: 2024-07-12T04:07:03.306Z
+updated: 2024-07-13T04:07:03.306Z
 tags:
   - games
 categories:
@@ -30,7 +30,8 @@ thumbnail: https://thmb.techidaily.com/3e8a6c48903de348edfc32de01dc40c1bc954d345
 
  EA Play subscribers received an email from the company in April 2024 announcing a price increase for its subscription services. While I've been using the service since 2019, when it was still called EA Origin, this price increase is finally causing me to end my subscription.
 
-## EA Play Prices Are Increasing Globally ![Ea Play new prices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ea-play-new-prices.jpg)
+## EA Play Prices Are Increasing Globally
+![Ea Play new prices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ea-play-new-prices.jpg)
 
  EA Play started at $4.99 monthly or $29.99 yearly for the standard subscription, while the premium EA Play Pro cost $14.99 a month or $99.99 yearly. However, the company's recent announcement drives the prices by $1 a month or $10 annually for the standard EA Play. If you're subscribed to Pro, the price goes up by $2 monthly or $20 yearly. This means the new prices are now $5.99 monthly or $39.99 annually for the base EA Play and $16.99 a month or $119.99 a year for EA Play Pro.
 
@@ -46,7 +47,8 @@ thumbnail: https://thmb.techidaily.com/3e8a6c48903de348edfc32de01dc40c1bc954d345
 
  Even though EA Play is still an affordable service, I'm finally quitting it after five years. So, these are the reasons why I'm canceling my EA Play subscription.
 
-## 1\. I Don't Want to Pay Too Much for Just EA Titles ![EA Play games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ea-play-games.jpg)
+## 1\. I Don't Want to Pay Too Much for Just EA Titles
+![EA Play games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ea-play-games.jpg)
 
  The biggest reason I'm no longer signing up for EA Play is its limited library. The standard EA Play library only features 90 titles at the time of writing. While EA Play Pro gives you 60 more games, they're mostly niche titles that I don't really care for.
 
@@ -54,7 +56,8 @@ thumbnail: https://thmb.techidaily.com/3e8a6c48903de348edfc32de01dc40c1bc954d345
 
  While EA Play gives me early access to some of their new releases up to ten days before they launch, I don't see any new EA titles coming up. I also rarely use the 10% discount EA Play offers to subscribers like me, as I find the idea of paying for DLC while spending on a monthly subscription just too much.
 
-## 2\. EA Isn't Adding New Perks and Features ![EA Play vs EA Play Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ea-play-vs-ea-play-pro.jpg)
+## 2\. EA Isn't Adding New Perks and Features
+![EA Play vs EA Play Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ea-play-vs-ea-play-pro.jpg)
 
  I understand EA's need to increase prices; after all, it's the company's first time hiking up EA Play's subscription costs. This is especially true as overall operational expenses have steadily increased globally due to inflation.
 
@@ -64,7 +67,8 @@ thumbnail: https://thmb.techidaily.com/3e8a6c48903de348edfc32de01dc40c1bc954d345
 
  Furthermore, EA's price hikes across the pond and in other parts of the world are way over the compounded rate. A 117% increase in one year is simply too much, even if the company had added features like VR gaming or free DLCs.
 
-## 3\. Other Gaming Subscriptions Offer Better Value for Money ![Humble Bundle logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/humble-bundle-logo.png)
+## 3\. Other Gaming Subscriptions Offer Better Value for Money
+![Humble Bundle logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/humble-bundle-logo.png)
 
  Image Credit:[Humble Bundle](https://support.humblebundle.com/hc/en-us/articles/202742060-Bundle-Logos)
 
@@ -74,7 +78,8 @@ thumbnail: https://thmb.techidaily.com/3e8a6c48903de348edfc32de01dc40c1bc954d345
 
  You can also pick Humble Bundle's Humble Choice subscription. Although it's more expensive at $11.99 a month, you get a mix of titles every month that you get to keep forever; you don't have to rely on a library where your favorite games might come and go at a moment's notice.
 
-## 4\. I Can Get EA Play With Xbox Game Pass ![A promotional image for Xbox Game Pass and EA Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/xbox-game-pass-and-ea-play.jpg)
+## 4\. I Can Get EA Play With Xbox Game Pass
+![A promotional image for Xbox Game Pass and EA Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/xbox-game-pass-and-ea-play.jpg)
 
  Image Credit: [Xbox](https://www.xbox.com/en-us/games/store/xbox-game-pass-ultimate/cfq7ttc0khs0?WT.mc%5Fid=CNavGamesXboxGamePassUltimate)
 
@@ -101,3 +106,57 @@ thumbnail: https://thmb.techidaily.com/3e8a6c48903de348edfc32de01dc40c1bc954d345
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/solo-stardom-in-the-podcast-universe-for-2024/"><u>Solo Stardom in the Podcast Universe for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-expired-card-issues-on-sony-console/"><u>Addressing Expired Card Issues on Sony Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-reasons-why-you-should-ignore-ray-tracing-in-video-games/"><u>7 Reasons Why You Should Ignore Ray Tracing in Video Games</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-streamline-the-integration-of-youtube-playlists-into-a-sites-layout-for-2024/"><u>How To Streamline the Integration of YouTube Playlists Into a Site's Layout for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-and-correcting-create-file-unsuccessful-error-30005/"><u>Addressing and Correcting Create File Unsuccessful (Error 30005)</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-steam-content-conflict-errors/"><u>Addressing Steam Content Conflict Errors</u></a></li>
+<li><a href="https://games-able.techidaily.com/2024s-favorite-nintendo-switch-cartridge-cases/"><u>2024'S Favorite Nintendo Switch Cartridge Cases</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-green-screen-youtube-videos/"><u>Updated 2024 Approved Green Screen YouTube Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/adapting-sonys-console-to-pc-gaming-with-ease/"><u>Adapting Sony's Console to PC Gaming with Ease</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-the-secrets-of-hands-in-vrar-for-2024/"><u>Unveiling the Secrets of Hands in VR/AR for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-blizzard-gems-a-case-for-crossover-revivals-by-microsoft/"><u>7 Blizzard Gems: A Case for Crossover Revivals by Microsoft</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-in-depth-review-of-updated-videoshow-app-for-24-users/"><u>In 2024, In-Depth Review of Updated VideoShow App for '24 Users</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-blueprint-for-youtube-income-generation/"><u>[Updated] The Blueprint for YouTube Income Generation</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-vivo-v29e-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Vivo V29e</u></a></li>
+<li><a href="https://games-able.techidaily.com/accelerating-data-transmission-understanding-and-reducing-extended-response-times/"><u>Accelerating Data Transmission: Understanding and Reducing Extended Response Times</u></a></li>
+<li><a href="https://games-able.techidaily.com/abolish-your-subscription-commitments-in-steam/"><u>Abolish Your Subscription Commitments in Steam</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-audibly-enhance-videos-shared-as-tweets/"><u>In 2024, Audibly Enhance Videos Shared as Tweets</u></a></li>
+<li><a href="https://video-capture.techidaily.com/capturing-gaming-sessions-pick-between-obs-or-shadowplay-for-2024/"><u>Capturing Gaming Sessions  Pick Between OBS or ShadowPlay for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-google-meets-grid-view-functionality/"><u>[Updated] Mastering Google Meet's Grid View Functionality</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-essential-youtube-end-screen-templates-for-content-makers/"><u>In 2024, Essential YouTube End Screen Templates for Content Makers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-zte-axon-40-lites-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your ZTE Axon 40 Lites Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-growth-strategies-for-youtube-videos-6-effortless-approaches/"><u>[New] In 2024, Growth Strategies for YouTube Videos  6 Effortless Approaches</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719170858411-top-10-ps-summer-discount-extravaganza/"><u>Top 10 PS Summer Discount Extravaganza!</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-reasons-to-challenge-ray-tracings-dominance-in-gaming/"><u>7 Reasons to Challenge Ray Tracing's Dominance in Gaming</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/playscreen-media-app-review-for-2024/"><u>PlayScreen Media App Review for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-unresponsive-display-drivers-on-windows-11-systems/"><u>Addressing Unresponsive Display Drivers on Windows 11 Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719167966376-master-all-6-ps5-startup-techniques-now/"><u>Master All 6 Ps5 Startup Techniques Now!</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719171491789-enhancing-ipadiphone-experience-top-4-gba-emulators/"><u>Enhancing iPad/iPhone Experience: Top 4 GBA Emulators</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieve-silent-play-best-practices-on-xbox-one/"><u>Achieve Silent Play: Best Practices on Xbox One</u></a></li>
+<li><a href="https://games-able.techidaily.com/4-premium-game-boy-advance-emulators-for-your-idevice/"><u>4 Premium Game Boy Advance Emulators for Your iDevice</u></a></li>
+<li><a href="https://games-able.techidaily.com/advanced-high-display-proportional-gaming-tools/"><u>Advanced High Display Proportional Gaming Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719167760189-baldurs-gate-3-download-path-unveiled/"><u>Baldur's Gate 3: Download Path Unveiled</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-art-of-reel-production-embedding-soundtracks/"><u>[New] In 2024, The Art of Reel Production  Embedding Soundtracks</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719170473879-master-the-gbc-games-4-ioss-best-emulators/"><u>Master the GBC Games: 4 iOS's Best Emulators!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-share-mac-to-apple-iphone-7-drfone-by-drfone-ios/"><u>How to Screen Share Mac to Apple iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-quick-guide-to-palworlds-core/"><u>A Quick Guide to PalWorld's Core</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamlining-audacity-for-superior-audio-capture/"><u>2024 Approved  Streamlining Audacity for Superior Audio Capture</u></a></li>
+<li><a href="https://games-able.techidaily.com/advanced-strategies-for-customizing-games-on-steam/"><u>Advanced Strategies for Customizing Games on Steam</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-chuckling-challenge-brainstroming-7-humorous-youtube-videos/"><u>[Updated] 2024 Approved  Chuckling Challenge  Brainstroming 7 Humorous YouTube Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-step-by-step-approach-to-subscribing-and-enjoying-ea-play-on-ps5/"><u>A Step-by-Step Approach to Subscribing & Enjoying EA Play on PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-important-settings-to-customize-before-starting-a-new-fps-game/"><u>7 Important Settings to Customize Before Starting a New FPS Game</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/1715701250855-unlocked-mac-capture-tool-no-cost/"><u>Unlocked Mac Capture Tool - No Cost!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harness-high-quality-banners-free-for-content-developers/"><u>[New] 2024 Approved  Harness High-Quality Banners – Free for Content Developers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-dodge-disruptive-fb-video-promotions/"><u>In 2024, Dodge Disruptive FB Video Promotions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-journey-beyond-the-frantic-crafting-epic-slow-motion-content-for-instragram/"><u>2024 Approved  Journey Beyond the Frantic  Crafting Epic Slow Motion Content for Instragram</u></a></li>
+<li><a href="https://games-able.techidaily.com/489plus-innocn-39g1-r-top-refresh-tech/"><u>$489+ InnoCN 39G1 R: Top Refresh Tech</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-innovative-terminal-games-for-linux-aficionados/"><u>7 Innovative Terminal Games for Linux Aficionados</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-ranchers-revelry-best-friendly-farming-titles-for-gathering-pals/"><u>2024 Approved  Ranchers' Revelry  Best Friendly Farming Titles for Gathering Pals</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-next-gen-heroism-gopro-hero5-black-vs-hero4-silver/"><u>In 2024, Next-Gen HEROism  GoPro Hero5 Black vs Hero4 Silver</u></a></li>
+</ul></div>

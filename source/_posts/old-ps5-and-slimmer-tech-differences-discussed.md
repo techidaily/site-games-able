@@ -1,7 +1,7 @@
 ---
 title: "Old PS5 & Slimmer Tech: Differences Discussed"
-date: 2024-06-25T13:27:42.448Z
-updated: 2024-06-26T13:27:42.448Z
+date: 2024-07-12T04:04:24.948Z
+updated: 2024-07-13T04:04:24.948Z
 tags:
   - games
 categories:
@@ -16,7 +16,8 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 
  With Sony releasing a slimmer version of the PlayStation 5, many people are quite excited. However, others are understandably wondering what this newer and slimmer version of Sony's current-gen console brings to the table when compared to the older and fatter PS5\. Here's everything you need to know about their differences.
 
-## Sony Is Launching a New (Slimmer) PS5 ![the new slimmer PS5 version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/new-slim-version-of-the-ps5.jpg)
+## Sony Is Launching a New (Slimmer) PS5
+![the new slimmer PS5 version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/new-slim-version-of-the-ps5.jpg)
 
  Image credit:[Sony](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/)
 
@@ -38,7 +39,8 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 
  Sony has also reduced the weight of the disc edition from 9.9 pounds to 7.05 pounds. The weight of the digital edition has gone down to 5.73 pounds from 8.6 pounds (of course, it will weigh a little more if you attach the disk drive).
 
-## Old PS5 vs. New PS5: Attachable Disk Drive ![the attachable disk drive for the new smaller PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/detachable-disk-drive-for-the-new-smaller-ps5.jpg)
+## Old PS5 vs. New PS5: Attachable Disk Drive
+![the attachable disk drive for the new smaller PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/detachable-disk-drive-for-the-new-smaller-ps5.jpg)
 
  Image credit:[Sony](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/)
 
@@ -58,7 +60,8 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 
  The price of the old disc version of the PS5 is $499.99, and the new version will cost the same. The price for the old digital edition is $399.99, while the new one costs $449.99, marking a price increase. Furthermore, once you factor in the price of the disc drive, the digital edition gets even more expensive.
 
-## Old PS5 vs. New PS5: Stand ![the horizontal stand for the new smaller ps5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/horizontal-stand-for-the-new-ps5.jpg)
+## Old PS5 vs. New PS5: Stand
+![the horizontal stand for the new smaller ps5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/horizontal-stand-for-the-new-ps5.jpg)
 
  Image credit:[Sony](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/)
 
@@ -85,3 +88,67 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-discovering-the-free-world-of-vocal-transformation-rankings-and-reviews-top-7-list/"><u>New 2024 Approved Discovering the Free World of Vocal Transformation Rankings & Reviews - Top 7 List</u></a></li>
+<li><a href="https://games-able.techidaily.com/post-subscription-where-do-ps-plus-games-go/"><u>Post-Subscription: Where Do PS Plus Games Go?</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-ps5-boot-options-6-ways/"><u>The Ultimate Guide to PS5 Boot Options (6 Ways)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-honor-magic5-ultimate-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Honor Magic5 Ultimate? </u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-overcome-video-tiny-hiccups-not-visible/"><u>In 2024, Overcome  Video Tiny Hiccups Not Visible</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-samsung-galaxy-xcover-6-pro-tactical-edition-by-drfone-android/"><u>Universal Unlock Pattern for Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/creating-innocuous-steam-fun-for-kids-and-parents/"><u>Creating Innocuous Steam Fun for Kids and Parents</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719167632937-gaming-excellence-achieved-with-oled-technology/"><u>Gaming Excellence Achieved with OLED Technology.</u></a></li>
+<li><a href="https://games-able.techidaily.com/customize-your-interactive-language-in-steam/"><u>Customize Your Interactive Language in Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-definitive-strategy-for-uninstalling-games-from-your-steam-profile/"><u>The Definitive Strategy for Uninstalling Games From Your Steam Profile</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-streamlined-recording-of-academic-sessions-on-macs/"><u>[New] Streamlined Recording of Academic Sessions on Macs</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-third-party-controller-ban-consequences-for-gamers/"><u>Xbox Third-Party Controller Ban – Consequences for Gamers?</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-sonys-miniature-gaming-device/"><u>Discovering Sony's Miniature Gaming Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/methods-for-rectifying-screen-driver-issues-on-pcs/"><u>Methods for Rectifying Screen Driver Issues on PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-fun-in-games-invest-in-high-quality-tech/"><u>Boosting Fun in Games: Invest in High-Quality Tech</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-defender-kit-top-cases-of-24-for-devices/"><u>The Ultimate Defender Kit: Top Cases of '24 for Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/10-fun-texting-games-to-play-on-chat-with-friends-and-family/"><u>10 Fun Texting Games to Play on Chat With Friends and Family</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-an-efficient-strategy-for-low-memory-alerts-on-iphone/"><u>Crafting an Efficient Strategy for Low-Memory Alerts on iPhone</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplifying-nintendo-switch-password-management/"><u>Simplifying Nintendo Switch Password Management</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-steam-decks-best-friend-emulating-games-via-emudeck/"><u>A Steam Deck's Best Friend: Emulating Games via EmuDeck</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-pros-choice-the-best-screen-recorders-for-editing/"><u>In 2024, Pro's Choice  The Best Screen Recorders for Editing</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-a-world-of-fun-with-these-compelling-9-reasons-for-using-steam/"><u>Unlock a World of Fun with These Compelling 9 Reasons for Using Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/dial-in-destination-timezone-tweaks-on-sxb1/"><u>Dial in Destination: Timezone Tweaks on S/XB1</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-controller-enhanced-mobile-platforms/"><u>Top Controller-Enhanced Mobile Platforms</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-prevent-unsolicited-openings-of-search-bar-win11/"><u>How to Prevent Unsolicited Openings of Search Bar, Win11</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-next-chapter-in-gaming-meta-quest-3-reviewed/"><u>The Next Chapter in Gaming: Meta Quest 3 Reviewed</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-conduct-an-audiovisual-symphony-for-ppt/"><u>[New] 2024 Approved  Conduct an Audiovisual Symphony for PPT</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-discovering-8-premium-cost-free-videogame-soundscape-highlights/"><u>2024 Approved Discovering 8 Premium, Cost-Free Videogame Soundscape Highlights</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-get-facebook-links-downloaded-top-8-tools-of-the-year-2023-for-2024/"><u>[Updated] Get Facebook Links Downloaded  Top 8 Tools of the Year 2023 for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/virtual-detective-duties-powered-by-artificial-intelligence/"><u>Virtual Detective Duties Powered by Artificial Intelligence</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a54-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A54 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://extra-information.techidaily.com/decoding-apples-m1-revolution-in-tech/"><u>Decoding Apple's M1 Revolution in Tech</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-surveying-with-style-instagrams-polling-protocols-explained/"><u>[New] In 2024, Surveying with Style  Instagram's Polling Protocols Explained</u></a></li>
+<li><a href="https://games-able.techidaily.com/unwired-playtime-explore-idle-games/"><u>Unwired Playtime: Explore Idle Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/mobilize-your-tetris-skills-on-android-and-ios/"><u>Mobilize Your Tetris Skills on Android and iOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-expert-move-dial-down-console-shaking/"><u>The Expert Move: Dial Down Console Shaking</u></a></li>
+<li><a href="https://games-able.techidaily.com/10-reasons-why-your-games-keep-crashing-and-how-to-fix-issues/"><u>10 Reasons Why Your Games Keep Crashing (And How to Fix Issues)</u></a></li>
+<li><a href="https://games-able.techidaily.com/redefine-chess-fun-explore-these-6-novel-online-variants/"><u>Redefine Chess Fun: Explore These 6 Novel Online Variants</u></a></li>
+<li><a href="https://games-able.techidaily.com/pondering-the-usefulness-of-hybrid-gaming-screens/"><u>Pondering the Usefulness of Hybrid Gaming Screens</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-boost-your-videos-popularity-on-youtube/"><u>[Updated] 2024 Approved  Boost Your Video's Popularity on YouTube</u></a></li>
+<li><a href="https://games-able.techidaily.com/assessing-quicker-resume-usage-in-xbox-series-gaming/"><u>Assessing Quicker Résumé Usage in Xbox Series Gaming</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-the-world-of-srt-alteration-in-macos-systems/"><u>2024 Approved  Navigating the World of SRT Alteration in macOS Systems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/craftsmanship-in-focus-leading-android-collage-tools-for-2024/"><u>Craftsmanship in Focus – Leading Android Collage Tools for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ustream-examination-other-options-compared/"><u>In 2024, Ustream Examination  Other Options Compared</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-you-control-your-ps4-with-ps5-controller/"><u>Can You Control Your PS4 with PS5 Controller?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-aesthetic-alchemy-transforming-youtube-videos-for-2024/"><u>[Updated] Aesthetic Alchemy  Transforming YouTube Videos for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/all-about-palworld-in-a-nutshell/"><u>All About PalWorld, in a Nutshell</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-nova-y71-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Nova Y71</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-premium-recording-solutions-windows-edition/"><u>[New] Premium Recording Solutions  Windows Edition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-camera-stabilizers-for-youtubers/"><u>[Updated] Best Camera Stabilizers for YouTubers</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-swapping-console-zones/"><u>The Ultimate Guide to Swapping Console Zones</u></a></li>
+<li><a href="https://games-able.techidaily.com/weighing-cost-against-nitros-rewards/"><u>Weighing Cost Against Nitro's Rewards</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-future-of-viewing-ifa-2023-reveals/"><u>The Future of Viewing: IFA 2023 Reveals</u></a></li>
+<li><a href="https://games-able.techidaily.com/assistant-controller-the-secret-to-ps5-mastery/"><u>Assistant Controller: The Secret to PS5 Mastery</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-game-magic-with-customizations-on-steam/"><u>Unlocking Game Magic with Customizations on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-choices-for-enhancing-your-steam-deck-experience/"><u>Top Choices for Enhancing Your Steam Deck Experience</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/detailed-review-of-obss-video-capturing-tools/"><u>Detailed Review of OBS's Video Capturing Tools</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-realme-12-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Realme 12 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-guide-to-unlocking-every-steam-badge/"><u>A Guide to Unlocking Every Steam Badge</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-apple-arcade-for-your-next-favorite-game/"><u>Navigating Apple Arcade for Your Next Favorite Game</u></a></li>
+</ul></div>

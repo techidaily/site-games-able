@@ -1,7 +1,7 @@
 ---
 title: "Master Gamer's Guide: Setting up Windows on Steam Deck"
-date: 2024-06-25T12:48:37.982Z
-updated: 2024-06-26T12:48:37.982Z
+date: 2024-07-12T03:12:00.707Z
+updated: 2024-07-13T03:12:00.708Z
 tags:
   - games
 categories:
@@ -29,7 +29,8 @@ thumbnail: https://thmb.techidaily.com/c11b89b923631ed5d512ccc32ee592a5fb46939b3
 
  Do you want to have a familiar operating system or Game Pass on your Steam Deck? You can dual-boot SteamOS with Windows on the device. Here’s a thorough guide on installing Windows 11 on your Steam Deck.
 
-## Why You Should Install Windows on Your Steam Deck ![Steam Deck surrounded by peripherals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/steam-deck-surrounded-by-peripherals.JPG)
+## Why You Should Install Windows on Your Steam Deck
+![Steam Deck surrounded by peripherals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/steam-deck-surrounded-by-peripherals.JPG)
 
 Jhet Borja/MUO
 
@@ -57,7 +58,8 @@ Jhet Borja/MUO
 
  Head to [Ventoy’s GitHub page](https://github.com/ventoy/Ventoy/) and on the right side, click on**Releases** . Scroll down to**Assets** and click on the ZIP folder that says Windows on it. Extract the contents into a folder on your PC.
 
-### GNOME Partition Editor (GParted) ISO ![downloading GParted amd64 version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/downloading-gparted-amd64-version.jpg)
+### GNOME Partition Editor (GParted) ISO
+![downloading GParted amd64 version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/downloading-gparted-amd64-version.jpg)
 
  GParted is an ISO used to create partitions on your internal SSD on your Steam Deck. The new partition will be where you’ll place the Windows installation. To download it, head to [GParted.org](https://gparted.org/download.php) and click on the**amd64.iso** download file.
 
@@ -69,7 +71,8 @@ Jhet Borja/MUO
 
  Head to the**Download Windows 11 Disk Image (ISO)** option and on the dropdown menu, select**Windows 11 (multi-edition ISO)** . Click on**Download** , then select your language. It should then give you another download button to download the Windows ISO that is about 6GB to 7GB in size.
 
-### Windows Drivers for Steam Deck ![Downloading Windows Drivers for Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/downloading-windows-drivers-for-steam-deck.jpg)
+### Windows Drivers for Steam Deck
+![Downloading Windows Drivers for Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/downloading-windows-drivers-for-steam-deck.jpg)
 
  Windows doesn’t support all the Steam Deck’s hardware straight from the get-go. Fortunately, Steam has provided Windows drivers so that your audio, Wi-Fi, Bluetooth, SD card reader, and APU are all working properly.
 
@@ -207,7 +210,8 @@ Jhet Borja/MUO
 
  If this doesn’t work, you may also try to delete the other ISO from the SD card or flash drive. You may also try reinstalling Ventoy as a last resort, but this will format the drive so make sure you have everything in a folder that you can easily paste onto the drive.
 
-### The Windows 0x80300001 Error ![Selecting partition created in GParted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/selecting-partition-created-in-gparted.JPG)
+### The Windows 0x80300001 Error
+![Selecting partition created in GParted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/selecting-partition-created-in-gparted.JPG)
 
 Jhet Borja/MUO
 
@@ -219,7 +223,8 @@ Jhet Borja/MUO
 
  You may have created a new partition as ext4 in GParted instead of leaving the unallocated partition as it is. If you insist on creating a new partition in GParted, make sure it’s in NTFS format and not ext4.
 
-### Windows Cannot Install Drivers ![Windows cannot install required files error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-cannot-install-required-files-error.JPG)
+### Windows Cannot Install Drivers
+![Windows cannot install required files error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-cannot-install-required-files-error.JPG)
 
 Jhet Borja/MUO
 
@@ -227,7 +232,8 @@ Jhet Borja/MUO
 
  Shut down your Steam Deck by holding down the power button and unplug any USB devices except your flash drive or SD card. Don’t plug in any USB devices during the installation to avoid this issue.
 
-### You Can’t Find SteamOS in the Boot Manager ![No SteamOS option in boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/no-steamos-option-in-boot-manager.JPG)
+### You Can’t Find SteamOS in the Boot Manager
+![No SteamOS option in boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/no-steamos-option-in-boot-manager.JPG)
 
 Jhet Borja/MUO
 
@@ -286,3 +292,60 @@ Then type:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/joystick-journey-converting-console-commands-to-computer-controls-139-chars/"><u>Joystick Journey: Converting Console Commands to Computer Controls (139 Chars)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-instant-windows-photograph-gazing-tool/"><u>2024 Approved  Best Instant Windows Photograph Gazing Tool</u></a></li>
+<li><a href="https://games-able.techidaily.com/inside-the-world-of-professional-gaming-audio-tech/"><u>Inside the World of Professional Gaming Audio Tech</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-10-best-free-discord-voice-changers-2023-reviews-plusguide-for-2024/"><u>[New] 10 Best Free Discord Voice Changers [2023 Reviews +Guide] for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-halt-steam-initialization/"><u>How to Halt Steam Initialization</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/unleash-the-full-potential-of-your-android-device-with-obs-studio-for-2024/"><u>Unleash the Full Potential of Your Android Device with OBS Studio for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/overseas-playtime-alter-time-settings-on-sxxb1/"><u>Overseas Playtime: Alter Time Settings on SX/XB1</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-perfect-pairing-best-6-video-capture-tools-for-macos/"><u>[Updated] Perfect Pairing  Best 6 Video Capture Tools for MacOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/breaking-the-code-ps5s-internet-enigma/"><u>Breaking the Code: PS5's Internet Enigma</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-steams-updated-stance-on-artificial-intelligence-in-gaming/"><u>Navigating Steam's Updated Stance on Artificial Intelligence in Gaming</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-hitpaw-screen-recorder-review-and-alternative/"><u>[Updated] In 2024, HitPaw Screen Recorder Review and Alternative</u></a></li>
+<li><a href="https://games-able.techidaily.com/examining-xbox-encasements/"><u>Examining Xbox Encasements</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-ultimate-list-of-prime-video-favorites-on-twittersphere/"><u>[Updated] The Ultimate List of Prime Video Favorites on Twittersphere</u></a></li>
+<li><a href="https://games-able.techidaily.com/reversing-windows-gpu-hang-addressing-error-code-0x887a0006/"><u>Reversing Window's GPU Hang: Addressing Error Code 0X887A0006</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-unwanted-mouse-wheel-vibrations/"><u>Overcoming Unwanted Mouse Wheel Vibrations</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-discovering-the-ultimate-solution-showmores-recording-mastery-for-2024/"><u>[New] Discovering The Ultimate Solution  ShowMore's Recording Mastery for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/post-gtx-era-assessing-the-need-for-an-immediate-rtx-shift/"><u>Post-GTX Era: Assessing the Need for an Immediate RTX Shift</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-screen-magic-unmasking-bogus-gameshows/"><u>Beyond Screen Magic: Unmasking Bogus Gameshows</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoid-overcharges-with-smart-game-management/"><u>Avoid Overcharges with Smart Game Management</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-techniques-for-audience-friendly-audio-declines-in-imovie-projects/"><u>Updated In 2024, Techniques for Audience-Friendly Audio Declines in iMovie Projects</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminating-low-memory-alerts-while-using-roblox-in-ios/"><u>Eliminating Low-Memory Alerts While Using Roblox in iOS</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/google-pixel-7a-music-recovery-recover-deleted-music-from-google-pixel-7a-by-fonelab-android-recover-music/"><u>Google Pixel 7a Music Recovery - Recover Deleted Music from Google Pixel 7a</u></a></li>
+<li><a href="https://games-able.techidaily.com/nostalgias-best-kept-secrets-retro-games-and-your-phone/"><u>Nostalgia's Best Kept Secrets: Retro Games & Your Phone</u></a></li>
+<li><a href="https://games-able.techidaily.com/patching-for-purists-rom-linguistic-tweaks/"><u>Patching for Purists: ROM Linguistic Tweaks</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-honor-magic-5-lite-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Honor Magic 5 Lite? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-from-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account From Apple iPhone 14 Pro?</u></a></li>
+<li><a href="https://games-able.techidaily.com/bringing-pc-gaming-power-to-your-iphone-with-geforce-now/"><u>Bringing PC Gaming Power to Your iPhone with GeForce Now</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-on-iphone-13-mini-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud on iPhone 13 mini Safe and Legal</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-utilizing-mystery-and-intrigue-through-suspense-music-for-film-scoring-excellence/"><u>In 2024, Utilizing Mystery and Intrigue Through Suspense Music for Film Scoring Excellence</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-steam-funding-to-maximize-games-acquisition/"><u>Navigating Steam Funding to Maximize Games Acquisition</u></a></li>
+<li><a href="https://games-able.techidaily.com/curating-my-collection-of-innovative-indie-games/"><u>Curating My Collection of Innovative Indie Games</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-prime-streamers-selection-the-best-websites/"><u>[Updated] Prime Streamers' Selection  The Best Websites</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/be-studio-validating-earnings-flow/"><u>YouTube Studio  Validating Earnings Flow</u></a></li>
+<li><a href="https://games-able.techidaily.com/reinstating-stable-wired-and-wireless-connections-in-ps5/"><u>Reinstating Stable Wired and Wireless Connections in PS5</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-is-ipogo-not-working-on-samsung-galaxy-s23-tactical-edition-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Samsung Galaxy S23 Tactical Edition? Fixed | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-tips-for-resetting-ps5-gamepad/"><u>Essential Tips for Resetting PS5 Gamepad</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-varied-strategies-check-out-the-best-6-unique-chess-apps/"><u>Master Varied Strategies: Check Out the Best 6 Unique Chess Apps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-comprehensive-walkthrough-wmp-caption-addition/"><u>2024 Approved  A Comprehensive Walkthrough  WMP Caption Addition</u></a></li>
+<li><a href="https://games-able.techidaily.com/hall-effect-keys-in-focus-review-of-modular-board-mod007b/"><u>Hall Effect Keys in Focus - Review of Modular Board MOD007B</u></a></li>
+<li><a href="https://games-able.techidaily.com/gameplay-exploration-older-titles-on-new-ps-console/"><u>Gameplay Exploration: Older Titles on New PS Console</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/emulating-legends-pokemon-games-resurgence/"><u>Emulating Legends: Pokémon Games' Resurgence</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-how-to-profit-from-your-youtube-channels/"><u>[New] How to Profit From Your YouTube Channels</u></a></li>
+<li><a href="https://games-able.techidaily.com/do-you-actually-need-a-mechanical-keyboard-for-gaming/"><u>Do You Actually Need a Mechanical Keyboard for Gaming?</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-tips-for-amazon-prime-video-aspect-ratio/"><u>Updated In 2024, Tips for Amazon Prime Video Aspect Ratio</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-workplace-messaging-battle-is-slack-claiming-victory-over-discord/"><u>[Updated] In 2024, Workplace Messaging Battle  Is Slack Claiming Victory Over Discord?</u></a></li>
+<li><a href="https://games-able.techidaily.com/budget-brilliance-top-deals-on-cost-effective-mobo/"><u>Budget Brilliance: Top Deals on Cost-Effective Mobo</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-volume-control-on-xbox-s-and-x-series-x/"><u>Mastering Volume Control on Xbox S & X Series X</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-broadcast-preservation-in-the-age-of-web-radio/"><u>[Updated] 2024 Approved  Broadcast Preservation in the Age of Web Radio</u></a></li>
+<li><a href="https://games-able.techidaily.com/join-forces-in-these-20-cross-system-gaming-adventures/"><u>Join Forces in These 20 Cross-System Gaming Adventures</u></a></li>
+<li><a href="https://games-able.techidaily.com/custom-fan-curve-configuration-for-improved-graphics/"><u>Custom Fan Curve Configuration for Improved Graphics</u></a></li>
+</ul></div>

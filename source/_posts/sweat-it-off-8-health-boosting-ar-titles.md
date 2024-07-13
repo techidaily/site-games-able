@@ -1,7 +1,7 @@
 ---
 title: Sweat It Off! - 8 Health-Boosting AR Titles
-date: 2024-06-25T13:35:57.352Z
-updated: 2024-06-26T13:35:57.352Z
+date: 2024-07-12T04:13:46.528Z
+updated: 2024-07-13T04:13:46.528Z
 tags:
   - games
 categories:
@@ -24,7 +24,8 @@ thumbnail: https://thmb.techidaily.com/0f5fc285546b265c973fbaa96cd3591b73387ac3a
 
  Although there are plenty of reasons to spend time in natural outdoor settings, for some it is easier said than done. These fun AR (augmented reality) mobile games merge the real world with the virtual one to offer some get-up-and-go when it comes to spending time outside in nature!
 
-## 1\. Jurassic World Alive ![Jurassic World Alive Creature Discovered](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Jurassic-World-Alive-Creature-Discovered.jpeg)
+## 1\. Jurassic World Alive
+![Jurassic World Alive Creature Discovered](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Jurassic-World-Alive-Creature-Discovered.jpeg)
 
 ![Jurassic World Alive Battle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Jurassic-World-Alive-Battle.jpeg)
 
@@ -38,7 +39,8 @@ Close
 
 **Download:** Jurassic World Alive for [iOS](https://apps.apple.com/app/id1231085864?mt=8) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029750/https://play.google.com/store/apps/details?id=com.ludia.jw2) (Free, in-app purchases and subscription available)
 
-## 2\. ZRX ![ZRX augmented reality mobile fitness game home tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/zrx-home.jpg)
+## 2\. ZRX
+![ZRX augmented reality mobile fitness game home tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/zrx-home.jpg)
 
 ![ZRX zombies run augmented reality mobile fitness game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/zrx-zombies.jpg)
 
@@ -54,7 +56,8 @@ Close
 
 **Download:** ZRX for [iOS](https://apps.apple.com/app/zrx-zombies-run-marvel-move/id503519713) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029750/https://play.google.com/store/apps/details?id=com.sixtostart.zombiesrunclient) (Free, in-app purchases and subscription available)
 
-## 3\. Pokémon GO ![Pokemon GO augmented reality mobile game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pokemon-go.jpg)
+## 3\. Pokémon GO
+![Pokemon GO augmented reality mobile game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pokemon-go.jpg)
 
 ![Pokemon GO augmented reality mobile game lechonk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pokemon-go-lechonk.jpg)
 
@@ -70,7 +73,8 @@ Close
 
 **Download:** Pokémon GO for [iOS](https://apps.apple.com/app/pok%C3%A9mon-go/id1094591345) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029750/https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo) (Free, in-app purchases available)
 
-## 4\. Draconius GO ![Draconius GO augmented reality mobile game world map](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/draconius-go-world.jpg)
+## 4\. Draconius GO
+![Draconius GO augmented reality mobile game world map](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/draconius-go-world.jpg)
 
 ![Draconius GO augmented reality mobile game firepaw](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/draconius-go-firepaw.jpg)
 
@@ -86,7 +90,8 @@ Close
 
 **Download:** Draconius GO for [iOS](https://apps.apple.com/app/draconius-go-catch-a-dragon/id1222496828) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029750/https://play.google.com/store/apps/details?id=net.elyland.DraconiusGO) (Free, in-app purchases available)
 
-## 5\. Star Walk 2 ![Star Walk 2 augmented reality mobile app satellite](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/star-walk-2-satellite.jpg)
+## 5\. Star Walk 2
+![Star Walk 2 augmented reality mobile app satellite](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/star-walk-2-satellite.jpg)
 
 ![Star Walk 2 augmented reality mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/star-walk-2-ar.jpg)
 
@@ -100,7 +105,8 @@ Close
 
 **Download:** Star Walk 2 for [iOS](https://apps.apple.com/app/star-walk-2-ads-sky-tracker/id1112481571) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029750/https://play.google.com/store/apps/details?id=com.vitotechnology.StarWalk2Free) (Free, in-app purchases and subscription available)
 
-## 6\. Ingress Prime ![Ingress Prime augmented reality mobile game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ingress.jpg)
+## 6\. Ingress Prime
+![Ingress Prime augmented reality mobile game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ingress.jpg)
 
 ![Ingress Prime augmented reality mobile game items](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ingress-items.jpg)
 
@@ -114,7 +120,8 @@ Close
 
 **Download:** Ingress Prime for [iOS](https://apps.apple.com/app/ingress-prime/id576505181) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029750/https://play.google.com/store/apps/details?id=com.nianticproject.ingress) (Free, in-app purchases and subscription available)
 
-## 7\. Orna ![Orna The Adventure GPS RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/orna-world.jpg)
+## 7\. Orna
+![Orna The Adventure GPS RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/orna-world.jpg)
 
 ![Orna The Adventure GPS RPG character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/orna-character.jpg)
 
@@ -128,7 +135,8 @@ Close
 
 **Download:** Orna for [iOS](https://apps.apple.com/app/orna-turn-based-gps-rpg/id1451775309) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029750/https://play.google.com/store/apps/details?id=playorna.com.orna) (Free, in-app purchases available)
 
-## 8\. Pikmin Bloom ![Pikmin Bloom augmented reality mobile game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pikmin-bloom.jpg)
+## 8\. Pikmin Bloom
+![Pikmin Bloom augmented reality mobile game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pikmin-bloom.jpg)
 
 ![Pikmin Bloom augmented reality mobile game map](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pikmin-bloom-map.jpg)
 
@@ -165,3 +173,50 @@ Close
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/securing-victory-resolving-valorants-frames-per-second-challenges-on-pc/"><u>Securing Victory: Resolving Valorant's Frames Per Second Challenges on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/reviving-the-old-school-experience-in-your-living-room-pc/"><u>Reviving the Old School Experience in Your Living Room (PC)</u></a></li>
+<li><a href="https://games-able.techidaily.com/low-latency-maximum-gameplay-razer-basilisk-v3/"><u>Low Latency, Maximum Gameplay - Razer Basilisk V3</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-steam-deck-selection/"><u>Mastering the Art of Steam Deck Selection</u></a></li>
+<li><a href="https://games-able.techidaily.com/loophole-busted-no-more-unjust-refunds/"><u>Loophole Busted: No More Unjust Refunds</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-vivo-y27-4g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Vivo Y27 4G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-definitive-manual-for-gathering-all-past-facebook-data/"><u>The Definitive Manual for Gathering All Past Facebook Data</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-quick-fix-manual-to-overcome-4-common-gpu-setbacks/"><u>The Quick Fix Manual to Overcome 4 Common GPU Setbacks</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionize-your-gaming-setup-with-emudeck-and-steam-deck/"><u>Revolutionize Your Gaming Setup with EmuDeck & Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-twitch-blockunblock-guests/"><u>Mastering Twitch: Block/Unblock Guests</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-the-anatomy-of-great-lower-thirds-a-guide-for-fcpx-editors-for-2024/"><u>New The Anatomy of Great Lower Thirds A Guide for FCPX Editors for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/rog-ally-x-redefines-handheld-excellence/"><u>RoG Ally X Redefines Handheld Excellence</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/revenue-rationale-calculating-your-average-earning-from-adsense-per-k-views/"><u>Revenue Rationale  Calculating Your Average Earning From AdSense per K Views</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-minimize-resource-usage-by-roblox-app-on-ios-devices/"><u>How to Minimize Resource Usage by Roblox App on iOS Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-your-librarian-skills-fixing-eg-libraries-problems/"><u>Maximizing Your Librarian Skills: Fixing EG Libraries Problems</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-mastery-guide-downloading-windows-movie-maker-6/"><u>[Updated] In 2024, Mastery Guide  Downloading Windows Movie Maker 6</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-accelerating-operations-discover-the-leading-scheduling-tools/"><u>[Updated] In 2024, Accelerating Operations  Discover the Leading Scheduling Tools</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-boost-audio-quality-via-adaptive-volume-reduction-strategies-for-2024/"><u>Updated Boost Audio Quality via Adaptive Volume Reduction Strategies for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-windows-based-steam-network-issues/"><u>Overcoming Windows-Based Steam Network Issues</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-tailoring-visual-quality-choose-aspect-ratios-wisely/"><u>In 2024, Tailoring Visual Quality  Choose Aspect Ratios Wisely</u></a></li>
+<li><a href="https://games-able.techidaily.com/in-browser-blitzkrieg-a-ranked-list-of-top-online-shooter-games/"><u>In-Browser Blitzkrieg: A Ranked List of Top Online Shooter Games</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-cyberlink-screen-recorder-review-and-the-best-alternative/"><u>[New] Cyberlink Screen Recorder Review and the Best Alternative</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-ignite-customer-interest-and-increase-revenue-top-15-tools-for-fb-data-analysis/"><u>In 2024, Ignite Customer Interest & Increase Revenue  Top 15 Tools for FB Data Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-for-fixing-joy-con-misalignments/"><u>Strategies for Fixing Joy-Con Misalignments</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-from-apple-iphone-12ipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock from Apple iPhone 12/iPad/iPod</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-5-best-console-emulators-for-your-mac/"><u>The 5 Best Console Emulators for Your Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-3-best-gpu-alternatives-to-nvidias-geforce-rtx-4060-ti-16gb/"><u>The 3 Best GPU Alternatives to Nvidia's GeForce RTX 4060 Ti 16GB</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-simplified-methods-for-saving-screen-share-talks-for-2024/"><u>[New] Simplified Methods for Saving Screen-Share Talks for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-series-xs-audio-with-in-headphone-mode/"><u>Optimizing Series X/S Audio with In-Headphone Mode</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-tech-insight-pulling-and-keeping-twitters-vids-in-phone/"><u>2024 Approved  Tech Insight  Pulling and Keeping Twitters Vids in Phone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-vivo-y36-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Vivo Y36 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-steps-to-enhance-ps5-game-access-control/"><u>Navigating the Steps to Enhance PS5 Game Access Control</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-insiders-guide-getting-your-steam-purchase-back/"><u>The Insider's Guide: Getting Your Steam Purchase Back</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-android-gaming-buttons-and-controllers-unite/"><u>Mastering Android Gaming: Buttons and Controllers Unite</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-linkedins-game-add-on-really-worth-your-time/"><u>Is LinkedIn's Game Add-On Really Worth Your Time?</u></a></li>
+<li><a href="https://games-able.techidaily.com/securely-tear-down-previous-game-saves-on-playstation-5/"><u>Securely Tear Down Previous Game Saves on PlayStation 5</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-video-turners-top-10-tools-to-change-video-orientation/"><u>New Free Video Turners Top 10 Tools to Change Video Orientation</u></a></li>
+<li><a href="https://games-able.techidaily.com/spotting-pc-performance-throttling-by-cpu/"><u>Spotting PC Performance Throttling by CPU</u></a></li>
+<li><a href="https://games-able.techidaily.com/nintendo-switch-woes-assessing-repairs-and-replacements/"><u>Nintendo Switch Woes: Assessing Repairs and Replacements</u></a></li>
+<li><a href="https://games-able.techidaily.com/level-up-with-pc-games-the-switch-advantages/"><u>Level Up with PC Games: The Switch Advantages</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-recorders-bible-for-clear-conversations/"><u>In 2024, The Ultimate Recorder's Bible for Clear Conversations</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-top-5-factors-to-master-when-using-tiktok-web-mac/"><u>[Updated] In 2024, Top 5 Factors to Master When Using TikTok Web (Mac)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-vivo-x-fold-2-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Vivo X Fold 2 to PC- Detailed Steps | Dr.fone</u></a></li>
+</ul></div>

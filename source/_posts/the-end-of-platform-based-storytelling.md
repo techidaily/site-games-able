@@ -1,7 +1,7 @@
 ---
 title: The End of Platform-Based Storytelling
-date: 2024-06-25T13:36:53.506Z
-updated: 2024-06-26T13:36:53.506Z
+date: 2024-07-12T04:14:50.825Z
+updated: 2024-07-13T04:14:50.825Z
 tags:
   - games
 categories:
@@ -59,7 +59,8 @@ thumbnail: https://thmb.techidaily.com/7145ec69591f6ebc68facf261c1d68971298e27f3
 
  The same is true for Nintendo, which has released games featuring some of its biggest characters (Mario, Pokemon) on smartphones. The company hasn't yet released a Mario game on a rival console, but that doesn't mean it never will.
 
-## Why Platform Exclusives Are Going Away ![horizon forbidden west page on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/horizon-forbidden-west-page-on-steam.png)
+## Why Platform Exclusives Are Going Away
+![horizon forbidden west page on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/horizon-forbidden-west-page-on-steam.png)
 
  So, why are platform exclusives coming to an end? The obvious answer is that they're no longer the best option available to the companies responsible. The benefits of opening titles up to everyone, regardless of platform, massively outweigh the benefits of keeping titles exclusive to one console. As outlined above, Phil Spencer, someone who should know, said as much.
 
@@ -102,3 +103,60 @@ thumbnail: https://thmb.techidaily.com/7145ec69591f6ebc68facf261c1d68971298e27f3
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-honor-play-8t-by-fonelab-android-recover-data/"><u>The way to get back lost data from Honor Play 8T</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-uniting-your-network-with-cross-platform-skype-chat-groups-a-how-to-guide/"><u>2024 Approved  Uniting Your Network with Cross-Platform Skype Chat Groups  A How-To Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/canceling-firmware-changes-on-xbox-console/"><u>Canceling Firmware Changes on Xbox Console</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-pick-a-unique-name-for-youtube-channel-filmora-for-2024/"><u>How To Pick a Unique Name for YouTube Channel - Filmora for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/controller-skills-play-android-games-with-precision/"><u>Controller Skills: Play Android Games with Precision</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-linguistics-stepwise-rom-patch-application-guide/"><u>Game Linguistics: Stepwise Rom Patch Application Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/balancing-costs-with-ps5-gaming-memberships/"><u>Balancing Costs with PS5 Gaming Memberships</u></a></li>
+<li><a href="https://games-able.techidaily.com/dazzling-ifa-2023-tecnos-color-shifting-phones/"><u>Dazzling IFA 2023: Tecno’s Color Shifting Phones</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-key-elements-of-crafting-engrossing-steam-game-reviews/"><u>The Key Elements of Crafting Engrossing Steam Game Reviews</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-realme-note-50-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Realme Note 50 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-critically-acclaimed-audio-repository-top-10-music-capture-apps/"><u>2024 Approved Critically Acclaimed Audio Repository Top 10 Music Capture Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-youtubes-latest-twist-with-fresh-fun-mini-games-on-screen/"><u>Game On: YouTube's Latest Twist with Fresh, Fun Mini Games on Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/valves-latest-features-expand-steam-sharing-for-families/"><u>Valve’s Latest Features Expand Steam Sharing for Families</u></a></li>
+<li><a href="https://games-able.techidaily.com/unmatched-gameplay-experience-my-oled-journey/"><u>Unmatched Gameplay Experience - My OLED Journey</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-low-cost-high-performance-great-smartphones-for-gamers/"><u>[New] Low-Cost, High Performance  Great Smartphones for Gamers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-live-video-on-fb-audience-focused-guide/"><u>[Updated] In 2024, Live Video on FB  Audience-Focused Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-20-best-gamer-progress-tools/"><u>Top 20 Best Gamer Progress Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719164156571-play-retro-psp-hits-with-ios-now/"><u>Play Retro PSP Hits with iOS Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-waiting-outperforms-immediate-releases/"><u>Why Waiting Outperforms Immediate Releases</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-mac-screen-grabber-including-microphone-recording/"><u>[Updated] In 2024, Mac Screen Grabber  Including Microphone Recording</u></a></li>
+<li><a href="https://games-able.techidaily.com/an-in-depth-look-at-xbox-game-passs-offerings/"><u>An In-Depth Look at Xbox Game Pass's Offerings</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-aesthetics-with-a-purpose/"><u>Gaming Aesthetics with a Purpose</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-if-ea-play-merits-your-cash/"><u>Evaluating if EA Play Merits Your Cash</u></a></li>
+<li><a href="https://games-able.techidaily.com/cost-saving-strategies-for-gamers/"><u>Cost-Saving Strategies for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/advice-on-preserving-power-in-your-xbox-joystick/"><u>Advice on Preserving Power in Your Xbox Joystick</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-accelerated-aesthetics-rapid-revamping-of-images-on-windows-photo-editor/"><u>[New] 2024 Approved  Accelerated Aesthetics  Rapid Revamping of Images on Windows Photo Editor</u></a></li>
+<li><a href="https://games-able.techidaily.com/enriching-gameplay-ps-console-controllers-and-switch-combined/"><u>Enriching Gameplay: PS Console Controllers and Switch Combined</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-the-art-of-precision-introducing-an-obs-countdown-timer/"><u>[New] In 2024, The Art of Precision  Introducing an OBS Countdown Timer</u></a></li>
+<li><a href="https://games-able.techidaily.com/verifying-the-real-magic-experience-by-am08-pro/"><u>Verifying the Real Magic Experience by AM08 Pro</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-leading-17-lights-and-stands-reviewed/"><u>2024 Approved  The Leading 17 Lights & Stands Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/deleting-outdated-data-from-your-ps5-saved-games/"><u>Deleting Outdated Data From Your PS5 Saved Games</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-clash-to-harmony-mastering-color-matching-in-final-cut-pro/"><u>2024 Approved From Clash to Harmony Mastering Color Matching in Final Cut Pro</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-revealing-clarity-mastering-the-eraser-feature-in-psx/"><u>[New] Revealing Clarity  Mastering the Eraser Feature in PSX</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-how-to-archive-your-favorite-movies-mac-screenshots-for-netflix-for-2024/"><u>[Updated] How to Archive Your Favorite Movies  Mac Screenshots for Netflix for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-downloads-vs-hardcopy-holdings-in-gaming/"><u>Digital Downloads Vs. Hardcopy Holdings in Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/budget-smart-gaming-keyboards-roundup/"><u>Budget-Smart Gaming Keyboards Roundup</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-the-potential-of-gaming-communities-by-streaming-xbox-games-on-discord/"><u>Unlock the Potential of Gaming Communities by Streaming Xbox Games on Discord</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-exclusive-guide-to-top-8-gaming-websites/"><u>Your Exclusive Guide to Top 8 Gaming Websites</u></a></li>
+<li><a href="https://games-able.techidaily.com/ea-plays-ps5-game-hall-of-fame-selection/"><u>EA Play’s PS5 Game Hall of Fame Selection</u></a></li>
+<li><a href="https://games-able.techidaily.com/ddr5-kingmakers-best-boards-of-24/"><u>DDR5 Kingmakers: Best Boards of '24</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-colorful-conga-crow/"><u>[Updated] Colorful Conga Crow</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-java-games-stands-out-in-the-mobile-arena/"><u>Why Java Games Stands Out in the Mobile Arena</u></a></li>
+<li><a href="https://games-able.techidaily.com/aaa-publishers-scaling-dilemma-too-big-or-just-right-panel-discussion/"><u>AAA Publishers' Scaling Dilemma: Too Big, Or Just Right? [Panel Discussion]</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-cropping-and-styling-tips-for-standout-instagram-videos/"><u>[Updated] In 2024, Cropping and Styling Tips for Standout Instagram Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminating-games-from-steam-a-step-by-step-guide/"><u>Eliminating Games From Steam: A Step-by-Step Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-top-10-methods-for-effective-youtube-transcoding/"><u>In 2024, Top 10 Methods for Effective YouTube Transcoding</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-your-steam-shot-experience/"><u>Enhancing Your Steam Shot Experience</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-channel-finale-101-insider-tricks-for-successful-outros/"><u>[Updated] In 2024, Channel Finale 101  Insider Tricks for Successful Outros</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridging-console-and-computer-joystick-connectivity-made-simple-156-chars/"><u>Bridging Console and Computer: Joystick Connectivity Made Simple (156 Chars)</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-unmatched-performance-of-2-years-on-an-oled-monitor/"><u>The Unmatched Performance of 2 Years on an OLED Monitor!</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-hidden-game-savings-in-promos/"><u>Discover Hidden Game Savings in Promos</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-official-method-to-alter-console-regions/"><u>The Official Method to Alter Console Regions</u></a></li>
+<li><a href="https://games-able.techidaily.com/classic-catchers-reviving-retro-pokemon-on-android/"><u>Classic Catchers: Reviving Retro Pokémon on Android</u></a></li>
+</ul></div>

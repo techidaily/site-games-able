@@ -1,7 +1,7 @@
 ---
 title: $499 for Expertise Start with MOZA R5 Bundle Review
-date: 2024-06-25T13:07:14.330Z
-updated: 2024-06-26T13:07:14.330Z
+date: 2024-07-12T03:41:18.697Z
+updated: 2024-07-13T03:41:18.697Z
 tags:
   - games
 categories:
@@ -140,7 +140,8 @@ Yes
 
  The pedals are also heavy with a thick powder coating, but the edges are quite sharp, which makes them a little scary to handle. I was also disappointed to find that all the pedal faces are the same shape and size and completely flat with no adjustability. This could pose a problem, which I’ll discuss in the driving experience later.
 
-## MOZA R5 Bundle Hardware Setup Experience ![MOZA R5 on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-on-desk.JPG)
+## MOZA R5 Bundle Hardware Setup Experience
+![MOZA R5 on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-on-desk.JPG)
 
  Jhet Borja / MakeUseOf
 
@@ -150,7 +151,8 @@ Yes
 
  I was able to clamp it to my desk and get in position after just about 20 minutes since unboxing—and that’s including adding the clutch pedal and brake mod.
 
-## MOZA Pit House Software ![MOZA Pit House software with configured games list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-pit-house-software-with-configured-games-list.jpg)
+## MOZA Pit House Software
+![MOZA Pit House software with configured games list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-pit-house-software-with-configured-games-list.jpg)
 
  I thought I’d have a headache trying to get everything ready on the software side for driving, but the MOZA Pit House software on PC impressed me. It was able to detect the wheel and pedals without any hitches and even had pre-configured settings for all the racing simulators I wanted to drive except for Dirt Rally.
 
@@ -192,7 +194,8 @@ Close
 
  The app could use some language improvements though, as the wording can be quite strange, such as “Enter the car” to change the settings, “SteeringWheel Recenter,” and “Unconnected to the screen".
 
-## Desk Usage ![MOZA R5 beside headphones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-beside-headphones.JPG)
+## Desk Usage
+![MOZA R5 beside headphones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-beside-headphones.JPG)
 
  Jhet Borja / MakeUseOf
 
@@ -216,7 +219,8 @@ Close
 
  When I’m done racing, I usually stow it away at the far edge of my desk and unplug the USB and pedal cables. It’s pretty convenient to set up, as I don’t have to move the wheel base far. The wheel can also stay detached, so it’s not in the way all the time. My table is a bit wobbly though, so the monitor gets all shaky, especially when driving Rally cars.
 
-## Quick Release System ![R5 Quick Release](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/r5-quick-release.JPG)
+## Quick Release System
+![R5 Quick Release](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/r5-quick-release.JPG)
 
  Jhet Borja / MakeUseOf
 
@@ -230,7 +234,8 @@ Close
 
  Coming from a Logitech G29, the driving experience is wildly different. It’s no longer a clunky mess that feels like it’s about to rattle itself to pieces. It legitimately feels immersive and connected. I’ve separated the driving experience into three sections so I can go into detail for each major component.
 
-### MOZA R5 Wheel Base ![Turning with Formula Wheel mod](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/turning-with-formula-wheel-mod.JPG)
+### MOZA R5 Wheel Base
+![Turning with Formula Wheel mod](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/turning-with-formula-wheel-mod.JPG)
 
  Jhet Borja / MakeUseOf
 
@@ -315,3 +320,75 @@ Close
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/2024-approved-optimized-motion-the-creme-de-la-liste-of-srt-upgrades-for-pc-and-mac/"><u>2024 Approved  Optimized Motion  The Crème De La Liste of SRT Upgrades for PC and Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieve-silent-play-best-practices-on-xbox-one/"><u>Achieve Silent Play: Best Practices on Xbox One</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-your-complete-analysis-of-tiktoks-pfp-code/"><u>[Updated] Your Complete Analysis of TikTok’s PFP Code</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-inconsistent-mouse-wheel-travel/"><u>Addressing Inconsistent Mouse Wheel Travel</u></a></li>
+<li><a href="https://games-able.techidaily.com/acclaimed-ea-play-games-for-ps5/"><u>Acclaimed EA Play Games for PS5</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-honor-magic-vs-2-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Honor Magic Vs 2 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-and-correcting-create-file-unsuccessful-error-30005/"><u>Addressing and Correcting Create File Unsuccessful (Error 30005)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-nurturing-discussions-strategies-to-connect-with-followers/"><u>In 2024, Nurturing Discussions  Strategies to Connect With Followers</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719170974624-discover-the-joy-of-gaming-youtubes-new-minigames-invite-you-to-play/"><u>Discover the Joy of Gaming: YouTube’s New Minigames Invite You to Play</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-huawei-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Huawei Phone</u></a></li>
+<li><a href="https://games-able.techidaily.com/adjusting-mouse-sensitivity-for-maximum-precision/"><u>Adjusting Mouse Sensitivity for Maximum Precision</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-steam-content-conflict-errors/"><u>Addressing Steam Content Conflict Errors</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719167760189-baldurs-gate-3-download-path-unveiled/"><u>Baldur's Gate 3: Download Path Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-unresponsive-display-drivers-on-windows-11-systems/"><u>Addressing Unresponsive Display Drivers on Windows 11 Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/access-battle-xbox-game-pass-strategy-vs-psplus-essential-plan/"><u>Access Battle: Xbox Game Pass Strategy Vs. PS+ Essential Plan</u></a></li>
+<li><a href="https://games-able.techidaily.com/489plus-innocn-39g1-r-top-refresh-tech/"><u>$489+ InnoCN 39G1 R: Top Refresh Tech</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-xiaomi-civi-3-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Xiaomi Civi 3 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/advanced-high-display-proportional-gaming-tools/"><u>Advanced High Display Proportional Gaming Tools</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-snapshot-your-mobile-gamers-high-scores-on-samsungs/"><u>[New] Snapshot Your Mobile Gamers' High Scores on Samsungs</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172325340-create-immersive-gaming-opt-for-big-box-framing/"><u>Create Immersive Gaming - Opt for Big Box Framing!</u></a></li>
+<li><a href="https://games-able.techidaily.com/9-pros-and-cons-of-buying-digital-games/"><u>9 Pros (and Cons) of Buying Digital Games</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/2024-approved-unleash-your-creativity-best-vignette-apps-for-ios-and-android-users/"><u>2024 Approved Unleash Your Creativity Best Vignette Apps for iOS and Android Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-important-settings-to-customize-before-starting-a-new-fps-game/"><u>7 Important Settings to Customize Before Starting a New FPS Game</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieve-control-calmness-tame-xbox-series-s/"><u>Achieve Control Calmness: Tame Xbox Series S</u></a></li>
+<li><a href="https://games-able.techidaily.com/30-must-have-nintendo-switch-cartridge-holders/"><u>30 Must-Have Nintendo Switch Cartridge Holders</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/the-ultimate-ogg-converter-review-what-matters-most-for-2024/"><u>The Ultimate OGG Converter Review What Matters Most for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/adapting-sonys-console-to-pc-gaming-with-ease/"><u>Adapting Sony's Console to PC Gaming with Ease</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Realme GT 5 (240W) | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/accelerating-data-transmission-understanding-and-reducing-extended-response-times/"><u>Accelerating Data Transmission: Understanding and Reducing Extended Response Times</u></a></li>
+<li><a href="https://facebook.techidaily.com/profile-picture-strategies-for-social-success/"><u>Profile Picture Strategies for Social Success</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-innovative-terminal-games-for-linux-aficionados/"><u>7 Innovative Terminal Games for Linux Aficionados</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-capture-picture-perfection-without-paying/"><u>2024 Approved  How To Capture Picture Perfection Without Paying</u></a></li>
+<li><a href="https://games-able.techidaily.com/ace-your-console-setup-mastering-light-intensity-adjustments/"><u>Ace Your Console Setup: Mastering Light Intensity Adjustments</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-simplified-guide-crafting-powerful-content-for-fb-ads/"><u>[New] In 2024, Simplified Guide  Crafting Powerful Content for FB Ads</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172605573-step-up-your-game-designs-with-wide-cabinetry-options/"><u>Step Up Your Game Designs with Wide Cabinetry Options</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-reasons-why-you-should-ignore-ray-tracing-in-video-games/"><u>7 Reasons Why You Should Ignore Ray Tracing in Video Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/advanced-strategies-for-customizing-games-on-steam/"><u>Advanced Strategies for Customizing Games on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-reasons-to-challenge-ray-tracings-dominance-in-gaming/"><u>7 Reasons to Challenge Ray Tracing's Dominance in Gaming</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-compiling-the-top-10-affordable-video-conferencing-for-phones/"><u>[Updated] In 2024, Compiling the Top 10 Affordable Video Conferencing for Phones</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-circumventing-virtual-classroom-videos-without-hesitation/"><u>2024 Approved  Circumventing Virtual Classroom Videos Without Hesitation</u></a></li>
+<li><a href="https://games-able.techidaily.com/access-your-xbox-games-on-steam-glossis-guide/"><u>Access Your Xbox Games on Steam - GlosSI's Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/4-premium-game-boy-advance-emulators-for-your-idevice/"><u>4 Premium Game Boy Advance Emulators for Your iDevice</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719170858411-top-10-ps-summer-discount-extravaganza/"><u>Top 10 PS Summer Discount Extravaganza!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Realme 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-capturewave-91-analysis-summary/"><u>[New] CaptureWave 9.1 Analysis Summary</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-blizzard-gems-a-case-for-crossover-revivals-by-microsoft/"><u>7 Blizzard Gems: A Case for Crossover Revivals by Microsoft</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719170053700-effortless-xbox-controller-setup-for-personal-computers-157-chars-slight-overage-allowed-due-to-importance-of-message-content/"><u>Effortless Xbox Controller Setup for Personal Computers (157 Chars) - Slight Overage Allowed Due to Importance of Message Content</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-building-blocks-of-a-well-structured-youtube-video/"><u>[Updated] In 2024, Building Blocks of a Well-Structured YouTube Video</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-activision-blizzard-games-microsoft-should-revive/"><u>7 Activision Blizzard Games Microsoft Should Revive</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-quick-fixes-for-seamless-phone-screencasting/"><u>[New] 2024 Approved  Quick Fixes for Seamless Phone Screencasting</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172038398-revive-your-pc-install-todays-latest-nvidia-driver-release/"><u>Revive Your PC – Install Today's Latest Nvidia Driver Release</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-the-ultimate-compendium-mastering-the-art-of-finding-top-quality-free-audio-recorders/"><u>Updated The Ultimate Compendium Mastering the Art of Finding Top Quality Free Audio Recorders</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-streamline-control-switch-pro-in-steam-play/"><u>In 2024, Streamline Control  Switch Pro in Steam Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-expired-card-issues-on-sony-console/"><u>Addressing Expired Card Issues on Sony Console</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-economical-pc-playback-devices-for-2024/"><u>[Updated] Economical PC Playback Devices for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/icloud-unlocker-download-unlock-icloud-lock-for-your-iphone-8-by-drfone-ios/"><u>iCloud Unlocker Download Unlock iCloud Lock for your iPhone 8</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-crafting-videos-with-precision-leveraging-storyremix-in-windows-11-for-2024/"><u>[New] Crafting Videos with Precision  Leveraging StoryRemix in Windows 11 for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/abolish-your-subscription-commitments-in-steam/"><u>Abolish Your Subscription Commitments in Steam</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-beyond-audacity-a-comprehensive-list-of-cross-platform-audio-editors-excelling-in-performance-and-features/"><u>New In 2024, Beyond Audacity A Comprehensive List of Cross-Platform Audio Editors Excelling in Performance and Features</u></a></li>
+<li><a href="https://games-able.techidaily.com/20-rapid-and-simple-mobile-games-for-quick-entertainment-on-iosandroid/"><u>20 Rapid & Simple Mobile Games for Quick Entertainment on iOS/Android</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-apple-iphone-6-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing Apple iPhone 6 Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-revolutionize-your-clips-with-the-latest-vida-tools/"><u>2024 Approved  Revolutionize Your Clips with the Latest Vida Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-quick-guide-to-palworlds-core/"><u>A Quick Guide to PalWorld's Core</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-the-seamless-blend-of-images-into-majestic-collage-art/"><u>[New] In 2024, The Seamless Blend of Images Into Majestic Collage Art</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieve-global-gaming-with-easy-to-apply-rom-tweaks/"><u>Achieve Global Gaming with Easy-to-Apply Rom Tweaks</u></a></li>
+<li><a href="https://games-able.techidaily.com/2024s-favorite-nintendo-switch-cartridge-cases/"><u>2024'S Favorite Nintendo Switch Cartridge Cases</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-simplifying-vfx-with-magix-video-pro-x/"><u>[New] Simplifying VFX with Magix Video Pro X</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719167966376-master-all-6-ps5-startup-techniques-now/"><u>Master All 6 Ps5 Startup Techniques Now!</u></a></li>
+</ul></div>

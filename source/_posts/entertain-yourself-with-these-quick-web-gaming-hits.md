@@ -1,7 +1,7 @@
 ---
 title: Entertain Yourself with These Quick Web Gaming Hits
-date: 2024-06-25T13:30:58.134Z
-updated: 2024-06-26T13:30:58.134Z
+date: 2024-07-12T04:08:05.977Z
+updated: 2024-07-13T04:08:05.977Z
 tags:
   - games
 categories:
@@ -20,27 +20,33 @@ thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4
 
  Here are the best quick web games to play online when you're bored.
 
-## 1. QWOP ![QWOP](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/qwop.jpg)
+## 1. QWOP
+![QWOP](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/qwop.jpg)
 
  QWOP is a legendary web game. The goal is simple: successfully run 100 meters. Except, doing that is anything but simple, as you have to manually control the thighs and calves of the runner. Don't be surprised if it takes you a while to get off the start line, but at least you'll have a laugh doing it.
 
-## 2. Entanglement ![Entanglement web game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/entanglement-web-game.jpg)
+## 2. Entanglement
+![Entanglement web game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/entanglement-web-game.jpg)
 
  Entanglement is the perfect game to play when you're stressed, even if you don't like puzzle games. The goal is to create the longest path through randomly generated tiles that you turn and place. Plus there's some lovely soothing background music.
 
-## 3. Gridland ![Gridland](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gridland.jpg)
+## 3. Gridland
+![Gridland](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gridland.jpg)
 
  Gridland is a match-three game with a twist. There are two phases: day (where you match and gather resources to build your village) and night (where you match to fight off invading monsters.) Time only progresses when you make a move, so it encourages smart planning. It's extremely clever, but more importantly, a ton of fun.
 
-## 4. Cookie Clicker ![cookie clicker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/cookie-clicker.jpg)
+## 4. Cookie Clicker
+![cookie clicker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/cookie-clicker.jpg)
 
  The concept of Cookie Clicker is so banal, you can only truly understand it once you start playing. The ultimate aim is to produce as many cookies as possible. You do that by clicking a cookie. That's it. You can then trade the cookies in at the store to buy power-ups to automate tasks, like a reinforced cursor or a grandma.
 
-## 5. Threes ![threes js](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/threes-js.jpg)
+## 5. Threes
+![threes js](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/threes-js.jpg)
 
  Threes is a popular mobile game that has been turned into a web game. You slide numbered tiles on a four-by-four grid to combine them into multiples of three. The aim is to earn the highest score by stacking and achieving rare tiles. Though it seems simple in concept, it's delightfully difficult to keep games going more than a few minutes until no moves remain.
 
-## 6. The Wiki Game ![the wiki game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-wiki-game.jpg)
+## 6. The Wiki Game
+![the wiki game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-wiki-game.jpg)
 
 [Wikipedia is a treasure trove of interesting information](https://www.makeuseof.com/tag/10-insanely-weird-wikipedia-articles-read/) . The Wiki Game makes use of the free online encyclopedia by challenging you to travel from one Wikipedia page to another by using the internal links on the page. It also times you based on how easy the challenge is.
 
@@ -50,7 +56,8 @@ thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4
 
  Line Rider arrived in 2006 and became a sensation; it even ended up on the Nintendo DS and Wii. You don't need those consoles though because it can be played directly in the browser. Use your cursor to create lines, which the little figure then rides along. Get creative as you can by drawing loops, ramps, and insane jumps.
 
-## 8. Pac-Man ![pacman](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/pacman.jpg)
+## 8. Pac-Man
+![pacman](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/pacman.jpg)
 
  As one of the most iconic games ever made, Pac-Man hardly needs introduction. This arcade classic is available to play for free in your browser. Control the little yellow chomper, eat all the dots, and dodge those pesky ghosts.
 
@@ -58,57 +65,70 @@ thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4
 
  Quick, Draw! is not only a game, but also a way of training a neural network. You are presented with a word and then get a short amount of time to doodle it. As you draw, the system tries to guess what it is based on machine learning. Your drawing is then used to help train the machine in the future.
 
-## 10. Frogger ![frogger](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/frogger.jpg)
+## 10. Frogger
+![frogger](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/frogger.jpg)
 
  Frogger is a classic 1980s arcade game. It's had loads of sequels and clones through the years, but the original still holds a lot of charm. This web game is a recreation of the original. If you've never played Frogger, you need to correct that. The objective is to hop your frog to the other side, avoiding traffic on the road and a hazardous river.
 
-## 11. Color Pipes ![color pipes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/color-pipes.jpg)
+## 11. Color Pipes
+![color pipes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/color-pipes.jpg)
 
  Color Pipes has plenty of levels to keep you entertained for many visits. In the game, you must pair colors together by drawing lines between them. You also need to have the entire board covered. The only problem is, if any of the lines cross then the move is invalid. Simple yet addictive.
 
-## 12. Slime Volleyball ![slime volleyball](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/slime-volleyball.jpg)
+## 12. Slime Volleyball
+![slime volleyball](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/slime-volleyball.jpg)
 
  Slime Volleyball is an old online game, but it stands the test of time. You can either play against the computer or a friend. You control a little blob—or slime—as you hit a ball back and forth across a net. Should the ball touch the ground on your side, it's a point to the opponent. The Slime series expanded into other sports, but volleyball remains the best.
 
-## 13. Wordle ![Screenshot showing a Wordle game session](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/wordle-coffee-break-1.jpg)
+## 13. Wordle
+![Screenshot showing a Wordle game session](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/wordle-coffee-break-1.jpg)
 
 [Wordle is a free daily word guessing game](https://www.makeuseof.com/what-is-wordle/) that challenges you to guess a five-letter word in six attempts. As you guess, the tiles change color to represent how close you are to the correct word. A new word is available at midnight to keep you coming back for a slice of fun.
 
  If you like this, you're sure to enjoy these [excellent free word game apps for mobile](https://www.makeuseof.com/tag/free-mobile-single-player-word-games/) .
 
-## 14. Helicopter ![helicopter game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/helicopter-game.jpg)
+## 14. Helicopter
+![helicopter game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/helicopter-game.jpg)
 
  In Helicopter, you use your mouse to control a chopper and dodge incoming obstacles. Click to let the helicopter rise, stop to let it fall. This is an endless game that speeds up and gets frantic. Since it tracks your highest score, it'll give you that addicting "just one more turn" feeling as you try to beat yourself.
 
-## 15. A Dark Room ![a silent forest](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-silent-forest.jpg)
+## 15. A Dark Room
+![a silent forest](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-silent-forest.jpg)
 
  A Dark Room is one of the most notable clicker games because it's an unusual take on the genre. It's infused with role-playing and narrative elements that elevate the experience into something greater. It starts off slow, but stick with it.
 
-## 16. Mackerelmedia Fish ![Mackerelmedia Fish](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/mackerelmedia-fish.jpg)
+## 16. Mackerelmedia Fish
+![Mackerelmedia Fish](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/mackerelmedia-fish.jpg)
 
  If you like the weird and wonderful, Mackerelmedia Fish is for you. It's an interactive experience that guides you through a fictional retro web. The aim of the game? Well, that's one to discover for yourself. It's hilarious and wonderfully animated, and the less you know about it before you go in, the better.
 
-## 17. Sinuous ![Sinuous](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sinuous.jpg)
+## 17. Sinuous
+![Sinuous](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sinuous.jpg)
 
  In Sinuous, you are your mouse cursor. Avoid the endless torrent of red dots, touch the green dots for invulnerability, and see how long you can last. The game is highly replayable and excellent for five-minute bursts.
 
-## 18. Slither.io ![slither.io](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/slither-io.jpg)
+## 18. Slither.io
+![slither.io](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/slither-io.jpg)
 
  Slither.io is a fun and colorful online game where you control a snake in a neon landscape, sliding into glowing orbs to grow your length. The difficulty is that you're playing against others, some of whom are longer than you. They can envelop you and become longer. Of course, you can do the same thing to smaller snakes. See how big you can get.
 
-## 19. Books Tower ![books tower](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/books-tower.jpg)
+## 19. Books Tower
+![books tower](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/books-tower.jpg)
 
  The objective of Books Tower is to stack as many books as possible without the tower topping over. Each new book glides from left to right and you need to click when you want it to drop. Time those clicks perfectly to align the books; otherwise, it's all going to come tumbling down.
 
-## 20. The Jigsaw Puzzles ![the jigsaw puzzles](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-jigsaw-puzzles.jpg)
+## 20. The Jigsaw Puzzles
+![the jigsaw puzzles](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-jigsaw-puzzles.jpg)
 
  The Jigsaw Puzzles is one of [the best websites to play free jigsaws](https://www.makeuseof.com/tag/10-websites-playing-free-jigsaw-puzzles-online/) . It's home to thousands of free online jigsaw puzzles, from categories like animals to nature, ranging in difficulty from 50 to 150 pieces each. It's perhaps not as satisfying as completing a real puzzle, but it's still an enjoyable way to spend 15 minutes.
 
-## 21. Connections ![connections](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/connections.jpg)
+## 21. Connections
+![connections](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/connections.jpg)
 
  Connections is a bite-sized game to help get your brain in gear. It tasks you to link words that share something in common, creating four groups; there's only one solution, so be wary of words which could belong to multiple categories. Like Wordle, Connections gives you a fresh challenge every day.
 
-## 22. Wonderputt ![wonderputt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/wonderputt.jpg)
+## 22. Wonderputt
+![wonderputt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/wonderputt.jpg)
 
  Wonderputt is a stylish mini-golf game where the course transforms in crazy and inventive ways after each hole. Don't let the relaxing music deceive you; this game gets tricky.
 
@@ -137,3 +157,45 @@ thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/the-essential-manual-for-xbox-one-connections/"><u>The Essential Manual for Xbox One Connections</u></a></li>
+<li><a href="https://games-able.techidaily.com/preserve-ps5s-efficiency-time-it-well/"><u>Preserve PS5’s Efficiency: Time It Well</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-achieving-excellent-illumination-on-youtube-videos/"><u>[Updated] 2024 Approved  Achieving Excellent Illumination on YouTube Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-desk-edge-over-chairs/"><u>The Desk Edge Over Chairs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-selfie-stick-showdown-for-iphone-8-winners/"><u>[New] The Ultimate Selfie Stick Showdown for iPhone (#8 Winners)</u></a></li>
+<li><a href="https://games-able.techidaily.com/reasons-that-keep-gamefi-from-capturing-the-masses/"><u>Reasons That Keep GameFi From Capturing the Masses</u></a></li>
+<li><a href="https://games-able.techidaily.com/premier-gameplay-progress-keepers/"><u>Premier Gameplay Progress Keepers</u></a></li>
+<li><a href="https://games-able.techidaily.com/mts-and-their-place-in-elite-video-games/"><u>MTs and Their Place in Elite Video Games</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-15-pro-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 15 Pro with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/in-2024-reverse-rewind-repeat-mastering-tiktok-video-reversal-2023-update/"><u>In 2024, Reverse, Rewind, Repeat Mastering TikTok Video Reversal 2023 Update</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-accelerating-ar-development-leveraging-custom-luts/"><u>[New] 2024 Approved  Accelerating AR Development  Leveraging Custom LUTs</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-quick-guide-to-instagram-video-speed-up-mobiledesktop/"><u>[Updated] In 2024, The Quick Guide to Instagram Video Speed-Up (Mobile/Desktop)</u></a></li>
+<li><a href="https://games-able.techidaily.com/prioritize-these-specs-in-your-next-game-display-purchase/"><u>Prioritize These Specs in Your Next Game Display Purchase</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-mc-map-downloads-and-implementation/"><u>Navigating MC Map Downloads & Implementation</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-list-10-exciting-free-to-play-games/"><u>The Ultimate List: 10 Exciting, Free-to-Play Games</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-discover-the-top-audio-converters-for-your-music-library-for-2024/"><u>New Discover the Top Audio Converters for Your Music Library for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-document-your-days-with-xiaomis-state-of-the-art-screenshot-tool/"><u>[New] Document Your Days with Xiaomi's State-of-the-Art Screenshot Tool</u></a></li>
+<li><a href="https://games-able.techidaily.com/sony-ps5-audio-via-bluetooth-technology/"><u>Sony PS5 Audio via Bluetooth Technology</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-microsoftblizzard-pact-could-it-be-a-win-win-or-a-risk/"><u>The Microsoft/Blizzard Pact: Could It Be a Win-Win or a Risk?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Samsung Galaxy M34? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/sailing-down-memory-lane-with-pokemon-apps/"><u>Sailing Down Memory Lane with Pokémon Apps</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-twitter-clip-sound-and-format-transformation/"><u>[New] 2024 Approved  Twitter Clip  Sound and Format Transformation</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-captivating-sounds-without-breaking-your-piggy-bank-the-top-six-no-cost-video-conversion-approaches/"><u>New Captivating Sounds Without Breaking Your Piggy Bank The Top Six No-Cost Video Conversion Approaches</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-through-noise-canceling-headphones-for-games/"><u>Navigating Through Noise-Canceling Headphones for Games</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-elevate-your-brand-with-these-11-free-animated-logo-generators/"><u>New 2024 Approved Elevate Your Brand with These 11 Free Animated Logo Generators</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-birthplace-of-foddian-game-titles/"><u>The Birthplace of Foddian Game Titles</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-realme-narzo-60-pro-5g-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Realme Narzo 60 Pro 5G Without Password?</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essence-of-modernizing-classics-six-stories-on-pi/"><u>The Essence of Modernizing Classics - Six Stories on Pi</u></a></li>
+<li><a href="https://games-able.techidaily.com/solving-create-file-failed-error-30005/"><u>Solving Create File Failed Error 30005</u></a></li>
+<li><a href="https://games-able.techidaily.com/size-shapes-strategy-the-impact-on-game-publishing-giants-strategic-analysis-report/"><u>Size Shapes Strategy: The Impact on Game Publishing Giants? [Strategic Analysis Report]</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-smoothly-view-youtube-videos-without-borders/"><u>[Updated] How to Smoothly View YouTube Videos without Borders?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-bring-laughs-home-for-free-mememakers-way/"><u>[New] Bring Laughs Home for FREE - MemeMaker's Way</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-destination-for-steam-shot-savings/"><u>The Destination for Steam Shot Savings</u></a></li>
+<li><a href="https://games-able.techidaily.com/safe-spaces-online-educating-youth-about-risks-like-discord/"><u>Safe Spaces Online: Educating Youth About Risks Like Discord</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-discovering-the-stars-that-sparkle-in-your-domains-social-space-for-2024/"><u>[Updated] Discovering the Stars that Sparkle in Your Domain's Social Space for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-mastering-rapid-audio-playback-adjusting-pace-with-ease/"><u>In 2024, Mastering Rapid Audio Playback Adjusting Pace with Ease</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-twitch-universe-a-beginners-pathway/"><u>Navigating the Twitch Universe: A Beginner's Pathway</u></a></li>
+</ul></div>

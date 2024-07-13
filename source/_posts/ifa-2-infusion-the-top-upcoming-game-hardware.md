@@ -1,7 +1,7 @@
 ---
 title: "IFA 2 Infusion: The Top Upcoming Game Hardware"
-date: 2024-06-25T13:18:33.339Z
-updated: 2024-06-26T13:18:33.339Z
+date: 2024-07-12T03:54:05.060Z
+updated: 2024-07-13T03:54:05.060Z
 tags:
   - games
 categories:
@@ -22,7 +22,8 @@ thumbnail: https://thmb.techidaily.com/5f1dd72a960c69600ce9688063aeb5e7a932b178d
 
  Plenty of brands had a fine showing of their gaming hardware at IFA 2023\. But it was Lenovo that proverbially mopped the floor with the competition. It unveiled not one, or even two, but three pieces of gaming hardware that show Lenovo is making serious moves to become a leader in some of the game tech still in its infancy: portable gaming PCs and AR glasses.
 
-### Lenovo Legion GO ![MUO site on Lenovo Legion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/muo-on-legion.jpg)
+### Lenovo Legion GO
+![MUO site on Lenovo Legion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/muo-on-legion.jpg)
 
  Image Credit: Justin Duino /[MakeUseOf](http://www.makeuseof.com)
 
@@ -56,7 +57,8 @@ thumbnail: https://thmb.techidaily.com/5f1dd72a960c69600ce9688063aeb5e7a932b178d
 
  The Lenovo Legion GO is scheduled to launch on October 31, 2023, for $799.
 
-### Lenovo Legion Glasses ![legion-glasses-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-glasses-1.jpg)
+### Lenovo Legion Glasses
+![legion-glasses-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-glasses-1.jpg)
 
  Image Credit: Justin Duino /[MakeUseOf](http://www.makeuseof.com)
 
@@ -82,7 +84,8 @@ thumbnail: https://thmb.techidaily.com/5f1dd72a960c69600ce9688063aeb5e7a932b178d
 
  The rebranded Lenovo Legion Glasses will be available sometime in October 2023 for $329.
 
-### Lenovo Legion 9i ![legion-9i-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-9i-2.jpg)
+### Lenovo Legion 9i
+![legion-9i-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-9i-2.jpg)
 
  Image Credit: Justin Duino /[MakeUseOf](http://www.makeuseof.com)
 
@@ -106,7 +109,8 @@ The Legion 9i features a:
 
 The Lenovo Legion 9i will be available starting October 2023.
 
-## MSI GAMING SLIM Series Graphics Cards ![msi 4070 slimline gpu on msi stand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/msi-4070-slimline-gpu-on-msi-stand.jpg)
+## MSI GAMING SLIM Series Graphics Cards
+![msi 4070 slimline gpu on msi stand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/msi-4070-slimline-gpu-on-msi-stand.jpg)
 
  Image Credit: Gavin Phillips/MakeUseOf
 
@@ -120,7 +124,8 @@ The Lenovo Legion 9i will be available starting October 2023.
 
  MSI's GAMING SLIM version of its GeForce RTX 40 series graphics cards will be released sometime later this year.
 
-## Tecno MegaMini Watercooled Mini PC ![The MegaMini Gaming G1 watercooled mini PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/megamini-gaming-g1.jpg)
+## Tecno MegaMini Watercooled Mini PC
+![The MegaMini Gaming G1 watercooled mini PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/megamini-gaming-g1.jpg)
 
  Image Credit: Paul Antill/[MakeUseOf](http://www.makeuseof.com)
 
@@ -157,3 +162,54 @@ No word on the price or release date yet, but color us intrigued.
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/invest-smart-with-economy-led-monitor/"><u>Invest Smart with Economy LED Monitor</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-upside-of-staggered-game-drops/"><u>The Upside of Staggered Game Drops</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-free-tv-streaming-9-sites-you-need-to-know/"><u>2024 Approved Free TV Streaming 9 Sites You Need To Know</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-the-art-of-nintendo-switch-area-switching/"><u>Master the Art of Nintendo Switch Area-Switching</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-for-streamlining-steam-decks-cloud-function/"><u>Strategies for Streamlining Steam Deck’s Cloud Function</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-experience-google-play-games-on-pc/"><u>How to Experience Google Play Games on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-ranked-gba-ios-simulators-unveiled/"><u>Top-Ranked GBA iOS Simulators Unveiled</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-picking-a-champion-in-video-software-vlcmx/"><u>[Updated] Picking a Champion in Video Software  VLC/MX</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/top-3-approaches-to-big-head-makeover-in-tiktok-videos-for-2024/"><u>Top 3 Approaches to Big Head Makeover in TikTok Videos for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/supercharge-your-gaming-system-with-ease/"><u>Supercharge Your Gaming System with Ease</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-messages-from-apple-iphone-11-pro-max-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Messages from Apple iPhone 11 Pro Max to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-your-console-ambiance-with-premium-lights/"><u>Maximize Your Console Ambiance with Premium Lights</u></a></li>
+<li><a href="https://games-able.techidaily.com/oled-gaming-monitors-my-2-year-experience/"><u>OLED Gaming Monitors: My 2-Year Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/tactical-tuning-for-triumphant-fps-engagements/"><u>Tactical Tuning for Triumphant FPS Engagements</u></a></li>
+<li><a href="https://games-able.techidaily.com/restoring-missing-gps-on-your-pokemon-journey/"><u>Restoring Missing GPS on Your Pokémon Journey</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-fix-the-0x887a0006-dxgierrordevicehung-error-in-windows-11-and-11/"><u>How to Fix the 0X887A0006: DXGI_ERROR_DEVICE_HUNG Error in Windows 11 & 11</u></a></li>
+<li><a href="https://facebook.techidaily.com/augmented-reality-meets-text-messaging-on-fb-messenger/"><u>Augmented Reality Meets Text Messaging on FB Messenger</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mastering-youtube-traffic-for-new-content-creators-for-2024/"><u>Mastering YouTube Traffic for New Content Creators for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/harmonizing-playstation-5-memberships-for-efficiency/"><u>Harmonizing PlayStation 5 Memberships for Efficiency</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-process-joining-controllers-to-android-gadgets/"><u>Navigating the Process: Joining Controllers to Android Gadgets</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-pure-entertainment-discover-10-best-zero-ad-gaming-apps/"><u>Unlock Pure Entertainment: Discover 10 Best Zero-Ad Gaming Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/supercharge-your-playtime-with-elite-tech/"><u>Supercharge Your Playtime with Elite Tech</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-from-apple-iphone-13-pro-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock From Apple iPhone 13 Pro Online</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-playful-pause-balancing-screen-time-and-life/"><u>The Playful Pause: Balancing Screen Time and Life</u></a></li>
+<li><a href="https://games-able.techidaily.com/remedy-error-0x887a0006-a-step-by-step-approach-to-fixing-dxgi-devices/"><u>Remedy Error 0X887A0006: A Step-by-Step Approach to Fixing DXGI Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/retro-gaming-setup-oled-switch-with-vintage-power-source/"><u>Retro Gaming Setup: OLED Switch with Vintage Power Source</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-rectify-silence-or-distortion-in-xbox-audio/"><u>How to Rectify Silence or Distortion in Xbox Audio</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-shaping-public-perception-5-essentials-for-instagram-marketing-mavericks/"><u>[Updated] 2024 Approved  Shaping Public Perception  5 Essentials for Instagram Marketing Mavericks</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-xiaomi-redmi-k70-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Xiaomi Redmi K70? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/protect-your-playthroughs-duplicating-steam-captures/"><u>Protect Your Playthroughs: Duplicating Steam Captures</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-your-windows-steam-setup-with-bp-mode/"><u>Streamlining Your Windows-Steam Setup with BP Mode</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-vivo-x-fold-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win-10xpvista-revival-restarting-for-better-internet/"><u>Win 10/XP/Vista Revival: Restarting for Better Internet</u></a></li>
+<li><a href="https://games-able.techidaily.com/tips-for-cancelling-steam-membership-monthly/"><u>Tips for Cancelling Steam Membership Monthly</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-the-ultimate-guide-to-capturing-memorable-moments-on-tiktok-with-filmmaker-tools/"><u>[Updated] In 2024, The Ultimate Guide to Capturing Memorable Moments on TikTok with Filmmaker Tools</u></a></li>
+<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-vivo-y02t-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/king-profitability-on-youtube-shorts-essentials-and-future-earning-prospects-for-2024/"><u>Unlocking Profitability on Youtube Shorts  Essentials and Future Earning Prospects for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/twitch-broadcast-excellence-a-step-by-step-mobile-approach/"><u>Twitch Broadcast Excellence: A Step-by-Step Mobile Approach</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-marvels-space-epic-preorder-spiderman-ps5/"><u>Unlock Marvel's Space Epic: Preorder Spiderman PS5</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-precise-portrayal-of-pixels-master-netflix-recordings-with-these-6-mac-tactics/"><u>[New] Precise Portrayal of Pixels  Master Netflix Recordings with These 6 Mac Tactics</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-chrome-os-video-editing-the-best-free-alternatives/"><u>New Chrome OS Video Editing The Best Free Alternatives</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-storage-steam-deck-and-sd-card/"><u>Optimizing Storage: Steam Deck and SD Card</u></a></li>
+<li><a href="https://games-able.techidaily.com/redefining-player-value-4-pivotal-enhancements-for-xbox-rewards/"><u>Redefining Player Value: 4 Pivotal Enhancements for Xbox Rewards</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-enjoy-your-old-favorites-top-5-ps1-game-simulators-on-pc/"><u>[New] In 2024, Enjoy Your Old Favorites  Top 5 PS1 Game Simulators on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-steam-data-coordination-errors/"><u>Resolving Steam Data Coordination Errors</u></a></li>
+<li><a href="https://games-able.techidaily.com/identifying-the-chasm-between-steam-and-gog-models/"><u>Identifying the Chasm Between Steam and GOG Models</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-hd-144hz-gaming-displays-guide/"><u>Ultimate HD 144Hz Gaming Displays Guide</u></a></li>
+</ul></div>

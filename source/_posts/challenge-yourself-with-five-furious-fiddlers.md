@@ -1,7 +1,7 @@
 ---
 title: Challenge Yourself With Five Furious Fiddlers
-date: 2024-06-25T12:48:36.653Z
-updated: 2024-06-26T12:48:36.653Z
+date: 2024-07-12T03:09:36.375Z
+updated: 2024-07-13T03:09:36.375Z
 tags:
   - games
 categories:
@@ -20,7 +20,8 @@ thumbnail: https://thmb.techidaily.com/24c4d966d5ae08b9992d6ca8e560b523aa54e9e6e
 
 Let’s explore some of the names leading the scene.
 
-## 1\. Jump King ![The top of the tower in base Jump King](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/jump-king.jpg)
+## 1\. Jump King
+![The top of the tower in base Jump King](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/jump-king.jpg)
 
  If you just discovered [what Foddian games are](https://www.makeuseof.com/what-are-foddian-games/) , chances are you’ve heard of Jump King. It’s a massive title in the community, the completion of which holds a lot of sway. Jump King is one of the easiest Foddian games to grasp because of its simple mechanics.
 
@@ -38,7 +39,8 @@ Let’s explore some of the names leading the scene.
 
 **Download** : Jump King on [Steam](https://store.steampowered.com/app/1061090/Jump%5FKing/) , the [Nintendo Store](https://www.nintendo.com/store/products/jump-king-switch/) , the [PlayStation Store](https://store.playstation.com/en-us/product/UP3883-CUSA18541%5F00-JUMPKINGPS4US001) , or the [Xbox Store](https://www.xbox.com/en-US/games/store/jump-king/9PNLTX169N7L) .
 
-## 2\. Getting Over It ![A guy in a pot holding a sledgehammer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/a-guy-in-a-pot-holding-a-sledgehammer.jpg)
+## 2\. Getting Over It
+![A guy in a pot holding a sledgehammer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/a-guy-in-a-pot-holding-a-sledgehammer.jpg)
 
  Getting Over It with Bennet Foddy, often called “Getting Over It,” is often considered the first game to fall under the Foddian game genre, even though it isn’t the first by release date. The game allows you to maneuver Diogenes, the pot-sitting, sledgehammer-wielding character, to help him break the surly bonds of earth and touch the sky.
 
@@ -52,7 +54,8 @@ Let’s explore some of the names leading the scene.
 
 **Download** : Getting Over It with Bennet Foddy on [Steam](https://store.steampowered.com/app/240720/Getting%5FOver%5FIt%5Fwith%5FBennett%5FFoddy/) ,[Google Play](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029855/https://play.google.com/store/apps/details?id=com.noodlecake.gettingoverit&hl=en&gl=US) , or the [Apple Store](https://apps.apple.com/us/app/getting-over-it/id1319618742) .
 
-## 3\. Pogostuck ![About to cross the finish line in Pogostuck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/about-to-cross-the-finish-line-in-pogostuck.jpg)
+## 3\. Pogostuck
+![About to cross the finish line in Pogostuck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/about-to-cross-the-finish-line-in-pogostuck.jpg)
 
  The experience of attempting to beat Pogostuck is summarized in the official title, Pogostuck: Rage With Your Friends. You play as a caveman on a pogo stick, attempting to scale large hills, garden-themed locations, and more to get to the top—like other Foddian games.
 
@@ -62,7 +65,8 @@ Let’s explore some of the names leading the scene.
 
 **Download** : Pogostuck on [Steam](https://store.steampowered.com/app/688130/Pogostuck%5FRage%5FWith%5FYour%5FFriends/) .
 
-## 4\. Bread & Fred ![Bread and Fred sitting on a platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/bread-and-fred-sitting-on-a-platform.jpg)
+## 4\. Bread & Fred
+![Bread and Fred sitting on a platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/bread-and-fred-sitting-on-a-platform.jpg)
 
  Bread & Fred builds on the existing Foddian formula but adds unique elements that completely alter the gameplay flow. It’s a two-player game that follows the journey of Bread & Fred, two adorable penguins who want to reach the snow-capped summit. Both players must work together to get the penguins to the very top.
 
@@ -74,7 +78,8 @@ Let’s explore some of the names leading the scene.
 
 **Download** : Bread & Fred on [Steam](https://store.steampowered.com/app/1607680/Bread%5F%5FFred/) and [Epic Games](https://store.epicgames.com/en-US/p/bread-and-fred-1db362) .
 
-## 5\. Only Up ![Gazing down at the world limit on spine in Only Up!](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gazing-down-at-the-world-limit-on-spine-in-only-up.jpg)
+## 5\. Only Up
+![Gazing down at the world limit on spine in Only Up!](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gazing-down-at-the-world-limit-on-spine-in-only-up.jpg)
 
  Only Up! has helped redefine the Foddian genre, challenging what it means to be a Foddian game. It is the only 3D title on this list, but it still contains the key traits of a good Foddian game. The goal is to help a teenage boy, Jackie, escape his life while learning about the word as he ascends to the top.
 
@@ -109,3 +114,40 @@ Let’s explore some of the names leading the scene.
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-best-way-to-use-obs-live-stream-to-facebook/"><u>[Updated] 2024 Approved  The Best Way to Use OBS Live Stream to Facebook</u></a></li>
+<li><a href="https://games-able.techidaily.com/11-must-try-free-word-game-apps-for-both-sides/"><u>11 Must-Try Free Word Game Apps for Both Sides</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719158910114-transform-gaming-spaces-select-large-scale-cabinet-panels/"><u>Transform Gaming Spaces: Select Large-Scale Cabinet Panels!</u></a></li>
+<li><a href="https://games-able.techidaily.com/10-tips-to-sharpen-your-monitor-buying-skills/"><u>10 Tips to Sharpen Your Monitor Buying Skills</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-the-art-of-video-post-production-a-step-by-step-online-guide/"><u>Updated The Art of Video Post-Production A Step-by-Step Online Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/conveniently-download-adb-toolkit-for-seamless-use/"><u>Conveniently Download ADB Toolkit for Seamless Use</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719166103892-top-4-ios-emulators-bring-classic-gbadvance-games-alive/"><u>Top 4 iOS Emulators: Bring Classic GBAdvance Games Alive</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719165881041-ios-gba-mastery-discover-the-top-4-emulators/"><u>IOS GBA Mastery: Discover the Top 4 Emulators</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-the-ultimate-list-of-macs-best-screen-recorders-ranked-for-2024/"><u>[Updated] The Ultimate List of Mac's Best Screen Recorders Ranked for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719158889811-new-nvidia-driver-release-improve-pc-performance-instantly/"><u>New Nvidia Driver Release – Improve PC Performance Instantly.</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719158002542-play-along-with-youtubes-newest-test-mini-games/"><u>Play Along with YouTube's Newest Test Mini-Games!</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719162065608-top-4-ios-superior-game-boy-advance-emulators/"><u>Top 4 iOS: Superior Game Boy Advance Emulators</u></a></li>
+<li><a href="https://games-able.techidaily.com/144hz-monitors-the-ultimate-gaming-visual-experience/"><u>144Hz Monitors: The Ultimate Gaming Visual Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719164636469-challenges-associated-with-updating-outdated-or-incorrect-maps/"><u>Challenges Associated with Updating Outdated or Incorrect Maps</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-motorola-edge-40-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Motorola Edge 40</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/beyondsharex-evaluating-the-best-options/"><u>BeyondShareX - Evaluating the Best Options</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-efficiently-broadcasting-twitch-streams-to-youtube-audiences/"><u>[New] Efficiently Broadcasting Twitch Streams to YouTube Audiences</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719159121499-upgrade-your-game-cabinet-with-broad-bold-framing/"><u>Upgrade Your Game Cabinet with Broad, Bold Framing</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719161422913-unlocking-gbadvance-legends-on-your-idevice-with-leading-simulators/"><u>Unlocking GBAdvance Legends on Your iDevice with Leading Simulators!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/interactive-content-the-key-to-boosted-facebook-pages/"><u>Interactive Content  The Key to Boosted Facebook Pages</u></a></li>
+<li><a href="https://games-able.techidaily.com/1440p-gaming-monitor-buying-guide-budget-friendly-options/"><u>1440P Gaming Monitor Buying Guide - Budget-Friendly Options</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719164401657-discover-iphones-best-video-game-emulators-now/"><u>Discover iPhone's Best Video Game Emulators Now</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-the-viral-vanguard-tiktoks-hottest-video-ideas/"><u>[New] The Viral Vanguard  TikTok's Hottest Video Ideas</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719160130709-rewind-to-retro-play-psp-on-iphone-today/"><u>Rewind to Retro: Play PSP on iPhone Today</u></a></li>
+<li><a href="https://games-able.techidaily.com/10-mistakes-to-avoid-when-shopping-for-a-monitor/"><u>10 Mistakes to Avoid When Shopping for a Monitor</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719163608201-nostalgia-at-a-swipe-ios-and-the-classics-of-psp/"><u>Nostalgia at a Swipe: IOS and the Classics of PSP</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719158810853-experience-the-thrill-play-six-amazing-chatgpt-games/"><u>Experience the Thrill: Play Six Amazing ChatGPT Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719166302664-top-9-affordable-switch-games-no-pay-required/"><u>Top 9 Affordable Switch Games: No Pay Required!</u></a></li>
+<li><a href="https://games-able.techidaily.com/10-key-perks-why-gamers-choose-steam-first/"><u>10 Key Perks: Why Gamers Choose Steam First</u></a></li>
+<li><a href="https://games-able.techidaily.com/11-exciting-gaming-options-without-wifi/"><u>11 Exciting Gaming Options Without WiFi</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-iphone-12-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase iPhone 12 When Its Locked Within Seconds</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-image-editing-taking-out-backgrounds/"><u>2024 Approved  Streamlining Image Editing  Taking Out Backgrounds</u></a></li>
+</ul></div>
