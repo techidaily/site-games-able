@@ -1,0 +1,136 @@
+---
+title: Busting the Big Game Pass Bill Hike – Temporary Solutions
+date: 2024-07-29T06:02:05.556Z
+updated: 2024-07-30T06:02:05.556Z
+tags:
+  - games
+categories:
+  - games
+description: This Article Describes Busting the Big Game Pass Bill Hike – Temporary Solutions
+excerpt: This Article Describes Busting the Big Game Pass Bill Hike – Temporary Solutions
+keywords: Big Game Pass Hike,Seeking Solutions,Price Increase Strategy,Short-Term Fixes,Legislative Impacts,Gaming Industry Changes,Bill Reform Analysis
+thumbnail: https://thmb.techidaily.com/f247ef7a94b421ec0fcafea579ee074c3050225ad0c19a044a9d73401964e5e7.jpg
+---
+
+## Busting the Big Game Pass Bill Hike – Temporary Solutions
+
+ Everyone loves a good deal. And as good of a deal as Xbox Game Pass Ultimate already is, it’s hard to say "no" to utilizing a loophole to unlock Game Pass Ultimate at an even cheaper rate. If you purchase and prepay for an Xbox Live Gold subscription and then upgrade that to an Xbox Game Pass Ultimate subscription, you can end up paying just $8.20 per month instead of the usual $17.00 for Xbox Game Pass Ultimate for up to 24 months.
+
+Interested? Here is how you can take advantage of this epic deal.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
+## How Does This Xbox Live Gold Hack Work?
+
+ So the gist of this deal is that if you already have an Xbox Live Gold subscription, you can upgrade and convert that into an Xbox Game Pass Ultimate subscription. You can prepay and convert up to 36 months max.
+
+ For example, if you prepaid for one year of Xbox Live Gold and purchase just one month of Xbox Game Pass Ultimate, the remaining 12 months will be upgraded to Ultimate. Xbox Live Gold is significantly cheaper than Xbox Game Pass Ultimate, yet your prepaid subscription will be upgraded free of charge.
+
+ This conversion used to be a 1:1 ratio, meaning you got the exact amount of prepaid time converted to Xbox Game Pass Ultimate. Since the price upgrades of Xbox Game Pass memberships, however, the ratio has now changed to 3:2, so you don’t get quite as many months of discounted Ultimate as you did before. This is a shame, but inevitable considering there are several[reasons why Xbox Game Pass will get more expensive over time](https://www.makeuseof.com/reasons-xbox-game-pass-will-get-more-expensive/) .
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
+![A hero image and headline for an Xbox announcement about Game Pass Core](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/game-pass-core-announcement.jpg)
+
+ Xbox Live Gold’s days are limited, and it will be replaced with a new service called Xbox Game Pass Core on September 14, 2023\. There is absolutely no guarantee that the conversion hack will still work when Xbox Game Pass Core is introduced, so make sure you jump on this offer as soon as you can to get the most out of it.
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How to Save Money on Xbox Game Pass Ultimate With the Xbox Live Gold Hack
+
+ The key to making the most of this offer is prepaying for as much Xbox Live Gold as you possibly can. By default, you can only prepay for three months of Xbox Live Gold at once, but we have yet another loophole to share with you, and that is digital codes. As of 2020, you can no longer purchase digital codes for Xbox Live Gold directly from Microsoft’s website. You can, however, still find them on third-party websites such as Amazon.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+![Xbox Live Gold Memberships for Sale on Amazon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/xbox-live-gold-memberships-for-sale-on-amazon.jpg)
+
+ If you want to take advantage of the maximum 36-month deal, purchase three 12-month digital codes for Xbox Live Gold. You can pick these up on Amazon for around $60.00 each, sometimes cheaper. Once you have your digital codes, head to[redeem.microsoft.com](https://redeem.microsoft.com/) to redeem them.
+
+ If you're opting for the full 36-month hack, it's important that you don’t choose to turn on recurring billing when you're redeeming your codes. Sometimes Xbox offers an extra month as an incentive to continue your subscription, and since you need 36 months exactly, this can mess up your total and could lead to you not being able to redeem your final code.
+
+ After banking 36 months of Xbox Live Gold or however much you can afford, purchase one month of Xbox Game Pass Ultimate from the[Xbox website](https://www.xbox.com/en-us/xbox-game-pass/ultimate) . After entering your payment information, you will see a text box explaining that your remaining Xbox Live Gold months will be upgraded to Xbox Game Pass Ultimate at a 3:2 ratio. This means that if you had 36 months (or three years) of Xbox Live Gold in your bank, you will only get two years of Xbox Game Pass Ultimate in return.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![Xbox Game Pass Ultimate Conversion Agreement](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/xbox-game-pass-ultimate-conversion-agreement.jpg)
+
+ This is a bit of a shame. But even with the new 3:2 conversion, you can still unlock a massive discount compared to paying for a standard Xbox Game Pass Ultimate subscription for two years.
+
+ If you are keen to do this but already have Xbox Game Pass Ultimate, you can[cancel your Xbox Game Pass subscription](https://www.makeuseof.com/how-to-cancel-your-xbox-game-pass-subscription/) , wait for your remaining month to run out, and then perform this hack. Make sure you act quickly, though, and get it done before Xbox Live Gold is gone.
+
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Jump on This Offer Before It’s Too Late
+
+ There is a high likelihood that this offer will die along with Xbox Live Gold on September 14th, 2023\. If you want to enjoy all the newest Xbox-exclusive titles, like Starfield, as well as the hundreds of other games on offer at a heavy discount, go ahead and convert your Xbox Live Gold subscription to an Xbox Game Pass Ultimate one ASAP.
+
+ There is a slim chance you might still be able to utilize this offer with Xbox Game Pass Core, but that has not been confirmed in the slightest, so waiting is not worth the risk. Take this as your sign to secure your Xbox Game Pass Ultimate discount before September 14th!
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-perfect-slide-sharing-techniques-the-best-ways-to-use-a-webcam/"><u>[New] 2024 Approved  Perfect Slide Sharing Techniques  The Best Ways to Use a Webcam</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harness-the-power-of-youtube-video-for-stunning-gif-masterpieces-for-2024/"><u>[New] Harness the Power of YouTube Video for Stunning GIF Masterpieces for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-complete-story-on-dji-phantom-4s-performance/"><u>[New] The Complete Story on DJI Phantom 4'S Performance</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-tech-whizs-playbook-how-to-nail-screen-recording-on-macos/"><u>[New] The Tech Whiz's Playbook  How to Nail Screen Recording on macOS</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/pgrade-your-content-creation-process-via-youtube-studio/"><u>[New] Upgrade Your Content Creation Process via YouTube Studio</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pioneering-online-techniques-for-vhs-image-refinement/"><u>[Updated] Pioneering Online Techniques for VHS Image Refinement</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-10-speed-up-apps-for-mobile-music-and-podcasts/"><u>2024 Approved  10 Speed-Up Apps for Mobile Music and Podcasts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gopro-quest-finding-the-perfect-model/"><u>2024 Approved  Gopro Quest  Finding the Perfect Model</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-tactical-approach-to-choosing-an-elgato-stream-deck/"><u>A Tactical Approach to Choosing an Elgato Stream Deck</u></a></li>
+<li><a href="https://extra-information.techidaily.com/av1-basics-for-beginners-explained-for-2024/"><u>AV1 Basics for Beginners Explained for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/dropping-paywalls-5-reasons-to-keep-your-games-home/"><u>Dropping Paywalls: 5 Reasons to Keep Your Games Home</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-nubia-z50-ultra-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Nubia Z50 Ultra</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-gameplay-with-best-240hz-panels/"><u>Elevate Your Gameplay with Best 240Hz Panels</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-guide-resolving-display-driver-failed-errors-on-windows-11/"><u>Expert Guide: Resolving Display Driver Failed Errors on Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/exploring-chromatics-from-theory-to-tangible/"><u>Exploring Chromatics  From Theory to Tangible</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-gala-the-glory-of-game-guardianship/"><u>Gaming Gala: The Glory of Game Guardianship</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-quality-titles-should-mts-be-compulsory/"><u>High-Quality Titles: Should MTs Be Compulsory?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/how-to-add-instagram-filter-to-existing-photos-and-videos-for-2024/"><u>How to Add Instagram Filter to Existing Photos and Videos for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-poco-m6-pro-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-set-up-a-passcode-on-your-ps5/"><u>How to Set Up a Passcode on Your PS5</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Tecno Spark 10 4G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-asus-rog-phone-8-pro-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Asus ROG Phone 8 Pro to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-facebook-video-freeze-up-solutions-for-secure-browser-users/"><u>In 2024, Facebook Video Freeze-Up Solutions for Secure Browser Users</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, How does the stardust trade cost In pokemon go On Apple iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-lava-yuva-3-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Lava Yuva 3 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://games-able.techidaily.com/inquiring-about-the-value-proposition-for-ea-play/"><u>Inquiring About the Value Proposition for EA Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/java-game-highlights-our-favorites-unveiled/"><u>Java Game Highlights: Our Favorites Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/learn-from-my-oled-faux-pas-smart-screen-selection/"><u>Learn From My OLED Faux Pas: Smart Screen Selection</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-advanced-features-of-amds-rx-7800xt-7700xt/"><u>Navigating the Advanced Features of AMD's RX 7800XT, 7700XT</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-ps5-buying-process-wisely/"><u>Navigating the PS5 Buying Process Wisely</u></a></li>
+<li><a href="https://review-topics.techidaily.com/oppo-bypass-tools-to-bypass-lock-screen-oppo-k11-5g-by-drfone-android-unlock-android-unlock/"><u>Oppo Bypass Tools to Bypass Lock Screen(Oppo K11 5G)</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-gaming-by-controlling-background-game-bar/"><u>Optimizing Gaming by Controlling Background Game Bar</u></a></li>
+<li><a href="https://games-able.techidaily.com/playstation-and-xbox-content-contenders/"><u>PlayStation and Xbox Content Contenders</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/secrets-revealed-how-to-boost-facebook-rankings-in-under-a-minute-for-2024/"><u>Secrets Revealed  How to Boost Facebook Rankings in Under a Minute for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/silent-sabotage-my-overclocked-nightmrange/"><u>Silent Sabotage: My Overclocked Nightmrange</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-back-from-realms-step-forward-with-archives/"><u>Step Back From Realms, Step Forward with Archives</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-battery-solutions-the-premier-ps5-dualsense-controller-chargers/"><u>Superior Battery Solutions: The Premier PS5 DualSense Controller Chargers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-compreeved-guide-to-optimizing-space-and-pc-for-vr-for-2024/"><u>The Compreeved Guide to Optimizing Space & PC for VR for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-240hz-screen-guide-for-gamers/"><u>The Ultimate 240Hz Screen Guide for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-flash-drives-to-boost-ps5-performance/"><u>Top Flash Drives to Boost PS5 Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-footballs-secrets-fc-manager-game-free-edition/"><u>Unlock Football's Secrets: FC Manager Game, Free Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/who-wins-in-specifications-asus-rog-ally-or-steam-deck/"><u>Who Wins in Specifications: ASUS ROG Ally or Steam Deck?</u></a></li>
+<li><a href="https://games-able.techidaily.com/winning-the-wargame-7-crucial-fps-game-adjustments/"><u>Winning the Wargame: 7 Crucial FPS Game Adjustments</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Unlocking Gaming Mastery with Epic and GOG on Your Steam Deck
-date: 2024-07-12T03:09:20.811Z
-updated: 2024-07-13T03:09:20.811Z
+date: 2024-07-29T05:52:39.999Z
+updated: 2024-07-30T05:52:39.999Z
 tags:
   - games
 categories:
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d5
 
  Incredibly, both of these services can be installed. Here’s how to install titles from Epic Games and GOG on Steam Deck.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is Heroic Games Launcher?
 
  Designed to allow Linux users to access the Epic Games store and the GOG.com store, Heroic Games Launcher for Steam Deck is free and open source software.
@@ -40,6 +43,9 @@ thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d5
 
  Heroic Games Launcher is a simpler approach that enables you to start playing games sooner, rather than later.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Before You Add Non-Steam Games to Steam Deck
 
  Setting up Heroic Games Launcher on Steam Deck is straightforward, but there is something you might want to do first.
@@ -62,6 +68,9 @@ thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d5
 
  This should provide more space for installing titles from other platforms. Epic Games are often quite large titles, although most games you might have acquired from GOG.com are probably comparatively modest in size.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Is It Safe to Install Non-Steam Games on Your Steam Deck?
 
  If you’re concerned about breaking warranty or have some other reason to be concerned, don’t worry. A Steam Deck is capable of running most PC games, including those on Epic Games. You may have noticed some crossover between the Epic Games and the Steam libraries.
@@ -91,6 +100,18 @@ thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d5
 
  Heroic Games Launcher should be displayed. Click**Install** , and wait for the process to complete.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Install GOG Games on Steam Deck
 
  The process to install titles from your GOG library on Steam Deck with Heroic is straightforward.
@@ -98,6 +119,9 @@ thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d5
 1. First, launch the software, then use the mouse to select**Manage Accounts**  
 ![Log in to Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-login.jpg)
 2. Under GOG, click**Log in** and input your credentials, along with any two-factor authentication
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 3. Go to**Library** and browse for the game you want to install ![GOG games on the Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-gog-games.jpg)
 4. Click**Install** on the selected game, confirm the installation location and click**Install** again ![Install GOG games on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-gog-smac.jpg)
 5. After installation is complete, click**Play Now**
@@ -119,6 +143,9 @@ You can then install Epic Games on the Steam Deck as follows:
 1. Click**Library**
 2. Browse for the game you want
 3. Select the game and click**Install**
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 4. Confirm the installation location and click**Install** again ![Install Epic Games on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-install.jpg)
 5. Once the installation has completed, click**Play Now**
 6. Use the**Settings** option to tweak the game’s launch and performance options
@@ -127,6 +154,9 @@ You can then install Epic Games on the Steam Deck as follows:
 
  You can also add new titles to your Epic Games account (free and paid) from the Steam Deck. Note that it may inform you the device is incompatible, but you don’t need to worry about this. Simply proceed to add it to your account, and it will shortly appear in the game library in the Heroic launcher.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Play GOG Games on Steam Deck
 
  After you have completed the setup GOG, Epic Games, or both, click the Steam button in the lower-left corner and select**Restart** .
@@ -135,6 +165,9 @@ This will reboot the Steam Deck into the main console interface.
 
  Here, you will find the Heroic Games Launcher listed, which you can select with the D-pad and launch with**A** . In the following screen, select**Play** to open the launcher.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Start Heroic Games Launcher on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-play.jpg)
 
  You can then either select a game to play or install a new one. It’s that simple.
@@ -145,6 +178,9 @@ This will reboot the Steam Deck into the main console interface.
 2. Hover the mouse pointer over the game you plan to discard
 3. Press**X**
 4. Select**Uninstall**  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Uninstall a game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-uninstall-game.jpg)
 5. Confirm with**Yes** when prompted ![Uninstall an Epic Games title on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-uninstall.jpg)
 
@@ -152,6 +188,10 @@ Wait for the process to complete before installing any other games.
 
  Is a game missing from your library? Some titles acquired through the Epic Games store cannot be played on Steam Deck if they were released via a different distribution service, such as Uplay or EA/Origin.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ## You Can Now Play Epic Games and GOG Favorites on the Steam Deck
 
  While the process could be simpler (and will probably become easier over time) getting Epic Games and GOG running on Steam Deck is a one-time set-up and configuration.
@@ -179,3 +219,57 @@ Wait for the process to complete before installing any other games.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-zoom-and-google-meet-visual-clarity-your-step-by-step-guide-to-cleaner-participation/"><u>[New] 2024 Approved  Zoom & Google Meet Visual Clarity  Your Step-by-Step Guide to Cleaner Participation</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-comprehensive-manual-mastering-mobizen-recorders/"><u>[New] Comprehensive Manual  Mastering Mobizen Recorders</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-restoring-hidden-watch-icon-for-optimal-experience/"><u>[Updated] Restoring Hidden Watch Icon for Optimal Experience</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-top-10-screen-capture-solutions-to-enhance-instruction-for-2024/"><u>[Updated] Top 10 Screen Capture Solutions to Enhance Instruction for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-unveiling-secrets-to-effective-snapchat-pins-for-2024/"><u>[Updated] Unveiling Secrets to Effective Snapchat Pins for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-upload-videos-effortlessly-with-premiere-on-youtube/"><u>[Updated] Upload Videos Effortlessly with Premiere on YouTube</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-free-webm-players/"><u>2024 Approved  Best Free WebM Players</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-different-perspective-6-arguments-against-mac-for-gaming/"><u>A Different Perspective: 6 Arguments Against Mac for Gaming</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/adobes-quest-for-giggles-and-grins-for-2024/"><u>Adobe's Quest for Giggles and Grins for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/adventure-awaits-top-mobile-games-for-when-youre-disconnected/"><u>Adventure Awaits: Top Mobile Games for When You're Disconnected</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-1440p-monitors-the-ultimate-gaming-companion/"><u>Affordable 1440P Monitors: The Ultimate Gaming Companion</u></a></li>
+<li><a href="https://games-able.techidaily.com/are-larger-game-companies-stifling-the-markets-health-market-analysis-special-episode/"><u>Are Larger Game Companies Stifling the Market's Health? [Market Analysis Special Episode]</u></a></li>
+<li><a href="https://facebook.techidaily.com/banned-beyond-borders-facebook-in-these-countries/"><u>Banned Beyond Borders: Facebook in These Countries?</u></a></li>
+<li><a href="https://games-able.techidaily.com/become-a-pokemon-pro-ios-strategies-unveiled/"><u>Become a Pokémon Pro: IOS Strategies Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/console-vs-computer-gaming-face-off/"><u>Console Vs. Computer: Gaming Face-Off</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-the-next-wave-of-mmo-innovations/"><u>Decoding the Next Wave of MMO Innovations</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-game-experiene-the-top-9-reasons-to-use-steam-first/"><u>Elevating Game Experiene: The Top 9 Reasons to Use Steam First</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-tips-for-dealing-with-robloxs-error-403-on-your-computer/"><u>Expert Tips for Dealing with Roblox’s Error 403 on Your Computer</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-value-in-switchs-network-service-pack/"><u>Exploring Value in Switch's Network Service Pack</u></a></li>
+<li><a href="https://games-able.techidaily.com/geforce-now-pass-what-real-world-benefits-exist/"><u>GeForce Now Pass: What Real-World Benefits Exist?</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-clean-your-ps5-console-and-controller-the-right-way/"><u>How to Clean Your PS5 Console and Controller the Right Way</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-11-best-location-changers-for-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-iphone-8-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your iPhone 8</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-guide-on-how-to-remove-apple-id-from-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, Guide on How To Remove Apple ID From iPhone 12 Pro Max</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-honor-90-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Honor 90 to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-prime-methods-for-archiving-youtube-real-time-broadcasts/"><u>In 2024, Prime Methods for Archiving YouTube Real-Time Broadcasts</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-rhythmic-rarities-assembling-the-best-dj-video-samples/"><u>In 2024, Rhythmic Rarities  Assembling the Best DJ Video Samples</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-swift-access-to-youtube-srt-files-three-key-points/"><u>In 2024, Swift Access to YouTube SRT Files  Three Key Points</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-unveiling-the-best-video-grabber-listings/"><u>In 2024, Unveiling the Best Video Grabber Listings</u></a></li>
+<li><a href="https://games-able.techidaily.com/java-game-selection-what-made-us-choose-them/"><u>Java Game Selection: What Made Us Choose Them</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/local-tongue-mastery-uk-phrases-and-sayings/"><u>Local Tongue Mastery: UK Phrases & Sayings</u></a></li>
+<li><a href="https://games-able.techidaily.com/masterminds-guide-to-affordable-switch-gaming/"><u>Mastermind's Guide to Affordable Switch Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/muting-game-sounds-a-comprehensive-guide-to-noise-reduction/"><u>Muting Game Sounds: A Comprehensive Guide to Noise Reduction</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/navigating-the-landscape-intricacies-of-using-the-background-eraser-feature-for-2024/"><u>Navigating the Landscape  Intricacies of Using the Background Eraser Feature for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-difference-between-time-lapse-and-hyperlapse/"><u>New Difference Between Time Lapse and Hyperlapse</u></a></li>
+<li><a href="https://games-able.techidaily.com/nintendo-switch-best-3-live-stream-apps-and-games/"><u>Nintendo Switch - Best 3 Live-Stream Apps & Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/right-oled-monitor-decision-guide/"><u>Right OLED Monitor Decision Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-up-your-linux-playtime-top-7-terminal-games/"><u>Step Up Your Linux Playtime: Top 7 Terminal Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-xbox-series-xs-controller-dismantling-guide/"><u>Step-by-Step Xbox Series X/S Controller Dismantling Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-to-simulate-steam-disconnection/"><u>Strategies to Simulate Steam Disconnection</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-dirt-free-diary-weekly-console-care-routines/"><u>The Dirt-Free Diary: Weekly Console Care Routines</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-role-of-strikes-in-upholdeating-xbox-fairness/"><u>The Role of Strikes in Upholdeating Xbox Fairness</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-value-proposition-of-early-game-access/"><u>The Value Proposition of Early Game Access</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-9-gaming-hubs-champions-collectives/"><u>Top 9 Gaming Hubs: Champions' Collectives</u></a></li>
+<li><a href="https://games-able.techidaily.com/transforming-one-device-the-steam-decks-dual-boot-adventure/"><u>Transforming One Device: The Steam Deck's Dual-Boot Adventure</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-collection-of-8-gratis-high-end-3d-player-apps/"><u>Ultimate Collection of 8 Gratis, High-End 3D Player Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-vision-boosting-screen-protectors/"><u>Ultimate Vision-Boosting Screen Protectors</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-potential-a-compreenas-five-tips-for-customizing-your-xbox-game-bar-experience/"><u>Unlock Potential: A Compreenas Five Tips for Customizing Your Xbox Game Bar Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-finest-ea-play-games-for-sony-console/"><u>Unveiling the Finest EA Play Games for Sony Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-is-the-new-nvidia-app-how-it-can-improve-your-gaming-experience/"><u>What Is the New Nvidia App? How It Can Improve Your Gaming Experience</u></a></li>
+</ul></div>

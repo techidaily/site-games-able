@@ -1,7 +1,7 @@
 ---
 title: "Transitioning to MacSilicon: Running Windows Games via CrossOver"
-date: 2024-07-12T03:04:28.709Z
-updated: 2024-07-13T03:04:28.709Z
+date: 2024-07-29T05:49:08.806Z
+updated: 2024-07-30T05:49:08.806Z
 tags:
   - games
 categories:
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/b21b5439f80b1a102ace85a9da59aeae7943c3aff
 
  While Parallels is great, it only uses a fraction of your Mac’s power, giving for subpar gaming performance. That’s where CrossOver comes in; CrossOver will use as much of your Mac’s hardware as possible, and you can download and play Windows Steam games with it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Download, Install, and Set Up CrossOver
 
  The first step to begin your Apple silicon Mac Windows gaming journey is downloading and installing CrossOver.
@@ -27,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/b21b5439f80b1a102ace85a9da59aeae7943c3aff
 Follow the steps below to get started:
 
 1. Visit [CodeWeavers website](https://www.codeweavers.com/crossover#mac) to download CrossOver. The software isn’t free, but you can click the**Free Trial** button on the Mac category to get started with a 14-day trial.  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![CrossOver download link on its website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/crossover-download-link-on-its-website.jpeg)
 2. Enter your name and email, and hit**Return** on your keyboard to begin the download.
 3. Install the application from the crossover.zip file. If you run into any issues, you can read our guide on [how to install Mac software](https://www.makeuseof.com/tag/install-remove-mac-software-5-easy-methods/) for some guidance.
@@ -36,6 +42,10 @@ Follow the steps below to get started:
 
  You’ll notice that the menu is divided into**Home** and**Bottles** . Essentially, the**Bottles** section is where all the environments you download and run Windows applications are sorted. The**Home** section, however, contains shortcuts to recently opened Bottles.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## Install Steam in CrossOver
 
  CrossOver actually makes installing Steam’s bottle very easy. And, of course, before installing Steam,[ensure you have a functioning Steam account](https://www.makeuseof.com/what-is-steam-how-to-install/) .
@@ -46,6 +56,9 @@ Here’s how to get Steam on CrossOver:
 ![Install section of CrossOver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/install-section-of-crossover.jpeg)
 2. Double-click**Steam** and choose**Install** .
 3. Optional: You can choose which version of Steam you would like to install or what installer you would like to use in the**Details** section of Steam’s information page. Just click**Edit** .  
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Steam information page in CrossOver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steam-information-page-in-crossover.jpeg)
 4. Click**Yes** ,**Next** , or agree to any popups that appear on your screen while the installation continues.
 5. Microsoft XML Parser Setup will ask you to fill in the User Name and Organization input boxes, but you can leave these sections blank and click**Next** .  
@@ -62,6 +75,9 @@ Here’s how to install them to your Steam bottle:
 
 1. **Control** \-click or secondary-click**Steam** on the side menu.
 2. Select**Install software into ‘Steam’,** and CrossOver will take you back to the Install page.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Steam Bottle context menu on CrossOver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steam-bottle-context-menu-on-crossover.jpeg)
 3. Type**DirectX** into the search bar, select**DirectX for Modern Games** , and click**Install** .
 4. Follow the on-screen instructions to finish the installation.
@@ -73,6 +89,9 @@ Here’s how to install them to your Steam bottle:
 
  You can now return back to Steam and input your username and password. Go to your library, select the game you want to play and install it.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Knights of Pen & Paper II on CrossOver Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/knights-of-pen-paper-ii-on-crossover-steam.jpeg)
 
  Once the game is done installing, you’ll find it in your Steam bottle. You can launch it from there, or you can launch it directly from Steam if you like.
@@ -116,3 +135,57 @@ Here’s how to install them to your Steam bottle:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-automate-your-snapshot-backup-from-snapchat-app/"><u>[New] 2024 Approved  Automate Your Snapshot Backup From Snapchat App</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-enhancing-video-performance-in-instagram-reels-mobile-for-2024/"><u>[New] Enhancing Video Performance in Instagram Reels (Mobile) for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-windowsmac-tutorials-for-skype-audio-and-video-archive/"><u>[New] Windows/Mac Tutorials for Skype Audio & Video Archive</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-essential-guide-for-adding-depth-and-style-in-instagram-stories/"><u>[Updated] 2024 Approved  The Essential Guide for Adding Depth & Style in Instagram Stories</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-odins-fury-new-wrath-unleashed/"><u>[Updated] In 2024, Odin's Fury  New Wrath Unleashed</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-leveraging-luts-for-stunning-visual-results/"><u>[Updated] Leveraging LUTs for Stunning Visual Results</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-ultimate-list-the-finest-fps-titles-in-gaming-for-2024/"><u>[Updated] Ultimate List  The Finest FPS Titles in Gaming for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/15-dynamic-duo-games-fun-with-companions-anytime-anywhere/"><u>15 Dynamic Duo Games: Fun with Companions Anytime, Anywhere</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-instagram-success-the-leading-25-tagging-tactics/"><u>2024 Approved  Instagram Success  The Leading 25 Tagging Tactics</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-perfect-your-igtv-presentations-with-top-video-editors/"><u>2024 Approved  Perfect Your IGTV Presentations with Top Video Editors</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-text-based-adventure-games-you-can-play-in-your-browser/"><u>5 Text-Based Adventure Games You Can Play in Your Browser</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieving-perfection-a-complete-ps4-factory-reset/"><u>Achieving Perfection: A Complete PS4 Factory Reset</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/best-free-webcam-video-capture-software-for-2024/"><u>Best Free Webcam Video Capture Software for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/bidding-adieu-to-ea-new-price-prohibitive-for-gaming/"><u>Bidding Adieu to EA: New Price Prohibitive for Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/challenge-yourself-with-five-furious-fiddlers/"><u>Challenge Yourself With Five Furious Fiddlers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/compreranium-unpacking-apeaksoft-screen-tech-2023-edition-for-2024/"><u>Compreranium  Unpacking Apeaksoft Screen Tech, 2023 Edition for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/crossover-instructions-full-bg3-experience-for-macos-users/"><u>CrossOver Instructions: Full BG3 Experience for macOS Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/cyberattacks-on-gaming-why-the-risks-are-increasing-for-gamers/"><u>Cyberattacks on Gaming: Why the Risks Are Increasing for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-new-gameplay-modes-on-ps5/"><u>Discovering New Gameplay Modes on PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/does-the-birth-of-fsr-3-herald-a-new-era-beyond-nvidias-dlss-35/"><u>Does the Birth of FSR 3 Herald a New Era Beyond NVIDIA's DLSS 3.5?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/download-latest-supporting-software-for-geforce-1060/"><u>Download Latest Supporting Software for GeForce 1060</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-handheld-games-with-controller-support/"><u>Elite Handheld Games with Controller Support</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-premium-nitro-services/"><u>Evaluating Premium Nitro Services</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-remote-play-potential-with-steams-storage-solutions/"><u>Explore Remote Play Potential With Steam's Storage Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-smooth-transitions-in-games-through-nvidia-g-sync/"><u>Exploring Smooth Transitions in Games Through Nvidia G-Sync</u></a></li>
+<li><a href="https://games-able.techidaily.com/finding-independent-gaming-delights-on-itchio/"><u>Finding Independent Gaming Delights on Itch.io</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-without-the-chair-cushion/"><u>Gaming Without the Chair Cushion</u></a></li>
+<li><a href="https://games-able.techidaily.com/guide-to-repairing-non-joy-con-connections-on-switch/"><u>Guide to Repairing Non-Joy-Con Connections on Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-connect-a-ps4-or-ps5-controller-to-your-nintendo-switch/"><u>How to Connect a PS4 or PS5 Controller to Your Nintendo Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-play-emulated-games-on-your-steam-deck-with-emudeck/"><u>How to Play Emulated Games on Your Steam Deck With EmuDeck</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-shots-from-the-2022-snowboard-x-games/"><u>In 2024, Best Shots From the 2022 Snowboard X Games</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-nokia-c110-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Nokia C110 Devices | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/initiate-your-facebook-analysis-journey-for-2024/"><u>Initiate Your Facebook Analysis Journey for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/java-gaming-insights-our-cherished-features/"><u>Java Gaming Insights: Our Cherished Features</u></a></li>
+<li><a href="https://games-able.techidaily.com/joining-forces-gaming-squad-on-xbox-10/"><u>Joining Forces: Gaming Squad on Xbox 10</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-your-mobile-gameplay-speed-two-effective-ways-to-measure-fps-on-android/"><u>Maximize Your Mobile Gameplay Speed: Two Effective Ways to Measure FPS on Android</u></a></li>
+<li><a href="https://games-able.techidaily.com/methods-for-rectifying-screen-driver-issues-on-pcs/"><u>Methods for Rectifying Screen Driver Issues on PCs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mirth-makers-zombie-fashionistas/"><u>Mirth Makers  Zombie Fashionistas</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-apple-arcade-for-your-next-favorite-game/"><u>Navigating Apple Arcade for Your Next Favorite Game</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-fcpx-problem-solving-guide-expert-solutions-for-2024/"><u>New FCPX Problem-Solving Guide Expert Solutions for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/post-subscription-where-do-ps-plus-games-go/"><u>Post-Subscription: Where Do PS Plus Games Go?</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-mobile-steam-gaming-via-link/"><u>The Ultimate Guide to Mobile Steam Gaming via Link</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-ps5-boot-options-6-ways/"><u>The Ultimate Guide to PS5 Boot Options (6 Ways)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ltimate-roadmap-to-yotube-stardom-with-best-selling-music-videos/"><u>The Ultimate Roadmap to YoTube Stardom with Best-Selling Music Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719161479393-transform-your-playtime-claim-deals/"><u>Transform Your Playtime, Claim Deals</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/unveiling-creativity-making-striking-slideshows-for-fb-friends/"><u>Unveiling Creativity  Making Striking SlideShows for FB Friends</u></a></li>
+<li><a href="https://games-able.techidaily.com/unwired-playtime-explore-idle-games/"><u>Unwired Playtime: Explore Idle Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/virtual-detective-duties-powered-by-artificial-intelligence/"><u>Virtual Detective Duties Powered by Artificial Intelligence</u></a></li>
+<li><a href="https://games-able.techidaily.com/will-next-gen-games-favor-mac-devices-over-pcs/"><u>Will Next-Gen Games Favor Mac Devices Over PCs?</u></a></li>
+</ul></div>

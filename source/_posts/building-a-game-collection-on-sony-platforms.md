@@ -1,0 +1,205 @@
+---
+title: Building a Game Collection on Sony Platforms
+date: 2024-07-29T05:55:18.777Z
+updated: 2024-07-30T05:55:18.777Z
+tags:
+  - games
+categories:
+  - games
+description: This Article Describes Building a Game Collection on Sony Platforms
+excerpt: This Article Describes Building a Game Collection on Sony Platforms
+keywords: Sony PlayStation Library,Collecting Games for PS4/PS5,Sony Game Catalogues,Building PS Gaming Collection,Sony Console Game Selection,Compiling Games on PS4/PS5,Sony Gaming Content Acquisition
+thumbnail: https://thmb.techidaily.com/26d450fdec75a3cb5316781ad73e34df68fc7b736cd85313bb608d818166317c.jpg
+---
+
+## Building a Game Collection on Sony Platforms
+
+ Gone are the days when you needed to line up at your local games store to buy the newest games. Launched in 2006, the PlayStation Store has made it convenient for fans of Sony to buy games for its consoles from the PS3 onwards.
+
+ So long as you have funds in your PlayStation wallet, you will be able to buy games on the store. Adding funds and buying games is simple, quick, and easy.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## What You Need to Know About the PlayStation Wallet
+
+ All adult PlayStation Network (PSN) accounts have an online wallet that can be topped up using registered payment methods. Upon creation, child accounts have a spending limit of $0 that can be adjusted by the PSN account family manager.
+
+ While PSN Wallet funds do not expire, there are wallet limits per region, such as $375 in the United States and £150 in the United Kingdom. PSN Wallets can make PlayStation Store purchases within the PSN region where you purchased your funds. For example, you will not be able to use your PSN Wallet funds in GBP in the US PlayStation store, or vice versa.
+
+ Now that you know about the PSN Wallet, we’ll walk you through the various payment methods to pay for games on the PlayStation Store.
+
+## How to Add Funds to Your PlayStation Network (PSN) Account
+
+ There are three main ways that you can pay for games (and other items) on the PlayStation Store:
+
+1. Credit/Debit Cards.
+2. PayPal.
+3. PlayStation Store Cards.
+
+Here’s how to load your PSN wallet through each method:
+
+### 1\. Credit or Debit Cards
+
+ Using your PlayStation console, go to **Settings > Users and Accounts > Account > Payment and Subscriptions > Payment Methods** . Once you have entered your password, select**Add a Credit or Debit Card** , input your card details, and confirm.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
+![The Payment and Subscriptions menu on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ps5-payment-and-subscriptions.jpg)
+
+ Credit and debit cards only work when your address matches the region of where your PSN account is registered. You may link a maximum of three credit or debit cards to your PlayStation wallet.
+
+ Due to the Address Verification System (AVS), users commonly experience verification issues when paying for games on the PSN store using credit or debit cards. To fix this, check if your card is compatible with AVS by calling your bank, and be sure to type exactly how your bank statement shows your address.
+
+ Additionally, avoid using special characters such as hyphens, apostrophes, or slashes. Spell out numbered street names, remove anything that signifies direction, and replace any special characters with the closest letter in the Latin alphabet. PO boxes and military addresses are also currently not accepted.
+
+ If you prefer, you can link a PayPal account to your PSN account instead.
+
+### 2\. PayPal
+
+ Using your PlayStation console, go to **Settings > Users and Accounts > Account > Wallet > Payments and Subscriptions > Payment Methods > Add a PayPal Account** and confirm your log-in details.
+
+ Select**PayPal** under**Payment Methods** , choose the top-up amount, and authorize your payment.
+
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![The Add PayPal as payment method screen on PlayStation 5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ps5-add-paypal.jpg)
+
+ Be sure to check the PayPal list of countries that support PSN direct payments. Remember that you can only register one PayPal account to one PSN account at a time. Alternatively, PayPal gives you the option to buy PlayStation Store cards directly from its website.
+
+ If your country does not allow PayPal direct payments, or you prefer to keep your personal details private, you may opt to purchase PlayStation Store cards instead.
+
+### 3\. PlayStation Store Cards
+
+ To redeem a PlayStation Store card, go to the **PlayStation Store > More (three horizontal dots) > Redeem Code** . Input the 12-digit code from your card, and select**Redeem** .
+
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
+![The redeem code page on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ps5-redeem-codes.jpg)
+
+ You can purchase PlayStation Store cards from a number of different retailers. Bear in mind that some vouchers will require activation from the retailer and will be valid a year up after purchase.
+
+ Now that you know all the ways that you can load money onto your PSN account wallet we can proceed to the fun stuff.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
+## How to Buy Games From the PlayStation Store
+
+ On your PlayStation home screen, select the**PlayStation Store** . From there, you can choose from the various options on the top menu, or scroll to see various categories of games. Make sure to keep up to date with[how to get PS4 and PS5 games for cheap](https://www.makeuseof.com/how-to-get-ps4-ps5-games-cheap/) so you save some money.
+
+ The PlayStation store lets you purchase games, movies, TV shows, and add-ons. Should you already know what game you want to play, you may select**Search** and type in the specific game title.
+
+ If you want to browse the entire game catalog, you may select**Browse&** from the top menu of the PlayStation Store. From there, you can sort the games using the**Add Filter** and**Sort** buttons. Games for pre-order will also be available.
+
+![The Browse tab on the PlayStation 5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ps5-store-all-games.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Download Games for Free
+
+ Whether it’s a seasonal promotional campaign or a long-term offering, there are many games available for free on the PlayStation store. To see the currently available catalog of free games, select**Free to Play** on the right-side column.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![The free games section of the PlayStation Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ps5-store-free-games.jpg)
+
+ Upon selecting the game that you want to play on the catalog, a screen with a**Download** button will appear. Once you click that, the game will begin downloading immediately.
+
+### Download a Paid Game
+
+ Once you have selected the game you want to download from the paid catalog, a screen with an**Add to Cart** button next to the game price will appear.
+
+![The PS5 Store page for Exoprimal showing that its been placed in cart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ps5-store-exo-primal.jpg)
+
+ After selecting**Add to Cart** , you will be given the option to either**Continue Shopping** or**Proceed to Checkout** . You may add additional games before moving on. After selecting your payment method and confirming payment, you will be able to download the game and play it.
+
+## How to Check Payment History on PSN
+
+ After every transaction, make sure your PSN account reflects the correct balance and review the payment history on your credit/debit card statements or PayPal account.
+
+ To check your payment history on your PSN account, go to **Settings > Users and Accounts > Account > Payment and Subscriptions > Transaction History** .
+
+ If you're seeing transactions that you know you didn't make, you may want to[check if someone else is using your PSN account](https://www.makeuseof.com/check-psn-account-security/) .
+
+## How to Refund Your PSN Wallet
+
+ If you have changed your mind about a game you have purchased on the PSN store, you have 14 days to[request a refund on PlayStation 4 or 5](https://www.makeuseof.com/how-to-refund-game-ps4-ps5/) . For pre-orders, you may ask for a refund up until the official release date.
+
+ Should you be unhappy with a PlayStation subscription, you may also request a refund with the appropriate deductions depending on how much you have used the service.
+
+ Please note that once you have downloaded or streamed your purchase, you are no longer eligible for a refund unless the content is faulty. For any kind of refund or cancelation, you can send a message to[PlayStation Support](https://www.playstation.com/en-us/support/contact-us/) .
+
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Make the Most of the PlayStation Store
+
+With the PlayStation Store, buying games has never been easier.
+
+ Not only do you have access to games from the previous generation of consoles, but you can also download the latest games from the comfort of your own home. With just a credit or debit card, PayPal account, or gift card, you have a world of entertainment at your fingertips.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-discover-the-lesser-known-page-picks-for-memelings-for-2024/"><u>[New] Discover the Lesser-Known Page Picks for Memelings for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-disruptive-beats-curated-list-of-music-mutators/"><u>[New] In 2024, Disruptive Beats  Curated List of Music Mutators</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-perfecting-your-craft-making-time-lapse-films-with-ipad/"><u>[New] Perfecting Your Craft  Making Time-Lapse Films with iPad</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-snapchat-for-mac-quick-installation-tips/"><u>[Updated] 2024 Approved  Snapchat for MAC  Quick Installation Tips</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-unleashing-the-potential-of-instavids-planning-for-success/"><u>[Updated] 2024 Approved  Unleashing the Potential of InstaVids  Planning for Success</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-convert-tweets-into-audible-format-with-ease/"><u>[Updated] Convert Tweets Into Audible Format with Ease</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-high-end-fb-visual-creator-free/"><u>[Updated] In 2024, High-End FB Visual Creator (FREE)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-tailored-techniques-to-cut-off-unwanted-youtube-content-on-devices/"><u>[Updated] Tailored Techniques to Cut Off Unwanted YouTube Content on Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/2-year-tale-why-i-prefer-an-oled-monitor/"><u>2-Year Tale: Why I Prefer an OLED Monitor</u></a></li>
+<li><a href="https://games-able.techidaily.com/4-fundamental-improvements-for-maximizing-xbox-player-loyalty/"><u>4 Fundamental Improvements for Maximizing Xbox Player Loyalty</u></a></li>
+<li><a href="https://games-able.techidaily.com/6-factors-to-contemplate-when-comparing-mac-and-pc-games/"><u>6 Factors to Contemplate When Comparing Mac and PC Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/6-vital-game-components-that-grab-users-attention/"><u>6 Vital Game Components that Grab Users’ Attention</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-activision-blizzard-games-microsoft-should-revive/"><u>7 Activision Blizzard Games Microsoft Should Revive</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-steps-to-prevent-incompatibility-in-your-new-computer-buy/"><u>7 Steps to Prevent Incompatibility in Your New Computer Buy</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-deep-dive-into-fixing-4-typical-gpu-problems/"><u>A Deep Dive Into Fixing 4 Typical GPU Problems</u></a></li>
+<li><a href="https://games-able.techidaily.com/adapt-overcome-playing-fortnite-on-your-mac-wisely/"><u>Adapt, Overcome: Playing Fortnite on Your Mac Wisely</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-unauthorized-card-error-messages-in-ps5/"><u>Addressing Unauthorized Card Error Messages in PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/adjusting-settings-for-superior-steam-deck-typing/"><u>Adjusting Settings for Superior Steam Deck Typing</u></a></li>
+<li><a href="https://games-able.techidaily.com/asus-rog-ally-dock-masterpieces/"><u>ASUS ROG Ally Dock Masterpieces</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719171377590-avoid-stability-issues-install-updated-nvidia-graphics-driver-today/"><u>Avoid Stability Issues - Install Updated Nvidia Graphics Driver Today</u></a></li>
+<li><a href="https://games-able.techidaily.com/become-a-word-game-virtuoso-mastering-strands-new-york-times-edition/"><u>Become a Word Game Virtuoso: Mastering Strands, New York Times Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/beneath-the-hype-gears-impact-on-gaming/"><u>Beneath the Hype: Gear's Impact on Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-controller-powered-mobile-adventures/"><u>Best Controller-Powered Mobile Adventures</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-gaming-ears-for-nintendo-switch/"><u>Best Gaming Ears for Nintendo Switch</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-itel-s23plus-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Itel S23+</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719169904091-digital-discounts-on-xbox-series-xs-unlocked/"><u>Digital Discounts on Xbox Series X|S Unlocked</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disguised-delayers-innocuous-apps-hindering-pc-speed/"><u>Disguised Delayers: Innocuous Apps Hindering PC Speed</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172752956-game-boy-advance-excellence-with-ioss-leading-emulators/"><u>Game Boy Advance Excellence with iOS's Leading Emulators!</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719168491399-give-your-computer-a-boost-upgrade-to-latest-nvidia-drivers/"><u>Give Your Computer a Boost: Upgrade to Latest Nvidia Drivers.</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/horizon-capture-setup-vr/"><u>Horizon Capture Setup VR</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-best-tool-to-translate-youtube-video-to-arabic/"><u>In 2024, Best Tool to Translate YouTube Video to Arabic</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719167776043-navigate-through-tech-troubles-with-new-nvidia-drivers/"><u>Navigate Through Tech Troubles with New Nvidia Drivers.</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/optimal-webp-to-jpg-transformation-guide/"><u>Optimal WebP-to-JPG Transformation Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/perfect-display-settings-with-new-graphics-software/"><u>Perfect Display Settings with New Graphics Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719165662348-revive-gbadvance-games-seamlessly-on-iphone-and-ipad/"><u>Revive GBAdvance Games Seamlessly on iPhone & iPad!</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719160130709-rewind-to-retro-play-psp-on-iphone-today/"><u>Rewind to Retro: Play PSP on iPhone Today</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-clipchamp-install-on-windows-11-with-these-steps/"><u>Secure ClipChamp Install on Windows 11 with These Steps</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719168257558-step-into-the-fun-zone-engage-with-these-6-chatgpt-games/"><u>Step Into the Fun Zone: Engage With These 6 ChatGPT Games</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-drivers-with-windows-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing drivers with Windows Device Manager on Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-your-hardware-drivers-with-windows-device-manager-in-windows-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing your hardware drivers with Windows Device Manager in Windows 7</u></a></li>
+</ul></div>

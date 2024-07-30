@@ -1,7 +1,7 @@
 ---
 title: Sneaking Nintendo Into the Steam Ecosystem
-date: 2024-07-12T03:06:10.509Z
-updated: 2024-07-13T03:06:10.509Z
+date: 2024-07-29T05:50:21.814Z
+updated: 2024-07-30T05:50:21.814Z
 tags:
   - games
 categories:
@@ -32,34 +32,62 @@ thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812
 
  To connect your Classic Nintendo controller to your PC via Bluetooth, open up your computer's settings. Head to**Devices** , press**Bluetooth & other devices** , then press**Add Bluetooth or other device** . Pick**Bluetooth** from the drop-down list.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Add Bluetooth Device to PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/add-bluetooth-device-to-pc.jpg)
 
  Your computer will start searching for a signal at this point, so press the Bluetooth pairing button at the top of the controller to allow your PC to find and establish the connection. The Bluetooth pairing button is the tiny circular button to the right of the screenshot button, next to the row of lights. Hold the button down until the lights start flashing green.
 
  Once the PC finds your Classic Nintendo controller, a small pop-up window will appear on your screen showing the name of your controller. In this case, it is the N64 controller, but the name may differ for you depending on what Classic Nintendo controller you have.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Connecting N64 Controller to PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/connecting-n64-controller-to-pc.jpg)
 
  Left-click on the**controller name** to pair it. It's worth noting here that your PC won't remember the Classic Nintendo controller like it does other Bluetooth devices, and this process will have to be repeated every time you want to connect your controller to your PC.
 
  All that’s left to do after that is open Steam and start gaming. If your controller is connected to your PC, Steam will recognize and connect to it straight away. No more fiddling around is necessary.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Configure Your Classic Nintendo Controller to Work on Steam
 
  The Classic Nintendo controllers can have some interesting button layouts, especially when it comes to the N64 controller. So you may have to configure your button layout to ensure that everything works the way you want it to.
 
  There is a Nintendo Button Layout option in your controller settings, but that only switches the A, B, X, and Y buttons which differ from other major controllers. If that’s enough for you, press the**Steam** button in the top left corner and open up the**Settings** . Press**Controller** , and toggle**Use Nintendo Button Layout** to the on position.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Nintendo Button Layout Option Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/nintendo-button-layout-option-steam.jpg)
 
  To fully customize your button layout, make your way to Steam’s Big Picture Mode by pressing**View** from the menu along the top and selecting**Big Picture Mode** .
 
  Select the game you want to play with your Classic Nintendo controller and press the**controller icon** on the right to open your controller settings. Select**Enable Steam Input** . This allows you to fully customize your controller’s button layout.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Enable Steam Input on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-steam-input-on-steam.jpg)
 
  To view your current inputs, select**View Layout** . From this screen, you can see the default button layout, so you know what you’re working with. If there is anything you would like to change, press the B button to go back and then select**Edit Layout** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![Edit Button Layout for Controllers on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-button-layout-for-controllers-on-steam.jpg)
 
  The**Edit Layout** menu is very comprehensive and contains every button input you could possibly need. Press the button group you want to customize to be taken to the next screen where you can individually change each one.
@@ -93,3 +121,45 @@ thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-diving-deep-youtubes-best-immersive-experiences-for-2024/"><u>[New] Diving Deep  YouTube's Best Immersive Experiences for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-navigating-through-slug-line-syntax-in-screenplays/"><u>[New] Navigating Through Slug Line Syntax in Screenplays</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-essential-tips-for-crafting-youtube-shorts-templates/"><u>[Updated] Essential Tips for Crafting YouTube Shorts Templates</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cross-platform-streaming-techniques-from-youtube-to-30plus-platforms/"><u>[Updated] In 2024, Cross-Platform Streaming Techniques  From YouTube to 30+ Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/10-reasons-to-switch-from-console-to-pc-gaming/"><u>10 Reasons to Switch From Console to PC Gaming</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-extracted-image-selection-from-videos-to-windows-photos/"><u>2024 Approved  Extracted Image Selection  From Videos to Windows Photos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-future-of-display-technology-with-eizos-high-res-monitor/"><u>2024 Approved  The Future of Display Technology with EIZO's High-Res Monitor</u></a></li>
+<li><a href="https://games-able.techidaily.com/ace-your-audience-with-perfect-fps-settings/"><u>Ace Your Audience with Perfect FPS Settings</u></a></li>
+<li><a href="https://games-able.techidaily.com/boost-valorant-speed-solutions-for-overcoming-low-fps-on-pc/"><u>Boost Valorant Speed: Solutions for Overcoming Low FPS on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/breaking-down-the-cost-of-switch-online-service/"><u>Breaking Down the Cost of Switch Online Service</u></a></li>
+<li><a href="https://games-able.techidaily.com/breaking-language-barriers-in-emulated-games/"><u>Breaking Language Barriers in Emulated Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-you-adapt-retro-dock-to-work-with-oled-switch/"><u>Can You Adapt Retro Dock to Work With OLED Switch?</u></a></li>
+<li><a href="https://games-able.techidaily.com/classic-reimagined-todays-video-game-experience/"><u>Classic Reimagined: Today's Video Game Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/emulating-vintage-gaming-the-power-of-xemu-for-pc/"><u>Emulating Vintage Gaming: The Power of Xemu for PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-top-tier-games-playstation-plus-or-xbox-game-pass/"><u>Exploring Top-Tier Games: PlayStation Plus Or Xbox Game Pass?</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-freedom-in-monthly-plans-psplus-vs-xbgplus/"><u>Gaming Freedom in Monthly Plans: PS+ VS XBG+</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-optimize-your-phones-soundplay-with-top-10/"><u>In 2024, Optimize Your Phone's Soundplay With  Top 10</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-top-10-female-youtubers/"><u>In 2024, Top 10 Female YouTubers</u></a></li>
+<li><a href="https://games-able.techidaily.com/ios-vs-android-battle-royale-edition-of-tetris/"><u>IOS vs Android: Battle Royale Edition of Tetris</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-steam-currency-obtaination-and-operations/"><u>Mastering Steam Currency: Obtaination and Operations</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-assist-controller-on-ps5/"><u>Mastering the Assist Controller on PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimize-performance-dont-delay-download-new-nvidia-drivers/"><u>Optimize Performance - Don’t Delay, Download New Nvidia Drivers</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-valorant-play-eliminating-frames-per-second-lags/"><u>Optimizing Valorant Play: Eliminating Frames Per Second Lags</u></a></li>
+<li><a href="https://games-able.techidaily.com/organizing-and-managing-games-using-steams-storage-tool/"><u>Organizing and Managing Games Using Steam’s Storage Tool</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-games-necessity-or-luxury-for-mts/"><u>Premium Games: Necessity or Luxury for MTs?</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-to-ps4-device-communication-feasible/"><u>PS5-to-PS4 Device Communication Feasible?</u></a></li>
+<li><a href="https://games-able.techidaily.com/rectifying-lost-components-message-in-win-1011/"><u>Rectifying Lost Components Message in Win 10/11</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-into-action-youtube-rolls-out-interactive-and-testing-minigames/"><u>Step Into Action: YouTube Rolls Out Interactive and Testing Minigames</u></a></li>
+<li><a href="https://games-able.techidaily.com/stop-erratic-scrolling-on-your-mouse/"><u>Stop Erratic Scrolling on Your Mouse</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-coders-key-to-enhanced-xbox-playtime/"><u>The Coder's Key to Enhanced Xbox Playtime</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-go-trainers-companion-guide-to-overcoming-gps-hurdles/"><u>The Go Trainer's Companion Guide to Overcoming GPS Hurdles</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-impact-on-game-quality-when-developers-earn-through-tipping/"><u>The Impact on Game Quality When Developers Earn Through Tipping</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-small-vs-big-pc-debate-make-an-informed-decision-today/"><u>The Small Vs. Big PC Debate: Make an Informed Decision Today!</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-10-pc-adventures-from-the-latest-google-play-game-beta/"><u>Top 10 PC Adventures From the Latest Google Play Game Beta</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-workspace-with-the-top-asus-rog-ally-laptop-docks-24/"><u>Transform Your Workspace with the Top ASUS ROG Ally Laptop Docks, '24</u></a></li>
+<li><a href="https://games-able.techidaily.com/trouble-with-xbox-and-pc-reconnection-tips-inside/"><u>Trouble With Xbox & PC: Reconnection Tips Inside</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-oppo-a58-4g-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Oppo A58 4G Phone Network-Ready</u></a></li>
+</ul></div>

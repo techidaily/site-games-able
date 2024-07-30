@@ -1,7 +1,7 @@
 ---
 title: "Exploring Nostalgia: Using EmuDeck for Old Games"
-date: 2024-07-12T03:07:38.890Z
-updated: 2024-07-13T03:07:38.890Z
+date: 2024-07-29T05:51:25.935Z
+updated: 2024-07-30T05:51:25.935Z
 tags:
   - games
 categories:
@@ -14,11 +14,18 @@ thumbnail: https://thmb.techidaily.com/485fa639637af95e40bb39955015be2d5660936e6
 
 ## Exploring Nostalgia: Using EmuDeck for Old Games
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Should You Use EmuDeck to Emulate Games on Steam Deck?](#should-you-use-emudeck-to-emulate-games-on-steam-deck)
 * [How to Set Up EmuDeck on a Steam Deck](#how-to-set-up-emudeck-on-a-steam-deck)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * EmuDeck manages emulators and their installation for the Steam Deck, making it easier for those using the Linux-based SteamOS.
@@ -29,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/485fa639637af95e40bb39955015be2d5660936e6
 
 ## Should You Use EmuDeck to Emulate Games on Steam Deck?
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![screenshot of the main emudeck screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emudeck_main_screen.jpg)
 
  The first decision you'll need to make is which emulator to use. For this guide, we chose EmuDeck. For most users, this is an easy option because of the convenience of the platform.
@@ -41,12 +52,18 @@ thumbnail: https://thmb.techidaily.com/485fa639637af95e40bb39955015be2d5660936e6
 
  If you prefer to install emulators individually, you'll find most of them on the Discover store. If you like the sound of EmuDeck, we'll cover the next steps involved in setting it up.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Set Up EmuDeck on a Steam Deck
 
  EmuDeck requires that you know your way around desktop mode before you're able to set it up. Before we go any further, make sure you're comfortable [using the Steam Deck as a desktop device](https://www.makeuseof.com/tips-use-steam-deck-desktop-mode-without-dock/) .
 
  To get started, switch to Desktop Mode by holding the power button down and selecting**Switch to Desktop.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ### 1\. Install and Set Up EmuDeck
 ![screenshot of the emudeck install package on the steam deck desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emudeck_install_package_on_desktop.jpg)
 
@@ -72,10 +89,16 @@ We'll choose easy mode, as it's the most straightforward.
 
  Depending on where you installed EmuDeck, this**Emulation** folder will either be in your Home folder or on the root of your SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![screenshot of the emudeck emulation folder on the steam deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emudeck_folder_on_steam_deck.jpg)
 
  EmuDeck is configured so that all emulators share this common folder. For example, the**roms** folder contains folders representing every single console that can be emulated. If you copy a Nintendo Switch ROM into the Switch folder within**roms** , both Yuzu and Ryujinx will be able to run that ROM.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of the EmuDeck folder showing systems.txt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emudeck_systems_txt.jpg)
 
  You can check which folder is for which console by opening the**systems.txt** file down the bottom. Additionally, there is a**systeminfo.txt** file within each of the folders that contains information on supported ROM file types.
@@ -97,6 +120,10 @@ We'll choose easy mode, as it's the most straightforward.
 
  EmuDeck has its own solution to this problem. Under the**Tools & Stuff** category in EmuDeck, you'll see something called the**Steam ROM Manager.** Launch this option, making sure to hit**Yes** on the warning message.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![screenshot of the emudeck main screen showing steam rom manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emudeck_main_screen_showing_steam_rom_manager.jpg)
 
  The Steam ROM Manager automates the process of adding shortcuts to your Steam library, meaning that they can be launched from gaming mode. Specifically, it will scan your emulation library and add individual games as shortcuts.
@@ -130,3 +157,41 @@ We'll choose easy mode, as it's the most straightforward.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-learn-to-edit-the-ultimate-guide-for-igtv-titles/"><u>[New] 2024 Approved  Learn to Edit  The Ultimate Guide for IGTV Titles</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-essential-video-editors-for-cutting-edge-webcams-for-2024/"><u>[New] Essential Video Editors for Cutting-Edge Webcams for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-conquering-the-dilemma-how-to-send-videos-on-facebook-message/"><u>[Updated] Conquering the Dilemma  How to Send Videos on Facebook Message</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-go-from-gaming-to-socializing-streaming-xbox-to-fb-live/"><u>2024 Approved  Go From Gaming to Socializing  Streaming Xbox to FB Live</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-the-ritual-of-independent-instagram-sound-creation/"><u>2024 Approved  Mastering the Ritual of Independent Instagram Sound Creation</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-navigating-the-secrets-of-funimate-download/"><u>2024 Approved  Navigating the Secrets of Funimate Download</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-ways-you-can-maintain-your-xbox-series-x-hardware/"><u>5 Ways You Can Maintain Your Xbox Series X Hardware</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-your-gaming-budget-in-ps-store/"><u>Boosting Your Gaming Budget in PS Store</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-ps5s-dualsense-play-on-ps4-devices/"><u>Can PS5's DualSense Play on PS4 Devices?</u></a></li>
+<li><a href="https://games-able.techidaily.com/channel-management-excellence-perfecting-blockunblock-techniques-on-twitch/"><u>Channel Management Excellence: Perfecting Block/Unblock Techniques on Twitch</u></a></li>
+<li><a href="https://games-able.techidaily.com/convenience-meets-connectivity-mobile-twitch-streaming-101/"><u>Convenience Meets Connectivity: Mobile Twitch Streaming 101</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminate-freezing-woes-securing-epic-game-launcher-stability/"><u>Eliminate Freezing Woes: Securing Epic Game Launcher Stability</u></a></li>
+<li><a href="https://games-able.techidaily.com/embark-on-bedrock-server-conversion-to-java/"><u>Embark on Bedrock Server Conversion to Java</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-input-devices-for-switch-gaming-setup-90-chars/"><u>Essential Input Devices for Switch Gaming Setup (90 Chars)</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-nostalgia-revisited-a-curated-list-of-top-ps3-emulators-for-pc/"><u>Gaming Nostalgia Revisited: A Curated List of Top PS3 Emulators for PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-vivo-y100i-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Vivo Y100i</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-correct-mc-launcher-failure-error-0x803f8001-in-mcpc/"><u>How to Correct MC Launcher Failure: Error 0X803F8001 in MCPC</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-15-plus-using-macos-finder-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone 15 Plus using macOS finder</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-use-playstation-4-on-your-windows-or-macos-device/"><u>How to Use PlayStation 4 on Your Windows or macOS Device</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fix-lonely-beats-airpod-solution/"><u>In 2024, Fix Lonely Beats  Airpod Solution</u></a></li>
+<li><a href="https://games-able.techidaily.com/my-gaming-adventure-with-an-advanced-oled-display/"><u>My Gaming Adventure with an Advanced OLED Display.</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-lost-signals-a-quick-guide-for-go-trainers/"><u>Navigating Lost Signals: A Quick Guide for Go Trainers</u></a></li>
+<li><a href="https://games-able.techidaily.com/protect-your-kids-navigating-discords-risks/"><u>Protect Your Kids: Navigating Discord's Risks</u></a></li>
+<li><a href="https://games-able.techidaily.com/remedying-the-0x887a0006-dxgierror-in-win1111/"><u>Remedying the 0X887A0006 DXGI_ERROR in Win11/11</u></a></li>
+<li><a href="https://games-able.techidaily.com/smart-choices-affordable-white-motherboards/"><u>Smart Choices: Affordable White Motherboards</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-halts-loophole-exploitation-impact-explored/"><u>Steam Halts Loophole Exploitation: Impact Explored</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-hits-back-against-easy-refund-scams/"><u>Steam Hits Back Against Easy Refund Scams</u></a></li>
+<li><a href="https://extra-support.techidaily.com/step-by-step-guide-to-excellent-ipadiphone-interview-podcast-recording-for-2024/"><u>Step-by-Step Guide to Excellent iPad/iPhone Interview Podcast Recording for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-playing-legacy-xbox-games-on-pc/"><u>Step-by-Step: Playing Legacy Xbox Games on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-streaming-your-desktop-adventures-to-steam-deck/"><u>Step-by-Step: Streaming Your Desktop Adventures to Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-epitome-of-gaming-power-razers-low-latency-v3-pro/"><u>The Epitome of Gaming Power: Razer's Low Latency V3 Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-list-of-2024s-top-nintendo-switch-docks/"><u>The Ultimate List of 2024'S Top Nintendo Switch Docks</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/unblocking-dxgi-device-hang-issue-error-0x887a0006/"><u>Unblocking DXGI: Device Hang Issue, Error 0X887A0006</u></a></li>
+</ul></div>

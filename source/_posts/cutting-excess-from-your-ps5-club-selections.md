@@ -1,7 +1,7 @@
 ---
 title: Cutting Excess From Your PS5 Club Selections
-date: 2024-07-12T03:07:33.669Z
-updated: 2024-07-13T03:07:33.669Z
+date: 2024-07-29T05:51:22.722Z
+updated: 2024-07-30T05:51:22.722Z
 tags:
   - games
 categories:
@@ -18,10 +18,25 @@ thumbnail: https://thmb.techidaily.com/3b4f38d4b261acb2c277f07ba409b2b6a3f82798b
 
  We’ll show you everything you need to know to navigate subscriptions, where you can find them, and how to cancel and renew them.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What Are the Available Gaming Subscriptions on the PS5?
 
  You can find the dedicated PlayStation Store subscriptions page by going to the**PlayStation Store** and tapping**R1** on your controller till you reach**Subscriptions** .
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![EA Play in PlayStation Store's subscription page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ea-play-in-playstation-store-s-subscription-page.JPG)
 
  While there’s a dedicated page for subscriptions, Sony offers only three for the US region:
@@ -32,6 +47,9 @@ thumbnail: https://thmb.techidaily.com/3b4f38d4b261acb2c277f07ba409b2b6a3f82798b
 
  Sony might add more subscriptions down the line, but this is all it offers for now. You can check back to this page as often as possible to see what’s new. Sometimes there could be huge sales on the subscriptions, too.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Manage Your PS5 Subscriptions
 
  You pay for subscriptions by going to**Subscriptions** in the PlayStation Store, and you can also view the games in their collections from there. However, there’s a dedicated panel in the PS5’s settings for managing your ongoing or terminated gaming subscriptions.
@@ -41,9 +59,15 @@ thumbnail: https://thmb.techidaily.com/3b4f38d4b261acb2c277f07ba409b2b6a3f82798b
  If you would like to have a look at all the subscriptions you’ve made on your PS5 (active and inactive), here’s what to do:
 
 1. Open**Settings** and go to**Users and Accounts** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![Users and Accounts section of the PS5 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/users-and-accounts-section-of-the-ps5-settings.JPG)
 2. Select**Account** inside the Users and Accounts panel and choose**Payment and Subscriptions** .
 3. Scroll down the Payment and Subscriptions menu and select**Subscriptions** to a list of your subscriptions.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![List of subscriptions in the Subscriptions page of the PS5's settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/list-of-subscriptions-in-the-subscriptions-page-of-the-ps5-s-settings.JPG)
 
  If you have no current or previous subscriptions, you’ll see a message saying, “You don’t have any subscriptions right now.”
@@ -57,6 +81,9 @@ thumbnail: https://thmb.techidaily.com/3b4f38d4b261acb2c277f07ba409b2b6a3f82798b
 3. Navigate to the**Cancel Subscription** button on the left and tap**X** on your controller.  
 ![EA Play subscription settings page on a PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ea-play-subscription-settings-page-on-a-ps5.JPG)
 4. You’ll get a message informing you that you won’t be billed again for your subscription.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![Prompt notifying when EA Play subscription will cancel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/prompt-notifying-when-ea-play-subscription-will-cancel.JPG)
 
  Canceling your subscription doesn’t mean losing your benefits. Your benefits only expire once the subscription has run its course. Canceling only means you won’t be charged again.
@@ -72,6 +99,9 @@ Here’s how to renew a PS5 gaming subscription:
 1. Go to **Settings > Users and Accounts > Account > Payment and Subscriptions > Subscriptions** to open your list of subscriptions.
 2. Choose the one you would like to renew from the list.
 3. Select**Subscribe** .  
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![PlayStation Plus subscription page in the PS5's subscription settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/playstation-plus-subscription-page-in-the-ps5-s-subscription-settings.JPG)
 4. Follow the payment steps.
 
@@ -112,3 +142,47 @@ Here’s how to renew a PS5 gaming subscription:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-determining-view-counts-direct-effect-on-creator-revenue-for-2024/"><u>[New] Determining View Count's Direct Effect on Creator Revenue for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-elite-filmmakers-merging-sounds-images/"><u>[New] Elite Filmmakers Merging Sounds, Images</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-optidrive-specialists-judgment/"><u>[New] OptiDrive Specialists Judgment</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-ignite-engagement-top-3-youtube-live-stream-tips-for-understaffed-viewership/"><u>[Updated] 2024 Approved  Ignite Engagement  Top 3 YouTube Live Stream Tips for Understaffed Viewership</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-the-ultimate-steps-for-fetching-your-fb-status-vids/"><u>[Updated] 2024 Approved  The Ultimate Steps for Fetching Your FB Status Vids</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-best-youtube-video-ideas-to-spark-inspiration-for-2024/"><u>[Updated] Best YouTube Video Ideas to Spark Inspiration for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-elite-cgi-green-screen-tutorial-for-kinemaster-enthusiasts/"><u>[Updated] Elite CGI  Green Screen Tutorial for Kinemaster Enthusiasts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-from-novice-to-pro-utilizing-obs-on-android-systems/"><u>[Updated] From Novice to Pro  Utilizing OBS on Android Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/10-reasons-why-your-games-keep-crashing-and-how-to-fix-issues/"><u>10 Reasons Why Your Games Keep Crashing (And How to Fix Issues)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-achieving-auditory-perfection-zooming-up-your-sound-quality/"><u>2024 Approved  Achieving Auditory Perfection  Zooming Up Your Sound Quality</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-lens-language-speaking-visually-with-snapchat-filters/"><u>2024 Approved  Lens Language  Speaking Visually with Snapchat Filters</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-unveiling-the-top-10-lesser-known-memeliters/"><u>2024 Approved  Unveiling the Top 10 Lesser-Known Memeliters</u></a></li>
+<li><a href="https://games-able.techidaily.com/assistant-controller-the-secret-to-ps5-mastery/"><u>Assistant Controller: The Secret to PS5 Mastery</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-you-control-your-ps4-with-ps5-controller/"><u>Can You Control Your PS4 with PS5 Controller?</u></a></li>
+<li><a href="https://games-able.techidaily.com/cautionary-tales-for-paying-gamers-to-develop-games/"><u>Cautionary Tales for Paying Gamers to Develop Games</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Samsung Galaxy Z Fold 5? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficiently-managing-your-switch-gaming-identity/"><u>Efficiently Managing Your Switch Gaming Identity</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/elite-steadicam-models-suitable-for-drones-in-cinema-for-2024/"><u>Elite Steadicam Models Suitable for Drones in Cinema for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-your-ps-vr2-adventure/"><u>Enhancing Your PS VR2 Adventure</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-11-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot iPhone 11 Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-boy-mastery-through-linux-scripting-and-commands/"><u>Game Boy Mastery Through Linux Scripting and Commands</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/global-easter-a-multicultural-journey-of-well-wishing/"><u>Global Easter: A Multicultural Journey of Well-Wishing</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/horizontal-adjustment-portable-devices-fixed/"><u>Horizontal Adjustment - Portable Devices Fixed</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-invalidate-and-reclaim-your-fortnite-expenses/"><u>How to Invalidate and Reclaim Your Fortnite Expenses</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-samsung-galaxy-m34-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Samsung Galaxy M34 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-se-2020ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone SE (2020)/iPad | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-it-feasible-to-connect-ps5-controller-with-ps4/"><u>Is It Feasible to Connect PS5 Controller with PS4?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/is-there-a-superior-cameras-marketplace/"><u>Is There a Superior Cameras Marketplace?</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-the-art-of-combining-sony-and-switch-gameplay/"><u>Master the Art of Combining Sony & Switch Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-googles-game-service-on-desktops-a-guide/"><u>Navigating Google's Game Service on Desktops: A Guide</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-recording-made-easy-3-top-options-for-video-game-enthusiasts/"><u>New 2024 Approved Recording Made Easy 3 Top Options for Video Game Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-tech-showdown-xbox-and-pc/"><u>Next-Gen Tech Showdown: Xbox and PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-your-computer-5-ways-to-curb-steams-ram-consumption/"><u>Optimizing Your Computer - 5 Ways to Curb Steam's RAM Consumption</u></a></li>
+<li><a href="https://games-able.techidaily.com/peeling-back-layers-authenticity-in-fake-game-hype/"><u>Peeling Back Layers: Authenticity in Fake Game Hype</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplify-fun-enter-the-realm-of-idles/"><u>Simplify Fun: Enter the Realm of Idles</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-easy-way-to-secure-your-gameplay-with-nintendos-passcode-feature/"><u>The Easy Way to Secure Your Gameplay with Nintendo's Passcode Feature</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-10-choices-expert-reviews-on-xbox-recording-tech/"><u>Top 10 Choices: Expert Reviews on Xbox Recording Tech</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-your-skills-on-youtubes-experimental-minigame-tests/"><u>Unleash Your Skills on YouTube's Experimental Minigame Tests</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-steams-in-game-purchasing-power/"><u>Unlocking Steam's In-Game Purchasing Power</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-rewarding-gamers-with-tips-could-undermine-industry-standards/"><u>Why Rewarding Gamers with Tips Could Undermine Industry Standards</u></a></li>
+</ul></div>

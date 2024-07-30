@@ -1,7 +1,7 @@
 ---
 title: "From Conventional to Revolutionary: The PDW4 Story"
-date: 2024-07-12T03:04:59.899Z
-updated: 2024-07-13T03:04:59.899Z
+date: 2024-07-29T05:49:30.929Z
+updated: 2024-07-30T05:49:30.929Z
 tags:
   - games
 categories:
@@ -14,6 +14,9 @@ thumbnail: https://thmb.techidaily.com/d0e21788f29958fdaba0fdac4398d13da91770825
 
 ## From Conventional to Revolutionary: The PDW4 Story
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * The GPD Win 4 is a powerful handheld gaming console for playing PC and Xbox games anywhere, but it lacks the comfort of its competitor, the Steam Deck.
@@ -28,6 +31,9 @@ But does it have what you need to enjoy PC gaming in any scenario?
 
  The [GPD Win 4 is currently $1099](https://affiliate.geekbuying.com/gkbaffiliate.php?id=150&url=944873) , but you can get an exclusive $400 discount through MakeUseOf. Simply add this discount code when you checkout:**NNN056GAME**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![GPD Win 4 with keyboard open](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-review-gpd-win-4-kb.jpg)
 
 ##### GPD Win 4
@@ -110,12 +116,27 @@ Windows 11 pre-installed
 
  In fact, apart from a few console titles, you can play most games ever released on this device.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## It’s Like a Steam Deck With a Physical Keyboard
 
 One of the most stunning features of this device is the keyboard.
 
  Hidden behind the display, the keyboard is there for a reason—but I’m not 100% certain what that reason is. The keys are too small for proper typing, after all, and in this day and age of multi-form factor devices and onscreen keyboards, it seems superfluous. Gamers tend towards headsets and voice chat for multiplayer, so the physical keyboard just doesn’t seem necessary for messaging.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![GPD Win 4 with keyboard open](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-review-gpd-win-4-kb.jpg)
 
  When keys are required, connecting a keyboard seems smarter; an onscreen keyboard should be adequate in most cases.
@@ -128,6 +149,9 @@ One of the most stunning features of this device is the keyboard.
 
  The cable detaches from the charger (it’s USB Type-C at both ends) which makes it pretty flexible for most scenarios. Sadly, there's no case or even a small tote bag with this handheld. Accessories are available for the device, however, including a case.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## GPD Win 4 Gaming Handheld System Specification
 
  The specification for this handheld PC will surprise you. For context, it measures 220 x 92 x 28mm (8.66 x 3.62 x 1.1 inches), and weighs 598g (21.1oz). Inside its PSP-inspired chassis, you’ll find an AMD Ryzen 7 6800U with AMD Radeon 680M graphics, 16GB of RAM, and a 1TB M.2 SSD with Windows 11 pre-installed. The OS ensures all expected video, audio, and picture formats are playable.
@@ -158,6 +182,9 @@ One of the most stunning features of this device is the keyboard.
 
  Note that there is also a USB Type A 3.0 port on the console. This is suitable for everything from external storage to additional peripherals.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Design and Comfort of the GPD Win 4 Gaming Handheld
 
  Available in various colors, I received the white version of the GPD Win 4 for review. It features a matte finish, which aids grip, although the two rear buttons are difficult to reach. The console isn’t as wide as a Steam Deck, and not as comfortable to use.
@@ -170,10 +197,16 @@ One of the most stunning features of this device is the keyboard.
 
  The GPD Win 4 also has supports rear-mounted expansions. At the time of writing, only a 4G LTE radio is available, which clips onto the back of the console. The mounting points can be seen in the molding of the chassis, which sports echoes of the Sony PSP handheld.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![GPD Win 4 left trigger](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-review-gpd-win-4-left-trigger.jpg)
 
  RGB LEDs cycle through a color change beneath the two clear shoulder buttons, changing how you might perceive the console. But when the color turns green, this white handheld feels like a portable Xbox 360.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ## Testing the GPD Win 4 Gaming Handheld
 
  I selected four games (all on Steam) to measure this device. How did they work out?
@@ -201,6 +234,10 @@ One of the most stunning features of this device is the keyboard.
 
  Those rear buttons are a pain to reach, the Select and Start buttons are too small, and the mouse-to-controller toggle is easy to catch. That can cause some problems mid-game, let me tell you.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ## The GPD Win 4 Lets You Play Anywhere, for a Price
 
  At the most basic level, this handheld PC lets you play recent AAA titles on the go. That in itself is amazing, and with the controller layout, you get to enjoy seamless console-style gaming.
@@ -232,3 +269,46 @@ One of the most stunning features of this device is the keyboard.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-a-comprehensive-guide-to-crop-your-video-for-instagram/"><u>[Updated] 2024 Approved  A Comprehensive Guide to Crop Your Video for Instagram</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-cross-border-tech-assessment-by-experts/"><u>[Updated] Cross-Border Tech Assessment by Experts</u></a></li>
+<li><a href="https://games-able.techidaily.com/6-sensible-reasons-to-choose-a-regular-pc-screen-over-hdr/"><u>6 Sensible Reasons to Choose a Regular PC Screen Over HDR</u></a></li>
+<li><a href="https://games-able.techidaily.com/8-day-to-day-strategies-for-circumventing-connections-gaming/"><u>8 Day-to-Day Strategies for Circumventing Connections Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-step-by-step-guide-to-renaming-at-riot-studios/"><u>A Step-by-Step Guide to Renaming at Riot Studios</u></a></li>
+<li><a href="https://games-able.techidaily.com/ace-your-arcade-how-to-discover-highest-calibre-apple-titles/"><u>Ace Your Arcade: How to Discover Highest Calibre Apple Titles</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-itel-a60s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cheerful-footage-extractor-analysis-for-2024/"><u>Cheerful Footage Extractor Analysis for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-athletes-paradise-the-best-iosandroid-sports-games/"><u>Digital Athletes' Paradise: The Best iOS/Android Sports Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/direct-lineup-xbox-one-and-your-controller/"><u>Direct Lineup: Xbox One & Your Controller</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-2024s-finest-nintendo-switch-dock-compilation/"><u>Discovering 2024'S Finest: Nintendo Switch Dock Compilation</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-your-playstation-5-wi-fi-experience/"><u>Enhancing Your PlayStation 5 Wi-Fi Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/epic-games-unraveling-success-through-helldivers-2/"><u>Epic Games: Unraveling Success Through Helldivers 2</u></a></li>
+<li><a href="https://games-able.techidaily.com/go-beyond-tv-to-uncover-additional-fallout-games/"><u>Go Beyond TV to Uncover Additional Fallout Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-install-discord-on-a-mac/"><u>How to Install Discord on a Mac</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-boosting-your-content-a-guide-to-instagram-video-fame/"><u>In 2024, Boosting Your Content  A Guide to Instagram Video Fame</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled/"><u>In 2024, Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gopros-underwater-journey-essential-tactics-to-make-your-videos-stand-out/"><u>In 2024, GoPro’s Underwater Journey  Essential Tactics to Make Your Videos Stand Out</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigate-joy-con-replacement-effortlessly/"><u>Navigate Joy-Con Replacement Effortlessly</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-to-your-steam-id-online/"><u>Navigating to Your Steam ID Online</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-user-accessibility-with-nintendo-switch-accounts/"><u>Optimizing User Accessibility with Nintendo Switch Accounts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premium-android-listening-helpers-for-2024/"><u>Premium Android Listening Helpers for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-fixes-for-xbox-gold-membership-cost-surge/"><u>Quick Fixes for Xbox Gold Membership Cost Surge</u></a></li>
+<li><a href="https://games-able.techidaily.com/reviving-retro-classics-in-modern-console-formats/"><u>Reviving Retro Classics in Modern Console Formats</u></a></li>
+<li><a href="https://games-able.techidaily.com/reviving-unresponsive-wired-xbox-to-pc/"><u>Reviving Unresponsive Wired Xbox to PC</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/by-step-backdrop-blurring-techniques-on-youtube-videos-for-2024/"><u>Step-by-Step Backdrop Blurring Techniques on YouTube Videos for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/tapping-into-rhythm-games-with-tablets/"><u>Tapping Into Rhythm Games With Tablets</u></a></li>
+<li><a href="https://games-able.techidaily.com/tecno-unveils-thinner-t1-vivid-s1-at-ifa-2023/"><u>Tecno Unveils Thinner T1, Vivid S1 at IFA 2023</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-genesis-of-foddian-entertainment/"><u>The Genesis of Foddian Entertainment</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-latest-ps5s-capability-to-support-past-titles/"><u>The Latest PS5's Capability to Support Past Titles</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-motorola-moto-g34-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Motorola Moto G34 5G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/outuber-earnings-worldwide/"><u>Top Youtuber Earnings Worldwide</u></a></li>
+<li><a href="https://games-able.techidaily.com/tracing-back-to-origins-foddian-games/"><u>Tracing Back to Origins: Foddian Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/tune-trailblazers-discovering-melodies-on-the-move/"><u>Tune Trailblazers: Discovering Melodies on the Move</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-xboxs-game-fairness-system/"><u>Understanding Xbox's Game Fairness System</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-gaming-potential-with-apples-game-mode-in-sonoma-os/"><u>Unlocking Gaming Potential with Apple's Game Mode in Sonoma OS</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-top-6-gamified-chatgpt-experiences/"><u>Unveiling: Top 6 Gamified ChatGPT Experiences!</u></a></li>
+<li><a href="https://games-able.techidaily.com/virtual-team-players-curated-list-of-cross-platform-pals/"><u>Virtual Team Players: Curated List of Cross-Platform Pals</u></a></li>
+<li><a href="https://network-issues.techidaily.com/visuals-fixed-and-saving-feat-achieved/"><u>Visuals Fixed & Saving Feat Achieved</u></a></li>
+</ul></div>

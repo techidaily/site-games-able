@@ -1,7 +1,7 @@
 ---
 title: Fixing Big Picture Crashes with Steam
-date: 2024-07-12T03:04:57.713Z
-updated: 2024-07-13T03:04:57.713Z
+date: 2024-07-29T05:49:29.407Z
+updated: 2024-07-30T05:49:29.407Z
 tags:
   - games
 categories:
@@ -24,16 +24,27 @@ thumbnail: https://thmb.techidaily.com/a7021ad624ff445cc29baa46a54eaf2cd9c23802b
 
  Press**Ctrl + Shift + Esc** to [open the Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) . In the**Processes** tab, right-click on**Steam** and select the**End task** option.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Close Steam Using Task Manager on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/close-steam-using-task-manager-on-windows.jpg)
 
  Right-click on the**Steam** app shortcut and select**Run as administrator** . After that, try to [use the Big Picture mode](https://www.makeuseof.com/what-is-steam-big-picture-mode-explained/) again.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ## 2\. Modify Steam's EXE File
 
  Another thing you can do is open Steam directly in Big Picture mode. Several users on the Steam community reported fixing the issue with this trick.
 
  To open Steam directly in Big Picture mode, right-click on its app shortcut and select**Properties** . In the**Target** field, enter " -tenfoot" to the end of this path, without the quotation marks. Then, hit**Apply** and click**OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![Configure Steam to Open in Big Picture Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/configure-steam-to-open-in-big-picture-mode.jpg)
 
  Double-click the Steam shortcut to open it in Big Picture mode and check if the issue is still there.
@@ -42,6 +53,9 @@ thumbnail: https://thmb.techidaily.com/a7021ad624ff445cc29baa46a54eaf2cd9c23802b
 
  At times, external devices connected to your computer, such as a faulty or misconfigured gaming controller, can interfere with Steam and cause problems. To check for this possibility, temporarily disconnect any external devices and see if that resolves the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Clear Steam Cache
 
  Overwhelming or corrupted cache files can also cause the Steam app to misbehave on Windows. When this happens, certain features, such as Big Picture mode, may not work as expected. You can try clearing the Steam app cache to see if that restores normalcy. Here are the steps for the same.
@@ -49,6 +63,9 @@ thumbnail: https://thmb.techidaily.com/a7021ad624ff445cc29baa46a54eaf2cd9c23802b
 1. Press**Win + R** to open the Run dialog box.
 2. Type**C:\\Program Files (x86)\\Steam** in the text field and hit**Enter** .
 3. Select the**appcache** folder and click the**trash icon** at the top to delete it.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![Clear Steam Cache on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/clear-steam-cache-on-windows.jpg)
 
 ## 5\. Update Graphics Drivers
@@ -69,6 +86,9 @@ To opt out of the Steam beta:
 
  Wait for Steam to apply the necessary updates and switch to the standard version. After that, you should be able to use the Big Picture mode in Steam.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Reset Steam Configurations
 
  Resetting the configuration settings of Steam is an effective way to resolve various issues with it. If this specific issue is caused by misconfigured Steam settings, resetting them should help. Here are the steps:
@@ -79,6 +99,9 @@ To opt out of the Steam beta:
 4. Click**OK** to confirm.  
 ![Flush Steam Configurations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/flush-steam-configurations.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8\. Uninstall and Reinstall Steam
 
  Finally, if all else fails, you can consider uninstalling Steam completely and reinstalling it. Refer to our guide on [different ways to uninstall software on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) and use your preferred method to remove Steam. After that, download and [install the Steam app](https://www.makeuseof.com/what-is-steam-how-to-install/) again.
@@ -106,3 +129,42 @@ To opt out of the Steam beta:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-from-niche-to-mainstream-amassing-a-million-view-channel/"><u>[New] From Niche to Mainstream  Amassing a Million-View Channel</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-how-to-add-timestamps-to-youtube-video-to-increase-views/"><u>[New] How to Add Timestamps to YouTube Video to Increase Views</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-direct-download-and-mp3-creation-for-streaming-video-files/"><u>[New] In 2024, Direct Download & MP3 Creation for Streaming Video Files</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-simplifying-the-art-of-mac-screen-recording-a-keyboard-gurus-insight/"><u>[Updated] In 2024, Simplifying the Art of Mac Screen Recording  A Keyboard Guru's Insight</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-advanced-gopro-editing-straightening-fisheye-lens/"><u>2024 Approved  Advanced GoPro Editing  Straightening Fisheye Lens</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-quick-tips-apply-smooth-motion-blur-on-your-pics/"><u>2024 Approved  Quick Tips  Apply Smooth Motion Blur on Your Pics</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-unlocking-the-full-potential-of-mac-audio-with-audacitys-features/"><u>2024 Approved  Unlocking the Full Potential of Mac Audio with Audacity's Features</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/assembled-now-deconstructed-your-xbox-360-slim-guide/"><u>Assembled, Now Deconstructed: Your Xbox 360 Slim Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoid-steams-resource-drain-5-effective-methods-to-limit-ram-use/"><u>Avoid Steam's Resource Drain - 5 Effective Methods to Limit RAM Use</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-digital-communication-speed-understanding-and-improving-high-latency/"><u>Boosting Digital Communication Speed: Understanding and Improving High Latency</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-power-of-dxvk-for-smooth-winxp-gaming-experience/"><u>Discover the Power of DXVK for Smooth WinXP Gaming Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-game-critique-skills-a-guide-to-steam-reviews/"><u>Elevate Your Game Critique Skills: A Guide to Steam Reviews</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-core-duel-nvidia-intel-or-amd/"><u>Gaming Core Duel: Nvidia, Intel or AMD?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on OnePlus Nord N30 SE? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/inexpensive-durable-multi-keyboards-explored/"><u>Inexpensive, Durable Multi-Keyboards Explored</u></a></li>
+<li><a href="https://games-able.techidaily.com/keyboard-speed-balancing-accuracy-and-fluidity/"><u>Keyboard Speed: Balancing Accuracy & Fluidity</u></a></li>
+<li><a href="https://games-able.techidaily.com/metaquest-3-where-reality-meets-fantasy/"><u>MetaQuest 3: Where Reality Meets Fantasy</u></a></li>
+<li><a href="https://games-able.techidaily.com/platform-choices-and-add-ons-for-bg3-players/"><u>Platform Choices and Add-Ons for BG3 Players</u></a></li>
+<li><a href="https://games-able.techidaily.com/precision-power-supplies-s-ps5-dualsense/"><u>Precision Power Supplies 'S PS5 DualSense</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-and-easy-steam-deck-ssd-swap-with-cloning/"><u>Quick and Easy Steam Deck SSD Swap with Cloning</u></a></li>
+<li><a href="https://games-able.techidaily.com/secure-playstation-5-for-your-youngsters-benefit/"><u>Secure Playstation 5 for Your Youngster's Benefit</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/securing-a-smooth-pathway-to-share-srt-text-across-multiple-platforms-for-2024/"><u>Securing a Smooth Pathway to Share SRT Text Across Multiple Platforms for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/sequential-advantages-optimal-cpugpu-upgrade-order/"><u>Sequential Advantages: Optimal CPU/GPU Upgrade Order</u></a></li>
+<li><a href="https://games-able.techidaily.com/solving-launcher-error-0x803f8001-for-windows-mc/"><u>Solving Launcher Error 0X803F8001 for Windows MC</u></a></li>
+<li><a href="https://games-able.techidaily.com/tailoring-your-tech-edge-the-ideal-dpi-level-for-fps-enthusiasts/"><u>Tailoring Your Tech Edge: The Ideal DPI Level for FPS Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-aftermath-of-leaving-ps-plus-service/"><u>The Aftermath of Leaving PS Plus Service</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essential-guide-to-selecting-a-game-ready-keyboard/"><u>The Essential Guide to Selecting a Game-Ready Keyboard</u></a></li>
+<li><a href="https://games-able.techidaily.com/transforming-gameplay-essential-tweaks-for-switch-users/"><u>Transforming Gameplay: Essential Tweaks for Switch Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-the-top-tier-games-in-apples-game-library/"><u>Unlocking the Top-Tier Games in Apple's Game Library</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrade-gameplay-display-tvs-fullscreen-in-playnite/"><u>Upgrade Gameplay Display: TV's Fullscreen in Playnite</u></a></li>
+<li><a href="https://games-able.techidaily.com/virtual-sleuths-and-artificial-intelligence-adventures/"><u>Virtual Sleuths and Artificial Intelligence Adventures</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-is-a-good-gpu-temperature-for-gaming/"><u>What Is a Good GPU Temperature for Gaming?</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-6-stats-show-macs-fall-behind-on-gaming-benchmarks/"><u>Why 6 Stats Show Macs Fall Behind on Gaming Benchmarks</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-ultimate-guide-to-todays-mmos-on-smartphones/"><u>Your Ultimate Guide to Today's MMOs on Smartphones</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Gaming on the Go: Best Switch Cart Holder Ideas"
-date: 2024-07-12T03:11:53.402Z
-updated: 2024-07-13T03:11:53.402Z
+date: 2024-07-29T05:54:31.938Z
+updated: 2024-07-30T05:54:31.938Z
 tags:
   - games
 categories:
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/1e8ed7d03244990645b268803c3dbd7e538910f87
  If your Nintendo Switch library is getting out of control, it might be time to invest in a cartridge holder. These let you put all your physical games in one compact location, making them great for travel and decluttering your game room. Here's a look at the best Nintendo Switch cartridge holders, including everything from portable cases for just a handful of games to a massive case that holds up to 80.
 
 * [](https://www.amazon.com/HORI-Game-Nintendo-Switch-Officially-Licensed/dp/B01NASY99Z?tag=makeusw-20&ascsubtag=UUmuoUeUpU2032179&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-nintendo-switch-cartridge-holders%2F&asc%5Fcampaign=Commerce)  
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![HORI Switch Holder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/hori-switch-holder.png)  
 HORI  
 
@@ -53,6 +56,9 @@ Best for Travel
 [$30 at Amazon](https://www.amazon.com/PowerA-Premium-Game-Card-Case-Nintendo/dp/B07538J724?th=1&tag=makeusw-20&ascsubtag=UUmuoUeUpU2032179&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-nintendo-switch-cartridge-holders%2F&asc%5Fcampaign=Commerce)
 
 * [](https://www.amazon.com/dp/B07YSHNX4F?th=1&tag=makeusw-20&ascsubtag=UUmuoUeUpU2032179&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-nintendo-switch-cartridge-holders%2F&asc%5Fcampaign=Commerce)  
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Sisma Holder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/sisma-holder.png)  
 Sisma  
 
@@ -70,6 +76,9 @@ HORI
 
  Cartridges are easy to pop in and out of their holding slot, and you'll also find a memory card holder for your SD card. The entire case is solid and durable, though it is a bit bland, as it features nothing more than a semi-transparent exterior and small Nintendo Switch branding.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![HORI Switch Holder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/hori-switch-holder.png)
 
 ##### Hori Game Card Case
@@ -92,6 +101,10 @@ Best Overall
 [$10 at Amazon](https://www.amazon.com/HORI-Game-Nintendo-Switch-Officially-Licensed/dp/B01NASY99Z?tag=makeusw-20&ascsubtag=UUmuoUeUpU2032179&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-nintendo-switch-cartridge-holders%2F&asc%5Fcampaign=Commerce)
 
 ## Best Budget Nintendo Switch Cartridge Holder: Hyperkin 8-in-1 Retro Style Cartridge Case
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![Hyperkin catridge holder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/hyperkin-catridge-holder.jpg)
 
 Hyperkin
@@ -100,6 +113,9 @@ Hyperkin
 
  Hyperkin is also a trusted name in the third-party product market, with a variety of popular controllers, cases, and portable consoles in its catalog. That means you shouldn't have any reliability issues with the 8-in-1 carrying case even though it's the cheapest cartridge holder on this list.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![Hyperkin Switch Holder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/hyperkin-switch-holder.png)
 
 ##### Hyperkin 8-in-1 Retro Style Cartridge Case
@@ -122,6 +138,10 @@ Best Budget
 [$10 at Amazon](https://www.amazon.com/8-Retro-Style-Cartridge-Case-Nintendo-Switch/dp/B07TR7H11H?tag=makeusw-20&ascsubtag=UUmuoUeUpU2032179&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-nintendo-switch-cartridge-holders%2F&asc%5Fcampaign=Commerce)
 
 ## Most Compact Nintendo Switch Cartridge Holder: Amazon Basics Game Storage Case
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![Amazon Basics Catridge Holder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/amazon-basics-catridge-holder.jpg)
 
 Amazon
@@ -130,6 +150,9 @@ Amazon
 
  While it's nice that the case is available in three colors, it's still a bit bland (offering little to catch your eye beyond its colorful, transparent design). Aside from that quirk, there's little to dislike here. At just over three inches wide and three inches long, it's one of the most compact cases on the market. It's also just an inch thick, so you should have no problem tossing it in a suitcase or backpack when heading out on an adventure.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Amazon Basics Switch Holder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/amazon-basics-switch-holder.png)
 
 ##### Amazon Basics Game Storage Case
@@ -159,6 +182,9 @@ PowerA
 
  This version of the case features a unique Mario "M" design, though you can find other designs inspired by Zelda and Minecraft. It'll only hold 12 games, and it's quite expensive, but it is undoubtedly a great choice for frequent travelers seeking a bit of style.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![PowerA Mario Holder-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/powera-mario-holder-1.png)
 
 ##### PowerA Premium Game Card Case
@@ -180,6 +206,9 @@ Best for Travel
 
 [$30 at Amazon](https://www.amazon.com/PowerA-Premium-Game-Card-Case-Nintendo/dp/B07538J724?th=1&tag=makeusw-20&ascsubtag=UUmuoUeUpU2032179&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-nintendo-switch-cartridge-holders%2F&asc%5Fcampaign=Commerce)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Best 80-Slot Nintendo Switch Cartridge Holder: Sisma 80-Slot Switch Game Case
 ![Sisma catridge holder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/sisma-catridge-holder.jpg)
 
@@ -209,8 +238,14 @@ Best 80-Slot Cartridge Holder
 
 [$18 at Amazon](https://www.amazon.com/dp/B07YSHNX4F?th=1&tag=makeusw-20&ascsubtag=UUmuoUeUpU2032179&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-nintendo-switch-cartridge-holders%2F&asc%5Fcampaign=Commerce)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## FAQ
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q: What is the best way to store my Switch cartridges?
 
  There's no "best" way to store Switch cartridges, though many folks love the compact and portable nature of Switch cartridge cases. Using their original cases is also a good option, though they take up much more space.
@@ -242,3 +277,53 @@ Best 80-Slot Cartridge Holder
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-clear-path-for-your-instagram-videos-now/"><u>[New] 2024 Approved  Clear Path for Your Instagram Videos Now</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-best-green-screen-recorders-how-to-use-them-for-2024/"><u>[New] Best Green Screen Recorders  How to Use Them for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-tips-for-efficiently-editing-videos-for-social-media-engagement/"><u>[New] Tips for Efficiently Editing Videos for Social Media Engagement</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-capturing-facetime-best-practices-unveiled/"><u>[Updated] Capturing FaceTime  Best Practices Unveiled</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transform-still-photos-using-illustration-for-dynamic-effects/"><u>[Updated] Transform Still Photos  Using Illustration for Dynamic Effects</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-from-screen-to-stage-best-anime-inspired-tiktok-plays/"><u>2024 Approved  From Screen to Stage  Best Anime-Inspired TikTok Plays</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-launch-free-portable-dvd-software-today/"><u>2024 Approved  Launch Free, Portable DVD Software Today</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-realme-gt-5-pro-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/are-higher-rankings-truly-a-benchmark-for-success-on-steam/"><u>Are Higher Rankings Truly a Benchmark for Success on Steam?</u></a></li>
+<li><a href="https://games-able.techidaily.com/audio-devices-the-game-changer-for-gamers/"><u>Audio Devices: The Game-Changer for Gamers?</u></a></li>
+<li><a href="https://games-able.techidaily.com/before-the-buy-sign-consider-these-6-important-points/"><u>Before the BUY Sign, Consider These 6 Important Points</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/boost-video-appeal-with-these-20-best-thumbnail-fonts/"><u>Boost Video Appeal with These 20 Best Thumbnail Fonts</u></a></li>
+<li><a href="https://games-able.techidaily.com/budgetgamingedge-sleek-led-screen-27m2v/"><u>BudgetGamingEdge - Sleek LED Screen 27M2V</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-you-use-a-ps5-controller-on-a-ps4/"><u>Can You Use a PS5 Controller on a PS4?</u></a></li>
+<li><a href="https://games-able.techidaily.com/canceling-out-your-costly-fortnite-purchase-and-claiming-back/"><u>Canceling Out Your Costly Fortnite Purchase and Claiming Back</u></a></li>
+<li><a href="https://games-able.techidaily.com/chatgpt-mastery-for-roleplay-six-effective-techniques-unveiled/"><u>ChatGPT Mastery for Roleplay: Six Effective Techniques Unveiled</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/decoding-and-fixing-windows-blue-screen-errors/"><u>Decoding and Fixing Windows Blue Screen Errors</u></a></li>
+<li><a href="https://games-able.techidaily.com/designing-a-dynamic-gaming-space-with-personalized-xbox-game-bar-configurations/"><u>Designing a Dynamic Gaming Space with Personalized Xbox Game Bar Configurations</u></a></li>
+<li><a href="https://games-able.techidaily.com/effortlessly-enter-epic-environments-eliminate-lock-ups/"><u>Effortlessly Enter Epic Environments: Eliminate Lock-Ups</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-steam-deck-performance-installing-gaming-launchers/"><u>Enhance Steam Deck Performance: Installing Gaming Launchers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-11x-5g-bootloader-easily-by-drfone-android/"><u>How to Unlock Realme 11X 5G Bootloader Easily</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-x-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone X Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-11-best-pokemon-go-spoofers-for-gps-spoofing-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, 11 Best Pokemon Go Spoofers for GPS Spoofing on Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-native-chrome-os-screen-replay-app/"><u>In 2024, Native Chrome OS Screen Replay App</u></a></li>
+<li><a href="https://games-able.techidaily.com/innocn-39g1-r-your-budget-gaming-screen/"><u>InnoCN 39G1 R - Your Budget Gaming Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-game-display-playnite-in-tv-fullscreen-format/"><u>Mastering Game Display: Playnite in TV Fullscreen Format</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-your-steam-deck-potential-with-top-9-emulators/"><u>Maximizing Your Steam Deck Potential with Top 9 Emulators</u></a></li>
+<li><a href="https://games-able.techidaily.com/melody-maestros-top-audio-games-to-test-your-knowledge/"><u>Melody Maestros: Top Audio Games to Test Your Knowledge</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-nyt-power-network/"><u>Navigating the NYT Power Network</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-harmonize-your-hearings-top-software-to-extract-clean-soundscapes-from-original-recordings/"><u>New 2024 Approved Harmonize Your Hearings Top Software to Extract Clean Soundscapes From Original Recordings</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-consoles-vs-high-end-pcs-in-games/"><u>Next Gen Consoles Vs. High-End PCs in Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-gaming-alliances-explained/"><u>Next-Gen Gaming Alliances Explained</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-powerhouse-challenge-4070-super-against-titans-and-4080/"><u>Nvidia's Powerhouse Challenge: 4070 Super Against Titans & 4080</u></a></li>
+<li><a href="https://games-able.techidaily.com/pixel-warriors-opting-between-controller-and-stick/"><u>Pixel Warriors: Opting Between Controller and Stick</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-new-heights-boosting-youtube-viewership/"><u>Reach New Heights  Boosting YouTube Viewership</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-photos-during-transfer-from-iphone-11-pro-to-pc-or-mac-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Recover Lost Photos during Transfer from iPhone 11 Pro to PC or Mac | Stellar</u></a></li>
+<li><a href="https://games-able.techidaily.com/say-no-to-free-to-play-discover-the-benefits-of-premium-games/"><u>Say No to 'Free-to-Play': Discover the Benefits of Premium Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-bg3-on-macos-with-crossover-software/"><u>Step-by-Step BG3 on macOS with Crossover Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-social-media-interactions-twitch-banunban-guide/"><u>Streamlining Social Media Interactions: Twitch Ban/Unban Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-seekers-blueprint-unlocking-shiny-chances-84/"><u>The Seeker’s Blueprint: Unlocking Shiny Chances (84)</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-5-streaming-video-archive-extractors-for-twitch/"><u>Top 5 Streaming Video Archive Extractors for Twitch</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-choice-of-luminous-screen-shields/"><u>Ultimate Choice of Luminous Screen Shields</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-the-power-of-beyerdynamics-mmx-200/"><u>Unlocking the Power of Beyerdynamic's MMX 200</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-colors-top-11-grading-and-correction-techniques-for-2024/"><u>Unveiling Colors  Top 11 Grading & Correction Techniques for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/vehicle-vanguard-the-battle-between-physical-and-virtual-inputs/"><u>Vehicle Vanguard: The Battle Between Physical and Virtual Inputs</u></a></li>
+</ul></div>

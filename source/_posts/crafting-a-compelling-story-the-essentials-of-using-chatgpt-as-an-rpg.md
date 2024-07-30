@@ -1,7 +1,7 @@
 ---
 title: "Crafting a Compelling Story: The Essentials of Using ChatGPT as an RPG"
-date: 2024-07-12T03:06:31.932Z
-updated: 2024-07-13T03:06:31.932Z
+date: 2024-07-29T05:50:37.307Z
+updated: 2024-07-30T05:50:37.307Z
 tags:
   - games
 categories:
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975
 
  This article will show you how to use ChatGPT’s storytelling prowess to play a text adventure RPG game on the chat. We’ll work you through how to create a prompt to achieve the kind of RPG you want. In the end, we’ll put the finished prompt so you can copy it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ## Tell ChatGPT Its Function and the Presentation Rules
 
  While this guide is geared towards more experienced ChatGPT users, new users might find this useful when they learn [how to use ChatGPT](https://www.makeuseof.com/how-does-chatgpt-work/) . After you get the hang of the AI, you can begin to create your prompt.
@@ -44,6 +47,9 @@ thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975
 
  Number five is purely for visual presentation reasons. If you don’t add this, your game is going to use the default ChatGPT font and presentation instead of looking like the image below.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT displaying text adventure game output in code blocks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-displaying-text-adventure-game-output-in-code-blocks.jpeg)
 
  As you can see, this is more compact and easier to look at than the default look.
@@ -72,6 +78,9 @@ thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975
 
  Use a bit of discretion here for your own prompt. We preferred our own prompt to use D&D 5e rules for AC and d20 dice rolls to determine stats. However, you can change the rules to something more to your taste (perhaps, like Pathfinder’s AC system).
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT text-based RPG output showing ability scores and possible commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-text-based-rpg-output-showing-ability-scores-and-possible-commands.jpeg)
 
 > 3\. Start the game with 20/20 for ‘Health’, with 20 being the maximum health. Eating food, drinking water, or sleeping will restore health.
@@ -104,6 +113,9 @@ thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975
 
  These ‘gold’ rules help establish the spending mechanic and limit exploitation.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## Craft the Story, Setting, and NPCs
 
  How you craft your prompt on ChatGPT will determine what your experience will be like—and the next thing you should consider for your game’s prompt is the setting and story you would like. For instance, we used a world inspired by the Elder Scrolls as the basis of our world in this one.
@@ -152,6 +164,9 @@ thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975
 
  Combat rules can be especially tricky for the AI, so you might need to experiment with this a bit till you find something that sticks.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclude Your Prompt
 
  Your prompt conclusion should contain a few vital commands that will hold the game's structure.
@@ -167,6 +182,9 @@ And finally, don’t forget to actually start the game:
  As you play, you might have to remind the AI of the rules you’ve laid out. The AI will respond to the same prompt differently, so every user might have a different experience.
 
 ## Using GPT-4 vs. GPT-3.5 to Run Your Game
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![GPT-4 generating texts for a turn-based text RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-4-generating-texts-for-a-turn-based-text-rpg.jpeg)
 
  If you have ChatGPT Plus, it grants you access to GPT-4, a more intelligent version of GPT-3.5\. You should try running a few RPG sessions with GPT-4 instead of GPT3.5\. It's way more creative, better at crafting stories, remembering rules, and all-around better at improv. It costs $20/month, and it's a good tool for doing other things apart from text-based gaming.
@@ -296,3 +314,54 @@ And finally, don’t forget to actually start the game:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-smarter-gameplay-strategic-memory-allocation-to-minecraft/"><u>[Updated] 2024 Approved  Smarter Gameplay  Strategic Memory Allocation to Minecraft</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-crafting-cinema-scores-in-imovie/"><u>[Updated] Crafting Cinema Scores in iMovie</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-earn-big-on-youtube-shorts-tips-for-profitable-content-creation/"><u>[Updated] Earn Big on YouTube Shorts  Tips for Profitable Content Creation</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-recapturing-moments-the-xiaomi-mi-11s-superior-screen-record/"><u>[Updated] Recapturing Moments  The Xiaomi Mi 11'S Superior Screen Record</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ultra-screen-recorder-how-to-use/"><u>[Updated] Ultra Screen Recorder - How to Use</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unexpected-video-pitch-flipped-images-on-instagram/"><u>[Updated] Unexpected Video Pitch  Flipped Images on Instagram</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-essential-steps-in-making-impactful-fb-cover-videos/"><u>2024 Approved  Essential Steps in Making Impactful FB Cover Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-rundown-of-crucial-gaming-headset-qualities/"><u>A Rundown of Crucial Gaming Headset Qualities</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-unverified-game-files-in-steam/"><u>Addressing Unverified Game Files in Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/battle-for-betterment-assessing-game-pass-against-psplus-essential/"><u>Battle for Betterment: Assessing Game Pass Against PS+ Essential</u></a></li>
+<li><a href="https://games-able.techidaily.com/correcting-common-mistakes-in-purchasing-an-oled-monitor/"><u>Correcting Common Mistakes in Purchasing an OLED Monitor</u></a></li>
+<li><a href="https://games-able.techidaily.com/cracking-the-code-of-nyt-powerplay/"><u>Cracking the Code of NYT Powerplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/craft-a-new-brand-altering-username-and-tagline-at-riot-studios/"><u>Craft a New Brand: Altering Username & Tagline at Riot Studios</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-amds-rdna-35-tech-details-and-launch-estimates/"><u>Deciphering AMD’s RDNA 3.5: Tech Details and Launch Estimates</u></a></li>
+<li><a href="https://games-able.techidaily.com/eas-cost-increase-my-gaming-path-changed/"><u>EA's Cost Increase, My Gaming Path Changed</u></a></li>
+<li><a href="https://games-able.techidaily.com/effectively-using-a-controller-on-ryujinxs-emulators-for-ps4switch/"><u>Effectively Using a Controller on Ryujinx's Emulators for PS4/Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-game-with-top-10-pc-picks-google-play/"><u>Elevate Your Game with Top 10 PC Picks (Google Play)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevate-your-gaming-experience-with-a-new-character-voice-all-free/"><u>Elevate Your Gaming Experience with a New Character Voice – All Free</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-tips-for-mac-players-in-cs2/"><u>Essential Tips for Mac Players in CS2</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-depths-of-playnites-fs-mode-for-tvs/"><u>Exploring the Depths of Playnite's FS Mode for TVs</u></a></li>
+<li><a href="https://games-able.techidaily.com/five-innovative-text-riddles-for-group-fun-time/"><u>Five Innovative Text Riddles for Group Fun Time</u></a></li>
+<li><a href="https://games-able.techidaily.com/fix-your-iphoneandroid-recover-lost-wordles/"><u>Fix Your iPhone/Android: Recover Lost Wordles</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-joy-con-connection-issues-on-nintendo-switch/"><u>Fixing Joy-Con Connection Issues on Nintendo Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-different-realms-a-journey-to-epic-plus-steam-unity/"><u>From Different Realms: A Journey to Epic + Steam Unity</u></a></li>
+<li><a href="https://games-able.techidaily.com/gain-advantage-limited-edition-spider-man-2-preorder-guide/"><u>Gain Advantage: Limited-Edition Spider-Man 2 Preorder Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/guaranteeing-prompt-delivery-on-steam/"><u>Guaranteeing Prompt Delivery on Steam</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-7-plus-3-ways-to-unlock-by-drfone-ios/"><u>How To Unlock iPhone 7 Plus 3 Ways To Unlock</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-flawless-endgame-in-vr-worlds/"><u>In 2024, Flawless Endgame in VR Worlds</u></a></li>
+<li><a href="https://games-able.techidaily.com/managing-virtual-space-on-steam-for-games-access/"><u>Managing Virtual Space on Steam for Games Access</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-windows-media-player-for-cd-extraction-and-recordings/"><u>Mastering Windows Media Player for CD Extraction and Recordings</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-your-consoles-capabilities-with-ease/"><u>Maximize Your Console's Capabilities With Ease</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-breakthrough-in-mobile-gaming-with-latest-app/"><u>Nvidia’s Breakthrough in Mobile Gaming with Latest App</u></a></li>
+<li><a href="https://games-able.techidaily.com/principles-for-creating-effective-directional-symbols-that-are-universally-understood/"><u>Principles for Creating Effective Directional Symbols that Are Universally Understood;</u></a></li>
+<li><a href="https://games-able.techidaily.com/series-xs-stuck-gaming-nightm-cooked-manual-eject-remedy/"><u>Series X's Stuck Gaming Nightm Cooked! Manual Eject Remedy</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-correct-win-oculus-connectivity-problems/"><u>Steps to Correct Win-Oculus Connectivity Problems</u></a></li>
+<li><a href="https://games-able.techidaily.com/struggle-your-way-through-frustrating-fiddly-games/"><u>Struggle Your Way Through Frustrating Fiddly Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-mouse-pads-for-gamers/"><u>The Best Mouse Pads for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-synergy-of-skill-and-equipment-ultimate-gameplay/"><u>The Synergy of Skill and Equipment: Ultimate Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/tips-for-writing-standout-game-reviews-on-steam/"><u>Tips for Writing Standout Game Reviews on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-picks-for-mobile-mmo-enthusiasts-unveiled/"><u>Top Picks for Mobile MMO Enthusiasts Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-game-room-with-expert-3d-lighting-choices/"><u>Transform Your Game Room with Expert 3D Lighting Choices</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-oppo-reno-11-pro-5g-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Oppo Reno 11 Pro 5G</u></a></li>
+<li><a href="https://games-able.techidaily.com/vintage-videogame-files-on-your-windows-photo-folder/"><u>Vintage Video/Game Files on Your Windows Photo Folder</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-you-may-be-seen-as-idle-on-discord-what-does-it-mean/"><u>Why You May Be Seen As Idle on Discord - What Does It Mean?</u></a></li>
+<li><a href="https://games-able.techidaily.com/will-radeon-and-nvidia-costs-escalate-soon/"><u>Will Radeon and Nvidia Costs Escalate Soon?</u></a></li>
+<li><a href="https://games-able.techidaily.com/win-at-csgo-increase-fps-quickly/"><u>Win at CS:GO: Increase FPS Quickly</u></a></li>
+</ul></div>
