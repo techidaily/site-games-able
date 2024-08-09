@@ -1,7 +1,7 @@
 ---
 title: Best DDR5 Memory Picks for Gamers - '24
-date: 2024-07-12T04:35:18.171Z
-updated: 2024-07-13T04:35:18.171Z
+date: 2024-08-08T09:06:43.709Z
+updated: 2024-08-09T09:06:43.709Z
 tags:
   - games
 categories:
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/3b3b313aac4422406d268b9ec86a52f71522ac5df
  DDR5 modules are now more affordable than ever, making it the right time to upgrade to the newer DDR5 memory and enjoy even better performance than the [fastest DDR4 RAM](https://www.makeuseof.com/tag/best-ddr4-ram/) . We've rounded up the best DDR5 motherboards to take the new chips for a spin.
 
 * [](https://www.amazon.com/ASUS-ROG-Z790-Motherboard-ThunderboltTM/dp/B0BG6M53DG?linkCode=ll1&tag=makeusw-20&linkId=ab2f408f2d7ce1b52f92e6bb5e42ae07&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU2018693&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-ddr5-motherboards%2F&asc%5Fcampaign=Commerce)  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![ASUS ROG Maximus Z790 Hero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/asus-rog-maximus-z790-hero.png)  
 
 ##### ASUS ROG Maximus Z790 Hero  
@@ -41,6 +44,9 @@ Best for Gaming
 [$635 at Amazon](https://www.amazon.com/ASUS-ROG-X670E-Motherboard-Front-Panel/dp/B0BDTN8SNJ?tag=makeusw-20&ascsubtag=UUmuoUeUpU2018693&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-ddr5-motherboards%2F&asc%5Fcampaign=Commerce)
 
 * [](https://www.amazon.com/MSI-Z790I-Motherboard-Supports-Processors/dp/B0BHCJ6KQ2?tag=makeusw-20&ascsubtag=UUmuoUeUpU2018693&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-ddr5-motherboards%2F&asc%5Fcampaign=Commerce)  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![MSI MPG Z790I Edge WiFi](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/msi-mpg-z790i-edge-wifi.png)  
 
 ##### MSI MPG Z790I Edge Wi-Fi  
@@ -49,6 +55,9 @@ Best for Compact Builds
 [$187 at Amazon](https://www.amazon.com/MSI-Z790I-Motherboard-Supports-Processors/dp/B0BHCJ6KQ2?tag=makeusw-20&ascsubtag=UUmuoUeUpU2018693&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-ddr5-motherboards%2F&asc%5Fcampaign=Commerce)
 
 * [](https://www.amazon.com/GIGABYTE-B650M-Micro-ATX-Warranty-Motherboard/dp/B0BH6XND27?tag=makeusw-20&ascsubtag=UUmuoUeUpU2018693&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-ddr5-motherboards%2F&asc%5Fcampaign=Commerce)  
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![GIGABYTE B650M AORUS Elite AX](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/gigabyte-b650m-aorus-elite-ax.png)  
 
 ##### GIGABYTE B650M AORUS Elite AX  
@@ -56,6 +65,9 @@ Best for Compact Builds
 Best Micro-ATX  
 [$180 at Amazon](https://www.amazon.com/GIGABYTE-B650M-Micro-ATX-Warranty-Motherboard/dp/B0BH6XND27?tag=makeusw-20&ascsubtag=UUmuoUeUpU2018693&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-ddr5-motherboards%2F&asc%5Fcampaign=Commerce)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Best DDR5 Motherboard Overall: ASUS ROG Maximus Z790 Hero
 
 ![The ASUS ROG Maximus Z790 Hero motherboard on a blue background.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/asus-rog-maximus-z790-hero.jpg)
@@ -93,6 +105,9 @@ Best Overall
 
 ## Best Budget DDR5 Motherboard: MSI B760 Gaming Plus Wi-Fi
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![The MSI B760 Gaming Plus Wi-Fi motherboard on a green background.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/msi-b760-gaming-plus-wi-fi.jpg)
 
 _MSI_
@@ -126,6 +141,9 @@ Best Budget
 
 ## Best DDR5 Motherboard for Gaming: ASUS ROG Crosshair X670E Hero
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The ASUS ROG Crosshair X670E Hero motherboard on a red background.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/asus-rog-crosshair-x670e-hero.jpg)
 
 _ASUS_
@@ -157,8 +175,14 @@ Best for Gaming
 
 [$635 at Amazon](https://www.amazon.com/ASUS-ROG-X670E-Motherboard-Front-Panel/dp/B0BDTN8SNJ?tag=makeusw-20&ascsubtag=UUmuoUeUpU2018693&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-ddr5-motherboards%2F&asc%5Fcampaign=Commerce) [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-rog-crosshair-x670e-hero-usb-c-gen2-amd-motherboard-with-led-lighting%2F6523724.p%3FskuId%3D6523724) [See at Newegg](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.newegg.com%2Fasus-rog-crosshair-x670e-hero%2Fp%2FN82E16813119582)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## Best Mini-ITX DDR5 Motherboard: MSI MPG Z790I Edge Wi-Fi
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![The MSI MPG Z790I Edge WiFi motherboard on a gray background.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/msi-mpg-z790i-edge-wifi.jpg)
 
 _MSI_
@@ -167,6 +191,9 @@ _MSI_
 
  If you're leaning towards AMD for your compact build, the [ASUS ROG STRIX X670E-I](https://www.amazon.com/ASUS-STRIX-X670E-I-GAMING-WIFI/dp/B0BDTVCJF8?tag=makeusw-20&ascsubtag=UUmuoUeUpU2018693&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-ddr5-motherboards%2F&asc%5Fcampaign=Commerce) is an excellent alternative, but it costs more than the MPG Z790I Edge Wi-Fi while offering the same 105A VRMs and many of the same features. From a budget perspective, the MPG Z790I Edge Wi-Fi is a much better value than other AMD and Intel mini-ITX offerings. Pairing it with a [powerful AIO cooler](https://www.makeuseof.com/best-aio-coolers/) can reduce overheating issues when running demanding workloads.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![MSI MPG Z790I Edge WiFi](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/msi-mpg-z790i-edge-wifi.png)
 
 ##### MSI MPG Z790I Edge Wi-Fi
@@ -190,6 +217,9 @@ Best for Compact Builds
 
 [$187 at Amazon](https://www.amazon.com/MSI-Z790I-Motherboard-Supports-Processors/dp/B0BHCJ6KQ2?tag=makeusw-20&ascsubtag=UUmuoUeUpU2018693&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-ddr5-motherboards%2F&asc%5Fcampaign=Commerce) [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmsi-mpg-z790i-edge-wifi-ddr5-socket-1700-usb-3-2-intel-motherboard%2F6543600.p) [See at Newegg](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.newegg.com%2Fp%2FN82E16813144566%3FItem%3DN82E16813144566%26SoldByNewegg%3D1)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best Micro-ATX DDR5 Motherboard: GIGABYTE B650M AORUS Elite AX
 
 ![The GIGABYTE B650M AORUS Elite AX motherboard on a purple background.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/gigabyte-b650m-aorus-elite-ax.jpg)
@@ -223,6 +253,9 @@ Best Micro-ATX
 
 [$180 at Amazon](https://www.amazon.com/GIGABYTE-B650M-Micro-ATX-Warranty-Motherboard/dp/B0BH6XND27?tag=makeusw-20&ascsubtag=UUmuoUeUpU2018693&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-ddr5-motherboards%2F&asc%5Fcampaign=Commerce) [See at Newegg](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.newegg.com%2Fgigabyte-b650m-aorus-elite-ax%2Fp%2FN82E16813145413) [See at B&H](https://www.bhphotovideo.com/c/product/1736694-REG/gigabyte%5Fb650m%5Faorus%5Felite%5Fax.html/BI/21349/KBID/23476/SID/UUmuoUeUpU2018693)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ## FAQ
 
 ### Q: How much faster is DDR5 RAM over DDR4 RAM?
@@ -253,3 +286,48 @@ Best Micro-ATX
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-cutting-edge-techniques-mastering-youtube-subtitlecc-additions/"><u>[New] 2024 Approved  Cutting-Edge Techniques  Mastering YouTube Subtitle/CC Additions</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-digital-dialogue-mastery-connecting-with-viewers-flawlessly/"><u>[New] In 2024, Digital Dialogue Mastery  Connecting with Viewers Flawlessly</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-master-your-screen-time-top-10-in-depth-guide-to-excellent-offline-ios-gaming/"><u>[New] In 2024, Master Your Screen Time - Top 10 In-Depth Guide to Excellent Offline iOS Gaming</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-chromeos-direct-screens-capture-tool-for-2024/"><u>[Updated] ChromeOS Direct Screens Capture Tool for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-the-essential-guide-to-twitter-video-posting/"><u>[Updated] In 2024, The Essential Guide to Twitter Video Posting</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-quick-and-easy-techniques-for-facebook-image-puzzling/"><u>2024 Approved  Quick and Easy Techniques for Facebook Image Puzzling</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-the-star-grade-system-a-reality-check-on-reviews/"><u>Beyond the Star-Grade System: A Reality Check on Reviews</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-the-surface-how-tech-boosts-games/"><u>Beyond the Surface: How Tech Boosts Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/block-party-plan-engaging-friends-in-innovative-minecraft-gameplay/"><u>Block Party Plan: Engaging Friends in Innovative Minecraft Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/bond-with-xbox-one-master-controller-syncing/"><u>Bond with Xbox One: Master Controller Syncing</u></a></li>
+<li><a href="https://games-able.techidaily.com/boost-your-gameplay-analyzing-fps-metrics-on-android-games/"><u>Boost Your Gameplay: Analyzing FPS Metrics on Android Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/breaking-down-the-concept-of-dual-mode-monitors/"><u>Breaking Down the Concept of Dual-Mode Monitors</u></a></li>
+<li><a href="https://games-able.techidaily.com/breathing-life-back-into-your-gameplay/"><u>Breathing Life Back Into Your Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/bring-back-sound-to-xbox-one-unplug-headset-fixes/"><u>Bring Back Sound to Xbox One - Unplug Headset Fixes</u></a></li>
+<li><a href="https://games-able.techidaily.com/bring-playstation-classics-to-modern-homes-the-ultimate-guide-to-30-pc-emulators/"><u>Bring PlayStation Classics to Modern Homes: The Ultimate Guide to 30 PC Emulators</u></a></li>
+<li><a href="https://games-able.techidaily.com/broadcasters-ultimate-selection-best-6-games/"><u>Broadcaster's Ultimate Selection: Best 6 Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/budget-friendly-whitescape-tech-enthusiasts/"><u>Budget-Friendly Whitescape Tech Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/building-a-perfect-pc-ensuring-components-play-well-together/"><u>Building a Perfect PC: Ensuring Components Play Well Together</u></a></li>
+<li><a href="https://games-able.techidaily.com/bypass-locked-steam-nine-effective-strategies-explored/"><u>Bypass Locked Steam: Nine Effective Strategies Explored</u></a></li>
+<li><a href="https://games-able.techidaily.com/calculating-graphics-card-memory-space/"><u>Calculating Graphics Card Memory Space</u></a></li>
+<li><a href="https://games-able.techidaily.com/capture-and-replay-gpus-unleashed-in-games/"><u>Capture and Replay: GPUs Unleashed in Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/celestial-creator-probing-forward-thinking-pcs/"><u>Celestial Creator: Probing Forward-Thinking PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/chill-zone-essential-accessories-to-prevent-overheating/"><u>Chill Zone! Essential Accessories to Prevent Overheating</u></a></li>
+<li><a href="https://games-able.techidaily.com/chip-challenge-intel-vs-amd-for-gamers-delight/"><u>Chip Challenge: Intel Vs. AMD for Gamers' Delight?</u></a></li>
+<li><a href="https://games-able.techidaily.com/classic-gaming-in-your-pics-folder-steps-guide/"><u>Classic Gaming in Your Pics Folder: Steps Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/code-triumph-3-ways-for-epic-xbox-redemption/"><u>Code Triumph: 3 Ways for Epic Xbox Redemption</u></a></li>
+<li><a href="https://games-able.techidaily.com/coding-chaos-into-order-procedural-world-formation/"><u>Coding Chaos Into Order: Procedural World Formation</u></a></li>
+<li><a href="https://games-able.techidaily.com/combat-commanders-which-controls-win-fights/"><u>Combat Commanders: Which Controls Win Fights?</u></a></li>
+<li><a href="https://games-able.techidaily.com/command-line-game-boy-a-beginners-handbook/"><u>Command Line Game Boy: A Beginner's Handbook</u></a></li>
+<li><a href="https://games-able.techidaily.com/commanding-the-future-with-top-switch-controllers/"><u>Commanding the Future with Top Switch Controllers</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/discover-mondlys-innovative-phrase-compendium/"><u>Discover Mondly's Innovative Phrase Compendium</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-samsung-galaxy-a05-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Samsung Galaxy A05 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-from-iphone-6-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out From iPhone 6 How to Bypass?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-celebrating-matrimony-the-best-wedding-movies-from-youtube-to-vimeo/"><u>In 2024, Celebrating Matrimony  The Best Wedding Movies From YouTube to Vimeo</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-masterful-outros-and-descriptions-a-guide-to-excellence/"><u>In 2024, Masterful Outros and Descriptions  A Guide to Excellence</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722875047394-iphone-or-android-a-comprehensive-guide-to-selecting-your-next-smartphone/"><u>IPhone or Android? A Comprehensive Guide to Selecting Your Next Smartphone.</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/optimizing-video-capture-with-mov-on-windows-10/"><u>Optimizing Video Capture with MOV on Windows 10</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-oppo-reno-11f-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Oppo Reno 11F 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-at-windowed-games-a-list-of-best-fps-trackers-on-pc/"><u>Winning at Windowed Games: A List of Best FPS Trackers on PC</u></a></li>
+</ul></div>

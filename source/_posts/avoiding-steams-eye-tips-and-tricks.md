@@ -1,7 +1,7 @@
 ---
 title: "Avoiding Steam's Eye: Tips and Tricks"
-date: 2024-07-12T04:34:52.552Z
-updated: 2024-07-13T04:34:52.552Z
+date: 2024-08-08T09:07:05.355Z
+updated: 2024-08-09T09:07:05.355Z
 tags:
   - games
 categories:
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 
  In this article, we’ll take a look at how you can stop your friends from checking your gameplay activity, how you can hide games from your library, or how to make your profile private. And if you don't want your friends to see that you've been up all night playing, there's an easy trick to replace your recent activity.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## 1\. Hide Played Steam Games
 
  When someone visits your profile, they can see which games you’ve played and for how many hours. Now, if you don’t want your gamer friends to discover your guilty pleasures, you can hide your played games from your profile.
@@ -36,14 +39,24 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 
  Or you’re just embarrassed about playing a game, and you don’t want family or friends to discover it. To hide any game, launch the Steam app and head to your library. There, select the game you want to hide, click the**Settings** icon and select**Manage > Hide this game** .
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Hide Steam game from library](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-steam-game-1.jpg)
 
  If you want to play the game that you’ve hidden, go to**View > Hidden games** . To bring back the game to your library, access its settings and click**Manage > Remove from hidden** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![Unhide Steam game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/unhide-game-steam-1.jpg)
 
  Hiding a game is an easy trick, but it might not be enough to prevent other people from finding it. In this case, you can [uninstall a Steam game and reinstall it later](https://www.makeuseof.com/how-to-uninstall-steam-games-reinstall/) .
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ## 3\. Hide Steam Gameplay Activity
 
  Every time you start playing one of your games, Steam will send a notification to all of your Steam friends, if they are online. When you want to enjoy a gaming session with your friends, it can be really useful. But if you’re feeling like playing solo, you should turn off Steam notifications.
@@ -52,6 +65,9 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 
  After you select one of the options, you can play any game within your library without your friends knowing. However, they will be able to see any game achievements or activity if they visit your profile.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Set status to Invisible on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/steam-invisible-1.jpg)
 
  The**Offline** option will log you out of the Steam chat, so you’ll not receive any messages from your friends. On the other hand, if you still want to communicate with your friends, it’s better to select**Invisible** . Also, you will not receive any invitations on Steam while you’ve set your status as**Offline** or**Invisible** .
@@ -64,6 +80,9 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 
  Launch the Steam app and click**Friends & Chat** from the bottom-right corner. Click your friend's name and select**Manage > Block All Communication** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![Block friends on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/steam-friends-1.jpg)
 
  Once you block all communication, your friends will see you as offline. Also, if they visit your profile, Steam will show your profile as a private one.
@@ -83,6 +102,9 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 3. Play one of the episodes.
 4. Once Steam opens a new window, close it as quickly as possible. This way, Steam doesn’t have a chance to load the content.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Watch Steam's free watchables](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/steam-free-watchable-1.jpg)
 
  Go through the above steps two or three more times, but play different episodes. Steam will try to replace your recent activities, but because it couldn’t properly play the episodes, it will simply remove the previous Recent Activity version.
@@ -123,3 +145,43 @@ Follow these steps to set your profile to Private:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-innovative-frameworks-for-efficient-iptv-recording/"><u>[New] Innovative Frameworks for Efficient IPTV Recording</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-unhacked-url-retrieving-lost-facebook-links/"><u>[New] Unhacked URL  Retrieving Lost Facebook Links</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-flight-to-perfection-assessing-gopro-karmas-capabilities/"><u>[Updated] Flight to Perfection  Assessing GoPro Karma's Capabilities</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-template-to-trendsetter-gamer-channel-banners-guide-for-2024/"><u>[Updated] From Template to Trendsetter  Gamer Channel Banners Guide for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-elevate-your-editing-with-blend-mode-innovations/"><u>[Updated] In 2024, Elevate Your Editing with Blend Mode Innovations</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-transform-videos-to-tweets-best-converters-revealed/"><u>[Updated] Transform Videos to Tweets  Best Converters Revealed</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mp3-upload-process-stream-convert-and-share-on-youtube-quickly/"><u>2024 Approved  MP3 Upload Process  Stream, Convert & Share on YouTube Quickly</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-xiaomi-14-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Xiaomi 14 Pro without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/big-business-or-small-opportunity-the-aaa-publishers-paradox-discussion-forum/"><u>Big Business or Small Opportunity: The AAA Publisher's Paradox? [Discussion Forum]</u></a></li>
+<li><a href="https://games-able.techidaily.com/bigger-frames-better-experiences-in-gaming/"><u>Bigger Frames, Better Experiences in Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/blue-tooth-harmonies-ps5-and-headphones/"><u>Blue-Tooth Harmonies: PS5 & Headphones</u></a></li>
+<li><a href="https://games-able.techidaily.com/boost-mobile-gameplay-speed-master-android-fps-calculation-techniques/"><u>Boost Mobile Gameplay Speed: Master Android FPS Calculation Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/boost-your-gamerscore-with-steams-achievement-toolkit/"><u>Boost Your Gamerscore with Steam's Achievement Toolkit</u></a></li>
+<li><a href="https://games-able.techidaily.com/breaking-down-meta-significance-and-enforced-rules-in-gaming/"><u>Breaking Down Meta: Significance and Enforced Rules in Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridging-devices-integrating-controllers-with-your-phonetablet/"><u>Bridging Devices: Integrating Controllers with Your Phone/Tablet</u></a></li>
+<li><a href="https://games-able.techidaily.com/brighten-up-tech-woes-update-to-newest-nvidia-drivers/"><u>Brighten Up Tech Woes: Update to Newest Nvidia Drivers!</u></a></li>
+<li><a href="https://games-able.techidaily.com/bypass-the-cables-update-dualsense-without-hands-on-intervention/"><u>Bypass the Cables: Update DualSense Without Hands-On Intervention</u></a></li>
+<li><a href="https://games-able.techidaily.com/bypassing-os-limitations-android-on-linux/"><u>Bypassing OS Limitations: Android on Linux</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-amds-fsr-3-surpass-the-prowess-of-dlss-35/"><u>Can AMD's FSR 3 Surpass the Prowess of DLSS 3.5?</u></a></li>
+<li><a href="https://games-able.techidaily.com/capture-the-moment-automatic-game-snippet-creation/"><u>Capture the Moment: Automatic Game Snippet Creation</u></a></li>
+<li><a href="https://games-able.techidaily.com/challenges-associated-with-updating-outdated-or-incorrect-maps/"><u>Challenges Associated with Updating Outdated or Incorrect Maps;</u></a></li>
+<li><a href="https://games-able.techidaily.com/champion-comforts-best-chairs-for-tall-players/"><u>Champion Comforts: Best Chairs for Tall Players</u></a></li>
+<li><a href="https://games-able.techidaily.com/choosing-the-premium-service-psplus-vs-xbgplus/"><u>Choosing the Premium Service: PS+ Vs. XBG+</u></a></li>
+<li><a href="https://games-able.techidaily.com/classic-dual-shock-emulators-on-steam/"><u>Classic Dual Shock Emulators on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/colorful-comeback-tecnos-updated-smartphones-at-fair/"><u>Colorful Comeback: Tecno’s Updated Smartphones at Fair</u></a></li>
+<li><a href="https://games-able.techidaily.com/command-the-century-ranking-the-11-finest-ww2-games/"><u>Command the Century: Ranking the 11 Finest WW2 Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/compare-and-contrast-founder-original-and-aib-graphics-cards/"><u>Compare and Contrast: Founder Original & AIB Graphics Cards</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-behind-closed-doors-of-youtube-a-discovery-manual/"><u>In 2024, Behind Closed Doors of YouTube  A Discovery Manual</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-approaches-to-capture-and-share-compelling-customer-experiences/"><u>In 2024, Best Approaches to Capture and Share Compelling Customer Experiences</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transforming-videos-with-unprecedented-clarity-using-vce-22/"><u>In 2024, Transforming Videos with Unprecedented Clarity Using VCE 2.2</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-ultimate-guide-7-preferred-android-ad-blocking-tools/"><u>In 2024, Ultimate Guide  7 Preferred Android Ad Blocking Tools</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stabilize-your-gaming-experience-expert-tips-for-resolving-state-of-decay-2-glitches/"><u>Stabilize Your Gaming Experience: Expert Tips for Resolving State of Decay 2 Glitches</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-top-5-ai-voice-generators-online-supports-all-browsers/"><u>Updated 2024 Approved Top 5 AI Voice Generators Online (Supports All Browsers)</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-determining-the-tactile-auditory-feedback-on-button-interaction/"><u>Updated In 2024, Determining the Tactile-Auditory Feedback on Button Interaction</u></a></li>
+</ul></div>

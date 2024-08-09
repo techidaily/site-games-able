@@ -1,0 +1,246 @@
+---
+title: Red Dead Online Stability Issues? Here's What You Need to Know
+date: 2024-08-08T09:14:17.763Z
+updated: 2024-08-09T09:14:17.763Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: This Article Describes Red Dead Online Stability Issues? Here's What You Need to Know
+excerpt: This Article Describes Red Dead Online Stability Issues? Here's What You Need to Know
+thumbnail: https://thmb.techidaily.com/4b0cf62f8598176374094f1d5008db55cda943f9c34511f05e37067a05b873ab.jpg
+---
+
+## Red Dead Online Stability Issues? Here's What You Need to Know
+
+Rock Star has finally launched[Red Dead Online](https://www.rockstargames.com/reddeadonline) as a standalone game. While enjoying the multiplayer-only mode for the game, you may be experiencing some annoying game crashes, such as Red Dead Online crashes at launch or randomly, the game exited unexpectedly, etc.
+
+ In this article, you will find the most effective fixes and workarounds that have helped many other PC players.
+
+### Check your PC specs first
+
+ Before you try the following fixes, please make sure your PC specs meets the minimum requirements for Red Dead Online.
+
+| **OS**         | Windows 7 – Service Pack 1 (6.1.7601)              |
+| -------------- | -------------------------------------------------- |
+| **Processor**  | Intel® Core™ i5-2500K / AMD FX-6300                |
+| **Graphics**   | Nvidia GeForce GTX 770 2GB / AMD Radeon R9 280 3GB |
+| **Network**    | Broadband Internet connection                      |
+| **Storage**    | 150 GB available space                             |
+| **Sound Card** | Direct X Compatible                                |
+
+**MINIMUM**
+
+| **OS**         | Windows 10 – April 2018 Update (v1803)              |
+| -------------- | --------------------------------------------------- |
+| **Processor**  | Intel® Core™ i7-4770K / AMD Ryzen 5 1500X           |
+| **Graphics**   | Nvidia GeForce GTX 1060 6GB / AMD Radeon RX 480 4GB |
+| **Network**    | Broadband Internet connection                       |
+| **Storage**    | 150 GB available space                              |
+| **Sound Card** | Direct X Compatible                                 |
+
+**RECOMMENDED**
+
+## Try these fixes
+
+ You don’t have to try them all; just work your way down the list until you find the one that works for you. The first three are some basic troubleshooting steps, you can skip these fixes if you’ve already tried them.
+
+1. **[Verify game integrity](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Disable third-party software](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Run Red Dead Online as admin](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Stop overclocking your GPU](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Install Graphic Tools](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### Fix 1: Verify game integrity
+
+ The first thing to do when Red Dead Online crashes (or any game crashes) is to verify the game integrity. Corrupt or incomplete game files can cause your game to crash. To see if this is the culprit, here’s how:
+
+1. Launch Steam.
+2. Go to**Library** .
+3. Locate Red Dead Online.
+4. Right-click the game and select**Properties** .
+5. Select the**Local files** tab and click the**Verify integrity of game files…** button.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-on-Steam-1.png)
+6. Steam will verify the game’s files – this process may take several minutes.
+
+If you’re on Rockstar game launcher, you can verify integrity by:
+
+* Navigate to**Settings**
+* Select Red Dead Online from the list under**My installed games** on the left
+* Select**Verify Integrity** under Verify game file integrity from the options on the right
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 2: Disable third-party software
+
+ Some third-party tools or software can interfere with your Red Dead Online, especially if you’re using tools like MSI Afterburner or RGB software, OBS, and Bandicam. Open Task Manager (**Esc** +**Shift** +**Esc** ) to close all these background apps or simply uninstall them.
+
+ In addition, another possible cause of Red Dead Online crashing is your**antivirus software** . Disabling some of these services won’t always work. You can temporarily uninstall the software or add Red Dead Online to its exclusions.
+
+### Fix 3: Run Red Dead Online as admin
+
+ Red Dead Online crashing can be caused by a lack of admin rights. So it’s recommended to run Red Dead Online as administrator.
+
+1. Right-click the game’s executable file and select**Properties** .
+2. Click the **Compatibility** tab, tick both **Run this Program as an Administrator** and **Disable Fullscreen Optimizations** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/drivereasy-run-as-admin.jpg)
+3. Click**Apply** \>**OK** and now you can run this game as administrator permanently.
+
+ Now launch Red Dead Online and see if the game crashes again. If running it as an administrator did not work, you can try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
+### Fix 4: Update your graphics driver
+
+ Graphics card manufacturers keep releasing new drivers to fix known bugs and add new features. Outdated or corrupt graphics drivers can cause your game to crash. For game players, it’s important to keep your graphics drivers (and sometimes sound card drivers) to make sure your game runs smoothly.
+
+There are two ways you can update your graphics driver:
+
+**[Option 1 – Manually](https://tools.techidaily.com/drivereasy/download/)**  – You’ll need some computer skills and patience to update your drivers this way because you need to find exactly the right driver online, download it and install it step by step.
+
+OR
+
+**[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/red-dead-online-crashing-fix-pc/#option2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks.
+
+#### Option 1 – Manually update your graphics card
+
+ To manually update your graphics driver, you can head to its official website:
+
+* [NVIDIA](https://tools.techidaily.com/drivereasy/download/)
+* [AMD](https://www.amd.com/en/support)
+
+ Note that you should download the driver for your operating system, and install it manually.
+
+#### Option 2 –**Automatically update your drivers** (recommended)
+
+ If you prefer to do it in a much easier way and update your graphics driver as soon as there’s an update, you can do it with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  it takes just 2 clicks:
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
+3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+ Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All.)  
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-driver-now.jpg)
+4. Restart your computer for the changes to take effect.
+
+**The Pro version of Driver Easy** comes with full technical support.  
+ If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+### Fix 5: Stop overclocking your GPU
+
+ If your Red Dead Online is still crashing, the reason might be your GPU. If you’re overclocking your GPU, you can revert it back to its default GPU clock.
+
+ But if you don’t feel like messing with the GPU clock, you can lock the game’s max FPS instead.
+
+1. Right-click the desktop and select**NVIDIA Control Panel** .
+2. Go to**Manage 3D Settings** on the left pane. Then select**Program Settings** \> select**Red Dead Online** /**Red Dead Redemption 2** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+![program settings](https://images.drivereasy.com/wp-content/uploads/2021/01/manage-3d-settings.png)
+3. Turn on**Max FPS Limit** and set the value to**30** . This will lock the game to 30 FPS and will reduce CPU and GPU load.
+
+### Fix 6: Install Graphics Tools
+
+ Some players find adding a Graphics Tool helped fix their Red Dead Online crashing issue. So if these methods above didn’t do the trick, you may want to have a try:
+
+1. In the Windows Search bar, start typing **feature** , and select **Manage** **optional features** .
+2. Click **Add a feature** .  
+![add graphics tools](https://images.drivereasy.com/wp-content/uploads/2021/01/add-a-feature-1.jpg)
+3. Choose **Graphics Tools** from the results list.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/add-a-graphics-tool.jpg)
+4. Launch your game again to see if you can get rid of game crashes now.
+5. If not, you can go to**Graphics Settings** \>**Advanced Graphics** , and make sure**Graphics API** is set to**DirectX 12** .  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
+![change Vulkan to DX12](https://images.drivereasy.com/wp-content/uploads/2021/01/DX12.png)
+6. If changing it to DX12 didn’t help, you can try reverting it back to Vulkan.
+
+---
+
+ Did the fixes above solve your**Red Dead Online crashing** issue? Feel free to drop us a line if you have any suggestions or questions. We’ll see what we can do to help.
+
+ If none of these methods worked, you can try[performing a clean boot](https://support.microsoft.com/en-us/help/929135/how-to-perform-a-clean-boot-in-windows) , or contact[Rockstar game support](https://support.rockstargames.com/) .
+
+* [game crash](https://tools.techidaily.com/drivereasy/download/)
+* [Red Dead Redemption 2](https://tools.techidaily.com/drivereasy/download/)
+* [Windows 10](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-finding-peace-in-patience-slowing-down-your-online-video-experience-on-youtube-60-chars-a-bit-long-but-full-of-helpful-info/"><u>[New] In 2024, Finding Peace in Patience  Slowing Down Your Online Video Experience on YouTube (60 Chars, a Bit Long but Full of Helpful Info)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-top-drone-innovations-for-mass-movement-for-2024/"><u>[New] Top Drone Innovations for Mass Movement for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-10-leading-video-conferencing-software-for-phonespcs/"><u>[Updated] 2024 Approved  10 Leading Video Conferencing Software for Phones/PCs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-filmoquery-your-guide-to-video-editing-insights/"><u>[Updated] In 2024, FilmoQuery  Your Guide to Video Editing Insights</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-from-unknown-to-recognized-boosting-facebook-profile-visibility/"><u>[Updated] In 2024, From Unknown to Recognized  Boosting Facebook Profile Visibility</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-streaming-supremacy-duo/"><u>[Updated] In 2024, Streaming Supremacy Duo</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastery-of-transferring-multitudes-of-tiktok-videos/"><u>[Updated] Mastery of Transferring Multitudes of TikTok Videos</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/100-safe-sources-for-legitimate-tiktok-growth/"><u>100%% Safe Sources for Legitimate TikTok Growth</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-premium-vectors-leading-sites-in-quality-stock/"><u>2024 Approved  Premium Vectors  Leading Sites in Quality Stock</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-definitive-guide-to-superior-hdr-photography-gear/"><u>2024 Approved  The Definitive Guide to Superior HDR Photography Gear</u></a></li>
+<li><a href="https://games-able.techidaily.com/4-premium-game-boy-advance-emulators-for-your-idevice/"><u>4 Premium Game Boy Advance Emulators for Your iDevice</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-reasons-why-gamers-should-buy-a-retro-handheld/"><u>5 Reasons Why Gamers Should Buy a Retro Handheld</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-buyers-guide-to-steam-decks/"><u>A Buyer's Guide to Steam Decks</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-comprehensive-guide-to-steam-screens/"><u>A Comprehensive Guide to Steam Screens</u></a></li>
+<li><a href="https://games-able.techidaily.com/adaptive-thermal-control-curve-for-high-end-gpus/"><u>Adaptive Thermal Control Curve for High-End GPUs</u></a></li>
+<li><a href="https://games-able.techidaily.com/adjusting-discords-game-overlay-on-pc/"><u>Adjusting Discord’s Game Overlay on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/adventure-awaits-in-augmented-reality/"><u>Adventure Awaits in Augmented Reality</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-chroma-gaming-keyboard-essentials/"><u>Affordable Chroma Gaming Keyboard Essentials</u></a></li>
+<li><a href="https://games-able.techidaily.com/amds-innovation-with-fsr-3-can-it-outperform-dlss-35/"><u>AMD's Innovation with FSR 3: Can It Outperform DLSS 3.5?</u></a></li>
+<li><a href="https://games-able.techidaily.com/android-vs-iphone-the-strategic-showdown-of-tetris-mastery/"><u>Android vs iPhone: The Strategic Showdown of Tetris Mastery</u></a></li>
+<li><a href="https://games-able.techidaily.com/are-mts-meriting-premium-game-credits/"><u>Are MTs Meriting Premium Game Credits?</u></a></li>
+<li><a href="https://games-able.techidaily.com/asus-rog-allys-elite-dock-selection-2024-highlights/"><u>ASUS ROG Ally's Elite Dock Selection - 2024 Highlights</u></a></li>
+<li><a href="https://games-able.techidaily.com/atlasos-your-old-machines-future/"><u>AtlasOS: Your Old Machine's Future</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoid-frustration-test-for-cpu-related-performance-issues-in-pcs/"><u>Avoid Frustration: Test for CPU-Related Performance Issues in PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/baldurs-gate-3-for-m1m2-using-crossover-on-mac/"><u>Baldur’s Gate 3 for M1/M2: Using Crossover on Mac</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/game-of-thrones-ringtones-15-best-websites-reviewed-and-ranked-for-2024/"><u>Game of Thrones Ringtones  15 Best Websites Reviewed and Ranked for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719163779461-how-different-cultures-have-developed-unique-approaches-to-map-design-and-symbolization/"><u>How Different Cultures Have Developed Unique Approaches to Map Design and Symbolization;</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-xr-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone XR To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Apple iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-understanding-the-spectrum-expert-color-calibration/"><u>In 2024, Understanding the Spectrum  Expert Color Calibration</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719169184228-my-gaming-adventure-with-an-advanced-oled-display/"><u>My Gaming Adventure with an Advanced OLED Display</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/post-publish-editing-elevating-your-youtube-content/"><u>Post-Publish Editing  Elevating Your YouTube Content</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/tackling-frame-loss-best-practices-for-obs-users/"><u>Tackling Frame Loss  Best Practices for OBS Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-walkthrough-for-activating-and-using-chatgpt-on-macos/"><u>Ultimate Walkthrough for Activating and Using ChatGPT on macOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172356979-unleash-gaming-with-chatgpt-experience-our-best-6/"><u>Unleash Gaming with ChatGPT - Experience Our Best 6</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unlock-latest-sound-tech-in-windows-via-driver-updates/"><u>Unlock Latest Sound Tech in Windows via Driver Updates</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719173835362-unlock-more-gaming-on-xbox-with-ultimate-plan/"><u>Unlock More Gaming on Xbox with Ultimate Plan!</u></a></li>
+</ul></div>

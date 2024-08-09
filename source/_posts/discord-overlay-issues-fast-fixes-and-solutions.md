@@ -1,0 +1,253 @@
+---
+title: Discord Overlay Issues? - Fast Fixes and Solutions!
+date: 2024-08-08T09:13:18.487Z
+updated: 2024-08-09T09:13:18.487Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: This Article Describes Discord Overlay Issues? - Fast Fixes and Solutions!
+excerpt: This Article Describes Discord Overlay Issues? - Fast Fixes and Solutions!
+thumbnail: https://thmb.techidaily.com/e3cfe2024e8223233dca02c9346a88bd3c9122571566316abe24ad6c80cbdaa7.jpeg
+---
+
+## Fix Your Discord Overlay Issue - Fast & Simple Solutions
+
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap1-300x146.jpg)
+
+ If your**Discord overlay** is not working while you’re playing games, you’re not alone! Many players are reporting this issue. But don’t worry! The good news is you can fix it easily using the fixes we listed below.
+
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## **Fixes to try:**
+
+ You don’t have to try them all; just work your way down the list until you find the one that works for you.
+
+1. **[Check if you enabled in-game overlay in Discord](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Run Discord as administrator](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Add Discord to the whitelist of your third-party antivirus application](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Check for software interruption](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Disable hardware acceleration in Discord](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Reinstall Discord](https://tools.techidaily.com/drivereasy/download/)**
+7. [**Bonus tip: How to fix Discord connection errors?**](https://tools.techidaily.com/drivereasy/download/)
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 1: Check if you enabled in-game overlay in Discord
+
+ Before trying other fixes, open**Discord** to check if you enabled in-game overlay. Here is how to do it:
+
+ 1) Click**the gear button** to open**User Settings** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-1.jpg)
+
+ 2) On the left panel, click**Game Overlay** . Make sure you turn on the toggle next to **Enable in-game overlay** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-enable-in-game-overlay-1-1200x714.jpg)
+
+ Run your game to see if your **Discord overlay** shows up. If not, try the next fix.
+
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 2: Run Discord as administrator
+
+ If you didn’t run**Discord** as administrator, you may encounter the**Discord overlay** not working issue. Try running your**Discord** as**administrator** to see if this problem persists. Here is how to do it:
+
+ 1) On your desktop,**right-click** the shortcut of **Discord** and then select **Properties** .
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7.jpg)
+
+ 2) In the pop-up window, navigate to the**Compatibility** tab. Check the box next to **Run this program as an administrator** and then click **OK** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap8.jpg)
+
+ 3) On your desktop, double-click the shortcut of**Discord** to open it.
+
+ 4) Run your game again.
+
+See if this issue reappears. If not, you have fixed this issue.
+
+### Fix 3: Add Discord to the whitelist of your third-party antivirus application
+
+ If you’re using a third-party antivirus application on your PC, you may encounter the**Discord overlay** not working issue. Your third-party antivirus application may interfere with**Discord** , so your **Discord overlay** may not run as expected. You can try   **adding your Discord to the whitelist of your third-party antivirus application** .
+
+ Please consult your antivirus documentation for instructions if you don’t know how to do it.
+
+### Fix 4: Check for software interruption
+
+ Maybe the**Discord overlay** not working issue is also triggered by the interruption from other applications running on your PC. Try**temporarily disabling them** to see if your**Discord overlay** works or not. If you’re running**the programs that have the overlay features** , or you’re running**the programs that can access your microphone** , they may interfere with your**Discord overlay** .
+
+**Programs like screen recorders**  are most likely to interfere with your **Discord overlay** .
+
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 5: Disable hardware acceleration in Discord
+
+ Hardware acceleration is a feature in**Discord** that uses your GPU to make**Discord** smoother. However, many users have reported that sometimes, this feature may cause the**Discord overlay** to not work.
+
+ If you turned on the hardware acceleration feature in**Discord** and the**Discord overlay** does not work issue occurs, try**disabling hardware acceleration in Discord** . Follow the instructions below to check whether you turned on the hardware acceleration feature or not:
+
+ 1) Open your**Discord** , Click **the gear button** to open **User Settings** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-2.jpg)
+
+ 2) On the left panel, click**Voice & Video**  and then **turn off** the toggle next to **Hardware Acceleration** if you turned it on.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-disable-hardware-acceleration-1200x714.jpg)
+
+ Run your game again to see if this issue persists. If not, you have resolved this problem!
+
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
+### Fix 6: Reinstall Discord
+
+ If you’ve tried all the fixes above but this issue persists, try**reinstalling Discord** . Here is how to do it:
+
+ 1) Uninstall**Discord** first:
+
+ i. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Type **control** and press **Enter** to open the Control Panel.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10.jpg)
+
+ ii. View the Control Panel by **Category** . Click **Uninstall a program** .  
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11.jpg)
+
+ iii.**Double-click** **Discord** to uninstall it.  
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-1.jpg)
+
+iv. Restart your PC.
+
+ 2) Download**Discord** from its **[official website](https://discordapp.com/)**  and then install it on your PC.
+
+ 3) Open**Discord** . Run your game and add it to your **Discord** .
+
+ 4)**Enable the in-game overlay feature** for your game. If you don’t know how to do it, refer to[](https://tools.techidaily.com/drivereasy/download/) **[Fix 1](https://tools.techidaily.com/drivereasy/download/)**  .
+
+See if this issue reappears. If not, you have fixed this issue!
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Bonus tip: How to fix Discord connection errors?
+
+ It’s very frustrating to run into the voice connection issue when playing the game. But don’t worry, most voice connection errors can be fixed by configuring a VPN connection.
+
+ Please note that **Discord only works on VPNs that have UDP (User Datagram Protocol)** . If you’re not sure which VPN service you should choose, here we recommend**NordVPN** to you.
+
+ NordVPN helps you set up a fast, stable, and secure Internet connection anywhere. And it helps you do this with just a few clicks or taps! What’s more, with one NordVPN account, you can set up a VPN connection on all devices. NordVPN allows you to connect up to 6 devices at the same time!
+
+#### To Set up a VPN connection on your Windows PC
+
+ 1) Before visiting the official website of NordVPN, **get a[NordVPN coupon code](https://tools.techidaily.com/drivereasy/download/) first!** Then head to[the official website of NordVPN](https://tools.techidaily.com/drivereasy/download/) . Follow the steps on its web page to**select your plan** and**create your NordVPN account** .
+
+ 2) On your Windows PC, visit **[the NordVPN download page](https://nordvpn.com/download/windows/)**  to download and install it.
+
+ 3) Launch NordVPN. Enter your NordVPN account and password, then click**Sign In** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/01/snap000383.png)
+
+ 4) Click**Quick connect** to automatically connect to the server recommended for you. If you want to connect to another VPN server in a specific country, just select the server you want to connect to on the left panel or click on the country pin on the map.
+
+![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
+
+ Normally, after configuring the VPN, the voice connection issues should be fixed.
+
+ Hopefully, one of the fixes above can help you resolve this issue. Please leave your comment below if you have any questions.
+
+* [games](https://tools.techidaily.com/drivereasy/download/)
+* [Windows](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-pro-level-techniques-to-upgrade-your-iphone-photo-game/"><u>[New] In 2024, Pro-Level Techniques to Upgrade Your iPhone Photo Game</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-live-streaming-showdown-obs-vs-wirecast-faceoff/"><u>[New] Live Streaming Showdown  OBS vs Wirecast Faceoff</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-top-3-strategies-for-capturing-real-time-sports-events-online/"><u>[New] Top 3 Strategies for Capturing Real-Time Sports Events Online</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-crafting-memories-a-complete-guide-to-the-top-6-minecraft-recordings-techniques/"><u>[Updated] 2024 Approved  Crafting Memories  A Complete Guide to the Top 6 Minecraft Recordings Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-harnessing-social-potential-a-compreenasculated-blueprint-for-smm-mastery/"><u>[Updated] Harnessing Social Potential  A Compreenasculated Blueprint for SMM Mastery</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-step-into-fantasy-with-these-samsung-gear-vr-titles/"><u>[Updated] In 2024, Step Into Fantasy with These Samsung Gear VR Titles</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-how-to-personalize-and-change-ringtones-on-your-iphone/"><u>2024 Approved  How to Personalize and Change Ringtones on Your iPhone?</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-tactical-approach-to-choosing-an-elgato-stream-deck/"><u>A Tactical Approach to Choosing an Elgato Stream Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/ais-next-leap-unveiled-at-computex/"><u>AI's Next Leap: Unveiled at Computex</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-8-minimalist-emulators-android-gaming-pcmac/"><u>Best 8 Minimalist Emulators: Android Gaming Pc/Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/clouding-safety-store-steam-game-images/"><u>Clouding Safety: Store Steam Game Images</u></a></li>
+<li><a href="https://games-able.techidaily.com/dropping-paywalls-5-reasons-to-keep-your-games-home/"><u>Dropping Paywalls: 5 Reasons to Keep Your Games Home</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-gameplay-with-best-240hz-panels/"><u>Elevate Your Gameplay with Best 240Hz Panels</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-guide-resolving-display-driver-failed-errors-on-windows-11/"><u>Expert Guide: Resolving Display Driver Failed Errors on Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-pc-to-phone-in-a-flash-play-steam-games-with-link/"><u>From PC to Phone in a Flash: Play Steam Games with Link</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-gala-the-glory-of-game-guardianship/"><u>Gaming Gala: The Glory of Game Guardianship</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-end-graphics-on-a-minimalist-budget/"><u>High End Graphics on a Minimalist Budget</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-quality-titles-should-mts-be-compulsory/"><u>High-Quality Titles: Should MTs Be Compulsory?</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-set-up-a-passcode-on-your-ps5/"><u>How to Set Up a Passcode on Your PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-universally-turn-off-controller-vibration-on-your-xbox-series-xs/"><u>How to Universally Turn Off Controller Vibration on Your Xbox Series X|S</u></a></li>
+<li><a href="https://games-able.techidaily.com/inquiring-about-the-value-proposition-for-ea-play/"><u>Inquiring About the Value Proposition for EA Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/java-game-highlights-our-favorites-unveiled/"><u>Java Game Highlights: Our Favorites Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/learn-from-my-oled-faux-pas-smart-screen-selection/"><u>Learn From My OLED Faux Pas: Smart Screen Selection</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lenovos-z50-70-now-features-simple-updates/"><u>Lenovo's Z50-70 Now Features Simple Updates</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-advanced-features-of-amds-rx-7800xt-7700xt/"><u>Navigating the Advanced Features of AMD's RX 7800XT, 7700XT</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-ps5-buying-process-wisely/"><u>Navigating the PS5 Buying Process Wisely</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-dub-like-a-pro-top-6-video-dubbing-apps-for-android-and-ios/"><u>New 2024 Approved Dub Like a Pro Top 6 Video Dubbing Apps for Android and iOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidia-driver-updates-unlock-your-computers-potential-immediately/"><u>Nvidia Driver Updates: Unlock Your Computer's Potential Immediately!</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-gaming-by-controlling-background-game-bar/"><u>Optimizing Gaming by Controlling Background Game Bar</u></a></li>
+<li><a href="https://games-able.techidaily.com/playstation-and-xbox-content-contenders/"><u>PlayStation and Xbox Content Contenders</u></a></li>
+<li><a href="https://games-able.techidaily.com/retract-your-purchase-game-returns-on-series-xs-console/"><u>Retract Your Purchase: Game Returns on Series X/S Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/silent-sabotage-my-overclocked-nightmrange/"><u>Silent Sabotage: My Overclocked Nightmrange</u></a></li>
+<li><a href="https://games-able.techidaily.com/sony-psp-gaming-perks-reviewed/"><u>Sony PSP Gaming Perks, Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-back-from-realms-step-forward-with-archives/"><u>Step Back From Realms, Step Forward with Archives</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-battery-solutions-the-premier-ps5-dualsense-controller-chargers/"><u>Superior Battery Solutions: The Premier PS5 DualSense Controller Chargers</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-ps5-dualsense-chargers-of-the-future/"><u>Superior PS5 DualSense Chargers of the Future</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-240hz-screen-guide-for-gamers/"><u>The Ultimate 240Hz Screen Guide for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-9-affordable-switch-games-no-pay-required/"><u>Top 9 Affordable Switch Games: No Pay Required</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-flash-drives-to-boost-ps5-performance/"><u>Top Flash Drives to Boost PS5 Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/unbeatable-connectivity-choosing-top-ethernets/"><u>Unbeatable Connectivity: Choosing Top Ethernets</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-footballs-secrets-fc-manager-game-free-edition/"><u>Unlock Football's Secrets: FC Manager Game, Free Edition</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-essential-music-matches-pairing-the-perfect-hits-with-your-storyboard-sequences/"><u>Updated 2024 Approved Essential Music Matches Pairing the Perfect Hits with Your Storyboard Sequences</u></a></li>
+<li><a href="https://games-able.techidaily.com/who-wins-in-specifications-asus-rog-ally-or-steam-deck/"><u>Who Wins in Specifications: ASUS ROG Ally or Steam Deck?</u></a></li>
+<li><a href="https://games-able.techidaily.com/winning-the-wargame-7-crucial-fps-game-adjustments/"><u>Winning the Wargame: 7 Crucial FPS Game Adjustments</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Avoiding Game Installation Oversight by Steam
-date: 2024-07-12T04:33:38.294Z
-updated: 2024-07-13T04:33:38.294Z
+date: 2024-08-08T09:08:07.921Z
+updated: 2024-08-09T09:08:07.921Z
 tags:
   - games
 categories:
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/4285b91a5eec460b353e6cabe3924d845457ea4dd
 
  This is a reoccurring issue reported on both Windows 11 and 10 computers. Fortunately, you can force Steam to locate your games from the installation directory with a bit of tweaking. Here's how to get Steam to recognize the installed games on your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Doesn’t Steam Recognize My Installed Games?
 
 ![steam logo on abstract background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/steam-logo-on-abstract-background-1.jpg)
@@ -40,10 +43,16 @@ Follow these steps to reinstall games in Steam without downloading:
 C:\Program Files (x86)\Steam\steamapps\common
 2. Make sure the folders associated with the affected games exist in the above location.
 3. If yes, Launch the Steam desktop app and log in if the session has expired.  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![exit family view steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/exit-family-view-steam.jpg)
 4. Next, make sure you are not in**Family View** . To do this, click the**Family View** icon in the top right corner of the screen and enter your**PIN** to exit Family View.
 5. Next, open the**Library** tab in the top left corner. It lists all the games that you own and installed on your PC.
 6. Click on the affected game and then click the**Install** button.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![install new game steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/install-new-game-steam.jpg)
 7. As Steam begins to install the game, it will likely recognize the existing files and complete the installation without downloading the game files all again.
 
@@ -55,11 +64,20 @@ C:\Program Files (x86)\Steam\steamapps\common
 
 1. Launch the Steam client and make sure you are not in Family View.
 2. Next, click on**Steam** in the top left corner and select**Settings** .  
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![steam settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/steam-settings.jpg)
 3. In the**Settings** window, open the**Storage** tab in the left pane.  
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![steam settings storage tab Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/steam-settings-storage-tab-windows.jpg)
 4. Click the drop-down under**Storage** . By default, it shows you the current game storage drive and location.
 5. Select**Add Drive** from the drop-down options.  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![steam settings add new drive Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/steam-settings-add-new-drive-windows.jpg)
 6. Click the drop-down in**Add a New Steam Library Folder** dialog, and select the**Let me choose another location** .  
 ![steam settings add new steam library folder Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/steam-settings-add-new-steam-library-folder-windows.jpg)
@@ -69,6 +87,9 @@ C:\Program Files (x86)\Steam\steamapps\common
 
  Steam will look for the game files in the newly added folder. If found, it'll show them in your Steam library. If the game doesn’t appear immediately, relaunch the app and check your library again.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Manage the .acf Files for the Steam Games
 
  The .acf files in Steam are used to store data and configuration cache. Basically, each .acf file has a unique appid (App ID) and stores game information such as install and DLC download states, buildid (Build ID), and other user preference information.
@@ -79,6 +100,9 @@ C:\Program Files (x86)\Steam\steamapps\common
 2. Open the**Library** tab.
 3. Next, select the game that you want to play. It will show as**Uninstalled** with an option to Install.
 4. Click the**Install** button, select the installation directory and click**Finish** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![steam install counter strike](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/steam-install-counter-strike.jpg)
 5. Next, hover your cursor over the**Library** tab and select**Download** .  
 ![pause steam install counter strike](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/pause-steam-install-counter-strike.jpg)
@@ -122,3 +146,62 @@ C:\Program Files (x86)\Steam\steamapps\
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-broadcasting-with-a-history-live-transmission-of-pre-recorded-videos/"><u>[New] 2024 Approved  Broadcasting with a History  LIVE Transmission of Pre-Recorded Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-unmatched-video-capturing-reviews-of-the-best-apps/"><u>[New] 2024 Approved  Unmatched Video Capturing  Reviews of the Best Apps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-essential-guide-easy-to-install-vrecorder-for-2024/"><u>[New] Essential Guide  Easy-to-Install VRecorder for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-magnify-marvel-the-ultimate-10-camera-lens-guide-for-2024/"><u>[New] Magnify Marvel  The Ultimate 10 Camera Lens Guide for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-documenting-xbox-gaming-tips-and-tricks/"><u>[Updated] 2024 Approved  Documenting Xbox Gaming  Tips & Tricks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-professional-editing-edge-discover-the-leading-15-gopro-color-grads/"><u>[Updated] 2024 Approved  Professional Editing Edge  Discover the Leading 15 GOPRO Color Grads</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-tomtom-bandits-new-era-in-action-capture/"><u>[Updated] 2024 Approved  TomTom Bandit's New Era in Action Capture</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-techniques-to-zoom-into-online-engagements-intelligently-for-2024/"><u>[Updated] Techniques to Zoom Into Online Engagements Intelligently for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-correcting-user-portrait-errors-in-digital-dialogue/"><u>2024 Approved  Correcting User Portrait Errors in Digital Dialogue</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-from-disjointed-to-harmonious-the-logic-pro-x-transition-tale/"><u>2024 Approved  From Disjointed to Harmonious  The Logic Pro X Transition Tale</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-your-big-day-with-these-leading-countdown-clock-apps-androidios/"><u>2024 Approved  Master Your Big Day with These Leading Countdown Clock Apps (Android/iOS)</u></a></li>
+<li><a href="https://games-able.techidaily.com/4-premium-game-boy-advance-emulators-for-your-idevice/"><u>4 Premium Game Boy Advance Emulators for Your iDevice</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-reasons-why-gamers-should-buy-a-retro-handheld/"><u>5 Reasons Why Gamers Should Buy a Retro Handheld</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-engaging-virtual-experiences-to-fortify-design-expertise/"><u>7 Engaging Virtual Experiences to Fortify Design Expertise</u></a></li>
+<li><a href="https://games-able.techidaily.com/8-ar-mobile-games-that-will-get-you-moving-outdoors/"><u>8 AR Mobile Games That Will Get You Moving Outdoors</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-buyers-guide-to-steam-decks/"><u>A Buyer's Guide to Steam Decks</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-comprehensive-guide-to-steam-screens/"><u>A Comprehensive Guide to Steam Screens</u></a></li>
+<li><a href="https://games-able.techidaily.com/ace-the-art-of-steam-wallet-financing/"><u>Ace the Art of Steam Wallet Financing</u></a></li>
+<li><a href="https://games-able.techidaily.com/adaptive-thermal-control-curve-for-high-end-gpus/"><u>Adaptive Thermal Control Curve for High-End GPUs</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-misconduct-on-series-xs-gaming-console/"><u>Addressing Misconduct on Series X/S Gaming Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/adjusting-discords-game-overlay-on-pc/"><u>Adjusting Discord’s Game Overlay on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/adventure-awaits-in-augmented-reality/"><u>Adventure Awaits in Augmented Reality</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-chroma-gaming-keyboard-essentials/"><u>Affordable Chroma Gaming Keyboard Essentials</u></a></li>
+<li><a href="https://games-able.techidaily.com/amds-innovation-with-fsr-3-can-it-outperform-dlss-35/"><u>AMD's Innovation with FSR 3: Can It Outperform DLSS 3.5?</u></a></li>
+<li><a href="https://games-able.techidaily.com/an-enthusiasts-guide-to-favorite-offbeat-indie-games/"><u>An Enthusiast's Guide to Favorite, Offbeat Indie Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/analyzing-subtleties-steam-vs-gog-service-providers/"><u>Analyzing Subtleties: Steam vs GOG Service Providers</u></a></li>
+<li><a href="https://games-able.techidaily.com/android-vs-iphone-the-strategic-showdown-of-tetris-mastery/"><u>Android vs iPhone: The Strategic Showdown of Tetris Mastery</u></a></li>
+<li><a href="https://games-able.techidaily.com/are-mts-meriting-premium-game-credits/"><u>Are MTs Meriting Premium Game Credits?</u></a></li>
+<li><a href="https://games-able.techidaily.com/asus-rog-allys-elite-dock-selection-2024-highlights/"><u>ASUS ROG Ally's Elite Dock Selection - 2024 Highlights</u></a></li>
+<li><a href="https://games-able.techidaily.com/atlasos-your-old-machines-future/"><u>AtlasOS: Your Old Machine's Future</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoid-frustration-test-for-cpu-related-performance-issues-in-pcs/"><u>Avoid Frustration: Test for CPU-Related Performance Issues in PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/baldurs-gate-3-for-m1m2-using-crossover-on-mac/"><u>Baldur’s Gate 3 for M1/M2: Using Crossover on Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/behind-the-name-foddian-game-chronicles/"><u>Behind the Name: Foddian Game Chronicles</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-ddr5-memory-picks-for-gamers-24/"><u>Best DDR5 Memory Picks for Gamers - '24</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diy-fixes-mastering-the-reset-on-samsungs-soundbar-devices/"><u>DIY Fixes: Mastering the Reset on Samsung's Soundbar Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719163779461-how-different-cultures-have-developed-unique-approaches-to-map-design-and-symbolization/"><u>How Different Cultures Have Developed Unique Approaches to Map Design and Symbolization;</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-outdated-windows-to-cutting-edge-win11-life/"><u>In 2024, From Outdated Windows to Cutting-Edge Win11 Life</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-future-insight-alternate-pathways/"><u>In 2024, Future Insight  Alternate Pathways</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-standard-youtube-vs-creative-commons-liberty-clauses/"><u>In 2024, Standard YouTube Vs. Creative Commons Liberty Clauses</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-iphone-15-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>In 2024, Unlock Your iPhone 15 in Minutes with ICCID Code Everything You Need to Know</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719169184228-my-gaming-adventure-with-an-advanced-oled-display/"><u>My Gaming Adventure with an Advanced OLED Display</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/storing-your-musical-memories-a-threefold-approach-for-2024/"><u>Storing Your Musical Memories  A Threefold Approach for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-realme-11x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/streamlining-video-transfer-dvd-making-on-mac/"><u>Streamlining Video Transfer  DVD Making on Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719173038183-top-7-iosandroid-sports-games-unmatched-excitement/"><u>Top 7 iOS/Android Sports Games: Unmatched Excitement</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-how-to-recover-or-locate-d3dx928dll-when-lost/"><u>Troubleshooting: How to Recover or Locate d3dx9_28.dll When Lost</u></a></li>
+<li><a href="https://some-skills.techidaily.com/undead-humor-engine-for-2024/"><u>Undead Humor Engine for 2024</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-play-8t-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Play 8T</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172356979-unleash-gaming-with-chatgpt-experience-our-best-6/"><u>Unleash Gaming with ChatGPT - Experience Our Best 6</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719173835362-unlock-more-gaming-on-xbox-with-ultimate-plan/"><u>Unlock More Gaming on Xbox with Ultimate Plan!</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719165441330-unlock-nintendo-legends-on-your-ios-with-4-best-emulators/"><u>Unlock Nintendo Legends on Your iOS with 4 Best Emulators</u></a></li>
+<li><a href="https://techidaily.com/vivo-data-retrieval-tool-restore-lost-data-from-vivo-by-fonelab-android-recover-data/"><u>Vivo Data Retrieval tool – restore lost data from Vivo</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-realme-11-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Realme 11 Pro Hard Reset | Dr.fone</u></a></li>
+</ul></div>

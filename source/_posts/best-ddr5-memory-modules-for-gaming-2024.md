@@ -1,7 +1,7 @@
 ---
 title: Best DDR5 Memory Modules for Gaming - 2024
-date: 2024-07-12T04:29:51.993Z
-updated: 2024-07-13T04:29:51.993Z
+date: 2024-08-08T09:11:17.324Z
+updated: 2024-08-09T09:11:17.324Z
 tags:
   - games
 categories:
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
  DDR5 modules are now more affordable than ever, making it the right time to upgrade to the newer DDR5 memory and enjoy even better performance than the [fastest DDR4 RAM](https://www.makeuseof.com/tag/best-ddr4-ram/) . We've rounded up the best DDR5 motherboards to take the new chips for a spin.
 
 * [](https://www.amazon.com/ASUS-ROG-Z790-Motherboard-ThunderboltTM/dp/B0BG6M53DG?linkCode=ll1&tag=makeusw-20&linkId=ab2f408f2d7ce1b52f92e6bb5e42ae07&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU2018693&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-ddr5-motherboards%2F&asc%5Fcampaign=Commerce)  
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ASUS ROG Maximus Z790 Hero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/asus-rog-maximus-z790-hero.png)  
 
 ##### ASUS ROG Maximus Z790 Hero  
@@ -25,6 +28,9 @@ Best Overall
 [$461 at Amazon](https://www.amazon.com/ASUS-ROG-Z790-Motherboard-ThunderboltTM/dp/B0BG6M53DG?linkCode=ll1&tag=makeusw-20&linkId=ab2f408f2d7ce1b52f92e6bb5e42ae07&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU2018693&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-ddr5-motherboards%2F&asc%5Fcampaign=Commerce)
 
 * [](https://www.amazon.com/MSI-B760-Motherboard-Supports-Processors/dp/B0C15THTK7?tag=makeusw-20&ascsubtag=UUmuoUeUpU2018693&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-ddr5-motherboards%2F&asc%5Fcampaign=Commerce)  
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![MSI B760 Gaming Plus Wi-Fi](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/msi-b760-gaming-plus-wi-fi.png)  
 
 ##### MSI B760 Gaming Plus Wi-Fi  
@@ -58,6 +64,9 @@ Best Micro-ATX
 
 ## Best DDR5 Motherboard Overall: ASUS ROG Maximus Z790 Hero
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The ASUS ROG Maximus Z790 Hero motherboard on a blue background.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/asus-rog-maximus-z790-hero.jpg)
 
 _ASUS_
@@ -68,6 +77,9 @@ _ASUS_
 
  The rest of the motherboard is nothing short of impressive. It features two PCIe 5.0 x16 slots with x8/x8 capability, futureproof PCIe 5.0 and PCIe 4.0 M.2 NVMe slots, Wi-Fi 6E, RGB, and 2.5G Ethernet. In addition, you get plenty of tools for troubleshooting, including a 7-segment display, a BIOS FlashBack button, and an onboard power button.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ASUS ROG Maximus Z790 Hero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/asus-rog-maximus-z790-hero.png)
 
 ##### ASUS ROG Maximus Z790 Hero
@@ -124,6 +136,9 @@ Best Budget
 
 [$151 at Amazon](https://www.amazon.com/MSI-B760-Motherboard-Supports-Processors/dp/B0C15THTK7?tag=makeusw-20&ascsubtag=UUmuoUeUpU2018693&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-ddr5-motherboards%2F&asc%5Fcampaign=Commerce) [See at Newegg](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.newegg.com%2Fp%2FN82E16813144600) [See at MSI](https://us-store.msi.com/B760-GAMING-PLUS-WIFI)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## Best DDR5 Motherboard for Gaming: ASUS ROG Crosshair X670E Hero
 
 ![The ASUS ROG Crosshair X670E Hero motherboard on a red background.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/asus-rog-crosshair-x670e-hero.jpg)
@@ -136,6 +151,9 @@ _ASUS_
 
  The rear IO is just as impressive, with eight 10Gbps USB-A ports, two 40Gbps USB4 ports, an additional 20Gbps USB-C port, 2.5G Ethernet, optical audio output, and HDMI 2.1 for integrated RDNA2 graphics on the Ryzen 7000 Series CPUs. It's an excellent motherboard for overclockers, and the presence of onboard power and reset buttons, a BIOS flashback, and a 7-segment display make it ideal for extreme tweaks.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ASUS ROG Crosshair X670E Hero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/asus-rog-crosshair-x670e-hero.png)
 
 ##### ASUS ROG Crosshair X670E Hero
@@ -157,6 +175,9 @@ Best for Gaming
 
 [$635 at Amazon](https://www.amazon.com/ASUS-ROG-X670E-Motherboard-Front-Panel/dp/B0BDTN8SNJ?tag=makeusw-20&ascsubtag=UUmuoUeUpU2018693&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-ddr5-motherboards%2F&asc%5Fcampaign=Commerce) [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-rog-crosshair-x670e-hero-usb-c-gen2-amd-motherboard-with-led-lighting%2F6523724.p%3FskuId%3D6523724) [See at Newegg](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.newegg.com%2Fasus-rog-crosshair-x670e-hero%2Fp%2FN82E16813119582)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Best Mini-ITX DDR5 Motherboard: MSI MPG Z790I Edge Wi-Fi
 
 ![The MSI MPG Z790I Edge WiFi motherboard on a gray background.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/msi-mpg-z790i-edge-wifi.jpg)
@@ -167,6 +188,9 @@ _MSI_
 
  If you're leaning towards AMD for your compact build, the [ASUS ROG STRIX X670E-I](https://www.amazon.com/ASUS-STRIX-X670E-I-GAMING-WIFI/dp/B0BDTVCJF8?tag=makeusw-20&ascsubtag=UUmuoUeUpU2018693&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-ddr5-motherboards%2F&asc%5Fcampaign=Commerce) is an excellent alternative, but it costs more than the MPG Z790I Edge Wi-Fi while offering the same 105A VRMs and many of the same features. From a budget perspective, the MPG Z790I Edge Wi-Fi is a much better value than other AMD and Intel mini-ITX offerings. Pairing it with a [powerful AIO cooler](https://www.makeuseof.com/best-aio-coolers/) can reduce overheating issues when running demanding workloads.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![MSI MPG Z790I Edge WiFi](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/msi-mpg-z790i-edge-wifi.png)
 
 ##### MSI MPG Z790I Edge Wi-Fi
@@ -192,6 +216,9 @@ Best for Compact Builds
 
 ## Best Micro-ATX DDR5 Motherboard: GIGABYTE B650M AORUS Elite AX
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The GIGABYTE B650M AORUS Elite AX motherboard on a purple background.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/gigabyte-b650m-aorus-elite-ax.jpg)
 
 _GIGABYTE_
@@ -200,6 +227,9 @@ _GIGABYTE_
 
  The B650M AORUS Elite AX is affordable, works with the latest AM5 processors out of the box, and even supports DDR5 memory overclocking. While the 60A power stages might struggle with high-end CPUs, it's not really a dealbreaker since mid-range AMD CPUs like the [Ryzen 5 7600X](https://www.amazon.com/AMD-7600X-12-Thread-Unlocked-Processor/dp/B0BBJDS62N?tag=makeusw-20&ascsubtag=UUmuoUeUpU2018693&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-ddr5-motherboards%2F&asc%5Fcampaign=Commerce) pack enough power for competitive gaming and everyday productivity tasks.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![GIGABYTE B650M AORUS Elite AX](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/gigabyte-b650m-aorus-elite-ax.png)
 
 ##### GIGABYTE B650M AORUS Elite AX
@@ -225,6 +255,9 @@ Best Micro-ATX
 
 ## FAQ
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Q: How much faster is DDR5 RAM over DDR4 RAM?
 
  With more memory bandwidth than DDR4, DDR5 is generally faster than DDR4 in both gaming and productivity. According to [benchmarks from TechSpot](https://www.techspot.com/review/2777-ddr5-vs-ddr4-gaming/) , DDR5 can offer up to 35% performance gains in games.
@@ -253,3 +286,39 @@ Best Micro-ATX
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevating-video-experience-best-youtube-to-avi-companions/"><u>[New] In 2024, Elevating Video Experience  Best YouTube-to-AVI Companions</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-your-favorite-top-10-youtube-and-facebooks-music-gems-for-2024/"><u>[New] Your Favorite Top 10  YouTube & Facebook's Music Gems for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-city-escapades-games-paralleling-gta-v-adventure/"><u>[Updated] City Escapades  Games Paralleling GTA V Adventure</u></a></li>
+<li><a href="https://games-able.techidaily.com/460plus-rapid-response-monitor-innocn-39g1-r/"><u>$460+ Rapid Response Monitor: InnoCN 39G1 R</u></a></li>
+<li><a href="https://games-able.techidaily.com/11-exciting-gaming-options-without-wifi/"><u>11 Exciting Gaming Options Without WiFi</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-easy-steps-for-arranging-a-google-meeting/"><u>2024 Approved  Easy Steps for Arranging a Google Meeting</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-2023s-standout-professional-360cameras/"><u>2024 Approved  Exploring 2023'S Standout Professional 360°Cameras</u></a></li>
+<li><a href="https://games-able.techidaily.com/8-easy-ways-to-fix-steam-when-it-wont-open/"><u>8 Easy Ways to Fix Steam When It Won't Open</u></a></li>
+<li><a href="https://games-able.techidaily.com/8-features-that-make-microsoft-edge-the-best-gaming-browser/"><u>8 Features That Make Microsoft Edge the Best Gaming Browser</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-comprehensible-approach-to-locking-your-ps5-games/"><u>A Comprehensible Approach to Locking Your PS5 Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-gamers-guide-to-ps4-hardware-restoration/"><u>A Gamer's Guide to PS4 Hardware Restoration</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-passionate-pursuit-uncovering-stunning-indie-titles/"><u>A Passionate Pursuit: Uncovering Stunning Indie Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/ace-your-games-with-optimal-windows-fps-settings/"><u>Ace Your Games with Optimal Windows FPS Settings</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieving-smooth-control-transition-from-pc-mousekeyboard-to-steam-deck-via-barrier-technique/"><u>Achieving Smooth Control Transition From PC Mouse/Keyboard To Steam Deck via Barrier Technique</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ai-assisted-the-ultimate-list-of-podcast-title-makers/"><u>AI-Assisted  The Ultimate List of Podcast Title Makers</u></a></li>
+<li><a href="https://games-able.techidaily.com/are-old-docks-suitable-for-nintendos-new-switch-oled/"><u>Are Old Docks Suitable for Nintendo's New Switch OLED?</u></a></li>
+<li><a href="https://games-able.techidaily.com/artistry-in-rhythm-stylus-or-pointer/"><u>Artistry in Rhythm: Stylus or Pointer?</u></a></li>
+<li><a href="https://games-able.techidaily.com/banish-buffering-blockers-for-bonanza-battle-beginnings/"><u>Banish Buffering Blockers for Bonanza Battle Beginnings</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719163487039-become-a-master-at-nyts-strands-play-and-win/"><u>Become a Master at NYT’s Strands: Play & Win!</u></a></li>
+<li><a href="https://games-able.techidaily.com/beginners-path-to-resetting-a-ps4-console/"><u>Beginner's Path to Resetting a PS4 Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/behind-the-scenes-how-to-identify-prime-discord-communities/"><u>Behind the Scenes: How to Identify Prime Discord Communities</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-multi-genre-game-list-for-content-makers/"><u>Best Multi-Genre Game List for Content Makers</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/cinematic-journey-for-enhanced-communication-abilities/"><u>Cinematic Journey for Enhanced Communication Abilities</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172625751-immerse-in-gaming-the-power-of-oled-technology/"><u>Immerse in Gaming: The Power of OLED Technology</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-easy-methods-to-unlock-icloud-locked-apple-iphone-12-proipadipod-by-drfone-ios/"><u>In 2024, 3 Easy Methods to Unlock iCloud Locked Apple iPhone 12 Pro/iPad/iPod</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Vivo V27e? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-hot-30i-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Infinix Hot 30i Phone without PIN</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719166266886-mastering-new-york-times-word-challenge-unlock-your-brain/"><u>Mastering New York Times: Word Challenge - Unlock Your Brain</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-11s-security-with-rufus-expertise/"><u>Navigating Windows 11'S Security with Rufus Expertise</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719167714153-no-internet-required-here-are-your-best-game-choices-on-ios/"><u>No Internet Required? Here Are Your Best Game Choices on iOS!</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719159121499-upgrade-your-game-cabinet-with-broad-bold-framing/"><u>Upgrade Your Game Cabinet with Broad, Bold Framing</u></a></li>
+</ul></div>

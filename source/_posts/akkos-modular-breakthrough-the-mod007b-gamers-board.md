@@ -1,7 +1,7 @@
 ---
 title: "Akko's Modular Breakthrough: The MOD007B Gamer's Board"
-date: 2024-07-12T04:33:09.862Z
-updated: 2024-07-13T04:33:09.862Z
+date: 2024-08-08T09:08:32.409Z
+updated: 2024-08-09T09:08:32.409Z
 tags:
   - games
 categories:
@@ -14,6 +14,9 @@ thumbnail: https://thmb.techidaily.com/61f1e99d6299e2b7e5df71d7f81a59ac930cb2c81
 
 ## Akko's Modular Breakthrough: The MOD007B Gamer's Board
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Akko MOD007B HE keyboard uses Hall Effect switches for customizable actuation distance, giving gamers an advantage.
@@ -109,6 +112,9 @@ No
 
 [See at Akko](https://en.akkogear.com/product/mod007b-pc-santorini-mechanical-keyboard/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## A Great-Looking Keyboard on the Surface
 
 ![Akko MOD007B HE Spacebar Detail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-spacebar-detail.jpg)
@@ -131,10 +137,16 @@ No
 
  The extra keycaps contain Japanese icons, but installing them could potentially mix up the perfect pink-and-white combination on the stock keys already. But they’re still a great option if you want to customize your keyboard further and have memorized the placement of non-alphanumeric keys.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Akko MOD007B HE Keycap Accessories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-keycap-accessories.jpg)
 
  Jowi Morales / MakeUseOf
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Akko MOD007B Means Serious Business Underneath
 
  What makes the Akko MOD007B different from most gaming keyboards is that it uses Hall Effect switches instead of mechanical keys.[Mechanical keyboards work by using springs](http://www.makeuseof.com/tag/mechanical-keyboard-work-technology-explained/) to control how much pressure you need to apply before it closes the switch.
@@ -163,6 +175,9 @@ Related
 
  Jowi Morales / MakeUseOf
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Typing on Cloud Nine
 
  Aside from the advantages of Hall Effect keys, the Akko MOD007B also delivers an excellent typing feel. The keyboard itself uses a gasket mount for a soft and relaxed typing experience. And when you press on the keys hard, you’ll notice them sink into the case, especially for keys near the edges.
@@ -179,6 +194,9 @@ Related
 
  But best of all, any changes you make to the keyboard are stored on it. So, even if you switch PCs or upgrade to a newer device, you don’t have to download the driver and recreate your saved keyboard settings.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Confusing Multi-Mode Pairing
 
 ![Akko MOD007B HE mode switch slider under the caps lock key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-mode-switch-slider-under-the-caps-lock-key.jpg)
@@ -195,6 +213,9 @@ Related
 
 ## Questionable Battery Life
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![Akko MOD007B HE Battery-Level Check](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-battery-level-check.jpg)
 
  Jowi Morales / MakeUseOf
@@ -205,6 +226,9 @@ Related
 
  Granted that this keyboard will most likely sit on your desk in wired mode, it’s still better to allow the user to switch off the keyboard when not using it. This will help save power, especially if you transport the keyboard in your bag (like when going to a LAN party or an on-site competition) and want to use it wirelessly.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ## Your Keyboard for Gaming Victory
 
  Although these couple of issues will negatively impact niche users like me, they won’t affect most users. You can't ignore the benefits of a Hall Effect keyboard, especially if you take your matches seriously.
@@ -213,6 +237,9 @@ Related
 
  So, if you are or plan to be a serious gamer, the Akko MOD007B is an excellent choice for a primary keyboard. And, as long as you don’t frequently switch between Windows and Mac, it’s a great all-around keyboard, too.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Akko MOD007B PC eCommerce Image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/world-tour-tokyo-mod007b-pc-3-600x600.jpg)
 
 ##### AKKO MOD007B PC
@@ -304,3 +331,50 @@ No
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-a-tweet-to-snap-showcase-video-posting-techniques/"><u>[New] 2024 Approved  A Tweet-to-Snap Showcase  Video Posting Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-insiders-method-for-youtube-livestreaming-in-full-circle/"><u>[New] The Insider's Method for Youtube Livestreaming in Full Circle</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tips-for-sharper-images-during-zoom-calls/"><u>2024 Approved  Tips for Sharper Images During Zoom Calls</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-speed-analyzing-keyboard-input-latency-factors/"><u>Beyond Speed: Analyzing Keyboard Input Latency Factors</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-the-bonus-points-why-trust-game-review-scores/"><u>Beyond the Bonus Points: Why Trust Game Review Scores?</u></a></li>
+<li><a href="https://games-able.techidaily.com/big-business-or-small-opportunity-the-aaa-publishers-paradox-discussion-forum/"><u>Big Business or Small Opportunity: The AAA Publisher's Paradox? [Discussion Forum]</u></a></li>
+<li><a href="https://games-able.techidaily.com/bigger-frames-better-experiences-in-gaming/"><u>Bigger Frames, Better Experiences in Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/blue-tooth-harmonies-ps5-and-headphones/"><u>Blue-Tooth Harmonies: PS5 & Headphones</u></a></li>
+<li><a href="https://games-able.techidaily.com/boost-mobile-gameplay-speed-master-android-fps-calculation-techniques/"><u>Boost Mobile Gameplay Speed: Master Android FPS Calculation Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/boost-your-gamerscore-with-steams-achievement-toolkit/"><u>Boost Your Gamerscore with Steam's Achievement Toolkit</u></a></li>
+<li><a href="https://games-able.techidaily.com/breaking-down-meta-significance-and-enforced-rules-in-gaming/"><u>Breaking Down Meta: Significance and Enforced Rules in Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridging-devices-integrating-controllers-with-your-phonetablet/"><u>Bridging Devices: Integrating Controllers with Your Phone/Tablet</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridging-gaming-worlds-xbox-controllers-on-pc-146-chars/"><u>Bridging Gaming Worlds: Xbox Controllers on PC (146 Chars)</u></a></li>
+<li><a href="https://games-able.techidaily.com/brighten-up-tech-woes-update-to-newest-nvidia-drivers/"><u>Brighten Up Tech Woes: Update to Newest Nvidia Drivers!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/broadcast-preservation-in-the-age-of-web-radio-for-2024/"><u>Broadcast Preservation in the Age of Web Radio for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/budget-busters-affordable-xbox-playtime/"><u>Budget Busters: Affordable Xbox Playtime</u></a></li>
+<li><a href="https://games-able.techidaily.com/buy-ps5-top-6-factors-for-mindful-purchasing/"><u>Buy PS5: Top 6 Factors for Mindful Purchasing</u></a></li>
+<li><a href="https://games-able.techidaily.com/bypass-the-cables-update-dualsense-without-hands-on-intervention/"><u>Bypass the Cables: Update DualSense Without Hands-On Intervention</u></a></li>
+<li><a href="https://games-able.techidaily.com/bypassing-os-limitations-android-on-linux/"><u>Bypassing OS Limitations: Android on Linux</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-am08-pro-offer-true-gaming-in-acemagic/"><u>Can AM08 Pro Offer True Gaming in AceMagic?</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-amds-fsr-3-surpass-the-prowess-of-dlss-35/"><u>Can AMD's FSR 3 Surpass the Prowess of DLSS 3.5?</u></a></li>
+<li><a href="https://games-able.techidaily.com/capture-the-moment-automatic-game-snippet-creation/"><u>Capture the Moment: Automatic Game Snippet Creation</u></a></li>
+<li><a href="https://games-able.techidaily.com/challenge-your-skillset-engage-with-the-best-6-alternative-games/"><u>Challenge Your Skillset: Engage With the Best 6 Alternative Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/challenges-associated-with-updating-outdated-or-incorrect-maps/"><u>Challenges Associated with Updating Outdated or Incorrect Maps;</u></a></li>
+<li><a href="https://games-able.techidaily.com/champion-comforts-best-chairs-for-tall-players/"><u>Champion Comforts: Best Chairs for Tall Players</u></a></li>
+<li><a href="https://games-able.techidaily.com/change-of-scenery-your-switchs-new-geographic-home/"><u>Change of Scenery: Your Switch's New Geographic Home</u></a></li>
+<li><a href="https://games-able.techidaily.com/chaos-made-calm-6-efficient-gpt-techniques-for-aspiring-dms/"><u>Chaos Made Calm: 6 Efficient GPT Techniques for Aspiring DMs</u></a></li>
+<li><a href="https://games-able.techidaily.com/chatgpt-enhancing-gaming-narratives/"><u>ChatGPT: Enhancing Gaming Narratives</u></a></li>
+<li><a href="https://games-able.techidaily.com/choosing-the-premium-service-psplus-vs-xbgplus/"><u>Choosing the Premium Service: PS+ Vs. XBG+</u></a></li>
+<li><a href="https://games-able.techidaily.com/classic-dual-shock-emulators-on-steam/"><u>Classic Dual Shock Emulators on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/collaborate-and-conquer-2p-experience-with-minecraft-switch/"><u>Collaborate and Conquer: 2P Experience with Minecraft Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/colorful-comeback-tecnos-updated-smartphones-at-fair/"><u>Colorful Comeback: Tecno’s Updated Smartphones at Fair</u></a></li>
+<li><a href="https://games-able.techidaily.com/command-the-century-ranking-the-11-finest-ww2-games/"><u>Command the Century: Ranking the 11 Finest WW2 Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/compare-and-contrast-founder-original-and-aib-graphics-cards/"><u>Compare and Contrast: Founder Original & AIB Graphics Cards</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-12-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover iPhone 12 Data From iOS iCloud? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/identifying-users-whove-spread-the-word-tracking-shares-of-your-facebook-content/"><u>Identifying Users Who've Spread the Word: Tracking Shares of Your Facebook Content</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/illustrating-a-novel-tiktok-end-slide-for-2024/"><u>Illustrating A Novel TikTok End Slide for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-comprehensive-guide-to-utilizing-telegram-web-services/"><u>In 2024, Comprehensive Guide to Utilizing Telegram Web Services</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/influential-interaction-incentives-for-video-makers/"><u>Influential Interaction Incentives for Video Makers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/introduction-to-stories-essence-and-art-for-2024/"><u>Introduction to Stories' Essence and Art for 2024</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-hardware-drivers-on-windows-11-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated hardware drivers on Windows 11</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719575671831-welcome-to-a-deal-filled-new-year-save-96-on-mondly-premium/"><u>Welcome to a Deal-Filled New Year - Save 96%% on Mondly Premium!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Huawei Nova Y71 | Dr.fone</u></a></li>
+</ul></div>

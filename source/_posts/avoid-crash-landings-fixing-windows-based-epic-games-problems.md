@@ -1,7 +1,7 @@
 ---
 title: "Avoid Crash Landings: Fixing Windows-Based Epic Games Problems"
-date: 2024-07-12T04:36:06.912Z
-updated: 2024-07-13T04:36:06.912Z
+date: 2024-08-08T09:06:02.328Z
+updated: 2024-08-09T09:06:02.328Z
 tags:
   - games
 categories:
@@ -25,10 +25,16 @@ thumbnail: https://thmb.techidaily.com/dd8665fd574b8b8849bc905e8ab75258e662c1b7c
 1. Press**Ctrl + Shift + Esc** to [open the Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) .
 2. Locate and select**EpicGamesLauncher** on the list.
 3. Click the**End task** option at the top.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Close Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/close-epic-games-launcher.jpg)
 
 Reopen the Epic Games Launcher and try using it.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Run Epic Games Launcher as an Administrator
 
  Running the Epic Games Launcher with admin rights can help you avoid any issues caused by a lack of relevant permissions to access system files and settings. Right-click on the**Epic Games Launcher** shortcut and select**Run as administrator** . Select**Yes** when the UAC (User Account Control) prompt appears.
@@ -37,12 +43,18 @@ Reopen the Epic Games Launcher and try using it.
 
  If this method gets Epic Games Launcher to operate smoothly, you can configure it to [always run as an administrator on Windows](https://www.makeuseof.com/tag/ways-to-run-a-program-as-administrator-in-windows/) .
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ## 3\. Check the Epic Games Server Status
 
  Issues with Epic Games servers can also cause its launcher to misbehave on your Windows PC. You should [check Epic Games server status](https://status.epicgames.com/) to ensure they are operating smoothly.
 
  If there’s an issue with the servers, you have no option but to wait for the company to resolve the problem on its end. Following that, you should be able to use Epic Games Launcher as before.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Check for App Updates
 
  Using an outdated version of Epic Games Launcher can also cause it to crash or freeze on Windows. Hence, it’s a good idea to update the Epic Games Launcher if you haven’t already. Here are the steps for the same.
@@ -50,6 +62,9 @@ Reopen the Epic Games Launcher and try using it.
 1. Launch Epic Games Launcher on your computer.
 2. Click your**profile icon** in the top right corner and choose**Settings** from the list.
 3. If a newer version is available, click the**Restart and Update** button that appears.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Restart & Update option in Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/restart-update.jpg)
 
 ## 5\. Disable Fullscreen Optimizations
@@ -61,6 +76,9 @@ Reopen the Epic Games Launcher and try using it.
 3. Switch to the**Compatiblity** tab.
 4. Clear the**Disable fullscreen optimizations** checkbox.
 5. Hit**Apply** followed by**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![Disable Fullscreen Optimizations for Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-fullscreen-optimizations-for-epic-games-launcher.jpg)
 
 ## 6\. Clear the Epic Games Launcher’s Webcache Folder
@@ -89,6 +107,10 @@ Reopen the Epic Games Launcher and try using it.
 
  Run the installer file and follow the on-screen prompts to finish the process. After that, try using Epic Games Launcher again.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## 8\. Repair the Epic Games Launcher
 
  Your Windows PC includes an app repair feature that can help you fix such issues with the Epic Games Launcher without affecting its data. You can try using this feature to see if that gets the Epic Games Launcher to run smoothly.
@@ -99,10 +121,16 @@ Reopen the Epic Games Launcher and try using it.
 4. Select**Epic Games Launcher** on the list.
 5. Click the**Repair** button at the top.
 6. Select**Yes** when the User Account Control (UAC) prompt shows up.  
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![Repair Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/repair-epic-games-launcher.jpg)
 
  Follow the on-screen instructions to repair the launcher and try using it again.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## 9\. Reinstall the Epic Games Launcher
 
  If repairing the Epic Games Launcher proves ineffective, you can try reinstalling it on your system. This should give the launcher a fresh start on your PC and resolve any issues with it. If you need help removing Epic Games Launcher, refer to our guide on [how to uninstall software on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) and follow the steps outlined there.
@@ -137,3 +165,71 @@ Reopen the Epic Games Launcher and try using it.
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-enriched-browsing-experience-with-these-top-5-chrome-tools/"><u>[New] 2024 Approved  Enriched Browsing Experience with These Top 5 Chrome Tools</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-comprehensive-guide-to-ice-cream-watching-tools-for-2024/"><u>[New] Comprehensive Guide to Ice Cream Watching Tools for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-screen-recording-face-off-obs-studio-vs-fraps-comparison/"><u>[New] In 2024, Screen Recording Face-Off  OBS Studio Vs Fraps Comparison</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-top-6-head-mount-options-for-dynamic-camera-use/"><u>[New] Unveiling the Top 6 Head Mount Options for Dynamic Camera Use</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-10-free-video-call-app-for-android-and-iphone-100-secure-for-2024/"><u>[Updated] 10 Free Video Call App for Android and iPhone (100%% Secure) for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-perfecting-obs-broadcasts-for-facebook-audience/"><u>[Updated] 2024 Approved  Perfecting OBS Broadcasts for Facebook Audience</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-pro-level-strategies-for-remote-audio-capture/"><u>[Updated] 2024 Approved  Pro-Level Strategies for Remote Audio Capture</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-capturing-motion-in-4k-with-nikon-d500/"><u>[Updated] Capturing Motion in 4K with Nikon D500</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-spikes-in-subscribers-implementing-top-12-video-promotion-techniques/"><u>[Updated] Spikes in Subscribers  Implementing Top 12 Video Promotion Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-finest-5-android-image-boosters/"><u>[Updated] The Finest 5 Android Image Boosters</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-review-comparing-screen-recorders-for-professionals/"><u>[Updated] The Ultimate Review  Comparing Screen Recorders for Professionals</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-behind-the-lens-mastery-5-essential-cinematographic-insights/"><u>2024 Approved  Behind the Lens Mastery  5 Essential Cinematographic Insights</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-mastering-youtube-studio-ultimate-video-edits-techniques/"><u>2024 Approved  Mastering YouTube Studio  Ultimate Video Edits Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-vr-ready-hdmi-enhanced-gaming-devices/"><u>Best VR Ready, HDMI Enhanced Gaming Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-buzzwords-a-closer-look-at-gaming-promos/"><u>Beyond Buzzwords: A Closer Look at Gaming Promos</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-rtx-4060-ti-top-competitive-graphics-cards/"><u>Beyond RTX 4060 Ti: Top Competitive Graphics Cards</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-the-fog-of-ray-tracing-seeing-through-its-allure/"><u>Beyond the Fog of Ray Tracing: Seeing Through Its Allure</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-the-screen-nintendos-next-step/"><u>Beyond the Screen - Nintendo's Next Step?</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-the-screen-the-value-of-game-possessions/"><u>Beyond the Screen: The Value of Game Possessions</u></a></li>
+<li><a href="https://games-able.techidaily.com/blackwidow-v4-the-future-of-gaming-keyboards-unleashed/"><u>BlackWidow V4: The Future of Gaming Keyboards Unleashed</u></a></li>
+<li><a href="https://win-blog.techidaily.com/boost-your-gameplay-on-pandora-tips-to-resolve-avatars-fps-and-stuttering-problems/"><u>Boost Your Gameplay on 'Pandora': Tips to Resolve Avatar's FPS and Stuttering Problems</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosted-performance-fixing-fps-and-optimizing-pc-gaming-in-valorant/"><u>Boosted Performance: Fixing FPS and Optimizing PC Gaming in Valorant</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-docked-steam-deck-efficiency-step-by-step-tips/"><u>Boosting Docked Steam Deck Efficiency: Step-by-Step Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-your-gaming-performance-enhancing-fps-on-windows/"><u>Boosting Your Gaming Performance: Enhancing FPS on Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/brand-wars-examining-how-asus-stacks-up-against-tuf-proart-and-prime/"><u>Brand Wars: Examining How Asus Stacks Up Against Tuf, ProArt & Prime</u></a></li>
+<li><a href="https://games-able.techidaily.com/breaking-barriers-a-guide-to-dual-os-on-your-deck/"><u>Breaking Barriers - A Guide to Dual OS on Your Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/breathe-new-life-into-ps5-digital-access/"><u>Breathe New Life Into PS5 Digital Access</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridging-console-control-to-mobile-screen/"><u>Bridging Console Control to Mobile Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridging-controller-and-device-a-beginners-guide-to-android-setup/"><u>Bridging Controller and Device: A Beginner's Guide to Android Setup</u></a></li>
+<li><a href="https://games-able.techidaily.com/broadcasting-and-collaborative-play-via-ps5/"><u>Broadcasting & Collaborative Play via PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/budget-friendly-yet-exceptional-refresh-rate-240hz-monitors/"><u>Budget-Friendly Yet Exceptional: Refresh Rate 240Hz Monitors</u></a></li>
+<li><a href="https://games-able.techidaily.com/bypassing-risks-no-mic-feature-in-ps5/"><u>Bypassing Risks: No Mic Feature in PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-you-utilize-a-new-consoles-input-on-an-older-system/"><u>Can You Utilize a New Console's Input on an Older System?</u></a></li>
+<li><a href="https://games-able.techidaily.com/celebrating-indie-innovations-my-curated-collection/"><u>Celebrating Indie Innovations: My Curated Collection</u></a></li>
+<li><a href="https://games-able.techidaily.com/chair-choice-office-or-game/"><u>Chair Choice: Office or Game?</u></a></li>
+<li><a href="https://games-able.techidaily.com/chatgpt-now-available-dive-into-these-6-games/"><u>ChatGPT Now Available - Dive Into These 6 Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/chatgpt-the-future-of-gaming-scriptwriting/"><u>ChatGPT: The Future of Gaming Scriptwriting</u></a></li>
+<li><a href="https://games-able.techidaily.com/chatgpts-scriptwriting-techniques-for-games/"><u>ChatGPT's Scriptwriting Techniques for Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/child-protection-staying-vigilant-in-virtual-spaces/"><u>Child Protection: Staying Vigilant in Virtual Spaces</u></a></li>
+<li><a href="https://games-able.techidaily.com/circuit-visionaries-a-new-perspective/"><u>Circuit Visionaries: A New Perspective</u></a></li>
+<li><a href="https://games-able.techidaily.com/claim-your-free-games-on-xbox-console/"><u>Claim Your Free Games on Xbox Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/clandestine-streaming-low-profile-tactics/"><u>Clandestine Streaming: Low Profile Tactics</u></a></li>
+<li><a href="https://games-able.techidaily.com/clear-cache-to-run-facebook-games-smoothly-in-chrome/"><u>Clear Cache to Run Facebook Games Smoothly in Chrome</u></a></li>
+<li><a href="https://games-able.techidaily.com/clearing-up-display-lag-error-code-0x887a0006-in-windows/"><u>Clearing Up Display Lag (Error Code 0X887A0006) in Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/click-or-draw-gameplay-best-for-music-matchups/"><u>Click or Draw Gameplay: Best for Music Matchups</u></a></li>
+<li><a href="https://games-able.techidaily.com/combatting-robloxs-error-403-your-ultimate-fix-manual-for-windows-pcs/"><u>Combatting Roblox's Error 403: Your Ultimate Fix Manual for Windows PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/command-center-controls-essential-tuning-tips-for-fps-beginnings/"><u>Command Center Controls: Essential Tuning Tips for FPS Beginnings</u></a></li>
+<li><a href="https://games-able.techidaily.com/commanders-of-victory-managing-soccer-without-paying-a-penny/"><u>Commanders of Victory: Managing Soccer Without Paying a Penny</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-possibilities-mastering-board-games-and-image-creation-with-your-gpt-powered-bots/"><u>Discover the Possibilities: Mastering Board Games & Image Creation with Your GPT-Powered Bots</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminating-erratic-behavior-hp-lcds/"><u>Eliminating Erratic Behavior: HP LCDs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/experience-beyond-reality-choosing-the-premier-10-headsets-for-360-video-on-pc-for-2024/"><u>Experience Beyond Reality  Choosing the Premier 10 Headsets for 360 Video on PC for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/finessing-your-profiles-first-look-for-2024/"><u>Finessing Your Profile's First Look for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-facebook-ads-transformed-predicting-the-trends-for-next-year/"><u>In 2024, Facebook Ads Transformed  Predicting the Trends for Next Year</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-game-on-camera-off-top-methods-to-record-sims-4-triumphs-and-tribulations/"><u>In 2024, Game On, Camera Off? Top Methods to Record Sims 4 Triumphs and Tribulations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-golden-five-best-dvd-makers-for-macos-sierra/"><u>In 2024, Golden Five  Best DVD Makers for macOS Sierra</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-12-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi 12 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/master-your-online-presence-the-ultimate-guide-to-effective-freefire-tags-for-2024/"><u>Master Your Online Presence  The Ultimate Guide to Effective FreeFire Tags for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastering-the-art-of-intel-drivers-refresh-in-windows-7-os/"><u>Mastering the Art of Intel Drivers Refresh in Windows 7 OS</u></a></li>
+<li><a href="https://review-topics.techidaily.com/put-and-play-mkv-movies-on-motorola-edge-40-neo-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Put and play MKV movies on Motorola Edge 40 Neo</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-ultimate-guide-to-facebook-livestreaming-via-wirecast/"><u>The Ultimate Guide to Facebook Livestreaming via Wirecast</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-solving-pc-issues-for-a-seamless-spellbreak-gaming-experience/"><u>Ultimate Guide: Solving PC Issues for a Seamless Spellbreak Gaming Experience</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-14-pro-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi 14 Pro Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+</ul></div>

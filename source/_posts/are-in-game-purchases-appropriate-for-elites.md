@@ -1,7 +1,7 @@
 ---
 title: Are In-Game Purchases Appropriate for Elites?
-date: 2024-07-12T04:29:44.989Z
-updated: 2024-07-13T04:29:44.989Z
+date: 2024-08-08T09:11:23.400Z
+updated: 2024-08-09T09:11:23.400Z
 tags:
   - games
 categories:
@@ -28,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/96ca9c739207d23d042e7f8016b381f18f2564ff7
 
  Microtransactions (also known as MTX) have been popularized mainly by freemium games. They are optional payments that help game developers and publishers make money from games they otherwise might not have. However, microtransactions have increasingly snuck into premium, paid games. Is this trend, perhaps, justifiable?
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Why Do Microtransactions Exist in Video Games At All?
 
  You might recall a time when microtransactions did not exist. You bought a game, and that was it—you owned all the content in it. But let’s be completely honest: did that ever really exist?
@@ -60,6 +63,9 @@ But what about premium games? Should they have microtransactions?
 
  Many other publicly traded game developers have followed suit, releasing full-fledged premium games with $60 or more price tags, trying to make extra money from their releases.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Are Microtransactions Good for the Gaming Industry?
 
  On the surface, more money in an industry is always a good thing. It allows companies to have bigger budgets to research and develop better games, and it allows better marketing to introduce the products to diverse audiences.
@@ -68,6 +74,10 @@ But what about premium games? Should they have microtransactions?
 
  Some might argue that it’s not doing any harm, and microtransactions in premium games aren’t compulsory; they offer only cosmetic changes. The problem, though, is that when you give a profit-driven company that kind of access, it’s almost always exploited to the consumer’s detriment.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### Paying More to Experience Less
 
  Let’s look at Middle-earth: Shadow of War as a case study. It was released as a sequel to Shadow of Mordor, a well-received game using the proprietary nemesis system.
@@ -78,6 +88,9 @@ But what about premium games? Should they have microtransactions?
 
 ### Bloat and Battle Passes
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Assassin's Creed Origins Season Pass for sale on Ubisoft website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/assassin-s-creed-origins-season-pass-for-sale-on-ubisoft-website.png)
 
  Another way you can tell microtransactions don’t have a place in premium games is that they only worm their way into established franchises. Ubisoft is a good example of this, seeing as it has added seasonal passes to many titles in their (mostly) offline single-player adventure series, Assassin’s Creed.
@@ -90,12 +103,18 @@ But what about premium games? Should they have microtransactions?
 
  Additionally, these games end up being bloated, as content you’ve bought, downloaded, and installed is locked behind an additional paywall. This will cost the paying player more internet bills for content they will likely never get to experience.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### A Dishonest Means of Collecting More Money
 
  If a role-playing game was listed for only $40 and you bought it, only to play it and discover that the hero class you would have loved to play is locked behind an additional $10 paywall—how would you feel? Cheated? That’s because you were.
 
  It’s downright dishonest to create a core game mechanic and exclude it as an option in the base game. Because you’ve spent $40 already, you might as well spend $10 more to enjoy the game.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Diablo III selling necromancer class as extra content](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/diablo-iii-selling-necromancer-class-as-extra-content.png)
 
  Once again, Blizzard makes an appearance. Diablo III costs $19.99, and the Necromancer expansion costs $14.99\. It’s unfair that a separate expansion pack that pretty much adds only a class is worth almost as much as the base game. That means Blizzard is fairly confident that the necromancer class is the sole reason some people want to play the game. Yet, it’s not included as part of the standard offer.
@@ -123,3 +142,48 @@ But what about premium games? Should they have microtransactions?
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-advice-alley-17-recommended-tools-for-effective-image-cleaning/"><u>[New] Advice Alley  17 Recommended Tools for Effective Image Cleaning</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/astering-youtube-promotion-26-effective-techniques/"><u>[New] Mastering YouTube Promotion  26 Effective Techniques</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-unparalleled-speech-conversion-via-google-platform-for-2024/"><u>[New] Unparalleled Speech Conversion via Google Platform for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-acclaimed-melody-hub-for-android-devices/"><u>2024 Approved  Acclaimed Melody Hub for Android Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyerdynamics-audio-excellence-mmx-200/"><u>Beyerdynamic's Audio Excellence: MMX 200</u></a></li>
+<li><a href="https://games-able.techidaily.com/blackwidow-v4s-gaming-revolution-a-deep-dive-review/"><u>BlackWidow V4's Gaming Revolution - A Deep Dive Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/blending-worlds-meta-quest-3-reviewed/"><u>Blending Worlds: Meta Quest 3 Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/bluetooth-connectivity-for-console-and-earbuds/"><u>Bluetooth Connectivity for Console & Earbuds</u></a></li>
+<li><a href="https://games-able.techidaily.com/bond-with-gamers-through-series-x-clanship/"><u>Bond with Gamers Through Series X Clanship</u></a></li>
+<li><a href="https://games-able.techidaily.com/boost-creativity-through-play-12-game-masterpieces-await/"><u>Boost Creativity Through Play: 12 Game Masterpieces Await</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-games-the-art-of-minimized-3d-models/"><u>Boosting Games: The Art of Minimized 3D Models</u></a></li>
+<li><a href="https://games-able.techidaily.com/bounce-back-your-disappeared-wordle-streak/"><u>Bounce Back Your Disappeared Wordle Streak</u></a></li>
+<li><a href="https://games-able.techidaily.com/breaking-down-nvidia-g-sync-a-revolution-in-visual-fidelity/"><u>Breaking Down Nvidia G-Sync: A Revolution in Visual Fidelity</u></a></li>
+<li><a href="https://games-able.techidaily.com/breathe-new-life-into-your-games-steams-workshop-explained/"><u>Breathe New Life Into Your Games: Steam's Workshop Explained</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridge-the-gap-between-non-working-controllers-and-windows/"><u>Bridge the Gap Between Non-Working Controllers and Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/bring-back-crystal-clear-voice-on-your-console/"><u>Bring Back Crystal-Clear Voice on Your Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/bring-back-the-music-headset-connection-tips-for-xbox-one/"><u>Bring Back the Music: Headset Connection Tips for Xbox One</u></a></li>
+<li><a href="https://games-able.techidaily.com/bring-dreamcast-fun-emulating-games-on-android/"><u>Bring Dreamcast Fun: Emulating Games on Android</u></a></li>
+<li><a href="https://games-able.techidaily.com/budget-powerhouses-top-picks-of-mothers-for-gamers/"><u>Budget Powerhouses: Top Picks of Mothers for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/budget-friendly-gaming-refresh-rate-kings-and-queens/"><u>Budget-Friendly Gaming, Refresh Rate Kings and Queens</u></a></li>
+<li><a href="https://games-able.techidaily.com/budget-friendly-high-speed-monitors-elevate-your-play/"><u>Budget-Friendly High-Speed Monitors Elevate Your Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/build-your-gaming-clan-on-xbox-sx/"><u>Build Your Gaming Clan on Xbox S/X</u></a></li>
+<li><a href="https://games-able.techidaily.com/building-a-smooth-operating-system-with-compatible-parts/"><u>Building a Smooth Operating System with Compatible Parts</u></a></li>
+<li><a href="https://games-able.techidaily.com/case-studies-highlighting-successful-map-designs-that-effectively-integrate-functional-mapping-elements-with-aesthetic-considerations-eg-signage-in-public-s4/"><u>Case Studies Highlighting Successful Map Designs that Effectively Integrate Functional Mapping Elements with Aesthetic Considerations (E.g., Signage in Public Spaces)</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-infinix-note-30-vip-racing-edition-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Infinix Note 30 VIP Racing Edition to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/channeling-fun-with-board-and-card-games-in-discord-space/"><u>Channeling Fun with Board and Card Games in Discord Space</u></a></li>
+<li><a href="https://games-able.techidaily.com/charting-the-rise-and-fall-in-game-prices-on-steam/"><u>Charting the Rise and Fall in Game Prices on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/choosing-cpu-upgrade-vs-gpu-boost-priority/"><u>Choosing: CPU Upgrade Vs. GPU Boost Priority</u></a></li>
+<li><a href="https://games-able.techidaily.com/closing-the-virtual-marketplaces-refund-backdoor/"><u>Closing the Virtual Marketplace’s Refund Backdoor</u></a></li>
+<li><a href="https://games-able.techidaily.com/combat-device-hang-error-code-0x887a0006-on-win11/"><u>Combat Device Hang (Error Code 0X887A0006) on Win11</u></a></li>
+<li><a href="https://games-able.techidaily.com/commanders-conquest-best-11-tactical-world-war-ii-titles/"><u>Commanders' Conquest: Best 11 Tactical World War II Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/compact-and-robust-exploring-best-2024-tech-case-options/"><u>Compact & Robust: Exploring Best 2024 Tech Case Options</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/elevating-sims-4-chronicles-advanced-techniques-for-precise-game-recording-for-2024/"><u>Elevating Sims 4 Chronicles  Advanced Techniques for Precise Game Recording for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-professional-results-top-10-free-green-screen-apps-for-mobile-phones/"><u>Get Professional Results Top 10 Free Green Screen Apps for Mobile Phones</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722961374205-get-your-qualcomm-atheros-ar3011-bluetooth-30-driver-here/"><u>Get Your Qualcomm Atheros AR3011 Bluetooth 3.0 Driver Here</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-download-and-install-new-updates-for-your-amd-ati-radeon-hd/"><u>How to Download & Install New Updates for Your AMD ATI Radeon HD</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-x-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone X to other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-a-comprehensive-guide-to-mastering-ipogo-for-pokemon-go-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, A Comprehensive Guide to Mastering iPogo for Pokémon GO On Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-describing-your-podcast-with-flair/"><u>In 2024, The Art of Describing Your Podcast with Flair</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/top-5-premium-hd-webcams-featuring-sound-for-2024/"><u>Top 5 Premium HD Webcams Featuring Sound for 2024</u></a></li>
+</ul></div>

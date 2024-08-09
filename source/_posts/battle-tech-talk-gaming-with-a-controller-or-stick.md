@@ -1,7 +1,7 @@
 ---
 title: "Battle Tech Talk: Gaming with a Controller or Stick?"
-date: 2024-07-12T04:35:13.552Z
-updated: 2024-07-13T04:35:13.552Z
+date: 2024-08-08T09:06:47.739Z
+updated: 2024-08-09T09:06:47.739Z
 tags:
   - games
 categories:
@@ -28,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/05c8c6fd73c6fec22a2f538188954b893a706bcf3
 
 ### 1\. Input Precision
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![Darts on a dartboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/darts-g42b26ee2a_1920.jpg)
 
  It’s time to take a closer look at what is required to be competitive in a fighting game. There’s a reason the FGC is thriving after over 30 years of competition.
@@ -42,8 +45,15 @@ thumbnail: https://thmb.techidaily.com/05c8c6fd73c6fec22a2f538188954b893a706bcf3
 
  So, while an arcade stick is precise, it requires more skill than a controller.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ### 2\. Durability
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Broken controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/broken-controller.jpg)
 
  Image Credit: soepratman/[Freepik](https://www.freepik.com/free-vector/game-crash-icon-logo-design%5F44691241.htm)
@@ -58,6 +68,9 @@ thumbnail: https://thmb.techidaily.com/05c8c6fd73c6fec22a2f538188954b893a706bcf3
 
  A high-quality arcade stick can last five to six years without maintenance and even longer when maintained periodically. Controllers, however, need to be changed more frequently and are costly to fix when damaged.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. Functional Buttons
 
 ![A yellow arcade stick with blue input buttons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/arcade-stick.jpg)
@@ -72,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/05c8c6fd73c6fec22a2f538188954b893a706bcf3
 
 ### 4\. Feedback
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![A vibrating PS5 controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/untitled-design-3.jpg)
 
  Feedback in console games has been a big thing since the release of early dual-shock controllers. Most modern fighting game titles allow for varying degrees of feedback. It can be as small as a little vibration when your player gets hit.
@@ -82,6 +99,9 @@ thumbnail: https://thmb.techidaily.com/05c8c6fd73c6fec22a2f538188954b893a706bcf3
 
  However, some enthusiasts are playing around with the idea of introducing haptic feedback to arcade sticks. It is also worth noting that the DualSense controller, in particular, supports haptic feedback, which can [make your fighting games a bit more immersive](https://www.makeuseof.com/force-haptic-feedback-games/) .
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. Ergonomics
 
 ![A father and his son playing video games on a couch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ergonomics.jpg)
@@ -116,6 +136,9 @@ thumbnail: https://thmb.techidaily.com/05c8c6fd73c6fec22a2f538188954b893a706bcf3
 
  However, some top players in the fighting game scene use controllers. Albeit possible, it takes much more effort to be good on a controller consistently. If you have the extra time to put in, then it won’t be a problem. Otherwise, an arcade stick is the way to go.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Get the Best Competitive Advantage
 
  The ultimate goal of any competitive fighting game player is to be the best. As a result, fighting games have spawned a passionate community of gamers dedicated to honing their skills.
@@ -139,3 +162,43 @@ thumbnail: https://thmb.techidaily.com/05c8c6fd73c6fec22a2f538188954b893a706bcf3
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-counterclockwise-playback-in-instagram-videos/"><u>[New] Counterclockwise Playback in Instagram Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-novice-to-pro-creating-metaverse-laughter/"><u>[New] From Novice to Pro  Creating Metaverse Laughter</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harness-10-tools-to-grab-youtube-images-online-for-2024/"><u>[New] Harness 10 Tools to Grab YouTube Images Online for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-top-igtv-gurus-you-cant-miss/"><u>[New] In 2024, Top IGTV Gurus You Can't Miss</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-integrating-visuals-smoothly-mastering-snap-camera-in-microsoft-teams/"><u>[New] Integrating Visuals Smoothly  Mastering Snap Camera in Microsoft Teams</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-hashtags-in-harmony-twitter-and-tiktoks-10-viral-vids/"><u>[Updated] Hashtags in Harmony  Twitter and TikTok's 10 Viral Vids</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-rip-audio-from-youtube-in-3-ways-free-and-safe/"><u>[Updated] In 2024, How to Rip Audio From YouTube in 3 Ways [Free and Safe]</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-prospective-leaders-in-titling-the-top-5-online-masters-revealed/"><u>2024 Approved  Prospective Leaders in Titling  The Top 5 Online Masters Revealed</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-batteries-future-focus/"><u>Beyond Batteries: Future Focus</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-connections-the-hidden-risks-of-linkedin-gaming/"><u>Beyond Connections: The Hidden Risks of LinkedIn Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/broadcast-your-gaming-adventures-with-xbox-on-discord/"><u>Broadcast Your Gaming Adventures with Xbox on Discord</u></a></li>
+<li><a href="https://games-able.techidaily.com/budget-busters-affordable-xbox-playtime/"><u>Budget Busters: Affordable Xbox Playtime</u></a></li>
+<li><a href="https://games-able.techidaily.com/budget-friendly-graphic-mastery/"><u>Budget-Friendly Graphic Mastery</u></a></li>
+<li><a href="https://games-able.techidaily.com/building-a-safe-steam-world-for-young-ones/"><u>Building a Safe Steam World for Young Ones</u></a></li>
+<li><a href="https://games-able.techidaily.com/bypass-the-cables-update-dualsense-without-hands-on-intervention/"><u>Bypass the Cables: Update DualSense Without Hands-On Intervention</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-am08-pro-enhance-authenticity-of-magic-play/"><u>Can AM08 Pro Enhance Authenticity of Magic Play?</u></a></li>
+<li><a href="https://games-able.techidaily.com/challenge-your-skillset-engage-with-the-best-6-alternative-games/"><u>Challenge Your Skillset: Engage With the Best 6 Alternative Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/change-of-scenery-your-switchs-new-geographic-home/"><u>Change of Scenery: Your Switch's New Geographic Home</u></a></li>
+<li><a href="https://games-able.techidaily.com/chaos-made-calm-6-efficient-gpt-techniques-for-aspiring-dms/"><u>Chaos Made Calm: 6 Efficient GPT Techniques for Aspiring DMs</u></a></li>
+<li><a href="https://games-able.techidaily.com/chatgpt-unleashed-6-techniques-to-perfect-your-dungeon-mastering/"><u>ChatGPT Unleashed: 6 Techniques to Perfect Your Dungeon Mastering</u></a></li>
+<li><a href="https://games-able.techidaily.com/choosing-top-quality-work-flooring-systems/"><u>Choosing Top-Quality Work Flooring Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/clouding-up-game-highlights-store-screenshots-easily/"><u>Clouding Up Game Highlights: Store Screenshots Easily</u></a></li>
+<li><a href="https://games-able.techidaily.com/coding-conundrum-the-advantages-and-disadvantages-of-digital-gaming/"><u>Coding Conundrum: The Advantages and Disadvantages of Digital Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/combating-crashing-fixes-for-steams-widescreen-issue/"><u>Combating Crashing: Fixes for Steam's Widescreen Issue</u></a></li>
+<li><a href="https://games-able.techidaily.com/combatting-offensive-behavior-xbox-report-guide/"><u>Combatting Offensive Behavior: Xbox Report Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/comet-craftsmanship-evaluating-next-gen-computers/"><u>Comet Craftsmanship: Evaluating Next-Gen Computers</u></a></li>
+<li><a href="https://games-able.techidaily.com/comparative-analysis-steam-vs-gog-game-platforms/"><u>Comparative Analysis: Steam vs GOG Game Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/compare-and-contrast-founder-original-and-aib-graphics-cards/"><u>Compare and Contrast: Founder Original & AIB Graphics Cards</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-nubia-z50-ultra-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Nubia Z50 Ultra</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-a-comprehensive-guide-to-crop-your-video-for-instagram/"><u>In 2024, A Comprehensive Guide to Crop Your Video for Instagram</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pairing-videography-and-soundtrack-in-w11/"><u>In 2024, Pairing Videography and Soundtrack in W11</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-premier-selection-top-8-fb-film-extractors/"><u>In 2024, The Premier Selection  Top 8 FB Film Extractors</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/mastering-video-and-screenshots-with-simple-steps/"><u>Mastering Video & Screenshots with Simple Steps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/premier-selection-the-best-11-soundstreamer-devices-for-2024/"><u>Premier Selection  The Best 11 Soundstreamer Devices for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/solving-compatibility-problems-for-intels-drivers-and-support-suite-on-pc/"><u>Solving Compatibility Problems for Intel's Drivers & Support Suite on PC</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unveil-exclusive-video-snippets-all-at-zero-cost-for-2024/"><u>Unveil Exclusive Video Snippets – All at Zero Cost for 2024</u></a></li>
+</ul></div>

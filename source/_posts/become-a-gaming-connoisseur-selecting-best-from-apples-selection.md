@@ -1,7 +1,7 @@
 ---
 title: "Become a Gaming Connoisseur: Selecting Best From Apple's Selection"
-date: 2024-07-12T04:28:47.932Z
-updated: 2024-07-13T04:28:47.932Z
+date: 2024-08-08T09:12:10.694Z
+updated: 2024-08-09T09:12:10.694Z
 tags:
   - games
 categories:
@@ -14,12 +14,18 @@ thumbnail: https://thmb.techidaily.com/a9441716968b4b370228db8f919eac0889d914a97
 
 ## Become a Gaming Connoisseur: Selecting Best From Apple's Selection
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Browsing Apple Arcade’s Must-Play and App Store Greats Categories](#browsing-apple-arcade-rsquo-s-must-play-and-app-store-greats-categories)
 * [Checking the Reviews to See What Others Think](#checking-the-reviews-to-see-what-others-think)
 * [Filtering Games by Controller Compatibility and Last Updated](#filtering-games-by-controller-compatibility-and-last-updated)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Apple Arcade recommends great games in curated lists like Must-Play and App Store Greats. Check those out first.
@@ -28,6 +34,9 @@ thumbnail: https://thmb.techidaily.com/a9441716968b4b370228db8f919eac0889d914a97
 
  Apple Arcade’s curated selection of games can be a little difficult to navigate. Although there aren’t many titles, finding the best ones can still be tricky if you don’t know how to look. As someone who has been using Apple Arcade since it launched in 2019, I have some tips on how to find games you’ll like.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1  Browsing Apple Arcade’s Must-Play and App Store Greats Categories
 
  The easiest thing to do is check out the games that Apple recommends. These recommendations are not random selections but the result of meticulous curation by teams of editors and curators with decades of experience. They’ve arranged them in lists called Must-Play and App Store Greats.
@@ -47,6 +56,9 @@ Close
 
  The second category, App Store Greats, is more like an expansion of the Must-Play list. Any game on the list in a genre that you like is bound to be a lot of fun. I found Prune, Stardew Valley, and Slay the Spire here, and I must add that Stardew Valley is one of the [reasons I subscribe to Apple Arcade](https://www.makeuseof.com/apple-arcade-reasons-to-subscribe/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ## 2 Checking the Reviews to See What Others Think
 
  This is an age-old tip, and of course, it doesn’t apply only to Apple Arcade. You should always read reviews before downloading a game. Reviews have convinced me to download games I otherwise wouldn’t have and caused me to hesitate before gleefully tapping the**Get** button.
@@ -71,6 +83,23 @@ Close
 
  You can now download the game if you’re OK with all you’ve seen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ## 3 Filtering Games by Controller Compatibility and Last Updated
 
  Developers who create their games to be controller-friendly and those who still update and maintain their games count for making the best games on Apple Arcade. This is only because they are intentional with their creation. One of the [cons of Apple Arcade](https://www.makeuseof.com/apple-arcade-pros-and-cons/) is that it caters more to casual gamers; filtering by controller support helps mitigate that disadvantage.
@@ -112,3 +141,61 @@ Close
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-essential-skills-for-efficient-teamsnap-photo-taking/"><u>[New] Essential Skills for Efficient TeamSnap Photo Taking</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-formulating-a-heartfelt-tiktok-epilogue/"><u>[New] Formulating a Heartfelt TikTok Epilogue</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/tep-by-step-guide-for-earning-from-every-youtube-short/"><u>[New] Step-by-Step Guide for Earning From Every YouTube Short</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-instagram-friends-evaporation-identify-now/"><u>[Updated] 2024 Approved  Instagram Friends Evaporation  Identify Now</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-mastering-youtube-views-secrets-for-a-million-followers/"><u>[Updated] Mastering Youtube Views  Secrets for a Million Followers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-professional-techniques-for-sims-4-live-action/"><u>2024 Approved  Professional Techniques for Sims 4 Live-Action</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-screenstreamer-breaking-down-the-newest-recorder/"><u>2024 Approved  ScreenStreamer  Breaking Down the Newest Recorder</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-mac-book-on-srt-file-handling/"><u>2024 Approved  The Complete Mac Book on SRT File Handling</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-unbeatable-online-headline-builder/"><u>2024 Approved  Unbeatable Online Headline Builder</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-guide-to-formulating-successful-product-sponsorships-in-youtubespace/"><u>A Guide to Formulating Successful Product Sponsorships in YouTubespace</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-new-perspective-do-steam-points-define-you/"><u>A New Perspective: Do Steam Points Define You?</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-list-gamers-journey-tracking-sites/"><u>A-List Gamers' Journey Tracking Sites</u></a></li>
+<li><a href="https://games-able.techidaily.com/access-all-features-on-xbox-1-without-standard-controls/"><u>Access All Features on Xbox 1 without Standard Controls</u></a></li>
+<li><a href="https://games-able.techidaily.com/adapting-playstation-controller-for-pcmac-gaming/"><u>Adapting PlayStation Controller for PC/Mac Gaming</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/asus-proart-pa-329q-in-focus-the-comprehensive-4k-professional-display-analysis-for-2024/"><u>Asus ProArt PA 329Q in Focus – The Comprehensive 4K Professional Display Analysis for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/auditory-acumen-top-mobile-trivia-applications-in-sound/"><u>Auditory Acumen: Top Mobile Trivia Applications in Sound</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/beginning-vlog-essential-gear-and-initial-editing-tools-for-2024/"><u>Beginning Vlog  Essential Gear & Initial Editing Tools for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/best-8-streamers-pick-high-end-cameras-reviewed-for-2024/"><u>Best 8 Streamer's Pick  High-End Cameras Reviewed for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/boosting-fps-on-dragons-dogma-2-fixes-for-stutter-and-hitches/"><u>Boosting FPS on Dragon's Dogma 2: Fixes for Stutter and Hitches</u></a></li>
+<li><a href="https://games-able.techidaily.com/breaking-down-believability-why-game-reviews-arent-always-reliable/"><u>Breaking Down Believability: Why Game Reviews Aren't Always Reliable</u></a></li>
+<li><a href="https://games-able.techidaily.com/creative-gaming-solutions-without-a-dualshock/"><u>Creative Gaming Solutions Without a DualShock</u></a></li>
+<li><a href="https://games-able.techidaily.com/currents-of-creativity-more-than-electricity/"><u>Currents of Creativity: More Than Electricity</u></a></li>
+<li><a href="https://games-able.techidaily.com/curtailing-xbox-game-bars-intrusive-activities-in-windows-11/"><u>Curtailing Xbox Game Bar's Intrusive Activities in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/digging-into-digital-storefronts-gog-vs-steam-evaluation/"><u>Digging Into Digital Storefronts: GoG Vs Steam Evaluation</u></a></li>
+<li><a href="https://games-able.techidaily.com/dissecting-the-strategic-gaming-alliance-between-microsoft-and-blizzard/"><u>Dissecting the Strategic Gaming Alliance Between Microsoft & Blizzard</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/elite-guide-from-concept-to-compelling-fullscreen-edits-in-premiere-pro/"><u>Elite Guide  From Concept to Compelling Fullscreen Edits in Premiere Pro</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhance-skills-and-strategy-opt-for-free-voice-modification-in-valorant/"><u>Enhance Skills & Strategy  Opt for Free Voice Modification in Valorant</u></a></li>
+<li><a href="https://fox-that.techidaily.com/essential-troubleshooting-techniques-for-when-your-iphone-fails-to-deliver-text-messages-10-methods/"><u>Essential Troubleshooting Techniques for When Your iPhone Fails to Deliver Text Messages (10 Methods)</u></a></li>
+<li><a href="https://win11.techidaily.com/essentials-for-enabling-win11-on-5ghz-networks-effortlessly/"><u>Essentials for Enabling Win11 on 5GHz Networks Effortlessly</u></a></li>
+<li><a href="https://games-able.techidaily.com/ideal-multiplayer-console-titles-best-16-for-game-nights/"><u>Ideal Multiplayer Console Titles - Best 16 for Game Nights</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-oneplus-nord-n30-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of OnePlus Nord N30 5G?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-infinix-hot-30i-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Infinix Hot 30i Phone? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-6-plus-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone 6 Plus Lock Screen with Notifications?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on HTC U23? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-4k-aerial-photography-guide-mi-drone-review/"><u>In 2024, The Ultimate 4K Aerial Photography Guide  MI Drone Review</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-untangling-insta-vids-selfies-validity-questioned/"><u>In 2024, Untangling Insta Vids  Selfies' Validity Questioned</u></a></li>
+<li><a href="https://games-able.techidaily.com/infusing-servers-with-games-chess-and-poker-in-discord/"><u>Infusing Servers with Games: Chess and Poker in Discord</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/leading-speedy-visualizer-in-windows/"><u>Leading Speedy Visualizer in Windows</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/maximizing-socialization-with-ease-xbox-ones-zoom-functionality-for-2024/"><u>Maximizing Socialization with Ease  Xbox One's Zoom Functionality for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-pre-launch-path-to-starfield-experience/"><u>Navigating the Pre-Launch Path to Starfield Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-visionary-leap-into-ai-enhanced-realism-with-dlss-35/"><u>Nvidia's Visionary Leap Into AI-Enhanced Realism with DLSS 3.5</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/optimized-screen-capture-on-pcmac-with-elite-tools-for-2024/"><u>Optimized Screen Capture on PC/Mac with Elite Tools for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-tracker-for-video-game-quests/"><u>Prime Tracker for Video Game Quests</u></a></li>
+<li><a href="https://games-able.techidaily.com/questionable-quality-why-portable-gaming-isnt-all-it-seems/"><u>Questionable Quality: Why Portable Gaming Isn't All It Seems</u></a></li>
+<li><a href="https://games-able.techidaily.com/secure-gaming-experience-reasons-to-ditch-ps5-mics/"><u>Secure Gaming Experience: Reasons to Ditch PS5 Mics</u></a></li>
+<li><a href="https://games-able.techidaily.com/selecting-quality-on-a-dime-vr-edition/"><u>Selecting Quality on a Dime: VR Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/selecting-superior-light-panelsets-for-gaming-spaces/"><u>Selecting Superior Light Panelsets for Gaming Spaces</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategic-tech-investment-cpu-or-gpu-first/"><u>Strategic Tech Investment: CPU or GPU First?</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-ssd-selection-for-ps5/"><u>Superior SSD Selection for PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-intricacies-of-metagame-definition-importance-and-obedience/"><u>The Intricacies of Metagame: Definition, Importance & Obedience</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-battle-asus-roar-against-tuf-proart-and-prime/"><u>The Ultimate Battle: Asus' Roar Against TUF, ProArt & Prime</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-xbox-controller-inconsistency/"><u>Troubleshooting Xbox Controller Inconsistency</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-hidden-internet-capabilities-of-ps5/"><u>Unlocking Hidden Internet Capabilities of PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-blueprint-to-discovering-exceptional-discord-communities/"><u>Your Blueprint to Discovering Exceptional Discord Communities</u></a></li>
+</ul></div>

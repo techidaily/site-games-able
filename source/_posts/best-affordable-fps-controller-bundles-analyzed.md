@@ -1,7 +1,7 @@
 ---
 title: Best Affordable FPS Controller Bundles Analyzed
-date: 2024-07-12T04:35:31.652Z
-updated: 2024-07-13T04:35:31.652Z
+date: 2024-08-08T09:06:32.536Z
+updated: 2024-08-09T09:06:32.537Z
 tags:
   - games
 categories:
@@ -72,6 +72,9 @@ Most Compact
 [$100 at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhyperx-alloy-origins-60-wired-mechanical-linear-red-switch-gaming-keyboard-and-rgb-back-lighting-black%2F6452798.p%3FskuId%3D6452798)
 
 * [](https://www.walmart.com/ip/ROCCAT-Magma-Silent-Membrane-Switch-PC-Gaming-Keyboard-with-5-Zone-10-LED-AIMO-RGB-Top-Plate-and-Detachable-Palm-Rest-Black/602085349)  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![roccat magma](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/roccat-magma.png)  
 Roccat  
 
@@ -91,6 +94,9 @@ Lowest Profile
 
 ## Our Favorite Budget Gaming Keyboards in 2023
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![logitech-g413-keyboard-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/logitech-g413-keyboard-2.jpg)
 
 ##### Logitech G413
@@ -123,6 +129,9 @@ Best Overall
 
  The Logitech G413 also comes in handy when you've got a paper to write. Along with tactile mechanical keys, its 12 function keys are programmable via Logitech's proprietary G Hub software. More importantly, it has a 26-key rollover and anti-ghosting for improved performance.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![redragon-k552-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/redragon-k552-1.jpg)
 
 ##### Redragon K552
@@ -152,6 +161,9 @@ Performance on a Budget
 
  Speaking of durability, the Redragon K552 is a pretty strong piece of hardware. It boasts a metal and ABS construction, with the keys themselves being plate-mounted, adding to the tactile feedback.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![corsair-k55-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/corsair-k55-2.jpg)
 
 ##### Corsair K55 RGB
@@ -181,6 +193,10 @@ For Those Prone to Tipping Drinks
 
  Additionally, six macro keys are found on the left-hand side, which you can use Corsair's iCUE software to program. For a gaming setup, the Corsair K55 RGB is a fantastic solution for those on a budget.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![SteelSeries Apex 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/steelseries-apex-3.jpg)
 
 ##### SteelSeries Apex 3
@@ -208,6 +224,9 @@ Quietest Keys
 
  The advantage here, however, is that the keys produce far less sound. If you tend to game at night, when others are asleep, this is a fine option. In addition to good switches, it has great durability. Its magnetic wrist rest is comfortable and easily removable. More importantly, it has an IP32 water resistance rating.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![rosewill-neon-k85-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/rosewill-neon-k85-1.jpg)
 
 ##### Rosewill Neon K85 RGB
@@ -240,6 +259,9 @@ When You Want to Game in Style
 
  Sturdy and tough, the Rosewill Neon K85 RGB has an aluminum build, giving it longevity, a premium look, and a sleek design. The RGB lighting, in particular, is quite vibrant, with many customization options available.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![profile view of hyperx alloy origins 60 keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/hyperx-alloy-origins-60.jpg)
 
 ##### HyperX Alloy Origins 60
@@ -267,6 +289,9 @@ Most Compact
 
  The magic comes from HyperX’s mechanical switches, which feature a short travel time and require very little force to actually press. That combination makes the HyperX Alloy Origins 60 incredibly responsive and a must-have when gaming gets intense. The HyperX Alloy Origins 60 can also take quite the beating. Given its aircraft-grade aluminum casing, it is resistant to bending and gives the keyboard quite a long lifespan.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![roccat magma](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/roccat-magma.png)
 
 ##### ROCCAT Magma
@@ -337,6 +362,9 @@ Lowest Profile
 
  If you love stretching your bottom dollar, then it's the Redragon K552 you want. It's a surprisingly durable TKL keyboard, and Redragon even gives you a choice between Blue, Brown, and Red mechanical switches.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![logitech-g413-keyboard-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/logitech-g413-keyboard-2.jpg)
 
 ##### Logitech G413
@@ -379,3 +407,39 @@ Best Overall
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-creating-high-impact-yt-cover-images/"><u>[New] In 2024, Creating High-Impact YT Cover Images</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-sky-high-picture-preservation-discover-ultimate-cloud-options/"><u>2024 Approved  Sky-High Picture Preservation  Discover Ultimate Cloud Options</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-unlock-the-full-potential-of-your-h-videos-on-instagram-tv/"><u>2024 Approved  Unlock the Full Potential of Your H-Videos on Instagram TV</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyerdynamic-mmx-200-a-sound-perspective/"><u>Beyerdynamic MMX 200: A Sound Perspective</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-boundaries-say-goodbye-to-game-exclusives/"><u>Beyond Boundaries: Say Goodbye to Game Exclusives</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-hype-will-nvidias-new-passage-make-gaming-better/"><u>Beyond Hype, Will Nvidia's New Passage Make Gaming Better?</u></a></li>
+<li><a href="https://games-able.techidaily.com/boost-game-performance-with-smart-disk-management-in-steam/"><u>Boost Game Performance with Smart Disk Management in Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/break-controller-conundrum-quick-cure-for-ps4-gamepad-glitches/"><u>Break Controller Conundrum: Quick Cure for PS4 Gamepad Glitches</u></a></li>
+<li><a href="https://games-able.techidaily.com/breaking-barriers-with-the-latest-handheld-x-update/"><u>Breaking Barriers with the Latest Handheld X Update</u></a></li>
+<li><a href="https://games-able.techidaily.com/breaking-down-intel-stream-assist-a-game-enhancing-tool/"><u>Breaking Down Intel Stream Assist - A Game-Enhancing Tool</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridging-the-gap-in-minecraft-solving-pc-connection-issues/"><u>Bridging the Gap in Minecraft: Solving PC Connection Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/budget-smart-high-fidelity-gaming-monitors-selection/"><u>Budget-Smart, High Fidelity Gaming Monitors Selection</u></a></li>
+<li><a href="https://games-able.techidaily.com/bypassing-queue-how-to-skip-the-regular-access-lineup/"><u>Bypassing Queue: How to Skip the Regular Access Lineup</u></a></li>
+<li><a href="https://games-able.techidaily.com/camouflage-gaming-on-steam/"><u>Camouflage Gaming on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-you-change-the-background-on-your-ps5/"><u>Can You Change the Background on Your PS5?</u></a></li>
+<li><a href="https://games-able.techidaily.com/captivating-content-in-minutes-netflixs-gaming-delight/"><u>Captivating Content in Minutes: Netflix’s Gaming Delight</u></a></li>
+<li><a href="https://games-able.techidaily.com/case-studies-highlighting-successful-map-designs-that-effectively-integrate-functional-mapping-elements-with-aesthetic-considerations-eg-signage-in-public-s5/"><u>Case Studies Highlighting Successful Map Designs that Effectively Integrate Functional Mapping Elements with Aesthetic Considerations (E.g., Signage in Public Spaces).</u></a></li>
+<li><a href="https://games-able.techidaily.com/championship-edge-the-ultimate-7-iosandroid-sports-gaming-hits/"><u>Championship Edge: The Ultimate 7 iOS/Android Sports Gaming Hits</u></a></li>
+<li><a href="https://games-able.techidaily.com/choosing-devices-phone-or-tablet-gameplay/"><u>Choosing Devices: Phone or Tablet Gameplay?</u></a></li>
+<li><a href="https://games-able.techidaily.com/clear-and-clean-a-stepwise-guide-to-excising-games-from-steam/"><u>Clear & Clean: A Stepwise Guide to Excising Games From Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/clearing-screen-startup-failures-a-win10-and-11-guide/"><u>Clearing Screen Startup Failures: A Win10 & 11 Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/closing-the-backdoor-in-steams-reimbayer-route/"><u>Closing the Backdoor in Steam’s Reimbayer Route</u></a></li>
+<li><a href="https://games-able.techidaily.com/clubhouse-crafting-for-xbox-10-generation/"><u>Clubhouse Crafting for Xbox 10 Generation</u></a></li>
+<li><a href="https://games-able.techidaily.com/collectors-delight-vs-cashless-commitment/"><u>Collector's Delight Vs. Cashless Commitment</u></a></li>
+<li><a href="https://games-able.techidaily.com/command-chronicles-a-selection-of-top-11-immersive-games/"><u>Command Chronicles: A Selection of Top 11 Immersive Games</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-navigate-windows-8-safe-mode-for-graphics-driver-uninstallation/"><u>How to Navigate Windows 8 Safe Mode for Graphics Driver Uninstallation</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-ace-2-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock OnePlus Ace 2 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-your-presentations-physical-form-essential-strategies-for-prints-in-windows/"><u>Mastering Your Presentations' Physical Form: Essential Strategies for Prints in Windows</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/unlocking-the-full-screen-potential-of-fb-videos/"><u>Unlocking the Full Screen Potential of FB Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/visual-storytelling-at-its-finest-youtube-trailers-through-filmoras-lens-for-2024/"><u>Visual Storytelling at Its Finest  YouTube Trailers Through Filmora's Lens for 2024</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-realme-12-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Realme 12 Pro 5G Hard Reset | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Avoid Buyer's Remorse with PC Compatibility Checks
-date: 2024-07-12T04:35:43.232Z
-updated: 2024-07-13T04:35:43.232Z
+date: 2024-08-08T09:06:22.594Z
+updated: 2024-08-09T09:06:22.594Z
 tags:
   - games
 categories:
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
 
  Figuring out hardware compatibility isn't always easy, so we've compiled a list of seven ways to check hardware compatibility before you buy.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ## 1\. PCPartPicker
 
  Top of any PC hardware compatibility list is always [PCPartPicker](ttps://pcpartpicker.com) . It's the ultimate go-to for anyone building a new PC or considering a hardware upgrade. It's filled with a vast array of PC hardware, and you can use it to build out a whole configuration or to check if two parts work together.
@@ -32,14 +35,23 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
 
  Most manufacturers provide extensively detailed information on their hardware, including compatibility, updates, warranty information, and more. For example, if you head on over to the Intel site and search for a CPU, it'll tell you the exact chipset to use (which tells you which type of motherboard to buy), along with the supported amount and type of RAM.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![intel i9 13900k spec sheet 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/intel-i9-13900k-spec-sheet-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. GPU Check
 
 [GPU Check](https://www.gpucheck.com/gpu-benchmark-comparison) is a handy tool for figuring out how your CPU and GPU might perform together. Sure, the go-to is typically to buy the biggest and best of both, and when you're building a new PC from scratch, that's a straightforward option.
 
  But when upgrading a PC with new components, you might want to consider how your older CPU will play with a newer GPU or vice versa. With GPU Check, you can compare CPU and GPU combinations against one another and see how the changes affect performance. Of course, it's a general guide; CPU and GPU age, cooling, and other factors will affect your outright performance, but it's a good gauge, nonetheless.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Newegg Custom PC Builder
 
  PCPartPicker tops the list because it's [the biggest and best of the PC hardware compatibility bunch](https://www.makeuseof.com/best-custom-pc-builder-website/) , but the [Newegg Custom PC Builder](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.newegg.com%2Ftools%2Fcustom-pc-builder) is also worth a shout.
@@ -48,10 +60,16 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
 
  I asked the Build With AI tool for a "PC to play Cities Skylines 2 at very high quality," which is clear enough for humans but maybe a little vague for an AI tool, as the game hasn't been released at the time of writing. Whether the AI tool understands the specs of Cities Skylines 2 or is just responding to the "very high quality" prompt, it produced three fully-compatible custom PC builds within seconds.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![newegg ai pc part picker high end custom pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/newegg-ai-pc-part-picker-high-end-custom-pc.jpg)
 
  I switched up the prompt to "budget $700, want to play racing games, would like RGB" to add some challenge. The three custom PC builds were a little more hit-and-miss but would still run some racing games at 1080p (though not much RGB on show!).
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![newegg ai pc part picker racing game build budget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/newegg-ai-pc-part-picker-racing-game-build-budget.jpg)
 
  The individual component selection works similarly to PCPartPicker, helping you match compatible hardware by eliminating parts that don't work after each selection.
@@ -81,6 +99,9 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
 
  The second way you can use Google Bard is to cross-check a custom PC build list for compatibility issues.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![google bard checks custom pc build list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-bard-checks-custom-pc-build-list.jpg)
 
  In both scenarios, Google Bard helped figure out which PC components were compatible.
@@ -117,3 +138,41 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-image-weaving-the-art-of-photomontages/"><u>[Updated] Image Weaving  The Art of Photomontages</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-list-of-outstanding-storytelling-youtubers-this-year/"><u>[Updated] The Ultimate List of Outstanding Storytelling YouTubers This Year</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-optimal-webcam-use-and-recording-techniques-for-macbook/"><u>2024 Approved  Optimal Webcam Use and Recording Techniques for MacBook</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-spectrum-perfection-color-grading-basics/"><u>2024 Approved  Spectrum Perfection  Color Grading Basics</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unveiling-the-world-of-virtual-performing-artists/"><u>2024 Approved  Unveiling the World of Virtual Performing Artists</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-visualizing-vigor-motion-blur-on-faces-in-picsart/"><u>2024 Approved  Visualizing Vigor  Motion Blur on Faces in Picsart</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-samsung-galaxy-m14-4g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Samsung Galaxy M14 4G FRP Bypass Instantly</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-high-res-embracing-consoles-gameplay/"><u>Beyond High Res: Embracing Consoles' Gameplay</u></a></li>
+<li><a href="https://techtrends.techidaily.com/blue-screen-conqueror-comprehensive-strategies-to-fix-error-0x0000003d/"><u>Blue Screen Conqueror: Comprehensive Strategies to Fix Error 0X0000003D</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-game-availability-tips-for-steams-sync/"><u>Boosting Game Availability: Tips for Steam's Sync</u></a></li>
+<li><a href="https://games-able.techidaily.com/breaking-down-steams-remote-play-fixes-on-windows/"><u>Breaking Down Steam's Remote Play Fixes on Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridge-the-gap-connecting-to-mc-lan-on-windows/"><u>Bridge the Gap: Connecting to MC LAN on Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridging-the-gap-android-and-linux-integration/"><u>Bridging the Gap: Android and Linux Integration</u></a></li>
+<li><a href="https://games-able.techidaily.com/brightening-up-your-gaming-space-controlling-xbox-leds/"><u>Brightening Up Your Gaming Space: Controlling Xbox LEDs</u></a></li>
+<li><a href="https://games-able.techidaily.com/bring-your-game-night-to-discord-with-streamed-xbox/"><u>Bring Your Game Night to Discord with Streamed Xbox</u></a></li>
+<li><a href="https://games-able.techidaily.com/bringing-nintendo-switch-back-to-life/"><u>Bringing Nintendo Switch Back to Life</u></a></li>
+<li><a href="https://games-able.techidaily.com/broadcasters-guide-to-diverse-gaming-selection/"><u>Broadcasters' Guide to Diverse Gaming Selection</u></a></li>
+<li><a href="https://games-able.techidaily.com/building-international-cooperation/"><u>Building International Cooperation</u></a></li>
+<li><a href="https://games-able.techidaily.com/building-your-text-based-kingdom-harnessing-the-power-of-chatgpt-rpgs/"><u>Building Your Text-Based Kingdom: Harnessing the Power of ChatGPT RPGs</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-classics-meet-switchs-oled-upgrade/"><u>Can Classics Meet Switch's OLED Upgrade?</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-the-release-of-amds-fsr-3-shake-up-nvidias-dominance-in-anti-aliasing/"><u>Can the Release of AMD’s FSR 3 Shake Up NVIDIA's Dominance in Anti-Aliasing?</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-you-trust-discords-idleness-status-feedback/"><u>Can You Trust Discord’s Idleness Status Feedback?</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-you-use-an-nintendo-switch-oled-in-vintage-docks/"><u>Can You Use an Nintendo Switch OLED in Vintage Docks?</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-your-dualsense-navigate-a-previous-console/"><u>Can Your DualSense Navigate a Previous Console?</u></a></li>
+<li><a href="https://games-able.techidaily.com/cancel-steam-services-without-a-fuss/"><u>Cancel Steam Services Without a Fuss</u></a></li>
+<li><a href="https://games-able.techidaily.com/champion-circles-milestone-meadows/"><u>Champion Circles: Milestone Meadows</u></a></li>
+<li><a href="https://games-able.techidaily.com/champion-mouse-pad-reviews-by-gamers/"><u>Champion Mouse Pad Reviews by Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/chaos-controlled-the-best-six-uses-for-chatgpt-as-dandd-mentor/"><u>Chaos Controlled: The Best Six Uses for ChatGPT as D&D Mentor</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-motorola-razr-40-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-11-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 11 without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-rotation-revelations-guide-crafting-captivating-images-on-social-media/"><u>The Rotation Revelations Guide  Crafting Captivating Images on Social Media</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-friendship-boosting-apps-find-companions-and-build-connections/"><u>Top 5 Friendship-Boosting Apps: Find Companions and Build Connections</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-poco-m6-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Poco M6 Pro 5G | Dr.fone</u></a></li>
+</ul></div>

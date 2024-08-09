@@ -1,7 +1,7 @@
 ---
 title: Akko MOD007B Board Insights for Serious Gaming
-date: 2024-07-12T04:32:56.480Z
-updated: 2024-07-13T04:32:56.480Z
+date: 2024-08-08T09:08:43.116Z
+updated: 2024-08-09T09:08:43.116Z
 tags:
   - games
 categories:
@@ -14,6 +14,9 @@ thumbnail: https://thmb.techidaily.com/39891eff73508b464f66ea96b5a005498dc7a497b
 
 ## Akko MOD007B Board Insights for Serious Gaming
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Akko MOD007B HE keyboard uses Hall Effect switches for customizable actuation distance, giving gamers an advantage.
@@ -109,8 +112,14 @@ No
 
 [See at Akko](https://en.akkogear.com/product/mod007b-pc-santorini-mechanical-keyboard/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## A Great-Looking Keyboard on the Surface
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![Akko MOD007B HE Spacebar Detail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-spacebar-detail.jpg)
 
  Jowi Morales / MakeUseOf
@@ -123,6 +132,9 @@ No
 
 ## Tokyo-Themed Keys and Accessories Included
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Akko MOD007B HE Tokyo-themed Accessories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-tokyo-themed-accessories.jpg)
 
  Jowi Morales / MakeUseOf
@@ -131,16 +143,26 @@ No
 
  The extra keycaps contain Japanese icons, but installing them could potentially mix up the perfect pink-and-white combination on the stock keys already. But they’re still a great option if you want to customize your keyboard further and have memorized the placement of non-alphanumeric keys.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![Akko MOD007B HE Keycap Accessories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-keycap-accessories.jpg)
 
  Jowi Morales / MakeUseOf
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Akko MOD007B Means Serious Business Underneath
 
  What makes the Akko MOD007B different from most gaming keyboards is that it uses Hall Effect switches instead of mechanical keys.[Mechanical keyboards work by using springs](http://www.makeuseof.com/tag/mechanical-keyboard-work-technology-explained/) to control how much pressure you need to apply before it closes the switch.
 
  On the other hand, Hall Effect switches have no moving parts. Instead, it uses the changing position of two magnets to determine a key’s position. Because of this, Hall Effect keyboards have a longer lifespan than traditional mechanical switches, just like [Hall Effect joysticks](https://www.makeuseof.com/what-are-hall-effect-joysticks-can-they-cure-controller-drift/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![Akko MOD007B HE Hall-Effect Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-hall-effect-switch.jpg)
 
  Jowi Morales / MakeUseOf
@@ -181,6 +203,9 @@ Related
 
 ## Confusing Multi-Mode Pairing
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Akko MOD007B HE mode switch slider under the caps lock key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-mode-switch-slider-under-the-caps-lock-key.jpg)
 
  Jowi Morales / MakeUseOf
@@ -205,6 +230,9 @@ Related
 
  Granted that this keyboard will most likely sit on your desk in wired mode, it’s still better to allow the user to switch off the keyboard when not using it. This will help save power, especially if you transport the keyboard in your bag (like when going to a LAN party or an on-site competition) and want to use it wirelessly.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Your Keyboard for Gaming Victory
 
  Although these couple of issues will negatively impact niche users like me, they won’t affect most users. You can't ignore the benefits of a Hall Effect keyboard, especially if you take your matches seriously.
@@ -304,3 +332,75 @@ No
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-finding-the-social-beacons-in-your-interests-digital-landscape/"><u>[New] Finding the Social Beacons in Your Interests’ Digital Landscape</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-sculpt-your-memories-with-iphone-burst-shots-for-2024/"><u>[New] Sculpt Your Memories with iPhone Burst Shots for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-impact-of-authenticity-in-insta-self-portraits/"><u>[New] The Impact of Authenticity in Insta Self-Portraits</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-your-gameplay-our-archive-top-6-minecraft-recording-tactics/"><u>[New] Your Gameplay, Our Archive  Top 6 Minecraft Recording Tactics</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-anime-inspired-shorts-top-20-trends-on-tiktok/"><u>[Updated] Anime-Inspired Shorts  Top 20 Trends on TikTok</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-keep-up-the-snapstreak-game/"><u>[Updated] How To Keep Up the Snapstreak Game</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-effortless-photo-retouch-dive-into-background-removal/"><u>2024 Approved  Effortless Photo Retouch  Dive Into Background Removal</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-halovision-highlights-critique/"><u>2024 Approved  HaloVision Highlights Critique</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-inexpensive-sky-explorers-the-least-expensive-drones/"><u>2024 Approved  Inexpensive Sky Explorers  The Least Expensive Drones</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-skyrocket-your-earnings-on-tiktok-discover-the-top-8-ways/"><u>2024 Approved  Skyrocket Your Earnings on TikTok  Discover the Top 8 Ways</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-undisclosed-secrets-to-growth-on-social-media/"><u>2024 Approved  The Undisclosed Secrets to Growth on Social Media</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/blueprint-for-seamless-integration-of-instagram-and-tiktok/"><u>Blueprint for Seamless Integration of Instagram and TikTok</u></a></li>
+<li><a href="https://games-able.techidaily.com/comprehensive-guide-to-fixing-driver-not-starting-on-windows-11/"><u>Comprehensive Guide to Fixing Driver Not Starting on Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-a-compelling-story-the-essentials-of-using-chatgpt-as-an-rpg/"><u>Crafting a Compelling Story: The Essentials of Using ChatGPT as an RPG</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-dominion-deciding-between-ps5-and-budget-pc-gamersphere/"><u>Digital Dominion: Deciding Between PS5 & Budget PC Gamersphere</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/discovering-the-secrets-to-professional-music-mixing-with-magix/"><u>Discovering the Secrets to Professional Music Mixing with Magix</u></a></li>
+<li><a href="https://games-able.techidaily.com/diverse-methods-to-kickstart-your-ps5-console/"><u>Diverse Methods to Kickstart Your PS5 Console</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-update-amd-radeon-rx-580-graphics-card-drivers-simple-steps/"><u>Download and Update AMD Radeon RX 580 Graphics Card Drivers: Simple Steps</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exploring-advanced-quantum-hdr-methods/"><u>Exploring Advanced Quantum HDR Methods</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-world-of-ai-chatbots-reasons-behind-their-growing-fame/"><u>Exploring the World of AI Chatbots – Reasons Behind Their Growing Fame</u></a></li>
+<li><a href="https://games-able.techidaily.com/facing-the-fire-my-gpus-cry-for-help/"><u>Facing the Fire: My GPU's Cry for Help</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-realme-c67-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-pass-integration-how-xbox-live-gold-subscribers-adapt/"><u>Game Pass Integration: How Xbox Live Gold Subscribers Adapt</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-excellence-achieved-with-oled-technology/"><u>Gaming Excellence Achieved with OLED Technology</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-from-apple-iphone-14-pro-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even From Apple iPhone 14 Pro If Youve Tried Everything</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-craft-viral-unboxing-content-on-social-media/"><u>How to Craft Viral Unboxing Content on Social Media</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-get-a-month-of-free-discord-nitro-with-opera-gx/"><u>How to Get a Month of Free Discord Nitro With Opera GX</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-improve-your-blu-ray-experience-on-xbox-series-x/"><u>How to Improve Your Blu-Ray Experience on Xbox Series X</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-pick-a-winner-top-5-features-in-next-gen-game-mice/"><u>How to Pick a Winner: Top 5 Features in Next-Gen Game Mice</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6s-plus-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock iPhone 6s Plus Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Nokia 150 (2023) | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-motorola-moto-g24-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Motorola Moto G24 Phone Hassle-Free</u></a></li>
+<li><a href="https://games-able.techidaily.com/infiltrating-early-adopter-groups-a-guide-to-starfield-trials/"><u>Infiltrating Early Adopter Groups: A Guide to Starfield Trials</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instaloops-unleashed-the-ultimate-guide-to-engagement-for-2024/"><u>InstaLoops Unleashed  The Ultimate Guide to Engagement for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/journey-through-social-and-multiplayer-worlds-subscribing-to-and-using-ea-play-on-ps5/"><u>Journey Through Social & Multiplayer Worlds: Subscribing to and Using EA Play on PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/leveraging-the-power-of-steam-currency/"><u>Leveraging the Power of Steam Currency</u></a></li>
+<li><a href="https://games-able.techidaily.com/melody-match-up-leading-audio-trivia-apps/"><u>Melody Match-Up: Leading Audio Trivia Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/mmo-evolution-adaptation-and-survival-in-gaming-world/"><u>MMO Evolution: Adaptation & Survival in Gaming World</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfect-your-panel-management-u-ban-and-block-users-on-twitch/"><u>Perfect Your Panel Management: U-Ban & Block Users on Twitch</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-fixes-for-steam-connection-failed-errors/"><u>Quick Fixes for Steam Connection Failed Errors</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/remedying-black-screen-with-apple-movies/"><u>Remedying Black Screen with Apple Movies</u></a></li>
+<li><a href="https://extra-information.techidaily.com/rewind-on-request-swift-iphone-video-flip/"><u>Rewind on Request  Swift iPhone Video Flip</u></a></li>
+<li><a href="https://games-able.techidaily.com/running-ps3-titles-on-newer-ps-console/"><u>Running PS3 Titles on Newer PS Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/slipping-past-the-watchful-gaze/"><u>Slipping Past the Watchful Gaze</u></a></li>
+<li><a href="https://games-able.techidaily.com/stealthy-speech-in-xbox-multiplayer-settings/"><u>Stealthy Speech in Xbox Multiplayer Settings</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-latest-update-reimagines-game-sharing-for-families/"><u>Steam's Latest Update Reimagines Game Sharing for Families</u></a></li>
+<li><a href="https://games-able.techidaily.com/stepping-into-steam-value-management/"><u>Stepping Into Steam Value Management</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-rectify-gpu-induced-image-sagging/"><u>Steps to Rectify GPU-Induced Image Sagging</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/stream-your-webcam-in-real-time-using-vlc-software-for-2024/"><u>Stream Your Webcam in Real Time Using VLC Software for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-vivo-v30-pro-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Vivo V30 Pro Phone Hassle-Free</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-cost-of-enhancing-nintendo-switch-connectivity/"><u>The Cost of Enhancing Nintendo Switch Connectivity</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-path-to-mastering-steams-review-system/"><u>The Path to Mastering Steam's Review System</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-perfect-add-ons-for-your-steam-deck-journey/"><u>The Perfect Add-Ons for Your Steam Deck Journey</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-secrets-of-blending-into-steam-backgrounds/"><u>The Secrets of Blending Into Steam Backgrounds</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-transition-from-xbox-live-gold-to-game-pass-core-explained/"><u>The Transition From Xbox Live Gold to Game Pass Core Explained</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-engaging-and-ethical-mobile-game-play/"><u>The Ultimate Guide to Engaging & Ethical Mobile Game Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-hunt-top-achievement-boosting-websites/"><u>The Ultimate Hunt: Top Achievement Boosting Websites</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-non-nvidia-gpus-matching-geforce-rtx-4060-ti/"><u>Top Non-NVIDIA GPUs Matching GeForce RTX 4060 Ti</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-ranked-light-panel-sets-for-ultimate-gaming-spaces/"><u>Top-Ranked Light Panel Sets for Ultimate Gaming Spaces</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/uncovering-8-must-have-mirrorless-cams-for-video-creators-for-2024/"><u>Uncovering 8 Must-Have Mirrorless Cams for Video Creators for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/uninterrupted-gameplay-with-xbox-s-controller/"><u>Uninterrupted Gameplay with Xbox S Controller</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-iphone-potential-for-high-end-gaming/"><u>Unleashing iPhone Potential for High-End Gaming</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/viral-videos-not-pricey-twitter-video-to-gif-conversion-for-2024/"><u>Viral Videos, Not Pricey  Twitter Video to GIF Conversion for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-does-idle-mean-on-discord-and-is-it-accurate/"><u>What Does Idle Mean on Discord and Is It Accurate?</u></a></li>
+<li><a href="https://games-able.techidaily.com/which-rpi-console-powers-retro-gaming-more-batocera-or-retropie/"><u>Which RPi Console Powers Retro Gaming More: Batocera or RetroPie?</u></a></li>
+</ul></div>

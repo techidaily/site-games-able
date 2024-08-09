@@ -1,7 +1,7 @@
 ---
 title: "Apex of PC Gaming: Raider GE78 Review Highlights"
-date: 2024-07-12T04:35:55.337Z
-updated: 2024-07-13T04:35:55.337Z
+date: 2024-08-08T09:06:12.607Z
+updated: 2024-08-09T09:06:12.607Z
 tags:
   - games
 categories:
@@ -14,6 +14,9 @@ thumbnail: https://thmb.techidaily.com/73077bb518e58764d0d667c24acb26e31ce2706df
 
 ## Apex of PC Gaming: Raider GE78 Review Highlights
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * The MSI Raider GE78 HX 13V is a bulky gaming laptop that delivers near desktop-level performance, making it a top choice for those who need the most power that can still be taken on the go.
@@ -22,8 +25,14 @@ thumbnail: https://thmb.techidaily.com/73077bb518e58764d0d667c24acb26e31ce2706df
 
  Are you in the market for a ludicrous laptop that can go head-to-head with full-size gaming PCs while still allowing you to hit the road with your gaming rig? Then the Raider GE78 HX 13V should make its way onto your shortlist.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ![MSI Raider GE78 HX - Front Angle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/msi-raider-ge78-hx-front-angle.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
 
 ##### MSI Raider GE78 HX
@@ -158,6 +167,9 @@ Physical Webcam cover
 
  The Raider brings back its distinctive lightbar, situated on the underside of the front. Unlike previous iterations that diffused individual LEDs for a smooth color effect, this time around, they've opted for individual square LEDs, giving it a charming retro aesthetic. What's neat is that you can choose from a range of presets within the SteelSeries app or get creative by customizing it with various effects and colors. Even better, it can sync with other elements like the laptop's keyboard, the MSI logo on the lid, or any other compatible accessories such as mice. However, despite the cool lightbar, it's not enough to compensate for its other design shortcomings.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![MSI Raider GE78 HX - Front LED Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/msi-raider-ge78-hx-front-led-bar.jpg)
 
  Paul Antill / MakeUseOf
@@ -178,10 +190,16 @@ Physical Webcam cover
 
  With its front LED bar, unique design elements, and lifted rear end, this laptop has a somewhat fragmented feel, but it's still solidly built. Whether you love its aesthetic or find it a bit over-the-top, it's impossible to ignore.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Connectivity
 
  The Raider is equipped with the latest with Killer Wi-Fi 6E AX1690i, Bluetooth 5.3, and offers a solid selection of ports. The right side includes a pair of USB 3.2 Gen 2 Type-A ports and a USB 3.2 Gen 2 Type-C port.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![MSI Raider GE78 HX - Right Side](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/msi-raider-ge78-hx-right-side.jpg)
 
  Paul Antill / MakeUseOf
@@ -198,6 +216,9 @@ Physical Webcam cover
 
  Paul Antill / MakeUseOf
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Display
 
  Our MSI Raider GE78 HX 13V uses a QHD+ panel boasting a resolution of 2560 x 1600\. The 16:10 aspect ratio is a new addition to the Raider series, providing a taller screen, traditionally associated with productivity work, but it's been making its way into most of MSI's lineup over the past few years. The display only opens up to about 120 degrees—so no extreme angles with this one.
@@ -242,6 +263,9 @@ Physical Webcam cover
 
  This is most noticeable while gaming if you are right-handed, as it can push out very hot air from its right side. With this being such a large laptop already, I tend to place my mouse within a few inches of the laptop. After about 15 minutes of gaming, the laptop can be unbearably hot if you're within 1-2 inches of it. I had to back away to about 4-5 inches not to notice the heat as much.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Gaming Benchmarks
 
 | Spider-Man Remastered (Very High Preset, DLAA - 1600p)            | 85-110 fps  |
@@ -256,6 +280,9 @@ Physical Webcam cover
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Performance Benchmarks
 
  The MSI Raider GE78 HX 13V outperforms our previous laptop leader, the MSI Stealth 16 Studio, equipped with an Intel i9-13900H, Nvidia RTX 4070, and 64GB of RAM, in Cinebench R23 and Pugent Davinci Resolve rendering tests by about 30%. While the Stealth 16 Studio is an excellent choice for content creators, those who prioritize performance over portability can opt for the beefier GE78 HX 13V and even save more money.
@@ -266,6 +293,9 @@ Close
 
  The only concern we can share is with its unplugged performance. In Cinebench R23 our scores dropped to 7733, marking a 70% performance drop, despite still being in MSI's highest power mode. This isn't uncommon for MSI's more powerful laptops, though we have seen options like the Razer Blade 17, which manage not to take as big of a hit when running unplugged tests.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ## Incredible Value
 
  Our benchmark comparisons reveal that the MSI Raider GE78 HX 13V is an impressive performer, delivering around 79% to 89% of the performance of the full-sized Starforge Voyager Creator ([our review](https://www.makeuseof.com/starforge-voyager-creator-review/) ). The latter, equipped with an Intel i7-13700K, Nvidia RTX 4070 Ti, and 32GB of RAM, comes at a price of $2,900.
@@ -274,8 +304,14 @@ Close
 
  The gap in performance between laptops and desktops is narrowing, and the price difference is becoming less significant. The GE78 HX sits firmly at the top end of this market.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![MSI Raider GE78 HX - Front Angle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/msi-raider-ge78-hx-front-angle.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
 
 ##### MSI Raider GE78 HX
@@ -305,3 +341,70 @@ Close
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-clickbait-crafting-secrets-to-facebooks-favorites/"><u>[New] 2024 Approved  Clickbait Crafting  Secrets to Facebook's Favorites</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-cut-to-perfection-advanced-guide-to-cropping-videos-for-instagram/"><u>[New] Cut to Perfection  Advanced Guide to Cropping Videos for Instagram</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-distort-text-in-photographyvideo/"><u>[New] How to Distort Text in Photography/Video</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-streamlining-video-playback-with-safaris-pip/"><u>[New] Streamlining Video Playback with Safari's PIP</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-perfect-strategy-to-insert-subtitles-into-mp4-clips/"><u>[New] The Perfect Strategy to Insert Subtitles Into MP4 Clips</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-elevating-tiktok-experience-infusing-videos-with-audio-insights/"><u>[Updated] 2024 Approved  Elevating TikTok Experience  Infusing Videos with Audio Insights</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-artistic-journey-animating-scenes-with-windows-movie-maker/"><u>2024 Approved  The Artistic Journey  Animating Scenes with Windows Movie Maker</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-on-iphone-14-plus-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock on iPhone 14 Plus</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/addressing-iphones-email-problems-with-easy-fixes/"><u>Addressing iPhone's Email Problems with Easy Fixes</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-subscriptions-the-future-of-apsplus-gaming/"><u>Beyond Subscriptions: The Future of APS+ Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-the-bulb-visionary-concepts/"><u>Beyond the Bulb: Visionary Concepts</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-the-score-what-should-a-steam-user-care-about/"><u>Beyond the Score: What Should a Steam User Care About?</u></a></li>
+<li><a href="https://games-able.techidaily.com/binge-friendly-apps-the-top-20-fast-games-for-androidiphone/"><u>Binge-Friendly Apps: The Top 20 Fast Games for Android/iPhone</u></a></li>
+<li><a href="https://games-able.techidaily.com/bluetooth-sync-sony-console-and-earpieces/"><u>Bluetooth Sync: Sony Console & Earpieces</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-immersion-with-ideal-ps-vr2-components/"><u>Boosting Immersion with Ideal PS VR2 Components</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-your-xbox-controllers-energy-efficiency/"><u>Boosting Your Xbox Controller's Energy Efficiency</u></a></li>
+<li><a href="https://games-able.techidaily.com/bootlegging-game-boy-games-using-linux-tools/"><u>Bootlegging Game Boy Games Using Linux Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/breaking-down-what-makes-cozy-games-beloved/"><u>Breaking Down What Makes Cozy Games Beloved</u></a></li>
+<li><a href="https://games-able.techidaily.com/breaking-the-isolation-quick-tips-for-rejoining-your-mc-network/"><u>Breaking the Isolation: Quick Tips for Rejoining Your MC Network</u></a></li>
+<li><a href="https://games-able.techidaily.com/breezy-bonuses-limited-time-gaming-perks/"><u>Breezy Bonuses: Limited-Time Gaming Perks</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridge-gamepad-and-smartphone-through-bluetooth/"><u>Bridge Gamepad and Smartphone Through Bluetooth</u></a></li>
+<li><a href="https://games-able.techidaily.com/brighten-the-screen-enhance-your-gameplay-controlling-console-lights/"><u>Brighten the Screen, Enhance Your Gameplay: Controlling Console Lights</u></a></li>
+<li><a href="https://games-able.techidaily.com/bringing-back-lost-ps5-game-access/"><u>Bringing Back Lost PS5 Game Access</u></a></li>
+<li><a href="https://games-able.techidaily.com/budgetfriendly-hd-pixelsgameboard/"><u>BudgetFriendly HD PixelsGameBoard</u></a></li>
+<li><a href="https://games-able.techidaily.com/building-the-ultimate-gaming-beast-key-parts/"><u>Building the Ultimate Gaming Beast: Key Parts</u></a></li>
+<li><a href="https://games-able.techidaily.com/business-systems-versus-playstation-efficacy/"><u>Business Systems Versus PlayStation Efficacy</u></a></li>
+<li><a href="https://games-able.techidaily.com/bypass-buffer-bottlenasque-in-battleground/"><u>Bypass Buffer Bottlenasque in Battleground</u></a></li>
+<li><a href="https://games-able.techidaily.com/bypassing-dxgierrordevicehunk-on-win-1011-systems/"><u>Bypassing DXGI_ERROR_DEVICE_HUNK on Win 10/11 Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/call-of-duty-wzn-20-pc-stability-issues-a-guide-to-fix-frequent-game-disruptions/"><u>Call of Duty WZN 2.0 PC Stability Issues: A Guide to Fix Frequent Game Disruptions</u></a></li>
+<li><a href="https://games-able.techidaily.com/calm-competitions-indulge-in-idle-realms/"><u>Calm Competitions: Indulge in Idle Realms</u></a></li>
+<li><a href="https://games-able.techidaily.com/calm-escapades-indulge-in-idle-worlds/"><u>Calm Escapades: Indulge in Idle Worlds</u></a></li>
+<li><a href="https://games-able.techidaily.com/calm-gaming-tame-your-xbox-series-vibration/"><u>Calm Gaming: Tame Your Xbox Series Vibration</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-mechanical-keyboards-truly-improve-your-gaming/"><u>Can Mechanical Keyboards Truly Improve Your Gaming?</u></a></li>
+<li><a href="https://games-able.techidaily.com/captivating-audiences-through-twitch-streaming-on-phone/"><u>Captivating Audiences Through Twitch Streaming on Phone</u></a></li>
+<li><a href="https://games-able.techidaily.com/chatgpt-for-dynamic-video-game-storytelling/"><u>ChatGPT for Dynamic Video Game Storytelling</u></a></li>
+<li><a href="https://games-able.techidaily.com/chdman-technique-optimizing-old-game-isos-size-and-performance/"><u>ChDMan Technique: Optimizing Old Game ISOs Size & Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/chdmans-secret-for-slimming-retro-games-without-loss-of-functionality/"><u>CHDMAN's Secret for Slimming Retro Games without Loss of Functionality</u></a></li>
+<li><a href="https://games-able.techidaily.com/choose-wisely-6-things-before-committing-to-ps5/"><u>Choose Wisely: 6 Things Before Committing to PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/choosing-the-right-accessories-for-ps-vr2/"><u>Choosing the Right Accessories for PS VR2</u></a></li>
+<li><a href="https://games-able.techidaily.com/choosing-value-your-essential-guide-to-vr-headsets/"><u>Choosing Value: Your Essential Guide to VR Headsets</u></a></li>
+<li><a href="https://games-able.techidaily.com/claim-free-games-with-just-one-sign-in/"><u>Claim Free Games with Just One Sign-In</u></a></li>
+<li><a href="https://games-able.techidaily.com/classic-computers-reimagined-with-atlasos/"><u>Classic Computers Reimagined with AtlasOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/clean-slate-deleting-ps5-login-details/"><u>Clean Slate: Deleting PS5 Login Details</u></a></li>
+<li><a href="https://games-able.techidaily.com/co-op-creations-crafting-companionship-through-minecraft-teamwork/"><u>Co-Op Creations: Crafting Companionship Through Minecraft Teamwork</u></a></li>
+<li><a href="https://games-able.techidaily.com/collaborative-constructions-best-group-play-techniques-in-minecraft/"><u>Collaborative Constructions: Best Group Play Techniques in Minecraft</u></a></li>
+<li><a href="https://games-able.techidaily.com/color-me-inspired-tecnos-smartphone-revamp-for-ifa-2023/"><u>Color Me Inspired: Tecno’s Smartphone Revamp for IFA 2023</u></a></li>
+<li><a href="https://games-able.techidaily.com/compact-and-high-res-innocn-39g1-display/"><u>Compact & High Res: InnoCN 39G1 Display</u></a></li>
+<li><a href="https://games-able.techidaily.com/compact-your-collection-smart-iso-size-cutting-via-chdman-method/"><u>Compact Your Collection: Smart ISO Size Cutting via CHDMAN Method</u></a></li>
+<li><a href="https://games-able.techidaily.com/comparing-founders-design-with-asus-branded-graphics-card/"><u>Comparing Founder's Design with Asus-Branded Graphics Card</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-installation-instructions-for-brother-mfc-l2700dw-on-windows-machines/"><u>Download & Installation Instructions for Brother MFC-L2700DW on Windows Machines</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/downloading-youtube-srt-simplified-with-3-ways/"><u>Downloading YouTube (SRT)  Simplified with 3 Ways</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-13-mini-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 13 mini to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-build-your-wealth-on-youtube-a-guide-to-creating-content-without-ads/"><u>In 2024, Build Your Wealth on YouTube  A Guide to Creating Content Without Ads</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-change-location-on-yik-yak-for-your-honor-90-pro-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Honor 90 Pro to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-trailer-highlight-hodgepodge/"><u>In 2024, Ultimate Trailer Highlight Hodgepodge</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-unlocking-igtv-videos-secure-downloading-techniques-for-computers/"><u>In 2024, Unlocking IGTV Videos  Secure Downloading Techniques for Computers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-your-way-through-the-best-gaming-pc-options-important-factors-you-shouldnt-ignore/"><u>Navigating Your Way Through the Best Gaming PC Options: Important Factors You Shouldn't Ignore</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Motorola Moto G84 5G? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-realme-gt-5-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Realme GT 5</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-new-wave-of-fbx-free-gaming-analysis-tools/"><u>The New Wave of FBX-Free Gaming Analysis Tools</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-powerful-appeal-of-learning-german-top-10/"><u>The Powerful Appeal of Learning German (Top 10)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-apple-iphone-8-by-drfone-ios/"><u>Top 11 Free Apps to Check IMEI on Apple iPhone 8</u></a></li>
+</ul></div>
