@@ -1,7 +1,7 @@
 ---
 title: 20 Rapid & Simple Mobile Games for Quick Entertainment on iOS/Android
-date: 2024-07-12T04:26:04.019Z
-updated: 2024-07-13T04:26:04.019Z
+date: 2024-08-15T17:16:07.969Z
+updated: 2024-08-16T17:16:07.969Z
 tags:
   - games
 categories:
@@ -28,6 +28,9 @@ Close
 
 **Download:** iSlash Heroes for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=com.duellogames.iSlash2) |[iOS](https://apps.apple.com/app/islash-heroes/id949498190) (Free, in-app purchases available)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 2 Fishing Break
 
 Close
@@ -48,6 +51,9 @@ Close
 
 **Download:** Doodle Jump for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=com.lima.doodlejump) |[iOS](https://apps.apple.com/app/doodle-jump-insanely-good/id456355158) (Free, in-app purchases available)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## 4 Polyforge
 
 Close
@@ -58,6 +64,9 @@ Close
 
 **Download:** Polyforge for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=com.impactbluestudios.polyforge) |[iOS](https://apps.apple.com/app/polyforge/id1109788041) (Free, in-app purchases available)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5 Two Dots
 
 Close
@@ -76,6 +85,9 @@ You have to be strategic because you have limited moves.
 
 **Download:** Angry Birds Blast for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=com.rovio.blast) |[iOS](https://apps.apple.com/app/angry-birds-blast/id1122444037) (Free, in-app purchases available)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 7 Roll the Ball
 
 Close
@@ -114,6 +126,9 @@ Close
 
 **Download:** Word Chums for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=com.peoplefun.wordchums) |[iOS](https://apps.apple.com/app/word-chums/id517840944) (Free, in-app purchases available)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 11 Draw With Friends
 
 Close
@@ -124,6 +139,9 @@ Close
 
 **Download:** Draw With Friends for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=com.fiddlerswork.drawwithfriends) |[iOS](https://apps.apple.com/app/draw-with-friends-multiplayer/id1502088179) (Free, in-app purchases available)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 12 Bowling Crew
 
 Close
@@ -152,6 +170,9 @@ Close
 
 **Download:** Horizon Chase for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=com.aquiris.horizonchase) |[iOS](https://apps.apple.com/app/horizon-chase/id991018252) (Free, in-app purchases available)
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 15 7 Little Words
 
 Close
@@ -162,6 +183,9 @@ Close
 
 **Download:** 7 Little Words for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=com.blueoxtech.sevenlittlewords) |[iOS](https://apps.apple.com/app/7-little-words-daily-puzzles/id431434152) (Free, in-app purchases available)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 16 Pokémon GO
 
 Close
@@ -172,6 +196,9 @@ Close
 
 **Download:** Pokémon GO for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo) |[iOS](https://apps.apple.com/app/pokémon-go/id1094591345) (Free, in-app purchases available)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 17 WordBrain
 
 Close
@@ -227,3 +254,48 @@ Close
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/corrected-evolve-no-boot-directx-compatibility-issue/"><u>[CORRECTED] Evolve No Boot - DirectX Compatibility Issue</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-assessing-instagrams-selfie-validation/"><u>[New] 2024 Approved  Assessing Instagram's Selfie Validation</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-leverage-hashtags-for-top-ranked-fb-pages/"><u>[New] 2024 Approved  Leverage Hashtags for Top-Ranked FB Pages</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-leading-screen-recorders-for-effective-teaching-methods/"><u>[New] 2024 Approved  The Leading Screen Recorders for Effective Teaching Methods</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-digital-cutting-edge-streamlined-strategies-for-editing-videos-on-vimeo-for-2024/"><u>[New] Digital Cutting Edge  Streamlined Strategies for Editing Videos on Vimeo for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-key-destinations-enhancing-youtube-video-impact/"><u>[New] Key Destinations Enhancing YouTube Video Impact</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-professionals-guide-to-outstanding-4k-filmmaking-gear-for-2024/"><u>[New] Professionals' Guide to Outstanding 4K Filmmaking Gear for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-enhancing-viewer-interest-with-thumbnails-for-2024/"><u>[Updated] Enhancing Viewer Interest with Thumbnails for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-tech-tutorial-saving-screen-movies-from-your-gadgets/"><u>[Updated] In 2024, Tech Tutorial  Saving Screen Movies From Your Gadgets</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-aspect-ratios-in-video-production/"><u>[Updated] Mastering Aspect Ratios in Video Production</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-epic-stories-for-games-using-ai/"><u>Crafting Epic Stories for Games Using AI</u></a></li>
+<li><a href="https://games-able.techidaily.com/critical-insights-avoiding-ps5-expenses/"><u>Critical Insights: Avoiding PS5 Expenses</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/earinsight-exploring-audio-samples-for-2024/"><u>EarInsight  Exploring Audio Samples for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-vivo-x100-pro-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Vivo X100 Pro FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://games-able.techidaily.com/economical-choices-best-mid-range-motherboards-for-pcgaming/"><u>Economical Choices: Best Mid-Range Motherboards for PCGaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-eyewear-to-block-screen-harm/"><u>Elite Eyewear to Block Screen Harm</u></a></li>
+<li><a href="https://games-able.techidaily.com/ephemeral-online-gaming-worlds-whats-their-value/"><u>Ephemeral Online Gaming Worlds – What's Their Value?</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-code-to-continent-generating-gaming-landscapes/"><u>From Code to Continent: Generating Gaming Landscapes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-iphone-xr-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your iPhone XR?</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-see-someones-location-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>How to See Someones Location on Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-from-iphone-13-mini-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled From iPhone 13 mini? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-design-new-and-old-standout-holder-brands-for-24/"><u>Innovative Design: New and Old Standout Holder Brands for '24</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/leading-livestream-tech-for-gaming-enthusiasts/"><u>Leading Livestream Tech  For Gaming Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-maze-digital-games-refunds-on-series-sx/"><u>Navigating the Maze: Digital Games Refunds on Series S/X</u></a></li>
+<li><a href="https://games-able.techidaily.com/portability-perfected-choosing-the-best-nintendo-switch-docks/"><u>Portability Perfected: Choosing the Best Nintendo Switch Docks</u></a></li>
+<li><a href="https://games-able.techidaily.com/precision-in-motion-steering-wheels-against-screen-sensors/"><u>Precision in Motion: Steering Wheels Against Screen Sensors</u></a></li>
+<li><a href="https://games-able.techidaily.com/score-big-pinpointing-quality-apple-arcade-playables/"><u>Score Big: Pinpointing Quality Apple Arcade Playables</u></a></li>
+<li><a href="https://games-able.techidaily.com/sonys-playstation-sound-streaming-technique/"><u>Sony's PlayStation Sound Streaming Technique</u></a></li>
+<li><a href="https://games-able.techidaily.com/tech-duel-smartphone-gaming-vs-tablet-experience/"><u>Tech Duel: Smartphone Gaming VS. Tablet Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-impact-of-fast-resume-on-xbox-gaming-experience/"><u>The Impact of Fast Resume on Xbox Gaming Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-stealthiest-of-players-guide/"><u>The Stealthiest of Players Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-rated-servers-and-rack-systems-the-ultimate-guide-for-2e24/"><u>Top-Rated Servers & Rack Systems - The Ultimate Guide for 2E24</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-video-games-journey-managers/"><u>Ultimate Video Games Journey Managers</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-full-potential-on-steam-deck-with-these-best-9-simulators/"><u>Unleash Full Potential on Steam Deck with These Best 9 Simulators</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/king-from-youtube-shorts-the-complete-process-for-2024/"><u>Unlinking From YouTube Shorts - The Complete Process for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-your-games-with-xbox-game-pass/"><u>Unlocking Your Games with Xbox Game Pass</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveil-hidden-techniques-for-relieving-steam-obstruction/"><u>Unveil Hidden Techniques for Relieving Steam Obstruction</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-seven-mobile-game-shortcomings/"><u>Unveiling Seven Mobile Game Shortcomings</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-algorithmic-nature-of-gameplay-spaces/"><u>Unveiling the Algorithmic Nature of Gameplay Spaces</u></a></li>
+<li><a href="https://games-able.techidaily.com/walletsavvy-monitor-27m2v-led-gamepad/"><u>WalletSavvy Monitor 27M2V - LED GamePad</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-games-cost-money-discover-the-5-unique-advantages-here/"><u>Why Games Cost Money? Discover the 5 Unique Advantages Here</u></a></li>
+</ul></div>

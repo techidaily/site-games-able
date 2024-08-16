@@ -1,7 +1,7 @@
 ---
 title: A Closer Look at the Unintended Effects of Gaming Industry Funding Shifts
-date: 2024-07-12T04:27:14.537Z
-updated: 2024-07-13T04:27:14.537Z
+date: 2024-08-15T17:15:03.268Z
+updated: 2024-08-16T17:15:03.268Z
 tags:
   - games
 categories:
@@ -22,6 +22,9 @@ thumbnail: https://thmb.techidaily.com/ea90fc8c45e04f560568c92780cb489093bd55fc4
 
  A controversial issue arose in gaming circles recently: the idea of tipping game developers. While it’s an interesting concept, I don’t think it’s the way forward.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ## Who’s Suggesting We Tip Game Developers?
 
  In April 2024, Mike Ybarra—former President of Blizzard Entertainment—posted the following on X (formerly Twitter):
@@ -30,6 +33,9 @@ thumbnail: https://thmb.techidaily.com/ea90fc8c45e04f560568c92780cb489093bd55fc4
 
  Needless to say, this post generated a lot of discussion, reheating various [debates about the price of video games](https://www.makeuseof.com/video-games-should-be-more-expensive-reasons-why/) and developer salaries.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## How Much Do Game Developers Already Earn?
 
  The quick and unsatisfying answer is: it depends. Game Developer roles vary enormously, from sole indie developers working on their dream projects to in-house employees at the biggest publishing houses. Like many professions, game development can be very lucrative or pitifully rewarding.
@@ -38,9 +44,15 @@ thumbnail: https://thmb.techidaily.com/ea90fc8c45e04f560568c92780cb489093bd55fc4
 
  Game devs working on their own, meanwhile, will struggle unless they strike gold. Perhaps the best example is Eric Barone, the creator of the smash-hit farming sim Stardew Valley. Barone worked on his own for over four years, but his game’s success has repaid him significantly; the developer now has a net worth estimated at $45m.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Alternatives Are Already Available
 
 ![A screenshot showing the Hollow Knight kickstarter campaign.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/hollow-knight-kickstarter.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 
  Tipping is an interesting idea, but do we really need one more payment method?
 
@@ -50,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/ea90fc8c45e04f560568c92780cb489093bd55fc4
 
  Buying a second copy—or “double-dipping”—is another tactic fans can use to reward game creators. This is more common in the indie scene, where physical collector's editions are abundant, and make a tangible companion to the digital copy of a game.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## The Negative Effects of Tipping Culture
 
  My big fear for developers is that a tipping culture in gaming might duplicate the same problems that others in the service industry face: low pay, poor conditions, and a lack of respect. Game development suffered huge job losses in 2023, and [the rising cost of game production](https://www.makeuseof.com/ways-the-rising-costs-of-games-affect-the-industry/) has led to crunch conditions in many studios.
@@ -58,6 +74,18 @@ thumbnail: https://thmb.techidaily.com/ea90fc8c45e04f560568c92780cb489093bd55fc4
 
  Encouraging a focus on tipping may just be papering over cracks in the model, and could serve to distract from the issue of a sustainable gaming economy that’s future-proofed against [AI and other threats](https://www.makeuseof.com/types-of-jobs-risk-ai/) .
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## When Tips Might Work
 
 ![A screenshot of Super Cable Boy’s page on itch.io showing a minimum price with an option to pay extra.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/super-cable-boy-itch.png)
@@ -103,3 +131,66 @@ thumbnail: https://thmb.techidaily.com/ea90fc8c45e04f560568c92780cb489093bd55fc4
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-aligning-phonetablet-zoom-schedules-with-pc-plans/"><u>[New] In 2024, Aligning Phone/Tablet Zoom Schedules with PC Plans</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-diving-deep-into-your-twitter-archive/"><u>[New] In 2024, Diving Deep Into Your Twitter Archive</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-quick-tunes-on-your-phone-top-speed-up-apps-for-2024/"><u>[New] Quick Tunes on Your Phone  Top Speed-Up Apps for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-solo-stream-triumph-strategies-for-clear-consistent-broadcasts/"><u>[New] Solo Stream Triumph  Strategies for Clear, Consistent Broadcasts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-streamlining-video-uploads-tips-for-transforming-h-vids-for-igtv-for-2024/"><u>[New] Streamlining Video Uploads  Tips for Transforming H-Vids for IGTV for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-exploiting-youtubes-creative-commons-in-media-making/"><u>[Updated] 2024 Approved  Exploiting YouTube's Creative Commons in Media Making</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-clearer-louder-better-your-discord-audio-revamped-by-voicemod-for-2024/"><u>[Updated] Clearer, Louder, Better  Your Discord Audio Revamped by VoiceMod for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-discovering-local-insta-stars-finding-your-niches-top-influencers/"><u>[Updated] In 2024, Discovering Local Insta Stars  Finding Your Niche's Top Influencers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-intense-close-ups-in-minecraft-five-simple-steps/"><u>[Updated] Intense Close-Ups in Minecraft  Five Simple Steps</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-pioneering-success-innovative-youtube-strategies/"><u>[Updated] Pioneering Success  Innovative YouTube Strategies</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-active-recorder-assessment-industry-standards-met/"><u>2024 Approved  Active Recorder Assessment  Industry Standards Met?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-engage-audiences-writing-magical-youtube-description-templates-for-higher-views/"><u>2024 Approved  Engage Audiences  Writing Magical YouTube Description Templates for Higher Views</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-lava-storm-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Lava Storm 5G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/connect-your-laptop-stream-games-through-steam-deck/"><u>Connect Your Laptop, Stream Games Through Steam Deck</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/could-chatgpt-lead-to-job-termination-a-closer-look-at-potential-outcomes-in-different-situations/"><u>Could ChatGPT Lead to Job Termination? A Closer Look at Potential Outcomes in Different Situations</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-treasure-hunting-top-3-strategies-for-xbox/"><u>Digital Treasure Hunting: Top 3 Strategies for Xbox</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminating-xbox-joy-cons-erratic-behavior/"><u>Eliminating Xbox Joy-Cons' Erratic Behavior</u></a></li>
+<li><a href="https://games-able.techidaily.com/ensuring-longevity-and-efficiency-with-proper-gpu-thermals/"><u>Ensuring Longevity and Efficiency with Proper GPU Thermals</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-factors-for-choosing-your-next-game-console/"><u>Essential Factors for Choosing Your Next Game Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/fine-tune-hdr-settings-for-improved-gameplay/"><u>Fine-Tune HDR Settings for Improved Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/fix-iphoneandroid-issues-with-wordle-streaks/"><u>Fix iPhone/Android Issues with Wordle Streaks</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-the-unable-to-connect-error-on-your-minecraft-server-a-comprehensive-guide/"><u>Fixing the 'Unable to Connect' Error on Your Minecraft Server – A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-windows-11-steam-disconnect-glitch/"><u>Fixing Windows 11 Steam Disconnect Glitch</u></a></li>
+<li><a href="https://games-able.techidaily.com/frugal-innovators-guide-to-vr-headset-picks/"><u>Frugal Innovators' Guide to VR Headset Picks</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-delete-ps5-user-accounts/"><u>How to Delete PS5 User Accounts</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-6s-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone 6s when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-samsung-galaxy-s23-fe-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Samsung Galaxy S23 FE Devices</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-apple-iphone-se-2022-fixed-drfone-by-drfone-virtual-ios/"><u>In 2024, iSpoofer is not working On Apple iPhone SE (2022)? Fixed | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-mastering-macbook-air-beginners-guide-to-screen-recording/"><u>In 2024, Mastering MacBook Air  Beginner's Guide to Screen Recording</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-google-pixel-fold-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Google Pixel Fold IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-realme-10t-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Realme 10T 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Where Is the Best Place to Catch Dratini On Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/incisive-guide-evaluating-your-gaming-hours-on-series-s/"><u>Incisive Guide: Evaluating Your Gaming Hours on Series S</u></a></li>
+<li><a href="https://games-able.techidaily.com/innocn-39g1r-massive-sub-500-high-refresh-gaming-monitor/"><u>InnoCN 39G1R: Massive, Sub-$500 High Refresh Gaming Monitor</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovate-your-gaming-sphere-with-the-steam-workshop-method/"><u>Innovate Your Gaming Sphere with the Steam Workshop Method</u></a></li>
+<li><a href="https://games-able.techidaily.com/ioss-elite-gbadvance-emulators-replaying-the-golden-days/"><u>IOS's Elite GBAdvance Emulators: Replaying the Golden Days!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/jokesonscreen-pro/"><u>JokesOnScreen Pro</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-oppo-a2-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Oppo A2 FRP Without Computer</u></a></li>
+<li><a href="https://games-able.techidaily.com/leading-8-compact-emulators-android-gaming-pcmac/"><u>Leading 8 Compact Emulators: Android Gaming PC/Mac</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/mastering-powerdirector-full-review-and-instructions-for-2024/"><u>Mastering PowerDirector - Full Review & Instructions for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/modular-game-console-akkos-revolutionary-mod007b-board/"><u>Modular Game Console: Akko's Revolutionary MOD007B Board</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/next-level-gaming-experience-the-ultimate-nvidia-shield-tv-pro-review/"><u>Next-Level Gaming Experience: The Ultimate NVIDIA Shield TV Pro Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-bandwidth-top-wired-solutions-for-gamers/"><u>Optimal Bandwidth: Top Wired Solutions For Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimized-airflow-patterns-reduce-cpu-overheating/"><u>Optimized Airflow Patterns Reduce CPU Overheating</u></a></li>
+<li><a href="https://games-able.techidaily.com/playstation-eternal-hygiene-controller-and-console-care/"><u>PlayStation Eternal Hygiene: Controller & Console Care</u></a></li>
+<li><a href="https://games-able.techidaily.com/revealing-the-veiled-web-experience-in-ps5-console/"><u>Revealing the Veiled Web Experience in PS5 Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/roots-unearthed-tracing-foddian-history/"><u>Roots Unearthed: Tracing Foddian History</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/seo-secrets-unveiled-a-comprehensive-guide-to-boosting-podcast-rankings-for-2024/"><u>SEO Secrets Unveiled  A Comprehensive Guide to Boosting Podcast Rankings for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/starforge-voyager-creator-is-this-custom-gaming-pc-brand-worth-checking-out/"><u>Starforge Voyager Creator: Is This Custom Gaming PC Brand Worth Checking Out?</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-your-gaming-experience-switch-plus-mac/"><u>Streamline Your Gaming Experience: Switch + Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/surviving-xboxs-subscription-spike-tips-inside/"><u>Surviving Xbox's Subscription Spike - Tips Inside</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-insider-guide-to-changing-gamer-identities-on-riot-platforms/"><u>The Insider Guide to Changing Gamer Identities on Riot Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-perfect-android-setup-for-dreamcast-games-lovers/"><u>The Perfect Android Setup for Dreamcast Games Lovers</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-upsurge-of-infiltration-in-game-realms/"><u>The Upsurge of Infiltration in Game Realms</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-and-solutions-for-nonfunctional-logitech-g933-mic/"><u>Troubleshooting and Solutions for Nonfunctional Logitech G933 Mic</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-list-2024s-best-switch-cartridge-holders/"><u>Ultimate List: 2024'S Best Switch Cartridge Holders</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-pc-potential-with-4-major-upgrades-from-corsairs-icue-link/"><u>Unleash PC Potential with 4 Major Upgrades From Corsair's iCUE Link</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-live-gold-transforms-your-guide-to-the-new-game-pass-structure/"><u>Xbox Live Gold Transforms: Your Guide to the New Game Pass Structure</u></a></li>
+</ul></div>

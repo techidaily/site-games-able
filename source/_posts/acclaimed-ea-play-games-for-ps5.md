@@ -1,7 +1,7 @@
 ---
 title: Acclaimed EA Play Games for PS5
-date: 2024-07-12T04:26:06.870Z
-updated: 2024-07-13T04:26:06.870Z
+date: 2024-08-15T17:16:05.826Z
+updated: 2024-08-16T17:16:05.826Z
 tags:
   - games
 categories:
@@ -26,6 +26,9 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 
  You can get it with an EA Play membership on the PS5 or upgrade an existing copy to the PS5 version. Of course, It Takes Two also gets the 10% EA Play discount if you wish to buy the full game and own it forever.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ## 2\. FIFA 23
 
  Save money by buying the last FIFA game released and get it on EA Play. If you love soccer games and you’re tired of buying the same game every year with a different number on it, then go get FIFA through EA Play.
@@ -34,6 +37,9 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 
  One of FIFA’s greatest appeals is its easy couch co-op system. It’s one of those games you should just have on your PS5 so you and your pals can have fun together. We placed it on this list as a good solution for multiplayer action for all soccer lovers.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. The Sims 4
 
  Thanks to EA Play, you can [get the Sims 4 free of charge](https://www.makeuseof.com/how-to-download-and-play-the-sims-4-for-free/) . It’s a relatively old game, released in 2014, but it remains evergreen thanks to its timeless style and all the infinite possibilities and playstyles you can have in it. The Sims 4 is one of the best life simulation games, with options that let you create a Sims dynasty and family line that can go on for as long as you have time to play.
@@ -42,6 +48,9 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 
  Don’t forget that The Sims 4 has a lot of additional DLCs you can add to make the game a little more exciting. They do cost a bit of money, but it could be worth it if it drastically improves your game experience.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Need for Speed Heat
 
  You’ll find almost all the contemporary Need for Speed games available on EA Play membership, but if we had to choose only one, we’d pick Need for Speed Heat. It combines the cars and racing system of Payback and the police chases of Most Wanted ‘05 to create a unique experience.
@@ -50,12 +59,18 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 
  While it’s a PS4 game, playing it on the PS5’s SSD makes the game a lot smoother and load way faster. Need for Speed Unbound is the only native PS5 Need for Speed game on EA Play, but we still recommend Heat over it because it’s just more fun.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Plants vs Zombies Garden Warfare 2
 
  The last thing people expected PopCap to pull off was an FPS game derived from the award-winning strategy game Plants vs Zombies. The original Garden Warfare was an unexpected hit FPS game when it came out. But the sequel builds on the original and improves the game with more characters, more content, and even a single-player mode.
 
  While level progression in the game might be tedious, and you would need a [PlayStation Plus subscription](https://www.makeuseof.com/what-is-playstation-plus/) to access multiplayer, Garden Warfare 2 is fun enough to rank on our list. An EA Play sub will give you full access to the game and a generous discount if you decide to buy it.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ## 6\. Star Wars Jedi: Fallen Order
 
  Star Wars fans and non-Star Wars fans alike will enjoy playing as a displaced Jedi in Fallen Order. Its captivating story, challenging combat and level progression mechanic, rich music, and breathtaking platform-like world have earned this game many awards and nominations since its release in 2019.
@@ -72,6 +87,9 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 
  As long as you stay away from the micro-transactions (AKA Ultimate Team) part of this game, you will enjoy it if you love combat sports. This version also gets commentary from Snoop Dogg in addition to the usual Joe Rogan.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## EA Play Is $5 Per Month of Unlimited Fun
 
  EA Play is one of the best ways to save money on a PS5\. With EA Play, you get to play video games that could cost you thousands of dollars, all for $5/month. You can also use it as a great opportunity to test out games you were hoping to buy to see if it’s worth the money to you.
@@ -97,3 +115,49 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-immersing-viewers-in-new-realities-the-vr-film-revolution/"><u>[New] Immersing Viewers in New Realities  The VR Film Revolution</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-upgrading-igtv-thumbnails-a-comprehensive-walkthrough/"><u>[New] In 2024, Upgrading IGTV Thumbnails  A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-no-price-tag-on-adventure-top-10-gratuitous-online-rpgs/"><u>[New] No Price Tag On Adventure  Top 10 Gratuitous Online RPGs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-14-youtube-gaming-video-ideas-to-boost-gaming-channels/"><u>[New] Top 14 YouTube Gaming Video Ideas to Boost Gaming Channels</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-giggle-galore-twitters-top-10-joke-threads/"><u>[Updated] 2024 Approved  Giggle Galore  Twitter's Top 10 Joke Threads</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-crafting-gentle-sound-declines-with-logic-pro-for-2024/"><u>[Updated] Crafting Gentle Sound Declines with Logic Pro for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-camouflaged-consumer-of-facebook-feeds/"><u>[Updated] In 2024, Camouflaged Consumer of Facebook Feeds</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-privacy-focused-instagram-story-insight-methodology/"><u>[Updated] In 2024, Privacy-Focused Instagram Story Insight Methodology</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-art-of-gaining-traction-using-hashtags-in-igtv/"><u>[Updated] In 2024, The Art of Gaining Traction  Using Hashtags in IGTV</u></a></li>
+<li><a href="https://games-able.techidaily.com/crossover-for-applesilicon-gamers-a-step-by-step-guide-to-playing-windows-games/"><u>CrossOver for AppleSilicon Gamers: A Step-by-Step Guide to Playing Windows Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-endless-entertainment-without-spending/"><u>Discover Endless Entertainment Without Spending</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-eye-candy-for-gamers-on-a-budget/"><u>Essential Eye Candy for Gamers on a Budget</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exclusive-deals-on-superior-quality-economical-asmr-mics-for-2024/"><u>Exclusive Deals on Superior-Quality, Economical ASMR Mics for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/expanding-language-reach-in-roms-with-easy-applications/"><u>Expanding Language Reach in ROMs with Easy Applications</u></a></li>
+<li><a href="https://games-able.techidaily.com/first-foray-of-keychron-lemokey-l3-unleashed/"><u>First Foray of Keychron: Lemokey L3 Unleashed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-right-lenovo-t430-drivers-for-your-windows-1087-system-fast-and-effortless/"><u>Get the Right Lenovo T430 Drivers for Your Windows 10/8/7 System – Fast & Effortless!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-vs-bert-explained-key-features-and-functionality-of-top-languages-models/"><u>GPT Vs. BERT Explained: Key Features & Functionality of Top Languages Models</u></a></li>
+<li><a href="https://network-issues.techidaily.com/hack-free-gaming-quick-fix-for-legends-crash/"><u>Hack-Free Gaming: Quick Fix for Legends Crash</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-play-strands-the-nyts-latest-addicting-word-game/"><u>How to Play Strands, the NYT's Latest Addicting Word Game</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-use-classic-nintendo-controllers-on-steam/"><u>How to Use Classic Nintendo Controllers on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/immersive-experience-with-top-tier-dell-screen-anc-earpiece-and-crystal-clear-video-webcam/"><u>Immersive Experience with Top-Tier Dell Screen, ANC Earpiece, and Crystal-Clear Video Webcam</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-elevate-your-edits-the-beginners-insider-look-at-editing-techniques/"><u>In 2024, Elevate Your Edits  The Beginner's Insider Look at Editing Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-cooling-accessories-for-your-deck/"><u>Innovative Cooling Accessories for Your Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/inside-amds-graphics-powerhouse-rx-7800xt-rx-7700xt/"><u>Inside AMD's Graphics Powerhouse: RX 7800XT, RX 7700XT</u></a></li>
+<li><a href="https://games-able.techidaily.com/invisible-steam-collection/"><u>Invisible Steam Collection</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-quiet-mode-on-xbox-series-xs-and-controllers/"><u>Mastering Quiet Mode on Xbox Series X/S & Controllers</u></a></li>
+<li><a href="https://games-able.techidaily.com/methods-to-stop-unintended-xbox-joystick-shifts/"><u>Methods to Stop Unintended Xbox Joystick Shifts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/most-utilized-firefox-screen-capturing-plugins-for-2024/"><u>Most Utilized Firefox Screen Capturing Plugins for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/online-extension-for-nintendo-switch-a-deal/"><u>Online Extension for Nintendo Switch: A Deal?</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-false-debit-alerts-on-game-console/"><u>Overcoming False Debit Alerts on Game Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-phone-games-supporting-gamepads/"><u>Premium Phone Games Supporting Gamepads</u></a></li>
+<li><a href="https://games-able.techidaily.com/restoring-cloud-connectivity-in-steam-gear/"><u>Restoring Cloud Connectivity in Steam Gear</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/sharpening-screen-views-for-improved-virtual-interactions-for-2024/"><u>Sharpening Screen Views for Improved Virtual Interactions for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/tackling-oculus-app-failure-in-windows-os/"><u>Tackling Oculus App Failure in Windows OS</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-inside-story-of-the-latest-ps5-slim-model/"><u>The Inside Story of the Latest PS5 Slim Model</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/top-5-free-youtube-video-editor-apps-for-apple-users-for-2024/"><u>Top 5 Free YouTube Video Editor Apps for Apple Users for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-tech-life-by-upgrading-to-corsairs-icue-link-benefits/"><u>Transform Your Tech Life by Upgrading to Corsair's iCUE Link Benefits</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/uncovering-invisible-challenges-in-vr/"><u>Uncovering Invisible Challenges in VR</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-endless-content-with-xbox-game-pass-ultimate/"><u>Unlock Endless Content With Xbox Game Pass Ultimate</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-streamlining-speaker-audio-in-microsoft-powerpoint-cross-platform-solutions-for-windows-and-mac/"><u>Updated 2024 Approved Streamlining Speaker Audio in Microsoft PowerPoint Cross-Platform Solutions for Windows and Mac</u></a></li>
+</ul></div>

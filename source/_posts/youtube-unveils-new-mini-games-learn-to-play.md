@@ -1,0 +1,209 @@
+---
+title: YouTube Unveils New Mini-Games; Learn to Play
+date: 2024-08-15T17:24:48.085Z
+updated: 2024-08-16T17:24:48.085Z
+tags:
+  - games
+categories:
+  - games
+description: This Article Describes YouTube Unveils New Mini-Games; Learn to Play
+excerpt: This Article Describes YouTube Unveils New Mini-Games; Learn to Play
+keywords: YouTube Mini-Games,New Gaming Videos,Learn Games on YouTube,Mini-Game Tutorials,Interactive Video Games,Play Now, YouTube!,Fun Learning Games
+thumbnail: https://thmb.techidaily.com/a0065ec58e14aa7a294fd33338e90d4d15fa577ac0b3dd7d4dd7c6264c50f140.jpg
+---
+
+## YouTube Unveils New Mini-Games; Learn to Play
+
+### Quick Links
+
+* [What Is YouTube Playables?](#what-is-youtube-playables)
+* [Who Can Play Playables on YouTube?](#who-can-play-playables-on-youtube)
+* [How Can You Activate Playables?](#how-can-you-activate-playables)
+* [Testing YouTube Playables](#testing-youtube-playables)
+
+### Key Takeaways
+
+* YouTube Playables offers a collection of 40 mini-games accessible through the YouTube app or web browser.
+* Only YouTube Premium subscribers can access Playables, and it is not available on YouTube Kids accounts.
+* To activate Playables, go to the settings in your YouTube app and enable the "Try experimental new features" option. The feature will only be available until March 28, 2024.
+
+ YouTube has rolled out a collection of mini-games as an experimental feature for select users, dubbed Playables. If you’re interested in playing, here is how to activate this feature and join in on the fun.
+
+## What Is YouTube Playables?
+
+ Playables is a collection of YouTube mini-games that can be accessed on your smartphone via the YouTube app or through your desktop’s web browser.
+
+ At the time of writing, Playables has 40 mini-games, all of which require no download or installation to start playing. The games are split into eight gaming genres, mostly focusing on Brain & Puzzle and Arcade games.
+
+Here are all the games accessible in the YouTube Playables section:
+
+| **Sports**         | 8 Ball Billiards Classic, Basketball FRVR, Carrom Clash, Super Goal                                                                                          |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Brain & Puzzle** | Angry Birds Showdown, Brain Out, Collect Em All!, Color Pixel Art, Daily Crossword, Element Blocks, Gold Mahjong FRVR, Onet Connect Classic, Tile Master     |
+| **Arcade**         | Cannon Balls 3D, Color Burst 3D, Crazy Caves, Merge Master, Merge Pirates, Moving Co., Northern Heights, Om Nom Run, Pirate Pop, Slice It All!, Stack Bounce |
+| **RPG & Strategy** | Cube Tower, Endless Siege, Merge Heroes                                                                                                                      |
+| **Racing**         | Draw Climber, Scooter Extreme                                                                                                                                |
+| **Board & Card**   | Daily Solitaire, FreeCell Solitaire, Gin Rummy                                                                                                               |
+| **Simulation**     | Farm Land, My Space Pet, Rainy Boba Cafe                                                                                                                     |
+| **Action**         | Magic Cat Academy, State.io                                                                                                                                  |
+| **Trivia & Word**  | Today’s Hurdle, Words of Wonders, Words of Wonders: Guru                                                                                                     |
+
+ Many of these games have been developed by well-known game developers, such as FRVR, Nitro Games, Vodoo, Aim Lab, Famobi, and Arkadium. And since some of these developers are popular for their free HMTL5 games, you can actually play some of the games listed above outside YouTube Playables through the game developer’s official website or through third-party sites like[HTML5 Games](https://html5games.com/) .
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
+## Who Can Play Playables on YouTube?
+
+ Playables is an experimental feature within YouTube. Since[only YouTube Premium members can test experimental features](https://www.makeuseof.com/youtube-premium-test-experimental-features/) , the mini-games are only available to YouTube Premium subscribers. This also means that those with YouTube Kids accounts cannot access this section despite the child-friendly nature of all the mini-games within the collection.
+
+ If you are[deciding whether YouTube Premium is worth it](https://www.makeuseof.com/tag/youtube-red-worth-money-things-need-consider/) to access Playables and all the other premium features, we suggest that you skip the annual subscription and get the monthly subscription instead. This is because the Playables feature will only be available until March 28, 2024\. If it doesn’t become a feature after that date, it may get canceled entirely.
+
+## How Can You Activate Playables?
+
+ If you weren’t notified of the feature but are a Premium subscriber, you can try to access Playables just by turning on experimental features in your YouTube app.
+
+ To activate Playables, open the YouTube app and go to the**You** section at the bottom right of your screen. Then open the settings menu by hitting the**gear icon** and select**Try experimental new features.** You will be shown all the available experimental features. Look for**Play games on YouTube** and select**Try it out** .
+
+![YouTube landing page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/1-youtube-landing-page.jpg)
+
+![YouTube You tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/youtube-you-section.jpg)
+
+![YouTube Settings menu with experimental features option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/3-youtube-settings-menu.jpg)
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![the option to try out YouTube Playables](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/4-try-out-youtube-playables-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Close
+
+ Once you have enabled YouTube Playables, you can access the games through the**Explore** tab on YouTube. The Explore section should be accessible in plain sight if you’re using a web browser. For those using their smartphones, tapping on the**compass icon** in the top right of your screen will reveal the Explore section where Playables is listed.
+
+![YouTube compass icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/youtube-compass-icon-1.jpg)
+
+![Mobile explore section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/2mobile-explore-section.jpg)
+
+![YouTube playable games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/22youtube-playable-games.jpg)
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![YouTube homepage scrolling](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/403399801_6992387144163435_8787378799009490497_n-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
+
+Close
+
+ Alternatively, you can simply keep scrolling through the YouTube homepage past**Shorts** and**Breaking news** until you see the**Playables on YouTube** section. You can then click any of the 40 mini-games available to start playing.
+
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Testing YouTube Playables
+
+ Just like YouTube, Netflix and TikTok have also added mini-games as part of their platforms. What YouTube does differently is requiring no download or installation to play its mini-games. This level of convenience could attract more casual gamers to YouTube, which may boost user engagement and time spent on the platform.
+
+ Depending on how Playables perform, we may see more platforms implementing mini-games into their services. Or the experiment could fail miserably.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-paint-a-picture-of-perfection-chromatic-mastery-for-beauty/"><u>[New] 2024 Approved  Paint a Picture of Perfection  Chromatic Mastery for Beauty</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-comprelevant-listings-best-free-tools-to-watch-webm-videos-for-2024/"><u>[New] Comprelevant Listings  Best Free Tools to Watch WebM Videos for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-cut-the-haze-sharpen-your-photos-with-topeditstools/"><u>[New] Cut the Haze, Sharpen Your Photos with #TopEditsTools</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-facebooks-quintessential-changes-for-enthusiasts/"><u>[New] Facebook's Quintessential Changes for Enthusiasts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-legally-nurtured-viewership-growth-tips-for-youtubers/"><u>[New] Legally Nurtured Viewership Growth Tips for YouTubers</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solved-pfn-list-corrupt-bsod-in-windows-11/"><u>[SOLVED] PFN LIST CORRUPT BSOD in Windows 11</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-enhancing-professionalism-blurring-teambackgrounds-effectively/"><u>[Updated] 2024 Approved  Enhancing Professionalism  Blurring TeamBackgrounds Effectively</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-finding-balance-the-art-of-choosing-video-dimensions/"><u>[Updated] 2024 Approved  Finding Balance  The Art of Choosing Video Dimensions</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-elevating-your-online-presence-a-complete-handbook-for-tiktok-name-change-for-2024/"><u>[Updated] Elevating Your Online Presence  A Complete Handbook for TikTok Name Change for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-mapping-out-your-ideal-tiktok-conclusion/"><u>[Updated] Mapping Out Your Ideal TikTok Conclusion</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-pro-level-mac-audio-logging-tools-uncover-the-top-5-for-2024/"><u>[Updated] Pro-Level Mac Audio Logging Tools  Uncover the Top 5 for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-triggering-instant-play-for-youtube-videos-on-social-media/"><u>[Updated] Triggering Instant Play for YouTube Videos on Social Media</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-seize-the-day-documenting-games-on-samsung-phones/"><u>2024 Approved  Seize the Day! Documenting Games on Samsung Phones</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-art-of-mixing-on-youtube-music/"><u>2024 Approved  The Art of Mixing on YouTube Music</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-vimeo-video-snippets-turn-into-dynamic-shareable-gifs/"><u>2024 Approved  Vimeo Video Snippets  Turn Into Dynamic, Shareable GIFs</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-realme-11-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Realme 11 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/apples-spotlight-shines-on-mondly-as-10-in-education-tech/"><u>Apple's Spotlight Shines on Mondly as #10 in Education Tech</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/auditory-ambience-finder-for-film-and-video-sets-for-2024/"><u>Auditory Ambience Finder  For Film and Video Sets for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-the-fog-of-ray-tracing-seeing-through-its-allure/"><u>Beyond the Fog of Ray Tracing: Seeing Through Its Allure</u></a></li>
+<li><a href="https://games-able.techidaily.com/bg3-hardware-requirements-at-a-glance/"><u>BG3 Hardware Requirements at a Glance</u></a></li>
+<li><a href="https://games-able.techidaily.com/boost-your-steam-deck-with-essential-launcher-tools/"><u>Boost Your Steam Deck with Essential Launcher Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosted-performance-fixing-fps-and-optimizing-pc-gaming-in-valorant/"><u>Boosted Performance: Fixing FPS and Optimizing PC Gaming in Valorant</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-docked-steam-deck-efficiency-step-by-step-tips/"><u>Boosting Docked Steam Deck Efficiency: Step-by-Step Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-xbox-experience-through-dual-display-setup/"><u>Boosting Xbox Experience Through Dual Display Setup</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-your-gaming-performance-enhancing-fps-on-windows/"><u>Boosting Your Gaming Performance: Enhancing FPS on Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/breathing-life-back-into-your-gps-reclaiming-signal-in-pokemon-go-adventures/"><u>Breathing Life Back Into Your GPS: Reclaiming Signal in Pokémon Go Adventures</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridging-console-control-to-mobile-screen/"><u>Bridging Console Control to Mobile Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridging-controller-and-device-a-beginners-guide-to-android-setup/"><u>Bridging Controller and Device: A Beginner's Guide to Android Setup</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridging-sony-and-nintendo-joy-cons-connection/"><u>Bridging Sony and Nintendo Joy-Cons Connection</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridging-wi-fi-gaps-for-switch-users/"><u>Bridging Wi-Fi Gaps for Switch Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/bring-back-those-good-old-days-why-your-game-needs-pi/"><u>Bring Back Those Good Old Days: Why Your Game Needs Pi</u></a></li>
+<li><a href="https://games-able.techidaily.com/bring-back-your-ps4-joystick-immediate-fix-tips-and-tricks/"><u>Bring Back Your PS4 Joystick: Immediate Fix Tips and Tricks</u></a></li>
+<li><a href="https://games-able.techidaily.com/bringing-old-school-gaming-into-your-linux-space/"><u>Bringing Old-School Gaming Into Your Linux Space</u></a></li>
+<li><a href="https://games-able.techidaily.com/broadcasting-and-collaborative-play-via-ps5/"><u>Broadcasting & Collaborative Play via PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/bypassing-risks-no-mic-feature-in-ps5/"><u>Bypassing Risks: No Mic Feature in PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-macbook-pros-redefine-gaming-experience/"><u>Can MacBook Pros Redefine Gaming Experience?</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-you-reuse-your-older-games-drives-with-the-ps5/"><u>Can You Reuse Your Older Games' Drives with the PS5?</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-you-use-the-newest-controller-with-an-older-system/"><u>Can You Use the Newest Controller with an Older System?</u></a></li>
+<li><a href="https://games-able.techidaily.com/cellphone-playtime-whats-in-it-for-us/"><u>Cellphone Playtime: What's in It for Us?</u></a></li>
+<li><a href="https://games-able.techidaily.com/champion-accessories-for-the-nintendo-switch-2024-selection/"><u>Champion Accessories for the Nintendo Switch (2024 Selection)</u></a></li>
+<li><a href="https://games-able.techidaily.com/champion-circuits-victory-vistas/"><u>Champion Circuits: Victory Vistas</u></a></li>
+<li><a href="https://games-able.techidaily.com/chatgpt-now-available-dive-into-these-6-games/"><u>ChatGPT Now Available - Dive Into These 6 Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/chatgpts-scriptwriting-techniques-for-games/"><u>ChatGPT's Scriptwriting Techniques for Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/choose-game-pass-ultimate-for-endless-gaming-joy/"><u>Choose Game Pass Ultimate for Endless Gaming Joy</u></a></li>
+<li><a href="https://games-able.techidaily.com/circumventing-steam-login-failures-windows-and-rust-approach/"><u>Circumventing Steam Login Failures: Windows & Rust Approach</u></a></li>
+<li><a href="https://games-able.techidaily.com/classic-charms-iphone-apps-for-old-school-games/"><u>Classic Charms: IPhone Apps for Old-School Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/clear-cache-to-run-facebook-games-smoothly-in-chrome/"><u>Clear Cache to Run Facebook Games Smoothly in Chrome</u></a></li>
+<li><a href="https://games-able.techidaily.com/clearing-the-past-the-ps4-reset-journey/"><u>Clearing the Past: The PS4 Reset Journey</u></a></li>
+<li><a href="https://games-able.techidaily.com/clearing-up-display-lag-error-code-0x887a0006-in-windows/"><u>Clearing Up Display Lag (Error Code 0X887A0006) in Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/combatting-robloxs-error-403-your-ultimate-fix-manual-for-windows-pcs/"><u>Combatting Roblox's Error 403: Your Ultimate Fix Manual for Windows PCs</u></a></li>
+<li><a href="https://facebook.techidaily.com/digital-frontier-contributes-to-health-crisis-alleviation/"><u>Digital Frontier Contributes to Health Crisis Alleviation</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-the-potential-of-raspberry-pi-400-a-revolutionary-hybrid-keyboard-pc/"><u>Discover the Potential of Raspberry Pi 400: A Revolutionary Hybrid Keyboard-PC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elite-webcams-that-transform-zoom-calls/"><u>Elite Webcams That Transform Zoom Calls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-employ-microsofts-copilot-tool-in-windows-ides/"><u>How to Employ Microsoft's Copilot Tool in Windows IDEs</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-vivo-v29e-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Vivo V29e Phone that is Locked?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-tiletime-effortless-video-mosaics-on-both-oses/"><u>In 2024, TileTime  Effortless Video Mosaics on Both OSes</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-the-great-dvr-debate-tivo-vs-comcast-which-one-reigns-supreme/"><u>New The Great DVR Debate TiVo vs Comcast - Which One Reigns Supreme?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-huawei-p60-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Huawei P60 FRP</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-cozy-winter-scenes-for-youtube-backdrops/"><u>Top 5 Cozy Winter Scenes for YouTube Backdrops</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transforming-your-career-path-with-a-chatgpt-powered-resume-guide/"><u>Transforming Your Career Path with a ChatGPT-Powered Resume Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-best-2024-gaming-laptops-performance-rankings-inside/"><u>Ultimate Guide to the Best 2024 Gaming Laptops - Performance Rankings Inside</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Honor Magic Vs 2? | Dr.fone</u></a></li>
+</ul></div>

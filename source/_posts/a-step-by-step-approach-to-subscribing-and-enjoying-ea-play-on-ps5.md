@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Approach to Subscribing & Enjoying EA Play on PS5
-date: 2024-07-12T04:26:33.879Z
-updated: 2024-07-13T04:26:33.879Z
+date: 2024-08-15T17:15:40.418Z
+updated: 2024-08-16T17:15:40.418Z
 tags:
   - games
 categories:
@@ -28,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/40db9e7f14d32360658bd45a85fa8baf591a4c124
 
  By the way, EA Play is one of the [ways you can get The Sim 4 for free](https://www.makeuseof.com/how-to-download-and-play-the-sims-4-for-free/) .
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Subscribe to EA Play on the PS5
 
  Trying to navigate your PS5 to pay for EA Play could be a little tricky. Before you begin, you must [add a card as a payment method on your PS5](https://www.makeuseof.com/add-psn-wallet-funds-and-buy-games-on-ps5/) (EA Play insists you have a card even though it will charge your wallet). So, we’ve detailed all the steps you should follow to successfully subscribe to it:
@@ -36,12 +39,18 @@ thumbnail: https://thmb.techidaily.com/40db9e7f14d32360658bd45a85fa8baf591a4c124
 2. Tap**R1** till you reach the**Subscriptions** tab.
 3. Scroll down till you see EA Play’s banner and choose**Learn More** .  
 ![EA Play in PlayStation Store's subscription page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ea-play-in-playstation-store-s-subscription-page.JPG)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 4. Select**$4.99** and choose**Order & Pay** .
 
  In the image above, you’ll see that EA Play is going for $0.99\. This is a limited offer and doesn’t reflect the regular price.
 
  If you have money in your wallet, EA Play will debit the wallet before any other payment method—even on subsequent renewals.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Use an EA Play Membership on the PS5
 
  You won’t automatically find EA Play games in your library; you must go to the Play List to find and download the games. Here’s how to find them:
@@ -49,13 +58,22 @@ thumbnail: https://thmb.techidaily.com/40db9e7f14d32360658bd45a85fa8baf591a4c124
 1. Go to**PlayStation Store > Subscriptions** and scroll down to EA Play’s banner.
 2. Select**View Games** , and you’ll find yourself in the**EA Play Play List** .  
 ![EA Play Play List page on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ea-play-play-list-page-on-the-ps5.JPG)
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. Navigate to the game you wish to download, select the cover art, and choose**Download** or the discount game price button.  
 ![Battlefield 4 EA Play PlayStation Store page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/battlefield-4-ea-play-playstation-store-page.JPG)
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The game will download and install on your device from there. If you got the game free, you’ll no longer have access when your EA Play membership expires. However, if you bought it with the 10% discount, you’ll have the game forever.
 
  You can tell which games in your library are EA Play games; just look for the tiny red circular EA Logo when you highlight the game.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Cancel an EA Play Membership on the PS5
 
  You might no longer want EA Play after paying for the first month. And this might be the best course of action if you’re only trying to use the membership to get discounts. In that case, head into **Settings > Account > Payment and Subscriptions > Subscriptions > EA Play > Cancel Subscription** .
@@ -89,3 +107,45 @@ thumbnail: https://thmb.techidaily.com/40db9e7f14d32360658bd45a85fa8baf591a4c124
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-a-guide-to-vimeo-video-host-and-share-site/"><u>[New] A Guide to Vimeo  Video Host & Share Site</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-elevate-your-digital-diaries-with-complimentary-upgrades-for-2024/"><u>[New] Elevate Your Digital Diaries with Complimentary Upgrades for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-enhancing-video-discoverability-through-youtube-images/"><u>[Updated] 2024 Approved  Enhancing Video Discoverability Through Youtube Images</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-experience-the-joy-sorrow-merge-with-these-ten-meme-ig-accounts/"><u>[Updated] 2024 Approved  Experience the Joy-Sorrow Merge with These Ten Meme IG Accounts</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-sounds-ownership-policy/"><u>[Updated] Instagram Sounds Ownership Policy</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-story-remix-windows-10-photos-for-video-editing/"><u>[Updated] Mastering Story Remix  Windows 10 Photos for Video Editing</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-recover-missing-social-media-icon-in-facebook-watch-for-2024/"><u>[Updated] Recover Missing Social Media Icon in Facebook Watch for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-your-first-steps-for-youtube-earning-8-methods-for-2024/"><u>[Updated] Your First Steps for YouTube Earning - 8 Methods for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-boosting-video-impact-integrating-free-luts-into-your-obs-workflow/"><u>2024 Approved  Boosting Video Impact  Integrating Free LUTs Into Your OBS Workflow</u></a></li>
+<li><a href="https://games-able.techidaily.com/dealing-with-switch-dysfunction-restore-or-replace/"><u>Dealing with Switch Dysfunction: Restore or Replace?</u></a></li>
+<li><a href="https://games-able.techidaily.com/decreasing-webpage-load-times-techniques-for-reduced-ping-rate/"><u>Decreasing Webpage Load Times: Techniques for Reduced Ping Rate</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-amd-radeon-rx-590-drivers-on-windows/"><u>Download & Install AMD Radeon RX 590 Drivers on Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-iphone-gaming-with-geforce-nows-cloud-technology/"><u>Elevate iPhone Gaming with GeForce Now's Cloud Technology</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-your-game-with-v-buck-purchases-on-sony-console/"><u>Enhance Your Game with V-Buck Purchases on Sony Console</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-our-picked-top-10-best-tools-similar-to-chatgpt/"><u>Explore Our Picked Top 1^0 Best Tools Similar to ChatGPT</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-virtual-realms-to-your-fingertips-playing-fortnite-on-iphone/"><u>From Virtual Realms to Your Fingertips: Playing Fortnite on iPhone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-play-fortnite-on-your-iphone-using-geforce-now/"><u>How to Play Fortnite on Your iPhone Using GeForce Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-use-a-graphics-tablet-to-play-a-rhythm-game/"><u>How to Use a Graphics Tablet to Play a Rhythm Game</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-realme-narzo-60x-5g-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Realme Narzo 60x 5G</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-v29-pro-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo V29 Pro Location by Number | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/inspirational-movies-fuel-for-the-soul-and-spirit-for-2024/"><u>Inspirational Movies  Fuel for the Soul and Spirit for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/integrating-a-playstation-controller-into-your-pc-gaming-setup/"><u>Integrating a PlayStation Controller Into Your PC Gaming Setup</u></a></li>
+<li><a href="https://facebook.techidaily.com/january-2023-new-judgment-on-fb-ban/"><u>January 2023: New Judgment on FB Ban</u></a></li>
+<li><a href="https://games-able.techidaily.com/link-your-xbox-controller-for-pc-gaming-ease-137-chars/"><u>Link Your Xbox Controller for PC Gaming Ease (137 Chars)</u></a></li>
+<li><a href="https://games-able.techidaily.com/making-ps5-look-unique-tips-and-tricks/"><u>Making PS5 Look Unique: Tips & Tricks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-autofocus-on-iphone-cameras-efficiently/"><u>Mastering Autofocus on iPhone Cameras Efficiently</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-combatants-sxs-vs-high-end-gaming-pcs/"><u>Next-Gen Combatants: SXS Vs. High-End Gaming PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-solutions-to-increase-frame-rates-in-dayz-get-back-into-action-now/"><u>Quick Solutions to Increase Frame Rates in DayZ: Get Back Into Action Now!</u></a></li>
+<li><a href="https://games-able.techidaily.com/raging-firepower-raider-ge78s-2500-battle-royale/"><u>Raging Firepower: Raider GE78's $2500 Battle Royale</u></a></li>
+<li><a href="https://games-able.techidaily.com/rethinking-game-switches-light-vs-heavy/"><u>Rethinking Game SWITCHES: Light Vs. Heavy?</u></a></li>
+<li><a href="https://games-able.techidaily.com/return-requests-simplified-digital-games-on-xs-console/"><u>Return Requests Simplified: Digital Games on XS Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/reviving-ps5-licensing-a-step-by-step-guide/"><u>Reviving PS5 Licensing: A Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/securing-peak-performance-8-cpu-cooler-selection-tips/"><u>Securing Peak Performance: 8 CPU Cooler Selection Tips</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/space-smart-sound-system-yamaha-mcr-b020bl/"><u>Space-Smart Sound System - Yamaha MCR-B020BL</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-compact-powerhouse-for-gamers-pdw4/"><u>The Ultimate Compact Powerhouse for Gamers - PDW4</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-meta-in-gaming-its-importance-and-compliance/"><u>Understanding 'Meta' In Gaming: Its Importance & Compliance</u></a></li>
+<li><a href="https://games-able.techidaily.com/vr-expensive-quest-four-insightful-factors-at-play/"><u>VR Expensive Quest: Four Insightful Factors at Play</u></a></li>
+</ul></div>

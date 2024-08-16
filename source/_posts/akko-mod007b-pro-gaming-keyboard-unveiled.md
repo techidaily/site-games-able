@@ -1,7 +1,7 @@
 ---
 title: Akko MOD007B Pro-Gaming Keyboard Unveiled
-date: 2024-07-12T04:27:46.674Z
-updated: 2024-07-13T04:27:46.674Z
+date: 2024-08-15T17:14:34.552Z
+updated: 2024-08-16T17:14:34.552Z
 tags:
   - games
 categories:
@@ -109,9 +109,15 @@ No
 
 [See at Akko](https://en.akkogear.com/product/mod007b-pc-santorini-mechanical-keyboard/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## A Great-Looking Keyboard on the Surface
 
 ![Akko MOD007B HE Spacebar Detail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-spacebar-detail.jpg)
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Jowi Morales / MakeUseOf
 
@@ -121,9 +127,16 @@ No
 
  All of these sit on a plain white plastic case with two-level adjustable feet. You also get a plain white knob for adjusting volume and RGB brightness. This keyboard would look great on any desk. Even if you aim for a minimalist gaming station, its design could be your PC’s focal point.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ## Tokyo-Themed Keys and Accessories Included
 
 ![Akko MOD007B HE Tokyo-themed Accessories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-tokyo-themed-accessories.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 
  Jowi Morales / MakeUseOf
 
@@ -135,6 +148,9 @@ No
 
  Jowi Morales / MakeUseOf
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Akko MOD007B Means Serious Business Underneath
 
  What makes the Akko MOD007B different from most gaming keyboards is that it uses Hall Effect switches instead of mechanical keys.[Mechanical keyboards work by using springs](http://www.makeuseof.com/tag/mechanical-keyboard-work-technology-explained/) to control how much pressure you need to apply before it closes the switch.
@@ -142,6 +158,10 @@ No
  On the other hand, Hall Effect switches have no moving parts. Instead, it uses the changing position of two magnets to determine a key’s position. Because of this, Hall Effect keyboards have a longer lifespan than traditional mechanical switches, just like [Hall Effect joysticks](https://www.makeuseof.com/what-are-hall-effect-joysticks-can-they-cure-controller-drift/) .
 
 ![Akko MOD007B HE Hall-Effect Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-hall-effect-switch.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 
  Jowi Morales / MakeUseOf
 
@@ -169,6 +189,9 @@ Related
 
  Even when you bottom out the keys, you’ll feel as if it’s cushioned, reducing the stress on your fingertips. And although it doesn’t have the bassy, thocky sound some keyboard enthusiasts look for, it still delivers excellent audible feedback for each keypress you make.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## Extensive Customization With the Akko Cloud Driver
 
 ![Akko MOD007B HE Cloud Driver Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/akko-mod007b-he-cloud-driver-screenshot.jpg)
@@ -205,6 +228,9 @@ Related
 
  Granted that this keyboard will most likely sit on your desk in wired mode, it’s still better to allow the user to switch off the keyboard when not using it. This will help save power, especially if you transport the keyboard in your bag (like when going to a LAN party or an on-site competition) and want to use it wirelessly.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## Your Keyboard for Gaming Victory
 
  Although these couple of issues will negatively impact niche users like me, they won’t affect most users. You can't ignore the benefits of a Hall Effect keyboard, especially if you take your matches seriously.
@@ -304,3 +330,42 @@ No
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-in-overwatch-streamlining-the-recording-process/"><u>[New] In 2024, In Overwatch  Streamlining the Recording Process</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-affordable-acoustic-amps-and-mics-for-video-voyagers/"><u>[Updated] 2024 Approved  Affordable Acoustic Amps and Mics for Video Voyagers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-creatives-making-marvel-virtual-worlds-vivid/"><u>[Updated] 2024 Approved  Creatives Making Marvel Virtual Worlds Vivid</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-advanced-methods-to-archive-your-whatsapp-chat/"><u>[Updated] Advanced Methods to Archive Your WhatsApp Chat</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-calculating-earnings-the-essence-of-youtube-short-revenue-split-for-2024/"><u>[Updated] Calculating Earnings  The Essence of YouTube Short Revenue Split for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-innovators-crafting-marvels-digital-realm/"><u>[Updated] Innovators Crafting Marvel's Digital Realm</u></a></li>
+<li><a href="https://facebook.techidaily.com/6-reasons-social-media-killed-online-forums/"><u>6 Reasons Social Media Killed Online Forums</u></a></li>
+<li><a href="https://article-tips.techidaily.com/camera-excellence-the-top-10-4k-ready-shoulder-rigs-for-2024/"><u>Camera Excellence  The Top 10 4K-Ready Shoulder Rigs for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/ensuring-personalized-sound-exclusive-headset-use/"><u>Ensuring Personalized Sound: Exclusive Headset Use</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-tips-for-playing-steam-on-iphones-and-tablets/"><u>Essential Tips for Playing Steam on iPhones and Tablets</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-no-sound-problem-a-step-by-step-chromecast-solution/"><u>Fixing No Sound Problem: A Step-by-Step Chromecast Solution</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-single-to-double-os-pioneering-the-steam-decks-path/"><u>From Single to Double OS: Pioneering the Steam Deck's Path</u></a></li>
+<li><a href="https://games-able.techidaily.com/guide-to-swiftly-discovering-your-steam-user-number/"><u>Guide to Swiftly Discovering Your Steam User Number</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guide-modify-email-on-proton-vpn-browser-add-on-and-identifying-genuine-chatgpt-for-windows-users/"><u>Guide: Modify Email on Proton VPN Browser Add-On & Identifying Genuine ChatGPT for Windows Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-capture-and-manage-screenshots-on-steam/"><u>How to Capture and Manage Screenshots on Steam</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-complete-insights-into-utilizing-the-full-potential-of-macs-preview-features/"><u>In 2024, Complete Insights Into Utilizing the Full Potential of Mac's Preview Features</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Realme GT Neo 5? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/increase-your-influence-best-online-sites-to-elevate-gamerscore/"><u>Increase Your Influence: Best Online Sites to Elevate Gamerscore</u></a></li>
+<li><a href="https://games-able.techidaily.com/intrigue-and-investigation-with-smart-ai-games/"><u>Intrigue & Investigation with Smart AI Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-pc-mouse-and-keyboard-sharing-with-steam-deck-the-barrier-method/"><u>Mastering PC Mouse & Keyboard Sharing with Steam Deck: The Barrier Method</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-repeated-device-unrecognized-by-system-messages-when-using-usb-devices/"><u>Overcoming Repeated 'Device Unrecognized by System' Messages When Using USB Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/pricing-playtime-before-release-reviewed/"><u>Pricing Playtime Before Release Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-remedy-for-dxgierrordevicehunk-on-windows-1011/"><u>Quick Remedy for DXGI_ERROR_DEVICE_HUNK on Windows 10/11</u></a></li>
+<li><a href="https://games-able.techidaily.com/simple-guide-overcoming-the-failed-to-install-discord-hurdle-successfully/"><u>Simple Guide: Overcoming the 'Failed to Install Discord' Hurdle Successfully</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplify-game-boy-step-by-step-emulation-on-psp-device/"><u>Simplify Game Boy: Step-by-Step Emulation on PSP Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/stand-up-for-justice-documentation-of-misconduct-in-series-sx/"><u>Stand Up for Justice: Documentation of Misconduct in Series S/X</u></a></li>
+<li><a href="https://games-able.techidaily.com/stay-ahead-of-overheating-8-must-have-cpu-cooling-tips/"><u>Stay Ahead of Overheating: 8 Must-Have CPU Cooling Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/stop-automatic-steam-launch-on-system-restart/"><u>Stop Automatic Steam Launch on System Restart</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-hidden-dynamics-of-gamings-metagame/"><u>The Hidden Dynamics of Gaming’s Metagame</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-handbook-to-drone-video-editing/"><u>The Ultimate Handbook to Drone Video Editing</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-verdict-on-verdicts-dissecting-the-impact-of-game-critiques/"><u>The Verdict on Verdicts: Dissecting the Impact of Game Critiques</u></a></li>
+<li><a href="https://games-able.techidaily.com/unintended-outcomes-from-player-funded-game-creators/"><u>Unintended Outcomes From Player-Funded Game Creators</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-the-power-of-chatgpt-for-seamless-language-translation-services/"><u>Unlocking the Power of ChatGPT for Seamless Language Translation Services</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unmatched-video-upload-aides-to-twitter-for-2024/"><u>Unmatched Video Upload Aides to Twitter for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/windows-gaming-made-easy-on-apple-silicon-with-crossover-magic/"><u>Windows Gaming Made Easy on Apple Silicon with CrossOver Magic</u></a></li>
+</ul></div>

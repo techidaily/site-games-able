@@ -1,0 +1,167 @@
+---
+title: Explore & Master Your Way Through YouTube's Mini Gaming
+date: 2024-08-15T17:24:26.999Z
+updated: 2024-08-16T17:24:26.999Z
+tags:
+  - games
+categories:
+  - games
+description: This Article Describes Explore & Master Your Way Through YouTube's Mini Gaming
+excerpt: This Article Describes Explore & Master Your Way Through YouTube's Mini Gaming
+keywords: Mini Gaming Tutorials,YouTubing Strategies,Gameplay Guides,Interactive Learning,Gaming Mastery,Video Gaming Skills,Online Game Techniques
+thumbnail: https://thmb.techidaily.com/1fa3b9714516519d17cdc00ae160f98cb4b200553b264310d7d2980b9ce91d3e.jpg
+---
+
+## Explore & Master Your Way Through YouTube's Mini Gaming
+
+### Quick Links
+
+* [What Is YouTube Playables?](#what-is-youtube-playables)
+* [Who Can Play Playables on YouTube?](#who-can-play-playables-on-youtube)
+* [How Can You Activate Playables?](#how-can-you-activate-playables)
+* [Testing YouTube Playables](#testing-youtube-playables)
+
+### Key Takeaways
+
+* YouTube Playables offers a collection of 40 mini-games accessible through the YouTube app or web browser.
+* Only YouTube Premium subscribers can access Playables, and it is not available on YouTube Kids accounts.
+* To activate Playables, go to the settings in your YouTube app and enable the "Try experimental new features" option. The feature will only be available until March 28, 2024.
+
+ YouTube has rolled out a collection of mini-games as an experimental feature for select users, dubbed Playables. If you’re interested in playing, here is how to activate this feature and join in on the fun.
+
+## What Is YouTube Playables?
+
+ Playables is a collection of YouTube mini-games that can be accessed on your smartphone via the YouTube app or through your desktop’s web browser.
+
+ At the time of writing, Playables has 40 mini-games, all of which require no download or installation to start playing. The games are split into eight gaming genres, mostly focusing on Brain & Puzzle and Arcade games.
+
+Here are all the games accessible in the YouTube Playables section:
+
+| **Sports**         | 8 Ball Billiards Classic, Basketball FRVR, Carrom Clash, Super Goal                                                                                          |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Brain & Puzzle** | Angry Birds Showdown, Brain Out, Collect Em All!, Color Pixel Art, Daily Crossword, Element Blocks, Gold Mahjong FRVR, Onet Connect Classic, Tile Master     |
+| **Arcade**         | Cannon Balls 3D, Color Burst 3D, Crazy Caves, Merge Master, Merge Pirates, Moving Co., Northern Heights, Om Nom Run, Pirate Pop, Slice It All!, Stack Bounce |
+| **RPG & Strategy** | Cube Tower, Endless Siege, Merge Heroes                                                                                                                      |
+| **Racing**         | Draw Climber, Scooter Extreme                                                                                                                                |
+| **Board & Card**   | Daily Solitaire, FreeCell Solitaire, Gin Rummy                                                                                                               |
+| **Simulation**     | Farm Land, My Space Pet, Rainy Boba Cafe                                                                                                                     |
+| **Action**         | Magic Cat Academy, State.io                                                                                                                                  |
+| **Trivia & Word**  | Today’s Hurdle, Words of Wonders, Words of Wonders: Guru                                                                                                     |
+
+ Many of these games have been developed by well-known game developers, such as FRVR, Nitro Games, Vodoo, Aim Lab, Famobi, and Arkadium. And since some of these developers are popular for their free HMTL5 games, you can actually play some of the games listed above outside YouTube Playables through the game developer’s official website or through third-party sites like[HTML5 Games](https://html5games.com/) .
+
+## Who Can Play Playables on YouTube?
+
+ Playables is an experimental feature within YouTube. Since[only YouTube Premium members can test experimental features](https://www.makeuseof.com/youtube-premium-test-experimental-features/) , the mini-games are only available to YouTube Premium subscribers. This also means that those with YouTube Kids accounts cannot access this section despite the child-friendly nature of all the mini-games within the collection.
+
+ If you are[deciding whether YouTube Premium is worth it](https://www.makeuseof.com/tag/youtube-red-worth-money-things-need-consider/) to access Playables and all the other premium features, we suggest that you skip the annual subscription and get the monthly subscription instead. This is because the Playables feature will only be available until March 28, 2024\. If it doesn’t become a feature after that date, it may get canceled entirely.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
+## How Can You Activate Playables?
+
+ If you weren’t notified of the feature but are a Premium subscriber, you can try to access Playables just by turning on experimental features in your YouTube app.
+
+ To activate Playables, open the YouTube app and go to the**You** section at the bottom right of your screen. Then open the settings menu by hitting the**gear icon** and select**Try experimental new features.** You will be shown all the available experimental features. Look for**Play games on YouTube** and select**Try it out** .
+
+![YouTube landing page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/1-youtube-landing-page.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![YouTube You tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/youtube-you-section.jpg)
+
+![YouTube Settings menu with experimental features option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/3-youtube-settings-menu.jpg)
+
+![the option to try out YouTube Playables](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/4-try-out-youtube-playables-1.jpg)
+
+Close
+
+ Once you have enabled YouTube Playables, you can access the games through the**Explore** tab on YouTube. The Explore section should be accessible in plain sight if you’re using a web browser. For those using their smartphones, tapping on the**compass icon** in the top right of your screen will reveal the Explore section where Playables is listed.
+
+![YouTube compass icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/youtube-compass-icon-1.jpg)
+
+![Mobile explore section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/2mobile-explore-section.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
+
+![YouTube playable games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/22youtube-playable-games.jpg)
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![YouTube homepage scrolling](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/403399801_6992387144163435_8787378799009490497_n-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Close
+
+ Alternatively, you can simply keep scrolling through the YouTube homepage past**Shorts** and**Breaking news** until you see the**Playables on YouTube** section. You can then click any of the 40 mini-games available to start playing.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
+## Testing YouTube Playables
+
+ Just like YouTube, Netflix and TikTok have also added mini-games as part of their platforms. What YouTube does differently is requiring no download or installation to play its mini-games. This level of convenience could attract more casual gamers to YouTube, which may boost user engagement and time spent on the platform.
+
+ Depending on how Playables perform, we may see more platforms implementing mini-games into their services. Or the experiment could fail miserably.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-perfecting-movie-recording-your-multiplatform-strategy/"><u>[New] 2024 Approved  Perfecting Movie Recording  Your Multiplatform Strategy</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-easy-fix-for-a-desired-list-directionality/"><u>[New] The Easy Fix for a Desired List Directionality</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-unveiling-the-veil-insta-story-exploration-without-trace/"><u>[Updated] 2024 Approved  Unveiling the Veil  Insta Story Exploration without Trace</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-quick-pics-windows-11s-fast-photo-viewer/"><u>[Updated] Quick Pics  Windows 11'S Fast Photo Viewer</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-hololens-analysis-a-3d-interface-revolution-by-microsoft/"><u>2024 Approved  HoloLens Analysis  A 3D Interface Revolution by Microsoft</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-engrossing-terminal-challenges-to-try-today/"><u>7 Engrossing Terminal Challenges to Try Today</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-comprerans-guide-to-top-value-1440p-displays-for-every-gamers-wallet/"><u>A Compreran's Guide to Top Value 1440P Displays for Every Gamer's Wallet</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-historical-perspective-how-ancient-cultures-perceived-the-medical-properties-of-cannabis/"><u>A Historical Perspective: How Ancient Cultures Perceived the Medical Properties of Cannabis</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieve-quick-installation-of-discord-for-mac-devices/"><u>Achieve Quick Installation of Discord for Mac Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieving-precision-with-the-steam-deck-keyboard/"><u>Achieving Precision with the Steam Deck Keyboard</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-non-responsive-controllers-in-windows-environment/"><u>Addressing Non-Responsive Controllers in Windows Environment</u></a></li>
+<li><a href="https://games-able.techidaily.com/advances-in-non-invasive-measures-of-endocannabinoid-system-activity/"><u>Advances in Non-Invasive Measures of Endocannabinoid System Activity</u></a></li>
+<li><a href="https://games-able.techidaily.com/all-you-need-to-know-about-amds-graphics-lineup-rx-7800-and-7700xt/"><u>All You Need to Know About AMD's Graphics Lineup: RX 7800 & 7700XT</u></a></li>
+<li><a href="https://games-able.techidaily.com/analyzing-platform-pros-and-cons-steam-vs-gog-showdown/"><u>Analyzing Platform Pros & Cons: Steam vs GOG Showdown</u></a></li>
+<li><a href="https://games-able.techidaily.com/android-games-compatibility-with-linux-os/"><u>Android Games Compatibility with Linux OS</u></a></li>
+<li><a href="https://games-able.techidaily.com/are-gaming-chips-poised-for-higher-fees-soon/"><u>Are Gaming Chips Poised for Higher Fees Soon?</u></a></li>
+<li><a href="https://games-able.techidaily.com/are-imacs-setting-new-benchmarks-in-gaming/"><u>Are iMacs Setting New Benchmarks in Gaming?</u></a></li>
+<li><a href="https://games-able.techidaily.com/balancing-contrast-and-brightness-with-xbox-tools/"><u>Balancing Contrast and Brightness with Xbox Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/becoming-a-pro-at-game-enhancement-using-steam-workshop/"><u>Becoming a Pro at Game Enhancement Using Steam Workshop</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719173196069-bigger-frames-better-experiences-in-gaming/"><u>Bigger Frames, Better Experiences in Gaming!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-realme-12-proplus-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Realme 12 Pro+ 5G</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719165707969-free-play-with-xbox-deals-awaits/"><u>Free Play with Xbox Deals Awaits</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-vivo-x90s-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Vivo X90S</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-realme-v30t-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Realme V30T</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Motorola Moto G73 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-xiaomi-redmi-k70-pro-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Xiaomi Redmi K70 Pro for Parents | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719163015057-ios-enthusiasts-4-best-gbadvance-emulator-choices/"><u>IOS Enthusiasts: 4 Best GBAdvance Emulator Choices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/lightrooms-favorite-color-grads-and-luts-compilation/"><u>LightRoom's Favorite Color Grads and LUTs Compilation</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719169938014-top-15-pre-loaded-ios-games-fun-without-connections/"><u>Top 15 Pre-Loaded iOS Games: Fun WITHOUT Connections</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719160552147-unbeatable-summer-deals-on-your-ps-games/"><u>Unbeatable Summer Deals on Your PS Games!</u></a></li>
+</ul></div>

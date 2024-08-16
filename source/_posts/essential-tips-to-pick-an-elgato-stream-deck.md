@@ -1,0 +1,190 @@
+---
+title: Essential Tips to Pick an Elgato Stream Deck
+date: 2024-08-15T17:20:45.687Z
+updated: 2024-08-16T17:20:45.687Z
+tags:
+  - games
+categories:
+  - games
+description: This Article Describes Essential Tips to Pick an Elgato Stream Deck
+excerpt: This Article Describes Essential Tips to Pick an Elgato Stream Deck
+keywords: Stream Deck Buying Guide,Elgato Stream Deck Top Picks,Stream Deck Selection Tips,Affordable Stream Decks 2023,Streaming Control Essentials,Customizable Stream Deck Options,Easy-to-Use Stream Decks for Gamers
+thumbnail: https://thmb.techidaily.com/84120ce1dd040ef96ca974489513e09e6fd38ddc4b035ddddd4021d7d15c6c74.jpg
+---
+
+## Essential Tips to Pick an Elgato Stream Deck
+
+ The Elgato Stream Deck is a fantastic piece of kit that can help you automate tasks on your computer. It's primarily designed for streamers on platforms like Twitch, but you can also use it to improve your productivity, control your smart home, display real-time stats, and more.
+
+ If you're thinking of buying the Elgato Stream Deck, you might be wondering which model to buy. We're going to compare the Stream Deck Mini, Stream Deck MK.2, Stream Deck +, Stream Deck XL, Stream Deck Pedal, and Stream Deck Mobile to see which is best for you.
+
+## Understanding the Elgato Stream Deck Software
+
+ Before we compare the different models of the Elgato Stream Deck, know that the software is identical. No matter which Stream Deck you buy, you'll download the same free program and have access to all the plugins (including all the[great Stream Deck streamer shortcuts](https://www.makeuseof.com/best-stream-deck-shortcuts-for-streamers/) ). It's available for Windows and Mac.
+
+![stream deck software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/stream-deck-software.jpg)
+
+ While some models have different stands or cables, or come with additional inputs like dials, the primary difference between them is how many physical keys they have. As such, consider how you intend to use a Stream Deck and how much physical space you have.
+
+## 1. Elgato Stream Deck Mini
+
+* **LCD keys:** 6
+* **Dimensions:** 84 x 60 x 58 mm
+* **Weight:** 160g
+* **Cable:** Integrated USB 2.0
+* **Price:** $79.99
+
+ As the name suggests, the Stream Deck Mini is the smallest in the Elgato line-up. It's the perfect entry point into the Stream Deck, especially for any beginner streamer. The small form factor makes it great if you have limited desk space. It doesn't come with a stand, so it can slip around slightly on some desk surfaces, but this is easily resolved with a bit of DIY.
+
+ Although it only has six customizable LCD keys, you're not limited to this number of actions. That's because you can use pages and folders within the Stream Deck software, creating an endless number of virtual keys. The only downside is it'll take you more physical button pushes to find them compared to the larger Stream Decks.
+
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## 2. Elgato Stream Deck MK.2
+
+* **LCD keys:** 15
+* **Dimensions:** 118 x 84 x 25 mm
+* **Weight:** 145g
+* **Cable:** Detachable USB 2.0
+* **Price:** $149.99
+
+ The Stream Deck MK.2 has 15 keys, which is more than enough to program easy access to stream controls, audience engagement, sound effects, and more. It's also well suited if you want to[use a Stream Deck for productivity](https://www.makeuseof.com/how-to-use-the-elgato-stream-deck-for-productivity/) . It has a sturdy stand, a USB-C port with included detachable cable, and swappable faceplates (for matching your desk color scheme). The Deck itself is available in black or white.
+
+ Though the $150 price tag means it's not exactly an entry-level device, it's excellent at what it does. You get satisfying physical and visual responses to your button presses and it's effortless to set up and use.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 3. Elgato Stream Deck +
+
+* **LCD keys:** 8
+* **Dimensions:** 140 x 138 x 110 mm
+* **Weight:** 465g
+* **Cable:** Detachable USB 2.0
+* **Price:** $199.99
+
+ The Stream Deck + includes eight LCD keys that function like the other models. Where it differs is with the inclusion of a touch screen and four dials. It's a good choice if you're looking for easy on the fly tweaking of your setup and value a range of tactile inputs. It comes in black or white.
+
+ The touch screen lets you control apps, swipe through button pages, and display information. The dials (available in a range of colors) let you adjust volume levels, brightness, camera zoom, and more—basically any setting you adjust incrementally. You can also push the dials to cycle through more actions.
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 4. Elgato Stream Deck XL
+
+* **LCD keys:** 32
+* **Dimensions:** 182 x 112 x 34 mm
+* **Weight:** 410g
+* **Cable:** Detachable USB 3.0
+* **Price:** $249.99
+
+ If it's plenty of customizable LCD keys you're after, the Stream Deck XL has you covered with 32 of them. It comes with a detachable magnetic stand, which is useful to help keep the Deck in one place on your desk, and a detachable USB-C to USB-A cable.
+
+ Since it retails at $250, the XL is ideal for those who want to[use a Stream Deck to livestream like a pro](https://www.makeuseof.com/how-to-use-elgato-stream-deck/) and who need quick access to a large number of keys on a single page. For most people, the standard MK.2 or Mini will suffice.
+
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## 5. Elgato Stream Deck Pedal
+
+* **LCD keys:** 0
+* **Dimensions:** 175 x 244 x 49 mm
+* **Weight:** 960g
+* **Cable:** Detachable USB 2.0
+* **Price:** $89.99
+
+ The Stream Deck Pedal is very different from the other models because it has no LCD buttons and doesn't sit on your desk. Instead, it goes on the ground and you control the three pedals with your feet. The anti-skid base and textured pedals help you maintain control. It also comes with a spring tension customization set, to give you control over the pedal pressure.
+
+ Despite only having three pedals, you can use the Stream Deck software to create profiles that automatically toggle depending on the active program. If you need discreet and hands-free operation, the Pedal is brilliant.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 6. Elgato Stream Deck Mobile
+
+ This isn't a physical product, but rather a mobile app available for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2003798/https://play.google.com/store/apps/details?id=com.corsair.android.streamdeck) and[iOS](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2003798/https://itunes.apple.com/app/elgato-stream-deck-mobile/id1440014184) . It costs $2.99/month or $25/year. On Android, you get a 30-day trial. On iOS, you get unlimited free usage of 6 keys—that rises to 64 keys and other features like custom layouts if you pay.
+
+ Of course, you're not getting the Elgato hardware here, so you do miss the satisfying physical response that comes with those products. But you trade that for the convenience that mobile has, as you can take your Stream Deck wherever you go. That's perfect if you're a streamer who has multiple setups; although if that applies, you probably already have a more advanced solution in place anyway.
+
+ It also means it's not another physical piece of kit for your setup, since chances are your mobile is already on your desk. It easily links through to the Stream Deck software on your desktop.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Which Stream Deck Should You Buy?
+
+ If you've decided you want an Elgato Stream Deck, the ultimate question is how many keys you want. Remember, you can use the same tools, plugins, and icons, regardless of which Deck you purchase.
+
+ You might want to try Stream Deck Mobile to see if it fits well in your workflow. If it does, consider upgrading to the Mini or MK.2\. The Stream Deck + and XL are best placed for power users, while the Pedal is necessary if hands-free control is a must.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-how-do-i-schedule-a-screen-recording/"><u>[New] 2024 Approved  How Do I Schedule A Screen Recording</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-eternal-display-documentation-for-2024/"><u>[New] Eternal Display Documentation for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-master-the-art-of-gameye-and-webcam-recordings-for-2024/"><u>[New] Master the Art of GamEye and WebCam Recordings for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-the-skies-a-guide-to-using-syma-x8c/"><u>[New] Mastering the Skies  A Guide to Using Syma X8C</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-navigating-the-world-of-online-video-conferencing/"><u>[New] Navigating the World of Online Video Conferencing</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-through-lipo-technologies-for-drones-needs/"><u>[New] Navigating Through LiPo Technologies for Drones' Needs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-trackcast-analysis-for-2024/"><u>[New] TrackCast Analysis for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-ideal-pc-recording-software-for-windows-enthusiasts/"><u>[Updated] 2024 Approved  Ideal PC Recording Software for Windows Enthusiasts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-harness-the-power-of-yt-green-screens-for-imaginative-projects/"><u>[Updated] In 2024, Harness the Power of YT Green Screens for Imaginative Projects</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pros-guide-to-capturing-every-angle/"><u>2024 Approved  Pro's Guide to Capturing Every Angle</u></a></li>
+<li><a href="https://games-able.techidaily.com/4-cryptic-quests-for-the-digital-detective-ai/"><u>4 Cryptic Quests for the Digital Detective AI</u></a></li>
+<li><a href="https://games-able.techidaily.com/6-best-games-offering-fee-free-experience/"><u>6 Best Games Offering Fee-Free Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/6-reasons-why-you-shouldnt-leave-your-ps5-running-all-the-time/"><u>6 Reasons Why You Shouldn’t Leave Your PS5 Running All the Time</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-essential-steps-for-pc-components-cohesion/"><u>7 Essential Steps for PC Components Cohesion</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-new-chapter-in-gaming-without-borders/"><u>A New Chapter in Gaming Without Borders</u></a></li>
+<li><a href="https://games-able.techidaily.com/ace-your-console-setup-mastering-light-intensity-adjustments/"><u>Ace Your Console Setup: Mastering Light Intensity Adjustments</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieve-global-gaming-with-easy-to-apply-rom-tweaks/"><u>Achieve Global Gaming with Easy-to-Apply Rom Tweaks</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/adobe-premiere-pro-cs6-free-download-for-mac-os-x/"><u>Adobe Premiere Pro CS6 Free Download for Mac OS X</u></a></li>
+<li><a href="https://games-able.techidaily.com/akkos-modular-breakthrough-the-mod007b-gamers-board/"><u>Akko's Modular Breakthrough: The MOD007B Gamer's Board</u></a></li>
+<li><a href="https://games-able.techidaily.com/androids-retro-haven-emulating-original-pokemon-games/"><u>Android's Retro Haven: Emulating Original Pokémon Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/assessing-old-dock-compatibility-with-switchs-oled/"><u>Assessing Old Dock Compatibility with Switch's OLED</u></a></li>
+<li><a href="https://games-able.techidaily.com/asus-rog-ally-vs-steam-deck-which-is-better-on-paper/"><u>ASUS ROG Ally Vs. Steam Deck: Which Is Better on Paper?</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoid-hassle-request-xbox-series-xs-refund/"><u>Avoid Hassle: Request Xbox Series X/S Refund</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoid-long-term-affordability-strain-game-pass-strategies/"><u>Avoid Long-Term Affordability Strain: Game Pass Strategies</u></a></li>
+<li><a href="https://games-able.techidaily.com/baldurs-gate-3-your-guide-to-dlc-and-storage/"><u>Baldur's Gate 3 - Your Guide to DLC & Storage</u></a></li>
+<li><a href="https://games-able.techidaily.com/battle-royale-choice-ps5-or-affordable-pc/"><u>Battle Royale Choice: PS5 Or Affordable PC?</u></a></li>
+<li><a href="https://games-able.techidaily.com/beat-mastery-choosing-between-pen-and-mouse/"><u>Beat Mastery: Choosing Between Pen and Mouse</u></a></li>
+<li><a href="https://games-able.techidaily.com/beat-the-odds-with-a-graphics-tablet-in-gaming/"><u>Beat the Odds with a Graphics Tablet in Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-8-light-weighted-virtual-worlds-home-games-pcmac/"><u>Best 8 Light-Weighted Virtual Worlds: Home Games Pc/Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-companionship-in-gaming-16-seated-console-titles/"><u>Best Companionship in Gaming: 16 Seated Console Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-competitors-to-geforce-rtx-4060-ti-graphics-card/"><u>Best Competitors to GeForce RTX 4060 Ti Graphics Card</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/best-low-lag-techniques-for-efficient-screen-snaps/"><u>Best Low-Lag Techniques for Efficient Screen Snaps</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719164610715-enhance-experience-and-space-with-extra-large-front-ends/"><u>Enhance Experience & Space With Extra-Large Front Ends!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-augmented-realms-cinemas-evolution/"><u>In 2024, Augmented Realms  Cinema's Evolution</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-enhancing-video-quality-editing-tips-for-published-content/"><u>In 2024, Enhancing Video Quality  Editing Tips for Published Content</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 14 Pro Max</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-maximizing-spotifys-playback-rate-without-sacrificing-sound/"><u>In 2024, Maximizing Spotify's Playback Rate Without Sacrificing Sound</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-rapid-ascension-harness-likes-and-videos-for-insta-success/"><u>In 2024, Rapid Ascension  Harness Likes & Videos for Insta Success</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-understanding-netflixs-multi-stream-technology-a-quick-guide/"><u>In 2024, Understanding Netflix's Multi-Stream Technology  A Quick Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719164865100-lighteconomonitor-27m2v-hd-gamers-choice/"><u>LightEconoMonitor: 27M2V HD Gamers Choice!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/mastering-clear-communication-via-skype/"><u>Mastering Clear Communication via Skype</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719163110616-nvidia-driver-updates-unlock-your-computers-potential-immediately/"><u>Nvidia Driver Updates: Unlock Your Computer's Potential Immediately</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172038398-revive-your-pc-install-todays-latest-nvidia-driver-release/"><u>Revive Your PC – Install Today's Latest Nvidia Driver Release</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719171408490-revolutionize-your-arcade-with-expansive-front-ends/"><u>Revolutionize Your Arcade with Expansive Front Ends</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722893846920-solutions-for-resolving-d3dx933dll-file-not-detected-issues/"><u>Solutions for Resolving 'd3dx9_33.dll' File Not Detected Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719169829405-solving-network-problems-with-steam-written-by-your-name/"><u>Solving Network Problems with Steam' Written By: [Your Name]</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/streaming-stature-symbolized-by-play-and-follower-awards-for-2024/"><u>Streaming Stature Symbolized by Play & Follower Awards for 2024</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-oppo-a59-5g-by-fonelab-android-recover-music/"><u>Undelete lost music from Oppo A59 5G</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unleash-creativity-with-youtube-clips-make-animation-gifs-easily/"><u>Unleash Creativity with YouTube Clips - Make Animation GIFs Easily</u></a></li>
+</ul></div>

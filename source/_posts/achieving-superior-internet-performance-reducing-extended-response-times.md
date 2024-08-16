@@ -1,7 +1,7 @@
 ---
 title: "Achieving Superior Internet Performance: Reducing Extended Response Times"
-date: 2024-07-12T04:23:34.114Z
-updated: 2024-07-13T04:23:34.114Z
+date: 2024-08-15T17:18:26.133Z
+updated: 2024-08-16T17:18:26.133Z
 tags:
   - games
 categories:
@@ -35,6 +35,9 @@ thumbnail: https://thmb.techidaily.com/c7779ebd6615899057fd1d41459b53b981bc532c7
 
  The question is: how can you figure out what is causing the ping to rise, and how can you reduce it? Getting the best ping possible on your device will require you to optimize your internet connection on top of finding the root cause of the high ping. But no worries, though, as we'll teach you how to reduce it. So, keep reading.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Check How High the Ping Is
 
  If you assume that your games lag and stutter due to high ping, you should measure it to test your hypothesis. While some games show you the ping rate during gameplay, you should measure it directly to get a more accurate reading. On Windows, you can run a command in Command Prompt to check the ping rate. Here's how:
@@ -43,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/c7779ebd6615899057fd1d41459b53b981bc532c7
 2. Right-click the Command Prompt app and select**Run as administrator** .
 3. Type**ping \[IP address\]** and press**Enter** .  
 ![Ping a game server via command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ping-a-game-server-via-command-prompt.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 4. Make a note of the average ping rate you get.
 
  On macOS, open the Terminal app, type**ping \[IP address\],** and press**Enter** . To stop pinging a server, press**CTRL + C** .
@@ -53,6 +60,9 @@ thumbnail: https://thmb.techidaily.com/c7779ebd6615899057fd1d41459b53b981bc532c7
 
  If the ping rate is high and corresponds to the one you get when playing the game, then you are correct in your assumption. This begs the question: Why is the ping so high?
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 9 Tips to Get the Lowest Ping Possible
 
  Getting the best ping possible on your device will require you to optimize your internet connection on top of finding the root cause of the high ping. But no worries, though, as we'll teach you how to reduce it.
@@ -60,6 +70,9 @@ thumbnail: https://thmb.techidaily.com/c7779ebd6615899057fd1d41459b53b981bc532c7
 ## 1\. Check Your Internet Connection
 
 ![screenshot of Speedtest by Ookla using a fiber connection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/screenshot-of-speedtest-by-ookla-using-a-fiber-connection.jpg)
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 
  Poor internet connection is the leading cause of high ping. If your internet speed is too low, your online games will lag. A bad internet connection could be due to a terrible connection from your ISP or inefficient hardware, such as a modem or router. So, test your connection on any [free internet speed test website](https://www.makeuseof.com/best-free-websites-test-internet-speed/) and see how fast it is.
 
@@ -89,6 +102,9 @@ thumbnail: https://thmb.techidaily.com/c7779ebd6615899057fd1d41459b53b981bc532c7
 
  Likewise, if too many devices are connected to the same internet connection, hogging its resources, you can encounter the same problem. You should also disconnect other devices connected to the same internet connection. However, if no other device on your network is [using your internet bandwidth](https://www.makeuseof.com/tag/find-out-whos-eating-your-bandwidth-with-these-tips/) , the problem could be with the DNS cache or the game's server.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Switch Your Server
 
 ![An illustration showing two web servers deployed in a network](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/web-server.jpg)
@@ -99,6 +115,9 @@ thumbnail: https://thmb.techidaily.com/c7779ebd6615899057fd1d41459b53b981bc532c7
 
  If you see that the nearest server is overcrowded, choose a server that's a bit farther but has less traffic.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## 4\. Enable or Disable Your VPN
 
 ![A person holding a credit card with a VPN connected on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/premium-vpn-money.jpg)
@@ -113,12 +132,18 @@ thumbnail: https://thmb.techidaily.com/c7779ebd6615899057fd1d41459b53b981bc532c7
 
  Considering this, you should disable VPN on your device if it is already enabled. If it worsens the ping, you can turn it back on.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## 5\. Flush Your DNS Cache
 
  Clearing the DNS cache clears outdated records and improves network performance by making the network more stable. It may help you establish a stronger connection to the game servers and reduce the ping.
 
 [Flushing the DNS cache on Windows](https://www.makeuseof.com/flush-dns-cache-windows-11/) and [macOS](https://www.makeuseof.com/how-to-flush-dns-cache-mac/) is very straightforward. Therefore, try clearing it and see if it helps resolve the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. Play the Game Outside the Regular Hours
 
 ![four clocks showing different time zones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/dl-featured-img-size-1.jpg)
@@ -139,9 +164,16 @@ thumbnail: https://thmb.techidaily.com/c7779ebd6615899057fd1d41459b53b981bc532c7
 
  For example, lowering the graphics settings may negatively impact your visuals, but it will reduce perceived lag significantly. Likewise, if your game allows you to control the audio quality, screen refresh rate, and similar settings, be sure to adjust them so that your game runs smoothly.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 9\. Change Your Internet Plan or ISP
 
 ![modern wifi router placed on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/modern-wifi-router.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 
  If none of the above fixes lower the ping rate and the issue persists, you should probably switch to a better internet plan, offering higher speed than your current subscription. Therefore, upgrade your internet package to see if the improved speed makes your connection more stable and reduces the ping rate.
 
@@ -172,3 +204,65 @@ thumbnail: https://thmb.techidaily.com/c7779ebd6615899057fd1d41459b53b981bc532c7
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-initiate-ideate-implement-step-by-step-guide-to-building-a-youtube-channel/"><u>[New] 2024 Approved  Initiate, Ideate, Implement  Step-by-Step Guide to Building a YouTube Channel</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-from-youtubes-realm-to-igtvs-domain-3-ways/"><u>[New] From YouTube's Realm to IGTV's Domain (3 Ways)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flawless-footage-with-best-stabilizer-brands/"><u>[New] In 2024, Flawless Footage with Best Stabilizer Brands</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-custom-minecraft-gif-templates/"><u>[New] In 2024, Free Custom Minecraft GIF Templates</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-top-tier-mics-for-online-presenters/"><u>[New] Top-Tier Mics for Online Presenters</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-accelerated-approach-eliminating-signatures-quickly/"><u>[Updated] Accelerated Approach  Eliminating Signatures Quickly</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-smartphone-camera-accessories-vloggers-should-try-to-improve-recording/"><u>[Updated] Smartphone Camera Accessories Vloggers Should Try to Improve Recording</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-simplifying-gif-design-for-beginners/"><u>2024 Approved  Simplifying GIF Design for Beginners</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-the-future-is-here-top-7-tools-to-generate-nft-tokens/"><u>2024 Approved  The Future Is Here - Top 7 Tools to Generate NFT Tokens</u></a></li>
+<li><a href="https://games-able.techidaily.com/activating-full-gaming-potential-ps5s-assist-controller/"><u>Activating Full Gaming Potential: PS5's Assist Controller</u></a></li>
+<li><a href="https://games-able.techidaily.com/compactbudget-screen-gamechanger-led/"><u>CompactBudget Screen - GameChanger LED</u></a></li>
+<li><a href="https://games-able.techidaily.com/continuing-the-legacy-discover-fallout-gaming-lineup/"><u>Continuing the Legacy: Discover Fallout Gaming Lineup</u></a></li>
+<li><a href="https://games-able.techidaily.com/detailed-review-beyerdynamic-mmx-200-sound-performance/"><u>Detailed Review: Beyerdynamic MMX 200 Sound Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/easy-ways-to-reset-and-reload-steam/"><u>Easy Ways to Reset and Reload Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/econopcs-meet-gaming-budget-board-guide/"><u>EconoPCs Meet Gaming: Budget Board Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/enjoy-the-best-of-both-worlds-nintendo-and-mac/"><u>Enjoy the Best of Both Worlds: Nintendo & Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-the-power-of-corsairs-icue-link-and-upgrade-impact/"><u>Explore the Power of Corsair's iCUE Link and Upgrade Impact</u></a></li>
+<li><a href="https://games-able.techidaily.com/fresh-start-with-new-installations-on-ps5/"><u>Fresh Start with New Installations on PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-mode-functionality-and-benefits-for-mac-users-on-sonoma-os-by-apple/"><u>Game Mode Functionality and Benefits for Mac Users on Sonoma OS by Apple</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-with-these-strategies-to-improve-ps4/"><u>Game On with These Strategies to Improve PS4</u></a></li>
+<li><a href="https://games-able.techidaily.com/guiding-yourself-past-low-memory-warnings-in-roblox-ios/"><u>Guiding Yourself Past Low-Memory Warnings in Roblox iOS</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-realme-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Realme C55? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-quickly-and-successfully-download-the-logitech-k350-software-for-optimal-performance/"><u>How To Quickly and Successfully Download The Logitech K350 Software for Optimal Performance</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-mix-fold-3-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi Mix Fold 3 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-honor-x9b-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Honor X9b to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-oppo-a79-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Oppo A79 5G Unlock Without Password</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-unlockingfullpotentialwithyourcamrecorder/"><u>In 2024, UnlockingFullPotentialWithYourCamRecorder</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-unmissable-gameplay-in-virtual-realms/"><u>In 2024, Unmissable Gameplay in Virtual Realms</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovation-leaders-makeuseof-and-mwc-2024-honors/"><u>Innovation Leaders: MakeUseOf & MWC 2024 Honors</u></a></li>
+<li><a href="https://games-able.techidaily.com/invisible-steam-games-cache/"><u>Invisible Steam Games Cache</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-navigation-downfall-restore-function-to-up-down-left-and-right-arrows-now/"><u>Keyboard Navigation Downfall: Restore Function to Up, Down, Left & Right Arrows Now!</u></a></li>
+<li><a href="https://games-able.techidaily.com/makeuseof-awards-mwc-innovation-highlights/"><u>MakeUseOf Awards: MWC Innovation Highlights</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-steam-deck-storage-switcheroo/"><u>Mastering the Art of Steam Deck Storage Switcheroo</u></a></li>
+<li><a href="https://games-able.techidaily.com/mmx-200-review-superior-sounds-with-room-for-growth/"><u>MMX 200 Review: Superior Sounds with Room for Growth</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-gems-discover-the-best-nintendo-switch-docks/"><u>Next-Gen Gems: Discover the Best Nintendo Switch Docks</u></a></li>
+<li><a href="https://games-able.techidaily.com/personal-tech-preferences-picking-the-right-size-for-your-pc/"><u>Personal Tech Preferences: Picking the Right Size for Your PC</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/premier-nintendo-switch-fighting-apps-list-max-156/"><u>Premier Nintendo Switch Fighting Apps List (Max 156)</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/professional-mobility-next-gen-audio-from-sennheiser/"><u>Professional Mobility - Next-Gen Audio From Sennheiser</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-reset-techniques-for-steam/"><u>Quick Reset Techniques for Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/quickly-reactivate-steam-alternative-approaches/"><u>Quickly Reactivate Steam: Alternative Approaches</u></a></li>
+<li><a href="https://games-able.techidaily.com/reviewing-razers-mechanical-marvel-blackwidow-v4/"><u>Reviewing Razer's Mechanical Marvel, BlackWidow V4</u></a></li>
+<li><a href="https://games-able.techidaily.com/rhythm-revolutions-new-device-wins-gameplay/"><u>Rhythm Revolutions: New Device Wins Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/scrutinizing-mechanical-keys-impact-on-gamer-experience/"><u>Scrutinizing Mechanical Keys' Impact on Gamer Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/simpliplay-portable-simple-classics-made-easy/"><u>SimpliPlay Portable: Simple Classics Made Easy</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-big-picture-transforming-your-gaming-setup/"><u>Steam Big Picture: Transforming Your Gaming Setup</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-guide-calibrating-your-series-sx-display/"><u>Step-by-Step Guide: Calibrating Your Series S/X Display</u></a></li>
+<li><a href="https://driver-install.techidaily.com/stepwise-methodology-to-upgrade-dells-auditory-equipment/"><u>Stepwise Methodology to Upgrade Dell's Auditory Equipment</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-brief-existence-of-game-worlds-should-we-care/"><u>The Brief Existence of Game Worlds – Should We Care?</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-easy-path-obtain-your-steam-account-nickname/"><u>The Easy Path: Obtain Your Steam Account Nickname</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-easy-peasy-guide-to-renaming-yourself-on-riot-games/"><u>The Easy-Peasy Guide to Renaming Yourself on Riot Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-significance-of-mechanical-over-wired-for-pc-gaming/"><u>The Significance of Mechanical Over Wired for PC Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-tech-savvy-nomad-9-must-know-travel-tips-for-games/"><u>The Tech-Savvy Nomad: 9 Must-Know Travel Tips for Games</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-resolving-driver-installation-unrecognized-on-your-pc/"><u>Troubleshooting Steps: Resolving 'Driver Installation Unrecognized on Your PC'</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-6-multi-genre-games-for-content-casters/"><u>Ultimate 6 Multi-Genre Games for Content Casters</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-fun-in-your-terminal-with-7-games/"><u>Unleash Fun in Your Terminal with 7 Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/visual-vigor-at-peak-performance-with-144hz-displays/"><u>Visual Vigor at Peak Performance with 144Hz Displays</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-guide-to-streamlined-gaming-with-steam-big-picture/"><u>Your Guide to Streamlined Gaming with Steam Big Picture</u></a></li>
+</ul></div>

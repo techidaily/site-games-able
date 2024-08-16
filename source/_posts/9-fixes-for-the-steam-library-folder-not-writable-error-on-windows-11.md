@@ -1,7 +1,7 @@
 ---
 title: 9 Fixes for the “Steam Library Folder Not Writable” Error on Windows 11
-date: 2024-07-12T04:24:00.965Z
-updated: 2024-07-13T04:24:00.965Z
+date: 2024-08-15T17:18:01.495Z
+updated: 2024-08-16T17:18:01.495Z
 tags:
   - games
 categories:
@@ -39,8 +39,14 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
 2. Find the**Steam** process and right-click on it. Select the**End Task** Option.
 3. Press the**Win** key, type**Steam** , and click on the**Run as administrator** option.  
 ![Run the Steam App With Administrator Privileges-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/run-the-steam-app-with-administrator-privileges-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 4. The User Account Control window will launch. Click on the**Yes** button.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Grant Full Ownership of the Steam Folder
 
  If you don’t have complete ownership of the Steam folder, you can face problems while installing a game or making changes to any file or folder. Repeat the following steps to gain complete ownership of the Steam folder:
@@ -53,6 +59,9 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
 6. Select your User Profile and click on the**Edit** button.
 7. Click on the**Full Control** checkbox to grant all the permissions for your user profile.  
 ![Grant Full Ownership of the Steam Folder-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/grant-full-ownership-of-the-steam-folder-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 8. Now, click on the**Apply** button.
 9. Lastly, click on the**OK** button and then close the Properties window.
 
@@ -88,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
 3. Navigate down and click on the**Downloads** option.
 4. Find the**Clear Download Cache** option in the right pane. Click on the**Clear Cache** button.  
 ![Flush the Download Cache-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/flush-the-download-cache-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 5. Steam will reconfirm your decision to clear the cache. Click on the**Confirm** button.
 6. The app will restart after purging the download cache. You will have to sign in again to your Steam account.
 
@@ -95,6 +108,9 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
 
  Hard Disk errors can be a reason due to which Steam is unable to add or modify files. You can [use the Check Disk utility in Windows](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/) to check your hard disk for errors and fix them. The Check Disk utility will scan the hard disk for errors and repair them, if possible.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 8\. Reinstall the Game on Another Drive
 
  If you are unable to install the game on the C drive, you must add another drive in the Steam Storage settings. Then, attempt the game installation in the newly added drive. Here’s how to do it:
@@ -104,8 +120,14 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
 3. Scroll down and click on the**Storage** option.
 4. Click on the**plus** icon. Expand the drop-down list and select a drive.  
 ![Reinstall the Game on Another Drive-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/reinstall-the-game-on-another-drive-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 5. Now, click on the**Add** button.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 9\. Format the Disk and Try Again
 
  Many users want to install games on a newly added disk drive but face the “Steam library folder not writable” error in the process. It is mainly because the newly added disk drive bears the same letter as the old drive with a Steam Library folder.
@@ -116,6 +138,9 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
 2. Right-click on the new drive whose letter you want to change. Select the**Change Drive Letter and Paths** option.
 3. Click on the**Change** button.  
 ![Format the Disk And Try Again-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/format-the-disk-and-try-again-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Expand the drop-down list and select a new drive letter. Click on the**OK** button.
 5. Now, right-click on the disk drive and select the**Format** option.
 6. Keep the**File System** as**NTFS** and click on the**OK** button.  
@@ -146,3 +171,39 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-embracing-whimsy-cartoon-face-magic-in-snapchat-for-2024/"><u>[New] Embracing Whimsy  Cartoon Face Magic in Snapchat for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-elite-firefox-visual-recorders/"><u>[New] In 2024, Elite Firefox Visual Recorders</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unlisting-youtube-videos-a-guide-to-non-indexable-content/"><u>[New] Unlisting YouTube Videos  A Guide to Non-Indexable Content</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-how-to-fix-obs-camera-not-working/"><u>[Updated] 2024 Approved  How to Fix OBS Camera Not Working</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guide-to-quick-eradication-of-online-youtube-discussions/"><u>[Updated] In 2024, Guide to Quick Eradication of Online YouTube Discussions</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-samsung-galaxy-a14-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Samsung Galaxy A14 5G System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-comparative-study-of-cannabinoid-delivery-systems-and-their-impact-on-treatment-outcomes/"><u>A Comparative Study of Cannabinoid Delivery Systems and Their Impact on Treatment Outcomes</u></a></li>
+<li><a href="https://games-able.techidaily.com/ai-ally-in-gaming-top-6-approaches-with-chatgpt/"><u>AI Ally in Gaming: Top 6 Approaches with ChatGPT</u></a></li>
+<li><a href="https://games-able.techidaily.com/ai-game-landscape-understanding-steams-latest-regulations/"><u>AI Game Landscape: Understanding Steam's Latest Regulations</u></a></li>
+<li><a href="https://games-able.techidaily.com/apples-game-selection-mastery-the-arcade-advantage/"><u>Apple's Game Selection Mastery – The Arcade Advantage</u></a></li>
+<li><a href="https://games-able.techidaily.com/custom-fan-scheduling-for-maximum-performance-gain/"><u>Custom Fan Scheduling for Maximum Performance Gain</u></a></li>
+<li><a href="https://games-able.techidaily.com/evolving-tales-explore-additional-fallout-games-and-stories/"><u>Evolving Tales: Explore Additional Fallout Games and Stories</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-guide-to-payment-free-gameplay/"><u>Exclusive Guide to Payment-Free Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/expedite-boredom-20plus-high-speed-online-games/"><u>Expedite Boredom: 20+ High-Speed Online Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-3-innovative-streaming-solutions-for-switch/"><u>Explore 3 Innovative Streaming Solutions for Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-disable-and-restrict-xbox-game-bar-background-activity-in-windows-11-and-11/"><u>How to Disable and Restrict Xbox Game Bar Background Activity in Windows 11 and 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-step-by-step-approach-to-typography-addition-in-ae/"><u>In 2024, A Step-by-Step Approach to Typography Addition in AE</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Methods to Change GPS Location On Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/invest-in-impact-choose-thick-broad-cabinet-frames/"><u>Invest in Impact: Choose Thick, Broad Cabinet Frames!</u></a></li>
+<li><a href="https://games-able.techidaily.com/outdoor-fun-in-ar-discover-these-8-titles/"><u>Outdoor Fun in AR: Discover These 8 Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/personalize-playtime-tailoring-xbox-game-bar-to-fit-your-style-on-pc/"><u>Personalize Playtime: Tailoring Xbox Game Bar to Fit Your Style on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/playing-for-the-digital-age-pros-and-cons-that-matter-to-gamers/"><u>Playing for the Digital Age: Pros and Cons That Matter to Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/sneaking-nintendo-into-the-steam-ecosystem/"><u>Sneaking Nintendo Into the Steam Ecosystem</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-vs-gog-key-distinctions-explored/"><u>Steam vs GOG: Key Distinctions Explored</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-oppo-a79-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Oppo A79 5G FRP</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-device-connectivity-steam-deck-and-pc-via-barrier-method/"><u>Streamline Device Connectivity: Steam Deck & PC via Barrier Method</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-secret-to-thriving-in-fortnite-on-a-mac/"><u>The Secret to Thriving in Fortnite on a Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-playfields-trophies-terrains/"><u>Ultimate Playfields: Trophies Terrains</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-xboxs-stance-prohibition-of-unapproved-controllers/"><u>Understanding Xbox's Stance: Prohibition of Unapproved Controllers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-15-pro-without-passcode-easily-by-drfone-ios/"><u>Unlock Apple iPhone 15 Pro Without Passcode Easily</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-your-steam-library-a-quick-guide-for-pc-users/"><u>Unlocking Your Steam Library: A Quick Guide for PC Users</u></a></li>
+</ul></div>

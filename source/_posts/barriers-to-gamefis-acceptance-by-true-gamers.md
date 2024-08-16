@@ -1,7 +1,7 @@
 ---
 title: Barriers to GameFi’s Acceptance by True Gamers
-date: 2024-07-12T04:27:53.719Z
-updated: 2024-07-13T04:27:53.719Z
+date: 2024-08-15T17:14:28.103Z
+updated: 2024-08-16T17:14:28.103Z
 tags:
   - games
 categories:
@@ -27,6 +27,9 @@ thumbnail: https://thmb.techidaily.com/4b1d432d185a9307d4c64d844f91526f6a3048c24
 
  So, what are the problems with GameFi, and why will they seal its fate?
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## What Is GameFi?
 
  GameFi ([short for gaming finance](https://www.makeuseof.com/what-is-gamefi/) ) is a blend of the gaming and decentralized finance (DeFi) industries, wherein users can play games to earn crypto tokens and other decentralized assets, such as NFTs. GameFi allows blockchain-based apps to shift into the gaming industry, attracting users with the lure of digital tokens.
@@ -39,6 +42,9 @@ thumbnail: https://thmb.techidaily.com/4b1d432d185a9307d4c64d844f91526f6a3048c24
 
  While GameFi may seem innovative, many downsides affect players and investors.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. Token Instability
 
  If there's one thing we can all agree on about crypto, it's that assets are almost always unstable in price. From new, smaller tokens to market leaders like Bitcoin, price fluctuations have been a problem from the beginning.
@@ -75,12 +81,22 @@ thumbnail: https://thmb.techidaily.com/4b1d432d185a9307d4c64d844f91526f6a3048c24
 
  Higher transaction fees can put people off getting into GameFi, as a large chunk of their earnings will be stripped away through these mandatory charges. It's a loss and isn't something that attracts gamers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ### 4\. Prioritizing Money Over the Game
 
  Naturally, when a game offers digital assets in return for playtime, users will put the earnings at the front and center of why they play the game.
 
  There's nothing inherently wrong with this, but avid gamers may argue that adding real-world tokenomics to a video game somewhat removes the heart of it. Developers may choose to cut corners by leaving in bugs or providing poor game progression, factors which can severely affect the enjoyment and satisfaction people receive when they game.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ### 5\. Lack of Regulation
 
  Cryptocurrency and DeFi already lack proper regulation (though [crypto regulation may soon change](https://www.makeuseof.com/is-government-sec-going-to-regulate-cryptocurrency/) ), but GameFi, a newer addition to the blockchain industry, suffers from this issue even more.
@@ -91,6 +107,10 @@ thumbnail: https://thmb.techidaily.com/4b1d432d185a9307d4c64d844f91526f6a3048c24
 
  This isn't anyone's fault, but the developer can dodge any liability when gamers ask for compensation. If the game has made any financial promises, the developers may also be able to keep their hands clean if these promises fall through.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Will GameFi Last?
 
  No one knows for sure if GameFi will sink or swim, but the nature of this sector makes long-term success difficult.
@@ -102,6 +122,11 @@ thumbnail: https://thmb.techidaily.com/4b1d432d185a9307d4c64d844f91526f6a3048c24
  Even without this model, crypto token instability always poses a risk to P2E games. Take Illuvium, for example. This popular P2E game hit news headlines in August 2023 when its in-game token, ILV, suffered a big drop in value.
 
 ![screenshot of coinmarketcap illuvium seven day price graph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/illuvium-price-graph.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 
  Between August 14 and 22, the price of one ILV token went from $53 to $42, a drop of almost 21% in just over a week. This drop doesn't seem to be the result of any major scandal or market crash. Rather, it seems to be a product of a lack of interest.
 
@@ -128,3 +153,55 @@ thumbnail: https://thmb.techidaily.com/4b1d432d185a9307d4c64d844f91526f6a3048c24
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-breaking-down-the-process-for-youtube-comment-highlights-for-2024/"><u>[New] Breaking Down the Process for YouTube Comment Highlights for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-elite-selection-of-top-12-tycoons-perfect-for-strategic-souls/"><u>[New] In 2024, The Elite Selection of Top 12 Tycoons - Perfect for Strategic Souls</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-crafting-compelling-youtube-narratives-with-chapters-and-subsections-for-2024/"><u>[Updated] Crafting Compelling YouTube Narratives with Chapters and Subsections for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-advancing-beyond-vp9-a-look-at-av1/"><u>2024 Approved  Advancing Beyond VP9  A Look at AV1</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-year-ahead-social-media-infographic-insights/"><u>2024 Approved  The Year Ahead  Social Media Infographic Insights</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/comparative-study-vidma-vs-other-screen-recorders-for-2024/"><u>Comparative Study  Vidma vs Other Screen Recorders for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-troubleshooting-tips-getting-your-wireless-keyboard-back-online-in-windows-environment/"><u>Comprehensive Troubleshooting Tips: Getting Your Wireless Keyboard Back Online in Windows Environment</u></a></li>
+<li><a href="https://games-able.techidaily.com/detailed-analysis-of-time-tracked-in-xbox-games/"><u>Detailed Analysis of Time Tracked in Xbox Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/directx-enhancement-11-vs-12-comparison-guide/"><u>DirectX Enhancement: 11 Vs. 12 Comparison Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-wild-with-augmented-fun/"><u>Discover the Wild With Augmented Fun</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-guide-configuring-automatic-user-authentication-on-your-pc/"><u>Easy Guide: Configuring Automatic User Authentication on Your PC</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-13-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 13</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-gameplay-top-6-innovative-chess-mobile-games/"><u>Elevate Your Gameplay: Top 6 Innovative Chess Mobile Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/enabling-mousekeyboard-sharing-on-steam-deck-protected-by-barriers/"><u>Enabling Mouse/Keyboard Sharing on Steam Deck Protected by Barriers</u></a></li>
+<li><a href="https://games-able.techidaily.com/free-to-enjoy-top-nintendo-switch-game-selection/"><u>Free-to-Enjoy: Top Nintendo Switch Game Selection</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphic-glitch-invisible-display/"><u>Graphic Glitch: Invisible Display</u></a></li>
+<li><a href="https://games-able.techidaily.com/handheld-revolution-nintendos-next-leap-into-2024/"><u>Handheld Revolution? Nintendo's Next Leap Into 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-quality-augmented-reality-glasses-at-a-low-price-the-arcshell-ar-5-unveiled/"><u>High Quality Augmented Reality Glasses at a Low Price: The ArcShell AR-5 Unveiled</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-iphone-xr-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From iPhone XR? How to Fix it?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14, Apples New iPhone</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-game-design-with-gpt-6-proven-approaches-for-dandd-masters/"><u>Innovative Game Design with GPT: 6 Proven Approaches for D&D Masters</u></a></li>
+<li><a href="https://games-able.techidaily.com/investment-shields-for-your-2024-portable-pc/"><u>Investment Shields for Your 2024 Portable PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/living-the-fantasy-or-financially-frugal/"><u>Living the Fantasy or Financially Frugal?</u></a></li>
+<li><a href="https://games-able.techidaily.com/making-steam-experiences-wholesome-for-kids/"><u>Making Steam Experiences Wholesome for Kids</u></a></li>
+<li><a href="https://games-able.techidaily.com/mojang-meetups-crafting-cooperative-gameplay-with-pals/"><u>Mojang Meetups: Crafting Cooperative Gameplay with Pals</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-sony-handheld-gaming-world/"><u>Navigating the Sony Handheld Gaming World</u></a></li>
+<li><a href="https://games-able.techidaily.com/nintendo-switch-reconnect-to-the-web/"><u>Nintendo Switch: Reconnect to the Web</u></a></li>
+<li><a href="https://games-able.techidaily.com/reconnecting-wireless-devices-to-non-responsive-xbox-on-pc/"><u>Reconnecting Wireless Devices to Non-Responsive Xbox on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/securely-wipe-sensitive-data-using-scheduled-deletion-features-of-stellar-for-mac/"><u>Securely Wipe Sensitive Data Using Scheduled Deletion Features of Stellar for Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/skepticism-in-spades-why-rely-on-game-reviews/"><u>Skepticism in Spades: Why Rely on Game Reviews?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/skypes-leading-audio-devices-ranked-and-reviewed/"><u>Skype's Leading Audio Devices  Ranked & Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-and-gog-the-battle-of-digital-game-platforms/"><u>Steam & GOG: The Battle of Digital Game Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-fix-create-file-failed-windows-error-30005/"><u>Steps to Fix Create File Failed - Windows Error 30005</u></a></li>
+<li><a href="https://games-able.techidaily.com/terminal-techniques-for-gaming-on-outdated-systems/"><u>Terminal Techniques for Gaming on Outdated Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-mobile-games-with-controller-support/"><u>The Best Mobile Games With Controller Support</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-game-changer-subscribing-to-apple-arcade-for-portable-play/"><u>The Game-Changer: Subscribing to Apple Arcade for Portable Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-seekers-guide-securing-excellent-steam-gaming-at-zero-price/"><u>The Seeker's Guide: Securing Excellent Steam Gaming at Zero Price</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-game-guide-why-everyone-should-choose-steam-first/"><u>The Ultimate Game Guide: Why Everyone Should Choose Steam First</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-30-controller-compatible-mobile-apps/"><u>Top 30 Controller-Compatible Mobile Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-bots-that-transform-your-twitch-broadcasting-experience/"><u>Top Bots That Transform Your Twitch Broadcasting Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-independent-games-uncovered-my-personal-gaming-journey/"><u>Top Independent Games Uncovered: My Personal Gaming Journey</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-guide-for-persistent-pc-crashes-in-samurai-warriors-5/"><u>Troubleshooting Guide for Persistent PC Crashes in Samurai Warriors 5</u></a></li>
+<li><a href="https://games-able.techidaily.com/twitchs-revolutionary-impact-understanding-live-stream-potential/"><u>Twitch's Revolutionary Impact: Understanding Live Stream Potential</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-guide-to-internets-narrative-rpgs/"><u>Ultimate Guide to Internet's Narrative RPGs</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-and-rectifying-error-30005-in-windows/"><u>Understanding and Rectifying Error 30005 in Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/valves-move-to-curtail-misused-return-options/"><u>Valve's Move to Curtail Misused Return Options</u></a></li>
+<li><a href="https://games-able.techidaily.com/virtual-ventures-top-9-strategies-for-game-journeyers/"><u>Virtual Ventures: Top 9 Strategies for Game Journeyers</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-google-play-pass-is-great-yet-it-isnt-flawless/"><u>Why Google Play Pass Is Great, Yet It Isn't Flawless</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: $450+ Stunning Monitor Displayed by InnoCN
-date: 2024-07-12T04:24:11.088Z
-updated: 2024-07-13T04:24:11.088Z
+date: 2024-08-15T17:17:52.129Z
+updated: 2024-08-16T17:17:52.129Z
 tags:
   - games
 categories:
@@ -98,6 +98,10 @@ Yes - 3000R
 
 [$400 at Amazon](https://www.amazon.com/INNOCN-Ultrawide-FreeSync-Computer-Adjustable/dp/B0B9GVCCLH?tag=muo-v2-7s9kakr-20&ascsubtag=UUmuoUeUpU2029202&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Finnocn-39g1r-review%2F&asc%5Fcampaign=Affiliate)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Unboxing and Assembly
 
  Assembly is relatively simple, given that it only comes in three pieces: the display, the stand, and the legs. The display arrives in a molded polystyrene form, and due to the unique subtle curvature, I'd advise leaving it in there and attaching the stand rather than the more traditional method of laying it flat on a table.
@@ -111,6 +115,9 @@ Yes - 3000R
  As for cable management, there's no channel in the stand to run the cables, but there is a small circular cutout as well as a port cover.
 
 ![innocn 39g1r - rear panel and cable ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-rear-panel-and-cable-ports.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
  You'll find two HDMI 2.0 ports and two DisplayPort 1.4 ports. Unfortunately, if your cabling is a bit large, the port cover barely fits back on. I found angling the monitor applied just enough force on the port cover to pull it off again. I'll probably leave it off–it’s not essential, especially if the back of the display isn't visible.
 
@@ -121,6 +128,9 @@ Yes - 3000R
  Although it's sold as a curved gaming monitor, technically, it has a 3000R curve. The larger the number, the more subtle the curvature is. In this case, it's barely perceptible to me. This might actually be a good thing, making the 39G1R suitable for both gaming and everyday office work where people tend to prefer a flatter profile. It's a balanced option, and the 16:9 screen ratio combined with subtle curvature certainly won't suit use as an immersive cockpit for racing or flying games.
 
 ![innocn 39g1r - leds dont do much](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-leds-dont-do-much.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  On the rear, you'll find a diagonal line of LEDs. They’re not bright enough to serve as bias lighting (in the image above, the blue reflecting on the wall is coming from my PC fans, not the monitor), nor do they synchronize with on-screen content. You can manually configure them to one of seven different static colors, a few different scene styles, and adjust the brightness (though the maximum "vibrant" brightness setting would be better described as "just about visible").
 
@@ -141,11 +151,17 @@ Yes - 3000R
  The display is controlled with a single nub-like thumbstick underneath, in the center. Tap in any direction or click to open the first menu, and click again to turn off the display. You can also navigate right to the full on-screen display menu, left to control the lighting, or up for "game mode", which adds a customizable crosshair in the center of the display.
 
 ![innocn 39g1r - OSD menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-osd-menu.jpg)
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It’s a somewhat confusing system, and I often turned the monitor off unintentionally until I'd gotten used to it. Input swapping was a notable pain point. While one might expect input swapping to be on the quick menu, the only way to swap is to navigate the full OSD menu structure. To illustrate, swapping from HDMI 1 to DP 1 requires a sequence of button presses more akin to a Street Fighter special move: right, right, right, down, down, right. On the other hand, if you shut down one input, it will automatically switch over, so it’s a minor nuisance.
 
  Diving into the full menu also reveals a myriad of settings to tweak, though nothing unexpected. Picture-in-picture mode is supported for productivity (or watching football).
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specifications
 
  The InnoCN 39G1R runs at a maximum of 2560 x 1440 (WQHD). Given that this is for primarily PC gamers, I think that’s more than sufficient. While 4K gaming is appealing, many don't have gaming PCs capable of handling such high resolutions.
@@ -153,15 +169,24 @@ Yes - 3000R
  With such a large monitor, running at 1440p means a pixel density of around 76DPI. Depending on your viewing distance, you might sometimes spot jaggies or pixelation. That said, I've been using this as a primary monitor with a Mac Mini for writing, and browsing, for at least eight hours a day. Besides slightly blurry video previews in Final Cut, it's been fine for daily use, but it won't suit anyone working primarily with 4K video or detailed design work.
 
 ![innocn 39g1r - featured image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-featured-image.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The 39G1R boasts 99% sRGB gamut coverage and supports HDR10, but with a peak brightness of 350 nits and no local dimming, the HDR is limited and not on par with TV HDR—to the extent that I wouldn't bother enabling it.
 
  Still, SDR content looks incredible. The panel uses VA technology with a 3000:1 contrast ratio, which enables it to deliver deep blacks. The glossy screen finish also helps with overall color richness, though it's prone to reflections from ambient light sources.
 
 ![innocn 39g1r - lego browls high motion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-lego-browls-high-motion.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 
  The maximum refresh rate is 165Hz, which will benefit any high-motion gaming (though only if your machine can push the frames that fast). But as with many VA panels, there might be some ghosting. You can adjust the response time in the on-screen menu if you find this problematic, but it won't eliminate the problem entirely. In real-world usage, I didn't notice any ghosting.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Performance and Gaming
 
  Using the DisplayPort connected to my gaming PC I was able to select 165Hz and the full 1440p right from within the Windows settings. No mucking around—it worked off the bat, and I turned overdrive on high.
@@ -189,6 +214,9 @@ Yes - 3000R
  Now that’s good enough for most people, but don’t buy this specifically for VRR support if you’re on PlayStation. This isn’t uncommon, I should add. Sony has implemented a very restrictive form of variable refresh which needs HDMI 2.1, and the 39G1R doesn’t provide that. For the highest refresh rates, you’ll need to use the DisplayPort.
 
 ![innocn 39g1r - call of duty](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-call-of-duty.jpg)
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  I also ran through the standard assortment of Eizo monitor tests, and a couple of points stood out that I hadn’t noticed during regular use.
 
@@ -199,10 +227,17 @@ Yes - 3000R
  Switching over to a thermal camera view shows why: the panels are illuminated from the bottom, and the internal reflections mean a little unevenness in the bottom left. Again, in real-world usage, I'll emphasize that didn't notice any of this.
 
 ![innocn 39g1r - infrared view showing illumination](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-infrared-view-showing-illumination.jpg)
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Secondly, on the response rate test, there was some definite ghosting, most evident on dark blue, which led to purple ghosting on the grey background, and bright red with brown ghosting.
 
 ![innocn 39g1r - brown and purple ghosting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-brown-and-purple-ghosting.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 
  The ghosting is to be expected from a VA panel, as are minor uniformity issues on something at this budget.
 
@@ -233,3 +268,54 @@ Yes - 3000R
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-speedy-social-stardom-likes-plus-videos-on-instagram-guide/"><u>[New] 2024 Approved  Speedy Social Stardom  Likes + Videos on Instagram Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-audience-allure-3-ultimate-video-growth-methods-for-2024/"><u>[New] Audience Allure  3 Ultimate Video Growth Methods for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/1715859784550-new-iphone-users-learn-simple-screen-recording-now/"><u>[New] Iphone Users, Learn Simple Screen Recording Now!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-elevate-your-video-game-proficient-cropping-and-export-strategies/"><u>[Updated] 2024 Approved  Elevate Your Video Game  Proficient Cropping & Export Strategies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-chasing-the-crash-action-cameras-reviewed/"><u>[Updated] Chasing the Crash  Action Cameras Reviewed</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-your-personalized-list-of-top-non-networked-android-game-apps/"><u>[Updated] In 2024, Your Personalized List of Top Non-Networked Android Game Apps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-money-matters-finns-financial-framework/"><u>2024 Approved  Money Matters  Finn's Financial Framework</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-securing-high-quality-sound-from-anywhere/"><u>2024 Approved  Securing High-Quality Sound From Anywhere</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/constructing-unique-instagram-post-images/"><u>Constructing Unique Instagram Post Images</u></a></li>
+<li><a href="https://games-able.techidaily.com/directx-enhancement-11-vs-12-comparison-guide/"><u>DirectX Enhancement: 11 Vs. 12 Comparison Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-hidden-gems-a-deep-dive-review-of-the-beantech-bitwatch-s1-plus-for-savvy-shoppers/"><u>Discover the Hidden Gems: A Deep Dive Review of the Beantech Bitwatch S1 Plus for Savvy Shoppers</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-wild-with-augmented-fun/"><u>Discover the Wild With Augmented Fun</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficient-typing-the-interplay-of-speed-and-accuracy/"><u>Efficient Typing: The Interplay of Speed & Accuracy</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-gameplay-top-6-innovative-chess-mobile-games/"><u>Elevate Your Gameplay: Top 6 Innovative Chess Mobile Games</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enrich-virtual-engagements-with-zooms-filter-innovation/"><u>Enrich Virtual Engagements with Zoom's Filter Innovation</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/from-novice-to-pro-the-ultimate-instagram-story-journey-for-2024/"><u>From Novice to Pro  The Ultimate Instagram Story Journey for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-enthusiasts-top-picks-google-play-beta-for-pc/"><u>Game Enthusiast's Top Picks - Google Play Beta for PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/gearhead-guidance-which-input-device-makes-the-best-driver/"><u>Gearhead Guidance: Which Input Device Makes the Best Driver?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gopro-and-yi-4k-battle-royale-of-high-resolution-cams-in-23-for-2024/"><u>GoPro and Yi 4K  Battle Royale of High-Resolution Cams in '23 for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-6-plus-without-losing-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 6 Plus without Losing Data? | Stellar</u></a></li>
+<li><a href="https://games-able.techidaily.com/identifying-must-have-gaming-keyboards/"><u>Identifying Must-Have Gaming Keyboards</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-iphone-15-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 15 Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/indulge-in-off-line-play-with-these-11-favorite-phone-games/"><u>Indulge in Off-Line Play with These 11 Favorite Phone Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-acemagics-am08-pro-game-changing-truly-real/"><u>Is AceMagic's AM08 Pro Game-Changing Truly Real?</u></a></li>
+<li><a href="https://games-able.techidaily.com/mega-responsive-gaming-screen-innocn-39g1-r/"><u>Mega Responsive Gaming Screen: InnoCN 39G1 R</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-level-charger-accessories-for-sonys-ps5-dualsense/"><u>Next-Level Charger Accessories for Sony's PS5 DualSense</u></a></li>
+<li><a href="https://games-able.techidaily.com/playing-windows-games-on-m1-a-guide-with-crossover/"><u>Playing Windows Games on M1: A Guide with Crossover</u></a></li>
+<li><a href="https://games-able.techidaily.com/reverse-usb-power-fluctuation/"><u>Reverse USB Power Fluctuation</u></a></li>
+<li><a href="https://games-able.techidaily.com/safe-play-facing-the-rising-game-crime-wave/"><u>Safe Play: Facing the Rising Game Crime Wave</u></a></li>
+<li><a href="https://games-able.techidaily.com/skepticism-in-spades-why-rely-on-game-reviews/"><u>Skepticism in Spades: Why Rely on Game Reviews?</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-unlocked-discovering-top-notch-games-for-free/"><u>Steam Unlocked: Discovering Top-Notch Games for FREE</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-fix-create-file-failed-windows-error-30005/"><u>Steps to Fix Create File Failed - Windows Error 30005</u></a></li>
+<li><a href="https://games-able.techidaily.com/supercharge-your-switch-essential-3-live-stream-platforms/"><u>Supercharge Your Switch: Essential 3 Live-Stream Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-pdw4-a-hands-on-high-end-portable-pc/"><u>The PDW4: A Hands-On, High-End Portable PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-collection-of-prime-8-gaming-hubs/"><u>The Ultimate Collection of Prime 8 Gaming Hubs</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-sparkling-ps5-maintenence/"><u>The Ultimate Guide to Sparkling PS5 Maintenence</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-unlinking-ps5-accounts/"><u>The Ultimate Guide to Unlinking PS5 Accounts</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-virtual-vagabonds-guide-to-playful-journeys/"><u>The Virtual Vagabond's Guide to Playful Journeys</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-bots-that-transform-your-twitch-broadcasting-experience/"><u>Top Bots That Transform Your Twitch Broadcasting Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-independent-games-uncovered-my-personal-gaming-journey/"><u>Top Independent Games Uncovered: My Personal Gaming Journey</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-intriguing-attributes-of-todays-hit-games/"><u>Top Intriguing Attributes of Today’s Hit Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-tech-showcased-mwc-and-makeuseofs-choice/"><u>Top Tech Showcased: MWC & MakeUseOf's Choice</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-guide-nier-replicant-remaster-wont-boot/"><u>Troubleshooting Guide: NieR Replicant Remaster Won't Boot</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-to-troubleshooting-sudden-noise-disruptions-in-windows-systems/"><u>Ultimate Guide to Troubleshooting Sudden Noise Disruptions in Windows Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/valves-move-to-curtail-misused-return-options/"><u>Valve's Move to Curtail Misused Return Options</u></a></li>
+</ul></div>

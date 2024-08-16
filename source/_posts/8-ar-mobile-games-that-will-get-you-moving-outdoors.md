@@ -1,7 +1,7 @@
 ---
 title: 8 AR Mobile Games That Will Get You Moving Outdoors
-date: 2024-07-12T04:22:37.212Z
-updated: 2024-07-13T04:22:37.212Z
+date: 2024-08-15T17:19:17.032Z
+updated: 2024-08-16T17:19:17.032Z
 tags:
   - games
 categories:
@@ -24,6 +24,9 @@ thumbnail: https://thmb.techidaily.com/dc5fff1a9acb5e2e1b1bb4c72b06c12c5151a76a3
 
  Although there are plenty of reasons to spend time in natural outdoor settings, for some it is easier said than done. These fun AR (augmented reality) mobile games merge the real world with the virtual one to offer some get-up-and-go when it comes to spending time outside in nature!
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## 1\. Jurassic World Alive
 
 ![Jurassic World Alive Creature Discovered](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Jurassic-World-Alive-Creature-Discovered.jpeg)
@@ -45,8 +48,14 @@ Close
 ![ZRX augmented reality mobile fitness game home tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/zrx-home.jpg)
 
 ![ZRX zombies run augmented reality mobile fitness game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/zrx-zombies.jpg)
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![ZRX Zombies run augmented reality mobile game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/zrx-jolly.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -61,10 +70,17 @@ Close
 ## 3\. Pokémon GO
 
 ![Pokemon GO augmented reality mobile game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pokemon-go.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 
 ![Pokemon GO augmented reality mobile game lechonk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pokemon-go-lechonk.jpg)
 
 ![Pokemon GO augmented reality mobile game sprigatito](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pokemon-go-sprigatito.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 
 Close
 
@@ -79,10 +95,28 @@ Close
 ## 4\. Draconius GO
 
 ![Draconius GO augmented reality mobile game world map](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/draconius-go-world.jpg)
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Draconius GO augmented reality mobile game firepaw](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/draconius-go-firepaw.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 
 ![Draconius GO augmented reality mobile game berrydillo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/draconius-go-berrydillo.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 
 Close
 
@@ -94,6 +128,9 @@ Close
 
 **Download:** Draconius GO for [iOS](https://apps.apple.com/app/draconius-go-catch-a-dragon/id1222496828) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029750/https://play.google.com/store/apps/details?id=net.elyland.DraconiusGO) (Free, in-app purchases available)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ## 5\. Star Walk 2
 
 ![Star Walk 2 augmented reality mobile app satellite](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/star-walk-2-satellite.jpg)
@@ -101,6 +138,9 @@ Close
 ![Star Walk 2 augmented reality mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/star-walk-2-ar.jpg)
 
 ![Star Walk 2 augmented reality mobile app pegasus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/star-walk-2-pegasus.jpg)
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -115,6 +155,9 @@ Close
 ![Ingress Prime augmented reality mobile game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ingress.jpg)
 
 ![Ingress Prime augmented reality mobile game items](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ingress-items.jpg)
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Ingress Prime augmented reality mobile game missions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ingress-missions.jpg)
 
@@ -126,6 +169,9 @@ Close
 
 **Download:** Ingress Prime for [iOS](https://apps.apple.com/app/ingress-prime/id576505181) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029750/https://play.google.com/store/apps/details?id=com.nianticproject.ingress) (Free, in-app purchases and subscription available)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Orna
 
 ![Orna The Adventure GPS RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/orna-world.jpg)
@@ -145,8 +191,14 @@ Close
 ## 8\. Pikmin Bloom
 
 ![Pikmin Bloom augmented reality mobile game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pikmin-bloom.jpg)
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 
 ![Pikmin Bloom augmented reality mobile game map](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pikmin-bloom-map.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Pikmin Bloom augmented reality mobile game seedlings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pikmin-bloom-seeds.jpg)
 
@@ -158,6 +210,9 @@ Close
 
 **Download:** Pikmin Bloom for [iOS](https://apps.apple.com/app/pikmin-bloom/id1556357398) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029750/https://play.google.com/store/apps/details?id=com.nianticlabs.pikmin) (Free, in-app purchases available)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Outdoor Virtual and Real-Life Adventures Using the Power of AR
 
  You might only know about augmented reality mobile games because of Pokémon GO. Yet, there is a wide variety of AR games that combine virtual and real-world maps to create an amazing gaming experience.
@@ -183,3 +238,50 @@ Close
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-iphone-laughs-and-lightheartedness/"><u>[New] 2024 Approved  IPhone Laughs & Lightheartedness</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-the-art-of-inserting-descriptive-commentary-in-youtube-videos/"><u>[New] 2024 Approved  The Art of Inserting Descriptive Commentary in YouTube Videos</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-smarter-spending-on-cloud-data-services-insights-and-recommendations-for-2024/"><u>[New] Smarter Spending on Cloud Data Services  Insights & Recommendations for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-efficient-game-recordings-in-the-era-of-win10/"><u>[Updated] 2024 Approved  Efficient Game Recordings in the Era of Win10</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-photo-extraction-techniques-for-windows-11-videos/"><u>[Updated] Photo Extraction Techniques for Windows 11 Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-5-vr-sets-elevating-uav-experience/"><u>[Updated] Ultimate 5 VR Sets Elevating UAV Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/11-fun-mobile-games-to-play-when-you-have-no-internet-or-data/"><u>11 Fun Mobile Games to Play When You Have No Internet or Data</u></a></li>
+<li><a href="https://games-able.techidaily.com/6-reasons-why-you-shouldnt-buy-an-hdr-monitor-for-pc-gaming/"><u>6 Reasons Why You Shouldn't Buy an HDR Monitor for PC Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/beat-backgame-cost-spike-short-term-savings-hacks/"><u>Beat Backgame Cost Spike - Short-Term Savings Hacks</u></a></li>
+<li><a href="https://games-able.techidaily.com/boost-brag-and-beat-the-odds-essential-achievement-websites/"><u>Boost, Brag & Beat The Odds: Essential Achievement Websites</u></a></li>
+<li><a href="https://games-able.techidaily.com/chatgpt-scripting-mastery-for-gaming-worlds/"><u>ChatGPT Scripting Mastery for Gaming Worlds</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-brand-identity-asus-vs-tuf-vs-proart-vs-prime-computers/"><u>Decoding Brand Identity: Asus Vs. Tuf Vs. ProArt Vs. Prime Computers</u></a></li>
+<li><a href="https://games-able.techidaily.com/determining-hardwares-graphic-memory/"><u>Determining Hardware's Graphic Memory</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-delights-for-special-moments-via-steam/"><u>Digital Delights for Special Moments via Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-the-role-of-xbox-covers/"><u>Discovering the Role of Xbox Covers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-advanced-data-analytics-methods-for-market-research-analysis/"><u>In 2024, Advanced Data Analytics Methods for Market Research Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/innocn-39g1-r-your-budget-gaming-screen/"><u>InnoCN 39G1 R - Your Budget Gaming Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/joystick-journey-console-to-pc-conversion-made-easy-137-chars/"><u>Joystick Journey: Console-to-PC Conversion Made Easy (137 Chars)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/meme-mastery-in-the-metaverse-a-comedic-journey-for-2024/"><u>Meme Mastery in the Metaverse  A Comedic Journey for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/minecraft-map-mastery-acquiring-and-activating-adventures/"><u>Minecraft Map Mastery: Acquiring & Activating Adventures</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-handheld-powerhouse-enter-the-world-of-pdw4/"><u>Next Gen Handheld Powerhouse - Enter the World of PDW4</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-list-of-16-shared-screening-experiences-on-xbox/"><u>Optimal List of 16 Shared Screening Experiences on XBox</u></a></li>
+<li><a href="https://games-able.techidaily.com/predicting-a-boom-in-chipset-prices-are-we-ready/"><u>Predicting a Boom in Chipset Prices: Are We Ready?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/premier-5-minute-longshot-recorder/"><u>Premier 5-Minute Longshot Recorder</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/prepping-zones-vr-setup-guide-with-oculus-for-2024/"><u>Prepping Zones  VR Setup Guide with Oculus for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-8-outlets-for-in-depth-gaming-insights/"><u>Prime 8 Outlets for In-Depth Gaming Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/questful-commuting-smart-tips-for-in-transit-gaming/"><u>Questful Commuting: Smart Tips for In-Transit Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/raise-the-stakes-with-switch-type-decisions/"><u>Raise the Stakes with SWITCH Type Decisions</u></a></li>
+<li><a href="https://games-able.techidaily.com/razer-blackwidow-v4-75-review-razers-first-ever-hot-swappable-mechanical-gaming-keyboard/"><u>Razer BlackWidow V4 75%% Review: Razer's First Ever Hot-Swappable Mechanical Gaming Keyboard</u></a></li>
+<li><a href="https://games-able.techidaily.com/reactivate-lost-wordle-streak-iosandroid-fixes/"><u>Reactivate Lost Wordle Streak: IOS/Android Fixes</u></a></li>
+<li><a href="https://games-able.techidaily.com/reclaim-your-gaming-fix-wi-fi-on-switch/"><u>Reclaim Your Gaming: Fix Wi-Fi on Switch</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-geforce-experience-shutdown-issues-a-comprehensive-guide/"><u>Resolving GeForce Experience Shutdown Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/reviving-legends-microsoft-activision-blizzard-and-old-game-classics/"><u>Reviving Legends: Microsoft, Activision Blizzard, and Old Game Classics</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-ps5-pc-control-connection-methods/"><u>Seamless PS5-PC Control Connection Methods</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-heat-management-kit-for-your-steam-deck/"><u>The Ultimate Heat Management Kit for Your Steam Deck</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-vivo-y36-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Vivo Y36 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-tech-debate-is-oled-superior-to-amoled-or-ips/"><u>Top Tech Debate: Is OLED Superior to AMOLED or IPS?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/transform-your-youtube-footage-into-cinematic-delight-with-imovie-expertise/"><u>Transform Your YouTube Footage Into Cinematic Delight with iMovie Expertise</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-the-power-of-beyerdynamics-mmx-200/"><u>Unlocking the Power of Beyerdynamic's MMX 200</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-xbox-titles-on-steam-using-glossi-magic/"><u>Unlocking Xbox Titles on Steam Using GlosSI Magic</u></a></li>
+<li><a href="https://games-able.techidaily.com/victory-lane-awaits-your-guide-to-top-mobile-sports-games/"><u>Victory Lane Awaits: Your Guide to Top Mobile Sports Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-prevents-gamefi-from-being-a-gamers-dream/"><u>What Prevents GameFi From Being a Gamer's Dream</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-idevices-entice-me-with-top-tier-game-selection-via-apple-arcade/"><u>Why iDevices Entice Me with Top-Tier Game Selection via Apple Arcade</u></a></li>
+</ul></div>

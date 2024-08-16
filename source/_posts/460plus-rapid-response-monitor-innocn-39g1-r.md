@@ -1,7 +1,7 @@
 ---
 title: "$460+ Rapid Response Monitor: InnoCN 39G1 R"
-date: 2024-07-12T04:24:58.844Z
-updated: 2024-07-13T04:24:58.844Z
+date: 2024-08-15T17:17:08.611Z
+updated: 2024-08-16T17:17:08.611Z
 tags:
   - games
 categories:
@@ -125,6 +125,9 @@ Yes - 3000R
  On the rear, you'll find a diagonal line of LEDs. They’re not bright enough to serve as bias lighting (in the image above, the blue reflecting on the wall is coming from my PC fans, not the monitor), nor do they synchronize with on-screen content. You can manually configure them to one of seven different static colors, a few different scene styles, and adjust the brightness (though the maximum "vibrant" brightness setting would be better described as "just about visible").
 
 ![innocn 39g1r monitor rear middle of room-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-monitor-rear-middle-of-room-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  No attribution required; taken by author James Bruce  
 
@@ -141,11 +144,17 @@ Yes - 3000R
  The display is controlled with a single nub-like thumbstick underneath, in the center. Tap in any direction or click to open the first menu, and click again to turn off the display. You can also navigate right to the full on-screen display menu, left to control the lighting, or up for "game mode", which adds a customizable crosshair in the center of the display.
 
 ![innocn 39g1r - OSD menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-osd-menu.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 
  It’s a somewhat confusing system, and I often turned the monitor off unintentionally until I'd gotten used to it. Input swapping was a notable pain point. While one might expect input swapping to be on the quick menu, the only way to swap is to navigate the full OSD menu structure. To illustrate, swapping from HDMI 1 to DP 1 requires a sequence of button presses more akin to a Street Fighter special move: right, right, right, down, down, right. On the other hand, if you shut down one input, it will automatically switch over, so it’s a minor nuisance.
 
  Diving into the full menu also reveals a myriad of settings to tweak, though nothing unexpected. Picture-in-picture mode is supported for productivity (or watching football).
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Specifications
 
  The InnoCN 39G1R runs at a maximum of 2560 x 1440 (WQHD). Given that this is for primarily PC gamers, I think that’s more than sufficient. While 4K gaming is appealing, many don't have gaming PCs capable of handling such high resolutions.
@@ -153,12 +162,18 @@ Yes - 3000R
  With such a large monitor, running at 1440p means a pixel density of around 76DPI. Depending on your viewing distance, you might sometimes spot jaggies or pixelation. That said, I've been using this as a primary monitor with a Mac Mini for writing, and browsing, for at least eight hours a day. Besides slightly blurry video previews in Final Cut, it's been fine for daily use, but it won't suit anyone working primarily with 4K video or detailed design work.
 
 ![innocn 39g1r - featured image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-featured-image.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 
  The 39G1R boasts 99% sRGB gamut coverage and supports HDR10, but with a peak brightness of 350 nits and no local dimming, the HDR is limited and not on par with TV HDR—to the extent that I wouldn't bother enabling it.
 
  Still, SDR content looks incredible. The panel uses VA technology with a 3000:1 contrast ratio, which enables it to deliver deep blacks. The glossy screen finish also helps with overall color richness, though it's prone to reflections from ambient light sources.
 
 ![innocn 39g1r - lego browls high motion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-lego-browls-high-motion.jpg)
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 
  The maximum refresh rate is 165Hz, which will benefit any high-motion gaming (though only if your machine can push the frames that fast). But as with many VA panels, there might be some ghosting. You can adjust the response time in the on-screen menu if you find this problematic, but it won't eliminate the problem entirely. In real-world usage, I didn't notice any ghosting.
 
@@ -167,6 +182,9 @@ Yes - 3000R
  Using the DisplayPort connected to my gaming PC I was able to select 165Hz and the full 1440p right from within the Windows settings. No mucking around—it worked off the bat, and I turned overdrive on high.
 
 ![innocn 39g1r - 165hz](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-165hz.jpg)
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 
  Assuming you have hardware that can even deliver those sorts of frame rates, you’ll get superb visuals.
 
@@ -177,6 +195,9 @@ Yes - 3000R
  To test the high frame rates, I loaded up Lego Brawls, which is basic enough to run at the full 165 frames a second—and promptly came first in every match I played. I'm not saying the high frame rate was a huge benefit when weighed against my obvious elite skills to compete against random children on the internet. Still, it probably played a not insignificant role.
 
 ![innocn 39g1r - lego bralws gameplay top brawlers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-lego-bralws-gameplay-top-brawlers.jpg)
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  I also wanted to try something strategy-based to see if the low pixel density was more frustrating, so I fired up Company of Heroes. The added size of the map more than made up for any loss of detail. However, we should acknowledge that monitors can be highly subjective—you may be more sensitive to low pixel densities than I am.
 
@@ -189,6 +210,9 @@ Yes - 3000R
  Now that’s good enough for most people, but don’t buy this specifically for VRR support if you’re on PlayStation. This isn’t uncommon, I should add. Sony has implemented a very restrictive form of variable refresh which needs HDMI 2.1, and the 39G1R doesn’t provide that. For the highest refresh rates, you’ll need to use the DisplayPort.
 
 ![innocn 39g1r - call of duty](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-call-of-duty.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 
  I also ran through the standard assortment of Eizo monitor tests, and a couple of points stood out that I hadn’t noticed during regular use.
 
@@ -199,15 +223,24 @@ Yes - 3000R
  Switching over to a thermal camera view shows why: the panels are illuminated from the bottom, and the internal reflections mean a little unevenness in the bottom left. Again, in real-world usage, I'll emphasize that didn't notice any of this.
 
 ![innocn 39g1r - infrared view showing illumination](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-infrared-view-showing-illumination.jpg)
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Secondly, on the response rate test, there was some definite ghosting, most evident on dark blue, which led to purple ghosting on the grey background, and bright red with brown ghosting.
 
 ![innocn 39g1r - brown and purple ghosting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-brown-and-purple-ghosting.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The ghosting is to be expected from a VA panel, as are minor uniformity issues on something at this budget.
 
  Best left unspoken are the built-in 2W speakers. They’re functional, but no surprises there: they are monitor speakers, and pretty much anything else would be better.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Should You Buy the Innocn 39G1R?
 
  In the sub-$500 price range, the 39G1R can’t be beaten. It’s not the highest pixel density around, but the sheer size, the high refresh rates, and the high contrast ratio more than make up for it. If you did want 4K resolution, the closest alternative would be the [38” ASUS ROG PG38UQ](https://www.amazon.com/ASUS-Swift-Gaming-Monitor-PG38UQ/dp/B0BZR81SQG?tag=muo-v2-7s9kakr-20&ascsubtag=UUmuoUeUpU2029202&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Finnocn-39g1r-review%2F&asc%5Fcampaign=Affiliate) , at almost three times the price.
@@ -233,3 +266,52 @@ Yes - 3000R
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-omniview-app-critical-look-over/"><u>[New] 2024 Approved  OmniView App Critical Look-Over</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-metaverse-memetic-marvels-from-copycat-cartoons-to-originalist-oddities/"><u>[New] Metaverse Memetic Marvels - From Copycat Cartoons to Originalist Oddities</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-prime-cloud-call-recorder-pros-for-2024/"><u>[New] Prime Cloud Call Recorder Pros for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-flash-facts-how-videos-captivate-twitters-audience/"><u>[Updated] In 2024, Flash Facts  How Videos Captivate Twitter's Audience</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-seamlessly-connect-with-friends-and-family-via-skype-call-for-2024/"><u>[Updated] Seamlessly Connect with Friends & Family via Skype Call for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-skyrocketing-performance-boosting-ram-in-minecraft-for-2024/"><u>[Updated] Skyrocketing Performance  Boosting RAM in Minecraft for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-your-guide-to-genuine-selfies-on-instagrams-canvas-for-2024/"><u>[Updated] Your Guide to Genuine Selfies on Instagram's Canvas for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-engaging-virtual-experiences-to-fortify-design-expertise/"><u>7 Engaging Virtual Experiences to Fortify Design Expertise</u></a></li>
+<li><a href="https://games-able.techidaily.com/8-ar-mobile-games-that-will-get-you-moving-outdoors/"><u>8 AR Mobile Games That Will Get You Moving Outdoors</u></a></li>
+<li><a href="https://games-able.techidaily.com/accelerating-data-transmission-understanding-and-reducing-extended-response-times/"><u>Accelerating Data Transmission: Understanding and Reducing Extended Response Times</u></a></li>
+<li><a href="https://games-able.techidaily.com/achievement-acres-gamers-sanctuaries/"><u>Achievement Acres: Gamer's Sanctuaries</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieving-superior-internet-performance-reducing-extended-response-times/"><u>Achieving Superior Internet Performance: Reducing Extended Response Times</u></a></li>
+<li><a href="https://games-able.techidaily.com/adaptive-thermal-control-curve-for-high-end-gpus/"><u>Adaptive Thermal Control Curve for High-End GPUs</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-misconduct-on-series-xs-gaming-console/"><u>Addressing Misconduct on Series X/S Gaming Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/adjust-language-preference-on-steam-app/"><u>Adjust Language Preference on Steam App</u></a></li>
+<li><a href="https://games-able.techidaily.com/advanced-cooling-tech-for-a-steam-free-experience/"><u>Advanced Cooling Tech for a Steam-Free Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-led-sleekgamer-display/"><u>Affordable LED SleekGamer Display</u></a></li>
+<li><a href="https://games-able.techidaily.com/amds-innovation-with-fsr-3-can-it-outperform-dlss-35/"><u>AMD's Innovation with FSR 3: Can It Outperform DLSS 3.5?</u></a></li>
+<li><a href="https://games-able.techidaily.com/an-enthusiasts-guide-to-favorite-offbeat-indie-games/"><u>An Enthusiast's Guide to Favorite, Offbeat Indie Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/analyzing-subtleties-steam-vs-gog-service-providers/"><u>Analyzing Subtleties: Steam vs GOG Service Providers</u></a></li>
+<li><a href="https://games-able.techidaily.com/android-and-iphone-showdowns-the-ultimate-tetris-challenge/"><u>Android and iPhone Showdowns: The Ultimate Tetris Challenge</u></a></li>
+<li><a href="https://games-able.techidaily.com/androidios-mastering-tetris-duels/"><u>Android/iOS: Mastering Tetris Duels</u></a></li>
+<li><a href="https://games-able.techidaily.com/baldurs-gate-3-for-m1m2-using-crossover-on-mac/"><u>Baldur’s Gate 3 for M1/M2: Using Crossover on Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/bargain-trails-navigating-to-the-best-11-game-purchase-locations/"><u>Bargain Trails: Navigating to the Best 11 Game Purchase Locations</u></a></li>
+<li><a href="https://games-able.techidaily.com/battle-royale-contenders-discovering-the-best-fps-games-on-your-browser/"><u>Battle Royale Contenders: Discovering the Best FPS Games on Your Browser</u></a></li>
+<li><a href="https://games-able.techidaily.com/behind-the-name-foddian-game-chronicles/"><u>Behind the Name: Foddian Game Chronicles</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-ddr5-memory-picks-for-gamers-24/"><u>Best DDR5 Memory Picks for Gamers - '24</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-itel-p55t-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Itel P55T?</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-instructions-purging-dns-memory-in-windows-10-and-windows-11-environments/"><u>Comprehensive Instructions: Purging DNS Memory in Windows 10 & Windows 11 Environments</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/digital-media-seeker-for-2024/"><u>Digital Media Seeker for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719170667310-discovering-nvidias-latest-app-elevate-your-gameplay/"><u>Discovering Nvidia's Latest App: Elevate Your Gameplay!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-infinix-zero-5g-2023-turbo-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Infinix Zero 5G 2023 Turbo? Try These Fixes</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-premium-screen-recording-selections/"><u>In 2024, Premium Screen Recording Selections</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-select-alternative-save-area-for-mac-pics/"><u>In 2024, Select Alternative Save Area for Mac Pics</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-on-apple-iphone-8-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication On Apple iPhone 8? 5 Tips You Must Know</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719169184228-my-gaming-adventure-with-an-advanced-oled-display/"><u>My Gaming Adventure with an Advanced OLED Display</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719166387773-navigate-the-digital-labyrinths-with-us/"><u>Navigate the Digital Labyrinths with Us</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-mirror-your-media-how-to-flip-a-clip-in-final-cut-pro-quickly/"><u>New 2024 Approved Mirror Your Media How to Flip a Clip in Final Cut Pro Quickly</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simplifying-chores-claude-vs-generative-pro-ai/"><u>Simplifying Chores: Claude Vs. Generative Pro-AI</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-samsung-galaxy-xcover-7-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Samsung Galaxy XCover 7 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719173038183-top-7-iosandroid-sports-games-unmatched-excitement/"><u>Top 7 iOS/Android Sports Games: Unmatched Excitement</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/transform-your-canon-shots-access-to-unlimited-free-and-purchasable-luts/"><u>Transform Your Canon Shots  Access to Unlimited Free & Purchasable LUTs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-internet-explorer-has-stopped-working-error/"><u>Troubleshooting Steps for 'Internet Explorer Has Stopped Working' Error</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719165441330-unlock-nintendo-legends-on-your-ios-with-4-best-emulators/"><u>Unlock Nintendo Legends on Your iOS with 4 Best Emulators</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Nokia XR21 | Dr.fone</u></a></li>
+</ul></div>
