@@ -1,7 +1,7 @@
 ---
 title: "Transform Gaming Spaces: Select Large-Scale Cabinet Panels!"
-date: 2024-07-12T04:16:19.944Z
-updated: 2024-07-13T04:16:19.944Z
+date: 2024-08-22T22:18:02.333Z
+updated: 2024-08-23T22:18:02.333Z
 tags:
   - games
 categories:
@@ -46,6 +46,18 @@ thumbnail: https://thmb.techidaily.com/4cde13e35fb005f35b03fe575a760700ef2f31716
 
  But in terms of ease-of-use and the time saved alone, it’s going to be money well spent. Especially if you want your arcade cabinet to grow with you as you keep adding games via Steam or another source.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Big Box Adds Context to Your Library
 
  Want to know the importance of context? Look at this listing below as an example. If I had not used EmuMovies as I discussed a moment ago, this cabinet would be nothing but a list of games.
@@ -54,14 +66,28 @@ thumbnail: https://thmb.techidaily.com/4cde13e35fb005f35b03fe575a760700ef2f31716
 
 ![Game page in EmuMovies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/emu-movies-front-page.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
  If you’re already familiar with [LaunchBox and how it works](https://www.makeuseof.com/what-is-launchbox-how-it-works/) , you already know that you can add custom filters for your games, like the number of players per game or by genre. The filters you create in LaunchBox also appear in Big Box, making it easy to find the right game for the occasion.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Big Box Gives You Hotkeys and Customizable Menu Controls
 
  If you’re building your arcade cabinet for the first time, you’re probably wondering how the heck you’re going to be able to exit a game or adjust the volume. You may think you need dedicated buttons, and while that’s one route, Big Box solves this problem by allowing you to hotkey certain tasks.
 
  For example, when I want to exit a game, I tap my**Player 1 Start button** and**A button** simultaneously twice to activate the**Close the Active Window** value, which exits my game. I can also do a different button combination for the volume control, among other functions.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Big Box Adds Second Screen Support for Digital Marquees
 
  When you populate your library with metadata via EmuMovies, you probably notice that a marquee file is always downloaded. These files are used with a second screen, displayed as a marquee like a traditional arcade cabinet.
@@ -72,6 +98,9 @@ thumbnail: https://thmb.techidaily.com/4cde13e35fb005f35b03fe575a760700ef2f31716
 
  Image Credit: Unbroken Software LLC/[YouTube](https://www.youtube.com/watch?v=q1gBLJ2IZJI)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Use Big Box In-Place of Your Windows Shell
 
  You don’t want to have to use a mouse to open Big Box every time your start the device running your cabinet. It’s preferable if you can dive right into your arcade cabinet’s frontend with as few steps as possible. Fortunately, Big Box makes it happen if your arcade cabinet is powered by Windows.
@@ -80,6 +109,9 @@ thumbnail: https://thmb.techidaily.com/4cde13e35fb005f35b03fe575a760700ef2f31716
 
  Next, start Big Box from LaunchBox. Then, go to **System > Options > General > Enable Using Big Box as the Windows Shell > Yes.** The next time you reboot your device, Big Box will replace the Windows shell. If you need to get into Windows, you can still close Big Box via the Task Manager to gain access to Windows again.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Big Box Takes the Headache Out of Arcade Frontends
 
  The amount of time and frustration saved alone is worth the cost of admission for LaunchBox and EmuMovies. It’s layered tidily in Big Box, making navigating your library of games via arcade controls so easy, you’ll wonder why other frontends are so complicated. Give it a shot, and you’ll become one of the converted.
@@ -103,3 +135,38 @@ thumbnail: https://thmb.techidaily.com/4cde13e35fb005f35b03fe575a760700ef2f31716
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/access-windows-11-photo-library-for-past-games/"><u>Access Windows 11 Photo Library for Past Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridge-the-time-classic-xbox-games-modern-pc-xemu/"><u>Bridge the Time: Classic Xbox Games, Modern PC, Xemu</u></a></li>
+<li><a href="https://games-able.techidaily.com/bringing-friends-together-with-games-from-steam/"><u>Bringing Friends Together with Games From Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/customization-mastery-the-ultimate-guide-to-personalizing-the-xbox-game-bar-in-windows/"><u>Customization Mastery: The Ultimate Guide to Personalizing the Xbox Game Bar in Windows</u></a></li>
+<li><a href="https://facebook.techidaily.com/disabling-comments-for-your-fb-post-a-step-by-step-guide/"><u>Disabling Comments for Your FB Post: A Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/empower-iphone-with-unparalleled-gaming-capabilities/"><u>Empower iPhone with Unparalleled Gaming Capabilities</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/enhanced-wifi-coverage-made-simple-inside-the-tp-link-deco-p9-mesh-system/"><u>Enhanced WiFi Coverage Made Simple - Inside the TP-Link Deco P9 Mesh System</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-hardware-requirements-for-bg3/"><u>Exploring Hardware Requirements for BG3</u></a></li>
+<li><a href="https://games-able.techidaily.com/fast-track-your-game-6-startup-techniques-for-ps5/"><u>Fast-Track Your Game: 6 Startup Techniques for PS5</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-tecno-spark-10-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-up-or-swapping-out-your-console-a-guide/"><u>Fixing Up or Swapping Out Your Console - A Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/game-on-without-gripes-quick-and-easy-hacks-to-avoid-titanfall-2-game-breaks/"><u>Game On Without Gripes: Quick & Easy Hacks to Avoid Titanfall 2 Game Breaks</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-smartly-to-protect-hardware-lifespan/"><u>Gaming Smartly to Protect Hardware Lifespan</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-enable-or-disable-the-windows-installer-service-on-windows/"><u>How to Enable or Disable the Windows Installer Service on Windows</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-14-passcode-not-working-by-drfone-ios/"><u>How to Fix Apple iPhone 14 Passcode not Working?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/how-to-make-a-photo-video-with-pixiz-in-2024/"><u>How to Make a Photo Video with Pixiz , In 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/in-ear-monitors-vs-standard-headphones-in-gaming/"><u>In-Ear Monitors Vs. Standard Headphones in Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/longevity-tips-ensuring-a-lasting-gaming-experience/"><u>Longevity Tips: Ensuring a Lasting Gaming Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-monitor-purchase-10-common-mistakes/"><u>Mastering the Art of Monitor Purchase: 10 Common Mistakes</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-using-ps5-on-windows-devices/"><u>Mastering the Art of Using PS5 on Windows Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719168550187-no-more-exclusives-welcome-new-era-in-gaming/"><u>No More Exclusives? Welcome New Era in Gaming!</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-rtx-4060-ti-unveiling-matching-gpus/"><u>Nvidia's RTX 4060 Ti: Unveiling Matching GPUs</u></a></li>
+<li><a href="https://games-able.techidaily.com/pure-endless-fun-awaits-with-the-best-mobile-games-free/"><u>Pure, Endless Fun Awaits with the Best Mobile Games (Free!)</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/quick-solution-how-to-stop-mordhau-from-unexpectedly-crashing/"><u>Quick Solution: How to Stop Mordhau From Unexpectedly Crashing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-saving-memories-by-screencasting-ps4-gaming-adventures/"><u>Step-by-Step Tutorial: Saving Memories by Screencasting PS4 Gaming Adventures</u></a></li>
+<li><a href="https://games-able.techidaily.com/supercharge-live-streams-select-best-7-bots-for-twitch-expertise/"><u>Supercharge Live Streams: Select Best 7 Bots For Twitch Expertise</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-vivo-s18-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Vivo S18 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-10-free-online-fps-games-for-web-browsers/"><u>Top 10 Free Online FPS Games for Web Browsers</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-finder-ps5-ssds-rated/"><u>Ultimate Finder: PS5 SSDs Rated</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719168983881-unleashing-gbadvance-games-on-ios-with-top-emulators/"><u>Unleashing GBAdvance Games on iOS with Top Emulators</u></a></li>
+<li><a href="https://article-posts.techidaily.com/virtual-revolution-ready-heres-a-list-of-top-7-must-haves-for-2024/"><u>Virtual Revolution Ready? Here's a List of Top 7 Must-Haves for 2024</u></a></li>
+</ul></div>

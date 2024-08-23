@@ -1,7 +1,7 @@
 ---
 title: 5 Catalysts for Enhancing Xbox's Rewards Program
-date: 2024-07-12T04:19:19.907Z
-updated: 2024-07-13T04:19:19.907Z
+date: 2024-08-22T22:15:07.216Z
+updated: 2024-08-23T22:15:07.216Z
 tags:
   - games
 categories:
@@ -42,6 +42,9 @@ thumbnail: https://thmb.techidaily.com/4622c737506cba1a23868ce6098299cf82c4724d1
 
  And with the slashing of points, existing issues are only exacerbated. Together with the sluggish rate you gather points, the unfortunate changes only give you further cause to ignore the feature altogether.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Point Values Are Worth Less When Spending Points on Xbox
 
  Aside from how Microsoft Reward Points have adapted over time, some core features of the service represent glaring ways it could be fairer to gamers.
@@ -52,10 +55,16 @@ thumbnail: https://thmb.techidaily.com/4622c737506cba1a23868ce6098299cf82c4724d1
 
 ![A screenshot of Xbox messages detailing earned Reward Points for purchases made on the Xbox Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/point-messages.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
  To put it in plainer terms, if you go off Microsoft's one-point-per-dollar system, 7000 points for a free month of Xbox Live Gold represents $7000 dollars worth of store purchases. And while this is slightly contrary, it would be ridiculous if points given were equivalent to store purchases, the system seems highly unfair.
 
  If the ratio of earned points to store purchases were more substantial, the method would seem like a legitimate way for you to attain free rewards on Xbox. But as it is, the system seems almost frugal.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. The Best Ways to Earn Points Involve Purchasing Xbox Games
 
  Even if you look outside the traditional ways you earn Microsoft Reward Points, other methods involving specific titles can act as Xbox Game Pass advertisements or represent a game you may need to purchase.
@@ -64,10 +73,17 @@ thumbnail: https://thmb.techidaily.com/4622c737506cba1a23868ce6098299cf82c4724d1
 
 ![A screenshot of a punch card within the Microsoft Rewards on Xbox application highlighting the rewards and requirements screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/punch-card-rewards.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
  This method of incentivizing playing games can be great if you already own the game or can access the title through Xbox Game Pass. But if the required game isn't available, or you don't have Game Pass, you have to purchase the game to earn points.
 
  In terms of offering a useful way to earn points, game-specific activities are great on paper but quickly turn into a way for Microsoft Rewards Points to advertise store purchases or Xbox Game Pass. You could even see it as a method of incentivizing the spending of your money.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Microsoft Reward Points Need to Adapt to Remain Functional on Xbox
 
  While Microsoft Reward Points are a free bonus added to the Xbox platform, the more you look into how the service works, the more it starts to resemble more of an issue than a bonus.
@@ -93,3 +109,59 @@ thumbnail: https://thmb.techidaily.com/4622c737506cba1a23868ce6098299cf82c4724d1
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-vlc-guide-setting-up-screen-recordings/"><u>[New] 2024 Approved  VLC Guide  Setting Up Screen Recordings</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-elevating-video-production-the-advantages-of-bandicams-technology/"><u>[New] In 2024, Elevating Video Production  The Advantages of Bandicam's Technology</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-ultimate-guideline-for-mobizen-screen-recorder/"><u>[New] In 2024, Ultimate Guideline for Mobizen Screen Recorder</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-selections-premium-webcam-platforms/"><u>[New] Ultimate Selections  Premium Webcam Platforms</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-achieving-million-sub-milestone-the-youtube-guide/"><u>[Updated] Achieving Million-Sub Milestone  The YouTube Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-asmrs-good-side-benefits-revealed-now/"><u>[Updated] ASMR's Good Side  Benefits Revealed Now</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-step-by-step-instructions-for-finding-recent-facebook-views/"><u>[Updated] In 2024, Step-by-Step Instructions for Finding Recent Facebook Views</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-cutting-edge-recording-win-11s-superior-camcorders/"><u>2024 Approved  Cutting-Edge Recording  Win 11'S Superior Camcorders</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-earning-on-youtube-a-step-by-step-guide-for-newbies/"><u>2024 Approved  Earning on YouTube  A Step-by-Step Guide for Newbies</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-premium-downloader-suite-for-vimeo-content/"><u>2024 Approved  Premium Downloader Suite for Vimeo Content</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/cozy-gaming-understanding-its-rise-to-fame/"><u>Cozy Gaming: Understanding Its Rise to Fame</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-nyt-influence-dynamics/"><u>Deciphering NYT Influence Dynamics</u></a></li>
+<li><a href="https://games-able.techidaily.com/do-elite-video-games-need-microtransactions-to-succeed/"><u>Do Elite Video Games Need Microtransactions to Succeed?</u></a></li>
+<li><a href="https://games-able.techidaily.com/emulator-showdown-on-the-pi-retropie-vs-batocera/"><u>Emulator Showdown on the Pi: RetroPie Vs. Batocera</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-your-multi-platform-experience-epic-meets-steam/"><u>Enhancing Your Multi-Platform Experience: Epic Meets Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-stakes-typing-are-longer-delays-detrimental/"><u>High-Stakes Typing: Are Longer Delays Detrimental?</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-run-android-apps-in-linux-systems/"><u>How to Run Android Apps in Linux Systems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-masterful-video-text-techniques-ranked/"><u>In 2024, Masterful Video Text Techniques - Ranked</u></a></li>
+<li><a href="https://games-able.techidaily.com/linux-terminal-gaming-guide-top-7-suggestions/"><u>Linux Terminal Gaming Guide: Top 7 Suggestions</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/mario-vs-donkey-kong-the-ultimate-switch-fighting-series-for-2024/"><u>Mario Vs. Donkey Kong  The Ultimate Switch Fighting Series for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-steps-reactivating-disconnected-joy-con-on-switch/"><u>Mastering the Steps: Reactivating Disconnected Joy-Con on Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/meta-vr-quest-3-a-mixed-reality-odyssey/"><u>Meta VR Quest 3: A Mixed Reality Odyssey</u></a></li>
+<li><a href="https://games-able.techidaily.com/old-school-gaming-new-age-performance-via-atlasos/"><u>Old-School Gaming, New-Age Performance via AtlasOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-ps4-joystick-jams-effective-remedies-at-hand/"><u>Overcoming PS4 Joystick Jams: Effective Remedies at Hand</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps-game-compatibility-across-generations-of-consoles/"><u>PS Game Compatibility Across Generations of Consoles</u></a></li>
+<li><a href="https://games-able.techidaily.com/real-world-wins-with-cutting-edge-game-tech/"><u>Real-World Wins with Cutting-Edge Game Tech</u></a></li>
+<li><a href="https://games-able.techidaily.com/repair-guide-reviving-your-xbox-sx/"><u>Repair Guide: Reviving Your Xbox S/X</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-integration-problems-windows-plus-oculus-vr-setup/"><u>Resolving Integration Problems: Windows + Oculus VR Setup</u></a></li>
+<li><a href="https://games-able.techidaily.com/rethink-retro-why-your-game-needs-a-raspberry-pi-upgrade/"><u>Rethink Retro: Why Your Game Needs a Raspberry Pi Upgrade</u></a></li>
+<li><a href="https://games-able.techidaily.com/retrosphere-portable-nostalgia-meets-technology/"><u>RetroSphere Portable: Nostalgia Meets Technology</u></a></li>
+<li><a href="https://games-able.techidaily.com/safe-steam-ensuring-fun-without-fears/"><u>Safe Steam: Ensuring Fun Without Fears</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/streaming-conduct-the-dos-and-donts-of-twitch-user-blocks/"><u>Streaming Conduct: The Dos and Don'ts of Twitch User Blocks</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-aftermath-of-xboxs-ban-on-unsanctioned-controller-mods/"><u>The Aftermath of Xbox’s Ban on Unsanctioned Controller Mods</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-myth-of-importance-surrounding-your-steam-score/"><u>The Myth of Importance Surrounding Your Steam Score</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-timeless-console-revolution/"><u>The Timeless Console Revolution</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-decision-guide-to-digital-games-ups-and-downs/"><u>The Ultimate Decision Guide to Digital Games' Ups and Downs</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-digital-code-redeeming/"><u>The Ultimate Guide to Digital Code Redeeming</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-external-drive-gaming-with-steam/"><u>The Ultimate Guide to External Drive Gaming with Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-unnoticed-online-players-handbook/"><u>The Unnoticed Online Player's Handbook</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-x5-pro-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from X5 Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshoot-steam-not-opening-step-by-step-guide/"><u>Troubleshoot Steam Not Opening: Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-roblox-error-262-fixed/"><u>Troubleshooting Roblox: Error 262 Fixed</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-remedy-for-portable-gaming-woes-x-ally/"><u>Ultimate Remedy for Portable Gaming Woes - X Ally</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-the-full-potential-of-your-gaming-with-steam-modding/"><u>Unlock the Full Potential of Your Gaming with Steam Modding</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-xbox-games-on-steam-via-glossi/"><u>Unlock Xbox Games on Steam via GlosSI</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-speed-potential-with-easy-ssd-transition-steps/"><u>Unlocking Speed Potential with Easy SSD Transition Steps</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-tracking-game-cost-over-time-on-steam/"><u>Unveiling: Tracking Game Cost Over Time on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-i-favor-ioss-finest-choosing-apple-arcade/"><u>Why I Favor iOS's Finest: Choosing Apple Arcade</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-series-xs-is-fast-resume-beneficial/"><u>Xbox Series X|S: Is Fast Résumé Beneficial?</u></a></li>
+</ul></div>

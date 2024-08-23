@@ -1,0 +1,158 @@
+---
+title: Discover BG3 Extras Beyond Core Gameplay
+date: 2024-08-22T22:24:30.387Z
+updated: 2024-08-23T22:24:30.387Z
+tags:
+  - games
+categories:
+  - games
+description: This Article Describes Discover BG3 Extras Beyond Core Gameplay
+excerpt: This Article Describes Discover BG3 Extras Beyond Core Gameplay
+keywords: Beyond Core Gameplay,Extra Gaming Experiences,Game Expansions,Hidden Features BG3,Beyond Core Gameplay Tips,Unlock BG3 Content,Beyond Core Gameplay Hacks
+thumbnail: https://thmb.techidaily.com/8a7c2713a5a85ee94384e3a403324debf1e357fa3f2637bf212870351e0edf0f.jpg
+---
+
+## Discover BG3 Extras Beyond Core Gameplay
+
+ After about seven years of development and three years of early access, Baldur’s Gate 3 is out for PC. And it’s been a hit so far, with some developers warning that it sets the bar too high.
+
+ You may already be certain you will love this major D&D 5e video game title, but you still need more information before you make the $60 investment. Here, we’ll let you know everything you need to know so you can get in Baldur’s Gate 3 as ready as can be.
+
+## What Are Baldur’s Gate 3's Hardware and Software Requirements?
+
+ Unlike its predecessors, you can’t run Baldur’s Gate 3 on a potato computer. While you don’t need the most powerful graphic cards, you would need a decent one if you want to enjoy your experience and explore this corner of Faerûn. Take a look at our list of the[best graphic cards for any budget](https://www.makeuseof.com/tag/best-graphics-cards/) to find something that works for you if you plan to play on a PC.
+
+Here’s a table for Baldur’s Gate 3’s specs:
+
+| **Windows**   | **macOS**                                                                                                             |                                                                                             |
+| ------------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| **OS**        | **Minimum** \- Windows 10 64-bit**Recommended** \- Windows 10 64-bit                                                  | **Minimum** \- macOS 10.15.6**Recommended** \- macOS 10.15.7                                |
+| **Processor** | **Minimum** \- Intel I5 4690 / AMD FX 8350**Recommended** \- Intel i7 8700K / AMD r5 3600                             | **Minimum** \- 2.6GHz Quad-Core Intel Core i7**Recommended** \- 2.3GHz 8-Core Intel Core i9 |
+| **RAM**       | **Minimum** \- 8GB RAM**Recommended** \- 16GB RAM                                                                     | **Minimum** \- 8GB RAM**Recommended** \- 16GB RAM                                           |
+| **Graphics**  | **Minimum** \- Nvidia GTX 970 / RX 480 (4GB+ of VRAM)**Recommended** \- Nvidia 2060 Super / RX 5700 XT (8GB+ of VRAM) | **Minimum** \- AMD Radeon460 4GB**Recommended** \- AMD Radeon Pro 5500M 8GB                 |
+| **DirectX**   | Version 11                                                                                                            | \-                                                                                          |
+| **Storage**   | 150GB SSD                                                                                                             | **Minimum** \- 150GB HDD**Recommended** \- 150GB SSD                                        |
+
+ Apple silicon Macs generally run Baldur’s Gate better than Intel Macs—just one of the reasons[you might need an Apple silicon Mac](https://www.makeuseof.com/do-i-need-an-apple-silicon-mac/) .
+
+* M1 and M2 Macs with 8GB RAM could run this game on low settings (and this includes all MacBook Airs).
+* M1 and M2 Macs with 16GB of RAM can run Baldur’s Gate 3 on high or ultra settings.
+* (Intel) MacBook Pros from 2016 to early 2020 might need to run on low settings unless they have the recommended specs.
+
+## What Platforms Can You Get Baldur's Gate 3 On, and How Much Is It?
+
+![Baldur's Gate 3 Steam Store Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-steam-store-page.jpeg)
+
+ Baldur’s Gate 3 came out for PC on August 3rd, but it will come out for macOS and PS5 on September 6th, and perhaps next year for Xbox Series X|S. Larian Studios has issues getting the split-screen to work effectively on the[cheaper and less powerful Xbox Series S](https://www.makeuseof.com/xbox-series-x-vs-xbox-series-s-which-should-you-buy/) .
+
+ You can get Baldur’s Gate 3 on PC and Mac from Steam, GOG, and GeForce Now. It costs $59.99 alone or $69.98 with the Digital Deluxe Edition DLC.
+
+ This is the only DLC for the game right now, and it features in-game cosmetics inspired by Divinity: Original Original Sin II, as well as a digital art book, printable character sheets, and a digital original soundtrack.
+
+ There are mods for Baldur’s Gate 3, but we suggest you wait a little longer to try them out since most were made with early access in mind.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
+## Does Baldur's Gate 3 Have a Multiplayer, and How Does It Work?
+
+ Baldur’s Gate 3 has a single-player mode you can play by yourself. However, you can quickly change your single-player game into a multiplayer game where your friends can join and control characters in your game.
+
+ But if you want a game where all the players have their own custom characters, you’ll need to press the**Multiplayer** button in Baldur’s Gate 3’s main menu. From there, you can host your party or join an existing party.
+
+![Baldur's Gate 3's multiplayer menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-s-multiplayer-menu.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
+ You can load saves across different platforms, but there’s no cross-play for PS5 and PC. Meaning that you can’t play with a friend using a PS5 if you’re using a PC and vice-versa.
+
+ And yes, you can play split-screen simply by activating another controller in-game.
+
+ You should run your split-screen game with DirectX instead of Vulkan because it could crash otherwise.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Is Baldur's Gate 3 Okay for Kids?
+
+ If you were thinking of gifting this to an underage child, don’t. The game has very mature themes and contains nudity and sexual content. It’s a game for adults and not something you should give a child or even play around where a child could see. The game is rated 18 for violence, language, and sex.
+
+ There is a toggle to hide nudity in the character creation stage. This might help reduce the chances of a child seeing something inappropriate while you play.
+
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Now You’re Ready to Play Baldur’s Gate 3 (or Not)
+
+ With all the information here, you should know all it takes to make Baldur’s Gate 3 work for you. It’s a large and long game, and it will take a lot of your time, but the good part is that you don’t have to rush it; you can finish it in small sessions.
+
+ You also don’t need prior experience in Dungeons and Dragons to play the game. It’s very accessible and does a good job of introducing the mechanics to the players.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-essential-tips-for-effective-fb-live-split-screens/"><u>[New] Essential Tips for Effective FB Live Split Screens</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-kid-approved-drone-choices-summarized/"><u>[New] Top Kid-Approved Drone Choices Summarized</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-streamline-slack-collaboration-with-best-10-free-tools/"><u>[Updated] 2024 Approved  Streamline Slack Collaboration with Best 10 Free Tools</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-unveiling-hidden-secrets-for-advanced-win10-users/"><u>[Updated] 2024 Approved  Unveiling Hidden Secrets for Advanced Win10 Users</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-immersive-storytelling-journey-our-top-8-selections/"><u>[Updated] Immersive Storytelling Journey – Our Top 8 Selections</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-reveling-in-creativity-the-best-of-filmoras-edits/"><u>[Updated] Reveling in Creativity  The Best of Filmora's Edits</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-navigating-twitters-live-video-landscape/"><u>2024 Approved  Navigating Twitter's Live Video Landscape</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-infinix-note-30-vip-racing-edition-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Infinix Note 30 VIP Racing Edition to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerating-windows-printer-speedy-solutions/"><u>Accelerating Windows Printer: Speedy Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/desktop-pcs-for-work-rigs-for-recreation/"><u>Desktop PCs for Work, Rigs for Recreation</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/discover-novel-webcam-functions-today-for-2024/"><u>Discover Novel Webcam Functions Today for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-gaming-top-9-sony-ps5-perks/"><u>Elevating Gaming: Top 9 Sony PS5 Perks</u></a></li>
+<li><a href="https://games-able.techidaily.com/embrace-the-great-outdoors-augmented-style/"><u>Embrace the Great Outdoors, Augmented Style</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enhance-siri-with-your-own-sound-tailoring-your-digital-assistant-for-improved-interaction/"><u>Enhance Siri with Your Own Sound: Tailoring Your Digital Assistant for Improved Interaction</u></a></li>
+<li><a href="https://games-able.techidaily.com/graphics-processor-market-should-we-brace-for-rise/"><u>Graphics Processor Market: Should We Brace for Rise?</u></a></li>
+<li><a href="https://games-able.techidaily.com/harmonious-hearing-balancing-game-and-home-sounds-on-xbox/"><u>Harmonious Hearing: Balancing Game and Home Sounds on Xbox</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/harmonizing-hue-and-shade-the-finest-4k-displays-reviewed/"><u>Harmonizing Hue and Shade  The Finest 4K Displays Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/home-theater-wars-sony-playstation-5-vs-thrifty-pc/"><u>Home Theater Wars: Sony PlayStation 5 Vs. Thrifty PC</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-tecno-camon-20-pro-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Tecno Camon 20 Pro 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-reset-and-start-screen-drivers-correctly-on-win10/"><u>How to Reset and Start Screen Drivers Correctly on Win10</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/how-to-thrive-after-facebooks-content-algorithm-overhaul-for-2024/"><u>How to Thrive After Facebook's Content Algorithm Overhaul for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/hrtfs-contribution-to-audio-realism-in-valorant-games/"><u>HRTF's Contribution to Audio Realism in Valorant Games</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-samsung-galaxy-xcover-7-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/intelligent-ai-crime-scene-enigmas-online/"><u>Intelligent AI: Crime Scene Enigmas Online</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-increased-speed-in-nitro-noticeable/"><u>Is Increased Speed in Nitro Noticeable?</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-nintendo-switch-online-expansion-pack-worth-buying/"><u>Is Nintendo Switch Online Expansion Pack Worth Buying?</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-control-stop-launcher-glitches-on-pc-platforms/"><u>Master Control: Stop Launcher Glitches on PC Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-mobile-gaming-steam-games-on-android-and-ios-via-steam-link/"><u>Mastering Mobile Gaming: Steam Games on Android & iOS via Steam Link</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-ps3-gaming-30-essential-pc-emulators/"><u>Mastering PS3 Gaming: 30 Essential PC Emulators</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-game-reviewing-in-the-steam-world/"><u>Mastering the Art of Game Reviewing in the Steam World</u></a></li>
+<li><a href="https://games-able.techidaily.com/murder-mysteries-in-cyberspace-with-ai-assistance/"><u>Murder Mysteries in Cyberspace with AI Assistance</u></a></li>
+<li><a href="https://games-able.techidaily.com/nurturing-a-secure-atmosphere-for-family-steam-play/"><u>Nurturing a Secure Atmosphere for Family Steam Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-visuals-with-xboxs-calibration-utility/"><u>Optimizing Visuals with Xbox's Calibration Utility</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-gaming-saved-solving-persistent-crash-problems-in-tower-of-fantasy-title/"><u>PC Gaming Saved: Solving Persistent Crash Problems in Tower of Fantasy Title</u></a></li>
+<li><a href="https://games-able.techidaily.com/pc-titans-revealed-by-google-play-game-beta/"><u>PC Titans Revealed by Google Play Game Beta</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-and-fixing-invalid-temp-directories-on-win11/"><u>Preventing and Fixing Invalid Temp Directories on Win11</u></a></li>
+<li><a href="https://games-able.techidaily.com/pro-gaming-secrets-scoring-the-best-apple-arcade-offerings/"><u>Pro Gaming Secrets: Scoring the Best Apple Arcade Offerings</u></a></li>
+<li><a href="https://games-able.techidaily.com/psp-tricks-for-gaming-like-nintendos-famicom/"><u>PSP Tricks for Gaming Like Nintendo's Famicom</u></a></li>
+<li><a href="https://games-able.techidaily.com/rating-roulette-why-game-judgments-matter-less/"><u>Rating Roulette: Why Game Judgments Matter Less</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-blaze-curve-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Blaze Curve 5G</u></a></li>
+<li><a href="https://games-able.techidaily.com/sensible-gpu-purchase-for-visuals/"><u>Sensible GPU Purchase for Visuals</u></a></li>
+<li><a href="https://games-able.techidaily.com/solving-windows-11s-display-driver-fail-with-ease-and-precision/"><u>Solving Windows 11'S Display Driver Fail with Ease and Precision</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-revival-software-a-free-lifeline-for-files/"><u>Stellar Revival Software – A Free Lifeline for Files</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-perfect-gloss-a-ps5-sanitation-guide/"><u>The Perfect Gloss: A PS5 Sanitation Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-display-needs-skip-the-hdr-route/"><u>Understanding Display Needs: Skip the HDR Route</u></a></li>
+<li><a href="https://games-able.techidaily.com/uniting-different-minecraft-worlds-bedrock-java-on-geysermc-server/"><u>Uniting Different Minecraft Worlds: Bedrock-Java on GeyserMC Server</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-make-an-impression-top-video-invitation-tools-for-ios-and-android/"><u>Updated 2024 Approved Make an Impression Top Video Invitation Tools for iOS and Android</u></a></li>
+<li><a href="https://techidaily.com/why-stellar-data-recovery-for-iphone-6-plus-takes-time-in-scanning-my-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why Stellar Data Recovery for iPhone 6 Plus takes time in scanning my iPhone? | Stellar</u></a></li>
+</ul></div>

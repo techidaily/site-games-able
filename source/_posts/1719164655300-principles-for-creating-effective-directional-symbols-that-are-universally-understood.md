@@ -1,7 +1,7 @@
 ---
 title: Principles for Creating Effective Directional Symbols that Are Universally Understood
-date: 2024-07-12T04:17:02.795Z
-updated: 2024-07-13T04:17:02.796Z
+date: 2024-08-22T22:17:20.697Z
+updated: 2024-08-23T22:17:20.697Z
 tags:
   - games
 categories:
@@ -54,6 +54,9 @@ Here’s how to get Steam on CrossOver:
 
  Return back to CrossOver’s window, and you’ll notice that you have Steam as one of your bottles. Leave Steam alone for now and download some dependencies you would need to run the games you get from Steam.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Install DirectX and DXVK
 
  DXVK is a Direct3D translation layer for running 3D applications, while [DirectX is a Microsoft API for improving software access to hardware](https://www.makeuseof.com/what-is-directx-why-important-for-gaming/) . You’ll need them both to run your games fluidly.
@@ -64,17 +67,27 @@ Here’s how to install them to your Steam bottle:
 2. Select**Install software into ‘Steam’,** and CrossOver will take you back to the Install page.  
 ![Steam Bottle context menu on CrossOver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steam-bottle-context-menu-on-crossover.jpeg)
 3. Type**DirectX** into the search bar, select**DirectX for Modern Games** , and click**Install** .
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 4. Follow the on-screen instructions to finish the installation.
 5. Once it’s finished, repeat the same method for DXVK. Download both**DXVOK (Builtin)** and**DXVK (Upstream)** .
 
  These two are very important because it lets Steam access your Mac’s GPU. If you try to install games without doing this, Steam will give you an error.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Set Up Steam, Log In, and Play
 
  You can now return back to Steam and input your username and password. Go to your library, select the game you want to play and install it.
 
 ![Knights of Pen & Paper II on CrossOver Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/knights-of-pen-paper-ii-on-crossover-steam.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
  Once the game is done installing, you’ll find it in your Steam bottle. You can launch it from there, or you can launch it directly from Steam if you like.
 
  If you run into any issues starting the game, you can try launching the game directly from its file by following the steps below:
@@ -84,6 +97,9 @@ Here’s how to install them to your Steam bottle:
 3. Navigate to**Manage > Browse local files** .  
 ![Knights of Pen and Paper 2 context menu on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/knights-of-pen-and-paper-2-context-menu-on-steam.jpeg)
 4. Find and select the .exe file for the game and hit**Return** on your keyboard to run it directly from there.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 
  You can have both your Mac and CrossOver versions of Steam open at the same time. However, it can get a little confusing and easy to mix the two up. You can differentiate them by hovering over their icons on the Dock; CrossOver’s Steam will say**wine64** , while Mac’s Steam will simply say**Steam** .
 
@@ -91,6 +107,9 @@ Here’s how to install them to your Steam bottle:
 
  Finally, watch out for your hardware. MacBook Airs are decent in processing power, but you could benefit a huge deal from using the extra memory from a MacBook Pro. We, therefore, recommend you use a MacBook Pro to run any serious AAA titles.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## CrossOver Offers More Power Than Parallels
 
  Parallels is more popular than CrossOver because it simulates the Windows OS and gives you the option to navigate it just like you would navigate a Windows-powered computer. While that’s great to offer some accessibility and familiarity, the tradeoff is power. Parallels uses about half of your computer’s resources since your Mac has to create a sandbox for it.
@@ -116,3 +135,45 @@ Here’s how to install them to your Steam bottle:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-deciphering-how-to-spot-your-video-enthusiasts-for-2024/"><u>[New] Deciphering How to Spot Your Video Enthusiasts for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-navigating-twitters-aspect-ratio-policies/"><u>[New] Navigating Twitter's Aspect Ratio Policies</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-direct-video-transfer-from-twitter-to-tumblr/"><u>[Updated] 2024 Approved  Direct Video Transfer From Twitter to Tumblr</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-bizarre-vertical-reversal-in-insta-videos-a-glitch/"><u>[Updated] Bizarre Vertical Reversal in Insta Videos – A Glitch?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-asmr-content-deep-dive-101/"><u>[Updated] In 2024, ASMR Content Deep Dive 101</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/2024s-gaming-console-hierarchy-the-definitive-guide/"><u>2024'S Gaming Console Hierarchy: The Definitive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/ace-the-art-of-fps-with-counter-strike-tips/"><u>Ace the Art of FPS with Counter-Strike Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-the-no-response-from-steam-servers-error/"><u>Addressing the No Response From Steam Servers Error</u></a></li>
+<li><a href="https://games-able.techidaily.com/cancel-confirm-claim-the-sequential-guide-to-unwanted-fortnite-purchases/"><u>Cancel, Confirm, Claim: The Sequential Guide to Unwanted Fortnite Purchases</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-misleading-game-spots-insights-galore/"><u>Decoding Misleading Game Spots: Insights Galore</u></a></li>
+<li><a href="https://games-able.techidaily.com/design-precision-for-performance-in-games/"><u>Design Precision for Performance in Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-hardware-and-downloads-for-bg3-lovers/"><u>Dive Into Hardware & Downloads for BG3 Lovers</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-windows-performance-to-fix-steam-games-error/"><u>Enhancing Windows Performance to Fix Steam Games Error</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-ps5-upgrades-the-best-9-add-ons/"><u>Essential PS5 Upgrades: The Best 9 Add-Ons</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-strategies-for-knowing-when-someone-has-viewed-your-gmail-message/"><u>Essential Strategies for Knowing When Someone Has Viewed Your Gmail Message</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-update-your-toshiba-laptops-drivers-on-a-windows-operating-system/"><u>Find and Update Your Toshiba Laptop's Drivers on a Windows Operating System</u></a></li>
+<li><a href="https://games-able.techidaily.com/forgoing-a-game-a-refund-approach-for-xbox-users/"><u>Forgoing a Game - A Refund Approach for Xbox Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/fun-ways-to-enjoy-ps5-without-a-dualshock/"><u>Fun Ways to Enjoy PS5 Without a DualShock</u></a></li>
+<li><a href="https://network-issues.techidaily.com/glitch-uncovered-nvidia-opengl-repaired/"><u>Glitch Uncovered: Nvidia OpenGL Repaired</u></a></li>
+<li><a href="https://games-able.techidaily.com/halt-steam-from-launching-immediately/"><u>Halt Steam From Launching Immediately</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-infinix-hot-40i-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Infinix Hot 40i in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-choose-an-ideal-surge-protector-for-home-electronics/"><u>How to Choose an Ideal Surge Protector for Home Electronics</u></a></li>
+<li><a href="https://games-able.techidaily.com/keeping-the-kingdom-secure-online-gaming-risks/"><u>Keeping the Kingdom Secure: Online Gaming Risks</u></a></li>
+<li><a href="https://games-able.techidaily.com/lenovos-stronghold-the-latest-on-the-legion-go/"><u>Lenovo's Stronghold: The Latest on the Legion Go</u></a></li>
+<li><a href="https://games-able.techidaily.com/level-up-essential-adjustments-to-boost-ps4/"><u>Level Up: Essential Adjustments to Boost PS4</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-your-switch-key-settings-to-adjust/"><u>Mastering Your Switch: Key Settings to Adjust</u></a></li>
+<li><a href="https://games-able.techidaily.com/reasons-that-keep-gamefi-from-capturing-the-masses/"><u>Reasons That Keep GameFi From Capturing the Masses</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reversing-the-impact-of-rare-video-formats/"><u>Reversing the Impact of Rare Video Formats</u></a></li>
+<li><a href="https://games-able.techidaily.com/safe-spaces-online-educating-youth-about-risks-like-discord/"><u>Safe Spaces Online: Educating Youth About Risks Like Discord</u></a></li>
+<li><a href="https://games-able.techidaily.com/size-shapes-strategy-the-impact-on-game-publishing-giants-strategic-analysis-report/"><u>Size Shapes Strategy: The Impact on Game Publishing Giants? [Strategic Analysis Report]</u></a></li>
+<li><a href="https://games-able.techidaily.com/solving-create-file-failed-error-30005/"><u>Solving Create File Failed Error 30005</u></a></li>
+<li><a href="https://games-able.techidaily.com/sony-ps5-audio-via-bluetooth-technology/"><u>Sony PS5 Audio via Bluetooth Technology</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/tailored-titles-for-your-youtube-success/"><u>Tailored Titles for Your YouTube Success</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-destination-for-steam-shot-savings/"><u>The Destination for Steam Shot Savings</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essential-manual-for-xbox-one-connections/"><u>The Essential Manual for Xbox One Connections</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-microsoftblizzard-pact-could-it-be-a-win-win-or-a-risk/"><u>The Microsoft/Blizzard Pact: Could It Be a Win-Win or a Risk?</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-google-play-games-console-compatibility/"><u>Understanding Google Play Games Console Compatibility</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unearthing-the-potential-in-magixs-image-sorter/"><u>Unearthing the Potential in MAGIX's Image Sorter</u></a></li>
+</ul></div>

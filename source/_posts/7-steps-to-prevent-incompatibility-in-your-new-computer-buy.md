@@ -1,7 +1,7 @@
 ---
 title: 7 Steps to Prevent Incompatibility in Your New Computer Buy
-date: 2024-07-12T04:18:22.845Z
-updated: 2024-07-13T04:18:22.845Z
+date: 2024-08-22T22:16:03.052Z
+updated: 2024-08-23T22:16:03.052Z
 tags:
   - games
 categories:
@@ -40,6 +40,9 @@ thumbnail: https://thmb.techidaily.com/9a22b51aefec4c58f2a1f5a5ec87dbc3931413822
 
  But when upgrading a PC with new components, you might want to consider how your older CPU will play with a newer GPU or vice versa. With GPU Check, you can compare CPU and GPU combinations against one another and see how the changes affect performance. Of course, it's a general guide; CPU and GPU age, cooling, and other factors will affect your outright performance, but it's a good gauge, nonetheless.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Newegg Custom PC Builder
 
  PCPartPicker tops the list because it's [the biggest and best of the PC hardware compatibility bunch](https://www.makeuseof.com/best-custom-pc-builder-website/) , but the [Newegg Custom PC Builder](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.newegg.com%2Ftools%2Fcustom-pc-builder) is also worth a shout.
@@ -50,6 +53,9 @@ thumbnail: https://thmb.techidaily.com/9a22b51aefec4c58f2a1f5a5ec87dbc3931413822
 
 ![newegg ai pc part picker high end custom pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/newegg-ai-pc-part-picker-high-end-custom-pc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  I switched up the prompt to "budget $700, want to play racing games, would like RGB" to add some challenge. The three custom PC builds were a little more hit-and-miss but would still run some racing games at 1080p (though not much RGB on show!).
 
 ![newegg ai pc part picker racing game build budget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/newegg-ai-pc-part-picker-racing-game-build-budget.jpg)
@@ -64,6 +70,9 @@ thumbnail: https://thmb.techidaily.com/9a22b51aefec4c58f2a1f5a5ec87dbc3931413822
 
 ![google bard ai custom pc build prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-bard-ai-custom-pc-build-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Bard suggested the following build for a PC that can "play FPS games at least 1080p 60FPS" with "a high-end CPU and good GPU."
 
 * **CPU** : I [ntel Core i5-12600KF](https://www.amazon.com/Intel-i5-12600KF-Desktop-Processor-Unlocked/dp/B09FXFJW2F?linkCode=ll1&tag=muo-v2-53vo5f4-20&linkId=1a6fdfcfd07f1dc95f9124bd1a532c0a&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU2027728&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fways-check-pc-parts-compatible-before-buy%2F&asc%5Fcampaign=Evergreen)
@@ -83,8 +92,15 @@ thumbnail: https://thmb.techidaily.com/9a22b51aefec4c58f2a1f5a5ec87dbc3931413822
 
 ![google bard checks custom pc build list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-bard-checks-custom-pc-build-list.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In both scenarios, Google Bard helped figure out which PC components were compatible.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. Power Supply Calculator
 
  A power supply unit (PSU) calculator is a handy tool that helps you figure out the size of PSU your custom PC will need. There are [several power supply unit calculators](https://www.makeuseof.com/best-online-power-supply-calculators/) , including options from OuterVision, Cooler Master, and Be Quiet!, all of which can help you figure out what you need.
@@ -95,6 +111,10 @@ thumbnail: https://thmb.techidaily.com/9a22b51aefec4c58f2a1f5a5ec87dbc3931413822
 
  On some forums, you're encouraged to post your proposed build and ask for feedback or use the search function to see if someone has already asked about the compatibility of your selected components. If you find a build similar to yours, you can check if it worked or not, while if you're still in the planning stages, you might receive friendly advice regarding your upcoming build.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## Always Check Your PC Hardware Compatibility Before Buying
 
  Building a new PC or upgrading your existing rig can feel a little overwhelming. We've all been there; will that new CPU play nicely with the motherboard? Should you upgrade your GPU at the same time as your RAM?
@@ -119,3 +139,49 @@ thumbnail: https://thmb.techidaily.com/9a22b51aefec4c58f2a1f5a5ec87dbc3931413822
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-from-live-to-recording-maximizing-your-gaming-sessions-value/"><u>[New] 2024 Approved  From Live to Recording  Maximizing Your Gaming Sessions' Value</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-hyper-clear-playtime-best-ultra-hd-hdmi-21-gaming-screens/"><u>[New] 2024 Approved  Hyper-Clear Playtime  Best Ultra HD (HDMI 2.1) Gaming Screens</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-stealthy-facebook-video-navigator/"><u>[New] In 2024, Stealthy Facebook Video Navigator</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-posting-panoramas-a-step-by-step-approach/"><u>[New] In 2024, The Ultimate Guide to Posting Panoramas  A Step-By Step Approach</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-comprehensive-tutorial-inserting-text-into-photographs-on-oses/"><u>[Updated] 2024 Approved  Comprehensive Tutorial  Inserting Text Into Photographs on OSes</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-visionary-tech-showcase-the-finest-oculus-experiences/"><u>[Updated] Visionary Tech Showcase  The Finest Oculus Experiences</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-mastering-the-microscope-effect-for-enhanced-video-conferencing/"><u>2024 Approved  Mastering the Microscope Effect for Enhanced Video Conferencing</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-samsung-galaxy-s23plus-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Samsung Galaxy S23+</u></a></li>
+<li><a href="https://games-able.techidaily.com/conquer-the-virtual-realm-with-these-games/"><u>Conquer the Virtual Realm with These Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/correcting-debit-card-validation-mistakes-on-ps5/"><u>Correcting Debit Card Validation Mistakes on PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/creating-a-hassle-free-setup-on-switch-console/"><u>Creating a Hassle-Free Setup on Switch Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/crushing-gaming-bugs-the-top-10-causes-of-video-game-failures/"><u>Crushing Gaming Bugs: The Top 10 Causes of Video Game Failures</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-xboxs-enforcement-strategy/"><u>Decoding Xbox's Enforcement Strategy</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-documentation-with-ai-companions/"><u>Effortless Documentation with AI Companions</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-fixes-for-steam-authentication-errors-in-rust/"><u>Essential Fixes for Steam Authentication Errors in Rust</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-remedies-to-rejuvenate-a-locked-steam-service/"><u>Essential Remedies to Rejuvenate a Locked Steam Service</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/from-lurkers-to-leaders-elevate-your-facebook-game-for-2024/"><u>From Lurkers to Leaders  Elevate Your Facebook Game for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-vintage-to-verified-microsoft-blizzard-reviving-7-gems/"><u>From Vintage to Verified: Microsoft, Blizzard - Reviving 7 Gems</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-realme-11x-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Realme 11X 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-obtain-canon-printer-drivers-mx280-for-windows-versions-11-8-and-7/"><u>How to Obtain Canon Printer Drivers (MX280) for Windows Versions 11, 8 & 7</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-samsung-galaxy-m34-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Samsung Galaxy M34 for Free? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/ignite-conversations-tactics-for-facebook-impact-for-2024/"><u>Ignite Conversations  Tactics for Facebook Impact for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Itel P40? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-skyrocketing-sales-with-high-roi-in-dynamic-fb-ad-creations/"><u>In 2024, Skyrocketing Sales with High ROI in Dynamic FB Ad Creations</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-benefits-of-quick-resume-on-new-xbox-console/"><u>Navigating the Benefits of Quick Resume on New Xbox Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/old-pcs-new-life-experience-atlasos/"><u>Old PCs, New Life: Experience AtlasOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-unlocked-twitch-channels-await-you/"><u>Prime Unlocked: Twitch Channels Await You</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-delights-top-ea-play-picks/"><u>PS5 Delights - Top EA Play Picks</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-past-meets-future-a-comparison/"><u>PS5 Past Meets Future: A Comparison</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-vs-budget-gaming-pc-which-is-better/"><u>PS5 Vs. Budget Gaming PC: Which Is Better?</u></a></li>
+<li><a href="https://games-able.techidaily.com/revitalize-controller-functionality-with-a-new-joystick/"><u>Revitalize Controller Functionality with a New Joystick</u></a></li>
+<li><a href="https://games-able.techidaily.com/safety-checklist-a-kids-guide-to-ps5-security/"><u>Safety Checklist: A Kid’s Guide to PS5 Security</u></a></li>
+<li><a href="https://games-able.techidaily.com/speedy-game-playtime-curate-these-top-20-phones-games/"><u>Speedy Game Playtime: Curate These Top 20 Phones Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-cracks-open-now-closes-gaming-payout-holes/"><u>Steam Cracks Open, Now Closes Gaming Payout Holes</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-profile-metamorphosis-your-riot-identity-transition/"><u>Streamlining Profile Metamorphosis: Your Riot Identity Transition</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-the-steam-deck-for-enhanced-typing/"><u>Streamlining the Steam Deck for Enhanced Typing</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-beginners-blueprint-to-dominate-new-york-times-strands-challenge/"><u>The Beginner’s Blueprint to Dominate New York Times' Strands Challenge</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-zte-blade-a73-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your ZTE Blade A73 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-strategies-for-limiting-steam-web-helpers-ram-use/"><u>Top Strategies for Limiting Steam Web Helper's RAM Use</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-potential-a-comprehensive-guide-to-customize-xbox-game-bar-settings/"><u>Unraveling Potential: A Comprehensive Guide to Customize Xbox Game Bar Settings</u></a></li>
+<li><a href="https://games-able.techidaily.com/wi-fi-free-the-creme-de-la-creme-of-mobile-gaming-on-idevices/"><u>Wi-Fi Free: The Crème De La Créme of Mobile Gaming on iDevices</u></a></li>
+</ul></div>

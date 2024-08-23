@@ -1,7 +1,7 @@
 ---
 title: A New Era of Gaming With Meta Quest 3
-date: 2024-07-12T04:19:15.389Z
-updated: 2024-07-13T04:19:15.389Z
+date: 2024-08-22T22:15:12.247Z
+updated: 2024-08-23T22:15:12.247Z
 tags:
   - games
 categories:
@@ -113,6 +113,9 @@ But let me back up for a moment.
 
  So that's where I'm at, and I tell you this because I came into this review with a few key frustrations of the Quest 2 that I had hoped the Quest 3 would address: audio, field of view, and passthrough camera. And I'm pleased to say it has—but I ended up being blown away most by the Mixed Reality features. So, let's jump straight into that.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## Mixed Reality: A Mixed Bag, But Still Magic
 
  I’ve been quite skeptical of any Augmented or Mixed Reality so far. Anyone who’s tried the Microsoft HoloLens would probably agree. The lightweight headsets designed solely for Augmented Reality offer such a tiny field of view that gaining any sense of immersion is impossible. Objects disappear outside of the tiny window in the middle of your vision.
@@ -133,6 +136,9 @@ So, how good are the Mixed Reality features of the Quest 3?
 
 ![quest 3 clip - making coffee](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/quest-3-clip-making-coffee.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  James Bruce / MakeUseOf
 
  At a basic level, at any time during regular VR use, you can double-tap your headset to pause and view the full-color passthrough camera view of the world. The Quest 2 offered something similar, but only in black and white, with much distortion. A classic litmus test was being able to read your phone. You couldn’t do that in the Quest 2\. But you can comfortably do that in the Quest 3\. Double-tap the side, read your notification (or say hi to the postman), then jump back into VR. It's definitely a useful feature, but hardly game-changing.
@@ -143,6 +149,10 @@ So, how good are the Mixed Reality features of the Quest 3?
 
 ![meta quest 3 - side view](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/meta-quest-3-side-view.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
  James Bruce / MakeUseOf
 
  That said, the visual quality of your Mixed Reality experience will vary significantly depending on the light level. Like all small camera sensors, the lower the light levels, the grainier the image. Mixed Reality is best used in a well-lit environment.
@@ -157,6 +167,9 @@ So, how good are the Mixed Reality features of the Quest 3?
 
 ![quest 3 clips - puzzling places](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/quest-3-clips-puzzling-places.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
  James Bruce / MakeUseOf
 
 [Puzzling Places](https://www.meta.com/en-gb/experiences/3931148300302917/) has you constructing a 3D photogrammetry puzzle of real-world objects and locations. It’s a little messy with pieces strew around your environment, but I enjoy sitting there and doing a puzzle at the kitchen table, and still being able to engage with family.
@@ -209,30 +222,45 @@ So, how good are the Mixed Reality features of the Quest 3?
 
  But I probably won’t need to do that to Quest 3\. It’s by no means perfect, but it’s a lot better, and passes the bar of what I’d define as acceptable. And if you’re already happy with the audio on the Quest 2, you definitely won’t be disappointed here.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Comfort
 
  Little has changed to the basic head strap. It’s an elastic fabric strap that you can tighten around the back of your skull and on top. You’ll either hate it or tolerate it, but you won't love it. I’m in the latter camp, so if I find a better one, I’ll replace it, but it’s good enough for now.
 
 ![meta quest 3 - headstrap adjustment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/meta-quest-3-headstrap-adjustment.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  James Bruce / MakeUseOf
 
  The facial interface is a soft and breathable fabric, and I experience only a little light leakage around my nose. If you're planning on a workout in VR, you'll probably want to replace with this silicone as soon as possible.
 
 ![meta quest 3 - strap overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/meta-quest-3-strap-overview.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  James Bruce / MakeUseOf
 
  You’ll also find both physical IPD adjustment and four levels of eye relief, meaning you can push the screen away from your eyes if needed—usually if you're wearing glasses. Bear in mind this will reduce your field of view, though.
 
  It's difficult to comment too much on the comfort of any VR headset because everyone has a unique facial shape; what works for me may not work for you. There's nothing remarkably innovative about the design of the Quest 3 facial interface, but nor have I had any issues after extended sessions of around two hours.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Screen Quality
 
  In terms of resolution, the dual LCD panels natively offer up to 2064 x 2208 per eye, or about twice as many pixels as HD. However, most of the time, that’s not the resolution you’ll see when you look through the display. During standalone use, the UI and most games target 1680 x 1760px. That’s the standard 1x resolution scale.
 
 ![meta quest 3 - lenses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/meta-quest-3-lenses.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
  James Bruce / MakeUseOf
 
  That’s not to say developers can’t target higher resolutions (1.1x or 1.2x, for instance), but it’s up to them to support that, and it’ll only be possible if their render pipeline is otherwise optimized enough to handle that higher resolution reliably. You can’t, as a user, go into settings, and force the resolution higher.
@@ -249,6 +277,9 @@ So, how good are the Mixed Reality features of the Quest 3?
 
  The visual quality is by no means perfect, or even the best I’ve seen yet on a VR headset (I’ll leave that award for the PSVR2), but it is indeed good enough, and a clear improvement over the previous Quest 2.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Battery Life
 
  Sadly, battery life is one area where the Quest 3 appears to have suffered compared to its predecessor, despite the larger 19.44Wh capacity compared to the Quest 2’s 14.33Wh.
@@ -257,6 +288,9 @@ So, how good are the Mixed Reality features of the Quest 3?
 
  Meta sells an optional Elite Strap with an extra battery that should double your playtime, but it’s overpriced at $130, and there appear to be some early bugs, so I’d hold off on that for now, at least until we have some decent third-party alternatives to compare.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Quest Link
 
  If you have a desktop PC that’s powerful enough to run VR, you might be wondering whether you should buy a tethered headset or a standalone one like the Quest. But you needn’t pick between the two, because with the [Quest Link feature](https://www.makeuseof.com/oculus-quest-2-into-windows-pc-vr-headset/) , your Quest 3 can become a tethered headset, either via a suitable USB-C or wirelessly through a Wi-Fi 6 router.
@@ -265,6 +299,9 @@ So, how good are the Mixed Reality features of the Quest 3?
 
  However, at the time of writing, there appears to be no improvement in Quest Link compared to the same feature on Quest 2\. Don’t buy the Quest 3 if your only use case is PCVR through the Quest Link.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## Meta Quest Remote Desktop
 
  Separate from Quest Link—which allows you to harness the power of your desktop PC to run VR experiences—the Remote Desktop app allows you to bring your basic desktop environment into VR or AR (and can also be used in Horizon Workrooms). It can be dragged around your virtual environment as just another window, offering an intriguing but perhaps niche use case. The client software is available for both Windows and Mac OS.
@@ -279,6 +316,9 @@ So, how good are the Mixed Reality features of the Quest 3?
 
  Another alternative to both the Quest Link and Remote Desktop feature is [Virtual Desktop](https://www.meta.com/en-gb/experiences/2017050365004772/) , which is a paid application from a third-party developer. In my experience, it’s more reliable and allows you to interact with your desktop over a fast Wi-Fi connection, as well as playing any PCVR games from Steam or Oculus. You can even emulate a gamepad for regular flat games. However, using the Touch controllers as an Xbox gamepad isn’t exactly intuitive with half your buttons on the other thumb, so you’d better off just pairing a gamepad with your Quest 3 if you’ll be flat gaming.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Should You Buy the Meta Quest 3?
 
  I’m blown away by the Mixed Reality capabilities of the Meta Quest 3, and that’s coming from a hardened VR gamer and cynical MR/AR/XR skeptic. There are still kinks to work out with the legacy boundary system operating seemingly in tandem with new room scanning features (arguably, you don't need a boundary at all if the game lets you see your surroundings at all times, but it still insists on you making one), but it's early days. We've yet to see the full potential of persistent "Augments" realized, nor are there any games that take advantage of your environment, yet. But still, I'm blown away by what is here.
@@ -321,3 +361,49 @@ So, how good are the Mixed Reality features of the Quest 3?
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-pro-tips-for-immediate-use-of-io-screen-recorder/"><u>[New] 2024 Approved  Pro Tips for Immediate Use of IO Screen Recorder</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/4-things-you-must-know-about-iphone-14-pro-activation-lock-by-drfone-ios/"><u>4 Things You Must Know About iPhone 14 Pro Activation Lock</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-vivo-y100-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Vivo Y100 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/cross-platform-content-a-new-dawn-for-gaming/"><u>Cross-Platform Content: A New Dawn for Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/desktop-pcs-for-work-rigs-for-recreation/"><u>Desktop PCs for Work, Rigs for Recreation</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-infinix-hot-30-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Infinix Hot 30 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-gaming-top-9-sony-ps5-perks/"><u>Elevating Gaming: Top 9 Sony PS5 Perks</u></a></li>
+<li><a href="https://games-able.techidaily.com/embrace-the-great-outdoors-augmented-style/"><u>Embrace the Great Outdoors, Augmented Style</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-hevc-files-on-samsung-galaxy-s23-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Failed to play HEVC files on Samsung Galaxy S23</u></a></li>
+<li><a href="https://games-able.techidaily.com/graphics-processor-market-should-we-brace-for-rise/"><u>Graphics Processor Market: Should We Brace for Rise?</u></a></li>
+<li><a href="https://games-able.techidaily.com/harmonious-hearing-balancing-game-and-home-sounds-on-xbox/"><u>Harmonious Hearing: Balancing Game and Home Sounds on Xbox</u></a></li>
+<li><a href="https://article-tips.techidaily.com/harnessing-the-power-of-iphones-shutter-speed-for-movement/"><u>Harnessing the Power of iPhone's Shutter Speed for Movement</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-much-do-you-really-earn-the-podcaster-perspective-for-2024/"><u>How Much Do You Really Earn? - The Podcaster Perspective for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-honor-100-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Honor 100</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-vivo-g2-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Vivo G2</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-reset-and-start-screen-drivers-correctly-on-win10/"><u>How to Reset and Start Screen Drivers Correctly on Win10</u></a></li>
+<li><a href="https://games-able.techidaily.com/hrtfs-contribution-to-audio-realism-in-valorant-games/"><u>HRTF's Contribution to Audio Realism in Valorant Games</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-lava-yuva-3-pro-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Lava Yuva 3 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-from-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server From Apple iPhone 13 Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-xiaomi-redmi-note-13-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Xiaomi Redmi Note 13 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://games-able.techidaily.com/intelligent-ai-crime-scene-enigmas-online/"><u>Intelligent AI: Crime Scene Enigmas Online</u></a></li>
+<li><a href="https://games-able.techidaily.com/investing-in-illusions-understanding-high-cost-vr-realities/"><u>Investing in Illusions: Understanding High-Cost VR Realities</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-increased-speed-in-nitro-noticeable/"><u>Is Increased Speed in Nitro Noticeable?</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-nintendo-switch-online-expansion-pack-worth-buying/"><u>Is Nintendo Switch Online Expansion Pack Worth Buying?</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-mobile-gaming-steam-games-on-android-and-ios-via-steam-link/"><u>Mastering Mobile Gaming: Steam Games on Android & iOS via Steam Link</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-ps3-gaming-30-essential-pc-emulators/"><u>Mastering PS3 Gaming: 30 Essential PC Emulators</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-game-reviewing-in-the-steam-world/"><u>Mastering the Art of Game Reviewing in the Steam World</u></a></li>
+<li><a href="https://games-able.techidaily.com/murder-mysteries-in-cyberspace-with-ai-assistance/"><u>Murder Mysteries in Cyberspace with AI Assistance</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-unleash-your-creativity-how-to-edit-videos-with-quicktime-on-mac-for-2024/"><u>New Unleash Your Creativity How to Edit Videos with QuickTime on Mac for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-visuals-with-xboxs-calibration-utility/"><u>Optimizing Visuals with Xbox's Calibration Utility</u></a></li>
+<li><a href="https://games-able.techidaily.com/pc-titans-revealed-by-google-play-game-beta/"><u>PC Titans Revealed by Google Play Game Beta</u></a></li>
+<li><a href="https://games-able.techidaily.com/pro-gaming-secrets-scoring-the-best-apple-arcade-offerings/"><u>Pro Gaming Secrets: Scoring the Best Apple Arcade Offerings</u></a></li>
+<li><a href="https://games-able.techidaily.com/psp-tricks-for-gaming-like-nintendos-famicom/"><u>PSP Tricks for Gaming Like Nintendo's Famicom</u></a></li>
+<li><a href="https://games-able.techidaily.com/rating-roulette-why-game-judgments-matter-less/"><u>Rating Roulette: Why Game Judgments Matter Less</u></a></li>
+<li><a href="https://games-able.techidaily.com/sensible-gpu-purchase-for-visuals/"><u>Sensible GPU Purchase for Visuals</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-for-enhancing-your-playstation-experience/"><u>Steps for Enhancing Your PlayStation Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-perfect-gloss-a-ps5-sanitation-guide/"><u>The Perfect Gloss: A PS5 Sanitation Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-large-scale-tiktok-content-acquisition-for-2024/"><u>The Ultimate Guide to Large-Scale TikTok Content Acquisition for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-10-gaming-treasures-all-fun-and-free-no-ad-interrucion/"><u>Top 10 Gaming Treasures - All Fun and Free, No Ad Interrución</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-display-needs-skip-the-hdr-route/"><u>Understanding Display Needs: Skip the HDR Route</u></a></li>
+<li><a href="https://games-able.techidaily.com/uniting-different-minecraft-worlds-bedrock-java-on-geysermc-server/"><u>Uniting Different Minecraft Worlds: Bedrock-Java on GeyserMC Server</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/video-aspect-ratio-conversion-tips-and-tricks/"><u>Video Aspect Ratio Conversion Tips and Tricks</u></a></li>
+</ul></div>

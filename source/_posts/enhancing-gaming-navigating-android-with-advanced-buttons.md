@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Gaming: Navigating Android with Advanced Buttons"
-date: 2024-07-12T04:14:21.904Z
-updated: 2024-07-13T04:14:21.904Z
+date: 2024-08-22T22:19:25.440Z
+updated: 2024-08-23T22:19:25.440Z
 tags:
   - games
 categories:
@@ -34,13 +34,23 @@ thumbnail: https://thmb.techidaily.com/8a309f6aebab825a6cd0baff1d0b8550d45fadce3
 
  For example, moving the analog stick can simulate dragging your thumb around the left side of the screen. Pressing the**A** button can imitate tapping on the right side of the screen. The task is easiest for games with a virtual game controller spread across the screen, since you can assign a physical button to the location of their virtual counterparts.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ## How to Get Started With Button Mapping on Android
 ![Mantis prompting you to enable USB debugging.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-button-mapping-usb-debugging.png)
 
 ![Enabling USB debugging on Android.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/android-developer-settings-usb-debugging.png)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Mantis button mapping app prompting you to enable overlay settings.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-button-mapping-allow-overlay-settings.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Mantis uses an pop-up window to help you enter a pairing code.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-overlay-settings-pair.png)
 
 Close
@@ -75,14 +85,23 @@ Close
 
 ![Adding support for a game within Mantis Pro.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-pro-add-games.png)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Mantis Gamepad Pro with three games added.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-three-games-added.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 Close
 
  When the game opens, you will see a Mantis widget hovering on one side of the screen. Tap this widget to bring up the controller options.
 
 ![Tap the floating Mantis button to begin mapping buttons.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-floating-button.png)
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
  You can select each of the inputs on your controller, such as the analog sticks, face buttons, and triggers. You then drag where on the screen you want the button press to correspond to. Mantis Gamepad Pro also includes support for gestures, so you can make pressing a button the equivalent of swiping rather than tapping.
 
 ![Buttons mapped using Mantis Gamepad Pro.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-button-map-controls.png)
@@ -110,3 +129,48 @@ Close
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-bite-sized-delights-10-viral-eats-from-tiktok-for-2024/"><u>[New] Bite-Sized Delights  10 Viral Eats From TikTok for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-create-professional-fb-ad-videos-leverage-free-creative-toolkit/"><u>[New] Create Professional FB Ad Videos  Leverage Free Creative Toolkit</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-2023s-top-pick-of-affordable-live-stream-tech-for-every-platform-user/"><u>[New] In 2024, 2023'S Top Pick of Affordable Live Stream Tech for Every Platform User</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-ultimate-guide-to-mac-based-sound-capture-in-audacity-for-2024/"><u>[New] The Ultimate Guide to Mac-Based Sound Capture in Audacity for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-highest-hits-facebooks-favorite-videos/"><u>[Updated] 2024 Approved  Highest Hits  Facebook's Favorite Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pinnacle-photo-the-leading-6-4k-dslr-cameras-of-the-year/"><u>[Updated] Pinnacle Photo  The Leading 6 4K DSLR Cameras of the Year</u></a></li>
+<li><a href="https://games-able.techidaily.com/460plus-rapid-response-monitor-innocn-39g1-r/"><u>$460+ Rapid Response Monitor: InnoCN 39G1 R</u></a></li>
+<li><a href="https://games-able.techidaily.com/11-exciting-gaming-options-without-wifi/"><u>11 Exciting Gaming Options Without WiFi</u></a></li>
+<li><a href="https://games-able.techidaily.com/2023-ifa-unveiled-top-future-gaming-tech-awaits/"><u>2023 IFA Unveiled: Top Future Gaming Tech Awaits</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-chuckle-o-meter-starts-with-zero-mememasters-kit/"><u>2024 Approved  Chuckle-O-Meter Starts with Zero – MemeMasters Kit</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-movavi-screen-recorder-11/"><u>2024 Approved  Movavi Screen Recorder 11</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-strategies-for-compelling-facebook-video-content/"><u>2024 Approved  Strategies for Compelling Facebook Video Content</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-must-do-tips-for-a-lasting-reliable-switch-experience/"><u>5 Must-Do Tips for a Lasting, Reliable Switch Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/6-unique-methods-for-playing-on-your-ps5-console/"><u>6 Unique Methods for Playing on Your PS5 Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-reasons-to-rethink-mobile-game-advantages/"><u>7 Reasons to Rethink Mobile Game Advantages</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-gamers-guide-to-ps4-hardware-restoration/"><u>A Gamer's Guide to PS4 Hardware Restoration</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-guide-to-live-game-highlight-extraction/"><u>A Guide to Live Game Highlight Extraction</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-passionate-pursuit-uncovering-stunning-indie-titles/"><u>A Passionate Pursuit: Uncovering Stunning Indie Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-showcase-of-nintendos-finest-switch-docks/"><u>A Showcase of Nintendo's Finest Switch Docks</u></a></li>
+<li><a href="https://games-able.techidaily.com/ace-the-game-preorder-limited-marvels-spidey-ps5/"><u>Ace the Game - Preorder Limited Marvel's Spidey PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/ace-your-games-with-optimal-windows-fps-settings/"><u>Ace Your Games with Optimal Windows FPS Settings</u></a></li>
+<li><a href="https://games-able.techidaily.com/are-old-docks-suitable-for-nintendos-new-switch-oled/"><u>Are Old Docks Suitable for Nintendo's New Switch OLED?</u></a></li>
+<li><a href="https://games-able.techidaily.com/artistry-in-rhythm-stylus-or-pointer/"><u>Artistry in Rhythm: Stylus or Pointer?</u></a></li>
+<li><a href="https://games-able.techidaily.com/avert-steam-troubles-using-efficient-solution-techniques/"><u>Avert Steam Troubles Using Efficient Solution Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/balancing-performance-and-heat-in-gaming-gpus/"><u>Balancing Performance & Heat in Gaming GPUs</u></a></li>
+<li><a href="https://games-able.techidaily.com/banish-buffering-blockers-for-bonanza-battle-beginnings/"><u>Banish Buffering Blockers for Bonanza Battle Beginnings</u></a></li>
+<li><a href="https://games-able.techidaily.com/beat-the-heat-8-sizzling-ar-games/"><u>Beat the Heat - 8 Sizzling AR Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719163487039-become-a-master-at-nyts-strands-play-and-win/"><u>Become a Master at NYT’s Strands: Play & Win!</u></a></li>
+<li><a href="https://games-able.techidaily.com/beginners-path-to-resetting-a-ps4-console/"><u>Beginner's Path to Resetting a PS4 Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/behind-the-scenes-how-to-identify-prime-discord-communities/"><u>Behind the Scenes: How to Identify Prime Discord Communities</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-of-tech-mwc-and-makeuseof-awards-showcase/"><u>Best of Tech: MWC & MakeUseOf Awards Showcase</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-oppo-reno-10-proplus-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Oppo Reno 10 Pro+ 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-stop-the-videotdrfailure-bsod-error-in-windows/"><u>How to Stop the 'Video_TDR_Failure' BSOD Error in Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172625751-immerse-in-gaming-the-power-of-oled-technology/"><u>Immerse in Gaming: The Power of OLED Technology</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-honor-magic-6-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Honor Magic 6 Pro Devices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/navigating-through-mw3s-challenges-tackling-dev-error-e6068-this-year/"><u>Navigating Through MW3's Challenges: Tackling Dev Error E6068 This Year</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-add-selective-color-effect-to-your-videos-using-filmora/"><u>New In 2024, Add Selective Color Effect to Your Videos Using Filmora</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719167714153-no-internet-required-here-are-your-best-game-choices-on-ios/"><u>No Internet Required? Here Are Your Best Game Choices on iOS!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-evolution-of-control-with-b550-xts-advanced-voice/"><u>The Evolution of Control with B550-XT’s Advanced Voice</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-omnicharge-omni-e-book-in-depth-analysis-of-a-multi-purpose-portable-power-bank-with-cutting-edge-qi-wireless-charge/"><u>The Omnicharge Omni E-Book: In-Depth Analysis of a Multi-Purpose Portable Power Bank with Cutting-Edge Qi Wireless Charge</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719159121499-upgrade-your-game-cabinet-with-broad-bold-framing/"><u>Upgrade Your Game Cabinet with Broad, Bold Framing</u></a></li>
+</ul></div>

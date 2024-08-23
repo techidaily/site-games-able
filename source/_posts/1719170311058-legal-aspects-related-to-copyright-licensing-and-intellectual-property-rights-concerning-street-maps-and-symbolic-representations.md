@@ -1,7 +1,7 @@
 ---
 title: Legal Aspects Related to Copyright, Licensing, and Intellectual Property Rights Concerning Street Maps and Symbolic Representations;
-date: 2024-07-12T04:18:45.406Z
-updated: 2024-07-13T04:18:45.406Z
+date: 2024-08-22T22:15:41.341Z
+updated: 2024-08-23T22:15:41.341Z
 tags:
   - games
 categories:
@@ -54,6 +54,9 @@ Here’s how to get Steam on CrossOver:
 
  Return back to CrossOver’s window, and you’ll notice that you have Steam as one of your bottles. Leave Steam alone for now and download some dependencies you would need to run the games you get from Steam.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## Install DirectX and DXVK
 
  DXVK is a Direct3D translation layer for running 3D applications, while [DirectX is a Microsoft API for improving software access to hardware](https://www.makeuseof.com/what-is-directx-why-important-for-gaming/) . You’ll need them both to run your games fluidly.
@@ -64,17 +67,27 @@ Here’s how to install them to your Steam bottle:
 2. Select**Install software into ‘Steam’,** and CrossOver will take you back to the Install page.  
 ![Steam Bottle context menu on CrossOver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steam-bottle-context-menu-on-crossover.jpeg)
 3. Type**DirectX** into the search bar, select**DirectX for Modern Games** , and click**Install** .
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Follow the on-screen instructions to finish the installation.
 5. Once it’s finished, repeat the same method for DXVK. Download both**DXVOK (Builtin)** and**DXVK (Upstream)** .
 
  These two are very important because it lets Steam access your Mac’s GPU. If you try to install games without doing this, Steam will give you an error.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Set Up Steam, Log In, and Play
 
  You can now return back to Steam and input your username and password. Go to your library, select the game you want to play and install it.
 
 ![Knights of Pen & Paper II on CrossOver Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/knights-of-pen-paper-ii-on-crossover-steam.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Once the game is done installing, you’ll find it in your Steam bottle. You can launch it from there, or you can launch it directly from Steam if you like.
 
  If you run into any issues starting the game, you can try launching the game directly from its file by following the steps below:
@@ -84,6 +97,10 @@ Here’s how to install them to your Steam bottle:
 3. Navigate to**Manage > Browse local files** .  
 ![Knights of Pen and Paper 2 context menu on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/knights-of-pen-and-paper-2-context-menu-on-steam.jpeg)
 4. Find and select the .exe file for the game and hit**Return** on your keyboard to run it directly from there.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 
  You can have both your Mac and CrossOver versions of Steam open at the same time. However, it can get a little confusing and easy to mix the two up. You can differentiate them by hovering over their icons on the Dock; CrossOver’s Steam will say**wine64** , while Mac’s Steam will simply say**Steam** .
 
@@ -91,6 +108,9 @@ Here’s how to install them to your Steam bottle:
 
  Finally, watch out for your hardware. MacBook Airs are decent in processing power, but you could benefit a huge deal from using the extra memory from a MacBook Pro. We, therefore, recommend you use a MacBook Pro to run any serious AAA titles.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## CrossOver Offers More Power Than Parallels
 
  Parallels is more popular than CrossOver because it simulates the Windows OS and gives you the option to navigate it just like you would navigate a Windows-powered computer. While that’s great to offer some accessibility and familiarity, the tradeoff is power. Parallels uses about half of your computer’s resources since your Mac has to create a sandbox for it.
@@ -116,3 +136,66 @@ Here’s how to install them to your Steam bottle:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-secure-storage-safeguarding-your-mov-videos-in-win-11/"><u>[New] 2024 Approved  Secure Storage  Safeguarding Your MOV Videos in Win 11</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-art-of-finding-instagram-filters-on-a-budget/"><u>[New] 2024 Approved  The Art of Finding Instagram Filters on a Budget</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-bargain-aerial-instruments-top-500-drones-under-price/"><u>[New] Bargain Aerial Instruments  Top $500 Drones Under Price</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-webcam-creation-video-making-for-mac-users-for-2024/"><u>[New] Webcam Creation  Video Making for Mac Users for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-latest-twitter-videos-that-exploded-online/"><u>[Updated] In 2024, Latest Twitter Videos That Exploded Online</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-profile-persona-painting-crafting-an-animated-imagery-for-2024/"><u>[Updated] Profile Persona Painting  Crafting an Animated Imagery for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-step-by-step-shortcut-for-easy-mac-screen-recording-for-2024/"><u>[Updated] Step-by-Step Shortcut for Easy Mac Screen Recording for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-digital-delinquency-games-comparable-to-gta-v/"><u>2024 Approved  Digital Delinquency  Games Comparable to GTA V</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-a-list-of-unique-charming-indie-games/"><u>Crafting a List of Unique, Charming Indie Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/deceptively-disconnected-the-steam-offline-method/"><u>Deceptively Disconnected: The Steam Offline Method</u></a></li>
+<li><a href="https://games-able.techidaily.com/delving-into-the-essentials-for-high-end-gaming-setups/"><u>Delving Into the Essentials for High-End Gaming Setups</u></a></li>
+<li><a href="https://games-able.techidaily.com/different-types-of-xbox-covers/"><u>Different Types of Xbox Covers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ating-the-digital-space-5-tips-for-video-visibility-victory-for-2024/"><u>Dominating the Digital Space  5 Tips for Video Visibility Victory for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/dual-purpose-computers-vs-specialized-gaming-rigs/"><u>Dual Purpose Computers Vs. Specialized Gaming Rigs</u></a></li>
+<li><a href="https://games-able.techidaily.com/eas-rising-cost-my-next-gen-gaming-future-unsubscribed/"><u>EA's Rising Cost: My Next-Gen Gaming Future Unsubscribed</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminate-glitches-with-the-latest-nvidia-graphics-update/"><u>Eliminate Glitches with the Latest Nvidia Graphics Update</u></a></li>
+<li><a href="https://games-able.techidaily.com/embark-on-a-racing-career-with-mozas-moza-r5-bundle/"><u>Embark on a Racing Career with Moza's MOZA R5 Bundle</u></a></li>
+<li><a href="https://games-able.techidaily.com/eradicating-shaky-wheel-scroll-behavior-on-mouse/"><u>Eradicating Shaky Wheel Scroll Behavior on Mouse</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-the-quintet-of-browser-novels/"><u>Explore: The Quintet of Browser Novels</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-text-techniques-for-more-dynamic-video-experiences-for-2024/"><u>FREE Text Techniques for More Dynamic Video Experiences for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-nostalgia-unleashed-play-old-games-with-emudeck-on-steam-deck/"><u>Gaming Nostalgia Unleashed: Play Old Games with EmuDeck on Steam Deck</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722963001714-get-the-latest-linksys-ae2500-driver-download-made-easy-and-instantaneous/"><u>Get the Latest Linksys AE2500 Driver – Download Made Easy and Instantaneous</u></a></li>
+<li><a href="https://change-location.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-breakdown-your-high-tech-gaming-device-xbox-s/"><u>How to Breakdown Your High-Tech Gaming Device: Xbox S</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-your-xiaomi-redmi-note-12t-pro-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Xiaomi Redmi Note 12T Pro Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-realme-c51-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-link-your-epic-games-and-steam-accounts/"><u>How to Link Your Epic Games and Steam Accounts</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-retrieve-your-money-from-a-discarded-steam-game/"><u>How to Retrieve Your Money From a Discarded Steam Game</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-samsung-galaxy-z-flip-5-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Samsung Galaxy Z Flip 5 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-guide-free-youtube-downloads-without-programs/"><u>In 2024, Guide  Free YouTube Downloads Without Programs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-vivo-y36i-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Vivo Y36i for Parents | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/laser-precision-vs-rigid-robustness-for-gamers/"><u>Laser Precision Vs. Rigid Robustness for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/loophole-in-steams-return-system-now-shut-down/"><u>Loophole in Steam's Return System Now Shut Down</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-with-toms-hardware-insights/"><u>Mastering Technology with Tom's Hardware Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-graphics-select-top-144hz-wide-displays/"><u>Maximize Graphics: Select Top 144Hz Wide Displays</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-video-data-in-high-capacity-drives-64128gb/"><u>Navigating Video Data in High-Capacity Drives (64/128GB)</u></a></li>
+<li><a href="https://games-able.techidaily.com/nintendos-legacy-in-digital-world/"><u>Nintendo's Legacy in Digital World</u></a></li>
+<li><a href="https://games-able.techidaily.com/peering-into-the-vaults-of-virtual-screenshots/"><u>Peering Into the Vaults of Virtual Screenshots</u></a></li>
+<li><a href="https://games-able.techidaily.com/pitfalls-in-promoting-pay-for-performance-among-gaming-developers/"><u>Pitfalls in Promoting Pay-for-Performance Among Gaming Developers</u></a></li>
+<li><a href="https://games-able.techidaily.com/premier-platforms-for-videogame-milestones/"><u>Premier Platforms for Videogame Milestones</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-slim-unboxed-vital-specifications-revealed/"><u>PS5 Slim Unboxed: Vital Specifications Revealed</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-apple-iphone-12-by-drfone-ios/"><u>Removing Device From Apple ID For your Apple iPhone 12</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-launcher-error-code-0x803f8001-in-mc-for-windows/"><u>Resolving Launcher Error Code 0X803F8001 in MC for Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/restoring-lost-access-to-steam-services-on-windows/"><u>Restoring Lost Access to Steam Services on Windows</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/simplifying-your-life-with-discord-call-setup-guide/"><u>Simplifying Your Life with Discord Call Setup Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-cssource-startup-problems-a-comprehensive-guide/"><u>Solving CS:Source Startup Problems – A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/staying-safe-from-gaming-system-breaches/"><u>Staying Safe From Gaming System Breaches</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-gaming-experience-with-xbox-cloud/"><u>Streamlining Gaming Experience with Xbox Cloud</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-seamless-transition-of-tweeted-vids-to-snappy-ends/"><u>The Seamless Transition of Tweeted Vids to Snappy Ends</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-secrets-to-microsoft-edges-stellar-performance-in-games/"><u>The Secrets to Microsoft Edge's Stellar Performance in Games</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-ubiquitous-influence-of-facebook-today/"><u>The Ubiquitous Influence of Facebook Today</u></a></li>
+<li><a href="https://games-able.techidaily.com/tips-for-timely-fulfillment-of-steam-sales/"><u>Tips for Timely Fulfillment of Steam Sales</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-hub-expert-insights-on-hardware/"><u>Tom's Tech Hub: Expert Insights on Hardware</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-essential-gratuitous-lut-downloads-of-the-year-for-2024/"><u>Top 10 Essential, Gratuitous LUT Downloads of the Year for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-4-why-opt-for-microsoft-copilot-over-chatgpt/"><u>Top 4: Why Opt for Microsoft CoPilot Over ChatGPT</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-9-digital-challenges-boosting-design-craftsmanship/"><u>Top 9 Digital Challenges Boosting Design Craftsmanship</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ultimate-solution-getting-your-device-recognized-with-proper-drivers-on-widows-os/"><u>Ultimate Solution: Getting Your Device Recognized with Proper Drivers on Widows OS</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-xbox-secrets-stream-to-steam-with-glossi-expertise/"><u>Unlocking Xbox Secrets: Stream to Steam with GlosSI Expertise</u></a></li>
+</ul></div>

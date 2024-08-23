@@ -1,7 +1,7 @@
 ---
 title: A Closer Look at Playing Past PS4 Titles on New Sony Console
-date: 2024-07-12T04:19:31.911Z
-updated: 2024-07-13T04:19:31.911Z
+date: 2024-08-22T22:14:56.094Z
+updated: 2024-08-23T22:14:56.094Z
 tags:
   - games
 categories:
@@ -31,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 
  Whether you still have your old collection of games or you’re wondering how to go about re-downloading and playing them on your new PS5, you’ve come to the right place.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Can I Play PS4 Games on My PS5?
 
  If you have been wondering [if the PS5 is backward compatible](https://www.makeuseof.com/is-ps5-backward-compatible/) , the short answer is, yes. For the most part, you can play most of your old PS4 games on your PS5\. Some even offer free or discounted upgrades to the PS5 version to make your PS4 games better than they ever were before.
@@ -43,10 +46,21 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 
  There are a couple of ways to play PS4 games on your PS5\. The first is by inserting and installing PS4 game discs into your PS5, and the second is by re-downloading your previously purchased digital PS4 titles.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. Play PS4 Games on Your PS5 Using the Disc Drive
 
 ![playstation 4 game disc boxes](https://thmb.techidaily.com/92449e9d9f3ee8946cb03a78041d2307431f0fc5eaad89567c354cd2fc066c4c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
  charnsitr/[Shutterstock](https://www.shutterstock.com/image-photo/bangkok-thailand-october-19-2016-pile-520391851)
 
  Using the disc drive is the simplest and easiest way to play PS4 games on your PS5, but it does come with a catch. This method will only work if your PS5 has a disc drive.
@@ -59,10 +73,16 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 
 ![View Details Icon PS5 Game Download](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/view-details-icon-ps5-game-download.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
  Select**View Details** to bring up a list of all the games on your console and select the ones you are prepared to delete. Press**Delete** on the right to remove those games and make space for your PS4 title.
 
  Once you have enough space, the data will resume copying onto your PS5.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Download PS4 Games Onto Your PS5
 
  If you prefer saving space on your bookshelf and opting for digital versions of games, you likely have a large library of digital PS4 titles from before you upgraded to the PS5\. These games can be downloaded and played on your new console.
@@ -83,6 +103,9 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 
  If you would rather save your console's internal storage for PS5 games, you can also store and [play PS4 games on your PS5 from an external hard drive](https://www.makeuseof.com/how-to-play-ps4-games-on-ps5-external-hard-drive/) .
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What’s the Difference Between PS4 Games and PS4 Games With PS5 Upgrades?
 
  Some PS4 games come with free or discounted PS5 upgrades. This allows you to play the PS5 version of the game even though you technically only own the PS4 version. There are a couple of ways to check if a PS5 upgrade is available for your game.
@@ -101,6 +124,9 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 
  These upgrades can cost money, so utilizing them is completely optional. You are more than welcome to simply play the PS4 version if you would prefer.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Are the PS5 Upgrades Worth It?
 
  If you are tempted by a PS5 upgrade but you're not sure if it's worth it, let's go over the benefits. Upgrading your PS4 game to the PS5 version not only gives the graphics a significant boost but also improves overall performance, allowing you to experience the game at a higher frame rate.
@@ -132,3 +158,60 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-access-high-res-fb-media-files/"><u>[New] Access High Res FB Media Files</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-cutting-edge-identifying-the-best-10-free-online-art-schools-on-youtube-for-2024/"><u>[New] Cutting Edge  Identifying the Best 10 Free Online Art Schools on YouTube for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-instantly-share-selfies-the-step-by-step-walkthrough/"><u>[New] Instantly Share Selfies  The Step-by-Step Walkthrough</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-old-tech-new-memories-portraits-from-iphone-x/"><u>[New] Old Tech, New Memories  Portraits From iPhone X</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-navigating-the-maze-of-audio-capturing-a-complete-minecraft-guide-on-mac/"><u>[Updated] 2024 Approved  Navigating the Maze of Audio Capturing  A Complete Minecraft Guide on Mac</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-the-role-and-significance-of-blue-icons-in-fb-chats-for-2024/"><u>[Updated] The Role and Significance of Blue Icons in FB Chats for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-top-10-invisible-observers-of-instagram-stories-for-2024/"><u>[Updated] Top 10 Invisible Observers of Instagram Stories for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-transforming-ideas-into-visuals-the-template-method-for-impressive-tiktoks/"><u>2024 Approved  Transforming Ideas Into Visuals  The Template Method for Impressive TikToks</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-infinix-smart-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/achieving-seamless-video-communication-between-xbox-and-zoom/"><u>Achieving Seamless Video Communication Between Xbox & Zoom</u></a></li>
+<li><a href="https://fox-info.techidaily.com/bring-back-sharpness-the-ultimate-choice-for-restoring-images/"><u>Bring Back Sharpness  The Ultimate Choice for Restoring Images</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/calculating-costs-in-youtube-advertising-campaigns/"><u>Calculating Costs in YouTube Advertising Campaigns</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-asus-x441ba-review-a-look-at-what-you-gain-and-lose-with-a-larger-portable-computer/"><u>Comprehensive Asus X441BA Review - A Look at What You Gain and Lose with a Larger Portable Computer</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-the-perfect-visual-identity-podcast-covers-unveiled-for-2024/"><u>Crafting the Perfect Visual Identity  Podcast Covers Unveiled for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/curtailing-game-bar-functionality-in-windows-11-edition/"><u>Curtailing Game Bar Functionality in Windows 11 Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/delving-into-beyerdynamics-mmx-200-masterpiece/"><u>Delving Into Beyerdynamic's MMX 200 Masterpiece</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-asus-rog-ally-dock-wonders-for-24/"><u>Discover ASUS ROG Ally Dock Wonders for '24</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-top-3-nintendo-switch-stream-networks/"><u>Discover the Top 3 Nintendo Switch Stream Networks</u></a></li>
+<li><a href="https://article-helps.techidaily.com/dive-deep-with-gopro-prochniques-for-capturing-quality-underwater-video-for-2024/"><u>Dive Deep with GoPro  Prochniques for Capturing Quality Underwater Video for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/download-youtube-videos-anywhere-anytime-free-android-tips/"><u>Download YouTube Videos Anywhere, Anytime  Free Android Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-your-gameplay-controllers-and-buttons-on-android/"><u>Enhancing Your Gameplay: Controllers and Buttons on Android</u></a></li>
+<li><a href="https://games-able.techidaily.com/enjoying-games-without-financial-commitment-our-six-picks/"><u>Enjoying Games Without Financial Commitment: Our SIX Picks</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/expert-tips-activating-or-deactivating-youtube-comments/"><u>Expert Tips  Activating or Deactivating YouTube Comments</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-tips-to-overcome-internal-power-system-issues-in-windows-11-systems-effectively/"><u>Expert Tips to Overcome Internal Power System Issues in Windows 11 Systems Effectively</u></a></li>
+<li><a href="https://games-able.techidaily.com/extending-nintendo-switch-battery-health/"><u>Extending Nintendo Switch Battery Health</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-fun-gameplay-to-successful-titles-lessons-from-helldivers-2s-journey/"><u>From Fun Gameplay to Successful Titles: Lessons From Helldivers 2'S Journey</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-playstation-to-your-desktop-ps4-controller-guide/"><u>From PlayStation to Your Desktop: PS4 Controller Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-samsung-galaxy-a23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-give-old-games-access-to-the-my-pictures-folder-on-windows-11/"><u>How to Give Old Games Access to the My Pictures Folder on Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-utilize-gpt-3-for-programming-tasks-a-guide-to-its-6-main-capabilities/"><u>How to Utilize GPT-3 for Programming Tasks: A Guide to Its 6 Main Capabilities</u></a></li>
+<li><a href="https://games-able.techidaily.com/identifying-cpu-overload-effects-on-pc-speed/"><u>Identifying CPU Overload Effects on PC Speed</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-from-the-iphone-se-2020-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock From the iPhone SE (2020) Without Previous Owner?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-inspiring-visual-collages-a-kaleidoscope-for-the-soul/"><u>In 2024, Inspiring Visual Collages  A Kaleidoscope for the Soul</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-premier-toolkit-7-stealth-film-apps/"><u>In 2024, Premier Toolkit  7 Stealth Film Apps</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-superior-live-media-transmission-tools/"><u>In 2024, Superior Live Media Transmission Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/industry-titans-or-inevitable-oligopoly-in-gaming-expert-panel-discussion/"><u>Industry Titans or Inevitable Oligopoly in Gaming? [Expert Panel Discussion]</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/logic-pro-guide-gradually-lowering-audio-levels-for-2024/"><u>Logic Pro Guide  Gradually Lowering Audio Levels for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-latest-graphics-milestone-ai-powered-dlss-update-35/"><u>Nvidia's Latest Graphics Milestone: AI-Powered DLSS Update 3.5</u></a></li>
+<li><a href="https://games-able.techidaily.com/old-vs-new-game-compatibility-between-ps4-and-ps3/"><u>Old vs New: Game Compatibility Between PS4 & PS3</u></a></li>
+<li><a href="https://games-able.techidaily.com/ownership-odyssey-in-the-gaming-galaxy/"><u>Ownership Odyssey in the Gaming Galaxy</u></a></li>
+<li><a href="https://games-able.techidaily.com/pc-gaming-powerhouse-intel-or-amd-debate/"><u>PC Gaming Powerhouse: Intel or AMD Debate?</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-fix-for-forgotten-ps5-subscriptions/"><u>Quick Fix for Forgotten PS5 Subscriptions</u></a></li>
+<li><a href="https://games-able.techidaily.com/quiet-command-stop-console-rumbles-on-xbox/"><u>Quiet Command: Stop Console Rumbles on Xbox</u></a></li>
+<li><a href="https://games-able.techidaily.com/ready-for-combat-top-10-must-try-free-online-fps-games/"><u>Ready for Combat? Top 10 Must-Try Free Online FPS Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/reawakening-your-playstation-4-with-a-system-reset/"><u>Reawakening Your PlayStation 4 with a System Reset</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/selecting-superior-free-online-srt-translation-services-tips-and-tricks/"><u>Selecting Superior Free Online SRT Translation Services  Tips & Tricks</u></a></li>
+<li><a href="https://games-able.techidaily.com/sweat-and-smile-top-7-sports-gaming-hits-for-iphone-and-android/"><u>Sweat & Smile: Top 7 Sports Gaming Hits for iPhone and Android</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-quintessential-selection-of-prime-twitch-downloader-apps/"><u>The Quintessential Selection of Prime Twitch Downloader Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-edge-in-online-gaming-best-fps-browser-games-revealed/"><u>The Ultimate Edge in Online Gaming: Best FPS Browser Games Revealed</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-engaging-with-strands-nyts-word-puzzle/"><u>The Ultimate Guide to Engaging with 'Strands', NYT's Word Puzzle</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-creating-a-secure-console-environment-with-passcodes/"><u>The Ultimate Guide: Creating A Secure Console Environment with Passcodes</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-2024-playlist-top-tier-gaming-devices-reviewed/"><u>Ultimate 2024 Playlist: Top-Tier Gaming Devices Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-ps-vr-2-extras-guide/"><u>Ultimate PS VR 2 Extras Guide</u></a></li>
+</ul></div>

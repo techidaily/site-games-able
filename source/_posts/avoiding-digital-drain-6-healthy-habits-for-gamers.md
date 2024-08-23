@@ -1,7 +1,7 @@
 ---
 title: "Avoiding Digital Drain: 6 Healthy Habits for Gamers"
-date: 2024-07-12T04:14:15.100Z
-updated: 2024-07-13T04:14:15.100Z
+date: 2024-08-22T22:19:18.811Z
+updated: 2024-08-23T22:19:18.811Z
 tags:
   - games
 categories:
@@ -46,6 +46,18 @@ Who knows, you might discover another genre to sink your hours into.
 ## 2\. Try Indie Games
 ![collage of indie games](https://thmb.techidaily.com/c6507ef1a8c1967e04b9a71ecc3df4d6b245a64121c79bffee638bab85472f90.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Indie games set themselves apart from big mainstream titles as in many cases, they’re incredibly varied and unique. Indie games aren’t a genre, they’re a whole industry filled with passionate gamers trying to create a game they want to play themselves.
 
  You’ll discover fresh new mechanics, visuals, storytelling, and so much more that can’t be found in most games. What’s great is that there’s usually a tightly-knit community behind them with the creator just a message away for any suggestions and improvements.
@@ -62,6 +74,9 @@ Who knows, you might discover another genre to sink your hours into.
 
  If you can’t think of any yet, don’t worry, we have a few [fun gameplay challenges](https://www.makeuseof.com/fun-gameplay-challenges-video-games/) for you to try out.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Avoid Games With Addictive Tactics
 ![person playing pubg mobile on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/iphone-gameplay.jpg)
 
@@ -82,19 +97,41 @@ Who knows, you might discover another genre to sink your hours into.
 
  The duration of your break will depend entirely on you. For some people, a day off is enough, but some might want to take longer breaks. If you’re taking a break because of addiction or dependence
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ## 6\. Take Things Less Seriously
 ![Man looking horrified at a computer screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/man-looking-horrified-at-a-computer-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  As someone who has hit their table out of frustration in Counter-Strike, taking things less seriously has improved my gaming experience.
 
  Competitive games can get quite toxic, and you could probably relate if you’ve been heavily invested in trying to rank up on a MOBA or a shooter. We can get so focused on improving our skills that losing feels frustrating, possibly even anger-inducing.
 
 ![Person grabbing keyboard in frustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/frustrated-gamer.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Some gamers thrive on that competitive feeling, but it could also be unhealthy. Even professional gamers have to manage their emotions to get the most performance out of themselves. Anger will only cloud your judgment, make you play worse, and ruin the experience.
 
  You can still take games seriously of course, but too much of anything can be detrimental.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Reignite Your Gaming Passion
 
  If you know you want to keep playing but it just doesn’t feel the same anymore, you’re most likely burnt out. No matter how passionate we are about something, too much of it can cause many to feel this way.
@@ -120,3 +157,42 @@ Who knows, you might discover another genre to sink your hours into.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-androidmac-method-for-saving-snaps/"><u>[New] In 2024, Android/Mac Method for Saving Snaps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-parroting-perfection-dissecting-bebops-latest-flight-feature/"><u>[New] Parroting Perfection  Dissecting Bebop's Latest Flight Feature</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-ultimate-money-making-guide-on-social-media/"><u>[New] The Ultimate Money-Making Guide on Social Media</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-essential-5-pro-drones-for-skilled-drone-pilots/"><u>[Updated] Essential 5 Pro Drones for Skilled Drone Pilots</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mold-mirthful-media/"><u>[Updated] Mold Mirthful Media</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-no-1-ranked-youtube-to-text-online-service/"><u>[Updated] No. 1 Ranked  YouTube To Text Online Service</u></a></li>
+<li><a href="https://games-able.techidaily.com/499-driving-passport-include-moza-r5-in-your-arsenal/"><u>$499 Driving Passport - Include MOZA R5 in Your Arsenal</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-excellence-in-editing-merging-storyremix-with-windows-photos-for-professional-results/"><u>2024 Approved  Excellence in Editing  Merging StoryRemix with Windows Photos for Professional Results</u></a></li>
+<li><a href="https://games-able.techidaily.com/3-key-arguments-for-consoles-smooth-gameplay/"><u>3 Key Arguments for Console's Smooth Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-review-that-reveals-beyerdynamic-mmx-200-strengths/"><u>A Review that Reveals Beyerdynamic MMX 200 Strengths</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-step-wise-approach-to-reviving-your-ps5-remote/"><u>A Step-Wise Approach to Reviving Your PS5 Remote</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-word-of-caution-for-those-attracted-to-linkedins-game-feature/"><u>A Word of Caution for Those Attracted to LinkedIn's Game Feature</u></a></li>
+<li><a href="https://games-able.techidaily.com/aaa-game-giants-expansion-good-or-overboard-analysis-report/"><u>AAA Game Giants' Expansion: Good or Overboard? [Analysis Report]</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-steam-software-file-recovery-problem/"><u>Addressing Steam Software File Recovery Problem</u></a></li>
+<li><a href="https://games-able.techidaily.com/adventure-gamers-vault-of-virtual-getaway-ideas/"><u>Adventure Gamers' Vault of Virtual Getaway Ideas</u></a></li>
+<li><a href="https://games-able.techidaily.com/ai-assisted-adventure-crafting-top-6-strategies-with-chatgpt/"><u>AI-Assisted Adventure Crafting: Top 6 Strategies with ChatGPT</u></a></li>
+<li><a href="https://games-able.techidaily.com/amds-fsr-3-launch-challenger-to-nvidias-dynamic-super-sampling/"><u>AMD's FSR 3 Launch: Challenger to NVIDIA's Dynamic Super Sampling?</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoid-game-over-top-10-reasons-games-crash-and-how-to-prevent-them/"><u>Avoid Game Over: Top 10 Reasons Games Crash and How to Prevent Them</u></a></li>
+<li><a href="https://games-able.techidaily.com/balance-efficiency-and-authenticity-preserving-original-games-with-chdman/"><u>Balance Efficiency & Authenticity: Preserving Original Games with CHDMAN</u></a></li>
+<li><a href="https://games-able.techidaily.com/banish-errors-and-enhance-your-pc-with-new-nvidia-drivers-update/"><u>Banish Errors and Enhance Your PC with New Nvidia Drivers Update.</u></a></li>
+<li><a href="https://games-able.techidaily.com/banishing-buffer-blunders-in-battlefield/"><u>Banishing Buffer Blunders in Battlefield</u></a></li>
+<li><a href="https://games-able.techidaily.com/become-a-controller-gaming-connoisseur-androids-button-magic/"><u>Become a Controller Gaming Connoisseur: Android's Button Magic</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-boards-ddr5-edition-2024/"><u>Best Boards: DDR5 Edition - 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-ddr5-gaming-systems/"><u>Best DDR5 Gaming Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-resolving-non-functional-realtek-high-definition-sound-cards/"><u>Expert Advice on Resolving Non-Functional Realtek High Definition Sound Cards</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/experts-choice-top-green-screen-tools-list-for-2024/"><u>Expert's Choice  Top Green Screen Tools List for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-xiaomi-14-ultra-phone-by-drfone-android/"><u>How to Reset a Locked Xiaomi 14 Ultra Phone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Xiaomi Redmi Note 12 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172130344-make-every-sound-count-on-xbox-one-again/"><u>Make Every Sound Count on Xbox One Again</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/quick-and-easy-guide-to-turn-videos-into-animated-gif-delights-for-2024/"><u>Quick & Easy Guide to Turn Videos Into Animated GIF Delights for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172049939-secure-your-ultimate-marvel-gaming-experience-now/"><u>Secure Your Ultimate Marvel Gaming Experience Now</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tamil-trax-download-edit-and-sync-songs-as-mobile-ringtone-for-2024/"><u>Tamil Trax  Download, Edit & Sync Songs as Mobile Ringtone for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719173054768-top-10-ad-free-and-no-cost-mobile-gaming-hits/"><u>Top 10 Ad-Free & No-Cost Mobile Gaming Hits!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-fixes-for-outriders-stutter-and-lags-game-optimized-now/"><u>Ultimate Fixes for Outriders Stutter and Lags - Game Optimized Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719161112435-winning-at-soccer-management-playing-championship-manager-on-windows-no-cost/"><u>Winning at Soccer Management: Playing Championship Manager on Windows, No Cost!</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: 7 Reasons Game Developers May Skip Ray Tracing
-date: 2024-07-12T04:20:48.097Z
-updated: 2024-07-13T04:20:48.097Z
+date: 2024-08-22T22:13:42.061Z
+updated: 2024-08-23T22:13:42.061Z
 tags:
   - games
 categories:
@@ -46,6 +46,9 @@ thumbnail: https://thmb.techidaily.com/a0961ee471b397828689bb0499e11bd310468db6e
 
 ![Man playing computer game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/man-playing-computer-game.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
  According to a [2021 NVIDIA news post](https://www.nvidia.com/en-us/geforce/news/nvidia-rtx-games-engines-apps/) , the list of video games that support ray tracing is somewhere around a couple of hundred. While that might sound impressive, you need to look at it from a different perspective. Steam is home to over 50,000 games on PC, and the number of games that support ray tracing is tiny in comparison.
 
  Of course, more games that support the feature will roll out inevitably. However, this disparity shows that even a lot of developers are not confident with the technology yet. This is especially true for indie developers on tighter budgets. Ray tracing optimization can eat up a lot of time and resources if you want to do it right.
@@ -62,12 +65,19 @@ thumbnail: https://thmb.techidaily.com/a0961ee471b397828689bb0499e11bd310468db6e
 
 ![Man updating game graphics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/man-updating-game-graphics.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Another big problem with ray tracing is the fact that only certain graphics cards will support the feature. If you have an older NVIDIA GTX graphics card instead of an RTX one, then you'll be left without ray-tracing. So, the only solution you're left with is to upgrade.
 
  The situation is even worse with AMD graphics cards, as the performance hit is even worse on that side.[AMD's FSR technology is similar to NVIDIA's upscaling technique](https://www.makeuseof.com/amd-fsr-explained/) , but it doesn't quite compare in terms of performance.
 
  Now, even if you buy a graphics card that supports ray tracing, you could get stuck with an older version of DLSS. NVIDIA's RTX 20-series and 30-series GPUs support DLSS 2, but you can only get DLSS 3 on the newer RTX 40 series. Your options are very limited either way.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ## 7\. Most Surfaces in Games Aren't Reflective Even With Ray Tracing
 
  The thing about ray tracing is that it looks excellent in games it was specifically designed to look good with. For example, NVIDIA itself pushed the impressive results of ray tracing in Metro: Exodus and Battlefield V. Sure enough, the result is very impressive. The only problem is that a lot of surfaces in games aren't reflective, so a lot of your games won't look that good.
@@ -80,16 +90,25 @@ thumbnail: https://thmb.techidaily.com/a0961ee471b397828689bb0499e11bd310468db6e
 
  NVIDIA's latest version of DLSS negates some of the performance difference, even if it only works on a select few cards. Ray tracing will eventually become common in most games, and that's when you should worry about having a GPU that supports it. The situation isn't perfect right now, but at least ray tracing is a better experience than HDR gaming on PC.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ## FAQ
 
 ### Q: Why Is Ray Tracing So Demanding?
 
  By the nature of [how ray tracing works](https://www.makeuseof.com/what-is-ray-tracing/) , it is very taxing on your GPU. This is because rendering light and shadow in video games is quite difficult and will use up a lot of the processing power of your hardware. But on the bright side, ray tracing does make light and reflections appear more realistic.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q: How Realistic Is Ray Tracing?
 
  Because ray tracing emulates how light refracts and reflects in the real world, playing a game with ray tracing makes the environment feel alive and representative of real life. Alternatively, if you play a game without ray tracing, you will probably notice static lighting or uncanny environments, which can detract from the fantasy of gaming.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q: Is Ray Tracing Worth It if You Run Your Games at 4K?
 
  Running your games at 4K resolution may improve your visuals, but enabling ray tracing alongside 4K visuals will drastically lower your frame rate unless you have a high-end GPU. Even then, the performance of your games will vary from title to title, and you may need to enable upscaling through DLSS in supported games to accommodate for the performance drop.
@@ -113,3 +132,50 @@ thumbnail: https://thmb.techidaily.com/a0961ee471b397828689bb0499e11bd310468db6e
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-download.techidaily.com/download-realtek-asio-driver-for-windows-10-quick-and-easy/"><u>[Download] Realtek Asio Driver for Windows 10 | Quick & Easy</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-ultimate-guide-to-affordable-online-meetings-plus-desktop-display/"><u>[New] 2024 Approved  Ultimate Guide to Affordable Online Meetings + Desktop Display</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-blueprint-for-creating-viral-trailers-in-the-world-of-youtube/"><u>[New] In 2024, Blueprint for Creating Viral Trailers in the World of YouTube</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-beat-goes-on-integrating-songs-into-your-snapchats-for-2024/"><u>[New] The Beat Goes On  Integrating Songs Into Your Snapchats for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-balancing-creativity-and-logic-in-gaming-videos/"><u>[Updated] 2024 Approved  Balancing Creativity and Logic in Gaming Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-blueprint-for-broadcasting-logging-roblox-games-via-your-mac-hardware/"><u>[Updated] Blueprint for Broadcasting  Logging Roblox Games via Your Mac Hardware</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-transforming-viewers-experience-the-impact-of-text-on-youtube-media-for-2024/"><u>[Updated] Transforming Viewers' Experience  The Impact of Text on YouTube Media for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-8-free-online-instagram-reels-downloaders-that-will-save-your-day/"><u>2024 Approved  8 FREE Online Instagram Reels Downloaders That Will Save Your Day</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-exclusive-access-sharing-restricted-youtube-content-with-emailid/"><u>2024 Approved  Exclusive Access  Sharing Restricted YouTube Content with EmailID</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-holding-attention-6-video-classifications/"><u>2024 Approved  The Art of Holding Attention  6 Video Classifications</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-a-list-of-unique-charming-indie-games/"><u>Crafting a List of Unique, Charming Indie Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/delving-into-the-essentials-for-high-end-gaming-setups/"><u>Delving Into the Essentials for High-End Gaming Setups</u></a></li>
+<li><a href="https://games-able.techidaily.com/different-types-of-xbox-covers/"><u>Different Types of Xbox Covers</u></a></li>
+<li><a href="https://games-able.techidaily.com/eas-rising-cost-my-next-gen-gaming-future-unsubscribed/"><u>EA's Rising Cost: My Next-Gen Gaming Future Unsubscribed</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminate-glitches-with-the-latest-nvidia-graphics-update/"><u>Eliminate Glitches with the Latest Nvidia Graphics Update</u></a></li>
+<li><a href="https://games-able.techidaily.com/embark-on-a-racing-career-with-mozas-moza-r5-bundle/"><u>Embark on a Racing Career with Moza's MOZA R5 Bundle</u></a></li>
+<li><a href="https://games-able.techidaily.com/eradicating-shaky-wheel-scroll-behavior-on-mouse/"><u>Eradicating Shaky Wheel Scroll Behavior on Mouse</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-the-quintet-of-browser-novels/"><u>Explore: The Quintet of Browser Novels</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-nostalgia-unleashed-play-old-games-with-emudeck-on-steam-deck/"><u>Gaming Nostalgia Unleashed: Play Old Games with EmuDeck on Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/guard-your-gaming-journey-with-switchs-passcode-feature/"><u>Guard Your Gaming Journey with Switch's Passcode Feature</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-the-ultimate-list-of-video-converters/"><u>Guide  The Ultimate List of Video Converters</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-my-signature-to-ott-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to add my signature to .ott file</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-breakdown-your-high-tech-gaming-device-xbox-s/"><u>How to Breakdown Your High-Tech Gaming Device: Xbox S</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-display-apple-iphone-13-mini-screen-on-pc-easily-drfone-by-drfone-ios/"><u>How to Display Apple iPhone 13 mini Screen on PC Easily? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-link-your-epic-games-and-steam-accounts/"><u>How to Link Your Epic Games and Steam Accounts</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-retrieve-your-money-from-a-discarded-steam-game/"><u>How to Retrieve Your Money From a Discarded Steam Game</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-how-to-find-the-best-spots-on-the-internet-to-download-high-quality-ding-sounds-2023-compilation/"><u>In 2024, How to Find the Best Spots on the Internet to Download High-Quality Ding Sounds (2023 Compilation)</u></a></li>
+<li><a href="https://games-able.techidaily.com/loophole-in-steams-return-system-now-shut-down/"><u>Loophole in Steam's Return System Now Shut Down</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-graphics-select-top-144hz-wide-displays/"><u>Maximize Graphics: Select Top 144Hz Wide Displays</u></a></li>
+<li><a href="https://games-able.techidaily.com/nintendos-legacy-in-digital-world/"><u>Nintendo's Legacy in Digital World</u></a></li>
+<li><a href="https://driver-download.techidaily.com/official-source-update-your-amd-ryzen-3-2200g-with-latest-drivers/"><u>Official Source: Update Your AMD Ryzen 3 2200G with Latest Drivers</u></a></li>
+<li><a href="https://games-able.techidaily.com/peering-into-the-vaults-of-virtual-screenshots/"><u>Peering Into the Vaults of Virtual Screenshots</u></a></li>
+<li><a href="https://games-able.techidaily.com/pitfalls-in-promoting-pay-for-performance-among-gaming-developers/"><u>Pitfalls in Promoting Pay-for-Performance Among Gaming Developers</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-slim-unboxed-vital-specifications-revealed/"><u>PS5 Slim Unboxed: Vital Specifications Revealed</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-launcher-error-code-0x803f8001-in-mc-for-windows/"><u>Resolving Launcher Error Code 0X803F8001 in MC for Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/retro-themed-gaming-cutting-edge-play-style/"><u>Retro-Themed Gaming, Cutting-Edge Play Style</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalizing-gpos-ensuring-compliance-on-modern-windows/"><u>Revitalizing GPOs: Ensuring Compliance on Modern Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/staying-safe-from-gaming-system-breaches/"><u>Staying Safe From Gaming System Breaches</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-secrets-to-microsoft-edges-stellar-performance-in-games/"><u>The Secrets to Microsoft Edge's Stellar Performance in Games</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-sleuths-guide-to-authentic-chatai-in-apple-store/"><u>The Sleuth's Guide to Authentic ChatAI in Apple Store</u></a></li>
+<li><a href="https://games-able.techidaily.com/tips-for-timely-fulfillment-of-steam-sales/"><u>Tips for Timely Fulfillment of Steam Sales</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-9-digital-challenges-boosting-design-craftsmanship/"><u>Top 9 Digital Challenges Boosting Design Craftsmanship</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-xbox-secrets-stream-to-steam-with-glossi-expertise/"><u>Unlocking Xbox Secrets: Stream to Steam with GlosSI Expertise</u></a></li>
+</ul></div>

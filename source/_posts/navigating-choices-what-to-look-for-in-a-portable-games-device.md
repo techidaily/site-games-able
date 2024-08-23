@@ -1,7 +1,7 @@
 ---
 title: "Navigating Choices: What To Look For in a Portable Games Device"
-date: 2024-07-12T04:14:33.906Z
-updated: 2024-07-13T04:14:33.906Z
+date: 2024-08-22T22:19:37.342Z
+updated: 2024-08-23T22:19:37.342Z
 tags:
   - games
 categories:
@@ -30,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/afcb9c2878394644f41c39d4475ac640d665c7524
 
  With the increasing interest in gaming handhelds, should you pull the trigger and get one for yourself? Here are some things to consider before buying a handheld gaming console and how to choose which one is best for you.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1 Decide on Your Budget
 ![rog ally](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/rog-ally.jpg)
 
@@ -43,6 +46,9 @@ thumbnail: https://thmb.techidaily.com/afcb9c2878394644f41c39d4475ac640d665c7524
 
  Although these may look pricey, they’re still cheaper than you’ll spend building a gaming PC. According to our [well-rounded PC buying guide](https://www.makeuseof.com/well-rounded-pc-buying-guide/) , you’ll likely pay about $1,000 to build a mid-range gaming PC, while higher-end builds could start at $1,500 or more. However, desktop PCs are more likely to last longer, as you can [upgrade your PC to improve its performance](https://www.makeuseof.com/tag/upgrades-will-improve-pc-performance/) in the future.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ## 2 Choose Which Games You Want to Play
 
  Before buying a handheld console, you must consider which games you like. If you’re into PlayStation exclusives, you’re pretty much stuck with [the PlayStation Portal](https://www.makeuseof.com/what-is-sony-playstation-portal-handheld/) unless you want to use PlayStation Plus to stream games to Windows-based handhelds, like [the Asus ROG Ally](https://www.makeuseof.com/what-is-asus-rog-ally/) .
@@ -53,6 +59,9 @@ thumbnail: https://thmb.techidaily.com/afcb9c2878394644f41c39d4475ac640d665c7524
 
  However, not all games are optimized for handheld gaming, even if you can install them on one of these consoles. This is especially true for [real-time strategy games](https://www.makeuseof.com/what-are-real-time-strategy-games-rts-games/) , often designed to be played on a larger screen with a mouse and keyboard. If these are the games you like, we suggest sticking to your PC or at least getting a console dock, like these [great ROG Ally docks](https://www.makeuseof.com/best-rog-ally-docks/) or a genuine Valve Docking Station for the Steam Deck.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3 Determine Whether You Want to Use a Dock
 ![valve steam deck docked](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/valve-steam-deck-docked.jpg)
 
@@ -64,6 +73,13 @@ thumbnail: https://thmb.techidaily.com/afcb9c2878394644f41c39d4475ac640d665c7524
 
  But if the games you like aren’t Nintendo games, consider getting a handheld console that you can attach to a larger screen through a dock or cable. That way, you can enjoy gaming on a larger screen when available. However, note that you might need a controller or a Bluetooth mouse and keyboard to enjoy gaming on your TV via your handheld, so you should consider these additional expenses if you don’t have them yet.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ## 4 Check How Long Your Gaming Sessions Last
 
  The biggest advantage of a gaming handheld is that you can play your games anywhere you are. But the caveat here is that you can only play for so long before you need to recharge.
@@ -74,9 +90,15 @@ thumbnail: https://thmb.techidaily.com/afcb9c2878394644f41c39d4475ac640d665c7524
 
  But if your games use a lot of battery power, the handheld’s portability advantage diminishes, as you need to find an outlet to recharge it while you’re playing. But if you only play games for less than an hour a day or prefer older, simpler games that don’t require that much power, then a handheld gaming console will make sense for you.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5 Check the Specs
 ![Steam Deck SSD installed without sleeve](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/steam-deck-ssd-installed-without-sleeve-1.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Jhet Borja/MakeUseOf  
 
  If you’ve decided to buy a handheld gaming console, don’t forget to check the specifications of your options. That’s because not all gaming consoles are made the same.
@@ -110,3 +132,57 @@ thumbnail: https://thmb.techidaily.com/afcb9c2878394644f41c39d4475ac640d665c7524
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-how-to-create-a-new-twitter-account/"><u>[New] 2024 Approved  How to Create a New Twitter Account</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-clearer-iphone-hd-images-post-production-with-4-key-premiere-pro-fixes/"><u>[Updated] Clearer iPhone HD Images Post-Production with 4 Key Premiere Pro Fixes</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-expert-guide-windows-movie-maker-60-configuration/"><u>[Updated] Expert Guide  Windows Movie Maker 6.0 Configuration</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-unleash-creativity-on-snapchat-with-immersive-boomerangs/"><u>[Updated] In 2024, Unleash Creativity on Snapchat with Immersive Boomerangs</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-honor-magic5-ultimate-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Honor Magic5 Ultimate Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-barriers-embracing-the-universal-gamer/"><u>Beyond Barriers: Embracing the Universal Gamer</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-subscriptions-the-future-of-apsplus-gaming/"><u>Beyond Subscriptions: The Future of APS+ Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-the-bulb-visionary-concepts/"><u>Beyond the Bulb: Visionary Concepts</u></a></li>
+<li><a href="https://games-able.techidaily.com/binge-friendly-apps-the-top-20-fast-games-for-androidiphone/"><u>Binge-Friendly Apps: The Top 20 Fast Games for Android/iPhone</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-immersion-with-ideal-ps-vr2-components/"><u>Boosting Immersion with Ideal PS VR2 Components</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-your-xbox-controllers-energy-efficiency/"><u>Boosting Your Xbox Controller's Energy Efficiency</u></a></li>
+<li><a href="https://games-able.techidaily.com/break-language-monotony-emulate-your-favorite-games-in-diverse-languages/"><u>Break Language Monotony: Emulate Your Favorite Games in Diverse Languages</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridge-gamepad-and-smartphone-through-bluetooth/"><u>Bridge Gamepad and Smartphone Through Bluetooth</u></a></li>
+<li><a href="https://games-able.techidaily.com/brighten-the-screen-enhance-your-gameplay-controlling-console-lights/"><u>Brighten the Screen, Enhance Your Gameplay: Controlling Console Lights</u></a></li>
+<li><a href="https://games-able.techidaily.com/bring-your-childhood-back-ios-and-psp-games/"><u>Bring Your Childhood Back: IOS & PSP Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/budget-friendly-precision-rendering/"><u>Budget-Friendly Precision Rendering</u></a></li>
+<li><a href="https://games-able.techidaily.com/budgetfriendly-hd-pixelsgameboard/"><u>BudgetFriendly HD PixelsGameBoard</u></a></li>
+<li><a href="https://games-able.techidaily.com/building-a-reputation-with-steams-top-tier-game-reviews/"><u>Building a Reputation with Steam's Top-Tier Game Reviews</u></a></li>
+<li><a href="https://games-able.techidaily.com/bypass-buffer-bottlenasque-in-battleground/"><u>Bypass Buffer Bottlenasque in Battleground</u></a></li>
+<li><a href="https://games-able.techidaily.com/bypassing-dxgierrordevicehunk-on-win-1011-systems/"><u>Bypassing DXGI_ERROR_DEVICE_HUNK on Win 10/11 Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/calm-competitions-indulge-in-idle-realms/"><u>Calm Competitions: Indulge in Idle Realms</u></a></li>
+<li><a href="https://games-able.techidaily.com/calm-escapades-indulge-in-idle-worlds/"><u>Calm Escapades: Indulge in Idle Worlds</u></a></li>
+<li><a href="https://games-able.techidaily.com/calm-gaming-tame-your-xbox-series-vibration/"><u>Calm Gaming: Tame Your Xbox Series Vibration</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-mechanical-keyboards-truly-improve-your-gaming/"><u>Can Mechanical Keyboards Truly Improve Your Gaming?</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-you-use-ps5-for-ps4-games/"><u>Can You Use PS5 for PS4 Games?</u></a></li>
+<li><a href="https://games-able.techidaily.com/chatgpt-for-dynamic-video-game-storytelling/"><u>ChatGPT for Dynamic Video Game Storytelling</u></a></li>
+<li><a href="https://games-able.techidaily.com/chdman-technique-optimizing-old-game-isos-size-and-performance/"><u>ChDMan Technique: Optimizing Old Game ISOs Size & Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/chdmans-secret-for-slimming-retro-games-without-loss-of-functionality/"><u>CHDMAN's Secret for Slimming Retro Games without Loss of Functionality</u></a></li>
+<li><a href="https://games-able.techidaily.com/choosing-between-founders-gpu-and-asus-branded-alternatives/"><u>Choosing Between Founder's GPU & Asus-Branded Alternatives</u></a></li>
+<li><a href="https://games-able.techidaily.com/choosing-the-right-accessories-for-ps-vr2/"><u>Choosing the Right Accessories for PS VR2</u></a></li>
+<li><a href="https://games-able.techidaily.com/choosing-value-your-essential-guide-to-vr-headsets/"><u>Choosing Value: Your Essential Guide to VR Headsets</u></a></li>
+<li><a href="https://games-able.techidaily.com/claim-free-games-with-just-one-sign-in/"><u>Claim Free Games with Just One Sign-In</u></a></li>
+<li><a href="https://games-able.techidaily.com/classic-computers-reimagined-with-atlasos/"><u>Classic Computers Reimagined with AtlasOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/clean-slate-deleting-ps5-login-details/"><u>Clean Slate: Deleting PS5 Login Details</u></a></li>
+<li><a href="https://games-able.techidaily.com/co-op-creations-crafting-companionship-through-minecraft-teamwork/"><u>Co-Op Creations: Crafting Companionship Through Minecraft Teamwork</u></a></li>
+<li><a href="https://games-able.techidaily.com/color-me-inspired-tecnos-smartphone-revamp-for-ifa-2023/"><u>Color Me Inspired: Tecno’s Smartphone Revamp for IFA 2023</u></a></li>
+<li><a href="https://games-able.techidaily.com/compact-game-console-sonys-ps-vita/"><u>Compact Game Console: Sony's PS Vita</u></a></li>
+<li><a href="https://games-able.techidaily.com/compact-your-collection-smart-iso-size-cutting-via-chdman-method/"><u>Compact Your Collection: Smart ISO Size Cutting via CHDMAN Method</u></a></li>
+<li><a href="https://games-able.techidaily.com/comparing-costs-is-ea-play-worth-it/"><u>Comparing Costs: Is EA Play Worth It?</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-vivo-s17-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo S17 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-revisiting-sonys-s6700-blu-ray/"><u>In 2024, Revisiting Sony's S6700 Blu-Ray</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/iphone-editing-supremacy-cameo-vs-filmorago-face-off/"><u>IPhone Editing Supremacy  Cameo Vs. FilmoraGo Face-Off</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-vivo-s18-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Vivo S18 Phone? Unlock It Now</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/streamline-your-skype-talks-using-obs-effectively-for-2024/"><u>Streamline Your Skype Talks  Using OBS Effectively for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-guide-to-top-ebook-and-literature-apps-for-voracious-readers/"><u>The Complete Guide to Top eBook and Literature Apps for Voracious Readers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-sync-your-apple-homepod-and-tv-for-optimal-audio-visual-enjoyment/"><u>The Ultimate Guide to Sync Your Apple HomePod and TV for Optimal Audio-Visual Enjoyment</u></a></li>
+<li><a href="https://fox-access.techidaily.com/unleash-your-potential-with-periscope-broadcasts/"><u>Unleash Your Potential with Periscope Broadcasts</u></a></li>
+<li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-y100i-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/unveiling-top-10-gaming-talents-on-tiktok-for-2024/"><u>Unveiling Top 10 Gaming Talents on TikTok for 2024</u></a></li>
+</ul></div>

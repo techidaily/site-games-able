@@ -1,0 +1,154 @@
+---
+title: Portable PlayStation Delights Explored
+date: 2024-08-22T22:30:53.470Z
+updated: 2024-08-23T22:30:53.470Z
+tags:
+  - games
+categories:
+  - games
+description: This Article Describes Portable PlayStation Delights Explored
+excerpt: This Article Describes Portable PlayStation Delights Explored
+keywords: Portable PS Gaming Joy,Handheld PSO Experience,PlayStation Portable Games,Traveling PSP Fun,Mobile PSV Games Explore,Compact PSO Adventures,Mobility in Gaming PS Vita
+thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b6eee67595d026f30ea77ba0.jpg
+---
+
+## Portable PlayStation Delights Explored
+
+### Quick Links
+
+* [What Is the PlayStation Portal?](#what-is-the-playstation-portal)
+* [What Can You Do With the PS Portal?](#what-can-you-do-with-the-ps-portal)
+* [Should You Buy the PlayStation Portal?](#should-you-buy-the-playstation-portal)
+
+### Key Takeaways
+
+* The PlayStation Portal is a remote-play device that streams games installed locally on your PS5 via Wi-Fi.
+* The PS Portal offers haptic feedback and adaptive triggers but lacks Bluetooth. It only works with PlayStation games and costs $199.99.
+* For a more versatile and cost-effective option, consider a smartphone controller for access to multiple game services.
+
+ Sony launched the PlayStation Portal in November 2023—a gaming device that looks like a DualSense controller bisected by an eight-inch screen. But what exactly is the Portal? Is it Sony’s competitor to the Nintendo Switch and SteamDeck? Or is it a cloud gaming device like the Logitech G Cloud?
+
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## What Is the PlayStation Portal?
+
+![Sony PlayStation Portal product image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/sony-playstation-portal-product-image.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+[Sony](https://blog.playstation.com/2023/08/23/playstations-first-remote-play-dedicated-device-playstation-portal-remote-player-to-launch-later-this-year-at-199-99/)
+
+ The PlayStation Portal features an eight-inch touchscreen with a 1080p resolution and 60Hz refresh rate. It also features DualSense-like controls on both sides, so it would feel familiar if you’re already a PS5 user.
+
+ It also has a 3.5mm headphone jack, Wi-Fi 5 support, and PS Link compatibility. You can charge its 4,370 mAh battery via the USB-C port, which should be enough for about seven to nine hours of gaming.
+
+ But the PlayStation is neither a Steam Deck nor a Logitech G Cloud competitor. Instead, it’s a remote-play device that connects to your PlayStation 5 via Wi-Fi and will only stream games installed locally on your console. This is[similar to Steam Link](https://www.makeuseof.com/steam-deck-review-ultimate-portable-gaming-console/) , which lets you play PC games on your Android or iPhone via streaming.
+
+ So, instead of relying on a server farm to stream your game from the cloud, the PlayStation Portal will depend on your home network and PlayStation 5\. You need at least a 5Mbps connection to use the PlayStation Portal, but Sony recommends 15Mbps for reliability.
+
+Furthermore, you need a PlayStation Network account to use it.
+
+![Close up of Sony Project Q](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/close-up-of-sony-project-q.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+[PlayStation](https://blog.playstation.com/2023/05/24/playstation-showcase-recap-everything-announced-at-todays-show/)
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## What Can You Do With the PS Portal?
+
+ Since the PlayStation Portal is essentially a DualSense controller with a screen that streams games from your PlayStation 5\. It also has features like haptic feedback and adaptive triggers—provided the game you’re streaming is compatible with those features.
+
+ The PlayStation Portal would work best if you use it on the same network that your console is connected to, but as long as you have decent internet speed for both devices (the PlayStation 5 console and the PlayStation Portal handheld), you can play any PlayStation 5 title while away from home. However, games that require other accessories, like[the PlayStation VR2](https://www.makeuseof.com/playstation-vr2-review/) , won’t work with the Portal.
+
+![PlayStation Portal with Pulse Explore and Pulse Elite wireless audio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/playstation-portal-with-pulse-explore-and-pulse-elite-wireless-audio.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
+[Sony](https://blog.playstation.com/2023/08/23/hands-on-report-playstation-portal-remote-player-pulse-explore-wireless-earbuds-and-pulse-elite-wireless-headset/)
+
+ One downside with the Portal, though, is it doesn’t have Bluetooth connectivity. That means your AirPods and other Bluetooth accessories won’t work with the device. If you want personal audio, use one of[the best wired gaming headsets](https://www.makeuseof.com/tag/best-pc-gaming-headset/) or a PlayStation Link-compatible audio device, like the Pulse Elite, Explore, or 3D.
+
+ It also doesn’t have streaming compatibility from outside servers, so even if you[have a PlayStation Plus Premium subscription](https://www.makeuseof.com/what-is-playstation-plus/) , you can’t stream titles directly to the PlayStation Portal. Instead, you must install any title you’re interested in on your PlayStation 5 and stream it to the handheld device.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
+## Should You Buy the PlayStation Portal?
+
+ If you’re a big PlayStation fan and find yourself missing your games whenever you’re not home, the PlayStation Portal is for you. With this handheld device, you basically take your PlayStation 5 with you wherever you are, as long as you have a robust 5G data connection.
+
+ However, the Portal will not work on slower data connections like 4G, so you have to consider that if your area doesn't have that. Furthermore, it doesn't have a browser, so the Portal won't work with most hotel and public Wi-Fi infrastructure that require logging in via a browser.
+
+ If you don't want to just stream PS5 games, you might be better off getting a smartphone gaming controller like[the GameSir X2s Type-C Controller](https://www.makeuseof.com/gamesir-x2s-type-c-controller-review/) . That way, you can use it for non-PlayStation services, like Steam and Xbox Game Pass Ultimate, or even for playing AAA games straight from your phone. Plus, these controllers cost less than $50.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-speedy-steps-to-save-slideshows/"><u>[New] In 2024, Speedy Steps to Save Slideshows</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-obs-strategy-for-high-quality-skype-screens-for-2024/"><u>[New] The OBS Strategy for High-Quality Skype Screens for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-partitioned-presence-ranking-splittest-cam/"><u>[Updated] In 2024, Partitioned Presence  Ranking Splittest Cam</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-guide-to-securing-top-tier-images-for-free-for-2024/"><u>A Guide to Securing Top-Tier Images for Free for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoid-overcharges-with-smart-game-management/"><u>Avoid Overcharges with Smart Game Management</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-on-iphone-8-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock On iPhone 8 - 4 Easy Ways</u></a></li>
+<li><a href="https://games-able.techidaily.com/emulating-legends-pokemon-games-resurgence/"><u>Emulating Legends: Pokémon Games' Resurgence</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-tips-for-resetting-ps5-gamepad/"><u>Essential Tips for Resetting PS5 Gamepad</u></a></li>
+<li><a href="https://games-able.techidaily.com/examining-xbox-encasements/"><u>Examining Xbox Encasements</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-in-gadgets-with-toms-hardware-insights/"><u>Exploring the Latest in Gadgets with Tom's Hardware Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/hall-effect-keys-in-focus-review-of-modular-board-mod007b/"><u>Hall Effect Keys in Focus - Review of Modular Board MOD007B</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-halt-steam-initialization/"><u>How to Halt Steam Initialization</u></a></li>
+<li><a href="https://games-able.techidaily.com/join-forces-in-these-20-cross-system-gaming-adventures/"><u>Join Forces in These 20 Cross-System Gaming Adventures</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-varied-strategies-check-out-the-best-6-unique-chess-apps/"><u>Master Varied Strategies: Check Out the Best 6 Unique Chess Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-volume-control-on-xbox-s-and-x-series-x/"><u>Mastering Volume Control on Xbox S & X Series X</u></a></li>
+<li><a href="https://games-able.techidaily.com/overseas-playtime-alter-time-settings-on-sxxb1/"><u>Overseas Playtime: Alter Time Settings on SX/XB1</u></a></li>
+<li><a href="https://games-able.techidaily.com/patching-for-purists-rom-linguistic-tweaks/"><u>Patching for Purists: ROM Linguistic Tweaks</u></a></li>
+<li><a href="https://games-able.techidaily.com/post-gtx-era-assessing-the-need-for-an-immediate-rtx-shift/"><u>Post-GTX Era: Assessing the Need for an Immediate RTX Shift</u></a></li>
+<li><a href="https://fox-info.techidaily.com/pro-techniques-for-iphone-nature-photography-at-a-new-level-for-2024/"><u>Pro Techniques for iPhone Nature Photography at a New Level for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/reinstating-stable-wired-and-wireless-connections-in-ps5/"><u>Reinstating Stable Wired and Wireless Connections in PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/reversing-windows-gpu-hang-addressing-error-code-0x887a0006/"><u>Reversing Window's GPU Hang: Addressing Error Code 0X887A0006</u></a></li>
+<li><a href="https://games-able.techidaily.com/secure-your-ultimate-marvel-gaming-experience-now/"><u>Secure Your Ultimate Marvel Gaming Experience Now!</u></a></li>
+<li><a href="https://games-able.techidaily.com/shielding-your-digital-actions-from-watchful-eyes/"><u>Shielding Your Digital Actions From Watchful Eyes</u></a></li>
+<li><a href="https://games-able.techidaily.com/sony-playstation-handheld-demystified/"><u>Sony PlayStation Handheld Demystified</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/streamlined-scheduling-combine-iphoneandroid-calendars-with-zoom-for-2024/"><u>Streamlined Scheduling  Combine iPhone/Android Calendars With Zoom for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/supreme-gamers-logitech-toolkit/"><u>Supreme Gamer's Logitech Toolkit</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-4-ios-emulation-apps-where-do-you-start/"><u>Top 4 iOS Emulation Apps: Where Do You Start?</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-notch-mouse-comforts-unveiled/"><u>Top-Notch Mouse Comforts Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-ranked-locales-gamers-trophies-turf/"><u>Top-Ranked Locales: Gamers' Trophies Turf</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-mystery-of-steams-bp-crashes/"><u>Unveiling the Mystery of Steam's BP Crashes</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/webcam-wizardry-for-creative-minds/"><u>Webcam Wizardry for Creative Minds</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-a-quick-reboot-can-save-your-gaming-experience/"><u>Why a Quick Reboot Can Save Your Gaming Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/xboxs-response-to-breaches-the-strike-mechanism/"><u>Xbox's Response to Breaches: The Strike Mechanism</u></a></li>
+</ul></div>

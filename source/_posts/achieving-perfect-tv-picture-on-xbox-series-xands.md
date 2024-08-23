@@ -1,7 +1,7 @@
 ---
 title: Achieving Perfect TV Picture on Xbox Series X&S
-date: 2024-07-12T04:19:13.112Z
-updated: 2024-07-13T04:19:13.112Z
+date: 2024-08-22T22:15:14.501Z
+updated: 2024-08-23T22:15:14.501Z
 tags:
   - games
 categories:
@@ -42,6 +42,9 @@ thumbnail: https://thmb.techidaily.com/cc0866b80e38550ff25e3009719b526ea4484f9d3
 
 ![TV Picture Settings Picture Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tv-picture-settings-picture-mode.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you regularly experience lag when you’re gaming, you may want to have your TV set to**Gaming Mode** instead. This mode can be found in the**General** settings, and while it does increase your performance, it also sacrifices your picture quality.
 
  Use**Picture Reset** after changing your**Picture Mode** settings to update your display and move onto your**Color Temp** or**Color Tone** settings. This setting will most likely be in your**Advanced** or**Expert** picture settings. Change your**Color Tone** to**Warm 1** ,**Low** ,**Mid** , or**Neutral** .
@@ -79,16 +82,25 @@ thumbnail: https://thmb.techidaily.com/cc0866b80e38550ff25e3009719b526ea4484f9d3
 
 ![TV Calibration Brightness Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tv-calibration-brightness-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To set your brightness, head to your**Advanced/Expert** picture settings once again and press**Brightness** . First, scroll all the way up so you can see the**closed eye** . Then, scroll back down again until the**closed eye** just barely disappears into the darkness.
 
  Once complete, you shouldn’t be able to see the closed eye at all, and you should be able to only just see the**open eye** . It’s a good idea to tweak this setting while you are sitting in your usual TV viewing spot, as you might be able to see the eyes differently at different angles.
 
 ![TV Settings HDMI Black Level](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tv-settings-hdmi-black-level.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you can't see the**closed eye** at all, go back to your TV's**General** settings and select**External Device Manager** . Open the**HDMI Black Level** setting and change it to**Auto** ,**Low** , or**Limited** . Then head back on your Xbox to reach your**General** settings and select**Video fidelity & overscan** .
 
  Change your**Color space** setting to**Standard** and return to the TV Calibration tool to skip to the**Brightness** page. You should be able to see the**closed eye** now. Press**Next** when you’ve reached your perfect brightness setting.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Optimizing Your Contrast Settings
 
  Next up is the**Contrast settings** screen. This is a similar setup to the**Brightness** page, but you have**two suns** and**two eyes** now instead. Open your**Advanced/Expert** picture settings and find the**Contrast** setting.
@@ -97,10 +109,16 @@ thumbnail: https://thmb.techidaily.com/cc0866b80e38550ff25e3009719b526ea4484f9d3
 
  You want to just barely be able to make out both images. Press**Next** when you’re done.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Brightness Again
 
  The following page requires you to check your brightness again. Changing the contrast can affect the brightness setting, so recalibrate it if necessary and proceed to the next page.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### Tweaking Your Advanced Color Settings
 
  The last page is your advanced color settings. The idea on this page is to tweak your color settings so each of the blocks on the right is individual, and no colors are bleeding into the neighboring ones. The easiest way to do this is by turning your TV's blue filter on or changing your**RGB Only Mode** to**Blue** . This can be found in your**Advanced/Expert** settings.
@@ -111,6 +129,9 @@ thumbnail: https://thmb.techidaily.com/cc0866b80e38550ff25e3009719b526ea4484f9d3
 
  There are plenty more settings to explore on your Xbox Series X|S to make sure it is providing you with the best gaming experience possible.[Boosting the FPS on your Xbox Series](https://www.makeuseof.com/what-is-fps-boost-feature-xbox-series-x/) can give you an even better performance, and there are also a series of [sound settings to optimize on your Xbox Series X|S](https://www.makeuseof.com/xbox-series-xs-sound-settings/) so your sound quality can match that of your display.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Allow Your Xbox Games to Look as Good as Possible
 
  Calibrating your TV for your Xbox is a lengthy process, but it is entirely worth it to enjoy your games with the best picture quality available to you.
@@ -136,3 +157,63 @@ thumbnail: https://thmb.techidaily.com/cc0866b80e38550ff25e3009719b526ea4484f9d3
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-leveraging-youtubes-cc-options-for-video-production/"><u>[New] 2024 Approved  Leveraging YouTube's CC Options for Video Production</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-the-elite-compilation-9-online-mic-recorders-ranked/"><u>[New] 2024 Approved  The Elite Compilation  9 Online Mic Recorders Ranked</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-the-ultimate-list-of-5-youtube-competitor-editors/"><u>[New] 2024 Approved  The Ultimate List of 5 YouTube Competitor Editors</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-a-comparative-analysis-of-youtubes-ownership-vs-cc-licenses/"><u>[New] A Comparative Analysis of Youtube's Ownership Vs. CC Licenses</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-abletons-precision-in-sound-reduction/"><u>[New] Ableton's Precision in Sound Reduction</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-compendium-of-camera-types-for-professional-videos/"><u>[New] Compendium of Camera Types for Professional Videos</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/rust-the-right-sources-for-safe-and-effective-view-count-increase/"><u>[New] Trust the Right Sources for Safe and Effective View Count Increase</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-lenovos-screen-recording-an-in-depth-user-manual/"><u>2024 Approved  Lenovo’s Screen Recording – An In-Depth User Manual</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-unleashing-your-ads-potential-maximizing-revenue-with-fb-animation-strategies/"><u>2024 Approved  Unleashing Your Ad's Potential  Maximizing Revenue with FB Animation Strategies</u></a></li>
+<li><a href="https://games-able.techidaily.com/conquer-new-horizons-with-windows-and-steamos-on-a-deck/"><u>Conquer New Horizons with Windows & SteamOS on a Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/conquering-the-ps5-playground-with-an-assist-controller/"><u>Conquering the PS5 Playground with an Assist Controller</u></a></li>
+<li><a href="https://games-able.techidaily.com/counteracting-missing-elements-alert-on-pc/"><u>Counteracting Missing Elements Alert on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-the-complex-interactions-between-endocannabinoid-receptors-and-brain-functions/"><u>Decoding the Complex Interactions Between Endocannabinoid Receptors and Brain Functions</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-realme-c51-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Realme C51</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-versatranquility-of-gaming-without-a-controller/"><u>Discover the Versatranquility of Gaming Without a Controller</u></a></li>
+<li><a href="https://games-able.techidaily.com/enjoying-games-without-financial-commitment-our-six-picks/"><u>Enjoying Games Without Financial Commitment: Our SIX Picks</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/essential-steps-for-elevating-wmm-content-on-vimeo-platform/"><u>Essential Steps for Elevating WMM Content on Vimeo Platform</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719580270594-eternal-access-to-mondly-premium-for-free/"><u>Eternal Access to Mondly Premium for Free!</u></a></li>
+<li><a href="https://games-able.techidaily.com/extending-nintendo-switch-battery-health/"><u>Extending Nintendo Switch Battery Health</u></a></li>
+<li><a href="https://games-able.techidaily.com/forming-a-play-group-on-xbox-nextgen/"><u>Forming a Play Group on Xbox NextGen</u></a></li>
+<li><a href="https://games-able.techidaily.com/friendly-fights-across-phones-choice-of-mobile-matchups/"><u>Friendly Fights Across Phones: Choice of Mobile Matchups</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-one-continent-to-another-on-your-nintendo-switch/"><u>From One Continent to Another on Your Nintendo Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-playstation-to-your-desktop-ps4-controller-guide/"><u>From PlayStation to Your Desktop: PS4 Controller Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/full-fledgon-baldurs-gate-3-playing-it-smoothly-on-macos/"><u>Full-Fledgon Baldur's Gate 3: Playing It Smoothly on macOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/heres-why-i-subscribe-to-apple-arcade-for-mobile-games/"><u>Here's Why I Subscribe to Apple Arcade for Mobile Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-fix-steams-content-file-locked-error-in-windows/"><u>How to Fix Steam’s “Content File Locked” Error in Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/identifying-cpu-overload-effects-on-pc-speed/"><u>Identifying CPU Overload Effects on PC Speed</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-tecno-spark-20-proplus-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Tecno Spark 20 Pro+ without App | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-game-changers-gear-essentials-every-business-needs-to-stay-ahead-of-the-curve/"><u>In 2024, Game Changers Gear  Essentials Every Business Needs to Stay Ahead of the Curve</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-tecno-pova-5-pro-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Tecno Pova 5 Pro to PC? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-rise-above-the-norm-expert-tips-for-broadcasting-spherical-content-on-youtube/"><u>In 2024, Rise Above the Norm  Expert Tips for Broadcasting Spherical Content on Youtube</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-ways-to-assess-your-xbox-playtime/"><u>Innovative Ways to Assess Your Xbox Playtime</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-nyts-influence-labyrinth/"><u>Navigating NYT's Influence Labyrinth</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-latest-graphics-milestone-ai-powered-dlss-update-35/"><u>Nvidia's Latest Graphics Milestone: AI-Powered DLSS Update 3.5</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-choice-8-best-news-and-reviews-for-gamers/"><u>Prime Choice: 8 Best News & Reviews for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-joypads-and-peripherals-the-leading-guide-to-the-nintendo-switch/"><u>Prime Joypads & Peripherals: The Leading Guide to the Nintendo Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-game-multisession-access-enablement/"><u>PS5 Game Multisession Access Enablement</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-fix-for-forgotten-ps5-subscriptions/"><u>Quick Fix for Forgotten PS5 Subscriptions</u></a></li>
+<li><a href="https://games-able.techidaily.com/quiet-command-stop-console-rumbles-on-xbox/"><u>Quiet Command: Stop Console Rumbles on Xbox</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-xbox-joystick-to-computer-setup-guide-140-chars/"><u>Seamless Xbox Joystick to Computer Setup Guide (140 Chars)</u></a></li>
+<li><a href="https://games-able.techidaily.com/stellar-shaper-exploring-innovative-pc-brands/"><u>Stellar Shaper: Exploring Innovative PC Brands</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/steps-to-secure-your-site-from-unauthorized-ai-scraping-by-openai/"><u>Steps to Secure Your Site From Unauthorized AI Scraping by OpenAI</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-8-essentials-for-navigating-ny-times-connections/"><u>The 8 Essentials for Navigating NY Times Connections</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essential-guide-to-choosing-a-premium-gaming-display/"><u>The Essential Guide to Choosing a Premium Gaming Display</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-engaging-with-strands-nyts-word-puzzle/"><u>The Ultimate Guide to Engaging with 'Strands', NYT's Word Puzzle</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-creating-a-secure-console-environment-with-passcodes/"><u>The Ultimate Guide: Creating A Secure Console Environment with Passcodes</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-iphone-6-plus-and-android-phones-by-drfone-ios/"><u>Top IMEI Unlokers for iPhone 6 Plus and Android Phones</u></a></li>
+<li><a href="https://games-able.techidaily.com/turn-off-visual-overlays-for-games-on-discord/"><u>Turn Off Visual Overlays for Games on Discord</u></a></li>
+<li><a href="https://games-able.techidaily.com/uncovering-alternatives-7-arguments-against-ray-tracing-embrace/"><u>Uncovering Alternatives: 7 Arguments Against Ray Tracing Embrace</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-visual-fidelity-on-series-x-blue-ray/"><u>Unleashing Visual Fidelity on Series X Blue-Ray</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-the-cryptic-character-set-of-steam-ids/"><u>Unlocking the Cryptic Character Set of Steam IDs</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-7-most-advanced-bot-allies-for-twitch-stars/"><u>Unveiling the 7 Most Advanced Bot Allies for Twitch Stars</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrade-to-state-of-the-art-3d-illumination-in-game-rooms/"><u>Upgrade to State-of-the-Art 3D Illumination in Game Rooms</u></a></li>
+<li><a href="https://games-able.techidaily.com/will-macos-become-central-in-game-development-trends/"><u>Will MacOS Become Central in Game Development Trends?</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Effortless Control Change: Upgrading Your Switch's Joystick"
-date: 2024-07-12T04:14:19.681Z
-updated: 2024-07-13T04:14:19.681Z
+date: 2024-08-22T22:19:23.259Z
+updated: 2024-08-23T22:19:23.259Z
 tags:
   - games
 categories:
@@ -55,16 +55,26 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 1. The first step is to remove the four screws on the back of the Joy-Con. This can be done with the 1.5mm tri-wing screwdriver.  
 ![Joy Con Four Back Screws](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/joy-con-four-back-screws.jpg)
 2. Gently run the plastic prying tool around the outside seam of your Joy-Con until the two plastic shells come apart.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 3. Use the plastic prying tool to gently pry the battery out. It can be a little difficult since the battery is stuck down with some sticky tabs, but it will come loose eventually. If you don’t have a plastic prying tool, that’s fine, using your finger will do. Just make sure you don’t use anything metal to pry your battery out.
 4. Unplug the battery by pulling the cord directly upwards and placing it to the side.
 5. Remove the three screws holding the center plate down with the 2.0mm Phillips head screwdriver. You only have to remove the top left, bottom right, and bottom right corner screws.  
 ![Joy Con Three Middle Plate Screws](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/joy-con-three-middle-plate-screws-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 1. Remove the ribbon cable holding the center plate on by gently lifting the flap and pulling it out.
 2. Gently unplug the blue ribbon cable near the joystick.
 3. Unplug the ribbon cable that runs over the top of the joystick.  
 ![Joystick Ribbon Cables in Joy Con](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/joystick-ribbon-cables-in-joy-con-1.jpg)
 4. Grab your 2.0mm Phillips head screwdriver and remove the two screws holding the joystick in place. Gently wiggle the joystick until it releases and place it to the side.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 5. Take your new joystick and place it in position, then reinstall the two screws you just removed with your 2.0mm Phillips head screwdriver.  
 ![Joy Con Joystick Screws](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/joy-con-joystick-screws.jpg)
 
@@ -72,9 +82,15 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 2. The hardest ribbon cable to plug back in is the one for the center plate. Sit the plate beside the Joy-Con and notice the slight curve that the ribbon cable naturally has. Don't try to fight this curve or straighten it out, simply slide it back in the way it naturally wants to go.  
 ![ZL Ribbon Cable Reassembly Joy Con](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/zl-ribbon-cable-reassembly-joy-con-1.jpg)
 3. Sit the center plate back in place and screw the three screws back into position with the 2.0mm Phillips head screwdriver.
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 4. Plug your battery back in by lining the plug up and pushing it down with a plastic tool.  
 ![Joy Con Battery Plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/joy-con-battery-plug.jpg)
 5. Place the backplate on and screw the four screws back in using the 1.5mm tri-wing screwdriver.
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 
  Your Joy-Con should now be as good as new. The last step is to use the joystick calibration tool to make sure everything is working as it should. You can find the calibration tool in the Switch’s settings. Scroll down to**Controllers and Sensors** , press**Calibrate Control Sticks** , and follow the on-screen prompts to calibrate your joysticks.
 
@@ -82,6 +98,9 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 
  As simple as replacing your joystick is, it's not ideal to have to repeat the process frequently. Make sure to regularly [clean your Nintendo Switch and Joy-Con](https://www.makeuseof.com/how-to-safely-clean-nintendo-switch-and-joy-cons/) to prevent dust buildup and increase the longevity of your joysticks.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ## Say Goodbye to Joy-Con Drift Forever With This Guide
 
  Once you’ve followed this guide a couple of times, you will be replacing joysticks left, right, and center for yourself and your loved ones who also struggle with Joy-Con drift.
@@ -107,3 +126,59 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-alleviate-problem-buffering-tweets-in-chromebook-for-2024/"><u>[New] Alleviate Problem  Buffering Tweets in Chromebook for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-hand-to-hand-heroes-the-definitive-switch-fighting-game-countdown/"><u>[New] Hand-to-Hand Heroes  The Definitive Switch Fighting Game Countdown</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-mkv-mastery-top-mac-apps/"><u>[New] In 2024, MKV Mastery  Top Mac Apps</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-simplified-techniques-for-using-the-io-screener/"><u>[New] In 2024, Simplified Techniques for Using the IO Screener</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-a-compreenas-step-by-step-guide-for-bordered-instagram-images/"><u>[Updated] 2024 Approved  A Compreenas Step-by-Step Guide for Bordered Instagram Images</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-real-time-tips-to-dominate-twitter-broadcasts/"><u>[Updated] 2024 Approved  Real-Time Tips to Dominate Twitter Broadcasts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-clever-ways-to-neglect-edge-academy-vids/"><u>[Updated] Clever Ways to Neglect EDGE Academy Vids</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-craftsmanship-in-marvellous-marvel-creation-for-2024/"><u>[Updated] Craftsmanship in Marvellous Marvel Creation for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-does-immediate-subscription-enhance-user-engagement-on-youtube-in-2024/"><u>[Updated] Does Immediate Subscription Enhance User Engagement on Youtube, In 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-motorola-edge-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/2023s-tech-showcase-pioneering-games-devices/"><u>2023'S Tech Showcase: Pioneering Games Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mac-masters-choice-top-10-incredible-4k-displays/"><u>2024 Approved  Mac Master's Choice  Top 10 Incredible 4K Displays</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-rhythmreview-music-and-dialogue-analysis/"><u>2024 Approved  RhythmReview  Music and Dialogue Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/2024-ddr5-board-excellence-guide/"><u>2024 DDR5 Board Excellence Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719160505091-4-premium-game-boy-advance-emulators-for-your-idevice/"><u>4 Premium Game Boy Advance Emulators for Your iDevice!</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-ways-to-stop-steam-web-helper-from-using-all-your-ram/"><u>5 Ways to Stop Steam Web Helper From Using All Your RAM</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-innovative-terminal-games-for-linux-aficionados/"><u>7 Innovative Terminal Games for Linux Aficionados</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-close-look-at-some-unconventional-indie-game-choices/"><u>A Close Look at Some Unconventional Indie Game Choices</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-closer-look-at-postponed-video-game-releases/"><u>A Closer Look at Postponed Video Game Releases</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-guide-to-quieter-xbox-gaming-bliss/"><u>A Guide to Quieter Xbox Gaming Bliss</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-shift-of-focus-7-compelling-arguments-against-ray-tracing/"><u>A Shift of Focus: 7 Compelling Arguments Against Ray Tracing</u></a></li>
+<li><a href="https://games-able.techidaily.com/ace-streamers-picks-top-6-multi-genre-games/"><u>Ace Streamers' Picks: Top 6 Multi-Genre Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/activate-your-ps5-faster-with-these-6-hacks/"><u>Activate Your PS5 Faster with These 6 Hacks</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-and-correcting-create-file-unsuccessful-error-30005/"><u>Addressing and Correcting Create File Unsuccessful (Error 30005)</u></a></li>
+<li><a href="https://games-able.techidaily.com/advanced-strategies-for-customizing-games-on-steam/"><u>Advanced Strategies for Customizing Games on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/android-play-reviving-sega-dreamcast-classics/"><u>Android Play: Reviving Sega Dreamcast Classics</u></a></li>
+<li><a href="https://games-able.techidaily.com/are-acemagics-games-validated-by-am08-pro/"><u>Are AceMagic's Games, Validated by AM08 Pro?</u></a></li>
+<li><a href="https://games-able.techidaily.com/are-macs-the-future-of-pc-gaming/"><u>Are Macs the Future of PC Gaming?</u></a></li>
+<li><a href="https://games-able.techidaily.com/astro-artisan-reviewing-exciting-computing-trends/"><u>Astro Artisan: Reviewing Exciting Computing Trends</u></a></li>
+<li><a href="https://games-able.techidaily.com/asus-rog-allys-game-changer-premiere-laptop-docks-of-2024/"><u>Asus ROG Ally's Game Changer - Premiere Laptop Docks of 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/audiophiles-guide-to-the-premier-8-4k-blu-rays-for-2024/"><u>Audiophile's Guide to the Premier 8 4K Blu-Rays for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoiding-game-breaking-signal-disruptions-in-pokemon-go/"><u>Avoiding Game-Breaking Signal Disruptions in Pokémon GO</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoiding-the-no-map-misstep-with-gps-mastery-in-pokemon-go/"><u>Avoiding the No Map Misstep with GPS Mastery in Pokémon GO</u></a></li>
+<li><a href="https://games-able.techidaily.com/bargain-hunting-done-right-affordable-mothers-for-gaming-enthusiasts/"><u>Bargain Hunting Done Right: Affordable Mothers for Gaming Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/battle-of-gaming-services-psplus-vs-xbox-game-pass/"><u>Battle of Gaming Services: PS+ vs Xbox Game Pass</u></a></li>
+<li><a href="https://games-able.techidaily.com/beat-your-way-through-artistic-gameplay-with-tablets/"><u>Beat Your Way Through Artistic Gameplay with Tablets</u></a></li>
+<li><a href="https://win11.techidaily.com/1719343067302-become-a-full-screen-screenshot-expert-4-essential-tricks-for-windows/"><u>Become a Full-Screen Screenshot Expert: 4 Essential Tricks for Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/becoming-the-master-storyteller-utilizing-chatgpt-for-text-based-adventures/"><u>Becoming the Master Storyteller: Utilizing ChatGPT for Text-Based Adventures</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bluetooth-troubles-on-windows-11-uncover-these-fixes-and-get-connected-again/"><u>Bluetooth Troubles on Windows 11? Uncover These Fixes and Get Connected Again</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cod-warzone-pacific-bug-fixed-how-did-they-solve-it/"><u>COD: Warzone Pacific Bug Fixed – How Did They Solve It?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-compatible-epson-v700-printer-drivers-now-supported-on-windows-7-8-and-10-systems/"><u>Download Compatible Epson V700 Printer Drivers Now: Supported on Windows 7, 8 and 10 Systems!</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719166175522-eliminate-glitches-with-the-latest-nvidia-graphics-update/"><u>Eliminate Glitches with the Latest Nvidia Graphics Update.</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/essential-software-for-enthusiasts-top-5-ps1-emulators/"><u>Essential Software for Enthusiasts  Top 5 PS1 Emulators</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-nokia-150-2023-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Nokia 150 (2023) Devices | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-harnessing-dynamic-range-expert-hdr-creation-in-adobe/"><u>In 2024, Harnessing Dynamic Range  Expert HDR Creation in Adobe</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-optimal-after-effects-scripting-solutions/"><u>In 2024, Optimal After Effects Scripting Solutions</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-the-complete-guide-to-designing-iconic-podcast-artwork-for-the-modern-ear/"><u>New 2024 Approved The Complete Guide to Designing Iconic Podcast Artwork for the Modern Ear</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/new-intel-core-i9-13860hk-desktop-cpu-debuting-with-the-advanced-lunar-lake-architecture-this-september/"><u>New Intel Core I9-13860HK Desktop CPU: Debuting with the Advanced Lunar Lake Architecture This September</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719166110964-optimize-performance-dont-delay-download-new-nvidia-drivers/"><u>Optimize Performance - Don’t Delay, Download New Nvidia Drivers!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/techs-trailblazers-windows-10-redefines-user-interface-for-2024/"><u>Tech's Trailblazers  Windows 10 Redefines User Interface for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719162480304-the-most-reliable-ios-gaming-tools-ranked-find-out-now/"><u>The Most Reliable iOS Gaming Tools Ranked: Find Out Now</u></a></li>
+</ul></div>

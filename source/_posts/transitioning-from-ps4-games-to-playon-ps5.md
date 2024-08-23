@@ -1,0 +1,189 @@
+---
+title: Transitioning From PS4 Games to PlayOn PS5
+date: 2024-08-22T22:28:11.525Z
+updated: 2024-08-23T22:28:11.525Z
+tags:
+  - games
+categories:
+  - games
+description: This Article Describes Transitioning From PS4 Games to PlayOn PS5
+excerpt: This Article Describes Transitioning From PS4 Games to PlayOn PS5
+keywords: PS4-to-PS5 Gaming Shift,Upgrading Games for PS5,PS5 Exclusive Titles,Console Game Evolution,PlayOn PS5 Benefits,Seamless Gaming Upgrade,Next-Gen PS5 Experience
+thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad25662873342662329d5363509351a52f0.jpg
+---
+
+## Transitioning From PS4 Games to PlayOn PS5
+
+### Quick Links
+
+* [Can I Play PS4 Games on My PS5?](#can-i-play-ps4-games-on-my-ps5)
+* [How Do I Play PS4 Games on My PS5?](#how-do-i-play-ps4-games-on-my-ps5)
+* [What’s the Difference Between PS4 Games and PS4 Games With PS5 Upgrades?](#what-rsquo-s-the-difference-between-ps4-games-and-ps4-games-with-ps5-upgrades)
+* [Are the PS5 Upgrades Worth It?](#are-the-ps5-upgrades-worth-it)
+
+### Key Takeaways
+
+* The PS5 is backward compatible with most PS4 games and some offer free upgrades for PS5 enhancements. However, there are some exceptions.
+* PS4 games can be played on PS5 using discs or by re-downloading digital versions from your library.
+* You can upgrade PS4 games to PS5 versions for better graphics and performance, enhancing your gameplay experience.
+
+ Upgrading to the PlayStation 5 doesn’t mean you have to throw out all your old PlayStation 4 games. So pull those games out of the back of your closet because they still have a lot of life in them (even if you don’t own a PS4 anymore), since there are a couple of ways you can play PS4 games on the PS5.
+
+ Whether you still have your old collection of games or you’re wondering how to go about re-downloading and playing them on your new PS5, you’ve come to the right place.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Can I Play PS4 Games on My PS5?
+
+ If you have been wondering[if the PS5 is backward compatible](https://www.makeuseof.com/is-ps5-backward-compatible/) , the short answer is, yes. For the most part, you can play most of your old PS4 games on your PS5\. Some even offer free or discounted upgrades to the PS5 version to make your PS4 games better than they ever were before.
+
+ There are, however, some PS4 games that will not work on the PS5\. The selection of non-playable games pales in comparison to the list of games that are cross-gen, however, so the likelihood of a PS4 game not working on your PS5 is slim.
+
+ One example of why this might be the case is if you purchased a PS3 game and then upgraded it to the PS4 version. These PS4 games won’t work on the PS5 because you still need the PS3 disc to play them. While PS4 discs do work on the PS5, PS3 ones don’t.
+
+## How Do I Play PS4 Games on My PS5?
+
+ There are a couple of ways to play PS4 games on your PS5\. The first is by inserting and installing PS4 game discs into your PS5, and the second is by re-downloading your previously purchased digital PS4 titles.
+
+### 1\. Play PS4 Games on Your PS5 Using the Disc Drive
+
+![playstation 4 game disc boxes](https://thmb.techidaily.com/92449e9d9f3ee8946cb03a78041d2307431f0fc5eaad89567c354cd2fc066c4c.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ charnsitr/[Shutterstock](https://www.shutterstock.com/image-photo/bangkok-thailand-october-19-2016-pile-520391851)
+
+ Using the disc drive is the simplest and easiest way to play PS4 games on your PS5, but it does come with a catch. This method will only work if your PS5 has a disc drive.
+
+ The PS5 Digital Edition does not have a disc drive, so take your PS4 library into consideration when you are deciding[which PS5 version to buy](https://www.makeuseof.com/ps5-vs-ps5-digital-edition-which-to-buy/) . If you opt for the cheaper, digital PS5 and have a large collection of physical PS4 games, you will be unable to play them on your new console.
+
+ To play physical PS4 games on your PS5, take your game of choice and insert it into your PS5\. Once your PS5 has read the disc, it will start copying the data onto your console for you.
+
+ If you see a red icon pop up underneath the game title, you may not have enough space on your console for the game.
+
+![View Details Icon PS5 Game Download](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/view-details-icon-ps5-game-download.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Select**View Details** to bring up a list of all the games on your console and select the ones you are prepared to delete. Press**Delete** on the right to remove those games and make space for your PS4 title.
+
+ Once you have enough space, the data will resume copying onto your PS5.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 2\. Download PS4 Games Onto Your PS5
+
+ If you prefer saving space on your bookshelf and opting for digital versions of games, you likely have a large library of digital PS4 titles from before you upgraded to the PS5\. These games can be downloaded and played on your new console.
+
+![Switch User menu on a PS5 with Add User highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/switch-user-menu-on-a-ps5-with-add-user-highlighted.jpg)
+
+ The first step is to make sure that you are signed into the same PS Account you used to purchase your digital PS4 titles. All the digital games you purchase are linked to the PS Account that you acquired them on.
+
+ If you're not logged in, there's no way to prove that those games actually belong to you. To sign in to your PS Account on your PS5, create a new User and sign in to your PS Account while you're setting it up.
+
+![Game Library Tab PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/game-library-tab-ps5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
+ Head to your**Games Library** by scrolling to the very right on your Home Screen and navigating to**Your Collection** . This is where you will find all the digital titles you have purchased through your PS Account.
+
+ Go to the**Sort By icon** on the left, select**Platform** , and select**PS4** . That will allow you to isolate all the PS4 games in your collection. Scroll through the titles until you find your desired PS4 game and select it to re-download it onto your new console.
+
+![Download PS4 Games onto PS5 via PS Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/download-ps4-games-onto-ps5-via-ps-account-1.jpg)
+
+ If you would rather save your console's internal storage for PS5 games, you can also store and[play PS4 games on your PS5 from an external hard drive](https://www.makeuseof.com/how-to-play-ps4-games-on-ps5-external-hard-drive/) .
+
+## What’s the Difference Between PS4 Games and PS4 Games With PS5 Upgrades?
+
+ Some PS4 games come with free or discounted PS5 upgrades. This allows you to play the PS5 version of the game even though you technically only own the PS4 version. There are a couple of ways to check if a PS5 upgrade is available for your game.
+
+ The first is by installing your PS4 game and checking the box on the right side of the screen that says**PS5 Upgrade** . If a PS5 upgrade is available for the game, it may be displayed here. If so, select the box to purchase your upgrade and play the PS5 version.
+
+![PS5 Upgrade Offer Home Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ps5-upgrade-offer-home-screen.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ If there is no box on the right offering a PS5 upgrade, this doesn’t mean there isn’t one available for your PS4 game. Sometimes, a game’s DLC or other offers are displayed there instead. To check if there is a PS5 upgrade available, select the**three dots** below the game title.
+
+![PS5 Upgrade via Game Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ps5-upgrade-via-game-menu.jpg)
+
+ If there is an upgrade available, you will see an option labeled**Select Version** . Press that to bring up all versions of the game and select the**PS5 version** to start downloading it.
+
+![PS5 Upgrade Choose Version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ps5-upgrade-choose-version.jpg)
+
+ These upgrades can cost money, so utilizing them is completely optional. You are more than welcome to simply play the PS4 version if you would prefer.
+
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Are the PS5 Upgrades Worth It?
+
+ If you are tempted by a PS5 upgrade but you're not sure if it's worth it, let's go over the benefits. Upgrading your PS4 game to the PS5 version not only gives the graphics a significant boost but also improves overall performance, allowing you to experience the game at a higher frame rate.
+
+![PS4 and PS5 version of Marvel Spider Man Remastered](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ps4-and-ps5-version-of-marvel-spider-man-remastered.jpg)
+
+ Although the graphics and lighting effects in the PS5 version of Marvel's Spider-Man Remastered are dramatically improved, the PS4 version already looks great.
+
+ You may be willing to pass up the upgrade if it were purely graphical. But in this example, the gameplay is also smoother on the PS5 version, which compliments the web-swinging mechanic and makes soaring through the skylines a far more satisfying experience.
+
+ Just because you’ve left your old PS4 console behind in preference for the new one, doesn’t mean you have to do the same with your game library. You can still enjoy your favorite games on the PS5, whether they are digital or disc versions. And with an upgrade, they will perform even better than they ever did on your PS4.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-optimize-tasks-the-8-superior-facebook-schedulers/"><u>[New] In 2024, Optimize Tasks  The 8 Superior Facebook Schedulers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-canva-10-best-practices-unveiled/"><u>[New] Mastering Canva  10 Best Practices Unveiled</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-splitting-content-introducing-chapters-in-vimeo/"><u>[Updated] 2024 Approved  Splitting Content  Introducing Chapters in Vimeo</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-unraveling-instagram-video-anomalies-today/"><u>[Updated] 2024 Approved  Unraveling Instagram Video Anomalies Today</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-elevating-obs-studios-impact-top-5-editing-techniques-revealed/"><u>[Updated] Elevating OBS Studio's Impact  Top 5 Editing Techniques Revealed</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-masterful-approach-to-creating-attractive-yt-summaries/"><u>[Updated] In 2024, Masterful Approach to Creating Attractive YT Summaries</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlined-transcoding-xml-and-ttml-into-professional-srt/"><u>2024 Approved  Streamlined Transcoding  XML & TTML Into Professional SRT</u></a></li>
+<li><a href="https://games-able.techidaily.com/authenticate-ai-created-texts-with-these-4-powerful-detection-utilities-tailored-for-educators-and-managers/"><u>Authenticate AI-Created Texts with These 4 Powerful Detection Utilities, Tailored for Educators and Managers</u></a></li>
+<li><a href="https://games-able.techidaily.com/comparing-the-classic-and-modern-ps5/"><u>Comparing the Classic and Modern PS5</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/cracking-the-code-to-youtube-income-through-views/"><u>Cracking the Code to YouTube Income Through Views</u></a></li>
+<li><a href="https://games-able.techidaily.com/dialing-down-xbox-game-bar-on-your-computer/"><u>Dialing Down Xbox Game Bar on Your Computer</u></a></li>
+<li><a href="https://games-able.techidaily.com/do-mac-systems-hold-the-key-to-next-gen-games/"><u>Do Mac Systems Hold the Key to Next-Gen Games?</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-gaming-possibilities-for-your-android-phone/"><u>Exploring Gaming Possibilities for Your Android Phone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fixing-the-facial-flaws-in-iphone-xs-security-feature/"><u>In 2024, Fixing the Facial Flaws in iPhone X's Security Feature</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-vivo-y77t-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Vivo Y77t Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/journey-down-memory-lane-pokemon-on-android/"><u>Journey Down Memory Lane: Pokémon on Android</u></a></li>
+<li><a href="https://games-able.techidaily.com/joy-con-steam-compatibility-checklist/"><u>Joy-Con Steam Compatibility Checklist</u></a></li>
+<li><a href="https://games-able.techidaily.com/mech-keys-vs-regular-a-deep-dive-for-game-lovers/"><u>Mech Keys Vs. Regular: A Deep Dive for Game Lovers</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-early-game-experience-journey/"><u>Navigating the Early Game Experience Journey</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-gamers-choice-high-performance-keyboards/"><u>Next Gen Gamers' Choice: High-Performance Keyboards</u></a></li>
+<li><a href="https://games-able.techidaily.com/redefining-your-gaming-space-ps5/"><u>Redefining Your Gaming Space (PS5)</u></a></li>
+<li><a href="https://games-able.techidaily.com/reflecting-on-6-factors-that-make-gaming-monitors-overhyped/"><u>Reflecting on 6 Factors That Make Gaming Monitors Overhyped</u></a></li>
+<li><a href="https://games-able.techidaily.com/reflecting-on-the-downside-of-high-end-graphics-cards/"><u>Reflecting on the Downside of High-End Graphics Cards</u></a></li>
+<li><a href="https://games-able.techidaily.com/remedying-error-steams-incorrectly-validated-files/"><u>Remedying Error: Steam's Incorrectly Validated Files</u></a></li>
+<li><a href="https://games-able.techidaily.com/screen-selection-saga-best-out-of-oled-amoled-and-lcd-displays/"><u>Screen Selection Saga: Best Out of OLED, AMOLED & LCD Displays</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-guide-to-supercharge-your-steam-decks-dock-use/"><u>Step-By-Step Guide to Supercharge Your Steam Deck's Dock Use</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-visual-performance-with-precision-in-series-sxs-variable-refresh-rate/"><u>Streamline Visual Performance with Precision in Series S/X's Variable Refresh Rate</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-raspberry-pi-case-for-classic-gaming-projects/"><u>The Ultimate Raspberry Pi Case for Classic Gaming Projects</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-5-perks-investing-in-yesteryears-gaming-tech/"><u>Top 5 Perks: Investing in Yesteryear's Gaming Tech</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-5-streamlined-methods-for-collecting-twitch-content/"><u>Top 5 Streamlined Methods for Collecting Twitch Content</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-steps-resolving-the-ring-of-elysium-game-crash/"><u>Troubleshooting Steps: Resolving the 'Ring of Elysium' Game Crash</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-gbadvance-games-on-ios-with-top-emulators/"><u>Unleashing GBAdvance Games on iOS with Top Emulators!</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-gpu-sag-causes-and-solutions/"><u>Unraveling GPU Sag: Causes & Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/visual-bliss-on-high-refresh-rate-displays/"><u>Visual Bliss on High-Refresh Rate Displays</u></a></li>
+</ul></div>

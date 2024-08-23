@@ -1,0 +1,190 @@
+---
+title: "Virtual Battles: The 9 Best and Worst of Digital Gaming"
+date: 2024-08-22T22:24:01.987Z
+updated: 2024-08-23T22:24:01.987Z
+tags:
+  - games
+categories:
+  - games
+description: "This Article Describes Virtual Battles: The 9 Best and Worst of Digital Gaming"
+excerpt: "This Article Describes Virtual Battles: The 9 Best and Worst of Digital Gaming"
+keywords: Virtual Battles in Digital Gaming,Top 9 Digital Gaming Experiences,Best Digital Battle Games,Worst Digital Gaming Moments,Ultimate Virtual Game Showdowns,Digital Gaming Rankings,High-Quality Digital Gaming Battles
+thumbnail: https://thmb.techidaily.com/a0a9154950aed42e7733b765877eaeb4a66b52b52c8c12f95943f09a40bb3819.jpg
+---
+
+## Virtual Battles: The 9 Best and Worst of Digital Gaming
+
+### Quick Links
+
+* [The Pros of Buying Digital Games](#the-pros-of-buying-digital-games)
+* [The Cons of Buying Digital Games](#the-cons-of-buying-digital-games)
+
+### Key Takeaways
+
+* Digital games offer the convenience of easy purchases and eliminate the need for physical storage.
+* Switching between digital games is effortless as it does not involve swapping discs, and there is no risk of theft.
+* The downsides of digital games include the inability to resell or share them, reliance on internet access for downloads, and limited storage space on the console.
+
+ With digital downloads taking center stage in the gaming world, is ditching physical copies the right move for you? If you can't decide, here are some of the advantages and disadvantages of buying digital games to help you decide.
+
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## The Pros of Buying Digital Games
+
+ For gamers who value convenience and accessibility, digital game purchases offer numerous advantages. Let’s look at them below.
+
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
+### 1\. Digital Games Are Easy to Purchase and Store
+
+![the steam logo on a laptop](https://thmb.techidaily.com/36a0feb333642fafe6d899d77e13984485a54242ddf28da6d8e7c4998067f22e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Rokas Tenys/[Shutterstock](https://www.shutterstock.com/image-photo/vilnius-lithuania-2022-july-6-steam-2175437557)
+
+ One of the major benefits of owning digital games is the convenience of obtaining them. There's no need to go to a physical store or wait for the delivery of an online order. Moreover, finding a physical copy of an older game can sometimes be challenging, but acquiring its digital version is as easy as completing the purchase and downloading it.
+
+ Another benefit of buying a digital game is that you don’t need to store it physically. This means no space taken up on your shelves, and no risk of damage or theft. Plus, your entire game library travels with you wherever you go, as long as you have your login credentials and a compatible device.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
+### 2\. Switching Between Digitally-Owned Games Is a Breeze
+
+ If you are someone who likes to bounce between different titles throughout your gaming session, digital games offer great convenience. With them, you can jump right into whichever title piques your interest at the moment.
+
+ Unlike physical games, there’s no need to dig through drawers and swap discs. Your digital games are always readily available, and you can switch between them effortlessly.
+
+### 3\. The Seamless Experience of Automatic Updates
+
+ On most devices, digital games are updated automatically by default. This may not seem like a big deal, but it can save you from the frustration of encountering a large update prompt just as you're eager to play your favorite game.
+
+ Automatic updates ensure that your favorite titles are ready to play when you want them, without having to wait for updates to download and install.
+
+### 4\. Digital-Only Consoles Are Less Expensive
+
+![Sony PS5 Digital Edition with DualSense controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/ps5-features-we-like-1-2.jpg)
+
+[PlayStation](https://www.playstation.com/en-us/ps5/)
+
+ Another perk of going all digital is that the price of digital-only consoles is usually lower compared to consoles that can play physical discs. This can be beneficial when you decide to upgrade to the latest version of the console.
+
+ Also, with your games being digital, you don’t have to deal with issues like a[PS5 disc drive making way too much noise](https://www.makeuseof.com/ways-to-fix-noisy-ps5-disc-drive/) or getting stuck. This means you can enjoy uninterrupted gameplay without the annoyance of disc-related malfunctions.
+
+### 5\. You Can Opt for Value-for-Money Subscription Services
+
+ With digital games, individual purchases aren't always necessary. Instead, you can opt for gaming subscriptions like PS Plus, Game Pass, or EA Play. Similar to how you subscribe to Netflix instead of purchasing individual movies, these gaming subscriptions offer a variety of benefits for a monthly fee, which is approximately the cost of a single game.
+
+![A promotional image for Xbox Game Pass Core](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/xbox-game-pass-image.jpg)
+
+[Xbox](https://news.xbox.com/en-us/2023/07/17/xbox-game-pass-core/)
+
+ This model enables you to explore various genres and discover new favorites without needing to make separate purchases. Additionally, many gaming subscriptions offer trial periods where you can play games for a few hours before deciding to make a purchase.
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
+## The Cons of Buying Digital Games
+
+ While buying digital copies of games may seem like a no-brainer at this point, there are some downsides to consider.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
+### 1\. Digital Games Can Quickly Fill Up Your Console’s Storage Space
+
+ While digital games eliminate the need to store them physically, they can quickly eat up the storage space on your console. With many modern games easily reaching 50GB or more in size, you will constantly find yourself looking for[ways to get more storage space on your PS5](https://www.makeuseof.com/ps5-storage-how-to-increase-manage/) or Xbox Series X|S.
+
+ As a result, you may need to uninstall or move unplayed games to an external drive every now and then. While[adding extra storage to your PS5](https://www.makeuseof.com/how-to-add-m2-ssd-ps5-guide/) or Xbox is always an option, it does come with additional expenses.
+
+### 2\. They Are Difficult to Share or Sell
+
+ Sharing digital games with friends is not as straightforward as sharing physical games, because it often requires sharing your account credentials. This can pose a security risk and potentially lead to unauthorized alterations to your account settings.
+
+ However, you can share digital games within your household through[Steam Families](https://www.makeuseof.com/valve-updated-steam-families-sharing/) or[PS5 game sharing](https://www.makeuseof.com/how-to-enable-game-sharing-playstation-5/) .
+
+ But when it comes to selling your games once you've finished playing them; you won't be able to recoup some of the initial costs of purchasing the game by selling it on eBay or other platforms if you don't have a physical disc.
+
+### 3\. You Don't Actually Own Your Digital Games
+
+![steam deck gaming handheld](https://thmb.techidaily.com/756e6cbc4b4a2e3ac30671657870528bb336d9b2f0f8b2cf5d7bebdde4893059.jpg)
+
+ Mr.Mikla/[Shutterstock](https://www.shutterstock.com/image-photo/ljubljana-slovenia-2022-june-6-new-2177777643)
+
+ When you purchase a digital game, you're not technically buying the game itself, but rather a license to play it. Unlike physical copies, where ownership is usually more straightforward, digital licenses often come with restrictions and conditions.
+
+ For example, there's no guarantee that the game will always be available. If the publisher or developer revokes the license, or if there are legal issues, you could lose access to it. However, it's worth noting that such instances of games being delisted are relatively rare.
+
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### 4\. Vulnerability to Account Issues
+
+ The security of your account becomes crucial when all your digital games and purchases are linked to them. It’s like having all the eggs in one basket. Losing access to your account, whether through hacking, phishing, or other means, can lead to a difficult situation where you may lose access to your entire library of games and purchases.
+
+ To avoid this, you may need to implement additional security measures such as two-factor authentication, using strong passwords, and regularly monitoring your account activity.
+
+ So, those are the advantages and disadvantages of owning digital games. Considering the fact that 95% of games sold in 2023 were digital (as reported by[GamesIndustry.biz](https://www.gamesindustry.biz/gamesindustrybiz-presents-the-year-in-number-2023) ), it's fair to say that most people prefer digital games and are willing to live with some of the compromises tied to them.
+
+ That said, choosing digital games over their physical counterparts often comes down to personal preference, with factors like convenience, access, and pricing influencing individual decisions.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-quick-and-reliable-tiktok-to-mp4-file-transfer-software/"><u>[New] 2024 Approved  Quick and Reliable TikTok to MP4 File Transfer Software</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-unrestricted-mental-harmony/"><u>[New] 2024 Approved  Unrestricted Mental Harmony</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-innovative-snapchat-strategies-the-ultimate-list/"><u>[Updated] 2024 Approved  Innovative Snapchat Strategies  The Ultimate List</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-ultimate-guide-to-affordable-free-screen-capture-for-2024/"><u>[Updated] The Ultimate Guide to Affordable, Free Screen Capture for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/common-language-pitfalls-navigating-the-top-100-mispronunciations/"><u>Common Language Pitfalls: Navigating the Top 100 Mispronunciations</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-epic-stories-for-games-using-ai/"><u>Crafting Epic Stories for Games Using AI</u></a></li>
+<li><a href="https://games-able.techidaily.com/critical-insights-avoiding-ps5-expenses/"><u>Critical Insights: Avoiding PS5 Expenses</u></a></li>
+<li><a href="https://games-able.techidaily.com/economical-choices-best-mid-range-motherboards-for-pcgaming/"><u>Economical Choices: Best Mid-Range Motherboards for PCGaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/ensuring-personalized-sound-exclusive-headset-use/"><u>Ensuring Personalized Sound: Exclusive Headset Use</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-code-to-continent-generating-gaming-landscapes/"><u>From Code to Continent: Generating Gaming Landscapes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Samsung Galaxy A24? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-itel-p55plus-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Itel P55+ without App | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-design-new-and-old-standout-holder-brands-for-24/"><u>Innovative Design: New and Old Standout Holder Brands for '24</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/integrating-color-grading-techniques-with-luts/"><u>Integrating Color Grading Techniques with Luts</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719580248149-master-a-new-tongue-for-just-044-today/"><u>Master a New Tongue for Just $0.44 Today</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/max-360-vs-hero-11-the-decisive-battle-for-superior-gopro-action-footage/"><u>Max 360 vs Hero 11 - The Decisive Battle for Superior GoPro Action Footage</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-maze-digital-games-refunds-on-series-sx/"><u>Navigating the Maze: Digital Games Refunds on Series S/X</u></a></li>
+<li><a href="https://games-able.techidaily.com/nitro-premium-exceeding-standard-benefits/"><u>Nitro Premium: Exceeding Standard Benefits?</u></a></li>
+<li><a href="https://games-able.techidaily.com/play-anywhere-decide-between-tablet-and-smartphone/"><u>Play Anywhere? Decide Between Tablet & Smartphone</u></a></li>
+<li><a href="https://games-able.techidaily.com/portability-perfected-choosing-the-best-nintendo-switch-docks/"><u>Portability Perfected: Choosing the Best Nintendo Switch Docks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-your-windows-11-audio-problems-a-5-step-guide/"><u>Resolve Your Windows 11 Audio Problems: A 5-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/score-big-pinpointing-quality-apple-arcade-playables/"><u>Score Big: Pinpointing Quality Apple Arcade Playables</u></a></li>
+<li><a href="https://games-able.techidaily.com/simple-guide-overcoming-the-failed-to-install-discord-hurdle-successfully/"><u>Simple Guide: Overcoming the 'Failed to Install Discord' Hurdle Successfully</u></a></li>
+<li><a href="https://games-able.techidaily.com/sonys-playstation-sound-streaming-technique/"><u>Sony's PlayStation Sound Streaming Technique</u></a></li>
+<li><a href="https://games-able.techidaily.com/spark-of-genius-potential-beyond-power/"><u>Spark of Genius: Potential Beyond Power</u></a></li>
+<li><a href="https://games-able.techidaily.com/tech-duel-smartphone-gaming-vs-tablet-experience/"><u>Tech Duel: Smartphone Gaming VS. Tablet Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-stealthiest-of-players-guide/"><u>The Stealthiest of Players Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-rated-servers-and-rack-systems-the-ultimate-guide-for-2e24/"><u>Top-Rated Servers & Rack Systems - The Ultimate Guide for 2E24</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-ai-game-evolution-with-steams-regulations/"><u>Understanding AI Game Evolution with Steam's Regulations</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-full-potential-on-steam-deck-with-these-best-9-simulators/"><u>Unleash Full Potential on Steam Deck with These Best 9 Simulators</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-your-games-with-xbox-game-pass/"><u>Unlocking Your Games with Xbox Game Pass</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveil-hidden-techniques-for-relieving-steam-obstruction/"><u>Unveil Hidden Techniques for Relieving Steam Obstruction</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-seven-mobile-game-shortcomings/"><u>Unveiling Seven Mobile Game Shortcomings</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upcoming-google-pixel-9-unveiling-rumored-features-estimated-cost-and-launch-timeline/"><u>Upcoming Google Pixel 9: Unveiling Rumored Features, Estimated Cost & Launch Timeline</u></a></li>
+<li><a href="https://games-able.techidaily.com/walletsavvy-monitor-27m2v-led-gamepad/"><u>WalletSavvy Monitor 27M2V - LED GamePad</u></a></li>
+</ul></div>

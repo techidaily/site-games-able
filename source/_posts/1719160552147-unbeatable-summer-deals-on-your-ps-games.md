@@ -1,7 +1,7 @@
 ---
 title: Unbeatable Summer Deals on Your PS Games!
-date: 2024-07-12T04:16:06.504Z
-updated: 2024-07-13T04:16:06.504Z
+date: 2024-08-22T22:18:14.496Z
+updated: 2024-08-23T22:18:14.496Z
 tags:
   - games
 categories:
@@ -30,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/e5896cf8bd138a267d00eafc99f462dd02faf3099
 
 **Download** :[My Time at Portia Deluxe Edition](https://store.playstation.com/en-us/product/UP4064-CUSA10924%5F00-0866856090541143) for $7.99 (75% off)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Deathloop
 
  Deathloop is 75% off, which is a massive saving for a Game of the Year nominee. If you like first-person shooters and the movie Groundhog Day, you will most likely love Deathloop. You may be thinking that that’s a strange combination of things, and you wouldn’t be wrong. But Deathloop is an action-packed adventure that is puzzling, hilarious, and well worth $14.99.
@@ -42,18 +45,27 @@ thumbnail: https://thmb.techidaily.com/e5896cf8bd138a267d00eafc99f462dd02faf3099
 
 **Download** :[Little Nightmares 1 & 2](https://store.playstation.com/en-us/product/UP0700-PPSA02200%5F00-LN1LN2BUNDLE0000) for $14.99 (70% off)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## 5\. Owlboy
 
  Owlboy is a whimsical platforming adventure with a beautiful pixel art style and story to match. While there are plenty of [differences between AAA and indie games](https://www.makeuseof.com/aaa-games-vs-indie-games-differences/) , indie’s have more than enough potential to be just as good, if not better, than AAA titles. Owlboy is a perfect example of that. And it’s on sale for roughly the price of a deli sandwich. While deli sandwiches are unarguably good, forgoing one for lunch is definitely worth experiencing the breathtaking adventure of Owlboy.
 
 **Download** :[Owlboy](https://store.playstation.com/en-us/product/UP4218-CUSA09914%5F00-OWLBOY0000000000) for $9.99 (60% off)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## 6\. Unravel Two
 
  Unravel Two is a beautifully rendered puzzle platformer that can be enjoyed alone, but it is best experienced with a friend. It has some incredibly unique and satisfying mechanics where you can use the yarn that makes up your body to interact with your surroundings and solve puzzles. It is very similar to It Takes Two, so if you were a fan of that, this should be at the top of your backlog.
 
 **Download** :[Unravel Two](https://store.playstation.com/en-us/product/UP0006-CUSA10483%5F00-COLDWOODPIKE0000) for $4.99 (75% off)
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. The Last of Us: Part II
 
  Even if you’re not a gamer, the chances are you know about The Last of Us. But Joel and Ellie’s story didn't just end when the hit TV series did. That is only one part of their adventure, so if you want a sneak peek into the events that you can expect from the second series, you can get it for half price in PlayStation’s summer sale. If you’ve been looking for [games to play if you like the Last of Us TV show](https://www.makeuseof.com/games-to-play-if-you-like-the-last-of-us-tv-show/) , this should be your first stop for obvious reasons.
@@ -72,12 +84,19 @@ thumbnail: https://thmb.techidaily.com/e5896cf8bd138a267d00eafc99f462dd02faf3099
 
 **Download** :[Tiny Tina’s Wonderlands: Chaotic Great Edition](https://store.playstation.com/en-us/product/UP1001-PPSA01492%5F00-TTWPREMIUMSIEA00) for $29.69 (67% off)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ## 10\. Final Fantasy VII Remake
 
  Final Fantasy VII Remake is the first of two parts. The next chapter, Final Fantasy VII Rebirth, is scheduled for release in 2024\. If you are intrigued by the look of Final Fantasy Rebirth, now is your chance to play the first part for 50% off.
 
 **Download** :[Final Fantasy VII Remake](https://store.playstation.com/en-us/product/UP0082-CUSA07211%5F00-FFVIIREMAKE00000) for $29.99 (50% off)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Be a Little Adventurous This Summer
 
  What better way is there to have an adventurous summer than to get your hands on a literal adventure for super cheap? The PlayStation summer sale will end on August 16th, 2023, so make sure you take a look and pick up a great deal before it’s too late.
@@ -101,3 +120,47 @@ thumbnail: https://thmb.techidaily.com/e5896cf8bd138a267d00eafc99f462dd02faf3099
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-rhythmic-resonance-how-to-choose-music-for-online-fame/"><u>[New] 2024 Approved  Rhythmic Resonance  How to Choose Music for Online Fame</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/53499823-new-2024-approved-youtube-subscriber-awards-the-play-button-awards-for-creators/"><u>[New] 2024 Approved  YouTube Subscriber Awards! The Play Button Awards for Creators</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-strategic-techniques-to-amplify-your-fb-giveaway-reach/"><u>[New] Strategic Techniques to Amplify Your FB Giveaway Reach</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-exploring-asuss-mg28uq-a-deep-dive-into-4k-uxga-for-2024/"><u>[Updated] Exploring ASUS's MG28UQ - A Deep Dive Into 4K UXGA for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-smart-compilation-best-6-fb-lite-videos/"><u>[Updated] Smart Compilation  Best 6 FB Lite Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-learn-to-soften-edges-and-focus-a-pcmobile-guide/"><u>2024 Approved  Learn to Soften Edges & Focus  A PC/Mobile Guide</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/aaa-publishers-scaling-dilemma-too-big-or-just-right-panel-discussion/"><u>AAA Publishers' Scaling Dilemma: Too Big, Or Just Right? [Panel Discussion]</u></a></li>
+<li><a href="https://games-able.techidaily.com/balancing-costs-with-ps5-gaming-memberships/"><u>Balancing Costs with PS5 Gaming Memberships</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridging-console-and-computer-joystick-connectivity-made-simple-156-chars/"><u>Bridging Console and Computer: Joystick Connectivity Made Simple (156 Chars)</u></a></li>
+<li><a href="https://games-able.techidaily.com/budget-smart-gaming-keyboards-roundup/"><u>Budget-Smart Gaming Keyboards Roundup</u></a></li>
+<li><a href="https://games-able.techidaily.com/ddr5-kingmakers-best-boards-of-24/"><u>DDR5 Kingmakers: Best Boards of '24</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-downloads-vs-hardcopy-holdings-in-gaming/"><u>Digital Downloads Vs. Hardcopy Holdings in Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-online-gameplay-strategy-based-activities-on-discord/"><u>Elevating Online Gameplay: Strategy-Based Activities on Discord</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminating-games-from-steam-a-step-by-step-guide/"><u>Eliminating Games From Steam: A Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-your-opera-experience-with-a-trial-of-free-nitro-membership/"><u>Enhance Your Opera Experience with a Trial of Free Nitro Membership</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-if-ea-play-merits-your-cash/"><u>Evaluating if EA Play Merits Your Cash</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-xiaomi-redmi-a2-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Xiaomi Redmi A2</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-crafting-timeless-videos-with-retro-filmmaking-skills/"><u>In 2024, Crafting Timeless Videos with Retro Filmmaking Skills</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-12-pro-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone 12 Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mf4770n-updates-for-streamlined-windows-functionality/"><u>MF4770n Updates for Streamlined Windows Functionality</u></a></li>
+<li><a href="https://games-able.techidaily.com/minimizing-unwanted-background-checks-by-game-bar/"><u>Minimizing Unwanted Background Checks by Game Bar</u></a></li>
+<li><a href="https://games-able.techidaily.com/nostalgia-unleashed-psp-games-on-iphone/"><u>Nostalgia Unleashed: PSP Games on iPhone!</u></a></li>
+<li><a href="https://games-able.techidaily.com/playstation-5-tips-to-ignite-your-gaming-passion/"><u>PlayStation 5: Tips to Ignite Your Gaming Passion</u></a></li>
+<li><a href="https://games-able.techidaily.com/recharge-joy-not-purchase-fix-your-own-controllers/"><u>Recharge Joy, Not Purchase - Fix Your Own Controllers</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-steam-decks-cloud-connectivity-problems/"><u>Resolving Steam Deck's Cloud Connectivity Problems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/rethinking-health-with-ai-can-chatgpt-help/"><u>Rethinking Health with AI: Can ChatGPT Help?</u></a></li>
+<li><a href="https://games-able.techidaily.com/safeguarding-personal-info-with-nintendo-switch-accounts/"><u>Safeguarding Personal Info with Nintendo Switch Accounts</u></a></li>
+<li><a href="https://games-able.techidaily.com/scripting-adventures-chatgpts-role-in-games/"><u>Scripting Adventures: ChatGPT's Role in Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-social-play-the-top-15-dual-platform-games/"><u>Seamless Social Play: The Top 15 Dual-Platform Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/sending-steam-titles-perfect-holiday-presents/"><u>Sending Steam Titles: Perfect Holiday Presents</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-8-lightweight-android-emulators-for-systems/"><u>Superior 8 Lightweight Android Emulators for Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/switch-chronicles-2024-the-handhnant-evolution/"><u>Switch Chronicles 2024 - The Handhnant Evolution</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-surprising-advantages-of-late-game-launches/"><u>The Surprising Advantages of Late Game Launches</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-8-authentic-youtube-boosting-platforms-for-2024/"><u>Top 8 Authentic YouTube Boosting Platforms for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultrabudget-mini-led-gamerview-pro/"><u>UltraBudget Mini-LED GamerView Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-playnites-true-impact-on-your-tv/"><u>Unlock Playnite's True Impact on Your TV</u></a></li>
+<li><a href="https://games-able.techidaily.com/win-more-points-top-achievement-hunt-websites-for-gamerscore/"><u>Win More Points: Top Achievement Hunt Websites for Gamerscore</u></a></li>
+<li><a href="https://games-able.techidaily.com/winmc-lan-woes-solutions-for-connection-issues/"><u>WinMC LAN Woes: Solutions for Connection Issues</u></a></li>
+</ul></div>

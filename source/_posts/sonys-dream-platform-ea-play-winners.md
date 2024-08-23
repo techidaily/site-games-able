@@ -1,0 +1,157 @@
+---
+title: Sony's Dream Platform – EA Play Winners
+date: 2024-08-22T22:31:39.802Z
+updated: 2024-08-23T22:31:39.802Z
+tags:
+  - games
+categories:
+  - games
+description: This Article Describes Sony's Dream Platform – EA Play Winners
+excerpt: This Article Describes Sony's Dream Platform – EA Play Winners
+keywords: Sony Dream Platform Gaming,EA Play,Sony Gaming Console Winners,Best PlayStation Games 2023,Sony eShop Gaming Competitions,Professional Esports Tournaments Playstation,Sony Vs. Xbox Gaming Battle 2023
+thumbnail: https://thmb.techidaily.com/9dde14122d86332e2939d12b71c8c112849e5b475313180be25192ee619462eb.jpg
+---
+
+## Sony's Dream Platform – EA Play Winners
+
+ EA Play is EA’s subscription service that lets you play some of EA’s best games for a monthly fee. You can get EA Play for Xbox, PC, or PlayStation, but paying for it on each of these won’t unlock it across all platforms. The games available in each store aren’t exactly the same.
+
+ That’s why we’ve compiled a list of the best EA games on the PS5\. With $4.99 a month, EA Play will grant you access to all the games on this list and will give you a permanent 10% discount, among other perks. Whether or not you have EA Play, this is worth perusing to know the best EA offers on the PS5.
+
+## 1\. It Takes Two
+
+ It Takes Two is an award-winning thrilling local cooperative platformer game by Hazelight Studios. The story follows Cody and May, a husband and wife at the cusp of a divorce, who both get transformed into dolls by a sentient relationship book called Dr. Hakim.
+
+ Two players must get the tiny characters from the garden shed to their house. They must avoid, maneuver, and overcome obstacles together as they journey to save their marriage. Many reviewers have described this game as genre-bending, and it’s one of the most refreshing games of its decade.
+
+ You can get it with an EA Play membership on the PS5 or upgrade an existing copy to the PS5 version. Of course, It Takes Two also gets the 10% EA Play discount if you wish to buy the full game and own it forever.
+
+## 2\. FIFA 23
+
+ Save money by buying the last FIFA game released and get it on EA Play. If you love soccer games and you’re tired of buying the same game every year with a different number on it, then go get FIFA through EA Play.
+
+[FIFA 23 is the last EA-FIFA game](https://www.makeuseof.com/why-ea-dropping-fifa-name/) because EA and FIFA’s 20-year partnership has come to an end. Therefore, FIFA 23 is a definitive game by virtue of it being the very last one in the series. Enjoy World Cups and FIFA-themed soccer in FIFA 23 because you might not get to feel it the same way in EA Sports FC (EA’s replacement for FIFA).
+
+ One of FIFA’s greatest appeals is its easy couch co-op system. It’s one of those games you should just have on your PS5 so you and your pals can have fun together. We placed it on this list as a good solution for multiplayer action for all soccer lovers.
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 3\. The Sims 4
+
+ Thanks to EA Play, you can[get the Sims 4 free of charge](https://www.makeuseof.com/how-to-download-and-play-the-sims-4-for-free/) . It’s a relatively old game, released in 2014, but it remains evergreen thanks to its timeless style and all the infinite possibilities and playstyles you can have in it. The Sims 4 is one of the best life simulation games, with options that let you create a Sims dynasty and family line that can go on for as long as you have time to play.
+
+ Additionally, one of the most understated things about The Sims 4 is its architecture and interior decor possibilities. If you don’t mind fiddling about columns and carpets using a joystick instead of a mouse, then The Sims 4 on a PS5 might be a good treat for you. And if you really dislike joystick simulation games, you can also[connect a keyboard and mouse to your PS5](https://www.makeuseof.com/how-to-use-keyboard-mouse-ps5/) .
+
+ Don’t forget that The Sims 4 has a lot of additional DLCs you can add to make the game a little more exciting. They do cost a bit of money, but it could be worth it if it drastically improves your game experience.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
+## 4\. Need for Speed Heat
+
+ You’ll find almost all the contemporary Need for Speed games available on EA Play membership, but if we had to choose only one, we’d pick Need for Speed Heat. It combines the cars and racing system of Payback and the police chases of Most Wanted ‘05 to create a unique experience.
+
+ In the day, you race on empty streets in legal, organized racing events, but at night, you rack up rep with illegal driving and exhilarating cop chases. As you gather rep at night, you unlock better car upgrades, parts, and vehicles to make your day racing easier.
+
+ While it’s a PS4 game, playing it on the PS5’s SSD makes the game a lot smoother and load way faster. Need for Speed Unbound is the only native PS5 Need for Speed game on EA Play, but we still recommend Heat over it because it’s just more fun.
+
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 5\. Plants vs Zombies Garden Warfare 2
+
+ The last thing people expected PopCap to pull off was an FPS game derived from the award-winning strategy game Plants vs Zombies. The original Garden Warfare was an unexpected hit FPS game when it came out. But the sequel builds on the original and improves the game with more characters, more content, and even a single-player mode.
+
+ While level progression in the game might be tedious, and you would need a[PlayStation Plus subscription](https://www.makeuseof.com/what-is-playstation-plus/) to access multiplayer, Garden Warfare 2 is fun enough to rank on our list. An EA Play sub will give you full access to the game and a generous discount if you decide to buy it.
+
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
+## 6\. Star Wars Jedi: Fallen Order
+
+ Star Wars fans and non-Star Wars fans alike will enjoy playing as a displaced Jedi in Fallen Order. Its captivating story, challenging combat and level progression mechanic, rich music, and breathtaking platform-like world have earned this game many awards and nominations since its release in 2019.
+
+ In this story, Cal Kestis, once a Jedi Padawan, is living in hiding before he is found by Imperial Inquisitors. Playing as Cal, you will attempt to outfox the Inquisitors, traveling across the galaxy and trying to rebuild the Jedi Order.
+
+ This is definitely one of the more exciting adventure games on EA Play. In fact, we think this is the best single-player action-adventure game available on EA Play’s Play List for the PS5\. You should get it if you want an immersive single-player game with a challenging combat system, a well-written storyline, and a beautiful setting.
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
+## 7\. UFC 3
+
+ EA Sports UFC 3 is the prequel to EA Sports UFC 4, and it’s one of the most realistic combat games out there. If you don’t want the hack-and-slash hyper magic from games like Mortal Kombat but would like some challenging but realistic 1v1 combat, then this is what you should opt for.
+
+ UFC 3 also takes the game out of the ring, and it’s the first UFC game to introduce G.O.A.T career mode, where you make decisions for your character outside of fighting. You can gain more fans, secure juicier contracts, and even antagonize rivals through the social media app in the game.
+
+ As long as you stay away from the micro-transactions (AKA Ultimate Team) part of this game, you will enjoy it if you love combat sports. This version also gets commentary from Snoop Dogg in addition to the usual Joe Rogan.
+
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## EA Play Is $5 Per Month of Unlimited Fun
+
+ EA Play is one of the best ways to save money on a PS5\. With EA Play, you get to play video games that could cost you thousands of dollars, all for $5/month. You can also use it as a great opportunity to test out games you were hoping to buy to see if it’s worth the money to you.
+
+ Load up some cash to your PSN Wallet, add a card, and buy an EA Play membership at least once in your PS5’s history. You have only $5 to lose.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-achieving-financial-gains-via-snapchat/"><u>[New] 2024 Approved  Achieving Financial Gains via Snapchat</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-professional-handbook-integrating-countdown-mechanisms-into-streaming-tools/"><u>[New] 2024 Approved  Professional Handbook  Integrating Countdown Mechanisms Into Streaming Tools</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-breakthroughs-in-ergonomic-office-design-for-high-efficiency/"><u>[New] Breakthroughs in Ergonomic Office Design for High Efficiency</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-capture-stillness-on-the-go-without-tripods-for-2024/"><u>[New] Capture Stillness on the Go without Tripods for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-ultimate-audio-capture-on-screen/"><u>[New] Ultimate Audio Capture on Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/4-premium-game-boy-advance-emulators-for-your-idevice/"><u>4 Premium Game Boy Advance Emulators for Your iDevice</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-reasons-why-gamers-should-buy-a-retro-handheld/"><u>5 Reasons Why Gamers Should Buy a Retro Handheld</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-buyers-guide-to-steam-decks/"><u>A Buyer's Guide to Steam Decks</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-comprehensive-guide-to-steam-screens/"><u>A Comprehensive Guide to Steam Screens</u></a></li>
+<li><a href="https://games-able.techidaily.com/ace-the-art-of-steam-wallet-financing/"><u>Ace the Art of Steam Wallet Financing</u></a></li>
+<li><a href="https://games-able.techidaily.com/adjusting-discords-game-overlay-on-pc/"><u>Adjusting Discord’s Game Overlay on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/adventure-awaits-in-augmented-reality/"><u>Adventure Awaits in Augmented Reality</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-chroma-gaming-keyboard-essentials/"><u>Affordable Chroma Gaming Keyboard Essentials</u></a></li>
+<li><a href="https://games-able.techidaily.com/akko-mod007b-hall-effect-keyboard-review-for-serious-gamers/"><u>Akko MOD007B Hall Effect Keyboard Review: For Serious Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/android-vs-iphone-the-strategic-showdown-of-tetris-mastery/"><u>Android vs iPhone: The Strategic Showdown of Tetris Mastery</u></a></li>
+<li><a href="https://games-able.techidaily.com/androids-legacy-classic-pokemon-experience/"><u>Android's Legacy: Classic Pokémon Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/are-mts-meriting-premium-game-credits/"><u>Are MTs Meriting Premium Game Credits?</u></a></li>
+<li><a href="https://games-able.techidaily.com/asus-rog-allys-elite-dock-selection-2024-highlights/"><u>ASUS ROG Ally's Elite Dock Selection - 2024 Highlights</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoid-frustration-test-for-cpu-related-performance-issues-in-pcs/"><u>Avoid Frustration: Test for CPU-Related Performance Issues in PCs</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/beautiful-beginnings-creating-your-personalized-glam-vlog/"><u>Beautiful Beginnings  Creating Your Personalized Glam Vlog</u></a></li>
+<li><a href="https://games-able.techidaily.com/before-you-buy-pause-here-4-ps5-warnings/"><u>Before You Buy, Pause Here: 4 PS5 Warnings</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-buys-5-points-portable-classics-captivate-us/"><u>Best Buys 5 Points: Portable Classics Captivate Us</u></a></li>
+<li><a href="https://techtrends.techidaily.com/compatibility-mode-usage-for-apps-on-windows-10-explained/"><u>Compatibility Mode Usage for Apps on Windows 10 Explained</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elevating-your-existence-on-the-web-expanding-your-youtube-following/"><u>Elevating Your Existence on the Web  Expanding Your Youtube Following</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/explore-10-elite-streamers-offering-freshest-live-content-for-2024/"><u>Explore 10 Elite Streamers Offering Freshest Live Content for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719163779461-how-different-cultures-have-developed-unique-approaches-to-map-design-and-symbolization/"><u>How Different Cultures Have Developed Unique Approaches to Map Design and Symbolization;</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-a70-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Itel A70 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-navigating-the-world-of-online-broadcasts-on-youtube-and-twitch-with-obs/"><u>In 2024, Navigating the World of Online Broadcasts on YouTube and Twitch with OBS</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-top-directors-weaving-visual-auditory-tapestries/"><u>In 2024, Top Directors Weaving Visual, Auditory Tapestries</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-from-apple-iphone-xs-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number From Apple iPhone XS</u></a></li>
+<li><a href="https://extra-information.techidaily.com/step-by-step-for-winning-anime-projects-via-movie-maker/"><u>Step-by-Step for Winning Anime Projects via Movie Maker</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-differences-between-microsofts-chatgpt-plus-and-the-revolutionary-claude-pro-ai/"><u>The Differences Between Microsoft's ChatGPT Plus and the Revolutionary Claude Pro AI</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172356979-unleash-gaming-with-chatgpt-experience-our-best-6/"><u>Unleash Gaming with ChatGPT - Experience Our Best 6</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719173835362-unlock-more-gaming-on-xbox-with-ultimate-plan/"><u>Unlock More Gaming on Xbox with Ultimate Plan!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-tecno-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Tecno Phone Network-Ready</u></a></li>
+</ul></div>

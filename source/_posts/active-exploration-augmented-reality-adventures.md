@@ -1,7 +1,7 @@
 ---
 title: "Active Exploration: Augmented Reality Adventures"
-date: 2024-07-12T04:20:13.680Z
-updated: 2024-07-13T04:20:13.680Z
+date: 2024-08-22T22:14:16.596Z
+updated: 2024-08-23T22:14:16.596Z
 tags:
   - games
 categories:
@@ -44,10 +44,20 @@ Close
 
 ![ZRX augmented reality mobile fitness game home tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/zrx-home.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![ZRX zombies run augmented reality mobile fitness game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/zrx-zombies.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![ZRX Zombies run augmented reality mobile game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/zrx-jolly.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Close
 
  ZRX is the only app on this list that is actually dedicated to fitness. Essentially, the app allows you to select an interactive story and choose how to track your run, and as you move so does the story.
@@ -58,12 +68,21 @@ Close
 
 **Download:** ZRX for [iOS](https://apps.apple.com/app/zrx-zombies-run-marvel-move/id503519713) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029750/https://play.google.com/store/apps/details?id=com.sixtostart.zombiesrunclient) (Free, in-app purchases and subscription available)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## 3\. Pokémon GO
 
 ![Pokemon GO augmented reality mobile game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pokemon-go.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Pokemon GO augmented reality mobile game lechonk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pokemon-go-lechonk.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Pokemon GO augmented reality mobile game sprigatito](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pokemon-go-sprigatito.jpg)
 
 Close
@@ -76,10 +95,16 @@ Close
 
 **Download:** Pokémon GO for [iOS](https://apps.apple.com/app/pok%C3%A9mon-go/id1094591345) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029750/https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo) (Free, in-app purchases available)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ## 4\. Draconius GO
 
 ![Draconius GO augmented reality mobile game world map](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/draconius-go-world.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![Draconius GO augmented reality mobile game firepaw](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/draconius-go-firepaw.jpg)
 
 ![Draconius GO augmented reality mobile game berrydillo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/draconius-go-berrydillo.jpg)
@@ -102,6 +127,9 @@ Close
 
 ![Star Walk 2 augmented reality mobile app pegasus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/star-walk-2-pegasus.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Close
 
  Stepping outdoors is not only limited to daylight hours. Spending some time outside at nighttime is also beneficial for your physical and mental well-being. Use the Star Walk 2 app to embrace the dark and learn more about the stars above you in the night sky.
@@ -116,6 +144,9 @@ Close
 
 ![Ingress Prime augmented reality mobile game items](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ingress-items.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![Ingress Prime augmented reality mobile game missions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ingress-missions.jpg)
 
 Close
@@ -126,14 +157,23 @@ Close
 
 **Download:** Ingress Prime for [iOS](https://apps.apple.com/app/ingress-prime/id576505181) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029750/https://play.google.com/store/apps/details?id=com.nianticproject.ingress) (Free, in-app purchases and subscription available)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Orna
 
 ![Orna The Adventure GPS RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/orna-world.jpg)
 
 ![Orna The Adventure GPS RPG character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/orna-character.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Orna The Adventure GPS RPG battle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/orna-battle.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Close
 
  If you're looking for an AR mobile game that is unlike any other, then you need to try Orna. While it is similar to other AR games because you have to move in real life to move in the in-game world map, what makes Orna unique is that it is based on old, classic-style RPG adventure games.
@@ -150,6 +190,9 @@ Close
 
 ![Pikmin Bloom augmented reality mobile game seedlings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pikmin-bloom-seeds.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 Close
 
  Not only is Pikmin Bloom a super cute AR mobile game, but it is relaxing, too. The game works using a step counter or GPS tracking on your phone and the basis is to gather seedlings, bloom flowers, and lots more.
@@ -183,3 +226,48 @@ Close
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-skyrocketing-performance-boosting-ram-in-minecraft/"><u>[New] In 2024, Skyrocketing Performance  Boosting RAM in Minecraft</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-solutions-for-non-deliverable-facebook-messenger-videos-on-androidios-for-2024/"><u>[New] Solutions for Non-Deliverable Facebook Messenger Videos on Android/iOS for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-create-meme-with-imgflip/"><u>[Updated] Create Meme with Imgflip</u></a></li>
+<li><a href="https://games-able.techidaily.com/counteracting-missing-elements-alert-on-pc/"><u>Counteracting Missing Elements Alert on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-asus-rog-ally-dock-wonders-for-24/"><u>Discover ASUS ROG Ally Dock Wonders for '24</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-top-3-nintendo-switch-stream-networks/"><u>Discover the Top 3 Nintendo Switch Stream Networks</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-versatranquility-of-gaming-without-a-controller/"><u>Discover the Versatranquility of Gaming Without a Controller</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhanced-call-of-duty-vanguard-performance-for-pc-gaming-end-of-the-crash-saga/"><u>Enhanced Call of Duty Vanguard Performance for PC Gaming - End of the Crash Saga</u></a></li>
+<li><a href="https://games-able.techidaily.com/enjoying-games-without-financial-commitment-our-six-picks/"><u>Enjoying Games Without Financial Commitment: Our SIX Picks</u></a></li>
+<li><a href="https://games-able.techidaily.com/extending-nintendo-switch-battery-health/"><u>Extending Nintendo Switch Battery Health</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-fun-gameplay-to-successful-titles-lessons-from-helldivers-2s-journey/"><u>From Fun Gameplay to Successful Titles: Lessons From Helldivers 2'S Journey</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-one-continent-to-another-on-your-nintendo-switch/"><u>From One Continent to Another on Your Nintendo Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-playstation-to-your-desktop-ps4-controller-guide/"><u>From PlayStation to Your Desktop: PS4 Controller Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/full-fledgon-baldurs-gate-3-playing-it-smoothly-on-macos/"><u>Full-Fledgon Baldur's Gate 3: Playing It Smoothly on macOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/heres-why-i-subscribe-to-apple-arcade-for-mobile-games/"><u>Here's Why I Subscribe to Apple Arcade for Mobile Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/identifying-cpu-overload-effects-on-pc-speed/"><u>Identifying CPU Overload Effects on PC Speed</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-create-captivating-music-reaction-videos-top-10-tips/"><u>In 2024, How to Create Captivating Music Reaction Videos - Top 10 Tips</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-unlocking-earning-potential-with-youtube-shorts-crucial-elements-possible-returns/"><u>In 2024, Unlocking Earning Potential with Youtube Shorts  Crucial Elements, Possible Returns</u></a></li>
+<li><a href="https://games-able.techidaily.com/industry-titans-or-inevitable-oligopoly-in-gaming-expert-panel-discussion/"><u>Industry Titans or Inevitable Oligopoly in Gaming? [Expert Panel Discussion]</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-nyts-influence-labyrinth/"><u>Navigating NYT's Influence Labyrinth</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-latest-graphics-milestone-ai-powered-dlss-update-35/"><u>Nvidia's Latest Graphics Milestone: AI-Powered DLSS Update 3.5</u></a></li>
+<li><a href="https://games-able.techidaily.com/ownership-odyssey-in-the-gaming-galaxy/"><u>Ownership Odyssey in the Gaming Galaxy</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-joypads-and-peripherals-the-leading-guide-to-the-nintendo-switch/"><u>Prime Joypads & Peripherals: The Leading Guide to the Nintendo Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-fix-for-forgotten-ps5-subscriptions/"><u>Quick Fix for Forgotten PS5 Subscriptions</u></a></li>
+<li><a href="https://games-able.techidaily.com/quiet-command-stop-console-rumbles-on-xbox/"><u>Quiet Command: Stop Console Rumbles on Xbox</u></a></li>
+<li><a href="https://games-able.techidaily.com/ready-for-combat-top-10-must-try-free-online-fps-games/"><u>Ready for Combat? Top 10 Must-Try Free Online FPS Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-xbox-joystick-to-computer-setup-guide-140-chars/"><u>Seamless Xbox Joystick to Computer Setup Guide (140 Chars)</u></a></li>
+<li><a href="https://games-able.techidaily.com/stellar-shaper-exploring-innovative-pc-brands/"><u>Stellar Shaper: Exploring Innovative PC Brands</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-8-essentials-for-navigating-ny-times-connections/"><u>The 8 Essentials for Navigating NY Times Connections</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-engaging-with-strands-nyts-word-puzzle/"><u>The Ultimate Guide to Engaging with 'Strands', NYT's Word Puzzle</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-creating-a-secure-console-environment-with-passcodes/"><u>The Ultimate Guide: Creating A Secure Console Environment with Passcodes</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-windows-registry-explained-how-it-affects-software-management/"><u>The Windows Registry Explained: How It Affects Software Management</u></a></li>
+<li><a href="https://games-able.techidaily.com/turn-off-visual-overlays-for-games-on-discord/"><u>Turn Off Visual Overlays for Games on Discord</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-hassle-free-communication-with-chatgpt-via-this-must-have-browser-addon/"><u>Unlock Hassle-Free Communication with ChatGPT via This Must-Have Browser Addon</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlock-your-potential-with-these-leading-cost-free-editions/"><u>Unlock Your Potential with These Leading Cost-Free Editions</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-the-cryptic-character-set-of-steam-ids/"><u>Unlocking the Cryptic Character Set of Steam IDs</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-7-most-advanced-bot-allies-for-twitch-stars/"><u>Unveiling the 7 Most Advanced Bot Allies for Twitch Stars</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-electronics-with-toms-technical-guide/"><u>Unveiling the Latest in Electronics with Tom's Technical Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrade-to-state-of-the-art-3d-illumination-in-game-rooms/"><u>Upgrade to State-of-the-Art 3D Illumination in Game Rooms</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/visual-branding-in-youtubes-design-tips-for-2024/"><u>Visual Branding in YouTubes  Design Tips for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/will-macos-become-central-in-game-development-trends/"><u>Will MacOS Become Central in Game Development Trends?</u></a></li>
+</ul></div>

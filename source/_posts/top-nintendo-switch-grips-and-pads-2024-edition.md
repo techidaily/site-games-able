@@ -1,7 +1,7 @@
 ---
 title: Top Nintendo Switch Grips and Pads, 2024 Edition
-date: 2024-07-12T04:15:44.471Z
-updated: 2024-07-13T04:15:44.471Z
+date: 2024-08-22T22:19:08.470Z
+updated: 2024-08-23T22:19:08.470Z
 tags:
   - games
 categories:
@@ -141,6 +141,9 @@ PowerA
 
 ![powera enhanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/powera-enhanced.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### PowerA Enhanced Wireless Controller for Nintendo Switch - Mario Pop
 
 Best for Battery Life
@@ -191,9 +194,15 @@ Most Customization
 
 [$84 at Amazon](https://www.amazon.com/KingKong-Wireless-Controller-Nintendo-Switch-Bluetooth/dp/B09QJN8ZD9?tag=makeusw-20&ascsubtag=UUmuoUeUpU35504&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-nintendo-switch-controllers%2F&asc%5Fcampaign=Commerce) [See at Walmart](https://www.walmart.com/ip/GuliKit-KingKong-2-Pro-Wireless-Bluetooth-Gamepad-for-Switch-Switch-OLED-PC-Android-MacOS-IOS-APG-Button-Dual-Vibration-Black/1256806802)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Best Joy-Con Replacements: Hori Nintendo Switch Split Pad Pro
 ![black colored Hori Split Pad Pro attached to a nintendo switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/black-colored-hori-split-pad-pro-attached-to-a-nintendo-switch.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 HORI
 
  The [HORI Nintendo Switch Pad Pro](https://www.amazon.com/Nintendo-Switch-Split-Ergonomic-Controller-Handheld/dp/B08FJ7XY3B?tag=makeusw-20&ascsubtag=UUmuoUeUpU35504&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-nintendo-switch-controllers%2F&asc%5Fcampaign=Commerce) is the perfect controller for Switch gamers who lean towards the handheld style of gameplay. Acting like a supersized Joy-Con, this slide-on controller set offers a full-size handheld experience, making your gameplay more immersive.
@@ -228,8 +237,14 @@ Best Joy-Con Replacements
 
 ##
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## FAQ
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ### Q: Can I use a third-party controller with the Nintendo Switch?
 
  Yes, you can. In fact, most of the controllers featured in our list are third-party controllers, and they work perfectly. Depending on the third-party controller, it'll either work as soon as you plug it in or after you've attached an adapter.
@@ -238,10 +253,16 @@ Best Joy-Con Replacements
 
  Yes, but it involves using an adapter. If you prefer a slimmer, more traditional controller, you can easily [connect PS4 and PS5 controllers to the Nintendo Switch](https://www.makeuseof.com/how-to-connect-ps4-ps5-controller-to-nintendo-switch/) .
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q: Can a pair of Joy-Cons be used as separate controllers?
 
  Indeed, they can. It doesn't work for every game on the Nintendo Switch, but many of Nintendo's first-party titles can be played with a single Joy-Con, like Mario Kart 8 Deluxe.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q: Are Joy-Cons still susceptible to stick drift?
 
  Unfortunately, yes. The good news is that you can send your [Joy-Cons to Nintendo for a free repair](https://www.makeuseof.com/how-to-send-joy-cons-off-for-free-repair/) , even if your system's warranty has expired. However, if you're a tech-savvy individual, you can always [fix Joy-Con drift yourself](https://www.makeuseof.com/ways-to-fix-joy-con-drift-nintendo-switch/) .
@@ -265,3 +286,45 @@ Best Joy-Con Replacements
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-explore-youtubes-finest-virtual-reality-content/"><u>[New] 2024 Approved  Explore  YouTube's Finest Virtual Reality Content</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-making-a-trendy-jujutsu-kaisen-tiktok-video/"><u>[New] 2024 Approved  Making a Trendy Jujutsu Kaisen TikTok Video</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-unlock-the-full-potential-of-your-youtube-videos-with-these-tips/"><u>[New] 2024 Approved  Unlock the Full Potential of Your YouTube Videos with These Tips</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-mastering-lengthy-iphone-photo-captures/"><u>[New] Mastering Lengthy iPhone Photo Captures</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-the-finest-televisions-on-the-market-top-ten-4ks/"><u>[New] The Finest Televisions on the Market – Top Ten 4Ks</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-unclutter-your-layout-expertly-remove-backgrounds-in-figma/"><u>[Updated] 2024 Approved  Unclutter Your Layout  Expertly Remove Backgrounds in Figma</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-prime-techniques-for-saving-app-scenes/"><u>[Updated] In 2024, Prime Techniques for Saving App Scenes</u></a></li>
+<li><a href="https://games-able.techidaily.com/10-common-mistakes-choosing-the-right-monitor/"><u>10 Common Mistakes: Choosing the Right Monitor</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-tech-handbook-working-with-srt-files-on-a-mac/"><u>2024 Approved  The Ultimate Tech Handbook  Working with SRT Files on a Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/8-must-visit-websites-for-all-gamers-and-reviewers/"><u>8 Must-Visit Websites for All Gamers and Reviewers</u></a></li>
+<li><a href="https://games-able.techidaily.com/9-important-tips-for-traveling-gamers/"><u>9 Important Tips for Traveling Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-brand-showdown-assessing-asus-tuf-proart-and-primes-performance/"><u>A Brand Showdown: Assessing Asus, TUF, ProArt & Prime's Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-deep-dive-into-steams-ultra-hd-mode/"><u>A Deep Dive Into Steam’s Ultra-HD Mode</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-list-of-blizzard-masterpieces-needing-a-second-chance-from-ms/"><u>A List of Blizzard Masterpieces Needing a Second Chance From MS</u></a></li>
+<li><a href="https://games-able.techidaily.com/ace-the-strategy-acquire-spiderman-2-early-edition-ps5/"><u>Ace the Strategy: Acquire SPIDERMAN 2 Early Edition PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/advanced-techniques-for-managing-switch-gamer-profiles/"><u>Advanced Techniques for Managing Switch Gamer Profiles</u></a></li>
+<li><a href="https://games-able.techidaily.com/ai-puzzles-unraveling-virtual-crime-stories/"><u>AI Puzzles Unraveling Virtual Crime Stories</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/amd-chip-support-packages-download-for-windows-11-7-8-and-81-users/"><u>AMD Chip Support Packages – Download for Windows 11, 7, 8 & 8.1 Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/assessing-compatibility-between-switch-oled-and-classic-docks/"><u>Assessing Compatibility Between Switch OLED and Classic Docks</u></a></li>
+<li><a href="https://games-able.techidaily.com/away-from-realms-ahead-in-your-own-dungeons/"><u>Away From Realms, Ahead in Your Own Dungeons</u></a></li>
+<li><a href="https://games-able.techidaily.com/bask-in-nature-top-8-ar-experiences/"><u>Bask in Nature - Top 8 AR Experiences</u></a></li>
+<li><a href="https://games-able.techidaily.com/batocera-vs-retropie-which-is-better-for-raspberry-pi-retro-gaming/"><u>Batocera Vs. RetroPie: Which Is Better for Raspberry Pi Retro Gaming?</u></a></li>
+<li><a href="https://games-able.techidaily.com/battlefronts-of-yesteryears-11-immersive-ww2-games/"><u>Battlefronts of Yesteryears: 11 Immersive WW2 Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/beam-of-brilliance-choose-broad-bold-framing-for-games/"><u>Beam of Brilliance: Choose Broad, Bold Framing for Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/behind-the-billions-in-virtual-realty-4-costly-considerations/"><u>Behind the Billions in Virtual Realty: 4 Costly Considerations</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-app-to-track-your-games-journeys/"><u>Best App to Track Your Games' Journeys</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-of-both-worlds-15-unique-mobile-dual-play-games/"><u>Best of Both Worlds: 15 Unique Mobile Dual Play Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-practices-for-parents-about-discord-usage/"><u>Best Practices for Parents About Discord Usage</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719166996281-end-glitches-adopt-the-updated-nvidia-graphics-driver-now/"><u>End Glitches! Adopt the Updated Nvidia Graphics Driver Now.</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-tecno-spark-20-proplus-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Tecno Spark 20 Pro+ Devices | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-13-mini-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset Apple iPhone 13 mini to Factory Settings? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-effortless-viewing-tackling-instagram-video-issues/"><u>In 2024, Effortless Viewing  Tackling Instagram Video Issues</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-vivo-v27-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Vivo V27</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-tecno-spark-20-proplus-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Tecno Spark 20 Pro+? Fixed | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719171391975-optimize-arcade-excitement-choose-wide-front-panels/"><u>Optimize Arcade Excitement - Choose Wide Front Panels!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/skyline-scenery-mastering-mobile-panoramas/"><u>Skyline Scenery  Mastering Mobile Panoramas</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719162118971-youtube-unveils-new-mini-games-learn-to-play/"><u>YouTube Unveils New Mini-Games; Learn to Play!</u></a></li>
+</ul></div>

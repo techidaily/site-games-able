@@ -1,7 +1,7 @@
 ---
 title: Understanding the Impact of AI on Nvidia’s DLSS Update 3.5
-date: 2024-07-12T04:14:59.438Z
-updated: 2024-07-13T04:14:59.438Z
+date: 2024-08-22T22:20:02.197Z
+updated: 2024-08-23T22:20:02.197Z
 tags:
   - games
 categories:
@@ -32,10 +32,16 @@ thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f6602
 
  DLSS 3.5 takes this further by using AI to reconstruct missing or noisy pixels in ray-traced scenes. Unlike previous versions of DLSS, which used hand-tuned denoisers for each lighting pass, DLSS 3.5 uses a single neural network that can generate higher-quality pixels for any lighting pass. This means that DLSS 3.5 can reduce artifacts like color inaccuracies, inaccurate lighting, and ghosting that sometimes occur with ray tracing.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Does DLSS 3.5 Work? What Is Ray Reconstruction?
 
 ![Ray Tracing Texel eXtreme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ray-tracing-texel-extreme.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
  DLSS 3.5 combines the best features of previous versions of DLSS while introducing a new technique called Ray Reconstruction. Ray Reconstruction is a novel way of using AI to improve the quality of ray tracing by generating higher-quality pixels from lower-quality ones.
 
  Ray tracing works by casting rays of light from the camera into the scene and calculating how they interact with the objects and materials in the scene. Each ray represents a pixel on the screen, and the more rays there are, the more accurate and detailed the lighting effects are.
@@ -48,6 +54,9 @@ thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f6602
 
  It analyzes each pixel on the screen and compares it with its corresponding ray in the scene. It then uses the information from the ray to reconstruct a more accurate pixel that matches the light source's color, brightness, and direction.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Are the Benefits of DLSS 3.5?
 
  Older versions of DLSS compete favorably in [upscaling comparisons](https://www.makeuseof.com/intel-xess-vs-nvidia-dlss/) . However, it offers even more benefits for gamers and creators who use ray tracing in their games and apps. Here are some of them:
@@ -59,6 +68,9 @@ thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f6602
 
 As you can see, DLSS 3.5 is a comprehensive upgrade from DLSS 3.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## When Will DLSS 3.5 Be Available?
 
  Nvidia says that DLSS 3.5 will be available in the fall of 2023, but it hasn't given a specific date yet. Nvidia also hasn't revealed which games will support DLSS 3.5 at launch, but we can expect some of the upcoming titles that use ray tracing or path tracing, such as Cyberpunk 2077 and Alan Wake 2, to be among the first ones.
@@ -82,3 +94,45 @@ As you can see, DLSS 3.5 is a comprehensive upgrade from DLSS 3.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-navigating-the-world-of-apex-legends-on-a-personal-platform-quest/"><u>[New] 2024 Approved  Navigating the World of Apex Legends on a Personal Platform Quest</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-enabling-successful-video-sharing-in-messenger-for-ios-and-android-users/"><u>[New] Enabling Successful Video Sharing in Messenger for iOS and Android Users</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-essential-guides-to-the-top-10-student-focused-history-vlogs/"><u>[Updated] 2024 Approved  Essential Guides to the Top 10 Student-Focused History Vlogs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-affordable-laptop-friendly-software-for-dvd-viewing/"><u>[Updated] Affordable, Laptop-Friendly Software for DVD Viewing</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-tailoring-the-last-push-how-to-edit-a-vimeo-video/"><u>[Updated] In 2024, Tailoring the Last Push  How to Edit a Vimeo Video</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-ultimate-screen-showdown-top-6-hdmi-21-monitors-reviewed/"><u>[Updated] In 2024, The Ultimate Screen Showdown  Top 6 HDMI 2.1 Monitors Reviewed</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-elite-web-recording-gadgets-ranked/"><u>2024 Approved  Elite Web Recording Gadgets Ranked</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/clear-conferencing-backdrops-blurring-for-better-presence-for-2024/"><u>Clear Conferencing Backdrops  Blurring for Better Presence for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/connect-your-laptop-stream-games-through-steam-deck/"><u>Connect Your Laptop, Stream Games Through Steam Deck</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/detailed-google-pixel-evolved-review-evaluating-the-new-shot-taking-experience/"><u>Detailed Google Pixel Evolved Review: Evaluating the New Shot-Taking Experience</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-kyocera-printer-drivers-on-windows-a-comprehensive-guide/"><u>Download & Install KYOCERA Printer Drivers on Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/ensuring-longevity-and-efficiency-with-proper-gpu-thermals/"><u>Ensuring Longevity and Efficiency with Proper GPU Thermals</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-factors-for-choosing-your-next-game-console/"><u>Essential Factors for Choosing Your Next Game Console</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/essential-techniques-recording-live-tv-online/"><u>Essential Techniques  Recording Live TV Online</u></a></li>
+<li><a href="https://games-able.techidaily.com/fine-tune-hdr-settings-for-improved-gameplay/"><u>Fine-Tune HDR Settings for Improved Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-windows-11-steam-disconnect-glitch/"><u>Fixing Windows 11 Steam Disconnect Glitch</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-delete-ps5-user-accounts/"><u>How to Delete PS5 User Accounts</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-game-integrity-compromised-a-step-by-step-guide/"><u>How to Fix 'Game Integrity Compromised': A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-11-pro-max-to-roku-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 11 Pro Max to Roku? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Oppo Reno 11F 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-samsung-galaxy-s23-tactical-edition-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Samsung Galaxy S23 Tactical Edition</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-remove-apple-iphone-8-plus-sim-lock-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone 8 Plus SIM Lock?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-seamless-media-transition-from-youtube-to-mp3-format/"><u>In 2024, Seamless Media Transition From YouTube to MP3 Format</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovate-your-gaming-sphere-with-the-steam-workshop-method/"><u>Innovate Your Gaming Sphere with the Steam Workshop Method</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-qanda-beyond-basic-usage-for-2024/"><u>Instagram Q&A  Beyond Basic Usage for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/leading-8-compact-emulators-android-gaming-pcmac/"><u>Leading 8 Compact Emulators: Android Gaming PC/Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/modular-game-console-akkos-revolutionary-mod007b-board/"><u>Modular Game Console: Akko's Revolutionary MOD007B Board</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-bandwidth-top-wired-solutions-for-gamers/"><u>Optimal Bandwidth: Top Wired Solutions For Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimized-airflow-patterns-reduce-cpu-overheating/"><u>Optimized Airflow Patterns Reduce CPU Overheating</u></a></li>
+<li><a href="https://games-able.techidaily.com/playstation-eternal-hygiene-controller-and-console-care/"><u>PlayStation Eternal Hygiene: Controller & Console Care</u></a></li>
+<li><a href="https://games-able.techidaily.com/starforge-voyager-creator-is-this-custom-gaming-pc-brand-worth-checking-out/"><u>Starforge Voyager Creator: Is This Custom Gaming PC Brand Worth Checking Out?</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/streamlined-iphone-snapchat-linkage-for-photographs-and-memories/"><u>Streamlined iPhone-Snapchat Linkage for Photographs & Memories</u></a></li>
+<li><a href="https://games-able.techidaily.com/surviving-xboxs-subscription-spike-tips-inside/"><u>Surviving Xbox's Subscription Spike - Tips Inside</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-insider-guide-to-changing-gamer-identities-on-riot-platforms/"><u>The Insider Guide to Changing Gamer Identities on Riot Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-perfect-android-setup-for-dreamcast-games-lovers/"><u>The Perfect Android Setup for Dreamcast Games Lovers</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-upsurge-of-infiltration-in-game-realms/"><u>The Upsurge of Infiltration in Game Realms</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-pc-potential-with-4-major-upgrades-from-corsairs-icue-link/"><u>Unleash PC Potential with 4 Major Upgrades From Corsair's iCUE Link</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-live-gold-transforms-your-guide-to-the-new-game-pass-structure/"><u>Xbox Live Gold Transforms: Your Guide to the New Game Pass Structure</u></a></li>
+</ul></div>
