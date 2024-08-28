@@ -1,7 +1,7 @@
 ---
 title: "From Console Joy to Computer Control: The Process Explained (156 Chars)"
-date: 2024-07-12T04:11:20.088Z
-updated: 2024-07-13T04:11:20.088Z
+date: 2024-08-27T17:00:07.055Z
+updated: 2024-08-28T17:00:07.055Z
 tags:
   - games
 categories:
@@ -56,6 +56,9 @@ thumbnail: https://thmb.techidaily.com/8d6fc5e965f8f403ab26d9d65a1bca0fa8c0fcf47
 
  Remember that the batteries in your Xbox controller will drain when using it wirelessly. To save money on batteries, we recommend picking up the [Xbox One Play and Charge Kit](https://www.amazon.com/Xbox-One-Play-Charge-Kit/dp/B00DBDPOZ4?th=1&psc=1&linkCode=ll1&tag=muo-v2-pagvhls-20&linkId=141e39c0797a1d7786bbe752350e72cf&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU26753&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Ftag%2Fconnect-xbox-one-controller-pc%2F&asc%5Fcampaign=Evergreen) (Xbox One controllers) or the [Xbox Rechargeable Battery](https://www.amazon.com/Xbox-Rechargeable-Battery-USB-C%C2%AE-Cable-one/dp/B08DFB4889?crid=2M3PAHF8MA3Y4&dchild=1&keywords=series%2Bx%2Bplay%2Band%2Bcharge%2Bkit&qid=1616106289&sprefix=series%2Bx%2Bplay%2Caps%2C168&sr=8-2&th=1&linkCode=ll1&tag=muo-v2-pagvhls-20&linkId=7d0bf187ffc186ab3a95d34957c4f9bf&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU26753&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Ftag%2Fconnect-xbox-one-controller-pc%2F&asc%5Fcampaign=Evergreen) (Series X|S controllers) to give your controller recharging capabilities. You can easily plug your controller into your PC when you're not using it, so it will always be ready for your next session.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Use the Xbox Wireless Adapter to Pair Your Xbox One Controller to a PC
 
  Microsoft has a standard called**Xbox Wireless** that's built into a few computers, though it's likely not part of yours. So to sync your Xbox controller and PC wirelessly without Bluetooth, you'll need to buy the [Xbox Wireless Adapter](https://www.amazon.com/Microsoft-Xbox-Wireless-Adapter-Windows-one/dp/B00ZB7W4QU?linkCode=ll1&tag=muo-v2-pagvhls-20&linkId=4652892b504e435c77bf3a3d5f0b6779&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU26753&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Ftag%2Fconnect-xbox-one-controller-pc%2F&asc%5Fcampaign=Evergreen) .
@@ -68,6 +71,9 @@ thumbnail: https://thmb.techidaily.com/8d6fc5e965f8f403ab26d9d65a1bca0fa8c0fcf47
 
  From here, you can enjoy your Xbox controller on your PC wirelessly, just like using Bluetooth. We only recommend this method if you have an Xbox One controller that's not Bluetooth-enabled, though. Otherwise, it's better to [add Bluetooth to your computer](https://www.makeuseof.com/add-bluetooth-pc/) with an adapter that's cheaper than the Xbox Wireless Adapter. You could also put the money that you'd spend on the Xbox Wireless Adapter towards a new Series X|S controller.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Reconnect Your Xbox Controller to Your Console
 
  Keep in mind that if your Xbox controller is already paired to an Xbox One or Series X|S console, pressing the**Xbox** button will turn that system on. You should still be able to pair the controller to your PC wirelessly using either of the methods above, but you'll probably want to turn your console off after you do so (or shut down and unplug it before you start). Trying to connect your controller to multiple devices at once will cause issues.
@@ -82,6 +88,9 @@ thumbnail: https://thmb.techidaily.com/8d6fc5e965f8f403ab26d9d65a1bca0fa8c0fcf47
 
  Finally, remember that you can turn off your Xbox controller (when it's not connected to a PC or console with a cable) by holding the**Xbox** button for around five seconds. When the light on this button goes out, your controller is off.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## Connect an Xbox Controller to Your PC Easily
 
  You have plenty of options for connecting an Xbox One or Xbox Series X|S controller to your PC. Whether you want to connect with a USB cable for the simplest option or prefer to connect wirelessly with Bluetooth, now you understand the available methods.
@@ -107,3 +116,60 @@ thumbnail: https://thmb.techidaily.com/8d6fc5e965f8f403ab26d9d65a1bca0fa8c0fcf47
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-ultimate-guide-to-polaroid-camplus-for-action-enthusiasts/"><u>[New] 2024 Approved  The Ultimate Guide to Polaroid Cam+ for Action Enthusiasts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-affordable-storage-solutions-top-30-free-services-with-massive-1tbplus-space-capacity/"><u>[New] Affordable Storage Solutions  Top 30 Free Services with Massive (1TB+) Space Capacity</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-advanced-tips-for-accurate-and-smooth-hp-laptop-screen-capture/"><u>[New] In 2024, Advanced Tips for Accurate and Smooth HP Laptop Screen Capture</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-transformative-editing-mastering-blend-mode-applications/"><u>[New] In 2024, Transformative Editing  Mastering Blend Mode Applications</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-secure-re-entry-resuming-fb-usage-post-hack-for-2024/"><u>[New] Secure Re-Entry  Resuming Fb Usage Post Hack for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-step-into-professionalism-aiseesofts-screen-recording-made-accessible-for-2024/"><u>[New] Step Into Professionalism  Aiseesoft's Screen Recording Made Accessible for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-streamline-your-fb-feeds-with-these-5-video-grabbers/"><u>[New] Streamline Your FB Feeds with These 5 Video Grabbers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-sharpening-recording-quality-by-removing-borders/"><u>[Updated] Sharpening Recording Quality by Removing Borders</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-strategies-for-effective-video-markup-on-youtube/"><u>[Updated] Strategies for Effective Video Markup on YouTube</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-how-to-amplify-in-game-voices-naturally-step-by-step-process-for-free-fire-players/"><u>2024 Approved  How to Amplify In-Game Voices Naturally  Step-by-Step Process for Free Fire Players</u></a></li>
+<li><a href="https://games-able.techidaily.com/daily-skills-to-surpass-the-new-york-social-ladder/"><u>Daily Skills to Surpass the New York Social Ladder</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminating-faulty-card-status-alerts-in-gaming-devices/"><u>Eliminating Faulty Card Status Alerts in Gaming Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/end-to-ps5-shortage-predicting-retail-pricing-changes/"><u>End to PS5 Shortage: Predicting Retail Pricing Changes</u></a></li>
+<li><a href="https://games-able.techidaily.com/energy-ethics-a-vision-for-progress/"><u>Energy Ethics: A Vision for Progress</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-virtual-worlds-with-smart-3d-modeling/"><u>Enhancing Virtual Worlds with Smart 3D Modeling</u></a></li>
+<li><a href="https://games-able.techidaily.com/ensuring-your-xbox-series-x-stays-peak-performance/"><u>Ensuring Your Xbox Series X Stays Peak Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/evolving-game-scripting-with-ai-assistance/"><u>Evolving Game Scripting with AI Assistance</u></a></li>
+<li><a href="https://games-able.techidaily.com/fine-tuning-for-triumph-fps-game-settings/"><u>Fine-Tuning for Triumph: FPS Game Settings</u></a></li>
+<li><a href="https://games-able.techidaily.com/flashfest-of-fun-ephemeral-gameplay-perks/"><u>FlashFest of Fun: Ephemeral Gameplay Perks</u></a></li>
+<li><a href="https://games-able.techidaily.com/freezing-files-no-more-clearing-steams-content-file-locked/"><u>Freezing Files No More: Clearing Steam’s Content File Locked</u></a></li>
+<li><a href="https://games-able.techidaily.com/future-of-illumination-leds/"><u>Future of Illumination: LEDs</u></a></li>
+<li><a href="https://games-able.techidaily.com/gpu-face-off-comparing-4070-super-to-4070-ti-and-4080/"><u>GPU Face-Off: Comparing 4070 Super To 4070 Ti And 4080</u></a></li>
+<li><a href="https://games-able.techidaily.com/hack-for-harvesting-and-housing-mc-worlds/"><u>Hack for Harvesting and Housing MC Worlds</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-reactivate-a-dead-microsoft-controller-on-windows/"><u>How to Reactivate a Dead Microsoft Controller on Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-reactivate-playstations-licenses/"><u>How to Reactivate PlayStation's Licenses</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-honor-x50-gt-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Honor X50 GT to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-vivo-g2-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Vivo G2 Phone When You Forget the Password</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-picshot-your-pathway-to-hassle-free-photo-compilation/"><u>In 2024, Picshot  Your Pathway to Hassle-Free Photo Compilation</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovating-video-games-chatgpts-contribution/"><u>Innovating Video Games: ChatGPT's Contribution</u></a></li>
+<li><a href="https://games-able.techidaily.com/insights-into-nvidias-ai-improved-dlss-35/"><u>Insights Into Nvidia’s AI-Improved DLSS 3.5</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-honor-90-lite-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Honor 90 Lite? Fixed | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/jumpstart-joy-fast-and-fun-online-gaming-picks/"><u>Jumpstart Joy: Fast and Fun Online Gaming Picks</u></a></li>
+<li><a href="https://games-able.techidaily.com/leap-across-minecraft-versions-bedrock-to-java-geysermc-bridge/"><u>Leap Across Minecraft Versions: Bedrock to Java, GeyserMC Bridge</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-the-art-snagging-premium-steam-titles-at-no-cost/"><u>Master the Art: Snagging Premium Steam Titles at No Cost</u></a></li>
+<li><a href="https://games-able.techidaily.com/netflixs-mobile-games-are-well-worth-playing-heres-why-i-love-them/"><u>Netflix's Mobile Games Are Well Worth Playing: Here's Why I Love Them</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-your-connection-speed-lowering-high-network-latency/"><u>Optimizing Your Connection Speed: Lowering High Network Latency</u></a></li>
+<li><a href="https://games-able.techidaily.com/pc-matchmaking-verifying-part-compatibility/"><u>PC Matchmaking: Verifying Part Compatibility</u></a></li>
+<li><a href="https://games-able.techidaily.com/power-play-reimagined-the-premier-nintendo-switch-docks-of-2024/"><u>Power Play Reimagined: The Premier Nintendo Switch Docks of 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-couch-collaboration-titles-for-xbox-series-consoles/"><u>Prime Couch Collaboration Titles for Xbox Series Consoles</u></a></li>
+<li><a href="https://games-able.techidaily.com/refund-your-xbox-games-step-by-step-guide/"><u>Refund Your Xbox Games - Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/simplifying-complexity-pythons-role-in-gpt-3/"><u>Simplifying Complexity: Python's Role in GPT-3</u></a></li>
+<li><a href="https://games-able.techidaily.com/smart-spending-on-cutting-edge-vr-headsets/"><u>Smart Spending on Cutting-Edge VR Headsets</u></a></li>
+<li><a href="https://games-able.techidaily.com/sonys-dream-platform-ea-play-winners/"><u>Sony's Dream Platform – EA Play Winners</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-game-price-archive-unveiled/"><u>Steam's Game Price Archive Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-screen-capture-on-steam-gaming/"><u>Streamline Screen Capture on Steam Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-your-steam-profile-hunt/"><u>Streamline Your Steam Profile Hunt</u></a></li>
+<li><a href="https://games-able.techidaily.com/tech-tango-the-perfect-sync-dance-with-an-xbox-one-remote/"><u>Tech Tango: The Perfect Sync Dance with an Xbox One Remote</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-plan-a-gamers-dream-on-xbox/"><u>The Ultimate Plan: A Gamer's Dream on Xbox?</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-xbox-series-experience-personalize-your-variable-refresh-rate/"><u>The Ultimate Xbox Series Experience: Personalize Your Variable Refresh Rate</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-9-settings-for-a-fully-customized-and-optimized-switch/"><u>Top 9 Settings for a Fully Customized and Optimized Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/unbox-pimaxs-vision-ahead-of-time-with-slip-ups/"><u>Unbox Pimax's Vision: Ahead of Time with Slip-Ups</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-joy-with-top-10-no-cost-no-ad-games-on-smartphones/"><u>Unleash Joy with Top 10 No-Cost, No-Ad Games on Smartphones</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-is-intel-stream-assist-and-how-does-it-make-game-streaming-better/"><u>What Is Intel Stream Assist and How Does It Make Game Streaming Better?</u></a></li>
+</ul></div>

@@ -1,0 +1,178 @@
+---
+title: Coordinating Multiple PS5 Game Clubs Effectively
+date: 2024-08-27T17:09:02.881Z
+updated: 2024-08-28T17:09:02.881Z
+tags:
+  - games
+categories:
+  - games
+description: This Article Describes Coordinating Multiple PS5 Game Clubs Effectively
+excerpt: This Article Describes Coordinating Multiple PS5 Game Clubs Effectively
+keywords: PS5 Gaming Coordination,Managing Multi-Club Games,PS5 Club Leadership,Syncing PS5 Groups,Efficient PS5 Clusters,Unified PS5 Teams,Clubs Game Strategy
+thumbnail: https://thmb.techidaily.com/0ef39d9a604e71499226be4f237e87d1b86c04c6f94c96b9949bbc0cc087d2d2.jpg
+---
+
+## Coordinating Multiple PS5 Game Clubs Effectively
+
+ Subscriptions can make gaming a lot cheaper by giving you huge discounts and offering you game bundles for a small recurring fee. Sony has integrated this into the PS5 by creating a section for gaming subscriptions in the PlayStation Store and a way to manage them all in Settings.
+
+ We’ll show you everything you need to know to navigate subscriptions, where you can find them, and how to cancel and renew them.
+
+## What Are the Available Gaming Subscriptions on the PS5?
+
+ You can find the dedicated PlayStation Store subscriptions page by going to the**PlayStation Store** and tapping**R1** on your controller till you reach**Subscriptions** .
+
+![EA Play in PlayStation Store's subscription page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ea-play-in-playstation-store-s-subscription-page.JPG)
+
+ While there’s a dedicated page for subscriptions, Sony offers only three for the US region:
+
+* **PlayStation Plus** \- Sony’s flagship game subscription service. You can learn all about the[PlayStation Plus subscription tiers](https://www.makeuseof.com/playstation-plus-essential-vs-extra-vs-premium/) in our dedicated guide.
+* **Ubisoft+ Classics** \- A compilation of some of the best Ubisoft games on PlayStation. It comes with a PS Plus Extra and Premium subscription.
+* **EA Play** \- It’s a standalone EA subscription that grants you access to generous discounts and access to over 50 games for only $5/month. We’ve previously explained[how to subscribe to EA Play on your PS5](https://www.makeuseof.com/how-to-subscribe-to-and-use-ea-play-on-ps5/) if you’re interested.
+
+ Sony might add more subscriptions down the line, but this is all it offers for now. You can check back to this page as often as possible to see what’s new. Sometimes there could be huge sales on the subscriptions, too.
+
+## How to Manage Your PS5 Subscriptions
+
+ You pay for subscriptions by going to**Subscriptions** in the PlayStation Store, and you can also view the games in their collections from there. However, there’s a dedicated panel in the PS5’s settings for managing your ongoing or terminated gaming subscriptions.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
+### How to View Your PS5 Subscriptions
+
+ If you would like to have a look at all the subscriptions you’ve made on your PS5 (active and inactive), here’s what to do:
+
+1. Open**Settings** and go to**Users and Accounts** .  
+![Users and Accounts section of the PS5 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/users-and-accounts-section-of-the-ps5-settings.JPG)
+2. Select**Account** inside the Users and Accounts panel and choose**Payment and Subscriptions** .
+3. Scroll down the Payment and Subscriptions menu and select**Subscriptions** to a list of your subscriptions.  
+![List of subscriptions in the Subscriptions page of the PS5's settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/list-of-subscriptions-in-the-subscriptions-page-of-the-ps5-s-settings.JPG)
+
+ If you have no current or previous subscriptions, you’ll see a message saying, “You don’t have any subscriptions right now.”
+
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### How to Cancel Your PS5 Subscriptions
+
+ For those who have active subscriptions, you can easily cancel them by following these steps:
+
+1. After you go to **Settings > Users and Accounts > Account > Payment and Subscriptions > Subscriptions** , you should see a list of your subscriptions.
+2. Select the one you would like to cancel.
+3. Navigate to the**Cancel Subscription** button on the left and tap**X** on your controller.  
+![EA Play subscription settings page on a PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ea-play-subscription-settings-page-on-a-ps5.JPG)
+4. You’ll get a message informing you that you won’t be billed again for your subscription.  
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Prompt notifying when EA Play subscription will cancel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/prompt-notifying-when-ea-play-subscription-will-cancel.JPG)
+
+ Canceling your subscription doesn’t mean losing your benefits. Your benefits only expire once the subscription has run its course. Canceling only means you won’t be charged again.
+
+ Even with an inactive (or canceled) subscription, you can return here to manually buy your subscription again by selecting**Buy Again** . This saves you from being debited every month or year, and you can choose when exactly you would like to renew your subscription as long as it’s before the billing month ends.
+
+### How to Renew Your PS5 Subscriptions
+
+ If you have a subscription you once paid for, like PlayStation Plus, for example, you can renew it in subscription settings. But “renewal” only happens when your subscription billing month has ended.
+
+Here’s how to renew a PS5 gaming subscription:
+
+1. Go to **Settings > Users and Accounts > Account > Payment and Subscriptions > Subscriptions** to open your list of subscriptions.
+2. Choose the one you would like to renew from the list.
+3. Select**Subscribe** .  
+![PlayStation Plus subscription page in the PS5's subscription settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/playstation-plus-subscription-page-in-the-ps5-s-subscription-settings.JPG)
+4. Follow the payment steps.
+
+ That’s all it takes to renew a subscription on your PS5\. You will be billed recurrently until you cancel with the above-mentioned steps.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Keep Track of All Your PS5 Subscriptions
+
+ Subscriptions can rack up, and they are sneaky, easy-to-forget bills. However, the PS5 does make it easy with the way its UI works. Even though the subscriptions are embedded a little deep in the settings, it’s pretty easy to navigate and keep tabs on your subscriptions once you know where it is.
+
+ And once again, subscriptions can be a great way to make gaming on a PS5 cheaper.
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## FAQ
+
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Q: How Do You Refund PlayStation Store Purchases?
+
+ If you have made a digital purchase through your PlayStation 5 or PlayStation account but want to refund the payment, as long as you made the purchase within the last 14 days and haven't started downloading or streaming the product, you can get a full refund from Sony. Luckily, all it takes to[refund your digital PlayStation purchases](https://www.makeuseof.com/how-to-refund-game-ps4-ps5/) is for you to contact PlayStation Support.
+
+### Q: How Do You Change Your PlayStation Plus Subscription Plan?
+
+ To change your PlayStation Plus subscription tier, sign into your PlayStation account's**Account Management** settings online via[the official PlayStation website](https://id.sonyentertainmentnetwork.com/id/management%5Fca/?entry=p&pr%5Freferer=cam#/p/personal%5Finfo/list?cid=4a529aef-a3f3-41a6-a999-42f529175674&entry=p&state=cam%5F3af0585034c611577fab15ef3a9128ae) . From here, click on**Subscription** and select your**PlayStation Plus** subscription. Select**Change Plan** , then choose the plan you wish to switch to. Conveniently, if you want to[cancel your PlayStation Plus subscription](https://www.makeuseof.com/how-to-cancel-playstation-plus/) online, you can do so from the same**Subscription** settings page.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-become-a-pro-in-calculating-youtube-ratio-measures-for-2024/"><u>[New] Become a Pro in Calculating YouTube Ratio Measures for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/lite-visionaries-video-realm-for-2024/"><u>[New] Elite Visionaries  Video Realm for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-drive-traffic-and-growth-with-youtube-analytic-insights/"><u>[New] In 2024, Drive Traffic and Growth with YouTube Analytic Insights</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-amplifying-impact-youtube-visibility-techniques-for-2024/"><u>[Updated] Amplifying Impact  YouTube Visibility Techniques for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-2023-best-facebook-video-downloader-and-addons-for-firefox/"><u>[Updated] In 2024, 2023 | Best Facebook Video Downloader And Addons for Firefox</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-fb-call-video-logging-essential-steps-in-4-ways/"><u>[Updated] In 2024, FB Call Video Logging - Essential Steps in 4 Ways</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-green-blueprint-planning-for-a-resilient-urban-future/"><u>[Updated] In 2024, Green Blueprint  Planning for a Resilient Urban Future</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-the-metric-questioning-critic-consensus/"><u>Beyond the Metric: Questioning Critic Consensus</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-the-score-what-should-a-steam-user-care-about/"><u>Beyond the Score: What Should a Steam User Care About?</u></a></li>
+<li><a href="https://games-able.techidaily.com/bluetooth-sync-sony-console-and-earpieces/"><u>Bluetooth Sync: Sony Console & Earpieces</u></a></li>
+<li><a href="https://games-able.techidaily.com/bluetooth-wireless-gaming-with-ps5/"><u>Bluetooth Wireless Gaming with PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-immersion-with-ideal-ps-vr2-components/"><u>Boosting Immersion with Ideal PS VR2 Components</u></a></li>
+<li><a href="https://games-able.techidaily.com/bootlegging-game-boy-games-using-linux-tools/"><u>Bootlegging Game Boy Games Using Linux Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/boundaries-blurred-windows-and-steamos-living-side-by-side/"><u>Boundaries Blurred: Windows and SteamOS Living Side By Side</u></a></li>
+<li><a href="https://games-able.techidaily.com/breaking-down-the-concept-of-dual-mode-monitors/"><u>Breaking Down the Concept of Dual-Mode Monitors</u></a></li>
+<li><a href="https://games-able.techidaily.com/breaking-down-what-makes-cozy-games-beloved/"><u>Breaking Down What Makes Cozy Games Beloved</u></a></li>
+<li><a href="https://games-able.techidaily.com/breaking-the-isolation-quick-tips-for-rejoining-your-mc-network/"><u>Breaking the Isolation: Quick Tips for Rejoining Your MC Network</u></a></li>
+<li><a href="https://games-able.techidaily.com/breezy-bonuses-limited-time-gaming-perks/"><u>Breezy Bonuses: Limited-Time Gaming Perks</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridging-non-responsive-controllers-with-winxbox-integration/"><u>Bridging Non-Responsive Controllers with WinXbox Integration</u></a></li>
+<li><a href="https://games-able.techidaily.com/bring-back-sound-to-xbox-one-unplug-headset-fixes/"><u>Bring Back Sound to Xbox One - Unplug Headset Fixes</u></a></li>
+<li><a href="https://games-able.techidaily.com/bring-back-your-games-global-connection/"><u>Bring Back Your Game's Global Connection</u></a></li>
+<li><a href="https://games-able.techidaily.com/bringing-back-lost-ps5-game-access/"><u>Bringing Back Lost PS5 Game Access</u></a></li>
+<li><a href="https://games-able.techidaily.com/bringing-past-hits-to-present-xemus-role-in-pc-gaming/"><u>Bringing Past Hits to Present: Xemu's Role in PC Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/budget-breakdown-for-switch-online-expansion/"><u>Budget Breakdown for Switch Online Expansion</u></a></li>
+<li><a href="https://games-able.techidaily.com/budget-friendly-gaming-brilliance-our-selection-of-the-finest-1440p-displays/"><u>Budget-Friendly Gaming Brilliance: Our Selection of the Finest 1440P Displays</u></a></li>
+<li><a href="https://games-able.techidaily.com/budget-friendly-vr-explorers/"><u>Budget-Friendly VR Explorers</u></a></li>
+<li><a href="https://games-able.techidaily.com/building-the-ultimate-gaming-beast-key-parts/"><u>Building the Ultimate Gaming Beast: Key Parts</u></a></li>
+<li><a href="https://games-able.techidaily.com/business-systems-versus-playstation-efficacy/"><u>Business Systems Versus PlayStation Efficacy</u></a></li>
+<li><a href="https://games-able.techidaily.com/calculating-graphics-card-memory-space/"><u>Calculating Graphics Card Memory Space</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-apples-ecosystem-drive-future-gaming-trends/"><u>Can Apple's Ecosystem Drive Future Gaming Trends?</u></a></li>
+<li><a href="https://games-able.techidaily.com/captivating-audiences-through-twitch-streaming-on-phone/"><u>Captivating Audiences Through Twitch Streaming on Phone</u></a></li>
+<li><a href="https://games-able.techidaily.com/celebrating-java-games-a-summary-of-wins/"><u>Celebrating Java Games: A Summary of Wins</u></a></li>
+<li><a href="https://games-able.techidaily.com/change-ps5-home-screen-image/"><u>Change PS5 Home Screen Image</u></a></li>
+<li><a href="https://games-able.techidaily.com/changing-backgrounds-on-ps5-console/"><u>Changing Backgrounds on PS5 Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/chip-challenge-intel-vs-amd-for-gamers-delight/"><u>Chip Challenge: Intel Vs. AMD for Gamers' Delight?</u></a></li>
+<li><a href="https://games-able.techidaily.com/choose-wisely-6-things-before-committing-to-ps5/"><u>Choose Wisely: 6 Things Before Committing to PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/claim-free-games-with-just-one-sign-in/"><u>Claim Free Games with Just One Sign-In</u></a></li>
+<li><a href="https://games-able.techidaily.com/clean-slate-deleting-ps5-login-details/"><u>Clean Slate: Deleting PS5 Login Details</u></a></li>
+<li><a href="https://games-able.techidaily.com/clearing-roblox-problem-262/"><u>Clearing Roblox: Problem 262</u></a></li>
+<li><a href="https://games-able.techidaily.com/collaborative-constructions-best-group-play-techniques-in-minecraft/"><u>Collaborative Constructions: Best Group Play Techniques in Minecraft</u></a></li>
+<li><a href="https://games-able.techidaily.com/compact-and-high-res-innocn-39g1-display/"><u>Compact & High Res: InnoCN 39G1 Display</u></a></li>
+<li><a href="https://games-able.techidaily.com/comparing-founders-design-with-asus-branded-graphics-card/"><u>Comparing Founder's Design with Asus-Branded Graphics Card</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/full-screen-fixes-for-online-streams/"><u>Full-Screen Fixes for Online Streams</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimize-win11-easy-intel-3000-driver-installation/"><u>Optimize Win11 - Easy Intel 3000 Driver Installation</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/t5-eye-cam-ultimate-action-recorder/"><u>T5 Eye Cam  Ultimate Action Recorder</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-get-final-cut-pro-for-less-take-advantage-of-our-education-discount/"><u>Updated 2024 Approved Get Final Cut Pro for Less Take Advantage of Our Education Discount</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Discover Next Generation Handheld Power - PDW4
-date: 2024-07-12T04:10:11.206Z
-updated: 2024-07-13T04:10:11.206Z
+date: 2024-08-27T17:01:00.882Z
+updated: 2024-08-28T17:01:00.882Z
 tags:
   - games
 categories:
@@ -110,6 +110,9 @@ Windows 11 pre-installed
 
  In fact, apart from a few console titles, you can play most games ever released on this device.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## It’s Like a Steam Deck With a Physical Keyboard
 
 One of the most stunning features of this device is the keyboard.
@@ -122,12 +125,18 @@ One of the most stunning features of this device is the keyboard.
 
  That said, the action on the display’s sliding motion is nice. It feels like using a classic Windows Mobile phone, but this is arguably a direct lineage of “Pocket PC,” regardless of how many iterations and companies it took to get there.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ## What Does the GPD Win 4 Gaming Handheld Ship With?
 
  Cracking open the GPD Win 4 box reveals a modest collection of kit. Aside from the Sony PlayStation Portable-esque main device, there is a wrist strap, screen protector, and USB Type-C mains power adapter.
 
  The cable detaches from the charger (it’s USB Type-C at both ends) which makes it pretty flexible for most scenarios. Sadly, there's no case or even a small tote bag with this handheld. Accessories are available for the device, however, including a case.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## GPD Win 4 Gaming Handheld System Specification
 
  The specification for this handheld PC will surprise you. For context, it measures 220 x 92 x 28mm (8.66 x 3.62 x 1.1 inches), and weighs 598g (21.1oz). Inside its PSP-inspired chassis, you’ll find an AMD Ryzen 7 6800U with AMD Radeon 680M graphics, 16GB of RAM, and a 1TB M.2 SSD with Windows 11 pre-installed. The OS ensures all expected video, audio, and picture formats are playable.
@@ -146,6 +155,9 @@ One of the most stunning features of this device is the keyboard.
 
  The Corning Gorilla Glass 5 display is a 6-inch H-IPS with 1080p resolution, 368PPI, and refresh rate options of 40Hz and 60Hz. It boasts flicker-free DC light dimming and hides a QWERTY keyboard beneath. Sliding the display up reveals the keyboard; no other controls are hidden.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## USB Type C Expansion Options Turn It Into a PC
 
  With a suitable hub attached, the GPD Win 4 supports various expansions. Game controllers, printers, and input devices—they’re all compatible. You can watch videos, listen to music, and read eBooks.
@@ -158,6 +170,9 @@ One of the most stunning features of this device is the keyboard.
 
  Note that there is also a USB Type A 3.0 port on the console. This is suitable for everything from external storage to additional peripherals.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Design and Comfort of the GPD Win 4 Gaming Handheld
 
  Available in various colors, I received the white version of the GPD Win 4 for review. It features a matte finish, which aids grip, although the two rear buttons are difficult to reach. The console isn’t as wide as a Steam Deck, and not as comfortable to use.
@@ -174,6 +189,10 @@ One of the most stunning features of this device is the keyboard.
 
  RGB LEDs cycle through a color change beneath the two clear shoulder buttons, changing how you might perceive the console. But when the color turns green, this white handheld feels like a portable Xbox 360.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ## Testing the GPD Win 4 Gaming Handheld
 
  I selected four games (all on Steam) to measure this device. How did they work out?
@@ -187,6 +206,9 @@ One of the most stunning features of this device is the keyboard.
 
  In terms of audio, the onboard speakers are a bit on the tinny size, but it sounds fine over a wired or Bluetooth headset.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How Does the GPD Win 4 Compare to a Steam Deck?
 
  I’ve been using the Steam Deck since 2022, during which time it has become my main console. The reason for this is its pure flexibility, enabling me to game in any room in the house, or beyond if the mood takes me.
@@ -232,3 +254,47 @@ One of the most stunning features of this device is the keyboard.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevate-creations-get-free-high-quality-templates-today/"><u>[New] 2024 Approved  Elevate Creations - Get FREE High-Quality Templates Today</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-creative-instagram-story-questions-increase-engagement/"><u>[New] In 2024, Creative Instagram Story Questions  Increase Engagement</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-snapchat-entrepreneurs-handbook-for-profitability/"><u>[Updated] 2024 Approved  The Snapchat Entrepreneur's Handbook for Profitability</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-conquering-chaos-muting-tactics-for-seamless-gmeet-participation/"><u>[Updated] In 2024, Conquering Chaos  Muting Tactics for Seamless GMeet Participation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-reveal-the-best-7-video-streaming-apps-to-go-live-on-youtube-iphoneandroid/"><u>[Updated] Reveal the Best 7 Video Streaming Apps to Go Live on YouTube (iPhone/Android)</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-step-by-step-techniques-for-text-integration-in-tiktok-videos/"><u>[Updated] Step-by-Step Techniques for Text Integration in TikTok Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gopro-hero5-black-vs-yi-4k-latest-camera-showdown/"><u>2024 Approved  GoPro Hero5 Black VS Yi 4K - Latest Camera Showdown</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigate-the-past-reversing-media-on-iphones/"><u>2024 Approved  Navigate the Past  Reversing Media on iPhones</u></a></li>
+<li><a href="https://games-able.techidaily.com/does-am08-pro-verify-a-true-acemagic-experience/"><u>Does AM08 Pro Verify a True AceMagic Experience?</u></a></li>
+<li><a href="https://games-able.techidaily.com/error-403-in-roblox-effective-solutions-for-windows-users/"><u>Error 403 in Roblox: Effective Solutions for Windows Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-the-financial-sense-in-purchasing-ea-play/"><u>Evaluating the Financial Sense in Purchasing EA Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/fix-or-replace-tackling-common-issues-with-xbox-series-xs/"><u>Fix or Replace? Tackling Common Issues with Xbox Series X|S</u></a></li>
+<li><a href="https://games-able.techidaily.com/gain-not-in-performance-my-oc-experience/"><u>Gain Not in Performance: My OC Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-grief-5-most-agonizing-adventures/"><u>Gaming Grief: 5 Most Agonizing Adventures</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-your-xbox-running-smoothly-again/"><u>Get Your Xbox Running Smoothly Again</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-nvidia-g-sync-takes-your-gaming-experience-to-new-heights/"><u>How Nvidia G-Sync Takes Your Gaming Experience To New Heights</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-diy-a-google-cardboard-virtual-reality-vr-headset/"><u>How to DIY a Google Cardboard (Virtual Reality) VR Headset?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-flash-forward-quick-youtube-playlists-distribution/"><u>In 2024, Flash Forward  Quick Youtube Playlists Distribution</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-requesting-video-games-returns/"><u>Mastering the Art of Requesting Video Games Returns</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-your-mac-for-switch-gaming/"><u>Mastering Your Mac for Switch Gaming</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-of-internet-options-tweaks-for-windows-11/"><u>Mastery of Internet Options Tweaks for Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-fps-with-efficient-3d-designs/"><u>Maximizing FPS with Efficient 3D Designs</u></a></li>
+<li><a href="https://games-able.techidaily.com/optical-oscillations-vs-mechanical-motions-in-gaming/"><u>Optical Oscillations Vs. Mechanical Motions in Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/pc-gaming-keyboard-trials-best-of-24/"><u>PC Gaming Keyboard Trials: Best of '24</u></a></li>
+<li><a href="https://games-able.techidaily.com/preference-for-workspace-gaming/"><u>Preference for Workspace Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-ultra-high-dpi-gamers-choice/"><u>Premium Ultra-High DPI Gamer's Choice</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-video-game-tracker-assemblies/"><u>Prime Video Game Tracker Assemblies</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-safety-reasons-to-shun-the-microphone/"><u>PS5 Safety: Reasons to Shun the Microphone</u></a></li>
+<li><a href="https://games-able.techidaily.com/risks-behind-tipping-software-development-teams/"><u>Risks Behind Tipping Software Development Teams</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-secret-gifting-video-games-for-occasions/"><u>Steam's Secret: Gifting Video Games for Occasions</u></a></li>
+<li><a href="https://games-able.techidaily.com/storage-that-stands-out-best-nintendo-switch-cases-reviewed/"><u>Storage that Stands Out: Best Nintendo Switch Cases Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-your-ps5-wireless-setup/"><u>Streamlining Your PS5 Wireless Setup</u></a></li>
+<li><a href="https://games-able.techidaily.com/swiftly-fixing-graphics-stall-error-0x887a0006-on-windows/"><u>Swiftly Fixing Graphics Stall (Error 0X887A0006) on Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/techniques-to-extend-battery-life-in-xbox-wireless-controllers/"><u>Techniques to Extend Battery Life in Xbox Wireless Controllers</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-art-of-feigning-absence-on-steam/"><u>The Art of Feigning Absence on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essential-guide-to-game-personalization-using-steam/"><u>The Essential Guide to Game Personalization Using Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-impact-of-quality-sound-on-esports-success/"><u>The Impact of Quality Sound on Esports Success</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-30-dpi-and-hdmi-enhanced-devices-for-gamers/"><u>Top 30 DPI & HDMI Enhanced Devices for Gamers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/whirling-installer-range/"><u>Whirling Installer Range</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-covers-materials-and-protection-benefits/"><u>Xbox Covers: Materials & Protection Benefits</u></a></li>
+</ul></div>

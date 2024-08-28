@@ -1,7 +1,7 @@
 ---
 title: "Twitch Host Control: Learning to Block, Then U-Ban Users"
-date: 2024-07-12T04:10:53.170Z
-updated: 2024-07-13T04:10:53.170Z
+date: 2024-08-27T17:01:42.468Z
+updated: 2024-08-28T17:01:42.468Z
 tags:
   - games
 categories:
@@ -58,14 +58,23 @@ Here's how to block or unblock someone on Twitch...
 
 ![twitch settings show blocked users](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/twitch-settings-show-blocked-users.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Click**Show Blocked Users** . Twitch will then load a list of everyone you've blocked and the date that you blocked them.
 
 ![Viewing blocked users on Twitch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/blocked-users-twitch.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
  Click the**Unblock** button adjacent to the user you'd like to unblock.
 
  Twitch will save the changes immediately and remove the user from your block list.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Unblock People on the Twitch App
 
  If you're using an Android phone, you'll quickly discover that unblocking someone via the official Android app can be a huge pain. This is because, weirdly enough, the Android app is missing a feature that the iOS version has.
@@ -82,10 +91,16 @@ Here's how to block or unblock someone on Twitch...
 
 ![Twitch Account view page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/01-twitch-profile-view-ios.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![Twitch Settings page in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/02-twitch-settings-ios.jpg)
 
 ![Blocked users in Twitch's Security & Privacy page on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/03-blocked-users-twitch.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Close
 
 ### How to Unblock People on Android
@@ -96,6 +111,9 @@ Close
 
  If you don't want to use this method, we'd recommend logging into your Twitch account on PC to manage your blocked users list instead.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Managing People Better on Twitch
 
  If someone is getting on your nerves, you can quickly and easily block them on Twitch. If you decide to unblock them later on, it's easy and quick to do—as long as you're not on Android.
@@ -119,3 +137,44 @@ Close
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-expert-tips-on-camera-lens-selection-for-professional-vloggers/"><u>[New] Expert Tips on Camera Lens Selection For Professional Vloggers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-achieving-excellence-in-your-android-video-brightness/"><u>[New] In 2024, Achieving Excellence in Your Android Video Brightness</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-clearing-clutter-background-removal/"><u>[New] In 2024, Clearing Clutter  Background Removal</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-innovative-ways-to-document-your-digital-collaboration-sessions/"><u>2024 Approved  Innovative Ways to Document Your Digital Collaboration Sessions</u></a></li>
+<li><a href="https://games-able.techidaily.com/correcting-minecraft-launcher-issues-code-0x803f8001/"><u>Correcting Minecraft Launcher Issues Code 0X803F8001</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easily-enhance-your-brother-hl-l2370dw-printer-with-updated-drivers-free-download-available/"><u>Easily Enhance Your Brother HL-L2370DW Printer with Updated Drivers - Free Download Available</u></a></li>
+<li><a href="https://games-able.techidaily.com/endocannabinoid-signaling-pathways-and-their-impact-on-mood-regulation/"><u>Endocannabinoid Signaling Pathways and Their Impact on Mood Regulation</u></a></li>
+<li><a href="https://games-able.techidaily.com/ensuring-your-xbox-series-x-stays-peak-performance/"><u>Ensuring Your Xbox Series X Stays Peak Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/fast-track-pinpointing-your-virtual-gaming-number/"><u>Fast Track: Pinpointing Your Virtual Gaming Number</u></a></li>
+<li><a href="https://games-able.techidaily.com/fine-tuning-for-triumph-fps-game-settings/"><u>Fine-Tuning for Triumph: FPS Game Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-xbox-game-pass-failure-code-on-windows-11-computers/"><u>Fixing Xbox Game Pass Failure Code on Windows 11 Computers</u></a></li>
+<li><a href="https://games-able.techidaily.com/friendly-face-off-15-must-play-mobile-gaming-matchups/"><u>Friendly Face-Off: 15 Must-Play Mobile Gaming Matchups</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-individual-to-team-in-the-new-xbox-era/"><u>From Individual to Team in the New Xbox Era</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-choice-the-finest-keyboards-gaming/"><u>Gamers' Choice: The Finest Keyboards Gaming</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-madden-nfl-20-for-pc-stability-problems-solutions-inside/"><u>How to Resolve Madden NFL 20 for PC Stability Problems - Solutions Inside!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Tecno Spark 20C? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-new-era-advancements-in-vr-technology/"><u>In 2024, The New Era  Advancements in VR Technology</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-what-you-missed-a-closer-look-at-facebooks-2023-upgrades/"><u>In 2024, What You Missed  A Closer Look at Facebook's 2023 Upgrades</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-approaches-to-network-broadcast-with-vlc-for-2024/"><u>Innovative Approaches to Network Broadcast with VLC for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/jumpstart-joy-fast-and-fun-online-gaming-picks/"><u>Jumpstart Joy: Fast and Fun Online Gaming Picks</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigate-xbox-reimbursement-procedures/"><u>Navigate Xbox Reimbursement Procedures</u></a></li>
+<li><a href="https://games-able.techidaily.com/operas-secret-weapon-gaining-month-long-free-disco-access/"><u>Opera's Secret Weapon: Gaining Month-Long FREE Disco Access</u></a></li>
+<li><a href="https://games-able.techidaily.com/past-glories-which-7-games-should-see-the-light-of-day-again/"><u>Past Glories: Which 7 Games Should See the Light of Day Again?</u></a></li>
+<li><a href="https://games-able.techidaily.com/personalizing-the-ps5-visual-theme/"><u>Personalizing the PS5 Visual Theme</u></a></li>
+<li><a href="https://games-able.techidaily.com/portable-playstation-delights-explored/"><u>Portable PlayStation Delights Explored</u></a></li>
+<li><a href="https://games-able.techidaily.com/right-decision-no-mistake-selecting-the-perfect-oled-tv/"><u>Right Decision, No Mistake: Selecting the Perfect OLED TV</u></a></li>
+<li><a href="https://games-able.techidaily.com/silence-strategy-for-xbox-gaming-voice/"><u>Silence Strategy for Xbox Gaming Voice</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/stellaris-review-a-game-of-space-exploration-empire-and-conquest/"><u>Stellaris Review: A Game of Space Exploration, Empire, and Conquest</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-walkthrough-to-implementing-copilot-into-microsoft-teams-operations/"><u>Step-by-Step Walkthrough to Implementing Copilot Into Microsoft Teams Operations</u></a></li>
+<li><a href="https://games-able.techidaily.com/store-and-repeat-gaming-achievements-in-cloud/"><u>Store and Repeat Gaming Achievements in Cloud</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-your-steam-profile-hunt/"><u>Streamline Your Steam Profile Hunt</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-smart-gamers-guide-to-timely-ps5-controller-resets/"><u>The Smart Gamer's Guide to Timely PS5 Controller Resets</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-augmenting-your-ps-vr2-adventure/"><u>The Ultimate Guide to Augmenting Your PS VR2 Adventure</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleash-creativity-in-photography-no-cost-some-pay-luts-for-2024/"><u>Unleash Creativity in Photography  No Cost, Some Pay LUTs for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-indie-gaming-success-itchios-path/"><u>Unlocking Indie Gaming Success: Itch.io’s Path</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-2024s-premium-nintendo-switch-holsters/"><u>Unveiling the 2024'S Premium Nintendo Switch Holsters</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-is-intel-stream-assist-and-how-does-it-make-game-streaming-better/"><u>What Is Intel Stream Assist and How Does It Make Game Streaming Better?</u></a></li>
+</ul></div>

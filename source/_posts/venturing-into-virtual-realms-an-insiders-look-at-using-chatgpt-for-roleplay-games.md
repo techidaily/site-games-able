@@ -1,7 +1,7 @@
 ---
 title: "Venturing Into Virtual Realms: An Insider's Look at Using ChatGPT for Roleplay Games"
-date: 2024-07-12T04:08:55.223Z
-updated: 2024-07-13T04:08:55.223Z
+date: 2024-08-27T17:03:50.808Z
+updated: 2024-08-28T17:03:50.808Z
 tags:
   - games
 categories:
@@ -124,8 +124,14 @@ thumbnail: https://thmb.techidaily.com/c625d72d0946f66f9247899cc6c4c66eb70d8cf37
 
 ![Villager asking on the player's welfare in text game dialogue](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/villager-asking-on-the-player-s-welfare-in-text-game-dialogue.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can embellish this section with as many rules and preferences as you like. You can add an overarching plot, implement rules for governing, or even detail NPC clothes and attitudes in this section. But remember to keep it simple because multilayered rules may confuse the AI.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Add Combat and Magic Rules
 
  As with any adventure [RPG](https://www.makeuseof.com/what-are-rpgs-role-playing-games/) , combat and magic are big parts of the experience. If you don’t add rules to guide this part of your game, you’ll end up with a game you can easily cheese through. It doesn’t help that ChatGPT likes to favor the user in its narratives, and it will generally make things go your way. Here’s what our rules look like:
@@ -152,6 +158,13 @@ thumbnail: https://thmb.techidaily.com/c625d72d0946f66f9247899cc6c4c66eb70d8cf37
 
  Combat rules can be especially tricky for the AI, so you might need to experiment with this a bit till you find something that sticks.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ## Conclude Your Prompt
 
  Your prompt conclusion should contain a few vital commands that will hold the game's structure.
@@ -166,13 +179,23 @@ And finally, don’t forget to actually start the game:
 
  As you play, you might have to remind the AI of the rules you’ve laid out. The AI will respond to the same prompt differently, so every user might have a different experience.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Using GPT-4 vs. GPT-3.5 to Run Your Game
 ![GPT-4 generating texts for a turn-based text RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-4-generating-texts-for-a-turn-based-text-rpg.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
  If you have ChatGPT Plus, it grants you access to GPT-4, a more intelligent version of GPT-3.5\. You should try running a few RPG sessions with GPT-4 instead of GPT3.5\. It's way more creative, better at crafting stories, remembering rules, and all-around better at improv. It costs $20/month, and it's a good tool for doing other things apart from text-based gaming.
 
  Should you pay the $20 solely for text-based gaming? Realistically, no. Unless you're a big fan of RPGs, it might not be worth the money. Also, GPT-4 has a limit of 50 messages every three hours, so you won't have endless fun, and you'll be returned to GPT-3 in a short while. Some users have also complained that [GPT-4 is slower than GPT3.5](https://www.makeuseof.com/why-is-chatgpt-4-so-slow-compared-to-chatgpt-35/) .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ## The Complete ChatGPT RPG Prompt
 
  We've combined everything and put it here for you to copy, so you can start your own game immediately.
@@ -296,3 +319,45 @@ And finally, don’t forget to actually start the game:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/aster-class-in-music-production-dj-video-samples-galore/"><u>[New] Master Class in Music Production  DJ Video Samples Galore</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/trategies-for-successful-youtube-monetization-for-2024/"><u>[New] Strategies for Successful YouTube Monetization for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-which-ios-video-editor-excels-more-cameo-or-filmorago/"><u>[New] Which iOS Video Editor Excels More  Cameo or FilmoraGo?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-capturing-in-action-a-screen-recorders-journey/"><u>[Updated] In 2024, Capturing in Action  A Screen Recorder's Journey</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-capturing-with-snap-zoom-guide/"><u>[Updated] In 2024, Capturing with Snap  Zoom Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-mastering-quick-snapchat-lens-creation-two-simple-techniques/"><u>[Updated] Mastering Quick Snapchat Lens Creation  Two Simple Techniques</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-real-time-conversion-of-online-streaming-content-into-gifs/"><u>[Updated] Real-Time Conversion of Online Streaming Content Into GIFs</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-skype-capture-methods-seamless-transition-between-oses/"><u>[Updated] Skype Capture Methods  Seamless Transition Between OSes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-5-best-photo-video-maker-with-music/"><u>2024 Approved  5 Best Photo Video Maker With Music</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-picture-perfect-creating-screenshots-in-windows/"><u>2024 Approved  Picture Perfect  Creating Screenshots in Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/comparing-steam-and-gog-game-distribution-analysis/"><u>Comparing Steam & GOG: Game Distribution Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/cultivating-an-xbox-community-hub/"><u>Cultivating an Xbox Community Hub</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-new-realities-in-meta-quest-3/"><u>Discovering New Realities in Meta Quest 3</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-novice-to-pro-streamlining-steam-games-with-meta-quest/"><u>From Novice to Pro: Streamlining Steam Games with Meta Quest</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-evolution-how-the-xbox-series-s-abandons-physical-media/"><u>Gaming Evolution: How the Xbox Series S Abandons Physical Media</u></a></li>
+<li><a href="https://games-able.techidaily.com/guardianship-in-the-digital-age-protect-your-children/"><u>Guardianship in the Digital Age: Protect Your Children</u></a></li>
+<li><a href="https://games-able.techidaily.com/improve-gameplay-and-accuracy-a-comprehensive-guide-to-using-steam-deck-keys/"><u>Improve Gameplay and Accuracy: A Comprehensive Guide to Using Steam Deck Keys</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-12-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone 12 After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-input-devices-for-top-gamers/"><u>Innovative Input Devices for Top Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-deleting-ps5-users/"><u>Mastering the Art of Deleting PS5 Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-games-and-getaways-key-strategies/"><u>Navigating Games & Getaways: Key Strategies</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-windows-challenges-with-robloxs-error-code-403/"><u>Overcoming Windows' Challenges with Roblox's Error Code 403</u></a></li>
+<li><a href="https://games-able.techidaily.com/peak-performance-high-end-xbox-streaming-kits/"><u>Peak Performance: High-End Xbox Streaming Kits</u></a></li>
+<li><a href="https://games-able.techidaily.com/pinnacle-picture-quality-improving-xbox-series-x/"><u>Pinnacle Picture Quality: Improving Xbox Series X</u></a></li>
+<li><a href="https://games-able.techidaily.com/precision-power-the-ultimate-guide-to-starting-an-fps-game-right/"><u>Precision Power: The Ultimate Guide to Starting an FPS Game Right</u></a></li>
+<li><a href="https://games-able.techidaily.com/reignite-your-consoles-zest-with-these-tips/"><u>Reignite Your Console's Zest with These Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-gaming-experience-why-i-opt-for-apple-arcade/"><u>Seamless Gaming Experience: Why I Opt for Apple Arcade</u></a></li>
+<li><a href="https://games-able.techidaily.com/selecting-your-ideal-raspberry-pi-emulator-batocera-vs-retropie/"><u>Selecting Your Ideal Raspberry Pi Emulator: Batocera Vs. RetroPie</u></a></li>
+<li><a href="https://games-able.techidaily.com/solutions-to-stop-your-xbox-joystick-from-skipping/"><u>Solutions to Stop Your Xbox Joystick From Skipping</u></a></li>
+<li><a href="https://win-answers.techidaily.com/team-fortress-2-startup-woes-these-tips-will-help-you-launch-the-game-smoothly/"><u>Team Fortress 2 Startup Woes? These Tips Will Help You Launch the Game Smoothly</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-non-conformists-guide-to-mastering-nycs-social-networks/"><u>The Non-Conformist’s Guide to Mastering NYC's Social Networks</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-restoring-ps5-internet-connection/"><u>The Ultimate Guide to Restoring PS5 Internet Connection</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-20-versatile-game-pairs-for-social-fun-across-devices/"><u>Top 20 Versatile Game Pairs for Social Fun Across Devices</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-apple-iphone-se-2022-and-android-phones-by-drfone-ios/"><u>Top IMEI Unlokers for Apple iPhone SE (2022) and Android Phones</u></a></li>
+<li><a href="https://games-able.techidaily.com/under-500-high-performance-innocn-display/"><u>Under $500: High-Performance InnoCN Display</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-your-switchs-online-potential/"><u>Unlock Your Switch's Online Potential</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-game-pass-unveiled-the-lowdown/"><u>Xbox Game Pass Unveiled: The Lowdown</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-revolutionizing-gaming-through-cloud-technology/"><u>Xbox: Revolutionizing Gaming Through Cloud Technology</u></a></li>
+</ul></div>

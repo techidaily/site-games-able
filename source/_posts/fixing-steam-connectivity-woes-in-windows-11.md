@@ -1,0 +1,171 @@
+---
+title: Fixing Steam Connectivity Woes in Windows 11
+date: 2024-08-27T17:05:28.036Z
+updated: 2024-08-28T17:05:28.036Z
+tags:
+  - games
+categories:
+  - games
+description: This Article Describes Fixing Steam Connectivity Woes in Windows 11
+excerpt: This Article Describes Fixing Steam Connectivity Woes in Windows 11
+keywords: Steam Win11 Fix,Connection Steam Prog,Steam Login Issue,Win11 Steam Access,Steam Connectivity Tips,Windows Steam Sync,Steam 11 Connect
+thumbnail: https://thmb.techidaily.com/e52d2b220bf33233df1f453020b7bd5deb6b55f7ce3cda5235088e19c60778b1.jpg
+---
+
+## Fixing Steam Connectivity Woes in Windows 11
+
+ Are you encountering the “Steam friends network unreachable” error? This might happen because of your Steam Friends & Chat settings, corrupt cache data, or a temporary glitch, amongst other things.
+
+ Even if you’re not sure about the cause, there’s no reason you should miss out on having fun with your friends. We’ve put together a list of fixes that you should try to get rid of the network unreachable error.
+
+## 1\. Restart Steam
+
+ There’s a chance you’ve run into the network unreachable error due to a temporary Steam glitch. Before going through more complicated fixes, try restarting the Steam app.
+
+ Most of the time, this is enough to fix minor bugs or glitches. Once you close the app, ensure no background process is still running. Right-click on the taskbar and select**Task Manager** . Then, right-click**Steam** and select**End task** .
+
+![End Steam Client process from running](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/steam-task-manager-1.jpg)
+
+Restart Steam and check if the issue is now fixed.
+
+## 2\. Check Steam Friends & Chat Settings
+
+ If restarting Steam didn’t fix the issue, you should check your account’s Friends & Chat settings. Here’s how you can do it:
+
+1. Launch the Steam app.
+2. Go to**Steam > Settings** .
+3. From the left pane, select**Friends & chat** .
+4. Turn on the toggle next to**Sign in to friends when Steam Client starts** .
+5. Restart Steam and check if you can connect to the network.
+
+![Steam friends and chat settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/friends-chat-settings-1.jpg)
+
+## 3\. Opt Out of Steam’s Beta Participation
+
+ Signing up for the Steam Client Beta program allows you to use Steam’s latest features before they’re officially released. However, the Beta version might make the[Steam Client unstable](https://www.makeuseof.com/steam-client-crashing-troubleshooting/) , leading to the error. Follow these steps to disable the Steam Beta Client:
+
+1. Launch the app.
+2. Open the**Steam** menu and select**Settings** .
+3. Click**Interface** in the left-hand menu.
+4. Extend the drop-down menu next to**Client Beta Participation** .
+5. Select the**No beta chosen** option.
+
+![Opt out of Steam beta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/steam-beta-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
+## 4\. Edit Steam’s Executable
+
+ While this isn’t an official fix, editing the executable file could fix the “Steam friends network unreachable” error. To find Steam’s executable file, search for**Steam** within the Start menu search bar and select**Open file location** . Then, right-click**Steam** and head to**Properties** . Open the**Shortcut** tab and add**\-nofriendsui** into the**Target** field.
+
+ Click**Apply** and**OK** to save the new settings and restart Steam.
+
+## 5\. Delete the Steam Appdata Folder
+
+ Similar to any software that you’ve installed, Steam stores temporary files on your computer to speed up loading times and improve the user experience. However, if the stored data gets corrupted, it will negatively impact Steam’s features and functionality.
+
+ To delete Steam’s cache, press**Windows key + R** to launch a Run dialog. Then, type**%appdata%** and press**Enter** . In the File Explorer window, locate and permanently delete the**Steam** folder.
+
+![Deleting the IconCache File by Right-clicking on the File in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/4-deleting-the-iconcache-file-by-right-clicking-on-the-file-in-windows-file-explorer.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ If you can’t find it, you should change File Explorer settings, so you can[view hidden files and folders on Windows](https://www.makeuseof.com/windows-11-show-hidden-files-folders/) .
+
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 6\. Delete Steam's Web Data
+
+ If you’ve deleted Steam's appdata folder and you're still dealing with the same issue, you should delete Steam’s web browser data. Here’s how you can do it:
+
+1. Head to your Steam library and launch one of your games.
+2. While in the game, press**Shift + Tab** to access Steam’s Community.
+3. Click the**Settings** icon on the lower part of the screen.
+4. In the**Steam Settings** window, select**In Game** .
+5. Click on**Delete** next to**Delete Web Browser Data** .
+6. Confirm the action.
+7. Close the game, restart Steam, and check if the issue is now solved.
+
+![Delete Steam web cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/delete-steam-cache-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
+## Get Back to Playing With Your Friends
+
+ The tricky part about the ”Steam friends network unreachable” error is that Steam doesn’t tell you what’s wrong and how you can fix it. If you still can’t join your friends' server, you can use Steam’s Remote Play Together. Using this feature, you can even try new games as you can join your friends even if you don’t own the game or have it installed.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-a-step-by-step-journey-through-the-landscape-of-instagram-reels-for-2024/"><u>[New] A Step-by-Step Journey Through the Landscape of Instagram Reels for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-boosting-collaboration-mastering-real-time-photography-on-google-meet-for-2024/"><u>[New] Boosting Collaboration  Mastering Real-Time Photography on Google Meet for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-master-screen-grabbing-tech-list-1-8/"><u>[New] In 2024, Master Screen Grabbing Tech List #1-8</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-ultimate-gif-making-software-showdown/"><u>[New] In 2024, The Ultimate GIF Making Software Showdown</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-inside-the-world-of-discord-nitro-highlights-and-acquisition-strategies-for-2024/"><u>[New] Inside the World of Discord Nitro  Highlights and Acquisition Strategies for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-language-gurus-selection-of-top-30-tools-to-translate-videos/"><u>[New] The Language Guru’s Selection of Top 30 Tools to Translate Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-top-creations-unique-and-chic-minecraft-dwellings/"><u>[Updated] 2024 Approved  Top Creations  Unique and Chic Minecraft Dwellings</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-chromebooks-finest-drawing-software-compared/"><u>[Updated] Chromebook's Finest Drawing Software Compared</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-harnessing-new-filters-on-instagram-a-modern-take-2023-techniques/"><u>[Updated] Harnessing New Filters on Instagram  A Modern Take (2023 Techniques)</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-resolve-absent-watch-screen-button-for-2024/"><u>[Updated] Resolve Absent Watch Screen Button for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/accelerate-your-video-content-creation-for-2024/"><u>Accelerate Your Video Content Creation for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-oppo-a18-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Oppo A18 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-11-pro-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on 11 Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/cost-effective-virtual-reality-adventures/"><u>Cost-Effective Virtual Reality Adventures</u></a></li>
+<li><a href="https://games-able.techidaily.com/dissecting-the-price-tag-on-sonys-playstation-plus/"><u>Dissecting the Price Tag on Sony’s PlayStation Plus</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-arcade-experience-large-format-framing-recommended/"><u>Elevate Your Arcade Experience: Large-Format Framing Recommended</u></a></li>
+<li><a href="https://games-able.techidaily.com/engage-and-conquer-a-list-of-top-10-free-online-shooters-for-browsers/"><u>Engage and Conquer: A List of Top 10 Free Online Shooters for Browsers</u></a></li>
+<li><a href="https://games-able.techidaily.com/finding-common-ground-in-minecraft-bedrock-java-interoperability-via-geysermc/"><u>Finding Common Ground in Minecraft: Bedrock-Java Interoperability via GeyserMC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862697461-game-changing-savings-alert-snag-the-asus-tuf-gaming-laptop-with-a15-cpu-at-just-658-this-memorial-day/"><u>Game-Changing Savings Alert: Snag the ASUS TUF Gaming Laptop With A15 CPU at Just $658 This Memorial Day</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Oppo Reno 9A? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-and-prevent-magic-the-gathering-onlines-distressing-black-screen-issues-expert-guide/"><u>How To Fix And Prevent Magic: The Gathering Online's Distressing Black Screen Issues - Expert Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/ideal-mouse-dpi-for-competitive-first-person-shooters/"><u>Ideal Mouse DPI For Competitive First-Person Shooters</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-likes-strategies-for-captivating-tiktok-unboxers/"><u>In 2024, The Ultimate Guide to Likes  Strategies for Captivating TikTok Unboxers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-corsair-mp600-mini-1tb-m2-2280e27t-ssd-evaluation-top-of-the-line-performance-in-a-compact-form-factor/"><u>In-Depth Corsair MP600 Mini 1TB (M.2 2280/E27T) SSD Evaluation: Top of the Line Performance in a Compact Form Factor</u></a></li>
+<li><a href="https://games-able.techidaily.com/keeping-secrets-in-xbox-series-xs-games/"><u>Keeping Secrets in Xbox Series X|S Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/manage-your-gaming-screenshots-like-a-pro/"><u>Manage Your Gaming Screenshots Like a Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/masked-gamers-evading-steam-monitoring/"><u>Masked Gamers: Evading Steam Monitoring</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-the-art-of-reviving-stuck-up-steam-software/"><u>Master the Art of Reviving Stuck-Up Steam Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/methods-for-repairing-failed-file-creation-error-30005/"><u>Methods for Repairing Failed File Creation (Error 30005)</u></a></li>
+<li><a href="https://games-able.techidaily.com/moza-r5-2023s-bargain-for-aspiring-drivers/"><u>MOZA R5: 2023'S Bargain for Aspiring Drivers</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidia-drivers-the-solution-to-your-computer-glitches/"><u>Nvidia Drivers: The Solution to Your Computer Glitches</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-modifying-your-posts-after-sharing-on-instagram/"><u>Step-by-Step Guide: Modifying Your Posts After Sharing on Instagram</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-boosting-comprehension-of-epic-games-on-steam-deck/"><u>Step-by-Step: Boosting Comprehension of Epic Games on Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-your-viewing-experience-via-prime/"><u>Streamline Your Viewing Experience via Prime</u></a></li>
+<li><a href="https://games-able.techidaily.com/tailored-guide-to-buying-a-steam-deck/"><u>Tailored Guide to Buying a Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-headphones-for-nintendo-switch/"><u>The Best Headphones for Nintendo Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essential-tutorial-streaming-xbox-on-discord-platform/"><u>The Essential Tutorial: Streaming Xbox on Discord Platform</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-future-of-home-entertainment-at-ifa/"><u>The Future of Home Entertainment at IFA</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-pads-for-extensive-gaming-sessions/"><u>Top Pads for Extensive Gaming Sessions</u></a></li>
+<li><a href="https://games-able.techidaily.com/unravel-the-best-ranking-the-top-9-steam-deck-emulators/"><u>Unravel the Best: Ranking the Top 9 Steam Deck Emulators</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-expert-approved-free-vob-video-editing-solutions/"><u>Updated 2024 Approved Expert-Approved Free VOB Video Editing Solutions</u></a></li>
+</ul></div>

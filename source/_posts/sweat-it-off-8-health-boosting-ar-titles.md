@@ -1,7 +1,7 @@
 ---
 title: Sweat It Off! - 8 Health-Boosting AR Titles
-date: 2024-07-12T04:13:46.528Z
-updated: 2024-07-13T04:13:46.528Z
+date: 2024-08-27T16:58:23.343Z
+updated: 2024-08-28T16:58:23.343Z
 tags:
   - games
 categories:
@@ -46,6 +46,9 @@ Close
 
 ![ZRX Zombies run augmented reality mobile game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/zrx-jolly.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Close
 
  ZRX is the only app on this list that is actually dedicated to fitness. Essentially, the app allows you to select an interactive story and choose how to track your run, and as you move so does the story.
@@ -59,8 +62,14 @@ Close
 ## 3\. Pokémon GO
 ![Pokemon GO augmented reality mobile game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pokemon-go.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![Pokemon GO augmented reality mobile game lechonk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pokemon-go-lechonk.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Pokemon GO augmented reality mobile game sprigatito](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pokemon-go-sprigatito.jpg)
 
 Close
@@ -73,11 +82,20 @@ Close
 
 **Download:** Pokémon GO for [iOS](https://apps.apple.com/app/pok%C3%A9mon-go/id1094591345) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029750/https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo) (Free, in-app purchases available)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Draconius GO
 ![Draconius GO augmented reality mobile game world map](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/draconius-go-world.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![Draconius GO augmented reality mobile game firepaw](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/draconius-go-firepaw.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Draconius GO augmented reality mobile game berrydillo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/draconius-go-berrydillo.jpg)
 
 Close
@@ -90,9 +108,15 @@ Close
 
 **Download:** Draconius GO for [iOS](https://apps.apple.com/app/draconius-go-catch-a-dragon/id1222496828) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029750/https://play.google.com/store/apps/details?id=net.elyland.DraconiusGO) (Free, in-app purchases available)
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Star Walk 2
 ![Star Walk 2 augmented reality mobile app satellite](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/star-walk-2-satellite.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Star Walk 2 augmented reality mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/star-walk-2-ar.jpg)
 
 ![Star Walk 2 augmented reality mobile app pegasus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/star-walk-2-pegasus.jpg)
@@ -110,6 +134,9 @@ Close
 
 ![Ingress Prime augmented reality mobile game items](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ingress-items.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![Ingress Prime augmented reality mobile game missions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ingress-missions.jpg)
 
 Close
@@ -125,6 +152,9 @@ Close
 
 ![Orna The Adventure GPS RPG character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/orna-character.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Orna The Adventure GPS RPG battle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/orna-battle.jpg)
 
 Close
@@ -135,13 +165,30 @@ Close
 
 **Download:** Orna for [iOS](https://apps.apple.com/app/orna-turn-based-gps-rpg/id1451775309) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029750/https://play.google.com/store/apps/details?id=playorna.com.orna) (Free, in-app purchases available)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ## 8\. Pikmin Bloom
 ![Pikmin Bloom augmented reality mobile game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pikmin-bloom.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![Pikmin Bloom augmented reality mobile game map](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pikmin-bloom-map.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Pikmin Bloom augmented reality mobile game seedlings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pikmin-bloom-seeds.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Close
 
  Not only is Pikmin Bloom a super cute AR mobile game, but it is relaxing, too. The game works using a step counter or GPS tracking on your phone and the basis is to gather seedlings, bloom flowers, and lots more.
@@ -175,3 +222,48 @@ Close
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-capture-share-enjoy-for-2024/"><u>[New] Capture, Share, Enjoy for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-expanding-your-social-horizon-connect-tiktok-to-facebook/"><u>[New] Expanding Your Social Horizon  Connect TikTok to Facebook</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-from-followers-to-earnings-instagrams-complete-guide/"><u>[New] In 2024, From Followers to Earnings  Instagram's Complete Guide</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-unleash-your-earning-potential-on-tiktok-in-just-8-steps/"><u>[New] In 2024, Unleash Your Earning Potential on TikTok in Just 8 Steps</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-cluttered-canvases-to-crystal-clear-captures-using-photopea/"><u>2024 Approved  From Cluttered Canvases to Crystal Clear Captures Using Photopea</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-gpu-malfunctions-solutions-for-the-top-4-issues/"><u>Decoding GPU Malfunctions: Solutions for the Top 4 Issues</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/digital-frontier-leaders-the-quintessential-cloud-picks-for-your-needs/"><u>Digital Frontier Leaders  The Quintessential Cloud Picks for Your Needs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elevate-streaming-quality-exclusive-guide-to-9-high-end-filters/"><u>Elevate Streaming Quality  Exclusive Guide to 9 High-End Filters</u></a></li>
+<li><a href="https://games-able.techidaily.com/embrace-your-fortnite-journey-on-mac-with-an-eye-for-limitations/"><u>Embrace Your Fortnite Journey on Mac - With an Eye for Limitations</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-tips-for-effective-steam-product-returns/"><u>Expert Tips for Effective Steam Product Returns</u></a></li>
+<li><a href="https://games-able.techidaily.com/finding-the-home-of-steams-pictorial-files/"><u>Finding the Home of Steam's Pictorial Files</u></a></li>
+<li><a href="https://games-able.techidaily.com/frugal-gamers-choice-in-ergonomic-layouts/"><u>Frugal Gamer's Choice in Ergonomic Layouts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-nvidia-gtx-n-series-drivers-installed-on-windows-without-hesitation/"><u>Get the Latest NVIDIA GTX N-Series Drivers Installed on Windows Without Hesitation</u></a></li>
+<li><a href="https://games-able.techidaily.com/getting-to-grips-with-xbox-game-pass/"><u>Getting to Grips with Xbox Game Pass</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-nvidia-g-sync-ensures-your-games-are-picture-perfect/"><u>How Nvidia G-Sync Ensures Your Games Are Picture Perfect</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-join-a-minecraft-java-server-from-bedrock-using-geysermc/"><u>How to Join a Minecraft Java Server From Bedrock Using GeyserMC</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-rescue-from-graphics-panel-sagging/"><u>How to Rescue From Graphics Panel Sagging</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-the-non-accelerated-pixel-format-issue-in-lwjgl/"><u>How to Resolve the Non-Accelerated Pixel Format Issue in LWJGL</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xs-max-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XS Max To Others ios devices? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-triumph-in-the-quest-for-stellar-independent-games-on-itchio/"><u>How to Triumph in the Quest for Stellar Independent Games on itch.io</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-from-past-to-present-a-detailed-tiktok-username-overhaul-guide/"><u>In 2024, From Past to Present  A Detailed TikTok Username Overhaul Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-game-modders-and-tutorial-content-leaders/"><u>In 2024, Game Modders & Tutorial Content Leaders</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-itel-a05s-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Itel A05s to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/make-every-sound-count-on-xbox-one-again/"><u>Make Every Sound Count on Xbox One Again!</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-uninstall-of-ps5-gaming/"><u>Mastering the Uninstall of PS5 Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigate-to-perfect-elgato-stream-deck-selection/"><u>Navigate to Perfect Elgato Stream Deck Selection</u></a></li>
+<li><a href="https://games-able.techidaily.com/outlast-the-ultimate-plan-rise-on-xbox-subscription/"><u>Outlast the Ultimate Plan Rise on Xbox Subscription</u></a></li>
+<li><a href="https://games-able.techidaily.com/overturn-recent-xbox-controller-upgrade/"><u>Overturn Recent Xbox Controller Upgrade</u></a></li>
+<li><a href="https://games-able.techidaily.com/sharing-game-experiences-with-friends-on-ps5/"><u>Sharing Game Experiences with Friends on PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplified-steps-for-license-restoration-on-ps5/"><u>Simplified Steps for License Restoration on PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/solving-windows-11-error-code-0x887a0006/"><u>Solving Windows 11 Error: Code 0X887A0006</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-pinnacle-chair-selection-for-gamers/"><u>The Ultimate Pinnacle Chair Selection for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-versatility-of-starting-up-your-ps5-6-ways/"><u>The Versatility of Starting Up Your PS5 (6 Ways)</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-addictive-traits-of-the-most-popular-mobile-apps/"><u>Top Addictive Traits of the Most Popular Mobile Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-pick-portable-power-adapters-for-playstation-5/"><u>Top Pick Portable Power Adapters for PlayStation 5</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-potential-with-ai-top-6-ways-to-master-dandd-guidance/"><u>Unleash Potential with AI: Top 6 Ways to Master D&D Guidance</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-remote-play-potential-with-steam-storage-tools/"><u>Unlocking Remote Play Potential with Steam Storage Tools</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-apple-iphone-6s-plus-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud From your Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://games-able.techidaily.com/will-affordable-playstation-5-becomes-a-reality-soon/"><u>Will Affordable PlayStation 5 Becomes a Reality Soon?</u></a></li>
+<li><a href="https://games-able.techidaily.com/winning-back-control-fixing-steam-bp-malfunctions/"><u>Winning Back Control: Fixing Steam BP Malfunctions</u></a></li>
+</ul></div>

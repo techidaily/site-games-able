@@ -1,7 +1,7 @@
 ---
 title: Struggle Your Way Through Frustrating Fiddly Games
-date: 2024-07-12T04:12:44.909Z
-updated: 2024-07-13T04:12:44.909Z
+date: 2024-08-27T16:59:25.683Z
+updated: 2024-08-28T16:59:25.683Z
 tags:
   - games
 categories:
@@ -54,9 +54,15 @@ Let’s explore some of the names leading the scene.
 
 **Download** : Getting Over It with Bennet Foddy on [Steam](https://store.steampowered.com/app/240720/Getting%5FOver%5FIt%5Fwith%5FBennett%5FFoddy/) ,[Google Play](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029855/https://play.google.com/store/apps/details?id=com.noodlecake.gettingoverit&hl=en&gl=US) , or the [Apple Store](https://apps.apple.com/us/app/getting-over-it/id1319618742) .
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## 3\. Pogostuck
 ![About to cross the finish line in Pogostuck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/about-to-cross-the-finish-line-in-pogostuck.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
  The experience of attempting to beat Pogostuck is summarized in the official title, Pogostuck: Rage With Your Friends. You play as a caveman on a pogo stick, attempting to scale large hills, garden-themed locations, and more to get to the top—like other Foddian games.
 
  You can move the caveman around as a player and jump on the pogo stick. The pogo stick has an interesting recovery mechanic that launches the caveman higher when they fall from a greater height. One can also rotate the caveman and launch them at an angle for a greater jump distance.
@@ -65,6 +71,10 @@ Let’s explore some of the names leading the scene.
 
 **Download** : Pogostuck on [Steam](https://store.steampowered.com/app/688130/Pogostuck%5FRage%5FWith%5FYour%5FFriends/) .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ## 4\. Bread & Fred
 ![Bread and Fred sitting on a platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/bread-and-fred-sitting-on-a-platform.jpg)
 
@@ -78,9 +88,15 @@ Let’s explore some of the names leading the scene.
 
 **Download** : Bread & Fred on [Steam](https://store.steampowered.com/app/1607680/Bread%5F%5FFred/) and [Epic Games](https://store.epicgames.com/en-US/p/bread-and-fred-1db362) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ## 5\. Only Up
 ![Gazing down at the world limit on spine in Only Up!](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gazing-down-at-the-world-limit-on-spine-in-only-up.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
  Only Up! has helped redefine the Foddian genre, challenging what it means to be a Foddian game. It is the only 3D title on this list, but it still contains the key traits of a good Foddian game. The goal is to help a teenage boy, Jackie, escape his life while learning about the word as he ascends to the top.
 
  Only Up! was developed in Unreal Engine 5, one of the most powerful 3D graphics engines on the market, and it shows in the game quality. Many of the game’s assets come from the Unreal Marketplace, but the developer found a way to organize the chaos. The result is a unique climbing experience as you traverse from one cultural biome to another.
@@ -91,6 +107,9 @@ Let’s explore some of the names leading the scene.
 
  Sadly, as of September 2023, Only Up! has been pulled from the Steam store, as reported by [PCGamesN](https://www.pcgamesn.com/only-up/steam-removed) , because the game kept the developer "under a lot of stress" and they want to move on and "put the game behind \[them\]". And while many fans look forward to a return of this Foddian hit, there's no concrete evidence pointing that way.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## It’s About the Journey
 
  Foddian games are all, at their core, a passion project. The growth of this genre’s fanbase shows how much the creator’s passion has reached players around the world.
@@ -116,3 +135,45 @@ Let’s explore some of the names leading the scene.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-pioneering-techniques-in-youtube-video-recording/"><u>[New] Pioneering Techniques in YouTube Video Recording</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-youtube-video-aspect-ratio-guide-optimal-upload-sizes/"><u>[New] YouTube Video Aspect Ratio Guide  Optimal Upload Sizes</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-freefb-audio-treasures-collection-for-2024/"><u>[Updated] FreeFB Audio Treasures Collection for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-imagedivide-review-summary/"><u>[Updated] ImageDivide Review Summary</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-experts-guide-to-effortless-video-submissions-on-igtv/"><u>[Updated] The Expert's Guide to Effortless Video Submissions on IGTV</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-honor-x8b-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Honor X8b Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/boost-your-sites-engagement-with-our-cookiebot-technology-for-tailored-content-delivery/"><u>Boost Your Site's Engagement with Our Cookiebot Technology for Tailored Content Delivery</u></a></li>
+<li><a href="https://games-able.techidaily.com/comparing-steam-and-gog-game-distribution-analysis/"><u>Comparing Steam & GOG: Game Distribution Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/computer-slowdown-upgrade-nvidia-drivers/"><u>Computer Slowdown? Upgrade NVIDIA Drivers!</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/digital-frontier-exploration-selecting-best-tools-for-turning-images-into-nfts/"><u>Digital Frontier Exploration  Selecting Best Tools for Turning Images Into NFTs</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-new-realities-in-meta-quest-3/"><u>Discovering New Realities in Meta Quest 3</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-gaming-top-7-mmos-on-the-go/"><u>Dive Into Gaming: Top 7 MMOs on the Go</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-console-security-a-detailed-look-at-ps5-passwords/"><u>Enhancing Console Security: A Detailed Look at PS5 Passwords</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-novice-to-pro-streamlining-steam-games-with-meta-quest/"><u>From Novice to Pro: Streamlining Steam Games with Meta Quest</u></a></li>
+<li><a href="https://games-able.techidaily.com/guardianship-in-the-digital-age-protect-your-children/"><u>Guardianship in the Digital Age: Protect Your Children</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-poco-x5-pro-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Poco X5 Pro ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/lighteconomonitor-27m2v-hd-gamers-choice/"><u>LightEconoMonitor: 27M2V HD Gamers Choice</u></a></li>
+<li><a href="https://games-able.techidaily.com/new-graphics-milestone-for-amd-will-fsr-3-challenge-nvidias-dlss-35/"><u>New Graphics Milestone for AMD, Will FSR 3 Challenge NVIDIA’s DLSS 3.5?</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-windows-challenges-with-robloxs-error-code-403/"><u>Overcoming Windows' Challenges with Roblox's Error Code 403</u></a></li>
+<li><a href="https://games-able.techidaily.com/peak-performance-gaming-accessories-high-pixels-per-inch/"><u>Peak Performance Gaming Accessories - High Pixels Per Inch</u></a></li>
+<li><a href="https://games-able.techidaily.com/peak-performance-high-end-xbox-streaming-kits/"><u>Peak Performance: High-End Xbox Streaming Kits</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps4-wi-fi-problems-discover-8-effective-remedies-here/"><u>PS4 Wi-Fi Problems? Discover 8 Effective Remedies Here</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-gaming-glitches-repairing-vs-swapping-out/"><u>Resolving Gaming Glitches - Repairing Vs. Swapping Out</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-gaming-experience-why-i-opt-for-apple-arcade/"><u>Seamless Gaming Experience: Why I Opt for Apple Arcade</u></a></li>
+<li><a href="https://games-able.techidaily.com/seeking-all-steam-awards-a-step-by-step-guide/"><u>Seeking All Steam Awards: A Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-for-switch-protection-installing-a-passcode/"><u>Step by Step for Switch Protection: Installing a Passcode</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-for-repairing-xbox-controller-slippage-issues/"><u>Steps for Repairing Xbox Controller Slippage Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-afterlife-of-discontinued-ps-plus-games/"><u>The Afterlife of Discontinued PS Plus Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-restoring-ps5-internet-connection/"><u>The Ultimate Guide to Restoring PS5 Internet Connection</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-manual-to-boosting-gaming-with-steam-mods/"><u>The Ultimate Manual to Boosting Gaming with Steam Mods</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208863446-thyroid-lymphoma-while-uncommon-can-be-more-prevalent-in-individuals-with-a-history-of-autoimmune-thyroiditis-like-hashimotos-disease/"><u>Thyroid Lymphoma, While Uncommon, Can Be More Prevalent in Individuals with a History of Autoimmune Thyroiditis Like Hashimoto's Disease.</u></a></li>
+<li><a href="https://games-able.techidaily.com/under-500-high-performance-innocn-display/"><u>Under $500: High-Performance InnoCN Display</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-how-playstation-5-handles-previous-titles/"><u>Understanding How PlayStation 5 Handles Previous Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-your-switchs-online-potential/"><u>Unlock Your Switch's Online Potential</u></a></li>
+<li><a href="https://games-able.techidaily.com/unplug-and-play-the-allure-of-netflixs-gaming/"><u>Unplug and Play: The Allure of Netflix’s Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/virtual-victory-joystick-vs-console-command/"><u>Virtual Victory: Joystick Vs. Console Command</u></a></li>
+<li><a href="https://network-issues.techidaily.com/winning-strategy-fixing-gpu-drivers-to-prevent-crashes/"><u>Winning Strategy: Fixing GPU Drivers to Prevent Crashes</u></a></li>
+</ul></div>

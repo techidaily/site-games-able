@@ -1,7 +1,7 @@
 ---
 title: "The Art of Gaming Controls: Buttons and Controllers on Mobile"
-date: 2024-07-12T04:11:41.105Z
-updated: 2024-07-13T04:11:41.105Z
+date: 2024-08-27T17:00:27.669Z
+updated: 2024-08-28T17:00:27.669Z
 tags:
   - games
 categories:
@@ -37,10 +37,16 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 ## How to Get Started With Button Mapping on Android
 ![Mantis prompting you to enable USB debugging.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-button-mapping-usb-debugging.png)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Enabling USB debugging on Android.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/android-developer-settings-usb-debugging.png)
 
 ![Mantis button mapping app prompting you to enable overlay settings.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-button-mapping-allow-overlay-settings.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Mantis uses an pop-up window to help you enter a pairing code.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-overlay-settings-pair.png)
 
 Close
@@ -63,6 +69,9 @@ Close
 
  Mantis Gamepad Pro isn't your only choice if you want to get started with button mapping on your Android device. You should also consider alternatives like [Octopus](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2031380/https://play.google.com/store/apps/details?id=com.chaozhuo.gameassistant&hl=en&gl=US) and [Panda Gamepad Pro](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2031380/https://play.google.com/store/apps/details?id=com.panda.gamepad&hl=en&gl=US) , which perform the same core function in different ways.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Assign Buttons to an Android Game
 
  Button mapping software generally requires you to enable the feature per game. To do this in Mantis Gamepad Pro, follow these steps:
@@ -77,16 +86,25 @@ Close
 
 ![Mantis Gamepad Pro with three games added.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-three-games-added.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Close
 
  When the game opens, you will see a Mantis widget hovering on one side of the screen. Tap this widget to bring up the controller options.
 
 ![Tap the floating Mantis button to begin mapping buttons.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-floating-button.png)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can select each of the inputs on your controller, such as the analog sticks, face buttons, and triggers. You then drag where on the screen you want the button press to correspond to. Mantis Gamepad Pro also includes support for gestures, so you can make pressing a button the equivalent of swiping rather than tapping.
 
 ![Buttons mapped using Mantis Gamepad Pro.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-button-map-controls.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
  From here on, you're good to go. The experience isn't without its quirks, but it works with most games you throw at it. Just know that sometimes you may need to re-activate the Mantis app, especially after restarting your phone.
 
  Button mapping won't deliver as smooth an experience as native controller support since things like navigating menus and other UI elements that move around often will still require touching the screen. You may also encounter other issues at unexpected times, which can be resolved by turning off developer settings and only re-enabling them when you intend to use Mantis.
@@ -110,3 +128,43 @@ Close
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-taking-twitter-videos-from-regular-to-high-definition/"><u>[New] 2024 Approved  Taking Twitter Videos From Regular to High-Definition</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-access-tons-of-free-vocal-textures/"><u>[New] Access Tons of Free Vocal Textures</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-chromebook-real-time-screenshot-app/"><u>[Updated] 2024 Approved  Chromebook Real-Time Screenshot App</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-commanding-delivery-analysis-update-v8/"><u>[Updated] 2024 Approved  Commanding Delivery Analysis  Update V8</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-mastering-media-locate-your-latest-favorites-on-facebook/"><u>2024 Approved  Mastering Media  Locate Your Latest Favorites on Facebook</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-engagement-with-custom-images-for-your-videos/"><u>Boost Engagement with Custom Images for Your Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/eco-conscious-gamers-budget-vr-choices/"><u>Eco-Conscious Gamers' Budget VR Choices</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/elevate-facebook-videos-with-synchronized-musical-charm-for-2024/"><u>Elevate Facebook Videos with Synchronized Musical Charm for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-gaming-experience-with-a-new-joystick/"><u>Elevate Gaming Experience with a New Joystick</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-your-gameplay-with-the-seamless-magic-of-nvidia-g-sync/"><u>Enhance Your Gameplay with the Seamless Magic of Nvidia G-Sync</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-spending-on-mid-range-gaming-mothers/"><u>Essential Spending on Mid-Range Gaming Mothers</u></a></li>
+<li><a href="https://games-able.techidaily.com/finest-budget-friendly-whitescale-pc-parts-of-2023/"><u>Finest Budget-Friendly Whitescale PC Parts of 2023</u></a></li>
+<li><a href="https://games-able.techidaily.com/guide-ensuring-pc-component-harmony/"><u>Guide: Ensuring PC Component Harmony</u></a></li>
+<li><a href="https://games-able.techidaily.com/handheld-horizon-nintendo-2024-rumor-round-up/"><u>Handheld Horizon: Nintendo 2024 Rumor Round-Up</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-does-apples-game-mode-in-macos-sonoma-work/"><u>How Does Apple's Game Mode in macOS Sonoma Work?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-samsung-by-fonelab-android-recover-music/"><u>How to restore wiped music on Samsung</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-oppo-a79-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Oppo A79 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-nokia-g42-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Nokia G42 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-easy-recording-studio-for-win10-desktops/"><u>In 2024, Easy Recording Studio for Win10 Desktops</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/more-than-looks-how-accessories-enrich-games/"><u>More Than Looks: How Accessories Enrich Games</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/navigating-webcam-features-on-apples-macbook-for-2024/"><u>Navigating Webcam Features on Apple's MacBook for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidia-unveils-game-streaming-service-but-whats-the-verdict/"><u>Nvidia Unveils Game Streaming Service, But What's the Verdict?</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5s-ability-to-run-ps4-games/"><u>PS5's Ability to Run PS4 Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/reconnecting-issues-revive-your-gaming-experience-with-headsets/"><u>Reconnecting Issues? Revive Your Gaming Experience with Headsets</u></a></li>
+<li><a href="https://games-able.techidaily.com/ryujinx-for-playstation-and-nintendo-switch-the-ultimate-guide/"><u>Ryujinx for PlayStation and Nintendo Switch: The Ultimate Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/setting-up-sonys-console-controller-in-windowsmacos/"><u>Setting Up Sony's Console Controller in Windows/macOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/smartchoice-display-gamemonitor-27m2v-led/"><u>SmartChoice Display: GameMonitor 27M2V LED</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/start-secure-talks-using-duckduckgos-enhanced-ai-chat-features-meet-chatgpt-and-beyond/"><u>Start Secure Talks Using DuckDuckGo's Enhanced AI Chat Features: Meet ChatGPT and Beyond</u></a></li>
+<li><a href="https://games-able.techidaily.com/stepwise-guide-to-implementing-ps5-gamepasscode/"><u>Stepwise Guide to Implementing PS5 Gamepasscode</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-art-of-selecting-prime-participation-rich-discs/"><u>The Art of Selecting Prime, Participation-Rich Discs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-developers-roadmap-installing-and-operating-codegpt-on-visual-studio-code/"><u>The Developer’s Roadmap: Installing and Operating CodeGPT on Visual Studio Code</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-cinematic-trailer-collection-for-2024/"><u>Ultimate Cinematic Trailer Collection for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-value-gaming-motherboard-deals/"><u>Ultimate Value Gaming Motherboard Deals</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-the-advantages-of-different-elgato-decks/"><u>Understanding the Advantages of Different Elgato Decks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleashing-creative-potential-in-gopro-4k-edits-for-2024/"><u>Unleashing Creative Potential in GoPro 4K Edits for 2024</u></a></li>
+</ul></div>

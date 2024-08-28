@@ -1,7 +1,7 @@
 ---
 title: "Electrifying Aspirations: Power and Purpose"
-date: 2024-07-12T04:10:13.440Z
-updated: 2024-07-13T04:10:13.440Z
+date: 2024-08-27T17:01:03.248Z
+updated: 2024-08-28T17:01:03.248Z
 tags:
   - games
 categories:
@@ -35,24 +35,39 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
 
  A bold approach would see a new run of two-screen games, but also a development of the Switch’s flexible selling point, giving us one more way to play.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2 An Upgradeable Dock
 ![official nintendo switch docking station](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/official-nintendo-switch-docking-station.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 Nintendo
 
  One of the promises of a hybrid system was that it offers portability when you need it, and power when you can afford to stay still. The Switch has never quite borne this out, with a pretty ineffective [dock lacking in some obvious areas](https://www.makeuseof.com/the-nintendo-switch-dock-desperately-needs-an-upgrade-reasons-why/) . It does little more than serve as a hub for power and video output. By improving its dock, and introducing a broader range, Nintendo could do us all a huge favor.
 
  Of course, the technology needs to support it, but a dock with an upgradable CPU or GPU would be top of my list. I’d also love to see more video options: 1440p, 4K, and 8K if possible. The dock could even support fancier audio options, or other peripherals and accessories altogether.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3 Full Support for Current Eshop Purchases
 
  As [digital purchases grow ever more popular](https://www.makeuseof.com/physical-games-vs-digital-games-best-to-buy/) , more of us are amassing large gaming libraries and discovering new ways to rent and share games. Backward compatibility is now easier than ever and is a strong selling point, one which current Switch owners hope will see the light of day.
 
  Nintendo likes to test our patience, releasing remaster after remaster, and each console revision tends to introduce its own unique way of playing Super Mario Bros (1985). But I'd like the company to really push the boat out and embrace permanent ownership of digital titles, starting from this generation.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## 4 Improved Screenshot and Video Features
 ![Valnet Reviews Department Arlo Essential Indoor Camera placed on table with the privacy shutter covering the lens](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/05/arlo-essential-indoor-camera-placed-on-table-with-the-privacy-shutter-covering-the-lensjpg_53529842952_o.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
  Jerome Thomas / MakeUseOf
 
  When I'm reviewing a game, I take many, many screenshots. And screenshots can be useful in a host of scenarios: sharing on social media, keeping a journal, and using as a gaming aid, to name just a few.
@@ -61,6 +76,9 @@ Nintendo
 
  It might also be fun to see a return of a proper camera, as lovable as the JoyCon IR is.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 5 More Than One Game Card Slot
 ![shutterstock_1447447304](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/shutterstock_1447447304.jpg)
 
@@ -89,3 +107,39 @@ Nintendo
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-scrutinizing-selfies-on-instagram-validation-necessary/"><u>[New] 2024 Approved  Scrutinizing Selfies on Instagram  Validation Necessary?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-conquer-youtube-searches-with-these-top-11-seo-strategies-for-2024/"><u>[New] Conquer YouTube Searches with These Top 11 SEO Strategies for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-essential-insights-using-tiktok-web-on-macos-for-2024/"><u>[New] Essential Insights  Using TikTok Web on macOS for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-from-click-to-chatter-turning-titles-into-talk-on-fb/"><u>[Updated] 2024 Approved  From Click to Chatter  Turning Titles Into Talk on FB</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-culminating-sound-merging-music-with-vimeo-media-assets/"><u>[Updated] Culminating Sound  Merging Music with Vimeo Media Assets</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-webcam-advancements-revolutionizing-video-capture-at-home/"><u>2024 Approved  WebCam Advancements  Revolutionizing Video Capture at Home</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-atk0110-bios-and-acpi-control-panel-programs-free-download-today/"><u>ASUS ATK0110 BIOS & ACPI Control Panel Programs Free Download Today</u></a></li>
+<li><a href="https://games-able.techidaily.com/comparing-steam-and-gog-game-distribution-analysis/"><u>Comparing Steam & GOG: Game Distribution Analysis</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/cultivating-an-xbox-community-hub/"><u>Cultivating an Xbox Community Hub</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-new-realities-in-meta-quest-3/"><u>Discovering New Realities in Meta Quest 3</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-update-ch340g-usb-serial-interface-software-for-windows-11/"><u>Download & Update CH340G USB Serial Interface Software for Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-novice-to-pro-streamlining-steam-games-with-meta-quest/"><u>From Novice to Pro: Streamlining Steam Games with Meta Quest</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-evolution-how-the-xbox-series-s-abandons-physical-media/"><u>Gaming Evolution: How the Xbox Series S Abandons Physical Media</u></a></li>
+<li><a href="https://games-able.techidaily.com/guardianship-in-the-digital-age-protect-your-children/"><u>Guardianship in the Digital Age: Protect Your Children</u></a></li>
+<li><a href="https://games-able.techidaily.com/improve-gameplay-and-accuracy-a-comprehensive-guide-to-using-steam-deck-keys/"><u>Improve Gameplay and Accuracy: A Comprehensive Guide to Using Steam Deck Keys</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-utilizing-the-power-of-twitter-archive-data/"><u>In 2024, Utilizing the Power of Twitter Archive Data</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-input-devices-for-top-gamers/"><u>Innovative Input Devices for Top Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-deleting-ps5-users/"><u>Mastering the Art of Deleting PS5 Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-games-and-getaways-key-strategies/"><u>Navigating Games & Getaways: Key Strategies</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-windows-challenges-with-robloxs-error-code-403/"><u>Overcoming Windows' Challenges with Roblox's Error Code 403</u></a></li>
+<li><a href="https://games-able.techidaily.com/pinnacle-picture-quality-improving-xbox-series-x/"><u>Pinnacle Picture Quality: Improving Xbox Series X</u></a></li>
+<li><a href="https://games-able.techidaily.com/precision-power-the-ultimate-guide-to-starting-an-fps-game-right/"><u>Precision Power: The Ultimate Guide to Starting an FPS Game Right</u></a></li>
+<li><a href="https://games-able.techidaily.com/reignite-your-consoles-zest-with-these-tips/"><u>Reignite Your Console's Zest with These Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/selecting-your-ideal-raspberry-pi-emulator-batocera-vs-retropie/"><u>Selecting Your Ideal Raspberry Pi Emulator: Batocera Vs. RetroPie</u></a></li>
+<li><a href="https://games-able.techidaily.com/solutions-to-stop-your-xbox-joystick-from-skipping/"><u>Solutions to Stop Your Xbox Joystick From Skipping</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-non-conformists-guide-to-mastering-nycs-social-networks/"><u>The Non-Conformist’s Guide to Mastering NYC's Social Networks</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-20-versatile-game-pairs-for-social-fun-across-devices/"><u>Top 20 Versatile Game Pairs for Social Fun Across Devices</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-s-top-free-security-camera-software-features-pros-and-cons/"><u>Updated In 2024, S Top Free Security Camera Software Features, Pros, and Cons</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-game-pass-unveiled-the-lowdown/"><u>Xbox Game Pass Unveiled: The Lowdown</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-revolutionizing-gaming-through-cloud-technology/"><u>Xbox: Revolutionizing Gaming Through Cloud Technology</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/your-path-to-youtube-prominence-effective-tactics-unveiled-for-2024/"><u>Your Path to YouTube Prominence  Effective Tactics Unveiled for 2024</u></a></li>
+</ul></div>
