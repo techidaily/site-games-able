@@ -1,7 +1,7 @@
 ---
 title: Subscribing to Surveillance, Owning for Autonomy
-date: 2024-07-12T04:01:25.882Z
-updated: 2024-07-13T04:01:25.882Z
+date: 2024-08-31T19:17:14.227Z
+updated: 2024-09-01T19:17:14.227Z
 tags:
   - games
 categories:
@@ -27,6 +27,9 @@ thumbnail: https://thmb.techidaily.com/da3401fb2ac78eb6ea2665b0f0063719a28f111af
 
  The biggest draw of game subscription services is that you can access a huge catalog of games for a monthly fee. However, that comes with one major drawback: you give up the benefits of game ownership. Here's a look at why game subscription services can't replace the benefits of owning your games.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Games Are Heading Towards an All-Digital Future
 
  According to a report by [GamesIndustry.biz](https://www.gamesindustry.biz/gamesindustrybiz-presents-the-year-in-number-2023) , 95% of games sold in 2023 were digital. We’re even seeing some games, such as Alan Wake 2 and Hellblade 2, release digital-only versions with no physical copies. Furthermore, legendary physical retailers like GameStop are closing more stores each year.
@@ -40,15 +43,33 @@ thumbnail: https://thmb.techidaily.com/da3401fb2ac78eb6ea2665b0f0063719a28f111af
 ## Why Subscriptions Can't Beat Game Ownership
 ![EA Play games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ea-play-games.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  As game subscriptions keep trending upward and game companies embrace them, the benefits of complete game ownership are becoming more apparent.
 
  When we talk about game ownership here, we’re referring to physical games. While [purchasing digital games](https://www.makeuseof.com/physical-games-vs-digital-games-best-to-buy/) gives you more control over games than subscriptions, you can run into similar problems.
 
 Here are several reasons game ownership is king over subscriptions.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. You Have Complete Access
 ![hands holding a ps5 controller in front of a tv screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/hands-holding-a-ps5-controller-in-front-of-a-tv-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
  Mohsen Vaziri/[Shutterstock](https://www.shutterstock.com/image-photo/toronto-canada-november-24-2020-person-1860839008)
 
  With game subscriptions, you will have access to the games if you have an active subscription. This is different from a game you own, where you pay once and can access it today, tomorrow, or in five years (provided you still have the disc).
@@ -61,6 +82,9 @@ Here are several reasons game ownership is king over subscriptions.
 
  If you’re in an area with shoddy internet, it can make it hard to download or stream the games. And if there’s no internet, you won’t be able to access them at all. However, large Day 1 patches do make this more complicated when it comes to physical games, as they require an online connection to download.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. You Can Build a Collection
 
  Physical games are usually worth collecting due to how satisfying it can be to see them displayed on a shelf. Furthermore, game companies might release various physical editions that come with things like a steelbook case, box art, art book, manual, map, action figures, and other collectibles. You can’t get any of this from a subscription service.
@@ -69,6 +93,9 @@ Here are several reasons game ownership is king over subscriptions.
 
  If you’re not a collector, you can easily sell or trade in the games once you’re done with them. This can help you recover some of the costs of purchasing the game, which you can then use to purchase another game. If you hold on to the games long enough, there’s a chance (although small) that they will be worth substantially more in the future.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ### 5\. You Can Share the Games with Others
 ![two people playing mobile games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/two-people-playing-mobile-games.jpg)
 
@@ -101,3 +128,56 @@ Here are several reasons game ownership is king over subscriptions.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-the-best-face-pixeling-tools-for-privacy/"><u>[New] Exploring the Best Face-Pixeling Tools for Privacy</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-efficiently-convert-iphone-photos-jpg-png-into-pdf-format/"><u>[New] In 2024, Efficiently Convert iPhone Photos (JPG, PNG) Into PDF Format</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-free-skype-recording-made-easy-mp3-edition/"><u>[Updated] Free Skype Recording Made Easy - MP3 Edition</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-graphics-legacy-radeon-reloaded/"><u>[Updated] In 2024, Graphics Legacy  Radeon Reloaded</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-mastering-instagram-fcpxs-guide-to-vertical-video-editing-for-2024/"><u>[Updated] Mastering Instagram  FCPX's Guide to Vertical Video Editing for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-visualquilt-maker-macos-photoplusvideo-display-for-2024/"><u>[Updated] VisualQuilt Maker  MacOS Photo+Video Display for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-fresh-take-on-an-old-favorite-the-remastered-ratchet-and-clank-odyssey-explored/"><u>A Fresh Take on an Old Favorite: The Remastered Ratchet & Clank Odyssey Explored</u></a></li>
+<li><a href="https://games-able.techidaily.com/control-your-own-soccer-saga-old-championship-manager-on-pc-for-zero-dollars/"><u>Control Your Own Soccer Saga: Old Championship Manager on PC for ZERO Dollars</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-twitch-features-through-prime-membership/"><u>Discover Twitch Features Through Prime Membership</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-fixes-for-common-kernel3-dll-problems-in-windows-systems/"><u>Easy Fixes for Common Kernel3^ Dll Problems in Windows Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-dandd-with-ai-6-innovative-ways-to-utilize-chatgpt/"><u>Elevating D&D with AI: 6 Innovative Ways to Utilize ChatGPT</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhanced-control-and-performance-why-opt-for-corsairs-icue-link-upgrades/"><u>Enhanced Control and Performance - Why Opt for Corsair's iCUE Link Upgrades?</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-gameplay-sd-card-for-steam-deck/"><u>Enhancing Gameplay: SD Card for Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-artificial-intelligence-tools-every-entrepreneur-must-explore/"><u>Essential Artificial Intelligence Tools Every Entrepreneur Must Explore</u></a></li>
+<li><a href="https://games-able.techidaily.com/guide-to-report-abuse-on-xbox-series-xs/"><u>Guide to Report Abuse on Xbox Series X/S</u></a></li>
+<li><a href="https://games-able.techidaily.com/hot-10-deals-playstations-midsummer-madness/"><u>Hot 10 Deals: PlayStation's Midsummer Madness</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Vivo Y100 5G? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-accelerate-slow-mobile-networks-in-just-10-easy-steps/"><u>How To Accelerate Slow Mobile Networks in Just 10 Easy Steps</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-optimize-your-steam-deck-for-epic-and-gog-gaming/"><u>How to Optimize Your Steam Deck for Epic & GOG Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/improving-your-xboxs-joystick-responsiveness/"><u>Improving Your Xbox's Joystick Responsiveness</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Realme 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-a-dual-feature-gaming-screen-beneficial/"><u>Is a Dual-Feature Gaming Screen Beneficial?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-nokia-c300-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Nokia C300? Fixed | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mmo-evolution-a-new-era-explored/"><u>MMO Evolution: A New Era Explored</u></a></li>
+<li><a href="https://games-able.techidaily.com/my-office-my-arena/"><u>My Office, My Arena</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-through-launcher-lockups-windows-edition/"><u>Navigating Through Launcher Lockups - Windows Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-artificial-intelligence-in-dlss-update-35/"><u>Nvidia's Artificial Intelligence in DLSS Update 3.5</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/perfect-color-balancing-for-free-leveraging-luts-within-obs-studio-environment/"><u>Perfect Color Balancing for Free  Leveraging LUTs Within OBS Studio Environment</u></a></li>
+<li><a href="https://games-able.techidaily.com/phone-or-tablet-the-ultimate-gamers-decision-guide/"><u>Phone or Tablet: The Ultimate Gamer's Decision Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/phone-vs-tablet-the-perfect-gaming-partner/"><u>Phone Vs. Tablet: The Perfect Gaming Partner</u></a></li>
+<li><a href="https://games-able.techidaily.com/removing-past-game-saves-from-playstation-5-console/"><u>Removing Past Game Saves From PlayStation 5 Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolved-rainbow-six-extraction-stability-issues-on-windows-how-to-fix-them/"><u>Resolved: Rainbow Six Extraction Stability Issues on Windows - How to Fix Them</u></a></li>
+<li><a href="https://games-able.techidaily.com/revive-playstation-4s-wi-fi-connection-with-these-fixes/"><u>Revive PlayStation 4'S Wi-Fi Connection with These Fixes</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-xbox-viewing-on-a-secondary-laptop-screen/"><u>Seamless Xbox Viewing on a Secondary Laptop Screen</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-resolving-windows-code-28-issues/"><u>Step-by-Step Guide: Resolving Windows Code 28 Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/steps-to-disable-youtube-on-an-ipad-device/"><u>Steps to Disable YouTube on an iPad Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-installing-oddworld-soulstorm-on-your-windows-computer/"><u>Successfully Installing Oddworld: Soulstorm on Your Windows Computer</u></a></li>
+<li><a href="https://games-able.techidaily.com/tactical-approach-to-monitoring-xbox-gaming/"><u>Tactical Approach to Monitoring Xbox Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/tailored-playthroughs-integrating-game-pass-onto-steam-through-glossi/"><u>Tailored Playthroughs - Integrating Game Pass Onto Steam Through GlosSI</u></a></li>
+<li><a href="https://games-able.techidaily.com/taipeis-2024-showdown-ai-tech-frontier/"><u>Taipei's 2024 Showdown: AI Tech Frontier</u></a></li>
+<li><a href="https://games-able.techidaily.com/ten-hilarious-word-puzzles-that-break-the-ice-in-chats/"><u>Ten Hilarious Word Puzzles That Break The Ice in Chats</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-online-oasis-weighing-9-benefits-against-potential-drawbacks/"><u>The Online Oasis: Weighing 9 Benefits Against Potential Drawbacks</u></a></li>
+<li><a href="https://games-able.techidaily.com/timeless-trails-emulating-old-pokemon-titles/"><u>Timeless Trails: Emulating Old Pokémon Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-cooling-devices-to-prevent-overheating/"><u>Top Cooling Devices to Prevent Overheating</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-the-xbox-series-status-shift/"><u>Understanding the Xbox Series Status Shift</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-hidden-treasures-of-gaming-history-using-emudeck-and-steam-deck/"><u>Unlock Hidden Treasures of Gaming History Using EmuDeck and Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-the-full-potential-of-your-controller-in-games/"><u>Unlock the Full Potential of Your Controller in Games</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unveil-your-creative-potential-comprehensive-guide-to-powerdirector-pro/"><u>Unveil Your Creative Potential  Comprehensive Guide to PowerDirector Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/xboxs-system-against-game-hacks/"><u>Xbox's System Against Game Hacks</u></a></li>
+</ul></div>

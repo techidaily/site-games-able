@@ -1,7 +1,7 @@
 ---
 title: Enter a New Era of Portable Computing with PDW4
-date: 2024-07-12T04:00:56.924Z
-updated: 2024-07-13T04:00:56.924Z
+date: 2024-08-31T19:16:42.822Z
+updated: 2024-09-01T19:16:42.822Z
 tags:
   - games
 categories:
@@ -110,6 +110,9 @@ Windows 11 pre-installed
 
  In fact, apart from a few console titles, you can play most games ever released on this device.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## It’s Like a Steam Deck With a Physical Keyboard
 
 One of the most stunning features of this device is the keyboard.
@@ -118,6 +121,9 @@ One of the most stunning features of this device is the keyboard.
 
 ![GPD Win 4 with keyboard open](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-review-gpd-win-4-kb.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When keys are required, connecting a keyboard seems smarter; an onscreen keyboard should be adequate in most cases.
 
  That said, the action on the display’s sliding motion is nice. It feels like using a classic Windows Mobile phone, but this is arguably a direct lineage of “Pocket PC,” regardless of how many iterations and companies it took to get there.
@@ -144,6 +150,9 @@ One of the most stunning features of this device is the keyboard.
 
 ![GPD Win 4 USB Type-C port](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-review-gpd-win-4-usbc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
  The Corning Gorilla Glass 5 display is a 6-inch H-IPS with 1080p resolution, 368PPI, and refresh rate options of 40Hz and 60Hz. It boasts flicker-free DC light dimming and hides a QWERTY keyboard beneath. Sliding the display up reveals the keyboard; no other controls are hidden.
 
 ## USB Type C Expansion Options Turn It Into a PC
@@ -166,6 +175,9 @@ One of the most stunning features of this device is the keyboard.
 
 ![GPD Win 4 controller right](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-review-gpd-win-4-right-control.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
  For any game that requires “controller mode” a useful switch is situated on the left side of the console. This enables the thumbsticks and buttons to work as they would if you had plugged an Xbox controller into a PC.
 
  The GPD Win 4 also has supports rear-mounted expansions. At the time of writing, only a 4G LTE radio is available, which clips onto the back of the console. The mounting points can be seen in the molding of the chassis, which sports echoes of the Sony PSP handheld.
@@ -174,6 +186,9 @@ One of the most stunning features of this device is the keyboard.
 
  RGB LEDs cycle through a color change beneath the two clear shoulder buttons, changing how you might perceive the console. But when the color turns green, this white handheld feels like a portable Xbox 360.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ## Testing the GPD Win 4 Gaming Handheld
 
  I selected four games (all on Steam) to measure this device. How did they work out?
@@ -197,10 +212,16 @@ One of the most stunning features of this device is the keyboard.
 
 ![GPD Win 4 vs Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-review-gpd-win-4-compare.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Third, and perhaps most important, is that the GPD Win 4 doesn’t feel as comfortable as the Steam Deck. In fact, I’d go as far as to say it’s akin to playing games on a house brick.
 
  Those rear buttons are a pain to reach, the Select and Start buttons are too small, and the mouse-to-controller toggle is easy to catch. That can cause some problems mid-game, let me tell you.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The GPD Win 4 Lets You Play Anywhere, for a Price
 
  At the most basic level, this handheld PC lets you play recent AAA titles on the go. That in itself is amazing, and with the controller layout, you get to enjoy seamless console-style gaming.
@@ -232,3 +253,57 @@ One of the most stunning features of this device is the keyboard.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-fashioning-small-homes-with-eastern-aesthetics/"><u>[Updated] In 2024, Fashioning Small Homes with Eastern Aesthetics</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-masterworks-of-screenwriting-by-thematic-quarters/"><u>[Updated] In 2024, Masterworks of Screenwriting by Thematic Quarters</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-prime-time-editing-selecting-the-best-software/"><u>[Updated] Prime-Time Editing  Selecting the Best Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/10-blunders-to-steer-clear-of-when-choosing-your-next-monitor/"><u>10 Blunders to Steer Clear of when Choosing Your Next Monitor</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-battlefield-brilliance-unleashed-a-guide-to-top-7-total-war-triumphs/"><u>2024 Approved  Battlefield Brilliance Unleashed  A Guide to Top 7 Total War Triumphs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-quintessential-quests-screenwriting-gems/"><u>2024 Approved  Quintessential Quests  Screenwriting Gems</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-dynamic-duo-approach-using-two-photos-in-one-instagram-story/"><u>2024 Approved  The Dynamic Duo Approach  Using Two Photos in One Instagram Story</u></a></li>
+<li><a href="https://games-able.techidaily.com/4-essential-steps-for-amplifying-xbox-point-advantages/"><u>4 Essential Steps for Amplifying Xbox Point Advantages</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-unrecognized-benefits-in-ignoring-ray-tracings-hype/"><u>7 Unrecognized Benefits in Ignoring Ray Tracing's Hype</u></a></li>
+<li><a href="https://games-able.techidaily.com/8-ways-to-fix-big-picture-mode-not-working-or-crashing-in-steam-for-windows/"><u>8 Ways to Fix Big Picture Mode Not Working or Crashing in Steam for Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/9-features-that-would-make-the-ps5-better/"><u>9 Features That Would Make the PS5 Better</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/a-jargon-primer-for-virtual-experiences/"><u>A Jargon Primer for Virtual Experiences</u></a></li>
+<li><a href="https://games-able.techidaily.com/ace-in-the-hole-adding-windows-to-your-steam-deck/"><u>Ace in the Hole: Adding Windows to Your Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/ace-your-game-night-3-best-stream-networks-on-switch/"><u>Ace Your Game Night: 3 Best Stream Networks on Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieve-peak-performance-install-updated-nvidia-graphics-driver-now/"><u>Achieve Peak Performance - Install Updated Nvidia Graphics Driver Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieving-optimal-steam-gaming-experience-through-smart-financing/"><u>Achieving Optimal Steam Gaming Experience Through Smart Financing</u></a></li>
+<li><a href="https://games-able.techidaily.com/activities-galore-chess-and-poker-in-discord-servers/"><u>Activities Galore: Chess & Poker in Discord Servers</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-inconsistent-mouse-wheel-travel/"><u>Addressing Inconsistent Mouse Wheel Travel</u></a></li>
+<li><a href="https://games-able.techidaily.com/ai-and-gaming-the-revolution-of-nvidias-dlss-technology-in-update-35/"><u>AI and Gaming: The Revolution of Nvidia’s DLSS Technology in Update 3.5</u></a></li>
+<li><a href="https://games-able.techidaily.com/amplify-your-channels-impact-with-the-leading-7-twitch-bot-allies/"><u>Amplify Your Channel's Impact with the Leading 7 Twitch Bot Allies</u></a></li>
+<li><a href="https://games-able.techidaily.com/apex-studios-rise-too-large-for-the-market-interview-series/"><u>Apex Studios' Rise: Too Large for the Market? [Interview Series]</u></a></li>
+<li><a href="https://games-able.techidaily.com/apple-macos-sonoma-how-game-mode-enhances-gaming-experience/"><u>Apple MacOS Sonoma: How Game Mode Enhances Gaming Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/assessing-the-value-of-playstation-plus-subscription/"><u>Assessing the Value of PlayStation Plus Subscription</u></a></li>
+<li><a href="https://games-able.techidaily.com/assessing-your-needs-before-committing-to-ps5/"><u>Assessing Your Needs Before Committing to PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/asus-rog-ally-dock-revolutionary-designs/"><u>ASUS ROG Ally Dock Revolutionary Designs</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoid-game-speakers-prioritize-headphones/"><u>Avoid Game Speakers, Prioritize Headphones</u></a></li>
+<li><a href="https://games-able.techidaily.com/baldurs-gate-3-download-path-unveiled/"><u>Baldur's Gate 3: Download Path Unveiled!</u></a></li>
+<li><a href="https://games-able.techidaily.com/beat-the-heat-with-ps-summer-sale-winners/"><u>Beat the Heat with PS Summer Sale Winners</u></a></li>
+<li><a href="https://games-able.techidaily.com/beginners-guide-steam-deck-sd-installation/"><u>Beginner's Guide: Steam Deck SD Installation</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-buys-in-playstation-summer-clearance-sale/"><u>Best Buys in PlayStation Summer Clearance Sale</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-buys-elite-selection-of-xbox-streaming-equipment/"><u>Best Buys: Elite Selection of Xbox Streaming Equipment</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-oppo-k11-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Oppo K11 5G</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/craft-your-own-style-the-art-of-bordered-instagram-photos/"><u>Craft Your Own Style  The Art of Bordered Instagram Photos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diagnosing-and-repairing-usb-connectivity-for-internet-sharing/"><u>Diagnosing and Repairing USB Connectivity for Internet Sharing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhance-your-images-focus-and-blur-pro-tips/"><u>Enhance Your Images  Focus & Blur Pro Tips</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-huawei-p60-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Huawei P60 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-realme-c51-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-apple-iphone-6s-plus-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Apple iPhone 6s Plus iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-free-filmora-download-avoid-viruses-and-scams-with-our-tips/"><u>In 2024, Free Filmora Download Avoid Viruses and Scams with Our Tips</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-tecno-phantom-v-flip-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Tecno Phantom V Flip Phone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-nokia-c22-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Nokia C22? Fixed | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-leaderboards-unveiled-1-26-in-youtube-snacking/"><u>In 2024, Leaderboards Unveiled  #1, #2...#6 in YouTube Snacking</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-punpictures-pro-jestjokes-network/"><u>In 2024, PunPictures Pro  JestJokes Network</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-snapedit-fundamentals-for-amateur-photographers/"><u>In 2024, Snapedit Fundamentals for Amateur Photographers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-vivo-g2-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Vivo G2 Android SIM Unlock APK</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719161039995-on-the-spot-web-game-selection-here/"><u>On the Spot Web Game Selection, Here!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719166879528-revitalize-your-pc-with-the-newest-nvidia-driver-update/"><u>Revitalize Your PC with the Newest Nvidia Driver Update</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-secrets-of-editing-numerical-data-in-tiktoks-for-2024/"><u>The Secrets of Editing Numerical Data in TikToks for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-oppo-reno-11f-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Oppo Reno 11F 5G FRP Bypass</u></a></li>
+</ul></div>

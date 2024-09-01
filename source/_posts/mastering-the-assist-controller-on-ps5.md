@@ -1,7 +1,7 @@
 ---
 title: Mastering the Assist Controller on PS5
-date: 2024-07-12T04:02:14.658Z
-updated: 2024-07-13T04:02:14.658Z
+date: 2024-08-31T19:15:55.912Z
+updated: 2024-09-01T19:15:55.912Z
 tags:
   - games
 categories:
@@ -34,6 +34,9 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 
  It’s also useful for young gamers who need a little extra assistance from a parent to beat a particularly formidable final boss. There are plenty of scenarios where an assist controller could be helpful. So if you want to learn how to use this feature on your PS5, follow the instructions below.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Do I Set Up an Assist Controller on My PS5?
 
  There are a few things to note before getting started. Firstly, the ability to connect an assist controller to your PS5 was introduced in an update. So, if you haven’t [enabled auto-updates on your PS5](https://www.makeuseof.com/how-to-enable-ps5-auto-updates/) yet, go ahead and update your PS5 manually to the latest version.
@@ -48,22 +51,43 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 
 ![PS5 Settings Accessibility Section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-settings-accessibility-section.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
  Head to the**Accessibility** settings and scroll down to**Controllers** .
 
 ![PS5 Settings Use Second Controller for Assistance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-settings-use-second-controller-for-assistance.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
  Tap**Use Second Controller for Assistance** , and make sure the**Use Assist Controller** switch is on.
 
 ![PS5 Settings with Use Assist Controller toggle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-settings-use-assist-controller-switch.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
  Take your second controller, turn it on, and select the same**user profile** that the main controller is connected to. It's very important that both controllers are connected to the same user profile. If not, the process will not be successful. You can tell which profile the main controller is connected to by the**controller icon** underneath the profile picture.
 
 ![PS5 Settings Assign Assist Controller to Profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-settings-assign-assist-controller-to-profile.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You will now be able to use the second controller to assist the first player in any way they need. You can tell the two controllers have successfully been connected by checking the**battery icon** at the top right. If there are two batteries instead of one, you are good to go.
 
 ![PS5 Assist Controller Battery Icons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-assist-controller-battery-icons.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To stop using an assist controller, turn one of the controllers off to disconnect it, or head back to the settings and switch**Use Assist Controller** off.
 
  You are unable to use DualSense features such as haptic feedback, adaptive triggers, or the controller's built-in microphone while using an assist controller, but this is a small price to pay to help someone play and enjoy the games they love.
@@ -93,3 +117,41 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-strategies-for-acquiring-flawless-photos-on-the-internet/"><u>[New] 2024 Approved  Strategies for Acquiring Flawless Photos on the Internet</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-evaluating-virtual-realms-pros-and-cons-for-2024/"><u>[New] Evaluating Virtual Realms  Pros and Cons for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-how-to-download-part-of-a-youtube-videos/"><u>[New] In 2024, How to Download Part of a YouTube Videos?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-masterful-makeovers-picarts-backdrop-banishment-guide/"><u>[Updated] Masterful Makeovers  PicArt’s Backdrop Banishment Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719163821039-10-hidden-gem-free-mobile-games-pure-fun/"><u>10 Hidden Gem Free Mobile Games - Pure Fun</u></a></li>
+<li><a href="https://games-able.techidaily.com/3-reasons-why-30fps-console-gaming-isnt-as-bad-as-you-think/"><u>3 Reasons Why 30FPS Console Gaming Isn’t as Bad as You Think</u></a></li>
+<li><a href="https://games-able.techidaily.com/ace-at-searching-spotting-individuals-in-steam/"><u>Ace at Searching: Spotting Individuals in Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieve-seamless-gameplay-how-to-use-controllers-with-ryujinx/"><u>Achieve Seamless Gameplay: How to Use Controllers with Ryujinx</u></a></li>
+<li><a href="https://games-able.techidaily.com/asuss-visionary-docking-stations-the-premier-rog-ally-models-of-2024/"><u>Asus's Visionary Docking Stations - The Premier RoG Ally Models of 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/choosing-the-champion-of-this-generation-ps5-or-xbox-sx/"><u>Choosing the Champion of This Generation: PS5 or Xbox SX?</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-ultrahd-pixel-rich-gaming-mouse-collection/"><u>Elite UltraHD, Pixel Rich Gaming Mouse Collection</u></a></li>
+<li><a href="https://games-able.techidaily.com/emulator-showdown-which-one-crushes-it-on-raspberry-pi/"><u>Emulator Showdown: Which One Crushes It on Raspberry Pi?</u></a></li>
+<li><a href="https://games-able.techidaily.com/enrich-gameplay-with-advanced-focused-3d-light-panels/"><u>Enrich Gameplay with Advanced, Focused 3D Light Panels</u></a></li>
+<li><a href="https://games-able.techidaily.com/fast-and-furious-games-boost-your-windows-fps/"><u>Fast and Furious Games: Boost Your Windows FPS</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-on-steroids-keychron-and-lemokey-reviewed/"><u>Gaming on Steroids: Keychron & Lemokey Reviewed</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-vivo-y200e-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-15-drfone-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-find-x7-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Find X7 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-14-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi 14 Phone without Google Account?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-ideal-5-monitors-for-enhanced-ps5-experience/"><u>In 2024, Ideal 5 Monitors for Enhanced PS5 Experience</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-samsung-galaxy-m14-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Samsung Galaxy M14 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-techniques-for-vimeo-video-insertion-into-corporate-presentations/"><u>In 2024, Techniques for Vimeo Video Insertion Into Corporate Presentations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/installing-and-accessing-fubo-sports-network-on-an-amazon-firestick/"><u>Installing and Accessing Fubo Sports Network on an Amazon Firestick</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oneplus-nord-n30-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your OnePlus Nord N30 5GFRP Lock</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-nyts-strands-an-expert-tutorial-for-word-games-enthusiasts/"><u>Mastering NYT's 'Strands': An Expert Tutorial for Word Games Enthusiasts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-the-best-airdate-strategy/"><u>Navigating the Best Airdate Strategy</u></a></li>
+<li><a href="https://games-able.techidaily.com/prioritize-these-five-game-changing-mouse-features-today/"><u>Prioritize These Five Game-Changing Mouse Features Today!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-fixes-for-non-responsive-mac-software/"><u>Quick Fixes for Non-Responsive Mac Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-your-games-with-prime-channel-access/"><u>Streamline Your Games with Prime Channel Access</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-list-of-apples-pre-installed-offline-games/"><u>The Ultimate List of Apple's Pre-Installed, Offline Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-gaming-triumphs-with-the-wisdom-of-helldivers-2/"><u>Unlocking Gaming Triumphs with the Wisdom of Helldivers 2</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-flaws-a-closer-look-at-6-reasons-mac-isnt-ideal-for-gamers/"><u>Unveiling the Flaws: A Closer Look at 6 Reasons Mac Isn't Ideal for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/vintage-meets-modern-switchs-oled-and-old-docks/"><u>Vintage Meets Modern: Switch's OLED and Old Docks</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-is-the-nyts-connections-game-and-how-do-you-play-it/"><u>What Is the NYT's Connections Game and How Do You Play It?</u></a></li>
+</ul></div>

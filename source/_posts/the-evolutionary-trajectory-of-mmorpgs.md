@@ -1,0 +1,153 @@
+---
+title: The Evolutionary Trajectory of MMORPGs
+date: 2024-08-31T19:29:48.790Z
+updated: 2024-09-01T19:29:48.790Z
+tags:
+  - games
+categories:
+  - games
+description: This Article Describes The Evolutionary Trajectory of MMORPGs
+excerpt: This Article Describes The Evolutionary Trajectory of MMORPGs
+keywords: MMORPG Development Trends,Online Gaming History,Evolution of Virtual World Games,MMORPG Genre Evolution,Persistent World Online Gaming,Interactive Massively Multiplayer Games History,MMO Game Design Progression
+thumbnail: https://thmb.techidaily.com/37cbd79bb1dc4f01076609d4f2040fc4f61e96fa43faa2585a2bbac8dade3639.jpg
+---
+
+## The Evolutionary Trajectory of MMORPGs
+
+ While MMOs fluctuate in popularity, there remains a consistent, dedicated portion of gamers who keep the genre alive. MMOs offer another world for you to be a part of, with players often spending countless hours and a lot of money as they become engrossed in the game.
+
+ It's likely you've heard of MMOs since they have been quite a popular genre throughout the years. But if you've never played one, you might not really get why they're different or demand so much attention from the people who play them.
+
+## What Is an MMO Game?
+
+![The World of Warcraft website home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/world-of-warcraft-home.jpg)
+
+ MMO stands for "massively multiplayer online". This generally means that when you're playing one of these games, there will be hundreds if not thousands of other players in the same world as you, interacting with the same NPCs, the same areas, and the same quests. There are quite a few MMO subgenres, but the one thing they share is that they are set in a huge world, populated with lots of other people playing and interacting with you in real-time.
+
+ MMORPGs are the most common sub-genre of an MMO. These are usually third-person fantasy worlds where you will have many classes and subclasses of combat, guilds, and abilities bound to hotkeys on your keyboard. RPG stands for "role-playing game"; these typically go hand in hand with the fantasy genre. Good examples of MMORPGs are World of Warcraft, Black Desert, and RuneScape.
+
+ MMOFPSs are another notable sub-genre of MMOs. These games play like an FPS but typically feature larger maps, a higher number of competing players in games and less focus on skill points and abilities, more so on gunplay and skill. Good examples of these games would be PlanetSide 2 and BattleBit.
+
+ There are other subgenres of MMOs that extend to sports, racing, and even music games. Typically though, an MMO that you come across is going to be an MMORPG or an MMOFPS. If you love to compete with other players but also explore rich and vast lands, then one of the[best free MMORPGs](https://www.makeuseof.com/tag/the-10-greatest-free-mmorpgs-to-start-playing-now/) is going to be more your style. If you're a fan of FPS games like Halo and Call of Duty but want something that requires more commitment, an MMOFPS would be more well-suited. Finding the right MMO for you takes a little bit of research but is worth it if you find a game that you enjoy playing.
+
+## How Is an MMO Game Different From Other Games?
+
+![Flat screen monitors with a keyboard and mouse on a desk lit up by LED lights](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/pc-gaming-setup.jpg)
+
+ While all games are built with the core goal of being a fun time, they are not all built for the same type of player. MMO games differ from other games by offering a massive amount of content in a vast world, with the underpinning of making the world a social experience that, while occasionally necessary, isn't mandatory to you completing the game's quests. You can be an outsider that solos dungeon bosses and random street-side mobs. You can join a guild of other players and go raiding with them every Friday night to share in high-level loot.
+
+MMOs allow you to play as:
+
+* What you want: typically an archer, mage, or warrior.
+* How you want: be a lone wolf, a merchant, a trusted guild member, or a PVPer.
+
+ The sheer level of freedom they offer in how you experience the game offers a more comprehensive gaming experience that a lot of other genres just don't come close to. And that's not a dig on other genres, they're going after a different type of gamer, but there's room for both.
+
+ Another way that MMO games differ is that they tend to be centered on "the grind". That is, to repetitively repeat an action on the game in order to obtain an item or level up a particular skill to a particular level. And while hardware like[an MMO mouse can improve your gaming experience](https://www.makeuseof.com/how-mmo-mice-improve-gaming-experience/) , if you have the spare cash, it's still a long process. If you're somebody that appreciates the idea of grinding to get to a certain place, then you'll enjoy your time in MMOs.
+
+ Finally, some players want to feel a sense of longevity and progress with the games they choose to play. A game like NBA or Call of Duty would have their progress essentially wiped year-on-year if they wanted to keep up with the latest titles. On an MMO, you can commit to playing on one account for the next 10–20 years at least, usually. MMOs tend to be constantly-evolving games that require a commitment, a bit of buy-in from you and other players. That speaks to certain gamers, while others find it too intense.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+## The History of MMO Games
+
+![Old School Runescape running on the RuneLite app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/old-school-runescape.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ MMO games have come a long way from where they first started. Though the genre's popularity has fluctuated over the years, it has been solidified as one of the most popular types of gaming available.
+
+ As noted in a[Massively Overpowered post](https://massivelyop.com/2021/08/07/the-game-archaeologist-defining-the-eras-of-mmorpg-history/) on MMO game history, MMOs before the 90s were largely text-based and restricted in terms of how many players could connect with each other. In the 1990s onward, games such as Ultima Online and EverQuest took the genre into the limelight as noted by an[MMOGames.com post](https://www.mmogames.com/articles/specials/mmorpg-history) . The restricted, text-based experiences were replaced by 3D worlds that players could interact and fight with each other in.
+
+ By the 2000s, MMOs like World of Warcraft, RuneScape, and Lord of the Rings Online were all popular choices, amassing pretty impressive player bases. In the 2010s, you'd have seen titles like Star Wars: The Old Republic, Black Desert, and The Elder Scrolls Online. The fluctuating popularity of MMOs has clearly not prevented new titles from being released, though the peak of World of Warcraft and similar titles in the early 21st century seems unlikely to be repeated.
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
+## State of Play: The Modern MMO
+
+![Data about New World on the Steam Charts website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/steamcharts-new-world.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
+ Battle royale and FPS have arguably been the most prominent genres in gaming for quite some time, which has led to an[MMO drought from developers](https://www.makeuseof.com/what-is-mmo-drought/) . It is unsurprising that the masses of gamers cannot offer the level of commitment necessary to play an MMO properly. Even if they could, the MMO then has the difficult task of offering enough content to sustain their attention.
+
+ Despite the fluctuating popularity of MMOs since their peak in the aughts, a dedicated player base remains. As does excitement—relatively recent MMOs such as Lost Ark and New World have proven that the demand is there for a decent, fresh MMO experience. Both titles have had peaks of over one million concurrent active players, despite issues at launch and bugs.
+
+ Players will flock to an MMO if it is well-developed, rich in content and environment, and offering something new. However, it is reasonable to say that MMOs are unlikely to ever become a genre for the masses since they tend to attract the more hardcore gamers that are willing to offer a higher level of commitment to the experience.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
+## MMOs Are a Great Genre
+
+ MMOs are a great genre to play if you're looking for high-level escapism and a world that you can sink your teeth into for years to come. Games in this genre typically offer a level of freedom in how and what you play as, which can feel refreshing if you typically play more rigid, linear games.
+
+ There is plenty of potential for MMO games to rise in popularity again, and they can be just as thrilling to play as action, FPS, or battle royale games.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-influence-unleashed-instas-most-stellar-personalities-ranked/"><u>[New] 2024 Approved  Influence Unleashed  Insta’s Most Stellar Personalities Ranked</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-5-must-see-facebook-vids-that-delight-us-all/"><u>[Updated] 5 Must-See Facebook Vids That Delight Us All</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-crafting-a-personalized-youtube-pathway-to-viewers-for-2024/"><u>[Updated] Crafting a Personalized YouTube Pathway to Viewers for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-inside-the-tech-evaluating-webcam-videotaping-devices/"><u>[Updated] Inside the Tech  Evaluating WebCam Videotaping Devices</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-top-11-screen-recorders-for-mac-for-2024/"><u>[Updated] Top 11 Screen Recorders for Mac for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oneplus-nord-ce-3-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from OnePlus Nord CE 3 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-new-perspective-do-steam-points-define-you/"><u>A New Perspective: Do Steam Points Define You?</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-list-gamers-journey-tracking-sites/"><u>A-List Gamers' Journey Tracking Sites</u></a></li>
+<li><a href="https://games-able.techidaily.com/access-all-features-on-xbox-1-without-standard-controls/"><u>Access All Features on Xbox 1 without Standard Controls</u></a></li>
+<li><a href="https://games-able.techidaily.com/adapting-playstation-controller-for-pcmac-gaming/"><u>Adapting PlayStation Controller for PC/Mac Gaming</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/breaking-down-believability-why-game-reviews-arent-always-reliable/"><u>Breaking Down Believability: Why Game Reviews Aren't Always Reliable</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-to-the-acurite-pro-weather-station-model-01036m-features-and-ease-of-use/"><u>Comprehensive Guide to the AcuRite Pro Weather Station - Model 01036M Features and Ease of Use</u></a></li>
+<li><a href="https://games-able.techidaily.com/creative-gaming-solutions-without-a-dualshock/"><u>Creative Gaming Solutions Without a DualShock</u></a></li>
+<li><a href="https://games-able.techidaily.com/currents-of-creativity-more-than-electricity/"><u>Currents of Creativity: More Than Electricity</u></a></li>
+<li><a href="https://games-able.techidaily.com/curtailing-xbox-game-bars-intrusive-activities-in-windows-11/"><u>Curtailing Xbox Game Bar's Intrusive Activities in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/dissecting-the-strategic-gaming-alliance-between-microsoft-and-blizzard/"><u>Dissecting the Strategic Gaming Alliance Between Microsoft & Blizzard</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-new-horizons-in-technology-with-toms-gadget-insights/"><u>Exploring New Horizons in Technology with Tom's Gadget Insights</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-for-sea-of-thieves-persistent-load-screen-issue/"><u>Fixes for 'Sea of Thieves' Persistent Load Screen Issue</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-boy-advance-excellence-with-ioss-leading-emulators/"><u>Game Boy Advance Excellence with iOS's Leading Emulators</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-facetime-call-history-on-iphone-14-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover FaceTime Call History on iPhone 14 Pro | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-hot-40-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Hot 40</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/how-to-zoom-in-on-roblox/"><u>How to Zoom in on Roblox</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-5-fast-framing-homemade-tips-for-pros/"><u>In 2024, Top 5 Fast-Framing Homemade Tips for Pros</u></a></li>
+<li><a href="https://games-able.techidaily.com/infusing-servers-with-games-chess-and-poker-in-discord/"><u>Infusing Servers with Games: Chess and Poker in Discord</u></a></li>
+<li><a href="https://games-able.techidaily.com/minimalist-meets-maximalism-in-home-computers-mini-vs-desktops/"><u>Minimalist Meets Maximalism in Home Computers (Mini Vs. Desktops)</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-pre-launch-path-to-starfield-experience/"><u>Navigating the Pre-Launch Path to Starfield Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-visionary-leap-into-ai-enhanced-realism-with-dlss-35/"><u>Nvidia's Visionary Leap Into AI-Enhanced Realism with DLSS 3.5</u></a></li>
+<li><a href="https://games-able.techidaily.com/platform-exclusive-games-might-be-a-thing-of-the-past-heres-why-thats-good/"><u>Platform-Exclusive Games Might Be a Thing of The Past: Here's Why That's Good</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-tracker-for-video-game-quests/"><u>Prime Tracker for Video Game Quests</u></a></li>
+<li><a href="https://games-able.techidaily.com/secure-gaming-experience-reasons-to-ditch-ps5-mics/"><u>Secure Gaming Experience: Reasons to Ditch PS5 Mics</u></a></li>
+<li><a href="https://games-able.techidaily.com/selecting-quality-on-a-dime-vr-edition/"><u>Selecting Quality on a Dime: VR Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/selecting-superior-light-panelsets-for-gaming-spaces/"><u>Selecting Superior Light Panelsets for Gaming Spaces</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategic-tech-investment-cpu-or-gpu-first/"><u>Strategic Tech Investment: CPU or GPU First?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/m-like-a-champion-youtubes-ultimate-techniques-for-2024/"><u>Stream Like a Champion  YouTube's Ultimate Techniques for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-ssd-selection-for-ps5/"><u>Superior SSD Selection for PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-battle-asus-roar-against-tuf-proart-and-prime/"><u>The Ultimate Battle: Asus' Roar Against TUF, ProArt & Prime</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-xbox-controller-inconsistency/"><u>Troubleshooting Xbox Controller Inconsistency</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-hidden-internet-capabilities-of-ps5/"><u>Unlocking Hidden Internet Capabilities of PS5</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-your-go-to-guide-10-best-public-domain-image-resources/"><u>Updated 2024 Approved Your Go-To Guide 10 Best Public Domain Image Resources</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-blueprint-to-discovering-exceptional-discord-communities/"><u>Your Blueprint to Discovering Exceptional Discord Communities</u></a></li>
+</ul></div>

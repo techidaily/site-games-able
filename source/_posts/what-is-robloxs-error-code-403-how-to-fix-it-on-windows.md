@@ -1,0 +1,227 @@
+---
+title: What Is Roblox's Error Code 403? How to Fix It on Windows
+date: 2024-08-31T19:24:45.346Z
+updated: 2024-09-01T19:24:45.346Z
+tags:
+  - games
+categories:
+  - games
+description: This Article Describes What Is Roblox's Error Code 403? How to Fix It on Windows
+excerpt: This Article Describes What Is Roblox's Error Code 403? How to Fix It on Windows
+keywords: Roblox Error Code 403,Fix Roblox 403 Error,Resolving Roblox Login Issues,Unblocking Roblox Server Access on Windows,Windows Roblox Permissions Fix,Overcoming Roblox Error Codes,Bypass Roblox Login Blocks
+thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea60f39849b6b81213c209317.jpg
+---
+
+## What Is Roblox's Error Code 403? How to Fix It on Windows
+
+ While Roblox is an immensely popular game, it doesn't mean it doesn't come across its fair share of issues. For instance, the 403 error code is one of the many problems you might face when playing Roblox.
+
+ Fortunately, it's easy to troubleshoot Roblox's 403 error code. Try the below fixes to get rid of the issue for good.
+
+## What Is Roblox Error Code 403?
+
+ Nowadays, it's almost impossible to find a game without issues, and[Roblox](https://www.makeuseof.com/what-is-roblox-why-is-everyone-talking-about-it/) is no different. The error code 403 is very common in Roblox, and you will see this upon clicking the Play button.
+
+ Alongside this error code, you will usually get a note saying, "An error was encountered during authentication. Please try again.". This error means that you don't have permission to access the page.
+
+ There can be multiple reasons behind the Roblox error code 403, but some of the common culprits are:
+
+1. The Roblox server is under maintenance or facing downtime.
+2. You're using a VPN connection.
+3. There's corruption in the Roblox cache folder.
+4. Your current DNS server isn't stable.
+
+ Now, let's check out all the working fixes to eliminate the error code and get into gaming again.
+
+## 1\. Check the Roblox Server Status
+
+![Roblox Server status in server page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Roblox-Server-page.jpg)
+
+ The first port of call is to visit the[Roblox server status page](https://status.roblox.com/pages/59db90dbcdeb2f04dadcf16d) . Roblox is a multiplayer game; therefore, it's very common for its servers to undergo maintenance now and then.
+
+ Whenever Roblox servers are under maintenance or facing downtime, you'll encounter various issues, including the one in the discussion. The best thing you can do in this situation is to wait until the servers become operational again.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
+## 2\. Clear the Roblox Cache Folder
+
+ Like most applications, Roblox stores cache data, allowing it to offer faster access the next time you visit its platform. But sometimes, sudden system crash or malware attack can corrupt the cache folder and cause issues like error 403.
+
+ The solution, in this case, is to clear the content of the cache folder. Don't worry; deleting the cache folder of any application doesn't affect its performance or your data.
+
+ To delete the content of the Roblox cache folder, follow the below instructions:
+
+1. Press the**Win + X** hotkeys to open the**Power menu.**
+2. Choose the**Run** option from the menu list. Alternatively, you can press the**Win + R** hotkeys to[open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
+3. In the search bar, type**%localappdata%** and click**OK.** It'll open the**Local** folder, which contains the cache folder of all the installed applications.
+4. Search and open the**Roblox** folder.  
+![Roblox folder in local folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Roblox-folder.jpg)
+5. Select everything inside by pressing the**Ctrl + A** hotkeys and then pressing**Shift + Delete** to delete the selected content permanently.
+
+That's it. Now restart your computer and check for the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 3\. Disable Any Active VPN Connections
+
+ Whether you want to bypass geo-restriction or maintain a private connection, VPNs are key. But like anything else, it has its own share of disadvantages. For example, a VPN can sometimes slow down your connection, which means you will have to wait longer to open a web page or complete a download.
+
+ In this case, an active VPN connection is a major culprit behind Roblox's 403 error code. If you're currently using one, turn it off and see if that solves the issue.
+
+ To disable a VPN that you've set up through Windows, open the**Settings** menu and then choose**Network & internet** option from the left panel. Choose the**VPN** option and then disable any active VPN on the following page.
+
+ If you use a third-party VPN application, the steps will vary depending on which app you're using. However, they usually have a visible button or option you can click in the main window that turns the VPN off.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
+## 4\. Run an SFC and DISM Scan
+
+ The error can also occur due to corruption in Windows' files. In this situation, you can run an SFC (System File Checker) scan, a Windows inbuilt tool that scans your system for missing or corrupted files and replace them if necessary.
+
+You can run an SFC scan by following the below steps:
+
+1. Launch the Start Menu by pressing the**Win** key.
+2. In the search bar, type Command Prompt and then click**Run as administrator** from the right pane.
+3. If**UAC** pops up, click**Yes** to confirm your selection.
+4. Type**sfc /scannow** in the elevated Command Prompt window and press Enter.  
+![Sfc scan in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sfc-scan.jpg)
+5. Wait until the scan is complete. This may take a while, so be patient.
+
+ Restart your computer and then check for the problem. If the issue persists, you will have to run the Deployment Image Servicing and Management command line tool to restore the system files and repair any corrupted system images. Here's how:
+
+1. Launch Command Prompt with admin rights.
+2. Type the following command and press Enter.  
+`DISM /Online /Cleanup-Image /ScanHealth  
+Dism.exe /online /cleanup-image /restorehealth`
+
+After the scan is complete, check for the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
+## 5\. Allow Roblox to Run Through Firewall
+
+ Oftentimes, online games like Roblox might fail to work and throw error 403 by facing interuption from Windows Firewall. To fix this issue, you'll have to allow Roblox to run through the Windows Firewall. You can check out how to do that on our guide on[how to allow apps through Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) .
+
+ After that, restart your computer and check if the issue presists. If not, try the next solution on the list.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
+## 6\. Switch to Google DNS
+
+ Your ISP will likely have its own[DNS server](https://www.makeuseof.com/tag/what-is-dns-server/) , but probably it isn't the most stable option available. In this case, you can switch to a DNS provider.
+
+ While there are plenty of[great DNS service providers for added safety](https://www.makeuseof.com/tag/best-dns-providers-security/) , Google DNS is considered the fastest among all. To switch to Google DNS, follow the below steps:
+
+1. Open the Power Menu, and then choose**Network Connections** from the menu list.
+2. Choose**Advanced network settings.**
+3. Expand the**Wi-Fi** option and click the**Edit** button next to**More adapter** options.
+4. Highlight the option titled**Internet Protocol Version 4 (TCP/IPv4)** and choose the**Properties** button.
+5. Select the**Use the following IP addresses** button.
+6. Type**8.8.8.8** in the**Preferred DNS server** box and**8.8.4.4** in the**Alternate** **DNS server** box.  
+![Switching to the Google Public DNS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Google-Public-DNS.jpg)
+7. Click**OK** to save the settings.
+8. Highlight the**Internet Protocol Version 6 (TCP/IPv6)** and select**Properties.**
+9. Type**2001:4860:4860::8888** in the**Preferred DNS server** box and**2001:4860:4860::8844** in the**Alternate DNS server** box.
+10. Click**OK** to save the IPv6 DNS settings.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## 7\. Make the Registry Edit
+
+ Another quick way to solve the issue is to make few registry edits and give the required persmissions to the important folders. Here's how to do that:
+
+ Before proceeding, don't forget to[back up the registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) so you have something to revert to if something goes wrong.
+
+1. Open the Start Menu, type**regedit** and press Enter.
+2. In the Registry Editor, right click on the**HKEY\_CURRENT\_USER** folder in the left pane, and choose**Permissions** from the context menu.  
+![Permission option in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/permission-option.jpg)
+3. Check the**Full Control** box and then click**Apply** \>**OK** .  
+![Full control option in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/full-control-option.jpg)
+
+ Similary, give full control to**HKEY\_LOCAL\_MACHINE\_SOFTWARE** folder. Then, restart your computer and you'll see you're no longer facing the issue.
+
+## Play Roblox Without Any Issues
+
+ Hopefully, one of the above fixes will help you eliminate the error code 403\. But in the worst-case scenario, if you're still facing the problem, you can consider reinstalling Roblox on your computer.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-key-elements-in-asmr-video-content/"><u>[New] 2024 Approved  Key Elements in ASMR Video Content</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-unleash-the-full-potential-of-your-hdr-images-with-lightroom/"><u>[New] 2024 Approved  Unleash the Full Potential of Your HDR Images with Lightroom</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-facebook-video-downloader-winmacosmobile-power-up/"><u>[New] In 2024, Facebook Video Downloader  Win/macOS/Mobile Power-Up</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-dialing-up-the-excitement-speeding-up-videos-on-stories/"><u>[Updated] In 2024, Dialing Up the Excitement  Speeding Up Videos on Stories</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-trendsetters-in-virtual-reality-headsets/"><u>[Updated] Trendsetters in Virtual Reality Headsets</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-try-these-10-music-video-templates-to-make-your-work-easy/"><u>2024 Approved Try These 10 Music Video Templates To Make Your Work Easy</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-steam-operational-hurdles-in-windows-11/"><u>Addressing Steam Operational Hurdles in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/choose-right-steam-deck-models/"><u>Choose Right: Steam Deck Models</u></a></li>
+<li><a href="https://games-able.techidaily.com/claim-your-spot-in-the-starfield-early-access-lottery/"><u>Claim Your Spot in the Starfield Early Access Lottery</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-your-options-for-fixingexchanging-a-switch/"><u>Deciphering Your Options for Fixing/Exchanging a Switch</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/efficiently-capture-and-record-your-idevice-screen-for-2024/"><u>Efficiently Capture and Record Your iDevice Screen for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-playstation-5s-safety-with-an-unique-access-code/"><u>Elevate PlayStation 5'S Safety with an Unique Access Code</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-portable-games-using-gamepad-controls/"><u>Elite Portable Games Using Gamepad Controls</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-8-lite-android-simulators-for-pc-and-mac-gamers/"><u>Essential 8 Lite Android Simulators for PC and Mac Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-insights-for-gamers-6-reasons-to-ignore-high-res-monitors/"><u>Essential Insights for Gamers - 6 Reasons to Ignore High-Res Monitors</u></a></li>
+<li><a href="https://games-able.techidaily.com/examining-the-validity-of-discords-offline-label/"><u>Examining the Validity of Discord’s 'Offline' Label</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-tips-affordable-stunning-1440p-gaming-monitors-under-500/"><u>Expert Tips: Affordable, Stunning 1440P Gaming Monitors Under $500</u></a></li>
+<li><a href="https://games-able.techidaily.com/go-beyond-limitations-top-reasons-for-pc-gaming-choice/"><u>Go Beyond Limitations: Top Reasons for PC Gaming Choice</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-fix-error-code-262-on-roblox/"><u>How to Fix Error Code 262 on Roblox</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-maintain-your-gpu-at-ideal-gameplay-temp-levels/"><u>How to Maintain Your GPU at Ideal Gameplay Temp Levels</u></a></li>
+<li><a href="https://games-able.techidaily.com/ideal-pads-for-gamers-needs/"><u>Ideal Pads for Gamers' Needs</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-vivo-y17s-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Vivo Y17s Phone When You Forget the Password</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-motorola-moto-g13-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Motorola Moto G13 FRP Without Computer</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-strategies-for-psp-as-a-wii-u-clone/"><u>Innovative Strategies for PSP as a Wii U Clone</u></a></li>
+<li><a href="https://games-able.techidaily.com/linux-integration-for-android-software/"><u>Linux Integration for Android Software</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722975472571-logitech-g910-software-latest-download-for-windows/"><u>Logitech G910 Software – Latest Download For Windows</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastery-in-making-sense-top-6-persuasive-video-types-for-2024/"><u>Mastery in Making Sense  Top 6 Persuasive Video Types for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/minimalism-meets-gaming-how-to-shrink-game-isos-with-chdman/"><u>Minimalism Meets Gaming: How to Shrink Game ISOs with CHDMAN</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-the-auditory-waves-of-iphones-podcast-streaming/"><u>Navigating the Auditory Waves of iPhone's Podcast Streaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-with-purpose-where-are-the-excellent-discs/"><u>Navigating with Purpose: Where Are the Excellent Discs?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/open-access-mindful-harmonies-for-2024/"><u>Open Access Mindful Harmonies for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-games-before-launch-exploration-or-caution/"><u>Premium Games Before Launch - Exploration or Caution?</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-locations-gamers-success-spots/"><u>Prime Locations: Gamers' Success Spots</u></a></li>
+<li><a href="https://games-able.techidaily.com/quality-consistency-in-gaming-keys-review-of-keychron-and-lemokey-l3/"><u>Quality Consistency in Gaming Keys: Review of Keychron and Lemokey L3</u></a></li>
+<li><a href="https://games-able.techidaily.com/remedying-error-during-oculus-app-setup/"><u>Remedying Error During Oculus App Setup</u></a></li>
+<li><a href="https://games-able.techidaily.com/scaling-up-efficient-strategies-for-funding-steam-games/"><u>Scaling Up: Efficient Strategies for Funding Steam Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/should-premium-games-include-microtransactions/"><u>Should Premium Games Include Microtransactions?</u></a></li>
+<li><a href="https://games-able.techidaily.com/slimmer-smartphones-tecnos-exciting-showcase/"><u>Slimmer Smartphones: Tecno’s Exciting Showcase</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-remote-play-windows-connection-problems-guide/"><u>Steam Remote Play: Windows Connection Problems Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-clearing-windows-10-system-cache-with-ease/"><u>Step-by-Step Guide: Clearing Windows 10 System Cache with Ease</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719166855610-streamline-your-computing-experience-install-nvidia-driver-updates/"><u>Streamline Your Computing Experience – Install Nvidia Driver Updates.</u></a></li>
+<li><a href="https://games-able.techidaily.com/summertime-savings-sonys-top-gamer-buys/"><u>Summertime Savings: Sony's Top Gamer Buys</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-fix-it-guide-for-lost-location-alerts-in-pokemon-journey/"><u>The Ultimate Fix-It Guide for Lost Location Alerts in Pokémon Journey</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-linking-controllers-and-android-devices/"><u>The Ultimate Guide to Linking Controllers & Android Devices</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/the-ultimate-list-7-video-mergers-with-no-watermarks-for-2024/"><u>The Ultimate List 7 Video Mergers with No Watermarks for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-selection-of-console-games-for-macos/"><u>The Ultimate Selection of Console Games for macOS</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/top-7-low-cost-video-compacting-tools-for-android-devices-for-2024/"><u>Top 7 Low-Cost Video Compacting Tools for Android Devices for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/uncovering-java-games-standout-characteristics/"><u>Uncovering Java Games’ Standout Characteristics</u></a></li>
+<li><a href="https://games-able.techidaily.com/uncovering-users-on-steam-efficiently/"><u>Uncovering Users on Steam Efficiently</u></a></li>
+<li><a href="https://games-able.techidaily.com/uniting-epic-and-steam-step-by-step-guide/"><u>Uniting Epic & Steam: Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/zero-lag-peak-gameplay-the-new-era-with-razers-basilisk-v3/"><u>Zero Lag, Peak Gameplay: The New Era with Razer's Basilisk V3</u></a></li>
+</ul></div>

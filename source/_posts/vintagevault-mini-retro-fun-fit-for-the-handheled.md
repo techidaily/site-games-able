@@ -1,7 +1,7 @@
 ---
 title: "VintageVault Mini: Retro Fun Fit for the Handheled"
-date: 2024-07-12T04:03:43.961Z
-updated: 2024-07-13T04:03:43.961Z
+date: 2024-08-31T19:15:20.375Z
+updated: 2024-09-01T19:15:20.375Z
 tags:
   - games
 categories:
@@ -174,6 +174,9 @@ There’s even Nintendo GameCube and Wii support.
 
  Emulation of these platforms is available via the RetroidLauncher interface, which appears upon first launch. The Retroid community maintains an [online spreadsheet of tested games](https://docs.google.com/spreadsheets/u/0/d/1Vf7SIS7ecWa%5FJ301h0mb2bxMWBMtKLvcpAFyaa5-LDc/edit?usp=sharing&pli=1) .
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Console Design and Specification
 
  Lightweight (235 grams) and easily pocketed at 184.7 x 81.4 x 24.2mm, the Retroid Pocket 3+ is smaller than a Nintendo Switch, and squatter than an Evercade EXP.
@@ -182,12 +185,18 @@ There’s even Nintendo GameCube and Wii support.
 
 ![Retoid Pocket 3+ ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/muo-reviews-retroid-pocket-3-ports.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Behind the 4.7-inch touchscreen display ([750x1334@60fp](mailto:750x1334@60fp) , maximum 450 nits) is the Unisoc Tiger T618 processor, with <2xA75@2.0GHz> and <6xA55@2.0GHz> CPU. The GPU is the Mali G52 MC2, clocked at 850MHz, and the system relies on 4GB LPDDR4x RAM (3733Mbps). Storage is courtesy of a built-in 128GB eMMC 5.1 chip, but you can expand this via the microSD slot.
 
  Other ports include a 720p micro HDMI port, 3.5mm audio port, and a USB Type C port for charging and data. Powering the Retroid Pocket 3+ on the go is a 4500mAh battery, and the device is built into a metal frame for robustness and passive heat dissipation.
 
  The device also has Wi-Fi 5 and Bluetooth 5.0 and can receive OTA updates to the Android 11 OS.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ## How Long Does the Battery Last?
 
  The 4500mAh battery takes a few hours to charge, probably 2-3 for a full 0-100% recharge. Once powered up, you can expect to get at least 4 hours out of it, potentially up to 8 hours.
@@ -204,6 +213,9 @@ There’s even Nintendo GameCube and Wii support.
 
 ![Retoid Pocket 3+ right-thumbstick](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/muo-reviews-retroid-pocket-3-right.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  I also noticed that the Retroid Pocket 3+ tends to misinterpret certain button presses as Android menu commands. So far, I haven’t been able to find a workaround or tweak the mapping to prevent this.
 
  You won’t get an arcade-realistic experience with these controls simply because the form factor is completely different. But they do give you the best way to play most of the retro games in your library. On the other hand, anything requiring a trackball or paddles will remain a challenge (hello, Marble Madness and Arkanoid).
@@ -214,6 +226,9 @@ There’s even Nintendo GameCube and Wii support.
 
 ![Retroid Pocket 3+ shoulder buttons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/muo-reviews-retroid-pocket-3-shoulder.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Once formatted, the microSD card can be configured with the necessary directories (this takes a single tap), then you can copy your ROMs copied to the platform-specific directory.
 
  You’re not done yet, though, as the individual emulator cores also need installing. This is done in the RetroArch software, which is a lot less attractive than the RetroidLauncher. Once done, however, you specify the ROM file path (required on the first use only), then launch your favorite retro games.
@@ -250,6 +265,9 @@ There’s even Nintendo GameCube and Wii support.
 
 ![Retroid Pocket 3+ by a pool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/muo-reviews-retroid-pocket-3-pool.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The release of the Retroid Pocket 3+ has proved somewhat controversial in the retro gaming handheld emulation community. To all intents and purposes, it is a Retroid Pocket 3, but with more processing and RAM, and a higher price to match, represents a notable upgrade.
 
  But if you’ve already bought the earlier model, upgrading seems unnecessary unless you want better performance from the 32-bit generation emulators. Conversely, if you’re new to pocket emulation, the Retroid Pocket 3+ is an excellent console to start with.
@@ -273,3 +291,42 @@ There’s even Nintendo GameCube and Wii support.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-fundamental-tips-for-broadcasting-fan-favorite-sports/"><u>[Updated] 2024 Approved  Fundamental Tips for Broadcasting Fan-Favorite Sports</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-obs-studio-vs-fraps-which-is-a-better-screen-capture-software/"><u>[Updated] OBS Studio vs Fraps – Which Is A Better Screen Capture Software?</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/1-the-ultimate-guide-customizing-your-youtube-videos-dimensions-for-optimal-viewing-and-upload-success/"><u>1. The Ultimate Guide: Customizing Your YouTube Videos' Dimensions for Optimal Viewing & Upload Success</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-ideal-set-17-software-solutions-for-clear-picture-edits/"><u>2024 Approved  Ideal Set  17 Software Solutions for Clear Picture Edits</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-tactical-approach-to-choosing-an-elgato-stream-deck/"><u>A Tactical Approach to Choosing an Elgato Stream Deck</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-motorola-edge-40-neo-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Motorola Edge 40 Neo Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ing-the-secrets-of-highly-successful-youtube-shorts-templates-for-2024/"><u>Decoding the Secrets of Highly Successful YouTube Shorts Templates for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-gameplay-with-best-240hz-panels/"><u>Elevate Your Gameplay with Best 240Hz Panels</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-guide-resolving-display-driver-failed-errors-on-windows-11/"><u>Expert Guide: Resolving Display Driver Failed Errors on Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-gala-the-glory-of-game-guardianship/"><u>Gaming Gala: The Glory of Game Guardianship</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-quality-titles-should-mts-be-compulsory/"><u>High-Quality Titles: Should MTs Be Compulsory?</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-set-up-a-passcode-on-your-ps5/"><u>How to Set Up a Passcode on Your PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-universally-turn-off-controller-vibration-on-your-xbox-series-xs/"><u>How to Universally Turn Off Controller Vibration on Your Xbox Series X|S</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-beginners-blueprint-progressive-sound-intensity-rise/"><u>In 2024, Beginner’s Blueprint  Progressive Sound Intensity Rise</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/innovative-glow-a-comprehensive-overview-of-cyncs-smart-hexagon-panels-dazzling-entertainment-on-a-whim/"><u>Innovative Glow: A Comprehensive Overview of Cync's Smart Hexagon Panels - Dazzling Entertainment on a Whim</u></a></li>
+<li><a href="https://games-able.techidaily.com/inquiring-about-the-value-proposition-for-ea-play/"><u>Inquiring About the Value Proposition for EA Play</u></a></li>
+<li><a href="https://review-topics.techidaily.com/iphone-se-data-recovery-software-to-recover-lost-ios-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>iPhone SE® Data Recovery Software to Recover Lost iOS® Data | Stellar</u></a></li>
+<li><a href="https://games-able.techidaily.com/java-game-highlights-our-favorites-unveiled/"><u>Java Game Highlights: Our Favorites Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-advanced-features-of-amds-rx-7800xt-7700xt/"><u>Navigating the Advanced Features of AMD's RX 7800XT, 7700XT</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-ps5-buying-process-wisely/"><u>Navigating the PS5 Buying Process Wisely</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-gaming-by-controlling-background-game-bar/"><u>Optimizing Gaming by Controlling Background Game Bar</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pixelpranks-mememakermarket-for-2024/"><u>PixelPranks  MemeMakerMarket for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/realtek-rtl81cu-wifi-drivers-download-compatible-with-windows-10-and-7/"><u>Realtek RTL81CU WiFi Drivers Download - Compatible with Windows 10 and 7</u></a></li>
+<li><a href="https://games-able.techidaily.com/silent-sabotage-my-overclocked-nightmrange/"><u>Silent Sabotage: My Overclocked Nightmrange</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-back-from-realms-step-forward-with-archives/"><u>Step Back From Realms, Step Forward with Archives</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-battery-solutions-the-premier-ps5-dualsense-controller-chargers/"><u>Superior Battery Solutions: The Premier PS5 DualSense Controller Chargers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-guide-to-digital-green-magic-comprecipate-free-lessons-from-4-masterful-channels-for-2024/"><u>The Ultimate Guide to Digital Green Magic  Comprecipate Free Lessons From 4 Masterful Channels for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-flash-drives-to-boost-ps5-performance/"><u>Top Flash Drives to Boost PS5 Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-footballs-secrets-fc-manager-game-free-edition/"><u>Unlock Football's Secrets: FC Manager Game, Free Edition</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-cast-any-video-a-step-by-step-guide-to-chromecast-compatibility/"><u>Updated Cast Any Video A Step-by-Step Guide to Chromecast Compatibility</u></a></li>
+<li><a href="https://games-able.techidaily.com/who-wins-in-specifications-asus-rog-ally-or-steam-deck/"><u>Who Wins in Specifications: ASUS ROG Ally or Steam Deck?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-frozen-display-resolved/"><u>Windows 10 Frozen Display - Resolved</u></a></li>
+<li><a href="https://games-able.techidaily.com/winning-the-wargame-7-crucial-fps-game-adjustments/"><u>Winning the Wargame: 7 Crucial FPS Game Adjustments</u></a></li>
+</ul></div>

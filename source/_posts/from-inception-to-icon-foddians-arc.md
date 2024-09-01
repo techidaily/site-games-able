@@ -1,0 +1,170 @@
+---
+title: "From Inception to Icon: Foddian's Arc"
+date: 2024-08-31T19:28:09.154Z
+updated: 2024-09-01T19:28:09.154Z
+tags:
+  - games
+categories:
+  - games
+description: "This Article Describes From Inception to Icon: Foddian's Arc"
+excerpt: "This Article Describes From Inception to Icon: Foddian's Arc"
+keywords: From Inception To Icon,Foddian Journey Story,Foodie Icon Evolution,Chef's Culinary Rise,Iconic Chef Narrative,Gourmet Fame Beginnings,Food Empire Origins
+thumbnail: https://thmb.techidaily.com/622d9fe73f7f1e73d5569e41ea521313a670d1c14e23661bf478ad1eace74e43.jpg
+---
+
+## From Inception to Icon: Foddian's Arc
+
+ Some of the best platform games were marketed and sold in what is often called the golden age of gaming. Foddian games result from taking the core platformer concept and cranking the difficulty up to 11.
+
+ As a result, Foddian games are some of the most challenging titles currently available. But what are they exactly? What is the origin of the name and the concept behind these games? Also, how far has this base concept evolved to accommodate newer, unique titles? Let’s find out.
+
+## Foddian Games: The Origins and Revolution
+
+ Games that fall under the Foddian category are as unique as the name, but how did they come about? Here are some events that led to a platform game revolution, birthing the Foddian genre as we know and love it.
+
+### The First Bennet Foddy Game
+
+![A guy in a pot holding a sledgehammer who is about to fall off a cliff](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/2-getting-over-it.jpg)
+
+ It all began with the Foddian game, "Getting Over It with Bennett Foddy". Getting Over It is a puzzle game that challenges the player to use a sledgehammer to propel themselves up steep ledges and across slick platforms to get to space. “Foddian” refers to the creator of the first game, Bennett Foddy, in this genre and represents titles of a similar format.
+
+ There are a few reasons why this title still has a grip on the platforming scene. The first is that it mixes well with the speedrun format. A player can decide to try to finish the game as quickly as possible after mastering the basic mechanics.
+
+ Another attribute of Getting Over It’s success is the sheer difficulty and the entertainment tied to watching people either fail or succeed. Popular creators like Ludwig and CdawgVA saw the content potential and have helped popularize this title.
+
+ Getting Over It wasn’t the first platformer, but it created a format that has been improved upon in newer games that fall under the Foddian genre. Bennet Foddy pioneered an era of gaming, whether he intended to or not, and complex puzzle platforming games are better for it.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
+### The Rise of Jump King
+
+![The Jump King lying flat on a mossy platform after falling](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-jump-king.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+ Jump King is a title that transcends the Foddian game genre. You may have heard about the game thanks to its tendency to be played live on Twitch streams. Speedrunners are especially fond of the small series of Jump King games.
+
+ The player starts at the bottom of a tall path, at the pinnacle of which stands a majestic babe. Evidently, the goal of the game is for the player to jump from platform to platform all the way to the top.
+
+ Jump King is an excellent game for content creation because it is easy to gauge a player’s progress, making it easier for viewers to follow along. It is also relatively easy to run and could offset how much a streamer needs to[optimize their game streams using OBS](https://www.makeuseof.com/how-to-optimize-game-streams-using-obs-studio/) .
+
+ Almost every popular streamer and YouTuber you can think of has played Jump King to some extent, indirectly marketing the game to their viewers. As such, it didn’t take long for a community to spawn around this game, and it remains one of the most played in its genre.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
+## Foddian Games and Content Creation
+
+![A streaming setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-streamer.jpg)
+
+ Streaming goes beyond just playing a game. Streamers understand that they need to engage their chat as much as possible to keep interest high. Fortunately, Foddian games are the perfect gateway for viewer engagement.
+
+ A player still needs to focus on the game, especially when speedrunning it. However, the punishment for responding to chat is not so severe as to ruin your game. In other titles, like shooters or racers, you may end up dying to an opponent or losing a race if you are distracted.
+
+ Ultimately, Foddian games are[a great way to interact with your subscribers](https://www.makeuseof.com/how-to-interact-with-subscribers-followers/) and let your personality shine. Some popular creators who have tried this include Ludwig, CdawgVA, Apharad, and Ironmouse. What’s more, there’s a high chance that your favorite creator has played some popular Foddian titles like Getting Over It, Pogostuck, Only Up!, or Jump King.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+## The Evolution of Foddian Games
+
+ Getting Over It created an exciting format that other game developers have explored to varying extents. A few other games fall into this genre, but only a couple have left a mark on the community.
+
+ For instance, Pogostuck was the next big release after Bennet Foddy’s original title. The game was released with different movement mechanics and overall design. However, it was just as difficult, if not more so.
+
+ Many Foddian games are 2D, but the genre isn’t limited to that representation. A great example of this is Only Up!—this game captures the ambiance of the Foddian genre in a 3D format. As such, it can be incredibly challenging but satisfying.
+
+ Only Up! has become popular enough to dominate the viewership on Twitch for concurrent weeks. And while the hype is not the same as it was during release, many people still actively play the title.
+
+## Foddian Games: Difficult but Rewarding Platforming
+
+ There is a gradual shift in the type of video game content enjoyed live on stream or alone on a slow Saturday afternoon.
+
+ While Foddian games are simple in design, the execution is magnificently intricate. They present a fun challenge for players, one you can ride all the way to victory at the top of the map.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## FAQ
+
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
+### Q: What Games Are Similar to Getting Over It With Bennett Foddy?
+
+ Within the genre of Foddian games, numerous titles emulate the addicting frustration of games like Getting Over With Bennett Foddy. Of these games, titles like QWOP, an aggravating sprinting game in which you need to order every limb of your runner to move, or the classic browser game Happy Wheels, are some of the most popular Foddian-like games. That said, tons of[difficult browser games](https://www.makeuseof.com/tag/the-hardest-games-in-the-whole-wide-world/) also provide a similar Foddian experience.
+
+### Q: How Long Is Only Up!?
+
+ A popular Foddian game, Only Up! takes around 40 to 120 minutes to complete. However, because of the game's difficulty, it will more than likely take quite a lot longer than the listed competition time, especially due to a lack of checkpoints. Because of this, you may be looking at a completion time of around four to five hours depending on your skill level.
+
+### Q: Who Popularized the Only Up! Game?
+
+ While Only Up! was popularized by streaming communities, if you're wondering which streamer first brought the game to a larger audience, KaiCenet first played Only Up! on the ninth of June 2023, to an audience of 55.8 thousand viewers. From this point on, the popularity of Only Up!, much like other Foddian games, grew exponentially within gaming communities.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-chorus-chronicles-new-speaker-insights/"><u>[New] 2024 Approved  Chorus Chronicles  New Speaker Insights</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-nailing-the-technique-for-snapchat-screen-time-lapses/"><u>[New] 2024 Approved  Nailing the Technique for Snapchat Screen Time-Lapses</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-essential-techniques-for-funimate-video-extraction/"><u>[New] Essential Techniques for Funimate Video Extraction</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-full-breakdown-samsungs-immersive-camera-technology/"><u>[New] Full Breakdown  Samsung's Immersive Camera Technology</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-igniting-the-fires-of-engagement-with-viral-instagram-videos-for-2024/"><u>[New] Igniting the Fires of Engagement with Viral Instagram Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unveiling-the-concealed-cause-for-non-video-alerts-on-fb/"><u>[New] Unveiling the Concealed Cause for Non-Video Alerts on FB</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-unlocking-youtube-live-potential-a-step-by-step-guide/"><u>[Updated] 2024 Approved  Unlocking YouTube Live Potential  A Step-by-Step Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-childhood-chuckles-hilarious-kid-friendly-games-for-2024/"><u>[Updated] Childhood Chuckles  Hilarious Kid-Friendly Games for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-design-and-share-your-unique-humor-piece/"><u>[Updated] Design and Share Your Unique Humor Piece</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-explore-best-asmr-apps-both-sides-of-the-os/"><u>[Updated] In 2024, Explore Best ASMR Apps, Both Sides of the OS</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-unleash-call-record-potential-essential-free-and-paid-tactics-for-skype-on-computers/"><u>[Updated] In 2024, Unleash Call Record Potential - Essential Free & Paid Tactics for Skype on Computers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722990396219-cod-modern-warfare-latest-first-person-shooter-release/"><u>COD: Modern Warfare - Latest First-Person Shooter Release!</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-roblox-error-403-and-fix-strategies-for-pc-enthusiasts/"><u>Decoding Roblox Error 403 & Fix Strategies for PC Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/easy-steps-to-reproduce-your-gaming-snaps/"><u>Easy Steps to Reproduce Your Gaming Snaps</u></a></li>
+<li><a href="https://games-able.techidaily.com/effective-gaming-budget-management-on-playstation/"><u>Effective Gaming Budget Management on PlayStation</u></a></li>
+<li><a href="https://games-able.techidaily.com/effortless-highlight-recording-from-games-using-diverse-graphics-cards/"><u>Effortless Highlight Recording From Games Using Diverse Graphics Cards</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-xbox-experience-with-a-step-to-game-pass-ultimate/"><u>Enhance Xbox Experience with a Step to Game Pass Ultimate</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-and-master-your-way-through-youtubes-mini-gaming/"><u>Explore & Master Your Way Through YouTube's Mini Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/founders-edition-vs-aib-which-gpu-model-is-right-for-you/"><u>Founders Edition Vs. AIB: Which GPU Model Is Right for You?</u></a></li>
+<li><a href="https://games-able.techidaily.com/guide-adjusting-nintendo-switch-regional-settings/"><u>Guide: Adjusting Nintendo Switch Regional Settings</u></a></li>
+<li><a href="https://games-able.techidaily.com/hidden-behind-hearts-and-pins-the-fallacy-in-reviews/"><u>Hidden Behind Hearts and Pins: The Fallacy in Reviews</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-dodge-a-bad-oled-monitor-buy/"><u>How to Dodge a Bad OLED Monitor Buy</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-xs-max-to-pc-via-usb-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone XS Max to PC via USB? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-mastering-your-digital-footprint-facebook-lives-made-easy/"><u>In 2024, Mastering Your Digital Footprint  Facebook Lives Made Easy</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-premium-play-on-demand-worth-it/"><u>Is Premium Play on Demand Worth It?</u></a></li>
+<li><a href="https://games-able.techidaily.com/leveraging-hrtf-techniques-in-valorant-matches/"><u>Leveraging HRTF Techniques in Valorant Matches</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-joy-cons-and-pro-pads-a-comprehensive-guide-to-2024/"><u>Optimal Joy-Cons & Pro Pads: A Comprehensive Guide to 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/privacy-protocols-for-in-game-chats-on-xbox/"><u>Privacy Protocols for In-Game Chats on Xbox</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/pro-video-editing-tools-on-your-phone-for-2024/"><u>Pro Video Editing Tools on Your Phone for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/razer-reimagines-keyboards-hot-swappable-widow-unleashed/"><u>Razer Reimagines Keyboards: Hot Swappable Widow Unleashed</u></a></li>
+<li><a href="https://games-able.techidaily.com/re-evaluating-my-tech-rtx-4090-overkill/"><u>Re-Evaluating My Tech: RTX 4090 Overkill?</u></a></li>
+<li><a href="https://games-able.techidaily.com/reclaim-your-voice-restart-xbox-one-reconnect-headset/"><u>Reclaim Your Voice: Restart Xbox One, Reconnect Headset</u></a></li>
+<li><a href="https://win11.techidaily.com/restore-peace-of-mind-with-these-5-family-safety-fixes/"><u>Restore Peace of Mind with These 5 Family Safety Fixes</u></a></li>
+<li><a href="https://games-able.techidaily.com/reviving-your-playstation-5-controller-with-ease/"><u>Reviving Your PlayStation 5 Controller with Ease</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-locating-the-unique-serial-number-on-your-android-smartphone/"><u>Step-by-Step Guide: Locating the Unique Serial Number on Your Android Smartphone</u></a></li>
+<li><a href="https://games-able.techidaily.com/tactile-controls-button-mapping-for-android-devices/"><u>Tactile Controls: Button Mapping for Android Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-complete-overview-of-xbox-game-pass/"><u>The Complete Overview of Xbox Game Pass</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-xbox-experience-better-blue-ray/"><u>Transform Your XBox Experience - Better Blue-Ray</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-xbox-game-pass-essential-information/"><u>Unlocking Xbox Game Pass: Essential Information</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-intels-hidden-issues-in-their-new-core-design/"><u>Unveiling Intel's Hidden Issues in Their New Core Design</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-performance-excellence-how-the-alienware-aurora-r11-dominated-pc-gaming-of-2021/"><u>Unveiling Performance Excellence: How the Alienware Aurora R11 Dominated PC Gaming of 2021</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-secrets-of-streaming-pc-games-via-steam-deck/"><u>Unveiling the Secrets of Streaming PC Games via Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-xbox-s-strays-from-classic-gaming-formats/"><u>Why Xbox S Strays From Classic Gaming Formats</u></a></li>
+</ul></div>

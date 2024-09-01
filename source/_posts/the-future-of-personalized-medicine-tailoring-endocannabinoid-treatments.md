@@ -1,7 +1,7 @@
 ---
 title: "The Future of Personalized Medicine: Tailoring Endocannabinoid Treatments"
-date: 2024-07-12T04:04:40.914Z
-updated: 2024-07-13T04:04:40.914Z
+date: 2024-08-31T19:14:10.108Z
+updated: 2024-09-01T19:14:10.108Z
 tags:
   - games
 categories:
@@ -34,6 +34,9 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
 
  It’s also useful for young gamers who need a little extra assistance from a parent to beat a particularly formidable final boss. There are plenty of scenarios where an assist controller could be helpful. So if you want to learn how to use this feature on your PS5, follow the instructions below.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Do I Set Up an Assist Controller on My PS5?
 
  There are a few things to note before getting started. Firstly, the ability to connect an assist controller to your PS5 was introduced in an update. So, if you haven’t [enabled auto-updates on your PS5](https://www.makeuseof.com/how-to-enable-ps5-auto-updates/) yet, go ahead and update your PS5 manually to the latest version.
@@ -48,6 +51,9 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
 
 ![PS5 Settings Accessibility Section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-settings-accessibility-section.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Head to the**Accessibility** settings and scroll down to**Controllers** .
 
 ![PS5 Settings Use Second Controller for Assistance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-settings-use-second-controller-for-assistance.jpg)
@@ -56,18 +62,30 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
 
 ![PS5 Settings with Use Assist Controller toggle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-settings-use-assist-controller-switch.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Take your second controller, turn it on, and select the same**user profile** that the main controller is connected to. It's very important that both controllers are connected to the same user profile. If not, the process will not be successful. You can tell which profile the main controller is connected to by the**controller icon** underneath the profile picture.
 
 ![PS5 Settings Assign Assist Controller to Profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-settings-assign-assist-controller-to-profile.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
  You will now be able to use the second controller to assist the first player in any way they need. You can tell the two controllers have successfully been connected by checking the**battery icon** at the top right. If there are two batteries instead of one, you are good to go.
 
 ![PS5 Assist Controller Battery Icons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-assist-controller-battery-icons.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
  To stop using an assist controller, turn one of the controllers off to disconnect it, or head back to the settings and switch**Use Assist Controller** off.
 
  You are unable to use DualSense features such as haptic feedback, adaptive triggers, or the controller's built-in microphone while using an assist controller, but this is a small price to pay to help someone play and enjoy the games they love.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## An Assist Controller Makes Gaming More Accessible
 
  Classic gaming controllers are not very accessible for the most part. They have small button inputs that require very tight movements and a claw-like grip. This kind of setup just doesn’t work for many people, but that doesn’t mean they shouldn’t be able to enjoy or experience gaming.
@@ -93,3 +111,36 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fast-track-video-scaling-for-perfect-mac-display/"><u>[New] 2024 Approved  Fast-Track Video Scaling for Perfect Mac Display</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-inshot-a-thorough-editor-investigation/"><u>[New] Unveiling InShot  A Thorough Editor Investigation</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-historical-insights-from-youtubes-top-10-vlogs/"><u>[Updated] 2024 Approved  Historical Insights From YouTube's Top 10 Vlogs</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-is-integrating-itop-into-your-toolkit-advisable/"><u>[Updated] 2024 Approved  Is Integrating ITop Into Your Toolkit Advisable?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/bring-your-video-to-life-from-standard-to-hdri-excellence/"><u>Bring Your Video to Life  From Standard to HDRI Excellence</u></a></li>
+<li><a href="https://facebook.techidaily.com/clearing-facebook-notification-stores/"><u>Clearing Facebook Notification Stores</u></a></li>
+<li><a href="https://games-able.techidaily.com/cost-analysis-sonys-annual-subscription-to-playstation-plus/"><u>Cost Analysis: Sony's Annual Subscription to PlayStation Plus</u></a></li>
+<li><a href="https://games-able.techidaily.com/examining-steams-mechanics-versus-gogs-policies/"><u>Examining Steam's Mechanics Versus GOG's Policies</u></a></li>
+<li><a href="https://games-able.techidaily.com/finding-universal-games-top-6-diverse-titles/"><u>Finding Universal Games: Top 6 Diverse Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-realms-evanescent-but-are-they-worth-your-time/"><u>Game Realms Evanescent, But Are They Worth Your Time?</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-release-postponements-not-so-bad-after-all/"><u>Game Release Postponements - Not So Bad After All</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-nokia-c12-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Nokia C12 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-the-nier-replicant-re-master-failure-to-launch-problems/"><u>How to Overcome the NieR Replicant Re-Master Failure to Launch Problems</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-restrict-game-bar-activities-without-hindrance/"><u>How to Restrict Game Bar Activities without Hindrance</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-seamlessly-connect-and-play-xbox-game-pass-via-glossi/"><u>How to Seamlessly Connect and Play Xbox Game Pass via GlosSI</u></a></li>
+<li><a href="https://games-able.techidaily.com/ideal-mat-designs-for-competitive-play/"><u>Ideal Mat Designs for Competitive Play</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-8-speed-boosting-tools-for-android-users/"><u>In 2024, Top 8 Speed Boosting Tools for Android Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-customization-in-steam-using-the-workshop-tool/"><u>Mastering Customization in Steam Using The Workshop Tool</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-portability-the-creme-de-la-creme-nintendo-switch-docks/"><u>Mastering Portability: The Crème De La Créme Nintendo Switch Docks</u></a></li>
+<li><a href="https://games-able.techidaily.com/playstations-best-bargain-hunt-roundup/"><u>PlayStation’s Best Bargain Hunt Roundup</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/quick-fix-how-to-add-and-label-chapters-on-youtube-projects/"><u>Quick Fix  How to Add and Label Chapters on YouTube Projects</u></a></li>
+<li><a href="https://games-able.techidaily.com/restoring-lost-functionality-to-steam-remote-play/"><u>Restoring Lost Functionality to Steam Remote Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/revive-your-favorite-titles-ios-and-nintendo-unite/"><u>Revive Your Favorite Titles: IOS & Nintendo Unite</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-gaming-guide-google-plays-pc-betas/"><u>The Ultimate Gaming Guide - Google Play's PC Betas</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-visual-spectacle-premium-144hz-uw-monitors/"><u>The Ultimate Visual Spectacle: Premium 144Hz UW Monitors</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-gaming-bliss-digital-redemption-for-the-savvy-user/"><u>Unlock Gaming Bliss: Digital Redemption for the Savvy User</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-bg3-platforms-dlc-insights/"><u>Unlocking BG3: Platforms, DLC Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/unseen-enemies-cyber-threats-in-digital-playgrounds/"><u>Unseen Enemies: Cyber Threats in Digital Playgrounds</u></a></li>
+<li><a href="https://games-able.techidaily.com/x-overhaul-transforms-gaming-console-experience/"><u>X Overhaul Transforms Gaming Console Experience</u></a></li>
+</ul></div>

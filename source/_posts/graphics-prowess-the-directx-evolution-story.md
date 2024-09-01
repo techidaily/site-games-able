@@ -1,7 +1,7 @@
 ---
 title: "Graphics Prowess: The DirectX Evolution Story"
-date: 2024-07-12T04:05:12.072Z
-updated: 2024-07-13T04:05:12.072Z
+date: 2024-08-31T19:12:32.183Z
+updated: 2024-09-01T19:12:32.183Z
 tags:
   - games
 categories:
@@ -48,6 +48,18 @@ thumbnail: https://thmb.techidaily.com/227bd0353ed763348ef514468bae7b22e2b22e010
 
  This significantly reduces the CPU overhead found in DirectX 11 and improves performance. So, what does this difference look like? Well, according to Microsoft, DirectX 12 reduces CPU overhead by up to 50 percent and improves GPU performance by as much as 20 percent. While those are some substantial improvements, this doesn't mean you will see the same results.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Switching From DirectX 11 to DirectX 12 Isn't Straightforward
 
  DirectX 11 was first released for Windows Vista on October 27, 2009\. So, with DirectX 12 following in 2015, there's a six-year gap between DirectX 11 and DirectX 12\. During this time, thousands of games have been developed using DirectX 11\. Unfortunately, moving from DirectX 11 to DirectX 12 is anything but easy.
@@ -56,12 +68,18 @@ thumbnail: https://thmb.techidaily.com/227bd0353ed763348ef514468bae7b22e2b22e010
 
  That being said, a game developed in DirectX 12 could end up with worse performance depending on the developer's knowledge of the API. Some improvements come with DirectX 12, but it really comes down to how well a developer can implement it. For this reason, many developers choose to stick to high-level APIs like DirectX 11.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## DX 11 vs. DX 12: Which Should You Choose?
 
  The answer depends on a few things, like what game you are trying to run. For example, Guild Wars 2 runs on DirectX 11\. Even if your OS and hardware can use DirectX 12, you will not have the option to select DirectX 11 in Guild Wars 2 because the game does not support it. This is entirely the decision of the developer, ArenaNet.
 
 ![In-game image from Guild Wars 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/untitled-design-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Image Credit: Martin Kerstein/[Guild Wars 2](https://www.guildwars2.com/en/news/guesting-is-coming/)
 
  Believe it or not, it took nine years for ArenaNet to make the switch from DirectX 9 to DirectX 11\. However, some games do support both DirectX 11 and DirectX 12, including Fortnite (read [our Fortnite cheat sheet](https://www.makeuseof.com/tag/fortnite-essentials-cheat-sheet-controls-tips-terms/) ), Battlefield 5, Shadow of the Tomb Raider, and more. Users can switch between DirectX 11 and DirectX 12 in the game settings.
@@ -72,6 +90,9 @@ thumbnail: https://thmb.techidaily.com/227bd0353ed763348ef514468bae7b22e2b22e010
 
  In addition to in-game support, choosing between DirectX 11 and DirectX 12 will also depend on your hardware. Just about any modern GPU will support DirectX 12, but the same can't be said for older GPUs like the Radeon HD 4870\. Released in 2008, this GPU only supports up to DirectX 10\. This means it would be incapable of running most modern games, which run using DirectX 11 and DirectX 12.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Is DirectX 12 the Right Choice for You?
 
  All in all, switching from DirectX 11 to DirectX 12 isn't as black and white as it sounds. It depends on a variety of factors such as hardware, software, operating system, and whether a game supports both at all. All of these need to be considered before making a decision, and this will likely be true for future generations of DirectX as well.
@@ -95,3 +116,39 @@ thumbnail: https://thmb.techidaily.com/227bd0353ed763348ef514468bae7b22e2b22e010
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-ranking-the-best-free-passport-picture-services-worldwide/"><u>[New] In 2024, Ranking the Best Free Passport Picture Services Worldwide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-immortal-gameplay-highlights-of-android-samsungs/"><u>[Updated] In 2024, Immortal Gameplay Highlights of Android Samsungs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-smooth-transition-of-online-videos-to-tv-screens/"><u>[Updated] Smooth Transition of Online Videos to TV Screens</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cloud-consortium-choices-best-spaces-revealed-for-2024/"><u>Cloud Consortium Choices  Best Spaces Revealed for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723864253614-comprehensive-guide-to-the-pny-1tb-ssd-cs3150-featuring-dual-fans-and-stunning-rgb-lighting/"><u>Comprehensive Guide to the PNY 1TB SSD CS3150: Featuring Dual Fans and Stunning RGB Lighting!</u></a></li>
+<li><a href="https://games-able.techidaily.com/cost-vs-convenience-nintendo-switch-expansion-review/"><u>Cost Vs. Convenience: Nintendo Switch Expansion Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-system-enhancements-cpu-vs-gpu-priority/"><u>Deciphering System Enhancements: CPU Vs. GPU Priority</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-the-nyt-power-web-gameplay/"><u>Decoding the NYT Power Web Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-live-game-with-these-unparalleled-7-bots-for-twitch-enthusiasts/"><u>Elevate Your Live Game With These Unparalleled 7 Bots For Twitch Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-your-playtime-with-steam-achievements/"><u>Enhance Your Playtime with Steam Achievements</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhanced-charging-hubs-for-ps5-gamers/"><u>Enhanced Charging Hubs for PS5 Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/epic-game-retro-experience-for-modern-devices/"><u>Epic Game Retro Experience for Modern Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/film-star-access-pass-talent-release-for-2024/"><u>Film Star Access Pass - Talent Release for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/finding-joy-in-clicks-a-balanced-overview-of-digital-games-upsides/"><u>Finding Joy in Clicks: A Balanced Overview of Digital Games' Upsides</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-the-go-phone-or-larger-screen/"><u>Game on the Go: Phone or Larger-Screen?</u></a></li>
+<li><a href="https://games-able.techidaily.com/giants-in-gaming-is-size-a-sign-of-dominance-audio-chat/"><u>Giants in Gaming: Is Size a Sign of Dominance? [Audio Chat]</u></a></li>
+<li><a href="https://games-able.techidaily.com/harmony-hunt-top-mobile-music-quizzes/"><u>Harmony Hunt: Top Mobile Music Quizzes</u></a></li>
+<li><a href="https://games-able.techidaily.com/hot-swap-brilliance-by-razer-in-the-blackwidow-v4/"><u>Hot-Swap Brilliance by Razer in the BlackWidow V4</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-12-5g-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from 12 5G</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-on-your-iphone-15-plus-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock on your iPhone 15 Plus and iPad</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instantaneous-gtx-750-ti-drivers-access/"><u>Instantaneous GTX 750 Ti Drivers Access</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-new-york-times-word-challenge-unlock-your-brain/"><u>Mastering New York Times: Word Challenge - Unlock Your Brain!</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastery-gear-for-nintendos-switch-the-premier-guide/"><u>Mastery Gear for Nintendo's Switch – The Premier Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/setting-new-display-on-ps5/"><u>Setting New Display on PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-long-awaited-revamp-for-family-gaming/"><u>Steam’s Long-Awaited Revamp for Family Gaming</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-honor-x7b-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/unpacking-nitros-advantages/"><u>Unpacking Nitro's Advantages</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-subtle-power-of-trendy-tech/"><u>Unveiling the Subtle Power of Trendy Tech</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-pinnacle-studio-for-mac-explore-these-excellent-alternative-options/"><u>Updated In 2024, Pinnacle Studio for Mac Explore These Excellent Alternative Options</u></a></li>
+<li><a href="https://games-able.techidaily.com/which-new-console-rules-the-game-this-season/"><u>Which New Console Rules the Game This Season?</u></a></li>
+</ul></div>

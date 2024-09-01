@@ -1,7 +1,7 @@
 ---
 title: "Surprise Your Squad: Steam's Game-Tastic Presents"
-date: 2024-07-12T04:04:36.403Z
-updated: 2024-07-13T04:04:36.403Z
+date: 2024-08-31T19:14:05.366Z
+updated: 2024-09-01T19:14:05.366Z
 tags:
   - games
 categories:
@@ -54,6 +54,10 @@ Once you have all of that ready, follow the steps below:
 
  On the same Inventory page, there’s a menu in the top right, next to the large**Trade Offers** button under an ellipsis (**...**). Click it and select**View Gift History** to see all the gifts you’ve ever sent out.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ## How to Gift Duplicate Games on Steam
 
  In this instance, a “duplicate game” is one that you already have in your library but that you also have an extra license for.
@@ -66,10 +70,16 @@ Follow these instructions to gift a duplicate game on Steam:
 2. Choose one of the duplicate games from the resulting grid and click**Send Gift** on the right.  
 ![Duplicate games in Steam Inventory grid](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/duplicate-games-in-steam-inventory-grid.jpg)
 3. The next screen is for choosing how to send the gift. Select**Email my gift** option if the recipient isn’t a friend on Steam or select**Send my gift directly through Steam** to search through your friend list.  
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Delivery method for duplicate games on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/delivery-method-for-duplicate-games-on-steam.jpg)
 
  From then on, it’s almost the same as the regular steps. Except, of course, there’s no payment involved.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Send Steam Keys Bought on Other Websites
 
  If a sale happens on another website outside of Steam, you can buy the game on that website and then send the Steam key to your gift recipient.
@@ -83,6 +93,9 @@ We’ll show you how to do this on Humble Bundle:
 1. Visit [humblebundle.com](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2031630/https://www.humblebundle.com/) and search for the game you want. Alternatively, you can select a pay-what-you-want game bundle by clicking**Bundles** or**Store** \>**On Sale** to find deals.  
 ![Humble Bundle displaying games on sale](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/humble-bundle-displaying-games-on-sale.png)
 2. Select a game and add it to your cart. When you’re done shopping, click the cart icon in the top-right corner of the website.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 3. When the checkout window appears, you can select if the purchase is a gift. Tick the box and enter the recipient’s email in the relevant field.
 4. Make your payments and checkout.
 
@@ -100,9 +113,24 @@ We’ll show you how to do this on Humble Bundle:
 2. Choose**Redeem a Steam Gift Card or Wallet Code** on the left side of the window.  
 ![Adding funds to wallet page on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/screenshot-2024-02-06-at-11-15-47-am.png)
 3. Scroll down and click**Purchase Digital Gift Cards** on the next page.
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 4. Choose which gift card you’d like to send and choose a friend you want to send it to.  
 ![List of Steam gift cards on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/screenshot-2024-02-06-at-11-21-08-am.png)
 5. Follow the on-screen steps to finish the payment.
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This method only works for friends you’ve had on your friends list for at least three days. The recipient must have a Steam account; you can’t send Steam gift cards via email or through any other methods.
 
@@ -129,3 +157,47 @@ We’ll show you how to do this on Humble Bundle:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-to-swiftly-acquire-and-save-youtube-watch-lists/"><u>[New] In 2024, Guide to Swiftly Acquire and Save YouTube Watch Lists</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-snapshot-innovations-an-exploration-of-samsung-photo-editor/"><u>[New] In 2024, Snapshot Innovations  An Exploration of Samsung PHOTO EDITOR</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/tream-freedom-on-the-go-download-your-favorite-youtube-tracks-ios/"><u>[New] Stream Freedom on the Go  Download Your Favorite YouTube Tracks iOS</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/hriving-in-a-world-of-negative-video-reviews/"><u>[New] Thriving in a World of Negative Video Reviews</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-ultimate-6-contemporary-mojave-home-layouts/"><u>[Updated] 2024 Approved  Ultimate 6 Contemporary Mojave Home Layouts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-high-definition-magic-cutting-edge-camcorders-reviewed/"><u>[Updated] High-Definition Magic  Cutting-Edge Camcorders Reviewed</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-top-10-best-free-mmorpg-games/"><u>[Updated] In 2024, Top 10 Best Free MMORPG Games</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-from-darkness-to-daylight-funniest-incarcerated-facebook-friends-quotes/"><u>2024 Approved  From Darkness to Daylight  Funniest Incarcerated Facebook Friends Quotes</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-how-to-use-obs-with-zoom/"><u>2024 Approved  How to Use OBS with Zoom</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721959713861-chatgpt-desktop-on-hold-discover-this-top-quality-open-source-chat-app-as-your-go-to-solution/"><u>ChatGPT Desktop on Hold? Discover This Top-Quality Open Source Chat App as Your Go-To Solution!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-official-zexmt-usb-bluetooth-driver-windows-10-7-and-8-supported/"><u>Download Official Zexmt USB-Bluetooth Driver: Windows 10, 7 & 8 Supported</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-gaming-experience-fixing-low-fps-issues/"><u>Elevating Gaming Experience: Fixing Low FPS Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/engaging-viewers-live-xbox-streaming-on-discord/"><u>Engaging Viewers: Live Xbox Streaming on Discord</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-your-gaming-experience-with-game-pass-ultimate/"><u>Enhance Your Gaming Experience With Game Pass Ultimate</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-6s-plus-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 6s Plus to an Older Version? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-fix-the-following-components-are-required-error-on-windows-11-and-11/"><u>How to Fix the “Following Components Are Required” Error on Windows 11 & 11</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-canon-video-editing-made-easy-a-beginners-guide-to-professional-results/"><u>In 2024, Canon Video Editing Made Easy A Beginners Guide to Professional Results</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-vivo-y100-5g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Vivo Y100 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-hp-deskjet-3755e-all-in-one-printer-software-and-drivers-compatible-with-windows-11/"><u>Latest HP Deskjet 3755E All-in-One Printer Software & Drivers Compatible with Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-your-gaming-data-insights-into-steam-stats-and-achievements/"><u>Mastering Your Gaming Data: Insights Into Steam Stats and Achievements</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-your-gaming-setup-key-mice-traits-on-the-rise/"><u>Mastering Your Gaming Setup: Key Mice Traits on the Rise</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-noise-reduction-in-xbox-audio/"><u>Navigating Noise Reduction in Xbox Audio</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-high-dpi-gamepad-marvels/"><u>Next-Gen High DPI Gamepad Marvels</u></a></li>
+<li><a href="https://games-able.techidaily.com/nintendos-top-switch-accessory-picks-2024-edition/"><u>Nintendo's Top Switch Accessory Picks: 2024 Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/no-cash-required-manage-champions-in-free-soccer-software/"><u>No Cash Required? Manage Champions in Free Soccer Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-storage-devices-for-ps5/"><u>Optimal Storage Devices for PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/origins-of-foddian-a-gaming-journey/"><u>Origins of Foddian: A Gaming Journey</u></a></li>
+<li><a href="https://games-able.techidaily.com/portable-playgrounds-phones-or-larger-devices/"><u>Portable Playgrounds: Phones or Larger Devices?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/prestigious-websites-elevating-youtube-content-for-2024/"><u>Prestigious Websites Elevating YouTube Content for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/preventing-freezes-load-facebook-games-flawlessly-on-chrome/"><u>Preventing Freezes: Load Facebook Games Flawlessly on Chrome</u></a></li>
+<li><a href="https://games-able.techidaily.com/protecting-game-moments-steam-screenshots-copyright/"><u>Protecting Game Moments: Steam Screenshots Copyright</u></a></li>
+<li><a href="https://games-able.techidaily.com/quickclick-quests-eventual-gameplay-boosts/"><u>QuickClick Quests: Eventual Gameplay Boosts</u></a></li>
+<li><a href="https://games-able.techidaily.com/rising-above-vr-expenses-the-story-of-four-financial-challenges/"><u>Rising Above VR Expenses: The Story of Four Financial Challenges</u></a></li>
+<li><a href="https://games-able.techidaily.com/seven-conversation-crafting-rounds-to-deepen-bonds/"><u>Seven Conversation Crafting Rounds to Deepen Bonds</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-mobile-gamer-experience-good-and-bad/"><u>The Mobile Gamer Experience: Good and Bad</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-xiaomi-redmi-13c-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Xiaomi Redmi 13C 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-secrets-to-conquering-4-common-gpu-setbacks/"><u>Unveiling Secrets to Conquering 4 Common GPU Setbacks</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-benefits-of-gaming-delays/"><u>Unveiling the Benefits of Gaming Delays</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-secrets-of-dual-booting-steam-deck/"><u>Unveiling the Secrets of Dual Booting Steam Deck</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/videotwitterconverter-direct-media-conversion/"><u>VideoTwitterConverter  Direct Media Conversion</u></a></li>
+</ul></div>

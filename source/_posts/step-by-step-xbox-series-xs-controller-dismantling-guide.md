@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Xbox Series X/S Controller Dismantling Guide
-date: 2024-07-12T04:02:24.748Z
-updated: 2024-07-13T04:02:24.748Z
+date: 2024-08-31T19:16:06.673Z
+updated: 2024-09-01T19:16:06.673Z
 tags:
   - games
 categories:
@@ -41,6 +41,9 @@ Overall, here's everything you need:
 
  In case you don't have the tools required, you can invest in any of the many toolkits [available on Amazon](https://www.amazon.com/Vastar-Screwdriver-Repair-Controller-Cleaning/dp/B07G122BVS?tag=muo-v2-5jqtuqu-20&ascsubtag=UUmuoUeUpU2027960&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fxbox-series-xs-controller-how-to-take-apart%2F&asc%5Fcampaign=Evergreen) for around $10.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ## How to Take Your Xbox Series X|S Controller Apart
 
  Now that you have everything you need on hand, disassembling an Xbox Series X|S controller is actually not that difficult. Just follow these steps.
@@ -49,6 +52,9 @@ Overall, here's everything you need:
 2. Using the plastic prying tool or spudger, remove the plastic panels from the controller's handles where your hands sit. This can be difficult, so be patient and gentle as you wiggle the prying tool under the edge to unclip the panels.  
 ![Xbox Series X|S controller handle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/xbox-x-controller-disassembly-1.JPG)
 3. Once the panels are off, you'll have to remove the five Torx Security screws—two on each handle, one under the sticker in the battery compartment.
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. The front and back panels should simply come off now.
 5. At this point, you'll have access to the thumbsticks, D-pad, triggers, and the face buttons.  
 ![A disassembled Xbox Series X|S controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/xbox-x-controller-disassembly-4-1.JPG)
@@ -56,13 +62,22 @@ Overall, here's everything you need:
 7. Remove the tabs holding down the shoulder buttons from the left and right. This can be tricky, so be careful not to break the tabs. Once the tabs are open, take off the plastic cover.  
 ![Xbox Series X|S controller shoulder button tabs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/xbox-x-controller-disassembly-5.JPG)
 8. Use a T6 bit to unscrew the trigger vibration motors. The trigger should automatically come loose at this point.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 
  If you're looking to replace or repair the triggers, you'll have to be wary of the trigger vibration motors as well. They're soldered onto the mainboard with rather thin wires that'll snap off if you put too much pressure on them. Additionally, the main vibration motors are wired through the face buttons on the right and the left stick on the left, so be careful not to snap them off or bend them too much.
 
 ![Xbox Series X|S controller trigger](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/xbox-x-controller-disassembly-6.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
  In case you're looking to tear down your controller even further, you'll have to remove the two wires for the built-in wireless receiver from the daughterboard before removing the screws that hold it in place. Do keep in mind that going further will require some additional electronics know-how, so don't proceed unless you know what you're doing.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What Can You Do After Taking Apart Your Xbox Series X|S Controller?
 
  As mentioned above, once you're done with the disassembly, you can carry out just about any maintenance or repair work on your controller, including but not limited to:
@@ -76,6 +91,9 @@ Overall, here's everything you need:
 
  The Xbox button's color can also be changed by putting a thin film of colored plastic under the button when putting the controller back again. Since the front and the back panels are off now, spray-painting them to a different color is also not a bad idea. Do keep in mind though that if your controller is any other color except white, the end result may not be exactly what you expected. However, once all the pieces are out, the sky is the limit.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Xbox Controllers Might Be Hard to Disassemble, but Not Impossible
 
  With the right tools, taking apart your Xbox Series X|S controller is only a matter of a few minutes. Once it’s disassembled, you can carry out general maintenance, repairs, replace parts, and even customize your controller the way you want.
@@ -101,3 +119,45 @@ Overall, here's everything you need:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-ultimate-cartoony-transformation-tools-for-pcs-and-macs/"><u>[New] In 2024, Ultimate Cartoony Transformation Tools for PCs & Macs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exclusive-access-to-premium-templates-and-ideas-with-zero-cost/"><u>[Updated] Exclusive Access to Premium Templates & Ideas with Zero Cost</u></a></li>
+<li><a href="https://games-able.techidaily.com/4-fundamental-improvements-for-maximizing-xbox-player-loyalty/"><u>4 Fundamental Improvements for Maximizing Xbox Player Loyalty</u></a></li>
+<li><a href="https://games-able.techidaily.com/6-quirky-and-fun-chess-apps-to-play-chess-variants-online-or-against-ai/"><u>6 Quirky and Fun Chess Apps to Play Chess Variants Online or Against AI</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-brilliant-blend-of-tradition-and-innovation-why-pi/"><u>A Brilliant Blend of Tradition and Innovation: Why Pi?</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-guide-for-parents-to-monitor-children-on-discord/"><u>A Guide for Parents to Monitor Children on Discord</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-step-by-step-guide-to-complain-against-an-xbox-player/"><u>A Step by Step Guide to Complain Against an Xbox Player</u></a></li>
+<li><a href="https://games-able.techidaily.com/add-an-unbreakable-barrier-implement-passcode-lock-on-switch-console/"><u>Add an Unbreakable Barrier: Implement Passcode Lock on Switch Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-fail-to-start-driver-issue-on-windows-11-and-11-pcs/"><u>Addressing Fail-To-Start Driver Issue on Windows 11 & 11 PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-missing-items-in-steam-orders/"><u>Addressing Missing Items in Steam Orders</u></a></li>
+<li><a href="https://games-able.techidaily.com/advanced-mobile-play-controller-enhanced-gaming/"><u>Advanced Mobile Play: Controller-Enhanced Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/amd-releases-fsr-3-can-it-beat-the-latest-dlss-35-standards/"><u>AMD Releases FSR 3: Can It Beat the Latest DLSS 3.5 Standards?</u></a></li>
+<li><a href="https://games-able.techidaily.com/amp-up-arcade-vibes-with-enlarged-frontend-frames/"><u>Amp Up Arcade Vibes with Enlarged Frontend Frames!</u></a></li>
+<li><a href="https://games-able.techidaily.com/amp-up-the-atmosphere-big-box-for-arcade-fronts/"><u>Amp up the Atmosphere: Big Box for Arcade Fronts</u></a></li>
+<li><a href="https://games-able.techidaily.com/analyzing-the-need-for-anti-ghosting-features-in-gamers-choice/"><u>Analyzing the Need for Anti-Ghosting Features in Gamers' Choice</u></a></li>
+<li><a href="https://games-able.techidaily.com/assessing-the-impact-of-quick-resume-on-console-xands-gaming-experience/"><u>Assessing the Impact of Quick Resume on Console X&S Gaming Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/asuss-finest-ally-dock-innovation-for-enhanced-laptop-productivity/"><u>ASUS's Finest Ally Dock Innovation for Enhanced Laptop Productivity</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoid-buyers-remorse-with-pc-compatibility-checks/"><u>Avoid Buyer's Remorse with PC Compatibility Checks</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoid-linkedins-gaming-addiction-bait-trap/"><u>Avoid LinkedIn's Gaming Addiction Bait Trap</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoiding-incompatibility-in-your-next-pc-buy/"><u>Avoiding Incompatibility in Your Next PC Buy</u></a></li>
+<li><a href="https://games-able.techidaily.com/banishing-display-lag-zeroing-out-error-code-0x887a0006/"><u>Banishing Display Lag: Zeroing Out Error Code 0X887A0006</u></a></li>
+<li><a href="https://games-able.techidaily.com/become-a-master-at-nyts-strands-play-and-win/"><u>Become a Master at NYT’s Strands: Play & Win</u></a></li>
+<li><a href="https://games-able.techidaily.com/beneath-the-hype-gears-impact-on-gaming/"><u>Beneath the Hype: Gear's Impact on Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-controller-powered-mobile-adventures/"><u>Best Controller-Powered Mobile Adventures</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/elevating-your-instagram-highlights-with-exquisite-photography-for-2024/"><u>Elevating Your Instagram Highlights with Exquisite Photography for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixes-for-the-droopy-effect-in-monitors/"><u>Fixes for the 'Droopy' Effect in Monitors</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-blue-screen-of-death-solutions-for-the-0x00000050-error-on-windows/"><u>Fixing the Blue Screen of Death: Solutions for the 0X00000050 Error on Windows</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-vivo-x-fold-2-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Vivo X Fold 2 Devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-honor-80-pro-straight-screen-edition-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Honor 80 Pro Straight Screen Edition to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-reactivate-steams-inaccessible-network-servers/"><u>How To Reactivate Steam's Inaccessible Network Servers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-f04-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Samsung Galaxy F04 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/improve-conference-efficiency-webcam-assisted-powerpoint-for-2024/"><u>Improve Conference Efficiency  Webcam-Assisted PowerPoint for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-boost-income-secrets-to-successful-youtube-shorts-earning/"><u>In 2024, Boost Income  Secrets to Successful YouTube Shorts Earning</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-iphone-8-and-android-phones-by-drfone-ios/"><u>In 2024, Top IMEI Unlokers for iPhone 8 and Android Phones</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719167776043-navigate-through-tech-troubles-with-new-nvidia-drivers/"><u>Navigate Through Tech Troubles with New Nvidia Drivers.</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172460954-prepare-for-fun-dive-into-chatgpts-favorite-6-games/"><u>Prepare For Fun: Dive Into ChatGPT’s Favorite 6 Games!</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-delights-perfect-puzzles-for-festive-times/"><u>Steam Delights: Perfect Puzzles for Festive Times</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Oppo A38 | Dr.fone</u></a></li>
+</ul></div>

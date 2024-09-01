@@ -1,7 +1,7 @@
 ---
 title: Do You Actually Need a Mechanical Keyboard for Gaming?
-date: 2024-07-12T04:06:02.758Z
-updated: 2024-07-13T04:06:02.758Z
+date: 2024-08-31T19:11:13.227Z
+updated: 2024-09-01T19:11:13.227Z
 tags:
   - games
 categories:
@@ -52,6 +52,9 @@ Jhet Borja/MakeUseOf
 
  When you’re gaming intensely, this tactile feedback is precious. It lets you know that you’ve done the action without second-guessing yourself. If you’re not constantly worried about whether you’ve successfully pressed a key on your keyboard or not, you’re left with more mental capacity to worry about what you need to do in the game.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Gaming Mechanical Keyboards Have Many Functions and Features
 ![Wooting 60HE rapid trigger and actuation point settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/wooting-60he-rapid-trigger-and-actuation-point-settings.png)
 
@@ -63,9 +66,15 @@ Jhet Borja/MakeUseOf
 
  Most gaming mechanical keyboards also feature dedicated macro buttons—easily accessible buttons that you can assign any action. Arma, for example, has so many keybinds that you’ll often have to either move your hand from one side of the keyboard to the other, or move your other hand from your mouse to your keyboard. Macros and layers would allow you to bring those keys and functions to just one side, saving you time.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Mechanical Keyboards Are Highly Customizable
 ![Switch lubing tools and keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/switch-lubing-tools-and-keyboard.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jhet Borja/MakeUseOf
 
  One of the most popular features that regular mechanical keyboards have is customizability. You can either buy a mechanical keyboard that’s already built, ready for use, or buy various parts that suit your needs.
@@ -78,9 +87,15 @@ Jhet Borja/MakeUseOf
 
  There aren’t many drawbacks to mechanical keyboards since they do everything regular keyboards do but better. However, that doesn’t mean there aren’t any. If you’re using a non-mechanical keyboard right now, you should take these into consideration and see whether it’s worth switching to a mechanical keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ### Mechanical Keyboards Are Heavier
 ![Keychon Q1 side profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/05/keychon-q1-side-profile.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 Jhet Borja/MakeUseOf
 
  Mechanical keyboards tend to be heavier. While enthusiasts would see this as a plus, this can be a drawback for many. Repositioning your keyboard mid-game can get tiring and it makes it less portable.
@@ -92,12 +107,18 @@ Jhet Borja/MakeUseOf
 ### Mechanical Keyboards Cost More
 ![gateron yellow switches beside keyboard and wrist rest](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gateron-yellow-switches-beside-keyboard-and-wrist-rest-1.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 Jhet Borja/MakeUseOf
 
  Mechanical keyboards are composed of more components: the switches, keycaps, PCB, case, backplate, etc. These things combined end up making a fully functional mechanical keyboard more expensive.
 
  Most non-mechanical keyboards are pretty straightforward, having a PCB that doesn’t need switches to actuate, a singular rubber lattice that’s practically indestructible through normal use, and a simple plastic housing and keycaps. This makes them cheaper and lighter.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ### Mechanical Keyboards Are Louder
 
  The sound of a mechanical keyboard is something that really polarizes opinions. Many love the sound, but seemingly just as many hate it.
@@ -106,6 +127,9 @@ Jhet Borja/MakeUseOf
 
  To get a pretty quiet mechanical keyboard, you’ll have to go to pretty great lengths to achieve it, which might not make it worth it for you.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Do You Need a Mechanical Keyboard for Gaming?
 
  A mechanical keyboard isn’t a necessity for gaming. It’s different from a mouse where a mouse needs to translate your analog hand movements accurately to your computer. Keyboards are really just boards consisting of on-off switches.
@@ -133,3 +157,42 @@ Jhet Borja/MakeUseOf
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-beyond-expectations-the-new-samsung-ubd-k8500-edition/"><u>[New] 2024 Approved  Beyond Expectations  The New Samsung UBD-K8500 Edition</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-essential-tips-and-tricks-for-creating-killer-short-videos-on-yt/"><u>[Updated] 2024 Approved  Essential Tips and Tricks for Creating Killer Short Videos on YT</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-how-to-embark-on-the-facebook-experience-for-2024/"><u>[Updated] How to Embark on the Facebook Experience for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-rapid-photovideo-resurrection-tactics/"><u>[Updated] In 2024, Rapid Photo/Video Resurrection Tactics</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pixiz-workshop-the-art-of-photo-video-synthesis/"><u>[Updated] Pixiz Workshop  The Art of Photo Video Synthesis</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-full-guide-to-download-windows-movie-maker-60/"><u>2024 Approved  Full Guide to Download Windows Movie Maker 6.0</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-step-by-step-for-powerpoint-voiceover-excellence/"><u>2024 Approved  Step-by-Step for PowerPoint Voiceover Excellence</u></a></li>
+<li><a href="https://games-able.techidaily.com/display-showdown-determining-which-is-superior-oled-or-ips/"><u>Display Showdown: Determining Which Is Superior, OLED or IPS?</u></a></li>
+<li><a href="https://games-able.techidaily.com/do-microtransactions-have-a-place-in-premium-games/"><u>Do Microtransactions Have a Place in Premium Games?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-installation-process-for-epson-xp-410-windows-driver-download-and-guide/"><u>Easy Installation Process for Epson XP-410 Windows Driver - Download & Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/effective-use-of-steam-writes-and-reads-to-optimize-games/"><u>Effective Use of Steam' Writes & Reads to Optimize Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-gameplay-essential-tips-to-improve-your-ps4/"><u>Enhance Gameplay: Essential Tips to Improve Your PS4</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-info-processing-refunds-from-xbox-games/"><u>Essential Info: Processing Refunds From Xbox Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/exceptional-sound-for-switch-players/"><u>Exceptional Sound for Switch Players</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-asus-rog-tuf-gaming-vs-proart-and-prime-systems/"><u>Exploring Asus ROG, TUF Gaming Vs. ProArt & Prime Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixes-for-failed-connection-with-steam-servers/"><u>Fixes for Failed Connection with Steam Servers</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-redeem-digital-direct-offers-on-your-xbox-series-xs/"><u>How to Redeem Digital Direct Offers on Your Xbox Series X|S</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-samsung-galaxy-f54-5g-easily-by-drfone-android/"><u>How To Unlock a Samsung Galaxy F54 5G Easily?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-download-and-install-windows-xp-movie-maker/"><u>In 2024, Download and Install Windows XP Movie Maker</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-on-iphone-12-mini-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock on iPhone 12 mini</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-media-subtitles-transformation/"><u>In 2024, Mastering Media Subtitles Transformation</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-optimized-vimeo-video-exporting-apps/"><u>In 2024, Optimized Vimeo Video Exporting Apps</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-oppo-a79-5g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Oppo A79 5G FRP</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-ps4s-hardware-restart/"><u>Mastering PS4's Hardware Restart</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-performance-with-these-8-cpu-cooler-factors/"><u>Maximizing Performance with These 8 CPU Cooler Factors</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-handhelds-is-switch-the-frontier/"><u>Next-Gen Handhelds - Is Switch the Frontier?</u></a></li>
+<li><a href="https://games-able.techidaily.com/optic-oscillations-vs-mechanical-motions-in-gaming/"><u>Optic Oscillations Vs. Mechanical Motions in Gaming</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/premiere-illustrator-adjustments-for-2024/"><u>Premiere Illustrator Adjustments for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-monitors-at-144hz-for-enhanced-gameplay/"><u>Premium Monitors at 144Hz for Enhanced Gameplay</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/professional-editing-strategies-for-youtube-videos-after-upload/"><u>Professional Editing Strategies for YouTube Videos After Upload</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-assist-controller-a-step-by-step-guide/"><u>Ps5 Assist Controller: A Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/twitch-demystified-essential-knowledge-for-aspiring-streamers/"><u>Twitch Demystified: Essential Knowledge for Aspiring Streamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/unwind-at-the-click-our-list-of-rapid-web-games/"><u>Unwind at the Click: Our List of Rapid Web Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/warriors-choice-the-creme-de-la-creme-of-online-fps-games/"><u>Warrior's Choice: The Crème De La Créme of Online FPS Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-you-need-to-know-about-filing-complaints-on-xbox/"><u>What You Need To Know About Filing Complaints on Xbox</u></a></li>
+</ul></div>

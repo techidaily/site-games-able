@@ -1,7 +1,7 @@
 ---
 title: Exploring Value in Switch's Network Service Pack
-date: 2024-07-12T04:02:03.795Z
-updated: 2024-07-13T04:02:03.795Z
+date: 2024-08-31T19:15:45.020Z
+updated: 2024-09-01T19:15:45.020Z
 tags:
   - games
 categories:
@@ -37,10 +37,16 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
 
  Like the existing NES and SNES libraries included with Switch Online, the N64, Genesis, and GBA titles include [quality-of-life emulation benefits](https://www.makeuseof.com/pros-cons-playing-video-games-emulator/) . These include save states, which let you stop and pick up from anywhere (not just where the original game had save points).
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Nintendo Switch Expansion Pack: Included Games
 
  Your interest in the Expansion Pack will likely depend on how many of its games you want to play, so let's list those next.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Games Included in the N64 Switch Online Library
 
  At the time of writing, the following Nintendo 64 titles are included in the Expansion pack:
@@ -77,6 +83,9 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
 
  Any games that support local multiplayer, such as Mario Tennis and Star Fox 64, are also playable online with friends. You can't matchmake with random opponents, though.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Games Included in the Genesis/Mega Drive Switch Online Library
 
  The Switch Expansion Pack also lets you play dozens of classic Sega Genesis titles. There are too many to list here; see [Nintendo's Genesis Switch Online page](https://www.nintendo.com/store/products/sega-genesis-nintendo-switch-online-switch/) for a full list.
@@ -127,6 +136,9 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
 
  Five of the six "waves" of the DLC are available now, with the last set to release by the end of 2023\. If you drop your Switch Online membership, you'll have to pay the regular price of $24.99 to access these new courses again.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## How Much Does the Switch Online Expansion Pack Cost?
 
  The Switch Online Expansion Pack is only available as an annual membership; there's no option to pay monthly like the base plan. Subscribing to the Expansion Pack costs $49.99 for 12 months, compared to $19.99/year for the regular subscription.
@@ -137,12 +149,19 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
 
 ![Switch Online Expansion Pack July 2022](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Switch-Online-Expansion-Pack-July-2022.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### New Nintendo Switch Replica Controllers
 
  Note that alongside the Expansion Pack, Nintendo also offers replica [N64](https://store.nintendo.com/nintendo-64-controller.html) and [Genesis/Mega Drive](https://store.nintendo.com/sega-genesis-control-pad.html) controllers. Aside from being rechargeable instead of wired, and including Switch controller buttons like Home and Capture, they're almost identical to the original versions.
 
  These cost $49.99 each, and you must subscribe to any Switch Online plan to purchase them. However, both controllers regularly sell out due to high demand and it's not always clear when more stock will arrive. They're not required to play the new games, but do make it a more authentic experience.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## Is the Switch Online Expansion Pack Worth It?
 
  Now that we've covered the details, we can discuss whether the Switch Online Expansion Pack is worth the cost. And at $30 more than the base plan, it's not as easy of a sell.
@@ -155,6 +174,9 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
 
  Similarly, if you're primarily looking for the Sega Genesis games, you can get more retro titles without a subscription by buying [Sega Genesis Classics](https://www.nintendo.com/games/detail/sega-genesis-classics-switch/) for $30 on the eShop. This doesn't include every game that Switch Online does, but has far more games overall. This compilation also packs in the same convenience features as Switch Online, like rewinding and online multiplayer. It also goes on sale sometimes, offering more value if you're willing to wait for a price drop.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### If You Primarily Want N64 Games or GBA Games
 
  The Expansion Pack has more value if you want access to the N64 library. Unless you still have a Wii U and bought N64 games before the Wii U eShop closed, there's no easy way to legally play these games on a modern system—making it a more attractive deal.
@@ -171,6 +193,9 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
 
  However, keep in mind that for the Animal Crossing and Mario Kart expansions, you'll probably want ongoing access. The Splatoon 2 DLC isn't something you'll worry about much after clearing it.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## The Expansion Pack's Price Is Too High
 
  The Expansion Pack being poorly priced compounds its other problems.[PlayStation Plus Essential and Xbox Live Gold each](https://www.makeuseof.com/tag/xbox-live-versus-playstation-plus-get/) cost just $10 more ($60/year), yet they offer free games, deeper discounts during sales, and much better online infrastructure. Switch Online, meanwhile, offers a pitiful excuse for party chat with its janky app implementation, and has additional classic games arrive at a glacial pace.
@@ -204,3 +229,54 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-the-essential-blueprint-for-melding-linktree-into-tiktok-profiles/"><u>[New] 2024 Approved  The Essential Blueprint for Melding Linktree Into TikTok Profiles</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-accurate-and-automatic-video-recording-on-diverse-computing-systems-for-2024/"><u>[New] Accurate and Automatic Video Recording on Diverse Computing Systems for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-az-record-pro-detailed-app-analyses-and-backup-choices/"><u>[New] In 2024, AZ Record Pro  Detailed App Analyses & Backup Choices</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-art-of-tall-videos-editing-vertical-media-for-impactful-insta-feeds-for-2024/"><u>[New] The Art of Tall Videos  Editing Vertical Media for Impactful Insta Feeds for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-youtube-unleashed-a-creators-guide-to-greatness/"><u>[New] YouTube Unleashed  A Creator's Guide to Greatness</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-creative-vocal-power-access-free-audio-effects-here/"><u>2024 Approved  Unleash Creative Vocal Power  Access Free Audio Effects Here</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-potential-our-picks-for-the-most-inspiring-films/"><u>2024 Approved  Unleash Potential  Our Picks for the Most Inspiring Films</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/decoding-visual-history-navigating-reverse-search-on-instagram/"><u>Decoding Visual History  Navigating Reverse Search on Instagram</u></a></li>
+<li><a href="https://games-able.techidaily.com/durability-and-design-selecting-the-perfect-casing-in-24/"><u>Durability & Design: Selecting the Perfect Casing in '24</u></a></li>
+<li><a href="https://games-able.techidaily.com/emulating-legends-pokemon-games-resurgence/"><u>Emulating Legends: Pokémon Games' Resurgence</u></a></li>
+<li><a href="https://games-able.techidaily.com/escaping-realms-backup-your-buildings-bring-them-back/"><u>Escaping Realms: Backup Your Buildings, Bring Them Back</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-tips-for-resetting-ps5-gamepad/"><u>Essential Tips for Resetting PS5 Gamepad</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-the-benefits-of-switching-to-rtx-post-gtx-phase/"><u>Evaluating the Benefits of Switching to RTX Post-GTX Phase</u></a></li>
+<li><a href="https://games-able.techidaily.com/foremost-phone-titles-with-controller-integration/"><u>Foremost Phone Titles with Controller Integration</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-choice-selecting-the-best-audio-gear/"><u>Gamer’s Choice: Selecting the Best Audio Gear</u></a></li>
+<li><a href="https://games-able.techidaily.com/hall-effect-keys-in-focus-review-of-modular-board-mod007b/"><u>Hall Effect Keys in Focus - Review of Modular Board MOD007B</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-halt-steam-initialization/"><u>How to Halt Steam Initialization</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-office-documents-effectively-by-stellar-guide/"><u>How to Repair Office Documents Effectively</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-resolve-steam-errors-in-windows-11-quickly/"><u>How to Resolve Steam Errors in Windows 11 Quickly</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Honor Magic Vs 2? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/ifa-2023-gaming-innovation-showcase/"><u>IFA 2023 Gaming Innovation Showcase</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-apple-iphone-15-plus-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone 15 Plus Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-lava-blaze-2-5g-easily-by-drfone-android/"><u>In 2024, How To Unlock a Lava Blaze 2 5G Easily?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-artists-guide-to-vivid-vsco-imagery/"><u>In 2024, The Artist's Guide to Vivid VSCO Imagery</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-iphone-6s-by-drfone-ios/"><u>In 2024, Top 11 Free Apps to Check IMEI on iPhone 6s</u></a></li>
+<li><a href="https://games-able.techidaily.com/indulge-your-playstation-fondness-with-30-expertly-chosen-pc-emulators/"><u>Indulge Your PlayStation Fondness with 30 Expertly Chosen PC Emulators</u></a></li>
+<li><a href="https://games-able.techidaily.com/international-gaming-exploration-via-region-change/"><u>International Gaming Exploration via Region Change</u></a></li>
+<li><a href="https://games-able.techidaily.com/join-forces-in-these-20-cross-system-gaming-adventures/"><u>Join Forces in These 20 Cross-System Gaming Adventures</u></a></li>
+<li><a href="https://games-able.techidaily.com/keep-steam-titles-under-wraps/"><u>Keep Steam Titles Under Wraps</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-varied-strategies-check-out-the-best-6-unique-chess-apps/"><u>Master Varied Strategies: Check Out the Best 6 Unique Chess Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-volume-control-on-xbox-s-and-x-series-x/"><u>Mastering Volume Control on Xbox S & X Series X</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/msvcr100dll-not-found-a-complete-walkthrough-to-solve-missing-dll-issues-in-windows/"><u>MSVCR100.dll Not Found? A Complete Walkthrough to Solve Missing DLL Issues in Windows</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-edit-like-a-pro-gopro-video-editing-for-mac-users-2023-update-for-2024/"><u>New Edit Like a Pro GoPro Video Editing for Mac Users (2023 Update) for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/offline-entertainment-11-in-app-phone-games/"><u>Offline Entertainment: 11 In-App Phone Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/patching-for-purists-rom-linguistic-tweaks/"><u>Patching for Purists: ROM Linguistic Tweaks</u></a></li>
+<li><a href="https://games-able.techidaily.com/post-gtx-era-assessing-the-need-for-an-immediate-rtx-shift/"><u>Post-GTX Era: Assessing the Need for an Immediate RTX Shift</u></a></li>
+<li><a href="https://games-able.techidaily.com/reinstating-stable-wired-and-wireless-connections-in-ps5/"><u>Reinstating Stable Wired and Wireless Connections in PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/shielding-your-digital-actions-from-watchful-eyes/"><u>Shielding Your Digital Actions From Watchful Eyes</u></a></li>
+<li><a href="https://games-able.techidaily.com/supreme-gamers-logitech-toolkit/"><u>Supreme Gamer's Logitech Toolkit</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-4-ios-emulation-apps-where-do-you-start/"><u>Top 4 iOS Emulation Apps: Where Do You Start?</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-notch-mouse-comforts-unveiled/"><u>Top-Notch Mouse Comforts Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-ranked-locales-gamers-trophies-turf/"><u>Top-Ranked Locales: Gamers' Trophies Turf</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-discords-potential-mac-setup-guide/"><u>Unlocking Discord's Potential: Mac Setup Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/what-lies-beneath-understanding-trillers-different-tiktok-approach/"><u>What Lies Beneath  Understanding Triller's Different TikTok Approach</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-makes-a-great-steam-deck/"><u>What Makes a Great Steam Deck?</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-a-quick-reboot-can-save-your-gaming-experience/"><u>Why a Quick Reboot Can Save Your Gaming Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/xboxs-response-to-breaches-the-strike-mechanism/"><u>Xbox's Response to Breaches: The Strike Mechanism</u></a></li>
+</ul></div>

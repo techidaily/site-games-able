@@ -1,7 +1,7 @@
 ---
 title: "MMX 200 Evaluation: Powerful but Feature-Limited"
-date: 2024-07-12T04:04:21.559Z
-updated: 2024-07-13T04:04:21.559Z
+date: 2024-08-31T19:13:50.203Z
+updated: 2024-09-01T19:13:50.203Z
 tags:
   - games
 categories:
@@ -130,6 +130,9 @@ Over-ear
 ## Limited Colors, Decent Style
 ![beyerdynamic mmx 200 showing thick earcup padding side by side](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/beyerdynamic-mmx-200-showing-thick-earcup-padding-side-by-side.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Gavin Phillips / MakeUseOf
 
  The MMX 200 is a little on the chunky side of headset design, in part due to the emphasis on comfort; the large, round, closed-back earcups feature a similarly comfortable headband.
@@ -144,6 +147,9 @@ Over-ear
 
  The buttons are all responsive enough, as you'd expect, but the volume wheel does have a noisier click than expected, with each turn of the wheel making an audible click. It's not a big issue, but was surprising to hear.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Good Battery and Connection Options
 ![beyerdynamic mmx 200 on stand close up view](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/beyerdynamic-mmx-200-on-stand-close-up-view.jpg)
 
@@ -155,18 +161,27 @@ Over-ear
 
 ![beyerdynamic mmx 200 buttons on earcup close up](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/beyerdynamic-mmx-200-buttons-on-earcup-close-up.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
  Gavin Phillips / MakeUseOf
 
  There is also a Hybrid Mode, which is Beyerdynamic's term for a wired and wireless connection. Pressing the Meta Link Switch button moves between the modes, and the Hybrid modes allow you to plug into your console or PC and connect your smartphone to take calls or otherwise. However, to use this feature, you need a USB-C to analog cable, which isn't supplied in the box, and is something you'll need to pick up to use with an Xbox controller.
 
  There's also an Augmented Mode that works similarly to the passive mode on other headphones, allowing external noise to enter the headphones. I'm never keen on passive audio modes, and the MMX 200's version of it is similar to others in that noises are overemphasized and become distracting, detracting from your gaming.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## Let Down by Lack of Gaming Features and Software Support
 
  But for all the comfort, battery life, and connectivity, the Beyerdynamic MMX 200 lacks features you'd expect to find on a gaming headset at this price point. I'm not talking about flashy RGB, but features that now come as standard such as desktop software, customizable EQs, specific game profiles, spatial audio, etc.
 
  You'll find some desktop software to update the low-latency dongle, but outside that, the MMX 200 doesn't offer much extra.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Great Sound, Great Microphone
 ![beyerdynamic mmx 200 on headphone stand on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/beyerdynamic-mmx-200-on-headphone-stand-on-desk.jpg)
 
@@ -194,6 +209,9 @@ Over-ear
 
 ![mmx200](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mmx200.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Beyerdynamic MMX 200
 
  7/ 10
@@ -221,3 +239,58 @@ Over-ear
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-creative-music-videos-a-list-of-15-youtube-projects/"><u>[New] 2024 Approved  Creative Music Videos  A List of 15 YouTube Projects</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-advice-for-eliminating-youtube-video-skip-teasers/"><u>[New] Expert Advice for Eliminating YouTube Video Skip Teasers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-mastering-minecraft-the-best-practices-to-record-gameplay/"><u>[New] Mastering Minecraft  The Best Practices to Record Gameplay</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-comparing-av1-and-vp9-which-is-more-advanced-in-2024/"><u>[Updated] Comparing AV1 & VP9  Which Is More Advanced, In 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-cybernetic-salvation-reuniting-with-your-fb-world-for-2024/"><u>[Updated] Cybernetic Salvation  Reuniting with Your FB World for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-swift-shadowing-secrets/"><u>[Updated] Swift Shadowing Secrets</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-sync-your-views-iphones-looping-feature/"><u>[Updated] Sync Your Views  IPhone's Looping Feature</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-turning-time-on-its-ear-unique-approaches-to-reversed-youtube-content/"><u>2024 Approved  Turning Time on Its Ear  Unique Approaches to Reversed YouTube Content</u></a></li>
+<li><a href="https://games-able.techidaily.com/console-perks-probe-unraveling-the-flaws-of-xbox-vs-playstation-plans/"><u>Console Perks Probe: Unraveling the Flaws of Xbox vs PlayStation Plans</u></a></li>
+<li><a href="https://games-able.techidaily.com/cut-off-and-re-engage-users-on-twitch-live/"><u>Cut Off & Re-Engage Users on Twitch Live</u></a></li>
+<li><a href="https://games-able.techidaily.com/data-free-adventures-top-15-ios-games-you-can-play-offline/"><u>Data-Free Adventures: Top 15 iOS Games You Can Play Offline</u></a></li>
+<li><a href="https://games-able.techidaily.com/echo-expertise-the-best-audio-quiz-games-available/"><u>Echo Expertise: The Best Audio Quiz Games Available</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-gaming-experience-mastering-ryujinxs-switch-game-controllers/"><u>Elevate Your Gaming Experience: Mastering Ryujinx's Switch Game Controllers</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-gaming-experience-fixing-low-fps-issues/"><u>Elevating Gaming Experience: Fixing Low FPS Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/engaging-viewers-live-xbox-streaming-on-discord/"><u>Engaging Viewers: Live Xbox Streaming on Discord</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-your-gaming-experience-with-game-pass-ultimate/"><u>Enhance Your Gaming Experience With Game Pass Ultimate</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-tips-for-joystick-pc-sync-145-chars/"><u>Essential Tips for Joystick-PC Sync (145 Chars)</u></a></li>
+<li><a href="https://games-able.techidaily.com/examine-the-size-of-pc-vram-allocation/"><u>Examine the Size of PC VRAM Allocation</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-insights-into-boosting-your-docked-steam-decks-functionality/"><u>Expert Insights Into Boosting Your Docked Steam Deck’s Functionality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-seed-to-story-innovative-writing-techniques-from-gpt/"><u>From Seed to Story: Innovative Writing Techniques From GPT</u></a></li>
+<li><a href="https://games-able.techidaily.com/google-play-games-on-pc-an-in-depth-overview/"><u>Google Play Games on PC: An In-Depth Overview</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-much-video-ram-do-you-hold/"><u>How Much Video RAM Do You Hold?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to Change Location on TikTok to See More Content On your Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-fix-the-following-components-are-required-error-on-windows-11-and-11/"><u>How to Fix the “Following Components Are Required” Error on Windows 11 & 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/initiate-immediate-invigoration-in-league/"><u>Initiate Immediate Invigoration in League</u></a></li>
+<li><a href="https://games-able.techidaily.com/joinlan-failures-fix-windows-minecraft-disconnects/"><u>JoinLAN Failures? Fix Windows Minecraft Disconnects</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-your-gaming-data-insights-into-steam-stats-and-achievements/"><u>Mastering Your Gaming Data: Insights Into Steam Stats and Achievements</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-your-gaming-setup-key-mice-traits-on-the-rise/"><u>Mastering Your Gaming Setup: Key Mice Traits on the Rise</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-noise-reduction-in-xbox-audio/"><u>Navigating Noise Reduction in Xbox Audio</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-high-dpi-gamepad-marvels/"><u>Next-Gen High DPI Gamepad Marvels</u></a></li>
+<li><a href="https://games-able.techidaily.com/nintendos-top-switch-accessory-picks-2024-edition/"><u>Nintendo's Top Switch Accessory Picks: 2024 Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/no-cash-required-manage-champions-in-free-soccer-software/"><u>No Cash Required? Manage Champions in Free Soccer Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-storage-devices-for-ps5/"><u>Optimal Storage Devices for PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/origins-of-foddian-a-gaming-journey/"><u>Origins of Foddian: A Gaming Journey</u></a></li>
+<li><a href="https://games-able.techidaily.com/portable-playgrounds-phones-or-larger-devices/"><u>Portable Playgrounds: Phones or Larger Devices?</u></a></li>
+<li><a href="https://games-able.techidaily.com/preventing-freezes-load-facebook-games-flawlessly-on-chrome/"><u>Preventing Freezes: Load Facebook Games Flawlessly on Chrome</u></a></li>
+<li><a href="https://games-able.techidaily.com/protecting-game-moments-steam-screenshots-copyright/"><u>Protecting Game Moments: Steam Screenshots Copyright</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-fixes-for-4-major-account-restrictions-on-gpt/"><u>Quick Fixes for 4 Major Account Restrictions on GPT</u></a></li>
+<li><a href="https://games-able.techidaily.com/quickclick-quests-eventual-gameplay-boosts/"><u>QuickClick Quests: Eventual Gameplay Boosts</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-nokia-c110-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Nokia C110 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/restoring-flawless-sound-experience-to-xbox-one/"><u>Restoring Flawless Sound Experience to Xbox One</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/revolutionizing-mobile-tech-music-streaming-and-e-signatures-with-smartwatches-insights-from-the-abbyy-blog/"><u>Revolutionizing Mobile Tech: Music Streaming & E-Signatures with Smartwatches – Insights From the ABBYY Blog</u></a></li>
+<li><a href="https://games-able.techidaily.com/rising-above-vr-expenses-the-story-of-four-financial-challenges/"><u>Rising Above VR Expenses: The Story of Four Financial Challenges</u></a></li>
+<li><a href="https://games-able.techidaily.com/seven-conversation-crafting-rounds-to-deepen-bonds/"><u>Seven Conversation Crafting Rounds to Deepen Bonds</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-mobile-gamer-experience-good-and-bad/"><u>The Mobile Gamer Experience: Good and Bad</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-next-level-in-gaming-explore-virtual-worlds-from-your-phone/"><u>The Next Level in Gaming: Explore Virtual Worlds From Your Phone</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-secrets-to-conquering-4-common-gpu-setbacks/"><u>Unveiling Secrets to Conquering 4 Common GPU Setbacks</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-benefits-of-gaming-delays/"><u>Unveiling the Benefits of Gaming Delays</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-secrets-of-dual-booting-steam-deck/"><u>Unveiling the Secrets of Dual Booting Steam Deck</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-top-rated-free-face-creation-tools-online-for-2024/"><u>Updated Top-Rated Free Face Creation Tools Online for 2024</u></a></li>
+</ul></div>
