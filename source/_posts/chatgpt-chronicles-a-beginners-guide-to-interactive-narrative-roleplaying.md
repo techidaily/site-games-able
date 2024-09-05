@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT Chronicles: A Beginner's Guide to Interactive Narrative Roleplaying"
-date: 2024-07-12T03:58:48.689Z
-updated: 2024-07-13T03:58:48.689Z
+date: 2024-09-04T21:45:05.836Z
+updated: 2024-09-05T21:45:05.836Z
 tags:
   - games
 categories:
@@ -104,6 +104,18 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
 
  These ‘gold’ rules help establish the spending mechanic and limit exploitation.
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Craft the Story, Setting, and NPCs
 
  How you craft your prompt on ChatGPT will determine what your experience will be like—and the next thing you should consider for your game’s prompt is the setting and story you would like. For instance, we used a world inspired by the Elder Scrolls as the basis of our world in this one.
@@ -124,8 +136,32 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
 
 ![Villager asking on the player's welfare in text game dialogue](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/villager-asking-on-the-player-s-welfare-in-text-game-dialogue.jpeg)
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can embellish this section with as many rules and preferences as you like. You can add an overarching plot, implement rules for governing, or even detail NPC clothes and attitudes in this section. But remember to keep it simple because multilayered rules may confuse the AI.
 
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Add Combat and Magic Rules
 
  As with any adventure [RPG](https://www.makeuseof.com/what-are-rpgs-role-playing-games/) , combat and magic are big parts of the experience. If you don’t add rules to guide this part of your game, you’ll end up with a game you can easily cheese through. It doesn’t help that ChatGPT likes to favor the user in its narratives, and it will generally make things go your way. Here’s what our rules look like:
@@ -152,6 +188,12 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
 
  Combat rules can be especially tricky for the AI, so you might need to experiment with this a bit till you find something that sticks.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclude Your Prompt
 
  Your prompt conclusion should contain a few vital commands that will hold the game's structure.
@@ -166,9 +208,21 @@ And finally, don’t forget to actually start the game:
 
  As you play, you might have to remind the AI of the rules you’ve laid out. The AI will respond to the same prompt differently, so every user might have a different experience.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Using GPT-4 vs. GPT-3.5 to Run Your Game
 ![GPT-4 generating texts for a turn-based text RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-4-generating-texts-for-a-turn-based-text-rpg.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you have ChatGPT Plus, it grants you access to GPT-4, a more intelligent version of GPT-3.5\. You should try running a few RPG sessions with GPT-4 instead of GPT3.5\. It's way more creative, better at crafting stories, remembering rules, and all-around better at improv. It costs $20/month, and it's a good tool for doing other things apart from text-based gaming.
 
  Should you pay the $20 solely for text-based gaming? Realistically, no. Unless you're a big fan of RPGs, it might not be worth the money. Also, GPT-4 has a limit of 50 messages every three hours, so you won't have endless fun, and you'll be returned to GPT-3 in a short while. Some users have also complained that [GPT-4 is slower than GPT3.5](https://www.makeuseof.com/why-is-chatgpt-4-so-slow-compared-to-chatgpt-35/) .
@@ -296,3 +350,39 @@ And finally, don’t forget to actually start the game:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://program-issues.techidaily.com/detective-in-la-uncovering-clues-now-playable-on-your-computer/"><u>'Detective in LA: Uncovering Clues' Now Playable on Your Computer</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-capture-nostalgia-uploading-past-photos-as-snaps/"><u>[New] In 2024, Capture Nostalgia - Uploading Past Photos as Snaps</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-ultra-wealthy-digital-creators/"><u>[New] In 2024, Ultra-Wealthy Digital Creators</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-cultivate-inner-peace-and-physical-strength-with-these-channels/"><u>[Updated] Cultivate Inner Peace & Physical Strength with These Channels</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-instagrams-picture-perfect-upload-techniques-unveiled/"><u>2024 Approved  Instagram's Picture Perfect Upload Techniques Unveiled</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-swift-recording-pro-with-voice-commentary-feature/"><u>2024 Approved  Swift Recording Pro with Voice Commentary Feature</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-trailblazers-in-vr-eyewear-design/"><u>2024 Approved  Trailblazers in VR Eyewear Design</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-nubia-red-magic-9-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Nubia Red Magic 9 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/crossover-guide-to-baldurs-gate-3-mac-play/"><u>CrossOver Guide to Baldur's Gate 3 Mac Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/crucial-aspects-of-selecting-a-powerful-monitor/"><u>Crucial Aspects of Selecting a Powerful Monitor</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-the-top-gaming-displays-at-144hz/"><u>Discovering the Top Gaming Displays at 144Hz</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-hardware-breakthroughs-set-to-unveil-at-ifa-2023/"><u>Game Hardware Breakthroughs Set to Unveil at IFA 2023</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-ps5-enhances-older-ps4-gaming-experience/"><u>How PS5 Enhances Older PS4 Gaming Experience</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-6s-plus-drfone-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-forge-funny-frameworks/"><u>In 2024, Forge Funny Frameworks</u></a></li>
+<li><a href="https://games-able.techidaily.com/maintaining-gaming-enthusiasm-a-6-step-plan/"><u>Maintaining Gaming Enthusiasm: A 6-Step Plan</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-silent-gameplay-disabling-xbox-controller-shake/"><u>Mastering Silent Gameplay: Disabling Xbox Controller Shake</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-maintaining-steam-bp-mode/"><u>Mastering the Art of Maintaining Steam BP Mode</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-advanced-techniques-for-eliminating-noise-in-ai-algorithms-for-2024/"><u>New Advanced Techniques for Eliminating Noise in AI Algorithms for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-level-play-ifas-premier-gaming-showcase/"><u>Next Level Play: IFA's Premier Gaming Showcase</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-guide-connecting-switch-to-internet/"><u>Quick Guide: Connecting Switch to Internet</u></a></li>
+<li><a href="https://games-able.techidaily.com/quickening-data-exchange-diminishing-pings-and-delay-duration/"><u>Quickening Data Exchange: Diminishing Pings and Delay Duration</u></a></li>
+<li><a href="https://games-able.techidaily.com/securing-console-pc-connection-a-guide-for-stable-ps4-linking/"><u>Securing Console-PC Connection: A Guide for Stable PS4 Linking</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplify-your-pathway-for-xbox-return-claims/"><u>Simplify Your Pathway for Xbox Return Claims</u></a></li>
+<li><a href="https://games-able.techidaily.com/size-matters-in-smartphone-and-tablet-games/"><u>Size Matters in Smartphone and Tablet Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/sleekgear-monitor-bargain-gaming-led/"><u>SleekGear Monitor - Bargain Gaming LED</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-into-the-world-of-gamers-with-these-top-8-outlets/"><u>Step Into the World of Gamers with These Top 8 Outlets</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-3d-light-panels-for-your-gaming-setup/"><u>The Best 3D Light Panels for Your Gaming Setup</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-seated-partnerships-in-co-op-games-xbox-series-sx/"><u>Top Seated Partnerships in Co-Op Games - Xbox Series S/X</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-solutions-for-minecraft-crossbow-error-codes/"><u>Troubleshooting Solutions for Minecraft Crossbow Error Codes</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-nycs-elite-connections-a-guide-to-winning-every-day/"><u>Unlocking NYC's Elite Connections: A Guide to Winning Every Day</u></a></li>
+<li><a href="https://techtrends.techidaily.com/upgrade-to-the-future-with-tcls-expanded-selection-of-19-innovative-q-and-s-series-smart-televisions/"><u>Upgrade to the Future with TCL’s Expanded Selection of 19 Innovative Q & S Series Smart Televisions</u></a></li>
+</ul></div>

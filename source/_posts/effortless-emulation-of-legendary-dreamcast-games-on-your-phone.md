@@ -1,7 +1,7 @@
 ---
 title: Effortless Emulation of Legendary Dreamcast Games on Your Phone
-date: 2024-08-31T19:28:56.753Z
-updated: 2024-09-01T19:28:56.753Z
+date: 2024-09-04T21:49:21.059Z
+updated: 2024-09-05T21:49:21.059Z
 tags:
   - games
 categories:
@@ -57,9 +57,6 @@ Once you've downloaded the files, move them to your ROMs folder.
 
  If you copy the files from a laptop via USB, you can move them directly into your ROMs folder.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## Step 3: Unzip the ROM Files
 
  If your ROM files are zipped, you'll need to unzip and extract them into your ROMs folder. To do that, first, install the app[RAR](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2028438/https://play.google.com/store/apps/details?id=com.rarlab.rar) to your device. Open it and be sure to select**Allow access to manage all files** when prompted.
@@ -68,21 +65,23 @@ Once you've downloaded the files, move them to your ROMs folder.
 
 ![Browsing for folder in RAR for Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/browse-for-folder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Extracting a .7zip file in RAR for Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/extraction-rar.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![Unzipped the Shenmue ROM file in RAR for Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/extracting-shenmue.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### How to Deal With Duplicate File Names
 
@@ -90,9 +89,6 @@ Close
 
  For example, if you want to play the homebrew Minecraft clone Crafiti on Dreamcast but the zip file contains a file named track01.bin and you already have a file with the exact name in your ROMs folder, change Crafiti's respective track01.bin filename to crafititrack01.bin, and so on.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 4: Set Up Your Sega Dreamcast Emulator
 
  Redream and Flycast are two of the most flexible Sega Dreamcast emulators available for Android. Choose Redream if you want to quickly jump in and start playing. But if you want an emulator that provides a few more in-depth options, Flycast is the way to go. Here's how to set up both.
@@ -108,7 +104,10 @@ Close
 ![Library in Redream](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/redream-library-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Hang tight while the game loads (it'll only take a few seconds). As long as none of the files in the ROM file are corrupted, the game will automatically load. Redream makes it super easy to change the button layout via the settings to something that works better for you.
 
@@ -139,24 +138,51 @@ Finally, set the Home directory. To do that:
 
  Go back to**Library** and tap a game's icon to load it. You'll immediately jump into the game.
 
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Change the Controller Layout in Flycast
 
  Flycast makes adjusting the layout of the controller so simple and seamless. If you ever thought that the Dreamcast's controller would feel better with the joystick at the bottom of the controller versus the top, this is your chance to put that theory to the test (sort of).
 
  Flycast allows you to go deep into the settings. You can emulate virtually every peripheral to be released for the Dreamcast. From light guns and maracas to even the Ethernet Broadband Adapter only released in Japan.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Optional: Use a Bluetooth Controller to Play Sega Dreamcast Games
 
  You can[use a Bluetooth controller with your Android device](https://www.makeuseof.com/tag/how-to-connect-a-game-controller-to-android-for-console-like-gameplay-si/) , but you have to set it to the mode appropriate for your platform and connect it using that mode's specific combination.
 
 ![Different controller modes on 8Bitdo Pro2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/8bitdopro2-modes.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  On the 8BitDo Pro2, above, notice the lettering in panel three: S, A, X, and D. The**X** and**D** are for connecting via XInput and DirectInput (DInput), respectively, while the**S** is for the Switch. You're only interested in the**A** : which stands for Android.
 
 [Pair this device via Bluetooth,](https://www.makeuseof.com/how-to-connect-android-bluetooth) then set the controller mode to**A** and hold down the**Seeking** button for a few seconds until the bottom four LEDs power on. Hold down**Start + A** and the controller will connect to your Android device!
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Play the Hits of the Sega Dreamcast All Over Again on Android
 

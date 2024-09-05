@@ -1,7 +1,7 @@
 ---
 title: Tricks for Masking Your Online Presence on Steam
-date: 2024-08-31T19:33:02.971Z
-updated: 2024-09-01T19:33:02.971Z
+date: 2024-09-04T21:49:17.274Z
+updated: 2024-09-05T21:49:17.274Z
 tags:
   - games
 categories:
@@ -60,7 +60,10 @@ thumbnail: https://thmb.techidaily.com/cb70e57700d07e1f21d91f89b112cf1e7299f5606
  To chat while in invisible mode, open up the**Friends & Chat** menu in the bottom right.[Search Steam to find the specific user](https://www.makeuseof.com/how-to-search-steam-users/) you would like to speak to, press the**arrow** next to their name, and select**Send Message** .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Enjoy Your Games in Peace With Invisible Mode on Steam
 

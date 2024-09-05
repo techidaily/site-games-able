@@ -1,7 +1,7 @@
 ---
 title: Top-Tier Gaming Setup with Modular Keyboard - Akko's MOD007B
-date: 2024-07-12T03:58:30.998Z
-updated: 2024-07-13T03:58:30.998Z
+date: 2024-09-04T21:47:04.345Z
+updated: 2024-09-05T21:47:04.345Z
 tags:
   - games
 categories:
@@ -133,6 +133,12 @@ No
 
  Jowi Morales / MakeUseOf
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Akko MOD007B Means Serious Business Underneath
 
  What makes the Akko MOD007B different from most gaming keyboards is that it uses Hall Effect switches instead of mechanical keys.[Mechanical keyboards work by using springs](http://www.makeuseof.com/tag/mechanical-keyboard-work-technology-explained/) to control how much pressure you need to apply before it closes the switch.
@@ -141,6 +147,12 @@ No
 
 ![Akko MOD007B HE Hall-Effect Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-hall-effect-switch.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Jowi Morales / MakeUseOf
 
  However, the most significant advantage of Hall Effect keyboards is that you can customize their actuation pressure. Unlike mechanical keyboards, where you have to replace the switches or brands to change how much pressure you need to apply before a key activates, you can set this to your desired distance on Hall Effect switches.
@@ -159,14 +171,38 @@ Related
 
 ![Akko MOD007B HE Three-Pin Mechanical Switch-Compatible PCB](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-three-pin-mechanical-switch-compatible-pcb.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Jowi Morales / MakeUseOf
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Typing on Cloud Nine
 
  Aside from the advantages of Hall Effect keys, the Akko MOD007B also delivers an excellent typing feel. The keyboard itself uses a gasket mount for a soft and relaxed typing experience. And when you press on the keys hard, you’ll notice them sink into the case, especially for keys near the edges.
 
  Even when you bottom out the keys, you’ll feel as if it’s cushioned, reducing the stress on your fingertips. And although it doesn’t have the bassy, thocky sound some keyboard enthusiasts look for, it still delivers excellent audible feedback for each keypress you make.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030395/7443" target="_top" id="2030395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Extensive Customization With the Akko Cloud Driver
 ![Akko MOD007B HE Cloud Driver Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/akko-mod007b-he-cloud-driver-screenshot.jpg)
 
@@ -176,6 +212,12 @@ Related
 
  But best of all, any changes you make to the keyboard are stored on it. So, even if you switch PCs or upgrade to a newer device, you don’t have to download the driver and recreate your saved keyboard settings.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Confusing Multi-Mode Pairing
 ![Akko MOD007B HE mode switch slider under the caps lock key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-mode-switch-slider-under-the-caps-lock-key.jpg)
 
@@ -189,6 +231,12 @@ Related
 
  It would’ve been better if Akko included at least a single color-changing LED bulb to indicate the mode the keyboard is currently on. And maybe they could put the OS mode switch on an easily reachable surface.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Questionable Battery Life
 ![Akko MOD007B HE Battery-Level Check](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-battery-level-check.jpg)
 
@@ -301,3 +349,44 @@ No
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-crescent-casts-the-art-of-shaping-focal-points-with-light/"><u>[New] 2024 Approved  Crescent Casts  The Art of Shaping Focal Points with Light</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-path-to-influential-prominence-instagram-edition/"><u>[New] 2024 Approved  The Path to Influential Prominence  Instagram Edition</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fpv-fantasy-a-closer-look-at-the-hubsan-h501x4/"><u>[Updated] FPV Fantasy  A Closer Look at the Hubsan H501X4</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-monthly-earnings-from-youtube-as-a-content-creator/"><u>[Updated] Monthly Earnings From YouTube as a Content Creator</u></a></li>
+<li><a href="https://games-able.techidaily.com/costly-graphics-card-choice-my-nvidia-regret/"><u>Costly Graphics Card Choice: My NVIDIA Regret</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/create-shoot-edit-the-ultimate-kids-movie-making-guide-for-2024/"><u>Create, Shoot, Edit The Ultimate Kids Movie-Making Guide for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/disc-stuck-in-your-xbox-series-x-how-to-manually-eject-it/"><u>Disc Stuck in Your Xbox Series X? How to Manually Eject It</u></a></li>
+<li><a href="https://games-able.techidaily.com/discount-dive-the-prime-listing-of-the-best-11-game-purchase-websites/"><u>Discount Dive: The Prime Listing of the Best 11 Game Purchase Websites</u></a></li>
+<li><a href="https://games-able.techidaily.com/early-game-release-strategies-and-their-merits/"><u>Early Game Release Strategies and Their Merits</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminating-device-hang-up-the-0x887a0006-guide-for-win1111/"><u>Eliminating Device Hang-Up – The 0X887A0006 Guide for Win11/11</u></a></li>
+<li><a href="https://games-able.techidaily.com/enabling-steams-disconnected-content-access-in-windows/"><u>Enabling Steam's Disconnected Content Access in Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/engage-and-experiment-with-youtubes-upcoming-mini-game-innovations/"><u>Engage & Experiment with YouTube’s Upcoming Mini-Game Innovations</u></a></li>
+<li><a href="https://games-able.techidaily.com/ephemeral-gaming-experiences-worth-considering/"><u>Ephemeral Gaming Experiences – Worth Considering?</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-recommendations-top-specs-for-an-unmatched-screen/"><u>Expert Recommendations: Top Specs for an Unmatched Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/fortnite-buy-back-applying-for-unwanted-order-cancellation/"><u>Fortnite Buy-Back: Applying for Unwanted Order Cancellation</u></a></li>
+<li><a href="https://games-able.techidaily.com/hot-10-gaming-picks-sonys-summertime-savings/"><u>Hot 10 Gaming Picks: Sony's Summertime Savings!</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-11-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-these-7-persistent-iphone-screen-dilemmas-quickly-and-effortlessly/"><u>How to Resolve These 7 Persistent iPhone Screen Dilemmas Quickly and Effortlessly</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-delving-into-twitter-archives-processes-explained/"><u>In 2024, Delving Into Twitter Archives  Processes Explained</u></a></li>
+<li><a href="https://games-able.techidaily.com/make-room-for-more-efficiently-shrink-your-old-school-game-isos-with-chdman/"><u>Make Room for More: Efficiently Shrink Your Old-School Game ISOs with CHDMAN</u></a></li>
+<li><a href="https://games-able.techidaily.com/masterful-headphones-on-switch-platform/"><u>Masterful Headphones on Switch Platform</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-tech-trends-in-depth-guides-from-toms-hardware/"><u>Navigating Tech Trends: In-Depth Guides From Tom's Hardware</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-through-controller-settings-with-ryujinx-software/"><u>Navigating Through Controller Settings with Ryujinx Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimize-your-gaming-setup-with-series-xs-headphones/"><u>Optimize Your Gaming Setup with Series X/S Headphones</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimized-power-boards-perfect-for-sony-devices/"><u>Optimized Power Boards: Perfect for Sony Devices</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-the-violated-security-protocols-error-in-games-a-guide/"><u>Overcoming the 'Violated Security Protocols' Error in Games - A Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/resurrecting-headsets-on-xbox-one-with-simple-tricks/"><u>Resurrecting Headsets on Xbox One with Simple Tricks</u></a></li>
+<li><a href="https://games-able.techidaily.com/sonys-response-to-ps5-demand-anticipating-pricing-shifts/"><u>Sony's Response to PS5 Demand: Anticipating Pricing Shifts</u></a></li>
+<li><a href="https://games-able.techidaily.com/stuck-game-cases-answered-with-xbox-sxs-eject-tip/"><u>Stuck Game Cases Answered with Xbox SX's Eject Tip</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-evolution-from-playing-classic-ps4-games-to-ps5/"><u>The Evolution: From Playing Classic PS4 Games to PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-20-instant-hit-games-to-play-when-youre-tired/"><u>Top 20 Instant Hit Games to Play When You're Tired</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/transforming-your-zip-archive-into-an-srt-subtitle-file/"><u>Transforming Your Zip Archive Into an Srt Subtitle File</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-resolving-issues-with-corsair-icue-on-windows-11/"><u>Troubleshooting Tips: Resolving Issues with Corsair iCUE on Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/turn-off-steam-at-boot-commence/"><u>Turn Off Steam at Boot Commence</u></a></li>
+<li><a href="https://games-able.techidaily.com/update-ps5-ambiance-with-new-image/"><u>Update PS5 Ambiance with New Image</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-xiaomi-13-ultra-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Xiaomi 13 Ultra? Here is How | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-are-the-differences-between-steam-and-gog/"><u>What Are the Differences Between Steam and GOG?</u></a></li>
+</ul></div>

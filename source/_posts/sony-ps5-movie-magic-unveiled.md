@@ -1,7 +1,7 @@
 ---
 title: Sony PS5 Movie Magic Unveiled
-date: 2024-08-31T19:29:08.126Z
-updated: 2024-09-01T19:29:08.126Z
+date: 2024-09-04T21:49:20.904Z
+updated: 2024-09-05T21:49:20.904Z
 tags:
   - games
 categories:
@@ -31,7 +31,10 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
  If you want to know more about Sony Pictures Core and what you need to do to unlock up to 100 free movies on the platform, here is everything you need to get started.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## What Is Sony Pictures Core?
 
@@ -41,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 
  You don't need a PS Plus membership to rent or buy movies on Sony Pictures Core, but there are exclusive benefits if you are subscribed to the Premium or Deluxe tiers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## What Do I Need to Watch Movies for Free on Sony Pictures Core?
 
  You can watch a rotating catalog of up to 100 movies for free on Sony Pictures Core if you have a PS Plus Premium or Deluxe membership.
@@ -63,13 +62,16 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![the Media Tab on a PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/media-tab-ps5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Using Sony Pictures Core requires you to enable the HDCP settings on your PlayStation.[HDCP is different to HDMI](https://www.makeuseof.com/hdcp-vs-hdmi-whats-the-difference/) . It stands for High-Bandwidth Digital Copyright/Content Protection, and it prevents you from being able to stream or record content while you’re watching it on the app.
 
 ![Go to HDMI option on Sony Pictures Core PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/go-to-hdmi-sony-pictures-core-ps5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If your HDCP settings are enabled already, you will be able to launch and use Sony Pictures Core as normal. If not, an error screen will appear, prompting you to enable the settings before you can use the app. To enable HDCP, select**Go to HDMI** . Your PlayStation will direct you to the exact setting you need to change.
 
  Once you launch Sony Pictures Core, you will be required to make an account to gain access to the massive catalog of epic Sony Pictures movies. Creating an account is also free. Press**Get Started** to set it up.
@@ -77,32 +79,53 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Start the Set Up for Sony Pictures Core](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/start-set-up-sony-pictures-core.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  The app will ask you if you want to sign in with the PS Plus account of the profile you’re using. If the account linked isn’t yours, select the email address and change it to the correct one.
 
 ![Link PS Plus Account on Sony Pictures Core](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/link-ps-plus-account-sony-pictures-core.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2031472/7443" target="_top" id="2031472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2031472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2031472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You will then be directed to the terms and conditions. Check all the boxes and press**Next** .
 
 ![Terms and Conditions in Sony Pictures Core](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/terms-and-conditions-in-sony-pictures-core.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lastly, you will be asked once again if you would like to link your PS Plus account with Sony Pictures Core. This is essential if you want to access the 100 free movies that come with a PS Plus Premium or Deluxe subscription. Press**Agree and Continue** to confirm.
 
 ![Account Linking in Sony Pictures Core](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/account-linking-in-sony-pictures-core.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030385/7443" target="_top" id="2030385">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030385" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030385/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Once you have created your Sony Pictures Core account, you are free to roam the app. Scroll through the different categories by pressing down on your controller and left and right to scroll through the movies.
 
  To find the free movies you get with a PS Plus Premium or Deluxe membership, scroll down until you find the**Included with PlayStation Plus** section.
 
 ![Included with PlayStation Plus Section of Sony Pictures Core](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/included-with-playstation-plus-section-of-sony-pictures-core.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Press the left arrow button to find the menu, where you can find things like the**search bar** , your**Library** , and**Studio Access** , which is where you can find bonus material, such as deleted scenes and director’s commentaries.
 
  Once you find a movie you're interested in, select it and press**Rent** or**Buy** depending on your preference. You can find any movies you purchase or rent in your**Library** .

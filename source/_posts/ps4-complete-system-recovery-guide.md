@@ -1,7 +1,7 @@
 ---
 title: "PS4: Complete System Recovery Guide"
-date: 2024-08-31T19:28:07.925Z
-updated: 2024-09-01T19:28:07.925Z
+date: 2024-09-04T21:49:21.778Z
+updated: 2024-09-05T21:49:21.778Z
 tags:
   - games
 categories:
@@ -28,6 +28,12 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 
  Factory resetting your PS4 wipes everything you've stored on your console and resets all of your settings back to the factory defaults. This can be helpful if you're experiencing issues with your console or plan to sell it or give it away. Here's how to factory reset your PS4.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Factory Reset Your PS4?
 
  A PS4 factory reset, also known as initializing the system, is a process that restores the console to its original factory settings. This effectively erases all user data, meaning that all accounts, game saves, settings, and downloaded content will be wiped from the console, leaving it as if it were fresh out of the box.
@@ -40,15 +46,18 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 
  On the flip side, if you’ve got a used PS4 and the previous owner hasn’t factory reset it, you can reset it to remove any traces of their data.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Factory Reset Your PS4
 
  If you don't have a boot issue with your PS4 and your console turns on just fine, you can reset your console using one of the options in the settings. However, you should deactivate your account on your PS4 before resetting it to avoid any complications when signing in later.
 
  If you have important data that's going to be lost or difficult to download after the reset, you can safely[back up your PS4 data](https://www.makeuseof.com/how-to-back-up-restore-ps4-data/) before proceeding with the steps below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. How to Deactivate Your Account on Your PS4
 
  The first thing you should do is deactivate your account on your console. Doing this removes the ability to play your downloaded games on this console and helps avoid sign-in issues at other places where you use your account.
@@ -56,8 +65,10 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 ![Deactivate an account on the PS4](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/deactivate-account-ps4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Here's how to deactivate your account on your PS4:
 
@@ -89,9 +100,6 @@ Here's how to deactivate your account on your PS4:
 
  Once the reset is complete, your PS4 will boot to display the first-time setup guide. You have now successfully wiped all the data from your PS4.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Factory Reset Your PS4 in Safe Mode
 
  If your PS4 is having trouble booting up, and you can't access the settings menu, there's still a way to reset your console.
@@ -100,9 +108,6 @@ Here's how to deactivate your account on your PS4:
 
 ![initializing the ps4 in safe mode to create factory reset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/reset-ps4-safe-mode.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 Mahesh Makvana/MUO
 
 To factory reset your PS4 in safe mode, follow the steps below:
@@ -126,6 +131,12 @@ Your PS4 will now perform a factory reset.
 
  To reinstall the system firmware, you will need a computer and a USB flash drive. You need to move the firmware software from your computer to a USB flash drive, which you will then connect to your PS4 to install the software.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Preparing a USB Drive for a PS4 Software Reinstall
 
  Your flash drive should have at least 2GB of space to store the PS4 firmware file. You might have to format the USB drive, so make sure to[back up your USB drive](https://www.makeuseof.com/windows-11-external-usb-back-up/) first. Once you're ready, follow the steps below:
@@ -141,8 +152,10 @@ Your PS4 will now perform a factory reset.
 ![PS4 software reinstall file on a USB drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/ps4-software-reinstall-file-on-a-usb-drive.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 2\. Reinstalling the Firmware on Your PS4
 
@@ -151,7 +164,16 @@ Your PS4 will now perform a factory reset.
 ![Reinstall software on the PS4](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/reinstall-software-ps4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Mahesh Makvana/MUO
 

@@ -1,7 +1,7 @@
 ---
 title: "Maintaining Gaming Enthusiasm: A 6-Step Plan"
-date: 2024-08-31T19:30:19.316Z
-updated: 2024-09-01T19:30:19.316Z
+date: 2024-09-04T21:49:19.833Z
+updated: 2024-09-05T21:49:19.833Z
 tags:
   - games
 categories:
@@ -45,12 +45,27 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
 Who knows, you might discover another genre to sink your hours into.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 2\. Try Indie Games
 
 ![collage of indie games](https://thmb.techidaily.com/c6507ef1a8c1967e04b9a71ecc3df4d6b245a64121c79bffee638bab85472f90.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Indie games set themselves apart from big mainstream titles as in many cases, they’re incredibly varied and unique. Indie games aren’t a genre, they’re a whole industry filled with passionate gamers trying to create a game they want to play themselves.
 
  You’ll discover fresh new mechanics, visuals, storytelling, and so much more that can’t be found in most games. What’s great is that there’s usually a tightly-knit community behind them with the creator just a message away for any suggestions and improvements.
@@ -58,7 +73,16 @@ Who knows, you might discover another genre to sink your hours into.
  Indie games can send you down a rabbit hole of hidden treasures with strong storylines, interesting mechanics, or incredible replayability. Check out these[indie games on Nintendo Switch](https://www.makeuseof.com/best-indie-games-nintendo-switch/) if you want to start somewhere, some of them are also available on PC and other platforms.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 3\. Set Unique Challenges
 
@@ -74,9 +98,6 @@ Who knows, you might discover another genre to sink your hours into.
 
 ![person playing pubg mobile on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/iphone-gameplay.jpg)
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
  There are so many games nowadays with the sole purpose of making money. They hook you in and keep you locked in with a constant feeling of FOMO (fear of missing out).
 
  They’re engineered to give you controlled dopamine releases, enough to keep you playing the game and dependent on it to chase that feeling. They use that emotion to either make you shell out money or keep grinding and increasing your playtime. This emotional push and pull can be extremely exhausting, both emotionally and physically—eventually leading to burnout.
@@ -85,10 +106,22 @@ Who knows, you might discover another genre to sink your hours into.
 
  If you have a bad relationship with addicting games, the next tip might be important for you as well.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Take a Break
 
 ![Camping chair with a smart water bottle on the table near river shore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Camping-chair-with-a-smart-water-bottle-on-the-table-near-river-shore.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Taking a break is definitely a solution if you’re feeling burnt out, especially if it’s caused by a dependence or addiction.
 
  While you’re stepping away, try to avoid anything gaming-related. Avoid talking about it, thinking about it, or looking at it. Separating yourself is a way for your body and subconscious to know that it’s really taking a break from gaming. It could be as simple as reading books to something like going off-grid like going to the beach or on a camping trip with no reception.
@@ -99,24 +132,21 @@ Who knows, you might discover another genre to sink your hours into.
 
 ![Man looking horrified at a computer screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/man-looking-horrified-at-a-computer-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  As someone who has hit their table out of frustration in Counter-Strike, taking things less seriously has improved my gaming experience.
 
  Competitive games can get quite toxic, and you could probably relate if you’ve been heavily invested in trying to rank up on a MOBA or a shooter. We can get so focused on improving our skills that losing feels frustrating, possibly even anger-inducing.
 
 ![Person grabbing keyboard in frustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/frustrated-gamer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Some gamers thrive on that competitive feeling, but it could also be unhealthy. Even professional gamers have to manage their emotions to get the most performance out of themselves. Anger will only cloud your judgment, make you play worse, and ruin the experience.
 
  You can still take games seriously of course, but too much of anything can be detrimental.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Reignite Your Gaming Passion
 

@@ -1,7 +1,7 @@
 ---
 title: "Double Trouble Delight: Top 15 Two-Player Phone Games"
-date: 2024-08-31T19:29:41.112Z
-updated: 2024-09-01T19:29:41.112Z
+date: 2024-09-04T21:49:20.426Z
+updated: 2024-09-05T21:49:20.426Z
 tags:
   - games
 categories:
@@ -52,12 +52,27 @@ Close
 
 **Download:** Marvel Snap for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU35591/https://play.google.com/store/apps/details?id=com.nvsgames.snap) |[iOS](https://apps.apple.com/us/app/marvel-snap/id1592081003) (Free)
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Rocket League Sideswipe
 
 ![rocket league sideswipe 2v2 match](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/rocket-league-sideswipe-2v2-match.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Rocket League Sideswipe is a mobile take on the popular Rocket League game. In the mobile title, you can play with friends or strangers online.
 
@@ -69,6 +84,12 @@ Close
 
 **Download:** Rocket League Sideswipe for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU35591/https://play.google.com/store/apps/details?id=com.Psyonix.RL2D&hl=en) |[iOS](https://apps.apple.com/us/app/rocket-league-sideswipe/id1549027048) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030370/7443" target="_top" id="2030370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Badland
 
 ![co op two player mode in badland](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/co-op-two-player-mode-in-badland.jpg)
@@ -83,6 +104,12 @@ Close
 
 ![shark character in ultimate bowmasters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/shark-character-in-ultimate-bowmasters.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Ultimate Bowmasters combines ragdoll physics, a charming art style, and cartoon violence to create a game that is fiendishly fun. The aim is to eliminate your opponent by lobbing a weapon towards them.
 
  Calculating the trajectory of your weapon is half the fun. Meanwhile, the other half is landing the target and watching your friend's dismay.
@@ -93,13 +120,16 @@ Close
 
 **Download:** Ultimate Bowmasters for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU35591/https://play.google.com/store/apps/details?id=com.playgendary.bowmastersremastered) |[iOS](https://apps.apple.com/us/app/ultimate-bowmasters/id1615570016) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Words With Friends 2
 
 ![words with friends 2 game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/words-with-friends-2-game.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![friends menu in words with friends](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/friends-menu-in-words-with-friends.jpg)
 
 Close
@@ -112,21 +142,24 @@ Close
 
 **Download:** Words With Friends 2 for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU35591/https://play.google.com/store/apps/details?id=com.zynga.words3) |[iOS](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU35591/https://itunes.apple.com/us/app/words-with-friends-2-word-game/id1196764367?mt=8) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Clash Royale
 
 ![clash royale two player mobile game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/clash-royale-two-player-mobile-game.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![winner of a two player match in clash royale](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/winner-of-a-two-player-match-in-clash-royale.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 Close
 
  Clash Royale comes from the developers of Clash of Clans and is a mixture of a battle card and tower defense game. Opponents draw attackers and defenders from their deck of cards, with the aim of destroying the competitor's towers before your own are destroyed.
@@ -140,14 +173,26 @@ Close
 ![golf battle playing with a friend](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/golf-battle-playing-with-a-friend.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![option to challenge a friend on golf battle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/option-to-challenge-a-friend-on-golf-battle.jpg)
 
 ![custom match on golf battle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/custom-match-on-golf-battle.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Close
 
@@ -160,15 +205,15 @@ Close
 **Download:** Golf Battle for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU35591/https://play.google.com/store/apps/details?id=games.onebutton.golfbattle) |[iOS](https://apps.apple.com/us/app/golf-battle/id1422866002) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 8\. Genshin Impact
 
 ![genshin impact in-game screenshot with characters on android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/genshin-impact-in-game-screenshot-with-characters-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you're looking for something more immersive, there's Genshin Impact. Through its co-op mode, the title acts as a[cross-platform mobile game you can play with friends](https://www.makeuseof.com/tag/10-awesome-cross-platform-mobile-multiplayer-games/) .
 
  You will need to sign up for or log into your Hoyoverse account to get started. Even after downloading the app, there is more data you will need to load before getting into the game. We recommend that you do this over Wi-Fi.
@@ -178,7 +223,10 @@ Close
 **Download:** Genshin Impact for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU35591/https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact) |[iOS](https://apps.apple.com/us/app/genshin-impact/id1517783697) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 9\. Dots and Boxes
 
@@ -189,7 +237,16 @@ Close
 ![dots and boxes with two players](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/09/dots-and-boxes-game-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Close
 
@@ -200,12 +257,27 @@ Close
 **Download:** Dots and Boxes for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU35591/https://play.google.com/store/apps/details?id=com.outofthebit.dots) |[iOS](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU35591/https://itunes.apple.com/us/app/dots-and-boxes-classic-games/id625311640?mt=8) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 10\. Tank Stars
 
 ![tank stars two player mobile game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/tank-stars-two-player-game.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Tank Stars is a Worms-inspired tactical game that has a very similar graphical style to Ultimate Bowmasters. The variety of tanks and weapons, combined with the precision element of aiming, makes the game a fulfilling way to challenge your friends.
 
  You can play on the same device or by connecting over the same Wi-Fi network. However, both modes need to be unlocked by completing a few practice AI matches.
@@ -230,13 +302,16 @@ You can simultaneously compete with and sabotage your opponent.
 
 **Download:** Crossy Road for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU35591/https://play.google.com/store/apps/details?id=com.yodo1.crossyroad) |[iOS](https://apps.apple.com/us/app/crossy-road/id924373886) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 12\. Terraria
 
 ![terraria mobile tutorial](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/terraria-mobile-tutorial.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
  While most of these games are designed for short bouts of gameplay, Terraria is a multiplayer mobile game that you can spend hours playing. It is a mobile port of the popular PC game and allows you to play with friends using local Wi-Fi or by connecting to a dedicated server.
 
  It's an inexpensive way for two players to enjoy a mobile game together. However, using the mobile version of the game can be difficult for those used to the simpler controls of a PC or console. We would definitely recommend[connecting a controller to your Android phone](https://www.makeuseof.com/tag/how-to-connect-a-game-controller-to-android-for-console-like-gameplay-si/) or iPhone.
@@ -244,16 +319,34 @@ You can simultaneously compete with and sabotage your opponent.
 **Download:** Terraria for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU35591/https://play.google.com/store/apps/details?id=com.and.games505.TerrariaPaid) |[iOS](https://apps.apple.com/us/app/terraria/id640364616) ($4.99)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 13\. Warcraft Rumble
 
 ![warcraft rumble map](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/warcraft-rumble-map.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![warcraft rumble two player pvp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/warcraft-rumble-two-player-pvp.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Close
 
@@ -265,9 +358,6 @@ Close
 
 **Download:** Warcraft Rumble for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU35591/https://play.google.com/store/apps/details?id=com.blizzard.arc&hl=en&gl=US) |[iOS](https://apps.apple.com/us/app/warcraft-rumble/id1600575058) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ## 14\. Archery Battle 3D
 
 ![archery battle aiming for target](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/archery-battle-aiming-for-target.jpg)
@@ -286,18 +376,6 @@ Close
 
 ![a 1v1 match in 8 ball pool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/a-1v1-match-in-8-ball-pool.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  8 Ball Pool is another free mobile game for two players that lets you play against friends or strangers. You can invite friends to play via Facebook, adding them with a unique ID, or sending them a friend request link. Otherwise, you can add friends from the strangers you play online.
 
  The 1v1 matches follow the same format as the game's real-life counterpart. Sink your balls and finally the black ball before the other player.

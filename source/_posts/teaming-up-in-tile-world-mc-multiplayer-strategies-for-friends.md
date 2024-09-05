@@ -1,7 +1,7 @@
 ---
 title: "Teaming Up in Tile World: MC Multiplayer Strategies for Friends"
-date: 2024-07-12T03:59:25.342Z
-updated: 2024-07-13T03:59:25.342Z
+date: 2024-09-04T21:45:46.798Z
+updated: 2024-09-05T21:45:46.798Z
 tags:
   - games
 categories:
@@ -54,6 +54,12 @@ thumbnail: https://thmb.techidaily.com/d4527039f6a1a287d2df17fa899a5ac8403841092
 
  If you don't want to pay to host a server, there are third-party services you can try like the ones we'll show you below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Minecraft Server Hosting Services
 
  Hosting your own private Minecraft server is great if you just want to experience it with your friends. However, you either have to pay for Minecraft Realms or get a powerful PC that you'll have to keep on if you want your friends to keep playing on the server while you're away.
@@ -62,6 +68,18 @@ thumbnail: https://thmb.techidaily.com/d4527039f6a1a287d2df17fa899a5ac8403841092
 
 ![Aternos Create a Server button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/aternos-create-a-server-button.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In Aternos, log in and click on**Create a Server** .
 
 ![Aternos MUO test server IP address](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/aternos-muo-test-server-ip-address.jpg)
@@ -70,6 +88,18 @@ thumbnail: https://thmb.techidaily.com/d4527039f6a1a287d2df17fa899a5ac8403841092
 
 ![MUO Aternos server start button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-aternos-server-start-button.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Finally, you'll need to click on the large green**Start** button. Once it's on, you can copy the IP address and paste it into Minecraft as you would a public server. This server is all yours and you can even [install CurseForge to add Minecraft mods](https://www.makeuseof.com/how-to-use-curseforge-to-install-minecraft-mod-packs/) and upload copies of existing worlds if you wanted.
 
 ## 3\. Minecraft Realms
@@ -79,6 +109,18 @@ thumbnail: https://thmb.techidaily.com/d4527039f6a1a287d2df17fa899a5ac8403841092
 ### How to Create a Minecraft Realm
 ![Minecraft Realms start new realm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/minecraft-realms-start-new-realm-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Java Edition** : First, you'll need to purchase a subscription for a Realm (you can check the pricing plans on [Minecraft's website](https://www.minecraft.net/en-us/realms-for-java/plans/) ). You can activate a 30-day free trial to test the waters and cancel anytime.
 
  Once you have a subscription plan, open Minecraft and click**Minecraft Realms** . If this is your first time creating a Realm, click on**click to start your new Realm** . Here you can name your Realm and enter a brief description before choosing your world type.
@@ -101,9 +143,21 @@ thumbnail: https://thmb.techidaily.com/d4527039f6a1a287d2df17fa899a5ac8403841092
 
  Now that you know how to create a Realm, you probably want to check out your friends' Realms too. Here's how to join a Realm:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Join a Minecraft Realm
 ![Minecraft Realms invite envelope](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/minecraft-realms-invite-envelope.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Java Edition** : If you've received an invitation to join your friend's Realm, open Minecraft and navigate to**Minecraft Realms** .
 
  At the top of the screen, to the right of where it says**Minecraft Realms** , is a small**envelope** icon. This**envelope** contains any pending invites you've received; click it to join your friend's Realm.
@@ -118,17 +172,47 @@ thumbnail: https://thmb.techidaily.com/d4527039f6a1a287d2df17fa899a5ac8403841092
 
  While servers are the best way to play Minecraft with friends who are far away, a LAN (Local Access Network) connection is an easy way to craft with friends who are nearby.
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Minecraft Java Edition
 ![Minecraft Java edition scanning for LAN games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/mc-scanning-for-lan-games.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you're under the same local IP address as the player you want to join, you can do this pretty easily. Launch Minecraft and click on**Multiplayer** . Minecraft will automatically scan for games on your local network.
 
  If another player has a LAN world available to join, it'll show up in your list of servers. You can either double-tap the server or highlight it and click**Join Server** .
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Minecraft Bedrock Edition
 
  LAN play is on by default in Bedrock Edition. Just navigate to the**Worlds** tab, and if there are any available games on your network, they'll appear here for you to join.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Use Minecraft Split-Screen
 ![Split Screen Minecraft on Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/img_3176.jpeg)
 
@@ -159,3 +243,60 @@ thumbnail: https://thmb.techidaily.com/d4527039f6a1a287d2df17fa899a5ac8403841092
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-endgame-for-deactivating-an-instagram-profile/"><u>[New] 2024 Approved  The Endgame for Deactivating an Instagram Profile</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-5-professional-drones-you-can-buy/"><u>[New] Best 5 Professional Drones You Can Buy</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-deciphering-the-innovative-world-of-youtube-studio/"><u>[New] Deciphering the Innovative World of YouTube Studio</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-masterclass-in-monochrome-magic-a-professionals-guide/"><u>[New] Masterclass in Monochrome Magic  A Professional's Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-pinnacle-panoramics-selecting-the-best-8k-cameras-for-2024/"><u>[New] Pinnacle Panoramics  Selecting the Best 8K Cameras for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-boosting-engagement-the-key-to-creating-top-facebook-covers/"><u>[Updated] 2024 Approved  Boosting Engagement  The Key to Creating Top Facebook Covers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-leading-8-capture-tools-without-lag-for-2024/"><u>[Updated] Leading 8 Capture Tools Without Lag for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-what-does-the-blue-marker-on-fb-chat-reveal-in-2024/"><u>[Updated] What Does the Blue Marker on FB Chat Reveal, In 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/amplify-engagement-essential-tips-for-tiktok-unbox-videos-for-2024/"><u>Amplify Engagement  Essential Tips for TikTok Unbox Videos for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/bargain-hunters-paradise-unveiling-top-10-shopping-spots-for-boxes/"><u>Bargain Hunters' Paradise  Unveiling Top 10 Shopping Spots for Boxes</u></a></li>
+<li><a href="https://games-able.techidaily.com/controller-android-synergy-a-practical-handbook-for-gamers/"><u>Controller-Android Synergy: A Practical Handbook for Gamers</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/critical-moments-addressed-navigating-documentation-issues-within-insurance-sectors/"><u>Critical Moments Addressed: Navigating Documentation Issues Within Insurance Sectors</u></a></li>
+<li><a href="https://games-able.techidaily.com/cross-play-using-ps5s-controllers-on-ps4/"><u>Cross-Play: Using PS5's Controllers on PS4?</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-stream-assist-the-future-of-video-gaming/"><u>Decoding Stream Assist: The Future of Video Gaming?</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-11-great-word-puzzles-free-mobile-apps-guide/"><u>Discover 11 Great Word Puzzles: Free Mobile Apps Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/efficiently-lowering-antimalware-process-cpu-impact-a-solution-for-windows-1110-enthusiasts/"><u>Efficiently Lowering Antimalware Process CPU Impact: A Solution for Windows 11/10 Enthusiasts</u></a></li>
+<li><a href="https://win-blog.techidaily.com/elevating-your-gaming-experience-tips-for-improving-cs2s-fps-fluctuation-on-pc/"><u>Elevating Your Gaming Experience: Tips for Improving CS2's FPS Fluctuation on PC</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/excellent-text-plugin-compendium/"><u>Excellent Text Plugin Compendium</u></a></li>
+<li><a href="https://games-able.techidaily.com/google-play-pass-is-great-except-for-this-one-thing/"><u>Google Play Pass Is Great, Except for This One Thing</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-block-steams-startup-routine/"><u>How to Block Steam's Startup Routine</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-crafting-engaging-vids-with-template-magic/"><u>In 2024, Crafting Engaging Vids with Template Magic</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-launching-your-first-telegram-marketing-campaign/"><u>In 2024, Launching Your First Telegram Marketing Campaign</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-itel-s23-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Itel S23 Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-steps-forward-a-guide-to-steam-deck-enhancements/"><u>Innovative Steps Forward: A Guide to Steam Deck Enhancements</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadget-selection-with-toms-hardware-essentials/"><u>Mastering Gadget Selection with Tom's Hardware Essentials</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-use-of-xbox-game-pass/"><u>Mastering the Use of Xbox Game Pass</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/meme-mastery-strategies-for-engaging-audiences-with-fb-and-instagram-videos/"><u>Meme Mastery  Strategies for Engaging Audiences with FB & Instagram Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/modify-visual-game-settings-on-discord/"><u>Modify Visual Game Settings on Discord</u></a></li>
+<li><a href="https://games-able.techidaily.com/msis-ultimate-warrior-raider-ge78-examined/"><u>MSI's Ultimate Warrior: Raider GE78 Examined</u></a></li>
+<li><a href="https://games-able.techidaily.com/mute-mastery-playing-silently-on-xbox/"><u>Mute Mastery: Playing Silently on Xbox</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-return-policies-xbox-purchases-refunds/"><u>Navigating Return Policies: Xbox Purchases Refunds</u></a></li>
+<li><a href="https://games-able.techidaily.com/opera-gx-and-edge-showdown-ultimate-gaming-browser-guide/"><u>Opera GX and Edge Showdown: Ultimate Gaming Browser Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-xbox-xs-lapptop-display-integration/"><u>Optimizing Xbox X|S: Lapptop Display Integration</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-choices-in-gamer-mousepads/"><u>Prime Choices in Gamer Mousepads</u></a></li>
+<li><a href="https://games-able.techidaily.com/remedy-steams-reacquire-unverified-files/"><u>Remedy: Steam's Reacquire Unverified Files</u></a></li>
+<li><a href="https://games-able.techidaily.com/restoring-seamless-connection-between-steam-deck-and-cloud/"><u>Restoring Seamless Connection Between Steam Deck & Cloud</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/revolutionize-your-memories-old-photos-new-video-life-for-2024/"><u>Revolutionize Your Memories  Old Photos, New Video Life for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionize-your-ps5-games-effortlessly/"><u>Revolutionize Your PS5 Games, Effortlessly</u></a></li>
+<li><a href="https://games-able.techidaily.com/silent-play-mode-disable-controller-shocks/"><u>Silent Play Mode: Disable Controller Shocks</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-a-history-of-video-games-pricing/"><u>Steam: A History of Video Games Pricing</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-case-for-revamping-xbox-point-structure-and-benefits/"><u>The Case for Revamping Xbox' Point Structure and Benefits</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-samsung-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Samsung FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-nintendo-switch-case-innovations/"><u>The Ultimate Guide to Nintendo Switch Case Innovations</u></a></li>
+<li><a href="https://games-able.techidaily.com/timecapsule-pocket-retro-console-redux/"><u>TimeCapsule Pocket: Retro Console Redux</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-gamer-mats-guide/"><u>Ultimate Gamer Mats Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-the-essence-of-cozy-gaming/"><u>Understanding the Essence of Cozy Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-your-creative-genius-in-these-top-8-game-challenges/"><u>Unlock Your Creative Genius in These Top 8 Game Challenges</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-new-york-times-connection-rules/"><u>Unlocking New York Times Connection Rules</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/unveiling-the-magic-of-end-screens-for-vimeo-content-for-2024/"><u>Unveiling the Magic of End Screens for Vimeo Content for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-looking-for-a-sony-vegas-replacement-on-windows-try-these-options-for-2024/"><u>Updated Looking for a Sony Vegas Replacement on Windows? Try These Options for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-live-golds-evolution-into-a-game-pass-powerhouse-subscription/"><u>Xbox Live Gold's Evolution Into a Game Pass Powerhouse Subscription</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-ideal-gaming-setup-top-5-console-emulators-for-macos/"><u>Your Ideal Gaming Setup: Top 5 Console Emulators for macOS</u></a></li>
+</ul></div>

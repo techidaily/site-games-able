@@ -1,7 +1,7 @@
 ---
 title: Steps to Modify Your Riot Username and Tagline
-date: 2024-08-31T19:27:35.429Z
-updated: 2024-09-01T19:27:35.429Z
+date: 2024-09-04T21:49:22.239Z
+updated: 2024-09-05T21:49:22.239Z
 tags:
   - games
 categories:
@@ -102,5 +102,8 @@ To do that, follow the steps below:
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

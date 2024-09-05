@@ -1,0 +1,209 @@
+---
+title: The Disconnect Between GameFi and Gaming Communities
+date: 2024-09-04T21:52:05.779Z
+updated: 2024-09-05T21:52:05.779Z
+tags:
+  - games
+categories:
+  - games
+description: This Article Describes The Disconnect Between GameFi and Gaming Communities
+excerpt: This Article Describes The Disconnect Between GameFi and Gaming Communities
+keywords: GameFi vs Gamers Clash,FiGaming Community Divide,Gaming FiOpposition,Gamers & FiDisconnect,GameFisimunity Issues,FiGameConflict Escape,Gaming vs FiGap Bridge
+thumbnail: https://thmb.techidaily.com/2921f580a005bca983d6da9a3afb73cd46b3297303a92739f51d69c3aa21056e.jpg
+---
+
+## The Disconnect Between GameFi and Gaming Communities
+
+### Key Takeaways
+
+* GameFi's potential among gamers is limited due to token instability, as crypto assets are known for their price fluctuations. This means that users could potentially lose a significant amount of value earned through gameplay.
+* Scams are a prevalent issue in the GameFi space, with phony games, scam tokens, and compromised user safety being a real concern. Criminals can take advantage of the popularity of P2E games and deceive users for financial gain.
+* High transaction fees associated with crypto transactions can discourage gamers from entering the GameFi space, as a significant portion of their earnings would be consumed by these fees. This loss of earnings is not appealing to gamers looking to make money through gameplay.
+* The focus on earning money through gameplay can shift the priority away from the actual gaming experience. This can potentially lead to developers neglecting game quality, introducing bugs, or providing poor progression, diminishing the overall enjoyment for gamers.
+* 5\. GameFi lacks proper regulation, leaving gamers vulnerable to different risks. Malicious actors can take advantage of loopholes, and even legitimate developers may evade responsibility if promises or financial obligations fall through. Regulation is needed to protect gamers and create a safer environment.
+* Overall, GameFi faces challenges that make its future uncertain. While improvements are possible if developers address the issues, the inherent risks and drawbacks of the crypto industry present significant obstacles.
+
+ Crypto and gaming both form huge parts of the tech industry, and combining the two has given way to GameFi. GameFi has some exciting attributes, but there are several reasons why it doesn't have much potential among gamers.
+
+ So, what are the problems with GameFi, and why will they seal its fate?
+
+## What Is GameFi?
+
+ GameFi ([short for gaming finance](https://www.makeuseof.com/what-is-gamefi/) ) is a blend of the gaming and decentralized finance (DeFi) industries, wherein users can play games to earn crypto tokens and other decentralized assets, such as NFTs. GameFi allows blockchain-based apps to shift into the gaming industry, attracting users with the lure of digital tokens.
+
+ GameFi is also known as[play-to-earn (P2E)](https://www.makeuseof.com/are-play-to-earn-games-legit/) . P2E games often look and perform like typical games, with the tokenomics element usually being the only difference.
+
+ Some notable examples of[popular P2E games](https://www.makeuseof.com/top-play-to-earn-mobile-crypto-games/) are Axie Infinity, Star Atlas, and Tamadodge. Each of these games has one or more of their own token types that users can earn. Some games, including Axie Infinity, reward winners with NFTs that they can sell for Ethereum or another cryptocurrency.
+
+ In P2E games, almost everything can be tokenized, from avatars to weapons to land. You can often receive these assets by completing quests and winning tournaments, but the nature of the P2E model changes from game to game.
+
+ While GameFi may seem innovative, many downsides affect players and investors.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 1\. Token Instability
+
+ If there's one thing we can all agree on about crypto, it's that assets are almost always unstable in price. From new, smaller tokens to market leaders like Bitcoin, price fluctuations have been a problem from the beginning.
+
+ This naturally affects GameFi, as many P2E games reward users with crypto tokens. If a GameFi token's price increases, that's great news for gamers. But as we all know, cryptocurrency price drops and market crashes are by no means rare. If an individual spends hours building a solid holding of assets by playing a P2E game, much of their time and effort will go to waste if the reward token loses a large chunk of its value.
+
+ Even if a P2E game solely rewards users with NFTs, cryptocurrency price fluctuations directly affect how much a user can get through the sale of their P2E NFTs. For instance, if an NFT is worth 2 ETH and Ethereum's price drops by 10%, the NFT owner stands to lose 10% of their original profit when they[sell this NFT on a marketplace](https://www.makeuseof.com/best-nft-marketplaces-buying-all-kinds-digital-assets/) like OpenSea.
+
+ GameFi developers could aim to adopt stablecoins over regular cryptos in P2E games, as this provides more price stability and protects users from really suffering when the market turns downward.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 2\. Scams
+
+![person having crypto stolen from laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/crypto-scams-social-media.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Scams are, unfortunately, native to the crypto realm, and GameFi is no exception to this rule. If there's money to be stolen, chances are criminals will find some way to access it.
+
+ This is where phony P2E games, scam tokens, and compromised user safety come into play. While developing a game from scratch takes time, it's not difficult to create a scam website that alleges to host a great P2E game with high rewards.
+
+ It's also important to remember that many criminals are tech-savvy, so developing a simple yet shady P2E game, especially as part of a group effort, isn't out of the question.
+
+ What's more, a P2E game may be harmless in and of itself, but the tokens being earned by players will soon drop in value. For instance, malicious operators can launch a game and reward players with Token A. Token A has a decent value, which draws in users. The P2E game is played for weeks or months, and the increasing player base boosts Token A's price further.
+
+ At this point, all seems well. But in the background, malicious operators have kept a large proportion of Token A's supply to themselves. Now, when Token A reaches a peak price, the operators will sell their majority holding, causing the circulating supply to skyrocket. Now, Token A's price will crash, leaving unsuspecting players with worthless earnings.
+
+ Some big names have been associated with P2E scandals, including YouTuber Logan Paul.
+
+ Paul, along with a team of developers and marketers, developed the CryptoZoo P2E game, wherein players could buy NFT "eggs" and breed new animal avatars to earn ZOO tokens.
+
+ People invested in CryptoZoo but lost thousands when it was revealed that Paul and his development team had effectively (allegedly) rug-pulled investors. Investors are yet to be refunded, and a lawsuit has been filed.
+
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 3\. High Transaction Fees
+
+ You'll almost always incur a fee when you conduct a crypto transaction. Some cryptos have low fees, whereas others can reach unreasonable levels. Transaction fees usually increase or decrease with a blockchain network's transaction demand. Other factors, such as the size of the transaction, also play a role here.
+
+ Higher transaction fees can put people off getting into GameFi, as a large chunk of their earnings will be stripped away through these mandatory charges. It's a loss and isn't something that attracts gamers.
+
+### 4\. Prioritizing Money Over the Game
+
+ Naturally, when a game offers digital assets in return for playtime, users will put the earnings at the front and center of why they play the game.
+
+ There's nothing inherently wrong with this, but avid gamers may argue that adding real-world tokenomics to a video game somewhat removes the heart of it. Developers may choose to cut corners by leaving in bugs or providing poor game progression, factors which can severely affect the enjoyment and satisfaction people receive when they game.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 5\. Lack of Regulation
+
+ Cryptocurrency and DeFi already lack proper regulation (though[crypto regulation may soon change](https://www.makeuseof.com/is-government-sec-going-to-regulate-cryptocurrency/) ), but GameFi, a newer addition to the blockchain industry, suffers from this issue even more.
+
+ In the US, no specific legal regulations surround GameFi, which could allow malicious actors to get away with a fair few swindles. Even legitimate game developers may be able to wriggle through a few loopholes without proper regulation, leaving gamers worse off.
+
+ For instance, an individual may spend months playing a P2E game they love, amassing a solid holding of tokens or NFTs. But when the time comes to cash out by selling these assets on an exchange or NFT marketplace, it turns out that their value has plummeted due to a drop in demand.
+
+ This isn't anyone's fault, but the developer can dodge any liability when gamers ask for compensation. If the game has made any financial promises, the developers may also be able to keep their hands clean if these promises fall through.
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Will GameFi Last?
+
+ No one knows for sure if GameFi will sink or swim, but the nature of this sector makes long-term success difficult.
+
+ There's certainly a cycle that seems to limit the lifespan of P2E games. Many P2E games use the funds spent by preexisting players to reward new players. This model only lasts so long as the game keeps doing very well, and the funds keep coming in—it's basically a Ponzi scheme.
+
+ A drop in players or asset demand leaves game operators with a shortage of funds, meaning they have no funds or assets with which to reward. This can lead to the game's downfall.
+
+ Even without this model, crypto token instability always poses a risk to P2E games. Take Illuvium, for example. This popular P2E game hit news headlines in August 2023 when its in-game token, ILV, suffered a big drop in value.
+
+![screenshot of coinmarketcap illuvium seven day price graph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/illuvium-price-graph.jpg)
+
+ Between August 14 and 22, the price of one ILV token went from $53 to $42, a drop of almost 21% in just over a week. This drop doesn't seem to be the result of any major scandal or market crash. Rather, it seems to be a product of a lack of interest.
+
+ It's been a while since Illuvium's developers have given gamers anything new, with many getting bored with waiting. While top-tier games without the P2E structure focus heavily on user satisfaction and experience, P2E developers often have more of a focus on increasing the in-game token value.
+
+## GameFi's Future Is Precarious
+
+ While GameFi isn't dead in the water yet, its many drawbacks have placed its future in a shaky position. If GameFi developers listen to criticism, things may improve, but the nature of the crypto industry, along with constant scams, still poses many risks and challenges.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-chatcam-video-saver-app/"><u>[New] 2024 Approved  ChatCam Video Saver App</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-optimizing-multichannel-video-series-via-strategic-chaptering-in-youtube-videos/"><u>[New] Optimizing Multichannel Video Series via Strategic Chaptering in YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-audio-clarity-10-pro-tips-for-high-quality-recordings/"><u>[Updated] In 2024, Audio Clarity  10 Pro Tips for High-Quality Recordings</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-ios-android-unite-how-to-download-and-make-your-own-whatsapp-tones/"><u>[Updated] In 2024, IOS, Android Unite  How to Download and Make Your Own WhatsApp Tones</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-must-have-mac-tts-apps-for-seamless-communication/"><u>2024 Approved  Must-Have Mac TTS Apps for Seamless Communication</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-streamline-free-webinar-organizing-with-youtube-help/"><u>2024 Approved  Streamline Free Webinar Organizing with YouTube Help</u></a></li>
+<li><a href="https://facebook.techidaily.com/are-internet-comments-eternal-markers/"><u>Are Internet Comments Eternal Markers?</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-the-secret-ingredient-for-higher-traffic-and-better-roi/"><u>Cookiebot: The Secret Ingredient for Higher Traffic and Better ROI</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-virtual-racing-with-a-499-moza-bundle/"><u>Dive Into Virtual Racing with a $499 MOZA Bundle</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-guide-to-free-backup-systems-top-tier-picks-ratings-and-reviews-for-data-safety/"><u>Essential Guide to Free Backup Systems: Top-Tier Picks, Ratings & Reviews for Data Safety</u></a></li>
+<li><a href="https://games-able.techidaily.com/forget-the-fancy-why-standard-display-is-best-for-pc-gaming/"><u>Forget the Fancy: Why Standard Display Is Best for PC Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-dream-setup-akko-mod007b-unpackaged/"><u>Gamer's Dream Setup: Akko MOD007B Unpackaged</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-securely-download-and-upgrade-your-insignia-bluetooth-driver-on-windows-pcs/"><u>How to Securely Download and Upgrade Your Insignia Bluetooth Driver on Windows PCs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/is-inshot-the-best-of-the-best-expert-reviews-speak-up-for-2024/"><u>Is InShot The Best of the Best? Expert Reviews Speak Up for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-your-computer-potential-upgrade-to-corsairs-icue-link-and-see-the-difference/"><u>Maximize Your Computer Potential - Upgrade to Corsair's iCUE Link and See the Difference</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-vr-experience-with-ps-vr-2/"><u>Maximizing VR Experience with PS VR 2</u></a></li>
+<li><a href="https://games-able.techidaily.com/multilingual-roms-made-easy-with-translation-patches/"><u>Multilingual Roms Made Easy with Translation Patches</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-the-ultimate-4k-video-collection-must-watch-clips/"><u>New The Ultimate 4K Video Collection Must-Watch Clips</u></a></li>
+<li><a href="https://games-able.techidaily.com/play-hard-win-harder-the-ultimate-list-of-iosandroid-sports-titles/"><u>Play Hard, Win Harder: The Ultimate List of iOS/Android Sports Titles</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-sony-xperia-1-v-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Sony Xperia 1 V and Browser | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/preventative-measures-against-gpu-sag/"><u>Preventative Measures Against GPU Sag</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/quick-guide-converting-dvds-into-divx-format-using-windows-or-mac-os/"><u>Quick Guide: Converting DVDs Into DivX Format Using Windows or Mac OS</u></a></li>
+<li><a href="https://games-able.techidaily.com/reprogramming-the-psp-a-path-to-nessnes-dual-mode/"><u>Reprogramming the PSP: A Path to NES/SNES Dual Mode</u></a></li>
+<li><a href="https://games-able.techidaily.com/sleekgear-monitor-bargain-gaming-led/"><u>SleekGear Monitor - Bargain Gaming LED</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-beyond-conventional-embrace-size-in-gaming-frames/"><u>Step Beyond Conventional: Embrace Size in Gaming Frames!</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-integrate-old-games-with-win11-mypictures/"><u>Steps to Integrate Old Games with Win11 MyPictures</u></a></li>
+<li><a href="https://games-able.techidaily.com/swift-steps-securing-and-setting-up-mojang-maps/"><u>Swift Steps: Securing & Setting up Mojang Maps</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-battle-of-titans-how-does-the-iphone-15-pro-max-stack-up-against-samsungs-s24-ultra/"><u>The Battle of Titans: How Does the iPhone 15 Pro Max Stack Up Against Samsung's S24 Ultra?</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-3d-light-panels-for-your-gaming-setup/"><u>The Best 3D Light Panels for Your Gaming Setup</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-isolated-players-guide-to-winmc-network-fixes/"><u>The Isolated Player's Guide to WinMC Network Fixes</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-realistic-view-on-being-designated-as-idle-in-chat-rooms/"><u>The Realistic View on Being Designated as Idle in Chat Rooms</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-quiet-command-for-xbox-systems/"><u>The Ultimate Quiet Command for Xbox Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/turbo-charge-your-win-chances-in-csgo/"><u>Turbo Charge Your Win Chances in CS:GO</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-the-impact-steams-revised-stance-on-ai-games/"><u>Understanding the Impact: Steam’s Revised Stance on AI Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-full-potential-steam-deck-with-windows/"><u>Unleash Full Potential: Steam Deck with Windows</u></a></li>
+</ul></div>

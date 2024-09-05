@@ -1,7 +1,7 @@
 ---
 title: "Pixels Vs. Shelves: The Advantages & Disadvantages of Digital Gaming"
-date: 2024-08-31T19:29:16.799Z
-updated: 2024-09-01T19:29:16.799Z
+date: 2024-09-04T21:49:20.798Z
+updated: 2024-09-05T21:49:20.798Z
 tags:
   - games
 categories:
@@ -27,28 +27,25 @@ thumbnail: https://thmb.techidaily.com/0bfbb82ab5214d9df42dfb4686963b4575f40401c
 
  With digital downloads taking center stage in the gaming world, is ditching physical copies the right move for you? If you can't decide, here are some of the advantages and disadvantages of buying digital games to help you decide.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Pros of Buying Digital Games
 
  For gamers who value convenience and accessibility, digital game purchases offer numerous advantages. Let’s look at them below.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Digital Games Are Easy to Purchase and Store
 
 ![the steam logo on a laptop](https://thmb.techidaily.com/36a0feb333642fafe6d899d77e13984485a54242ddf28da6d8e7c4998067f22e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Rokas Tenys/[Shutterstock](https://www.shutterstock.com/image-photo/vilnius-lithuania-2022-july-6-steam-2175437557)
 
@@ -56,9 +53,6 @@ thumbnail: https://thmb.techidaily.com/0bfbb82ab5214d9df42dfb4686963b4575f40401c
 
  Another benefit of buying a digital game is that you don’t need to store it physically. This means no space taken up on your shelves, and no risk of damage or theft. Plus, your entire game library travels with you wherever you go, as long as you have your login credentials and a compatible device.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Switching Between Digitally-Owned Games Is a Breeze
 
  If you are someone who likes to bounce between different titles throughout your gaming session, digital games offer great convenience. With them, you can jump right into whichever title piques your interest at the moment.
@@ -71,11 +65,6 @@ thumbnail: https://thmb.techidaily.com/0bfbb82ab5214d9df42dfb4686963b4575f40401c
 
  Automatic updates ensure that your favorite titles are ready to play when you want them, without having to wait for updates to download and install.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ### 4\. Digital-Only Consoles Are Less Expensive
 
 ![Sony PS5 Digital Edition with DualSense controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/ps5-features-we-like-1-2.jpg)
@@ -86,6 +75,12 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  Also, with your games being digital, you don’t have to deal with issues like a[PS5 disc drive making way too much noise](https://www.makeuseof.com/ways-to-fix-noisy-ps5-disc-drive/) or getting stuck. This means you can enjoy uninterrupted gameplay without the annoyance of disc-related malfunctions.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. You Can Opt for Value-for-Money Subscription Services
 
  With digital games, individual purchases aren't always necessary. Instead, you can opt for gaming subscriptions like PS Plus, Game Pass, or EA Play. Similar to how you subscribe to Netflix instead of purchasing individual movies, these gaming subscriptions offer a variety of benefits for a monthly fee, which is approximately the cost of a single game.
@@ -100,15 +95,18 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  While buying digital copies of games may seem like a no-brainer at this point, there are some downsides to consider.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. Digital Games Can Quickly Fill Up Your Console’s Storage Space
 
  While digital games eliminate the need to store them physically, they can quickly eat up the storage space on your console. With many modern games easily reaching 50GB or more in size, you will constantly find yourself looking for[ways to get more storage space on your PS5](https://www.makeuseof.com/ps5-storage-how-to-increase-manage/) or Xbox Series X|S.
 
  As a result, you may need to uninstall or move unplayed games to an external drive every now and then. While[adding extra storage to your PS5](https://www.makeuseof.com/how-to-add-m2-ssd-ps5-guide/) or Xbox is always an option, it does come with additional expenses.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. They Are Difficult to Share or Sell
 
  Sharing digital games with friends is not as straightforward as sharing physical games, because it often requires sharing your account credentials. This can pose a security risk and potentially lead to unauthorized alterations to your account settings.
@@ -117,12 +115,21 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  But when it comes to selling your games once you've finished playing them; you won't be able to recoup some of the initial costs of purchasing the game by selling it on eBay or other platforms if you don't have a physical disc.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. You Don't Actually Own Your Digital Games
 
 ![steam deck gaming handheld](https://thmb.techidaily.com/756e6cbc4b4a2e3ac30671657870528bb336d9b2f0f8b2cf5d7bebdde4893059.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Mr.Mikla/[Shutterstock](https://www.shutterstock.com/image-photo/ljubljana-slovenia-2022-june-6-new-2177777643)
 
@@ -131,7 +138,10 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  For example, there's no guarantee that the game will always be available. If the publisher or developer revokes the license, or if there are legal issues, you could lose access to it. However, it's worth noting that such instances of games being delisted are relatively rare.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 4\. Vulnerability to Account Issues
 

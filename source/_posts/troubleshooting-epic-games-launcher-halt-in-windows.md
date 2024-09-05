@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Epic Games Launcher Halt in Windows
-date: 2024-07-12T03:57:28.730Z
-updated: 2024-07-13T03:57:28.730Z
+date: 2024-09-04T21:48:12.822Z
+updated: 2024-09-05T21:48:12.822Z
 tags:
   - games
 categories:
@@ -43,6 +43,12 @@ Reopen the Epic Games Launcher and try using it.
 
  If there’s an issue with the servers, you have no option but to wait for the company to resolve the problem on its end. Following that, you should be able to use Epic Games Launcher as before.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Check for App Updates
 
  Using an outdated version of Epic Games Launcher can also cause it to crash or freeze on Windows. Hence, it’s a good idea to update the Epic Games Launcher if you haven’t already. Here are the steps for the same.
@@ -52,6 +58,18 @@ Reopen the Epic Games Launcher and try using it.
 3. If a newer version is available, click the**Restart and Update** button that appears.  
 ![Restart & Update option in Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/restart-update.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Disable Fullscreen Optimizations
 
  Enabling full-screen optimizations for an app on Windows can boost its performance in full-screen mode. However, this feature can sometimes cause compatibility issues, leading to abrupt app crashes. You can try disabling full-screen optimizations for the Epic Games Launcher to see if that restores normalcy.
@@ -63,6 +81,18 @@ Reopen the Epic Games Launcher and try using it.
 5. Hit**Apply** followed by**OK** .  
 ![Disable Fullscreen Optimizations for Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-fullscreen-optimizations-for-epic-games-launcher.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Clear the Epic Games Launcher’s Webcache Folder
 
  Epic Games Launcher, like any other program, creates cache files on your PC to load content faster and improve its performance. However, once this data becomes old or corrupted, it hurts more than it helps. When this happens, Epic Games Launcher may become unresponsive or crash on your Windows PC.
@@ -77,6 +107,18 @@ Reopen the Epic Games Launcher and try using it.
 6. Click the**trash icon** at the top to delete them.  
 ![Delete Epic Games Launcher Cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/delete-epic-games-launcher-cache.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Fix the D3DCOMPILER\_43.dll File
 
  Do you see the D3DCOMPILER\_43.dll error when Epic Games Launcher crashes on Windows? If so, the D3DCOMPILER\_43.dll file on your PC may be corrupt or missing. Here's what you can do to fix it.
@@ -89,6 +131,12 @@ Reopen the Epic Games Launcher and try using it.
 
  Run the installer file and follow the on-screen prompts to finish the process. After that, try using Epic Games Launcher again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8\. Repair the Epic Games Launcher
 
  Your Windows PC includes an app repair feature that can help you fix such issues with the Epic Games Launcher without affecting its data. You can try using this feature to see if that gets the Epic Games Launcher to run smoothly.
@@ -101,8 +149,20 @@ Reopen the Epic Games Launcher and try using it.
 6. Select**Yes** when the User Account Control (UAC) prompt shows up.  
 ![Repair Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/repair-epic-games-launcher.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Follow the on-screen instructions to repair the launcher and try using it again.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 9\. Reinstall the Epic Games Launcher
 
  If repairing the Epic Games Launcher proves ineffective, you can try reinstalling it on your system. This should give the launcher a fresh start on your PC and resolve any issues with it. If you need help removing Epic Games Launcher, refer to our guide on [how to uninstall software on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) and follow the steps outlined there.
@@ -139,3 +199,55 @@ Reopen the Epic Games Launcher and try using it.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://printer-issues.techidaily.com/fix-usb-printers-ignoring-command-in-windows-7-mode/"><u>[Fix] USB Printers Ignoring Command in Windows 7 Mode</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-frontier-fighters-pinpointing-the-7-best-rts-battles/"><u>[New] 2024 Approved  Frontier Fighters  Pinpointing the 7 Best RTS Battles</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-elevate-your-instagram-aesthetic-with-new-and-old-filters/"><u>[New] In 2024, Elevate Your Instagram Aesthetic with New and Old Filters</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-top-5-solutions-to-obs-studio-video-editing/"><u>[New] In 2024, Top 5 Solutions to OBS Studio Video Editing</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-revolutionize-your-editing-approach-with-these-top-methods-in-obs-studio/"><u>[New] Revolutionize Your Editing Approach with These Top Methods in OBS Studio</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-the-impact-of-music-on-a-trailers-emotional-pull/"><u>[New] The Impact of Music on a Trailer's Emotional Pull</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-beneath-the-surface-exploring-the-invisible-aspects-of-viewing-stories/"><u>[Updated] 2024 Approved  Beneath the Surface  Exploring The Invisible Aspects of Viewing Stories</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-influential-interaction-incentives-for-video-makers/"><u>[Updated] In 2024, Influential Interaction Incentives for Video Makers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/amd-vega-drivers-download-and-update-for-gamers-easily/"><u>AMD Vega Drivers Download & Update for Gamers EASILY</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-on-apple-iphone-13-pro-maxipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock on Apple iPhone 13 Pro Max/iPad/iPod</u></a></li>
+<li><a href="https://games-able.techidaily.com/crossover-guide-to-baldurs-gate-3-mac-play/"><u>CrossOver Guide to Baldur's Gate 3 Mac Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/crucial-aspects-of-selecting-a-powerful-monitor/"><u>Crucial Aspects of Selecting a Powerful Monitor</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-the-top-gaming-displays-at-144hz/"><u>Discovering the Top Gaming Displays at 144Hz</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-magic-of-mixed-reality-in-meta-quest-3/"><u>Exploring the Magic of Mixed Reality in Meta Quest 3</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixing-quirky-question-mark-on-mac-writable-directories/"><u>Fixing Quirky Question Mark on Mac' Writable Directories</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fortnite-skin-glitch-removal-actual-solutions-for-eliminating-edit-lag/"><u>Fortnite Skin Glitch Removal: Actual Solutions for Eliminating Edit Lag</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-hardware-breakthroughs-set-to-unveil-at-ifa-2023/"><u>Game Hardware Breakthroughs Set to Unveil at IFA 2023</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-ps5-enhances-older-ps4-gaming-experience/"><u>How PS5 Enhances Older PS4 Gaming Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/maintaining-gaming-enthusiasm-a-6-step-plan/"><u>Maintaining Gaming Enthusiasm: A 6-Step Plan</u></a></li>
+<li><a href="https://games-able.techidaily.com/managing-conversations-without-broadcasting/"><u>Managing Conversations without Broadcasting</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-silent-gameplay-disabling-xbox-controller-shake/"><u>Mastering Silent Gameplay: Disabling Xbox Controller Shake</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-maintaining-steam-bp-mode/"><u>Mastering the Art of Maintaining Steam BP Mode</u></a></li>
+<li><a href="https://games-able.techidaily.com/methods-for-stabilizing-mouse-scroll-speed/"><u>Methods for Stabilizing Mouse Scroll Speed</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigating-copyright-challenges-on-youtube-shorts-for-2024/"><u>Navigating Copyright Challenges on YouTube Shorts for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-level-play-ifas-premier-gaming-showcase/"><u>Next Level Play: IFA's Premier Gaming Showcase</u></a></li>
+<li><a href="https://games-able.techidaily.com/preventative-measures-against-gpu-sag/"><u>Preventative Measures Against GPU Sag</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/protecting-your-work-youtube-copyright-essentials-explained/"><u>Protecting Your Work  YouTube Copyright Essentials Explained</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-guide-connecting-switch-to-internet/"><u>Quick Guide: Connecting Switch to Internet</u></a></li>
+<li><a href="https://games-able.techidaily.com/quickening-data-exchange-diminishing-pings-and-delay-duration/"><u>Quickening Data Exchange: Diminishing Pings and Delay Duration</u></a></li>
+<li><a href="https://games-able.techidaily.com/rapidly-engage-with-these-top-20-fast-playing-game-apps/"><u>Rapidly Engage with These Top 20 Fast-Playing Game Apps</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/samsung-qn55q60rafxza-4k-uhd-tv-evaluation-premium-hdr10plus-performance-and-features/"><u>Samsung QN55Q60RAFXZA 4K UHD TV Evaluation: Premium HDR10+ Performance and Features</u></a></li>
+<li><a href="https://games-able.techidaily.com/securing-console-pc-connection-a-guide-for-stable-ps4-linking/"><u>Securing Console-PC Connection: A Guide for Stable PS4 Linking</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplify-your-pathway-for-xbox-return-claims/"><u>Simplify Your Pathway for Xbox Return Claims</u></a></li>
+<li><a href="https://games-able.techidaily.com/size-matters-in-smartphone-and-tablet-games/"><u>Size Matters in Smartphone and Tablet Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/sleekgear-monitor-bargain-gaming-led/"><u>SleekGear Monitor - Bargain Gaming LED</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-leftright-earheadphone-audio-issues-in-windows/"><u>Solving Left/Right Earheadphone Audio Issues in Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-into-the-world-of-gamers-with-these-top-8-outlets/"><u>Step Into the World of Gamers with These Top 8 Outlets</u></a></li>
+<li><a href="https://games-able.techidaily.com/storing-old-school-games-in-photos-of-win-11/"><u>Storing Old-School Games in Photos of Win 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tailoring-your-playstation-experience-with-sounds-for-2024/"><u>Tailoring Your PlayStation Experience with Sounds for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-3d-light-panels-for-your-gaming-setup/"><u>The Best 3D Light Panels for Your Gaming Setup</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tips-and-tricks-to-tell-if-your-iphone-13-mini-is-unlocked-by-drfone-ios/"><u>Tips And Tricks To Tell if Your iPhone 13 mini Is Unlocked</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-seated-partnerships-in-co-op-games-xbox-series-sx/"><u>Top Seated Partnerships in Co-Op Games - Xbox Series S/X</u></a></li>
+<li><a href="https://games-able.techidaily.com/turbo-charge-your-win-chances-in-csgo/"><u>Turbo Charge Your Win Chances in CS:GO</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-the-impact-steams-revised-stance-on-ai-games/"><u>Understanding the Impact: Steam’s Revised Stance on AI Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-nycs-elite-connections-a-guide-to-winning-every-day/"><u>Unlocking NYC's Elite Connections: A Guide to Winning Every Day</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/why-my-photos-refuse-to-open/"><u>Why My Photos Refuse to Open?</u></a></li>
+<li><a href="https://games-able.techidaily.com/win-1011-dxgi-hang-fix-addressing-error-code-0x887a0006/"><u>Win 10/11 DXGI Hang Fix - Addressing Error Code 0X887A0006</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-series-sandxs-quick-resume-a-game-changer/"><u>Xbox Series S&X's Quick Resume - A Game Changer?</u></a></li>
+</ul></div>

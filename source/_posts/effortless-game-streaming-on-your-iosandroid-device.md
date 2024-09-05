@@ -1,7 +1,7 @@
 ---
 title: Effortless Game Streaming on Your iOS/Android Device
-date: 2024-08-31T19:29:00.531Z
-updated: 2024-09-01T19:29:00.531Z
+date: 2024-09-04T21:49:21.011Z
+updated: 2024-09-05T21:49:21.011Z
 tags:
   - games
 categories:
@@ -40,7 +40,22 @@ thumbnail: https://thmb.techidaily.com/a44de758792af2fb67431bc0cd10b70e0176e5a8a
 ![Enabling Remote Play in Steam desktop app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/enabling-remote-play-in-steam-desktop-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Setting Up the Steam Link App
 
@@ -48,59 +63,77 @@ thumbnail: https://thmb.techidaily.com/a44de758792af2fb67431bc0cd10b70e0176e5a8a
 
 ![Scanning for computers in the Steam Link app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/steam-link-scanning-computers-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Once the Steam Link app finds the computer you want to stream from, tap it. A PIN will appear in the app. Now, on the Steam desktop client, click**Steam > Settings > Remote Play > Pair Steam Link** and input the PIN in the Steam Link app. Click**Confirm** and wait for the network test to complete.
 
 ![Testing network on the Steam Link app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/steam-link-testing-network-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  As long as your mobile device is in proximity to the router, or you have a strong signal regardless, you should get a window stating that the bandwidth test was successful. If you have connection issues, make sure you've connected your phone to the 5GHz band on your router so that you notice the[difference between 2.4GHz and 5GHz Wi-Fi bands](https://www.makeuseof.com/difference-2-4ghz-5ghz-wi-fi/) .
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Connect to Your Computer With the Steam Link App
 
  Now that the Steam Link app is paired to your computer, you're ready to play Steam games on your phone! In the Steam Link app, you'll see the computer you're connected to, the controller in use, and the connection quality.
 
 ![Status of the device, controller, and connection quality in the Steam Link app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/steam-link-device-controller-connection.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
  If no controller is detected, the Steam Link app will use the**Touch Controller** by default.
 
  If everything looks good, tap**Start Playing** . The app will establish a connection with your computer, and you can navigate it in real-time. Steam Link will immediately[display your Steam library in Big Picture Mode](https://www.makeuseof.com/what-is-steam-big-picture-mode-explained/) . Select a game, then tap**Play** to begin streaming your Steam game from your computer to your phone.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Connect to Another Computer via the Steam Link App
 
  If you want to connect to another computer, go to the Steam Link app's home screen and tap**Settings (gear icon)** . Then, select**Computer** to scan for another computer. If your computer doesn't appear, tap**Rescan** .
 
 ![Choosing other computers to stream from in the Steam Link app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/steam-link-selecting-other-device-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If Steam Link still doesn't detect your computer, but you know it's there, you can tap**Other Computer** to add it manually. Selecting this option will reveal a PIN on your phone. Open the Steam client on your computer, go to**Steam > Settings > Remote Play > Pair Steam Link** , and input the PIN that appears on your phone.
 
 ![Pairing to a new computer in the Steam Link app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/pairing-steam-link-app-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Optional: Tweak Your Steam Link Settings
 
  While you're playing, you may notice some performance issues. First, adjust the streaming settings of the Steam Link app itself. In the Steam Link app, tap**Settings (gear icon) > Streaming** , then choose either**Default** ,**Enhanced 1080p** , or**Enhanced 4K** .
 
 ![Streaming settings in the Steam Link app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/steam-link-streaming-settings-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  Additionally, you can adjust the streaming options on your computer. In the Steam desktop client, click**Steam > Settings > Remote Play** . Under the Advanced Streaming Options section, enable the toggle next to**Enabled Advanced Host Options** . You'll see options to prioritize network traffic, enable hardware encoding, and more.
 
 ![Enabling Remote Play in Steam desktop app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/enabling-remote-play-in-steam-desktop-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Steam Link Makes Streaming PC Games a Breeze
 

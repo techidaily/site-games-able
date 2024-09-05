@@ -1,7 +1,7 @@
 ---
 title: "Top 9 Essentials: Game-Enthusiast's Travel Guide"
-date: 2024-08-31T19:32:52.754Z
-updated: 2024-09-01T19:32:52.754Z
+date: 2024-09-04T21:49:17.424Z
+updated: 2024-09-05T21:49:17.424Z
 tags:
   - games
 categories:
@@ -43,13 +43,16 @@ thumbnail: https://thmb.techidaily.com/6c0361031673718dd65b08f3b6f24eb590de40f0c
 
  Some Steam games can back your progress up to Steam Cloud, and you can continue right where you stopped on another machine. This feature might even extend to cross-save if it’s compatible, meaning that you can continue a game you started on a Mac on a Windows PC if that’s what you choose to travel with.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Get a Large External SSD Hard Drive
 
 ![USB storage external SSD on a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/usb-storage-external-ssd-on-a-desk.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  SSD hard drives are expensive but well worth the investment if you travel often. While Steam lets you re-download games as you please, an external SSD lets you store save files (in case Steam doesn’t support it for that game).
 
  With a 1TB hard drive, you could even download and save the entire game’s files on it, letting you run it from your external SSD. This means that you could play your game on pretty much any computer that meets the specs, potentially saving you the trouble of carrying an entire computer with you on your journey.
@@ -59,21 +62,27 @@ thumbnail: https://thmb.techidaily.com/6c0361031673718dd65b08f3b6f24eb590de40f0c
  We strongly recommend an[SSD instead of an HDD](https://www.makeuseof.com/choose-ssd-or-hdd-storage/) because they are way faster and less prone to wear and tear since they have no moving parts.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 4\. Buy Bluetooth Controllers or Handheld Consoles
 
 ![Playing on Android phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/playing-android.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
  Are you one of the gaming travelers who prefer to play while on the road or in the air? If so, then you should get Bluetooth controllers or handheld consoles—or both.
 
  You can transform your phone into a gaming machine by pairing it with a Bluetooth controller. We have a list of the[best smartphone gaming controllers](https://www.makeuseof.com/best-smartphone-gaming-controllers/) . Buy a controller with good battery life and durability.
 
  And if you choose, you can buy a handheld console, like a Nintendo Switch or a Steam Deck, to keep you busy while on the move. If you run into trouble choosing a handheld console, see our list of the[best handheld consoles](https://www.makeuseof.com/best-handheld-consoles/) to find one that works well for your adventures.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Invest in a Powerful but Cheap Gaming Laptop
 
  It might be tempting to spend all your money on an expensive, sleek, powerful gaming laptop, but we’re here to tell you that’s not such a good idea. The one constant in traveling is the inconsistency of it; you can make plans all you want, but anything can go wrong. If you spend all your savings on a laptop, that same laptop could get damaged or stolen while en route.
@@ -81,15 +90,21 @@ thumbnail: https://thmb.techidaily.com/6c0361031673718dd65b08f3b6f24eb590de40f0c
  You want to get a hardy gaming laptop that can take abuse, but at the same time, it’s something you can afford to replace quite easily. Despite all of that, you still want something that should be able to run all AAA titles decently. These requirements are a little difficult, but you should be able to find one that works for you in our list of[budget gaming laptops](https://www.makeuseof.com/best-budget-gaming-laptops/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 6\. Take Advantage of Remote Play
 
 ![PlayStation Portal over a gradient background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/playstation-portal-over-a-gradient-background.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Image Credit:[Sony](https://blog.playstation.com/2023/08/23/playstations-first-remote-play-dedicated-device-playstation-portal-remote-player-to-launch-later-this-year-at-199-99/)
 
  Popular gaming platforms, like Steam, PS5, and Xbox, all have a remote play feature. Essentially, remote play allows you to control your console or PC over the internet with another device. The remote control device could be a phone, tablet, or another computer.
@@ -110,21 +125,42 @@ thumbnail: https://thmb.techidaily.com/6c0361031673718dd65b08f3b6f24eb590de40f0c
 
 ![Redmagic Gaming Mouse on a MacBook Air](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/05/redmagic-gaming-mouse-on-a-macbook-air.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Image Credit:[Jowi Morales](https://www.makeuseof.com/author/jowi-morales)
 
  You might be surprised how many hotels and cafés have only glass or marble surfaces. So, here’s a pro tip: get a mouse that works well on glossy surfaces. You could also get a mouse pad, but that could add a little more to your luggage.
 
  Test a mouse on a glossy surface before buying it, or look for mice that work on glossy surfaces. Otherwise, you might be forced to use a trackpad or controller to play your games.
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 9\. Enable Device-Tracking Features and Use Passwords
 
  If you’re the sort to leave your devices without passwords, it’s time to end your habits. You’re going into the wide, wild world, and not everyone might have the best intentions. Unfortunately, your computer, console, or phone could get stolen or lost, and a password will make it difficult for the thief to wipe your data.
 
  If your devices have device-tracking features (like Apple and Samsung devices have Find My apps), you can use them to track lost devices and notify you when you’ve left them behind. You can also[place Apple AirTags](https://www.makeuseof.com/how-to-set-up-airtags/) on things that don’t have device-tracking features, like a PS5 or an Xbox.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Game and Travel as Seamlessly as Possible
 
  The best part about traveling is also its worst: it’s unpredictable. The goal as a traveling gamer is to prepare for the unexpected with as little luggage and liability as possible. Choose setups that will minimize discomfort while giving you many options.

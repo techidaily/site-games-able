@@ -1,7 +1,7 @@
 ---
 title: How to Manipulate Roblox's FPS Control
-date: 2024-08-31T19:29:30.838Z
-updated: 2024-09-01T19:29:30.838Z
+date: 2024-09-04T21:49:20.587Z
+updated: 2024-09-05T21:49:20.587Z
 tags:
   - games
 categories:
@@ -57,7 +57,10 @@ thumbnail: https://thmb.techidaily.com/7618ed5212ad2fa17c4d0cff006f1dcb4d7c52766
  Many users have reported on[Reddit](https://www.reddit.com/r/roblox/comments/otk7kg/i%5Fthink%5Fthe%5Fnew%5Froblox%5Ffps%5Funlocker%5Fhas%5Fmalware/) ,[Opera](https://forums.opera.com/topic/61909/roblox-fps-unlocker-blocked-for-virus) , and other public forums that Windows sometimes blocks the unlocker's operation and, in extreme cases, uninstalls it completely. If you also encounter this issue, then[whitelist the program in Windows Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/) .
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Can You Get Banned for Using Roblox FPS Unlocker?
 
@@ -66,7 +69,16 @@ thumbnail: https://thmb.techidaily.com/7618ed5212ad2fa17c4d0cff006f1dcb4d7c52766
  Having explored forums and reading feedback from users who have been using this software for quite some time, it sounds like Roblox FPS Unlocker is safe to use.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Remove the FPS Cap in Roblox
 

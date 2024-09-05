@@ -1,7 +1,7 @@
 ---
 title: "Reprogramming the PSP: A Path to NES/SNES Dual Mode"
-date: 2024-08-31T19:30:44.329Z
-updated: 2024-09-01T19:30:44.329Z
+date: 2024-09-04T21:49:19.451Z
+updated: 2024-09-05T21:49:19.451Z
 tags:
   - games
 categories:
@@ -36,10 +36,22 @@ thumbnail: https://thmb.techidaily.com/acf1543a08c93a8277bd32ca8ca0045c1e81ebd50
 
  In this article, we’re going to be focusing on Game Boy emulation, as it’s one of the easiest platforms to get running on a PSP. Many of these steps will still apply for other platforms as the program we’ll be using has many platforms built in already. Let’s get to turning your PSP into a Game Boy.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Disclaimer
 
  Installing custom firmware is not jailbreaking. However, we do not condone piracy and we do not encourage you to illegally access copyrighted content such as ROMs. Please use rips and backups of games you already own and do not use redistributed copyrighted content from the internet.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 1: Download Custom Firmware and Set Up Your PSP
 
  Before we delve further into this step, you’re going to need to update your PSP version 6.61\. Updating your PSP is outside the scope of this article, but updating your PSP follows the same steps as installing custom firmware. You can also quickly watch how to update your PSP in the video above.
@@ -47,7 +59,10 @@ thumbnail: https://thmb.techidaily.com/acf1543a08c93a8277bd32ca8ca0045c1e81ebd50
 ![Downloading PSP custom firmware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/downloading-psp-custom-firmware.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Firstly, head to the[PSPunk website](https://www.pspunk.com/psp-cfw/) and go to the tab of your PSP model. You’ll want to download the**6.61 Pro C2** and the**Infinity v2.0.3** files.
 
@@ -55,22 +70,32 @@ thumbnail: https://thmb.techidaily.com/acf1543a08c93a8277bd32ca8ca0045c1e81ebd50
 
 ![Complete folder structure for PSP update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/complete-folder-structure-for-psp-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
  For Infinity, follow this folder structure: PSP/GAME/UPDATE. If the UPDATE folder already exists, skip this step.
 
 ![Moving Infinity update file into PSP UPDATE folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/moving-infinity-update-file-into-psp-update-folder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<a href="https://appsumo.8odi.net/c/5597632/2024347/7443" target="_top" id="2024347">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024347/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Inside the**UPDATE** folder, transfer the**EBOOT.PBP** file from the Infinity ZIP file like in the image above. Make sure to choose the file inside the**pspgo** folder if you have a PSP GO. Otherwise, choose the file in the**standard** folder.
 
 ![Moving custom firmware folder into PSP GAME folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/moving-custom-firmware-folder-into-psp-game-folder.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Go back one tier in the folder structure into the**GAME** folder and transfer the**PROUPDATE** folder into it.
 
 ### Step 2: Install Infinity and Pro C2 Firmware Into Your PSP
@@ -80,7 +105,10 @@ The powerful video editing program for your Windows PC</a>
 ![Infinity 2 thumbnail on PSP](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/infinity-2-thumbnail-on-psp.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  We’ll start with Infinity first; turn your PSP on and head to**Game > Memory Stick** . Look for the Infinity 2 thumbnail and select it.
 
@@ -92,13 +120,13 @@ The powerful video editing program for your Windows PC</a>
 
 ![PRO-C installation screen on PSP](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/pro-c-installation-screen-on-psp-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After launching it, you’ll see small text on the upper left of your PSP. All you need to do now is press**X** to execute the installation of the firmware. After installation, press**X** again to reboot your PSP and launch the custom firmware.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Step 3: Make the PSP Custom Firmware Persistent
 
@@ -120,22 +148,19 @@ The powerful video editing program for your Windows PC</a>
 
 ![RetroArch PSP download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/retroarch-psp-download-page.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
  Firstly, head to the[RetroArch Downloads page](https://www.retroarch.com/?page=platforms) . Scroll down until you find the PSP emulator and click on**Download** .
 
 ![Extracting retroarch folder into PSP GAME folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/extracting-retroarch-folder-into-psp-game-folder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once you’ve downloaded RetroArch, plug your PSP in and open the RetroArch ZIP file and transfer the**retroarch** folder into the**PSP/GAME** folder in your PSP.
 
 ![RetroArch main menu with Quit RetroArch highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/retroarch-main-menu-with-quit-retroarch-highlighted-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Unplug your PSP and on it, head to**Game > Memory Stick** . You should see the RetroArch thumbnail added. Run RetroArch so it creates new folders in your PSP. These new folders are where you place your games, emulator cores, configs, etc. You can now quit RetroArch and plug it back into your computer to add your legally obtained games.
 
@@ -143,6 +168,12 @@ The powerful video editing program for your Windows PC</a>
 
  When moving games to your PSP for RetroArch to run, place it in the PSP/RETROARCH/DOWNLOADS folder and you should see them in the Downloads when selecting**Load Content** RetroArch on your PSP.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## An Old Platform to Play Older Platforms
 
  The first PSP was released in 2004, but it was way ahead of its time. The fact that it can play multiple retro platforms despite being considered retro itself is quite impressive.

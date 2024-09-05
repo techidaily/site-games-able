@@ -1,7 +1,7 @@
 ---
 title: Seamless Windows Gaming on Apple M1 via Crossover Command Center
-date: 2024-07-12T03:59:15.534Z
-updated: 2024-07-13T03:59:15.534Z
+date: 2024-09-04T21:45:36.629Z
+updated: 2024-09-05T21:45:36.629Z
 tags:
   - games
 categories:
@@ -54,6 +54,12 @@ Here’s how to get Steam on CrossOver:
 
  Return back to CrossOver’s window, and you’ll notice that you have Steam as one of your bottles. Leave Steam alone for now and download some dependencies you would need to run the games you get from Steam.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Install DirectX and DXVK
 
  DXVK is a Direct3D translation layer for running 3D applications, while [DirectX is a Microsoft API for improving software access to hardware](https://www.makeuseof.com/what-is-directx-why-important-for-gaming/) . You’ll need them both to run your games fluidly.
@@ -64,17 +70,41 @@ Here’s how to install them to your Steam bottle:
 2. Select**Install software into ‘Steam’,** and CrossOver will take you back to the Install page.  
 ![Steam Bottle context menu on CrossOver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steam-bottle-context-menu-on-crossover.jpeg)
 3. Type**DirectX** into the search bar, select**DirectX for Modern Games** , and click**Install** .
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Follow the on-screen instructions to finish the installation.
 5. Once it’s finished, repeat the same method for DXVK. Download both**DXVOK (Builtin)** and**DXVK (Upstream)** .
 
  These two are very important because it lets Steam access your Mac’s GPU. If you try to install games without doing this, Steam will give you an error.
 
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Set Up Steam, Log In, and Play
 
  You can now return back to Steam and input your username and password. Go to your library, select the game you want to play and install it.
 
 ![Knights of Pen & Paper II on CrossOver Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/knights-of-pen-paper-ii-on-crossover-steam.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Once the game is done installing, you’ll find it in your Steam bottle. You can launch it from there, or you can launch it directly from Steam if you like.
 
  If you run into any issues starting the game, you can try launching the game directly from its file by following the steps below:
@@ -84,6 +114,12 @@ Here’s how to install them to your Steam bottle:
 3. Navigate to**Manage > Browse local files** .  
 ![Knights of Pen and Paper 2 context menu on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/knights-of-pen-and-paper-2-context-menu-on-steam.jpeg)
 4. Find and select the .exe file for the game and hit**Return** on your keyboard to run it directly from there.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can have both your Mac and CrossOver versions of Steam open at the same time. However, it can get a little confusing and easy to mix the two up. You can differentiate them by hovering over their icons on the Dock; CrossOver’s Steam will say**wine64** , while Mac’s Steam will simply say**Steam** .
 
@@ -91,6 +127,18 @@ Here’s how to install them to your Steam bottle:
 
  Finally, watch out for your hardware. MacBook Airs are decent in processing power, but you could benefit a huge deal from using the extra memory from a MacBook Pro. We, therefore, recommend you use a MacBook Pro to run any serious AAA titles.
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## CrossOver Offers More Power Than Parallels
 
  Parallels is more popular than CrossOver because it simulates the Windows OS and gives you the option to navigate it just like you would navigate a Windows-powered computer. While that’s great to offer some accessibility and familiarity, the tradeoff is power. Parallels uses about half of your computer’s resources since your Mac has to create a sandbox for it.
@@ -116,3 +164,52 @@ Here’s how to install them to your Steam bottle:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-harnessing-the-power-of-hashtags-to-amplify-your-igtv-content/"><u>[New] 2024 Approved  Harnessing the Power of Hashtags to Amplify Your IGTV Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-beginners-blueprint-for-creating-a-sports-chain-on-mac/"><u>[New] The Beginner's Blueprint for Creating a Sports Chain on Mac</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-youtube-mastery-applying-time-stamps-effectively/"><u>[New] YouTube Mastery  Applying Time Stamps Effectively</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-expressive-youtube-aesthetics-at-no-cost/"><u>[Updated] 2024 Approved  Expressive YouTube Aesthetics at No Cost</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-pure-capture-suite-ads-free-version/"><u>[Updated] In 2024, Pure Capture Suite  Ads-Free Version</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-meme-maniacs-twitters-funniest-video-threads-roundup/"><u>2024 Approved  Meme Maniacs  Twitter's Funniest Video Threads Roundup</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/a-canvas-of-colors-advanced-theory-and-use/"><u>A Canvas of Colors  Advanced Theory & Use</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-random-hp-monitor-flickering/"><u>Addressing Random HP Monitor Flickering</u></a></li>
+<li><a href="https://games-able.techidaily.com/deleting-ps5-profile-saved-credentials/"><u>Deleting PS5 Profile Saved Credentials</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/discover-the-thrill-panasonics-wearable-actioncam-hx-a1/"><u>Discover the Thrill  Panasonic’s Wearable ActionCam, HX-A1</u></a></li>
+<li><a href="https://games-able.techidaily.com/double-trouble-delight-top-15-two-player-phone-games/"><u>Double Trouble Delight: Top 15 Two-Player Phone Games</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-logitech-g29-wheel-software-compatible-with-windows-11/"><u>Download Logitech G29 Wheel Software Compatible with Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/fashion-meets-function-trendy-cases-for-the-latest-tech/"><u>Fashion Meets Function: Trendy Cases for the Latest Tech</u></a></li>
+<li><a href="https://games-able.techidaily.com/free-fun-awaits-in-these-6-games/"><u>Free Fun Awaits in These 6 Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-or-game-off-weighing-the-pros-and-cons-digitally/"><u>Game On or Game Off? Weighing the Pros and Cons Digitally</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-tecno-spark-10-4g-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Tecno Spark 10 4G</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-motorola-moto-g23-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Motorola Moto G23 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/how-to-start-a-private-live-stream-on-youtube/"><u>How To Start a Private Live Stream on YouTube</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-audio-enthusiast-hub-capture-and-audit-mp3-files/"><u>In 2024, Audio Enthusiast Hub  Capture and Audit MP3 Files</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-htc-u23-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change HTC U23 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-x5-pro-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Poco X5 Pro Phone with Broken Screen</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-x-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone X | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-on-iphone-12-mini-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes On iPhone 12 mini?</u></a></li>
+<li><a href="https://games-able.techidaily.com/integrating-laptop-with-xbox-series-xs-a-step-by-step-guide/"><u>Integrating Laptop with Xbox Series X|S: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/itel-a05s-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel A05s Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/learn-from-my-mistakes-dont-buy-the-wrong-oled-monitor/"><u>Learn From My Mistakes: Don't Buy the Wrong OLED Monitor</u></a></li>
+<li><a href="https://games-able.techidaily.com/managing-conversations-without-broadcasting/"><u>Managing Conversations without Broadcasting</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-the-art-of-co-op-winning-at-two-player-minecraft-on-switch/"><u>Master the Art of Co-Op: Winning at Two-Player Minecraft on Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-itchio-for-exceptional-gaming/"><u>Mastering Itch.io for Exceptional Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-starfield-early-entry/"><u>Mastering the Art of Starfield Early Entry</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-xbox-360-slim-disassembly-repair-and-modify-guide/"><u>Mastering Xbox 360 Slim Disassembly: Repair & Modify Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/methods-for-stabilizing-mouse-scroll-speed/"><u>Methods for Stabilizing Mouse Scroll Speed</u></a></li>
+<li><a href="https://win-blog.techidaily.com/personal-guide-eliminating-black-screen-issues-in-your-persona-groovy-5-strikers-adventure/"><u>Personal Guide: Eliminating Black Screen Issues in Your Persona Groovy 5 Strikers Adventure</u></a></li>
+<li><a href="https://games-able.techidaily.com/rapidly-engage-with-these-top-20-fast-playing-game-apps/"><u>Rapidly Engage with These Top 20 Fast-Playing Game Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/renaissance-of-old-gaming-pcs-through-atlasos/"><u>Renaissance of Old Gaming PCs Through AtlasOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/storing-old-school-games-in-photos-of-win-11/"><u>Storing Old-School Games in Photos of Win 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-evolutionary-trajectory-of-mmorpgs/"><u>The Evolutionary Trajectory of MMORPGs</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-using-controllers-with-buttons/"><u>The Ultimate Guide to Using Controllers with Buttons</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-gaming-experience-through-steam-modding/"><u>Transform Your Gaming Experience Through Steam Modding</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshoot-switch-reclaim-your-connection/"><u>Troubleshoot Switch: Reclaim Your Connection</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-starfield-the-elusive-beta-pass-route/"><u>Unlocking Starfield: The Elusive Beta Pass Route</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-hardware-drivers-on-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated hardware drivers on Windows 11/10</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-i-questioned-the-value-of-a-2500-card/"><u>Why I Questioned the Value of a $2,500 Card</u></a></li>
+<li><a href="https://games-able.techidaily.com/win-1011-dxgi-hang-fix-addressing-error-code-0x887a0006/"><u>Win 10/11 DXGI Hang Fix - Addressing Error Code 0X887A0006</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-series-sandxs-quick-resume-a-game-changer/"><u>Xbox Series S&X's Quick Resume - A Game Changer?</u></a></li>
+</ul></div>

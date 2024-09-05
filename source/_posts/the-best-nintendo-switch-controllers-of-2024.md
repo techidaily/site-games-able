@@ -1,7 +1,7 @@
 ---
 title: The Best Nintendo Switch Controllers of 2024
-date: 2024-08-31T19:29:18.043Z
-updated: 2024-09-01T19:29:18.043Z
+date: 2024-09-04T21:49:20.770Z
+updated: 2024-09-05T21:49:20.770Z
 tags:
   - games
 categories:
@@ -130,13 +130,22 @@ Best Budget
 
 [$25 at Amazon](https://www.amazon.com/REMATCH-Wired-Controller-Nintendo-Switch-Lite/dp/B0BDFGJ2SP?tag=makeusw-20&ascsubtag=UUmuoUeUpU35504&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-nintendo-switch-controllers%2F&asc%5Fcampaign=Commerce) [See at Walmart](https://www.walmart.com/ip/PDP-REMATCH-Wired-Controller-1-Up-Glow-in-the-Dark-For-Nintendo-Switch-Nintendo-Switch-OLED-Model/1558724868)
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best Nintendo Switch Controller for Battery Life: PowerA Enhanced Wireless Controller
 
 ![super mario themed powera enhanced wireless controller for nintendo switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/super-mario-themed-powera-enhanced-wireless-controller-for-nintendo-switch.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 PowerA
 
  A wireless controller that’s as vibrant and colorful as the game series that it’s inspired by, the[PowerA Enhanced Wireless Controller Mario Pop](https://www.amazon.com/PowerA-Enhanced-Wireless-Controller-Nintendo-Switch-Mario/dp/B08GH6WY13?tag=makeusw-20&ascsubtag=UUmuoUeUpU35504&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-nintendo-switch-controllers%2F&asc%5Fcampaign=Commerce) lets you wear your Mario-loving heart on your sleeve every time you turn on your Switch.
@@ -148,7 +157,16 @@ PowerA
 ![powera enhanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/powera-enhanced.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##### PowerA Enhanced Wireless Controller for Nintendo Switch - Mario Pop
 
@@ -168,13 +186,22 @@ Best for Battery Life
 
 [$60 at Amazon](https://www.amazon.com/PowerA-Enhanced-Wireless-Controller-Nintendo-Switch-Mario/dp/B08GH6WY13?tag=makeusw-20&ascsubtag=UUmuoUeUpU35504&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-nintendo-switch-controllers%2F&asc%5Fcampaign=Commerce) [See at Walmart](https://www.walmart.com/ip/Enhanced-Wireless-Controller-for-Nintendo-Switch-Mario-Pop-Nintendo-Switch/189685660)
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best Nintendo Switch Controller for Customization: GuliKit KingKong 2 Pro
 
 ![white gulikit kingkong 2 pro controller alongside packaging, usb cable and case](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/white-gulikit-kingkong-2-pro-controller-alongside-packaging-usb-cable-and-case.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 GuliKit
 
  The[GuliKit KingKong 2 Pro Wireless Controller](http://www.amazon.com/KingKong-Wireless-Controller-Nintendo-Switch-Bluetooth/dp/B09QJN8ZD9?tag=makeusw-20&ascsubtag=UUmuoUeUpU35504&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-nintendo-switch-controllers%2F&asc%5Fcampaign=Commerce) is a third-party controller that has some neat features to give your gameplay a boost. The KingKong 2 Pro supports motion sense, letting you tilt and or shake the controller for movement. It also has an autopilot function that can record various button presses and repeat them automatically, which is useful for farming items in-game.
@@ -185,11 +212,6 @@ GuliKit
 
 ![gulikit](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gulikit.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ##### GuliKit KingKong 2 Pro Wireless Bluetooth Gamepad
 
 Most Customization
@@ -210,12 +232,21 @@ Most Customization
 [$84 at Amazon](https://www.amazon.com/KingKong-Wireless-Controller-Nintendo-Switch-Bluetooth/dp/B09QJN8ZD9?tag=makeusw-20&ascsubtag=UUmuoUeUpU35504&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-nintendo-switch-controllers%2F&asc%5Fcampaign=Commerce) [See at Walmart](https://www.walmart.com/ip/GuliKit-KingKong-2-Pro-Wireless-Bluetooth-Gamepad-for-Switch-Switch-OLED-PC-Android-MacOS-IOS-APG-Button-Dual-Vibration-Black/1256806802)
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Best Joy-Con Replacements: Hori Nintendo Switch Split Pad Pro
 
 ![black colored Hori Split Pad Pro attached to a nintendo switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/black-colored-hori-split-pad-pro-attached-to-a-nintendo-switch.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 HORI
 
  The[HORI Nintendo Switch Pad Pro](https://www.amazon.com/Nintendo-Switch-Split-Ergonomic-Controller-Handheld/dp/B08FJ7XY3B?tag=makeusw-20&ascsubtag=UUmuoUeUpU35504&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-nintendo-switch-controllers%2F&asc%5Fcampaign=Commerce) is the perfect controller for Switch gamers who lean towards the handheld style of gameplay. Acting like a supersized Joy-Con, this slide-on controller set offers a full-size handheld experience, making your gameplay more immersive.
@@ -226,9 +257,6 @@ HORI
 
 ![hori controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/hori-controller.png)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ##### Hori Nintendo Switch Split Pad Pro (Blue)
 
 Best Joy-Con Replacements
@@ -264,12 +292,21 @@ Best Joy-Con Replacements
  Yes, but it involves using an adapter. If you prefer a slimmer, more traditional controller, you can easily[connect PS4 and PS5 controllers to the Nintendo Switch](https://www.makeuseof.com/how-to-connect-ps4-ps5-controller-to-nintendo-switch/) .
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Q: Can a pair of Joy-Cons be used as separate controllers?
 
  Indeed, they can. It doesn't work for every game on the Nintendo Switch, but many of Nintendo's first-party titles can be played with a single Joy-Con, like Mario Kart 8 Deluxe.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q: Are Joy-Cons still susceptible to stick drift?
 
  Unfortunately, yes. The good news is that you can send your[Joy-Cons to Nintendo for a free repair](https://www.makeuseof.com/how-to-send-joy-cons-off-for-free-repair/) , even if your system's warranty has expired. However, if you're a tech-savvy individual, you can always[fix Joy-Con drift yourself](https://www.makeuseof.com/ways-to-fix-joy-con-drift-nintendo-switch/) .

@@ -1,7 +1,7 @@
 ---
 title: "MWC's Standout Tech: Recognized by MakeUseOf"
-date: 2024-07-12T04:00:13.521Z
-updated: 2024-07-13T04:00:13.521Z
+date: 2024-09-04T21:44:22.699Z
+updated: 2024-09-05T21:44:22.699Z
 tags:
   - games
 categories:
@@ -52,6 +52,12 @@ thumbnail: https://thmb.techidaily.com/cc2d4ffbafce624b537835413e18b0d5bee03ddeb
 
  Furthermore, the Megabook T16 Pro ships with a whopping 99.99Wh battery that supports 100W charging, and its upgraded 65W cooling system helps to keep everything purring along nicely.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Honor Magic 6 Pro
 ![honor magic 6 pro on stand with muo mwc 2024 award](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/honor-magic-6-pro-on-stand-with-muo-mwc-2024-award.jpg)
 
@@ -71,6 +77,12 @@ Close
 
  Finally, Honor's second-generation silicon-carbon battery allows it to pack in a whopping 5,600mAh while keeping the Magic 6 Pro's design slim and sleek; it's a great bit of kit.
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Motorola Adaptive Display Concept
 ![motorola adaptive display concept smartphone with muo mwc 2024 award](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/motorola-adaptive-display-concept-smartphone-with-muo-mwc-2024-award.jpg)
 
@@ -99,9 +111,21 @@ Close
 
  It also includes a substantial 5,000mAh battery and supports 70W fast charging.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. ZTE Nubia Flip 5G
 ![zte nubia flip 5g smartphone on stand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/zte-nubia-flip-5g-smartphone-on-stand.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Gavin Phillips/MakeUseOf
 
  Now, here's a device I wasn't expecting to see: the new ZTE Nubia Flip 5G. ZTE rocked up at MWC 2024 with a heap of new smartphones, tablets, and other hardware, and the Nubia Flip 5G is the best of the bunch (though I also really liked the new ZTE Nubia Music).
@@ -114,9 +138,21 @@ Close
 
  The budget flip-phone market is heating up, with strong entries like the ZTE Nubia Flip 5G and Tecno Phantom V Flip 5G battling it out with the Motorola Razr.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Ayaneo Pocket S
 ![ayaneo pocket s on stand at mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/ayaneo-pocket-s-on-stand-at-mwc-2024.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Gavin Phillips/MakeUseOf
 
  Pocket gaming devices have seen an enormous resurgence in the past few years, and the new Ayaneo Pocket S is one of the best I've seen.
@@ -132,6 +168,12 @@ Close
 ## 7\. Xiaomi 14 Ultra
 ![xiaomi 14 ultra on stand mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/xiaomi-14-ultra-on-stand-mwc-2024.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Gavin Phillips/MakeUseOf
 
  Now, Xiaomi's Ultra devices often have a heavy focus on photography and video capture, and its new 14 Ultra continues that tradition.
@@ -162,6 +204,12 @@ Close
 ## 9\. Tecno Phantom Ultimate Concept
 ![tecno phantom ultimate concept smartphone in hand closed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/tecno-phantom-ultimate-concept-smartphone-in-hand-closed.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Gavin Phillips/MakeUseOf
 
  Okay, so Tecno actually brought the Phantom Ultimate concept to IFA 2023\. But it was much more of a concept then. Now, at MWC 2024, the Phantom Ultimate concept is a much more real smartphone—still a concept—but with enough development since September 2023 that Tecno was happy to give some hands-on time.
@@ -170,6 +218,12 @@ Close
 
  It's also decently slimline, measuring 9.93mm thickness, and feels good in your hand. The extra tech for the sliding mechanism doesn't add much to its weight at all.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 10\. ZTE Nubia Pad 3D II
 ![zte nubia 3d pad II on stand at mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/zte-nubia-3d-pad-ii-on-stand-at-mwc-2024.jpg)
 
@@ -199,6 +253,12 @@ Close
 ## 12\. Lenovo ThinkBook Transparent Concept
 ![lenovo transparent laptop concept mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/lenovo-transparent-laptop-concept-mwc-2024.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Gavin Phillips/MakeUseOf
 
  Lenovo arrived at MWC 2024 with an excellent new lineup of ThinkBooks. Its new ThinkBook X12 Detachable Gen 2 is brilliant and could well be the challenger the Surface Book always needed.
@@ -228,3 +288,48 @@ Close
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-download-youtube-tunes-with-these-10plus-no-cost-audio-crackers/"><u>[New] 2024 Approved  Download YouTube Tunes with These 10+ No-Cost Audio Crackers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-dive-into-gaming-how-to-build-and-prosper-on-youtube-for-2024/"><u>[New] Dive Into Gaming  How to Build and Prosper on YouTube for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-googles-augmented-reality-stickers-an-in-depth-look-and-alternatives-for-2024/"><u>[Updated] Google's Augmented Reality Stickers  An In-Depth Look and Alternatives for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-and-utilizing-preview-for-mac-efficiently/"><u>2024 Approved  Navigating and Utilizing Preview for Mac Efficiently</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-stepwise-training-for-effective-transcription-with-gdoc/"><u>2024 Approved  Stepwise Training for Effective Transcription with GDoc</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-nokia-c12-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Nokia C12 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/cutting-edge-comfort-customizing-steam-deck-with-windows/"><u>Cutting-Edge Comfort: Customizing Steam Deck with Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/dissecting-how-xbox-handles-game-rule-violations/"><u>Dissecting How Xbox Handles Game Rule Violations</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/elevate-your-engagement-a-step-by-step-for-commenting-with-gifs-on-instagram/"><u>Elevate Your Engagement: A Step-by-Step for Commenting with GIFs on Instagram</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-game-economies-place-for-microtransactions/"><u>Elite Game Economies: Place for Microtransactions?</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-gaming-experience-console-to-pc-transition/"><u>Enhancing Gaming Experience: Console to PC Transition</u></a></li>
+<li><a href="https://games-able.techidaily.com/expertly-designed-multi-port-adapters-for-gaming/"><u>Expertly Designed Multi-Port Adapters for Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-delight-mod007b-keyboard-evaluation/"><u>Gamers' Delight: Mod007B Keyboard Evaluation</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-your-walk-on-8-innovative-ar-walks/"><u>Get Your Walk On - 8 Innovative AR Walks</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-clear-youtube-watch-later-playlist-for-2024/"><u>How to Clear YouTube Watch Later Playlist for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-dual-boot-your-steam-deck-to-windows-and-steamos/"><u>How to Dual Boot Your Steam Deck to Windows and SteamOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-master-nyt-alliances-and-rivalries/"><u>How to Master NYT Alliances & Rivalries</u></a></li>
+<li><a href="https://games-able.techidaily.com/ifa-showcase-slender-smarts-with-tecnos-new-innovations/"><u>IFA Showcase: Slender Smarts with Tecno's New Innovations</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-gopro-camera-showdown/"><u>In 2024, The Ultimate GoPro Camera Showdown</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-tiktok-infused-reading-the-cutting-edge-of-literary-trends/"><u>In 2024, TikTok-Infused Reading  The Cutting Edge of Literary Trends</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-itel-p55-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Itel P55 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovations-in-cannabinoid-drug-formulation-for-enhanced-brain-penetration/"><u>Innovations in Cannabinoid Drug Formulation for Enhanced Brain Penetration</u></a></li>
+<li><a href="https://games-able.techidaily.com/join-the-game-bridge-worlds-select-dual-device-games/"><u>Join the Game, Bridge Worlds: Select Dual-Device Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-immersion-master-screen-settings-on-console/"><u>Maximize Immersion: Master Screen Settings on Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-heat-dynamics-for-peak-pc-gaming-experience/"><u>Navigating Heat Dynamics for Peak PC Gaming Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-minecraft-connections-7-helpful-steps-on-windows/"><u>Navigating Minecraft Connections - 7 Helpful Steps on Windows</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/online-obsession-the-8-must-watch-titles-for-2024/"><u>Online Obsession  The 8 Must-Watch Titles for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimize-performance-in-cs2-tips-and-tricks-for-mac-users/"><u>Optimize Performance in CS2: Tips and Tricks for Mac Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/revisiting-the-past-ios-and-psp-games-playset/"><u>Revisiting the Past: IOS and PSP Games Playset</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-message-app-discontinued-on-new-galaxy-devices/"><u>Samsung Message App Discontinued on New Galaxy Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/screen-size-strategies-for-gamers/"><u>Screen Size Strategies for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/selecting-ideal-dpi-for-top-gun-games/"><u>Selecting Ideal DPI for Top Gun Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-freeloaders-strategy-procuring-pristine-games-on-steam-for-free/"><u>The Freeloader's Strategy: Procuring Pristine Games on Steam for Free</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-nostalgia-factor-meets-todays-tech-edge/"><u>The Nostalgia Factor Meets Today's Tech Edge</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-ddr5-board-guide-2024/"><u>The Ultimate DDR5 Board Guide 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unsubscribed-titles-next-chapter-or-ending/"><u>Unsubscribed Titles: Next Chapter or Ending?</u></a></li>
+<li><a href="https://games-able.techidaily.com/using-a-modern-dualsense-in-an-earlier-system/"><u>Using a Modern DualSense in an Earlier System?</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>Ways to trade pokemon go from far away On Apple iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977896278-webcam-troubles-tune-up-your-windows-7-drivers-in-no-time-here/"><u>Webcam Troubles? Tune-Up Your Windows 7 Drivers in No Time Here</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-xs-ultimate-blu-ray-features-uncovered/"><u>XBox X's Ultimate Blu-Ray Features Uncovered</u></a></li>
+</ul></div>

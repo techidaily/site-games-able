@@ -1,7 +1,7 @@
 ---
 title: "Dual PLAY: The Ultimate Guide for Switch's Minecraft"
-date: 2024-08-31T19:27:54.800Z
-updated: 2024-09-01T19:27:54.800Z
+date: 2024-09-04T21:49:21.956Z
+updated: 2024-09-05T21:49:21.956Z
 tags:
   - games
 categories:
@@ -39,7 +39,10 @@ thumbnail: https://thmb.techidaily.com/1acb8c811dd75a749590a9459a8ce73dd17ec95c9
  If you're already logged into your friend's Switch, select your**user** . If not, scroll to the right and press**+** to create a new user and log in with your Nintendo Switch Online account. Once you're logged in, the screen will automatically split into two, and you will both be free to craft to your heart's content on the same Nintendo Switch screen.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How Do I Play Two-Player Minecraft Offline on My Nintendo Switch?
 
@@ -48,21 +51,30 @@ thumbnail: https://thmb.techidaily.com/1acb8c811dd75a749590a9459a8ce73dd17ec95c9
 ![Multiplayer Offline Switch Instruction Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/img_3177.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Press**+** and scroll down to**Settings** . Select**Multiplayer** , toggle the**Multiplayer Game** setting off, and then go back to your world. Press**+** on player two’s controller, press**+** again to confirm, and enjoy Minecraft in two-player split-screen.
 
 ![Multiplayer Setting Minecraft Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/img_3178.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Building an absolutely epic Minecraft city with your friends on split-screen multiplayer could easily take upwards of one hundred hours or more in some cases. The last thing you want is to accidentally delete that Minecraft world and erase all the hard work that went into creating it.
 
  Backing up anything of importance is always a great idea, so why not add your Minecraft server to that list?[Backing up and restoring deleted Minecraft worlds](https://www.makeuseof.com/minecraft-world-how-to-restore/) can be done on many different devices, but it's much easier to back your world up in the first place than struggle to restore it later. Always make sure you make a copy of your world regularly to prevent any tragic mishaps.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Minecraft Is More Fun With a Friend
 

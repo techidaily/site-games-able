@@ -1,7 +1,7 @@
 ---
 title: "Festive Fun Folded: Sending Steam Games as Presents"
-date: 2024-08-31T19:31:13.559Z
-updated: 2024-09-01T19:31:13.559Z
+date: 2024-09-04T21:49:18.980Z
+updated: 2024-09-05T21:49:18.980Z
 tags:
   - games
 categories:
@@ -44,15 +44,21 @@ Once you have all of that ready, follow the steps below:
 ![Plants vs Zombies in Cart on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/screenshot-2024-01-24-at-3-10-46-pm.png)
 5. The next page will contain a window to find a list of your friends. Select the friend you want to send the game to.
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 6. You can schedule the gift’s delivery by clicking**Schedule delivery** . It’s great if you want someone to receive the gift on the first hour of their birthday or something similar.
 7. Select**Continue** to reach the personalization page. You can type in a message, but it’s not mandatory.  
 ![Leaving a note while gifting on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/screenshot-2024-01-24-at-2-59-29-pm.png)
 8. Click**Continue** to enter the payment page, and click**Continue** again to confirm payment.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 
  Your gift will be scheduled or sent, depending on your choice. You’ll get an email when the recipient claims the gift, but you can track or cancel the gift between the time you sent it and when it’s claimed.
 
@@ -61,7 +67,10 @@ Once you have all of that ready, follow the steps below:
  On the same Inventory page, there’s a menu in the top right, next to the large**Trade Offers** button under an ellipsis (**...**). Click it and select**View Gift History** to see all the gifts you’ve ever sent out.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to Gift Duplicate Games on Steam
 
@@ -78,12 +87,24 @@ Follow these instructions to gift a duplicate game on Steam:
 ![Delivery method for duplicate games on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/delivery-method-for-duplicate-games-on-steam.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  From then on, it’s almost the same as the regular steps. Except, of course, there’s no payment involved.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to Send Steam Keys Bought on Other Websites
 
@@ -98,6 +119,12 @@ We’ll show you how to do this on Humble Bundle:
 1. Visit[humblebundle.com](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2031630/https://www.humblebundle.com/) and search for the game you want. Alternatively, you can select a pay-what-you-want game bundle by clicking**Bundles** or**Store** \>**On Sale** to find deals.  
 ![Humble Bundle displaying games on sale](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/humble-bundle-displaying-games-on-sale.png)
 2. Select a game and add it to your cart. When you’re done shopping, click the cart icon in the top-right corner of the website.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. When the checkout window appears, you can select if the purchase is a gift. Tick the box and enter the recipient’s email in the relevant field.
 4. Make your payments and checkout.
 
@@ -119,7 +146,10 @@ We’ll show you how to do this on Humble Bundle:
 ![List of Steam gift cards on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/screenshot-2024-02-06-at-11-21-08-am.png)
 5. Follow the on-screen steps to finish the payment.
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This method only works for friends you’ve had on your friends list for at least three days. The recipient must have a Steam account; you can’t send Steam gift cards via email or through any other methods.

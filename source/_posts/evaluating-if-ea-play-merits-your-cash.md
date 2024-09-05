@@ -1,7 +1,7 @@
 ---
 title: Evaluating if EA Play Merits Your Cash
-date: 2024-07-12T04:00:05.600Z
-updated: 2024-07-13T04:00:05.600Z
+date: 2024-09-04T21:44:13.580Z
+updated: 2024-09-05T21:44:13.580Z
 tags:
   - games
 categories:
@@ -30,6 +30,18 @@ thumbnail: https://thmb.techidaily.com/4a0e802a162a5a423f94ca329819be0d261aa988b
 
  Here's what you should know about EA Play and whether it's worth the money.
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is EA Play?
 
  EA Play offers members access to many EA titles for a monthly subscription. You also get Game Trials, which lets you try new EA titles for up to 10 hours without buying them. If you decide to purchase a game after trying it, you get to keep your progress, so you don’t have to start all over again.
@@ -38,10 +50,34 @@ thumbnail: https://thmb.techidaily.com/4a0e802a162a5a423f94ca329819be0d261aa988b
 
 ![EA Play vs EA Play Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ea-play-vs-ea-play-pro.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  EA Play comes in two tiers. The base EA Play, which costs $4.99 a month or $29.99 a year, lets you access many popular EA titles and gives you the Game Trials, Member Rewards, and 10% discount benefits.
 
  But if you’re a hardcore EA fan, you could select the EA Play Pro subscription. This tier costs $14.99 monthly or $99.99 annually but gives you access to even more EA titles. You can also play premium editions of some newly-released games even before their official release date.
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Popular Games Are Included in EA Play?
 
  One of the reasons you choose a subscription is to get access to your favorite game titles. At the time of writing, EA Play gives you access to 89 titles, while EA Play Pro gives you access to 61 additional titles for a total of 150 games.
@@ -56,14 +92,38 @@ thumbnail: https://thmb.techidaily.com/4a0e802a162a5a423f94ca329819be0d261aa988b
 
 ![Ea Play Pro games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ea-play-pro-games.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The more expensive EA Play Pro subscription includes everything in the EA Play subscription plus more niche games, like several titles from EA Sports and many Star Wars franchise titles.
 
  You also get a few top-billed indie games like FTL: Faster Than Light, Frostpunk, and They Are Billions. If you want to see all the games included in this subscription, you can check out this [list of all EA Play Pro games on PC](https://www.ea.com/ea-play/games#ea-play-pro) .
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Is EA Play Worth the Price?
 
 ![man playing on a gaming pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/man-playing-on-a-gaming-pc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Gorodenkoff/[Shutterstock](https://www.shutterstock.com/image-photo/professional-gamer-playing-firstperson-shooter-online-1430140334)
 
  The EA Play subscription gives you access to many loved titles in the EA library, whether you're using a PC, a PlayStation 5, or an Xbox Series X|S console. But is the cost worth it?
@@ -107,3 +167,47 @@ thumbnail: https://thmb.techidaily.com/4a0e802a162a5a423f94ca329819be0d261aa988b
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-stitch-ppt-tiles-into-video-mosaic/"><u>[New] In 2024, Stitch PPT Tiles Into Video Mosaic</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/efine-and-revamp-your-videos-using-youtube-studio-tools-for-2024/"><u>[New] Refine and Revamp Your Videos Using YouTube Studio Tools for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-building-brand-voice-via-micro-business-videos/"><u>[Updated] Building Brand Voice via Micro-Business Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-first-rate-screen-recorders-for-youtube-enthusiasts-for-2024/"><u>[Updated] First-Rate Screen Recorders for YouTube Enthusiasts for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/auditory-instructions-for-effective-chatgpt-commanding/"><u>Auditory Instructions for Effective ChatGPT Commanding</u></a></li>
+<li><a href="https://games-able.techidaily.com/concealed-engagements-in-the-virtual-realm/"><u>Concealed Engagements in the Virtual Realm</u></a></li>
+<li><a href="https://games-able.techidaily.com/cutting-edge-controls-for-nintendo-switch-the-elite-list/"><u>Cutting-Edge Controls for Nintendo Switch – The Elite List</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/defending-artistic-integrity-understanding-the-lawsuit-led-by-sarah-silverman-and-others-against-tech-titans-ai-endeavors-openai-and-meta/"><u>Defending Artistic Integrity: Understanding the Lawsuit Led by Sarah Silverman and Others Against Tech Titans' AI Endeavors (OpenAI and Meta)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discovering-7-amazing-updates-the-latest-bard-ai-reveal-from-google-io-2023/"><u>Discovering 7 Amazing Updates: The Latest Bard AI Reveal From Google I/O 2023</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/dive-deep-into-vlogging-easy-creative-projects/"><u>Dive Deep Into Vlogging  Easy, Creative Projects</u></a></li>
+<li><a href="https://games-able.techidaily.com/early-access-pay-upfront-or-wait-for-launch/"><u>Early Access: Pay Upfront or Wait for Launch?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-for-comctl32dll-error-fixes-in-windows/"><u>Effective Solutions for Comctl32.dll Error Fixes in Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-lists-top-tech-for-exceptional-game-recording/"><u>Elite Lists: Top Tech for Exceptional Game Recording</u></a></li>
+<li><a href="https://games-able.techidaily.com/expertly-crafted-logitech-gamer-mouse/"><u>Expertly Crafted Logitech Gamer Mouse</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-game-not-starting-issue-by-validating-game-data/"><u>Fixing 'Game Not Starting' Issue by Validating Game Data</u></a></li>
+<li><a href="https://games-able.techidaily.com/geforce-nows-latest-pass-does-it-justify-excitement/"><u>GeForce Now's Latest Pass: Does It Justify Excitement?</u></a></li>
+<li><a href="https://games-able.techidaily.com/handheld-optimization-unveiled-x-ally-leads-way/"><u>Handheld Optimization Unveiled, X-Ally Leads Way</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722865982868-how-to-fix-photoshop-scratch-disk-full-errors/"><u>How to Fix Photoshop ‘Scratch Disk Full’ Errors</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Location on TikTok to See More Content On your Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-f5-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Poco F5 5G Phone without PIN</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-perfect-your-profile-easy-guide-for-instagram-videos-from-desktop/"><u>In 2024, Perfect Your Profile  Easy Guide for Instagram Videos From Desktop</u></a></li>
+<li><a href="https://games-able.techidaily.com/in-depth-guide-to-amds-latest-graphics-powerhouse-radeon-xt/"><u>In-Depth Guide to AMD's Latest Graphics Powerhouse: Radeon XT</u></a></li>
+<li><a href="https://games-able.techidaily.com/old-school-pokemon-android-edition/"><u>Old School Pokémon: Android Edition</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/potential-deals-enjoy-complimentary-access-to-netflix-with-your-dish-network-subscription/"><u>Potential Deals: Enjoy Complimentary Access to Netflix with Your Dish Network Subscription</u></a></li>
+<li><a href="https://games-able.techidaily.com/reconnect-joy-cons-step-by-step-solution-guide-for-switch/"><u>Reconnect Joy-Cons - Step-by-Step Solution Guide for Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/restoring-gaming-joy-with-non-responsive-controllers-on-windows/"><u>Restoring Gaming Joy with Non-Responsive Controllers on Windows</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-fix-for-the-fatal-system-error-bsod-code-0x00000133-in-windows-10-systems/"><u>Step-by-Step Fix for the Fatal System Error (BSoD) Code 0X00000133 in Windows 10 Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-to-resolve-roblox-error-262/"><u>Strategies to Resolve Roblox Error 262</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-your-gameplay-external-hdd-integration-in-steam/"><u>Streamline Your Gameplay: External HDD Integration in Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-hd-quality-with-top-gamer-panels-240hz/"><u>Superior HD Quality with Top Gamer Panels (240Hz)</u></a></li>
+<li><a href="https://games-able.techidaily.com/taking-virtual-reality-to-new-heights-explore-and-play-games-with-steam-and-meta-quest/"><u>Taking Virtual Reality to New Heights - Explore & Play Games with Steam and Meta Quest</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-most-advanced-twitch-video-archiving-services-5-10/"><u>The Most Advanced Twitch Video Archiving Services: #5-10</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-significance-of-speedy-resume-in-the-new-xbox-sx-era/"><u>The Significance of Speedy Resume in the New Xbox S/X Era</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-8-why-edge-dominates-gaming-browsers/"><u>Top 8: Why Edge Dominates Gaming Browsers</u></a></li>
+<li><a href="https://games-able.techidaily.com/undercover-gaming-techniques/"><u>Undercover Gaming Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-and-resolving-launcher-error-0x803f8001/"><u>Understanding and Resolving Launcher Error 0X803F8001</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-iems-in-esports-performance/"><u>Understanding IEMs in Esports Performance</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/watch-without-limits-15plus-free-apps-to-save-your-favorite-content-for-2024/"><u>Watch Without Limits  15+ Free Apps to Save Your Favorite Content for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-are-foddian-games-and-whats-the-origin-of-the-name/"><u>What Are Foddian Games, and What's the Origin of the Name?</u></a></li>
+</ul></div>

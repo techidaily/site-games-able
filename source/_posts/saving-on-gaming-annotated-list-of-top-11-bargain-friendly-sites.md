@@ -1,7 +1,7 @@
 ---
 title: "Saving on Gaming: Annotated List of Top 11 Bargain-Friendly Sites"
-date: 2024-08-31T19:31:14.774Z
-updated: 2024-09-01T19:31:14.774Z
+date: 2024-09-04T21:49:18.960Z
+updated: 2024-09-05T21:49:18.960Z
 tags:
   - games
 categories:
@@ -42,6 +42,12 @@ With that in mind, here are the best sites to buy cheap video games.
 
  CheapShark's deals listing page has an interesting sorting measure called Deal Rating. It considers various factors (e.g., absolute price, percent off, Metascore, release date) to determine how good the deal is.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3. GG.deals
 
 ![gg deals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/gg-deals.jpg)
@@ -50,10 +56,28 @@ With that in mind, here are the best sites to buy cheap video games.
 
  Not only that, but GG.deals tracks the historical price of a game so that you can ensure you're genuinely getting a good deal. In fact, sometimes you might not have to spend a dime, since the site also notifies you when a service is giving a game away free.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4. Humble Bundle
 
 ![humble bundle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/humble-bundle.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Humble Bundle started in 2010 as a discounted collection of video games, with some proceeds donated to charity. Its first few bundles consisted of mainly indie games, but it has since evolved to include AAA titles and other more desirable games.
 
  Humble Bundles are known for the "pay what you want" approach, which means you can grab lots of games very affordably. However, some of the most desirable titles are only available if you spend a minimum amount.
@@ -65,7 +89,10 @@ With that in mind, here are the best sites to buy cheap video games.
 ![fanatical](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/fanatical.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Fanatical is an online game store that always has deep discounts on the latest and greatest games. While the prices on Fanatical are usually great anyway, the site often holds sales or flash deals where you can get even cheaper prices than usual. Since[video gaming is an expensive hobby](https://www.makeuseof.com/is-video-gaming-too-expensive/) , these bargains are most welcome.
 
@@ -80,16 +107,10 @@ With that in mind, here are the best sites to buy cheap video games.
  As you buy on Green Man Gaming, you earn XP. The more you buy, the more XP you earn, and you can redeem this on future purchases to get even greater discounts. It applies the discount automatically, so you're always getting the best deal.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 7. GamersGate
 
@@ -97,13 +118,16 @@ With that in mind, here are the best sites to buy cheap video games.
 
  GamersGate is officially partnered with publishers large and small, selling Steam keys for PC games across all genres. There are regular sales, meaning you can snag yourself a bargain with ease. If something isn't quite cheap enough for you, GamersGate offers a price drop notification feature—all you need is a free account.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8. WinGameStore
 
 ![wingamestore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/wingamestore.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  As you might expect from the name, WinGameStore is all about Windows games. Though if Apple is more your flavor, check out its sister site[MacGameStore](https://www.macgamestore.com/) . Whichever site you choose, there are plenty of discounted games to browse and constant publisher sales.
 
  The site even rewards you with points for buying games, referring friends, and writing reviews, which you can then redeem for money off your next purchase.
@@ -113,37 +137,37 @@ With that in mind, here are the best sites to buy cheap video games.
 ![gamebillet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gamebillet.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You may wonder[whether it's safe to buy game keys](https://www.makeuseof.com/are-game-keys-safe/) . When you buy them from authorized sellers like GameBillet, it's no problem. This site serves customers worldwide, offering deals on new and old PC games alike. It even lets you pre-order games; though frankly,[you shouldn't pre-order video games](https://www.makeuseof.com/tag/stop-pre-ordering-video-games/) because a digital supply won't run out.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 10. Gamesplanet
 
 ![gamesplanet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gamesplanet.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Wouldn't it be wonderful to live on a video game planet? Gamesplanet is the next best thing, selling legit game keys for Steam, Ubisoft Connect, GOG, and more. You should check back often because there are always time-limited flash deals that provide an even better price than normal.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 11. IndieGala
 
 ![indiegala](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/indiegala.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  IndieGala doesn't just sell indie games, though it has plenty of those, but rather has good deals on all sorts of PC games. On top of that, IndieGala has a neat selection of free games and endless giveaways—sure, the game quality may be questionable, but it's hard to quibble at zero dollars.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Decide What Game to Buy
 
  These sites are sure to net you a great bargain on the next game that you want to play. Many of them let you sign up for email alerts and newsletters; be sure to do that so that you don't miss out on a bargain.

@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Mojang Maps: Download, Install, Play"
-date: 2024-08-31T19:33:04.223Z
-updated: 2024-09-01T19:33:04.223Z
+date: 2024-09-04T21:49:17.260Z
+updated: 2024-09-05T21:49:17.260Z
 tags:
   - games
 categories:
@@ -36,12 +36,27 @@ thumbnail: https://thmb.techidaily.com/718d1853d85918e9d3b7531d3e7e5d446b8b2d7ec
  Once you've downloaded your new Minecraft maps, it's time to install them.
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to Install Minecraft Maps on Windows (Java)
 
 ![New mods make Minecraft amazing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/muo-gaming-minecraft-mountain.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To use your new map file, you'll need to place it in the correct directory. Here's how you can do that for Minecraft Java on Windows:
 
 1. Extract the .zip file you've downloaded.
@@ -49,6 +64,12 @@ thumbnail: https://thmb.techidaily.com/718d1853d85918e9d3b7531d3e7e5d446b8b2d7ec
 3. On your keyboard, press**Win + R** to open the Windows**Run** app.  
 ![Using Run to open the appdata directory.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/minecraft-run-appdata-1.jpg)
 4. In the text box, type**%appdata%** and press**Enter** to open the**C:\\Users\\yourusername\\AppData\\Roaming** directory.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. In the**Roaming** directory, find the folder labeled**.minecraft** . Inside, you'll find a folder labeled**saves** . This is where Minecraft stores its maps.
 6. Open the**saves** folder and paste the map folder inside. That's it!
 
@@ -65,9 +86,6 @@ thumbnail: https://thmb.techidaily.com/718d1853d85918e9d3b7531d3e7e5d446b8b2d7ec
 
  To explore your downloaded world, launch Minecraft in single-player mode. You should see your map there. Click the map to load it, and once everything loads, start exploring!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Install Minecraft Maps on Windows 11 (Bedrock)
 
 ![Minecraft Bedrock on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/minecraft-bedrock-windows.jpg)
@@ -88,15 +106,15 @@ thumbnail: https://thmb.techidaily.com/718d1853d85918e9d3b7531d3e7e5d446b8b2d7ec
 You're all set!
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to Install Minecraft Maps on Mac
 
 ![Installed maps in Minecraft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/minecraft-worlds-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
  To install Minecraft maps on macOS, you'll have to move the map files to the Minecraft saves folder, just like the Windows Java Edition. Start by downloading the .zip file for your map as before.
 
 1. Extract the map folder from the archive.
@@ -109,9 +127,6 @@ You're all set!
 
  The new map will appear in the single-player menu as a new world. Now you can explore your freshly downloaded Minecraft map! You can even[create a Minecraft server](https://www.makeuseof.com/how-to-make-a-minecraft-server/) to explore the map with your friends.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Install Minecraft Maps on Android (Bedrock)
 
 ![A Minecraft map](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/minecraft-map-screenshot.jpg)
@@ -137,6 +152,12 @@ Here's how you can install older Minecraft maps on Android:
 
 ![Person playing Minecraft on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/minecraft-ios-map.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Like other Bedrock editions, if your downloaded map uses the .mcworld extension, all you have to do is run it, and Minecraft will load the new map.
 
  If you have an older map in a .zip format, you'll need to convert it to a .mcworld file. This consists of[extracting the zip file on your iPhone](https://www.makeuseof.com/tag/open-zips-compressed-archives-iphone-ipad/) and compressing its content as a .mcworld file.
@@ -153,7 +174,10 @@ Here's how you can install older Minecraft maps on Android:
  If the steps in this method seem inconvenient, you can prime the files on your PC and then[transfer the files from your PC to your iPhone or iPad](https://www.makeuseof.com/tag/transfer-files-wirelessly-computers-ios-devices-fileapp/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2030370/7443" target="_top" id="2030370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Explore Other Worlds in Minecraft
 

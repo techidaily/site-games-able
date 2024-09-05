@@ -1,7 +1,7 @@
 ---
 title: Embarking on a New Adventure - Play Steam Games Using Meta Quest Xbox Series X
-date: 2024-07-12T03:56:56.280Z
-updated: 2024-07-13T03:56:56.280Z
+date: 2024-09-04T21:47:37.803Z
+updated: 2024-09-05T21:47:37.803Z
 tags:
   - games
 categories:
@@ -43,12 +43,24 @@ thumbnail: https://thmb.techidaily.com/c64aba238bf38e8dde6a455b091ef6dd75fa774a2
 
 ![meta store download steam link app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/meta-store-download-steam-link-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To get started, download the [official Meta Steam Link app](https://www.meta.com/en-us/experiences/5841245619310585/) . You can also find this easily in your headset using the Meta store. You'll need to pair this with your desktop gaming machine, so open the app and click through to start scanning for a local machine running Steam.
 
  You'll see an error saying**Computer Not Found** if your computer isn't on the same network (or isn't turned on at all).
 
 ![steam link no computer found](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/steam-link-no-computer-found.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If it successfully locates your computer, click**Connect** , and you'll be given a four-digit code to enter on the Steam side. You'll only need to do this once.
 
 ![steam link connect computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/steam-link-connect-computer.jpg)
@@ -63,6 +75,18 @@ thumbnail: https://thmb.techidaily.com/c64aba238bf38e8dde6a455b091ef6dd75fa774a2
 
 ![steam link vr library view](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/steam-link-vr-library-view.jpg)
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Instead, you'll need to use a mouse and keyboard (or a gamepad) connected directly to your PC. If you're in the same room as your PC anyway, this isn't a huge deal. But it does mean that you can't enjoy some casual gaming from bed, for instance.
 
 **Steam Link App Pros:**
@@ -87,12 +111,24 @@ thumbnail: https://thmb.techidaily.com/c64aba238bf38e8dde6a455b091ef6dd75fa774a2
 
 ![meta store download virtual desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/meta-store-download-virtual-desktop.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030381/7443" target="_top" id="2030381">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030381" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030381/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Start the Virtual Desktop app on your headset, then pop over to your PC and click the**Allow** button in the dialog that comes up—it should say your Oculus username. From there, you'll be automatically connected.
 
  You can now use the Meta Quest controllers to interact with your desktop and open SteamVR or any other application as you would with a mouse. Alternatively, press the left controller button and select the Games tab. It'll list any Steam (and Oculus) VR games so that you can launch them directly.
 
 ![virtual desktop games library view in headset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/virtual-desktop-games-library-view-in-headset.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can also emulate a standard gamepad using the Meta Quest controllers—though it can take some getting used to. Virtual Desktop will pass through an actual Bluetooth gamepad as well, so if you aren't in the same room, you can [connect a gamepad to your Quest](https://www.meta.com/en-gb/help/quest/articles/headsets-and-accessories/controllers-and-hand-tracking/gamepad-with-oculus-quest-2/) and use that to play.
 
 **Virtual Desktop Pros:**
@@ -115,6 +151,12 @@ thumbnail: https://thmb.techidaily.com/c64aba238bf38e8dde6a455b091ef6dd75fa774a2
 
 ![enable quest link from quick settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/enable-quest-link-from-quick-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  For wireless connectivity, click the**Enable AirLink** option. Your computer should then be listed below. Click to pair, and if this is your first time, you'll need to confirm the pairing request on the PC side (a code is shown to verify from the headset, but you don't need to note it down or type it in).
 
  You'll also need to jump back into the headset after doing so and confirm again there.
@@ -139,6 +181,12 @@ thumbnail: https://thmb.techidaily.com/c64aba238bf38e8dde6a455b091ef6dd75fa774a2
 * It needs the Oculus desktop app (also known as Meta Quest Link app), which can add overhead and degrade performance.
 * It has an outdated UI and a frustrating experience.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Using the Meta Link Cable (Wired)
 
  Finally, for the highest quality but less convenience, you can simply plug your Meta Quest directly into your gaming PC—provided you have a high-speed USB port (USB-C or A 3.1/3.2) and a suitable cable.
@@ -147,6 +195,18 @@ thumbnail: https://thmb.techidaily.com/c64aba238bf38e8dde6a455b091ef6dd75fa774a2
 
 ![oculus desktop headset connected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/oculus-desktop-headset-connected.png)
 
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The instructions for getting this working over a USB cable are the same as the AirLink section above, except you don't need to enable the AirLink option; it will assume you're using a cable, so just click connect.
 
 **Meta Link Cable Pros:**
@@ -183,3 +243,70 @@ thumbnail: https://thmb.techidaily.com/c64aba238bf38e8dde6a455b091ef6dd75fa774a2
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-igtv-mastery-best-video-editors-for-social-media/"><u>[New] 2024 Approved  IGTV Mastery  Best Video Editors for Social Media</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-discover-the-13-essential-earning-tactics-for-novices-on-reddit/"><u>[New] Discover the 13 Essential Earning Tactics for Novices on Reddit</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-the-complete-routine-for-hulu-capture-on-diverse-devices-for-2024/"><u>[New] The Complete Routine for Hulu Capture on Diverse Devices for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-uniting-platforms-efficiently-share-fb-videos-to-whatsapp/"><u>[New] Uniting Platforms  Efficiently Share FB Videos to WhatsApp</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-finding-the-perfect-video-dimensions-on-facebook/"><u>[Updated] 2024 Approved  Finding the Perfect Video Dimensions on Facebook</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-secrets-from-the-pros-high-quality-roblox-recordings-mac-edition/"><u>[Updated] 2024 Approved  Secrets From the Pros  High-Quality Roblox Recordings (Mac Edition)</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-from-capture-to-edit-elevating-your-immersive-video-experience-using-premiere-pro-for-2024/"><u>[Updated] From Capture to Edit  Elevating Your Immersive Video Experience Using Premiere Pro for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-comprehensive-step-by-step-for-youtube-chapters-the-complete-guide/"><u>2024 Approved  Comprehensive Step-by-Step for YouTube Chapters  The Complete Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-get-started-on-vimeo-for-free-the-basics-of-video-editing/"><u>2024 Approved  Get Started on Vimeo for Free  The Basics of Video Editing</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pixiz-masterclass-merging-photography-and-motion/"><u>2024 Approved  Pixiz Masterclass  Merging Photography and Motion</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-the-inner-workings-of-youtubes-system-after-an-upload/"><u>2024 Approved  The Inner Workings of YouTube's System After an Upload</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/audiophile-tools-best-audio-interfaces-for-podcasters-for-2024/"><u>Audiophile Tools  Best Audio Interfaces for Podcasters for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/automated-file-handling-via-task-scheduler/"><u>Automated File Handling via Task Scheduler</u></a></li>
+<li><a href="https://games-able.techidaily.com/cooperative-fun-two-player-minecraft-on-nintendo-switch/"><u>Cooperative Fun: Two-Player Minecraft on Nintendo Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/decode-to-win-how-to-pick-the-best-app-store-games-on-arcade/"><u>Decode to Win: How to Pick the Best App Store Games on Arcade</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-hidden-treasures-in-codes-for-your-xbox/"><u>Discover Hidden Treasures in Codes, For Your Xbox</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-ultimate-mac-gaming-experience-with-these-top-techniques/"><u>Discover the Ultimate Mac Gaming Experience with These Top Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/dlss-revolution-how-artificial-intelligence-shaped-update-35/"><u>DLSS Revolution: How Artificial Intelligence Shaped Update 3.5</u></a></li>
+<li><a href="https://games-able.techidaily.com/documenting-and-reporting-mistreatment-during-playtime-xbox/"><u>Documenting and Reporting Mistreatment During Playtime (Xbox)</u></a></li>
+<li><a href="https://games-able.techidaily.com/dual-play-the-ultimate-guide-for-switchs-minecraft/"><u>Dual PLAY: The Ultimate Guide for Switch's Minecraft</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-strategies-for-locating-a-persons-email-contact-details/"><u>Effective Strategies for Locating a Person's Email Contact Details</u></a></li>
+<li><a href="https://games-able.techidaily.com/end-freeze-episodes-solutions-for-epics-launcher-problems/"><u>End Freeze Episodes: Solutions for Epic's Launcher Problems</u></a></li>
+<li><a href="https://games-able.techidaily.com/engage-in-fun-best-mobile-games-without-data/"><u>Engage in Fun: Best Mobile Games WITHOUT Data</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-8-points-in-selecting-a-cpu-cooler/"><u>Essential 8 Points in Selecting a CPU Cooler</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-gpu-temp-range-for-smooth-gameplay/"><u>Essential GPU Temp Range for Smooth Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-reviews-on-top-9-emulators-boosting-steam-deck-games/"><u>Expert Reviews on Top 9 Emulators Boosting Steam Deck Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-inception-to-icon-foddians-arc/"><u>From Inception to Icon: Foddian's Arc</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-mastery-on-the-move-top-9-advice-points/"><u>Game Mastery on the Move: Top 9 Advice Points</u></a></li>
+<li><a href="https://games-able.techidaily.com/guide-identifying-the-top-8-features-in-cpu-coolers/"><u>Guide: Identifying the Top 8 Features in CPU Coolers</u></a></li>
+<li><a href="https://games-able.techidaily.com/guided-approach-to-complete-ps4-data-erasure/"><u>Guided Approach to Complete PS4 Data Erasure</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-quality-on-a-dime/"><u>High Quality on a Dime</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/highlighting-elite-gif-software-on-apple-iphones/"><u>Highlighting Elite GIF Software on Apple iPhones</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-iems-enhance-competitive-gaming-sessions/"><u>How IEMs Enhance Competitive Gaming Sessions</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-motorola-moto-g14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Motorola Moto G14? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-vivo-v27-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo V27 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6s-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6s To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-guffaw-generator-cyborg-comic-coders/"><u>In 2024, Guffaw Generator  Cyborg Comic Coders</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-13-mini-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone 13 mini After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-tecno-phantom-v-flip-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Tecno Phantom V Flip</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unraveling-top-hdr-camera-brands-and-features/"><u>In 2024, Unraveling Top HDR Camera Brands and Features</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/introducing-the-arc-browser-your-new-go-to-web-experience-on-windows-11/"><u>Introducing the Arc Browser: Your New Go-To Web Experience on Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/keeping-the-play-alive-with-longer-controller-batteries/"><u>Keeping the Play Alive with Longer Controller Batteries</u></a></li>
+<li><a href="https://games-able.techidaily.com/limiting-xbox-game-bar-interference-in-modern-pcs/"><u>Limiting Xbox Game Bar Interference in Modern PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-windows-to-rise-your-fps-level/"><u>Optimizing Windows to Rise Your FPS Level</u></a></li>
+<li><a href="https://games-able.techidaily.com/pinnacle-of-effortless-comfortable-seating-mats/"><u>Pinnacle of Effortless Comfortable Seating Mats</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-ssds-for-ps5-enthusiasts/"><u>Premium SSDs for PS5 Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps4-complete-system-recovery-guide/"><u>PS4: Complete System Recovery Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/reigniting-passion-for-online-exploration/"><u>Reigniting Passion for Online Exploration</u></a></li>
+<li><a href="https://games-able.techidaily.com/reviving-steam-various-easy-routes/"><u>Reviving Steam: Various Easy Routes</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionize-your-gameplay-6-cutting-edge-online-chess-games/"><u>Revolutionize Your Gameplay: 6 Cutting-Edge Online Chess Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/shining-your-way-through-pokemon-scarlet-and-violet-80/"><u>Shining Your Way Through Pokémon Scarlet & Violet (80)</u></a></li>
+<li><a href="https://games-able.techidaily.com/speed-king-cables-the-ultimate-game-networking-solution/"><u>Speed King Cables - The Ultimate Game Networking Solution</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722997904976-stop-your-new-world-from-freezing-over-and-over-with-these-fixes/"><u>Stop Your New World From Freezing Over and over with These Fixes!</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/switch-it-up-the-best-face-swap-apps-for-iphone-and-android/"><u>Switch It Up The Best Face Swap Apps for iPhone and Android</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-fastest-way-to-boost-your-steam-decks-prowess/"><u>The Fastest Way to Boost Your Steam Deck's Prowess</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-improbable-rise-of-gamefi-in-mainstream-gaming/"><u>The Improbable Rise of GameFi in Mainstream Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-pinnacle-of-playtime-expert-tips-on-averting-the-top-10-game-mishaps/"><u>The Pinnacle of Playtime: Expert Tips on Averting the Top 10 Game Mishaps</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-home-entertainment-showdown/"><u>Ultimate Home Entertainment Showdown</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-extract-audio-from-mp4-the-best-mp4-to-mp3-converters-this-year-for-2024/"><u>Updated Extract Audio From MP4 The Best MP4 to MP3 Converters This Year for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-unlocking-free-speech-transcription-a-triad-of-simple-approaches/"><u>Updated Unlocking Free Speech Transcription - A Triad of Simple Approaches</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211877979-wacom-tablet-not-responding-heres-what-you-need-to-know/"><u>Wacom Tablet Not Responding? Here's What You Need to Know</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-ps5-isnt-right-for-everyone-4-points/"><u>Why PS5 Isn't Right For Everyone - 4 Points</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-game-pass-101-features-and-advantages/"><u>Xbox Game Pass 101: Features and Advantages</u></a></li>
+</ul></div>

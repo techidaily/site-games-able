@@ -1,7 +1,7 @@
 ---
 title: Unlock Xbox Perks and Promotions
-date: 2024-08-31T19:33:11.151Z
-updated: 2024-09-01T19:33:11.151Z
+date: 2024-09-04T21:49:17.168Z
+updated: 2024-09-05T21:49:17.168Z
 tags:
   - games
 categories:
@@ -51,7 +51,10 @@ thumbnail: https://thmb.techidaily.com/7e858d7102e5ef6f6137f0acdeeba112d7b0daf0c
  But with**Claim it** selected, your Digital Direct offer will be unlocked and available within**My games & apps** on your console. Unfortunately, if you want to alter your offer or if you selected**Decide later** or**Redeem for another account** , the process is more complex and more akin to[managing your Xbox subscriptions from your console](https://www.makeuseof.com/how-to-manage-xbox-subscriptions-from-xbox-series-x-s/) .
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## What to Do if You Declined Your Digital Direct Offer
 
@@ -65,12 +68,21 @@ thumbnail: https://thmb.techidaily.com/7e858d7102e5ef6f6137f0acdeeba112d7b0daf0c
 ![A screenshot of the Guide menu on Xbox Series X with the options for Profile and System highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-guide-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 * Under the options for**Account** , select**Included with this Xbox** .
 
 ![An image of the Account settings for an Xbox Series X with the option for Included With This Xbox highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/18065620-6c49-4cc2-b456-bec9bdfe6a68-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Image Credit:[Xbox](https://www.xbox.com/en-us/consoles/digital-direct)
 
 * Once the**This Xbox comes with** message reappears, ensure you are on the Xbox account you wish to redeem your offer for, and select**Claim it** .
@@ -80,7 +92,10 @@ thumbnail: https://thmb.techidaily.com/7e858d7102e5ef6f6137f0acdeeba112d7b0daf0c
  While redeeming your Digital Direct offer should be one of the[first things you need to do with your Xbox Series X|S](https://www.makeuseof.com/first-things-to-do-with-xbox-series-x/) , there are many reasons you may want to wait to redeem your offer, including moving it to another account. And despite being hidden, the**Included with this Xbox** option guarantees you can access your offer.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Never Miss Any Xbox Games or Offers With Xbox Series X|S
 
@@ -91,21 +106,24 @@ thumbnail: https://thmb.techidaily.com/7e858d7102e5ef6f6137f0acdeeba112d7b0daf0c
 ## FAQ
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Q: How Do You Redeem a Digital Code on Xbox Series X|S?
 
  To redeem a code and unlock content on your Xbox Series X|S, load the**Store** from your console. Once the**Store** loads, use the left-hand-side tabs to scroll down and find**Redeem** . If you select**Redeem** , you will be asked to enter your 25-character digital code. Upon entering the code, select**Check code** to redeem your content.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Q: How Do You Claim Your Reward Points on Xbox Series X|S?
 
  To[redeem Microsoft Reward Points on your Xbox Series X|S](https://www.makeuseof.com/how-to-redeem-microsoft-reward-points-on-xbox-series-xs/) , open the**Microsoft Rewards on Xbox** application from**My games & apps** . With the app loaded, open the**Redeem** tab and select the reward you want to exchange your Microsoft Reward Points. Select**Redeem reward** to claim your chosen benefit.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Q: Do Xbox Digital Direct Offers and Codes Expire?
 
