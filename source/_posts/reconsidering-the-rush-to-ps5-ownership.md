@@ -1,7 +1,7 @@
 ---
 title: Reconsidering the Rush to PS5 Ownership
-date: 2024-09-04T21:56:42.453Z
-updated: 2024-09-05T21:56:42.453Z
+date: 2024-09-09T09:33:59.829Z
+updated: 2024-09-10T09:33:59.829Z
 tags:
   - games
 categories:
@@ -12,12 +12,24 @@ keywords: PS5 Purchase Timing,PS5 Buy Consideration,Gaming Console Delay,PS5 Rel
 thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc7679792239ca349164c0b304f.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Reconsidering the Rush to PS5 Ownership
 
  If you subscribe to the idea of console wars, you'll know that Sony's PlayStation 4 was a huge success compared to Microsoft's Xbox One—it sold more than twice as much. In fact, the PS4 is one of the best-selling consoles of all time.
 
  However, the PlayStation 5 has a long way to go to reach those dizzy heights. Here are all the reasons why we don't think you should buy a PS5, at least for now.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Limited Number of Exclusive First-Party Games
 
  It's not uncommon for gamers to play across multiple platforms, like the Nintendo Switch or Xbox Series X/S. That's why it's so important that a console has amazing exclusive games; those that you can only experience on that system.
@@ -28,6 +40,12 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
  Over time, this will change. Sony will eventually provide the wealth of first-party exclusive games that the PS5 sorely needs. However, at the time of writing, it's been almost three years since the PS5 launched and it's hard to point at a single game that's a system seller.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Most Games Are Available on the PS4 and PC
 
  Compounding the issue is that many of these "exclusives" use that term loosely because they are also available on the PS4, like God of War Ragnarök and Marvel's Spider-Man: Miles Morales. These games are fantastic on the PS5, but they're great on the PS4 too. For this reason,[it may still be worth buying the PS4](https://www.makeuseof.com/is-it-still-worth-buying-ps4/) if you don't own one.
@@ -37,10 +55,16 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
  Not to bemoan Sony for this too heavily, though. It's great that the company is supporting the PC and that it hasn't immediately cut PS4 owners off in a bid to force them to upgrade to the PS5\. It just means if you already own a PS4 or gaming PC, then there's not much incentive to buy the PS5—unless factors such as the console's graphical prowess or peripherals like PlayStation VR2 are draws for you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 3\. The PS5 Is Too Expensive
 
@@ -53,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
  Granted, these cheaper devices don't pack the same punch when it comes to performance, and they host different games. But if you're simply in the market for a fun games machine and need to save your cash, they make for optimal alternatives.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 4\. Wait for the Inevitable Upgraded PS5
 
@@ -67,10 +91,10 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
  The same thing is bound to happen with the PS5, as it has done every console cycle—rumors indicate that[a PS5 Slim will arrive in 2023](https://www.makeuseof.com/is-sony-releasing-ps5-slim-2023/) , with a smaller form factor and detachable disc drive. Plus, it might be cheaper. Patience pays off.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Should You Buy a PS5?
 

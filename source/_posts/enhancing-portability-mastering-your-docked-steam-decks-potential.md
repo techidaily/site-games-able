@@ -1,0 +1,203 @@
+---
+title: "Enhancing Portability: Mastering Your Docked Steam Deck's Potential"
+date: 2024-09-09T09:41:37.414Z
+updated: 2024-09-10T09:41:37.414Z
+tags:
+  - games
+categories:
+  - games
+description: "This Article Describes Enhancing Portability: Mastering Your Docked Steam Deck's Potential"
+excerpt: "This Article Describes Enhancing Portability: Mastering Your Docked Steam Deck's Potential"
+keywords: Steam Deck Travel Guide,Maximizing Deck Use,Stream Deck Portability,Portable Gaming Device,Deck Dock Setup Tips,Steam Deck Game Library,Optimize Deck Performance
+thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5163c7ab05139a28f15cb6cd.jpg
+---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Enhancing Portability: Mastering Your Docked Steam Deck's Potential
+
+ The Steam Deck is very well tuned for the handheld niche it's going for. More games than not will have smooth performance, but only when using the native 720p resolution of the device. This can leave a lot to be desired when you are using an external display, also known as playing "docked".
+
+ Let's have a look at the best settings and modifications you can apply to get the most out of your Steam Deck while docked.
+
+## Resolution on the Steam Deck
+
+![screenshot of steam deck resolution menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_steam_deck_resolution_menu.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Your choice between maintaining the 720p resolution or pushing the device higher is the first one you'll need to make when it comes to playing any game on the big screen.
+
+ The 720p resolution ensures that the Steam Deck will reach playable frame rates on just about any game. However, this resolution is blurry and unpleasant to look at on larger screens.
+
+ Thankfully, the Steam Deck is capable of outputting to up to 8K resolution, though it's unlikely to perform well past 4K.
+
+ All you have to do is access the launch settings for each game to modify this. Seek out the**gear icon** on the game's page and hit**Properties** .
+
+![screenshot of steam deck properties menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_steam_deck_properties_menu.jpg)
+
+ Under**General** , change**Game Resolution** from default to a value of your choosing.
+
+ It's best that you choose a resolution that coincides with a specific aspect ratio, or whatever is native to the external device you're using. Make sure you[understand the specifics of how aspect ratio relates to resolution when choosing](https://www.makeuseof.com/what-is-the-difference-between-aspect-ratio-resolution/) .
+
+ Now that your image is being output at a higher resolution, you'll be able to access higher resolutions in game. It will look a lot nicer on the big screen, but it's also going to be more taxing on your performance. Let's see what other tools the Steam Deck has to manage performance.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Using Per-Game Settings
+
+![screenshot of steam deck quick menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_steam_deck_quick_menu.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Now that you've bumped up the resolution, you've significantly increased the performance overhead for your game. Many games will run worse, requiring you to adjust the in-game settings. Seeing as we're playing on a larger screen, this isn't desirable.
+
+ The solution here is to become familiar with per-game performance profiles for your games.
+
+ Hitting the**Quick Menu button** while in a game brings up an overlay on the right side of the screen. Scrolling down to the battery icon will show the performance menu.
+
+ If you've docked your Steam Deck, it's likely you're using a controller instead of the controls on the unit itself. In this case, holding the**system button + A** will display this menu.
+
+![screenshot of steam deck quick menu game profile selection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_steam_deck_quick_menu_game_profile.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ First thing to do is to enable**Use Per-Game Profile** . This will ensure that any changes you make in this menu will only affect the currently active game.
+
+ In this menu are a handful of options for tuning performance beyond what the game itself allows. Let's run through what each of these settings control:
+
+* **Framerate Limit** will let you set a cap on how high the framerate can go. When playing games with unstable framerates, these caps can smooth out performance by preventing the device from spiking above a desired framerate.
+* **Refresh Rate** allows you to modify the refresh rate of individual games.[Understanding how refresh rates affect framerates is important for performance tuning](https://www.makeuseof.com/tag/60hz-vs-144hz/) , but for our purposes, it's best to leave this setting at its default of 60Hz.
+* **Allow Tearing** relates to the above setting. If enabled, the game will be allowed to run at higher framerates than the 60Hz refresh rate allows. This is only desirable if your external device also runs at higher refresh rates than 60Hz.
+* **Half Rate Shading** can improve battery life by cutting the resolution of pixel shaders in half. This is a great performance option for when you're on the go, but if you're using a dock, this setting should remain at its default.
+* **Thermal Power (TDP) Limit** is another battery-friendly setting, allowing you to throttle the amount of battery power being used regardless of game settings. Again, since you're using a dock and likely powered, this setting should remain at its default.
+* **Manual GPU Clock Control** is a very important setting depending on what game you're playing. It allows you to manually set how powerful your GPU is at any given time. You cannot natively overclock the device from this menu, but you can underclock it. This can allow for extra resources to be allocated to other components.
+* **Scaling Filter** is an interesting option, allowing you to clear up the picture of a game running at a lower resolution. For external monitors, this can be a useful performance setting. Running the game at a lower resolution, but turning the scaling up high, can allow for more performance while mitigating the unpleasant visuals.
+
+ These settings are important whether you're docked or undocked, but settings such as the Framerate Limit and Scaling Filter can be a game changer when it comes to running games at higher resolutions.
+
+ Generally, when starting to tweak a game for docked gameplay, you should adjust the Framerate Limit, the GPU Clock Control, and the Scaling Filter.
+
+ Play around with the game's in-game settings to get a steady framerate, then start pushing up the framerate limit, lowering or raising the clock speed, and applying a scaling filter to see if you can get a higher framerate. Then, bump up the in-game settings and do it again.
+
+ You'll eventually find yourself with a very pleasant image and a comfortable framerate.
+
+## Target 30 or 40 FPS Over 60 FPS
+
+![screenshot of steam deck quick menu framerate limiter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_steam_deck_quick_menu_framerate_cap.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ A major part of gaming on the Steam Deck is being comfortable with lower framerates.
+
+ 60 FPS is always the goal, but newer games with more demanding visuals will rarely reach 60 FPS on the Steam Deck. This becomes even more difficult when you add the performance overhead of a higher resolution into the mix.
+
+ So, get comfortable with 30 or 40 FPS. 30 FPS is generally considered more than playable on the handheld screen, and 40 FPS is a decent upgrade to that to make the docked experience a little easier. If 60 FPS is the goal for you, you can always[take steps to further optimize individual games on the Steam Deck](https://www.makeuseof.com/how-to-optimize-steam-deck/) .
+
+ Steam allows you to target 30 FPS using the performance overlay, but this framerate limiter occurs outside the game itself. For the best results, check if the game you're playing has an inbuilt framerate limiter. These are more accurate and responsive than the Steam Deck's overlay menu.
+
+## Docking Your Steam Deck Is a Balancing Act
+
+ Just about any game will run well enough once you connect the dock. The problem is, those default settings can result in a blurry or unpleasant image. Increasing settings that improve these visuals will very quickly tax the Steam Deck and result in poor performance.
+
+ The result is a lot of tinkering with an impressive collection of performance tools until you get it just right. Whether you're going for a high, consistent frame rate, or a picture that looks as good as it can, you'll find some sort of happy medium when it comes to docking your Steam Deck.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-how-to-edit-youtube-videos-in-windows-movie-maker/"><u>[New] 2024 Approved How to Edit YouTube Videos in Windows Movie Maker</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-dive-into-the-world-of-enhanced-youtube-content-with-premium-subscription/"><u>[New] In 2024, Dive Into the World of Enhanced YouTube Content with Premium Subscription</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-how-to-estimate-income-from-youtube-video-snippets/"><u>[New] In 2024, How to Estimate Income From YouTube Video Snippets</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-lenovo-laptop-a-complete-guide-to-recording-screens/"><u>[New] Lenovo Laptop A Complete Guide to Recording Screens</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-seamless-srt-to-sub-a-comprehensive-guide/"><u>[New] Seamless SRT to SUB A Comprehensive Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-ignite-engagement-on-twitch-alive-tweeting-techniques/"><u>[Updated] 2024 Approved Ignite Engagement on Twitch Alive Tweeting Techniques</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-the-ultimate-blueprint-for-crafting-standout-podcast-titles-and-name-samples/"><u>[Updated] 2024 Approved The Ultimate Blueprint for Crafting Standout Podcast Titles & Name Samples</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-unmasking-invisible-audiences-interactions/"><u>[Updated] 2024 Approved Unmasking Invisible Audiences' Interactions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-shopping-journey-to-visual-storytelling-hauling-edition/"><u>[Updated] Shopping Journey to Visual Storytelling Hauling Edition</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1-ultimative-medienubertragung-fur-iphone-und-ipad-mit-winx-mediatrans-professionelle-losung-zum-sicher-transfer-von-bildern-tonen-and-filmen/"><u>1. Ultimative Medienübertragung Für iPhone Und iPad Mit WinX MediaTrans™ - Professionelle Lösung Zum Sicher Transfer Von Bildern, Tönen & Filmen</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-swiftly-get-your-favorite-skype-tones-from-here/"><u>2024 Approved Swiftly Get Your Favorite Skype Tones From Here</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-text-based-adventure-games-you-can-play-in-your-browser/"><u>5 Text-Based Adventure Games You Can Play in Your Browser</u></a></li>
+<li><a href="https://games-able.techidaily.com/8-leading-websites-that-define-modern-gaming-news/"><u>8 Leading Websites That Define Modern Gaming News</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/achieve-peak-performance-in-games-with-a-new-asus-970-pro-gpu-upgrade/"><u>Achieve Peak Performance in Games with a New Asus 970 Pro GPU Upgrade</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieving-perfection-a-complete-ps4-factory-reset/"><u>Achieving Perfection: A Complete PS4 Factory Reset</u></a></li>
+<li><a href="https://games-able.techidaily.com/bidding-adieu-to-ea-new-price-prohibitive-for-gaming/"><u>Bidding Adieu to EA: New Price Prohibitive for Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-server-dynamics-integrating-strategy-based-games-discord/"><u>Boosting Server Dynamics: Integrating Strategy-Based Games (Discord)</u></a></li>
+<li><a href="https://games-able.techidaily.com/crossover-instructions-full-bg3-experience-for-macos-users/"><u>CrossOver Instructions: Full BG3 Experience for macOS Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-new-gameplay-modes-on-ps5/"><u>Discovering New Gameplay Modes on PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/does-the-birth-of-fsr-3-herald-a-new-era-beyond-nvidias-dlss-35/"><u>Does the Birth of FSR 3 Herald a New Era Beyond NVIDIA's DLSS 3.5?</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-handheld-games-with-controller-support/"><u>Elite Handheld Games with Controller Support</u></a></li>
+<li><a href="https://games-able.techidaily.com/ensuring-a-secure-steam-environment-for-kids/"><u>Ensuring a Secure Steam Environment for Kids</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-premium-nitro-services/"><u>Evaluating Premium Nitro Services</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-on-integrating-various-fortnite-accounts-efficiently/"><u>Expert Tips on Integrating Various Fortnite Accounts Efficiently</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-smooth-transitions-in-games-through-nvidia-g-sync/"><u>Exploring Smooth Transitions in Games Through Nvidia G-Sync</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-without-the-chair-cushion/"><u>Gaming Without the Chair Cushion</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-disconnecting-wireless-networks-using-windows-11-settings/"><u>Guide: Disconnecting Wireless Networks Using Windows 11 Settings</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-realme-11-pro-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Realme 11 Pro Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-huawei-nova-y71-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Huawei Nova Y71</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-samsung-galaxy-f14-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Samsung Galaxy F14 5G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-prime-software-for-professional-4k-screen-capture/"><u>In 2024, Prime Software for Professional 4K Screen Capture</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-stories-in-simplicity/"><u>In 2024, Stories in Simplicity</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-infinix-hot-30i-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Infinix Hot 30i FRP</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-gaming-mobile-good-or-bad/"><u>Is Gaming Mobile Good or Bad?</u></a></li>
+<li><a href="https://games-able.techidaily.com/key-attributes-to-enhance-your-gaming-experience-with-a-mouse/"><u>Key Attributes to Enhance Your Gaming Experience with a Mouse</u></a></li>
+<li><a href="https://games-able.techidaily.com/methods-for-rectifying-screen-driver-issues-on-pcs/"><u>Methods for Rectifying Screen Driver Issues on PCs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>Methods to Change GPS Location On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-apple-arcade-for-your-next-favorite-game/"><u>Navigating Apple Arcade for Your Next Favorite Game</u></a></li>
+<li><a href="https://games-able.techidaily.com/post-subscription-where-do-ps-plus-games-go/"><u>Post-Subscription: Where Do PS Plus Games Go?</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplifying-nintendo-switch-password-management/"><u>Simplifying Nintendo Switch Password Management</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-swapping-console-zones/"><u>The Ultimate Guide to Swapping Console Zones</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-vivo-y100t-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Vivo Y100t Location | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-choices-for-enhancing-your-steam-deck-experience/"><u>Top Choices for Enhancing Your Steam Deck Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-controller-enhanced-mobile-platforms/"><u>Top Controller-Enhanced Mobile Platforms</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/transform-the-way-you-view-web-content-using-ms-edges-split-screen-functionality-for-2024/"><u>Transform the Way You View Web Content Using MS Edge's Split Screen Functionality for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719161479393-transform-your-playtime-claim-deals/"><u>Transform Your Playtime, Claim Deals</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/ultimate-list-of-top-5-videographer-software/"><u>Ultimate List of Top 5 Videographer Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/unwired-playtime-explore-idle-games/"><u>Unwired Playtime: Explore Idle Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/virtual-detective-duties-powered-by-artificial-intelligence/"><u>Virtual Detective Duties Powered by Artificial Intelligence</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-third-party-controller-ban-consequences-for-gamers/"><u>Xbox Third-Party Controller Ban – Consequences for Gamers?</u></a></li>
+</ul></div>

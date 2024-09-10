@@ -1,7 +1,7 @@
 ---
 title: Understanding the Functionality of Google Play Games on Windows
-date: 2024-09-04T21:57:41.313Z
-updated: 2024-09-05T21:57:41.313Z
+date: 2024-09-09T09:33:59.007Z
+updated: 2024-09-10T09:33:59.007Z
 tags:
   - games
 categories:
@@ -14,6 +14,12 @@ thumbnail: https://thmb.techidaily.com/e52d2b220bf33233df1f453020b7bd5deb6b55f7c
 
 ## Understanding the Functionality of Google Play Games on Windows
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Google Play Games on PC is an officially supported PC emulator for Android mobile games available on Google Play, currently in beta and supporting around 100 popular games.
@@ -22,6 +28,12 @@ thumbnail: https://thmb.techidaily.com/e52d2b220bf33233df1f453020b7bd5deb6b55f7c
 
  Another Google gaming project, but on PC? Google is coming out with an Android emulator for PC focused on gaming called Google Play Games on PC. Here's what you need to know about it and how you can join the beta.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is Google Play Games on PC?
 
 ![Google Play Games list of games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/google-play-games-list-of-games.JPG)
@@ -35,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/e52d2b220bf33233df1f453020b7bd5deb6b55f7c
  With Google Play Games, you’re able to move from your phone to PC while keeping your progress on connected games. It uses your PC’s more powerful hardware, so you can play your favorite Android games on a larger screen and with higher-fidelity graphics.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030385/7443" target="_top" id="2030385">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030385" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030385/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to Get Google Play Games on PC
 
@@ -46,53 +58,35 @@ thumbnail: https://thmb.techidaily.com/e52d2b220bf33233df1f453020b7bd5deb6b55f7c
 
 ![Turn on Virtualization prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/turn-on-virtualization-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Installation is just like any Windows app, except for the added step of needing to turn on system virtualization. You’ll need to go into your BIOS and turn it on from there. Check out[how to enable Hyper-V for Windows 10](https://www.makeuseof.com/tag/create-virtual-machine-using-windows-10-hyper-v/) or[Windows 11](https://www.makeuseof.com/windows-11-enable-hyper-v/) for a full tutorial.
 
 ![SVM mode in BIOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/svm-mode-in-bios.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can now download games like Mobile Legends, Asphalt 9, Free Fire MAX, Genshin Impact, and many more. However, it doesn’t have PUBG, Call of Duty: Mobile, Wild Rift, and many more popular games yet. There are only about 100 games in the beta, but more will be added in the future.
 
 ![Asphalt 9 Legends Gameplay on PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/asphalt-9-legends-gameplay-on-pc.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Image Credit: Jhet Borja
 
  We suggest making space on your C: drive, as you can’t change the download location in this beta version. Even if you install Google Play Games on a different drive, the downloads will still go into AppData/Local/Google/Play Games/userdata\_xxxxx.xxx/avd/userdata.img.
 
  That file is a virtual 512GB drive for the emulator, and you can’t really change that right now.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Should You Play Your Mobile Games on Google Play Games on PC?
 
 ![Clash of Clans on PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/clash-of-clans-on-pc.JPG)
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Image Credit: Jhet Borja
 
@@ -102,18 +96,18 @@ thumbnail: https://thmb.techidaily.com/e52d2b220bf33233df1f453020b7bd5deb6b55f7c
 
 ![Closeup of phone and tablet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/closeup-of-phone-and-tablet.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Image Credit: Jhet Borja
 
  MOBAs like Mobile Legends aren’t ideal, as you can’t play them like DOTA or League of Legends on PC. You’ll have to use WASD to move your character around instead of just right-clicking on the map, leaving your fingers scrambling for movement and activating skills at the same time.
 
  However, it’s excellent for shooters like Knives Out or Free Fire MAX. It probably even gives you an edge, since aiming with a mouse is superior to a touch screen. If you do want to play PUBG or Call of Duty: Mobile, however, there are plenty of[other lightweight Android emulators](https://www.makeuseof.com/lightweight-emulators-android-games-pc/) you can use that don’t have the limitations of Google Play Games.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Play Your Favorite Android Games With an Officially Supported Emulator
 
  Google Play Games is still in beta, and we wouldn’t suggest using it as your main emulator if you really want to play games. Especially because it’ll take up space on your C: drive very quickly if you download many games. There are plenty of other options for you out there, but an officially supported emulator is exciting, and we can’t wait to see what it’ll turn into in the future.

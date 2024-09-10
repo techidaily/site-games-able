@@ -1,7 +1,7 @@
 ---
 title: Is Switch's Connectivity Upgrade Worth the Dollar?
-date: 2024-09-04T21:56:47.495Z
-updated: 2024-09-05T21:56:47.495Z
+date: 2024-09-09T09:33:59.757Z
+updated: 2024-09-10T09:33:59.757Z
 tags:
   - games
 categories:
@@ -12,6 +12,18 @@ keywords: Switch Connectivity Value,Cost-Benefit Switch Update,Is Switch Worth U
 thumbnail: https://thmb.techidaily.com/0be5a94dd3d4589909d5a9db46fde9f5e7dc17aa86b034cba9990542387160cd.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Is Switch's Connectivity Upgrade Worth the Dollar?
 
  After Nintendo launched the Nintendo Switch Online service in 2018, Switch Online didn't undergo any major changes until October 2021\. At that point, Nintendo announced an Expansion Pack for the service that adds more value—at an additional cost.
@@ -24,6 +36,18 @@ thumbnail: https://thmb.techidaily.com/0be5a94dd3d4589909d5a9db46fde9f5e7dc17aa8
 
  See our[full overview of Switch Online](https://www.makeuseof.com/tag/nintendo-switch-online-everything-need-know/) for more details.
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is the Switch Online Expansion Pack?
 
  The Expansion Pack includes everything from the base Switch Online plan, plus some additional benefits. It's available as a separate subscription, meaning that the core Switch Online service is still available and unchanged.
@@ -42,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/0be5a94dd3d4589909d5a9db46fde9f5e7dc17aa8
  Your interest in the Expansion Pack will likely depend on how many of its games you want to play, so let's list those next.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030373/7443" target="_top" id="2030373">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030373" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030373/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Games Included in the N64 Switch Online Library
 
@@ -83,6 +107,12 @@ thumbnail: https://thmb.techidaily.com/0be5a94dd3d4589909d5a9db46fde9f5e7dc17aa8
 
  Any games that support local multiplayer, such as Mario Tennis and Star Fox 64, are also playable online with friends. You can't matchmake with random opponents, though.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Games Included in the Genesis/Mega Drive Switch Online Library
 
  The Switch Expansion Pack also lets you play dozens of classic Sega Genesis titles. There are too many to list here; see[Nintendo's Genesis Switch Online page](https://www.nintendo.com/store/products/sega-genesis-nintendo-switch-online-switch/) for a full list.
@@ -111,12 +141,6 @@ thumbnail: https://thmb.techidaily.com/0be5a94dd3d4589909d5a9db46fde9f5e7dc17aa8
 
  In addition to the included games, the other major part of the Switch Online Expansion Pack is a few DLC packs for big Switch titles. Let's review what you get. Note that you must own the original title to access its DLC.
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Animal Crossing: New Horizons: Happy Home Paradise
 
  Happy Home Paradise is the only paid DLC pack for Animal Crossing: New Horizons. In this expansion, you visit distant islands to design vacation homes for various villagers, completing their dream look with an inventory not limited to what you've collected in the game.
@@ -125,12 +149,6 @@ thumbnail: https://thmb.techidaily.com/0be5a94dd3d4589909d5a9db46fde9f5e7dc17aa8
 
  If you cancel your subscription down the road, you'll retain some items earned for your own home from the DLC, but will lose access to the archipelago where the main vacation home designing takes place. Check out our[tips for New Horizons](http://www.makeuseof.com/tag/animal-crossing-new-horizons-tips-tricks/) to get the most from the game.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Splatoon 2: Octo Expansion
 
  This single-player add-on for Splatoon 2 allows you to play as an Octoling and take on dozens of missions in a mysterious underground subway.
@@ -139,18 +157,6 @@ thumbnail: https://thmb.techidaily.com/0be5a94dd3d4589909d5a9db46fde9f5e7dc17aa8
 
  The Octoling Expansion typically costs $19.99\. If you let your Switch Online subscription lapse, you won't be able to access this DLC until you either resubscribe or purchase it.
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Mario Kart 8 Deluxe: Booster Course Pass
 
  Instead of announcing the next Mario Kart game, in February 2022, Nintendo announced a huge expansion to Mario Kart 8 Deluxe in the form of the Booster Course Pass. This brings 48 additional courses into the Switch game. Most are from previous Mario Kart titles—including the mobile Mario Kart Tour—but a few are all-new. Nintendo has also added a handful of new racers with the DLC.
@@ -158,10 +164,10 @@ thumbnail: https://thmb.techidaily.com/0be5a94dd3d4589909d5a9db46fde9f5e7dc17aa8
  Five of the six "waves" of the DLC are available now, with the last set to release by the end of 2023\. If you drop your Switch Online membership, you'll have to pay the regular price of $24.99 to access these new courses again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How Much Does the Switch Online Expansion Pack Cost?
 
@@ -173,18 +179,18 @@ thumbnail: https://thmb.techidaily.com/0be5a94dd3d4589909d5a9db46fde9f5e7dc17aa8
 
 ![Switch Online Expansion Pack July 2022](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Switch-Online-Expansion-Pack-July-2022.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### New Nintendo Switch Replica Controllers
 
  Note that alongside the Expansion Pack, Nintendo also offers replica[N64](https://store.nintendo.com/nintendo-64-controller.html) and[Genesis/Mega Drive](https://store.nintendo.com/sega-genesis-control-pad.html) controllers. Aside from being rechargeable instead of wired, and including Switch controller buttons like Home and Capture, they're almost identical to the original versions.
 
  These cost $49.99 each, and you must subscribe to any Switch Online plan to purchase them. However, both controllers regularly sell out due to high demand and it's not always clear when more stock will arrive. They're not required to play the new games, but do make it a more authentic experience.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Is the Switch Online Expansion Pack Worth It?
 
  Now that we've covered the details, we can discuss whether the Switch Online Expansion Pack is worth the cost. And at $30 more than the base plan, it's not as easy of a sell.
@@ -192,16 +198,10 @@ thumbnail: https://thmb.techidaily.com/0be5a94dd3d4589909d5a9db46fde9f5e7dc17aa8
  There are a couple of factors to consider in your decision—chiefly the value of the games included.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### If You Only Want Specific DLC or Genesis Games
 
@@ -209,6 +209,12 @@ thumbnail: https://thmb.techidaily.com/0be5a94dd3d4589909d5a9db46fde9f5e7dc17aa8
 
  Similarly, if you're primarily looking for the Sega Genesis games, you can get more retro titles without a subscription by buying[Sega Genesis Classics](https://www.nintendo.com/games/detail/sega-genesis-classics-switch/) for $30 on the eShop. This doesn't include every game that Switch Online does, but has far more games overall. This compilation also packs in the same convenience features as Switch Online, like rewinding and online multiplayer. It also goes on sale sometimes, offering more value if you're willing to wait for a price drop.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### If You Primarily Want N64 Games or GBA Games
 
  The Expansion Pack has more value if you want access to the N64 library. Unless you still have a Wii U and bought N64 games before the Wii U eShop closed, there's no easy way to legally play these games on a modern system—making it a more attractive deal.
@@ -219,12 +225,24 @@ thumbnail: https://thmb.techidaily.com/0be5a94dd3d4589909d5a9db46fde9f5e7dc17aa8
 
  The same is largely true for the GBA titles. If you're a fan of Zelda, Metroid, Mario, or WarioWare and have never played the GBA entries in these franchises, there's enough value here to be worth a year's subscription at least.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### If You Want to Play All the DLCs
 
  If you plan to play the DLCs for Splatoon 2, Mario Kart 8 Deluxe, and Animal Crossing: New Horizons, the Expansion Pack has much more value. Those three packs are valued at $70 total, so if you pay for a year's worth of the service to experience them all, you've gotten a deal.
 
  However, keep in mind that for the Animal Crossing and Mario Kart expansions, you'll probably want ongoing access. The Splatoon 2 DLC isn't something you'll worry about much after clearing it.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Expansion Pack's Price Is Too High
 
  The Expansion Pack being poorly priced compounds its other problems.[PlayStation Plus Essential and Xbox Live Gold each](https://www.makeuseof.com/tag/xbox-live-versus-playstation-plus-get/) cost just $10 more ($60/year), yet they offer free games, deeper discounts during sales, and much better online infrastructure. Switch Online, meanwhile, offers a pitiful excuse for party chat with its janky app implementation, and has additional classic games arrive at a glacial pace.
@@ -233,12 +251,6 @@ thumbnail: https://thmb.techidaily.com/0be5a94dd3d4589909d5a9db46fde9f5e7dc17aa8
 
  We'd recommend finding a few friends and[subscribing to the shareable plan](https://www.makeuseof.com/tag/save-premium-subscriptions-9-shareable-accounts/) . That way, you can drop the price down to as low as $10/person/year, which negates some of the above worries.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Switch Online Expansion Pack: Decent, but Expensive
 
  The Switch Online Expansion Pack adds more classic games to the service, but at a high cost. You can get individual DLC and the Genesis games cheaper by purchasing them outright, and the Switch's N64 emulation isn't the best way to play those games. However, there's still enough here to make it worth the price for some, including some solid Game Boy Advance games.

@@ -1,7 +1,7 @@
 ---
 title: "Jumpstarting the Legacy: PSP to Virtual Arcade Machine"
-date: 2024-07-12T03:52:03.992Z
-updated: 2024-07-13T03:52:03.992Z
+date: 2024-09-09T09:33:36.084Z
+updated: 2024-09-10T09:33:36.084Z
 tags:
   - games
 categories:
@@ -12,12 +12,24 @@ keywords: PSP Classic Emulation,Virtual Arcade Console,Legacy Gaming Revival,PSo
 thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f575a767398e1a9fe3bc5176a.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Jumpstarting the Legacy: PSP to Virtual Arcade Machine
 
  The Sony PSP is a legendary piece of gaming hardware. What makes it even more amazing are the things you can do to modify it and get more out of it.
 
  Emulators are a great way to get the most out of your old PSP as besides playing PSP titles natively, Game Boy games run especially well on the PSP, so it's the perfect platform to emulate.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Sony PSP Is a Great Platform for Emulation
 
  The Sony PlayStation Portable is often thought of as being ahead of its time. It had a great form factor, decently powerful internals, and could be a whole media center in a tiny package. Even [the PS Vita failed](https://www.makeuseof.com/why-ps-vita-failed/) and couldn't live up to the PSP.
@@ -32,10 +44,22 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
 
  If you have an old PSP or can get your hands on one for a low price, emulation is a great way to make the most of it and play multiple retro platforms on one convenient handheld. While there are [great emulators on Android](https://www.makeuseof.com/tag/best-game-emulators-for-android/) , a physical device just makes the experience so much better.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Emulate Game Boy Games on Your PSP
 
  In this article, we’re going to be focusing on Game Boy emulation, as it’s one of the easiest platforms to get running on a PSP. Many of these steps will still apply for other platforms as the program we’ll be using has many platforms built in already. Let’s get to turning your PSP into a Game Boy.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Disclaimer
 
  Installing custom firmware is not jailbreaking. However, we do not condone piracy and we do not encourage you to illegally access copyrighted content such as ROMs. Please use rips and backups of games you already own and do not use redistributed copyrighted content from the internet.
@@ -52,6 +76,12 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
 
 ![Complete folder structure for PSP update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/complete-folder-structure-for-psp-update.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  For Infinity, follow this folder structure: PSP/GAME/UPDATE. If the UPDATE folder already exists, skip this step.
 
 ![Moving Infinity update file into PSP UPDATE folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/moving-infinity-update-file-into-psp-update-folder.jpg)
@@ -68,6 +98,12 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
 
 ![Infinity 2 thumbnail on PSP](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/infinity-2-thumbnail-on-psp.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  We’ll start with Infinity first; turn your PSP on and head to**Game > Memory Stick** . Look for the Infinity 2 thumbnail and select it.
 
  Once you open Infinity, you’ll need to install it by pressing**X** on your PSP. After the installation completes, you’ll then be asked to reboot your PSP.
@@ -78,20 +114,44 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
 
 ![PRO-C installation screen on PSP](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/pro-c-installation-screen-on-psp-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  After launching it, you’ll see small text on the upper left of your PSP. All you need to do now is press**X** to execute the installation of the firmware. After installation, press**X** again to reboot your PSP and launch the custom firmware.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3: Make the PSP Custom Firmware Persistent
 
  Now that you’re in the custom firmware, you’ll need to make it persistent with Infinity. If you don’t, rebooting your PSP will revert it back to official firmware.
 
 ![PRO CFW selected in Infinity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/pro-cfw-selected-in-infinity.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To make the custom firmware permanent, open up Infinity. With Infinity open, press left on your D-Pad. Select**PRO CFW by Coldbird** . You’ll know if you’ve selected it once you see an asterisk beside the text.
 
  Press right on your D-Pad to go back to the main Infinity screen and press the**Home button** on your PSP to exit.
 
 ![PSP system version with Pro-C and Infinity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/psp-system-version-with-pro-c-and-infinity-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can check if the custom firmware is installed by going to**Settings > System Settings > System Information** . You should see an infinity symbol next to the version number of your system software.
 
 ### Step 4: Set Up RetroArch
@@ -112,6 +172,12 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
 
 ![RetroArch Downloads highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/retroarch-downloads-highlighted-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When moving games to your PSP for RetroArch to run, place it in the PSP/RETROARCH/DOWNLOADS folder and you should see them in the Downloads when selecting**Load Content** RetroArch on your PSP.
 
 ## An Old Platform to Play Older Platforms
@@ -139,3 +205,43 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-capturing-the-whole-picture-not-just-slices-of-it/"><u>[New] Capturing the Whole Picture, Not Just Slices of It</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-complete-guide-the-basics-of-google-podcasts-app-for-2024/"><u>[New] Complete Guide The Basics of Google Podcasts App for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-harnessing-power-in-pixels-top-10-instagram-video-ad-mastery-techniques/"><u>[New] In 2024, Harnessing Power in Pixels Top 10 Instagram Video Ad Mastery Techniques</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-effortless-screen-capture-on-chrome-os-devices-for-2024/"><u>[Updated] Effortless Screen Capture on Chrome OS Devices for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-convenient-technique-winning-the-art-of-fish-dialogue-alteration/"><u>2024 Approved Convenient Technique Winning the Art of Fish Dialogue Alteration</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-journey-into-the-metaverse-constructing-an-authentic-avatar/"><u>2024 Approved Journey Into the Metaverse Constructing an Authentic Avatar</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-latest-techniques-for-ios-iphoneipad-screen-capture-2023-update/"><u>2024 Approved Latest Techniques for iOS (iPhone/iPad) Screen Capture - 2023 Update</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-lava-yuva-3-pro-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/capturing-moments-on-facebook-beyond-the-screen/"><u>Capturing Moments on Facebook Beyond the Screen</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-the-showdown-in-depth-analysis-of-chatgpt-and-microsofts-bing-bot-side-by-side/"><u>Decoding the Showdown: In-Depth Analysis of ChatGPT and Microsoft's Bing Bot, Side by Side</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-gameplay-pleasure-mastering-essential-techniques-5-tips-on-a-mac/"><u>Elevate Gameplay Pleasure: Mastering Essential Techniques (5 Tips) on a Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-your-wallets-gaming-capacity-on-steam/"><u>Enhancing Your Wallet's Gaming Capacity on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/enjoy-full-adventure-of-baldurs-gate-3-easily-through-crossover-on-macos/"><u>Enjoy Full Adventure of Baldur’s Gate 3 Easily Through CrossOver on macOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-roundup-of-ddr5-boards-2024/"><u>Expert Roundup of DDR5 Boards 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-ace-selecting-the-best-from-google-play-games-beta-pc/"><u>Game Ace: Selecting the Best From Google Play Games Beta PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-check-out-how-much-vram-you-have/"><u>How to Check Out How Much VRAM You Have</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-screener-info-deconverter/"><u>In 2024, Screener Info Deconverter</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-the-gaming-quality-of-am08-pro-validated/"><u>Is the Gaming Quality of AM08 Pro Validated?</u></a></li>
+<li><a href="https://games-able.techidaily.com/late-launches-the-unseen-growth-catalyst/"><u>Late Launches: The Unseen Growth Catalyst</u></a></li>
+<li><a href="https://games-able.techidaily.com/leveraging-persuasive-techniques-for-impactful-steam-critiques/"><u>Leveraging Persuasive Techniques for Impactful Steam Critiques</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-twitch-vod-extraction-with-our-best-picks/"><u>Mastering Twitch VOD Extraction with Our Best Picks</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5s-leap-from-bulky-to-compact-wonder/"><u>PS5's Leap From Bulky to Compact Wonder</u></a></li>
+<li><a href="https://games-able.techidaily.com/reduce-battery-drain-enhance-gameplay-with-xbox-techniques/"><u>Reduce Battery Drain, Enhance Gameplay with Xbox Techniques</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-lost-arks-frame-rate-drops-and-optimization-tips/"><u>Resolved: Lost Ark's Frame Rate Drops and Optimization Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-steam-server-accessibility-problems/"><u>Resolving Steam Server Accessibility Problems</u></a></li>
+<li><a href="https://games-able.techidaily.com/roblox-fps-unlockers-functionality-and-safety-concerns/"><u>Roblox FPS Unlockers: Functionality & Safety Concerns</u></a></li>
+<li><a href="https://games-able.techidaily.com/safe-speaking-hiding-your-voice-on-xbox/"><u>Safe Speaking: Hiding Your Voice on Xbox</u></a></li>
+<li><a href="https://games-able.techidaily.com/sky-high-gameplay-maximizing-your-pcs-fps-capability/"><u>Sky-High Gameplay: Maximizing Your PC's FPS Capability</u></a></li>
+<li><a href="https://games-able.techidaily.com/tactical-triumphs-an-exclusive-guide-to-top-11-strategy-titles/"><u>Tactical Triumphs: An Exclusive Guide to Top 11 Strategy Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-modern-retro-consoles/"><u>The Best Modern Retro Consoles</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-nostalgic-console-contemporary-and-timeless/"><u>The Nostalgic Console: Contemporary and Timeless</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-quality-desk-matts-ready-for-modern-workspaces/"><u>Top Quality Desk Matts Ready for Modern Workspaces</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-gaming-experience-with-ultimate-xbox/"><u>Transform Your Gaming Experience with Ultimate Xbox</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-game-potential-5-proven-methods-to-enhance-favourite-games-on-a-mac/"><u>Unleash Game Potential: 5 Proven Methods to Enhance Favourite Games on a Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-the-past-ios-and-classic-psp-games-combo/"><u>Unlocking the Past: IOS & Classic PSP Games Combo</u></a></li>
+</ul></div>

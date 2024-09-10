@@ -1,0 +1,224 @@
+---
+title: Vanishing in the Gaming World
+date: 2024-09-09T09:40:51.870Z
+updated: 2024-09-10T09:40:51.870Z
+tags:
+  - games
+categories:
+  - games
+description: This Article Describes Vanishing in the Gaming World
+excerpt: This Article Describes Vanishing in the Gaming World
+keywords: Gaming Escapism,Virtual Disappearance,In-Game Vanishings,Secret Game Worlds,Hidden Gaming Realms,Mystery in Games,Fantasy Loss Mechanics
+thumbnail: https://thmb.techidaily.com/298f3a51b5ad96cf99ca78528e1cf7576a8f7bf919402e8696c70895bc723b47.jpg
+---
+
+## Vanishing in the Gaming World
+
+ Steam does a great job at creating gaming communities and helping you connect with your friends. But sometimes it can be a bit too much, and you might want more privacy regarding your Steam activity.
+
+ In this article, we’ll take a look at how you can stop your friends from checking your gameplay activity, how you can hide games from your library, or how to make your profile private. And if you don't want your friends to see that you've been up all night playing, there's an easy trick to replace your recent activity.
+
+## 1\. Hide Played Steam Games
+
+ When someone visits your profile, they can see which games you’ve played and for how many hours. Now, if you don’t want your gamer friends to discover your guilty pleasures, you can hide your played games from your profile.
+
+1. Launch Steam.
+2. Hover the cursor over your username and select**View my profile** .
+3. Click the**Edit Profile** button.
+4. Select**Privacy settings** .
+5. Next to**Game details** , click**Public** and set it to**Friends Only** or**Private** if you don’t want anyone to see your list of played games. Steam will auto-save your new profile settings.
+
+![Hide Steam played games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-played-games-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 2\. Hide Steam Games From Your Library
+
+ If you’re sharing the computer with anyone else, it might make sense to hide certain games from your Steam library. Maybe they’re younger than you and the in-game content is not appropriate for their age.
+
+ Or you’re just embarrassed about playing a game, and you don’t want family or friends to discover it. To hide any game, launch the Steam app and head to your library. There, select the game you want to hide, click the**Settings** icon and select**Manage > Hide this game** .
+
+![Hide Steam game from library](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-steam-game-1.jpg)
+
+ If you want to play the game that you’ve hidden, go to**View > Hidden games** . To bring back the game to your library, access its settings and click**Manage > Remove from hidden** .
+
+![Unhide Steam game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/unhide-game-steam-1.jpg)
+
+ Hiding a game is an easy trick, but it might not be enough to prevent other people from finding it. In this case, you can[uninstall a Steam game and reinstall it later](https://www.makeuseof.com/how-to-uninstall-steam-games-reinstall/) .
+
+## 3\. Hide Steam Gameplay Activity
+
+ Every time you start playing one of your games, Steam will send a notification to all of your Steam friends, if they are online. When you want to enjoy a gaming session with your friends, it can be really useful. But if you’re feeling like playing solo, you should turn off Steam notifications.
+
+ Once you launch the Steam client, open the**Friends** menu, Then, select**Offline** or**Invisible** .
+
+ After you select one of the options, you can play any game within your library without your friends knowing. However, they will be able to see any game achievements or activity if they visit your profile.
+
+![Set status to Invisible on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/steam-invisible-1.jpg)
+
+ The**Offline** option will log you out of the Steam chat, so you’ll not receive any messages from your friends. On the other hand, if you still want to communicate with your friends, it’s better to select**Invisible** . Also, you will not receive any invitations on Steam while you’ve set your status as**Offline** or**Invisible** .
+
+ Besides hiding your Steam gameplay activity, you can[customize the in-game activity status on Steam](https://www.makeuseof.com/how-to-customize-in-game-activity-status-steam/) to confuse your friends.
+
+## 4\. Hide Steam Gameplay Activity for Specific Friends
+
+ You can hide your Steam gameplay activity for individual friends if hiding it for all of your friends feels like overdoing it.
+
+ Launch the Steam app and click**Friends & Chat** from the bottom-right corner. Click your friend's name and select**Manage > Block All Communication** .
+
+![Block friends on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/steam-friends-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Once you block all communication, your friends will see you as offline. Also, if they visit your profile, Steam will show your profile as a private one.
+
+ So, if you don’t want to raise suspicions, you should unblock them after a while. Go through the above steps again and select**Unblock All Communication** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 5\. Replace Recent Activity
+
+ If you didn’t remember to set your status as**Invisible** or**Offline** before going on a gaming marathon, and you don’t want your friends to see your Recent Activity, there’s a quick trick you can try.
+
+ Launch any game from your Steam library and close it after a couple of minutes. Then, do the same thing with two or three other different games. These short sessions should replace your latest activity on your Steam profile.
+
+ Alternatively, you can use Steam’s free watchable episodes to replace your recent activity. Here’s how you can do it:
+
+1. Head to[Steam](https://store.steampowered.com/) .
+2. Search for one of Steam’s free watchables, such as**The Making of Horizon Zero Dawn** .
+3. Play one of the episodes.
+4. Once Steam opens a new window, close it as quickly as possible. This way, Steam doesn’t have a chance to load the content.
+
+![Watch Steam's free watchables](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/steam-free-watchable-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Go through the above steps two or three more times, but play different episodes. Steam will try to replace your recent activities, but because it couldn’t properly play the episodes, it will simply remove the previous Recent Activity version.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 6\. Make Your Steam Profile Private
+
+ If you don’t want to manage multiple settings on your Steam account, you can choose the nuclear option and set your profile to**Private** . This will block any form of communication with your friends and will influence multiple categories such as Game details, Friends List, and Inventory.
+
+Follow these steps to set your profile to Private:
+
+1. Hover the mouse over your username and select**View my profile** .
+2. Click the**Edit profile** button.
+3. From the left pane, open**Privacy Settings** .
+4. Set**My profile** to**Private** .
+
+![Set Steam profile to Private](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/steam-private-profile-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Keep Steam Private
+
+ Playing games should always be about having fun and a little privacy might help. With the above tips, you can keep prying eyes away so no one can spoil your gaming sessions. If you want to keep everything to yourself, you should set your profile as**Private** . But if you still want to share game inventory with your friends, you can set your status as**Offline** or**Invisible** before playing.
+
+ If you notice you can't unlock any achievements on your Steam account, it has nothing to do with your efforts to hide your Steam activity. Instead, try to disable Steam offline mode or take a quick look at the achievement guide. Also, make sure it's a Steam game.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/he-basics-of-youtube-compliance-guidelines/"><u>[New] The Basics of YouTube Compliance Guidelines</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-easy-ways-to-get-free-views-on-youtube-alternative-methods/"><u>[Updated] 2024 Approved Easy Ways To Get Free Views on YouTube! Alternative Methods</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-engaging-audien-writes-and-converting-followers-through-instigra-for-2024/"><u>[Updated] Engaging Audien Writes and Converting Followers Through Instigra for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-enhance-your-xiaomi-experience-with-easy-record-screens-for-2024/"><u>[Updated] Enhance Your Xiaomi Experience with Easy Record Screens for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-explore-and-expand-top-7-services-turning-your-digital-creations-into-crypto-assets/"><u>[Updated] Explore and Expand Top 7 Services Turning Your Digital Creations Into Crypto Assets</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-how-to-find-videos-on-facebook/"><u>[Updated] In 2024, How to Find Videos on Facebook?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-video-snippet-creator/"><u>[Updated] In 2024, Video Snippet Creator</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-elevating-your-unbox-sessions-secrets-for-more-views-and-likes-on-tiktok/"><u>2024 Approved Elevating Your Unbox Sessions Secrets for More Views and Likes on TikTok</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/capture-the-moment-how-to-extract-images-from-videos-using-10-top-converters-for-2024/"><u>Capture the Moment How to Extract Images From Videos Using 10 Top Converters for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/decode-to-win-how-to-pick-the-best-app-store-games-on-arcade/"><u>Decode to Win: How to Pick the Best App Store Games on Arcade</u></a></li>
+<li><a href="https://os-tips.techidaily.com/decoding-apple-airtags-understanding-their-functionality-and-suitability-for-you/"><u>Decoding Apple AirTags: Understanding Their Functionality and Suitability For You</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-503-error-code-causes-impacts-and-remedies/"><u>Decoding the 503 Error Code: Causes, Impacts, and Remedies</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-hidden-treasures-in-codes-for-your-xbox/"><u>Discover Hidden Treasures in Codes, For Your Xbox</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-ultimate-mac-gaming-experience-with-these-top-techniques/"><u>Discover the Ultimate Mac Gaming Experience with These Top Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-fortnite-on-a-mac-mind-those-hidden-limits/"><u>Discovering Fortnite on a Mac - Mind Those Hidden Limits</u></a></li>
+<li><a href="https://games-able.techidaily.com/dlss-revolution-how-artificial-intelligence-shaped-update-35/"><u>DLSS Revolution: How Artificial Intelligence Shaped Update 3.5</u></a></li>
+<li><a href="https://games-able.techidaily.com/documenting-and-reporting-mistreatment-during-playtime-xbox/"><u>Documenting and Reporting Mistreatment During Playtime (Xbox)</u></a></li>
+<li><a href="https://games-able.techidaily.com/dual-play-the-ultimate-guide-for-switchs-minecraft/"><u>Dual PLAY: The Ultimate Guide for Switch's Minecraft</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-techniques-for-captioning-your-ig-stories-for-accessibility/"><u>Effective Techniques for Captioning Your IG Stories for Accessibility</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-gpu-temp-range-for-smooth-gameplay/"><u>Essential GPU Temp Range for Smooth Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-inception-to-icon-foddians-arc/"><u>From Inception to Icon: Foddian's Arc</u></a></li>
+<li><a href="https://games-able.techidaily.com/guide-identifying-the-top-8-features-in-cpu-coolers/"><u>Guide: Identifying the Top 8 Features in CPU Coolers</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-quality-on-a-dime/"><u>High Quality on a Dime</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-iems-enhance-competitive-gaming-sessions/"><u>How IEMs Enhance Competitive Gaming Sessions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-tecno-pova-5-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Tecno Pova 5 Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-remove-black-bars-from-youtube-videos/"><u>In 2024, How to Remove Black Bars From YouTube Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-maximize-impact-crafting-a-standout-video-ending/"><u>In 2024, Maximize Impact Crafting a Standout Video Ending</u></a></li>
+<li><a href="https://games-able.techidaily.com/leading-edge-joy-cons-and-controllers-the-best-of-2024/"><u>Leading-Edge Joy-Cons and Controllers: The Best of 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/leave-realms-behind-download-your-own-dungeons/"><u>Leave Realms Behind: Download Your Own Dungeons</u></a></li>
+<li><a href="https://games-able.techidaily.com/limiting-xbox-game-bar-interference-in-modern-pcs/"><u>Limiting Xbox Game Bar Interference in Modern PCs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/master-your-online-presence-with-manycams-professional-live-video-solutions/"><u>Master Your Online Presence with ManyCam's Professional Live Video Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-ps4-controls-for-pcmac-systems/"><u>Mastering PS4 Controls for PC/Mac Systems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premium-6-choices-for-cost-effective-4k-projection/"><u>Premium 6 Choices for Cost-Effective 4K Projection</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-ssds-for-ps5-enthusiasts/"><u>Premium SSDs for PS5 Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps4-complete-system-recovery-guide/"><u>PS4: Complete System Recovery Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/reigniting-passion-for-online-exploration/"><u>Reigniting Passion for Online Exploration</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionize-your-gameplay-6-cutting-edge-online-chess-games/"><u>Revolutionize Your Gameplay: 6 Cutting-Edge Online Chess Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/shining-your-way-through-pokemon-scarlet-and-violet-80/"><u>Shining Your Way Through Pokémon Scarlet & Violet (80)</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplify-game-file-management-on-steam-platform/"><u>Simplify Game File Management on Steam Platform</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-roblox-ios-memory-error-a-step-by-step-guide/"><u>Solving the Roblox iOS Memory Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/superiority-of-discords-nitro-features/"><u>Superiority of Discord’s Nitro Features?</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-art-of-immersive-play-optimizing-ss-blu-ray-feats/"><u>The Art of Immersive Play: Optimizing S's Blu-Ray Feats</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-fastest-way-to-boost-your-steam-decks-prowess/"><u>The Fastest Way to Boost Your Steam Deck's Prowess</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/itioning-from-imovie-editing-suite-to-youtube-showcase/"><u>Transitioning From iMovie Editing Suite to YouTube Showcase</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-success-resolved-windows-wont-see-your-tp-link-tl-wn722n/"><u>Troubleshooting Success: [Resolved] Windows Won't See Your TP-Link TL-WN722N</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-home-entertainment-showdown/"><u>Ultimate Home Entertainment Showdown</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-game-pass-101-features-and-advantages/"><u>Xbox Game Pass 101: Features and Advantages</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-series-x-never-ending-connections/"><u>Xbox Series X: Never-Ending Connections</u></a></li>
+</ul></div>

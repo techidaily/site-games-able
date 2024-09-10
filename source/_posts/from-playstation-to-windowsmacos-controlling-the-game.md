@@ -1,7 +1,7 @@
 ---
 title: "From PlayStation to Windows/macOS: Controlling the Game"
-date: 2024-09-04T21:58:17.852Z
-updated: 2024-09-05T21:58:17.852Z
+date: 2024-09-09T09:33:58.469Z
+updated: 2024-09-10T09:33:58.469Z
 tags:
   - games
 categories:
@@ -12,12 +12,24 @@ keywords: PlayStation to Windows Gaming Switch,Cross-Platform Control for Gamers
 thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2cf2f12f9be9d04582b68734.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## From PlayStation to Windows/macOS: Controlling the Game
 
  The DualShock 4 (the standard PS4 controller) is a great controller. Wouldn't it be nice if you could use it for Steam games, emulation, or PS Plus streaming?
 
  You can! And while you used to have to download drivers and mapping software, the process is much simpler now. Let's take a look at how to connect a PS4 controller to your PC or Mac.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Connect a PS4 Controller to Your Mac
 
  If you're using Steam, just plug your DualShock 4 controller (PS4) into the USB port. That's all there is to it.
@@ -30,15 +42,21 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
 
  Even if you're not using Steam, connecting the DualShock 4 to your Mac is simple. OpenEmu, the best emulator out there, supports the DualShock 4 natively, so all you have to do is plug it in and start playing. It might take a minute to figure out how it maps to an NES or Genesis controller, but after a few minutes of pressing buttons, you'll have it down. Mac is usually pretty good about connecting to PlayStation controllers, you can even[use the PS5 DualSense controller on a Mac](https://www.makeuseof.com/how-to-use-ps5-dualsense-controller-with-mac/) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Ho to Connect a PS4 Controller to Your PC
 
  The DualShock 4 will connect to your PC easily no matter which gaming platforms you use. The processes are slightly different depending on whether you're using Steam or not, but you can expect to have the controller set up within a few minutes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030391/7443" target="_top" id="2030391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Connecting a DualShock 4 on Steam
 
@@ -50,33 +68,21 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
 
 ![The controller settings menu in Steam Big Picture Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steam-big-picture-controller.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can even customize the LED color of the DualShock 4 in the Calibration and Advanced Settings menu.
 
 ![Steam calibration advanced settings controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steam-big-picture-mode-led.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Connecting a DualShock 4 for Non-Steam Games
 
@@ -92,30 +98,12 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
 
  And, like the Mac, you can use PS4 remote streaming to play your PS4 games on your PC. But again, you'll need to stay plugged in or use the adapter.
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The DualShock 4 Wireless USB Adapter
 
  If you're willing to shell out for an extra accessory, the DualShock 4 wireless USB adapter is a great way to use your controller on a computer that doesn't have Bluetooth or for some other reason isn't using the controller very well. It's a small USB dongle that enables all the DualShock's features in any app that supports them. That means you'll get full rumble, light bar, and even audio through the headphone jack.
 
  This adapter is no longer officially sold, but third-party versions exist on Amazon and other websites. You can find them for a relatively cheap price, and it could be a convenient way of getting full rumble, audio, and other functionality through the DualShock 4\. Despite being an older controller, the[DualShock 4 is a better PC controller than the Switch Pro controller](https://www.makeuseof.com/dualshock-4-vs-switch-pro-controller-best-for-pc-gaming/) , despite the latter controller coming out much later. This controller has stood the test of time for its robust design, superb responsiveness, and comfortable feel.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Game on Your PC With a PS4 Controller
 
  It's easy to connect and use a PS4 controller on your PC or Mac, with native Steam functionality on PC and native functionality on Mac. If you ever run into a situation where your controller isn't being recognized by your PC, using DS4Windows is usually enough to get around it.

@@ -1,7 +1,7 @@
 ---
 title: "Decoding Display Dilemmnas: Why You Shouldn't Splurge on HDR"
-date: 2024-09-04T21:56:51.251Z
-updated: 2024-09-05T21:56:51.251Z
+date: 2024-09-09T09:33:59.707Z
+updated: 2024-09-10T09:33:59.707Z
 tags:
   - games
 categories:
@@ -12,12 +12,24 @@ keywords: HDR Technology in Displays,Display Purchase Guide,Cost vs Performance 
 thumbnail: https://thmb.techidaily.com/33493674183189bab67b88de79a85b9996c293935f6ec3a823ac568973956aae.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Decoding Display Dilemmnas: Why You Shouldn't Splurge on HDR
 
  PC Gaming is all about optimal performance, customization, and graphical fidelity. If you can afford high-end hardware for the best experience possible, then a high refresh rate HDR monitor seems like the obvious choice. Unfortunately, the HDR experience on PC is vastly different from the one that you'd get on consoles.
 
  Due to limited monitor options, subpar optimization, and high costs, HDR gaming on PC won't quite meet your expectations. With the right display and the right game, it can look great, but here are a few reasons why HDR is likely not worth the hassle.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Limited Monitor Options
 
  You have a lot of options to pick from[when you're shopping around for a new monitor](https://www.makeuseof.com/gaming-monitor-buying-tips/) . However, once you decide that you need a monitor with HDR, your options start to get very limited. True HDR requires a high contrast ratio (10,000:1 or higher), 1,000 nits of peak brightness, and support for a wide color gamut.
@@ -26,22 +38,28 @@ thumbnail: https://thmb.techidaily.com/33493674183189bab67b88de79a85b9996c293935
 
  Of course, there are a few monitors that perform admirably for HDR gaming, but you might end up paying even more than your entire PC in some cases.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. The HDR400 Trap
 
 ![Dual monitors desk set up for visual comparison.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dual-monitors-desk-set-up-for-visual-comparison.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [If you bought an HDR monitor and aren't enjoying the experience](https://www.makeuseof.com/reasons-not-enjoying-true-hdr/) , then you've likely fallen into the HDR400 trap. True HDR (HDR10) monitors require at least 1,000 nits of peak brightness, but you can find plenty of monitors that feature an HDR400 certification. If the monitor has a wide color gamut, you will get better color reproduction and better highlights in brighter scenes with HDR400.
 
  However, HDR400 monitors fall flat when compared to true HDR10 monitors. This is because HDR400 monitors don't call for local dimming, a feature that dims the backlight to improve the depth of blacks.
 
  Since HDR400 monitors lack this feature, they rely on maxing the backlight to achieve that HDR look. This causes blacks to become grayish, and the issue is particularly bad with IPS monitors. You don't get the improvements in contrast either. With some games, a well-calibrated SDR (standard dynamic range) monitor is better than an HDR one.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. The Metadata Problem
 
  Even when monitors have 1,000 nits of peak brightness and feature support for HDR10, the problems don't stop there. HDR10 uses static metadata, which means that colors and brightness need to be fixed at the start of the game. This means that everything is calibrated once at the start, and doing so properly is not easy for game developers.
@@ -49,31 +67,25 @@ thumbnail: https://thmb.techidaily.com/33493674183189bab67b88de79a85b9996c293935
  In contrast, monitors that have support for dynamic metadata or HDR10+ fare better. With dynamic metadata, you get dynamic brightness and colors on a frame-by-frame basis. This is why games with HDR support can look great on certain monitors but bad on others. There's no universal or consistent experience.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 4\. You’ll Spend More Time Tweaking In-Game Settings
 
 ![young boy interacting with game settings on a monitor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/young-boy-doing-game-settings-on-the-monitor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  HDR is something that should work seamlessly and elevate the immersion in your gaming sessions. However, it can quickly turn into a source of frustration when it doesn't work. You might end up spending a lot of time within game menus, playing around with lighting and other graphical settings.
 
  Outside of gaming, Windows has its fair share of bugs when it comes to using HDR monitors. There are color rendering issues with certain displays, enabling/disabling HDR doesn't always work, and sometimes even SDR content looks dimmer than usual. Some of these issues have been fixed, but your mileage may vary considering how inconsistent Windows can be when it comes to fixing bugs.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Most Games Are Not Optimized for HDR
 
  One of the many[common myths surrounding PC gaming](https://www.makeuseof.com/pc-gaming-myths-debunked/) is that you need high-end hardware to fully enjoy it. However, most people are rocking budget or mid-range systems that can play games comfortably at 1080p or 1440p. The high-end market is smaller than you may think, and HDR gaming is an even smaller market in comparison.
@@ -84,28 +96,10 @@ thumbnail: https://thmb.techidaily.com/33493674183189bab67b88de79a85b9996c293935
 
 ![computer monitor set up on a desk for gaming](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/big-flat-screen-computer-monitor-set-up-on-a-desk-for-gaming.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  It's obvious that you care about visuals if you're thinking of buying an HDR monitor. This means cranking all those graphical settings in-game to the max and turning on HDR when it's available. Now while HDR itself doesn't require any extra graphical horsepower, playing games at max settings does require high-end hardware.
 
  The problem is that high-end hardware isn't accessible to most people. You could buy a budget or mid-range PC and pair it with an expensive HDR monitor, but that doesn't make much sense. It's a better idea to dedicate more money toward performance than to a feature that only works well with certain games.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Disappointing State of HDR in PC Gaming
 
  This post is a bit of a downer, but it's the sad truth. HDR gaming on PCs is not quite there yet. Even though monitor prices have decreased in the past few years and displays are getting better, optimization is still a big issue. Most studios don't have the budget to dedicate resources to HDR content, and that's mainly why the experience is so subpar at the moment.

@@ -1,7 +1,7 @@
 ---
 title: "IFA 2023: Lenovo Legion Go - Next-Gen Gaming Experience"
-date: 2024-09-04T21:53:33.284Z
-updated: 2024-09-05T21:53:33.284Z
+date: 2024-09-09T09:34:02.415Z
+updated: 2024-09-10T09:34:02.415Z
 tags:
   - games
 categories:
@@ -14,6 +14,12 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
 
 ## IFA 2023: Lenovo Legion Go - Next-Gen Gaming Experience
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * The Lenovo Legion Go features an excellent 8.8-inch screen, QHD resolution, and better color range compared to its competitors.
@@ -53,34 +59,22 @@ You can check out the Lenovo Legion Go's specs below.
 
 ![lenovo legion go hardware specs on screen at ifa 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/lenovo-legion-go-hardware-specs-on-screen-at-ifa-2023.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Image Credit: Gavin Phillips/MakeUseOf
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5 Lenovo Legion Go Features We Loved
 
  The Lenovo Legion Go is shaping up to be a cracking gaming handheld, so much so, we gave it a[Best Tech in Show award for IFA 2023](https://www.makeuseof.com/makeuseof-best-of-ifa-2023-awards/) . These are the features we loved during our hands-on test.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. The Lenovo Legion Go Has an Excellent Screen
 
 ![close up of lenovo legion go screen at ifa 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/close-up-of-lenovo-legion-go-screen-at-ifa-2023.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Image Credit: Gavin Phillips/MakeUseOf
 
  As with most gaming handhelds, the first feature you notice is the screen, and the Lenovo Legion Go's screen is top-notch.
@@ -89,10 +83,28 @@ You can check out the Lenovo Legion Go's specs below.
 
  Although the brightness of the Legion Go and the ROG Ally are the same, at 500 nits, the Lenovo unit delivers much greater color range and depth by way of its 97% DCI-P3 color gamut support. In short, it displays a wider range of colors, which really shows.
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. FPS Mode
 
 ![man using lenovo legion go fps mode at ifa 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/man-using-lenovo-legion-go-fps-mode-at-ifa-2023.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Image Credit: Gavin Phillips/MakeUseOf
 
  The reason I've added the Nintendo Switch to the list of Legion Go competitors mostly comes down to this feature. First up, the Legion Go controllers are detachable, similar to how you slip the Switch Joy-Cons off to use the screen separately or for two-player gaming. We don't know if you'll be able to use them for two-player game modes as yet—we'll find out when we get some more time with the Legion Go.
@@ -101,6 +113,12 @@ You can check out the Lenovo Legion Go's specs below.
 
  You can also use the right controller as a mouse, which can make it easier to navigate menus and otherwise on the Legion Go. The experience is very similar to a regular mouse, which will make it accessible to most folks.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Bigger Battery
 
  Both the Steam Deck and Asus ROG Ally have a 40Wh battery. They both last a decent stretch but come under serious pressure when playing AAA-rated games.
@@ -108,15 +126,21 @@ You can check out the Lenovo Legion Go's specs below.
  Lenovo opted for a 49.2Wh battery, which will theoretically give it the edge over the competition. Again, the battery life is something we'd have to test with more time, but the figures show a clear boost.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 4\. Excellent Hardware
 
 ![lenovo legion go on table at ifa 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/lenovo-legion-go-on-table-at-ifa-2023.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Image Credit: Gavin Phillips/MakeUseOf
 
  The overall Lenovo Legion Go hardware package is brilliant, and it should fill anyone considering picking one of these up with joy. While we didn't get to play any massively taxing games during our hands-on experience (we were limited to Hot Wheels and Vampire Surviors), the buttery-smooth screen was evident, powered by AMD's Ryzen Z1, built specifically for handheld gaming devices.
@@ -128,16 +152,16 @@ You can check out the Lenovo Legion Go's specs below.
 ![man holding lenovo legion go with separate controller atifa 2023-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/man-holding-lenovo-legion-go-with-separate-controller-atifa-2023-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Image Credit: Gavin Phillips/MakeUseOf
 
@@ -149,18 +173,6 @@ You can check out the Lenovo Legion Go's specs below.
 
 The carry case is also a nice touch!
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Lenovo Legion Go Launch Date and Price
 
  First revealed at IFA 2023, the Lenovo Legion Go is set to launch in October 2023\. The starting price is $700, but Lenovo hasn't revealed any configurations, and this is the information listed on its site. However, the price and additional configurations may well change before its October launch.

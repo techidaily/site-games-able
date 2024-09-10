@@ -1,7 +1,7 @@
 ---
 title: "Retroid Pocket 3+: The Handbag-Sized Retro Gaming Console"
-date: 2024-07-12T03:53:22.768Z
-updated: 2024-07-13T03:53:22.768Z
+date: 2024-09-09T09:32:43.181Z
+updated: 2024-09-10T09:32:43.181Z
 tags:
   - games
 categories:
@@ -127,10 +127,22 @@ Dual speakers, Bluetooth audio supported
 
 ![Left thumbstick controllers on Retroid Pocket 3+](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/muo-reviews-retroid-pocket-3-left.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  While a flexible piece of kit, the Retroid Pocket 3+ encourages the latter approach. It's the third generation of the Retroid Pocket series, supporting 8-, 16-, and 32-bit console systems. You’re not limited to games from the 1980s and early 1990s with this device. Some serious retro gaming is possible, with support for emulation of games first seen on Sony PlayStation 1, Sega Saturn and Dreamcast, and Nintendo 64.
 
 There’s even Nintendo GameCube and Wii support.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Console Platforms Does the Retroid Pocket 3+ Support?
 
  Owning a Retroid Pocket 3+ opens the door to a world of portable gaming thanks to emulation of the following platforms:
@@ -188,6 +200,18 @@ There’s even Nintendo GameCube and Wii support.
 
  The device also has Wi-Fi 5 and Bluetooth 5.0 and can receive OTA updates to the Android 11 OS.
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Long Does the Battery Last?
 
  The 4500mAh battery takes a few hours to charge, probably 2-3 for a full 0-100% recharge. Once powered up, you can expect to get at least 4 hours out of it, potentially up to 8 hours.
@@ -204,16 +228,40 @@ There’s even Nintendo GameCube and Wii support.
 
 ![Retoid Pocket 3+ right-thumbstick](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/muo-reviews-retroid-pocket-3-right.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  I also noticed that the Retroid Pocket 3+ tends to misinterpret certain button presses as Android menu commands. So far, I haven’t been able to find a workaround or tweak the mapping to prevent this.
 
  You won’t get an arcade-realistic experience with these controls simply because the form factor is completely different. But they do give you the best way to play most of the retro games in your library. On the other hand, anything requiring a trackball or paddles will remain a challenge (hello, Marble Madness and Arkanoid).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Getting Games onto the Retroid Pocket 3+
 
  For the complete ROM-focused option (your legally-acquired disk images of classic game cartridges or disks) should be copied to the device over USB cable. The best option is to use a microSD card, although note this is best formatted in “Portable” mode. If you use the alternative, it cannot be accessed either via USB or by ejecting and inserting in your PC.
 
 ![Retroid Pocket 3+ shoulder buttons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/muo-reviews-retroid-pocket-3-shoulder.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Once formatted, the microSD card can be configured with the necessary directories (this takes a single tap), then you can copy your ROMs copied to the platform-specific directory.
 
  You’re not done yet, though, as the individual emulator cores also need installing. This is done in the RetroArch software, which is a lot less attractive than the RetroidLauncher. Once done, however, you specify the ROM file path (required on the first use only), then launch your favorite retro games.
@@ -226,6 +274,18 @@ There’s even Nintendo GameCube and Wii support.
 
  Failing that, it also comes with Steam Link installed, for playing games over your network from a nearby PC. It’s almost as good as having a [Steam Deck](https://www.makeuseof.com/steam-deck-review-ultimate-portable-gaming-console/) (but not quite).
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Retro Gaming and Gameplay on the Retroid Pocket 3+
 
  An emulation system like the Retroid Pocket 3+ has everything you need to start gaming right away—except the ROMs. While the odd emulator or virtual machine system might have a game built in, it won’t be anything remarkable.
@@ -250,6 +310,12 @@ There’s even Nintendo GameCube and Wii support.
 
 ![Retroid Pocket 3+ by a pool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/muo-reviews-retroid-pocket-3-pool.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The release of the Retroid Pocket 3+ has proved somewhat controversial in the retro gaming handheld emulation community. To all intents and purposes, it is a Retroid Pocket 3, but with more processing and RAM, and a higher price to match, represents a notable upgrade.
 
  But if you’ve already bought the earlier model, upgrading seems unnecessary unless you want better performance from the 32-bit generation emulators. Conversely, if you’re new to pocket emulation, the Retroid Pocket 3+ is an excellent console to start with.
@@ -273,3 +339,46 @@ There’s even Nintendo GameCube and Wii support.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-beyond-wirecast-for-broadcast-solutions/"><u>[New] Navigating Beyond WireCast for Broadcast Solutions</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-unlocking-aspect-ratios-the-key-to-facebook-video-success/"><u>[New] Unlocking Aspect Ratios The Key to Facebook Video Success</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-crafting-the-ideal-voice-memo-a-step-by-step-methodology/"><u>[Updated] In 2024, Crafting the Ideal Voice Memo A Step-by-Step Methodology</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-myvidhub-testing-a-quest-for-more-features/"><u>[Updated] In 2024, MyVidHub Testing A Quest for More Features?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/chronicles-that-captivate-top-youtube-storytelling-channels-2023/"><u>Chronicles that Captivate Top YouTube Storytelling Channels 2023</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-display-dilemmnas-why-you-shouldnt-splurge-on-hdr/"><u>Decoding Display Dilemmnas: Why You Shouldn't Splurge on HDR</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-eyeglasses-for-pc-screen-safety/"><u>Elite Eyeglasses for PC Screen Safety</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-steps-for-online-vhs-image-transformation/"><u>Essential Steps for Online VHS Image Transformation</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-the-necessity-of-a-dual-capable-display/"><u>Evaluating the Necessity of a Dual-Capable Display?</u></a></li>
+<li><a href="https://games-able.techidaily.com/examine-pimaxs-crystal-clarity-a-visual-treat-with-bugs/"><u>Examine Pimax's Crystal Clarity - A Visual Treat with Bugs</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-infinite-worlds-with-top-mmo-games-on-phones/"><u>Explore Infinite Worlds with Top MMO Games on Phones</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-availability-ahead-of-time-pros-and-cons/"><u>Game Availability Ahead of Time - Pros and Cons</u></a></li>
+<li><a href="https://games-able.techidaily.com/harmony-hunters-top-8-audio-quiz-games-to-beat/"><u>Harmony Hunters: Top 8 Audio Quiz Games to Beat</u></a></li>
+<li><a href="https://games-able.techidaily.com/having-playstation-4-wi-fi-issues-8-tips-and-fixes-worth-trying/"><u>Having PlayStation 4 Wi-Fi Issues? 8 Tips and Fixes Worth Trying</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-the-right-gaming-gear-can-help-you-get-good/"><u>How the Right Gaming Gear Can Help You Get Good</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-enable-game-sharing-on-playstation-5/"><u>How to Enable Game Sharing on PlayStation 5</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-guard-against-lost-gpt-conversations/"><u>How to Guard Against Lost GPT Conversations</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-firefox-freezing-issues-a-step-by-step-tutorial/"><u>How to Resolve Firefox Freezing Issues: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://games-able.techidaily.com/ifa-2023s-innovative-devices-a-gamers-paradise/"><u>IFA 2023'S Innovative Devices – A Gamer's Paradise</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-switchs-connectivity-upgrade-worth-the-dollar/"><u>Is Switch's Connectivity Upgrade Worth the Dollar?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lenovo-z50-70-upgrades-without-struggle/"><u>Lenovo Z50-70: Upgrades Without Struggle</u></a></li>
+<li><a href="https://games-able.techidaily.com/linking-up-with-fun-think-twice-about-it/"><u>Linking Up With Fun? Think Twice About It</u></a></li>
+<li><a href="https://games-able.techidaily.com/masterful-hacks-extracting-xbox-perks-from-codes/"><u>Masterful Hacks: Extracting Xbox Perks From Codes</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-strategy-top-6-fresh-chess-app-innovations/"><u>Mastering Strategy: Top 6 Fresh Chess App Innovations</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-value-on-the-field-boosting-frame-rates-and-performance-of-valorant-windows-edition/"><u>Maximize Value on the Field: Boosting Frame Rates and Performance of Valorant Windows Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-virtual-world-of-ps5-sans-controller/"><u>Navigating the Virtual World of PS5 Sans Controller</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-the-challenge-error-code-262-on-roblox/"><u>Overcoming the Challenge: Error Code 262 on Roblox</u></a></li>
+<li><a href="https://extra-information.techidaily.com/picpopjokes-satirical-image-maker/"><u>PicPopJokes Satirical Image Maker</u></a></li>
+<li><a href="https://games-able.techidaily.com/premier-gamers-progress-recorders/"><u>Premier Gamers' Progress Recorders</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-vs-xbox-series-x-which-console-should-you-buy-this-generation/"><u>PS5 Vs. Xbox Series X: Which Console Should You Buy This Generation?</u></a></li>
+<li><a href="https://games-able.techidaily.com/reconsidering-the-rush-to-ps5-ownership/"><u>Reconsidering the Rush to PS5 Ownership</u></a></li>
+<li><a href="https://games-able.techidaily.com/reinventing-identity-the-process-for-name-and-logo-change-on-riot-games/"><u>Reinventing Identity: The Process for Name and Logo Change on Riot Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/sony-playstation-plus-analyzing-the-monthly-fee-breakdown/"><u>Sony PlayStation Plus: Analyzing the Monthly Fee Breakdown</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-into-a-world-apart-from-the-fallout-show/"><u>Step Into a World Apart From the Fallout Show</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-remedy-errors-in-oculus-application-on-win-1011/"><u>Steps To Remedy Errors in Oculus Application on Win 10/11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-role-of-bios-in-computers-and-how-revo-uninstaller-helps/"><u>The Role of BIOS in Computers and How Revo Uninstaller Helps</u></a></li>
+<li><a href="https://games-able.techidaily.com/unmatched-performance-and-precision-razers-basilisk-v3-pro-review/"><u>Unmatched Performance and Precision: Razer's Basilisk V3 Pro Review</u></a></li>
+<li><a href="https://extra-information.techidaily.com/uplifting-cinema-the-ultimate-list-of-motivation/"><u>Uplifting Cinema The Ultimate List of Motivation</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-constitutes-idle-participation-on-discord/"><u>What Constitutes Idle Participation on Discord?</u></a></li>
+</ul></div>

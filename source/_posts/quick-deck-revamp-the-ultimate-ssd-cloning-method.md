@@ -1,7 +1,7 @@
 ---
 title: "Quick Deck Revamp: The Ultimate SSD Cloning Method"
-date: 2024-07-12T03:52:13.753Z
-updated: 2024-07-13T03:52:13.753Z
+date: 2024-09-09T09:33:46.658Z
+updated: 2024-09-10T09:33:46.658Z
 tags:
   - games
 categories:
@@ -31,6 +31,12 @@ thumbnail: https://thmb.techidaily.com/7491070a9335b06cf0f788f98c5ea183aa46a07a8
 
  Are you upgrading your Steam Deck SSD but don't want to set up your device from scratch? Here’s how to clone your SSD for an easier upgrade.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Cloning Your Steam Deck's SSD Is Better
 ![Steam Deck SSD installed without sleeve](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/steam-deck-ssd-installed-without-sleeve-1.JPG)
 
@@ -46,6 +52,12 @@ thumbnail: https://thmb.techidaily.com/7491070a9335b06cf0f788f98c5ea183aa46a07a8
 
  Cloning your old SSD to your new one will save you so much time. You won’t need to experience the time-consuming process of manually imaging SteamOS, logging in, waiting for updates, and getting all your old settings right. Here’s how you can do it...
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step 1: Download Macrium Reflect on a Separate PC
 
  Since we’re not going to be using an SSD enclosure in this guide, we’re going to need a separate PC that has an NVMe/SATA M.2 slot on the motherboard.
@@ -60,16 +72,34 @@ thumbnail: https://thmb.techidaily.com/7491070a9335b06cf0f788f98c5ea183aa46a07a8
 
 ![Macrium Reflect registration code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/macrium-reflect-registration-code-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  During the setup, check the box for the 30-day trial and enter your registration code when it asks for it.
 
  Once the setup is done, and you’ve installed Macrium Reflect on your PC, you can now head to the next step.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step 2: Image Your Old SSD
 
  If you only have one SSD slot on your motherboard, then imaging your SSD is the only way to go.
 
 ![Reinstalling Steam Deck SSD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/reinstalling-steam-deck-ssd-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Jhet Borja/MakeUseOf  
 
  First, remove your Steam Deck’s old SSD. If you don’t know how, check out this [Steam Deck SSD installation guide](https://www.makeuseof.com/how-to-install-ssd-steam-deck/) as you’ll be using it later to install your upgraded SSD as well.
@@ -78,6 +108,12 @@ thumbnail: https://thmb.techidaily.com/7491070a9335b06cf0f788f98c5ea183aa46a07a8
 
 ![Image this disk button on Macrium Reflect](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/image-this-disk-button-on-macrium-reflect.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now, turn on your PC and open up Macrium Reflect. Select your old Steam Deck SSD in the drives list and click on**Image this disk…** below it.
 
  It will ask you where you want to save your image file. I chose to make a new folder so that I would remember where to get it from later. Macrium Reflect compresses images down to 40% of their original size, so make sure to have at least that much available space where you save it.
@@ -94,6 +130,18 @@ thumbnail: https://thmb.techidaily.com/7491070a9335b06cf0f788f98c5ea183aa46a07a8
 
 ![Searching for disk management on Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/searching-for-disk-management-on-windows-searcgh.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Before you open up Macrium Reflect, search for "**Create and format hard disk partitions"** in the Windows search bar. This will open up the disk manager.
 
 ![Converting to GPT partition scheme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/converting-to-gpt-partition-scheme.jpg)
@@ -106,10 +154,22 @@ thumbnail: https://thmb.techidaily.com/7491070a9335b06cf0f788f98c5ea183aa46a07a8
 
 ![Restore button on Macrium Reflect](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/restore-button-on-macrium-reflect-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Once you find the image file that you created earlier, select it in Macrium Reflect and click**Restore** .
 
 ![Select a disk to restore to-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/select-a-disk-to-restore-to-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  A pop-up will appear, allowing you to choose where you want to restore the image to. Click on**Select a disk to restore to…** , and choose your new SSD.
 
 ![Copying partitions to new disk-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/copying-partitions-to-new-disk-1.jpg)
@@ -124,6 +184,12 @@ thumbnail: https://thmb.techidaily.com/7491070a9335b06cf0f788f98c5ea183aa46a07a8
 
 ![Steam Deck playing Palworld](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/steam-deck-playing-palworld-1.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jhet Borja/MakeUseOf
 
  Power on your Steam Deck, and it should boot up without you needing to reinstall SteamOS or even log in at all.
@@ -134,6 +200,12 @@ Jhet Borja/MakeUseOf
 
 ![Selecting steamcl.efi in Steam Deck BIOS to boot into SteamOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/selecting-steamcl-efi-in-steam-deck-bios-to-boot-into-steamos.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jhet Borja/MakeUseOf
 
  Select**Boot from file** **\> eps > efi > steamos > steamcl.efi** . You’re manually booting into SteamOS with this method and the next time you turn on your Steam Deck, you shouldn’t need to do this again unless you have another OS on your Steam Deck.
@@ -159,3 +231,56 @@ Jhet Borja/MakeUseOf
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-tips-and-tricks-to-add-tags-to-youtube-video/"><u>[New] In 2024, Tips & Tricks to Add Tags to YouTube Video</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-seamless-mp4-file-saving-and-insight-for-2024/"><u>[New] Seamless MP4 File Saving & Insight for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-earning-cash-online-with-no-skills-needed/"><u>[New] The Ultimate Guide to Earning Cash Online with No Skills Needed</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-channel-king-and-queen-academy-youtube-excellence/"><u>[Updated] 2024 Approved Channel King & Queen Academy YouTube Excellence</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-perfecting-your-presence-share-screen-mastery-in-meet/"><u>[Updated] 2024 Approved Perfecting Your Presence Share Screen Mastery in Meet</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-growth-hacks-for-youtubers-short-form-content-boosting-view-counts-effectively/"><u>[Updated] Growth Hacks for YouTuber's Short Form Content Boosting View Counts Effectively</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-how-to-blend-iphone-and-tiktok-seamlessly-mastering-siri-for-efficient-filming/"><u>[Updated] How to Blend iPhone and TikTok Seamlessly Mastering Siri for Efficient Filming</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-visual-vintner-techniques-for-flavorful-films/"><u>[Updated] In 2024, The Visual Vintner Techniques for Flavorful Films</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-mobile-apps-redefining-vocal-identity-2-cookie-jar/"><u>2024 Approved Mobile Apps Redefining Vocal Identity (2 Cookie Jar</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/6-best-extensions-to-enhance-gpt-and-vs-code/"><u>6 Best Extensions to Enhance GPT and VS Code</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-comprehensive-guide-for-pcs-memory-tool-issues/"><u>A Comprehensive Guide for PC's Memory Tool Issues</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/controller-and-console-rejuvenation-secrets/"><u>Controller & Console Rejuvenation Secrets</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-play-with-a-properly-configured-ps5-assist-controller/"><u>Enhance Play with a Properly Configured PS5 Assist Controller</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-new-heights-with-these-8-ps4-tips/"><u>Explore New Heights with These 8 PS4 Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/finding-your-perfect-match-5-standout-traits-in-professional-mice/"><u>Finding Your Perfect Match: 5 Standout Traits in Professional Mice</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-required-parts-not-present-error/"><u>Fixing Required Parts Not Present Error</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-mono-to-duo-os-decks-evolution-journey/"><u>From Mono to Duo OS: Deck's Evolution Journey</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-paradigm-shift-embracing-steams-updated-ai-rules/"><u>Gamer's Paradigm Shift: Embracing Steam's Updated AI Rules</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-honor-magic-5-lite-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Honor Magic 5 Lite</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-vivo-y78t-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Vivo Y78t FRP</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-boost-engagement-through-anime-style-subscribe-buttons-filmora-tutorial/"><u>In 2024, Boost Engagement Through Anime-Style Subscribe Buttons (Filmora Tutorial)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-revolutionary-revelations-top-30-quotes-for-ar-vr-dreamers/"><u>In 2024, Revolutionary Revelations Top 30 Quotes for AR-VR Dreamers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/insignia-ns-pcy5bma2-universal-drivers-for-windows-operating-systems-10-8-and-7/"><u>Insignia NS-PCY5BMA2 - Universal Drivers for Windows Operating Systems (10, 8 & 7)</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-add-on-feature-valuable-in-switch-gameplay/"><u>Is Add-On Feature Valuable in Switch Gameplay?</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-performance-critical-pc-component-selection/"><u>Mastering Performance: Critical PC Component Selection</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-your-device-how-to-get-more-out-of-your-steam-deck-at-the-dock/"><u>Mastering Your Device: How to Get More Out of Your Steam Deck at the Dock</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/methods-for-retrieving-phone-numbers-from-internet-databases/"><u>Methods for Retrieving Phone Numbers From Internet Databases</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-titans-duel-assessing-super-and-ti-versus-4080/"><u>Nvidia’s Titans Duel: Assessing Super and Ti Versus 4080</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfect-display-an-xbox-series-xands-calibration-course/"><u>Perfect Display: An Xbox Series X&S Calibration Course</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-ps5-unveiling-ea-play-titles/"><u>Prime PS5: Unveiling EA Play Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-vs-cheap-pc-console-or-computer/"><u>PS5 vs Cheap PC: Console or Computer?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-8-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 8 Prevention & Solution</u></a></li>
+<li><a href="https://games-able.techidaily.com/retro-revival-modern-consoles-with-a-legacy-twist/"><u>Retro Revival: Modern Consoles with a Legacy Twist</u></a></li>
+<li><a href="https://games-able.techidaily.com/revitalize-your-old-gaming-pc-with-atlasos/"><u>Revitalize Your Old Gaming PC With AtlasOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/rom-localization-mastery-applying-language-patches/"><u>Rom Localization Mastery - Applying Language Patches</u></a></li>
+<li><a href="https://games-able.techidaily.com/standards-of-conduct-reporting-actions-on-xbox-series-xs/"><u>Standards of Conduct: Reporting Actions on Xbox Series X|S</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-repayment-for-xbox-games/"><u>Streamline Repayment for Xbox Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-steam-analysis-measuring-hours-and-in-game-rewards/"><u>Streamlining Steam Analysis: Measuring Hours & In-Game Rewards</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-operatic-path-to-a-weeks-worth-of-nitro/"><u>The Operatic Path to a Weeks' Worth of Nitro</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-portable-dream-handhelds-vs-nintendo-switch-20/"><u>The Portable Dream: Handhelds vs Nintendo Switch 2.0?</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-game-guide-unveiling-the-power-of-steam/"><u>The Ultimate Game Guide: Unveiling the Power of Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-secret-strategy-discovering-and-obtaining-best-free-steam-titles/"><u>Top Secret Strategy: Discovering and Obtaining Best Free Steam Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-the-power-of-play-with-these-top-9-reasons-for-using-steam/"><u>Unleash the Power of Play with These Top 9 Reasons for Using Steam</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-full-potential-of-windows-11-calendar/"><u>Unlocking Full Potential of Windows 11 Calendar</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-real-players-dont-embrace-gamefi-enthusiasm/"><u>Why Real Players Don't Embrace GameFi Enthusiasm</u></a></li>
+<li><a href="https://games-able.techidaily.com/win-the-war-against-epic-launcher-lags-on-your-system/"><u>Win the War Against Epic Launcher Lags on Your System</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-case-a-closer-look/"><u>Xbox Case: A Closer Look</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-one-play-without-a-gamepad-revealed/"><u>Xbox One Play Without a Gamepad Revealed</u></a></li>
+</ul></div>

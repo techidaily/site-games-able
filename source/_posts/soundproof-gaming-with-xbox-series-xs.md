@@ -1,7 +1,7 @@
 ---
 title: Soundproof Gaming with Xbox Series X/S
-date: 2024-09-04T21:57:39.961Z
-updated: 2024-09-05T21:57:39.961Z
+date: 2024-09-09T09:33:59.024Z
+updated: 2024-09-10T09:33:59.024Z
 tags:
   - games
 categories:
@@ -12,6 +12,18 @@ keywords: Soundproofing for Gaming Headsets,Noise Isolation in Home Entertainmen
 thumbnail: https://thmb.techidaily.com/e83f983f9af6b6adf732e263161638d4efc710da8fc4b32e0850fa910996aed9.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Soundproof Gaming with Xbox Series X/S
 
  The immersive experience of gaming on an Xbox is enhanced by the dynamic feedback of vibrations and sounds that emanate from the Xbox controller and console. These features add depth and realism and enhance your overall gaming experience. However, there may be times when you want to turn off these sounds and vibrations for a while.
@@ -37,19 +49,25 @@ thumbnail: https://thmb.techidaily.com/e83f983f9af6b6adf732e263161638d4efc710da8
 3. Navigate to the**Profile & system** tab and go to**Settings > Accessibility > Controller >** **Vibration settings** .  
 ![Accessibility settings on Xbox One](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/accessibility-setting-xbox.jpeg)  
 ![Controller settings on Xbox One](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/controller-setting-xbox.jpeg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. On the**Xbox Accessories** page, you’ll see your controller. Select**Configure** and choose your profile on the**Profiles** panel. You should see your controller’s profile open up on the right. Select the pencil icon to open controller settings.  
 ![Xbox One Accessories page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-accessories-xbox.jpeg)
 5. On this page, you'll see several options for configuring your Xbox controller, including options for[remapping your Xbox controller buttons](https://www.makeuseof.com/tag/how-to-remap-your-xbox-one-controller-buttons/) . From these options, locate and select the**Turn on vibration** setting and press**A** on your controller to uncheck the box next to it.  
 ![Xbox configure setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-configure-setting.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  With this, your Xbox controller's vibration is now disabled. Remember that you can enable it again following the same steps if you wish to revert to the default setting.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Mute Sounds on Your Xbox Console
 
  Muting the audio sounds on your Xbox console is a straightforward process. On your Xbox console, go to**Settings > Accessibility > Audio** .
@@ -57,27 +75,15 @@ thumbnail: https://thmb.techidaily.com/e83f983f9af6b6adf732e263161638d4efc710da8
 ![Xbox One accessibility audio settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-accessibility-audio-settings.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You’ll see several audio-related settings, such as**Mute navigation sounds** ,**Mute notification sounds** ,**Power chime** , and**Mute startup sounds** , that can be enabled or disabled to suit your preferences.
 
 ![Xbox One audio settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-audio-settings.jpeg)
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The first two settings are related to the sounds you hear on your console when you receive a notification or navigate around the Xbox dashboard or through menus and settings. The latter settings pertain to the sounds the Xbox console device makes upon turning on and off.
 
  To mute any or all of these sounds, simply select the respective setting and press**A** on your Xbox controller to enable it. However, for the**Power Chime** setting, you have two options to customize the sound behavior.
@@ -85,18 +91,30 @@ thumbnail: https://thmb.techidaily.com/e83f983f9af6b6adf732e263161638d4efc710da8
 ![Xbox One power chime setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-power-chime-setting.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You can choose the**Only with power button or voice** option or select**Off** from the drop-down menu to completely mute the chime sound. With the first option selected, the Xbox will only chime when you use the power button on the console or voice commands to turn the console on or off.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Mute Sounds on Your Xbox Console and Controller With These Easy Steps
 

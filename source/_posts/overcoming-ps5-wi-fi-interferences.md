@@ -1,7 +1,7 @@
 ---
 title: Overcoming PS5 Wi-Fi Interferences
-date: 2024-09-04T21:55:25.320Z
-updated: 2024-09-05T21:55:25.320Z
+date: 2024-09-09T09:34:00.881Z
+updated: 2024-09-10T09:34:00.881Z
 tags:
   - games
 categories:
@@ -27,6 +27,12 @@ thumbnail: https://thmb.techidaily.com/bedf5c8b53d1004ac14c8188bc2b10e8fa9f12bca
 
  If you connect your PS5 to your network via Wi-Fi, we'll show you what to do if you suddenly can't get online or suffer from poor network performance. While we focus on Wi-Fi here, many of these tips will also help you fix internet issues if you're using Ethernet to connect.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1 Check Other Devices
 
  When your PS5 starts having network issues, you should first check other computers, phones, and consoles on your home network. If your internet issue affects everything, follow our[guide to diagnosing home internet problems](https://www.makeuseof.com/tag/7-simple-steps-diagnose-network-problem/) . The steps in that walkthrough should patch up all your problems, including your PS5's Wi-Fi issues. Home-wide internet problems aren't rooted in your PlayStation.
@@ -42,10 +48,10 @@ thumbnail: https://thmb.techidaily.com/bedf5c8b53d1004ac14c8188bc2b10e8fa9f12bca
 ![PS5 Power Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/PS5-Power-Menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Alternatively, you can use the physical power button on the front of your PS5 to shut it down:
 
@@ -70,10 +76,16 @@ thumbnail: https://thmb.techidaily.com/bedf5c8b53d1004ac14c8188bc2b10e8fa9f12bca
 ![PS5 Set Up Internet Connection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/01-PS5-Set-Up-Internet-Connection.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Under the list of**Networks found** , select your Wi-FI connection and enter your network's Wi-Fi password. Be sure to pick the right network, especially if there are similarly-named options on the list.
 
@@ -82,16 +94,16 @@ thumbnail: https://thmb.techidaily.com/bedf5c8b53d1004ac14c8188bc2b10e8fa9f12bca
 ![Enter Wi-Fi Password PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/02-Enter-Wi-Fi-Password-PS5.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983549">
+<span id="1983553">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  After connecting, if you'd like to change other parameters for the connection, press the**Options** button with your Wi-Fi connection highlighted under**Registered networks** and choose**Advanced Settings** . Most of these aren't relevant, but as an additional troubleshooting step, you can try[using an alternative DNS server for your PS5](https://www.makeuseof.com/how-to-change-ps5-dns-settings/) under**DNS Settings** .
 
@@ -104,10 +116,10 @@ thumbnail: https://thmb.techidaily.com/bedf5c8b53d1004ac14c8188bc2b10e8fa9f12bca
 ![PS5 Network Connection Home](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/03-PS5-Network-Connection-Home.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Here's what the steps in this test mean:
 
@@ -118,18 +130,6 @@ Here's what the steps in this test mean:
 
 ![PS5 Network Connection Test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/04-PS5-Network-Connection-Test.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If your PS5 is online but won't connect to PSN, or you only have problems with a certain game, you may need to[forward ports on your router](https://www.makeuseof.com/tag/what-is-port-forwarding-and-how-can-it-help-me/) so your console can access PSN services. This can happen if your system is connected to an enterprise network, like at a college. You may need to talk with the network administrator if you want to connect at your university.
 
  If one of the other two checks failed, walk through the general network troubleshooting guide linked earlier. There's also a chance that your router might have a setting enabled,[such as MAC filtering](https://www.makeuseof.com/mac-address-filtering-explained/) , that is blocking your PS5 from connecting.[Try signing into your router's interface](https://www.makeuseof.com/tag/what-is-a-router/) and make sure you don't have parental controls or similar restrictions enabled.
@@ -143,15 +143,27 @@ Here's what the steps in this test mean:
 ![PS5 Connection Strength](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/05-PS5-Connection-Strength.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  If possible, move your PS5 physically closer to your router. Avoid having either device near common sources of interference, like microwaves or baby monitors. And remember that thick surfaces like concrete heavily impede wireless signals.
 
  For more detailed help, see our[guide to improving router speed](https://www.makeuseof.com/tag/10-ways-to-improve-the-speed-of-your-current-router/) .
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6 Stop Other Network Activities and Review Your Internet Plan
 
  Your home network only has so much bandwidth, so if there's a lot of other heavy activity happening, your PS5's network performance will suffer. Stop any other devices in your house that are downloading or uploading large files, streaming 4K video, torrenting, or similar. This should free up bandwidth for your PS5 to perform at its best.
@@ -169,10 +181,16 @@ Here's what the steps in this test mean:
 ![PSN Status 2021](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/06-PSN-Status-2021.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You should also check your ISP for outages. If you still can't get online normally, use mobile data on your phone. Then you can log into your account with your ISP and check its status page for issues in your area, or try a site like[Downdetector](https://downdetector.com/) to check for recent reports of problems. You can contact your ISP and let them know about the issue, but you'll probably talk to an automated assistant.
 
@@ -185,10 +203,10 @@ Here's what the steps in this test mean:
 ![Unplug PS5 Cables](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/01-Unplug-PS5-Cables.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Ben Stegner/MakeUseOf
 
