@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -248,7 +305,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"games-able.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -591,7 +648,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8321</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9180</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -629,74 +686,74 @@
               
                 
                     
-                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='09-04'>
+                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='09-09'>
                 
                     
-                        <a href="/unlocking-starfield-the-elusive-beta-pass-route/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Unlocking Starfield: The Elusive Beta Pass Route</span>
+                        <a href="/the-essence-of-engaging-reviews-in-the-steam-community/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">The Essence of Engaging Reviews in the Steam Community</span>
                         </a>
                     
               
                 
                     
-                        <a href="/the-ultimate-guide-to-using-controllers-with-buttons/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">The Ultimate Guide to Using Controllers with Buttons</span>
+                        <a href="/lemokey-l3-exposed-quality-in-every-keystroke/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Lemokey L3 Exposed: Quality in Every Keystroke</span>
                         </a>
                     
               
                 
                     
-                        <a href="/deleting-ps5-profile-saved-credentials/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Deleting PS5 Profile Saved Credentials</span>
+                        <a href="/dive-deeper-why-your-games-shine-with-dxvk-on-windows/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Dive Deeper: Why Your Games Shine with DXVK on Windows</span>
                         </a>
                     
               
                 
                     
-                        <a href="/mastering-xbox-360-slim-disassembly-repair-and-modify-guide/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Mastering Xbox 360 Slim Disassembly: Repair &amp; Modify Guide</span>
+                        <a href="/transitioning-from-tv-to-triumphant-video-tales/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Transitioning From TV to Triumphant Video Tales</span>
                         </a>
                     
               
                 
                     
-                        <a href="/mastering-the-art-of-starfield-early-entry/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Mastering the Art of Starfield Early Entry</span>
+                        <a href="/what-to-expect-from-amds-rdna-35-graphics-engine-its-debut/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">What to Expect From AMD&#39;s RDNA 3.5 Graphics Engine - Its Debut?</span>
                         </a>
                     
               
                 
                     
-                        <a href="/win-1011-dxgi-hang-fix-addressing-error-code-0x887a0006/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Win 10/11 DXGI Hang Fix - Addressing Error Code 0X887A0006</span>
+                        <a href="/mesh-of-past-and-present-old-dock-and-nintendo-switch-oled/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Mesh Of Past and Present: Old Dock &amp; Nintendo Switch OLED</span>
                         </a>
                     
               
                 
                     
-                        <a href="/rapidly-engage-with-these-top-20-fast-playing-game-apps/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Rapidly Engage with These Top 20 Fast-Playing Game Apps</span>
+                        <a href="/linux-terminal-the-ultimate-game-playground/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Linux Terminal: The Ultimate Game Playground</span>
                         </a>
                     
               
                 
                     
-                        <a href="/storing-old-school-games-in-photos-of-win-11/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Storing Old-School Games in Photos of Win 11</span>
+                        <a href="/optimizing-console-power-advanced-strategies-for-ps4-users/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Optimizing Console Power: Advanced Strategies for PS4 Users</span>
                         </a>
                     
               
                 
                     
-                        <a href="/methods-for-stabilizing-mouse-scroll-speed/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Methods for Stabilizing Mouse Scroll Speed</span>
+                        <a href="/explore-the-unknown-top-7-linux-terminal-games/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Explore the Unknown: Top 7 Linux Terminal Games</span>
                         </a>
                     
               
                 
                     
-                        <a href="/managing-conversations-without-broadcasting/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Managing Conversations without Broadcasting</span>
+                        <a href="/supers-clash-rtx-4070-super-versus-titan-and-4080-super-edition/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Supers Clash: RTX 4070 Super Versus Titan and 4080 Super Edition</span>
                         </a>
                     
               
@@ -710,7 +767,7 @@
 
 <div class="tag-paginator">
 	<div class="paginator">
-    <a class="extend prev" rel="prev" href="/tags/games/page/54/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/tags/games/">1</a><span class="space">&hellip;</span><a class="page-number" href="/tags/games/page/53/">53</a><a class="page-number" href="/tags/games/page/54/">54</a><span class="page-number current">55</span><a class="page-number" href="/tags/games/page/56/">56</a><a class="page-number" href="/tags/games/page/57/">57</a><span class="space">&hellip;</span><a class="page-number" href="/tags/games/page/829/">829</a><a class="extend next" rel="next" href="/tags/games/page/56/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/tags/games/page/54/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/tags/games/">1</a><span class="space">&hellip;</span><a class="page-number" href="/tags/games/page/53/">53</a><a class="page-number" href="/tags/games/page/54/">54</a><span class="page-number current">55</span><a class="page-number" href="/tags/games/page/56/">56</a><a class="page-number" href="/tags/games/page/57/">57</a><span class="space">&hellip;</span><a class="page-number" href="/tags/games/page/915/">915</a><a class="extend next" rel="next" href="/tags/games/page/56/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
 </div>

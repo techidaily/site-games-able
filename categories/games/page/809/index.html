@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -248,7 +305,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"games-able.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -591,7 +648,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8321</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9180</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -632,71 +689,71 @@
                     <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='07-12'>
                 
                     
-                        <a href="/transform-your-gaming-experience-with-a-dual-boot-system/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Transform Your Gaming Experience with a Dual-Boot System</span>
+                        <a href="/transforming-tv-viewing-experience-with-xbox-tools/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Transforming TV Viewing Experience with Xbox Tools</span>
                         </a>
                     
               
                 
                     
-                        <a href="/top-techniques-to-enhance-your-steam-decks-abilities-at-the-desk/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Top Techniques to Enhance Your Steam Deck&#39;s Abilities at the Desk</span>
+                        <a href="/transform-your-computer-gaming-experience-through-steam-deck/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Transform Your Computer Gaming Experience Through Steam Deck</span>
                         </a>
                     
               
                 
                     
-                        <a href="/the-financially-smart-gamers-manual-for-series-x/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">The Financially-Smart Gamer&#39;s Manual for Series X</span>
+                        <a href="/top-20-shared-game-sessions-across-multiple-systems/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Top 20 Shared Game Sessions Across Multiple Systems</span>
                         </a>
                     
               
                 
                     
-                        <a href="/the-best-budget-friendly-240hz-monitors-for-gaming/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">The Best Budget-Friendly 240Hz Monitors for Gaming</span>
+                        <a href="/the-hidden-advantages-of-turning-off-console/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">The Hidden Advantages of Turning Off Console</span>
                         </a>
                     
               
                 
                     
-                        <a href="/synchronizing-online-interactions-minimizing-delay-in-data-transmission/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Synchronizing Online Interactions: Minimizing Delay in Data Transmission</span>
+                        <a href="/the-functionality-of-xboxs-online-gaming-service/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">The Functionality of Xbox&#39;s Online Gaming Service</span>
                         </a>
                     
               
                 
                     
-                        <a href="/streamline-your-steam-screenshot-process/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Streamline Your Steam Screenshot Process</span>
+                        <a href="/superior-selection-of-16-joint-play-console-games/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Superior Selection of 16 Joint Play Console Games</span>
                         </a>
                     
               
                 
                     
-                        <a href="/streamline-user-engagement-with-smart-switch-management/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Streamline User Engagement with Smart Switch Management</span>
+                        <a href="/streamlining-xbox-unlimited-access-with-x-series/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Streamlining Xbox Unlimited Access with X Series</span>
                         </a>
                     
               
                 
                     
-                        <a href="/revolutionize-your-system-with-4-key-features-of-icue-link-by-corsair/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Revolutionize Your System with 4 Key Features of iCUE Link by Corsair</span>
+                        <a href="/sonys-handheld-console-unpacked/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Sony’s Handheld Console Unpacked</span>
                         </a>
                     
               
                 
                     
-                        <a href="/reverted-steps-to-retrace-controller-updates/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Reverted: Steps to Retrace Controller Updates</span>
+                        <a href="/solutions-for-unregistered-games-on-steam-platform/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Solutions for Unregistered Games on Steam Platform</span>
                         </a>
                     
               
                 
                     
-                        <a href="/resolving-disconnected-joy-cons-in-nintendo-switch/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Resolving Disconnected Joy-Cons in Nintendo Switch</span>
+                        <a href="/slow-down-relax-indulge-in-idle-gaming/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Slow Down, Relax: Indulge in Idle Gaming</span>
                         </a>
                     
               
@@ -709,7 +766,7 @@
 </div>
 <div class="category-paginator">
     <div class="paginator">
-    <a class="extend prev" rel="prev" href="/categories/games/page/808/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/categories/games/">1</a><span class="space">&hellip;</span><a class="page-number" href="/categories/games/page/807/">807</a><a class="page-number" href="/categories/games/page/808/">808</a><span class="page-number current">809</span><a class="page-number" href="/categories/games/page/810/">810</a><a class="page-number" href="/categories/games/page/811/">811</a><span class="space">&hellip;</span><a class="page-number" href="/categories/games/page/829/">829</a><a class="extend next" rel="next" href="/categories/games/page/810/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/categories/games/page/808/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/categories/games/">1</a><span class="space">&hellip;</span><a class="page-number" href="/categories/games/page/807/">807</a><a class="page-number" href="/categories/games/page/808/">808</a><span class="page-number current">809</span><a class="page-number" href="/categories/games/page/810/">810</a><a class="page-number" href="/categories/games/page/811/">811</a><span class="space">&hellip;</span><a class="page-number" href="/categories/games/page/915/">915</a><a class="extend next" rel="next" href="/categories/games/page/810/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
 </div>
