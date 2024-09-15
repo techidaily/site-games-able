@@ -1,7 +1,7 @@
 ---
 title: Unlocking Xbox Titles on Steam Using GlosSI Magic
-date: 2024-07-12T03:46:20.869Z
-updated: 2024-07-13T03:46:20.869Z
+date: 2024-09-14T16:25:25.744Z
+updated: 2024-09-15T16:45:58.406Z
 tags:
   - games
 categories:
@@ -52,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/5c825ad46d87b3691d3904b2e30aab153935e0b73
 ### Step 1: Download and Install GlosSI
 ![Download GlosSI installer page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/download-glossi-installer-page.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To download GlosSI, first head to [GlosSI download page](https://glossi.flatspot.pictures/#downloads) and look for the**Download Installer button** .
 
 ![GlosSI installing components](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/glossi-installing-components-1.jpg)
@@ -67,9 +74,23 @@ thumbnail: https://thmb.techidaily.com/5c825ad46d87b3691d3904b2e30aab153935e0b73
 
 ![Add a Non-Steam Game button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/add-a-non-steam-game-button-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Open up Steam and on the bottom left, you’ll see a**plus** with**Add a Game** next to it. Click that and click on**Add a Non-Steam Game…** when it pops up.
 
 ![Adding GlosSI target to Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/adding-glossi-target-to-steam.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Search for GlosSI-Target and select it. Finally, click on the**Add Selected Programs** button.
 
@@ -86,6 +107,19 @@ thumbnail: https://thmb.techidaily.com/5c825ad46d87b3691d3904b2e30aab153935e0b73
 ![Enabling Steam Input for Xbox controllers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/enabling-steam-input-for-xbox-controllers-1.jpg)
 
  Once you’re at the Controller tab, switch on**Enable Steam Input for Xbox controllers** .
+
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 4: Open the GlosSI Configurator and Add Your UWP Games
 
@@ -104,6 +138,13 @@ thumbnail: https://thmb.techidaily.com/5c825ad46d87b3691d3904b2e30aab153935e0b73
  You’ll then be prompted to select a UWP app, like the Microsoft programs and Xbox Game Pass games that you’ve already downloaded. In our case, we’ll select Aragami 2\. Here are some suggestions on [low-storage Xbox Game Pass games](https://www.makeuseof.com/low-storage-games-on-xbox-game-pass/) that are perfect to play through Steam Link.
 
 ![GlosSI config saving UWP app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/glossi-config-saving-uwp-app-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once selected, click the blue**Save** button on the bottom right.
 
@@ -159,14 +200,11 @@ thumbnail: https://thmb.techidaily.com/5c825ad46d87b3691d3904b2e30aab153935e0b73
 
  Once everything is set up, there’s nothing stopping you from enjoying your favorite Xbox Game Pass or Microsoft Store games on your TV or tablet powered by your gaming computer.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -175,6 +213,23 @@ thumbnail: https://thmb.techidaily.com/5c825ad46d87b3691d3904b2e30aab153935e0b73
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-macs-best-gif-maker-tool-for-2024/"><u>[New] Mac's Best Gif Maker Tool for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-regular-payouts-for-youtube-content-makers/"><u>[New] Regular Payouts for YouTube Content Makers?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/avor-the-spectacle-best-practices-for-cooking-channel-titling/"><u>[New] Savor the Spectacle Best Practices for Cooking Channel Titling</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-new-ways-to-engage-with-ps5-games/"><u>Discovering New Ways to Engage with PS5 Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficiently-erase-your-ps4-data-for-a-fresh-launch/"><u>Efficiently Erase Your PS4 Data for a Fresh Launch</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-bedrock-solitude-to-java-camaraderie-via-cross-server-geysermc/"><u>From Bedrock Solitude to Java Camaraderie via Cross-Server GeyserMC</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-lava-yuva-3-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Lava Yuva 3 to PC? | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-enhancing-sound-flow-with-premier-pro/"><u>In 2024, Enhancing Sound Flow with Premier Pro</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-burnout-essential-gameplay-techniques/"><u>Navigating Burnout: Essential Gameplay Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-handheld-gameplay-on-mobile-devices/"><u>Prime Handheld Gameplay on Mobile Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/rdna-35-amds-graphics-innovation-and-its-release-timeframe/"><u>RDNA 3.5: AMD's Graphics Innovation & Its Release Timeframe</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-art-of-initiating-your-youtube-content-compellingly-for-2024/"><u>The Art of Initiating Your YouTube Content Compellingly for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-foundation-of-fps-mastery-critical-settings-guide/"><u>The Foundation of FPS Mastery: Critical Settings Guide</u></a></li>
+</ul></div>
 

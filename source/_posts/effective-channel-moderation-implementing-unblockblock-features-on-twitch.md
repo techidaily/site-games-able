@@ -1,7 +1,7 @@
 ---
 title: "Effective Channel Moderation: Implementing Unblock/Block Features on Twitch"
-date: 2024-09-09T09:49:11.474Z
-updated: 2024-09-10T09:49:11.474Z
+date: 2024-09-11T16:35:28.104Z
+updated: 2024-09-15T16:24:09.809Z
 tags:
   - games
 categories:
@@ -20,12 +20,6 @@ thumbnail: https://thmb.techidaily.com/0afe01c2e0f6b1c3ba9a8b87db7e0159921da64d2
 
 Here's how to block or unblock someone on Twitch...
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Block Someone on Twitch
 
  Twitch has become a major player in the video game world and has attracted a wide range of different people as a result. Hopefully, the majority of the people you'll meet will be friendly, but there will always be the odd troll here and there.
@@ -42,28 +36,10 @@ Here's how to block or unblock someone on Twitch...
 
 ![The block confirmation screen on Twitch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/block-unblock-twitch-confirmation.png)
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Twitch won't retroactively scrub away the person's messages, so if they said something particularly nasty, refresh the page to clear the chat and get rid of their comments.
 
  Alternatively, you can type**/block \[username\]** into the chat to get rid of them.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Unblock People on Twitch: The Easiest Way
 
  When you want to unblock someone, however, things get a little more complicated. You can unblock someone by clicking on their card and selecting**Unblock** . But this only works for a very recent block.
@@ -78,12 +54,6 @@ Here's how to block or unblock someone on Twitch...
 
 ![twitch settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/twitch-settings-menu.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click on the**Security and Privacy** tab at the top. Next, scroll down to the**Privacy** section, then find the**Blocked Users** section.
 
 ![twitch settings show blocked users](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/twitch-settings-show-blocked-users.png)
@@ -102,12 +72,6 @@ Here's how to block or unblock someone on Twitch...
 
  Here are the best ways to unblock people on Twitch on iOS and Android...
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Unblock People on iOS
 
  If you do use iOS, you're in luck. Here's how you can unblock someone:
@@ -124,23 +88,26 @@ Here's how to block or unblock someone on Twitch...
 </a>
 <img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Twitch Settings page in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/02-twitch-settings-ios.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Blocked users in Twitch's Security & Privacy page on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/03-blocked-users-twitch.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Unblock People on Android
 
@@ -154,14 +121,11 @@ Close
 
  If someone is getting on your nerves, you can quickly and easily block them on Twitch. If you decide to unblock them later on, it's easy and quick to do—as long as you're not on Android.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -172,40 +136,15 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-ios-compatible-ps2-games-simulator-roundup/"><u>[New] IOS-Compatible PS2 Games Simulator Roundup</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-screenscapes-saved-high-quality-online-tv-recordings-for-2024/"><u>[New] Screenscapes Saved High-Quality Online TV Recordings for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-ideal-websites-for-painless-jpeg-to-gif-changeover/"><u>[Updated] Ideal Websites for Painless JPEG to GIF Changeover</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-digital-doyens-guide-streaming-and-recording-mastery/"><u>[Updated] In 2024, Digital Doyen’s Guide Streaming and Recording Mastery</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-eliminate-camera-sway-no-tripods-allowed/"><u>[Updated] In 2024, Eliminate Camera Sway No Tripods, Allowed</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-transform-your-social-media-voice-with-high-def-streams/"><u>[Updated] In 2024, Transform Your Social Media Voice with High-Def Streams</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-fixed-easily-accessible-shorts-on-youtube/"><u>2024 Approved Fixed Easily Accessible Shorts on YouTube</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1724766621231-macx-video-converter-pro/"><u>如何在线立即购买MacX Video Converter Pro！</u></a></li>
-<li><a href="https://games-able.techidaily.com/action-plan-when-to-fix-when-to-trade-in-your-switch/"><u>Action Plan: When to Fix, When to Trade-In Your Switch</u></a></li>
-<li><a href="https://games-able.techidaily.com/bridge-the-gap-between-xbox-and-steam-via-glossi/"><u>Bridge the Gap Between Xbox and Steam via GlosSI</u></a></li>
-<li><a href="https://games-able.techidaily.com/companionable-conquest-the-best-15-smartphone-duo-adventures/"><u>Companionable Conquest: The Best 15 Smartphone Duo Adventures</u></a></li>
-<li><a href="https://games-able.techidaily.com/connecting-modern-xbox-joysticks-to-windows-systems-140-chars/"><u>Connecting Modern Xbox Joysticks to Windows Systems (140 Chars)</u></a></li>
-<li><a href="https://games-able.techidaily.com/contrary-to-belief-the-strength-of-30fps/"><u>Contrary to Belief: The Strength of 30FPS</u></a></li>
-<li><a href="https://games-able.techidaily.com/disabling-steam-at-system-start/"><u>Disabling Steam at System Start</u></a></li>
-<li><a href="https://games-able.techidaily.com/embracing-change-xbox-live-gold-merges-with-game-pass/"><u>Embracing Change: Xbox Live Gold Merges with Game Pass</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-accessibility-to-twitch-content-via-premium-extractors/"><u>Enhancing Accessibility to Twitch Content via Premium Extractors</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-casual-gaming-to-serious-playtime-switch-to-windows/"><u>From Casual Gaming to Serious Playtime - Switch to Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gateway-broken-geforce-experience-opened/"><u>Gateway Broken: GeForce Experience Opened</u></a></li>
-<li><a href="https://change-location.techidaily.com/honor-magic-6-lite-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor Magic 6 Lite Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-install-game-launchers-on-your-steam-deck/"><u>How to Install Game Launchers on Your Steam Deck</u></a></li>
-<li><a href="https://games-able.techidaily.com/identifying-your-ideal-elgato-for-productivity-boosts/"><u>Identifying Your Ideal Elgato for Productivity Boosts</u></a></li>
-<li><a href="https://games-able.techidaily.com/ifa-2023-highlights-tech-streamlining-with-tecnos-new-releases/"><u>IFA 2023 Highlights Tech Streamlining with Tecno's New Releases</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-xs-to-windows-10-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone XS to Windows 10? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-oppo-k11x-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Oppo K11x Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-s17t-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo S17t Phone FRP Lock</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723010053502-instant-remedies-to-stop-your-division-2-crashes-in-their-tracks/"><u>Instant Remedies to Stop Your Division 2 Crashes in Their Tracks!</u></a></li>
-<li><a href="https://games-able.techidaily.com/joining-worlds-together-using-ps5-controller-on-windows-pc/"><u>Joining Worlds Together: Using PS5 Controller on Windows PC</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-from-shaky-to-steady-video-stabilization-techniques-in-fcpx-for-2024/"><u>New From Shaky to Steady Video Stabilization Techniques in FCPX for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/solutions-for-unregistered-games-on-steam-platform/"><u>Solutions for Unregistered Games on Steam Platform</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-moving-sound-issues-in-airpods-disable-the-feature-of-head-motion-detection/"><u>Solving Moving Sound Issues in AirPods - Disable the Feature of Head Motion Detection</u></a></li>
-<li><a href="https://games-able.techidaily.com/sonys-handheld-console-unpacked/"><u>Sony’s Handheld Console Unpacked</u></a></li>
-<li><a href="https://games-able.techidaily.com/stepping-up-to-excellent-steam-deck-input/"><u>Stepping Up to Excellent Steam Deck Input</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-ergonomic-seats-for-giants-in-games/"><u>Ultimate Ergonomic Seats for Giants in Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-a-world-of-entertainment-with-netflixs-games/"><u>Unlock a World of Entertainment with Netflix's Games</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-visitors-a-guide-on-identifying-accessors-of-your-google-document/"><u>Unveiling the Visitors: A Guide on Identifying Accessors of Your Google Document</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-rewarding-game-making-could-hurt-the-industry/"><u>Why Rewarding Game Making Could Hurt the Industry</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-ignite-dreams-the-best-movies-to-energize-your-soul/"><u>[New] Ignite Dreams The Best Movies to Energize Your Soul</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-hidden-gems-top-8-private-video-downloaders-for-2024/"><u>[Updated] Hidden Gems Top 8 Private Video Downloaders for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-advice-diagnosing-and-correcting-error-0x0000007e-bsod-issue-on-windows-7-systems/"><u>Expert Advice: Diagnosing and Correcting Error 0X0000007E BSOD Issue on Windows 7 Systems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/innovative-strategies-for-altering-pubg-speech/"><u>Innovative Strategies for Altering PUBG Speech</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-cash-flow-for-steam-gaming-purchases/"><u>Optimizing Cash Flow for Steam Gaming Purchases</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Samsung Galaxy A15 5G? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-15-best-two-player-mobile-games-to-play-with-friends-or-strangers/"><u>The 15 Best Two-Player Mobile Games to Play With Friends or Strangers</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-game-of-life-taking-breaks-not-breaks/"><u>The Game of Life: Taking Breaks, Not Breaks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-time-capsules-the-ultimate-how-to-for-using-the-wayback-machine/"><u>Unlocking Time Capsules: The Ultimate How-To for Using the Wayback Machine</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-xbox-series-s-skips-traditional-media/"><u>Why Xbox Series S Skips Traditional Media</u></a></li>
 </ul></div>
+

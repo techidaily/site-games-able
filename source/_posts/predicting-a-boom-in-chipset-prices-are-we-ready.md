@@ -1,7 +1,7 @@
 ---
 title: "Predicting a Boom in Chipset Prices: Are We Ready?"
-date: 2024-07-12T03:46:01.505Z
-updated: 2024-07-13T03:46:01.505Z
+date: 2024-09-10T16:48:58.872Z
+updated: 2024-09-15T16:06:11.284Z
 tags:
   - games
 categories:
@@ -52,20 +52,30 @@ thumbnail: https://thmb.techidaily.com/318f85e5a53d5f60469d32582133c5ee92bbc0ceb
 
  One of the main pressures on GPU prices during the pandemic and following years was the enormous rise in Ethereum mining, which was primarily achieved using GPUs. Without this pressure and without an enormous amount of GPUs being swallowed up by crypto mining with each GPU generation, prices remain stable.
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Keep One Eye on GPU Prices
 
  If you were already considering buying a GPU, waiting until AMD's new hardware launches later in 2023 could be a good idea. Even if the rumors surrounding Nvidia's production cuts are true, AMD's intervention could force Nvidia's hand.
 
 Either way, it's best to keep one eye on GPU prices.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -74,6 +84,16 @@ Either way, it's best to keep one eye on GPU prices.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-game-genre-matchups-titles-alike-to-gta-v/"><u>[Updated] 2024 Approved Game Genre Matchups Titles Alike to GTA V</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/1725285290356-ai/"><u>携帯電話での動画補間方法:AIによるリアルタイム解析と高速化</u></a></li>
+<li><a href="https://games-able.techidaily.com/enjoy-every-moment-top-9-free-switch-games/"><u>Enjoy Every Moment - Top 9 Free Switch Games</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-versatility-and-performance-of-the-new-samsung-galaxy-tab-s4/"><u>Exploring the Versatility and Performance of the New Samsung Galaxy Tab S4</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-samsung-galaxy-s23plus-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Samsung Galaxy S23+ for Free? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-mac-setup-for-optimal-switch-gaming/"><u>Mastering Mac Setup for Optimal Switch Gaming</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/precision-at-zero-price-best-free-video-recorder-software-for-2024/"><u>Precision at Zero Price Best Free Video Recorder Software for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5s-secret-life-unearthing-its-hidden-browser/"><u>Ps5's Secret Life: Unearthing Its Hidden Browser</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-sony-games-bargain-hunt-guide/"><u>Ultimate Sony Games Bargain Hunt Guide</u></a></li>
+</ul></div>
 

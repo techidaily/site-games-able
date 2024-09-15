@@ -1,7 +1,7 @@
 ---
 title: The Xbox Series S's Digital Media Focus
-date: 2024-07-12T03:49:20.977Z
-updated: 2024-07-13T03:49:20.977Z
+date: 2024-09-12T16:44:08.638Z
+updated: 2024-09-15T16:39:21.232Z
 tags:
   - games
 categories:
@@ -54,6 +54,19 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
 
  So while external disc drive support isn't completely out of the question for Xbox Series S, you'll have to wait for Microsoft to create its own external disc drive. And, even then, you won't be able to play your physical discs and will use the disc drive for verification only—if the patent is to be believed.
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. A Disc Drive-Supported Xbox Series S Would Increase Costs
 
  Regardless of how disc drive support would be implemented into Xbox Series S consoles, if Microsoft were to create a disc drive-supported version, or if they were to release an official disc reader accessory as its patent suggests, costs would increase.
@@ -61,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
  When it was released,[the Xbox Series S set a new standard for budget gaming](https://www.makeuseof.com/how-the-xbox-series-s-set-a-new-standard-for-budget-consoles/) . But if Microsoft were to make a more premium Series S with a disc drive, it wouldn't just interfere in Series X sales, but it would also change the image of the Series S.
 
 ![A photograph of a white Xbox Series S controller and console](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/kamil-s-supabuuk7f4-unsplash-1-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Whether through a higher-priced Series S, or an external drive accessory, the price of Series S budget gaming would rise. And even if Series S prices remained lower than the Xbox Series X, but still increased, you may find yourself seeing the best budget Xbox console less favorably.
 
@@ -70,14 +90,11 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
 
  But even so, the Xbox Series S remains an amazing console within its price range, and if you were to never see disc drive support, the prevalence of digital gaming against physical is only continuing to grow. So if you were to see disc drives for Series S consoles, they may be less relevant or too pricey for the Series S.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -86,6 +103,18 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-top-8-proven-methods-for-earnings-on-tiktok/"><u>[New] 2024 Approved Top 8 Proven Methods for Earnings on TikTok</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-best-practices-for-nocturnal-photography-success/"><u>[New] In 2024, Best Practices for Nocturnal Photography Success</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-unveiling-best-free-user-friendly-srt-translators-online/"><u>[New] Unveiling Best Free, User-Friendly SRT Translators Online</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-subscription-surge-entry-into-monetization-realm/"><u>[Updated] 2024 Approved Subscription Surge Entry Into Monetization Realm</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-artistry-best-games-for-refining-creative-abilities/"><u>Elevate Artistry: Best Games for Refining Creative Abilities</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-behind-the-scenes-guide-to-finding-facebooks-finest-vids/"><u>In 2024, Behind-the-Scenes Guide to Finding Facebook's Finest Vids</u></a></li>
+<li><a href="https://games-able.techidaily.com/keep-it-quiet-why-mic-use-in-ps5-is-risky/"><u>Keep It Quiet: Why Mic Use in PS5 Is Risky</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/leveraging-influencers-in-your-twitter-marketing-plan-for-2024/"><u>Leveraging Influencers in Your Twitter Marketing Plan for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-economical-gamers-playbook-xbox-series-edition/"><u>The Economical Gamer's Playbook: Xbox Series Edition</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-for-valorant-wont-start-on-windows-latest-fixes/"><u>Troubleshooting Steps for Valorant Won't Start on Windows - Latest Fixes</u></a></li>
+<li><a href="https://games-able.techidaily.com/unplugged-delight-mobile-games-for-disconnected-players/"><u>Unplugged Delight: Mobile Games for Disconnected Players</u></a></li>
+</ul></div>
 

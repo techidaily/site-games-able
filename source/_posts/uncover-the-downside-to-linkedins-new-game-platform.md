@@ -1,7 +1,7 @@
 ---
 title: Uncover the Downside to LinkedIn's New Game Platform
-date: 2024-07-12T03:52:29.508Z
-updated: 2024-07-13T03:52:29.508Z
+date: 2024-09-13T16:08:56.658Z
+updated: 2024-09-15T16:17:04.071Z
 tags:
   - games
 categories:
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 
  Now, LinkedIn has decided to join in with the fun, adding a Games tab populated with (at the time of writing), three "fun" games. These are Pinpoint, Crossclimb, and Queens.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Pinpoint
 ![Playing the Pinpoint game on LinkedIn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/pinpoint-linkedin-games.png)
 
@@ -42,10 +49,30 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 ### Crossclimb
 ![Playing the Crossclimb game on LinkedIn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/crossclimb-linkedin-games.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Crossclimb](https://www.linkedin.com/games/crossclimb/) has two elements to it. First, you need to find the four-letter answers to the clues provided. Second, you need to rearrange the answers so that there's only one letter different to the answer above and below. Only then will you unlock the top and bottom clues.
 
 ### Queens
 ![Playing the Queens game on LinkedIn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/queens-linkedin-games.png)
+
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Queens](https://www.linkedin.com/games/queens/) is a little like Sudoku, in that you have to be aware of several different elements in order to place things correctly. In Sudoku, it's numbers, whereas in Queens, it's crowns. There's a lot of trial and error with this, so you'll either love it or hate it.
 
@@ -65,14 +92,11 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 
  Play web games as much as you want, but do so on the New York Times, Facebook, or any of the other platforms specifically designed to let you waste away your free time. If you're on LinkedIn, use your time more productively by [improving your LinkedIn profile](https://www.makeuseof.com/linkedin-how-to-improve-profile-with-ai/) or [broadening your network](https://www.makeuseof.com/ways-to-build-professional-network-linkedin/) . To be fair to LinkedIn, the platform addresses these concerns directly in [its announcement/tutorial](https://www.linkedin.com/pulse/how-play-games-linkedin-seriously-michaelaalexis-gqwre/) , but I still can't help thinking that this is a misstep from the company.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -81,6 +105,19 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-from-filming-to-sharing-a-youtube-video-edition/"><u>[New] 2024 Approved From Filming to Sharing A YouTube Video Edition</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-capturing-tv-screen-scenes-with-ease-your-ultimate-guide-for-2024/"><u>[New] Capturing TV Screen Scenes with Ease - Your Ultimate Guide for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-revolutionary-drone-editing-for-visual-storytellers/"><u>2024 Approved Revolutionary Drone Editing for Visual Storytellers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-syncopated-sound-understanding-ip-rules-on-instagram/"><u>2024 Approved Syncopated Sound Understanding IP Rules on Instagram</u></a></li>
+<li><a href="https://games-able.techidaily.com/ensuring-full-compensation-for-abandoned-steam-titles/"><u>Ensuring Full Compensation for Abandoned Steam Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/here-are-the-most-important-specs-i-look-for-in-a-gaming-monitor/"><u>Here Are the Most Important Specs I Look for in a Gaming Monitor</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-quick-fixes-utilizing-the-eraser-tool-in-psx/"><u>In 2024, Quick Fixes Utilizing the Eraser Tool in PSX</u></a></li>
+<li><a href="https://games-able.techidaily.com/lessons-from-my-titan-gpu-overinvestment/"><u>Lessons From My Titan GPU Overinvestment</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-windows-defense-plan-7-methods/"><u>The Ultimate Windows Defense Plan (7 Methods)</u></a></li>
+<li><a href="https://games-able.techidaily.com/unmatched-powerhouse-raider-ge78s-desktop-dominance/"><u>Unmatched Powerhouse: Raider GE78's Desktop Dominance</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-gameplay-install-new-gtx-1050-ti-drivers/"><u>Upgrade Gameplay: Install New GTX 1050 Ti Drivers</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/1725289842644-iso/"><u>アビファイルへの自由なISOからの変換手順</u></a></li>
+</ul></div>
 

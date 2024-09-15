@@ -1,7 +1,7 @@
 ---
 title: Steps to Overcome Components Needed Error on Windows 11 & 11
-date: 2024-09-09T09:52:46.785Z
-updated: 2024-09-10T09:52:46.785Z
+date: 2024-09-14T16:47:10.088Z
+updated: 2024-09-15T16:48:53.496Z
 tags:
   - games
 categories:
@@ -18,28 +18,10 @@ thumbnail: https://thmb.techidaily.com/042cea82a1fcfb2242b9880aa52ff1cf0cb7e4c3c
 
  This error typically occurs when users try to launch Windows games. Consequently, players cannot play games for which the “following components are required” error occurs. This is how you can fix the “following components are required” error on a Windows 10 or 11 PC.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Check for and Install Any Pending Windows Updates
 
 ![The Check for updates option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-for-updates.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  First, try checking for and installing all pending Windows patch updates. This is because some updates will feature fixes for DirectX, so if the error message points to DirectX as the culprit, this will hopefully put it to rest.
 
  Check out[how to update Windows manually](https://www.makeuseof.com/update-windows-manually/) and ensure your PC is on the latest build.
@@ -57,18 +39,6 @@ thumbnail: https://thmb.techidaily.com/042cea82a1fcfb2242b9880aa52ff1cf0cb7e4c3c
 4. Select the**Repair** option in the Visual C++ window that opens.  
 ![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Install the 2015-2022 Visual Studio C++ Packages
 
  If repairing doesn’t work, or you can’t find the Visual C++ package specified in the error, you may need to install missing C++ runtime libraries. Microsoft has a webpage from which you can download numerous different C++ Redistributable packages.
@@ -81,12 +51,6 @@ thumbnail: https://thmb.techidaily.com/042cea82a1fcfb2242b9880aa52ff1cf0cb7e4c3c
 3. Click**I agree** \>**Install** in the Microsoft Visual C++ 2015-2022 window.  
 ![The Install option for Visual C++](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-install-button.jpg)
 4. Repeat steps two and three to download and install the 32-bit version of Visual Studio 2015-2022\. To do so, you’ll need to click on the X86 download link for Visual Studio 2015-2022.
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Install DirectX Runtime Libraries
 
@@ -102,45 +66,36 @@ thumbnail: https://thmb.techidaily.com/042cea82a1fcfb2242b9880aa52ff1cf0cb7e4c3c
 5. Uncheck the**Install the Bing Bar** checkbox if you don’t want that software.  
 ![The Install the Bing Bar checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-install-bing-bar-option.jpg)
 6. Select**Next** to install the required DirectX components.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. Repair .NET Framework Components
 
 ![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Users have confirmed they fixed the “following components are required” error by reinstalling .NET Framework components. Thus, you might need to repair .NET Framework components on your PC to resolve the “following components are required” error.
 
  Check out[how to repair the .NET Framework](https://www.makeuseof.com/windows-repair-net-framework/) for more information.
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Verify the Affected Game Within Your Game Launcher
 
 ![The Verify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-verify-option.jpg)
@@ -149,18 +104,6 @@ thumbnail: https://thmb.techidaily.com/042cea82a1fcfb2242b9880aa52ff1cf0cb7e4c3c
 
  If you're unsure how to do this, check out[how to repair game files on different launchers](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/) .
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Reinstall the Affected Game or Software
 
  If the “following components are required” issue continues after applying all fixes above, reinstalling the game or software is the last thing to try. Some players might be concerned about losing saved data for games after reinstalling them. However, you can[back up saved game progress](https://www.makeuseof.com/tag/protect-your-game-saves/#:~:text=To%20turn%20on%20cloud%20saves,keep%20it%20in%20the%20cloud.) before uninstalling titles in different ways.
@@ -173,20 +116,24 @@ thumbnail: https://thmb.techidaily.com/042cea82a1fcfb2242b9880aa52ff1cf0cb7e4c3c
 
  Also, note that some players have been able to resolve the “following components are required” error by reinstalling Steam. So, reinstalling that client software might be worth a try if you need to fix this issue for Steam games.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Kick-Start Your Windows Games Again
 
  Lots of users have needed to fix the “following components are required” error, and they have done so by applying the potential resolutions outlined above. So, at least one of those potential solutions will likely kick-start your affected Windows games.
 
  However, we can’t guarantee those potential resolutions will always fix the “following components are required” error. Check whether an affected game has a technical support service you can contact for further troubleshooting guidance if needed. If this error occurs for a new game, consider requesting a refund for it while you still can.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -197,38 +144,20 @@ thumbnail: https://thmb.techidaily.com/042cea82a1fcfb2242b9880aa52ff1cf0cb7e4c3c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-ideal-equipment-for-animation-photography/"><u>[New] 2024 Approved Ideal Equipment for Animation Photography</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-freeze-whole-website-panel/"><u>[New] Freeze Whole Website Panel</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-unplugged-fun-the-best-non-networked-android-apps/"><u>[New] In 2024, Unplugged Fun The Best Non-Networked Android Apps</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-your-simple-route-to-youtubes-srt-extraction/"><u>[New] In 2024, Your Simple Route to YouTube's SRT Extraction</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-rhythmic-respite-top-20-easygoing-country-hits-for-stress-relief-dance-on-tiktok-for-2024/"><u>[Updated] Rhythmic Respite Top 20 Easygoing Country Hits for Stress-Relief Dance on TikTok for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-samsung-galaxy-s8-4k-smartphone-review/"><u>2024 Approved Samsung Galaxy S8 4K Smartphone Review</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/vating-startups-discovering-the-best-15-video-intros/"><u>Captivating Startups Discovering the Best 15 Video Intros</u></a></li>
-<li><a href="https://games-able.techidaily.com/computexs-innovative-ai-solutions-on-the-horizon/"><u>Computex's Innovative AI Solutions on the Horizon</u></a></li>
-<li><a href="https://games-able.techidaily.com/controlling-your-way-to-immersive-gameplay-with-ryujinx/"><u>Controlling Your Way to Immersive Gameplay with Ryujinx</u></a></li>
-<li><a href="https://games-able.techidaily.com/desktop-pcs-for-work-rigs-for-recreation/"><u>Desktop PCs for Work, Rigs for Recreation</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-tips-for-resolving-display-driver-failure-in-windows/"><u>Essential Tips for Resolving Display Driver Failure in Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/excellent-office-mats-and-their-benefits/"><u>Excellent Office Mats and Their Benefits</u></a></li>
-<li><a href="https://games-able.techidaily.com/fixing-missing-wordle-streaks-in-game-devices/"><u>Fixing Missing Wordle Streaks in Game Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/home-theater-wars-sony-playstation-5-vs-thrifty-pc/"><u>Home Theater Wars: Sony PlayStation 5 Vs. Thrifty PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-reset-and-start-screen-drivers-correctly-on-win10/"><u>How to Reset and Start Screen Drivers Correctly on Win10</u></a></li>
-<li><a href="https://games-able.techidaily.com/hrtfs-contribution-to-audio-realism-in-valorant-games/"><u>HRTF's Contribution to Audio Realism in Valorant Games</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-innovative-strategies-for-sport-streams-on-the-fly/"><u>In 2024, Innovative Strategies for Sport Streams on the Fly</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-the-experience-with-am08-pro-a-true-representation-of-magic/"><u>Is the Experience with AM08 Pro a True Representation of Magic?</u></a></li>
-<li><a href="https://games-able.techidaily.com/master-control-stop-launcher-glitches-on-pc-platforms/"><u>Master Control: Stop Launcher Glitches on PC Platforms</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-high-scores-with-apple-tv/"><u>Master the Art of High Scores with Apple TV</u></a></li>
-<li><a href="https://games-able.techidaily.com/master-the-ps5-with-non-standard-input-devices/"><u>Master The PS5 with Non-Standard Input Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximizing-gaming-potential-installing-on-steam-decks/"><u>Maximizing Gaming Potential: Installing on Steam Decks</u></a></li>
-<li><a href="https://games-able.techidaily.com/nurturing-a-secure-atmosphere-for-family-steam-play/"><u>Nurturing a Secure Atmosphere for Family Steam Play</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-guide-to-resolving-lengthy-wait-times-for-fallout-4-startup/"><u>Quick Guide to Resolving Lengthy Wait Times for Fallout 4 Startup</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/recordingease-minimalistic-win-11-screen-captures-for-2024/"><u>RecordingEase Minimalistic Win 11 Screen Captures for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/resetting-ps5-games-collection/"><u>Resetting PS5 Games Collection</u></a></li>
-<li><a href="https://games-able.techidaily.com/select-a-new-default-language-for-steam/"><u>Select a New Default Language for Steam</u></a></li>
-<li><a href="https://games-able.techidaily.com/sensible-gpu-purchase-for-visuals/"><u>Sensible GPU Purchase for Visuals</u></a></li>
-<li><a href="https://games-able.techidaily.com/series-x-disc-woes-find-the-eject-fix-now/"><u>Series X Disc Woes, Find the Eject Fix Now!</u></a></li>
-<li><a href="https://games-able.techidaily.com/solving-windows-11s-display-driver-fail-with-ease-and-precision/"><u>Solving Windows 11'S Display Driver Fail with Ease and Precision</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/superior-pfv-optimization-in-tardy-action-for-2024/"><u>Superior PFV Optimization in Tardy Action for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-essential-guide-to-repeating-gaming-moments/"><u>The Essential Guide to Repeating Gaming Moments</u></a></li>
-<li><a href="https://games-able.techidaily.com/win-at-lol-resolving-freeze-before-login/"><u>Win at LoL: Resolving Freeze Before Login</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-game-pass-explained-in-simple-terms/"><u>Xbox Game Pass Explained in Simple Terms</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-premier-editing-software-for-vimeo-streams/"><u>[New] Premier Editing Software for Vimeo Streams</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-unmask-invisible-fb-posts-with-these-proven-effective-12-fixes-for-23/"><u>[New] Unmask Invisible FB Posts with These Proven, Effective 12 Fixes for '23</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-the-best-youtube-equipment-what-you-need-to-start-your-channel/"><u>[Updated] 2024 Approved The Best YouTube Equipment What You Need to Start Your Channel</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-how-to-use-video-titles-and-youtube-tags-for-2024/"><u>[Updated] How to Use Video Titles and YouTube Tags for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-how-to-secretly-browse-instagram-stories-on-desktop-and-mobile-devices-for-free/"><u>[Updated] In 2024, How to Secretly Browse Instagram Stories on Desktop and Mobile Devices (For Free)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/can-adobe-premiere-pro-be-used-with-av1-video-compression/"><u>Can Adobe Premiere Pro Be Used with AV1 Video Compression?</u></a></li>
+<li><a href="https://games-able.techidaily.com/cybersecurity-education-empowering-kids-on-discord/"><u>Cybersecurity Education: Empowering Kids on Discord</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-without-flash-innovative-play-strategies-exposed/"><u>Game On without Flash: Innovative Play Strategies Exposed</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-narzo-60-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Realme Narzo 60 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-c67-5g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Realme C67 5G Phone without Google Account?</u></a></li>
+<li><a href="https://games-able.techidaily.com/must-know-specifications-ergonomic-keyboards/"><u>Must-Know Specifications: Ergonomic Keyboards</u></a></li>
+<li><a href="https://games-able.techidaily.com/power-your-gaming-dreams-with-critical-hardware-selections/"><u>Power Your Gaming Dreams with Critical Hardware Selections</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723008192432-star-citizen-now-stable-no-more-crashes-on-windows-platforms/"><u>Star Citizen Now Stable - No More Crashes on Windows Platforms!</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-next-level-handheld-nintendos-upcoming-leap/"><u>The Next Level Handheld - Nintendo's Upcoming Leap</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-i-decline-ea-play-amidst-price-hike/"><u>Why I Decline EA Play Amidst Price Hike</u></a></li>
 </ul></div>
+

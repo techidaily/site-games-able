@@ -1,7 +1,7 @@
 ---
 title: How to Ensure Complete Game Showcases on EG’s Digital Store
-date: 2024-09-09T09:47:22.870Z
-updated: 2024-09-10T09:47:22.870Z
+date: 2024-09-11T16:06:10.004Z
+updated: 2024-09-15T17:03:52.556Z
 tags:
   - games
 categories:
@@ -12,24 +12,12 @@ keywords: Game Showcase Perfection,Digital Store Presentation,EG Digital Display
 thumbnail: https://thmb.techidaily.com/cd3d45b359655445d3a3fddc84f4f42edd47a1ec876e69fbcc20cbbbf17a86ba.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Ensure Complete Game Showcases on EG’s Digital Store
 
  Has Epic Games stopped showing the games within your library? Most of the time, it’s a minor glitch that you can fix by restarting Epic Games Launcher or re-authenticating your account.
 
  Even if it’s a more serious problem, we’ve put together a list of solutions to help you get your games back.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Refresh the Library
 
  Sometimes, Epic Games Launcher might have a syncing issue and fail to display newly bought games. In this case, all you have to do is refresh the library. Within the desktop app, open the**Library** and click on the**Refresh** icon.
@@ -46,12 +34,6 @@ thumbnail: https://thmb.techidaily.com/cd3d45b359655445d3a3fddc84f4f42edd47a1ec8
 
  Then, relaunch the app and check if all of your games are now showing within the library.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Log Out and Log In to Epic Game
 
  Another quick fix that you can try is to log out and log back in. This way, you force Epic Games Launcher to verify your account information and display your complete library. Also, make sure you’ve logged in using the right account.
@@ -59,11 +41,12 @@ thumbnail: https://thmb.techidaily.com/cd3d45b359655445d3a3fddc84f4f42edd47a1ec8
  If there’s someone else with an Epic Games account using the same device as you, you’ll see only the games purchased by their account.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Check the Game’s Availability
 
  As you may know, you can[get free games on the Epic Games store](https://www.makeuseof.com/how-to-get-free-games-on-the-epic-games-store/) . Besides its permanent free games catalog, you can get a new free game every week. However, not every free game is yours forever.
@@ -71,11 +54,12 @@ thumbnail: https://thmb.techidaily.com/cd3d45b359655445d3a3fddc84f4f42edd47a1ec8
 ![Check the game's availability on Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/check-availability-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  A game might have limited availability which is why you can no longer see it in your library. In this case, go to the Epic Store and check the game’s status.
 
 ## 5\. Unhide the Game Library
@@ -95,11 +79,12 @@ thumbnail: https://thmb.techidaily.com/cd3d45b359655445d3a3fddc84f4f42edd47a1ec8
 ![Reset the library filters on Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/reset-filters-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 7\. Delete the Epic Games Launcher Cache
 
  If you notice other issues such as[Epic Games encountering launching errors](https://www.makeuseof.com/windows-epic-game-launcher-0013-error/) , besides the missing titles within the library, there’s a chance the cache got corrupted or outdated. In this case, deleting it should fix the issue. Here’s how you can do it on a Windows computer:
@@ -112,24 +97,15 @@ thumbnail: https://thmb.techidaily.com/cd3d45b359655445d3a3fddc84f4f42edd47a1ec8
 
 ![Delete the Webcache Folder in the Epic Games Launcher Installation Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/5-delete-the-webcache-folder-in-the-epic-games-launcher-installation-folder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bring Back Your Epic Games Library
 
  Epic Games not showing your games can be frustrating. Especially if you’ve just bought a new game and can’t wait to play it. Another solution to this problem is to link your Epic Games and Steam accounts. This way, you can carry your progress between these two platforms.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -140,54 +116,21 @@ thumbnail: https://thmb.techidaily.com/cd3d45b359655445d3a3fddc84f4f42edd47a1ec8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-mastering-instagram-promotions-five-key-strategies-for-influencers/"><u>[New] 2024 Approved Mastering Instagram Promotions Five Key Strategies for Influencers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-leading-heavy-duty-uavs-for-maximum-carry-capacity/"><u>[New] Leading Heavy-Duty UAVs for Maximum Carry Capacity</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-pixel-perfect-preservation-the-best-practices-of-recording-games/"><u>[New] Pixel-Perfect Preservation The Best Practices of Recording Games</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-simple-processes-for-logging-vimeo-content-for-2024/"><u>[New] Simple Processes for Logging Vimeo Content for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-pinnacle-of-new-zooids-in-panzoids/"><u>[New] The Pinnacle of New Zooids in Panzoids</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-creative-instagram-story-questions-increase-engagement/"><u>[Updated] 2024 Approved Creative Instagram Story Questions Increase Engagement</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-earn-on-youtube-decoding-recent-policy-changes/"><u>[Updated] In 2024, Earn on YouTube Decoding Recent Policy Changes</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oppo-reno-10-proplus-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Oppo Reno 10 Pro+ 5G</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/are-you-leaving-cash-behind-without-amazon-prime/"><u>Are You Leaving Cash Behind without Amazon Prime?</u></a></li>
-<li><a href="https://games-able.techidaily.com/crafting-a-winning-appeal-to-eas-beta-selection-panel/"><u>Crafting a Winning Appeal to EA's Beta Selection Panel</u></a></li>
-<li><a href="https://games-able.techidaily.com/crossover-techniques-for-optimal-bg3-on-apple-computers/"><u>CrossOver Techniques for Optimal BG3 on Apple Computers</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/dont-miss-out-grab-your-free-access-to-mondly-premium-before-its-too-late/"><u>Don't Miss Out - Grab Your Free Access to Mondly Premium Before It's Too Late</u></a></li>
-<li><a href="https://games-able.techidaily.com/economical-high-end-graphics-selection/"><u>Economical High-End Graphics Selection</u></a></li>
-<li><a href="https://games-able.techidaily.com/effortlessly-preserve-gaming-moments-store-steam-images/"><u>Effortlessly Preserve Gaming Moments - Store Steam Images</u></a></li>
-<li><a href="https://games-able.techidaily.com/embark-on-a-server-switch-journey-from-bedrock-to-java-using-geysermc/"><u>Embark on a Server Switch Journey: From Bedrock to Java Using GeyserMC</u></a></li>
-<li><a href="https://games-able.techidaily.com/encrypting-gaming-conversations-on-series-sx/"><u>Encrypting Gaming Conversations on Series S/X</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhance-privacy-by-excluding-mics-from-your-ps5-setup/"><u>Enhance Privacy by Excluding Mics From Your PS5 Setup</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-steams-recognition-for-your-games/"><u>Enhancing Steam's Recognition for Your Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/expert-tips-to-fix-broken-xbox-series-sx/"><u>Expert Tips to Fix Broken Xbox Series S/X</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-it-windows-10-laptop-stuck-at-plugged-in-not-charging-solutions-inside/"><u>Fix It! Windows 10 Laptop Stuck at 'Plugged in, Not Charging' - Solutions Inside</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-resolving-f1-2021-game-crashes-on-your-computer/"><u>Fixes and Solutions: Resolving F1 2021 Game Crashes on Your Computer</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/free-windows-10-video-transcoder-convert-avi-mpg-mp4-wmv-and-more-to-different-formats/"><u>Free Windows 10 Video Transcoder: Convert AVI, MPG, MP4, WMV & More to Different Formats</u></a></li>
-<li><a href="https://games-able.techidaily.com/gamers-ultimate-companion-high-refresh-rate-panels/"><u>Gamers’ Ultimate Companion: High-Refresh Rate Panels</u></a></li>
-<li><a href="https://games-able.techidaily.com/gauge-gpus-vram-knowledge-at-hand/"><u>Gauge GPU's VRAM: Knowledge at Hand</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-realme-12-proplus-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Realme 12 Pro+ 5G</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-realme-note-50-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Realme Note 50 to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/innovative-solutions-to-beat-the-overheating-issue-on-steam-devices/"><u>Innovative Solutions to Beat the Overheating Issue on Steam Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-the-game-world-with-these-9-essential-steam-benefits/"><u>Navigating the Game World with These 9 Essential Steam Benefits</u></a></li>
-<li><a href="https://games-able.techidaily.com/playstation-5-vs-economic-pc-the-ultimate-test/"><u>PlayStation 5 V/S Economic PC: The Ultimate Test</u></a></li>
-<li><a href="https://games-able.techidaily.com/power-unleashed-msis-raider-ge78-revealed/"><u>Power Unleashed: MSI's Raider Ge78 Revealed</u></a></li>
-<li><a href="https://games-able.techidaily.com/refrain-from-ps5-buying-heres-why/"><u>Refrain From PS5 Buying - Here's Why</u></a></li>
-<li><a href="https://games-able.techidaily.com/selecting-superior-desk-protective-matts/"><u>Selecting Superior Desk Protective Matts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/sidestep-the-lure-of-a-gpt-phone-app/"><u>Sidestep the Lure of a GPT Phone App</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamline-your-way-to-a-running-steam-application/"><u>Streamline Your Way to a Running Steam Application</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamlining-steams-refund-process-for-complete-reimbursement/"><u>Streamlining Steam's Refund Process for Complete Reimbursement</u></a></li>
-<li><a href="https://games-able.techidaily.com/tackling-error-262-in-roblox-platform/"><u>Tackling Error 262 in Roblox Platform</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-4-best-video-game-emulators-to-install-on-your-iphone-or-ipad/"><u>The 4 Best Video Game Emulators to Install on Your iPhone or iPad</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-benefits-of-high-dynamic-range-in-professional-videography/"><u>The Benefits of High Dynamic Range in Professional Videography</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-finest-office-mats-for-enhanced-productivity/"><u>The Finest Office Mats for Enhanced Productivity</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-companion-for-the-steam-deck-a-list-of-best-9-emulation-software/"><u>The Ultimate Companion for the Steam Deck: A List of Best 9 Emulation Software</u></a></li>
-<li><a href="https://games-able.techidaily.com/uncover-hidden-treasures-for-your-overheating-deck/"><u>Uncover Hidden Treasures for Your Overheating Deck</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleashing-power-razer-basilisk-v3s-high-performance/"><u>Unleashing Power: Razer Basilisk V3's High Performance</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-gba-games-in-your-linux-console/"><u>Unlocking GBA Games in Your Linux Console</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/unveiling-the-secrets-of-facebook-lives-dual-display-for-2024/"><u>Unveiling the Secrets of Facebook Live's Dual Display for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/upgraded-visuals-on-xbox-via-secondary-laptop-display/"><u>Upgraded Visuals on Xbox via Secondary Laptop Display</u></a></li>
-<li><a href="https://games-able.techidaily.com/visual-triumph-and-tribulations-in-pimax-crystal-headset/"><u>Visual Triumph and Tribulations in Pimax Crystal Headset</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-you-should-avoid-using-the-mic-on-your-ps5-controller/"><u>Why You Should Avoid Using the Mic on Your PS5 Controller</u></a></li>
-<li><a href="https://games-able.techidaily.com/will-gamers-see-a-positive-shift-with-the-xbox-activision-deal/"><u>Will Gamers See a Positive Shift with the Xbox-Activision Deal?</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-audio-configuration-exclusive-for-headphones/"><u>Xbox Audio Configuration: Exclusive for Headphones</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-series-x-uninterrupted-gameplay-solutions/"><u>Xbox Series X: Uninterrupted Gameplay Solutions</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-unveiling-the-perfect-process-iphones-podcast-downloading-technique/"><u>[Updated] In 2024, Unveiling the Perfect Process IPhone's Podcast Downloading Technique</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-how-to-edit-text-in-image-photo-text-editor-online-and-app/"><u>2024 Approved How to Edit Text in Image? [Photo Text Editor Online and App]</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-quintessential-5-filters-for-depth-video/"><u>2024 Approved Quintessential 5 Filters for Depth Video</u></a></li>
+<li><a href="https://games-able.techidaily.com/easing-back-into-savings-with-digital-games-reimbursement/"><u>Easing Back Into Savings with Digital Games Reimbursement</u></a></li>
+<li><a href="https://games-able.techidaily.com/end-of-gaming-loopholes-valve-responds-now/"><u>End of Gaming Loopholes: Valve Responds Now</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-mac-gaming-in-sonoma-through-apples-game-mode/"><u>Maximizing Mac Gaming in Sonoma Through Apple’s Game Mode</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-safaris-full-page-screenshot-challenges-a-comprehensive-guide-for-users/"><u>Overcoming Safari's Full-Page Screenshot Challenges: A Comprehensive Guide for Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/pc-parts-synergy-avoid-compatibility-pitfalls/"><u>PC Parts Synergy - Avoid Compatibility Pitfalls</u></a></li>
+<li><a href="https://games-able.techidaily.com/swift-steam-reactivation-methods/"><u>Swift Steam Reactivation Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-secret-behind-timeless-game-aesthetics-retroarcs-shaders/"><u>The Secret Behind Timeless Game Aesthetics - RetroArc's Shaders</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-superior-audio-world-of-beyerdynamic-mmx-200/"><u>The Superior Audio World of Beyerdynamic MMX 200</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-updated-comprehensive-bd-review-s3700/"><u>The Updated Comprehensive BD Review S3700</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-15-split-screen-adventures-for-solo-duos-on-mobile/"><u>Top 15 Split-Screen Adventures for Solo Duos on Mobile</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-nokia-105-classic-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Nokia 105 Classic Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/understanding-and-executing-photo-gender-modification-online/"><u>Understanding and Executing Photo Gender Modification Online</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Flash's Legacy Continues: How to Keep Playing Post-Adobe"
-date: 2024-07-12T03:49:49.638Z
-updated: 2024-07-13T03:49:49.638Z
+date: 2024-09-13T16:15:53.997Z
+updated: 2024-09-15T16:27:22.269Z
 tags:
   - games
 categories:
@@ -61,6 +61,19 @@ thumbnail: https://thmb.techidaily.com/5cf7e45072025cfbbdb41e62586d386e0a0a7b211
 ### 2. The Flash Game Archive
 ![flash game archive website homepage screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/flash-game-archive.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The Flash Game Archive is a free archive of Flash games that you can play locally on your computer at any time. Its stated goal is to preserve Flash games before they are completely lost.
 
  This preservation project is headed by the Canadian developer team, Dragom. The Flash Game Archive is a non-profit project and free to use, but if you join [the Flash Game Archive Patreon](https://www.patreon.com/flashgamearchive) you can gain earlier access to all game additions and the ability to request to have new games added.
@@ -68,6 +81,13 @@ thumbnail: https://thmb.techidaily.com/5cf7e45072025cfbbdb41e62586d386e0a0a7b211
  The Flash Game Archive offers you the opportunity to continue to play Flash games without Flash player by simply downloading its client. The Flash Game Archive software allows you to download Flash games on demand (for full-screen play) and [play Flash games offline](https://www.makeuseof.com/tag/download-run-flash-games/) .
 
  Games and other media are stored in a data center, with over 4000 games currently in the archive. With each update, more games are added to the Flash Game Archive.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3. The Internet Archive
 ![internet archive software library webpage screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/internet-archive-1.jpg)
@@ -87,20 +107,24 @@ thumbnail: https://thmb.techidaily.com/5cf7e45072025cfbbdb41e62586d386e0a0a7b211
 
 [The Newgrounds Player](https://www.newgrounds.com/flash/player) was designed to create a "seamless browsing experience on Newgrounds, while preserving the ability to enjoy all of our classic content," according to its own download page.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Flash Games Will Live On Forever
 
  Adobe might be dead and buried, but Flash games still live on. For years both users and developers have complained endlessly about Flash's vulnerabilities and security holes, but none of that will ever erase the fact that this same technology helped the internet become the interactive tool it is today.
 
  Furthermore, Flash practically gave birth to web-based games and helped one of the largest indie gaming scenes emerge out of nowhere. The amount of games built using Flash over its 20-year history is so vast that it surpasses the number of games built for any other platform by far.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -109,6 +133,22 @@ thumbnail: https://thmb.techidaily.com/5cf7e45072025cfbbdb41e62586d386e0a0a7b211
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/updated-clearer-captures-smartphone-specific-tripods-guide/"><u>[Updated] Clearer Captures Smartphone-Specific Tripods' Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-mergecombinejoin-youtube-flv-videos-for-2024/"><u>[Updated] How to Merge/Combine/Join YouTube (FLV) Videos for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-a-gamers-guide-to-high-quality-gameplay-recordings-on-ps4/"><u>2024 Approved A Gamer's Guide to High-Quality Gameplay Recordings on PS4</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725284492315-dvdiphone/"><u>DVDのビデオファイルをiPhoneに移行して鑑賞する方法</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-sonys-console-to-your-computer-mastering-the-ps5-controller-use/"><u>From Sony's Console to Your Computer - Mastering the PS5 Controller Use</u></a></li>
+<li><a href="https://games-able.techidaily.com/guide-to-modifying-discords-gaming-mode/"><u>Guide to Modifying Discord's Gaming Mode</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-lava-yuva-2-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Lava Yuva 2 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-vivo-s18e-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Vivo S18e? Fixed | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-infinix-note-30-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Infinix Note 30</u></a></li>
+<li><a href="https://location-fake.techidaily.com/leading-innovations-in-smart-glasses-for-2-the-ultimate-ranking-of-best-smart-spectacles-2024-edition/"><u>Leading Innovations in Smart Glasses for 2# The Ultimate Ranking of Best Smart Spectacles - 2024 Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/say-less-play-more-with-a-silent-ps5-controller/"><u>Say Less, Play More with a Silent PS5 Controller</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-redefines-playtime-with-innovative-ai-directives-and-policies/"><u>Steam Redefines Playtime with Innovative AI Directives and Policies</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-for-resolving-horizon-forbidden-west-full-version-freezes-and-crashes-on-pcs/"><u>Troubleshooting Steps for Resolving 'Horizon Forbidden West' Full Version Freezes and Crashes on PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/unblocking-screen-driver-launch-issue-with-windows-1011/"><u>Unblocking Screen Driver Launch Issue with Windows 10/11</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-fixes-for-disconnected-joy-cons-in-switch/"><u>Unveiling Fixes for Disconnected Joy-Cons in Switch</u></a></li>
+</ul></div>
 

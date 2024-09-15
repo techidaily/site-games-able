@@ -1,7 +1,7 @@
 ---
 title: Can You Use a PS5 Controller on a PS4?
-date: 2024-07-12T03:45:33.832Z
-updated: 2024-07-13T03:45:33.832Z
+date: 2024-09-12T16:51:59.512Z
+updated: 2024-09-15T16:01:32.226Z
 tags:
   - games
 categories:
@@ -57,6 +57,13 @@ Close
 
  What's great about this method, compared to using Remote Play on PC, is that you can use the PS5 controller wirelessly.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Do PS5 Controllers Work on PS4 Using the Titan Two Adapter?
 
  Remote Play works just fine if you have a device that supports it, but if you don't have one or don't want to deal with possible input lag from streaming, there's one more middleman you can try: Titan Two by [ConsoleTuner](https://www.consoletuner.com/products/titan-two/) .
@@ -65,20 +72,24 @@ Close
 
  Now you'll be able to use the DualSense controller on your PlayStation 4 without needing Remote Play.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Use the DualSense Controller on PS4 the Hard Way
 
  Unfortunately, the answer to "Can you use a PS5 controller on a PS4?" is "not directly." It's not as easy as plugging the DualSense into your PlayStation 4, and you're good to go. To get the DualSense to Work on PS4, you need a device that supports PS Remote Play or use the Titan Two adapter as a bridge to connect the two.
 
  These methods might not be the easiest way to get around it, and you may have to deal with some input lag when it comes to Remote Play, but they work.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -87,6 +98,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-story-and-reels-transform-your-vocal-brand-with-these-tricks-for-2024/"><u>[Updated] Instagram Story & Reels Transform Your Vocal Brand with These Tricks for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/efficient-scratching-tool-for-chromeos/"><u>Efficient Scratching Tool for ChromeOS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-to-restore-your-windows-computers-embedded-webcam-functionality/"><u>Expert Tips to Restore Your Windows Computer's Embedded Webcam Functionality</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-capabilities-of-a-ps4-to-support-classic-ps-gaming/"><u>Exploring the Capabilities of a PS4 to Support Classic PS Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-randomness-to-realism-procedural-world-building/"><u>From Randomness to Realism: Procedural World Building</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-gestures-pen-or-pointer-in-rhythm-battle/"><u>Gaming Gestures: Pen or Pointer in Rhythm Battle</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/huge-savings-save-200-on-the-alienware-aurora-r16-with-rtx-4070-super-now-just-1499/"><u>Huge Savings: Save $200 on the Alienware Aurora R16 with RTX 4070 Super – Now Just $1,499!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-elevate-viewership-integrating-twitch-and-facebook/"><u>In 2024, Elevate Viewership Integrating Twitch and Facebook</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/installing-microsoft-office-365-seamlessly-a-step-by-step-process-for-windows-and-mac-users/"><u>Installing Microsoft Office 365 Seamlessly - A Step-by-Step Process for Windows and Mac Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-for-stealthy-gameplay/"><u>Strategies for Stealthy Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-game-seekers-handbook-acquiring-elite-steam-gaming-for-free/"><u>The Game Seeker's Handbook: Acquiring Elite Steam Gaming for Free</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-3-must-watch-breakthroughs-in-technology/"><u>Unveiling the 3 Must-Watch Breakthroughs in Technology</u></a></li>
+<li><a href="https://games-able.techidaily.com/visual-tech-comparison-directx-series-debate/"><u>Visual Tech Comparison: DirectX Series Debate</u></a></li>
+</ul></div>
 

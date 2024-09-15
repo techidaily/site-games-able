@@ -1,7 +1,7 @@
 ---
 title: Pioneering Nintendo Games on Your Mac
-date: 2024-07-12T03:47:00.096Z
-updated: 2024-07-13T03:47:00.096Z
+date: 2024-09-10T16:10:19.858Z
+updated: 2024-09-15T16:00:33.213Z
 tags:
   - games
 categories:
@@ -45,6 +45,14 @@ thumbnail: https://thmb.techidaily.com/9105fef2820e9cb0cafb243a0fa4a6bdd2cfafcad
 2. Open Ryujinx on your Mac, then navigate to**File > Open Ryujinx Folder** .  
 ![Ryujinx macOS home page open, with options to configure Ryujinx](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ryujinx-macos-home-page.jpg)
 3. When a Finder window opens, select the**System** folder.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Paste the**prod.keys** file into the designated directory.  
 ![Ryujinx System Folder open with prod.keys pasted in the directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ryujinx-system-files.jpg)
 
@@ -66,8 +74,23 @@ thumbnail: https://thmb.techidaily.com/9105fef2820e9cb0cafb243a0fa4a6bdd2cfafcad
 2. Open**Ryujinx** and head to**Options > Settings** .  
 ![Ryujinx Home Page with settings option available](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ryujinx-settings-option.jpg)
 3. Head over to the**Input** tab, and make sure your controller is selected under the**Input Device** option.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. If needed, you can also edit any required settings to customize your controls.  
 ![Ryujinx controller settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ryujinx-controller-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Adding Your Games to Ryujinx
 
@@ -79,18 +102,29 @@ thumbnail: https://thmb.techidaily.com/9105fef2820e9cb0cafb243a0fa4a6bdd2cfafcad
 3. After double-clicking on the ROM file, the game will finally start running.  
 ![Hades Running on Ryujinx](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/hades-running-on-ryujinx.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Enjoy Playing Nintendo Switch Games on Your Mac
 
  Thanks to emulators like Ryujinx, you don't always have to carry your Nintendo Switch with you to play some of your favorite games. With the steps outlined in this guide, you're now equipped to venture into the realm of Nintendo Switch gaming on your Mac. So, go on and experience the thrill of popular titles with the convenience and performance Ryujinx has to offer.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -99,6 +133,19 @@ thumbnail: https://thmb.techidaily.com/9105fef2820e9cb0cafb243a0fa4a6bdd2cfafcad
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-caption-creation-for-non-native-audiences-in-igtv-for-2024/"><u>[New] Caption Creation for Non-Native Audiences in IGTV for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-orchestrate-your-pixels-with-offline-harmony/"><u>[New] Orchestrate Your Pixels With Offline Harmony</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-direct-music-upload-top-tools-for-turning-spotify-into-youtube-listings/"><u>[Updated] In 2024, Direct Music Upload Top Tools for Turning Spotify Into YouTube Listings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-the-ultimate-comparison-best-microphones-for-podcasters/"><u>2024 Approved The Ultimate Comparison Best Microphones for Podcasters</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-oneplus-nord-ce-3-lite-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset OnePlus Nord CE 3 Lite 5G Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/conquer-every-game-mastering-button-mappings-on-android/"><u>Conquer Every Game: Mastering Button Mappings on Android</u></a></li>
+<li><a href="https://win-able.techidaily.com/cracking-the-code-top-strategies-to-resolve-lols-persistent-black-screen-glitch/"><u>Cracking the Code: Top Strategies to Resolve LoL's Persistent Black Screen Glitch</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-xiaomi-redmi-12-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Xiaomi Redmi 12 5G</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-finest-8-mobile-game-experiences/"><u>Discover the Finest 8 Mobile Game Experiences</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-instructions-for-downloading-and-setting-up-arduino-software-on-windows/"><u>Easy Instructions for Downloading and Setting Up Arduino Software on Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-dream-realized-with-razer-blackwidow-v4-review/"><u>Gamer’s Dream Realized with Razer BlackWidow V4 Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/pro-level-cpu-cooling-master-these-8-factors-before-purchase/"><u>Pro-Level CPU Cooling: Master These 8 Factors Before Purchase</u></a></li>
+</ul></div>
 

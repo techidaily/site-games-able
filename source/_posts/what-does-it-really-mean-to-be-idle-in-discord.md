@@ -1,7 +1,7 @@
 ---
 title: What Does It Really Mean to Be Idle in Discord?
-date: 2024-07-12T03:52:32.952Z
-updated: 2024-07-13T03:52:32.952Z
+date: 2024-09-13T16:19:02.784Z
+updated: 2024-09-15T16:45:21.172Z
 tags:
   - games
 categories:
@@ -46,11 +46,25 @@ thumbnail: https://thmb.techidaily.com/b7025f879b7f69fff163ff4565fc3f42cd715d8a0
 
  If you manually select the idle status, you will remain idle regardless of whether you message someone or use the app in other ways. In fact, you can even be actively talking or streaming in a voice channel and the app will continue to show you as idle.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Switch Your Discord Status to Idle
 
  There are a variety of ways to [change your Discord online status](https://www.makeuseof.com/how-to-change-your-discord-online-status/) to reflect your availability on the app.
 
 ![set idle status on discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/set-idle-status-on-discord.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you are using the desktop app, click on your profile icon in the bottom left corner, hover over the**Online** tab, and select**Idle** . There is also the option to [set a custom status on Discord](https://www.makeuseof.com/set-custom-discord-status/) .
 
@@ -68,14 +82,11 @@ Close
 
  If someone is marked as idle on Discord, you might not get a response right away—it all depends on whether they're really away from their device or if they have marked the status manually.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -84,6 +95,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-becoming-a-pro-combining-facebook-live-and-zoom/"><u>[New] Becoming a Pro Combining Facebook Live and Zoom</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-exploring-the-top-ten-of-youtubes-most-engrossing-vr-videos/"><u>[Updated] Exploring the Top Ten of YouTube’s Most Engrossing VR Videos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-streamline-your-media-workflow-a-complete-srt-to-other-file-format-handbook-for-2024/"><u>[Updated] Streamline Your Media Workflow A Complete SRT-to-Other File Format Handbook for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-tecno-spark-10-pro-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/comprehensive-guide-to-top-tier-skype-recorder-tech-for-2024/"><u>Comprehensive Guide to Top-Tier Skype Recorder Tech for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminate-system-lags-with-updated-nvidia-graphics-drivers/"><u>Eliminate System Lags with Updated Nvidia Graphics Drivers.</u></a></li>
+<li><a href="https://games-able.techidaily.com/harmonious-pcs-ensuring-components-unite-flawlessly/"><u>Harmonious PCs: Ensuring Components Unite Flawlessly</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-xs-max-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone XS Max When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-quickquip-quartermotion-grip/"><u>In 2024, QuickQuip QuarterMotion Grip</u></a></li>
+<li><a href="https://games-able.techidaily.com/rediscovering-classics-moviesgames-in-windows-folder/"><u>Rediscovering Classics: Movies/Games in Windows Folder</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-7-ea-play-hits-for-ps5-gamers/"><u>Top 7 EA Play Hits For PS5 Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-gaming-choice-top-5-retro-handheld-picks/"><u>Ultimate Gaming Choice: Top 5 Retro Handheld Picks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/words-worldwide-war-chatgpt-vs-googles-skill/"><u>Words Worldwide War: ChatGPT Vs. Google's Skill</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Conquer Crashes and Freezes - Restoring Epic's Launcher Function
-date: 2024-07-12T03:44:31.605Z
-updated: 2024-07-13T03:44:31.605Z
+date: 2024-09-10T16:50:50.058Z
+updated: 2024-09-15T16:18:58.904Z
 tags:
   - games
 categories:
@@ -43,6 +43,13 @@ Reopen the Epic Games Launcher and try using it.
 
  If there’s an issue with the servers, you have no option but to wait for the company to resolve the problem on its end. Following that, you should be able to use Epic Games Launcher as before.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Check for App Updates
 
  Using an outdated version of Epic Games Launcher can also cause it to crash or freeze on Windows. Hence, it’s a good idea to update the Epic Games Launcher if you haven’t already. Here are the steps for the same.
@@ -62,6 +69,13 @@ Reopen the Epic Games Launcher and try using it.
 4. Clear the**Disable fullscreen optimizations** checkbox.
 5. Hit**Apply** followed by**OK** .  
 ![Disable Fullscreen Optimizations for Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-fullscreen-optimizations-for-epic-games-launcher.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Clear the Epic Games Launcher’s Webcache Folder
 
@@ -87,7 +101,27 @@ Reopen the Epic Games Launcher and try using it.
 4. Head to [Microsoft’s website](https://www.microsoft.com/en-us/download/details.aspx?id=35) and download the DirectX End-User Runtime Web Installer.  
 ![Delete the D3DCOMPILER_43.dll File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/delete-the-d3dcompiler_43-dll-file.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Run the installer file and follow the on-screen prompts to finish the process. After that, try using Epic Games Launcher again.
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Repair the Epic Games Launcher
 
@@ -100,6 +134,13 @@ Reopen the Epic Games Launcher and try using it.
 5. Click the**Repair** button at the top.
 6. Select**Yes** when the User Account Control (UAC) prompt shows up.  
 ![Repair Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/repair-epic-games-launcher.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Follow the on-screen instructions to repair the launcher and try using it again.
 
@@ -120,14 +161,11 @@ Reopen the Epic Games Launcher and try using it.
 
  Problems with the Epic Games Launcher can be annoying as they prevent you from playing your favorite games. In most cases, these issues are caused by a lack of permissions or a corrupted app cache. In any case, one of the tips above should help you fix the underlying issue for good.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -136,6 +174,16 @@ Reopen the Epic Games Launcher and try using it.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-cost-effective-pc-video-archive-tools/"><u>[New] In 2024, Cost-Effective PC Video Archive Tools</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-from-gym-goer-to-broadcayer-set-up-a-sports-vlog-on-macos/"><u>[Updated] 2024 Approved From Gym Goer to Broadcayer Set Up a Sports Vlog on macOS</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-digital-game-highlights-6-pc-snapshot-strategies/"><u>[Updated] Digital Game Highlights 6 PC Snapshot Strategies</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-future-proof-file-storage-essential-cloud-services-revealed/"><u>In 2024, Future-Proof File Storage Essential Cloud Services Revealed</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-realme-12-proplus-5g-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Realme 12 Pro+ 5G Phone</u></a></li>
+<li><a href="https://games-able.techidaily.com/proving-worth-key-elements-for-rpg-controllers/"><u>Proving Worth: Key Elements for RPG Controllers</u></a></li>
+<li><a href="https://games-able.techidaily.com/revive-the-past-embrace-future-with-pi-in-game-development/"><u>Revive the Past, Embrace Future with Pi in Game Development</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-overcome-components-needed-error-on-windows-11-and-11/"><u>Steps to Overcome Components Needed Error on Windows 11 & 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-15-pre-loaded-ios-games-fun-without-connections/"><u>Top 15 Pre-Loaded iOS Games: Fun WITHOUT Connections!</u></a></li>
+</ul></div>
 

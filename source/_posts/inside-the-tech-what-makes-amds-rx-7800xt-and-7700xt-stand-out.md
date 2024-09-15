@@ -1,7 +1,7 @@
 ---
 title: "Inside the Tech: What Makes AMD's RX 7800XT & 7700XT Stand Out"
-date: 2024-09-09T09:51:14.676Z
-updated: 2024-09-10T09:51:14.676Z
+date: 2024-09-10T16:21:31.281Z
+updated: 2024-09-15T16:31:26.670Z
 tags:
   - games
 categories:
@@ -12,20 +12,8 @@ keywords: AMD Radeon XT,XT Series Gaming,AMD GPU Tech,AMD 7800XTX,Graphics Card 
 thumbnail: https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Inside the Tech: What Makes AMD's RX 7800XT & 7700XT Stand Out
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * At Gamescom 2023, AMD announced the highly anticipated Radeon RX 7800 XT and RX 7700 XT, filling a gap in its RDNA 3 GPU lineup.
@@ -36,12 +24,6 @@ thumbnail: https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae
 
  To better understand the capabilities of AMD's current-gen GPU architecture, here's a comprehensive breakdown of all the relevant details surrounding the RX 7800 XT and RX 7700 XT.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## RX 7800 XT vs. RX 7700 XT: Specifications and Overview
 
  For starters, both the Radeon RX 7800 XT and RX 7700 XT are built around AMD's brand-new Navi 32 GPU die, which adopts a chiplet-based design to reduce manufacturing costs and facilitate production. Like before, the central section of this GPU features a relatively smaller GCD (Graphics Compute Die) than Navi 31 (fabricated on TSMC's N5 process), flanked by four MCDs (Memory Complex Die) utilizing an older yet efficient N6 technology.
@@ -81,24 +63,12 @@ thumbnail: https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae
 
  On the contrary, the RX 7700 XT presents a compelling upgrade path from the previous-gen RX 6700 XT and its mid-gen refresh—the RX 6750 XT—albeit at a $100 price premium. Nevertheless, it remains to be seen whether AMD has truly delivered a noteworthy generational uplift or inadvertently launched a costly sidegrade like Nvidia's much-maligned GeForce RTX 4060 Ti.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## RX 7800 XT vs. RX 7700 XT: Gaming Performance
 
  According to AMD's internal benchmarks, the Radeon RX 7800 XT engages in a back-and-forth battle with Nvidia's $600 RTX 4070, whereas the RX 7700 XT stands favorably against the $500 RTX 4060 Ti 16GB variant. More importantly, both GPUs demonstrate the ability to surpass the 60 FPS threshold at 1440p, "Ultra" settings in a range of recent AAA titles.
 
 ![RX 7700 XT vs. RTX 4060 Ti 16GB Benchmark Data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rx-7700-xt-vs-rtx-4060-ti-16gb.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Image Credit:[IGN](https://www.youtube.com/watch?v=cJyRQmhCkDk)
 
  Across the 19-game configuration sample, the RX 7700 XT outperforms Nvidia's GeForce RTX 4060 Ti 16GB by about 12% on average. Interestingly, AMD's scaled-down Navi 32 GPU secures a 17% lead in rasterization performance while exhibiting a mere 4% deficit in certain games that implement advanced ray tracing effects.
@@ -109,6 +79,19 @@ thumbnail: https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae
 
  Furthermore, AMD's performance figures for the RX 7800 XT put it in a formidable position against the RTX 4070, showcasing a 9% advantage in rasterization and a 6% deficit in select RT titles. Although the average gain isn't as impressive as seen in the previous slide, the RX 7800 XT undercuts Nvidia's upper mid-range offering by around $100.
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## RX 7800 XT vs. RX 7700 XT: Pricing and Availability
 
  At an MSRP of $499, AMD's Radeon RX 7800 XT represents a better price-to-performance ratio than the cut-down Navi 32 variant on multiple occasions. If the performance numbers for both GPUs hold true, the RX 7700 XT, at a starting price of $449, could face some potential challenges in its own lineup.
@@ -118,25 +101,23 @@ thumbnail: https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae
  While the Radeon RX 7800 XT comes in an AMD reference dual-fan, dual-slot design, alongside custom variants, the RX 7700 XT will only be made available through AIB partners like ASRock, ASUS, Biostar, Gigabyte, PowerColor, Sapphire, Vastarmor, XFX, and Yeston.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## AMD's Next-Gen 1440p Gaming GPUs Unveiled
 
  From what has been revealed, AMD's marketing strategy for this launch involves pitting the Radeon RX 7800 XT and RX 7700 XT against older yet capable 1440p cards. Considering the recent adoption of QHD displays, both GPUs should be able to offer a stellar gaming experience, with enough headroom to drive graphically demanding titles at 4K.
 
  Ultimately, the success of these sub-$500 graphics cards will depend largely on their real-world performance, feature set, and overall, given that this market segment is highly competitive.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -147,37 +128,17 @@ thumbnail: https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-streaming-success-with-top-tier-tech/"><u>[New] 2024 Approved Streaming Success with Top-Tier Tech</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-pioneering-digital-realms-comparing-metaverse-and-omniverse/"><u>[Updated] In 2024, Pioneering Digital Realms Comparing Metaverse & Omniverse</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-giroptic-complete-immersion/"><u>[Updated] In-Depth Giroptic Complete Immersion</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-mastering-iphones-voice-memo-functionality/"><u>[Updated] Mastering iPhone's Voice Memo Functionality</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-mastery-in-simulating-chrono-displacement-for-2024/"><u>[Updated] Mastery in Simulating Chrono-Displacement for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-top-10-soothing-games-to-ease-anxiety/"><u>[Updated] Top 10 Soothing Games to Ease Anxiety</u></a></li>
-<li><a href="https://games-able.techidaily.com/480plus-fast-response-display-innocns-pick/"><u>$480+ Fast Response Display - InnoCN's Pick</u></a></li>
-<li><a href="https://games-able.techidaily.com/20-ways-to-improve-gaming-performance-on-your-laptop/"><u>20 Ways to Improve Gaming Performance on Your Laptop</u></a></li>
-<li><a href="https://games-able.techidaily.com/5-missteps-that-thwart-gamefi-adoption-by-enthusiasts/"><u>5 Missteps That Thwart GameFi Adoption by Enthusiasts</u></a></li>
-<li><a href="https://games-able.techidaily.com/5-tips-to-get-the-best-entertainment-experience-from-your-ps5/"><u>5 Tips to Get the Best Entertainment Experience From Your PS5</u></a></li>
-<li><a href="https://games-able.techidaily.com/access-advantages-analysis-game-pass-versus-playstation-essentials/"><u>Access Advantages Analysis: Game Pass Versus PlayStation Essentials</u></a></li>
-<li><a href="https://games-able.techidaily.com/achieving-optimal-ps5-security-through-passcode-settings/"><u>Achieving Optimal PS5 Security Through Passcode Settings</u></a></li>
-<li><a href="https://games-able.techidaily.com/addressing-steam-connections-in-windows-11/"><u>Addressing Steam Connections in Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/affordable-ergonomic-designs-for-extended-play-sessions/"><u>Affordable Ergonomic Designs for Extended Play Sessions</u></a></li>
-<li><a href="https://games-able.techidaily.com/ai-influence-on-gaming-graphics-examining-nvidias-dlss-35/"><u>AI Influence on Gaming Graphics: Examining Nvidia's DLSS 3.5</u></a></li>
-<li><a href="https://games-able.techidaily.com/ai-driven-virtual-whodunnit-adventures/"><u>AI-Driven Virtual Whodunnit Adventures</u></a></li>
-<li><a href="https://games-able.techidaily.com/asus-rog-clashes-with-tuf-proart-and-prime-precision-comparison/"><u>Asus ROG Clashes with TUF, ProArt & Prime Precision Comparison</u></a></li>
-<li><a href="https://games-able.techidaily.com/bargain-hunting-in-steam-finding-high-quality-games-for-zilch/"><u>Bargain Hunting in Steam: Finding High-Quality Games for Zilch</u></a></li>
-<li><a href="https://games-able.techidaily.com/beating-the-big-apples-elite-network-8-key-moves/"><u>Beating the Big Apple’s Elite Network: 8 Key Moves</u></a></li>
-<li><a href="https://games-able.techidaily.com/before-you-buy-think-these-6-things-through/"><u>Before You Buy, Think These 6 Things Through</u></a></li>
-<li><a href="https://games-able.techidaily.com/best-mac-games-compatible-console-emulators/"><u>Best Mac Games: Compatible Console Emulators</u></a></li>
-<li><a href="https://games-able.techidaily.com/best-practices-managing-gpu-thermal-output/"><u>Best Practices: Managing GPU Thermal Output</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/black-friday-deals-dive-into-language-learning-at-a-steal/"><u>Black Friday Deals: Dive Into Language Learning at a Steal!</u></a></li>
-<li><a href="https://fox-links.techidaily.com/dazzling-display-guide-for-android-videos-for-2024/"><u>Dazzling Display Guide for Android Videos for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/empowering-sight-challenges-discover-these-8-essential-iphone-accessibility-options/"><u>Empowering Sight Challenges: Discover These 8 Essential iPhone Accessibility Options</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-5-rapid-ways-to-access-obliviated-reddit-content/"><u>In 2024, 5 Rapid Ways to Access Obliviated Reddit Content</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-cyber-currents-videos-flow-on-twitter-wave/"><u>In 2024, Cyber Currents Videos Flow on Twitter Wave</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719167483102-lightgblade-27m2v-econogamer-monitor/"><u>LightGBlade 27M2V - EconoGamer Monitor</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719170382520-nvidia-drivers-the-solution-to-your-computer-glitches/"><u>Nvidia Drivers: The Solution to Your Computer Glitches.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolving-compatibility-woes-for-samsung-print-devices-in-the-windows-environment-resolved/"><u>Resolving Compatibility Woes for Samsung Print Devices in the Windows Environment [RESOLVED]</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719173591886-seamless-controller-linking-on-switch-console-96-chars-slightly-over-but-its-close-enough-to-be-considered-within-the-limit-while-maintaining-relevance/"><u>Seamless Controller Linking on Switch Console (96 Chars) – Slightly over, but It's Close Enough to Be Considered Within the Limit While Maintaining Relevance</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-essential-srt-to-xml-ssa-and-ttml-manual-for-2024/"><u>The Essential SRT to XML, SSA & TTML Manual for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719161640910-valuepixeldesign-monitor-budget-gamers-choice/"><u>ValuePixelDesign Monitor, Budget Gamers' Choice!</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/coreboard-the-best-video-to-mp3-convertors/"><u>[New] Scoreboard The Best Video to Mp3 Convertors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/12-essential-microsoft-excel-configuration-tweaks-for-optimal-performance/"><u>12 Essential Microsoft Excel Configuration Tweaks for Optimal Performance</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-choosing-your-content-companion-the-future-in-podcasts-or-youtube/"><u>2024 Approved Choosing Your Content Companion The Future in Podcasts or YouTube</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-a-new-world-playing-battle-royale-on-iphone-and-nvidia/"><u>Discover a New World: Playing Battle Royale on iPhone and Nvidia</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-xiaomi-redmi-note-13-pro-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi Redmi Note 13 Pro 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-optimal-team-chats-secrets-to-success-4-steps/"><u>In 2024, Optimal Team Chats Secrets to Success, #4 Steps</u></a></li>
+<li><a href="https://games-able.techidaily.com/interoperability-between-newer-and-older-playstation/"><u>Interoperability Between Newer and Older PlayStation?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/quick-and-clean-method-to-live-podcast/"><u>Quick & Clean Method to Live Podcast</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-the-504-gateway-timeout-issue-a-step-by-step-guide/"><u>Resolving the 504 Gateway Timeout Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-to-tackle-error-code-0x887a0006-in-windows/"><u>Strategies to Tackle Error Code 0X887A0006 in Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/war-wisdom-crafting-a-list-of-top-11-ww2-tactical-games/"><u>War Wisdom: Crafting a List of Top 11 WW2 Tactical Games</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/weighing-up-pros-and-cons-making-sense-of-chatgpt-plus-features/"><u>Weighing Up Pros and Cons: Making Sense of ChatGPT Plus Features</u></a></li>
 </ul></div>
+

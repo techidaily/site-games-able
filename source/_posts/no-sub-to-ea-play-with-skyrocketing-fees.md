@@ -1,7 +1,7 @@
 ---
 title: No Sub to EA Play With Skyrocketing Fees
-date: 2024-07-12T03:48:56.643Z
-updated: 2024-07-13T03:48:56.643Z
+date: 2024-09-14T16:23:37.687Z
+updated: 2024-09-15T16:30:22.518Z
 tags:
   - games
 categories:
@@ -50,11 +50,25 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 ## 1\. I Don't Want to Pay Too Much for Just EA Titles
 ![EA Play games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ea-play-games.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The biggest reason I'm no longer signing up for EA Play is its limited library. The standard EA Play library only features 90 titles at the time of writing. While EA Play Pro gives you 60 more games, they're mostly niche titles that I don't really care for.
 
  Although I'm a fan of a few of these franchises, like Need for Speed, Battlefield, and Sim City, the extra dollars I have to spend to keep playing them for a few hours per month isn't worth it. I'm also not interested in EA Sports titles found on EA Play Pro, which makes the $16.99 monthly / $119.99 annual fee exorbitant for me.
 
  While EA Play gives me early access to some of their new releases up to ten days before they launch, I don't see any new EA titles coming up. I also rarely use the 10% discount EA Play offers to subscribers like me, as I find the idea of paying for DLC while spending on a monthly subscription just too much.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. EA Isn't Adding New Perks and Features
 ![EA Play vs EA Play Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ea-play-vs-ea-play-pro.jpg)
@@ -81,6 +95,13 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 ## 4\. I Can Get EA Play With Xbox Game Pass
 ![A promotional image for Xbox Game Pass and EA Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/xbox-game-pass-and-ea-play.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image Credit: [Xbox](https://www.xbox.com/en-us/games/store/xbox-game-pass-ultimate/cfq7ttc0khs0?WT.mc%5Fid=CNavGamesXboxGamePassUltimate)
 
  However, the biggest reason to cancel my EA Play subscription is that [EA Play already comes with Xbox Game Pass for PC and Ultimate](https://www.makeuseof.com/how-to-use-ea-play-xbox-game-pass-pc/) . If you're a PC or Xbox gamer, getting this subscription makes the most sense, as you get 456 titles in your library as of April 2024 (and that's just for PC games). Although Game Pass for PC costs $9.99 monthly ($4 or 66% more expensive than the standard EA Play subscription), it offers much more value.
@@ -89,14 +110,11 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 
  Because of these reasons, I'm canceling my EA Play subscription and moving to Xbox Game Pass for PC. And unless you're a hardcore EA fan, I suggest you do, too.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -105,6 +123,21 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtubes-favorite-spotlight-equipment-17/"><u>[New] YouTube's Favorite Spotlight Equipment #17</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-viral-skeleton-master/"><u>[Updated] 2024 Approved Viral Skeleton Master</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-win10s-best-screen-capture-and-recording-options-for-2024/"><u>[Updated] Win10's Best Screen Capture and Recording Options for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/amd-gpu-utility-tools-download-your-free-driver-package-today/"><u>AMD GPU Utility Tools - Download Your Free Driver Package Today</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-changing-logitech-mice-for-gamers/"><u>Game-Changing Logitech Mice for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/guard-your-virtual-adventures-against-attacks/"><u>Guard Your Virtual Adventures Against Attacks</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6 Passcode Screen?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y28-5g-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y28 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/legal-battles-in-tech-how-sarah-silverman-joins-the-fight-againartists-vs-ai-giants/"><u>Legal Battles in Tech: How Sarah Silverman Joins the Fight Again#Artists Vs. AI Giants</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-2p-minecraft-nintendo-switch-edition/"><u>Mastering 2P Minecraft: Nintendo Switch Edition</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-issue-when-one-of-your-airpods-fails-to-work/"><u>Solving the Issue When One of Your AirPods Fails to Work</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-steam-deck-with-windows/"><u>Transform Your Steam Deck with Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-stop-frequent-pc-shutdowns-the-super-solution/"><u>Troubleshooting Steps: Stop Frequent PC Shutdowns - The Super Solution</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-the-potential-of-cs2-on-a-macbook/"><u>Unlocking the Potential of CS2 on a MacBook</u></a></li>
+</ul></div>
 

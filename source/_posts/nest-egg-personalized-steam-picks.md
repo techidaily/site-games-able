@@ -1,7 +1,7 @@
 ---
 title: "Nest Egg: Personalized Steam Picks"
-date: 2024-07-12T03:50:03.724Z
-updated: 2024-07-13T03:50:03.724Z
+date: 2024-09-12T16:01:11.199Z
+updated: 2024-09-15T16:28:26.197Z
 tags:
   - games
 categories:
@@ -58,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/45eb95de820412631e47a9a054cb53f933466e540
 
 ![set cart item to private on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/set-cart-item-to-private.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Checking a Game's Private Status
 
  To check that a game is private in your Library, click on your username in the top bar and then select**Profil** **e.** In the menu on the right, select**Games** . This takes you to a list of your games.
@@ -66,9 +73,23 @@ thumbnail: https://thmb.techidaily.com/45eb95de820412631e47a9a054cb53f933466e540
 
 ![checking that a game is private on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/checking-that-a-game-is-private-on-steam-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also head to your library to remove a game from your private items. Right-click on the title and then select**Manage > Unmark as Private** .
 
  You should also keep in mind that if you [enabled a custom playing status on Discord](https://www.makeuseof.com/set-custom-playing-status-discord/) , a private Steam game will still show up on Discord while you're playing it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Don't Mix Up Private Games and Hidden Games on Steam
 
@@ -84,14 +105,11 @@ thumbnail: https://thmb.techidaily.com/45eb95de820412631e47a9a054cb53f933466e540
 
  Now that you know how to set games as private on Steam, as well as the differences between hidden games and private games, you can maintain more control over which of your games your friends can see on Steam.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -100,6 +118,21 @@ thumbnail: https://thmb.techidaily.com/45eb95de820412631e47a9a054cb53f933466e540
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-expert-advice-on-archiving-lol-fights/"><u>[Updated] In 2024, Expert Advice on Archiving LOL Fights</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-samsung-galaxy-m54-5g-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Samsung Galaxy M54 5G</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/breaking-down-the-impact-of-sonys-latest-model-on-achieving-4k-gaming-standards/"><u>Breaking Down the Impact of Sony's Latest Model on Achieving 4K Gaming Standards</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-mastery-button-mapping-techniques-for-android-gaming/"><u>Digital Mastery: Button Mapping Techniques for Android Gaming</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/guida-completa-a-comprimere-i-video-scopri-le-6-migliori-soluzioni-per-dimensione-e-inviazione-e-mail/"><u>Guida Completa a Comprimere I Video: Scopri Le 6 Migliori Soluzioni per Dimensione E Inviazione E-Mail</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-vivo-y27s-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Vivo Y27s.</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-cracking-the-code-of-photoshop-for-beginners/"><u>In 2024, Cracking the Code of Photoshop for Beginners</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-how-to-translate-audiovideo-content-from-spanish-to-english-and-vice-versa/"><u>New How to Translate Audio/Video Content From Spanish to English and Vice Versa?</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-game-share-setup-guide/"><u>PS5 Game Share Setup Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/securing-chats-anticipating-facebooks-e2ee-move/"><u>Securing Chats: Anticipating Facebook's E2EE Move</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-into-squad-life-the-series-sx-experience/"><u>Step Into Squad Life: The Series S/X Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/testing-the-genuineness-of-acemagics-gameplay-with-am08-pro/"><u>Testing the Genuineness of AceMagic's Gameplay with AM08 Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-perils-of-a-tipped-gaming-innovation-system/"><u>The Perils of a Tipped Gaming Innovation System</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-asus-rog-allies-laptop-docks/"><u>Top ASUS ROG Allies Laptop Docks</u></a></li>
+</ul></div>
 

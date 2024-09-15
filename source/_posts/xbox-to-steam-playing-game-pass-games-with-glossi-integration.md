@@ -1,7 +1,7 @@
 ---
 title: "Xbox to Steam: Playing Game Pass Games with GlosSI Integration"
-date: 2024-07-12T03:47:23.259Z
-updated: 2024-07-13T03:47:23.259Z
+date: 2024-09-13T16:29:05.591Z
+updated: 2024-09-15T16:01:17.865Z
 tags:
   - games
 categories:
@@ -60,6 +60,19 @@ thumbnail: https://thmb.techidaily.com/c8c0a761aab973c79a26bc00df92df723a573173c
 
  After all the components have been installed, you must restart your PC to make it work.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 2: Import GlosSI-Target to Steam
 ![GlosSI-Target and GlosSI on Windows Start page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/glossi-target-and-glossi-on-windows-start-page-2.jpg)
 
@@ -85,7 +98,21 @@ thumbnail: https://thmb.techidaily.com/c8c0a761aab973c79a26bc00df92df723a573173c
 
 ![Enabling Steam Input for Xbox controllers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/enabling-steam-input-for-xbox-controllers-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you’re at the Controller tab, switch on**Enable Steam Input for Xbox controllers** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 4: Open the GlosSI Configurator and Add Your UWP Games
 
@@ -96,6 +123,19 @@ thumbnail: https://thmb.techidaily.com/c8c0a761aab973c79a26bc00df92df723a573173c
  Head to the Windows Start menu and search for**GlosSI** , not GlosSI-Target. Open GlosSI.
 
 ![GlosSI config adding UWP app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/glossi-config-adding-uwp-app-2.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once it’s open, click on the**\+ button** on the lower right side of the window. A pop-up will show asking what type of shortcut you want to add to GlosSI, click on**UWP app.**
 
@@ -129,6 +169,13 @@ thumbnail: https://thmb.techidaily.com/c8c0a761aab973c79a26bc00df92df723a573173c
 
 ![Steam Link Start Playing button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/steam-link-start-playing-button-1.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image Credit: Jhet Borja
 
  Open Steam Link, making sure Steam is also open on the host PC and let it discover the host. Once it’s found, tap**Start Playing** on your device.
@@ -159,14 +206,11 @@ thumbnail: https://thmb.techidaily.com/c8c0a761aab973c79a26bc00df92df723a573173c
 
  Once everything is set up, there’s nothing stopping you from enjoying your favorite Xbox Game Pass or Microsoft Store games on your TV or tablet powered by your gaming computer.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -175,6 +219,17 @@ thumbnail: https://thmb.techidaily.com/c8c0a761aab973c79a26bc00df92df723a573173c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-elevate-your-content-youtube-thumbnail-artistry-on-mac/"><u>[New] Elevate Your Content YouTube Thumbnail Artistry on Mac</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-unveiling-the-most-effective-obs-studio-edits-methods/"><u>[New] In 2024, Unveiling the Most Effective OBS Studio Edits Methods</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-secrets-to-never-ending-snaps-on-snapchat/"><u>[Updated] The Secrets to Never-Ending Snaps on Snapchat</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-building-time-lapse-shots-on-samsung-gear/"><u>2024 Approved Step-by-Step Building Time Lapse Shots on Samsung Gear</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-and-resolving-content-file-locked-error/"><u>Deciphering and Resolving Content File Locked Error</u></a></li>
+<li><a href="https://games-able.techidaily.com/end-of-service-beginning-for-discontinued-games/"><u>End of Service, Beginning for Discontinued Games</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-vn-video-editor-pro-apk-a-professional-level-video-editing-experience-in-2024/"><u>New VN Video Editor Pro Apk A Professional-Level Video Editing Experience, In 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/preserve-battery-life-tips-to-enhance-controllers-endurance/"><u>Preserve Battery Life: Tips to Enhance Controllers' Endurance</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/tips-for-shooting-and-sharing-videos-on-instagram-for-2024/"><u>Tips for Shooting & Sharing Videos on Instagram for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/worldwide-gaming-shift-modify-xbox-timezone-settings/"><u>Worldwide Gaming Shift: Modify Xbox Timezone Settings</u></a></li>
+</ul></div>
 

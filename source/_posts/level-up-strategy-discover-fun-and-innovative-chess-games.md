@@ -1,7 +1,7 @@
 ---
 title: "Level Up Strategy: Discover Fun & Innovative Chess Games"
-date: 2024-07-12T03:46:55.620Z
-updated: 2024-07-13T03:46:55.620Z
+date: 2024-09-14T16:15:43.502Z
+updated: 2024-09-15T16:38:03.020Z
 tags:
   - games
 categories:
@@ -55,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/14af88c4727edfc68754682f8d9e5a16b4632ead5
 
 **Download:** Half Chess for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027833/https://play.google.com/store/apps/details?id=com.flipflopapp.halfchess&hl=en&gl=US) |[iOS](https://apps.apple.com/us/app/halfchess-play-chess-faster/id1182813218) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5. Really Bad Chess
 
  Eight pawns on the second row. Two rooks, knights, and bishops from out to in on the first row, with the king and queen between them. That's the standard chessboard. Really Bad Chess says, "Nah!" You'll still start with 16 pieces on the first two rows, but any piece could be anywhere and even repeat—except the King, who starts in the usual spot. The other 15 are completely random.
@@ -64,6 +71,13 @@ thumbnail: https://thmb.techidaily.com/14af88c4727edfc68754682f8d9e5a16b4632ead5
  The game offers and encourages you to use Undo Moves, which you can earn by watching ads or paying. You can also pay to unlock an offline player-vs-player mode on a single device, remove all banner ads, and get 100 undos.
 
 **Download:** Really Bad Chess for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027833/https://play.google.com/store/apps/details?id=com.noodlecake.reallybadchess) |[iOS](https://apps.apple.com/app/id1109751921) (Free)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6. Green Chess
 ![Green Chess has a large variety of chess variants to play online, and an active community so you'll find matchups easily](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-green-chess.jpg)
@@ -80,14 +94,11 @@ thumbnail: https://thmb.techidaily.com/14af88c4727edfc68754682f8d9e5a16b4632ead5
 
  For example, play the Chance variant, where after you select which piece you want to move, it changes to a random other piece. The randomizer is easy online, but you can do it offline with a dice. Assign a number to King, Queen, Rook, Bishop, Knight, and Pawn, and roll the dice after you've picked the piece to move.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -96,6 +107,16 @@ thumbnail: https://thmb.techidaily.com/14af88c4727edfc68754682f8d9e5a16b4632ead5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-50plus-best-tiktok-quotes-to-inspire-you-and-make-videos-go-viral/"><u>[New] 50+ Best TikTok Quotes to Inspire You and Make Videos Go Viral</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-beginners-guide-to-zoom-breakout-rooms/"><u>[New] Beginners Guide to Zoom Breakout Rooms</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-artifact-explorer-cookbook-uncovering-older-facebook-features-on-devices-for-2024/"><u>[New] The Artifact Explorer' Cookbook Uncovering Older Facebook Features on Devices for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-first-timers-manual-for-cool-mac-crafted-youtube-clips/"><u>[Updated] 2024 Approved First-Timer's Manual for Cool, Mac-Crafted YouTube Clips</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-best-youtube-names-generators-plus-how-to-brainstorm/"><u>[Updated] Best YouTube Names Generators [+ How to Brainstorm]</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-mono-to-binaries-customizing-your-device-for-all-games/"><u>From Mono to Binaries: Customizing Your Device for All Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-upfront-benefits-vs-potential-issues/"><u>Game Upfront: Benefits Vs. Potential Issues</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-from-apple-iphone-se-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account From Apple iPhone SE without Password?</u></a></li>
+<li><a href="https://games-able.techidaily.com/reigniting-your-favorite-games-5-powerful-tactics-on-a-mac/"><u>Reigniting Your Favorite Games: 5 Powerful Tactics on a Mac</u></a></li>
+</ul></div>
 

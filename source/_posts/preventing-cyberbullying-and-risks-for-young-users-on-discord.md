@@ -1,7 +1,7 @@
 ---
 title: Preventing Cyberbullying and Risks for Young Users on Discord
-date: 2024-07-12T03:47:01.231Z
-updated: 2024-07-13T03:47:01.231Z
+date: 2024-09-13T16:43:20.309Z
+updated: 2024-09-15T16:35:47.589Z
 tags:
   - games
 categories:
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
 
  As a parent, you should communicate openly with your child about internet safety, and the dangers an underage person can encounter online. Whether you're concerned about cybersecurity or worry your kid might become a target of harassment, communication is key. As long as the youngster feels comfortable talking with you about whatever worries they might have, things should be fine.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Educate Your Child
 
  It is true that children and teenagers nowadays are far more technologically adept than previous generations, but it's safe to assume most view cybersecurity as boring and unnecessary, or even feel overconfident about their skills. This is why it's [important to educate your child](https://www.makeuseof.com/technology-role-model-be-good-for-kids/) , and make them understand what can happen if they are not careful, or ignore basic online safety concepts.
@@ -62,20 +69,30 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
 
  And lastly, none of the above will make a real difference if your child isn't encouraged to think critically. It's one thing to be digitally literate, but it's imperative for every kid and teenager to understand how technology actually works, what motivates bad behaviors, how to identify threats, and why taking responsibility is important.
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Discord Is as Safe as You Make It
 
  Building a safe online environment for kids requires a lot of effort and patience. Helping children and adolescents learn how to stay safe on platforms such as Discord will be very important in the years to come, especially as new technologies emerge.
 
  Parents, teachers, and caregivers should do their best to stay up to date on the latest trends and set clear boundaries, while respecting children's autonomy and privacy as they navigate the internet.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -84,6 +101,18 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-mastering-gamified-views-selecting-the-best-webcams-for-players/"><u>[New] 2024 Approved Mastering Gamified Views Selecting the Best Webcams for Players</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-pros-picks-top-10-mic-technology-for-podcasters-for-2024/"><u>[Updated] The Pros' Picks Top 10 Mic Technology for Podcasters for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-elevate-your-page-a-guide-to-growing-facebook-followers/"><u>2024 Approved Elevate Your Page A Guide to Growing Facebook Followers</u></a></li>
+<li><a href="https://games-able.techidaily.com/download-and-liberate-minecraft-realm-worlds/"><u>Download and Liberate Minecraft Realm Worlds</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/eliminating-unnatural-distortions-from-fisheye-footage-for-enhanced-video-quality/"><u>Eliminating Unnatural Distortions From Fisheye Footage for Enhanced Video Quality</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-ps5-gear-for-maximum-performance/"><u>Essential PS5 Gear for Maximum Performance</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oppo-reno-11-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Oppo Reno 11 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-pi-compare-batocera-and-retropie-in-gaming-wars/"><u>Game on, Pi! Compare Batocera and RetroPie in Gaming Wars</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-frosty-footage-comprehensive-analysis-and-tutorial-for-ice-cream-cam/"><u>In 2024, Frosty Footage Comprehensive Analysis & Tutorial for Ice Cream Cam</u></a></li>
+<li><a href="https://games-able.techidaily.com/reviving-your-steams-non-responsive-remote-gameplay/"><u>Reviving Your Steam's Non-Responsive Remote Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-future-of-workstations-asus-rog-allys-cutting-edge-laptop-docks-24/"><u>The Future of Workstations - ASUS ROG Ally's Cutting-Edge Laptop Docks, '24</u></a></li>
+</ul></div>
 

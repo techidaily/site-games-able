@@ -1,7 +1,7 @@
 ---
 title: "Gaming without Fear: Reduce Steam Web Helper’s RAM Demands"
-date: 2024-07-12T03:46:46.512Z
-updated: 2024-07-13T03:46:46.512Z
+date: 2024-09-11T16:06:54.599Z
+updated: 2024-09-15T16:41:17.650Z
 tags:
   - games
 categories:
@@ -61,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/d529ee3f9777395e3e6b4e63c228e25fbb4330a46
 ## 4\. Launch the Steam Mini Games List
 ![Steam mini games list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_steam_minigames_list.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When you launch Steam, it connects to the internet at several points. The app's most memory-intensive processes occur when it connects to the latest news and developer blogs.
 
  Thankfully, there's a way around this without having to go offline—it's called the Mini Games List. This launches Steam, but instead of opening all services, it only shows the games on your computer in a small window. Here's how to open it:
@@ -71,6 +78,13 @@ steam://open/minigameslist
 3. Hit enter. This will change the size of your Steam window, forcing it into a vertical slice rather than the more feature-full rectangle that Steam usually defaults to.
 
  This alone will cut down on several instances of the Steam Client WebHelper. To return to the default Steam look, select any option under the**View** menu.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Create a Custom Batch File for Minimal Steam
 ![Minimal Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_minimal_steam.jpg)
@@ -90,18 +104,22 @@ start steam.exe -dev -console -nofriendsui -no-dwrite -nointro -nobigpicture -no
 
  Steam may crash in certain circumstances using this configuration. If this is a problem, remove the command**\-cef-disable-breakpad** from the batch file.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Go Bare Bones With Steam
 
  Steam has some great features, but not everyone needs them. If all you want out of Steam is a way to view and manage your games, and you don't care for the social features, then consider some of the above methods. You might be surprised by how little Steam needs to work.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -110,6 +128,23 @@ start steam.exe -dev -console -nofriendsui -no-dwrite -nointro -nobigpicture -no
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/est-10-youtube-volume-boosters-for-windows-macos-android-and-iphone-for-2024/"><u>[New] Best 10 YouTube Volume Boosters for Windows, MacOS, Android and iPhone for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-how-to-record-whatsapp-call-for-2024/"><u>[New] How to Record WhatsApp Call for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-professional-broadcasts-at-home-integrating-dslr-and-facebook-live/"><u>[New] In 2024, Professional Broadcasts at Home Integrating DSLR & Facebook LIVE</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-a-step-by-step-guide-to-using-youtubes-creative-commons-license/"><u>2024 Approved A Step-by-Step Guide to Using YouTube's Creative Commons License</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-history-enthusiasts-guide-to-inspiring-youtube-channels/"><u>2024 Approved History Enthusiasts' Guide to Inspiring YouTube Channels</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-unlocking-video-potential-top-9-tips-for-vr-storytelling/"><u>2024 Approved Unlocking Video Potential Top 9 Tips for VR Storytelling</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhanced-engagement-investing-in-high-quality-hardware/"><u>Enhanced Engagement: Investing in High-Quality Hardware</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-mts-role-in-top-tier-games/"><u>Evaluating MTs' Role in Top-Tier Games</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Oppo A38? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-your-game-time-infinite-access-to-steams-finest-for-free/"><u>Maximize Your Game Time: Infinite Access to Steam’s Finest for FREE</u></a></li>
+<li><a href="https://games-able.techidaily.com/must-know-specifications-ergonomic-keyboards/"><u>Must-Know Specifications: Ergonomic Keyboards</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-troubles-discover-six-reliable-ways-to-repair-stray-apps-and-prevent-crashes/"><u>PC Troubles? Discover Six Reliable Ways to Repair 'Stray' Apps and Prevent Crashes</u></a></li>
+<li><a href="https://games-able.techidaily.com/power-your-gaming-dreams-with-critical-hardware-selections/"><u>Power Your Gaming Dreams with Critical Hardware Selections</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-realme-gt-5-pro-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Realme GT 5 Pro Black and White | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-next-level-handheld-nintendos-upcoming-leap/"><u>The Next Level Handheld - Nintendo's Upcoming Leap</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-i-decline-ea-play-amidst-price-hike/"><u>Why I Decline EA Play Amidst Price Hike</u></a></li>
+</ul></div>
 

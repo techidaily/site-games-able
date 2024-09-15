@@ -1,7 +1,7 @@
 ---
 title: "Faster Loading Lore: Windows Winning Strategy"
-date: 2024-07-12T03:49:48.530Z
-updated: 2024-07-13T03:49:48.530Z
+date: 2024-09-11T16:40:15.079Z
+updated: 2024-09-15T16:34:08.806Z
 tags:
   - games
 categories:
@@ -57,6 +57,13 @@ thumbnail: https://thmb.techidaily.com/7989d193b701c6c4112afd659656de357f20d61f1
 
 ![router placed on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-router.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If the device is connected,[check the stability of the internet connection](https://www.makeuseof.com/check-stability-internet-connection-windows/) . If the connection appears to be unstable,[apply the appropriate fixes to stabilize it](https://www.makeuseof.com/tag/fix-slow-unstable-wi-fi-connection/) .
 
 ## 4\. Disable Cheat Software
@@ -82,6 +89,13 @@ thumbnail: https://thmb.techidaily.com/7989d193b701c6c4112afd659656de357f20d61f1
 
  If that is the case, you will need to close graphics-intensive tasks simultaneously running alongside the game. By closing them, your system will have more resources available that League of Legends can use to function smoothly.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Delete the Config and Logs Folders
 
  Files in the Logs folder contain information about errors and problems you encounter in the game. Likewise, the Config folder contains information regarding game configuration and settings. The issue under discussion can be caused by interference by these files. Therefore, you should delete the aforementioned folders.
@@ -95,6 +109,13 @@ thumbnail: https://thmb.techidaily.com/7989d193b701c6c4112afd659656de357f20d61f1
 4. To delete these folders, simply right-click on them and select**Delete** .  
 ![Deleting the Config Folder of League of Legends in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/3-deleting-the-config-folder-of-league-of-legends-in-windows-file-explorer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Disable Any Active In-Game Overlays
 
  Do you use any in-game overlays, especially the Discord overlay, when playing League of Legends? If so, you should disable them before starting the game to ensure the game doesn't get stuck on the loading screen because of an overlay. To turn off the Discord overlay, follow the below steps:
@@ -104,12 +125,26 @@ thumbnail: https://thmb.techidaily.com/7989d193b701c6c4112afd659656de357f20d61f1
 3. Turn off the toggle next to**Enable in-game overlay** .  
 ![Disabling the Discord Overlay](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Discord-Overlay.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you don't want to turn off the overlay for all games but only League of Legends, follow the below steps:
 
 1. Click the**gear icon (User Settings)** in the bottom right corner.
 2. Navigate to the**Registered Games** tab on the left.
 3. Click the**monitor icon** next to League of Legends.  
 ![Disable Discord Overlay for a Specific Game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disable-discord-overlay-for-a-specific-game-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you use any other overlay, you can also turn it off in a similar manner within the settings of the app.
 
@@ -127,14 +162,11 @@ thumbnail: https://thmb.techidaily.com/7989d193b701c6c4112afd659656de357f20d61f1
 
  When League of Legends does not open, frustration may set in. If your system meets the minimum game requirements and you aren't experiencing any specific errors, the fixes above should fix the problem, and you should be able to play the game. When none of the fixes work, reinstall the game.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -143,6 +175,23 @@ thumbnail: https://thmb.techidaily.com/7989d193b701c6c4112afd659656de357f20d61f1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-in-depth-steps-using-mobizen-for-smooth-screen-recording/"><u>[New] 2024 Approved In-Depth Steps Using Mobizen for Smooth Screen Recording</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-professional-photographers-pick-of-edits-for-2024/"><u>[Updated] Professional Photographers' Pick of Edits for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-polishing-zoom-picture-quality-simple-solutions/"><u>2024 Approved Polishing Zoom Picture Quality Simple Solutions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/factory-reset-on-iphone-6-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-mono-to-binaries-customizing-your-device-for-all-games/"><u>From Mono to Binaries: Customizing Your Device for All Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-upfront-benefits-vs-potential-issues/"><u>Game Upfront: Benefits Vs. Potential Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-beyond-borders-the-upsides-and-downsides-of-online-purchases/"><u>Gaming Beyond Borders: The Upsides & Downsides of Online Purchases</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/graphics-genesis-radeon-reclaimed-for-2024/"><u>Graphics Genesis Radeon Reclaimed for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-oppo-f23-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Oppo F23 5G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mirthful-methodology-making-memes-for-free-for-2024/"><u>Mirthful Methodology Making Memes for Free for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/perfect-your-igtv-presentations-with-top-video-editors/"><u>Perfect Your IGTV Presentations with Top Video Editors</u></a></li>
+<li><a href="https://games-able.techidaily.com/reigniting-your-favorite-games-5-powerful-tactics-on-a-mac/"><u>Reigniting Your Favorite Games: 5 Powerful Tactics on a Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/stopping-steams-automatic-startup/"><u>Stopping Steam's Automatic Startup</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-secrets-of-discovering-superior-indie-games/"><u>Unveiling the Secrets of Discovering Superior Indie Games</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-free-video-editing-powerhouses-top-picks-online-for-2024/"><u>Updated Free Video Editing Powerhouses Top Picks Online for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrade-your-joy-con-control-swapping-old-joysticks-in-the-switch/"><u>Upgrade Your Joy-Con Control: Swapping Old Joysticks in the Switch</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Determining Hardware's Graphic Memory
-date: 2024-07-12T03:45:40.602Z
-updated: 2024-07-13T03:45:40.602Z
+date: 2024-09-12T16:20:17.110Z
+updated: 2024-09-15T16:09:45.271Z
 tags:
   - games
 categories:
@@ -54,6 +54,19 @@ thumbnail: https://thmb.techidaily.com/9333e7c75e292a0b83b1e16b6df5d6742dede6cee
 
 ![Screenshot showing OpenHardwareMonitor tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/openhardwaremonitor-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Tools like [GPU-Z](https://www.techpowerup.com/gpuz/) ,[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) , and [OpenHardwareMonitor](https://openhardwaremonitor.org/downloads/) are your best friends here. These are lightweight utilities that won't stress your system when running in the background while also providing a lot of information on how specific components function.
 
 ## How to Check VRAM on Linux
@@ -66,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/9333e7c75e292a0b83b1e16b6df5d6742dede6cee
 
 ![Linux lshw tool showing GPU information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/linux-vram-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Alternatively, you can also use the`nvtop` or`radeontop` tools for Nvidia and AMD GPUs, respectively, if you'd like more information. These also include graphs of how your GPU is being used in real time. You can install these tools by using the following commands:
 
 `## For installing nvtop  
@@ -76,6 +96,19 @@ sudo apt-get install nvtop
 sudo apt-get install radeontop`
 
  Once the installation is complete, you can run the tools by typing`sudo nvtop` or`sudo radeontop` depending on which one you installed.
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Check VRAM on macOS
 
@@ -102,14 +135,11 @@ sudo apt-get install radeontop`
 
  Knowing your PC specs can help you save massively when buying a new computer or upgrading your existing one. If you know your specs, you can make informed decisions based on how you plan to use your computer, which means you'll be able to allocate more of your budget to the components that matter instead of spending all your money on the parts with the most RGB lighting.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -118,6 +148,14 @@ sudo apt-get install radeontop`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-social-media-gold-selecting-top-10-powerful-hashtags/"><u>[Updated] In 2024, Social Media Gold Selecting Top 10 Powerful Hashtags</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-transforming-views-into-brand-loyalty/"><u>[Updated] In 2024, Transforming Views Into Brand Loyalty</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-realms-to-replays-preserve-your-worlds/"><u>From Realms to Replays: Preserve Your Worlds</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-nokia-c12-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps3-game-access-via-ps4-system/"><u>PS3 Game Access via PS4 System</u></a></li>
+<li><a href="https://games-able.techidaily.com/tie-the-gears-syncing-xbox-controller-seamlessly/"><u>Tie the Gears: Syncing Xbox Controller Seamlessly</u></a></li>
+</ul></div>
 

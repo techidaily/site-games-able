@@ -1,7 +1,7 @@
 ---
 title: Experience New Gameplay Styles with These 6 Unique Platforms
-date: 2024-07-12T03:49:46.149Z
-updated: 2024-07-13T03:49:46.149Z
+date: 2024-09-09T16:48:22.716Z
+updated: 2024-09-15T16:21:20.132Z
 tags:
   - games
 categories:
@@ -55,6 +55,19 @@ thumbnail: https://thmb.techidaily.com/5f93c49b1c440b80d1268f9b261207858efb54997
 
 **Download:** Half Chess for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027833/https://play.google.com/store/apps/details?id=com.flipflopapp.halfchess&hl=en&gl=US) |[iOS](https://apps.apple.com/us/app/halfchess-play-chess-faster/id1182813218) (Free)
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5. Really Bad Chess
 
  Eight pawns on the second row. Two rooks, knights, and bishops from out to in on the first row, with the king and queen between them. That's the standard chessboard. Really Bad Chess says, "Nah!" You'll still start with 16 pieces on the first two rows, but any piece could be anywhere and even repeat—except the King, who starts in the usual spot. The other 15 are completely random.
@@ -74,20 +87,30 @@ thumbnail: https://thmb.techidaily.com/5f93c49b1c440b80d1268f9b261207858efb54997
 
  Green Chess categorizes the variants by types, such as different initial positions, different board sizes, randomly changing pieces, modified rules, different shapes of boards, three-player chess, and four-player chess. Create a game, join from the lobby, or start learning by watching someone else's public game.
 
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Play Chess Variants Offline
 
  If you like this variety of different ways to play chess, you can even do them offline with friends. Games that use the regular board and pieces but change the rules are the easiest to implement, like Anti-Chess. For some others, you can get creative.
 
  For example, play the Chance variant, where after you select which piece you want to move, it changes to a random other piece. The randomizer is easy online, but you can do it offline with a dice. Assign a number to King, Queen, Rook, Bishop, Knight, and Pawn, and roll the dice after you've picked the piece to move.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -96,6 +119,16 @@ thumbnail: https://thmb.techidaily.com/5f93c49b1c440b80d1268f9b261207858efb54997
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/exquisite-office-mat-selection-guide-2024/"><u>Exquisite Office Mat Selection Guide 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-samsung-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Samsung to Protect Your Individual Information</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-beyond-views-and-likes-pursuing-profits-on-youtube/"><u>In 2024, Beyond Views and Likes Pursuing Profits on YouTube</u></a></li>
+<li><a href="https://games-able.techidaily.com/jump-into-the-action-early-preorder-spider-man-2/"><u>Jump Into the Action Early - Preorder Spider-Man 2</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-geforce-x0001-error-on-w10w11-systems/"><u>Overcoming GeForce X0001 Error on W10/W11 Systems</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-vivo-y100i-power-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Vivo Y100i Power 5G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-the-impact-of-rdna-35-amds-future-tech/"><u>Understanding the Impact of RDNA 3.5 - AMD's Future Tech</u></a></li>
+<li><a href="https://games-able.techidaily.com/unsubscribing-minecraft-exporting-kingdoms/"><u>Unsubscribing Minecraft: Exporting Kingdoms</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Xiaomi Redmi 12 | Dr.fone</u></a></li>
+</ul></div>
 

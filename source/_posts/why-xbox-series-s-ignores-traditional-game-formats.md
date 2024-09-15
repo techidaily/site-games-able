@@ -1,7 +1,7 @@
 ---
 title: Why Xbox Series S Ignores Traditional Game Formats
-date: 2024-07-12T03:49:29.104Z
-updated: 2024-07-13T03:49:29.104Z
+date: 2024-09-08T16:46:30.180Z
+updated: 2024-09-15T16:41:29.621Z
 tags:
   - games
 categories:
@@ -54,6 +54,19 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
 
  So while external disc drive support isn't completely out of the question for Xbox Series S, you'll have to wait for Microsoft to create its own external disc drive. And, even then, you won't be able to play your physical discs and will use the disc drive for verification only—if the patent is to be believed.
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. A Disc Drive-Supported Xbox Series S Would Increase Costs
 
  Regardless of how disc drive support would be implemented into Xbox Series S consoles, if Microsoft were to create a disc drive-supported version, or if they were to release an official disc reader accessory as its patent suggests, costs would increase.
@@ -61,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
  When it was released,[the Xbox Series S set a new standard for budget gaming](https://www.makeuseof.com/how-the-xbox-series-s-set-a-new-standard-for-budget-consoles/) . But if Microsoft were to make a more premium Series S with a disc drive, it wouldn't just interfere in Series X sales, but it would also change the image of the Series S.
 
 ![A photograph of a white Xbox Series S controller and console](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/kamil-s-supabuuk7f4-unsplash-1-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Whether through a higher-priced Series S, or an external drive accessory, the price of Series S budget gaming would rise. And even if Series S prices remained lower than the Xbox Series X, but still increased, you may find yourself seeing the best budget Xbox console less favorably.
 
@@ -70,14 +90,11 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
 
  But even so, the Xbox Series S remains an amazing console within its price range, and if you were to never see disc drive support, the prevalence of digital gaming against physical is only continuing to grow. So if you were to see disc drives for Series S consoles, they may be less relevant or too pricey for the Series S.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -86,6 +103,14 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-of-the-best-10-timeless-family-vacation-films/"><u>2024 Approved Best of the Best 10 Timeless Family Vacation Films</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-cutting-techniques-for-sports-entertainment-films/"><u>2024 Approved Cutting Techniques for Sports Entertainment Films</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-unlocking-the-potential-of-mobile-platforms-for-personalbusiness-yt/"><u>2024 Approved Unlocking the Potential of Mobile Platforms for Personal/Business YT</u></a></li>
+<li><a href="https://games-able.techidaily.com/correcting-create-file-unsuccessful-windows-error-30005/"><u>Correcting Create File Unsuccessful - Windows Error 30005</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/weighing-the-value-of-your-steam-status/"><u>Weighing the Value of Your Steam Status</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-game-pass-explained-a-comprehensive-guide/"><u>Xbox Game Pass Explained: A Comprehensive Guide</u></a></li>
+</ul></div>
 

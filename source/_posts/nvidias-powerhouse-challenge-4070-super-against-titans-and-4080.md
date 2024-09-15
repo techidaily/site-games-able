@@ -1,7 +1,7 @@
 ---
 title: "Nvidia's Powerhouse Challenge: 4070 Super Against Titans & 4080"
-date: 2024-07-12T03:45:57.500Z
-updated: 2024-07-13T03:45:57.500Z
+date: 2024-09-12T16:48:54.645Z
+updated: 2024-09-15T16:17:09.219Z
 tags:
   - games
 categories:
@@ -53,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/769d83492280fd0660acd0112190d1d990d0e4305
 | Memory Bandwidth | 736GB/s          | 716GB/s           | 672GB/s          | 504GB/s          | 504GB/s    |
 | TGP              | 320W             | 320W              | 285W             | 220W             | 200W       |
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Specs
 
  As you can see from the table, the new GPUs receive a performance bump over the original RTX 4070 and RTX 4080\. However, the performance boost isn't uniform, with the new RTX 4070 Super and Super Ti getting a bigger upgrade than the new RTX 4080 Super.
@@ -64,6 +71,19 @@ thumbnail: https://thmb.techidaily.com/769d83492280fd0660acd0112190d1d990d0e4305
  The RTX 4070 Super brings a significantly higher number of CUDA cores, rising from 5,888 to 7,168.[CUDA cores are specialized GPU hardware](https://www.makeuseof.com/nvidia-cuda-cores-vs-tensor-cores-whats-the-difference/) responsible for processing and rendering, and the increase should deliver a decent performance boost for the RTX 4070 Super. On top of that, the 4070 Super receives a slight power draw increase, rising to 220W from 200W.
 
  Similarly, the RTX 4070 Super Ti receives a further boost, with its CUDA cores rising to 8,448\. Importantly, the 4070 Super Ti also has 16GB memory, rising from 12GB, while its memory bus also rises to 256-bit (bringing it in line with the RTX 4080 and 4080 Super). The 4GB memory increase and wider memory bus should see the RTX 4070 Super Ti deliver a hefty performance boost over the original RTX 4070 (as well as the RTX 4070 Ti, which is already on the market).
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Price to Performance
 
@@ -79,14 +99,11 @@ thumbnail: https://thmb.techidaily.com/769d83492280fd0660acd0112190d1d990d0e4305
 
  Dropping the price of the RTX 4080 Super to $999 is a good move, but it's hard to escape that it remains an extremely expensive GPU. Whereas the RTX 4070 Ti Super and RTX 4070 Super look like a much better proposition, especially the RTX 4070 Ti Super at $800\. While absolute performance benchmarks aren't available until the GPUs launch later in January 2024, they're certain to bring a boost, which can only be a boon for gamers.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -95,6 +112,16 @@ thumbnail: https://thmb.techidaily.com/769d83492280fd0660acd0112190d1d990d0e4305
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-the-ultimate-key-to-capturing-and-preserving-your-favorite-streamed-shows/"><u>[New] In 2024, The Ultimate Key to Capturing and Preserving Your Favorite Streamed Shows</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/op-10-youtube-to-webm-converter-apps-reviewed-and-ranked-for-2024/"><u>[New] Top 10 YouTube to WebM Converter Apps Reviewed & Ranked for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-samsung-galaxy-s23plus-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Samsung Galaxy S23+ to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-lenovo-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Lenovo Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/joining-forces-how-to-link-ps-controllers-to-a-switch-console/"><u>Joining Forces: How to Link PS Controllers to a Switch Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/make-every-word-count-in-gaming-with-headset-tips/"><u>Make Every Word Count in Gaming with Headset Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/reinstate-lost-wordle-streaks-on-iosandroid/"><u>Reinstate Lost Wordle Streaks on iOS/Android</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-must-check-list-for-every-collector-evaluating-secondhand-dvds-and-blu-ray-movies/"><u>The Must-Check List for Every Collector: Evaluating Secondhand DVDs & Blu-Ray Movies</u></a></li>
+</ul></div>
 

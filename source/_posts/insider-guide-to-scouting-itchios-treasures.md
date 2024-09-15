@@ -1,7 +1,7 @@
 ---
 title: Insider Guide to Scouting Itch.io’s Treasures
-date: 2024-07-12T03:46:53.302Z
-updated: 2024-07-13T03:46:53.302Z
+date: 2024-09-12T16:11:00.539Z
+updated: 2024-09-15T16:36:51.887Z
 tags:
   - games
 categories:
@@ -58,11 +58,25 @@ thumbnail: https://thmb.techidaily.com/1566f2e12245a235c67dc60282357da8be7ca7e87
 
  The [itch.io blog](http://itch.io/blog) is a surprisingly good place to find sales and bundles of some great indie games. These promotions are curated based on various themes, such as winter, summer, Halloween, or Valentine's Day. The blog also highlights “Games of the Week,” where the team curates several great indie games for you to try.
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4 Check Out Game Jams
 
  Game jams are a fantastic way to discover hidden gems for free. On itch.io, game jams take place throughout the year, so keep your eye on the [Game Jams page](https://itch.io/jams) to see upcoming events on the calendar. Look for past game jams to try highly rated game submissions.
 
 ![The page to see past game jams on itch.io.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/past-game-jams-itch.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  These game jams usually have creative and innovative indie games from different genres. Developers usually display talent in crafting unique experiences at these events. Fun games I have discovered through game jams on itch.io include [Inside Job](https://featurekreep.itch.io/inside-job) ,[Bready or not - unSURVIVOR](https://aramilion.itch.io/bready-or-not-unsurvivor) , and [Let There Be Cat](https://kyboon.itch.io/let-there-be-cat) .
 
@@ -86,20 +100,24 @@ thumbnail: https://thmb.techidaily.com/1566f2e12245a235c67dc60282357da8be7ca7e87
 
  You can also scroll down to the comments to see the sentiments around the game. Also, it can be a fantastic way to interact with the developer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7 Check Out Community Recommendations
 
  The itch.io community has the [Recommend a Game page](https://itch.io/board/13293/recommend-a-game) . This is where people post games that they've enjoyed and why. It's a good place to see the discussion around the game, ask questions, and even find people and developers to follow.
 
  Keep in mind that itch.io is just one of the many platforms to find great indie games. You can also find them on Steam, PlayStation Store, Microsoft Store, Xbox Marketplace, Nintendo eShop, and others. And If you love itch.io for its free games, there's also a way to [find free games on Steam](https://www.makeuseof.com/how-to-find-free-games-on-steam/) .
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -108,6 +126,18 @@ thumbnail: https://thmb.techidaily.com/1566f2e12245a235c67dc60282357da8be7ca7e87
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-unlock-professional-vimeo-edits-without-paid-software-for-2024/"><u>[New] Unlock Professional Vimeo Edits Without Paid Software for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-the-top-12-tactics-to-fix-and-make-your-vids-appear-on-fb-today/"><u>[Updated] In 2024, The Top 12 Tactics to Fix and Make Your Vids Appear on FB Today</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficient-web-experience-minimizing-high-network-latency/"><u>Efficient Web Experience: Minimizing High Network Latency</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-browser-performance-fixing-facebook-games/"><u>Enhance Browser Performance - Fixing Facebook Games</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/gratis-android-capture-free-your-devices-potential/"><u>Gratis Android Capture Free Your Device's Potential</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-motorola-razr-40-ultra-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Motorola Razr 40 Ultra to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-v30-pro-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Vivo V30 Pro Phone without Google Account?</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-the-top-gaming-destinations-best-sites-to-download-pc-games/"><u>In 2024, The Top Gaming Destinations Best Sites to Download PC Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/jump-into-the-action-early-preorder-spider-man-2/"><u>Jump Into the Action Early - Preorder Spider-Man 2</u></a></li>
+<li><a href="https://games-able.techidaily.com/unsubscribing-minecraft-exporting-kingdoms/"><u>Unsubscribing Minecraft: Exporting Kingdoms</u></a></li>
+<li><a href="https://games-able.techidaily.com/visualizing-rhythms-using-tablets-as-tools/"><u>Visualizing Rhythms: Using Tablets as Tools</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Visual Experience: Controlling Ambiance on Microsoft Devices"
-date: 2024-09-09T09:51:12.025Z
-updated: 2024-09-10T09:51:12.025Z
+date: 2024-09-13T16:08:44.637Z
+updated: 2024-09-15T16:28:49.776Z
 tags:
   - games
 categories:
@@ -12,36 +12,12 @@ keywords: Ambiance Control,Visual Enhancement Technology,Microsoft Device Custom
 thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c6509841b94168b4ee14b78abb841b.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Enhancing Visual Experience: Controlling Ambiance on Microsoft Devices
 
  Xbox consoles offer a plethora of cool features that enhance your gaming experience. However, there's one feature you might not be aware of: the ability to adjust the brightness of your Xbox controller and console light.
 
  This often-overlooked capability allows you to customize your gaming experience even further and comes in handy, especially when you’re gaming in a dark environment and would like to turn off the lights altogether. Read below for a step-by-step guide on the process.
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Adjust the Brightness of Your Xbox Controller Light
 
  The Xbox controller light is a useful indicator of when your controller is on. This light is set to full brightness by default. However, if, due to some reason, you wish to dim or turn off the light of your controller, Xbox provides a built-in option for you to do so.
@@ -52,28 +28,10 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
 2. Navigate to the**Profile & system** tab and select**Settings** from the menu options by pressing**A** on your controller.  
 ![Xbox home screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-home-screen-2.jpeg)
 3. Now, go to**General > TV & display options > Night mode** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![General settings on Xbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/tv-and-display-options-xbox-setting-1.jpeg)
 4. Under**Preferences** , you’d see the option for**Controller brightness** . Select this and press**A** to access the settings for controller brightness.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Xbox night mode settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-controller-brightness-setting-1.jpeg)
 5. Check the box next to**Customize brightness** to highlight the slider for brightness adjustment. Select the**Default brightness** option and slide the on-screen slider using the D-pad or the left thumbstick to increase or decrease brightness. You can either slide the slider all the way to the left to turn the light off or adjust brightness across seven different brightness levels according to your preference.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Xbox customize controller brightness setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-customize-controller-brightness-setting-1.jpeg)
 6. Once you are satisfied with the brightness level, press**B** on your controller or press the**Xbox button** and select**Home** to exit the settings menu.
 
@@ -96,32 +54,17 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
 
  With this, you've successfully adjusted your Xbox controller and console light's brightness.
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Enjoy a More Personalized Experience With Your Xbox Controller
 
  Customizing the brightness of your Xbox controller and console light allows you to tailor your gaming setup to your personal preferences. The steps to do this are easy, and it takes only a few seconds to increase or decrease the light intensity to your liking.
 
  Although the options for brightness adjustment for the controller light are plenty, hopefully we can see more of a variation when it comes to the Xbox console light.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -132,37 +75,30 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-fixing-inactive-obs-video-inputs/"><u>[New] In 2024, Fixing Inactive OBS Video Inputs</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-optimizing-video-capture-with-mov-on-windows-10/"><u>[New] Optimizing Video Capture with MOV on Windows 10</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-capturezone-win-10s-best-recorder/"><u>[Updated] In 2024, CaptureZone Win 10'S Best Recorder</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-the-ultimate-facebook-video-players-list/"><u>[Updated] In 2024, The Ultimate Facebook Video Players List</u></a></li>
-<li><a href="https://games-able.techidaily.com/2024s-leading-ddr5-motherboards-unveiled/"><u>2024'S Leading DDR5 Motherboards Unveiled</u></a></li>
-<li><a href="https://games-able.techidaily.com/2024s-most-stylish-and-functional-switch-accessories/"><u>2024'S Most Stylish and Functional Switch Accessories</u></a></li>
-<li><a href="https://games-able.techidaily.com/7-reasons-why-you-should-ignore-ray-tracing-in-video-games/"><u>7 Reasons Why You Should Ignore Ray Tracing in Video Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-comprehensible-route-for-sd-installation-in-steam-deck/"><u>A Comprehensible Route for SD Installation in Steam Deck</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-guide-on-selecting-a-portable-games-system-that-suits-you-best/"><u>A Guide on Selecting a Portable Games System that Suits You Best</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-new-standard-the-ultimate-guide-to-excellent-nintendo-switch-docks-of-2024/"><u>A New Standard: The Ultimate Guide to Excellent Nintendo Switch Docks of 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/accessible-xbox-game-pass-playthroughs-using-glossi-and-steam/"><u>Accessible Xbox Game Pass Playthroughs Using GlosSI & Steam</u></a></li>
-<li><a href="https://games-able.techidaily.com/accessing-steam-games-from-mobile-iphone-and-android-steam-link-methods/"><u>Accessing Steam Games From Mobile: IPhone & Android Steam Link Methods</u></a></li>
-<li><a href="https://games-able.techidaily.com/addressing-order-problems-quickly-on-steam/"><u>Addressing Order Problems Quickly on Steam</u></a></li>
-<li><a href="https://games-able.techidaily.com/affordable-luxury-for-your-virtual-journey/"><u>Affordable Luxury for Your Virtual Journey</u></a></li>
-<li><a href="https://games-able.techidaily.com/alter-ps5s-backdrop-how/"><u>Alter PS5's Backdrop: How?</u></a></li>
-<li><a href="https://games-able.techidaily.com/amd-introduces-fsr-3-potential-contender-or-nvidias-loss-leader/"><u>AMD Introduces FSR 3: Potential Contender or NVIDIA's Loss Leader?</u></a></li>
-<li><a href="https://games-able.techidaily.com/amds-latest-tech-fsr-3-threat-to-nvidias-dlss-supremacy/"><u>AMD's Latest Tech, FSR 3: Threat to NVIDIA's DLSS Supremacy?</u></a></li>
-<li><a href="https://games-able.techidaily.com/androids-nostalgia-palette-old-pokemon-games/"><u>Android's Nostalgia Palette: Old Pokémon Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/arcade-racings-legacy-do-wheels-outperform-touchpads-now/"><u>Arcade Racing's Legacy: Do Wheels Outperform Touchpads Now?</u></a></li>
-<li><a href="https://games-able.techidaily.com/avoid-overclocking-pitfalls-examine-these-8-critical-cpu-cooler-attributes/"><u>Avoid Overclocking Pitfalls: Examine These 8 Critical CPU Cooler Attributes</u></a></li>
-<li><a href="https://games-able.techidaily.com/beating-high-costs-of-xbox-game-pass-briefly-effective-tips/"><u>Beating High Costs of Xbox Game Pass – Briefly Effective Tips</u></a></li>
-<li><a href="https://games-able.techidaily.com/behind-the-scenes-of-twitch-live-broadcast-fundamentals/"><u>Behind the Scenes of Twitch: Live Broadcast Fundamentals</u></a></li>
-<li><a href="https://games-able.techidaily.com/bespoke-airflow-paths-reduce-overheating-increase-graphics-output/"><u>Bespoke Airflow Paths Reduce Overheating, Increase Graphics Output</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719171487913-bring-your-psp-experience-to-todays-technology/"><u>Bring Your PSP Experience to Today's Technology!</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719173432882-compact-mini-led-screen-best-value-deal/"><u>Compact Mini-LED Screen: Best Value Deal</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/explore-the-finest-17-laptops-our-detailed-review/"><u>Explore the Finest 17 Laptops - Our Detailed Review</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-from-twitter-to-gifs-a-cost-saving-how-to-guide/"><u>In 2024, From Twitter to Gifs A Cost-Saving How-To Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-zte-nubia-flip-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your ZTE Nubia Flip 5G Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-iphone-xr-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your iPhone XR in Security Lockout? Proper Ways To Unlock</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-synthetic-worlds-the-future-of-gaming-with-vr/"><u>In 2024, Synthetic Worlds The Future of Gaming with VR</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719170987857-top-3-nintendo-switch-multi-streamer-options/"><u>Top 3 Nintendo Switch: Multi-Streamer Options</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719164100375-why-a-dedicated-oled-for-your-games-wins-every-time/"><u>Why a Dedicated OLED for Your Games Wins Every Time</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-reviving-the-workspace-dive-into-windows-10s-innovations/"><u>[New] Reviving the Workspace Dive Into Windows 10'S Innovations</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-elevate-your-chat-with-discord-recording-techniques/"><u>[Updated] Elevate Your Chat with Discord Recording Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-h501x4-fpv-quadcopter-unveiled-review-breakdown/"><u>[Updated] H501X4 FPV Quadcopter Unveiled - Review Breakdown</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-subconversions-at-peak-discover-the-top-8-tools-for-converting-sbt-to-srt/"><u>[Updated] Subconversions at Peak - Discover the Top 8 Tools for Converting SBT to SRT</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-service-stack-up-xbox-game-pass-versus-psplus-ultimate/"><u>Gaming Service Stack-Up: Xbox Game Pass Versus PS+ Ultimate</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-oppo-a1-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-tecno-camon-20-pro-5g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Tecno Camon 20 Pro 5G Is Unlocked</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-gaming-giants-clash-4070-super-vs-titan-x-4080/"><u>Nvidia's Gaming Giants Clash: 4070 Super Vs. Titan X, 4080</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/penning-plots-for-big-screens-for-2024/"><u>Penning Plots for Big Screens for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-manual-for-deleting-old-saved-files-from-ps5/"><u>Step-by-Step Manual for Deleting Old Saved Files From PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-seamless-transition-nintendo-and-mac/"><u>The Seamless Transition: Nintendo & Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/unhook-from-realms-save-and-reload-your-adventures/"><u>Unhook From Realms, Save & Reload Your Adventures</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

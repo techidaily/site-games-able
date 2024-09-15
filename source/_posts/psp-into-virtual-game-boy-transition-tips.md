@@ -1,7 +1,7 @@
 ---
 title: PSP Into Virtual Game Boy Transition Tips
-date: 2024-07-12T03:50:08.200Z
-updated: 2024-07-13T03:50:08.200Z
+date: 2024-09-10T16:43:54.713Z
+updated: 2024-09-15T16:40:16.993Z
 tags:
   - games
 categories:
@@ -52,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/4f39ebc55802b5fd29e1ead6db3dfc5174731a378
 
 ![Complete folder structure for PSP update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/complete-folder-structure-for-psp-update.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For Infinity, follow this folder structure: PSP/GAME/UPDATE. If the UPDATE folder already exists, skip this step.
 
 ![Moving Infinity update file into PSP UPDATE folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/moving-infinity-update-file-into-psp-update-folder.jpg)
@@ -67,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/4f39ebc55802b5fd29e1ead6db3dfc5174731a378
  Pro C2 is the custom firmware, and Infinity helps the firmware stay persistently so you don’t have to install the firmware every time you reboot your PSP. Since these two go together and follow similar steps, we’ll just put them into one section.
 
 ![Infinity 2 thumbnail on PSP](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/infinity-2-thumbnail-on-psp.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  We’ll start with Infinity first; turn your PSP on and head to**Game > Memory Stick** . Look for the Infinity 2 thumbnail and select it.
 
@@ -86,11 +100,25 @@ thumbnail: https://thmb.techidaily.com/4f39ebc55802b5fd29e1ead6db3dfc5174731a378
 
 ![PRO CFW selected in Infinity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/pro-cfw-selected-in-infinity.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To make the custom firmware permanent, open up Infinity. With Infinity open, press left on your D-Pad. Select**PRO CFW by Coldbird** . You’ll know if you’ve selected it once you see an asterisk beside the text.
 
  Press right on your D-Pad to go back to the main Infinity screen and press the**Home button** on your PSP to exit.
 
 ![PSP system version with Pro-C and Infinity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/psp-system-version-with-pro-c-and-infinity-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can check if the custom firmware is installed by going to**Settings > System Settings > System Information** . You should see an infinity symbol next to the version number of your system software.
 
@@ -112,6 +140,13 @@ thumbnail: https://thmb.techidaily.com/4f39ebc55802b5fd29e1ead6db3dfc5174731a378
 
 ![RetroArch Downloads highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/retroarch-downloads-highlighted-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When moving games to your PSP for RetroArch to run, place it in the PSP/RETROARCH/DOWNLOADS folder and you should see them in the Downloads when selecting**Load Content** RetroArch on your PSP.
 
 ## An Old Platform to Play Older Platforms
@@ -120,14 +155,11 @@ thumbnail: https://thmb.techidaily.com/4f39ebc55802b5fd29e1ead6db3dfc5174731a378
 
  You can get a used PSP for cheap and be able to play PSP games natively on it, but you can also enjoy classic 2D games from other platforms with ease. Just avoid demanding 3D games as it starts to struggle with those.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -136,6 +168,19 @@ thumbnail: https://thmb.techidaily.com/4f39ebc55802b5fd29e1ead6db3dfc5174731a378
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-pro-tools-comparison-obs-and-twitch-studio/"><u>[New] In 2024, Pro Tools Comparison OBS and Twitch Studio</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premium-power-solutions-for-gopro-hero5-black-certified-and-imposters/"><u>[Updated] Premium Power Solutions for GoPro Hero5 Black - Certified & Imposters</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-tackling-disruptions-in-video-transmissions-for-messenger-users-iosandroid/"><u>[Updated] Tackling Disruptions in Video Transmissions for Messenger Users iOS/Android</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-video-caption-maker/"><u>[Updated] Video Caption Maker</u></a></li>
+<li><a href="https://fox-that.techidaily.com/enhance-your-iphones-visual-appeal-overcome-ios-16s-depth-effect-glitch-with-7-proven-tips/"><u>Enhance Your iPhone's Visual Appeal – Overcome iOS 16'S Depth Effect Glitch with 7 Proven Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/journey-to-new-realms-with-these-top-mmos/"><u>Journey to New Realms with These Top MMOs</u></a></li>
+<li><a href="https://win-dash.techidaily.com/navigate-through-updating-and-downloading-dell-d3100s-gpu-driver-hassle-free/"><u>Navigate Through Updating and Downloading DELL D3100's GPU Driver Hassle-Free</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/optimize-your-screen-sessions-with-obs-and-skype-for-2024/"><u>Optimize Your Screen Sessions with OBS & Skype for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/power-conservation-tactics-to-keep-gaming-longer-on-xbox/"><u>Power Conservation Tactics to Keep Gaming Longer on Xbox</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revamp-logitech-mouse-with-latest-drivers-in-windows-11/"><u>Revamp Logitech Mouse with Latest Drivers in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-into-infinite-gameplay-7-must-play-mobile-mmos/"><u>Step Into Infinite Gameplay: 7 Must-Play Mobile MMOs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-fixing-windows-11-search-issues-complete-solution/"><u>Troubleshooting Guide: Fixing Windows 11 Search Issues - Complete Solution</u></a></li>
+</ul></div>
 

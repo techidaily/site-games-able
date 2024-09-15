@@ -1,7 +1,7 @@
 ---
 title: "Twin Victories: Uncovering the Hottest Two-Player Phonesports (Top 15)"
-date: 2024-07-12T03:48:23.392Z
-updated: 2024-07-13T03:48:23.392Z
+date: 2024-09-12T16:23:09.356Z
+updated: 2024-09-15T16:50:04.892Z
 tags:
   - games
 categories:
@@ -64,6 +64,13 @@ Close
 
 **Download:** Rocket League Sideswipe for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU35591/https://play.google.com/store/apps/details?id=com.Psyonix.RL2D&hl=en) |[iOS](https://apps.apple.com/us/app/rocket-league-sideswipe/id1549027048) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Badland
 ![co op two player mode in badland](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/co-op-two-player-mode-in-badland.jpg)
 
@@ -117,6 +124,13 @@ Close
 ## 7\. Golf Battle
 ![golf battle playing with a friend](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/golf-battle-playing-with-a-friend.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![option to challenge a friend on golf battle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/option-to-challenge-a-friend-on-golf-battle.jpg)
 
 ![custom match on golf battle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/custom-match-on-golf-battle.jpg)
@@ -141,6 +155,19 @@ Close
  Once in the game, you can invite people on your friends list to join you for a co-op session. If you want to add new friends, you can do so using their user ID.
 
 **Download:** Genshin Impact for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU35591/https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact) |[iOS](https://apps.apple.com/us/app/genshin-impact/id1517783697) (Free)
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Dots and Boxes
 ![dots and boxes mobile game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/09/dots-and-boxes-game-1.jpg)
@@ -168,6 +195,13 @@ Close
 
 **Download:** Tank Stars for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU35591/https://play.google.com/store/apps/details?id=com.playgendary.tanks) |[iOS](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU35591/https://itunes.apple.com/us/app/tank-stars/id1347123739?mt=8) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 11\. Crossy Road
 ![crossy road two player mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/crossy-road-two-player-mode.jpg)
 
@@ -185,6 +219,13 @@ You can simultaneously compete with and sabotage your opponent.
 
 ## 12\. Terraria
 ![terraria mobile tutorial](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/terraria-mobile-tutorial.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  While most of these games are designed for short bouts of gameplay, Terraria is a multiplayer mobile game that you can spend hours playing. It is a mobile port of the popular PC game and allows you to play with friends using local Wi-Fi or by connecting to a dedicated server.
 
@@ -233,14 +274,11 @@ Close
 
  Hopefully one of these games has piqued your interest. Each of them allows you to play two-player games on a smartphone, either through online connectivity or by using co-op modes on the same device.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -249,6 +287,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-from-hobbyists-to-pros-how-mavic-air-redefines-with-spark/"><u>[New] In 2024, From Hobbyists to Pros How Mavic Air Redefines with Spark</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-quick-climb-up-the-feed-use-of-likes-and-video-content-for-2024/"><u>[New] Quick Climb Up the Feed Use of Likes and Video Content for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/bypassing-facebook-for-messages-tips-and-tricks-for-independent-usage/"><u>Bypassing Facebook for Messages: Tips and Tricks for Independent Usage</u></a></li>
+<li><a href="https://games-able.techidaily.com/dimming-to-dark-how-to-lower-xbox-controller-backlight-levels/"><u>Dimming to Dark: How to Lower Xbox Controller Backlight Levels</u></a></li>
+<li><a href="https://games-able.techidaily.com/encrypt-your-gameplay-adding-a-lock-to-your-nintendo-switch/"><u>Encrypt Your Gameplay: Adding a Lock to Your Nintendo Switch</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-sony-xperia-10-v-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Sony Xperia 10 V</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-vivo-y27-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Vivo Y27 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-ornate-asian-dwellings-for-your-next-build-off/"><u>In 2024, Ornate Asian Dwellings for Your Next Build-Off</u></a></li>
+<li><a href="https://games-able.techidaily.com/keep-your-chat-clean-master-the-art-of-twitch-banning-and-unbanning/"><u>Keep Your Chat Clean: Master the Art of Twitch Banning & Unbanning</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-luster-effective-dust-removal-strategies/"><u>PS5 Luster: Effective Dust-Removal Strategies</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-return-strategies-ensuring-money-retrieval-success/"><u>Steam Return Strategies: Ensuring Money Retrieval Success</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-shine-guide-ps5s-deep-clean/"><u>The Ultimate Shine Guide: PS5's Deep Clean</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-returning-purchased-games-via-steams-customer-support/"><u>Ultimate Guide: Returning Purchased Games via Steam's Customer Support</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-top-5-best-free-iphone-video-rotators/"><u>Updated 2024 Approved Top 5 Best Free iPhone Video Rotators</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-live-gold-evolves-into-game-pass-essentials/"><u>Xbox Live Gold Evolves Into Game Pass Essentials</u></a></li>
+</ul></div>
 

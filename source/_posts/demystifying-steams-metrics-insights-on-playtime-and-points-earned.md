@@ -1,7 +1,7 @@
 ---
 title: "Demystifying Steam's Metrics: Insights on Playtime and Points Earned"
-date: 2024-07-12T03:47:33.440Z
-updated: 2024-07-13T03:47:33.440Z
+date: 2024-09-10T16:08:14.386Z
+updated: 2024-09-15T16:33:59.481Z
 tags:
   - games
 categories:
@@ -45,11 +45,37 @@ thumbnail: https://thmb.techidaily.com/87f89d3b15c9e03d195fa4c767fb7770437292a21
 
 ![Steam Year in Review email](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/steam-year-in-review-email.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Just look for the email with the subject "**Your Steam Year In Review 2023 is Here!"** from**<noreply@steampowered.com>** . When you open it, press**See Your Year in Review** to see your report in your browser.
 
  If you didn't receive an email from Steam or can't find it, you can still see your Steam Year in Review 2023 by going to View Notifications (the bell icon beside your username) on the Steam app or Steam website and pressing**View All** .
 
 ![View Steam Year in Review in Steam Notifications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/view-steam-year-in-review-in-steam-notifications.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  From there, you should see the**Your Year In Review Is Ready!** notification. Just click on it, and you should see your report.
 
@@ -67,18 +93,22 @@ thumbnail: https://thmb.techidaily.com/87f89d3b15c9e03d195fa4c767fb7770437292a21
 
 ![Sharing your Steam Year in Review](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/share-steam-year-in-review.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also share it directly on Facebook, X, Reddit, and on your Steam Friends Activity and Steam Profile Showcase. It also has a copy link button to directly share your Steam Year in Review 2023 page via messaging.
 
  Steam's Year in Review lets you see the games you've enjoyed throughout 2023\. With this data, you'll know what type of gamer you are, which will help you see which titles to look out for based on what you like. Or you can see what games you're missing and maybe try new genres for 2024.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -87,6 +117,20 @@ thumbnail: https://thmb.techidaily.com/87f89d3b15c9e03d195fa4c767fb7770437292a21
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-shotsizesavvy-fine-tuning-your-social-media-content-for-instagram/"><u>[New] 2024 Approved ShotSizeSavvy Fine-Tuning Your Social Media Content for Instagram</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-innovative-approaches-for-effective-use-of-streamlabs-obs/"><u>[Updated] In 2024, Innovative Approaches for Effective Use of Streamlabs OBS</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-the-potential-risks-and-benefits-of-long-term-cannabinoid-use/"><u>Evaluating the Potential Risks and Benefits of Long-Term Cannabinoid Use</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-technical-marvels-of-amds-latest-gpus-xt-series/"><u>Exploring the Technical Marvels of AMD's Latest GPUs: XT Series</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-realme-c51-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Realme C51 Devices | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-vivo-y36-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Vivo Y36 Phones with/without a PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovations-in-hrtf-boosting-valorant-gameplay-intelligence/"><u>Innovations in HRTF: Boosting Valorant Gameplay Intelligence</u></a></li>
+<li><a href="https://games-able.techidaily.com/insights-into-the-workings-of-xboxs-gaming-cloud/"><u>Insights Into the Workings of Xbox's Gaming Cloud</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/laugh-ledger-10-hilarious-tweets/"><u>Laugh Ledger 10 Hilarious Tweets</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-ps5-controller-on-your-windows-pc/"><u>Navigating PS5 Controller on Your Windows PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-sonys-financial-options-for-games/"><u>Navigating Sony's Financial Options for Games</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-free-divx-video-cutter-reviews-top-6-options/"><u>New In 2024, Free Divx Video Cutter Reviews Top 6 Options</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/transform-any-media-into-quality-htc-formats-with-the-htc-converter-app/"><u>Transform Any Media Into Quality HTC Formats with the HTC Converter App</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Engineered Temperature Profile: Gaming at Its Best"
-date: 2024-07-12T03:49:45.012Z
-updated: 2024-07-13T03:49:45.012Z
+date: 2024-09-08T16:28:10.437Z
+updated: 2024-09-15T16:22:25.774Z
 tags:
   - games
 categories:
@@ -46,6 +46,19 @@ Jhet Borja/MakeUseOf
 
  If you're trying to get the lowest GPU temperatures and the most performance for your graphics card, you might also want to check out [how to replace your graphics card's thermal paste](https://www.makeuseof.com/how-reapply-thermal-paste-graphics-card/) or [undervolt your graphics card](https://www.makeuseof.com/how-to-undervolt-graphics-card/) .
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Should Your GPU Fans Run at 100%?
 
  If you run your GPU fans at 100%, they will wear out quicker than normal. It'll still take a while, but in most cases, it'll just be the lubricant drying out, which can easily be fixed with a single tiny drop of [Krytox GPL 105](https://www.amazon.com/Mechanical-Keyboard-Switches-Stabilizer-Lubricant/dp/B09YV7TMKV?tag=makeusw-20&ascsubtag=UUmuoUeUpU2031241&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Flower-gpu-temperature-custom-fan-curve%2F&asc%5Fcampaign=Evergreen) ,[Super Lube 51010](https://www.amazon.com/Super-Lube-51010-Oil/dp/B000BXOGHY?tag=makeusw-20&ascsubtag=UUmuoUeUpU2031241&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Flower-gpu-temperature-custom-fan-curve%2F&asc%5Fcampaign=Evergreen) , or other dielectric oils.
@@ -56,14 +69,35 @@ Jhet Borja/MakeUseOf
 
  Setting a custom fan curve is incredibly easy and something you shouldn't be intimidated by. Below, you'll not only learn how to make a custom fan curve but also understand how to make a fan curve that's best for your hardware.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 1: Download MSI Afterburner, Unigine Heaven, and HWinfo
 ![Auto fan speed 0.963v test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/auto-fan-speed-0-963v-test.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You'll be using three programs to create and find the best fan curve for your graphics card.
 
  To create a custom fan curve, we'll be using [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) .[Unigine Heaven](https://benchmark.unigine.com/heaven) will be the benchmark software you'll use to put your graphics card up to temperature, and [HWinfo](https://www.hwinfo.com/download/) will help you see your GPU temperatures in detail.
 
 ![MSI Mystic Afterburner skin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/msi-mystic-afterburner-skin.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In case MSI Afterburner looks different from the screenshots, head to**Settings** , pan right to the last tab, click on**User Interface** , and choose**MSI Mystic Afterburner by skin by Derex Design** . Having the same skin will make it easier for you to follow along.
 
@@ -105,14 +139,11 @@ Jhet Borja/MakeUseOf
 
  By creating your own custom fan curve, you're taking more control over your graphics card and making the most out of it. You'll extend the lifespan and improve performance (all performance—not just gaming performance) by preventing thermal throttling, hitting two birds with one stone.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -121,6 +152,21 @@ Jhet Borja/MakeUseOf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-hd-disruptions-clear-screening-challenges-in-fir-safari-chrome/"><u>2024 Approved Navigating HD Disruptions Clear Screening Challenges in Fir, Safari, Chrome</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-sony-xperia-1-v-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Sony Xperia 1 V Location Settings | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-classics-to-cutting-edge-mmo-game-advancements/"><u>From Classics to Cutting-Edge: MMO Game Advancements</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/how-to-make-thumbnails/"><u>How to Make Thumbnails</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-revive-a-non-functional-hp-computer-screen-expert-tips/"><u>How To Revive A Non-Functional HP Computer Screen - Expert Tips</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Tecno Pova 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-privacy-settings-for-gaming-discussions/"><u>Mastering Privacy Settings for Gaming Discussions</u></a></li>
+<li><a href="https://fox-http.techidaily.com/quick-fire-photos-with-iphone-burst-feature/"><u>Quick-Fire Photos with iPhone Burst Feature</u></a></li>
+<li><a href="https://games-able.techidaily.com/reducing-server-responses-achieving-faster-internet-connection/"><u>Reducing Server Responses: Achieving Faster Internet Connection</u></a></li>
+<li><a href="https://games-able.techidaily.com/steady-gameplay-for-xbox-s-controller/"><u>Steady Gameplay for Xbox S Controller</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-audio-issue-headphones-connected-yet-sound-emits-from-speakers/"><u>Troubleshooting Guide: Audio Issue - Headphones Connected Yet Sound Emits From Speakers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/twitter-video-download-tool-for-mp3-conversion-for-2024/"><u>Twitter Video Download Tool for MP3 Conversion for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-all-games-altering-switch-regions/"><u>Unlock All Games: Altering Switch Regions</u></a></li>
+</ul></div>
 

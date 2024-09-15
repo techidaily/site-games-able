@@ -1,7 +1,7 @@
 ---
 title: "DirectX Progress: XNA Series Edition"
-date: 2024-07-12T03:48:37.988Z
-updated: 2024-07-13T03:48:37.988Z
+date: 2024-09-11T16:46:27.901Z
+updated: 2024-09-15T16:26:13.408Z
 tags:
   - games
 categories:
@@ -56,11 +56,25 @@ thumbnail: https://thmb.techidaily.com/3dae50570edf845253cb7d1a2a03642e6fd28847b
 
  That being said, a game developed in DirectX 12 could end up with worse performance depending on the developer's knowledge of the API. Some improvements come with DirectX 12, but it really comes down to how well a developer can implement it. For this reason, many developers choose to stick to high-level APIs like DirectX 11.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## DX 11 vs. DX 12: Which Should You Choose?
 
  The answer depends on a few things, like what game you are trying to run. For example, Guild Wars 2 runs on DirectX 11\. Even if your OS and hardware can use DirectX 12, you will not have the option to select DirectX 11 in Guild Wars 2 because the game does not support it. This is entirely the decision of the developer, ArenaNet.
 
 ![In-game image from Guild Wars 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/untitled-design-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Image Credit: Martin Kerstein/[Guild Wars 2](https://www.guildwars2.com/en/news/guesting-is-coming/)
 
@@ -76,14 +90,11 @@ thumbnail: https://thmb.techidaily.com/3dae50570edf845253cb7d1a2a03642e6fd28847b
 
  All in all, switching from DirectX 11 to DirectX 12 isn't as black and white as it sounds. It depends on a variety of factors such as hardware, software, operating system, and whether a game supports both at all. All of these need to be considered before making a decision, and this will likely be true for future generations of DirectX as well.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -92,6 +103,23 @@ thumbnail: https://thmb.techidaily.com/3dae50570edf845253cb7d1a2a03642e6fd28847b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-cutting-edge-creativity-mastering-the-art-of-graphic-design-careers/"><u>[Updated] In 2024, Cutting-Edge Creativity Mastering the Art of Graphic Design Careers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-navigating-youtubes-tagging-system-tips-for-finding-prime-video-labels/"><u>[Updated] Navigating YouTube's Tagging System Tips for Finding Prime Video Labels</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-selfie-stick-showdown-for-iphone-8-winners/"><u>2024 Approved The Ultimate Selfie Stick Showdown for iPhone (#8 Winners)</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/asus-zenbook-pro-duo-2-in-1-canvas-np736m-2-in-1-laptop-revealed-a-dual-display-experience/"><u>Asus ZenBook Pro Duo 2-in-1 Canvas NP736M 2-in-1 Laptop Revealed (A Dual Display Experience)</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-deeper-into-gameplay-top-reasons-to-buy-instead-of-play-for-free/"><u>Dive Deeper Into Gameplay: Top Reasons to Buy Instead of Play for Free</u></a></li>
+<li><a href="https://games-able.techidaily.com/fe-nvidia-vs-asus-graphic-cards-which-to-choose/"><u>FE Nvidia Vs. ASUS Graphic Cards: Which to Choose?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/full-assessment-of-slomo-application-trends/"><u>Full Assessment of SloMo Application - Trends</u></a></li>
+<li><a href="https://games-able.techidaily.com/google-play-pass-generally-fantastic-except/"><u>Google Play Pass: Generally Fantastic Except...</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-a-stable-secured-browser-session-after-ssl-handshake-problems/"><u>How to Restore a Stable Secured Browser Session After SSL Handshake Problems</u></a></li>
+<li><a href="https://games-able.techidaily.com/hrtfs-role-in-valorant-is-it-beneficial/"><u>HRTF's Role in Valorant - Is It Beneficial?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Itel A60s? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastering-zoom-cameras-common-fixes-and-solutions/"><u>Mastering Zoom Cameras: Common Fixes and Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/opera-gx-insider-tips-how-to-get-a-free-discord-membership/"><u>Opera GX Insider Tips: How to Get a Free Discord Membership</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-your-game-library-with-efficient-disk-management/"><u>Streamline Your Game Library with Efficient Disk Management</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-shrink-your-videos-10-best-free-online-compression-tools/"><u>Updated Shrink Your Videos 10 Best Free Online Compression Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/voltage-vs-vision-graphic-card-fiasco/"><u>Voltage Vs. Vision: Graphic Card Fiasco</u></a></li>
+</ul></div>
 

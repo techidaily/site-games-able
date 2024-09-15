@@ -1,0 +1,104 @@
+---
+title: "Tech Lightened Up: Tecno Reveals Reduced-Size Gadgets"
+date: 2024-09-14T17:08:52.544Z
+updated: 2024-09-15T17:01:04.023Z
+tags:
+  - games
+categories:
+  - games
+description: "This Article Describes Tech Lightened Up: Tecno Reveals Reduced-Size Gadgets"
+excerpt: "This Article Describes Tech Lightened Up: Tecno Reveals Reduced-Size Gadgets"
+keywords: Tech Innovations,Tecno Mini Devices,Smaller Technology,Tecno Gadgets Update,Reduced Tech Products,Lighter Tech Solutions,Compact Electronics
+thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d6a73268fe3b019a529c7811.jpg
+---
+
+## Tech Lightened Up: Tecno Reveals Reduced-Size Gadgets
+
+ Looking to grab an increased share of the laptop market, Tecno is seeking to make a splash with its reveal of two new laptops the Tecno Megabook T1 2023 14-inch and the Tecno Megabook S1 Dazzling Edition. While we've seen more surprising and eye-catching releases from Tecno, including their recent Phantom V Fold, this year's event in Berlin focuses on refreshing their popular laptop lineup with increased portability and personality.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+### Key Takeaways
+
+* Tecno is unveiling two new laptops, the Tecno Megabook T1 2023 14-inch and the Tecno Megabook S1 Dazzling Edition, with an emphasis on portability and personality.
+* The Tecno Megabook T1 14" offers a smaller form factor but manages to surprise with even more impressive battery life, with a larger battery and claims of up to 18.5 hours of runtime.
+* The Tecno Megabook S1 Dazzling Edition uses polychromatic photoisomer technology, revealing a pixel font pattern when exposed to UV light. Pricing and customization options have not been announced.
+
+## Tecno Megabook T1 14": Smaller, Yet Longer Battery Life
+
+ Building off the success of their popular Megabook T1, Tecno wanted to make an even more portable version that still retained its excellent selection of I/O and features. You'd think downsizing from a 15.6" chassis to a smaller 14" would also result in sacrificed battery capacity.
+
+![TECNO MegaBook T1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/tecno-megabook-t1.jpg)
+
+ Image Credit: Paul Antil/MakeUseOf
+
+ While its thickness of 14.8mm remains unchanged from last year's Megabook 15.6", the new T1 14" is lighter at 1.39kg (vs 1.48kg) and manages to fit a larger 75Wh (vs 70Wh) battery which claims to provide 1 hour of extra runtime at up to 18.5 hours. For fast charging, you'll find the same 65W GaN power adapter.
+
+![TECNO MegaBook T1-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/tecno-megabook-t1-2.jpg)
+
+ Image Credit: Paul Antil/MakeUseOf
+
+ Although the smaller 14" display may not seem as appealing if you prefer having extra screen real estate, the T1 14" has upgraded to a 16:10 aspect ratio with a screen-to-body ratio of 90%, and still provides 100%sRGB color and TUV eye protection. Rounding off this new model, it retains the Red Dot Design Award from last year with its "premium aluminum metallic body," offering a great balance of portability, performance, and the largest battery in its price range.
+
+## Tecno Megabook S1 Dazzling Edition
+
+ Rather than a complete redesign, TECNO showcased a concept special, "Dazzling" edition S1\. While its chassis and internals remain unchanged, the S1 Dazzling's top lid and wrist pad area get a subtle tech/magic makeover.
+
+![TECNO MegaBook S1 - Display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/tecno-megabook-s1-display.jpg)
+
+ Image Credit: Paul Antil/MakeUseOf
+
+ Using polychromatic photoisomer, in its White Moon color, the monochrome surface of the S1 can reveal colors when exposed to UV light. To demo this for us, they shined a UV flashlight over the surface for a few seconds to reveal "MEGABOOK S1" written in pixel font along the right side of the top lid. First seen on the Camon 19 Pro Mondrian Edition smartphone which launched last year, Tecno is expanding this technology to their other devices.
+
+![TECNO MegaBook S1 - Keyboard Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/tecno-megabook-s1-keyboard-deck.jpg)
+
+ Image Credit: Paul Antil/MakeUseOf
+
+ While the effect wasn't as pronounced inside during their booth presentation, I imagine longer exposure to the sun would really highlight this change in appearance. Additionally, while this remains a concept product and pricing hasn't been announced, we suspect that Techno is looking to bring its unique technology in at a similar affordable starting price point as the standard Megabook S1\. It's unclear what customization users will have over the displayed text or designs, though just as with the ASUS ROG Zephyrus G14 with its AniMe Matrix Display on its lid, the S1 Dazzling Edition will likely find its fan base.
+
+![TECNO MegaBook S1 - Top Lid](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/tecno-megabook-s1-top-lid.jpg)
+
+ Image Credit: Paul Antil/MakeUseOf
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Tecno's New Laptops Dazzle at IFA 2023
+
+ IFA 2023 often reveals the best new laptops you'll see throughout the next year, and this year's edition was no different. Tecno has pushed onwards and upwards with its Megabook range, building on the successes of 2022 and early 2023\. As such, we're hyped to see what's to come from Tecno in 2024!
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-free-tools-top-5-screen-recorder-apps-for-chrome-devices-for-2024/"><u>[Updated] Free Tools Top 5 Screen Recorder Apps for Chrome Devices for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-navigating-the-world-of-podcast-rss-formatting/"><u>[Updated] In 2024, Navigating the World of Podcast RSS Formatting</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-final-cut-pros-premier-top-10-plugins/"><u>2024 Approved Final Cut Pro's Premier Top 10 Plugins</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-your-gaming-realm-crafting-the-perfect-4k-experience-on-xbox-series-x/"><u>Elevating Your Gaming Realm: Crafting the Perfect 4K Experience on Xbox Series X</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 to other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-xiaomi-13-ultra-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Xiaomi 13 Ultra Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-from-apple-iphone-6-plus-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account From Apple iPhone 6 Plus without Password?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-pursuit-for-full-viewable-content-from-friends-on-direct-chat-platforms/"><u>In 2024, Pursuit for Full Viewable Content From Friends on Direct Chat Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-ps5-games-without-a-controllers-hold/"><u>Mastering PS5 Games Without a Controller's Hold</u></a></li>
+<li><a href="https://games-able.techidaily.com/quality-on-a-dime-your-guide-to-vr-selection/"><u>Quality on a Dime: Your Guide to VR Selection</u></a></li>
+<li><a href="https://games-able.techidaily.com/winxbox-controller-fixes-your-pc-companion/"><u>WinXbox Controller Fixes: Your PC Companion</u></a></li>
+</ul></div>
+

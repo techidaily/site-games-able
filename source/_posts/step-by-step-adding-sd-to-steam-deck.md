@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Adding SD to Steam Deck"
-date: 2024-07-12T03:47:09.617Z
-updated: 2024-07-13T03:47:09.617Z
+date: 2024-09-13T16:27:22.762Z
+updated: 2024-09-15T16:55:46.466Z
 tags:
   - games
 categories:
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/3c3e9aebd6b49c0af91473b8783124a08a04e227f
 ## How to Format Your SD Card for the Steam Deck
 ![screenshot of the steam deck settings menu showing an option to format the SD card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_steam_deck_sd_format_option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The Steam Deck uses a specific format, so a full wipe of your SD card is required when adding extra storage to the device.
 
  Start by inserting your SD card into your Steam Deck. The SD card slot is located on the bottom and to the right of your device, just below the right speaker.
@@ -64,6 +71,13 @@ thumbnail: https://thmb.techidaily.com/3c3e9aebd6b49c0af91473b8783124a08a04e227f
 
 ![Screenshot of an SD card mounted on the Steam Deck showing its location as primary](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_primary_sd_card_location_on_steam_deck.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You'll find your SD card located at the bottom right-hand side of the Dolphin explorer window. It's named **primary**. Steam games will be located in the **steamapps** folder of this device.
 
  However, unlike Windows, this isn't the true file path. If you need to refer to anything installed on your SD card, the file path is as follows:
@@ -74,14 +88,11 @@ run/media/mmcblk0p1
 
  Considering how crucial extra space is for the Steam Deck experience, it's a good thing an SD card is so easy to set up and get going. Whether you've ordered a brand new SD card or you're pulling one out of an old phone, it's as easy as inserting it and formatting it. Just make sure you're using a fast enough card for the demands of the game.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -90,6 +101,16 @@ run/media/mmcblk0p1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-make-memories-count-learn-to-share-photos-right-now/"><u>[New] 2024 Approved Make Memories Count Learn to Share Photos Right Now</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-nostalgia-spin-off-the-goofy-movie-on-tape/"><u>2024 Approved Nostalgia Spin-Off The Goofy Movie on Tape</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-securing-your-scene-minimize-camera-jostle/"><u>2024 Approved Securing Your Scene Minimize Camera Jostle</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ing-a-champion-dslr-or-mirrorless-camera-in-2024/"><u>Choosing a Champion DSLR or Mirrorless Camera, In 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/improving-frame-rate-and-eliminating-glitches-ultimate-guide-for-smoother-gameplay-in-valorant/"><u>Improving Frame Rate & Eliminating Glitches: Ultimate Guide for Smoother Gameplay in Valorant</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigate-to-a-new-switch-home-area/"><u>Navigate to a New Switch Home Area</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-through-non-starting-display-drivers-on-windows-11/"><u>Navigating Through Non-Starting Display Drivers on Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/tips-to-correctly-identify-gaming-software-on-steam/"><u>Tips to Correctly Identify Gaming Software on Steam</u></a></li>
+</ul></div>
 

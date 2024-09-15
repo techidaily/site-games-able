@@ -1,7 +1,7 @@
 ---
 title: "Xbox Game Stream: From PC to Cloud Platform"
-date: 2024-07-12T03:52:34.064Z
-updated: 2024-07-13T03:52:34.064Z
+date: 2024-09-08T16:03:41.393Z
+updated: 2024-09-15T16:34:10.135Z
 tags:
   - games
 categories:
@@ -70,11 +70,31 @@ Close
 
 ![The Xbox App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/xbox-game-pass-app.png)
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you want to use your browser, head over to [xbox.com/play](http://xbox.com/play) . When you follow the link, you should immediately see the Xbox Game Pass library. If you do, click on a game to start streaming.
 
  If you don't see a library and instead land on a splash page advertising the Xbox Game Pass, it means something has gone wrong. First, double-check that you're signed in to your Microsoft account.
 
  If you're not signed in, or you are on an account without an active Xbox Game Pass Ultimate subscription, sign in with that account and click the above link again. If you are logged into the right account, make sure your subscription is still active, and that it's set to the Ultimate tier.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is the Xbox Cloud Gaming Service Any Good?
 
@@ -97,11 +117,25 @@ Close
 ### The Bad: Controllers Are a Must to Play With Xbox Cloud Gaming
 ![The Xbox app asking for a controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/xbox-cloud-gaming-controller.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  How much are you a fan of playing all of your games with a controller? If you're not bothered by it, you'll get along with Xbox Cloud Gaming just fine. However, if you want to use mouse and keyboard, you're in for a rough time.
 
  When I tried to boot up a game to play with a mouse and keyboard, the Xbox app warned me that my lack of controller was stopping me from starting the game. There was seemingly no way to get around this prompt; if you don't have a controller plugged in, it won't work.
 
  Once you plug in a compatible controller (either an Xbox controller or a supported third-party brand), Xbox Cloud Gaming will let you play. If you then put down your controller and try to use your keyboard and mouse, you'll find that it still won't work. You're forced to use a controller, which can be a major downside if you like using a keyboard and mouse for specific genres.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Verdict: Is Xbox Cloud Gaming Good?
 
@@ -109,14 +143,11 @@ Close
 
  However, if you're not married to Microsoft's hardware, the lack of options to play your games the way you want to can be disappointing. If you want to cloud game with your keyboard and mouse, I'd recommend the [Nvidia GeForce Now](https://www.makeuseof.com/reasons-why-use-nvidia-geforce-now/) service instead; it's a lot more accommodating in terms of what you want to use to play your games.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -125,6 +156,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-impeccable-photo-editing-using-the-virtual-background-effect-on-instagram/"><u>[New] In 2024, Impeccable Photo Editing Using the Virtual Background Effect on Instagram</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-the-ultimate-iphone-guide-to-breathtaking-shadow-images/"><u>[Updated] In 2024, The Ultimate iPhone Guide to Breathtaking Shadow Images</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/earn-wisely-the-simple-triad-method-for-scrutinizing-youtube-profits-for-2024/"><u>Earn Wisely The Simple Triad Method for Scrutinizing YouTube Profits for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-3-streaming-services-for-switch-gaming/"><u>Essential 3 Streaming Services for Switch Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-strategies-to-choose-top-app-store-games/"><u>Essential Strategies to Choose Top App Store Games</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-resolving-issues-with-laptop-audio-jack-connectivity/"><u>Expert Tips: Resolving Issues With Laptop Audio Jack Connectivity</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-realms-pass-like-shadows-should-we-linger/"><u>Game Realms Pass Like Shadows, Should We Linger?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-get-the-newest-hp-laserjet-p3015-software-easy-installation-for-windows-operating-systems/"><u>How to Get the Newest HP LaserJet P3015 Software: Easy Installation for Windows Operating Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/in-search-of-your-ideal-discord-server-destination/"><u>In Search Of: Your Ideal Discord Server Destination</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-gionee-f3-pro-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Gionee F3 Pro Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/personalized-gpu-temperature-control-boost-gaming-speed/"><u>Personalized GPU Temperature Control: Boost Gaming Speed</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/top-picks-stream-the-best-4k-uhd-movies-on-amazon-prime-video-during-coronavirus-lockdown/"><u>Top Picks: Stream the Best 4K UHD Movies on Amazon Prime Video During Coronavirus Lockdown</u></a></li>
+</ul></div>
 

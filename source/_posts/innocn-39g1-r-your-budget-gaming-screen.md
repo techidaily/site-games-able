@@ -1,7 +1,7 @@
 ---
 title: InnoCN 39G1 R - Your Budget Gaming Screen
-date: 2024-07-12T03:45:47.412Z
-updated: 2024-07-13T03:45:47.412Z
+date: 2024-09-11T16:09:09.427Z
+updated: 2024-09-15T16:43:08.586Z
 tags:
   - games
 categories:
@@ -136,6 +136,13 @@ Yes - 3000R
 
  The legs have a sizable footprint, however, and the option to VESA mount would have been appreciated. Unlike the small, solid metal bases of most monitors, the 39G1R relies on a tripod leg structure. It's stable, but it requires about a foot of depth. While you probably wouldn’t try to cram a 39-inch monitor onto a tiny desk anyway, that’s still a significant footprint for any desk size. The awkward tripod shape also means you can't slide a mini-PC in there, or tuck your keyboard out of the way when not in use.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## OSD and Controls
 
  The display is controlled with a single nub-like thumbstick underneath, in the center. Tap in any direction or click to open the first menu, and click again to turn off the display. You can also navigate right to the full on-screen display menu, left to control the lighting, or up for "game mode", which adds a customizable crosshair in the center of the display.
@@ -160,6 +167,13 @@ Yes - 3000R
 
 ![innocn 39g1r - lego browls high motion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-lego-browls-high-motion.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The maximum refresh rate is 165Hz, which will benefit any high-motion gaming (though only if your machine can push the frames that fast). But as with many VA panels, there might be some ghosting. You can adjust the response time in the on-screen menu if you find this problematic, but it won't eliminate the problem entirely. In real-world usage, I didn't notice any ghosting.
 
 ## Performance and Gaming
@@ -168,11 +182,25 @@ Yes - 3000R
 
 ![innocn 39g1r - 165hz](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-165hz.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Assuming you have hardware that can even deliver those sorts of frame rates, you’ll get superb visuals.
 
  In Cyberpunk, I managed about 120fps max with medium settings, but even that looked incredible. I didn't notice any lack of sharpness from the resolution, but maybe that's because I've never been able to play it in 4K resolution anyway, given how demanding the game is. The brightness seemed good, the colors were well-defined with plenty of details in the shadows, and the black levels were superb. The benefits of VA panel tech are obvious in a game like this.
 
 ![innocn 39g1r - cyberpunk bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-cyberpunk-bar.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To test the high frame rates, I loaded up Lego Brawls, which is basic enough to run at the full 165 frames a second—and promptly came first in every match I played. I'm not saying the high frame rate was a huge benefit when weighed against my obvious elite skills to compete against random children on the internet. Still, it probably played a not insignificant role.
 
@@ -200,6 +228,13 @@ Yes - 3000R
 
 ![innocn 39g1r - infrared view showing illumination](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-infrared-view-showing-illumination.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Secondly, on the response rate test, there was some definite ghosting, most evident on dark blue, which led to purple ghosting on the grey background, and bright red with brown ghosting.
 
 ![innocn 39g1r - brown and purple ghosting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-brown-and-purple-ghosting.jpg)
@@ -214,14 +249,11 @@ Yes - 3000R
 
  For value and impact, the Innocn 39G1R is a fantastic buy. It might not suit the most discerning of folks, but for most people, I think you’ll be really pleased.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -230,6 +262,22 @@ Yes - 3000R
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-personalize-the-save-spot-of-mac-images-for-2024/"><u>[New] Personalize the Save Spot of Mac Images for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-share-wisdom-top-strategies-for-video-sharing-on-instagram/"><u>[Updated] 2024 Approved Share Wisdom Top Strategies for Video Sharing on Instagram</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-influencer-innovation-the-top-5-instagram-tactics-for-maximum-impact-for-2024/"><u>[Updated] Influencer Innovation The Top 5 Instagram Tactics for Maximum Impact for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/5-best-photo-editor-for-android-phone/"><u>5 Best Photo Editor for Android Phone</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-how-to-bridge-devices-pc-and-steam-deck-together/"><u>Discover How to Bridge Devices: PC & Steam Deck Together</u></a></li>
+<li><a href="https://games-able.techidaily.com/dissecting-how-roblox-speed-tools-function/"><u>Dissecting How Roblox Speed Tools Function</u></a></li>
+<li><a href="https://games-able.techidaily.com/enthralling-eyesight-yet-plagued-by-tech-trials-pimax-crystal-reviewed/"><u>Enthralling Eyesight, Yet Plagued by Tech Trials: Pimax Crystal Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-future-play-ifa-2023-unveils-new-horizons-in-gaming/"><u>Game on, Future Play: IFA 2023 Unveils New Horizons in Gaming</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-50plus-best-tiktok-quotes-to-inspire-you-and-make-videos-go-viral/"><u>In 2024, 50+ Best TikTok Quotes to Inspire You and Make Videos Go Viral</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-samsung-galaxy-xcover-7-easily-by-drfone-android/"><u>In 2024, How To Unlock a Samsung Galaxy XCover 7 Easily?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-prime-top-5-weightless-action-recording-units/"><u>In 2024, Prime Top 5 Weightless Action Recording Units</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-5-proven-methods-to-record-quality-sound-on-apple-devices-for-2024/"><u>New 5 Proven Methods to Record Quality Sound on Apple Devices for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/safeguarding-your-switchs-integrity-with-tips/"><u>Safeguarding Your Switch's Integrity with Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/tetris-titans-rising-on-the-competitive-app-scene/"><u>Tetris Titans Rising on the Competitive App Scene</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-for-sharing-pc-games-via-steam-deck/"><u>The Ultimate Guide for Sharing PC Games via Steam Deck</u></a></li>
+</ul></div>
 

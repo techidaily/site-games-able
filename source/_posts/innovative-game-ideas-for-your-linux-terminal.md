@@ -1,7 +1,7 @@
 ---
 title: Innovative Game Ideas for Your Linux Terminal
-date: 2024-07-12T03:46:52.159Z
-updated: 2024-07-13T03:46:52.159Z
+date: 2024-09-08T16:42:49.823Z
+updated: 2024-09-15T16:38:27.532Z
 tags:
   - games
 categories:
@@ -75,6 +75,13 @@ You can install nInvaders on Debian-based systems with:
 ## 5\. Gambit
 ![gambit chessboard with checkmate imminent](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/gambit-chessboard-with-checkmate-imminent.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Chess is one of the greatest adversarial games ever invented and pits strategic thinkers against each other in a battle of wits.
 
  Gambit is an implementation of the classic game written using Go, and makes it super-easy to set up a terminal-based game of chess with a human opponent over a Secure Shell (SSH) connection.
@@ -98,6 +105,19 @@ Type a five-letter word to begin and see how good your score is!
 
  A green highlighted letter shows that you have the right letter in the right space, while a yellow highlight indicates the letter is present, but in a different slot.
 
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Tetris
 ![tetris in the linux terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/tetris-in-the-linux-terminal.jpg)
 
@@ -107,18 +127,22 @@ Type a five-letter word to begin and see how good your score is!
 
  While it sounds simple, working out the optimum rotation can be difficult at higher difficulty levels.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## There’s No Shortage of Terminal Games on Linux
 
  This selection of games for your Linux terminal is great if you just want to waste some time. But if you're playing command-line games because your Linux PC has poor performance, there are a variety of ways to increase the framerate and your gaming experience.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -127,6 +151,19 @@ Type a five-letter word to begin and see how good your score is!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-creative-command-center-studio-for-youtubers/"><u>[New] In 2024, Creative Command Center Studio for YouTubers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-timeless-tones-a-compendium-of-quality-sound-sites/"><u>2024 Approved Timeless Tones A Compendium of Quality Sound Sites</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apple-store-finding-genuine-chatgpt-apps/"><u>Apple Store: Finding Genuine ChatGPT Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/exquisite-office-mat-selection-guide-2024/"><u>Exquisite Office Mat Selection Guide 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-classics-to-cutting-edge-mmo-game-advancements/"><u>From Classics to Cutting-Edge: MMO Game Advancements</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-motorola-edge-40-pro-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Motorola Edge 40 Pro Phone FRP Lock</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-premium-webcams-for-professional-sound-recording/"><u>In 2024, Premium Webcams for Professional Sound Recording</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-xiaomi-redmi-a2-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Xiaomi Redmi A2</u></a></li>
+<li><a href="https://games-able.techidaily.com/steady-gameplay-for-xbox-s-controller/"><u>Steady Gameplay for Xbox S Controller</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-the-impact-of-rdna-35-amds-future-tech/"><u>Understanding the Impact of RDNA 3.5 - AMD's Future Tech</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/what-is-an-ai-tool-in-2024/"><u>What Is an AI Tool, In 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Cutting Cost, Not Quality in Your PS5 Gaming Package
-date: 2024-07-12T03:49:37.060Z
-updated: 2024-07-13T03:49:37.060Z
+date: 2024-09-09T16:24:32.706Z
+updated: 2024-09-15T16:00:42.598Z
 tags:
   - games
 categories:
@@ -57,6 +57,14 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
 3. Navigate to the**Cancel Subscription** button on the left and tap**X** on your controller.  
 ![EA Play subscription settings page on a PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ea-play-subscription-settings-page-on-a-ps5.JPG)
 4. You’ll get a message informing you that you won’t be billed again for your subscription.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Prompt notifying when EA Play subscription will cancel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/prompt-notifying-when-ea-play-subscription-will-cancel.JPG)
 
  Canceling your subscription doesn’t mean losing your benefits. Your benefits only expire once the subscription has run its course. Canceling only means you won’t be charged again.
@@ -75,6 +83,13 @@ Here’s how to renew a PS5 gaming subscription:
 ![PlayStation Plus subscription page in the PS5's subscription settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/playstation-plus-subscription-page-in-the-ps5-s-subscription-settings.JPG)
 4. Follow the payment steps.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  That’s all it takes to renew a subscription on your PS5\. You will be billed recurrently until you cancel with the above-mentioned steps.
 
 ## Keep Track of All Your PS5 Subscriptions
@@ -82,6 +97,13 @@ Here’s how to renew a PS5 gaming subscription:
  Subscriptions can rack up, and they are sneaky, easy-to-forget bills. However, the PS5 does make it easy with the way its UI works. Even though the subscriptions are embedded a little deep in the settings, it’s pretty easy to navigate and keep tabs on your subscriptions once you know where it is.
 
  And once again, subscriptions can be a great way to make gaming on a PS5 cheaper.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQ
 
@@ -93,14 +115,11 @@ Here’s how to renew a PS5 gaming subscription:
 
  To change your PlayStation Plus subscription tier, sign into your PlayStation account's**Account Management** settings online via [the official PlayStation website](https://id.sonyentertainmentnetwork.com/id/management%5Fca/?entry=p&pr%5Freferer=cam#/p/personal%5Finfo/list?cid=4a529aef-a3f3-41a6-a999-42f529175674&entry=p&state=cam%5F3af0585034c611577fab15ef3a9128ae) . From here, click on**Subscription** and select your**PlayStation Plus** subscription. Select**Change Plan** , then choose the plan you wish to switch to. Conveniently, if you want to [cancel your PlayStation Plus subscription](https://www.makeuseof.com/how-to-cancel-playstation-plus/) online, you can do so from the same**Subscription** settings page.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -109,6 +128,15 @@ Here’s how to renew a PS5 gaming subscription:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-innovative-screen-capture-on-mac-top-5-methods/"><u>[New] In 2024, Innovative Screen Capture on Mac, Top 5 Methods</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-understanding-permissions-the-key-to-saving-google-meets/"><u>[Updated] In 2024, Understanding Permissions The Key to Saving Google Meets</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-a-multi-os-future-with-steam-deck/"><u>Exploring a Multi-OS Future with Steam Deck</u></a></li>
+<li><a href="https://blog-min.techidaily.com/get-20-off-on-acronis-true-image-protect-and-restore-your-files-easily/"><u>Get 20% Off on Acronis True Image – Protect & Restore Your Files Easily!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-master-the-art-of-blurring-parts-in-digital-pictures/"><u>In 2024, Master the Art of Blurring Parts in Digital Pictures</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-your-consoles-lifespan-with-breaks/"><u>Maximize Your Console's Lifespan with Breaks</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-3gp-video-cutter-software-a-review-of-the-best-tools/"><u>New In 2024, 3GP Video Cutter Software A Review of the Best Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/regional-rendezvous-set-your-consoles-time-zone/"><u>Regional Rendezvous: Set Your Console's Time Zone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Discovering RDNA 3.5 - Its Role and Arrival
-date: 2024-07-12T03:48:39.079Z
-updated: 2024-07-13T03:48:39.079Z
+date: 2024-09-09T16:29:09.690Z
+updated: 2024-09-15T16:18:32.829Z
 tags:
   - games
 categories:
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/2041635073b88dca4044a894fcdb4e9d1f4358f13
 
  AMD often launches CPUs at CES (the Consumer Electronics Show held annually in January), so there's a chance RNDA 3.5 will be introduced to the world in January 2024\. Other than that, it's anybody's guess when AMD will announce the new architecture.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Performance Improvements Will RDNA 3.5 Bring Over RDNA 3?
 
  With the limited information available, it's hard to tell how much of a lead RDNA 3.5 will be over previous RDNA generations, namely RDNA 3 and 2\. However, we can take a look at the CPUs and APUs that RDNA 3.5 will be launching with to get an idea of how it'll perform.
@@ -49,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/2041635073b88dca4044a894fcdb4e9d1f4358f13
  An HWiNFO screenshot posted on [Performance Databases](https://performancedatabases.com/Content/Leak/Details/2023-09-01/Content.php) details a Ryzen 8000 series APU with 16 RDNA 3.5 GPU cores and 12 Zen 5 CPU cores in a mixed configuration. Other features include the average processor clock speed of 2.12 GHz in addition to 32GB of LPDDR4 6400 MHz RAM and a TDP of 45W.
 
 ![HWiNFO screenshot showing Ryzen 8000 CPU specs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/rdna3-5-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Image Credit:[Performance Databases](https://performancedatabases.com/Content/Leak/Details/2023-09-01/Content.php)
 
@@ -60,14 +74,11 @@ thumbnail: https://thmb.techidaily.com/2041635073b88dca4044a894fcdb4e9d1f4358f13
 
  One of AMD's biggest advantages over Intel is integrated RDNA graphics in its processors. Provided RDNA 3.5 lives up to the hype, the GPU architecture can render lower-end GPUs obsolete and will help AMD regain some of the market share it has lost to Intel.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -76,6 +87,20 @@ thumbnail: https://thmb.techidaily.com/2041635073b88dca4044a894fcdb4e9d1f4358f13
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-master-higher-rankings-on-yt-the-best-seo-tips-and-tricks-1-11/"><u>[New] 2024 Approved Master Higher Rankings on YT The Best SEO Tips and Tricks (1-11)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harness-10-tools-to-grab-youtube-images-online/"><u>[New] In 2024, Harness 10 Tools to Grab YouTube Images Online</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-understanding-facebooks-silent-video-alerts/"><u>[New] In 2024, Understanding Facebook's Silent Video Alerts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-unboxing-gurus-toolkit-amplifying-video-likes-on-tiktok/"><u>[New] The Unboxing Guru's Toolkit Amplifying Video Likes on TikTok</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-ultimate-tactics-to-record-lol-clashes-for-2024/"><u>[New] Ultimate Tactics to Record LOL Clashes for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-comparing-cloud-space-charges-methods-and-results/"><u>[Updated] Comparing Cloud Space Charges Methods and Results</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-perfecting-photography-with-phantoms-retrograde-technique/"><u>2024 Approved Perfecting Photography with Phantom's Retrograde Technique</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-xbox-series-xs-time-logs/"><u>Deciphering Xbox Series X/S Time Logs</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-tech-displays-at-ifa-event/"><u>Exclusive Tech Displays at IFA Event</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-bring-the-beat-home-add-songs-to-your-inshot-app/"><u>In 2024, Bring the Beat Home Add Songs to Your InShot App</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-realme-12-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Realme 12 5G FRP Bypass</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-browsing-beyond-the-obvious-access-points/"><u>Ps5 Browsing: Beyond the Obvious Access Points</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-are-gaming-iems-and-are-they-any-good/"><u>What Are Gaming IEMs and Are They Any Good?</u></a></li>
+</ul></div>
 

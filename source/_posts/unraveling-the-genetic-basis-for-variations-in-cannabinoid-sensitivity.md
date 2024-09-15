@@ -1,7 +1,7 @@
 ---
 title: Unraveling the Genetic Basis for Variations in Cannabinoid Sensitivity
-date: 2024-07-12T03:52:31.857Z
-updated: 2024-07-13T03:52:31.857Z
+date: 2024-09-08T16:23:22.312Z
+updated: 2024-09-15T16:49:47.555Z
 tags:
   - games
 categories:
@@ -68,20 +68,30 @@ thumbnail: https://thmb.techidaily.com/c76014f183cb941dddc5e361ad7d0edd6dead041e
 
  You are unable to use DualSense features such as haptic feedback, adaptive triggers, or the controller's built-in microphone while using an assist controller, but this is a small price to pay to help someone play and enjoy the games they love.
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## An Assist Controller Makes Gaming More Accessible
 
  Classic gaming controllers are not very accessible for the most part. They have small button inputs that require very tight movements and a claw-like grip. This kind of setup just doesn’t work for many people, but that doesn’t mean they shouldn’t be able to enjoy or experience gaming.
 
  There are many accessibility controllers on the market, but they are often expensive and also have limits to the number of people they can work for. Adding an assist controller to your PS5 is a cheap and effective way to make gaming more accessible on a budget, particularly if you have two controllers already.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -90,6 +100,19 @@ thumbnail: https://thmb.techidaily.com/c76014f183cb941dddc5e361ad7d0edd6dead041e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-framing-the-frame-top-camera-techniques-for-visuals/"><u>[New] Framing the Frame Top Camera Techniques for Visuals</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-gpu-nostalgia-update/"><u>2024 Approved GPU Nostalgia Update</u></a></li>
+<li><a href="https://games-able.techidaily.com/ensuring-longevity-tips-for-an-enduring-xbox-control/"><u>Ensuring Longevity: Tips for an Enduring Xbox Control</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-honor-x50iplus-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Honor X50i+ Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-apple-iphone-xs-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on Apple iPhone XS</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-color-dynamics-bringing-artistic-vision-to-life/"><u>In 2024, Color Dynamics Bringing Artistic Vision to Life</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harnessing-the-power-of-fisheye-photography/"><u>In 2024, Harnessing the Power of Fisheye Photography</u></a></li>
+<li><a href="https://games-able.techidaily.com/increase-game-frames-per-second-fps-on-pc/"><u>Increase Game Frames per Second (FPS) on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/override-obstructed-operations-open-league-only/"><u>Override Obstructed Operations, Open League Only</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/seamless-igtv-and-fb-sharing-guide/"><u>Seamless IGTV and FB Sharing Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-ps5-implementing-a-protective-code/"><u>The Ultimate Guide to PS5: Implementing a Protective Code</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshoot-sudden-mouse-scroll-jumps/"><u>Troubleshoot Sudden Mouse Scroll Jumps</u></a></li>
+</ul></div>
 

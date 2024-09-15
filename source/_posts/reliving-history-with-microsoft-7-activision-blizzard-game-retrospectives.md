@@ -1,7 +1,7 @@
 ---
 title: Reliving History with Microsoft - 7 Activision Blizzard Game Retrospectives
-date: 2024-07-12T03:49:02.232Z
-updated: 2024-07-13T03:49:02.232Z
+date: 2024-09-11T16:43:26.456Z
+updated: 2024-09-15T16:32:11.992Z
 tags:
   - games
 categories:
@@ -56,6 +56,19 @@ thumbnail: https://thmb.techidaily.com/ff7dea50eb587133c9c080dfe92ef9382e6bba6ee
 
  The games were known not only for their fluid and satisfying gameplay but their incredible soundtracks that featured some of the most iconic songs of their age. Remastered versions of Tony Hawk's Pro Skater 1 and 2 were released in 2020 and were highly anticipated, so a new entry in the series would no doubt be just as, if not more, hyped than the remaster.
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Hexen
 
  If the words Doom, Dark Fantasy, and Dark Souls trigger your interest, Hexen is something you should absolutely look into. It is very similar to Doom in many ways, including but not limited to the fact that it was built in a modified version of the same engine.
@@ -63,6 +76,19 @@ thumbnail: https://thmb.techidaily.com/ff7dea50eb587133c9c080dfe92ef9382e6bba6ee
 [The term FPS has many meanings in gaming](https://www.makeuseof.com/video-games-fps-meaning/) , but in the case of Hexen, it refers to the brutal type of first-person shooter where nowhere is safe and your only chance at survival is to keep moving. Doom is most well-known for establishing the genre, but Hexen took the Doom archetype to the next level, ditching the linear level design in exchange for a far more open-ended layout.
 
  Instead of completing one level at a time, Hexen requires you to backtrack and make your way through several areas via a hub world. This added to the game's difficulty and made it far more unforgiving than your average FPS. But for gamers that thrive on a good challenge, it also makes it that much more satisfying when you complete it.
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Prototype
 
@@ -76,14 +102,11 @@ thumbnail: https://thmb.techidaily.com/ff7dea50eb587133c9c080dfe92ef9382e6bba6ee
 
  Call of Duty may seem like the biggest asset Microsoft has bagged for itself out of this deal. But with the right marketing and development teams, these franchises could have the potential to give it a run for its money. You can never beat a good classic, after all.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -92,6 +115,23 @@ thumbnail: https://thmb.techidaily.com/ff7dea50eb587133c9c080dfe92ef9382e6bba6ee
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-enhance-creativity-on-chrome-os-top-10-digital-pencil-stores/"><u>[New] 2024 Approved Enhance Creativity on Chrome OS Top 10 Digital Pencil Stores</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-foremost-directors-of-cinematic-harmony/"><u>[New] In 2024, Foremost Directors of Cinematic Harmony</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nces-on-the-rise-gauge/"><u>Audiences on the Rise Gauge</u></a></li>
+<li><a href="https://games-able.techidaily.com/concealing-gaming-trails-silent-steam-play/"><u>Concealing Gaming Trails: Silent Steam Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/debugging-techniques-for-roblox-error-262/"><u>Debugging Techniques for Roblox Error 262</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/efficiently-access-your-facebook-lite-videos-with-these-top-apps-of-2023/"><u>Efficiently Access Your Facebook Lite Videos with These Top Apps of 2023</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-m1-chips-playing-your-favorite-windows-games-via-crossover/"><u>Exploring M1 Chips: Playing Your Favorite Windows Games via Crossover</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-tecno-pova-6-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-steams-storage-for-fast-game-management/"><u>Mastering Steam's Storage for Fast Game Management</u></a></li>
+<li><a href="https://games-able.techidaily.com/outsmart-xboxs-premium-price-spike-with-tactics/"><u>Outsmart Xbox's Premium Price Spike with Tactics</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamlessly-connecting-ps4-to-a-pc-or-mac/"><u>Seamlessly Connecting PS4 to a PC or Mac</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/subject-emphasis-background-cleanse/"><u>Subject Emphasis Background Cleanse</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-free-gamers-codex-mastering-the-art-of-finding-no-cost-steam-games/"><u>The Free Gamer's Codex: Mastering the Art of Finding No-Cost Steam Games</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-lenovo-thinkphone-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Lenovo ThinkPhone without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/unlock-the-secrets-capturing-apple-devices-for-engaging-videos/"><u>Unlock the Secrets Capturing Apple Devices for Engaging Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/xiaomi-11-series-where-every-snapshot-becomes-a-masterpiece-for-2024/"><u>Xiaomi 11 Series Where Every Snapshot Becomes a Masterpiece for 2024</u></a></li>
+</ul></div>
 

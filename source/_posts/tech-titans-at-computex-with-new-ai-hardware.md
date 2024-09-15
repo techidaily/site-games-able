@@ -1,7 +1,7 @@
 ---
 title: Tech Titans at Computex with New AI Hardware
-date: 2024-07-12T03:50:22.843Z
-updated: 2024-07-13T03:50:22.843Z
+date: 2024-09-13T16:50:45.709Z
+updated: 2024-09-15T16:33:59.612Z
 tags:
   - games
 categories:
@@ -48,6 +48,19 @@ Intel
 
  Aside from the AI side, the most interesting Lunar Lake upgrade is fully integrated memory. Intel Lunar Lake won't ship with specific memory chips. Instead, Intel will integrate 16 or 32GB memory into the chip design, saving space and boosting efficiency.
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Nvidia GeForce RTX AI Laptops
 
  Nvidia is the world's leading GPU manufacturer, so it's perfectly positioned as the world transitions to high-end AI processing hardware. Now, Nvidia is launching a new range of "GeForce RTX AI" branded laptops, pushing services that make the most of its Tensor cores.
@@ -64,20 +77,24 @@ Intel
 
 ![amd ai pc chips npu stats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/amd-ai-pc-chips-npu-stats.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 AMD
 
  Starting from the top, AMDD claims its new Ryzen AI 300-Series laptop chips XDNA2 NPU will deliver up to 50 TOPS, outstripping both Lunar Lake and the Snapdragon X Elite. However, like Lunar Lake, the real tests will come when these chips are finally launched; only Qualcomm's Snapdragon X Elite has been tested in the wild.
 
  Still, it means a new generation of AMD AI-powered laptops are incoming, to be powered by either the Ryzen AI 9 HX 370, which features 12 Zen 5 cores with a maximum boost frequency of up to 5.1 GHz, or the Ryzen AI 9 365 featuring 10 Zen 5 cores and a maximum boost clock of 5.0GHz.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -86,6 +103,18 @@ AMD
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-navigating-legal-boundaries-in-whatsapp-call-recordings/"><u>[New] 2024 Approved Navigating Legal Boundaries in WhatsApp Call Recordings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-haul-video-production-and-editing-techniques/"><u>[New] The Art of Haul Video Production and Editing Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-choosing-between-vlc-and-mpc-for-free-video-viewing/"><u>[Updated] Choosing Between VLC and MPC for Free Video Viewing</u></a></li>
+<li><a href="https://games-able.techidaily.com/control-commandments-for-switch-games-via-ryujinx-platform/"><u>Control Commandments for Switch Games via Ryujinx Platform</u></a></li>
+<li><a href="https://games-able.techidaily.com/embrace-the-epic-world-of-bg3-now-on-your-macos-with-crossover/"><u>Embrace the Epic World of BG3, Now on Your macOS with CrossOver</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-infinix-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Infinix Photos An Easy Method Explained.</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-redmi-13c-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Xiaomi Redmi 13C to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-sound-settings-for-xbox-series-xs-gaming/"><u>Optimizing Sound Settings for Xbox Series X/S Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfecting-your-pitch-writing-influential-reviews-on-steam/"><u>Perfecting Your Pitch: Writing Influential Reviews on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/serene-gameplay-strategies-with-xbox/"><u>Serene Gameplay Strategies with Xbox</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-capturing-your-sms-exchange-on-screen/"><u>Step-by-Step Guide: Capturing Your SMS Exchange on Screen</u></a></li>
+</ul></div>
 

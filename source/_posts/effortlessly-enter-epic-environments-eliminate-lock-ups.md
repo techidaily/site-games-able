@@ -1,7 +1,7 @@
 ---
 title: "Effortlessly Enter Epic Environments: Eliminate Lock-Ups"
-date: 2024-07-12T03:45:43.960Z
-updated: 2024-07-13T03:45:43.960Z
+date: 2024-09-14T16:40:20.596Z
+updated: 2024-09-15T16:49:45.787Z
 tags:
   - games
 categories:
@@ -65,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/475e778db07011aff476548fbdaa46272592bc242
 
  If you use any third-party cheat software, turn it off. Also, revert any unauthorized changes you might have made in the game files to gain an unfair advantage.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Relaunch the Game After Closing the Riot and LoL Processes
 
  First off, close all Riot and League of Legends processes in Task Manager and launch the game again. Taking this step will ensure League of Legends isn't failing to open due to a temporary glitch. Follow the steps below to close the tasks:
@@ -82,6 +89,19 @@ thumbnail: https://thmb.techidaily.com/475e778db07011aff476548fbdaa46272592bc242
 
  If that is the case, you will need to close graphics-intensive tasks simultaneously running alongside the game. By closing them, your system will have more resources available that League of Legends can use to function smoothly.
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Delete the Config and Logs Folders
 
  Files in the Logs folder contain information about errors and problems you encounter in the game. Likewise, the Config folder contains information regarding game configuration and settings. The issue under discussion can be caused by interference by these files. Therefore, you should delete the aforementioned folders.
@@ -95,6 +115,26 @@ thumbnail: https://thmb.techidaily.com/475e778db07011aff476548fbdaa46272592bc242
 4. To delete these folders, simply right-click on them and select**Delete** .  
 ![Deleting the Config Folder of League of Legends in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/3-deleting-the-config-folder-of-league-of-legends-in-windows-file-explorer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Disable Any Active In-Game Overlays
 
  Do you use any in-game overlays, especially the Discord overlay, when playing League of Legends? If so, you should disable them before starting the game to ensure the game doesn't get stuck on the loading screen because of an overlay. To turn off the Discord overlay, follow the below steps:
@@ -103,6 +143,13 @@ thumbnail: https://thmb.techidaily.com/475e778db07011aff476548fbdaa46272592bc242
 2. Navigate to the**Game Overlay** tab on the left.
 3. Turn off the toggle next to**Enable in-game overlay** .  
 ![Disabling the Discord Overlay](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Discord-Overlay.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you don't want to turn off the overlay for all games but only League of Legends, follow the below steps:
 
@@ -127,14 +174,11 @@ thumbnail: https://thmb.techidaily.com/475e778db07011aff476548fbdaa46272592bc242
 
  When League of Legends does not open, frustration may set in. If your system meets the minimum game requirements and you aren't experiencing any specific errors, the fixes above should fix the problem, and you should be able to play the game. When none of the fixes work, reinstall the game.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -143,6 +187,15 @@ thumbnail: https://thmb.techidaily.com/475e778db07011aff476548fbdaa46272592bc242
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-uploading-in-bulk-a-comprehensive-guide-to-multimedia-on-ig-for-2024/"><u>[Updated] Uploading in Bulk A Comprehensive Guide to Multimedia on IG for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/empower-gamers-transmit-your-xbox-gameplay-to-discord-networks/"><u>Empower Gamers: Transmit Your Xbox Gameplay to Discord Networks</u></a></li>
+<li><a href="https://games-able.techidaily.com/fortnite-and-mac-blast-off-with-caution-and-insight/"><u>Fortnite & Mac: Blast Off with Caution and Insight</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-tecno-pova-5-pro-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Pova 5 Pro If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/metaverse-meets-omniverse-a-comparative-guide-for-2024/"><u>Metaverse Meets Omniverse A Comparative Guide for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/revive-classics-iphone-games-for-nes-and-snes/"><u>Revive Classics: IPhone Games for NES and SNES</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/seamless-transformation-from-videots-to-mov-files-the-ultimate-trick/"><u>Seamless Transformation From Video_TS to Mov Files: The Ultimate Trick!</u></a></li>
+<li><a href="https://common-error.techidaily.com/windowslinux-users-beware-how-to-tackle-unwarranted-high-cpu-usage-from-shell-infrastructures/"><u>Windows/Linux Users Beware – How to Tackle Unwarranted High CPU Usage From Shell Infrastructures!</u></a></li>
+</ul></div>
 

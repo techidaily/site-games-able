@@ -1,7 +1,7 @@
 ---
 title: "Sony’s Summer Offering: A Hitter List of Steals"
-date: 2024-07-12T03:49:08.018Z
-updated: 2024-07-13T03:49:08.018Z
+date: 2024-09-09T16:39:59.903Z
+updated: 2024-09-15T16:42:34.288Z
 tags:
   - games
 categories:
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/a6f140ff4ddda64bd14cec3cab639274aa642e4bb
 
 **Download** :[Little Nightmares 1 & 2](https://store.playstation.com/en-us/product/UP0700-PPSA02200%5F00-LN1LN2BUNDLE0000) for $14.99 (70% off)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Owlboy
 
  Owlboy is a whimsical platforming adventure with a beautiful pixel art style and story to match. While there are plenty of [differences between AAA and indie games](https://www.makeuseof.com/aaa-games-vs-indie-games-differences/) , indie’s have more than enough potential to be just as good, if not better, than AAA titles. Owlboy is a perfect example of that. And it’s on sale for roughly the price of a deli sandwich. While deli sandwiches are unarguably good, forgoing one for lunch is definitely worth experiencing the breathtaking adventure of Owlboy.
@@ -53,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/a6f140ff4ddda64bd14cec3cab639274aa642e4bb
  Unravel Two is a beautifully rendered puzzle platformer that can be enjoyed alone, but it is best experienced with a friend. It has some incredibly unique and satisfying mechanics where you can use the yarn that makes up your body to interact with your surroundings and solve puzzles. It is very similar to It Takes Two, so if you were a fan of that, this should be at the top of your backlog.
 
 **Download** :[Unravel Two](https://store.playstation.com/en-us/product/UP0006-CUSA10483%5F00-COLDWOODPIKE0000) for $4.99 (75% off)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. The Last of Us: Part II
 
@@ -78,18 +92,22 @@ thumbnail: https://thmb.techidaily.com/a6f140ff4ddda64bd14cec3cab639274aa642e4bb
 
 **Download** :[Final Fantasy VII Remake](https://store.playstation.com/en-us/product/UP0082-CUSA07211%5F00-FFVIIREMAKE00000) for $29.99 (50% off)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Be a Little Adventurous This Summer
 
  What better way is there to have an adventurous summer than to get your hands on a literal adventure for super cheap? The PlayStation summer sale will end on August 16th, 2023, so make sure you take a look and pick up a great deal before it’s too late.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -98,6 +116,20 @@ thumbnail: https://thmb.techidaily.com/a6f140ff4ddda64bd14cec3cab639274aa642e4bb
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-top-5-ps3-emulation-software-pc-edition-2023-for-2024/"><u>[New] Top 5 Ps3 Emulation Software - PC Edition, 2023 for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-nvidia-screen-recorder-record-games-with-ease/"><u>[Updated] 2024 Approved NVIDIA Screen Recorder - Record Games with Ease</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cold-chronicles-the-2022-winter-olympics-in-china/"><u>Cold Chronicles The 2022 Winter Olympics in China</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-new-ways-to-engage-with-ps5-games/"><u>Discovering New Ways to Engage with PS5 Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/embrace-the-future-post-flash-gaming-techniques-unveiled/"><u>Embrace the Future: Post-Flash Gaming Techniques Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/finding-the-link-methods-for-windows-mc-lan-restoration/"><u>Finding the Link: Methods for Windows MC LAN Restoration</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-unveiling-the-techniques-behind-capturing-whatsapp-conversations/"><u>In 2024, Unveiling the Techniques Behind Capturing WhatsApp Conversations</u></a></li>
+<li><a href="https://games-able.techidaily.com/refinement-of-xbox-series-consoles-vrr-settings-made-simple/"><u>Refinement of Xbox Series Console's VRR Settings Made Simple</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/snap-a-caption-seamless-integration-of-text-on-windows-and-mac-pics/"><u>Snap a Caption Seamless Integration of Text on Windows & Mac Pics</u></a></li>
+<li><a href="https://facebook.techidaily.com/streamlining-your-social-network-events-with-facebook/"><u>Streamlining Your Social Network Events with Facebook</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-five-fiercest-frustration-factories-of-video-gaming/"><u>The Five Fiercest Frustration Factories of Video Gaming</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-wi-fi-problems-on-your-vizio-television/"><u>Troubleshooting Wi-Fi Problems on Your Vizio Television</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-hrtf-how-does-it-impact-valorant/"><u>Understanding HRTF: How Does It Impact Valorant?</u></a></li>
+</ul></div>
 

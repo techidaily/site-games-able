@@ -1,7 +1,7 @@
 ---
 title: "Old VS. Slim: Unveiling PS5 Evolution"
-date: 2024-07-12T03:48:57.744Z
-updated: 2024-07-13T03:48:57.744Z
+date: 2024-09-09T16:12:39.547Z
+updated: 2024-09-15T16:44:54.148Z
 tags:
   - games
 categories:
@@ -39,12 +39,32 @@ thumbnail: https://thmb.techidaily.com/efbab3d097792aa66f0bd2cf2071c3ef92d9d9dc7
 
  Sony has also reduced the weight of the disc edition from 9.9 pounds to 7.05 pounds. The weight of the digital edition has gone down to 5.73 pounds from 8.6 pounds (of course, it will weigh a little more if you attach the disk drive).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Old PS5 vs. New PS5: Attachable Disk Drive
 ![the attachable disk drive for the new smaller PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/detachable-disk-drive-for-the-new-smaller-ps5.jpg)
 
  Image credit:[Sony](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/)
 
  One of the other big changes is that the digital version of the new PS5 has an attachable Ultra HD Blu-ray disc drive. The attachment will cost you $79.99, and it's incompatible with the old digital version. However, it's nice to know that the option exists should you decide to use disks later on​​​​.
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Old PS5 vs. New PS5: Specs
 
@@ -55,6 +75,13 @@ thumbnail: https://thmb.techidaily.com/efbab3d097792aa66f0bd2cf2071c3ef92d9d9dc7
  While the RAM for both versions remains the same (16GB of GDDR6 RAM), the slimmer model has more internal storage space. The total size of the old PS5's SSD is 825 GB, which goes down to 667.2 GB once you factor in the OS. The "PS5 Slim," on the other hand, has 1TB of internal space, which comes down to 842.2 GB because of the OS.
 
  So that means you'll have over 200GB of extra internal storage space on the new PS5\. You can always upgrade it by [adding an M.2 SSD to the PS5](https://www.makeuseof.com/how-to-add-m2-ssd-ps5-guide/) with more storage space if that's still not enough.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Old PS5 vs. New PS5: Price
 
@@ -71,14 +98,11 @@ thumbnail: https://thmb.techidaily.com/efbab3d097792aa66f0bd2cf2071c3ef92d9d9dc7
 
  While the new, slimmer PS5 doesn't add anything new to the package in terms of performance and features, it has a noticeable size and weight reduction. Furthermore, the attachable disc drive for the digital edition is a nice touch for people who want to start with the cheaper model and then add the option to use disks later on. Not to mention there's now more storage space for people who could use an extra 100GB or more of internal storage space.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -87,6 +111,18 @@ thumbnail: https://thmb.techidaily.com/efbab3d097792aa66f0bd2cf2071c3ef92d9d9dc7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-comprehensive-skype-screencasting-with-obs/"><u>[Updated] 2024 Approved Comprehensive Skype Screencasting with OBS</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-pixel-perfect-photography-excelling-in-the-best-6-4k-dslrs/"><u>[Updated] In 2024, Pixel Perfect Photography Excelling in the Best 6 4K DSLRs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1725285338903-digiarty/"><u>Digiarty에서 도움이 필요한 기사: 솔루션 및 자세 정보</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-driver-download-for-netgear-a6100-supported-by-windows-operating-systems/"><u>Easy Driver Download for Netgear A6100 Supported by Windows Operating Systems</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Nokia C32? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/revel-in-retro-gaming-a-comprehensive-guide-to-ps3-emulators-on-pc/"><u>Revel in Retro Gaming: A Comprehensive Guide to PS3 Emulators on PC</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-essential-guide-to-activating-and-utilizing-iphones-dfui-mode-insights-and-instructions/"><u>The Essential Guide to Activating & Utilizing iPhone's DFUI Mode: Insights & Instructions</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-strategy-for-gamers-why-choose-steam-over-others/"><u>The Ultimate Strategy for Gamers: Why Choose Steam Over Others</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-gaming-experience-with-these-top-notch-tips-for-macos/"><u>Transform Your Gaming Experience with These Top-Notch Tips for macOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-gaming-potential-using-steam-link-for-androidios/"><u>Unleash Gaming Potential: Using Steam Link for Android/iOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrading-your-gaming-setup-with-top-notch-blue-ray-support/"><u>Upgrading Your Gaming Setup with Top-Notch Blue-Ray Support</u></a></li>
+</ul></div>
 

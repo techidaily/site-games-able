@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Storage: Steam Deck and SD Card"
-date: 2024-07-12T03:44:57.026Z
-updated: 2024-07-13T03:44:57.026Z
+date: 2024-09-13T16:42:32.642Z
+updated: 2024-09-15T16:29:10.041Z
 tags:
   - games
 categories:
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/255abe49d787e06c0ed6c6f504e1d68fdfd70d280
 ## How to Format Your SD Card for the Steam Deck
 ![screenshot of the steam deck settings menu showing an option to format the SD card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_steam_deck_sd_format_option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The Steam Deck uses a specific format, so a full wipe of your SD card is required when adding extra storage to the device.
 
  Start by inserting your SD card into your Steam Deck. The SD card slot is located on the bottom and to the right of your device, just below the right speaker.
@@ -50,6 +57,13 @@ thumbnail: https://thmb.techidaily.com/255abe49d787e06c0ed6c6f504e1d68fdfd70d280
  Just in case this prompt does not appear, all you have to do is navigate to **Settings** and then **Storage.** You'll see your SD card listed here. Press Y to open up the options menu and hit **Format Drive.**
 
  When the Steam Deck is done, your SD card will no longer be readable by Windows or Mac devices.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Install and Move Games to Your Steam Deck's SD Card
 ![screenshot of the games options menu on the steam deck showing a game installed on an SD card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_steam_deck_game_options_sd_card.jpg)
@@ -74,14 +88,11 @@ run/media/mmcblk0p1
 
  Considering how crucial extra space is for the Steam Deck experience, it's a good thing an SD card is so easy to set up and get going. Whether you've ordered a brand new SD card or you're pulling one out of an old phone, it's as easy as inserting it and formatting it. Just make sure you're using a fast enough card for the demands of the game.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -90,6 +101,20 @@ run/media/mmcblk0p1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-mastering-podcast-upload-on-itunes/"><u>[New] Mastering Podcast Upload on iTunes</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-comprehensive-assessment-of-frozen-treats-on-display-for-2024/"><u>[Updated] Comprehensive Assessment of Frozen Treats on Display for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-snap-into-hilarity-meme-creation-made-simple/"><u>[Updated] Snap Into Hilarity Meme Creation Made Simple</u></a></li>
+<li><a href="https://games-able.techidaily.com/detailed-breakdown-monthly-price-of-sony-playstation-plus/"><u>Detailed Breakdown: Monthly Price of Sony PlayStation Plus</u></a></li>
+<li><a href="https://games-able.techidaily.com/future-of-ai-unveiled-at-taipei-expo-2024/"><u>Future of AI Unveiled at Taipei Expo 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-detailed-walkthrough-implementing-look-up-tables-in-creative-suite/"><u>In 2024, Detailed Walkthrough Implementing Look-Up Tables in Creative Suite</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-from-live-streams-to-recorded-content-navigating-aiseesofts-features/"><u>In 2024, From Live Streams to Recorded Content Navigating Aiseesoft's Features</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-samsung-galaxy-a54-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Samsung Galaxy A54 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/restore-your-steam-gateway-with-these-simple-tweaks/"><u>Restore Your Steam Gateway with These Simple Tweaks</u></a></li>
+<li><a href="https://games-able.techidaily.com/revel-in-xbox-benefits-best-code-redeeming-tactics/"><u>Revel in Xbox Benefits: Best Code Redeeming Tactics</u></a></li>
+<li><a href="https://games-able.techidaily.com/team-up-conquer-exciting-gameplay-with-minecraft-2p-on-switch/"><u>Team Up, Conquer: Exciting Gameplay with Minecraft 2P on Switch</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-iphone-hdr-photo-guidebook/"><u>Ultimate iPhone HDR Photo Guidebook</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-the-best-performance-managing-graphics-card-temp/"><u>Unlocking the Best Performance: Managing Graphics Card Temp</u></a></li>
+</ul></div>
 

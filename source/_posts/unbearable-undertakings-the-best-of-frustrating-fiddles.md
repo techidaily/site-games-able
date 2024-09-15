@@ -1,7 +1,7 @@
 ---
 title: "Unbearable Undertakings: The Best of Frustrating Fiddles"
-date: 2024-07-12T03:50:25.102Z
-updated: 2024-07-13T03:50:25.102Z
+date: 2024-09-09T16:41:28.467Z
+updated: 2024-09-15T16:31:47.751Z
 tags:
   - games
 categories:
@@ -68,6 +68,13 @@ Let’s explore some of the names leading the scene.
 ## 4\. Bread & Fred
 ![Bread and Fred sitting on a platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/bread-and-fred-sitting-on-a-platform.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Bread & Fred builds on the existing Foddian formula but adds unique elements that completely alter the gameplay flow. It’s a two-player game that follows the journey of Bread & Fred, two adorable penguins who want to reach the snow-capped summit. Both players must work together to get the penguins to the very top.
 
  Besides the two-player nature, one major difference between this game and other Foddian titles is the movement options. Both players can move the penguins left or right, jump, grab surfaces, swing using the tether binding them together, and anchor themselves by crouching. The map is designed around these mechanics—as certain areas are only accessible using the right movement options.
@@ -77,6 +84,13 @@ Let’s explore some of the names leading the scene.
  As such, they released a single-player mode that chains one of the penguins to a counterweight that a single player can control. This appeals to speedrunners who would prefer to trust in their skills alone during a run. The developers also released a timer as another quality-of-life addition for speedrunners.
 
 **Download** : Bread & Fred on [Steam](https://store.steampowered.com/app/1607680/Bread%5F%5FFred/) and [Epic Games](https://store.epicgames.com/en-US/p/bread-and-fred-1db362) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Only Up
 ![Gazing down at the world limit on spine in Only Up!](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gazing-down-at-the-world-limit-on-spine-in-only-up.jpg)
@@ -97,14 +111,11 @@ Let’s explore some of the names leading the scene.
 
  And hopefully, after checking out some of the Foddian games on this list, you’ll be one of those players.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -113,6 +124,19 @@ Let’s explore some of the names leading the scene.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-canvas-audio-guide-adding-tweaking-and-refining-sounds/"><u>[New] Canva's Audio Guide Adding, Tweaking, & Refining Sounds</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-optimize-online-presence-video-embellishment-with-logos-and-watermarks/"><u>[Updated] Optimize Online Presence Video Embellishment with Logos and Watermarks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-rethinking-gameplay-mavic-air-versus-spark-showdown/"><u>2024 Approved Rethinking Gameplay Mavic Air Versus Spark Showdown</u></a></li>
+<li><a href="https://games-able.techidaily.com/delving-into-foddian-gamings-past/"><u>Delving Into Foddian Gaming's Past</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-destiny-decision-choose-between-ps5-and-budget-pc/"><u>Digital Destiny Decision: Choose Between PS5 & Budget PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-switch-titles-on-your-mac/"><u>Explore Switch Titles on Your Mac</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Car Locator Apps for Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/logitech-g933-headset-microphone-not-functioning-try-these-fixes-first/"><u>Logitech G933 Headset Microphone Not Functioning? Try These Fixes First</u></a></li>
+<li><a href="https://games-able.techidaily.com/mitigating-xbox-controller-sensory-drift-errors/"><u>Mitigating Xbox Controller Sensory Drift Errors</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/night-shutdown-strategy-unveiling-the-5-advantages-of-turning-off-your-laptop-at-night/"><u>Night Shutdown Strategy: Unveiling the 5 Advantages of Turning Off Your Laptop at Night</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essential-checklist-for-discovering-quality-app-store-games/"><u>The Essential Checklist for Discovering Quality App Store Games</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-cut-trim-and-edit-10-free-online-video-trimmers-2023-reviews/"><u>Updated In 2024, Cut, Trim, and Edit 10 Free Online Video Trimmers (2023 Reviews)</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Miniaturize Your Arcade Archive with Efficient CHDMAN Techniques
-date: 2024-09-09T09:47:16.116Z
-updated: 2024-09-10T09:47:16.116Z
+date: 2024-09-11T17:03:42.499Z
+updated: 2024-09-15T16:57:34.029Z
 tags:
   - games
 categories:
@@ -12,12 +12,6 @@ keywords: Arcades Miniature Storage,CHDMAN Archiving Tips,Efficient Archive Meth
 thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad97d3a8d2551786ec91da20e4.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Miniaturize Your Arcade Archive with Efficient CHDMAN Techniques
 
  If you're collecting ROMs like Pokémon, you surely have noticed that the ones for newer platforms take up a significant chunk of your storage. A single game might require multiple gigabytes of storage. Keep over a dozen, and your ROM collection can quickly expand to many Terabytes. That's where the MAME project's CHDMAN tool can help.
@@ -42,12 +36,6 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 * CDR.
 * IMG.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Compress Your ISOs With CHDMAN
 
  CHDMAN is distributed with the MAME emulator. If you already use that, you'll find CHDMAN's executable in MAME's installation directory. If not, download[the latest version of MAME from its official site](https://www.mamedev.org/) and install it on your PC to also get CHDMAN.
@@ -70,12 +58,6 @@ Our command was:
 
 ![A screenshot of the Change Directory command in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/cd-command-in-cmd.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 To compress your game with CHDMAN to CHD format, use the following:
 
 `chdman.exe createcd -i "ROM_YOU_WANT_TO_COMPRESS.CUE" -o "FILENAME_OF_COMPRESSED.CHD"`
@@ -124,11 +106,12 @@ Our command was:
  Because of[how LaunchBox works](https://www.makeuseof.com/what-is-launchbox-how-it-works/) and other front-end services you can use for emulation, like[using RetroArch on Windows](https://www.makeuseof.com/windows-retroarch-setup/) , CHDs should work on these services too.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### How Can You Check Your CHDs?
 
  CHDMAN isn't only a compression solution but, as its name states, a manager for CHD files. So, you can also use it to...
@@ -142,18 +125,6 @@ Our command was:
 
 ![A screenshot of the CHD Required category in the MAME emulator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/mame-requires-chd-filter.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  CHDMAN can only extract optical media backups back to the CUE & BIN combination with:
 
 `chdman.exe extractcd -i "INPUT.chd" -o "OUTPUT.cue"`
@@ -163,25 +134,23 @@ Our command was:
 `chdman.exe extracthd -i "INPUT.chd" -o "OUTPUT.IMG"`
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## More Storage, More Gaming
 
  Compressing your emulators' ROMs with CHDMAN will give you back a significant amount of storage space. But there's also a major con.
 
  Freeing up storage space means you can expand your ROM collection further. And that, in turn, translates to even more games in your backlog. With so many games a click away, having a CHDMAN equivalent that could compress and multiply our free time would be great.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -192,49 +161,16 @@ Our command was:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-capturing-brilliance-essential-angles-in-iphone-photography/"><u>[New] Capturing Brilliance Essential Angles in iPhone Photography</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-cutting-edge-techniques-pushing-boundaries-in-youtube-cinematography-for-2024/"><u>[New] Cutting Edge Techniques Pushing Boundaries in YouTube Cinematography for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-from-compressed-to-captioned-zip-to-srt-effortlessly-for-2024/"><u>[New] From Compressed To Captioned Zip to .Srt Effortlessly for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-harnessing-your-youtube-content-for-financial-rewards/"><u>[New] In 2024, Harnessing Your YouTube Content for Financial Rewards</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-simplifying-video-workflows-with-showmores-top-recording-tool-for-2024/"><u>[New] Simplifying Video Workflows with ShowMore's Top Recording Tool for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-professional-rapid-thumbnail-artistry-for-valorant-games/"><u>[Updated] Professional Rapid Thumbnail Artistry for Valorant Games</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleashing-creativity-making-photo-based-videos-using-pixiz/"><u>[Updated] Unleashing Creativity Making Photo-Based Videos Using Pixiz</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-essential-5-online-video-capture-apps/"><u>2024 Approved Essential 5 Online Video Capture Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gratis-strategies-for-streaming-c-span-videos-online/"><u>2024 Approved Gratis Strategies for Streaming C-Span Videos Online</u></a></li>
-<li><a href="https://games-able.techidaily.com/controller-android-synergy-a-practical-handbook-for-gamers/"><u>Controller-Android Synergy: A Practical Handbook for Gamers</u></a></li>
-<li><a href="https://games-able.techidaily.com/deciphering-and-solving-error-code-403-in-roblox-windows-edition/"><u>Deciphering & Solving Error Code 403 in Roblox Windows Edition</u></a></li>
-<li><a href="https://games-able.techidaily.com/demystifying-steam-stats-understanding-time-logged-and-rewards-earned/"><u>Demystifying Steam Stats: Understanding Time Logged & Rewards Earned</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-your-gameplay-avoiding-fps-drops-in-valorant-windows-edition/"><u>Elevate Your Gameplay: Avoiding FPS Drops in Valorant Windows Edition</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-worldwide-with-your-nintendo-switch/"><u>Explore Worldwide with Your Nintendo Switch</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-basic-to-expert-utilizing-every-feature-of-ea-play-ps5-edition/"><u>From Basic to Expert: Utilizing Every Feature of EA Play PS5 Edition</u></a></li>
-<li><a href="https://games-able.techidaily.com/google-play-pass-is-great-except-for-this-one-thing/"><u>Google Play Pass Is Great, Except for This One Thing</u></a></li>
-<li><a href="https://games-able.techidaily.com/grit-and-patience-top-5-obdurate-gaming-tests/"><u>Grit and Patience: Top 5 Obdurate Gaming Tests</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-block-steams-startup-routine/"><u>How to Block Steam's Startup Routine</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1723808218067-how-to-import-chrome-bookmarks-to-firefox-quickly-and-easily/"><u>How to Import Chrome Bookmarks to Firefox. Quickly & Easily!</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-about-honor-100-frp-bypass-by-drfone-android/"><u>In 2024, About Honor 100 FRP Bypass</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-immersion-in-the-most-realistic-water-games/"><u>In 2024, Immersion in the Most Realistic Water Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/innovative-steps-forward-a-guide-to-steam-deck-enhancements/"><u>Innovative Steps Forward: A Guide to Steam Deck Enhancements</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/inspirational-homebuilds-for-snapshot-enthusiasts-for-2024/"><u>Inspirational Homebuilds for Snapshot Enthusiasts for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-enhancing-roblox-frame-rate-risky/"><u>Is Enhancing Roblox Frame Rate Risky?</u></a></li>
-<li><a href="https://games-able.techidaily.com/light-up-your-room-optimal-panel-sets-for-thrilling-games/"><u>Light Up Your Room: Optimal Panel Sets for Thrilling Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastery-over-your-steam-account-eradicating-gaming-clutter/"><u>Mastery Over Your Steam Account: Eradicating Gaming Clutter</u></a></li>
-<li><a href="https://games-able.techidaily.com/mini-pc-evaluation-is-it-right-for-you-over-desktops/"><u>Mini PC Evaluation: Is It Right for You Over Desktops?</u></a></li>
-<li><a href="https://games-able.techidaily.com/msis-ultimate-warrior-raider-ge78-examined/"><u>MSI's Ultimate Warrior: Raider GE78 Examined</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/netflix-streaming-restored-addressing-common-xbox-one-hurdles/"><u>Netflix Streaming Restored: Addressing Common Xbox One Hurdles</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-what-is-an-ai-script-generator-in-2024/"><u>New What Is an AI Script Generator, In 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/power-up-your-playstation-pc-with-game-launchers/"><u>Power Up Your PlayStation PC with Game Launchers</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-oneplus-12r-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For OnePlus 12R | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/refine-gaming-atmosphere-personalizing-the-xbox-game-bar-for-a-besposkexpenses-windows-pc/"><u>Refine Gaming Atmosphere: Personalizing the Xbox Game Bar for a Besposkexpenses Windows PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/rethinking-how-you-view-your-steam-points/"><u>Rethinking How You View Your Steam Points</u></a></li>
-<li><a href="https://games-able.techidaily.com/revolutionize-your-ps5-games-effortlessly/"><u>Revolutionize Your PS5 Games, Effortlessly</u></a></li>
-<li><a href="https://games-able.techidaily.com/scrutinizing-ea-plays-payment-requirements/"><u>Scrutinizing EA Play's Payment Requirements</u></a></li>
-<li><a href="https://games-able.techidaily.com/seamless-transition-ps4-to-ps5-gameplay/"><u>Seamless Transition: PS4 to PS5 Gameplay</u></a></li>
-<li><a href="https://games-able.techidaily.com/steam-a-history-of-video-games-pricing/"><u>Steam: A History of Video Games Pricing</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-complete-players-guide-to-navigating-ea-play-features-on-ps5/"><u>The Complete Player’s Guide to Navigating EA Play Features on PS5</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-premier-asus-rog-ally-docks-for-laptop-users-2024/"><u>The Premier ASUS ROG Ally Docks for Laptop Users, 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-game-changer-installing-windows-on-a-steam-deck/"><u>The Ultimate Game Changer: Installing Windows on a Steam Deck</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-retro-games-compression-by-chdman/"><u>The Ultimate Guide to Retro Games Compression by ChDMan</u></a></li>
-<li><a href="https://games-able.techidaily.com/timecapsule-pocket-retro-console-redux/"><u>TimeCapsule Pocket: Retro Console Redux</u></a></li>
-<li><a href="https://games-able.techidaily.com/unjamming-steams-content-stream-process/"><u>Unjamming Steam's Content Stream Process</u></a></li>
-<li><a href="https://games-able.techidaily.com/unraveling-the-cause-of-error-30005-failed-files/"><u>Unraveling the Cause of Error 30005: Failed Files</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-high-quality-the-best-srt-translation-tools-ranked/"><u>[New] Free, High-Quality The Best SRT Translation Tools Ranked</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-quick-and-easy-iphone-methods-to-download-podcasts-anywhere/"><u>[New] Quick and Easy iPhone Methods to Download Podcasts Anywhere</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-quick-methods-saving-your-google-voice-dialogues/"><u>[New] Quick Methods Saving Your Google Voice Dialogues</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-updated-drivers-for-the-hp-deskjet-3050a-compatible-with-any-version-of-windows-beginner-friendly-download-tutorials/"><u>Free, Updated Drivers for the HP Deskjet 3050A - Compatible with Any Version of Windows | Beginner-Friendly Download Tutorials</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-factory-reset-a-playstation-4-ps4/"><u>How to Factory Reset a PlayStation 4 (PS4)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-avoid-paying-for-space-the-most-attractive-20plus-free-cloud-services/"><u>In 2024, Avoid Paying for Space - The Most Attractive 20+ Free Cloud Services</u></a></li>
+<li><a href="https://games-able.techidaily.com/keep-your-gaming-experience-peak-performance-with-these-tips/"><u>Keep Your Gaming Experience Peak Performance with These Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-your-dollars-affordable-gamers-display-choice/"><u>Maximize Your Dollars - Affordable Gamer's Display Choice</u></a></li>
+<li><a href="https://games-able.techidaily.com/orbit-fabricator-scouting-for-superior-pcs/"><u>Orbit Fabricator: Scouting for Superior PCs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/power-players-in-flight-the-drone-heavylifting-leaders/"><u>Power Players in Flight The Drone Heavylifting Leaders</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-the-full-potential-of-your-favorite-games-on-a-mac/"><u>Unleash the Full Potential of Your Favorite Games on a Mac</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Subscription Stack-Up: Xbox Vs. PS+ In-Depth Comparison"
-date: 2024-07-12T03:49:12.527Z
-updated: 2024-07-13T03:49:12.527Z
+date: 2024-09-09T16:49:41.592Z
+updated: 2024-09-15T16:17:03.163Z
 tags:
   - games
 categories:
@@ -42,6 +42,19 @@ Let's walk through the primary benefits of both services.
 
  Both PlayStation Plus and Game Pass Core offer "free" games (included as part of the cost) with your subscription. However, these work differently across the two services.
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### PlayStation Plus Free Games
 
  Each month, PlayStation Plus subscribers get to add a few free games to their library. Since the PlayStation 5's launch, there have been three games per month. Generally, two of them are PS4 games, with at least one PS5 title that may also have a PS4 version.
@@ -67,11 +80,31 @@ Let's walk through the primary benefits of both services.
 ## Digital Game Discounts
 ![PS Plus Discounts on Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/PS-Plus-Discounts-Store.png)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In addition to the free games, PlayStation Plus and Game Pass Core both offer a variety of discounts on their respective digital stores.
 
  Of course, there are differences in the frequency and volume of what’s available. It's hard to compare the services directly in this area, as the sales vary in frequency and value. You might find a Game Pass-exclusive sale on the Microsoft Store, or deeper discounts with PlayStation Plus than non-members get.
 
  These discounts extend to DLC and consumable items, so it's not just full titles. With PS Plus, you'll also sometimes get exclusive access to betas, plus some freebies like add-ons for various games or profile avatars.
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Other Subscription Features
 
@@ -91,6 +124,13 @@ Let's walk through the primary benefits of both services.
 
  You need PlayStation Plus to host a Share Play session. Both people need PS Plus to use the "play a game together" feature.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### PlayStation Game Help
 
  The PS5 has a feature called Game Help that lets you see tips and tricks for supported games. It works without leaving your current game, so you don't have to pull up a separate walkthrough in the browser.
@@ -100,6 +140,13 @@ Let's walk through the primary benefits of both services.
 ### Automatic Updates and Other Perks
 
  Finally, PS Plus enables some convenient features on PS4 and PS5, such as automatically downloading game updates in Rest mode. It also gives you priority shipping if you order physical goods from Sony's online store.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Cost of PS Plus and Game Pass Core
 
@@ -135,14 +182,11 @@ Let's walk through the primary benefits of both services.
 
  Whichever system you play on, you'll get a lot of value out of either service.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -151,6 +195,19 @@ Let's walk through the primary benefits of both services.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-affluent-animator-architects-for-2024/"><u>[Updated] Affluent Animator Architects for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-explorations-reward-6-innovative-minecraft-residences/"><u>[Updated] In 2024, Exploration's Reward 6 Innovative Minecraft Residences</u></a></li>
+<li><a href="https://games-able.techidaily.com/discount-heaven-11-sites-for-finding-cheap-video-games/"><u>Discount Heaven: 11 Sites for Finding Cheap Video Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/future-portable-the-switch-story-to-2024/"><u>Future Portable: The Switch Story to 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/how-chinese-tech-startups-opt-for-affordable-performance-with-geforce-gaming-cards-over-expensive-sanction-compliant-nvidia-ais-the-value-edge-of-the-rtx-408/"><u>How Chinese Tech Startups Opt for Affordable Performance with GeForce Gaming Cards Over Expensive Sanction-Compliant Nvidia AIs: The Value Edge of the RTX 4090</u></a></li>
+<li><a href="https://games-able.techidaily.com/luminous-futures-more-than-just-energy/"><u>Luminous Futures: More than Just Energy</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-gaming-advantage-for-twitch-fans/"><u>Prime Gaming Advantage for Twitch Fans</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-frequent-microsoft-edge-malfunctions-on-windows-10/"><u>Resolving Frequent Microsoft Edge Malfunctions on Windows 10</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/safe-surveillance-practices-keeping-info-undercover/"><u>Safe Surveillance Practices Keeping Info Undercover</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-solutions-for-correcting-ietfamedll-error-messages/"><u>Step-by-Step Solutions for Correcting ietfame.dll Error Messages</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-steadicam-models-compatible-with-dslr-cameras-for-2024/"><u>Top Steadicam Models Compatible with DSLR Cameras for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-xbox-recording-accessories-guide/"><u>Ultimate Xbox Recording Accessories Guide</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Game on, Future Play: IFA 2023 Unveils New Horizons in Gaming"
-date: 2024-09-09T09:48:13.925Z
-updated: 2024-09-10T09:48:13.925Z
+date: 2024-09-10T16:02:12.950Z
+updated: 2024-09-15T16:00:46.289Z
 tags:
   - games
 categories:
@@ -12,30 +12,12 @@ keywords: Game On,Future Games Expo,Tech Innovations IFA,Virtual Reality Showcas
 thumbnail: https://thmb.techidaily.com/70eb207ffd605d91a6b2f543dd9aa1d6c7a04729ab3e1a2ee11529aec8f103fd.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Game on, Future Play: IFA 2023 Unveils New Horizons in Gaming
 
  IFA 2023 marks the 99th year that the world's most widely attended consumer electronics show again gave us a glimpse of the future. With the spotlight shining brightly on Berlin, attendees learned how we'd all work, commute, and live life.
 
  That includes how we'll play, too. We saw some gaming hardware that pumped us for what's to come in 2024 and beyond. See what made our peepers do a double-take.
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Lenovo's Triple Header
 
  Plenty of brands had a fine showing of their gaming hardware at IFA 2023\. But it was Lenovo that proverbially mopped the floor with the competition. It unveiled not one, or even two, but three pieces of gaming hardware that show Lenovo is making serious moves to become a leader in some of the game tech still in its infancy: portable gaming PCs and AR glasses.
@@ -44,12 +26,6 @@ thumbnail: https://thmb.techidaily.com/70eb207ffd605d91a6b2f543dd9aa1d6c7a04729a
 
 ![MUO site on Lenovo Legion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/muo-on-legion.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Image Credit: Justin Duino /[MakeUseOf](http://www.makeuseof.com)
 
  Undoubtedly, the stand-out gaming tech of IFA 2023, the[Lenovo Legion GO](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Flegiongo%2F) , effectively stole the attention of every attendee who passed by Lenovo's booth. And who can blame them? The yellow RGB light around the joysticks of the Lenovo Legion GO makes it feel like it's ripped straight out of a "Deus Ex" game, giving it that "the future is now" look.
@@ -108,12 +84,6 @@ thumbnail: https://thmb.techidaily.com/70eb207ffd605d91a6b2f543dd9aa1d6c7a04729a
 
 ![Nosepad of the Legion Glasses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-glasses-nosepad.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Image Credit: Justin Duino/[MakeUseOf](http://www.makeuseof.com)
 
  The rebranded Lenovo Legion Glasses will be available sometime in October 2023 for $329.
@@ -123,11 +93,12 @@ thumbnail: https://thmb.techidaily.com/70eb207ffd605d91a6b2f543dd9aa1d6c7a04729a
 ![legion-9i-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-9i-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Image Credit: Justin Duino /[MakeUseOf](http://www.makeuseof.com)
 
  Let's get one thing out of the way: the[Lenovo Legion 9i](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Flegion-laptops%2Flegion-9-series%2Flegion-9i-gen-8-%2816-inch-intel%29%2F83agcto1wwus1) fetches a crazy price: $4,399\. It's packed with premium features and new ideas, straying away from previous builds of the Legion series. So, what does this high price get you?
@@ -136,18 +107,6 @@ thumbnail: https://thmb.techidaily.com/70eb207ffd605d91a6b2f543dd9aa1d6c7a04729a
 
 ![Legion 9i's cooling system](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-9i-cooling-system.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Image Credit: Justin Duino/[MakeUseOf](http://www.makeuseof.com)
 
  Lenovo is also integrating its "LA-2 AI" chip, responsible for managing the RGB controls and the power between the CPU and GPU, resulting in solid frame rates while working nicely with the liquid cooling system—smart.
@@ -163,21 +122,16 @@ The Legion 9i features a:
 The Lenovo Legion 9i will be available starting October 2023.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## MSI GAMING SLIM Series Graphics Cards
 
 ![msi 4070 slimline gpu on msi stand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/msi-4070-slimline-gpu-on-msi-stand.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Image Credit: Gavin Phillips/MakeUseOf
 
  MSI impressed us with its new line of[GAMING SLIM series of graphics cards](https://www.msi.com/Graphics-Card/GeForce-RTX-4060-Ti-GAMING-X-SLIM-16G) . It effectively shrinks down the GeForce RTX 40 series, making installing it in small or tight spaces easier.
@@ -187,17 +141,12 @@ The Lenovo Legion 9i will be available starting October 2023.
 ![msi 4070 slimline gpu on stand black and white colors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/msi-4070-slimline-gpu-on-stand-black-and-white-colors.JPG)
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Image Credit: Gavin Phillips/MakeUseOf
 
  MSI's GAMING SLIM version of its GeForce RTX 40 series graphics cards will be released sometime later this year.
@@ -206,12 +155,6 @@ The Lenovo Legion 9i will be available starting October 2023.
 
 ![The MegaMini Gaming G1 watercooled mini PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/megamini-gaming-g1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Image Credit: Paul Antill/[MakeUseOf](http://www.makeuseof.com)
 
  Here's something unusual: Tecno, known for its phones, unveiled at IFA 2023 a water-cooled mini PC focusing on gaming. Here's what we know.
@@ -237,8 +180,6 @@ No word on the price or release date yet, but color us intrigued.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -248,33 +189,18 @@ No word on the price or release date yet, but color us intrigued.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/avigating-to-your-personal-youtube-collection/"><u>[New] Navigating to Your Personal YouTube Collection</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-transcoding-ttml-and-ssa-into-easy-to-use-srt-format/"><u>[New] Transcoding TTML & SSA Into Easy-to-Use SRT Format</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-acknowledgment-series-free-vs-paid-template-choices/"><u>[Updated] Acknowledgment Series Free vs Paid Template Choices</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-best-ranked-affordable-video-players-and-streaming-services-pc-and-mobile/"><u>[Updated] Best-Ranked Affordable Video Players and Streaming Services (PC & Mobile)</u></a></li>
-<li><a href="https://games-able.techidaily.com/beyerdynamics-mmx-200-a-sound-revolution/"><u>Beyerdynamic's MMX 200: A Sound Revolution</u></a></li>
-<li><a href="https://games-able.techidaily.com/combat-commanders-unite-discovering-best-11-war-sims/"><u>Combat Commanders Unite: Discovering Best 11 War Sims</u></a></li>
-<li><a href="https://games-able.techidaily.com/crafting-a-champion-critical-settings-to-customize-in-fps-games/"><u>Crafting a Champion: Critical Settings to Customize in FPS Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhance-ps5-fun-key-player-insights/"><u>Enhance PS5 Fun: Key Player Insights</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-gaming-with-chatgpt-the-top-6-titles/"><u>Explore Gaming with ChatGPT: The Top 6 Titles!</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-nostalgia-using-emudeck-for-old-games/"><u>Exploring Nostalgia: Using EmuDeck for Old Games</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723011996231-fixing-cod-wwii-error-4128-issue-here-are-the-steps-you-need-to-know/"><u>Fixing CoD WWII 'Error 4128' Issue? Here Are the Steps You Need to Know</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/how-to-innovate-your-podcast-previews-and-trailers/"><u>How to Innovate Your Podcast Previews and Trailers</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-leave-a-game-review-on-steam/"><u>How to Leave a Game Review on Steam</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-as-a-detailed-and-interactive-text-based-rpg/"><u>How to Use ChatGPT as a Detailed and Interactive Text-Based RPG</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Poco X6 | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-polaroid-camplus-cube-analysis-when-life-is-on-screen/"><u>In 2024, Polaroid Cam+ Cube Analysis When Life Is on Screen</u></a></li>
-<li><a href="https://games-able.techidaily.com/passed-geforce-now-does-it-deliver-value/"><u>Passed GeForce Now: Does It Deliver Value?</u></a></li>
-<li><a href="https://games-able.techidaily.com/pros-and-cons-of-each-steam-deck-model/"><u>Pros and Cons of Each Steam Deck Model</u></a></li>
-<li><a href="https://games-able.techidaily.com/revel-in-great-sounds-a-look-at-mmx-200/"><u>Revel in Great Sounds: A Look at MMX 200</u></a></li>
-<li><a href="https://games-able.techidaily.com/sonic-boom-rom-gaming-classic-classics-on-iphone/"><u>Sonic Boom ROM Gaming: Classic Classics on iPhone</u></a></li>
-<li><a href="https://games-able.techidaily.com/strategies-to-prevent-online-predators-on-discord/"><u>Strategies to Prevent Online Predators on Discord</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-honor-x50i-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Honor X50i Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/swift-swipes-fast-strokes-discover-7-best-sports-games-iosandroid/"><u>Swift Swipes, Fast Strokes! Discover 7 Best Sports Games (iOS/Android)</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-six-essential-ingredients-for-thrilling-games/"><u>The Six Essential Ingredients for Thrilling Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/transforming-ps5-gameplay-for-ultimate-enjoyment/"><u>Transforming PS5 Gameplay for Ultimate Enjoyment</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-why-youre-labeled-idle-on-discord-platform/"><u>Understanding Why You're Labeled 'Idle' On Discord Platform</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-excitement-dive-into-netflix-gaming-world/"><u>Unlock Excitement - Dive Into Netflix Gaming World</u></a></li>
-<li><a href="https://games-able.techidaily.com/unsubscribe-from-steam-a-step-by-step-guide/"><u>Unsubscribe From Steam: A Step-by-Step Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/what-are-cozy-games-and-why-are-they-so-popular/"><u>What Are Cozy Games and Why Are They So Popular?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-top-6-economical-action-cams-available-for-99-or-below/"><u>2024 Approved Top 6 Economical Action Cams Available for $99 or Below</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-service-showdown-is-xbox-or-psplus-ultimate-better/"><u>Gaming Service Showdown: Is Xbox or PS+ Ultimate Better?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-erase-a-repot-you-shared-by-mistake-a-complete-guide-for-tiktok/"><u>How To Erase a Repot You Shared by Mistake: A Complete Guide for TikTok</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-share-your-pcs-mouse-and-keyboard-with-your-steam-deck-using-barrier/"><u>How to Share Your PC's Mouse and Keyboard With Your Steam Deck Using Barrier</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-xiaomi-redmi-12-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Xiaomi Redmi 12</u></a></li>
+<li><a href="https://games-able.techidaily.com/joining-java-network-from-bedrock-through-geysermc-portal/"><u>Joining Java Network From Bedrock Through GeyserMC Portal</u></a></li>
+<li><a href="https://games-able.techidaily.com/level-up-gaming-fun-experience-top-6-chatgpt-games/"><u>Level Up Gaming Fun: Experience Top 6 ChatGPT Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/oldschoolportal-mini-game-console-of-yesteryear/"><u>OldSchoolPortal Mini: Game Console of Yesteryear</u></a></li>
+<li><a href="https://howto.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-motorola-defy-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-motorola-moto-g34-5g-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Motorola Moto G34 5G Device</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-preventing-overwatch-2-pc-instability-and-crashes/"><u>Ultimate Guide to Preventing Overwatch 2 PC Instability and Crashes</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-display-driver-failed-mysteries-on-pcs/"><u>Unraveling Display Driver Failed Mysteries on PCs</u></a></li>
 </ul></div>
+

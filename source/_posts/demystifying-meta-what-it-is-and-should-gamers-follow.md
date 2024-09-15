@@ -1,7 +1,7 @@
 ---
 title: "Demystifying 'Meta': What It Is & Should Gamers Follow?"
-date: 2024-07-12T03:46:39.772Z
-updated: 2024-07-13T03:46:39.772Z
+date: 2024-09-11T16:22:06.145Z
+updated: 2024-09-15T16:55:23.614Z
 tags:
   - games
 categories:
@@ -48,6 +48,19 @@ OpenAI / MakeUseOf
 
  At this point, you might be curious where the term meta came from. People sometimes claim that "meta" is an acronym, standing for "most efficient tactic available." There's no evidence of that, though it is a clever example of a "backronym," where people retroactively turn a word into an acronym. Instead, the term likely stemmed from the existing word "meta," which means something that refers to itself. This is because the meta is essentially a game based on a game, where strategies and tactics are devised before a round even starts.
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Are Metas Good or Bad for Gaming?
 
 ![woman playing first person shooter on gaming pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/woman-playing-first-person-shooter-on-gaming-pc.jpg)
@@ -57,6 +70,13 @@ OpenAI / MakeUseOf
  You can't define metas as a strictly good or bad thing in gaming. It wholly depends on how the meta develops, and how the developers handle it after it arises.
 
  That's one of the fascinating things about metas. The core game can remain and persist through both good and bad meta changes. Let's look at how a meta can help or hurt a game.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How Metas Can Help Games
 
@@ -79,6 +99,13 @@ OpenAI / MakeUseOf
  The card was so good that people would add it as a "must-have" no matter what archetype their deck was. And people would concede if their opponent managed to play Dr. Boom and they hadn't drawn it yet. Deck builders had to ask themselves if their deck could handle Dr. Boom; if it couldn't, it was a bad deck.
 
  Eventually, Dr. Boom got a nerf and the meta re-stabilised itself, but the card was forever deemed a meta-warper by Hearthstone players.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Should You Follow the Meta in Games?
 
@@ -112,14 +139,11 @@ OpenAI / MakeUseOf
 
  So you should never feel bad stepping back from a game when you realize that the game's meta has tricked you into a grind or play style you don't enjoy!
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -128,6 +152,20 @@ OpenAI / MakeUseOf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-endless-eradication-guide-bypassing-youtubes-snappy-content/"><u>[New] 2024 Approved Endless Eradication Guide Bypassing YouTube's Snappy Content</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-mov-saving-on-the-go-top-six-tips-to-improve-your-workflow-in-windows-11/"><u>[Updated] .MOV Saving on the Go - Top Six Tips to Improve Your Workflow in Windows 11</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-expert-techniques-for-gameplay-recordings-via-obs/"><u>[Updated] 2024 Approved Expert Techniques for Gameplay Recordings via OBS</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-starting-a-vlog-the-must-have-equipmentsoftware/"><u>[Updated] 2024 Approved Starting a Vlog The Must-Have Equipment/Software</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/brain-exercises-to-make-language-learning-easier/"><u>Brain Exercises to Make Language Learning Easier</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-13-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-there-a-shift-towards-apple-computers-for-gamers/"><u>Is There a Shift Towards Apple Computers for Gamers?</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-discover-the-ultimate-list-of-podcast-friendly-free-recording-apps-for-2024/"><u>New Discover the Ultimate List of Podcast-Friendly Free Recording Apps for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-and-twitch-synergy-for-gamers/"><u>Prime and Twitch Synergy for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/smartphone-epic-quests-in-these-mmo-titles/"><u>Smartphone Epic Quests in These MMO Titles</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-essential-guide-to-trimming-videos-in-your-windows-device-for-2024/"><u>The Essential Guide to Trimming Videos in Your Windows Device for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-gamers-choice-redefined-with-razers-v4-innovation/"><u>The Gamer’s Choice Redefined with Razer's V4 Innovation</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-journey-from-java-to-joyrides/"><u>The Ultimate Journey From Java to Joyrides</u></a></li>
+</ul></div>
 
