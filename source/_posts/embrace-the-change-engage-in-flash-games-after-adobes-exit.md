@@ -1,7 +1,7 @@
 ---
 title: "Embrace the Change: Engage in Flash Games After Adobe's Exit"
-date: 2024-09-12T16:23:38.454Z
-updated: 2024-09-15T17:03:50.361Z
+date: 2024-09-13T17:54:03.861Z
+updated: 2024-09-21T01:37:06.580Z
 tags:
   - games
 categories:
@@ -51,22 +51,15 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
 
  The following projects are seeking to preserve Flash games, ensuring we can all continue to enjoy playing Flash games without Flash well into the future:
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1. BlueMaxima’s Flashpoint
 
 ![A screenshot of BlueMaxima's Flashpoint home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/bluemaximas-flashpoint-home-page-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Efforts to save Flash games began with the individual contributions of Ben Latimore[(Medium)](https://medium.com/@bluemaximax011) . After Latimore published a[Medium article](https://medium.com/@bluemaximax011/adobe-flashs-gaming-legacy-thousands-upon-thousands-of-titles-and-my-efforts-to-save-it-58c14811558a) that gathered very positive attention over his efforts, Flashpoint turned into the international web game preservation project that it is now.
@@ -92,10 +85,10 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
  Games and other media are stored in a data center, with over 4000 games currently in the archive. With each update, more games are added to the Flash Game Archive.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3. The Internet Archive
@@ -107,6 +100,13 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
  In that same spirit, using the Ruffle Flash emulator, the site added flash support to its Emularity system. Ruffle is a Flash player emulator built in the Rust programming language.
 
  Together, The Internet Archive and Ruffle allow you to play Flash games without Flash just as you used to do, even after December 2020\. The system works in all browsers that support Webassembly and does not require you to have Adobe Flash Player installed.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4. Newgrounds
 
@@ -139,13 +139,20 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-engagement-enhancers-trending-stories-filters/"><u>[New] 2024 Approved Engagement Enhancers Trending Stories Filters</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-androidios-wedding-timekeeping-mastered-with-our-top-timer-app-picks/"><u>2024 Approved Android/iOS Wedding Timekeeping Mastered with Our Top Timer App Picks</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-sync-your-poke-journey-with-reliable-location-services/"><u>How to Sync Your Poké-Journey with Reliable Location Services</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-vivo-y100i-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Vivo Y100i | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-asus-rog-phone-8-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Asus ROG Phone 8 Pro to iPhone | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/utionary-tools-for-next-gen-streaming-experience-for-2024/"><u>Revolutionary Tools for Next-Gen Streaming Experience for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/striking-the-right-temperature-on-your-gaming-card/"><u>Striking the Right Temperature on Your Gaming Card</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-art-of-navigating-nyt-alliances/"><u>The Art of Navigating NYT Alliances</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-metaverse-visibility-your-step-by-step-avatar-design/"><u>[New] Metaverse Visibility Your Step-by-Step Avatar Design</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-top-strategies-for-livestream-and-archiving-sports-action/"><u>[New] Top Strategies for Livestream & Archiving Sports Action</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-eizos-ultra-hd-display-a-detailed-look-at-cg318-4k/"><u>[Updated] 2024 Approved EIZO's Ultra HD Display A Detailed Look at CG318-4K</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-ultimate-trailer-treasure-chest/"><u>2024 Approved Ultimate Trailer Treasure Chest</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/awesome-mac-mkv-decode-options-for-2024/"><u>Awesome Mac MKV Decode Options for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-new-frontiers-with-vr-game-engines-for-2024/"><u>Exploring New Frontiers with VR Game Engines for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-deactivate-advanced-sound-modifications-on-your-windows-11-device/"><u>How to Deactivate Advanced Sound Modifications on Your Windows 11 Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/ifa-2023-tecno-launches-slimmed-down-14-megabook-t1-and-color-changing-s1-dazzling-edition/"><u>IFA 2023: Tecno Launches Slimmed Down 14 Megabook T1 & Color Changing S1 Dazzling Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-ps-store-funding-and-purchasing-games/"><u>Mastering PS Store: Funding & Purchasing Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/pinnacle-workspace-flooring-experience/"><u>Pinnacle Workspace Flooring Experience</u></a></li>
+<li><a href="https://article-files.techidaily.com/rethinking-gameplay-mavic-air-versus-spark-showdown/"><u>Rethinking Gameplay Mavic Air Versus Spark Showdown</u></a></li>
+<li><a href="https://games-able.techidaily.com/rhythm-beat-mouse-vs-stylus-efficiency/"><u>Rhythm Beat: Mouse Vs. Stylus Efficiency</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essential-list-of-premium-twitch-video-extraction-services/"><u>The Essential List of Premium Twitch Video Extraction Services</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-5-methods-maximizing-fun-with-favourite-games-on-macos/"><u>Top 5 Methods: Maximizing Fun with Favourite Games on macOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/virtual-victories-dive-into-netflixs-game-oasis/"><u>Virtual Victories - Dive Into Netflix's Game Oasis</u></a></li>
 </ul></div>
 

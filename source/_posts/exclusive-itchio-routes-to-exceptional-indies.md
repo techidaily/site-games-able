@@ -1,7 +1,7 @@
 ---
 title: Exclusive Itch.io Routes to Exceptional Indies
-date: 2024-09-10T16:52:48.857Z
-updated: 2024-09-15T16:25:50.871Z
+date: 2024-09-14T18:51:04.742Z
+updated: 2024-09-20T20:35:44.611Z
 tags:
   - games
 categories:
@@ -55,13 +55,6 @@ thumbnail: https://thmb.techidaily.com/fd844f53885e2c32c9ef30bfaf7233832cc28d581
 
  The games will be sorted by what's popular, but to find the great games, I usually look at the**Top Rated** and**Top Sellers** tabs. This has led me to discover fun roguelites like[Corebreaker](https://aquadiun.itch.io/corebreaker) and[Xenopunch](https://overboy.itch.io/xenopunch) .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2 Check Out Game Bundles
 
  The itch.io website has a[Bundles page](https://itch.io/bundles) where you can find game bundles created by developers. These are promotional packages containing multiple games. Each bundle is sold at a discounted price, and when you purchase it, you get instant access to all the games.
@@ -76,16 +69,16 @@ thumbnail: https://thmb.techidaily.com/fd844f53885e2c32c9ef30bfaf7233832cc28d581
 
 ![The page to see past game jams on itch.io.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/past-game-jams-itch.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  These game jams usually have creative and innovative indie games from different genres. Developers usually display talent in crafting unique experiences at these events. Fun games I have discovered through game jams on itch.io include[Inside Job](https://featurekreep.itch.io/inside-job) ,[Bready or not - unSURVIVOR](https://aramilion.itch.io/bready-or-not-unsurvivor) , and[Let There Be Cat](https://kyboon.itch.io/let-there-be-cat) .
 
  Since these are game jams, don't expect fully fleshed-out games with lots of content and complex features. Developers usually have time constraints and a limited scope to work with, as well as specific problems to solve. Many enter them to learn about game development and to tackle unique challenges.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5 Follow Developers
 
@@ -97,26 +90,27 @@ thumbnail: https://thmb.techidaily.com/fd844f53885e2c32c9ef30bfaf7233832cc28d581
 
  Keep in mind that this feed doesn't only show games, but things like asset packs and comics as well.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6 Look at User Reviews and Ratings
 
  If you have a problem deciding whether a game is good, you can look at its rating. On the game’s itch.io page, scroll down past the description and click**More Information** . Here, you can see how many users rated the game (out of five stars).
 
 ![A game's page on itch.io showing more information so the rating can be seen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/more-information-game-itch.png)
 
- You can also scroll down to the comments to see the sentiments around the game. Also, it can be a fantastic way to interact with the developer.
-
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ You can also scroll down to the comments to see the sentiments around the game. Also, it can be a fantastic way to interact with the developer.
 
 ## 7 Check Out Community Recommendations
 
@@ -139,21 +133,14 @@ thumbnail: https://thmb.techidaily.com/fd844f53885e2c32c9ef30bfaf7233832cc28d581
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-apexs-single-player-focus-how-to-optimize-your-game-experience/"><u>[Updated] In 2024, Apex's Single Player Focus How to Optimize Your Game Experience</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-optimal-storage-expansion-for-sony-a7c/"><u>[Updated] In 2024, Optimal Storage Expansion for Sony A7C</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-prime-instant-window-photo-viewer/"><u>[Updated] Prime Instant Window Photo Viewer</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-ideal-approaches-to-correct-iphone-hdr-overexposure-in-adobe-premiere/"><u>2024 Approved [Expert] Ideal Approaches to Correct iPhone HDR Overexposure in Adobe Premiere</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/complete-walkthrough-changing-the-built-in-browser-in-your-android-device/"><u>Complete Walkthrough: Changing the Built-In Browser in Your Android Device</u></a></li>
-<li><a href="https://games-able.techidaily.com/deciphering-xbox-series-xs-time-logs/"><u>Deciphering Xbox Series X/S Time Logs</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-intels-technology-for-high-fidelity-gaming/"><u>Discover Intel's Technology for High-Fidelity Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/dissecting-steam-data-playtime-progress-and-purchases-tracked/"><u>Dissecting Steam Data: Playtime, Progress & Purchases Tracked</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-secure-your-media-download-vimeo-to-mp4/"><u>In 2024, Secure Your Media Download Vimeo to MP4</u></a></li>
-<li><a href="https://games-able.techidaily.com/laptop-as-an-extended-screen-for-xbox-series-xs/"><u>Laptop as an Extended Screen for Xbox Series X|S</u></a></li>
-<li><a href="https://games-able.techidaily.com/no-more-steam-silent-on-startup/"><u>No More Steam: Silent On-Startup</u></a></li>
-<li><a href="https://win-dash.techidaily.com/quick-and-easy-installation-of-amd-vega-graphics-card-drivers-gamers-guide/"><u>Quick and Easy Installation of AMD Vega Graphics Card Drivers: Gamer's Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/quiet-titles-tranquil-trips-join-the-idle-games-movement/"><u>Quiet Titles, Tranquil Trips: Join the Idle Games Movement</u></a></li>
-<li><a href="https://games-able.techidaily.com/re-link-your-world-7-tips-for-winmc-lan-issues/"><u>Re-Link Your World: 7 Tips for WinMC LAN Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/reviving-stuck-keys-on-your-windows-pc-comprehensive-fixes-inside/"><u>Reviving Stuck Keys on Your Windows PC - Comprehensive Fixes Inside</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solve-your-iphone-cameras-blurry-photos-problem-with-easy-to-follow-fixes/"><u>Solve Your iPhone Camera's Blurry Photos Problem with Easy-to-Follow Fixes</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-essential-guide-windows-movie-maker-in-animation-production-for-2024/"><u>[New] Essential Guide Windows Movie Maker in Animation Production for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-speedy-insights-modifying-videos-in-instagram-stories/"><u>[Updated] Speedy Insights Modifying Videos in Instagram Stories</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-infinix-hot-40-pro-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Infinix Hot 40 Pro Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-authenticity-in-client-testimonial-videos/"><u>Crafting Authenticity in Client Testimonial Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/deconstructing-gamers-beliefs-about-mac-performance/"><u>Deconstructing Gamers' Beliefs About Mac Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/diving-into-the-battle-royale-iphone-and-cloud-based-gaming/"><u>Diving Into the Battle Royale: IPhone & Cloud-Based Gaming</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/facing-the-reality-of-content-monetization/"><u>Facing the Reality of Content Monetization</u></a></li>
+<li><a href="https://games-able.techidaily.com/proven-performance-factors-for-optimal-gaming-displays/"><u>Proven Performance Factors for Optimal Gaming Displays</u></a></li>
+<li><a href="https://games-able.techidaily.com/six-core-elements-that-hook-you-into-mobile-gaming/"><u>Six Core Elements that Hook You Into Mobile Gaming</u></a></li>
 </ul></div>
 

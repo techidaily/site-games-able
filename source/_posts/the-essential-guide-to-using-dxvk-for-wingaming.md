@@ -1,7 +1,7 @@
 ---
 title: The Essential Guide to Using DXVK for WinGaming
-date: 2024-09-10T16:01:48.111Z
-updated: 2024-09-15T16:39:32.057Z
+date: 2024-09-14T02:25:41.362Z
+updated: 2024-09-20T22:19:06.778Z
 tags:
   - games
 categories:
@@ -75,17 +75,10 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
 3. Store the downloaded archive somewhere, for you will need to extract its contents to the folder of every game you want to run with DXVK instead of Direct3D.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Choose the Correct DXVK Version
@@ -96,19 +89,6 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
 2. When you find your game, visit its page and scroll down to reach the**Other Information** section. Turn your attention to the API tables. There, on the**Technical Specs** and**Supported** columns, you will see the version of Direct3D your game is using. Underneath, the**Executable** ,**32-bit** , and**64-bit** columns will "tell" you which architecture you should choose.  
 ![PCGamingWiki Game API Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/pcgamingwiki-game-api-information-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Add DXVK to Your Games
 
  Now that you know which Direct3D version and CPU architecture your game uses, you can add the correct version of DXVK to its folder.
@@ -116,11 +96,26 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
 1. Open the DXVK archive with your favorite archive manager (for this article, we're using WinRAR), and enter the single DXVK folder you'll see there.  
 ![DXVK Folder Within Archive 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dxvk-folder-within-archive-1.jpg)
 2. Inside, you'll find two subfolders, one for each computer architecture. Enter the correct one for your game. Even if your OS is 64-bit, like most versions of Windows today, if your game is 32-bit, you should go for the 32-bit folder.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![DXVK 32 bit and 64 bit folders within archive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dxvk-32-bit-and-64-bit-folders-within-archive-1.jpg)
 3. Select the**DXGI.DLL** plus the correct DLL for the version of**Direct3D** your game is using. As you will see, there are three more DLLs, one for each of the previous versions of Direct3D: 9, 10, and 11.  
 ![DXVK DLLs Within Archive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dxvk-dlls-within-archive-1.jpg)
 4. Find the local folder where your game is installed and locate the subfolder with its executable ("the file from which the game runs"). Extract the DLLs from the previous step to this folder.  
 ![Extracting DXVK DLLs To Game Directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/extracting-dxvk-dlls-to-game-directory-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Test and Benchmark Your Enhanced Game
 
@@ -132,6 +127,13 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
 
  However, the game's action felt smoother. Transitions between screens, loading levels, and pressing Alt + Tab were almost instant with DXVK.
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When You Should Not Use DXVK
 
  DXVK has many benefits and can bring the performance of older games into the modern era. Despite this, it's not a silver bullet for improved performance, and sometimes it's just not worth using it.
@@ -140,18 +142,18 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
 
  If you've added the DXVK DLLs to your game but saw no difference afterward, you can remove them again if you like. You can delete the DLLs you've added to a game's folder to do that.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. DXVK Causes Worse Performance or Introduces New Glitches
 
  Sometimes adding DXVK to a game might have the opposite effect. Unfortunately, there's no way for an end user to fix such issues.
 
  Did a game's performance tank or visual glitches appear after adding DXVK? Exit the game and delete the DXVK's DLLs from its directory.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. You Want to Play Your Game Online
 
@@ -166,13 +168,6 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
 ### 5\. The Game Uses Direct3D 12
 
  Since Direct3D 12 is almost fully on par with Vulkan, there's nothing to gain by translating one ultra-modern graphics API to another one.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Enhance Your Old Games With "Translated" 3D on Windows
 
@@ -195,17 +190,21 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-stealth-video-tactics-for-soundless-capture/"><u>[New] 2024 Approved Stealth Video Tactics for Soundless Capture</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/irect-conversion-convert-and-upload-mp3-songs-on-youtube-for-2024/"><u>[New] Direct Conversion Convert & Upload MP3 Songs on YouTube for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-premium-rate-free-discovering-the-elite-10-luts/"><u>[New] Premium-Rate Free Discovering the Elite 10 LUTs</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-pro-capture-not-just-point-and-shoot-mastering-the-hero5-black-for-2024/"><u>[Updated] Pro Capture, Not Just Point-and-Shoot Mastering the Hero5 Black for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/archive-everyday-moments-seamlessly-by-using-vlcs-webcam-function/"><u>Archive Everyday Moments Seamlessly by Using VLC's Webcam Function</u></a></li>
-<li><a href="https://games-able.techidaily.com/enjoy-every-moment-top-9-free-switch-games/"><u>Enjoy Every Moment - Top 9 Free Switch Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/gamepads-deficiency-cleared-by-rogs-x-innovation/"><u>Gamepad's Deficiency Cleared by RoG's X Innovation</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimal-vision-defense-frameworks/"><u>Optimal Vision Defense Frameworks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/precision-visuals-mastering-close-ups-in-msteams-for-2024/"><u>Precision Visuals Mastering Close-Ups in MSTEAMS for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/ranking-processor-and-graphics-card-improvements/"><u>Ranking Processor and Graphics Card Improvements</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/troubleshooting-common-issues-when-linking-up-with-logitech-keyboards/"><u>Troubleshooting Common Issues When Linking Up with Logitech Keyboards</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-sony-games-bargain-hunt-guide/"><u>Ultimate Sony Games Bargain Hunt Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-captureclub-bout-for-2024/"><u>[New] CaptureClub Bout for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-motorola-moto-g34-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Motorola Moto G34 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-14-pro-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-gameplay-through-smart-screen-adjustment-techniques/"><u>Elevating Gameplay Through Smart Screen Adjustment Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-evidence-why-gaming-review-metrics-fall-short/"><u>Evaluating Evidence: Why Gaming Review Metrics Fall Short</u></a></li>
+<li><a href="https://games-able.techidaily.com/gear-upgraded-next-gen-shells-for-your-portable-pc-steam-deck/"><u>Gear Upgraded: Next-Gen Shells for Your Portable PC, Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/handheld-gaming-marvel-sonys-vita-device/"><u>Handheld Gaming Marvel: Sony's Vita Device</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-honor-90-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Honor 90 Pro to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-motorola-moto-g24-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Motorola Moto G24 for Free? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/pinpoint-pc-speed-drops-caused-by-cpu-limitations/"><u>Pinpoint PC Speed Drops Caused by CPU Limitations</u></a></li>
+<li><a href="https://games-able.techidaily.com/proven-performance-factors-for-optimal-gaming-displays/"><u>Proven Performance Factors for Optimal Gaming Displays</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-for-engaging-with-nyt-networks/"><u>Strategies for Engaging with NYT Networks</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-lava-storm-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Lava Storm 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-method-for-adding-high-quality-srt-to-mp4-videos/"><u>The Ultimate Method for Adding High-Quality SRT to MP4 Videos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125241981-why-you-need-a-super-light-gan-interior-usb-c-charger-for-your-laptop-top-picks/"><u>Why You Need a Super Light GaN Interior USB-C Charger for Your Laptop - Top Picks</u></a></li>
 </ul></div>
 

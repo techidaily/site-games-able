@@ -1,7 +1,7 @@
 ---
 title: Guide to Fixing Windows-Steam Remote Play Disconnection
-date: 2024-09-14T16:21:14.198Z
-updated: 2024-09-15T16:42:36.596Z
+date: 2024-09-14T00:20:16.537Z
+updated: 2024-09-20T16:32:07.387Z
 tags:
   - games
 categories:
@@ -70,13 +70,6 @@ To unpair the Remote Play device on Steam:
 
 ![UPDATE STEAM client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/update-steam-client.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  An outdated Steam client can cause some features to malfunction. In other instances, running an older version of a game can cause Remote Play to act up.
 
  The Steam client auto-checks and updates every time you launch the app. However, you can also manually check for an update from the interface. Steam automatically installs game updates, so you don’t need to do anything to install game updates.
@@ -117,28 +110,21 @@ To disable IPv6 for your connection:
 ![network adapter properties control panel 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/network-adapter-properties-control-panel-1.jpg)
 6. In the**Properties** dialog, scroll down and locate**Internet Protocol Version 6 (TCP/IPv6).**
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Uncheck the**TCP/IPv6** option and click**OK** to save the changes.  
 ![disable internet protocol version 6 network properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-internet-protocol-version-6-network-properties.jpg)
 8. Close Control Panel and check if Remote Play is working. If the issue persists, enable the IPv6 option in the connection properties and proceed with the next steps.
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Enable Big Picture Mode on Your Guest Device
@@ -156,19 +142,6 @@ To use Big Picture Mode on Steam:
 
  This is not a permanent solution but a handy workaround. However, it should help you get around the issue temporarily.
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Disable and Configure Your Antivirus and Firewall
 
  Your antivirus or firewall can block genuine outgoing connections causing Remote Play to stop working. You can temporarily disable your firewall to determine if it is blocking a port or program.
@@ -181,6 +154,14 @@ To use Big Picture Mode on Steam:
 3. Next, click on**Firewall & network protection.**  
 ![windows security settings firewall network protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-security-settings-firewall-network-protection.jpg)
 4. Choose your active network under**Firewall & network protection.**  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![turn off windows defender firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-off-windows-defender-firewall.jpg)
 5. Toggle the switch under**Microsoft Defender Firewall** to turn it off.
 
@@ -199,6 +180,14 @@ Follow these steps to enable Steam Overlay:
 4. Here, check the**Enable Steam Overlay while in-game** option.  
 ![enable steam overlay while in game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/enable-steam-overlay-while-in-game.jpg)
 5. Next, configure the Overlay shortcut keys if you want. Else, leave it as default.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click**OK** to save the changes.
 7. Next, launch the game you want to stream and then open**Steam Overlay** using the**Shift + Tab** key or your custom key.
 8. Now the game should stream without any issues on**Remote Play.**
@@ -214,22 +203,17 @@ To disable hardware encoding on Steam:
 3. In the left pane, open the**Remote Play** tab.  
 ![steam advanced client options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/steam-advanced-client-options.jpg)
 4. Next, click on**Advanced Client Options.**  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![disable hardware encoding steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-hardware-encoding-steam.jpg)
 5. In the pop-up dialog, uncheck the**Enable hardware encoding** option.
 6. Click**OK** to save the changes and disable hardware encoding.
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Reinstall the Steam Client
 
@@ -248,6 +232,14 @@ To uninstall the Steam client:
 7. Click the three-dots menu beside the app name and click**Uninstall** .  
 ![uninstall steam client windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/uninstall-steam-client-windows-11.jpg)
 8. Click**Yes** to confirm the action.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 9. Click**Uninstall** again and click**Yes** if prompted by UAC.
 10. Next, go to the[Steam download page](https://store.steampowered.com/about/) and download the installer to install the app.
 11. Once Steam is installed, move the**SteamApps** folder back to**C:\\Program Files (x86)\\ Steam** so that the client can recognize your installed games.
@@ -271,16 +263,16 @@ To uninstall the Steam client:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-navigating-through-fbs-in-stream-ad-landscape-configuration-and-evaluation-techniques/"><u>[Updated] Navigating Through FB's In-Stream Ad Landscape Configuration and Evaluation Techniques</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-intels-technology-for-high-fidelity-gaming/"><u>Discover Intel's Technology for High-Fidelity Gaming</u></a></li>
-<li><a href="https://win-forum.techidaily.com/easy-steps-for-installing-the-revo-permission-manager-via-the-revouninstaller-toolkit/"><u>Easy Steps for Installing the Revo Permission Manager via the RevoUninstaller Toolkit</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/how-to-earn-facebooks-trusted-prestigious-symbol/"><u>How to Earn Facebook's Trusted, Prestigious Symbol</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-realme-11-pro-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Realme 11 Pro Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-motorola-razr-40-ultra-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Motorola Razr 40 Ultra to Protect Your Individual Information</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/maximizing-photo-quality-for-commercial-use-for-2024/"><u>Maximizing Photo Quality for Commercial Use for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/quiet-titles-tranquil-trips-join-the-idle-games-movement/"><u>Quiet Titles, Tranquil Trips: Join the Idle Games Movement</u></a></li>
-<li><a href="https://games-able.techidaily.com/re-link-your-world-7-tips-for-winmc-lan-issues/"><u>Re-Link Your World: 7 Tips for WinMC LAN Issues</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/snipping-video-time-a-youtube-editors-handbook-for-2024/"><u>Snipping Video Time A YouTube Editors' Handbook for 2024</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-poco-m6-pro-5g-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Poco M6 Pro 5G.</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-expert-recommendations-top-5-video-recording-software/"><u>[New] In 2024, Expert Recommendations Top 5 Video Recording Software</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premiere-pros-approach-to-clearing-iphone-video-overexposure/"><u>[New] Premiere Pro's Approach to Clearing iPhone Video Overexposure</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-crafting-perfect-youtube-short-content-lessons/"><u>2024 Approved Crafting Perfect YouTube Short Content Lessons</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-nomads-playbook-best-practices-for-in-transit-games/"><u>Digital Nomad's Playbook: Best Practices for In-Transit Games</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-action-camera-selection-under-200-high-quality-low-cost/"><u>In 2024, Action Camera Selection Under $200 High Quality, Low Cost</u></a></li>
+<li><a href="https://games-able.techidaily.com/intel-stream-assist-enhancing-real-time-gaming-quality/"><u>Intel Stream Assist - Enhancing Real-Time Gaming Quality</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-vivo-y100i-power-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Vivo Y100i Power 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-logitech-g29-software-downloads-compatible-with-win-10-8-and-7/"><u>Latest Logitech G29 Software Downloads Compatible with Win 10, 8, and 7</u></a></li>
+<li><a href="https://games-able.techidaily.com/saving-steam-shots-where-do-they-go/"><u>Saving Steam Shots: Where Do They Go?</u></a></li>
+<li><a href="https://games-able.techidaily.com/shift-gaming-hours-xbox-sxxb1-time-zone-update/"><u>Shift Gaming Hours: Xbox SX/XB1 Time Zone Update</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/spirited-account-creation-steps/"><u>Spirited Account Creation Steps</u></a></li>
 </ul></div>
 

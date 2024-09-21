@@ -1,7 +1,7 @@
 ---
 title: Top TV Specials and Discounts to Celebrate Labor Day 2024 - Smart Shopper's Guide
-date: 2024-09-18 11:27:34
-updated: 2024-09-20 11:44:51
+date: 2024-09-18T22:36:25.377Z
+updated: 2024-09-20T23:30:21.877Z
 tags:
   - gaming
 categories:
@@ -59,6 +59,13 @@ There's a single screw holding the cover in place; remove it and set it aside in
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Move the screw and spacer inside the SSD housing
 
 With the expansion slot cover removed, locate and remove the screw and spacer near the end of the SSD housing. 
@@ -70,6 +77,13 @@ There are various holes inside the SSD housing that correspond with the various 
 I then placed the spacer over the hole -- it's held in place by three dots, so don't worry about perfectly lining it up or keeping it in place. 
 
 Jason Cipriani/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Insert the SSD and use the mounting screw
 
@@ -120,11 +134,28 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-recovery.techidaily.com/aquatic-adventures-and-iphones-is-the-iphone-13-built-to-withstand-water/"><u>Aquatic Adventures and iPhones: Is the iPhone 13 Built to Withstand Water?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-zte-nubia-z60-ultra-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your ZTE Nubia Z60 Ultra via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/full-access-your-in-depth-look-at-fcp/"><u>Full Access Your In-Depth Look at FCP</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-samsung-galaxy-a05-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Samsung Galaxy A05 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/hrtf-elevating-sound-awareness-for-peak-performance-in-valorant/"><u>HRTF: Elevating Sound Awareness for Peak Performance in Valorant</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-on-apple-iphone-11-pro-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock On Apple iPhone 11 Pro Online</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-pocowithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Pocowith/without a PC</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-itel-a60s-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Itel A60s Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/intel-or-amd-top-choice-for-console-gaming/"><u>Intel or AMD: Top Choice for Console Gaming?</u></a></li>
+<li><a href="https://games-able.techidaily.com/moza-r5-a-499-gateway-to-simulated-speed-and-precision/"><u>MOZA R5: A $499 Gateway to Simulated Speed and Precision</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/protecting-digital-frontiers-at-abbyy-with-clayton-c-peddy-respected-ciso/"><u>Protecting Digital Frontiers at ABBYY with Clayton C. Peddy, Respected CISO</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essential-guide-to-remote-gaming-with-steam/"><u>The Essential Guide to Remote Gaming with Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-spectacular-world-of-google-play-pass-and-a-minor-glitch/"><u>The Spectacular World of Google Play Pass and a Minor Glitch</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-hands-free-viewing-the-ultimate-guide-to-pairing-a-firestick-remote/"><u>Unlocking Hands-Free Viewing: The Ultimate Guide to Pairing a Firestick Remote</u></a></li>
+</ul></div>
+

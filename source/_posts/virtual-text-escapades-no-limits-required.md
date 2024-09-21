@@ -1,7 +1,7 @@
 ---
 title: Virtual Text Escapades - No Limits Required
-date: 2024-09-11T17:20:35.310Z
-updated: 2024-09-15T16:47:13.161Z
+date: 2024-09-17T22:50:53.194Z
+updated: 2024-09-20T23:28:40.356Z
 tags:
   - games
 categories:
@@ -57,6 +57,19 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
 
 ![Night House Interactive Fiction Game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Night-House-2022.png)
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Are you in the mood for a spooky horror game? Night House has you play as a young boy who wakes up in the middle of the night to use the bathroom. He soon discovers that his family isn't home, and is thrust into a much scarier experience than he imagined.
 
  Night House is unique in that it has a few extras aside from text input. The right side of the screen contains basic directional inputs that you can enter to move around. It also keeps track of your inventory and what's around you. A simple map at the top of the screen helps you keep your bearings.
@@ -79,28 +92,15 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
 
 ![Interactive Fiction Cheat Sheet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Interactive-Fiction-Cheat-Sheet-2022.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Image Credit:[People’s Republic of Interactive Fiction](https://pr-if.org/doc/play-if-card/play-if-card.pdf)
 
  If you're ever unsure of what you can do, try entering**about** when the game starts for basic instructions. Most games also have a**help** command that will provide more information.
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Tons of Fun With Text-Based Browser Games
@@ -124,14 +124,18 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-from-pcmac-to-the-feed-how-to-efficiently-upload-videos-to-instagram/"><u>[New] 2024 Approved From PC/Mac to the Feed How to Efficiently Upload Videos to Instagram</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-engaging-market-entry-plans/"><u>[Updated] In 2024, Engaging Market Entry Plans</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-feast-your-eyes-on-9-whole-film-winter-wonders-no-charge/"><u>In 2024, Feast Your Eyes on 9 Whole-Film Winter Wonders No Charge</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-excel-a-step-by-step-guide-on-setting-your-numbers-accuracy/"><u>Mastering Excel: A Step-by-Step Guide on Setting Your Number's Accuracy</u></a></li>
-<li><a href="https://games-able.techidaily.com/platform-preference-puzzle-xbox-game-pass-vs-playstation-plus/"><u>Platform Preference Puzzle: Xbox Game Pass VS. PlayStation Plus</u></a></li>
-<li><a href="https://games-able.techidaily.com/subscribing-vs-steading-the-limits-of-gaming-coupons/"><u>Subscribing Vs. Steading: The Limits of Gaming Coupons</u></a></li>
-<li><a href="https://games-able.techidaily.com/these-are-the-most-important-components-for-your-gaming-pc/"><u>These Are the Most Important Components for Your Gaming PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/unhook-from-realms-save-and-reload-your-adventures/"><u>Unhook From Realms, Save & Reload Your Adventures</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/virtuatongue-speaking-beyond-borders-in-virtual-reality/"><u>VirtuaTongue: Speaking Beyond Borders in Virtual Reality</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-ultimate-selection-of-6-pioneering-instagram-reel-apps-for-2024/"><u>[New] The Ultimate Selection of 6 Pioneering Instagram Reel Apps for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-shape-your-story-5-proven-techniques-for-cutting-and-condensing-vimeo-videos-online/"><u>[Updated] 2024 Approved Shape Your Story 5 Proven Techniques for Cutting & Condensing Vimeo Videos Online</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-ultimate-guide-to-filming-live-scenes/"><u>2024 Approved Ultimate Guide to Filming Live Scenes</u></a></li>
+<li><a href="https://games-able.techidaily.com/cutting-edge-ethernet-for-seamless-game-streaming/"><u>Cutting-Edge Ethernet for Seamless Game Streaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/cyber-vulnerabilities-in-evolving-game-industry/"><u>Cyber Vulnerabilities in Evolving Game Industry</u></a></li>
+<li><a href="https://win-dash.techidaily.com/efficient-techniques-for-slicing-through-wmv-videos-with-precision/"><u>Efficient Techniques for Slicing Through WMV Videos with Precision</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-hdp-ultra-high-definition-game-mouse-lineup/"><u>Elite HDP, Ultra-High Definition Game Mouse Lineup</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-locked-apple-iphone-14-pro-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked Apple iPhone 14 Pro Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-samsung-galaxy-s23-fe-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Samsung Galaxy S23 FE</u></a></li>
+<li><a href="https://discover-best.techidaily.com/mp3wavwindows-78/"><u>MP3とWAVのようなオーディオファイルをWindows 7/8で簡単にカスタマイズする方法</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-historical-pricing-for-games-decoded/"><u>Steam's Historical Pricing for Games Decoded</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-xbox-series-ss-choice-to-leave-discs-behind/"><u>The Xbox Series S's Choice to Leave Discs Behind</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrade-and-conquer-the-art-of-windows-implementation-on-steam-deck/"><u>Upgrade and Conquer: The Art of Windows Implementation on Steam Deck</u></a></li>
 </ul></div>
 

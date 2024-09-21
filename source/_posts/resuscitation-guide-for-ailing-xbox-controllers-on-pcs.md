@@ -1,7 +1,7 @@
 ---
 title: Resuscitation Guide for Ailing Xbox Controllers on PCs
-date: 2024-09-14T17:05:01.407Z
-updated: 2024-09-15T16:58:54.983Z
+date: 2024-09-16T18:50:54.556Z
+updated: 2024-09-20T21:10:15.506Z
 tags:
   - games
 categories:
@@ -63,10 +63,10 @@ To run the Hardware and Devices troubleshooter, use these steps:
 ![Hardware and Devices Troubleshooter Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Hardware-and-Devices-Troubleshooter-Window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Allow the troubleshooter to find and fix any issues. After that, your controller should work fine on Windows.
@@ -80,13 +80,6 @@ To run the Hardware and Devices troubleshooter, use these steps:
 
  After running the above troubleshooter, try using your controller again.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Update or Reinstall the Controller's Driver
 
  Another reason why your controller may not work on Windows is if the drivers are outdated. If that's the case, updating the problematic driver should help fix the issue. Here's how to do that.
@@ -97,16 +90,22 @@ To run the Hardware and Devices troubleshooter, use these steps:
 4. Select the**Search for updated drivers on Windows Update** option.  
 ![Update Controller Driver on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/update-controller-driver-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait for Windows to check for any pending updates for the driver and install them.
 
  If the controller still does not work after that, the controller driver may be corrupted. In that case, you will need to[uninstall the faulty driver from your Windows PC](https://www.makeuseof.com/windows-11-uninstall-drivers/) . Once removed, restart your PC and Windows will automatically reinstall the driver during startup.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Update Your Controller’s Firmware
 
@@ -115,6 +114,13 @@ To run the Hardware and Devices troubleshooter, use these steps:
  Keeping your controller updated with the latest software can help you avoid any compatibility issues. So, if none of the above tips help, open your controller manufacturer’s app or program and install any available updates.
 
  This step will vary depending on what controller model you own and which company made it. As such, refer to your manufacturer's manual or online help service for more information.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fixing Controller Issues on Windows Made Easy
 
@@ -135,13 +141,19 @@ To run the Hardware and Devices troubleshooter, use these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/poof-spectacle-steps-to-create-a-parody/"><u>[New] Spoof Spectacle Steps to Create a Parody</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-beginners-guide-to-pro-youtube-tech-for-2024/"><u>[Updated] Beginner's Guide to Pro YouTube Tech for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-instagram-to-twitter-sharing-without-retweeting/"><u>2024 Approved Instagram to Twitter Sharing without Retweeting</u></a></li>
-<li><a href="https://video-capture.techidaily.com/full-screen-pro-excellence-4-precise-pc-and-mac-tools-for-2024/"><u>Full Screen Pro Excellence 4 Precise PC & Mac Tools for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/prime-and-twitch-synergy-for-gamers/"><u>Prime and Twitch Synergy for Gamers</u></a></li>
-<li><a href="https://games-able.techidaily.com/smartphone-epic-quests-in-these-mmo-titles/"><u>Smartphone Epic Quests in These MMO Titles</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-best-bet-for-your-game-essential-sites-to-boost-gamerscore/"><u>The Best Bet for Your Game - Essential Sites to Boost Gamerscore</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-cost-effective-strategies-to-combine-videos-with-text/"><u>[New] 2024 Approved Cost-Effective Strategies to Combine Videos with Text</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-aural-aesthetics-in-whatsapp-statues/"><u>[Updated] 2024 Approved Aural Aesthetics in WhatsApp Statues</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-elevate-your-videos-discoverability-mastering-tags/"><u>[Updated] In 2024, Elevate Your Video's Discoverability - Mastering Tags</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-evaluation-reimagined-moving-past-the-turing-scale/"><u>AI Evaluation Reimagined: Moving Past the Turing Scale</u></a></li>
+<li><a href="https://techtrends.techidaily.com/formato-de-imagen-gratuitos-para-convertir-jpeg-a-bmp-sin-problemas-lineamoveai/"><u>Formato De Imagen Gratuitos Para Convertir JPEG a BMP Sin Problemas - LineaMove.ai</u></a></li>
+<li><a href="https://games-able.techidaily.com/handheld-hype-unveiling-nintendo-switch-20/"><u>Handheld Hype: Unveiling Nintendo Switch 2.0?</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-unsubscribe-from-minecraft-realms-and-download-your-worlds/"><u>How to Unsubscribe From Minecraft Realms and Download Your Worlds</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-xbox-boosters-for-x-series-s/"><u>Mastering Xbox Boosters for X Series S</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Tecno Spark Go (2024) | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/promoting-defections-and-espionage/"><u>Promoting Defections and Espionage</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/transforming-language-learning-mondly-introduces-immersive-virtual-reality/"><u>Transforming Language Learning: Mondly Introduces Immersive Virtual Reality</u></a></li>
+<li><a href="https://games-able.techidaily.com/turn-on-ps5-networked-gameplay/"><u>Turn On PS5 Networked Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/winning-streak-started-here-elevate-windows-gaming-speed/"><u>Winning Streak Started Here: Elevate Window's Gaming Speed</u></a></li>
 </ul></div>
 

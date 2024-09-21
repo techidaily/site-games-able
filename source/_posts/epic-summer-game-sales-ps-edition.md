@@ -1,7 +1,7 @@
 ---
 title: "Epic Summer Game Sales: PS Edition"
-date: 2024-09-10T17:04:37.273Z
-updated: 2024-09-15T16:13:18.100Z
+date: 2024-09-17T21:52:40.310Z
+updated: 2024-09-20T17:28:27.607Z
 tags:
   - games
 categories:
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/abd95b31cf1a96dd50fea72e4fad17faec8b6807e
 
 **Download** :[Deathloop](https://store.playstation.com/en-us/product/UP1003-PPSA01302%5F00-DEATHLOOP0000000) for $14.99 (75% off)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Little Nightmares 1 & 2
 
  Walking the line between absolutely horrifying and terribly cute is not easy, but if any game series does it perfectly, it's Little Nightmares. Both Little Nightmares 1 and 2 share adorable protagonists and horrific enemies that will definitely haunt your dreams for at least a couple of nights, possibly more. Consider yourself warned.
@@ -48,10 +55,10 @@ thumbnail: https://thmb.techidaily.com/abd95b31cf1a96dd50fea72e4fad17faec8b6807e
 **Download** :[Little Nightmares 1 & 2](https://store.playstation.com/en-us/product/UP0700-PPSA02200%5F00-LN1LN2BUNDLE0000) for $14.99 (70% off)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Owlboy
@@ -59,13 +66,6 @@ thumbnail: https://thmb.techidaily.com/abd95b31cf1a96dd50fea72e4fad17faec8b6807e
  Owlboy is a whimsical platforming adventure with a beautiful pixel art style and story to match. While there are plenty of[differences between AAA and indie games](https://www.makeuseof.com/aaa-games-vs-indie-games-differences/) , indie’s have more than enough potential to be just as good, if not better, than AAA titles. Owlboy is a perfect example of that. And it’s on sale for roughly the price of a deli sandwich. While deli sandwiches are unarguably good, forgoing one for lunch is definitely worth experiencing the breathtaking adventure of Owlboy.
 
 **Download** :[Owlboy](https://store.playstation.com/en-us/product/UP4218-CUSA09914%5F00-OWLBOY0000000000) for $9.99 (60% off)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Unravel Two
 
@@ -79,18 +79,18 @@ thumbnail: https://thmb.techidaily.com/abd95b31cf1a96dd50fea72e4fad17faec8b6807e
 
 **Download** :[The Last of Us: Part II](https://store.playstation.com/en-us/product/UP9000-CUSA07820%5F00-THELASTOFUSPART2) for &19.99 (50% off)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Resident Evil Village
 
  Resident Evil Village is the most recent entry in the long-running horror franchise and is one of the best of the bunch. If you haven’t delved into the terrifying world of Resident Evil yet, Resident Evil Village is a great place to start, and now that it's 50% off, what’s stopping you?
 
 **Download** :[Resident Evil Village](https://store.playstation.com/en-us/product/UP0102-PPSA01556%5F00-VILLAGEFULLGAMEX) for $19.99 ($50% off)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Tiny Tina’s Wonderlands: Chaotic Great Edition
 
@@ -123,18 +123,18 @@ thumbnail: https://thmb.techidaily.com/abd95b31cf1a96dd50fea72e4fad17faec8b6807e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-ultimate-guide-to-filming-live-scenes/"><u>[New] 2024 Approved Ultimate Guide to Filming Live Scenes</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-beat-matching-visuals-and-audio-on-facebook-platform-for-2024/"><u>[New] Beat-Matching Visuals & Audio on Facebook Platform for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/irtual-world-real-profit-for-game-makers-for-2024/"><u>[New] Virtual World, Real Profit for Game Makers for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ideas-that-make-your-meme-go-global/"><u>2024 Approved Ideas That Make Your Meme Go Global</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-pinnacle-choices-superior-mac-apps-for-grabbing-videos/"><u>2024 Approved Pinnacle Choices Superior Mac Apps for Grabbing Videos</u></a></li>
-<li><a href="https://games-able.techidaily.com/does-a-faster-resume-make-all-the-difference-for-xbox-sx/"><u>Does a Faster Résumé Make All the Difference for Xbox S/X?</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-a-multi-os-future-with-steam-deck/"><u>Exploring a Multi-OS Future with Steam Deck</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fix-your-computer-resolve-python24dll-file-missing-issues-easily/"><u>Fix Your Computer: Resolve Python24.dll File Missing Issues Easily</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-prevent-your-ps4-remote-from-disconnecting-on-windows/"><u>How to Prevent Your PS4 Remote From Disconnecting on Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximize-your-consoles-lifespan-with-breaks/"><u>Maximize Your Console's Lifespan with Breaks</u></a></li>
-<li><a href="https://games-able.techidaily.com/premium-charger-selections-for-sonys-ps5-dualsense/"><u>Premium Charger Selections for Sony's PS5 DualSense</u></a></li>
-<li><a href="https://games-able.techidaily.com/regional-rendezvous-set-your-consoles-time-zone/"><u>Regional Rendezvous: Set Your Console's Time Zone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-insiders-guide-to-instagrams-chroma-key-effect-for-2024/"><u>The Insider's Guide to Instagram’s Chroma Key Effect for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-8-best-webspots-free-eco-backdrops-and-footage-collection/"><u>[New] 2024 Approved 8 Best Webspots FREE Eco-Backdrops and Footage Collection</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-enhancing-your-feed-step-by-step-guide-for-uploading-videos-to-instagram-desktop/"><u>[New] In 2024, Enhancing Your Feed Step-by-Step Guide for Uploading Videos to Instagram Desktop</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-quick-guide-to-sharing-your-favorite-gifs-on-instagram-for-2024/"><u>[New] Quick Guide to Sharing Your Favorite GIFs on Instagram for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-gigglesome-footage-downloader/"><u>[Updated] 2024 Approved Gigglesome Footage Downloader</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-ps5-gadgets-that-transform-games/"><u>Exclusive PS5 Gadgets That Transform Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-nvidias-artificial-intelligence-in-dlss-35-development/"><u>Exploring Nvidia's Artificial Intelligence in DLSS 3.5 Development</u></a></li>
+<li><a href="https://games-able.techidaily.com/immerse-in-conflict-11-best-ww2-commanders-cuts/"><u>Immerse in Conflict: 11 Best WW2 Commanders' Cuts</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722970851338-mediatek-chipset-drivers-download-and-install-usb-vcom-driver-now/"><u>MediaTek Chipset Drivers: Download and Install USB VCOM Driver Now</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-through-the-most-common-obstacles-of-auto-gpt-deployment/"><u>Navigating Through the Most Common Obstacles of Auto-GPT Deployment</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-app-downloads-on-ios-devices-try-these-10-proven-fixes/"><u>Struggling with App Downloads on iOS Devices? Try These 10 Proven Fixes</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-oneplus-11r-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from OnePlus 11R? Here is How | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-microsoft-should-refine-its-xbox-rewards-system/"><u>Why Microsoft Should Refine Its Xbox Rewards System</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Streamlining Game Files with Steam's Space Control
-date: 2024-09-11T16:57:58.734Z
-updated: 2024-09-15T17:21:08.651Z
+date: 2024-09-18T16:20:17.637Z
+updated: 2024-09-20T23:38:20.750Z
 tags:
   - games
 categories:
@@ -49,13 +49,6 @@ thumbnail: https://thmb.techidaily.com/61f98fc4d9e1af032d9fc6896b875fde870b9cc61
 
 ![Steam downloads page cog wheel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/steam-downloads-page-cog-wheel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you’re already on the Steam Downloads page, there’s also a**cog** on the upper right, just below the**close window button** . Click that, and it will take you right to the**Downloads** section on the**Settings** page.
 
  Just like in the image in the previous section, you'll find the**Storage** section just below the Downloads section.
@@ -63,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/61f98fc4d9e1af032d9fc6896b875fde870b9cc61
  While you’re at the Downloads page, you might want to check out[how to increase your Steam download speeds](https://www.makeuseof.com/tag/steam-download-speeds/) so you don’t have to wait so long to get playing.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add a New Steam Library Folder or Drive
@@ -79,21 +72,22 @@ thumbnail: https://thmb.techidaily.com/61f98fc4d9e1af032d9fc6896b875fde870b9cc61
 
 ![Add a new Steam Library folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/add-a-new-steam-library-folder.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This will open up File Explorer and you can choose which drive or folder you want to add a new Steam Library folder to. It doesn't even need to be an internal drive, you can use an[external drive to store your Steam Games](https://www.makeuseof.com/how-to-play-steam-games-on-an-external-drive-with-steam-storage-manager/) and play straight from the external drive!
 
 ![Create or select new Steam library folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/create-or-select-new-steam-library-folder.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you only have one drive and you need space for more games but don’t want to delete any downloaded ones, check out[how to free up disk space on Windows 10](https://www.makeuseof.com/tag/6-tips-free-disk-space-windows-10/) . We’re pretty sure you can free up some space from places you didn’t know you could free up.
@@ -103,13 +97,6 @@ thumbnail: https://thmb.techidaily.com/61f98fc4d9e1af032d9fc6896b875fde870b9cc61
  Setting a default folder is great for convenience as you won’t have to choose where your game goes every time you download one. Chances are, you’ve already set a default folder for your Steam games, but if you need to set it to another one because it’s full here’s how you can do so:
 
 ![Make default Steam Drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/make-default-steam-drive.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you have your new drive added as a Steam Library destination, select that drive. On the right side of the long progress bar, click on the**three dots** and click**Make Default** . A star should appear beside the drive name and that will indicate that it is your default drive.
 
@@ -122,6 +109,13 @@ thumbnail: https://thmb.techidaily.com/61f98fc4d9e1af032d9fc6896b875fde870b9cc61
  Firstly, select the games you want to transfer by clicking on the empty box on the right side of each game. Once you’ve selected at least one game, the**Move** and**Uninstall** button will have brightened up. Click on**Move** and a pop-up will show.
 
 ![Move Steam games to selected drive or folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/move-steam-games-to-selected-drive-or-folder.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once the**Move Content** pop-up shows, you can choose where to move your Steam game. Note that the only drives that will show up are the ones that have an existing Steam Library folder inside. If not, go back to adding a new Steam Library folder or drive so that where you want to place it shows.
 
@@ -146,18 +140,19 @@ thumbnail: https://thmb.techidaily.com/61f98fc4d9e1af032d9fc6896b875fde870b9cc61
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-capturing-and-archiving-itunes-content-effortlessly/"><u>[Updated] 2024 Approved Capturing and Archiving iTunes Content Effortlessly</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-comprehensive-guide-the-triad-technique-for-assessing-youtube-revenue-streams/"><u>[Updated] Comprehensive Guide The Triad Technique for Assessing YouTube Revenue Streams</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-learn-how-to-create-compelling-youtube-closures-economically-for-2024/"><u>[Updated] Learn How To Create Compelling YouTube Closures Economically for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-unveiling-the-secrets-to-download-youtubes-subtitles/"><u>2024 Approved Unveiling the Secrets to Download YouTube's Subtitles</u></a></li>
-<li><a href="https://games-able.techidaily.com/dealing-with-windows-1011s-zero-x-0x887a0006-failure/"><u>Dealing with Windows 10/11'S Zero X: 0X887A0006 Failure</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-memorable-moments-quick-and-clean-xbox-screenshots/"><u>In 2024, Memorable Moments, Quick & Clean Xbox Screenshots</u></a></li>
-<li><a href="https://games-able.techidaily.com/making-friends-across-platforms-bedrock-java-via-geysermc-server/"><u>Making Friends Across Platforms: Bedrock-Java via GeyserMC Server</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/relaxation-station-leisurely-phone-game-guide/"><u>Relaxation Station Leisurely Phone Game Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/screen-and-sanctuary-packing-essentials-for-travel-gamers/"><u>Screen & Sanctuary: Packing Essentials for Travel Gamers</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-by-step-launching-games-via-emudeck-on-steam-deck/"><u>Step-by-Step: Launching Games via EmuDeck on Steam Deck</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-16-best-couch-co-op-games-for-xbox-series-xs/"><u>The 16 Best Couch Co-Op Games for Xbox Series X/S</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-smart-buyers-steam-deck-guidebook/"><u>The Smart Buyer's Steam Deck Guidebook</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/uniting-voices-in-a-tiktok-duo-for-2024/"><u>Uniting Voices in a TikTok Duo for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-mastering-snips-on-mac-top-5-picks-unveiled/"><u>[Updated] Mastering Snips on Mac Top 5 Picks Unveiled</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-strategies-for-adding-value-youtubes-card-system/"><u>[Updated] Strategies for Adding Value YouTube's Card System</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/danish-films-your-gateway-to-authentic-linguistic-fluency/"><u>Danish Films: Your Gateway to Authentic Linguistic Fluency</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-vivo-s17e-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Vivo S17e.</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-experience-level-up-gameplay/"><u>Elevate Experience, Level Up Gameplay</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-pinnacle-motorsport-replicas-top-5/"><u>In 2024, Pinnacle Motorsport Replicas (Top 5)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-world-of-ai-chatbots-how-does-censorship-shape-your-communications/"><u>Navigating the World of AI Chatbots: How Does Censorship Shape Your Communications?</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidia-transforming-mobile-gaming-with-latest-software/"><u>Nvidia: Transforming Mobile Gaming with Latest Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/solving-steam-content-server-down-issue-in-windows/"><u>Solving Steam Content Server Down Issue in Windows</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-impossibility-of-fixing-the-samsung-galaxy-ring/"><u>The Impossibility of Fixing the Samsung Galaxy Ring</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-motorola-moto-g-stylus-2023-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Motorola Moto G Stylus (2023)</u></a></li>
+<li><a href="https://games-able.techidaily.com/uninstall-firmware-changes-on-series-xs-controllers/"><u>Uninstall Firmware Changes on Series X/S Controllers</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrade-gameplay-quality-with-higher-windows-fps/"><u>Upgrade Gameplay Quality with Higher Windows FPS</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-smooth-is-better-a-case-for-console-players/"><u>Why Smooth Is Better: A Case for Console Players</u></a></li>
 </ul></div>
 

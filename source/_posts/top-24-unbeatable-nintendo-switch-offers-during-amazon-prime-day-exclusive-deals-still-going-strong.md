@@ -1,7 +1,7 @@
 ---
 title: Top 24 Unbeatable Nintendo Switch Offers During Amazon Prime Day - Exclusive Deals Still Going Strong!
-date: 2024-09-17 20:30:22
-updated: 2024-09-20 10:59:39
+date: 2024-09-20T01:39:50.898Z
+updated: 2024-09-21T02:21:00.836Z
 tags:
   - gaming
 categories:
@@ -59,6 +59,13 @@ There's a single screw holding the cover in place; remove it and set it aside in
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Move the screw and spacer inside the SSD housing
 
 With the expansion slot cover removed, locate and remove the screw and spacer near the end of the SSD housing. 
@@ -70,6 +77,13 @@ There are various holes inside the SSD housing that correspond with the various 
 I then placed the spacer over the hole -- it's held in place by three dots, so don't worry about perfectly lining it up or keeping it in place. 
 
 Jason Cipriani/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Insert the SSD and use the mounting screw
 
@@ -120,11 +134,24 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/balancing-acts-understanding-the-importance-of-drone-stabilizers/"><u>Balancing Acts Understanding the Importance of Drone Stabilizers</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-a-world-of-games-with-these-9-steam-tips/"><u>Dive Into a World of Games with These 9 Steam Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminating-steam-auth-delays-on-rust-platform/"><u>Eliminating Steam Auth Delays on Rust Platform</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-gaomon-pd1560-artistic-touchpad-a-comprehensive-look-at-this-versatile-pen-display/"><u>Evaluating the Gaomon PD1560 Artistic Touchpad: A Comprehensive Look at This Versatile Pen Display</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-navigating-oceans-choosing-your-best-action-camera/"><u>In 2024, Navigating Oceans Choosing Your Best Action Camera</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/lightroom-hdr-tutorial-how-to-create-and-merge-stunning-hdr-images-in-lightroom/"><u>Lightroom HDR Tutorial How to Create and Merge Stunning HDR Images in Lightroom</u></a></li>
+<li><a href="https://games-able.techidaily.com/live-on-the-move-mastering-twitch-broadcasts-mobile/"><u>Live on the Move: Mastering Twitch Broadcasts (Mobile)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/put-and-play-mkv-movies-on-galaxy-z-fold-5-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Put and play MKV movies on Galaxy Z Fold 5</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-and-checking-your-devices-data-usage-habits/"><u>Understanding and Checking Your Device's Data Usage Habits</u></a></li>
+</ul></div>
+

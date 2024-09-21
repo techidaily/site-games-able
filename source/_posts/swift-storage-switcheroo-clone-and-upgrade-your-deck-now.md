@@ -1,7 +1,7 @@
 ---
 title: "Swift Storage Switcheroo: Clone & Upgrade Your Deck Now"
-date: 2024-09-11T16:52:35.577Z
-updated: 2024-09-15T16:22:38.968Z
+date: 2024-09-19T17:34:38.547Z
+updated: 2024-09-20T18:47:14.573Z
 tags:
   - games
 categories:
@@ -48,16 +48,16 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 
  If you're looking to install a bigger[SSD for your Steam Deck](https://www.makeuseof.com/best-ssd-for-steam-deck/) , clone your old one to it first so that you can immediately start downloading new games to it instead of sitting fussing about installing SteamOS.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Clone Your Steam Deck's SSD to a New One
 
  Cloning your old SSD to your new one will save you so much time. You won’t need to experience the time-consuming process of manually imaging SteamOS, logging in, waiting for updates, and getting all your old settings right. Here’s how you can do it...
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 1: Download Macrium Reflect on a Separate PC
 
@@ -67,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 
 ![Macrium Reflect trial download](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/macrium-reflect-trial-download-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Register and create a[Macrium Reflect](https://manage.macrium.com/) account and download the free trial as it has everything you need for this process.
 
  Copy your registration code, click on**Download Trial** on the Home version, and run the setup.
@@ -74,22 +81,15 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 ![Macrium Reflect registration code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/macrium-reflect-registration-code-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  During the setup, check the box for the 30-day trial and enter your registration code when it asks for it.
 
  Once the setup is done, and you’ve installed Macrium Reflect on your PC, you can now head to the next step.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Step 2: Image Your Old SSD
 
@@ -115,11 +115,25 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 
  If your motherboard has two SSD slots, you can click**Clone this Disk** **...** instead of imaging. You can then follow similar steps, but skip the image restoration process by directly copying the partitions of the old SSD to the new one. This method is faster as it'll do the cloning in one step.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 3: Restore Your Backup Image to Your New SSD
 
  Now that your backup image is ready, you can now shut down your PC, replace the old SSD with your new one, and boot your PC back up.
 
 ![Searching for disk management on Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/searching-for-disk-management-on-windows-searcgh.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Before you open up Macrium Reflect, search for "**Create and format hard disk partitions"** in the Windows search bar. This will open up the disk manager.
 
@@ -129,13 +143,6 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 
 ![Restore image tab on Macrium Reflect](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/restore-image-tab-on-macrium-reflect-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Open up Macrium Reflect, and on the top menu bar, click**Restore** **\> Browse for an image or backup file to restore…** .
 
 ![Restore button on Macrium Reflect](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/restore-button-on-macrium-reflect-1.jpg)
@@ -143,13 +150,6 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
  Once you find the image file that you created earlier, select it in Macrium Reflect and click**Restore** .
 
 ![Select a disk to restore to-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/select-a-disk-to-restore-to-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  A pop-up will appear, allowing you to choose where you want to restore the image to. Click on**Select a disk to restore to…** , and choose your new SSD.
 
@@ -196,19 +196,18 @@ Jhet Borja/MakeUseOf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-mastering-instagram-incorporating-music-in-videos-and-stories/"><u>[New] Mastering Instagram Incorporating Music in Videos & Stories</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-unleashing-vrecorders-capabilities-download-and-setup-guide/"><u>[Updated] 2024 Approved Unleashing VRecorder's Capabilities – Download & Setup Guide</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-selective-selections-notable-sites-for-snagging-snapalert-tunes-for-2024/"><u>[Updated] Selective Selections Notable Sites for Snagging SnapAlert Tunes for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-the-ease-of-connecting-your-xbox-controller-to-a-computer-156-chars/"><u>Discover the Ease of Connecting Your Xbox Controller to a Computer (156 Chars)</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhance-gameplay-with-internationalized-rom-tweaks/"><u>Enhance Gameplay with Internationalized ROM Tweaks</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/insight-into-why-cozy-games-thrive/"><u>Insight Into Why Cozy Games Thrive</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/pinnacle-fix-in-digital-dimensions/"><u>Pinnacle Fix in Digital Dimensions</u></a></li>
-<li><a href="https://games-able.techidaily.com/quick-step-guide-to-enhance-gaming-via-storage-cloning/"><u>Quick-Step Guide to Enhance Gaming via Storage Cloning</u></a></li>
-<li><a href="https://games-able.techidaily.com/tackling-uneven-display-quality-due-to-gpu-issues/"><u>Tackling Uneven Display Quality Due to GPU Issues</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-15-low-cost-mechanical-mice-reviews/"><u>Top 15 Low-Cost Mechanical Mice Reviews</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-15-pro-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock Apple iPhone 15 Pro With Forgotten Passcode Different Methods You Can Try</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-power-of-echo-4th-generation-in-depth-review-and-enhanced-features/"><u>Unveiling the Power of Echo (4Th Generation): In-Depth Review and Enhanced Features</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-master-social-media-youtube-to-facebook-links/"><u>[New] 2024 Approved Master Social Media YouTube to Facebook Links</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-live-mastery-elevating-your-360-degree-videos-on-facebook-for-2024/"><u>[New] Live Mastery Elevating Your 360 Degree Videos on Facebook for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-offline-speech-to-text-transcription-apps/"><u>[New] Top Offline Speech-to-Text Transcription Apps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ceo-exit-at-artific-intelligence-pioneer-openai-is-chatgpts-evolution-in-jeopardy/"><u>CEO Exit at Artific Intelligence Pioneer, OpenAI; Is ChatGPT's Evolution in Jeopardy?</u></a></li>
+<li><a href="https://games-able.techidaily.com/constructing-your-virtual-odyssey-crafting-rpg-experienences-with-chatgpt/"><u>Constructing Your Virtual Odyssey: Crafting RPG Experienences with ChatGPT</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/demons-souls-remastered-enhanced-visuals-keep-the-classic-excellence/"><u>Demon's Souls Remastered: Enhanced Visuals Keep the Classic Excellence</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mp4-movies-with-xiaomi-redmi-k70-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Failed to play MP4 movies with Xiaomi Redmi K70</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-script-innovation-through-chatgpt/"><u>Game Script Innovation Through ChatGPT</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/mastering-instagrams-untapped-potential-for-2024/"><u>Mastering Instagram's Untapped Potential for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-through-game-inputs-must-haves/"><u>Navigating Through Game Inputs: Must Haves</u></a></li>
+<li><a href="https://games-able.techidaily.com/sprint-through-gaming-with-these-lightning-fast-titles/"><u>Sprint Through Gaming with These Lightning-Fast Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/subtlety-a-game-changer-for-players/"><u>Subtlety: A Game Changer for Players</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-future-shape-of-gaming-post-xbox-and-activisions-cooperation/"><u>The Future Shape of Gaming Post Xbox & Activision's Cooperation</u></a></li>
 </ul></div>
 

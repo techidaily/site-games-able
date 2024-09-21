@@ -1,7 +1,7 @@
 ---
 title: Samsung Unveils New Gaming Controller Collection - Explore the Latest Innovation in Play
-date: 2024-09-17 10:47:16
-updated: 2024-09-20 11:39:31
+date: 2024-09-14T18:17:49.202Z
+updated: 2024-09-20T21:53:14.214Z
 tags:
   - gaming
 categories:
@@ -59,6 +59,13 @@ There's a single screw holding the cover in place; remove it and set it aside in
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Move the screw and spacer inside the SSD housing
 
 With the expansion slot cover removed, locate and remove the screw and spacer near the end of the SSD housing. 
@@ -76,6 +83,13 @@ Jason Cipriani/ZDNET
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -120,11 +134,29 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-harmonious-hues-recording-with-a-mac/"><u>[New] Harmonious Hues Recording with a Mac</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-unleashing-potential-sharing-youtube-content-within-instagram-stories/"><u>[New] Unleashing Potential Sharing YouTube Content Within Instagram Stories</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-focused-freedom-advanced-mounting-solutions-for-phonescams-for-2024/"><u>[Updated] Focused Freedom Advanced Mounting Solutions for Phones/Cams for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-on-apple-iphone-12-mini-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password On Apple iPhone 12 mini</u></a></li>
+<li><a href="https://fake-location.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/enjoy-gaming-anywhere-anytime-with-no-data-needed/"><u>Enjoy Gaming Anywhere, Anytime With No Data Needed</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-minecraft-bedrock-isolation-to-java-connection-using-geysermc/"><u>From Minecraft Bedrock Isolation to Java Connection Using GeyserMC</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-upgrade-check-out-keychron-and-lemokey-l3/"><u>Gaming Upgrade? Check Out Keychron & Lemokey L3</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-vivo-v30-promirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Vivo V30 ProMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-fix-the-steam-auth-timeout-error-in-rust-on-windows/"><u>How to Fix the Steam Auth Timeout Error in Rust on Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-samsung-galaxy-s23-fe-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Samsung Galaxy S23 FE Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-updated-nvidia-quadro-drivers-on-windows-10-compatible-with-latest-os-version/"><u>Install Updated Nvidia Quadro Drivers on Windows 10 - Compatible with Latest OS Version</u></a></li>
+<li><a href="https://games-able.techidaily.com/players-and-policy-decoding-xboxs-ban-on-third-party-devices/"><u>Players and Policy: Decoding Xbox’s Ban on Third-Party Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-light-solution-for-dynamic-gaming-rooms/"><u>The Ultimate Light Solution for Dynamic Gaming Rooms</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-one-controller-not-recognizing-headset-try-these-4-fixes/"><u>Xbox One Controller Not Recognizing Headset? Try These 4 Fixes</u></a></li>
+</ul></div>
+

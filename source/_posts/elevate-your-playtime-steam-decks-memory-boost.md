@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Playtime: Steam Deck's Memory Boost"
-date: 2024-09-12T17:03:48.882Z
-updated: 2024-09-15T16:55:15.884Z
+date: 2024-09-14T23:36:40.245Z
+updated: 2024-09-20T16:57:40.301Z
 tags:
   - games
 categories:
@@ -43,16 +43,16 @@ thumbnail: https://thmb.techidaily.com/9778babca71d8c322c58ebdc5b0f6b1ae6df8f808
 
  We have a great selection of [the best microSD cards for the Steam Deck](https://www.makeuseof.com/best-microsd-cards-steam-deck/) if you haven't selected one already.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Format Your SD Card for the Steam Deck
 
 ![screenshot of the steam deck settings menu showing an option to format the SD card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_steam_deck_sd_format_option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Steam Deck uses a specific format, so a full wipe of your SD card is required when adding extra storage to the device.
 
@@ -68,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/9778babca71d8c322c58ebdc5b0f6b1ae6df8f808
 
 ![screenshot of the games options menu on the steam deck showing a game installed on an SD card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_steam_deck_game_options_sd_card.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  With an SD card installed, you can choose to install a game directly onto your SD card or move an already installed game manually by opening its **Properties** and clicking on **Installed Files.**
 
  You can move games back and forth freely, but there are a couple of things to keep in mind.
@@ -84,6 +77,13 @@ thumbnail: https://thmb.techidaily.com/9778babca71d8c322c58ebdc5b0f6b1ae6df8f808
  Secondly, accessing folders on your SD card is a little different from accessing your SSD.
 
 ![Screenshot of an SD card mounted on the Steam Deck showing its location as primary](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_primary_sd_card_location_on_steam_deck.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You'll find your SD card located at the bottom right-hand side of the Dolphin explorer window. It's named **primary**. Steam games will be located in the **steamapps** folder of this device.
 
@@ -110,21 +110,21 @@ run/media/mmcblk0p1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-file-flow-fixtures-easy-moves-for-your-machine/"><u>[New] File Flow Fixtures Easy Moves for Your Machine</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-unlocking-the-secrets-to-counting-youtube-traffic-and-profits/"><u>[Updated] In 2024, Unlocking the Secrets to Counting YouTube Traffic and Profits</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-elevate-your-experience-with-windows-11-games/"><u>2024 Approved Elevate Your Experience with Windows 11 Games</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-unleashing-potential-strategic-hashtags-for-video-success/"><u>2024 Approved Unleashing Potential Strategic Hashtags for Video Success</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/facing-difficulties-in-turning-books-into-ebooks-discover-how-to-overcome-common-ebook-conversion-challenges/"><u>Facing Difficulties in Turning Books Into eBooks? Discover How to Overcome Common EBook Conversion Challenges!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/investing-in-lifelong-technology-why-you-might-prefer-a-permanent-phone-over-a-playful-mouse/"><u>Investing in Lifelong Technology: Why You Might Prefer a Permanent Phone over a Playful Mouse</u></a></li>
-<li><a href="https://games-able.techidaily.com/keep-your-gaming-experience-peak-performance-with-these-tips/"><u>Keep Your Gaming Experience Peak Performance with These Tips</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-mac-setup-for-optimal-switch-gaming/"><u>Mastering Mac Setup for Optimal Switch Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximize-your-dollars-affordable-gamers-display-choice/"><u>Maximize Your Dollars - Affordable Gamer's Display Choice</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/mlb-the-show-19-analysis-stunning-visuals-complement-unexpected-role-playing-features/"><u>MLB The Show 19 Analysis: Stunning Visuals Complement Unexpected Role-Playing Features</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/prime-selection-of-360-videography-tools-for-2024/"><u>Prime Selection of 360° Videography Tools for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/riddle-me-this-with-ridiculously-ruined-role-players/"><u>Riddle Me This with Ridiculously Ruined Role-Players</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-economical-240hz-gaming-displays/"><u>Top Economical 240Hz Gaming Displays</u></a></li>
-<li><a href="https://games-able.techidaily.com/turn-your-desktop-gameplay-into-portable-fun-with-steam-deck/"><u>Turn Your Desktop Gameplay Into Portable Fun with Steam Deck</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-your-friends-digital-whereabouts-on-xbox/"><u>Understanding Your Friends' Digital Whereabouts on Xbox</u></a></li>
-<li><a href="https://extra-information.techidaily.com/why-are-instavids-tilted-upside-down/"><u>Why Are InstaVids Tilted Upside Down?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-maximizing-roi-with-snapchat-for-biz-leaders/"><u>[New] Maximizing ROI with Snapchat for Biz Leaders</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-understanding-srt-in-depth-with-this-guidebook-for-2024/"><u>[New] Understanding SRT in Depth with This Guidebook for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-top-3-ipad-speech-capture-methods/"><u>[Updated] 2024 Approved Top 3 iPad Speech Capture Methods</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-photoshop-basics-top-tips-to-transform-images-like-a-pro/"><u>[Updated] Photoshop Basics Top Tips to Transform Images Like a Pro</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-asus-rog-phone-8-pro-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Asus ROG Phone 8 Pro without App | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/avoiding-instagrams-false-facade-for-a-solid-stature/"><u>Avoiding Instagram's False Facade for a Solid Stature</u></a></li>
+<li><a href="https://games-able.techidaily.com/customize-to-perfection-top-9-settings-for-your-switch/"><u>Customize to Perfection: Top 9 Settings for Your Switch</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Vivo V29e? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-control-logitech-gaming-mouse/"><u>Optimal Control: Logitech Gaming Mouse</u></a></li>
+<li><a href="https://games-able.techidaily.com/pairing-up-your-phone-and-ps5-remote/"><u>Pairing Up Your Phone and PS5 Remote</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-headphone-solutions-for-switch/"><u>Premium Headphone Solutions for Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/robloxs-403-error-explained-and-solved-for-windows-users/"><u>Roblox's 403 Error Explained & Solved for Windows Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/strategies-for-managing-your-follow-list-on-x-when-and-why-to-unfollow/"><u>Strategies for Managing Your Follow List on [X]: When and Why To Unfollow</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-4-ios-emulators-resurrect-game-boy-advance-classics/"><u>Top 4 iOS Emulators: Resurrect Game Boy Advance Classics!</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrade-your-gaming-rig-not-just-the-graphics/"><u>Upgrade Your Gaming Rig, Not Just the Graphics</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-your-hardware-drivers-on-windows-11-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated your hardware drivers on Windows 11</u></a></li>
 </ul></div>
 

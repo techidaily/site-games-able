@@ -1,7 +1,7 @@
 ---
 title: "Score Big Savings: Walmart's Labor Day Offer on Nintendo Switch OLED with a Sweet $60 Discount, According to ZDNet News"
-date: 2024-09-17 20:17:42
-updated: 2024-09-20 11:12:44
+date: 2024-09-16T20:46:58.632Z
+updated: 2024-09-21T00:20:01.489Z
 tags:
   - gaming
 categories:
@@ -59,6 +59,13 @@ There's a single screw holding the cover in place; remove it and set it aside in
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Move the screw and spacer inside the SSD housing
 
 With the expansion slot cover removed, locate and remove the screw and spacer near the end of the SSD housing. 
@@ -76,6 +83,13 @@ Jason Cipriani/ZDNET
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -120,11 +134,29 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-harnessing-the-power-of-hdr-in-portrait-photography/"><u>2024 Approved Harnessing the Power of HDR in Portrait Photography</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-nokia-c210-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Nokia C210</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/advancing-artificial-intelligence-discover-the-7-features-making-bard-powered-by-googles-palm-2-more-innovative/"><u>Advancing Artificial Intelligence: Discover the 7 Features Making Bard Powered by Google's PaLM 2 More Innovative</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-and-crypto-investment-analysis-5-key-reasons-to-think-twice/"><u>ChatGPT and Crypto Investment Analysis - 5 Key Reasons to Think Twice</u></a></li>
+<li><a href="https://games-able.techidaily.com/dispatching-fixed-status-on-roblox-error-262/"><u>Dispatching Fixed Status on Roblox Error 262</u></a></li>
+<li><a href="https://games-able.techidaily.com/embrace-simplicity-explore-idle-adventures/"><u>Embrace Simplicity: Explore Idle Adventures</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-illusions-decoded-fact-or-fantasy/"><u>Gaming Illusions Decoded: Fact or Fantasy?</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oneplus-nord-ce-3-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset OnePlus Nord CE 3 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c12-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Nokia C12 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-14-plus-location-by-number-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 14 Plus Location by Number | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-new-york-social-game-proven-8-techniques/"><u>Mastering the New York Social Game: Proven 8 Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-tech-showdown-ps5-vs-microsofts-xbox-xs/"><u>Next Gen Tech Showdown: PS5 vs Microsoft's Xbox XS</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-web-surfing-experience-reducing-networks-delay/"><u>Streamlining Web Surfing Experience: Reducing Network's Delay</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/top-5-tips-for-tiktok-success-on-mac-for-2024/"><u>Top 5 Tips for TikTok Success on Mac for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-a-non-functional-mic-on-your-steelseries-arctis-5-headset-issue-resolved/"><u>Troubleshooting a Non-Functional Mic on Your SteelSeries Arctis 5 Headset (ISSUE RESOLVED)</u></a></li>
+</ul></div>
+

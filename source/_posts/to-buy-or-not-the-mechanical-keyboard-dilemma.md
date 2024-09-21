@@ -1,7 +1,7 @@
 ---
 title: "To Buy or Not: The Mechanical Keyboard Dilemma"
-date: 2024-09-08T16:50:23.292Z
-updated: 2024-09-15T17:08:21.149Z
+date: 2024-09-18T01:54:22.112Z
+updated: 2024-09-20T23:42:38.450Z
 tags:
   - games
 categories:
@@ -38,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/3f83cf37f566bce38971b018170626d6e67c9f875
  Since we’re talking about gaming, we’re mainly going to focus on gaming mechanical keyboards since they offer many features that normal mechanical keyboards don’t offer. Of course, we’ll also state the benefits of using any mechanical keyboard for gaming.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Lighter Actuation Force
@@ -71,10 +71,10 @@ Jhet Borja/MakeUseOf
 ![Wooting 60HE rapid trigger and actuation point settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/wooting-60he-rapid-trigger-and-actuation-point-settings.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Gaming mechanical keyboards have come a long way since they were first popularized in the early 2010s. Gaming brands have come up with many new features that bring gaming to a different level.
@@ -97,13 +97,6 @@ Jhet Borja/MakeUseOf
 
  You can choose between[clicky, tactile, or linear switches](https://www.makeuseof.com/linear-vs-tactile-vs-clicky-switches-whats-the-difference/) , or even switches with different actuation points. There are so many different directions that you can go with a mechanical keyboard that you might want to check out our[ultimate beginner’s guide to mechanical keyboards](https://www.makeuseof.com/beginner-custom-mechanical-keyboard-guide/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Drawbacks of Mechanical Keyboards for Gaming
 
  There aren’t many drawbacks to mechanical keyboards since they do everything regular keyboards do but better. However, that doesn’t mean there aren’t any. If you’re using a non-mechanical keyboard right now, you should take these into consideration and see whether it’s worth switching to a mechanical keyboard.
@@ -111,13 +104,6 @@ Jhet Borja/MakeUseOf
 ### Mechanical Keyboards Are Heavier
 
 ![Keychon Q1 side profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/05/keychon-q1-side-profile.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Jhet Borja/MakeUseOf
 
@@ -128,10 +114,10 @@ Jhet Borja/MakeUseOf
  However, the customizable nature of mechanical keyboards means that if you really did want a lightweight, ultra-portable keyboard, you can definitely build one yourself.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Mechanical Keyboards Cost More
@@ -144,6 +130,13 @@ Jhet Borja/MakeUseOf
 
  Most non-mechanical keyboards are pretty straightforward, having a PCB that doesn’t need switches to actuate, a singular rubber lattice that’s practically indestructible through normal use, and a simple plastic housing and keycaps. This makes them cheaper and lighter.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Mechanical Keyboards Are Louder
 
  The sound of a mechanical keyboard is something that really polarizes opinions. Many love the sound, but seemingly just as many hate it.
@@ -151,6 +144,13 @@ Jhet Borja/MakeUseOf
  There are different switch types with different sound profiles, but most of these are louder than non-mechanical keyboards. You can use O-rings to soften the bottom-out sound, but that usually ruins the feel of the mechanical keyboard and doesn’t account for the rebound sound after letting go of the switch.
 
  To get a pretty quiet mechanical keyboard, you’ll have to go to pretty great lengths to achieve it, which might not make it worth it for you.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do You Need a Mechanical Keyboard for Gaming?
 
@@ -175,16 +175,15 @@ Jhet Borja/MakeUseOf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-fps-titans-ranking-gamings-elite-shooters/"><u>[New] FPS Titans Ranking Gaming's Elite Shooters</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-tiktoks-toptwitter-tweets-amassing-views/"><u>[New] TikTok's #TopTwitter Tweets Amassing Views</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-iphonedesktops-top-8-video-transformation-tools/"><u>[Updated] 2024 Approved IPhone/Desktop's Top 8 Video Transformation Tools</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-advanced-hdr-creation-in-photoshop-workflows/"><u>[Updated] Advanced HDR Creation in Photoshop Workflows</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-securing-and-optimizing-virtual-meetings-with-zoom-on-windows-11/"><u>[Updated] In 2024, Securing and Optimizing Virtual Meetings with Zoom on Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/competitive-gpus-against-the-rtx-4060-ti/"><u>Competitive GPUs Against the RTX 4060 Ti</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortlessly-pair-your-bluetooth-speaker-with-a-laptop-in-minutes/"><u>Effortlessly Pair Your Bluetooth Speaker with a Laptop in Minutes</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-the-art-of-choosing-a-stream-deck/"><u>Mastering the Art of Choosing a Stream Deck</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-asus-rog-phone-8-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Asus ROG Phone 8</u></a></li>
-<li><a href="https://games-able.techidaily.com/steam-points-101-amassment-techniques-explored/"><u>Steam Points 101: Amassment Techniques Explored</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-cost-efficiency-of-sonys-psplus-membership-program/"><u>The Cost Efficiency of Sony's PS+ Membership Program</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-essential-guide-unraveling-ios-screen-capture-magic/"><u>[Updated] In 2024, Essential Guide Unraveling IO's Screen Capture Magic</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-streamline-your-tech-expertise-with-io-screen-recording/"><u>[Updated] In 2024, Streamline Your Tech Expertise with IO Screen Recording</u></a></li>
+<li><a href="https://blog-min.techidaily.com/conversione-gratuita-da-wmv-a-mov-il-guida-completa-allonline-traduce-del-movavi/"><u>Conversione Gratuita Da WMV a MOV: Il Guida Completa All'Online Traduce Del Movavi</u></a></li>
+<li><a href="https://video-capture.techidaily.com/easy-steps-for-ios-and-android-capture-google-meet/"><u>Easy Steps for iOS and Android Capture Google Meet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-tackle-your-pcs-battery-charging-issues-on-windows-7-and-10/"><u>Effective Solutions to Tackle Your PC's Battery Charging Issues on Windows 7 and 10</u></a></li>
+<li><a href="https://games-able.techidaily.com/effective-steam-redownloading-tactics/"><u>Effective Steam Redownloading Tactics</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-realme-gt-neo-5-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Realme GT Neo 5 Phone Hassle-Free</u></a></li>
+<li><a href="https://games-able.techidaily.com/solutions-for-sticky-mouse-scroll-issue/"><u>Solutions for Sticky Mouse Scroll Issue</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-art-of-balancing-power-in-gaming-systems/"><u>The Art of Balancing Power in Gaming Systems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-10-best-introduction-editors-apps-for-2024/"><u>Top 10 Best Introduction Editors (Apps) for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Streamlining 3D Assets for Game Performance
-date: 2024-09-11T16:34:53.381Z
-updated: 2024-09-15T16:20:32.916Z
+date: 2024-09-20T01:27:37.046Z
+updated: 2024-09-20T22:33:35.799Z
 tags:
   - games
 categories:
@@ -45,9 +45,23 @@ thumbnail: https://thmb.techidaily.com/16a9b35c6bd9fc401c0908fd1a1024fa5ae9f4d4f
 
  Lighting is by far one of the most resource-hungry operations found in modern 3D games. Calculating reflections on the fly is very costly, but you can bake the lighting in your scene to solve this problem. This prepares the lighting in the scene in advance so that the player doesn’t have to wait for it.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Use Occlusion Culling
 
  Engines like Unity and Unreal Engine feature an optimization tool called occlusion culling. This reduces resource usage by only rendering the 3D objects that the player can see in the scene. Outside of the player’s field of view, objects will not appear until they are looked at. This is an easy way to save resource usage in large scenes.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Implement LOD (Level of Detail)
 
@@ -59,32 +73,11 @@ thumbnail: https://thmb.techidaily.com/16a9b35c6bd9fc401c0908fd1a1024fa5ae9f4d4f
 
 ![3d designer working at PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3d-designer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Designing 3D models that are optimized for video game development is easier than you might expect. This process mostly involves stripping your model down to ensure that it only has the vertices, lines, and faces that it needs. There are several ways to achieve this.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Manual Geometry Optimization
 
 ![monkey model in blender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/manual-3d-optimization.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Optimizing simple geometry by hand is a good way to get used to designing models for video games. You have two main options for removing faces, lines, and vertices in 3D modeling software; deleting and dissolving.
 
@@ -95,6 +88,13 @@ thumbnail: https://thmb.techidaily.com/16a9b35c6bd9fc401c0908fd1a1024fa5ae9f4d4f
 * **Remove Hidden Faces** : Faces that the player will never see don’t need to be loaded into your game. The backs of buildings, the underside of a vehicle, and pieces of geometry that are below ground can usually be removed. This is the manual version of occlusion mapping.
 * **Remove Duplicate/Redundant Faces** : Duplicate faces should always be deleted, but you should also look for faces that aren’t necessary. A square, for example, only needs to have one face. If it has two triangular faces, dissolve them both to replace them with a single face.
 * **Object Merging** : Loading one object is always better than loading two or three.[Merging 3D objects in Blender](https://www.makeuseof.com/merge-objects-in-blender/) and[other game development software](https://www.makeuseof.com/tag/five-free-game-development-tools-make-your-own-games/) is easy, and it's a great way to reduce your resource costs.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Automated Geometry Optimization
 
@@ -123,13 +123,20 @@ thumbnail: https://thmb.techidaily.com/16a9b35c6bd9fc401c0908fd1a1024fa5ae9f4d4f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-youtubes-essential-learning-resources-for-upcoming-directors/"><u>[New] YouTube's Essential Learning Resources for Upcoming Directors</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-step-up-your-game-expert-tips-for-tiktok-editing/"><u>[Updated] Step Up Your Game Expert Tips for TikTok Editing</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-motorola-moto-g84-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Motorola Moto G84 5G</u></a></li>
-<li><a href="https://games-able.techidaily.com/embracing-the-strengths-consoles-at-30hz-success/"><u>Embracing the Strengths: Consoles at 30Hz Success</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-your-ps4-top-techniques-for-improved-gaming/"><u>Enhancing Your PS4: Top Techniques for Improved Gaming</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6s-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 6s to other iPhone 15 devices? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/netflix-troubleshooting-effective-ways-to-resolve-error-code-nw-1-19/"><u>Netflix Troubleshooting: Effective Ways to Resolve Error Code NW-1-19</u></a></li>
-<li><a href="https://games-able.techidaily.com/playstation-plus-vs-xbox-game-pass-which-is-better/"><u>PlayStation Plus Vs. Xbox Game Pass: Which Is Better?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-acquire-standardized-thumbnails-from-youtube-online-and-desktop-options-for-2024/"><u>[New] How To Acquire Standardized Thumbnails From Youtube Online & Desktop Options for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-on-the-go-video-making-essentials/"><u>[New] On-The-Go Video Making Essentials</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-leading-tools-to-elevate-webcam-video-quality-for-2024/"><u>[Updated] Leading Tools to Elevate Webcam Video Quality for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-essential-skills-for-efficient-zoom-podcasting/"><u>2024 Approved Essential Skills for Efficient Zoom Podcasting</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-simplify-images-remove-the-environmental-elements/"><u>2024 Approved Simplify Images Remove the Environmental Elements</u></a></li>
+<li><a href="https://games-able.techidaily.com/correcting-component-deficiency-on-windows-pcs/"><u>Correcting Component Deficiency on Windows PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/experience-future-portable-pc-power-in-pdw4/"><u>Experience Future Portable PC Power in PDW4</u></a></li>
+<li><a href="https://games-able.techidaily.com/helldivers-2s-secrets-to-unforgettable-gaming-experience/"><u>Helldivers 2'S Secrets to Unforgettable Gaming Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-sea-of-indie-games-with-itchios-help/"><u>Navigating the Sea of Indie Games with itch.io’s Help</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/nombres-de-fauna-en-espanol-para-empezar/"><u>Nombres De Fauna en Español Para Empezar</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/repair-tips-resolving-sony-wh-1000xm3-microphone-failure-on-windows-computers/"><u>Repair Tips: Resolving Sony WH-1000XM3 Microphone Failure on Windows Computers</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-review-excellence-techniques-and-approaches/"><u>Steam Review Excellence: Techniques and Approaches</u></a></li>
+<li><a href="https://games-able.techidaily.com/switch-gaming-on-pc-with-ryujinx-step-by-step-tutorial/"><u>Switch Gaming on PC with Ryujinx: Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ultimate-guide-for-higher-frame-rates-in-cs-go/"><u>Ultimate Guide for Higher Frame Rates in CS GO</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-game-bar-controls-restrictions-for-minimal-interference/"><u>Xbox Game Bar Controls: Restrictions for Minimal Interference</u></a></li>
 </ul></div>
 

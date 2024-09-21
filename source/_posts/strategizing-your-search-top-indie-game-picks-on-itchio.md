@@ -1,7 +1,7 @@
 ---
 title: "Strategizing Your Search: Top Indie Game Picks on Itch.io"
-date: 2024-09-12T16:58:16.854Z
-updated: 2024-09-15T16:04:41.171Z
+date: 2024-09-14T22:08:53.019Z
+updated: 2024-09-21T00:35:44.196Z
 tags:
   - games
 categories:
@@ -60,10 +60,10 @@ thumbnail: https://thmb.techidaily.com/4892cc1fafe3d31e97b196d4517b9323f9c488cf1
  The itch.io website has a[Bundles page](https://itch.io/bundles) where you can find game bundles created by developers. These are promotional packages containing multiple games. Each bundle is sold at a discounted price, and when you purchase it, you get instant access to all the games.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3 Check the itch.io Blog
@@ -76,28 +76,15 @@ thumbnail: https://thmb.techidaily.com/4892cc1fafe3d31e97b196d4517b9323f9c488cf1
 
 ![The page to see past game jams on itch.io.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/past-game-jams-itch.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  These game jams usually have creative and innovative indie games from different genres. Developers usually display talent in crafting unique experiences at these events. Fun games I have discovered through game jams on itch.io include[Inside Job](https://featurekreep.itch.io/inside-job) ,[Bready or not - unSURVIVOR](https://aramilion.itch.io/bready-or-not-unsurvivor) , and[Let There Be Cat](https://kyboon.itch.io/let-there-be-cat) .
 
  Since these are game jams, don't expect fully fleshed-out games with lots of content and complex features. Developers usually have time constraints and a limited scope to work with, as well as specific problems to solve. Many enter them to learn about game development and to tackle unique challenges.
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5 Follow Developers
@@ -107,6 +94,13 @@ thumbnail: https://thmb.techidaily.com/4892cc1fafe3d31e97b196d4517b9323f9c488cf1
  Another way to discover developers to follow is by looking at your feed, which shows you recommendations based on your activity on itch.io. I usually switch to the**Featured Games Feed** or**Global Feed** tab to see what is trending based on my interests.
 
 ![The feed on itch.io showing featured games.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/itch-feed-featured-games.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Keep in mind that this feed doesn't only show games, but things like asset packs and comics as well.
 
@@ -139,16 +133,19 @@ thumbnail: https://thmb.techidaily.com/4892cc1fafe3d31e97b196d4517b9323f9c488cf1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/updated-exploring-the-architects-behind-popular-discord-glyphs/"><u>[Updated] Exploring The Architects Behind Popular Discord Glyphs</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-efficient-video-editing-learn-the-ultimate-online-ways-to-shorten-and-slice-on-vimeo/"><u>[Updated] In 2024, Efficient Video Editing Learn the Ultimate Online Ways to Shorten & Slice on Vimeo</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/asus-rog-zephyrus-g16-analysis-a-rollercoaster-of-performance-for-gamers/"><u>Asus ROG Zephyrus G16 Analysis: A Rollercoaster of Performance for Gamers</u></a></li>
-<li><a href="https://video-capture.techidaily.com/breakthrough-techniques-for-streaming-success-obs-studio-android-for-2024/"><u>Breakthrough Techniques for Streaming Success OBS Studio (Android) for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/from-simple-to-sophisticated-weaving-multiple-images-into-your-insta-story-for-2024/"><u>From Simple to Sophisticated Weaving Multiple Images Into Your Insta Story for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/games-on-linkedin-skip-them-heres-why/"><u>Games on LinkedIn? Skip Them, Here's Why</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Realme 11X 5G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/overcoming-4-frequent-gpu-issues-efficiently/"><u>Overcoming 4 Frequent GPU Issues Efficiently</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamline-and-simplify-efficiently-removing-games-from-steam/"><u>Streamline & Simplify: Efficiently Removing Games From Steam</u></a></li>
-<li><a href="https://media-tips.techidaily.com/transform-your-youtube-viewing-experience-with-nvidias-rtx-technology-for-stunning-hdri-visuals/"><u>Transform Your YouTube Viewing Experience with NVIDIA's RTX Technology for Stunning HDRI Visuals</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-12-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking iPhone 12 Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-unveiling-the-best-youtube-channel-titles-a-must-have-guide-for-vloggers-limit-to-156-characters/"><u>[New] 2024 Approved Unveiling the Best Youtube Channel Titles A Must-Have Guide for Vloggers (Limit to 156 Characters)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-avoid-commonplace-channel-titles-finding-uniqueness-with-filmora/"><u>[New] In 2024, Avoid Commonplace Channel Titles Finding Uniqueness with Filmora</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-squared-up-crafting-square-format-videos-with-imovie-and-instagram/"><u>2024 Approved Squared Up Crafting Square-Format Videos with iMovie and Instagram</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-tutorial-refreshing-your-ati-radeon-graphics-driver-for-optimal-performance-on-windows/"><u>Complete Tutorial: Refreshing Your ATI Radeon Graphics Driver for Optimal Performance on Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-choice-high-end-sony-console-vs-low-budget-computer/"><u>Game-On Choice: High-End Sony Console VS Low-Budget Computer</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-performance-charger-matches-for-sonys-ps5-dualsense-controllers/"><u>High-Performance Charger Matches for Sony's PS5 DualSense Controllers</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Vivo V30? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-infinix-zero-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-pro-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 Pro Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-super-nitro-essential/"><u>Is Super Nitro Essential?</u></a></li>
+<li><a href="https://games-able.techidaily.com/peeling-back-meta-layers-understanding-and-following/"><u>Peeling Back 'Meta' Layers: Understanding and Following</u></a></li>
+<li><a href="https://fox-that.techidaily.com/steps-to-take-when-the-proximity-function-on-your-iphone-fails/"><u>Steps to Take When the Proximity Function on Your iPhone Fails</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-art-of-customization-tailoring-the-xbox-game-bar-interface-in-windows-environment/"><u>The Art of Customization: Tailoring the Xbox Game Bar Interface in Windows Environment</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-playlist-7-terminal-games-on-linux/"><u>The Ultimate Playlist: 7 Terminal Games on Linux</u></a></li>
 </ul></div>
 

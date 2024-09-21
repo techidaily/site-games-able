@@ -1,7 +1,7 @@
 ---
 title: Exclusive Labor Day Offer! Save Big with a Complimentary Xbox Game Pass & Free Fire TV Stick Bundle, Cutting Costs by Over One Third. Discover More on ZDNet Today!
-date: 2024-09-17 14:14:53
-updated: 2024-09-20 12:12:36
+date: 2024-09-19T22:17:54.839Z
+updated: 2024-09-21T01:30:09.472Z
 tags:
   - gaming
 categories:
@@ -59,6 +59,13 @@ There's a single screw holding the cover in place; remove it and set it aside in
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Move the screw and spacer inside the SSD housing
 
 With the expansion slot cover removed, locate and remove the screw and spacer near the end of the SSD housing. 
@@ -70,6 +77,13 @@ There are various holes inside the SSD housing that correspond with the various 
 I then placed the spacer over the hole -- it's held in place by three dots, so don't worry about perfectly lining it up or keeping it in place. 
 
 Jason Cipriani/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Insert the SSD and use the mounting screw
 
@@ -120,11 +134,21 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-elite-web-based-voice-recorders-the-best-of-2023/"><u>[New] Elite Web-Based Voice Recorders - The Best of 2023</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-how-to-halt-recommendations-no-more-suggests/"><u>2024 Approved How to Halt Recommendations No More Suggests</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-best-online-choice-for-quick-hassle-free-gif-conversion-to-video/"><u>2024 Approved The Best Online Choice for Quick, Hassle-Free GIF Conversion to Video</u></a></li>
+<li><a href="https://games-able.techidaily.com/shift-gaming-hours-xbox-sxxb1-time-zone-update/"><u>Shift Gaming Hours: Xbox SX/XB1 Time Zone Update</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-for-rectifying-joy-con-erratic-movements/"><u>Steps for Rectifying Joy-Con Erratic Movements</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-peak-playtime-discover-2-methods-to-track-android-fps/"><u>Unlock Peak Playtime: Discover 2 Methods to Track Android FPS</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-fcpx-essentials-working-with-freeze-frames-and-slow-motion-video/"><u>Updated In 2024, FCPX Essentials Working with Freeze Frames and Slow Motion Video</u></a></li>
+</ul></div>
+

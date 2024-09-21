@@ -1,7 +1,7 @@
 ---
 title: "The Hidden Tracks: Finding Offline Gamers on Xbox"
-date: 2024-09-11T16:08:06.158Z
-updated: 2024-09-15T16:26:05.640Z
+date: 2024-09-15T20:40:42.437Z
+updated: 2024-09-20T20:03:04.938Z
 tags:
   - games
 categories:
@@ -90,30 +90,24 @@ thumbnail: https://thmb.techidaily.com/b55c24263d5a9a2d0075e95ed2cba33cc134d0a45
 ![A screenshot of the Gaming option available on Xbox Series X when comparing two Xbox Profiles](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3169.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Scroll down the on-screen gaming stats until you find**Time played** .
 
 ![A screenshot of the Time Played statistic on an Xbox Series X for a specific Xbox game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3166.jpg)
 
- With stats for**Time played** on-screen, you can check how much time the friend has put into the selected game. If you suspect them of being offline, you can check the**Time played** stat again to see if they have put more time into the game while seemingly offline.
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ With stats for**Time played** on-screen, you can check how much time the friend has put into the selected game. If you suspect them of being offline, you can check the**Time played** stat again to see if they have put more time into the game while seemingly offline.
 
 ## Keep Track of Your Friends on Xbox Series X|S for Smooth Social Gaming
 
@@ -136,17 +130,20 @@ thumbnail: https://thmb.techidaily.com/b55c24263d5a9a2d0075e95ed2cba33cc134d0a45
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-fighting-vibration-in-iphone-videos-a-threefold-approach/"><u>[Updated] Fighting Vibration in iPhone Videos A Threefold Approach</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-create-a-playlist-on-youtube/"><u>[Updated] How to Create a Playlist on YouTube</u></a></li>
-<li><a href="https://games-able.techidaily.com/deciphering-the-love-for-soft-comfortable-games/"><u>Deciphering the Love for Soft, Comfortable Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/decoding-the-nyt-influence-web/"><u>Decoding the NYT Influence Web</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-samsung-galaxy-m14-4g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Samsung Galaxy M14 4G in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/guide-to-erasing-ps5-user-credentials/"><u>Guide to Erasing PS5 User Credentials</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-xiaomi-redmi-note-13-proplus-5g-phone-by-drfone-android/"><u>How to Reset a Locked Xiaomi Redmi Note 13 Pro+ 5G Phone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-14-plus-and-ipad-securely-drfone-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on iPhone 14 Plus and iPad Securely | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Vivo Y56 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-vlcs-full-potential-for-transforming-mp4-and-various-formats/"><u>In 2024, Unlocking VLC's Full Potential for Transforming MP4 & Various Formats</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722969211396-ultimate-guide-to-hp-dock-g2-thunderbolt-setup-obtain-the-essential-120w230w-device-drivers-today/"><u>Ultimate Guide to HP Dock G2 Thunderbolt Setup: Obtain the Essential 120W/230W Device Drivers Today</u></a></li>
-<li><a href="https://games-able.techidaily.com/whats-behind-the-price-tag-on-virtual-realities-4-insights/"><u>What's Behind the Price Tag on Virtual Realities? 4 Insights</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-engaging-audiences-full-rotational-cinematography/"><u>[New] In 2024, Engaging Audiences Full Rotational Cinematography</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-creators-revolutionizing-virtual-environments/"><u>[New] Top Creators Revolutionizing Virtual Environments</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-address-mobile-devices-stalled-fb-videos/"><u>[Updated] In 2024, Address Mobile Devices Stalled FB Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-accelerate-vimeo-videos-the-guide/"><u>2024 Approved Accelerate Vimeo Videos The Guide</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>6 Ways to Change Spotify Location On Your Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-yellowed-displays-via-windows-settings/"><u>Correcting Yellowed Displays via Windows Settings</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-the-best-strategies-for-finding-superior-indie-gaming-on-itchio/"><u>Decoding the Best Strategies for Finding Superior Indie Gaming on Itch.io</u></a></li>
+<li><a href="https://games-able.techidaily.com/end-of-platform-locked-titles-a-positive-change/"><u>End of Platform-Locked Titles - A Positive Change</u></a></li>
+<li><a href="https://games-able.techidaily.com/fix-for-components-mandatory-error-in-windows-10-and-11/"><u>Fix for “Components Mandatory” Error in Windows 10 & 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-analysis-of-yuneecs-typhoon-h-drone-technology/"><u>In 2024, In-Depth Analysis of Yuneec's Typhoon H Drone Technology</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-system-glitches-locating-and-resolving-windows-error-codes-with-command-line-prowess/"><u>Navigating System Glitches: Locating & Resolving Windows Error Codes with Command Line Prowess</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essential-guide-to-connecting-a-ps4-on-pcmac/"><u>The Essential Guide to Connecting a PS4 on PC/Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-thrill-of-playing-enjoy-netflixs-game-series/"><u>The Thrill of Playing - Enjoy Netflix’s Game Series</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-method-for-cancelling-subscriptions-in-steam/"><u>The Ultimate Method for Cancelling Subscriptions in Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-6-seductive-elements-in-modern-gaming-apps/"><u>Top 6 Seductive Elements in Modern Gaming Apps</u></a></li>
 </ul></div>
 

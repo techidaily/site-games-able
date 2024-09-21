@@ -1,7 +1,7 @@
 ---
 title: "Unlock Your PS4 Potential: New Setup"
-date: 2024-09-12T16:16:42.472Z
-updated: 2024-09-15T16:40:58.783Z
+date: 2024-09-16T01:51:37.959Z
+updated: 2024-09-21T01:32:03.367Z
 tags:
   - games
 categories:
@@ -45,31 +45,24 @@ thumbnail: https://thmb.techidaily.com/1766f7bb7d62dccbd0941bc3a3d98f6308c902e15
 
  On the flip side, if you’ve got a used PS4 and the previous owner hasn’t factory reset it, you can reset it to remove any traces of their data.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Factory Reset Your PS4
 
  If you don't have a boot issue with your PS4 and your console turns on just fine, you can reset your console using one of the options in the settings. However, you should deactivate your account on your PS4 before resetting it to avoid any complications when signing in later.
 
  If you have important data that's going to be lost or difficult to download after the reset, you can safely[back up your PS4 data](https://www.makeuseof.com/how-to-back-up-restore-ps4-data/) before proceeding with the steps below.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. How to Deactivate Your Account on Your PS4
 
  The first thing you should do is deactivate your account on your console. Doing this removes the ability to play your downloaded games on this console and helps avoid sign-in issues at other places where you use your account.
 
 ![Deactivate an account on the PS4](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/deactivate-account-ps4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Here's how to deactivate your account on your PS4:
 
@@ -79,13 +72,6 @@ Here's how to deactivate your account on your PS4:
 4. Select**Deactivate** followed by**Yes** to deactivate your account on this console.
 
  The**Activate** button will be grayed out because your account is already active on this PS4.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. How to Factory Reset Your PlayStation 4
 
@@ -107,6 +93,13 @@ Here's how to deactivate your account on your PS4:
  It'll take a while before your PS4 is fully reset. You can track the reset progress using the progress indicator on your screen.
 
  Once the reset is complete, your PS4 will boot to display the first-time setup guide. You have now successfully wiped all the data from your PS4.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Factory Reset Your PS4 in Safe Mode
 
@@ -139,6 +132,13 @@ Your PS4 will now perform a factory reset.
 
  To reinstall the system firmware, you will need a computer and a USB flash drive. You need to move the firmware software from your computer to a USB flash drive, which you will then connect to your PS4 to install the software.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Preparing a USB Drive for a PS4 Software Reinstall
 
  Your flash drive should have at least 2GB of space to store the PS4 firmware file. You might have to format the USB drive, so make sure to[back up your USB drive](https://www.makeuseof.com/windows-11-external-usb-back-up/) first. Once you're ready, follow the steps below:
@@ -153,18 +153,18 @@ Your PS4 will now perform a factory reset.
 
 ![PS4 software reinstall file on a USB drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/ps4-software-reinstall-file-on-a-usb-drive.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Reinstalling the Firmware on Your PS4
 
  After you've got the USB drive ready, it's time to connect it to your PS4 and reinstall the software. Follow these steps:
 
 ![Reinstall software on the PS4](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/reinstall-software-ps4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Mahesh Makvana/MUO
 
@@ -193,20 +193,20 @@ Mahesh Makvana/MUO
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-convert-your-webcam-to-vlc-clip/"><u>[New] In 2024, Convert Your Webcam to VLC Clip</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-wrapping-up-with-impactful-endings/"><u>[New] In 2024, Wrapping Up with Impactful Endings</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-apple-m1-pro-vs-m1-max-whats-the-difference-for-2024/"><u>[Updated] Apple M1 Pro Vs. M1 Max What's the Difference for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-a-practical-approach-to-scheduling-on-zoom-platforms/"><u>2024 Approved A Practical Approach to Scheduling on Zoom Platforms</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhance-virtual-reality-with-ps-vr2-perks/"><u>Enhance Virtual Reality with PS VR2 Perks</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-skills-essential-strategies-for-cs2-mac-edition/"><u>Enhancing Skills: Essential Strategies for CS2, Mac Edition</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-itel-p55t-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Itel P55T Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/infinix-note-30-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Note 30 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-game-play-mac-compatible-console-emulators/"><u>Mastering Game Play: Mac-Compatible Console Emulators</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-downloading-and-installing-hp-deskjet-3520-drivers/"><u>Step-by-Step Guide to Downloading and Installing HP Deskjet 3520 Drivers</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/storage-galore-selecting-top-ps5-hddsssds-for-2024/"><u>Storage Galore Selecting Top PS5 HDDs/SSDs for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamlining-gaming-experience-connect-controllers-to-android-devices/"><u>Streamlining Gaming Experience: Connect Controllers to Android Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-for-overcoming-black-screen-on-store-app/"><u>Tips for Overcoming Black Screen on Store App</u></a></li>
-<li><a href="https://games-able.techidaily.com/windows-steam-workaround-for-read-only-folder-problems/"><u>Windows Steam Workaround for Read-Only Folder Problems</u></a></li>
-<li><a href="https://games-able.techidaily.com/winning-strategies-tackling-fps-changes-in-valorant-on-windows/"><u>Winning Strategies: Tackling FPS Changes in Valorant on Windows</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-advanced-techniques-in-xbox-gaming-recording-setup/"><u>[New] 2024 Approved Advanced Techniques in Xbox Gaming Recording Setup</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-exclusive-12-video-hourly-livestream-service/"><u>[New] Exclusive 12 Video Hourly Livestream Service</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-from-blank-canvas-to-biggest-hit-mastering-youtube-thumbnail-sizes/"><u>[New] In 2024, From Blank Canvas to Biggest Hit Mastering YouTube Thumbnail Sizes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-financial-frontiers-unveiling-pewdiepies-income-graph/"><u>[Updated] Financial Frontiers Unveiling PewDiePie's Income Graph</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-aquatic-adventures-unveiled-tips-on-captivating-underwater-video-with-a-gopro/"><u>2024 Approved Aquatic Adventures Unveiled Tips on Captivating Underwater Video with a GoPro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chuckling-ai-pc-history-and-enhanced-web-safety-chronicles/"><u>Chuckling AI: PC History & Enhanced Web Safety Chronicles</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-lenovo-legion-gos-exciting-updates/"><u>Discovering Lenovo Legion Go's Exciting Updates</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhanced-ai-communication-responding-with-purpose-to-prompts/"><u>Enhanced AI Communication: Responding with Purpose to Prompts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-traits-the-selection-guide-to-chatbot-services/"><u>Essential Traits: The Selection Guide to Chatbot Services</u></a></li>
+<li><a href="https://games-able.techidaily.com/fortnite-spending-guide-for-sony-psp5-users/"><u>Fortnite Spending Guide for Sony PSP5 Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/gameplay-enhancement-with-mechanical-keys/"><u>Gameplay Enhancement with Mechanical Keys</u></a></li>
+<li><a href="https://games-able.techidaily.com/raising-red-flags-inappropriate-actions-on-series-xs/"><u>Raising Red Flags: Inappropriate Actions on Series X/S</u></a></li>
+<li><a href="https://games-able.techidaily.com/secure-your-switch-a-step-by-step-guide-to-enabling-screen-lock/"><u>Secure Your Switch: A Step-by-Step Guide to Enabling Screen Lock</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-external-drive-setup-guide-for-games/"><u>Steam's External Drive Setup Guide for Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-game-experience-with-these-tips/"><u>Transform Your Game Experience with These Tips</u></a></li>
 </ul></div>
 

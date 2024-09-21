@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT's Magic: Crafting a Detective Game From the Tales of Sherlock Holmes"
-date: 2024-09-18 17:26:32
-updated: 2024-09-20 10:34:12
+date: 2024-09-19T00:13:01.094Z
+updated: 2024-09-20T18:21:43.819Z
 tags:
   - gaming
 categories:
@@ -59,6 +59,19 @@ There's a single screw holding the cover in place; remove it and set it aside in
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Move the screw and spacer inside the SSD housing
 
 With the expansion slot cover removed, locate and remove the screw and spacer near the end of the SSD housing. 
@@ -70,6 +83,13 @@ There are various holes inside the SSD housing that correspond with the various 
 I then placed the spacer over the hole -- it's held in place by three dots, so don't worry about perfectly lining it up or keeping it in place. 
 
 Jason Cipriani/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Insert the SSD and use the mounting screw
 
@@ -120,11 +140,27 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-detailed-analysis-tunefab-screen-tools/"><u>[Updated] 2024 Approved Detailed Analysis Tunefab Screen Tools</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-lore-legends-top-10-roguelike-experiences/"><u>[Updated] Lore Legends Top 10 Roguelike Experiences</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-maximize-engagement-learn-from-tubebuddy-experts/"><u>[Updated] Maximize Engagement - Learn From TubeBuddy Experts</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-troubleshooting-why-arent-your-recommended-fb-videos-displayed-in-2024/"><u>[Updated] Troubleshooting Why Aren't Your Recommended FB Videos Displayed, In 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/a-comprehensive-guide-to-disabling-sound-optimization-in-windows-10-systems/"><u>A Comprehensive Guide to Disabling Sound Optimization in Windows 10 Systems</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/embracing-the-classics-how-i-prefer-retro-gaming-over-modern-titles/"><u>Embracing the Classics: How I Prefer Retro Gaming Over Modern Titles</u></a></li>
+<li><a href="https://program-issues.techidaily.com/experience-the-epic-battle-god-of-wars-first-person-shooter-released-on-pc/"><u>Experience the Epic Battle - God of War's First-Person Shooter Released on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-non-functional-mic-on-steelseries-arctis-prime-headset/"><u>Fixing the Issue: Non-Functional Mic on SteelSeries Arctis Prime Headset</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-xbox-one-play-anyhow/"><u>Mastering Xbox One: Play Anyhow!</u></a></li>
+<li><a href="https://games-able.techidaily.com/opera-gx-and-edge-showdown-top-picks-for-game-browsers-ranked/"><u>Opera GX & Edge Showdown: Top Picks for Game Browsers Ranked</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-integration-subscribing-and-maximizing-ps5s-ea-play/"><u>Seamless Integration: Subscribing & Maximizing PS5's EA Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-gpu-heat-impact-in-gaming/"><u>Understanding GPU Heat Impact in Gaming</u></a></li>
+</ul></div>
+

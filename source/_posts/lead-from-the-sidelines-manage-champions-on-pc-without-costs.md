@@ -1,7 +1,7 @@
 ---
 title: "Lead From the Sidelines: Manage Champions on PC without Costs"
-date: 2024-09-12T16:50:16.136Z
-updated: 2024-09-15T16:21:00.325Z
+date: 2024-09-13T20:32:45.428Z
+updated: 2024-09-20T16:09:18.845Z
 tags:
   - games
 categories:
@@ -62,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/33bb4081d4eeefa2b002761f140e6d8a1ab23c4b8
 
  You should now see a new virtual CD drive within File Explorer. Click**This PC** in Explorer’s sidebar to view drives there. There you’ll see a CM0102 CD drive with the letter you selected for it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Install Championship Manager 01/02 With Its Setup Wizard
 
  The final stage is to install Championship Manager 01/02 with its setup wizard. That setup wizard is accessible on the virtual disc drive mounted with the ISO. You can install Championship Manager 01/02 as follows:
@@ -71,38 +78,12 @@ thumbnail: https://thmb.techidaily.com/33bb4081d4eeefa2b002761f140e6d8a1ab23c4b8
 ![The Setup.exe file for Championship Manager 01/02](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-setup-exe-file.jpg)
 3. Select**English** and click**OK** on the**Choose Setup Language** drop-down menu.
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Click**Yes** to continue within the setup screen.
 5. Select**Browse** to choose an installation directory for the game and click**Next** again.  
 ![The Browse option in the Championship Manager setup screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-browse-option.jpg)
 6. The**Typical** setup option will be selected by default. Click**Next** to continue with that option selected.  
 ![The Typical option in the Championship Manager setup screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-typical-option.jpg)
 7. Select**Next** again to install Championship Manager 01/02.
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 8. Click**Yes** when asked about creating a Championship Manager 01/02 desktop shortcut.
 9. Select**Finish** to leave the setup screen.
@@ -112,6 +93,13 @@ thumbnail: https://thmb.techidaily.com/33bb4081d4eeefa2b002761f140e6d8a1ab23c4b8
 ![The Championship Manager 01/02 title screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/championship-manager-game.jpg)
 
  Press the**Start New Game** button to select the countries to include in your game. Input your manager’s name and select a nationality. Then choose a club team to manage in one of the countries.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Start Your Soccer Management Career in Championship Manager 01/02
 
@@ -132,19 +120,12 @@ thumbnail: https://thmb.techidaily.com/33bb4081d4eeefa2b002761f140e6d8a1ab23c4b8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-mastering-zoom-segregation-techniques-quickstart/"><u>[New] Mastering Zoom Segregation Techniques Quickstart</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-unveiling-the-capabilities-of-springs-advanced-screenscape/"><u>[New] Unveiling the Capabilities of Spring's Advanced Screenscape</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-how-to-post-a-link-on-instagram-stories-and-posts/"><u>[Updated] 2024 Approved How to Post a Link on Instagram Stories and Posts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-use-google-trends-to-come-up-with-video-ideas-for-2024/"><u>[Updated] How to Use Google Trends to Come up with Video Ideas for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-quick-fix-guide-repair-and-enhance-your-iphoneipadmacs-airdrop/"><u>[Updated] Quick-Fix Guide Repair and Enhance Your iPhone/iPad/Mac's AirDrop</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/collage-alchemy-transforming-scraps-into-art/"><u>Collage Alchemy Transforming Scraps Into Art</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-canon-printer-software-mp280-drivers-for-windows-11-8-and-7/"><u>Download Canon Printer Software MP280 Drivers for Windows 11, 8 & 7</u></a></li>
-<li><a href="https://games-able.techidaily.com/effective-strategies-for-uninstalling-and-redownloading/"><u>Effective Strategies for Uninstalling & Redownloading</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/expert-obs-tutorial-for-effective-skype-recording-for-2024/"><u>Expert OBS Tutorial for Effective Skype Recording for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/keeping-up-with-your-switch-essential-care-routine/"><u>Keeping Up With Your Switch: Essential Care Routine</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/quickquip-quartermotion-grip-for-2024/"><u>QuickQuip QuarterMotion Grip for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/simplify-your-game-collection-emulating-classics-using-steam-deck-and-emudeck/"><u>Simplify Your Game Collection: Emulating Classics Using Steam Deck and EmuDeck</u></a></li>
-<li><a href="https://games-able.techidaily.com/synchronizing-audio-devices-for-ps5/"><u>Synchronizing Audio Devices for PS5</u></a></li>
-<li><a href="https://games-able.techidaily.com/tecnos-brilliant-blend-of-slim-and-spectacle-designs/"><u>Tecno's Brilliant Blend of Slim and Spectacle Designs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlock-social-media-success-a-comprehensive-10-step-plan/"><u>[New] Unlock Social Media Success A Comprehensive 10-Step Plan</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/comparing-top-tech-does-active-live-up-to-hype-in-2024/"><u>Comparing Top Tech Does Active Live Up to Hype, In 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/introducing-fix-it-x-the-end-of-console-quirks/"><u>Introducing Fix-It X: The End of Console Quirks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/livestream-audiovideo-creators-hub-for-2024/"><u>LiveStream Audio/Video Creators Hub for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/rhythm-riddler-unravel-the-best-music-quiz-apps/"><u>Rhythm Riddler: Unravel the Best Music Quiz Apps</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solution-for-bsod-error-0x0000007e-on-microsofts-windows-7/"><u>Step-by-Step Solution for BSOD Error 0X0000007E on Microsoft's Windows 7</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-series-x-persistent-connectivity-tips/"><u>Xbox Series X: Persistent Connectivity Tips</u></a></li>
 </ul></div>
 

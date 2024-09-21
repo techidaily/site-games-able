@@ -1,7 +1,7 @@
 ---
 title: "Score Big Savings: Up To 33%% Off On Xbox Game Pass With The Exclusive Fire TV Stick Offer For Labor Day Weekend - Insider Alert!"
-date: 2024-09-19 23:21:17
-updated: 2024-09-20 10:19:46
+date: 2024-09-14T17:59:12.955Z
+updated: 2024-09-21T00:09:13.723Z
 tags:
   - gaming
 categories:
@@ -59,6 +59,13 @@ There's a single screw holding the cover in place; remove it and set it aside in
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Move the screw and spacer inside the SSD housing
 
 With the expansion slot cover removed, locate and remove the screw and spacer near the end of the SSD housing. 
@@ -76,6 +83,19 @@ Jason Cipriani/ZDNET
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -120,11 +140,27 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-how-to-implement-google-meets-grid-view-feature/"><u>[New] 2024 Approved How to Implement Google Meet's Grid View Feature</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-best-live-cricket-watch-tactics-unveiled/"><u>[Updated] 2024 Approved Best Live Cricket Watch Tactics Unveiled</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-mastering-mobile-and-dslr-shooting-igtv-with-perfection/"><u>2024 Approved Mastering Mobile & DSLR Shooting IGTV with Perfection</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-cannabinoids-penetrate-the-blood-brain-barrier-for-therapeutic-effects/"><u>How Cannabinoids Penetrate the Blood-Brain Barrier for Therapeutic Effects</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y55s-5g-2023-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y55s 5G (2023) Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mastering-fcp-a-beginners-guide-to-saving-and-exporting-projects/"><u>Mastering FCP A Beginners Guide to Saving and Exporting Projects</u></a></li>
+<li><a href="https://games-able.techidaily.com/reimagining-your-presence-riot-game-name-and-tagline-shift/"><u>Reimagining Your Presence: Riot Game Name & Tagline Shift</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-guide-to-merge-sony-and-nintendo-joy-cons/"><u>Step-by-Step Guide to Merge Sony & Nintendo Joy-Cons</u></a></li>
+<li><a href="https://games-able.techidaily.com/streams-return-policy-maximizing-your-refund-potential/"><u>Stream's Return Policy: Maximizing Your Refund Potential</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-of-both-worlds-ar-and-outdoor-games/"><u>The Best of Both Worlds: AR & Outdoor Games</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-ultimate-list-video-makers-with-music-for-android-iphone-and-ipad/"><u>Updated In 2024, The Ultimate List Video Makers with Music for Android, iPhone, and iPad</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
+</ul></div>
+

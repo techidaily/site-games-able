@@ -1,7 +1,7 @@
 ---
 title: "Flash Into Action: Continuing Game Adventures without Adobe"
-date: 2024-09-09T16:10:56.141Z
-updated: 2024-09-15T17:02:37.149Z
+date: 2024-09-16T02:37:49.719Z
+updated: 2024-09-21T01:31:41.453Z
 tags:
   - games
 categories:
@@ -55,13 +55,6 @@ thumbnail: https://thmb.techidaily.com/85e59c055b67b955137888fcf7f73876f5aa86545
 
 ![A screenshot of BlueMaxima's Flashpoint home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/bluemaximas-flashpoint-home-page-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Efforts to save Flash games began with the individual contributions of Ben Latimore[(Medium)](https://medium.com/@bluemaximax011) . After Latimore published a[Medium article](https://medium.com/@bluemaximax011/adobe-flashs-gaming-legacy-thousands-upon-thousands-of-titles-and-my-efforts-to-save-it-58c14811558a) that gathered very positive attention over his efforts, Flashpoint turned into the international web game preservation project that it is now.
 
  Latimore’s efforts started in January 2018, in an attempt to outrun the loss of content before the death of Flash. Since then, Flashpoint has evolved into a preservation project for web games and animations created for different internet plugins, frameworks, and standards.
@@ -71,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/85e59c055b67b955137888fcf7f73876f5aa86545
  BlueMaxima’s Flashpoint uses a custom-built launcher, Apache, and its very own app, Flashpoint Secure Player. With these, you can play web-based media in a quick, user-friendly environment without leaving permanent changes or security holes on your computer.
 
  Flashpoint offers two versions of its software:**Ultimate** , a 478GB full-size version that contains every piece of media saved by the project in an offline-ready format, and**Infinity** , a smaller 500MB version that allows you to download and play Flash games without Flash at will.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2. The Flash Game Archive
 
@@ -85,15 +85,22 @@ thumbnail: https://thmb.techidaily.com/85e59c055b67b955137888fcf7f73876f5aa86545
  Games and other media are stored in a data center, with over 4000 games currently in the archive. With each update, more games are added to the Flash Game Archive.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3. The Internet Archive
 
 ![internet archive software library webpage screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/internet-archive-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Internet Archive, the non-profit digital library of internet sites and other cultural artifacts famous for[the Wayback Machine](https://archive.org/web/) , is now emulating Flash games and content. Following its tenet, "access drives preservation," the Internet Archive launched the Emularity project, which makes a wide range of old software run.
 
@@ -104,13 +111,6 @@ thumbnail: https://thmb.techidaily.com/85e59c055b67b955137888fcf7f73876f5aa86545
 ### 4. Newgrounds
 
 ![newgrounds website homepage screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/new-grounds-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Newgrounds, the online entertainment website and company (yes, the same one that helped catapult Flash games to greatness), is another organization that is helping preserve and play Flash games without Flash. Having been home to over 20 years of content built using Flash, it intends to continue to be so even after browsers removed Flash plugin support.
 
@@ -139,19 +139,14 @@ thumbnail: https://thmb.techidaily.com/85e59c055b67b955137888fcf7f73876f5aa86545
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-visual-narratives-the-technique-of-inserting-text-in-photos-pcmac-for-2024/"><u>[New] Visual Narratives The Technique of Inserting Text in Photos, PC/Mac for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-reducing-sound-interference-in-video-meetings/"><u>[Updated] 2024 Approved Reducing Sound Interference in Video Meetings</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-upgrade-your-geforce-gtx-1660-super-graphics-card-drivers/"><u>Download and Upgrade Your GeForce GTX 1660 Super Graphics Card Drivers</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-factory-reset-iphone-6-plus-and-ipad-without-apple-id-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Factory Reset iPhone 6 Plus and iPad Without Apple ID | Stellar</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-revive-unreachable-friends-list-steam/"><u>How to Revive Unreachable Friends List Steam</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-poco-x6-pro-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Poco X6 Pro to Roku | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-poco-x5-pro-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Poco X5 Pro Is Unlocked</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID on Your Apple iPhone 14 Plus?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-iphone-se-2022-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, iPhone SE (2022) iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://games-able.techidaily.com/increase-gaming-efficiency-2-proven-strategies-for-checking-android-fps/"><u>Increase Gaming Efficiency: 2 Proven Strategies for Checking Android FPS</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-steams-user-discovery-methods/"><u>Mastering Steam's User Discovery Methods</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-xbox-control-panel-controlling-backlight-intensity/"><u>Mastering Xbox Control Panel: Controlling Backlight Intensity</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/seamless-performance-boost-for-razer-keyboards-quick-mamba-driver-installation-guide/"><u>Seamless Performance Boost for Razer Keyboards: Quick Mamba Driver Installation Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/strategies-for-stealthy-gameplay/"><u>Strategies for Stealthy Gameplay</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-enhancing-roku-experience-for-facebook-live-broadcasts/"><u>[New] Enhancing Roku Experience for Facebook Live Broadcasts</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-cozy-games-widespread-favor/"><u>Decoding Cozy Games' Widespread Favor</u></a></li>
+<li><a href="https://games-able.techidaily.com/hot-deals-galore-playstations-midsummer-sale/"><u>Hot Deals Galore: PlayStation’s Midsummer Sale</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-vivo-y200-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-vivo-y27-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Vivo Y27 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-steam-login-interruptions-on-rust-pcs/"><u>Mastering Steam Login Interruptions on Rust PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-subscription-entertainment-psplus-vs-xbgplus/"><u>Seamless Subscription Entertainment: PS+ Vs. XBG+</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-4-complimentary-cad-software-options-you-should-know-about/"><u>Top 4 Complimentary CAD Software Options You Should Know About</u></a></li>
 </ul></div>
 

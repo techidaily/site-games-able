@@ -1,7 +1,7 @@
 ---
 title: Optimizing Virtual Realms for Gaming Success
-date: 2024-09-09T16:43:20.510Z
-updated: 2024-09-15T16:17:01.683Z
+date: 2024-09-17T21:29:12.169Z
+updated: 2024-09-21T00:01:11.635Z
 tags:
   - games
 categories:
@@ -42,16 +42,10 @@ thumbnail: https://thmb.techidaily.com/1ddec9a0b5a6c3e1804c33a43db9c91ffd9d92f92
  Alongside using compressed textures, it’s also worth making sure that the shaders you use are well-optimized. Most game engines have an asset store with both free and paid shaders available to make this easier. You can also find[free 3D models on the Unity Asset Store](https://www.makeuseof.com/unity-free-assets-websites/) that are already optimized, and this applies to other engines, too.
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Use Static Lighting
@@ -69,34 +63,28 @@ thumbnail: https://thmb.techidaily.com/1ddec9a0b5a6c3e1804c33a43db9c91ffd9d92f92
  The engine can automatically remove polygons from an object’s mesh when the player is far away, lowering resource costs without impacting immersion.
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3D Model Game Optimization: Design Workflow
 
 ![3d designer working at PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3d-designer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Designing 3D models that are optimized for video game development is easier than you might expect. This process mostly involves stripping your model down to ensure that it only has the vertices, lines, and faces that it needs. There are several ways to achieve this.
 
 ### Manual Geometry Optimization
 
 ![monkey model in blender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/manual-3d-optimization.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Optimizing simple geometry by hand is a good way to get used to designing models for video games. You have two main options for removing faces, lines, and vertices in 3D modeling software; deleting and dissolving.
 
@@ -135,20 +123,16 @@ thumbnail: https://thmb.techidaily.com/1ddec9a0b5a6c3e1804c33a43db9c91ffd9d92f92
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-eye-catcher-gaming-creating-striking-template-designs-for-2024/"><u>[New] Eye Catcher Gaming Creating Striking Template Designs for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-livestream-leaders-clash-for-2024/"><u>[Updated] LiveStream Leaders Clash for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-mastering-your-console-innovative-approaches-to-xbox-captures-for-2024/"><u>[Updated] Mastering Your Console Innovative Approaches to Xbox Captures for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-unleashing-potential-a-guide-to-setting-up-and-analyzing-instream-ads-in-fb-for-2024/"><u>[Updated] Unleashing Potential A Guide to Setting Up & Analyzing Instream Ads in FB for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-kinemasters-journey-through-seamless-segmentation/"><u>2024 Approved Kinemaster's Journey Through Seamless Segmentation</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhance-performance-high-grade-hardware-hype/"><u>Enhance Performance: High-Grade Hardware Hype</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/explore-and-download-the-latest-electronic-dance-music-edm-for-2024/"><u>Explore & Download the Latest Electronic Dance Music (EDM) for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-factory-reset-a-playstation-4-ps4/"><u>How to Factory Reset a PlayStation 4 (PS4)</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-start-saving-smiles-on-youtube-a-beginners-mac-tutorial/"><u>In 2024, Start Saving Smiles on YouTube A Beginner's Mac Tutorial</u></a></li>
-<li><a href="https://games-able.techidaily.com/integrating-gamepad-on-your-android-essential-tips-and-tricks/"><u>Integrating Gamepad on Your Android: Essential Tips & Tricks</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-realme-11-pro-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Realme 11 Pro</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximizing-ps5-with-premium-complementary-items/"><u>Maximizing PS5 with Premium Complementary Items</u></a></li>
-<li><a href="https://games-able.techidaily.com/orbit-fabricator-scouting-for-superior-pcs/"><u>Orbit Fabricator: Scouting for Superior PCs</u></a></li>
-<li><a href="https://games-able.techidaily.com/tactical-triumph-navigating-the-top-11-strategy-titles/"><u>Tactical Triumph: Navigating the Top 11 Strategy Titles</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleash-the-full-potential-of-your-favorite-games-on-a-mac/"><u>Unleash the Full Potential of Your Favorite Games on a Mac</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725285346047-dvd-flick/"><u>DVD Flick</u></a></li>
+<li><a href="https://games-able.techidaily.com/eight-hilarious-miscommunication-moments-to-share-laughs/"><u>Eight Hilarious Miscommunication Moments to Share Laughs</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-nubia-red-magic-8s-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-novice-to-pro-pokemon-gaming-secrets-revealed/"><u>From Novice to Pro: Pokémon Gaming Secrets Revealed</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-stop-mouse-scroll-jittering/"><u>How to Stop Mouse Scroll Jittering</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-11-pro-max-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 Pro Max Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-texting-issues-discover-10-effective-remedies-to-restore-sms-functionality/"><u>IPhone Texting Issues? Discover 10 Effective Remedies to Restore SMS Functionality</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-servers-problems-quick-and-effective-tips/"><u>Navigating Through Servers Problems: Quick & Effective Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175691181-noctuas-premium-next-gen-flagship-cooler-launches-experience-the-power-of-the-nh-d15-g2-for-150/"><u>Noctua's Premium Next-Gen Flagship Cooler Launches - Experience the Power of the NH-D15 G2 for $150</u></a></li>
+<li><a href="https://games-able.techidaily.com/revisiting-xbox-classics-xemus-guide-for-pc/"><u>Revisiting Xbox Classics: Xemu's Guide for PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-liberating-tracks-with-pazeras-tools-for-2024/"><u>The Ultimate Guide to Liberating Tracks with Pazera's Tools for 2024</u></a></li>
 </ul></div>
 

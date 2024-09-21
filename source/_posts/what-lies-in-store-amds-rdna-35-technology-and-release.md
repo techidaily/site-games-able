@@ -1,7 +1,7 @@
 ---
 title: "What Lies in Store: AMD's RDNA 3.5 Technology & Release"
-date: 2024-09-12T16:10:56.614Z
-updated: 2024-09-15T16:15:48.498Z
+date: 2024-09-13T22:23:31.015Z
+updated: 2024-09-20T17:28:21.771Z
 tags:
   - games
 categories:
@@ -47,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/0244557d86d8e1a27dc054dedba4a1385b1696e50
 
  AMD often launches CPUs at CES (the Consumer Electronics Show held annually in January), so there's a chance RNDA 3.5 will be introduced to the world in January 2024\. Other than that, it's anybody's guess when AMD will announce the new architecture.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Performance Improvements Will RDNA 3.5 Bring Over RDNA 3?
 
  With the limited information available, it's hard to tell how much of a lead RDNA 3.5 will be over previous RDNA generations, namely RDNA 3 and 2\. However, we can take a look at the CPUs and APUs that RDNA 3.5 will be launching with to get an idea of how it'll perform.
@@ -63,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/0244557d86d8e1a27dc054dedba4a1385b1696e50
 ![HWiNFO screenshot showing Ryzen 8000 CPU specs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/rdna3-5-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image Credit:[Performance Databases](https://performancedatabases.com/Content/Leak/Details/2023-09-01/Content.php)
@@ -74,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/0244557d86d8e1a27dc054dedba4a1385b1696e50
  It seems like RDNA 3.5 will be making its debut in AMD's mobile APU lineup. The decision makes sense considering what it has achieved in gaming handhelds with RDNA 2 and RDNA 3 (for example, with the Steam Deck, Asus ROG Ally, and the upcoming Lenovo Legion Go). The Zen 5-powered CPU, armed with its 16 RDNA 3.5 GPU compute cores, should theoretically provide a big GPU performance boost over its predecessors.
 
  That said, the processor is still in its engineering sample (ES) state, so it's hard to say whether this performance will translate to real-world usage. Additionally, the screenshot also claims only 512 MB of GDDR6 video memory, which is almost certainly due to unfinished drivers for the unsupported APU or any other errors on the software side.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## RDNA 3.5 Aims to Turn the Tide in AMD's Favor
 
@@ -94,19 +94,17 @@ thumbnail: https://thmb.techidaily.com/0244557d86d8e1a27dc054dedba4a1385b1696e50
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-seo-masterclass-unlocking-the-secrets-to-higher-podcast-visibility/"><u>[New] 2024 Approved SEO Masterclass Unlocking the Secrets to Higher Podcast Visibility</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-pcs-picks-the-finest-ps1-game-emulators/"><u>[Updated] 2024 Approved PC's Picks The Finest PS1 Game Emulators</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-blended-vocalists-one-platform-at-a-time/"><u>2024 Approved Blended Vocalists, One Platform at a Time</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-transition-techniques-decreasing-volume-gradually-in-pp/"><u>2024 Approved Transition Techniques Decreasing Volume Gradually in PP</u></a></li>
-<li><a href="https://games-able.techidaily.com/does-a-faster-resume-make-all-the-difference-for-xbox-sx/"><u>Does a Faster Résumé Make All the Difference for Xbox S/X?</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-a-multi-os-future-with-steam-deck/"><u>Exploring a Multi-OS Future with Steam Deck</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-your-realtek-microphone-up-and-running-again/"><u>How to Get Your Realtek Microphone Up and Running Again</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-prevent-your-ps4-remote-from-disconnecting-on-windows/"><u>How to Prevent Your PS4 Remote From Disconnecting on Windows</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-iphone-xr-and-android-phones-by-drfone-ios/"><u>In 2024, Top IMEI Unlokers for iPhone XR and Android Phones</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/launch-a-creative-vision-start-xps-moviemaker-suite/"><u>Launch a Creative Vision, Start Xp’s Moviemaker Suite</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximize-your-consoles-lifespan-with-breaks/"><u>Maximize Your Console's Lifespan with Breaks</u></a></li>
-<li><a href="https://games-able.techidaily.com/premium-charger-selections-for-sonys-ps5-dualsense/"><u>Premium Charger Selections for Sony's PS5 DualSense</u></a></li>
-<li><a href="https://games-able.techidaily.com/regional-rendezvous-set-your-consoles-time-zone/"><u>Regional Rendezvous: Set Your Console's Time Zone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/smartphone-image-editing-ios-and-androids-top-picks-2e-edition/"><u>Smartphone Image Editing IOS & Android's Top Picks (2E Edition)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-essential-guide-non-commercial-android-recorder-choice/"><u>[New] 2024 Approved Essential Guide Non-Commercial Android Recorder Choice</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-easy-screencasting-techniques-systematic-guidebook-for-2024/"><u>[New] Easy Screencasting Techniques Systematic Guidebook for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-ad-elimination-techniques-for-chrome-and-safari-users/"><u>[Updated] YouTube Ad Elimination Techniques for Chrome & Safari Users</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-professional-choice-high-quality-laptops-for-media-workers/"><u>2024 Approved Professional Choice High-Quality Laptops for Media Workers</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminate-the-shrinkage-your-guide-to-a-stable-window/"><u>Eliminate the Shrinkage: Your Guide to a Stable Window</u></a></li>
+<li><a href="https://games-able.techidaily.com/emulate-the-past-turning-psp-into-retro-playstation-portable/"><u>Emulate the Past: Turning PSP Into Retro PlayStation Portable</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-money-saving-gaming-with-xbox-s/"><u>Mastering Money-Saving Gaming with Xbox S</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-gpt-compatibility-issues-for-successful-windows-setup/"><u>Overcoming GPT Compatibility Issues for Successful Windows Setup</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/supreme-session-naming-service-for-2024/"><u>Supreme Session Naming Service for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/understanding-imovie-video-trimming/"><u>Understanding iMovie Video Trimming</u></a></li>
+<li><a href="https://games-able.techidaily.com/uniting-gamers-no-more-single-platform-tales/"><u>Uniting Gamers: No More Single-Platform Tales</u></a></li>
+<li><a href="https://program-issues.techidaily.com/win-over-frequent-fuser-breakdowns-a-complete-guide-to-fix-and-enhance-your-system-stability-on-pc/"><u>Win Over Frequent Fuser Breakdowns: A Complete Guide to Fix and Enhance Your System Stability on PC</u></a></li>
 </ul></div>
 

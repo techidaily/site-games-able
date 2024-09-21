@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Mystery: PS4 and PS5 Console Connectivity"
-date: 2024-09-14T16:40:47.069Z
-updated: 2024-09-15T16:29:37.896Z
+date: 2024-09-16T01:42:44.475Z
+updated: 2024-09-21T00:46:27.149Z
 tags:
   - games
 categories:
@@ -45,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/4f252061500e08e9c2f2521977c5b0253a5006254
  One example of why this might be the case is if you purchased a PS3 game and then upgraded it to the PS4 version. These PS4 games won’t work on the PS5 because you still need the PS3 disc to play them. While PS4 discs do work on the PS5, PS3 ones don’t.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Do I Play PS4 Games on My PS5?
@@ -58,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/4f252061500e08e9c2f2521977c5b0253a5006254
 ### 1\. Play PS4 Games on Your PS5 Using the Disc Drive
 
 ![playstation 4 game disc boxes](https://thmb.techidaily.com/92449e9d9f3ee8946cb03a78041d2307431f0fc5eaad89567c354cd2fc066c4c.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  charnsitr/[Shutterstock](https://www.shutterstock.com/image-photo/bangkok-thailand-october-19-2016-pile-520391851)
 
@@ -87,6 +94,13 @@ thumbnail: https://thmb.techidaily.com/4f252061500e08e9c2f2521977c5b0253a5006254
 
 ![Game Library Tab PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/game-library-tab-ps5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Head to your**Games Library** by scrolling to the very right on your Home Screen and navigating to**Your Collection** . This is where you will find all the digital titles you have purchased through your PS Account.
 
  Go to the**Sort By icon** on the left, select**Platform** , and select**PS4** . That will allow you to isolate all the PS4 games in your collection. Scroll through the titles until you find your desired PS4 game and select it to re-download it onto your new console.
@@ -103,61 +117,35 @@ thumbnail: https://thmb.techidaily.com/4f252061500e08e9c2f2521977c5b0253a5006254
 
 ![PS5 Upgrade Offer Home Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ps5-upgrade-offer-home-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If there is no box on the right offering a PS5 upgrade, this doesn’t mean there isn’t one available for your PS4 game. Sometimes, a game’s DLC or other offers are displayed there instead. To check if there is a PS5 upgrade available, select the**three dots** below the game title.
 
 ![PS5 Upgrade via Game Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ps5-upgrade-via-game-menu.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If there is an upgrade available, you will see an option labeled**Select Version** . Press that to bring up all versions of the game and select the**PS5 version** to start downloading it.
 
 ![PS5 Upgrade Choose Version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ps5-upgrade-choose-version.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  These upgrades can cost money, so utilizing them is completely optional. You are more than welcome to simply play the PS4 version if you would prefer.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Are the PS5 Upgrades Worth It?
 
  If you are tempted by a PS5 upgrade but you're not sure if it's worth it, let's go over the benefits. Upgrading your PS4 game to the PS5 version not only gives the graphics a significant boost but also improves overall performance, allowing you to experience the game at a higher frame rate.
 
 ![PS4 and PS5 version of Marvel Spider Man Remastered](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ps4-and-ps5-version-of-marvel-spider-man-remastered.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Although the graphics and lighting effects in the PS5 version of Marvel's Spider-Man Remastered are dramatically improved, the PS4 version already looks great.
 
@@ -180,18 +168,17 @@ thumbnail: https://thmb.techidaily.com/4f252061500e08e9c2f2521977c5b0253a5006254
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-inside-the-world-of-xmedia-workshop-a-thorough-examination/"><u>[Updated] 2024 Approved Inside the World of XMedia Workshop A Thorough Examination</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-essential-toolkit-how-to-use-obs-for-youtube-and-twitch-streaming/"><u>[Updated] 2024 Approved The Essential Toolkit How to Use OBS for YouTube & Twitch Streaming</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-timing-your-insta-shots-for-maximum-impact-for-2024/"><u>[Updated] Timing Your Insta Shots for Maximum Impact for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-kodi-streaming-service-windows-media-replacement/"><u>2024 Approved Kodi Streaming Service Windows Media Replacement</u></a></li>
-<li><a href="https://games-able.techidaily.com/exquisite-office-mat-selection-guide-2024/"><u>Exquisite Office Mat Selection Guide 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-classics-to-cutting-edge-mmo-game-advancements/"><u>From Classics to Cutting-Edge: MMO Game Advancements</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-infinix-smart-8-hd-phone-by-drfone-android/"><u>How to Unlock a Network Locked Infinix Smart 8 HD Phone?</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-free-8-best-plugins-for-logic-pro-x/"><u>New 2024 Approved FREE 8 Best Plugins for Logic Pro X</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/into-personality-traits-top-6-quizzes-to-determine-youtuber-preferences-for-2024/"><u>Peek Into Personality Traits Top 6 Quizzes to Determine YouTuber Preferences for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/reducing-server-responses-achieving-faster-internet-connection/"><u>Reducing Server Responses: Achieving Faster Internet Connection</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-vivo-y36-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Vivo Y36</u></a></li>
-<li><a href="https://games-able.techidaily.com/steady-gameplay-for-xbox-s-controller/"><u>Steady Gameplay for Xbox S Controller</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ultimate-guide-installing-and-updating-the-epson-et-3760-printer-driver-on-windows/"><u>Ultimate Guide: Installing and Updating the Epson ET-3760 Printer Driver on Windows</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-melodic-memories-in-mobile-formats/"><u>[New] In 2024, Melodic Memories in Mobile Formats</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-leading-limitless-time-tracker-apps-for-2024/"><u>[Updated] Leading Limitless Time Tracker Apps for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitter-connect-optimizing-your-tiktok-content-for-2024/"><u>[Updated] Twitter Connect Optimizing Your TikTok Content for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-is-it-time-to-air-fb-videos-on-traditional-screens/"><u>2024 Approved Is It Time to Air FB Videos on Traditional Screens?</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-ps5-gadgets-that-transform-games/"><u>Exclusive PS5 Gadgets That Transform Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-nvidias-artificial-intelligence-in-dlss-35-development/"><u>Exploring Nvidia's Artificial Intelligence in DLSS 3.5 Development</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-completely-refresh-your-pc-a-comprehensive-guide-to-resetting-windows-10/"><u>How to Completely Refresh Your PC: A Comprehensive Guide to Resetting Windows 10</u></a></li>
+<li><a href="https://games-able.techidaily.com/immerse-in-conflict-11-best-ww2-commanders-cuts/"><u>Immerse in Conflict: 11 Best WW2 Commanders' Cuts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-mastering-gaming-nostalgia-discovering-the-most-acclaimed-gb-console-emulators-on-pc/"><u>In 2024, Mastering Gaming Nostalgia Discovering The Most Acclaimed GB Console Emulators on PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-hidden-dangers-of-over-relying-on-artificial-intelligence-learn-about-6-reasons-why-caution-is-key/"><u>The Hidden Dangers of Over-Relying on Artificial Intelligence - Learn About 6 Reasons Why Caution Is Key</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ideal-combo-3-streaming-apps-for-nintendo-switch/"><u>The Ideal Combo: 3 Streaming Apps for Nintendo Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-razers-ultimate-pc-setup-low-latency-and-high-performance/"><u>Unveiling Razer's Ultimate PC Setup - Low Latency & High Performance</u></a></li>
 </ul></div>
 

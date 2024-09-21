@@ -1,7 +1,7 @@
 ---
 title: Open Arms to Every Gamer's Preferences
-date: 2024-09-09T16:48:39.507Z
-updated: 2024-09-15T17:01:15.738Z
+date: 2024-09-14T16:06:10.050Z
+updated: 2024-09-20T21:30:30.464Z
 tags:
   - games
 categories:
@@ -64,16 +64,22 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
 
  The same is true for Nintendo, which has released games featuring some of its biggest characters (Mario, Pokemon) on smartphones. The company hasn't yet released a Mario game on a rival console, but that doesn't mean it never will.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why Platform Exclusives Are Going Away
 
 ![horizon forbidden west page on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/horizon-forbidden-west-page-on-steam.png)
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  So, why are platform exclusives coming to an end? The obvious answer is that they're no longer the best option available to the companies responsible. The benefits of opening titles up to everyone, regardless of platform, massively outweigh the benefits of keeping titles exclusive to one console. As outlined above, Phil Spencer, someone who should know, said as much.
 
@@ -87,18 +93,18 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
 
  This is especially true for Microsoft, as Game Pass Ultimate includes[Xbox Cloud Gaming](https://www.makeuseof.com/what-is-xbox-cloud-gaming-how-does-it-work/) . While currently in beta, this lets subscribers play Xbox games on a range of devices beyond Xbox consoles. This includes phones, tablets, PCs, smart TVs, and VR headsets.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why I'm Glad Platform Exclusives Are No More
 
  While gamers have all gotten used to platform exclusivity as a kind of default, that doesn't mean all of us were happy about it. I have owned at least one console in each generation, but couldn't afford to buy the other consoles released in that generation. And that meant missing out on certain games that were only available on specific platforms.
 
 ![The PlayStation icons picked out in neon lights](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/playstation-logos-in-neon.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  mkfilm/[Shutterstock](https://www.shutterstock.com/image-illustration/geometry-neon-lights-room-modern-blue-1933780073)
 
@@ -121,13 +127,13 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-snapshots-of-success-recording-your-switch-gaming/"><u>[New] 2024 Approved Snapshots of Success Recording Your Switch Gaming</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-explore-best-selections-for-youtube-ringtone-downloads/"><u>[New] Explore Best Selections for YouTube Ringtone Downloads</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-streamline-social-video-downloads-with-new-app/"><u>2024 Approved Streamline Social Video Downloads with New App</u></a></li>
-<li><a href="https://games-able.techidaily.com/creating-a-shared-playspace-on-ps5/"><u>Creating a Shared Playspace on PS5</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-y200-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo Y200 to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/key-practices-for-screen-recording-on-phones-for-2024/"><u>Key Practices for Screen Recording on Phones for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/protective-panels-the-new-standard-devices/"><u>Protective Panels: The New Standard Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/strategies-for-effortless-gaming-purchase-reversals-on-steam/"><u>Strategies for Effortless Gaming Purchase Reversals on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/glossi-guide-stream-xbox-game-pass-via-steam-connection/"><u>GlosSI Guide: Stream Xbox Game Pass via Steam Connection</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-dividing-drama-a-step-by-step-chapters-integration-on-vimeo/"><u>In 2024, Dividing Drama A Step-by-Step Chapters Integration on Vimeo</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-se-2020-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone SE (2020) Lock Screen with Notifications?</u></a></li>
+<li><a href="https://games-able.techidaily.com/minecraft-realms-unplugged-retrieve-your-landscapes/"><u>Minecraft Realms Unplugged: Retrieve Your Landscapes</u></a></li>
+<li><a href="https://games-able.techidaily.com/peek-into-the-future-amds-rdna-35-graphics-and-release-schedule/"><u>Peek Into the Future: AMD's RDNA 3.5 Graphics & Release Schedule</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-civi-3-disney-100th-anniversary-edition-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Civi 3 Disney 100th Anniversary Edition has been deleted</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/visionary-6-eco-friendly-minecraft-mansions-for-2024/"><u>Visionary 6 Eco-Friendly Minecraft Mansions for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/will-microsoft-ensure-the-survival-of-windows-11-until-and-after-2025-what-costs-are-involved/"><u>Will Microsoft Ensure the Survival of Windows 11 Until and After 2025? What Costs Are Involved?</u></a></li>
 </ul></div>
 

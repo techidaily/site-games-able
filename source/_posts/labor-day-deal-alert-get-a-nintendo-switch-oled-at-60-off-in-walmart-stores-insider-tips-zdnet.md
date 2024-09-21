@@ -1,7 +1,7 @@
 ---
 title: "Labor Day Deal Alert: Get a Nintendo Switch OLED at $60 Off in Walmart Stores, Insider Tips | ZDNet"
-date: 2024-09-17 22:58:16
-updated: 2024-09-20 10:37:24
+date: 2024-09-14T20:41:02.175Z
+updated: 2024-09-20T21:04:55.034Z
 tags:
   - gaming
 categories:
@@ -59,6 +59,13 @@ There's a single screw holding the cover in place; remove it and set it aside in
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Move the screw and spacer inside the SSD housing
 
 With the expansion slot cover removed, locate and remove the screw and spacer near the end of the SSD housing. 
@@ -70,6 +77,13 @@ There are various holes inside the SSD housing that correspond with the various 
 I then placed the spacer over the hole -- it's held in place by three dots, so don't worry about perfectly lining it up or keeping it in place. 
 
 Jason Cipriani/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Insert the SSD and use the mounting screw
 
@@ -120,11 +134,24 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-safeguard-your-videos-in-the-age-of-youtube/"><u>[Updated] How to Safeguard Your Videos in the Age of YouTube</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-overcoming-challenges-in-periscope-livestreams/"><u>2024 Approved Overcoming Challenges in Periscope Livestreams</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-vivo-s18-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Vivo S18 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/experience-future-portable-pc-power-in-pdw4/"><u>Experience Future Portable PC Power in PDW4</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-seamlessly-upgrade-ati-radeon-graphics-driver-software-on-windows-systems/"><u>How To Seamlessly Upgrade ATI Radeon Graphics Driver Software on Windows Systems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/personalize-your-viewing-experience-building-a-google-cardboard-vr-setup/"><u>Personalize Your Viewing Experience Building a Google Cardboard VR Setup</u></a></li>
+<li><a href="https://games-able.techidaily.com/quietude-steam-stays-off-at-startup/"><u>Quietude: Steam Stays Off at Startup</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-software-upgrade-logitech-mouse-and-w11-compatibility/"><u>Streamlined Software Upgrade: Logitech Mouse & W11 Compatibility</u></a></li>
+<li><a href="https://games-able.techidaily.com/tackling-xbox-ones-erratic-input-problems/"><u>Tackling Xbox One's Erratic Input Problems</u></a></li>
+<li><a href="https://games-able.techidaily.com/uniting-in-blocks-five-friend-focused-multiplayer-methods-in-mc/"><u>Uniting in Blocks: Five Friend-Focused Multiplayer Methods in MC</u></a></li>
+</ul></div>
+

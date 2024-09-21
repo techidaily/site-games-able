@@ -1,7 +1,7 @@
 ---
 title: Steps for Rectifying Joy-Con Erratic Movements
-date: 2024-09-08T16:48:48.975Z
-updated: 2024-09-15T16:32:16.612Z
+date: 2024-09-18T23:46:31.134Z
+updated: 2024-09-21T00:39:50.990Z
 tags:
   - games
 categories:
@@ -59,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/0ce905cbb913b2eefe4db5c72014c9485f061b0fd
 
  If it doesn't seem like a software error is to blame for your controller's stick drift, there is likely a physical fault. In this scenario, it's worth double-checking your controller for obvious physical damage. If there is no apparent cause, the most likely ways to fix Xbox Wireless Controller stick drift physically are as follows:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Repair Xbox Wireless Controller Stick Drift With Compressed Air
 
  One of the most common issues that may cause your Xbox Wireless Controller to have stick drift is the build-up of dirt within your controller, preventing an analog stick from functioning properly.
@@ -67,13 +74,6 @@ thumbnail: https://thmb.techidaily.com/0ce905cbb913b2eefe4db5c72014c9485f061b0fd
 
 ![A photograph of a black Xbox One controller against a bright yellow background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/stock-for-air-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you have a can of compressed air handy, you can attempt to fix the stick drift issues with your Xbox controller by following these steps:
 
 * Ensure your Xbox Wireless Controller is turned off.
@@ -81,13 +81,6 @@ thumbnail: https://thmb.techidaily.com/0ce905cbb913b2eefe4db5c72014c9485f061b0fd
 * As the air hits the base and crevices of the analog stick, slowly move the stick around to free up any trapped dirt.
 
  While it may take multiple attempts, the compressed air should be able to dislodge any potential obstructions causing the stick drift issues with your Xbox controller.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix Stick Drift by Taking Your Xbox Wireless Controller Apart
 
@@ -104,20 +97,27 @@ thumbnail: https://thmb.techidaily.com/0ce905cbb913b2eefe4db5c72014c9485f061b0fd
 
 ![A photograph of an Xbox One controller with its grips removed and highlighting the revealed screws](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/grip-screws.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * With all the screws removed, you can take the casing off your Xbox Wireless Controller to reveal the internal parts.
 
 ![A photograph of a dismantled Xbox One controller with the internal parts accessible](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/controller-dismantled.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now the internal parts of your Xbox Wireless Controller are accessible, you should be able to see whether there are any blockages interfering with the analog stick mechanism. If you want to replace the sticks altogether, simply pull each plastic cover off and replace them with your new analog sticks.
 
  You can also take the opportunity to[clean your Xbox Wireless Controller](https://www.makeuseof.com/how-to-clean-xbox-one-controller/) . After all, a clean and well-maintained controller is less likely to develop faults in the first place and the internal parts are a nightmare for gathering dust and muck.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Keep Your Xbox One and Xbox Series X|S Controllers Healthy
 
@@ -140,18 +140,19 @@ thumbnail: https://thmb.techidaily.com/0ce905cbb913b2eefe4db5c72014c9485f061b0fd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-proven-instagram-analysis-apps-enhance-engagement-growth-and-conversion-rates/"><u>[New] 2024 Approved Proven Instagram Analysis Apps Enhance Engagement, Growth & Conversion Rates</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-the-pulse-of-the-population-vllo-analysis/"><u>[Updated] 2024 Approved The Pulse of the Population VLLO Analysis</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-unveiling-the-top-6-mac-capture-software-options/"><u>[Updated] 2024 Approved Unveiling the Top 6 Mac Capture Software Options</u></a></li>
-<li><a href="https://facebook.techidaily.com/8-essential-calendar-tools-to-plan-your-feeds/"><u>8 Essential Calendar Tools to Plan Your Feeds</u></a></li>
-<li><a href="https://games-able.techidaily.com/cross-console-gameplay-between-ps-and-ps3-models/"><u>Cross-Console Gameplay Between PS and PS3 Models</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-avoid-steam-startup-triggers/"><u>How to Avoid Steam Startup Triggers</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-zte-nubia-flip-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track ZTE Nubia Flip 5G Location by Number | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-chatgpt-the-ultimate-text-based-rpg-guide/"><u>Mastering ChatGPT: The Ultimate Text-Based RPG Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/strategies-for-rectifying-mc-launcher-error-0x803f8001/"><u>Strategies for Rectifying MC Launcher Error 0X803F8001</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-v27-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo V27 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/uncover-chatgpts-hidden-game-treasures-the-best-6/"><u>Uncover ChatGPT's Hidden Game Treasures - The Best 6!</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleashing-potential-remote-firmware-sync-up-tactics/"><u>Unleashing Potential: Remote Firmware Sync-Up Tactics</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-selection-of-economical-4k-projection-screens/"><u>[New] Ultimate Selection of Economical 4K Projection Screens</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-elevate-your-youtube-presence-featuring-essential-channels-tutorial-for-2024/"><u>[Updated] Elevate Your Youtube Presence Featuring Essential Channels Tutorial for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-screen-grabs-revealed-gaming-edition-reviewed/"><u>[Updated] Screen Grabs Revealed Gaming Edition Reviewed</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-step-by-step-using-premiere-for-video-upload-for-2024/"><u>[Updated] Step-by-Step Using Premiere for Video Upload for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-top-10-gps-drones-with-steady-trail-following-features/"><u>[Updated] Top 10 GPS Drones with Steady Trail-Following Features</u></a></li>
+<li><a href="https://games-able.techidaily.com/crossover-bridge-for-windows-and-mac-playing-across-platforms-effortlessly/"><u>CrossOver Bridge for Windows and Mac: Playing Across Platforms Effortlessly</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/engaging-audiences-with-strategic-language-choices/"><u>Engaging Audiences with Strategic Language Choices</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-tecno-camon-20-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-harvest-hidden-havens-in-minecraft-lands/"><u>How to Harvest Hidden Havens in Minecraft Lands</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-steams-playtime-tracking-hours-logged-and-points-earned/"><u>Navigating Steam's Playtime Tracking: Hours Logged & Points Earned</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-sluggish-games-higher-fps-achievement/"><u>Overcoming Sluggish Games: Higher FPS Achievement</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-htc-u23-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on HTC U23? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/seeking-the-flaws-6-reasons-to-question-mac-gaming-prowess/"><u>Seeking the Flaws: 6 Reasons to Question Mac Gaming Prowess</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-potential-while-unwinding-top-tasks-for-podcast-lovers-for-2024/"><u>Unlock Potential While Unwinding Top Tasks for Podcast Lovers for 2024</u></a></li>
 </ul></div>
 

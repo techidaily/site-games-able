@@ -1,7 +1,7 @@
 ---
 title: Shop Now and Save Big – Exclusive Offer on 85-Inch TCL TV, Up to 25%% Off Ending Labor Day | ZDNET Shops.
-date: 2024-09-19 16:30:50
-updated: 2024-09-20 11:48:16
+date: 2024-09-18T00:12:48.154Z
+updated: 2024-09-20T19:55:56.473Z
 tags:
   - gaming
 categories:
@@ -59,6 +59,13 @@ There's a single screw holding the cover in place; remove it and set it aside in
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Move the screw and spacer inside the SSD housing
 
 With the expansion slot cover removed, locate and remove the screw and spacer near the end of the SSD housing. 
@@ -70,6 +77,19 @@ There are various holes inside the SSD housing that correspond with the various 
 I then placed the spacer over the hole -- it's held in place by three dots, so don't worry about perfectly lining it up or keeping it in place. 
 
 Jason Cipriani/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Insert the SSD and use the mounting screw
 
@@ -120,11 +140,27 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-techniques-for-capturing-high-quality-movies-on-all-os/"><u>[Updated] In 2024, Techniques for Capturing High-Quality Movies on All OS</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-youtubes-monetization-value-per-million-views-for-2024/"><u>[Updated] Youtube's Monetization Value per Million Views for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-quip-kernel-memomaker-suite/"><u>2024 Approved Quip Kernel MemoMaker Suite</u></a></li>
+<li><a href="https://games-able.techidaily.com/cost-effective-high-durability-gaming-accessories/"><u>Cost-Effective, High-Durability Gaming Accessories</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-gaming-on-switch-must-try-performance-boosters/"><u>Elevating Gaming on Switch: Must-Try Performance Boosters</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-social-interaction-with-chess-and-poker-events-on-discord/"><u>Enhancing Social Interaction with Chess & Poker Events on Discord</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My OnePlus Nord 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-turn-off-mouse-acceleration-in-windows-11-and-11/"><u>How to Turn Off Mouse Acceleration in Windows 11 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-use-text-actions-in-the-snipping-tool-on-windows-11/"><u>How to Use Text Actions in the Snipping Tool on Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimize-in-game-overlay-display-options-for-discord/"><u>Optimize In-Game Overlay Display Options for Discord</u></a></li>
+<li><a href="https://games-able.techidaily.com/smart-selections-for-steam-deck-purchase/"><u>Smart Selections for Steam Deck Purchase</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-disappearing-act-of-facebook-dark-mode-quick-fixes-to-get-it-back/"><u>The Disappearing Act of Facebook Dark Mode: Quick Fixes to Get It Back</u></a></li>
+<li><a href="https://games-able.techidaily.com/tweaking-steams-official-language-setting/"><u>Tweaking Steam’s Official Language Setting</u></a></li>
+</ul></div>
+

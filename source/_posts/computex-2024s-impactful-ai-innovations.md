@@ -1,7 +1,7 @@
 ---
 title: Computex 2024'S Impactful AI Innovations
-date: 2024-09-14T16:32:51.293Z
-updated: 2024-09-15T16:27:33.593Z
+date: 2024-09-16T16:46:27.484Z
+updated: 2024-09-20T22:25:01.989Z
 tags:
   - games
 categories:
@@ -53,6 +53,19 @@ Intel
 
  Aside from the AI side, the most interesting Lunar Lake upgrade is fully integrated memory. Intel Lunar Lake won't ship with specific memory chips. Instead, Intel will integrate 16 or 32GB memory into the chip design, saving space and boosting efficiency.
 
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Nvidia GeForce RTX AI Laptops
 
  Nvidia is the world's leading GPU manufacturer, so it's perfectly positioned as the world transitions to high-end AI processing hardware. Now, Nvidia is launching a new range of "GeForce RTX AI" branded laptops, pushing services that make the most of its Tensor cores.
@@ -63,13 +76,6 @@ Intel
 
  Interestingly,[Nvidia claims](https://www.nvidia.com/en-gb/geforce/news/computex-2024-new-rtx-ai-laptops/) its RTX AI will deliver a bonkers performance boost over other AI-enabled PCs and laptops, delivering up to 686 TOPS (compared to Lunar Lake's 40+ TOPS). It's an enormous boost that Nvidia attributes to its powerful GPUs, while integrated AI chips like Lunar Lake and Snapdragon X Elite are still bound to and limited by CPUs.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## AMD Ryzen AI 300
 
  Not to be outdone by Intel, Nvidia, and Qualcomm, AMD revealed its long-awaited AI chips at Computex 2024, built on its shiny new Zen 5 architecture (another AMD upgrade we've been patiently waiting for).
@@ -77,10 +83,10 @@ Intel
 ![amd ai pc chips npu stats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/amd-ai-pc-chips-npu-stats.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 AMD
@@ -104,17 +110,12 @@ AMD
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-avoiding-strikes-youtube-edition/"><u>[New] 2024 Approved Avoiding Strikes YouTube Edition</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-novice-cinematographers-initial-work-analysis-and-replacements/"><u>[New] Novice Cinematographer's Initial Work Analysis & Replacements</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-enhance-engagement-with-these-4-looping-video-techniques/"><u>[Updated] 2024 Approved Enhance Engagement with These 4 Looping Video Techniques</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-explore-these-12-websites-offering-free-stock-photo-collections/"><u>[Updated] Explore These 12 Websites Offering Free Stock Photo Collections</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-skyrocketing-youtube-traffic-11-seo-insights-unveiled/"><u>2024 Approved Skyrocketing YouTube Traffic 11 SEO Insights Unveiled</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-a-new-world-playing-battle-royale-on-iphone-and-nvidia/"><u>Discover a New World: Playing Battle Royale on iPhone and Nvidia</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/elevate-your-video-content-with-desktopmobile-timestamps/"><u>Elevate Your Video Content with Desktop/Mobile Timestamps</u></a></li>
-<li><a href="https://games-able.techidaily.com/interoperability-between-newer-and-older-playstation/"><u>Interoperability Between Newer and Older PlayStation?</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/protecting-melodies-on-instagram/"><u>Protecting Melodies on Instagram</u></a></li>
-<li><a href="https://games-able.techidaily.com/strategies-to-tackle-error-code-0x887a0006-in-windows/"><u>Strategies to Tackle Error Code 0X887A0006 in Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/these-are-the-most-important-components-for-your-gaming-pc/"><u>These Are the Most Important Components for Your Gaming PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/war-wisdom-crafting-a-list-of-top-11-ww2-tactical-games/"><u>War Wisdom: Crafting a List of Top 11 WW2 Tactical Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/guidance-for-resolving-self-detaching-ps4-remote-in-windows/"><u>Guidance for Resolving Self-Detaching PS4 Remote in Windows</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-top-free-ad-free-tools-for-android-screen-recording/"><u>In 2024, Top Free, Ad-Free Tools for Android Screen Recording</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-of-the-j5-tactical-pro-series-v1-exceptional-strength-and-dimensional-efficiency-for-night-vision/"><u>In-Depth Analysis of the J5 Tactical Pro Series V1 - Exceptional Strength and Dimensional Efficiency for Night Vision</u></a></li>
+<li><a href="https://extra-information.techidaily.com/landmarks-of-virtual-reality-showcases/"><u>Landmarks of Virtual Reality Showcases</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-selection-top-discords-you-should-explore/"><u>Mastering Selection: Top Discords You Should Explore</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-hdcp-mistakes-identifying-and-resolving-them/"><u>Understanding HDCP Mistakes: Identifying & Resolving Them</u></a></li>
+<li><a href="https://games-able.techidaily.com/uniting-the-giants-asus-rog-against-tuf-proart-and-prime/"><u>Uniting the Giants: Asus ROG Against TUF, ProArt & Prime</u></a></li>
 </ul></div>
 

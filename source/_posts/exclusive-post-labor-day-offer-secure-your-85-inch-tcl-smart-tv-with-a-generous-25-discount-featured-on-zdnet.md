@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Post-Labor Day Offer: Secure Your 85-Inch TCL Smart TV with a Generous 25%% Discount, Featured on ZDNet"
-date: 2024-09-19 17:38:21
-updated: 2024-09-20 11:57:16
+date: 2024-09-16T20:55:51.700Z
+updated: 2024-09-20T19:04:22.984Z
 tags:
   - gaming
 categories:
@@ -59,6 +59,19 @@ There's a single screw holding the cover in place; remove it and set it aside in
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Move the screw and spacer inside the SSD housing
 
 With the expansion slot cover removed, locate and remove the screw and spacer near the end of the SSD housing. 
@@ -76,6 +89,19 @@ Jason Cipriani/ZDNET
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -120,11 +146,29 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-youtube-snippets-guide-essential-insights-unveiled/"><u>[New] 2024 Approved YouTube Snippets Guide Essential Insights Unveiled</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-analysis-the-power-of-quantum-hdr/"><u>[Updated] In-Depth Analysis The Power of Quantum HDR</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-threads-of-time-looms-screen-record-mastery-for-2024/"><u>[Updated] Threads of Time Loom's Screen Record Mastery for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-performance-install-latest-nvidia-drivers-now/"><u>Enhance Performance! Install Latest Nvidia Drivers Now</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-realme-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Realme using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-windows-mac-owners-discover-top-8-no-cost-4k-viewers/"><u>In 2024, Windows Mac Owners - Discover Top 8 No-Cost 4K Viewers</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205003990-microsoft-wireless-display-adapter-wont-connect-on-windows-10-solved/"><u>Microsoft Wireless Display Adapter Won’t Connect on Windows 10 [Solved]</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-eliminate-shaking-mouse-scroll/"><u>Steps to Eliminate Shaking Mouse Scroll</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-non-nvidia-graphics-cards-for-4060-ti-users/"><u>The Best Non-NVIDIA Graphics Cards for 4060 Ti Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-key-to-maxing-out-your-gamerscore-on-steam/"><u>The Key to Maxing Out Your Gamerscore on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-steam-deck-thermal-regulator-guide/"><u>The Ultimate Steam Deck Thermal Regulator Guide</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-zte-axon-40-lite-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the ZTE Axon 40 Lite password or pattern lock</u></a></li>
+<li><a href="https://games-able.techidaily.com/vr-revolutionary-meta-quest-3-inside/"><u>VR Revolutionary: Meta Quest 3 Inside</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/why-does-itools-virtual-location-not-work-for-apple-iphone-11ipad-solved-drfone-by-drfone-virtual-ios/"><u>Why Does iTools Virtual Location Not Work For Apple iPhone 11/iPad? Solved | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/zen-gameplay-find-your-indolent-match/"><u>Zen Gameplay: Find Your Indolent Match</u></a></li>
+</ul></div>
+

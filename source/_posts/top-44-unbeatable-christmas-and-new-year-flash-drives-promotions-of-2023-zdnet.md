@@ -1,7 +1,7 @@
 ---
 title: Top 44 Unbeatable Christmas & New Year Flash Drives Promotions of 2023 | ZDNet
-date: 2024-09-19 11:46:42
-updated: 2024-09-20 12:37:46
+date: 2024-09-18T19:16:05.324Z
+updated: 2024-09-20T19:42:17.230Z
 tags:
   - gaming
 categories:
@@ -59,6 +59,13 @@ There's a single screw holding the cover in place; remove it and set it aside in
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Move the screw and spacer inside the SSD housing
 
 With the expansion slot cover removed, locate and remove the screw and spacer near the end of the SSD housing. 
@@ -76,6 +83,13 @@ Jason Cipriani/ZDNET
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -120,11 +134,26 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-strategy-stories-the-leading-10-rogue-classics/"><u>[New] 2024 Approved Strategy Stories The Leading 10 Rogue Classics</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-unleashing-your-cellphones-potential-in-videography/"><u>[New] 2024 Approved Unleashing Your Cellphone's Potential in Videography</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-key-methods-for-gathering-high-end-video-backdrops/"><u>[Updated] 2024 Approved Key Methods for Gathering High-End Video Backdrops</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-actors-insight-crafting-engaging-online-reactions-on-youtube-3-pro-tips/"><u>2024 Approved Actor's Insight Crafting Engaging Online Reactions on YouTube (3 Pro Tips)</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-add-on-benefits-for-switch-gaming/"><u>Evaluating Add-On Benefits for Switch Gaming</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-compatible-windows-1110-bluetooth-driver-from-msi-free-download/"><u>Get Your Compatible Windows 11/10 Bluetooth Driver From MSI - Free Download</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-tecno-pova-6-pro-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Pova 6 Pro 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-amplify-your-audio-visual-experience-with-these-6-android-apps/"><u>In 2024, Amplify Your Audio-Visual Experience with These 6 Android Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-gameplay-with-these-9-steam-advantages/"><u>Mastering the Art of Gameplay with These 9 Steam Advantages</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlined-mobile-play-your-guide-to-fortnite-with-nvidia/"><u>Streamlined Mobile Play: Your Guide to Fortnite with Nvidia</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-11-best-free-word-game-apps-to-play-on-android-and-iphone/"><u>The 11 Best Free Word Game Apps to Play on Android and iPhone</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-political-links-in-nyt-world/"><u>Understanding Political Links in NYT World</u></a></li>
+</ul></div>
+

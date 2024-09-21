@@ -1,7 +1,7 @@
 ---
 title: "Xbox Series X Controller: Steady Connection?"
-date: 2024-09-11T16:01:37.507Z
-updated: 2024-09-15T17:04:56.973Z
+date: 2024-09-17T23:41:27.997Z
+updated: 2024-09-20T22:08:04.907Z
 tags:
   - games
 categories:
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/f827a2513363710538e9a15901545a1f6478c686b
 
  If not, just select the controller and update it. Once your Xbox carries out this update, you'll no longer have issues where your Xbox controller keeps disconnecting. That's because Microsoft pushes out firmware updates regularly to fix minor bugs that crop up—like this one.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Update Your Xbox Series X Console
 
 ![Xbox Series X Update Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/Xbox-Series-X-Update-Menu.jpg)
@@ -67,13 +74,6 @@ thumbnail: https://thmb.techidaily.com/f827a2513363710538e9a15901545a1f6478c686b
 
 ![xbox series x controller usb c port](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/xbox-series-x-controller-usb-c-port.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  At the top of the Xbox Series X controller, you will notice it has a USB-C port, which is typically used for charging. However, you can use it to try to solve any disconnection problems.
 
  The process couldn't be easier; just use the USB-C cable that came with your Xbox and use it to connect the two together.
@@ -82,16 +82,16 @@ thumbnail: https://thmb.techidaily.com/f827a2513363710538e9a15901545a1f6478c686b
 
  Physically connecting your controller and console will immediately overcome the wireless connectivity issue. Once the two devices talk to each other again, you can remove the wired connection and check whether your controller works wirelessly. If it doesn't, you could always stay wired if it's convenient enough.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Hard Restart Your Xbox Series X
 
 ![xbox series x power button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/xbox-series-x-power-button.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If all else fails, you can always exercise the IT expert's golden rule... try turning it off and on again. This is an operation you'd only want to carry out as a last resort, especially if you are in the middle of a game and haven't saved recently. Try all the other steps here first, or you risk losing your game progress.
 
@@ -101,22 +101,15 @@ thumbnail: https://thmb.techidaily.com/f827a2513363710538e9a15901545a1f6478c686b
 
  Once you have switched the console off, just press the power button again to start it up. If you have performed the action correctly, the console should initialize with the logo screen before loading up your Xbox dashboard.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Replace Your Controller's Batteries
 
 ![Batteries inside an Xbox controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/batteries-inside-an-xbox-controller.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  More often than not, if your Xbox controller is low on battery, it will disconnect, blink for a couple of seconds, and turn off when you're actively playing a game. You can power it back on immediately, but it will only work for a minute or less before disconnecting and turning off again.
@@ -129,6 +122,13 @@ thumbnail: https://thmb.techidaily.com/f827a2513363710538e9a15901545a1f6478c686b
 
 ![Xbox One controllers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/Xbox-One-Pad.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Did you know you can[connect an Xbox One controller to your Xbox Series X](https://www.makeuseof.com/how-to-use-xbox-one-controllers-on-your-xbox-series-x/) ? Thanks to backward compatibility, the Xbox One joypad functions almost exactly the same way as a Series X controller.
 
  By using an Xbox One controller with your Series X console, you'll be able to find out if the connectivity issue is with your Xbox Series X controller or the console itself.
@@ -138,10 +138,10 @@ thumbnail: https://thmb.techidaily.com/f827a2513363710538e9a15901545a1f6478c686b
  If it's a firmware-related bug like the one Microsoft addressed, you can use your old controller while waiting for an update. Don't forget that the[Xbox One controller has its fair share of issues](https://www.makeuseof.com/tag/how-to-fix-xbox-one-controller-not-working/) that prevent it from working, so you might still have the same disconnection problem.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Game Without Your Xbox Series X Controller Disconnecting
@@ -165,18 +165,17 @@ thumbnail: https://thmb.techidaily.com/f827a2513363710538e9a15901545a1f6478c686b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-automating-youtube-playback-in-social-networks-a-focus-on-facebook-for-2024/"><u>[New] Automating Youtube Playback in Social Networks A Focus on Facebook for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-explore-the-most-reliable-photo-background-alternation-apps/"><u>[New] Explore the Most Reliable Photo-Background Alternation Apps</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/discovering-excellence-with-the-samsung-qn55q3u-the-ultimate-smart-tv-for-vivid-4k-viewing-and-more/"><u>Discovering Excellence with the Samsung QN55Q3U - The Ultimate Smart TV for Vivid 4K Viewing and More</u></a></li>
-<li><a href="https://win-answers.techidaily.com/double-error-debugged-resolving-two-pc-collisions-successfully/"><u>Double Error Debugged: Resolving Two PC Collisions Successfully</u></a></li>
-<li><a href="https://games-able.techidaily.com/effective-strategies-for-uninstalling-and-redownloading/"><u>Effective Strategies for Uninstalling & Redownloading</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic5-ultimate-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic5 Ultimate to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximize-gaming-potential-by-managing-steams-memory-use/"><u>Maximize Gaming Potential by Managing Steam's Memory Use</u></a></li>
-<li><a href="https://games-able.techidaily.com/portable-playstation-by-sony-unveiled/"><u>Portable PlayStation by Sony Unveiled</u></a></li>
-<li><a href="https://games-able.techidaily.com/premier-joint-players-choices-16-best-on-xbox-series/"><u>Premier Joint Players' Choices - 16 Best on Xbox Series</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-reference-green-screen-basics-for-2024/"><u>Rapid Reference Green Screen Basics for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/synchronizing-audio-devices-for-ps5/"><u>Synchronizing Audio Devices for PS5</u></a></li>
-<li><a href="https://games-able.techidaily.com/timing-and-techniques-resetting-your-sony-ps5-device-correctly/"><u>Timing and Techniques: Resetting Your Sony PS5 Device Correctly</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-and-tricks-for-setting-up-your-playstation-4-controller/"><u>Troubleshooting Tips and Tricks for Setting Up Your PlayStation 4 Controller</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-precision-protests-unveiling-the-difference-between-hero5-black-and-session/"><u>[Updated] In 2024, Precision Protests Unveiling the Difference Between Hero5 Black and Session</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mp4-to-m4a-movavi/"><u>線上自由的 MP4 to M4A 文件格式轉換 – 利用 Movavi 專業工具</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-insight-into-chatgpt-and-its-versatile-uses-with-generative-ai-technology/"><u>Comprehensive Insight Into ChatGPT and Its Versatile Uses with Generative AI Technology</u></a></li>
+<li><a href="https://games-able.techidaily.com/epic-replay-alternative-gaming-paths-without-adobe-flash/"><u>Epic Replay: Alternative Gaming Paths Without Adobe Flash</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-xiaomi-redmi-12-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Xiaomi Redmi 12 5G Phone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-11-best-pokemon-go-spoofers-for-gps-spoofing-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, 11 Best Pokemon Go Spoofers for GPS Spoofing on Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-the-ultimate-plan-your-future-in-gaming/"><u>Is the Ultimate Plan Your Future in Gaming?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/operating-system-adjustment-glitchy-opengl-fixed/"><u>Operating System Adjustment: Glitchy OpenGL Fixed</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-ranked-zones-masterminds-meccas/"><u>Top-Ranked Zones: Masterminds’ Meccas</u></a></li>
+<li><a href="https://games-able.techidaily.com/valve-revisits-game-sharing-steams-updated-features-release/"><u>Valve Revisits Game Sharing: Steam’s Updated Features Release</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-vs-unauthorized-controllers-the-gamers-battlefront/"><u>Xbox vs Unauthorized Controllers: The Gamer's Battlefront</u></a></li>
 </ul></div>
 

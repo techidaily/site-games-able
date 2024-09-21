@@ -1,7 +1,7 @@
 ---
 title: How Optus & Cisco Have Jointly Transformed Australian Business Practices Over Three Decades
-date: 2024-09-19 18:18:28
-updated: 2024-09-20 10:48:17
+date: 2024-09-13T22:10:55.977Z
+updated: 2024-09-20T20:22:24.423Z
 tags:
   - accelerate-your-tech-game
 categories:
@@ -113,11 +113,34 @@ To find out more about how you can build your future with Optus Enterprise visit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-digital-vault-for-internet-streams-a-recording-blueprint/"><u>[New] Digital Vault for Internet Streams A Recording Blueprint</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-nurturing-natural-light-within-domestic-spaces/"><u>[Updated] In 2024, Nurturing Natural Light Within Domestic Spaces</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-unlock-creative-potential-with-premium-effects-extensions-for-2024/"><u>[Updated] Unlock Creative Potential with Premium Effects Extensions for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/eas-expensive-move-i-skip-the-sub/"><u>EA’s Expensive Move, I Skip the Sub</u></a></li>
+<li><a href="https://games-able.techidaily.com/epic-replay-alternative-gaming-paths-without-adobe-flash/"><u>Epic Replay: Alternative Gaming Paths Without Adobe Flash</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-a-perpetually-buffering-discord-live-broadcast/"><u>Fixing a Perpetually Buffering Discord Live Broadcast</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-play-minecraft-with-friends-5-different-ways/"><u>How to Play Minecraft With Friends: 5 Different Ways</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-apple-iphone-8-find-my-friends-no-location-found-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Apple iPhone 8 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722968554884-latest-surface-book-drivers-made-easy-to-download-and-update/"><u>Latest Surface Book Drivers Made Easy to Download & Update!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/optimal-videography-minimizing-sound-interference-effectively-for-2024/"><u>Optimal Videography Minimizing Sound Interference Effectively for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/preventing-online-predators-and-ensuring-kids-privacy-on-discord/"><u>Preventing Online Predators and Ensuring Kids' Privacy on Discord</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-ranked-zones-masterminds-meccas/"><u>Top-Ranked Zones: Masterminds’ Meccas</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

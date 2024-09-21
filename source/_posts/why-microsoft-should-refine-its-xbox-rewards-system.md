@@ -1,7 +1,7 @@
 ---
 title: Why Microsoft Should Refine Its Xbox Rewards System
-date: 2024-09-13T17:21:51.268Z
-updated: 2024-09-15T16:08:38.395Z
+date: 2024-09-13T19:47:35.666Z
+updated: 2024-09-20T21:33:12.428Z
 tags:
   - games
 categories:
@@ -62,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/7a684ff6b3f7243ec032f5ae8a931d190264bae1e
  If the ratio of earned points to store purchases were more substantial, the method would seem like a legitimate way for you to attain free rewards on Xbox. But as it is, the system seems almost frugal.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. The Best Ways to Earn Points Involve Purchasing Xbox Games
@@ -76,16 +76,22 @@ thumbnail: https://thmb.techidaily.com/7a684ff6b3f7243ec032f5ae8a931d190264bae1e
 
 ![A screenshot of a punch card within the Microsoft Rewards on Xbox application highlighting the rewards and requirements screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/punch-card-rewards.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This method of incentivizing playing games can be great if you already own the game or can access the title through Xbox Game Pass. But if the required game isn't available, or you don't have Game Pass, you have to purchase the game to earn points.
 
  In terms of offering a useful way to earn points, game-specific activities are great on paper but quickly turn into a way for Microsoft Rewards Points to advertise store purchases or Xbox Game Pass. You could even see it as a method of incentivizing the spending of your money.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Microsoft Reward Points Need to Adapt to Remain Functional on Xbox
 
@@ -108,21 +114,14 @@ thumbnail: https://thmb.techidaily.com/7a684ff6b3f7243ec032f5ae8a931d190264bae1e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-ignite-facebook-frenzy-key-techniques-unveiled/"><u>[Updated] 2024 Approved Ignite Facebook Frenzy Key Techniques Unveiled</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-utilizing-b-roll-in-video-production-effectively/"><u>[Updated] Utilizing B-Roll in Video Production Effectively</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Honor Magic 6 Lite | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/embrace-the-epic-world-of-bg3-now-on-your-macos-with-crossover/"><u>Embrace the Epic World of BG3, Now on Your macOS with CrossOver</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/end-the-frustration-of-rainbow-six-siege-crashes-on-pc-with-these-effective-fixes/"><u>End the Frustration of 'Rainbow Six Siege' Crashes on PC with These Effective Fixes</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhance-your-gameplay-opt-for-the-best-in-144hz-screening/"><u>Enhance Your Gameplay: Opt for the Best in 144Hz Screening</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-steps-for-reestablishing-joy-con-connection-on-switch/"><u>Essential Steps for Reestablishing Joy-Con Connection on Switch</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-oneplus-ace-2-pro-drfone-by-drfone-android/"><u>How to Screen Mirroring OnePlus Ace 2 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-updated-realtek-bluetooth-software-on-windows-11-and-10-fresh-release-now-available/"><u>Install Updated Realtek Bluetooth Software on Windows 11 & 10 – Fresh Release Now Available</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimizing-sound-settings-for-xbox-series-xs-gaming/"><u>Optimizing Sound Settings for Xbox Series X/S Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/perfecting-your-pitch-writing-influential-reviews-on-steam/"><u>Perfecting Your Pitch: Writing Influential Reviews on Steam</u></a></li>
-<li><a href="https://extra-support.techidaily.com/prime-musical-virtuoso-sessions-for-2024/"><u>Prime Musical Virtuoso Sessions for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-novices-route-to-revenue-in-the-youtube-realm-for-2024/"><u>The Novice's Route to Revenue in the YouTube Realm for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-ps5-dualsense-controllers-and-their-charger-matches/"><u>Top PS5 DualSense Controllers & Their Charger Matches</u></a></li>
-<li><a href="https://games-able.techidaily.com/virtual-gamepad-conversion-guide/"><u>Virtual Gamepad Conversion Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-instant-record-and-commentary-assistive-software/"><u>[Updated] Instant Record & Commentary Assistive Software</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/curing-display-distortion-after-upgrading-to-win11/"><u>Curing Display Distortion After Upgrading to Win11</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/ios-enthusiasts-4-best-gbadvance-emulator-choices/"><u>IOS Enthusiasts: 4 Best GBAdvance Emulator Choices!</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-gaming-devices-comparing-asus-tuf-proart-and-prime-systems/"><u>Mastering Gaming Devices: Comparing Asus, Tuf, ProArt and Prime Systems</u></a></li>
+<li><a href="https://discover-able.techidaily.com/mp4-audio-extraction-techniques-a-guide-for-windows-and-macos-users/"><u>MP4 Audio Extraction Techniques: A Guide for Windows & macOS Users</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-poco-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Poco Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-list-of-cost-effective-1440p-displays-for-gamers/"><u>The Ultimate List of Cost-Effective 1440P Displays for Gamers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/unlock-your-podcast-potential-advanced-techniques-for-idevice-audio-recording-for-2024/"><u>Unlock Your Podcast Potential Advanced Techniques for iDevice Audio Recording for 2024</u></a></li>
 </ul></div>
 

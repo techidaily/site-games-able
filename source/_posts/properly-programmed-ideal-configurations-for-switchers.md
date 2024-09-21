@@ -1,7 +1,7 @@
 ---
 title: "Properly Programmed: Ideal Configurations for Switchers"
-date: 2024-09-14T16:04:45.680Z
-updated: 2024-09-15T16:06:45.840Z
+date: 2024-09-17T23:21:35.000Z
+updated: 2024-09-21T00:27:38.072Z
 tags:
   - games
 categories:
@@ -67,6 +67,19 @@ thumbnail: https://thmb.techidaily.com/c18d888464621b9b20ff1e9897c3e6fc08590ad72
 
  If your TV is capable of displaying a 1080p image, so is your Nintendo Switch. In handheld mode, the Switch is only capable of 720p, but this can be improved in docked mode. You do have to change your**TV Resolution** setting, however.[Improving your Nintendo Switch’s resolution in docked mode](https://www.makeuseof.com/improve-nintendo-switch-docked-graphics/) is as easy as heading to your settings, going to**TV Output** , and selecting**1080p** from your**TV Resolution** settings.
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Calibrate Your Nintendo Switch Controllers
 
  The Achilles heel of the Nintendo Switch is Joy-Con drift. This is a phenomenon caused by a wearing down of the mechanisms inside the joystick that leads to false input in your controller and makes your character or camera start moving on its own.
@@ -74,26 +87,13 @@ thumbnail: https://thmb.techidaily.com/c18d888464621b9b20ff1e9897c3e6fc08590ad72
 ![How to calibrate controller on Nintendo Switch Calibrate Control Sticks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/how-to-calibrate-controller-on-nintendo-switch-calibrate-control-sticks.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This issue can cause some serious headaches in-game, but there is a way to fix it (if the case is mild enough.) That is by recalibrating your Joy-Cons or any other controller you may be having issues with. Simply head to your settings, select**Controllers and Sensors** , and press**Calibrate Control Sticks** . The Switch will guide you through the rest of the process, and you should finally experience some relief from drift for a little while, at least.
-
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Alter the MTU Setting to Unlock Faster Download Speeds
 
@@ -101,13 +101,20 @@ thumbnail: https://thmb.techidaily.com/c18d888464621b9b20ff1e9897c3e6fc08590ad72
 
 ![MTU Settings on Nintendo Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/mtu-settings-on-nintendo-switch.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To begin, make sure your Switch is connected to the internet and go to your**Internet Settings** . From there, select the Wi-Fi you’re connected to and press**Change Settings** . Then scroll down and bump the**MTU** up from**1400** to**1500** . That will ensure that the maximum amount of data is being transferred, and you should experience an improvement in your download speeds.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Extend the Auto-Lock Time on Your Nintendo Switch
@@ -118,22 +125,16 @@ thumbnail: https://thmb.techidaily.com/c18d888464621b9b20ff1e9897c3e6fc08590ad72
 
 ![Auto Sleep on Nintendo Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/auto-sleep-on-nintendo-switch.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To customize auto-sleep on your Nintendo Switch, head to the settings and scroll down to**Sleep Mode** . You have two choices for auto-sleep, one for when you’re using your console in handheld mode and the other for when you’re playing on the TV.
 
  Both can be customized separately. Pick the mode you’re looking for and choose your perfect timeframe from the list provided. You can choose from**one** ,**three** ,**five** ,**10** , and**30 minutes** , or even**never** if you’re not afraid of accidentally leaving your system on overnight.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Discover Your Nintendo Switch’s Maintenance Mode
 
@@ -144,13 +145,6 @@ thumbnail: https://thmb.techidaily.com/c18d888464621b9b20ff1e9897c3e6fc08590ad72
  Image Credit:[Nintendo](https://www.nintendo.com/my/support/switch/data%5Fmanagement/initialization/index.html)
 
  To open Maintenance Mode, hold the**volume up + volume down + power buttons** down for a couple of seconds until the system boots up in Maintenance Mode, and you can troubleshoot your Switch from there.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Level Up Your Switch With These Helpful Switch Tips
 
@@ -173,20 +167,16 @@ thumbnail: https://thmb.techidaily.com/c18d888464621b9b20ff1e9897c3e6fc08590ad72
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-find-out-the-best-8-youtube-engagement-tools/"><u>[New] In 2024, Find Out The Best 8 Youtube Engagement Tools</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-ushering-bliss-in-unboxing-7-strategies/"><u>[New] In 2024, Ushering Bliss in Unboxing 7 Strategies</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-essential-skills-for-high-quality-screen-recordings-using-nvidia/"><u>[Updated] Essential Skills for High-Quality Screen Recordings Using NVIDIA</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-navigating-noise-free-networks-secrets-for-silencing-disruptions-on-gomeet/"><u>2024 Approved Navigating Noise-Free Networks Secrets for Silencing Disruptions on GoMeet</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-samsung-galaxy-f04-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Samsung Galaxy F04 via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/easy-windows-11-screen-capturing-package-for-2024/"><u>Easy Windows 11 Screen Capturing Package for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-stop-usb-device-not-recognized-errors-from-disrupting-your-workflow/"><u>How to Stop 'USB Device Not Recognized' Errors From Disrupting Your Workflow</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastery-in-motion-syncing-with-an-xbox-one-controller/"><u>Mastery in Motion: Syncing with an Xbox One Controller</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigate-the-waters-of-live-streaming-with-twitch-app-mobile/"><u>Navigate the Waters of Live Streaming with Twitch App (Mobile)</u></a></li>
-<li><a href="https://games-able.techidaily.com/prime-handheld-gameplay-on-mobile-devices/"><u>Prime Handheld Gameplay on Mobile Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/smooth-gaming-journey-overcoming-epics-windows-glitches/"><u>Smooth Gaming Journey: Overcoming Epic's Windows Glitches</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-into-anothers-shoes-playing-in-different-switch-areas/"><u>Step Into Another's Shoes: Playing in Different Switch Areas</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-10-affordable-and-easy-online-passport-pics-tools/"><u>Top 10 Affordable & Easy Online Passport Pics Tools</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-exclusive-twitch-content-with-prime/"><u>Unlock Exclusive Twitch Content with Prime</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-real-gamers-overlook-the-potential-of-gamefi/"><u>Why Real Gamers Overlook the Potential of GameFi</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-a-compreenas-step-by-step-guide-for-bordered-instagram-images-for-2024/"><u>[New] A Compreenas Step-by-Step Guide for Bordered Instagram Images for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/iscovering-the-ins-and-outs-of-youtube-shorts-capital/"><u>[New] Discovering the Ins and Outs of YouTube Shorts Capital</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-uniting-fans-anime-opening-songs-showcase-for-2024/"><u>[New] Uniting Fans Anime Opening Songs Showcase for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-the-ultimate-guide-to-vimeo-record-features/"><u>[Updated] In 2024, The Ultimate Guide to Vimeo Record Features</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-itel-s23plus-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Itel S23+ Fingerprint Lock</u></a></li>
+<li><a href="https://games-able.techidaily.com/guidance-for-resolving-self-detaching-ps4-remote-in-windows/"><u>Guidance for Resolving Self-Detaching PS4 Remote in Windows</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-honor-play-8t-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Honor Play 8T Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/learn-to-run-baldurs-gate-3-flawlessly-via-crossover-on-macos/"><u>Learn to Run Baldur’s Gate 3 Flawlessly via CrossOver on macOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-selection-top-discords-you-should-explore/"><u>Mastering Selection: Top Discords You Should Explore</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-gaming-ears-on-switch/"><u>Optimal Gaming Ears on Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/uniting-the-giants-asus-rog-against-tuf-proart-and-prime/"><u>Uniting the Giants: Asus ROG Against TUF, ProArt & Prime</u></a></li>
 </ul></div>
 

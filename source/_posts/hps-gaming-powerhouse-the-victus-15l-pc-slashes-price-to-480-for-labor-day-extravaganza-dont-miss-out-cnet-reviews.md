@@ -1,7 +1,7 @@
 ---
 title: HP's Gaming Powerhouse, the Victus 15L PC, Slashes Price to $480 for Labor Day Extravaganza – Don’t Miss Out! | CNET Reviews
-date: 2024-09-19 17:27:54
-updated: 2024-09-20 11:24:22
+date: 2024-09-13T21:35:40.269Z
+updated: 2024-09-20T22:17:24.907Z
 tags:
   - gaming
 categories:
@@ -59,6 +59,13 @@ There's a single screw holding the cover in place; remove it and set it aside in
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Move the screw and spacer inside the SSD housing
 
 With the expansion slot cover removed, locate and remove the screw and spacer near the end of the SSD housing. 
@@ -76,6 +83,13 @@ Jason Cipriani/ZDNET
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -120,11 +134,29 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-critically-acclaimed-video-cards-for-clear-youtube-broadcasts/"><u>[New] 2024 Approved Critically Acclaimed Video Cards for Clear YouTube Broadcasts</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-core-elements-of-zd-soft-recording-features/"><u>[New] 2024 Approved The Core Elements of ZD Soft Recording Features</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-smart-editing-tricks-how-to-embed-dates-in-photo-albums/"><u>[New] Smart Editing Tricks How to Embed Dates in Photo Albums</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-unlocking-the-full-potential-of-zooms-visual-features/"><u>[New] Unlocking the Full Potential of Zoom's Visual Features</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/aqua-world-through-the-lens-insta360-one-x2-reviewed/"><u>Aqua World Through the Lens - Insta360 One X2 Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/effective-steam-redownloading-tactics/"><u>Effective Steam Redownloading Tactics</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-ps-console-to-joy-con-the-controller-bridge-explained/"><u>From PS Console to Joy-Con: The Controller Bridge Explained</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/image-editing-strategies-remove-unwanted-areas/"><u>Image Editing Strategies: Remove Unwanted Areas</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oneplus-nord-n30-se-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/inquiring-about-video-memory-specifications/"><u>Inquiring About Video Memory Specifications</u></a></li>
+<li><a href="https://games-able.techidaily.com/iphone-makeover-become-your-own-gaming-console/"><u>IPhone Makeover: Become Your Own Gaming Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/solutions-for-sticky-mouse-scroll-issue/"><u>Solutions for Sticky Mouse Scroll Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sound-and-sight-synergy-on-windows-an-efficient-drivers-upgrade-guide/"><u>Sound and Sight Synergy on Windows: An Efficient Drivers Upgrade Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-art-of-balancing-power-in-gaming-systems/"><u>The Art of Balancing Power in Gaming Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/will-xboxs-alliance-with-activision-benefit-gamers/"><u>Will Xbox's Alliance with Activision Benefit Gamers?</u></a></li>
+</ul></div>
+

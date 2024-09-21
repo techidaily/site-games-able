@@ -1,7 +1,7 @@
 ---
 title: "Labor Day Sale: Get a Stunning 85 TCL TV at an Unbeatable Discount of 25%%! | ZDNet Tech Deals"
-date: 2024-09-18 11:50:13
-updated: 2024-09-20 12:34:52
+date: 2024-09-13T18:48:19.869Z
+updated: 2024-09-20T17:10:35.288Z
 tags:
   - gaming
 categories:
@@ -71,11 +71,25 @@ I then placed the spacer over the hole -- it's held in place by three dots, so d
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Insert the SSD and use the mounting screw
 
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -120,11 +134,28 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-ultimate-list-of-ios-solutions-to-play-your-favorite-psp-games/"><u>[New] In 2024, The Ultimate List of iOS Solutions to Play Your Favorite PSP Games</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-pro-tips-for-re-sharing-on-instagram-for-2024/"><u>[New] Pro Tips for Re-Sharing on Instagram for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/cost-benefit-analysis-of-disco-nitro/"><u>Cost-Benefit Analysis of Disco Nitro</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-flawed-games-navigating-through-top-10-common-errors/"><u>Fixing Flawed Games: Navigating Through Top 10 Common Errors</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/google-nest-hub-gen-2-reviewed-how-not-including-a-camera-affects-user-experience-and-functionality/"><u>Google Nest Hub Gen 2 Reviewed – How Not Including a Camera Affects User Experience and Functionality</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-tecno-camon-20-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Tecno Camon 20</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Itel A60? | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/mastering-mp4-downloading-vimeo-videos-easily/"><u>Mastering MP4 Downloading Vimeo Videos Easily</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-your-budget-secure-the-asus-rog-zephyrus-g16-for-250-less-featuring-intel-core-i7-10870h-nvidia-rtx-3070-and-ultra-fast-oled-display/"><u>Slash Your Budget: Secure the ASUS ROG Zephyrus G16 for $250 Less - Featuring Intel Core I7-10870H, NVIDIA RTX 3070 & Ultra-Fast OLED Display</u></a></li>
+<li><a href="https://games-able.techidaily.com/uniting-players-selective-list-of-dual-platform-games/"><u>Uniting Players: Selective List of Dual-Platform Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-4k-power-configuring-xbox-sx-for-optimal-performance/"><u>Unleash 4K Power: Configuring Xbox SX for Optimal Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-ea-play-features-on-ps5-subscribe-and-use-wisely/"><u>Unlocking EA Play Features on PS5 - Subscribe and Use Wisely</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-mystery-behind-repeatedly-disconnected-ps4-pad-on-pc/"><u>Unraveling Mystery Behind Repeatedly Disconnected PS4 Pad on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/winning-the-battle-against-unstable-speakers-on-your-windows-10-device/"><u>Winning the Battle Against Unstable Speakers on Your Windows 10 Device</u></a></li>
+</ul></div>
+

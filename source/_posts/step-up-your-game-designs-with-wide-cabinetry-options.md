@@ -1,7 +1,7 @@
 ---
 title: Step Up Your Game Designs with Wide Cabinetry Options!
-date: 2024-09-12T17:08:22.310Z
-updated: 2024-09-15T16:56:06.368Z
+date: 2024-09-15T02:14:02.666Z
+updated: 2024-09-20T20:25:02.928Z
 tags:
   - games
 categories:
@@ -62,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/88bfebb08e4cbb8d0a68e78c0297b8f1e363343f3
  If you’re already familiar with[LaunchBox and how it works](https://www.makeuseof.com/what-is-launchbox-how-it-works/) , you already know that you can add custom filters for your games, like the number of players per game or by genre. The filters you create in LaunchBox also appear in Big Box, making it easy to find the right game for the occasion.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Big Box Gives You Hotkeys and Customizable Menu Controls
@@ -74,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/88bfebb08e4cbb8d0a68e78c0297b8f1e363343f3
 
  For example, when I want to exit a game, I tap my**Player 1 Start button** and**A button** simultaneously twice to activate the**Close the Active Window** value, which exits my game. I can also do a different button combination for the volume control, among other functions.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Big Box Adds Second Screen Support for Digital Marquees
 
  When you populate your library with metadata via EmuMovies, you probably notice that a marquee file is always downloaded. These files are used with a second screen, displayed as a marquee like a traditional arcade cabinet.
@@ -81,13 +88,6 @@ thumbnail: https://thmb.techidaily.com/88bfebb08e4cbb8d0a68e78c0297b8f1e363343f3
  Once you have[set up dual monitors](https://www.makeuseof.com/how-to-set-up-dual-monitors/) for your arcade system, go into Big Box then select**Options > General > Marquee Screen > Screen 2** . Now, whenever you highlight a game in Big Box, your second screen will display the marquee for that particular game, usually reflective of the cabinet it was in during its heyday. It’s a nice touch that goes a long way toward making your cabinet feel authentic yet new.
 
 ![Example of a second screen marquee in BigBox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/second-screen-marquee-big-box.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit: Unbroken Software LLC/[YouTube](https://www.youtube.com/watch?v=q1gBLJ2IZJI)
 
@@ -118,18 +118,18 @@ thumbnail: https://thmb.techidaily.com/88bfebb08e4cbb8d0a68e78c0297b8f1e363343f3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-luminous-levels-in-android-videography/"><u>[New] Luminous Levels in Android Videography</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-top-picks-8-outstanding-cost-free-3d-video-player-tools/"><u>[New] Top Picks 8 Outstanding, Cost-Free 3D Video Player Tools</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ethical-way-to-grow-your-fan-base-effectively/"><u>2024 Approved The Ethical Way to Grow Your Fan Base Effectively</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpts-subscription-update-current-halt-explained-plus-timeline-for-access-resumption/"><u>ChatGPT's Subscription Update: Current Halt Explained + Timeline for Access Resumption</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-how-the-apple-iphone/"><u>Discover How the Apple iPhone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-your-first-step-on-twitter-creating-an-account/"><u>In 2024, Your First Step on Twitter Creating an Account</u></a></li>
-<li><a href="https://games-able.techidaily.com/makeuseof-mwc-winners-innovation-spotlight/"><u>MakeUseOf MWC Winners: Innovation Spotlight</u></a></li>
-<li><a href="https://games-able.techidaily.com/making-your-ps5-gaming-experience-social/"><u>Making Your PS5 Gaming Experience Social</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-desk-mat-selection/"><u>The Ultimate Guide to Desk Mat Selection</u></a></li>
-<li><a href="https://games-able.techidaily.com/troubleshooting-how-to-reconnect-to-your-mc-lan-party-on-pc/"><u>Troubleshooting: How to Reconnect to Your MC LAN Party on PC</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/ultimate-record-keeper-thorough-az-audits/"><u>Ultimate Record Keeper - Thorough AZ Audits</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/value-heat-dispersion-faceoff-in-depth-review-of-the-frozen-notte-and-aqua-elite-360-ev3-models-under-65/"><u>Value Heat Dispersion Faceoff: In-Depth Review of the Frozen Notte and Aqua Elite 360 eV3 Models Under $65</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/video-4-ways-to-fix-flashing-folder-with-question-mark-on-macbook/"><u>Video - 4 Ways to Fix Flashing Folder With Question Mark on Macbook</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-inside-look-at-whatsapps-voice-communication-design/"><u>[Updated] In 2024, Inside Look at WhatsApp's Voice Communication Design</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/comprehensive-guide-the-triad-technique-for-assessing-youtube-revenue-streams/"><u>Comprehensive Guide The Triad Technique for Assessing YouTube Revenue Streams</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciding-factors-in-quality-gaming-monitors/"><u>Deciding Factors in Quality Gaming Monitors</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-freeze-alert-manual-extraction-in-series-x/"><u>Game Freeze Alert: Manual Extraction in Series X</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-remedy-for-audio-pause-in-obs-streams/"><u>In 2024, Remedy for Audio Pause in OBS Streams</u></a></li>
+<li><a href="https://games-able.techidaily.com/keeping-your-steam-bp-mode-running-smoothly/"><u>Keeping Your Steam BP Mode Running Smoothly</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastery-in-money-back-gaming-series-s-and-x-expertise/"><u>Mastery in Money-Back Gaming - Series S and X Expertise</u></a></li>
+<li><a href="https://windows11.techidaily.com/reversing-operation-failure-0x709-on-pc/"><u>Reversing Operation Failure 0X709 on PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-issue-what-steps-should-you-take-if-your-iphones-email-isnt-functioning/"><u>Solving the Issue: What Steps Should You Take If Your iPhone's Email Isn't Functioning?</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-birth-of-a-brand-foddian-games/"><u>The Birth of a Brand: Foddian Games</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-google-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Google Phone Pattern Lock</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/top-ranked-switch-console-simulations-online-for-2024/"><u>Top-Ranked Switch Console Simulations Online for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/where-can-i-locate-my-steam-image-savings/"><u>Where Can I Locate My Steam Image Savings?</u></a></li>
 </ul></div>
 

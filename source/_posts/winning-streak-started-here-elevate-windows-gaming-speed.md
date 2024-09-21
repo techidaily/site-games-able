@@ -1,7 +1,7 @@
 ---
 title: "Winning Streak Started Here: Elevate Window's Gaming Speed"
-date: 2024-09-13T16:26:26.582Z
-updated: 2024-09-15T16:06:13.934Z
+date: 2024-09-14T01:00:03.691Z
+updated: 2024-09-20T18:07:57.040Z
 tags:
   - games
 categories:
@@ -53,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
 
 ![windows 10 task manager process list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/windows-10-task-manager-process-list.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When you're playing a game, especially demanding modern titles, it's a good idea to close other processes that you don't need. This frees up resources that your computer can further dedicate to the game.
 
  You can do this quickly by closing anything that's open on your taskbar. It's worth checking the system tray on the right side of the taskbar for any unneeded background apps, too.
@@ -64,6 +71,13 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
 ### 3\. Defragment Your HDD
 
 ![Disk defragmentation tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/disk-defragmentation.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Most gamers have hopefully upgraded to a solid-state drive (SSD) by now. But in case you're still using an HDD, you should make sure the disk is defragmented. If you use an SSD, you should not defragment, as doing so can shorten the life of your drive.
 
@@ -84,13 +98,6 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
  Here, choose**Show additional plans** if necessary, then select the**High performance** option.
 
 ![windows power plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/windows-power-plan.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Note that this will increase the power consumption of your computer. On a desktop, this isn't really a problem, aside from a slightly higher energy bill. But laptops will see worse battery life, so make sure your system is plugged in.
 
@@ -122,13 +129,6 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
 
  Microsoft's vague explanation about this feature says that while in Game Mode, Windows "prioritizes your gaming experience" as it "helps achieve a more stable frame rate depending on the specific game and system." It also prevents Windows Update from bothering you while you play.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix Low FPS With In-Game Options
 
  Next, we turn to settings you can change in most games that can solve your low frame rate problem.
@@ -144,16 +144,10 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
 ![Overwatch PC Graphics Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/05/Overwatch-PC-Graphics-Settings.png)
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Also, keep an eye out for options that let you limit FPS. These can be useful if your GPU sends more frames than your monitor can keep up with, but obviously limiting your FPS may result in a sub-par frame rate. If you have a 144Hz monitor, you don't want to limit the game to 60FPS.
@@ -161,10 +155,16 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
  If you're really struggling to run a game smoothly, consider lowering the resolution. Dropping it from 1920x1080 (1080p) to 1080x720 (720p), for instance, will have a positive effect on FPS. And for games where performance matters more than looks (like competitive online games), this is a worthy tradeoff.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 9\. Use Fullscreen Mode
@@ -172,6 +172,13 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
  Most games allow you to play in fullscreen, windowed, or borderless windowed modes. For maximum performance, you should choose fullscreen.
 
  This is because apps and games running in this mode have full control over the screen output. While borderless windowed might be more convenient, the game doesn't enjoy that display exclusivity in this mode, and may thus dip to a lower frame rate.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 10\. Repair or Reinstall the Game
 
@@ -192,13 +199,6 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
  If you don't have the money to upgrade your PC's components right now, you might consider overclocking your existing hardware. This allows you to squeeze a little more power out of what you already have, at essentially no cost.
 
  Overclocking might sound dangerous, but it's safe if you do it properly. See our[guide to overclocking your GPU](https://www.makeuseof.com/overclock-gpu-windows-10-asus-gpu-tweak/) if you'd like to give it a try.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 12\. Upgrade Your Hardware
 
@@ -235,14 +235,18 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-mastering-live-broadcasts-obs-tips-for-youtube-and-twitch/"><u>[New] Mastering Live Broadcasts OBS Tips for YouTube & Twitch</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-navigating-the-seas-of-success-utilizing-social-blade-for-youtube-data/"><u>[New] Navigating the Seas of Success Utilizing Social Blade for YouTube Data</u></a></li>
-<li><a href="https://some-tips.techidaily.com/advancements-in-ai-communication-exploring-the-improved-conversational-capabilities-of-chatgpts-gpt-4/"><u>Advancements in AI Communication: Exploring the Improved Conversational Capabilities of ChatGPT's GPT-4</u></a></li>
-<li><a href="https://games-able.techidaily.com/economical-hp-refreshing-monitors-for-gamers/"><u>Economical HP-Refreshing Monitors for Gamers</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-vivo-s18-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Vivo S18 Phones? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/maintaining-community-standards-implementing-twitch-user-controls/"><u>Maintaining Community Standards: Implementing Twitch User Controls</u></a></li>
-<li><a href="https://games-able.techidaily.com/my-exclusive-insights-on-an-extensive-oled-usage/"><u>My Exclusive Insights on an Extensive OLED Usage</u></a></li>
-<li><a href="https://games-able.techidaily.com/oled-screen-gaming-my-personal-transformation-story/"><u>OLED Screen Gaming: My Personal Transformation Story</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/successful-fix-for-nvidiaintel-graphic-swap/"><u>Successful Fix for NVIDIA/Intel Graphic Swap</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-elite-7-secure-platforms-for-smaller-companies/"><u>[New] Elite 7 Secure Platforms for Smaller Companies</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-ultimate-low-cost-smart-home-devices-for-gaming/"><u>[New] In 2024, Ultimate Low-Cost Smart Home Devices for Gaming</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-icy-illusions-reveling-at-beijings-olympic-event-2022/"><u>[Updated] Icy Illusions Reveling at Beijing's Olympic Event, 2022</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-weighing-mech-vs-standard-keyboards/"><u>Gamers Weighing Mech Vs. Standard Keyboards</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Huawei P60? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/inshot-unveiled-effortless-laptoppc-video-editing/"><u>Inshot Unveiled Effortless Laptop/PC Video Editing</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/leading-edits-the-10-best-video-apps-for-2024/"><u>Leading Edits The 10 Best Video Apps for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-guide-how-to-download-and-update-dell-monitors-drivers/"><u>Quick Guide: How to Download and Update Dell Monitors' Drivers</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-ps5s-wireless-communication-interruptions/"><u>Resolving PS5's Wireless Communication Interruptions</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-shifting-sessions-update-time-in-xbox-system/"><u>Seamless Shifting Sessions: Update Time in Xbox System</u></a></li>
+<li><a href="https://games-able.techidaily.com/stay-cool-play-smooth-finding-your-gpus-comfort-zone/"><u>Stay Cool, Play Smooth: Finding Your GPU's Comfort Zone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-to-correct-the-missing-msidll-error/"><u>Step-by-Step Guide to Correct the Missing msi.dll Error</u></a></li>
+<li><a href="https://games-able.techidaily.com/stopping-auto-booted-steam-immediately/"><u>Stopping Auto-Booted Steam Immediately</u></a></li>
 </ul></div>
 

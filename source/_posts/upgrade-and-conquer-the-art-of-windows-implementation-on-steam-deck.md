@@ -1,7 +1,7 @@
 ---
 title: "Upgrade and Conquer: The Art of Windows Implementation on Steam Deck"
-date: 2024-09-09T16:44:18.624Z
-updated: 2024-09-15T16:22:25.546Z
+date: 2024-09-16T23:50:31.489Z
+updated: 2024-09-21T02:06:21.887Z
 tags:
   - games
 categories:
@@ -100,19 +100,6 @@ Jhet Borja/MUO
 
 ![Selected SD card to install Ventoy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/selected-sd-card-to-install-ventoy.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You’ll then select the storage device you want to store Ventoy on. In our case, it’s the 32GB SD card. Click**Install** .
 
 ![Ventoy Drive with all ISOs and Windows Drivers inside](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/ventoy-drive-with-all-isos-and-windows-drivers-inside.jpg)
@@ -161,18 +148,18 @@ Jhet Borja/MUO
 
 ![Selecting Steam Deck SSD in GParted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/selecting-steam-deck-ssd-in-gparted.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Jhet Borja/MUO
 
  Finally, you’re ready to partition your SSD. By this point, you can plug in your mouse and keyboard to make it easier to navigate. If your SD card or flash drive is the only thing you can see, switch it to your SSD on the upper right drop-down menu.
 
 ![Resizing home partition on Steam Deck SSD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/resizing-home-partition-on-steam-deck-ssd.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Jhet Borja/MUO
 
@@ -193,6 +180,13 @@ Jhet Borja/MUO
  Now you're ready to install Windows on your Steam Deck. Before you go to the boot manager though, unplug any other USB devices you used earlier except the flash drive. This prevents the ISOs or Ventoy from malfunctioning.
 
 ![Windows 11 ISO on Ventoy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-11-iso-on-ventoy.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Jhet Borja/MUO
 
@@ -224,6 +218,13 @@ Jhet Borja/MUO
 
 ![Installing Steam Deck audio driver part 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/installing-steam-deck-audio-driver-part-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Proceed to click on**Install** for the other drivers, but you may find that the audio drivers do not have an executable. To install the two audio drivers, simply right-click (left trigger) on the file that says**Setup information** and click**Install** .
 
  Once they’re all installed, you can now restart your Steam Deck. If things didn’t go so smoothly, you can refer to the section below to find your issue and the solution for it.
@@ -252,13 +253,6 @@ Jhet Borja/MUO
 
  You may have created a new partition as ext4 in GParted instead of leaving the unallocated partition as it is. If you insist on creating a new partition in GParted, make sure it’s in NTFS format and not ext4.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Windows Cannot Install Drivers
 
 ![Windows cannot install required files error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-cannot-install-required-files-error.JPG)
@@ -274,10 +268,16 @@ Jhet Borja/MUO
 ![No SteamOS option in boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/no-steamos-option-in-boot-manager.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jhet Borja/MUO
@@ -304,16 +304,16 @@ Then type:
 
 ![Steam Deck user password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/steam-deck-user-password.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In case you don’t have a sudo account and can’t add the command, go to**Settings > Users** then assign a username and password. You can then try adding the same command in Konsole and adding your password after pressing Enter. It will then show your boot options.
 
  If you can see steamcl.efi with an asterisk next to its boot order number, it means that it’s in your boot manager now. You can verify it by shutting your Steam Deck down and entering the boot manager.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Steam Deck Navigation and Controls on Windows
 
@@ -342,20 +342,19 @@ Then type:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-topline-numbers-pewdiepies-yearly-income/"><u>[New] Topline Numbers PewDiePie's Yearly Income</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-tune-treasure-hunt-finding-the-perfect-audio/"><u>[Updated] 2024 Approved Tune Treasure Hunt Finding the Perfect Audio</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-capture-all-hulu-streaming-on-different-os-and-devices/"><u>[Updated] Capture All Hulu Streaming on Different OS and Devices</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-explore-the-world-of-fb-live-broadcasting/"><u>[Updated] In 2024, Explore the World of FB Live Broadcasting</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-what-is-blue-video-icon-on-facebook-messenger/"><u>[Updated] In 2024, What Is Blue Video Icon on Facebook Messenger?</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-remedying-no-audio-in-obs-sessions/"><u>[Updated] Remedying No Audio in OBS Sessions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/eliminate-your-account-from-twitch-a-step-by-nstep-guide/"><u>Eliminate Your Account From Twitch – A Step-by-nStep Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/expert-networking-for-epic-games-and-steam-connection/"><u>Expert Networking for Epic Games & Steam Connection</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-the-refunds-fortnite-purchase-fiasco/"><u>Navigating the Refunds: Fortnite Purchase Fiasco</u></a></li>
-<li><a href="https://howto.techidaily.com/oppo-k11-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo K11 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/play-smart-play-hard-navigating-macs-fortnite-terrain/"><u>Play Smart, Play Hard: Navigating Mac's Fortnite Terrain</u></a></li>
-<li><a href="https://games-able.techidaily.com/roblox-fps-mod-unlocking-secrets-and-safety/"><u>Roblox FPS Mod: Unlocking Secrets and Safety</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-vivo-x90s-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Vivo X90S Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://games-able.techidaily.com/tackling-non-display-issues-in-epic-games-libraries/"><u>Tackling Non-Display Issues in Epic Games Libraries</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-the-best-mid-range-1440p-gaming-screens-in-town/"><u>Unveiling the Best Mid-Range 1440P Gaming Screens in Town</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-crossing-over-attending-tiktok-live-gigs-easily/"><u>[New] 2024 Approved Crossing Over Attending TikTok Live Gigs Easily</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-unveiling-the-top-features-of-recuva-leading-file-restoration-software/"><u>Comprehensive Guide: Unveiling The Top Features Of Recuva - Leading File Restoration Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/converting-desktops-to-handheld-steam-link-for-androidios-gaming/"><u>Converting Desktops to Handheld: Steam Link for Android/iOS Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/enjoy-gaming-anywhere-anytime-with-no-data-needed/"><u>Enjoy Gaming Anywhere, Anytime With No Data Needed</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-minecraft-bedrock-isolation-to-java-connection-using-geysermc/"><u>From Minecraft Bedrock Isolation to Java Connection Using GeyserMC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-risk-of-rain-2s-sudden-freezing-and-crash-problems/"><u>How to Resolve Risk of Rain 2'S Sudden Freezing and Crash Problems</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-your-iphone-14-plus-on-metropcs-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Your iPhone 14 Plus on MetroPCS</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/anding-movies-overlooked-by-critics/"><u>Outstanding Movies Overlooked by Critics</u></a></li>
+<li><a href="https://games-able.techidaily.com/players-and-policy-decoding-xboxs-ban-on-third-party-devices/"><u>Players and Policy: Decoding Xbox’s Ban on Third-Party Devices</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-nubia-z50-ultra-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Nubia Z50 Ultra to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/step-by-step-finding-and-recovering-deleted-iphone-notetaking-entries/"><u>Step-by-Step: Finding and Recovering Deleted iPhone Notetaking Entries</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-investment-in-sonys-exclusive-playstation-service/"><u>The Investment in Sony's Exclusive PlayStation Service</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-light-solution-for-dynamic-gaming-rooms/"><u>The Ultimate Light Solution for Dynamic Gaming Rooms</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-12-prominent-xiaomi-mix-fold-3-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Xiaomi Mix Fold 3 Fingerprint Not Working Solutions</u></a></li>
 </ul></div>
 

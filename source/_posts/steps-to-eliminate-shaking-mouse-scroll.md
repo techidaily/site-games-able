@@ -1,7 +1,7 @@
 ---
 title: Steps to Eliminate Shaking Mouse Scroll
-date: 2024-09-13T16:15:46.673Z
-updated: 2024-09-15T17:07:36.551Z
+date: 2024-09-14T18:46:36.890Z
+updated: 2024-09-20T17:58:08.372Z
 tags:
   - games
 categories:
@@ -47,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/df2009c639407c10216adf3ab20aeaa652a10152c
 
  It is important to note that the instructions below are for the Razor Naga 2014 model. The steps to fix the jumpy scroll wheel could vary depending on the brand and model of the mouse and the type of encoders it has.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Fix the Mouse Scroll Wheel
 
  Here's a step-by-step guide for how to stop your mouse scroll wheel from jumping up and down.
@@ -55,19 +62,6 @@ thumbnail: https://thmb.techidaily.com/df2009c639407c10216adf3ab20aeaa652a10152c
 
 ![Person Unmounting the Screws to Disassemble the Mouse Casing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/1-Person-Unmounting-the-Screws-to-Disassemble-the-Mouse-Casing.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Image Credit: TechClub/[YouTube](https://www.youtube.com/watch?v=%5FWBHLISDp80)
 
  The first step is to disassemble the mouse casing by unscrewing all the screws. To do so, remove any pads covering your mouse screws so you can see them. When the screws are visible, use a screwdriver to unscrew them and place them in a safe location.
@@ -75,10 +69,10 @@ thumbnail: https://thmb.techidaily.com/df2009c639407c10216adf3ab20aeaa652a10152c
  If there aren't any screws left, you should be able to remove the top panel of the mouse casing and reveal the internal circuit board. After that, you will need to unplug all circuit connections.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 2: Carefully Unplug the Circuit Connections
@@ -92,10 +86,10 @@ thumbnail: https://thmb.techidaily.com/df2009c639407c10216adf3ab20aeaa652a10152c
  Even though removing your mouse's circuit from the lower panel is unnecessary, if you want to do that, make sure there are no screws attached. If there are any, remove them and take the circuit off the bottom panel of your mouse. Alternatively, you can unmount the scroll wheel directly without unmounting the circuit.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 3: Unmount the Scroll Wheel
@@ -107,21 +101,22 @@ thumbnail: https://thmb.techidaily.com/df2009c639407c10216adf3ab20aeaa652a10152c
  Unplug the encoder attached to the scroll wheel from the main board before unmounting the scroll wheel. Then, unplug any other connections, unscrew any screws, and take out the scroll wheel. After you have unmounted the scroll wheel, remove the encoder and proceed to the next step: fix the encoder.
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 4: Fix the Encoder Assembly
 
 ![Person Showing the Mouse Encoder Assembly](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/5-Person-Showing-the-Mouse-Encoder-Assembly.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Image Credit: TechClub/[YouTube](https://www.youtube.com/watch?v=%5FWBHLISDp80)
 
@@ -164,13 +159,6 @@ thumbnail: https://thmb.techidaily.com/df2009c639407c10216adf3ab20aeaa652a10152c
 
 **2\. Buy a New Mouse:** If a technician fails to repair your mouse, you should turn to the last resort: get a brand-new mouse. If you decide to go this route, our guide covering the[best high DPI gaming mice](https://www.makeuseof.com/best-high-dpi-gaming-mice/) can help you make a well-informed decision. Invest in a reliable device to avoid encountering the same problem again.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix the Jumpy Scroll Wheel and Enjoy Gaming
 
  A jumpy scroll wheel can make us miss our targets when playing shooting games. Scrolling also becomes very annoying with a poor response from your mouse scroll wheel. We hope you'll be able to solve the jumpy scroll wheel problem by following our instructions.
@@ -192,16 +180,13 @@ thumbnail: https://thmb.techidaily.com/df2009c639407c10216adf3ab20aeaa652a10152c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-contrasting-youtubes-ownership-norms-with-cc-ideals/"><u>[New] 2024 Approved Contrasting YouTube's Ownership Norms with CC Ideals</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-privacy-preservation-how-to-make-faces-invisible-online/"><u>[New] 2024 Approved Privacy Preservation How to Make Faces Invisible Online</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-installation-guide-newest-hp-printer-drivers-for-the-3755-model-on-win10-8-and-7/"><u>Easy Installation Guide: Newest HP Printer Drivers for the 3755 Model on Win10, 8 & 7</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exclusive-directory-of-tones-for-your-snapchat-account-for-2024/"><u>Exclusive Directory of Tones for Your SnapChat Account for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/fixing-steams-inaccessible-gaming-library-issue/"><u>Fixing Steam's Inaccessible Gaming Library Issue</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaming-serenity-steps-to-control-xbox-console-sounds/"><u>Gaming Serenity: Steps to Control Xbox Console Sounds</u></a></li>
-<li><a href="https://network-issues.techidaily.com/instant-resolution-steps-inactive-gpu-screen-wnvidia/"><u>Instant Resolution Steps: Inactive GPU Screen W/NVIDIA</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/joint-listening-sharing-your-favorite-tracks-on-spotify-how-to/"><u>Joint Listening: Sharing Your Favorite Tracks on Spotify, How To?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-oppo-find-x7-ultra-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Oppo Find X7 Ultra? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-in-2024-demystifying-ai-game-generators/"><u>New In 2024, Demystifying AI Game Generators</u></a></li>
-<li><a href="https://games-able.techidaily.com/switch-wonders-restore-internet-functionality/"><u>Switch Wonders: Restore Internet Functionality</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-slomo-visual-delight-thorough-assessment-release/"><u>[Updated] SloMo Visual Delight Thorough Assessment Release</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-spots-for-discovering-rich-gold-text-effects/"><u>[Updated] Ultimate Spots for Discovering Rich, Gold Text Effects</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/automated-user-tracking-with-the-cookiebot-solution/"><u>Automated User Tracking with the Cookiebot Solution</u></a></li>
+<li><a href="https://games-able.techidaily.com/learn-the-ins-and-outs-of-discord-setup-on-a-mac/"><u>Learn the Ins and Outs of Discord Setup on a Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/preeminent-benefits-five-ways-to-upgrade-your-gameplay/"><u>Preeminent Benefits: Five Ways to Upgrade Your Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-gameplay-tracking-platforms/"><u>Superior Gameplay Tracking Platforms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/synthesizing-success-the-power-of-magix-samplitude-for-2024/"><u>Synthesizing Success The Power of Magix Samplitude for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-samsung-galaxy-a15-4g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Samsung Galaxy A15 4G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

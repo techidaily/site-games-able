@@ -1,7 +1,7 @@
 ---
 title: "Tailored Heat Management: Superior Gaming Experience Boost"
-date: 2024-09-10T16:29:05.354Z
-updated: 2024-09-15T16:02:40.261Z
+date: 2024-09-19T18:57:21.352Z
+updated: 2024-09-21T00:06:25.856Z
 tags:
   - games
 categories:
@@ -62,10 +62,10 @@ Jhet Borja/MakeUseOf
  Setting a custom fan curve is incredibly easy and something you shouldn't be intimidated by. Below, you'll not only learn how to make a custom fan curve but also understand how to make a fan curve that's best for your hardware.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 1: Download MSI Afterburner, Unigine Heaven, and HWinfo
@@ -80,6 +80,13 @@ Jhet Borja/MakeUseOf
 
  In case MSI Afterburner looks different from the screenshots, head to**Settings** , pan right to the last tab, click on**User Interface** , and choose**MSI Mystic Afterburner by skin by Derex Design** . Having the same skin will make it easier for you to follow along.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 2: Benchmark and Find Your Temperatures
 
  Before creating a custom fan curve, you need to figure out four things:
@@ -93,27 +100,20 @@ Jhet Borja/MakeUseOf
 
 ![Manual fan speed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/manual-fan-speed.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To manually change the fan speed, click on the automatic fan speed**A icon** , adjust the slider to your desired maximum fan speed, and click the**circled check button** to the right of the floppy disk icon to apply it.
 
 ![Stable 70-71C at 90% fan speed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/stable-70-71c-at-90-fan-speed.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  At 100% fan speed, it tops out at around 69.5-70 °C. We also found that we could keep the temperature at 70-71 °C while only using 90% fan speed.
 
  Now that we have the information, we can now put it to use in our custom GPU fan curve.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 3: Creating Your Custom GPU Fan Curve Using MSI Afterburner
 
@@ -124,10 +124,10 @@ Jhet Borja/MakeUseOf
 ![Full fan speed curve](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/full-fan-speed-curve.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A 0% fan speed will allow your fans to rest when your GPU is not under load.
@@ -155,18 +155,21 @@ Jhet Borja/MakeUseOf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-commanding-youtube-realm-through-strategic-creator-studio-utilization/"><u>[New] In 2024, Commanding YouTube Realm Through Strategic Creator Studio Utilization</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-earnings-analysis-youtube-views-vs-financial-gain/"><u>[New] In 2024, Earnings Analysis YouTube Views vs Financial Gain</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-create-captivating-sports-videography/"><u>[Updated] In 2024, Create Captivating Sports Videography</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-net-archives-downloading-personal-tones/"><u>2024 Approved Expert Net Archives Downloading Personal Tones</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-plus-uncovered-understanding-its-strengths-and-weaknesses-for-better-decision-making/"><u>ChatGPT Plus Uncovered: Understanding Its Strengths and Weaknesses for Better Decision-Making</u></a></li>
-<li><a href="https://games-able.techidaily.com/deciphering-sonys-freemium-gaming-strategy-with-psplus/"><u>Deciphering Sony's Freemium Gaming Strategy with PS+</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-methods-to-free-up-space-by-deleting-cache-on-android/"><u>Effective Methods to Free Up Space by Deleting Cache on Android</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-your-play-experience-understanding-android-fps/"><u>Elevate Your Play Experience: Understanding Android FPS</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-use-life360-on-windows-pc-for-oneplus-open-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For OnePlus Open? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-steam-deck-purchase/"><u>Mastering Steam Deck Purchase</u></a></li>
-<li><a href="https://games-able.techidaily.com/simplified-guide-to-diagnosing-cpu-induced-performance-slowdowns/"><u>Simplified Guide to Diagnosing CPU-Induced Performance Slowdowns</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-surprising-benefits-of-regular-restarting/"><u>The Surprising Benefits of Regular Restarting</u></a></li>
-<li><a href="https://games-able.techidaily.com/winning-strategies-tackling-fps-changes-in-valorant-on-windows/"><u>Winning Strategies: Tackling FPS Changes in Valorant on Windows</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-immortalizing-sportsmanship-techniques-for-gameplay-videos/"><u>[New] 2024 Approved Immortalizing Sportsmanship Techniques for Gameplay Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-crafting-compelling-narratives-with-facebook-cover-vids/"><u>[Updated] In 2024, Crafting Compelling Narratives with Facebook Cover Vids</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/5-frosty-yet-inviting-backdrops-for-your-vids/"><u>5 Frosty Yet Inviting Backdrops for Your Vids</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/capturezone-win-10s-best-recorder-for-2024/"><u>CaptureZone Win 10'S Best Recorder for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/dissecting-meta-meaning-necessity-and-rules-enforcement/"><u>Dissecting 'Meta': Meaning, Necessity, and Rules Enforcement</u></a></li>
+<li><a href="https://games-able.techidaily.com/dxgi-hang-in-check-correcting-windows-device-stalls/"><u>DXGI Hang in Check - Correcting Windows' Device Stalls</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guide-expert-convertir-avec-succes-des-avchd-m2ts-en-format-mp4-fidelement-les-solutions-les-plus-efficaces/"><u>Guide Expert : Convertir Avec Succès Des AVCHD M2TS en Format MP4 Fidèlement - Les Solutions Les Plus Efficaces</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-oneplus-ace-2v-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How OnePlus Ace 2V Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-swift-solutions-moving-iphone-pictures-and-videos/"><u>In 2024, Swift Solutions Moving iPhone Pictures & Videos</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-honor-play-40c-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Honor Play 40C for Streaming | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/revive-your-pc-install-todays-latest-nvidia-driver-release/"><u>Revive Your PC – Install Today's Latest Nvidia Driver Release.</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-screen-technology-165hz-speed/"><u>Superior Screen Technology - 165Hz Speed</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ideal-combo-3-streaming-apps-for-nintendo-switch/"><u>The Ideal Combo: 3 Streaming Apps for Nintendo Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-razers-ultimate-pc-setup-low-latency-and-high-performance/"><u>Unveiling Razer's Ultimate PC Setup - Low Latency & High Performance</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-3gp-video-editing-cutting-and-trimming-made-easy/"><u>Updated 2024 Approved 3GP Video Editing Cutting and Trimming Made Easy</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-ultimate-mobile-gaming-collection-today/"><u>Your Ultimate Mobile Gaming Collection Today</u></a></li>
 </ul></div>
 

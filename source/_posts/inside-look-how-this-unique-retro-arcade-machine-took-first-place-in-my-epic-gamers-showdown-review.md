@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: How This Unique Retro Arcade Machine Took First Place in My Epic Gamers’ Showdown Review."
-date: 2024-09-19 12:53:18
-updated: 2024-09-20 12:33:41
+date: 2024-09-13T19:17:40.512Z
+updated: 2024-09-20T21:58:06.030Z
 tags:
   - gaming
 categories:
@@ -59,6 +59,19 @@ There's a single screw holding the cover in place; remove it and set it aside in
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Move the screw and spacer inside the SSD housing
 
 With the expansion slot cover removed, locate and remove the screw and spacer near the end of the SSD housing. 
@@ -70,6 +83,13 @@ There are various holes inside the SSD housing that correspond with the various 
 I then placed the spacer over the hole -- it's held in place by three dots, so don't worry about perfectly lining it up or keeping it in place. 
 
 Jason Cipriani/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Insert the SSD and use the mounting screw
 
@@ -120,11 +140,24 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/reatives-making-marvel-virtual-worlds-vivid/"><u>[New] Creatives Making Marvel Virtual Worlds Vivid</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-deadly-dominance-the-quintessential-zombie-gameplay/"><u>[New] Deadly Dominance The Quintessential Zombie Gameplay</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-straightforward-approach-to-mastering-simple-hdr-techniques/"><u>[Updated] In 2024, Straightforward Approach to Mastering Simple HDR Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/converting-game-pads-for-classics-on-pc/"><u>Converting Game Pads for Classics on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/joining-forces-connecting-your-ps4ps5-to-a-switch/"><u>Joining Forces: Connecting Your PS4/PS5 to a Switch</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/precision-perfected-pearsons-gsl-and-mondly-synergy/"><u>Precision Perfected - Pearson's GSL & Mondly Synergy</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps-console-evolution-can-old-games-fit-new-screens/"><u>PS Console Evolution: Can Old Games Fit New Screens?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-data-merge-tactics-for-windows-users/"><u>Streamlining Data: Merge Tactics for Windows Users</u></a></li>
+<li><a href="https://fox-info.techidaily.com/tactics-for-triumphing-in-virtual-marketplaces/"><u>Tactics for Triumphing in Virtual Marketplaces</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/tailoring-titles-and-tags-for-top-youtube-performance-for-2024/"><u>Tailoring Titles and Tags for Top YouTube Performance for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Peeling Back 'Meta' Layers: Understanding and Following"
-date: 2024-09-08T16:52:24.316Z
-updated: 2024-09-15T16:51:20.493Z
+date: 2024-09-15T17:16:25.394Z
+updated: 2024-09-20T20:31:51.263Z
 tags:
   - games
 categories:
@@ -57,6 +57,13 @@ OpenAI / MakeUseOf
 
 ![woman playing first person shooter on gaming pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/woman-playing-first-person-shooter-on-gaming-pc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  DC Studio/[Shutterstock](https://www.shutterstock.com/image-photo/over-shoulder-view-african-american-gamer-2177467491)
 
  You can't define metas as a strictly good or bad thing in gaming. It wholly depends on how the meta develops, and how the developers handle it after it arises.
@@ -64,10 +71,10 @@ OpenAI / MakeUseOf
  That's one of the fascinating things about metas. The core game can remain and persist through both good and bad meta changes. Let's look at how a meta can help or hurt a game.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How Metas Can Help Games
@@ -82,19 +89,6 @@ OpenAI / MakeUseOf
 
  The end result is a meta that shifts every six months, which keeps Magic the Gathering from getting boring and allows players to find new combos and playstyles with the new cards. And while Magic the Gathering has had its fair share of oppressive metas, they have either been banned or drifted out of Standard. It's a great example of how a game can shed a bad meta, introduce a good one, and keep players happy and engaged.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How Metas Can Harm Games
 
  Metas are not always positive. If a meta is too "powerful," it will warp the game around it. In severe instances, players will be at an active disadvantage if they do not, or cannot follow what the meta dictates.
@@ -105,18 +99,18 @@ OpenAI / MakeUseOf
 
  Eventually, Dr. Boom got a nerf and the meta re-stabilised itself, but the card was forever deemed a meta-warper by Hearthstone players.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Should You Follow the Meta in Games?
 
  Because metas aren't strictly good or bad, it's important to know whether or not you should follow them.
 
  Let's look at why you might want to follow along, why you might want to ignore the meta, and how to do so selectively.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Following the Game Meta Can Enhance Your Enjoyment
 
@@ -159,14 +153,15 @@ OpenAI / MakeUseOf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-mastering-minecraft-screen-capture-a-mac-guide/"><u>[New] 2024 Approved Mastering Minecraft Screen Capture A Mac Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-foremost-youtube-networks-for-news-enthusiasts/"><u>[Updated] 2024 Approved Foremost YouTube Networks for News Enthusiasts</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-revolutionize-earning-with-youtube-short-tactics/"><u>[Updated] In 2024, Revolutionize Earning with Youtube Short Tactics</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-expert-advice-fixing-iphone-lens-blur-effectively/"><u>2024 Approved Expert Advice Fixing iPhone Lens Blur Effectively</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-on-score-higher-4-ultimate-boosting-websites-for-gamers/"><u>Game on, Score Higher: 4 Ultimate Boosting Websites for Gamers</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-realme-12-pro-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Realme 12 Pro 5G Phone? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-motorola-edge-40-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Motorola Edge 40 Screen | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/preventive-actions-for-screen-driver-launch-issue-in-winos/"><u>Preventive Actions for Screen Driver Launch Issue in WinOS</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-the-mechanics-of-robloxs-frame-rate-hacking/"><u>Unveiling the Mechanics of Roblox's Frame Rate Hacking</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-seo-enhanced-title-builder-for-peak-video-visibility/"><u>[Updated] 2024 Approved SEO-Enhanced Title Builder for Peak Video Visibility</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-perfectly-pair-audio-visual-delights-top-6-music-video-apps-for-android/"><u>[Updated] Perfectly Pair Audio-Visual Delights Top 6 Music Video Apps for Android</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-performance-logitech-gaming-mouse/"><u>Elite Performance Logitech Gaming Mouse</u></a></li>
+<li><a href="https://games-able.techidaily.com/haptic-sensation-vs-tactile-tablet-triumph-in-car-races/"><u>Haptic Sensation Vs. Tactile Tablet Triumph in Car Races</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-vivo-y17s-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Vivo Y17s</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-stabilized-gimbals-reviewed-1-10-for-smartphone-and-pro-cameras/"><u>In 2024, Best Stabilized Gimbals Reviewed #1-#10 for Smartphone and Pro Cameras</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/intel-or-amd-top-choice-for-console-gaming/"><u>Intel or AMD: Top Choice for Console Gaming?</u></a></li>
+<li><a href="https://win-able.techidaily.com/navigate-effortlessly-with-the-updated-euro-truck-simulator-2-no-more-pc-crashing-concerns/"><u>Navigate Effortlessly with the Updated Euro Truck Simulator 2: No More PC Crashing Concerns</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-personalizing-your-xbox-game-bar-in-windows-environment/"><u>The Ultimate Guide to Personalizing Your Xbox Game Bar in Windows Environment</u></a></li>
 </ul></div>
 

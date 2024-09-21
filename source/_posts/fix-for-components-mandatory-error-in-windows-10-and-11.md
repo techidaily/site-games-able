@@ -1,7 +1,7 @@
 ---
 title: Fix for “Components Mandatory” Error in Windows 10 & 11
-date: 2024-09-12T16:15:43.339Z
-updated: 2024-09-15T16:47:29.215Z
+date: 2024-09-14T20:13:24.609Z
+updated: 2024-09-20T17:18:12.726Z
 tags:
   - games
 categories:
@@ -68,9 +68,24 @@ thumbnail: https://thmb.techidaily.com/d35a9f55c38e62a416cd2700848e1170978470691
 3. Select**I accept the agreement** inside the "Installing Microsoft DirectX" window.  
 ![The I accept the agreement radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-i-accept-radio-button.jpg)
 4. Click**Next** to proceed to an offer for installing a Bing Bar.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Uncheck the**Install the Bing Bar** checkbox if you don’t want that software.  
 ![The Install the Bing Bar checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-install-bing-bar-option.jpg)
 6. Select**Next** to install the required DirectX components.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Repair .NET Framework Components
 
@@ -81,33 +96,19 @@ thumbnail: https://thmb.techidaily.com/d35a9f55c38e62a416cd2700848e1170978470691
  Check out[how to repair the .NET Framework](https://www.makeuseof.com/windows-repair-net-framework/) for more information.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Verify the Affected Game Within Your Game Launcher
 
 ![The Verify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-verify-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  A few users say verifying games’ files works for fixing the “following components are required” error. You can only perform this step if you bought and downloaded the game using one of the big game launcher apps, such as Steam, Epic Games, EA Desktop, and Origin.
 
  If you're unsure how to do this, check out[how to repair game files on different launchers](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/) .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Reinstall the Affected Game or Software
 
@@ -122,16 +123,10 @@ thumbnail: https://thmb.techidaily.com/d35a9f55c38e62a416cd2700848e1170978470691
  Also, note that some players have been able to resolve the “following components are required” error by reinstalling Steam. So, reinstalling that client software might be worth a try if you need to fix this issue for Steam games.
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Kick-Start Your Windows Games Again
@@ -155,17 +150,16 @@ thumbnail: https://thmb.techidaily.com/d35a9f55c38e62a416cd2700848e1170978470691
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-from-recording-to-revealing-uploading-high-quality-vr-on-fb/"><u>[New] From Recording to Revealing Uploading High-Quality VR on FB</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-top-10-choices-the-ultimate-gb-emulator-list-android/"><u>[Updated] 2024 Approved Top 10 Choices The Ultimate GB Emulator List, Android</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/advanced-audio-alliance-for-podcasters-for-2024/"><u>Advanced Audio Alliance for Podcasters for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fixing-your-260ci-keyless-remote-usb-connection-issues/"><u>Fixing Your 260Ci Keyless Remote USB Connection Issues</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/is-the-worry-over-electric-vehicle-ev-battery-life-justified-or-unnecessary/"><u>Is the Worry Over Electric Vehicle (EV) Battery Life Justified or Unnecessary?</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-titans-of-social-interaction-facebook-twitter-instagram-and-youtube/"><u>Navigating the Titans of Social Interaction – Facebook, Twitter, Instagram and Youtube</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-vivo-s18-pro-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Vivo S18 Pro Phone Now with These Tips</u></a></li>
-<li><a href="https://games-able.techidaily.com/rally-the-friends-unveiling-the-most-exciting-sports-apps-iosandroid/"><u>Rally the Friends: Unveiling the Most Exciting Sports Apps (iOS/Android)</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/sony-ps-lx310bt-compact-and-contemporary-turntable/"><u>Sony PS-LX310BT - Compact & Contemporary Turntable</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-best-logitech-gaming-mice/"><u>The Best Logitech Gaming Mice</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-sound-journey-with-mmx-200/"><u>The Ultimate Sound Journey with MMX 200</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-game-controls-xbox-controller-for-pc-connection-147-chars/"><u>Unlocking Game Controls: Xbox Controller for PC Connection (147 Chars)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-tempo-trackers-guide-accessible-free-tools/"><u>2024 Approved The Tempo Tracker’s Guide – Accessible, Free Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/demystifying-gameplay-boost-in-roblox-platform/"><u>Demystifying Gameplay Boost in Roblox Platform</u></a></li>
+<li><a href="https://discover-able.techidaily.com/effortlessly-convert-your-vob-media-to-premium-m2ts-streams-at-no-cost-expertly-done-by-movavi/"><u>Effortlessly Convert Your VOB Media to Premium M2TS Streams at No Cost, Expertly Done by Movavi</u></a></li>
+<li><a href="https://program-issues.techidaily.com/five-effective-solutions-to-bypass-eos-login-errors-in-palworld-platform/"><u>Five Effective Solutions to Bypass EOS Login Errors in Palworld Platform</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-check-for-driver-updates-on-windows-10-and-11/"><u>How to Check for Driver Updates on Windows 10 & 11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-teleport-your-gps-location-on-realme-c51-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Realme C51? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/ifa-innovations-nextgen-tvs-and-monitors/"><u>IFA Innovations: NextGen TVs & Monitors</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-samsung-galaxy-s23-ultra-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Samsung Galaxy S23 Ultra Device</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-unraveling-instagrams-video-time-restrictions/"><u>In 2024, Unraveling Instagram's Video Time Restrictions</u></a></li>
+<li><a href="https://games-able.techidaily.com/reclaim-your-games-digital-frontier/"><u>Reclaim Your Game's Digital Frontier</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-future-of-fun-analyzing-9-benefits-and-drawbacks-in-the-game-industry/"><u>The Future of Fun: Analyzing 9 Benefits & Drawbacks in the Game Industry</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Steam's External Drive Setup Guide for Games
-date: 2024-09-13T17:04:44.215Z
-updated: 2024-09-15T17:25:18.932Z
+date: 2024-09-15T20:41:20.457Z
+updated: 2024-09-21T02:20:17.519Z
 tags:
   - games
 categories:
@@ -65,24 +65,18 @@ thumbnail: https://thmb.techidaily.com/1ce0f809b5f53bee55ecc4e59e4fc7fd703e674d5
 
 ![Copy and pasting game from local drive to external drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/copy-and-pasting-game-from-local-drive-to-external-drive.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This should open up the**\\steamapps** folder, you can then proceed to open the**\\common** folder. Open the same folder on your external drive so you can paste it afterwards.
 
  The \\common folder is where your games are stored. Simply select and copy the games and paste them into the same \\common folder on your external drive.
 
  However, copying the games instead of moving them won’t show up on Steam immediately when adding the drive to the new PC. Getting those games to show up will require extra steps that we will show you in the next section.
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Play Steam Games From an External Drive
 
@@ -91,10 +85,10 @@ thumbnail: https://thmb.techidaily.com/1ce0f809b5f53bee55ecc4e59e4fc7fd703e674d5
 ![Added external drive on other system on Steam storage manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/added-external-drive-on-other-system-on-steam-storage-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Open up the Steam Storage Manager, and add the external drive to the destination PC as we showed you above. Once it’s added, you’ll see the games that you moved to your external drive using the Steam Storage Manager. You’ll be able to play those games immediately as if they were on your local drives.
@@ -128,16 +122,19 @@ thumbnail: https://thmb.techidaily.com/1ce0f809b5f53bee55ecc4e59e4fc7fd703e674d5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-becoming-an-exclusive-guest-on-tiktok-live/"><u>[Updated] In 2024, Becoming an Exclusive Guest on TikTok Live</u></a></li>
-<li><a href="https://games-able.techidaily.com/cutting-off-steam-membership-services/"><u>Cutting Off Steam Membership Services</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-aether-understanding-its-nature-and-steps-to-becoming-a-member/"><u>Discover Aether: Understanding Its Nature & Steps to Becoming a Member</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/enhance-your-workspace-with-the-top-rated-ergonomic-keyboards-for-2/"><u>Enhance Your Workspace with the Top-Rated Ergonomic Keyboards for 2</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-samsung-galaxy-s23-ultra-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Samsung Galaxy S23 Ultra to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-samsung-un65ru8000fxza-tv-assessment-elegant-design-meets-clever-tech/"><u>In-Depth Samsung UN65RU8000FXZA TV Assessment - Elegant Design Meets Clever Tech</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-get-your-glitch-on-top-10-video-editing-apps-for-ios-and-android/"><u>New Get Your Glitch On Top 10 Video Editing Apps for iOS and Android</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-top-7-online-auto-subtitle-translators-for-content-creators/"><u>New Top 7 Online Auto Subtitle Translators for Content Creators</u></a></li>
-<li><a href="https://games-able.techidaily.com/steams-enhancements-big-picture-showcase/"><u>Steam's Enhancements: Big Picture Showcase</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-realme-12-proplus-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Realme 12 Pro+ 5G to Gmail | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/unseen-players-methods-to-identify-series-sx-disconnects/"><u>Unseen Players: Methods to Identify Series S/X Disconnects</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-complete-guide-to-creating-impactful-snapshots/"><u>[Updated] 2024 Approved The Complete Guide to Creating Impactful Snapshots</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-advanced-techniques-developing-elapsed-time-features-in-obs-software/"><u>[Updated] Advanced Techniques Developing Elapsed Time Features in OBS Software</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-discovering-and-perfecting-your-individual-style/"><u>[Updated] In 2024, Discovering & Perfecting Your Individual Style</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-samsung-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Samsung Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://games-able.techidaily.com/crossover-bridge-for-windows-and-mac-playing-across-platforms-effortlessly/"><u>CrossOver Bridge for Windows and Mac: Playing Across Platforms Effortlessly</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-how-to-finding-and-downloading-the-right-drivers-for-your-acer-aspire-in-windows/"><u>Easy How-To: Finding and Downloading the Right Drivers for Your Acer Aspire in Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-gigabyte-sound-driver-software-no-cost/"><u>Get the Latest Gigabyte Sound Driver Software - No Cost</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-harvest-hidden-havens-in-minecraft-lands/"><u>How to Harvest Hidden Havens in Minecraft Lands</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-xr-with-a-mask-on-by-drfone-ios/"><u>How to Unlock iPhone XR with a Mask On</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-prolong-your-snapstreak-legacy-with-ease/"><u>In 2024, Prolong Your Snapstreak Legacy with Ease</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-steams-playtime-tracking-hours-logged-and-points-earned/"><u>Navigating Steam's Playtime Tracking: Hours Logged & Points Earned</u></a></li>
+<li><a href="https://games-able.techidaily.com/reimagine-your-gaming-horizons-discover-these-top-9-emulators/"><u>Reimagine Your Gaming Horizons: Discover These Top 9 Emulators</u></a></li>
+<li><a href="https://games-able.techidaily.com/seeking-the-flaws-6-reasons-to-question-mac-gaming-prowess/"><u>Seeking the Flaws: 6 Reasons to Question Mac Gaming Prowess</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-into-a-new-dimension-transforming-chatgpt-into-an-immersive-rpg-world/"><u>Step Into a New Dimension: Transforming ChatGPT Into an Immersive RPG World</u></a></li>
 </ul></div>
 

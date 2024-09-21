@@ -1,7 +1,7 @@
 ---
 title: "Disconnecting From Realms: A World Recovery Plan"
-date: 2024-09-13T16:20:28.007Z
-updated: 2024-09-15T16:47:23.053Z
+date: 2024-09-17T20:21:03.197Z
+updated: 2024-09-21T02:25:08.555Z
 tags:
   - games
 categories:
@@ -71,21 +71,22 @@ thumbnail: https://thmb.techidaily.com/1d662e9b1599361d80a888fd1a81a529179f95c0f
 
 ![Minecraft Realms Java Edition World backups button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/minecraft-realms-java-edition-world-backups-button.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, select the world in the Realm you want to back up and click on**World Backups** .
 
 ![Minecraft Realms Java Edition Backups section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/minecraft-realms-java-edition-backups-section.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Finally, you can click on**Download latest** or choose the specific backup you want to save.
@@ -93,10 +94,10 @@ thumbnail: https://thmb.techidaily.com/1d662e9b1599361d80a888fd1a81a529179f95c0f
 ![Minecraft Java Edition world saves file location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/minecraft-java-edition-world-saves-file-location.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once it’s saved, it’ll show up in your single-player worlds with your username. In this case it’s Majikoeda. The file location can be found in**AppData/Roaming/.minecraft/saves** in case you want to move it to a different device, upload it to a server hosting service, or save it on Google Drive. That file location can also be used to[add downloadable Minecraft maps](https://www.makeuseof.com/how-to-download-install-minecraft-maps/) .
@@ -105,13 +106,6 @@ thumbnail: https://thmb.techidaily.com/1d662e9b1599361d80a888fd1a81a529179f95c0f
 
 ![Pencil button on Minecraft Realms Bedrock Edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/pencil-button-on-minecraft-realms-bedrock-edition.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To back up a Realm world on the Bedrock Edition, click Play. Then, on the Realms section, click the**pencil icon** on the Realm you want to back up.
 
  In the edit Realm section, click on the world you want to back up and click on**Edit World** .
@@ -119,10 +113,10 @@ thumbnail: https://thmb.techidaily.com/1d662e9b1599361d80a888fd1a81a529179f95c0f
 ![Download backup button on Minecraft Realms Bedrock Edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/download-backup-button-on-minecraft-realms-bedrock-edition.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click on**Backups,** then click on the**download** **icon** beside the backup of your choosing. In our case, we just have one backup for this test server.
@@ -132,10 +126,10 @@ thumbnail: https://thmb.techidaily.com/1d662e9b1599361d80a888fd1a81a529179f95c0f
 ![Play on Realms and Export World Button Minecraft Bedrock edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/play-on-realms-and-export-world-button-minecraft-bedrock-edition.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Clicking on the**pencil icon** beside the single-player downloaded backup will allow you to click**Play on Realm** in the future if you re-subscribe. Instead of finding the file on your device, you can also scroll down to the very bottom and click on**Export World** . This is much quicker as the Bedrock Edition’s world files are harder to find.
@@ -159,15 +153,17 @@ thumbnail: https://thmb.techidaily.com/1d662e9b1599361d80a888fd1a81a529179f95c0f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-streamlined-screencasting-steps-ultimate-tutorial/"><u>[New] Streamlined Screencasting Steps - Ultimate Tutorial</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-the-guide-to-softening-volume-levels-on-lumafusion/"><u>[New] The Guide to Softening Volume Levels on Lumafusion</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/cat-quest-a-puzzle-playtime/"><u>Cat Quest: A Puzzle Playtime</u></a></li>
-<li><a href="https://games-able.techidaily.com/control-commandments-for-switch-games-via-ryujinx-platform/"><u>Control Commandments for Switch Games via Ryujinx Platform</u></a></li>
-<li><a href="https://games-able.techidaily.com/embrace-the-epic-world-of-bg3-now-on-your-macos-with-crossover/"><u>Embrace the Epic World of BG3, Now on Your macOS with CrossOver</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-itel-p55-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Itel P55 5G by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-poco-m6-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Poco M6 5G Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimizing-sound-settings-for-xbox-series-xs-gaming/"><u>Optimizing Sound Settings for Xbox Series X/S Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/serene-gameplay-strategies-with-xbox/"><u>Serene Gameplay Strategies with Xbox</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/superior-online-audio-devices-ranked/"><u>Superior Online Audio Devices Ranked</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-the-beginners-guide-to-canon-time-lapse-shooting/"><u>2024 Approved The Beginner's Guide to Canon Time-Lapse Shooting</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movmp4hevcmkv4kwinxdvd/"><u>最新動画プレイヤーソリューション：MOV、MP4、HEVC、MKVファイルと4Kコンテンツを効率良く再生するWinXDVDのヒント</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-practices-for-free-clipart-use-in-projects/"><u>Best Practices for Free Clipart Use in Projects</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/elevate-your-content-seo-mastery-starts-here-in-2024/"><u>Elevate Your Content SEO Mastery Starts Here, In 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-oppo-a1x-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Oppo A1x 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-zlibdll-file-absence-comprehensive-guide/"><u>Solving zlib.dll File Absence: Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-repairing-your-xbox-sandx-console/"><u>Step-by-Step: Repairing Your Xbox S&X Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/switch-gaming-on-pc-with-ryujinx-step-by-step-tutorial/"><u>Switch Gaming on PC with Ryujinx: Step-by-Step Tutorial</u></a></li>
+<li><a href="https://games-able.techidaily.com/syncing-for-success-the-hottest-two-player-app-games/"><u>Syncing for Success: The Hottest Two-Player App Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/uncovering-polling-rates-effect-on-daily-computing/"><u>Uncovering Polling Rates' Effect on Daily Computing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlocking-the-potential-of-media-imports-in-windows-10/"><u>Unlocking the Potential of Media Imports in Windows 10</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-game-bar-controls-restrictions-for-minimal-interference/"><u>Xbox Game Bar Controls: Restrictions for Minimal Interference</u></a></li>
 </ul></div>
 

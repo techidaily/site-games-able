@@ -1,7 +1,7 @@
 ---
 title: "Labor Day Deals Alert: Grab Your Xbox Game Pass and Free Fire TV Stick Bundle for an Unbeatable 33%% Discount - See How at ZDNet!"
-date: 2024-09-18 12:49:35
-updated: 2024-09-20 12:15:33
+date: 2024-09-18T17:26:12.260Z
+updated: 2024-09-20T16:33:57.133Z
 tags:
   - gaming
 categories:
@@ -71,11 +71,25 @@ I then placed the spacer over the hole -- it's held in place by three dots, so d
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Insert the SSD and use the mounting screw
 
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -120,11 +134,27 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-restoring-your-hidden-snap-content/"><u>[New] In 2024, Restoring Your Hidden Snap Content</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-how-do-green-screens-work-a-complete-beginners-guide/"><u>[Updated] 2024 Approved How Do Green Screens Work? [A Complete Beginner's Guide]</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-critics-choice-best-5-web-recording-applications/"><u>[Updated] In 2024, Critics' Choice Best 5 Web Recording Applications</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elevate-your-channel-game-tubebuddy-insights/"><u>[Updated] In 2024, Elevate Your Channel Game - TubeBuddy Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-pass-evolution-the-new-era-of-xbox-gold/"><u>Game Pass Evolution: The New Era of Xbox Gold</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-nubia-red-magic-9-proplus-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Nubia Red Magic 9 Pro+ Location by Number | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-immediate-solution-for-podcast-livestreaming/"><u>In 2024, Immediate Solution for Podcast Livestreaming</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-protocols-and-performance-macos-meets-mixer/"><u>In 2024, Protocols and Performance MacOS Meets Mixer</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-gaming-achieved-intels-contribution-to-streaming/"><u>Seamless Gaming Achieved: Intel's Contribution to Streaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/sonys-next-move-how-shortages-affect-ps5-pricing/"><u>Sony's Next Move: How Shortages Affect PS5 Pricing?</u></a></li>
+<li><a href="https://games-able.techidaily.com/swiftly-swap-your-switchs-worn-out-joystick/"><u>Swiftly Swap Your Switch's Worn-Out Joystick</u></a></li>
+<li><a href="https://games-able.techidaily.com/tailoring-mouse-dpi-the-secret-to-better-fps-gameplay/"><u>Tailoring Mouse DPI: The Secret to Better FPS Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/tips-on-retailers-return-policy-for-xbox/"><u>Tips on Retailer's Return Policy for Xbox</u></a></li>
+</ul></div>
+

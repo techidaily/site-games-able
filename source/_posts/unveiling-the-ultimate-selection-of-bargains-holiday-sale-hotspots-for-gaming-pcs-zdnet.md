@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Ultimate Selection of Bargains: Holiday Sale Hotspots for Gaming PCs | ZDNET"
-date: 2024-09-18 17:10:31
-updated: 2024-09-20 10:22:45
+date: 2024-09-13T16:08:17.032Z
+updated: 2024-09-21T00:49:09.463Z
 tags:
   - gaming
 categories:
@@ -59,6 +59,19 @@ There's a single screw holding the cover in place; remove it and set it aside in
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Move the screw and spacer inside the SSD housing
 
 With the expansion slot cover removed, locate and remove the screw and spacer near the end of the SSD housing. 
@@ -76,6 +89,19 @@ Jason Cipriani/ZDNET
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -120,11 +146,29 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-non-twitter-video-tweeting-hacks-for-the-modern-user/"><u>[New] 2024 Approved Non-Twitter Video Tweeting Hacks for the Modern User</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-sync-your-mac-visuals-with-acoustic-backup/"><u>[New] In 2024, Sync Your Mac Visuals with Acoustic Backup</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-movavi-editor-pro-unboxing-the-future-released-2024/"><u>[New] Movavi Editor Pro – Unboxing the Future, Released 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/android-freedom-selecting-prime-video-editing-tools-for-2024/"><u>Android Freedom Selecting Prime Video Editing Tools for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-tactics-for-playing-pokemon-games-on-iphoneipad/"><u>Expert Tactics for Playing Pokémon Games on iPhone/iPad</u></a></li>
+<li><a href="https://games-able.techidaily.com/graphics-giants-matchup-rtx-4070-supers-vs-titans-and-4080/"><u>Graphics Giants Matchup: RTX 4070 Supers Vs. Titans & 4080</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-avoidance-techniques-for-oculus-motion-sickness/"><u>In 2024, Avoidance Techniques for Oculus Motion Sickness</u></a></li>
+<li><a href="https://games-able.techidaily.com/introducing-fix-it-x-the-end-of-console-quirks/"><u>Introducing Fix-It X: The End of Console Quirks</u></a></li>
+<li><a href="https://review-topics.techidaily.com/issues-playing-mov-videos-on-samsung-galaxy-s23plus-by-aiseesoft-video-converter-play-mov-on-android/"><u>Issues playing MOV videos on Samsung Galaxy S23+</u></a></li>
+<li><a href="https://games-able.techidaily.com/no-more-realms-no-worries-backup-and-reload-your-dungeons/"><u>No More Realms, No Worries: Backup & Reload Your Dungeons</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-optimization-techniques-for-a-smooth-run-of-age-of-ashes-by-century/"><u>PC Optimization Techniques for a Smooth Run of 'Age of Ashes' By Century</u></a></li>
+<li><a href="https://games-able.techidaily.com/rhythm-riddler-unravel-the-best-music-quiz-apps/"><u>Rhythm Riddler: Unravel the Best Music Quiz Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/sharpen-your-mind-engage-with-the-best-6-alternative-games/"><u>Sharpen Your Mind: Engage With the Best 6 Alternative Games</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Oppo A79 5G? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-series-x-persistent-connectivity-tips/"><u>Xbox Series X: Persistent Connectivity Tips</u></a></li>
+</ul></div>
+

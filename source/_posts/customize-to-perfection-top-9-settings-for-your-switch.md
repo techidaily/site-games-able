@@ -1,7 +1,7 @@
 ---
 title: "Customize to Perfection: Top 9 Settings for Your Switch"
-date: 2024-09-09T16:47:48.655Z
-updated: 2024-09-15T16:43:27.636Z
+date: 2024-09-13T22:07:34.087Z
+updated: 2024-09-20T17:56:15.570Z
 tags:
   - games
 categories:
@@ -51,18 +51,18 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
  Your options here are to buy a large SD card to give your Switch more storage space or juggle your games. If your Switch is full, but you want to download a new game, don’t worry. You don’t have to delete all of your games to make space, you can quickly archive them instead.[Archiving software on your Switch](https://www.makeuseof.com/nintendo-switch-how-to-archive-software/) still frees up storage space, but leaves an icon of the game on your home screen, so you can quickly and easily redownload it when you’re ready.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Enable Bluetooth Audio
 
  Bluetooth audio wasn’t something the Switch supported at launch, but it was later introduced in a system update. So Switch owners are now able to enjoy all the wonderful sounds of the Switch without the pesky wires.
 
 ![Activate Bluetooth Audio on Nintendo Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/activate-bluetooth-audio-on-nintendo-switch.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Not everyone keeps up to date with the ins and outs of every Nintendo Switch update that comes out. So, if you, like many others, were still unaware of the fact that you could connect Bluetooth headphones to your Switch, this may come as a welcome surprise to you. Connecting and[using Bluetooth headphones on your Switch](https://www.makeuseof.com/use-bluetooth-headphones-nintendo-switch/) is a simple and easy process that could change the way you listen to your system.
 
@@ -72,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
 ![TV Resolution on Nintendo Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tv-resolution-on-nintendo-switch.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If your TV is capable of displaying a 1080p image, so is your Nintendo Switch. In handheld mode, the Switch is only capable of 720p, but this can be improved in docked mode. You do have to change your**TV Resolution** setting, however.[Improving your Nintendo Switch’s resolution in docked mode](https://www.makeuseof.com/improve-nintendo-switch-docked-graphics/) is as easy as heading to your settings, going to**TV Output** , and selecting**1080p** from your**TV Resolution** settings.
 
 ## 6\. Calibrate Your Nintendo Switch Controllers
@@ -79,13 +86,6 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
  The Achilles heel of the Nintendo Switch is Joy-Con drift. This is a phenomenon caused by a wearing down of the mechanisms inside the joystick that leads to false input in your controller and makes your character or camera start moving on its own.
 
 ![How to calibrate controller on Nintendo Switch Calibrate Control Sticks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/how-to-calibrate-controller-on-nintendo-switch-calibrate-control-sticks.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This issue can cause some serious headaches in-game, but there is a way to fix it (if the case is mild enough.) That is by recalibrating your Joy-Cons or any other controller you may be having issues with. Simply head to your settings, select**Controllers and Sensors** , and press**Calibrate Control Sticks** . The Switch will guide you through the rest of the process, and you should finally experience some relief from drift for a little while, at least.
 
@@ -97,6 +97,13 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
  To begin, make sure your Switch is connected to the internet and go to your**Internet Settings** . From there, select the Wi-Fi you’re connected to and press**Change Settings** . Then scroll down and bump the**MTU** up from**1400** to**1500** . That will ensure that the maximum amount of data is being transferred, and you should experience an improvement in your download speeds.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Extend the Auto-Lock Time on Your Nintendo Switch
 
  You don’t want to drain your Switch’s battery by accidentally leaving the screen on for hours when you’re not using it, but you don’t want to constantly be unlocking it after setting it down for a matter of seconds, either.
@@ -105,29 +112,9 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
 ![Auto Sleep on Nintendo Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/auto-sleep-on-nintendo-switch.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To customize auto-sleep on your Nintendo Switch, head to the settings and scroll down to**Sleep Mode** . You have two choices for auto-sleep, one for when you’re using your console in handheld mode and the other for when you’re playing on the TV.
 
  Both can be customized separately. Pick the mode you’re looking for and choose your perfect timeframe from the list provided. You can choose from**one** ,**three** ,**five** ,**10** , and**30 minutes** , or even**never** if you’re not afraid of accidentally leaving your system on overnight.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Discover Your Nintendo Switch’s Maintenance Mode
 
@@ -135,21 +122,22 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
 ![A promotional image of the Maintanance Mode options for Nintendo Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/img06-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image Credit:[Nintendo](https://www.nintendo.com/my/support/switch/data%5Fmanagement/initialization/index.html)
 
  To open Maintenance Mode, hold the**volume up + volume down + power buttons** down for a couple of seconds until the system boots up in Maintenance Mode, and you can troubleshoot your Switch from there.
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Level Up Your Switch With These Helpful Switch Tips
@@ -173,19 +161,20 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-from-illumination-to-inky-tones-pro-fades/"><u>[New] In 2024, From Illumination To Inky Tones Pro Fades</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-how-to-maximize-your-cricket-viewing-with-premium-livestreams-for-2024/"><u>[Updated] How to Maximize Your Cricket Viewing with Premium Livestreams for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-full-course-on-morphvox-converting-your-voice-professionally/"><u>[Updated] In 2024, Full Course on MorphVOX Converting Your Voice Professionally</u></a></li>
-<li><a href="https://games-able.techidaily.com/expert-tips-to-expand-your-virtual-shopping-on-steam/"><u>Expert Tips to Expand Your Virtual Shopping on Steam</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Vivo Y27 5G | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-from-your-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status From Your Apple iPhone 13 Pro Max</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-multiplayer-with-ea-play-on-your-playstation-5-console/"><u>Mastering Multiplayer with EA Play on Your PlayStation 5 Console</u></a></li>
-<li><a href="https://games-able.techidaily.com/sparse-simplicity-dive-into-indolent-gaming/"><u>Sparse Simplicity: Dive Into Indolent Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-inside-the-future-with-nvidias-innovative-g-sync-technology/"><u>Step Inside the Future with Nvidia's Innovative G-Sync Technology</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-issue-understanding-why-your-car-speaker-fails/"><u>Troubleshooting the Issue: Understanding Why Your Car Speaker Fails</u></a></li>
-<li><a href="https://fox-http.techidaily.com/uncovering-if-vlogger-critiques-are-paid/"><u>Uncovering If Vlogger Critiques Are Paid</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-discovering-the-chirping-noise-of-crickets/"><u>Updated In 2024, Discovering the Chirping Noise of Crickets</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-game-pass-explained-a-comprehensive-guide/"><u>Xbox Game Pass Explained: A Comprehensive Guide</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/xbox-storage-solutions-the-essential-5/"><u>Xbox Storage Solutions The Essential 5</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-premium-5-display-picks-for-immersive-gameplay/"><u>[New] 2024 Approved Premium 5 Display Picks for Immersive Gameplay</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-twilight-tactics-a-complete-guide-to-nighttime-photography/"><u>[New] 2024 Approved Twilight Tactics A Complete Guide to Nighttime Photography</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-beginning-with-tweets-your-new-twitter-journey/"><u>[New] In 2024, Beginning with Tweets Your New Twitter Journey</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-microsoft-hololens-demo-tomorrows-tech-today/"><u>[New] In 2024, Microsoft HoloLens Demo – Tomorrow’s Tech Today</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-performance-logitech-gaming-mouse/"><u>Elite Performance Logitech Gaming Mouse</u></a></li>
+<li><a href="https://games-able.techidaily.com/haptic-sensation-vs-tactile-tablet-triumph-in-car-races/"><u>Haptic Sensation Vs. Tactile Tablet Triumph in Car Races</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-the-latest-hp-4605e-laserjet-pro-m127fn-printer-drivers-compatible-with-all-systems/"><u>Install the Latest HP 4605E (LaserJet Pro M127FN) Printer Drivers - Compatible with All Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/intense-battlefront-a-curated-list-of-top-10-free-fps-games/"><u>Intense Battlefront: A Curated List of Top 10 Free FPS Games</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-downloading-logitech-g29-control-wheel-software-compatible-with-latest-windows-versions/"><u>Step-by-Step Guide: Downloading Logitech G29 Control Wheel Software Compatible with Latest Windows Versions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-elite-list-10-websites-with-superior-vectors-for-2024/"><u>The Elite List 10 Websites with Superior Vectors for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-personalizing-your-xbox-game-bar-in-windows-environment/"><u>The Ultimate Guide to Personalizing Your Xbox Game Bar in Windows Environment</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-5-strategies-for-a-blissful-ps5-journey/"><u>Top 5 Strategies for a Blissful PS5 Journey</u></a></li>
+<li><a href="https://games-able.techidaily.com/unsubscribing-the-process-for-removing-ps5-login/"><u>Unsubscribing: The Process for Removing PS5 Login</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-is-keyboard-polling-rate-and-how-much-does-it-matter/"><u>What Is Keyboard Polling Rate and How Much Does It Matter?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-iphone-se-2020-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud From your iPhone SE (2020)</u></a></li>
 </ul></div>
 

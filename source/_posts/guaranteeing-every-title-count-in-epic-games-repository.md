@@ -1,7 +1,7 @@
 ---
 title: Guaranteeing Every Title Count in Epic Games Repository
-date: 2024-09-10T16:29:04.756Z
-updated: 2024-09-15T16:51:43.675Z
+date: 2024-09-17T16:41:08.382Z
+updated: 2024-09-20T16:11:20.209Z
 tags:
   - games
 categories:
@@ -52,20 +52,19 @@ thumbnail: https://thmb.techidaily.com/d2d94c4e77b77ed0c83b7c2ce10b6132329d86304
 ![Check the game's availability on Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/check-availability-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A game might have limited availability which is why you can no longer see it in your library. In this case, go to the Epic Store and check the game’s status.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Unhide the Game Library
 
@@ -75,13 +74,6 @@ thumbnail: https://thmb.techidaily.com/d2d94c4e77b77ed0c83b7c2ce10b6132329d86304
 
 ![How to unhide the Epic Games library](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/hide-game-library-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Remove Library Filters
 
  The Epic Games app allows you to sort your titles depending on genre, features, and supported platforms, among other criteria. If certain titles are missing from your library, chances are you’ve set a filter and forgot about it. To check out every title in your library, you should remove Epic Games library filters.
@@ -89,6 +81,20 @@ thumbnail: https://thmb.techidaily.com/d2d94c4e77b77ed0c83b7c2ce10b6132329d86304
  In the Library tab, click on**Filters** and uncheck the options. Alternatively, if there are multiple filters, click**Reset** . Then, refresh the library and check if all of your games are now visible.
 
 ![Reset the library filters on Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/reset-filters-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Delete the Epic Games Launcher Cache
 
@@ -121,20 +127,16 @@ thumbnail: https://thmb.techidaily.com/d2d94c4e77b77ed0c83b7c2ce10b6132329d86304
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-youtube-marketing-key-methods-for-attracting-viewers/"><u>[New] In 2024, YouTube Marketing Key Methods for Attracting Viewers</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-elevate-visual-experience-with-apple-music-inclusion/"><u>[Updated] 2024 Approved Elevate Visual Experience with Apple Music Inclusion</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-smoothest-android-3d-video-streaming/"><u>[Updated] 2024 Approved Smoothest Android 3D Video Streaming</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-visualsizetweak-mastering-your-instagram-media/"><u>[Updated] 2024 Approved VisualSizeTweak Mastering Your Instagram Media</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-navigating-the-quest-for-clean-photo-archives/"><u>[Updated] Navigating the Quest for Clean Photo Archives</u></a></li>
-<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-7-data-completely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 7 Data Completely | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-factory-reset-a-playstation-4-ps4/"><u>How to Factory Reset a PlayStation 4 (PS4)</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-itel-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Itel</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Realme GT 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/keep-your-gaming-experience-peak-performance-with-these-tips/"><u>Keep Your Gaming Experience Peak Performance with These Tips</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximize-your-dollars-affordable-gamers-display-choice/"><u>Maximize Your Dollars - Affordable Gamer's Display Choice</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-from-console-to-cloud-how-to-share-ps4-screenshots-online-for-2024/"><u>New From Console to Cloud How to Share PS4 Screenshots Online for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/orbit-fabricator-scouting-for-superior-pcs/"><u>Orbit Fabricator: Scouting for Superior PCs</u></a></li>
-<li><a href="https://games-able.techidaily.com/riddle-me-this-with-ridiculously-ruined-role-players/"><u>Riddle Me This with Ridiculously Ruined Role-Players</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleash-the-full-potential-of-your-favorite-games-on-a-mac/"><u>Unleash the Full Potential of Your Favorite Games on a Mac</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-how-to-convert-facebook-video-to-mp4-720p1080phd-online-and-free/"><u>[New] 2024 Approved How to Convert Facebook Video to MP4 720P/1080p/HD Online and Free?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-unlock-the-secrets-for-a-viral-instagram-account-gain-fans-and-verified-status-in-less-than-150-characters/"><u>2024 Approved Unlock the Secrets for a Viral Instagram Account Gain Fans and Verified Status in Less Than 150 Characters</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-correcting-the-audio-device-graph-isolation-flaw-leading-to-high-cpu-use-on-pcs-with-windows-os/"><u>Diagnosing and Correcting the Audio Device Graph Isolation Flaw Leading to High CPU Use on PCs with Windows OS</u></a></li>
+<li><a href="https://games-able.techidaily.com/fan-the-flames-of-football-management-winning-soccer-coaching-free/"><u>Fan the Flames of Football Management: Winning Soccer Coaching, Free</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-corner-keychron-and-lemokey-reviewed-as-one/"><u>Gamer’s Corner: Keychron & Lemokey Reviewed as One</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-achieving-harmonic-transition-blends/"><u>In 2024, Achieving Harmonic Transition Blends</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-your-playstation-5s-wi-fi-network-issues/"><u>Mastering Your PlayStation 5’S Wi-Fi Network Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/reframing-the-debate-6-counterarguments-against-mac-gaming/"><u>Reframing the Debate: 6 Counterarguments Against Mac Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-external-media-use-for-game-play-via-steam/"><u>Streamlining External Media Use for Game Play via Steam</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/z7-review-spotlight-how-nearly-every-feature-excelles/"><u>Z7 Review Spotlight: How Nearly Every Feature Excelles</u></a></li>
 </ul></div>
 

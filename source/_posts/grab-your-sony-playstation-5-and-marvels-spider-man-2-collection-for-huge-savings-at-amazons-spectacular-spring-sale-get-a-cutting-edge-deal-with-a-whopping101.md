@@ -1,7 +1,7 @@
 ---
 title: "Grab Your Sony PlayStation 5 and Marvel's Spider-Man 2 Collection for Huge Savings at Amazon’s Spectacular Spring Sale: Get a Cutting Edge Deal with a Whopping $110 Off!"
-date: 2024-09-19 20:42:48
-updated: 2024-09-20 11:55:27
+date: 2024-09-17T18:41:46.181Z
+updated: 2024-09-20T20:08:00.482Z
 tags:
   - gaming
 categories:
@@ -71,11 +71,25 @@ I then placed the spacer over the hole -- it's held in place by three dots, so d
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Insert the SSD and use the mounting screw
 
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -120,11 +134,26 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-significant-tenets-of-interactive-storytelling/"><u>[New] Significant Tenets of Interactive Storytelling</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-motorola-moto-g73-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleashing-the-full-potential-of-your-phone-into-vr-realm/"><u>2024 Approved Unleashing the Full Potential of Your Phone Into VR Realm</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ing-youtube-trailers-a-filmora-guide-for-2024/"><u>Crafting YouTube Trailers A Filmora Guide for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-samsung-galaxy-xcover-7-frp-by-drfone-android/"><u>Full Guide to Bypass Samsung Galaxy XCover 7 FRP</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-iphone-6s-plus-by-drfone-ios/"><u>How To Bypass Activation Lock On Apple Watch Or iPhone 6s Plus?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/starfield-audio-problems-solved-no-more-skips-or-freezes/"><u>Starfield Audio Problems Solved - No More Skips or Freezes</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-repairing-your-xbox-sandx-console/"><u>Step-by-Step: Repairing Your Xbox S&X Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/syncing-for-success-the-hottest-two-player-app-games/"><u>Syncing for Success: The Hottest Two-Player App Games</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tech-tip-reducing-microsoft-telemetrys-impact-on-hard-drive-space-for-windows-10/"><u>Tech Tip: Reducing Microsoft Telemetry's Impact on Hard Drive Space for Windows 10</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-nintendos-upcoming-holder-accessories-in-24/"><u>The Ultimate Guide to Nintendo's Upcoming Holder Accessories in '24</u></a></li>
+<li><a href="https://games-able.techidaily.com/thrilling-tracks-arcade-wheels-vs-new-age-gaming-interfaces/"><u>Thrilling Tracks: Arcade Wheels Vs. New-Age Gaming Interfaces</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Xbox Bundle Extravaganza: Save Big, Secure Xbox Game Pass and More on Amazon's Fire TV Stick 4K | Shop Now on ZDNET"
-date: 2024-09-17 10:12:36
-updated: 2024-09-20 12:42:26
+date: 2024-09-13T21:10:57.550Z
+updated: 2024-09-20T16:23:32.611Z
 tags:
   - gaming
 categories:
@@ -59,6 +59,13 @@ There's a single screw holding the cover in place; remove it and set it aside in
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Move the screw and spacer inside the SSD housing
 
 With the expansion slot cover removed, locate and remove the screw and spacer near the end of the SSD housing. 
@@ -76,6 +83,19 @@ Jason Cipriani/ZDNET
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -120,11 +140,27 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-what-if-my-videos-removed-immediately-due-to-copyright-in-2024/"><u>[Updated] What If My Videos Removed Immediately Due to Copyright, In 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/correcting-incorrectly-declined-payment-methods-on-ps5/"><u>Correcting Incorrectly Declined Payment Methods on PS5</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/discord-setup-issues-heres-how-you-can-fix-an-installation-failed-error-easy-as-pie/"><u>Discord Setup Issues? Here's How You Can Fix an 'Installation Failed' Error Easy as Pie!</u></a></li>
+<li><a href="https://games-able.techidaily.com/gpu-showdown-continues-with-amd-and-intel-debate/"><u>GPU Showdown Continues with AMD and Intel Debate</u></a></li>
+<li><a href="https://games-able.techidaily.com/javas-top-notch-games-a-comprehensive-review/"><u>Java's Top-Notch Games: A Comprehensive Review</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726029136082-mkv/"><u>MKVファイルの品質保持型マージ手順</u></a></li>
+<li><a href="https://games-able.techidaily.com/outsmarting-others-vanish-online-with-steam/"><u>Outsmarting Others: Vanish Online with Steam</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfect-your-pixels-select-best-10-online-enhancement-apps/"><u>Perfect Your Pixels Select Best 10 Online Enhancement Apps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-for-no-audio-issue-with-airpods-and-windows-computers/"><u>Solution Steps for No Audio Issue with AirPods and Windows Computers</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-realities-of-handheld-games-beyond-the-appeal/"><u>The Realities of Handheld Games: Beyond the Appeal</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-5-tips-for-maximizing-wsl-2-in-windows/"><u>Top 5 Tips for Maximizing WSL 2 in Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-console-gaming-clocks-xbox-series-xs/"><u>Understanding Console Gaming Clocks: Xbox Series X|S</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-advances-in-artificial-linguistic-systems-gpt-1-to-4/"><u>Unveiling the Advances in Artificial Linguistic Systems (GPT-1 to 4)</u></a></li>
+</ul></div>
+

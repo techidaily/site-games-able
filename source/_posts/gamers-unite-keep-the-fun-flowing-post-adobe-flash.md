@@ -1,7 +1,7 @@
 ---
 title: "Gamers Unite: Keep the Fun Flowing Post-Adobe Flash"
-date: 2024-09-13T16:41:16.605Z
-updated: 2024-09-15T16:11:29.993Z
+date: 2024-09-17T19:24:29.994Z
+updated: 2024-09-20T18:33:53.823Z
 tags:
   - games
 categories:
@@ -55,19 +55,6 @@ thumbnail: https://thmb.techidaily.com/c2d843fc2e375187b2194dd914e4e340539dd6293
 
 ![A screenshot of BlueMaxima's Flashpoint home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/bluemaximas-flashpoint-home-page-1.png)
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Efforts to save Flash games began with the individual contributions of Ben Latimore[(Medium)](https://medium.com/@bluemaximax011) . After Latimore published a[Medium article](https://medium.com/@bluemaximax011/adobe-flashs-gaming-legacy-thousands-upon-thousands-of-titles-and-my-efforts-to-save-it-58c14811558a) that gathered very positive attention over his efforts, Flashpoint turned into the international web game preservation project that it is now.
 
  Latimore’s efforts started in January 2018, in an attempt to outrun the loss of content before the death of Flash. Since then, Flashpoint has evolved into a preservation project for web games and animations created for different internet plugins, frameworks, and standards.
@@ -82,19 +69,6 @@ thumbnail: https://thmb.techidaily.com/c2d843fc2e375187b2194dd914e4e340539dd6293
 
 ![flash game archive website homepage screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/flash-game-archive.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The Flash Game Archive is a free archive of Flash games that you can play locally on your computer at any time. Its stated goal is to preserve Flash games before they are completely lost.
 
  This preservation project is headed by the Canadian developer team, Dragom. The Flash Game Archive is a non-profit project and free to use, but if you join[the Flash Game Archive Patreon](https://www.patreon.com/flashgamearchive) you can gain earlier access to all game additions and the ability to request to have new games added.
@@ -103,9 +77,23 @@ thumbnail: https://thmb.techidaily.com/c2d843fc2e375187b2194dd914e4e340539dd6293
 
  Games and other media are stored in a data center, with over 4000 games currently in the archive. With each update, more games are added to the Flash Game Archive.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3. The Internet Archive
 
 ![internet archive software library webpage screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/internet-archive-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Internet Archive, the non-profit digital library of internet sites and other cultural artifacts famous for[the Wayback Machine](https://archive.org/web/) , is now emulating Flash games and content. Following its tenet, "access drives preservation," the Internet Archive launched the Emularity project, which makes a wide range of old software run.
 
@@ -124,16 +112,10 @@ thumbnail: https://thmb.techidaily.com/c2d843fc2e375187b2194dd914e4e340539dd6293
 [The Newgrounds Player](https://www.newgrounds.com/flash/player) was designed to create a "seamless browsing experience on Newgrounds, while preserving the ability to enjoy all of our classic content," according to its own download page.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Flash Games Will Live On Forever
@@ -157,17 +139,14 @@ thumbnail: https://thmb.techidaily.com/c2d843fc2e375187b2194dd914e4e340539dd6293
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-expert-advice-on-archiving-sports-from-live-feeds/"><u>[New] Expert Advice on Archiving Sports From Live Feeds</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-top-5-solutions-to-obs-studio-video-editing-for-2024/"><u>[New] Top 5 Solutions to OBS Studio Video Editing for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-next-gen-display-top-5-hdmi-21-infinity-refresh-monitors-ps5-for-2024/"><u>[Updated] Next-Gen Display Top 5 HDMI 2.1 Infinity Refresh Monitors [PS5] for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-perfecting-your-winning-game-recording-strategy-on-w11-for-2024/"><u>[Updated] Perfecting Your Winning Game Recording Strategy on W11 for 2024</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-send-ringtones-from-apple-iphone-12-pro-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Send Ringtones from Apple iPhone 12 Pro to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/canon-mg3022-drivers-downloading-and-updating-finding-the-latest-version-for-smooth-printing-experience/"><u>Canon MG3022 Drivers Downloading & Updating: Finding the Latest Version for Smooth Printing Experience</u></a></li>
-<li><a href="https://games-able.techidaily.com/dissecting-steam-data-playtime-progress-and-purchases-tracked/"><u>Dissecting Steam Data: Playtime, Progress & Purchases Tracked</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/in-2024-the-best-english-voice-generator-to-convert-text-into-desired-accent/"><u>In 2024, The Best English Voice Generator To Convert Text Into Desired Accent</u></a></li>
-<li><a href="https://games-able.techidaily.com/laptop-as-an-extended-screen-for-xbox-series-xs/"><u>Laptop as an Extended Screen for Xbox Series X|S</u></a></li>
-<li><a href="https://games-able.techidaily.com/no-more-steam-silent-on-startup/"><u>No More Steam: Silent On-Startup</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolved-hp-printer-lacking-paper-delivery/"><u>Resolved: HP Printer Lacking Paper Delivery</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-tutorial-for-setting-up-fandango-on-your-fire-stick/"><u>Ultimate Tutorial for Setting Up Fandango on Your Fire Stick</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-simplified-steps-to-documenting-fb-chats-and-calls/"><u>[New] Simplified Steps to Documenting FB Chats and Calls</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-feast-your-eyes-on-9-whole-film-winter-wonders-no-charge/"><u>[Updated] Feast Your Eyes on 9 Whole-Film Winter Wonders No Charge!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-adding-unique-typography-fonts-in-ae/"><u>2024 Approved Adding Unique Typography Fonts in AE</u></a></li>
+<li><a href="https://games-able.techidaily.com/harmonizing-play-the-finest-dual-platform-games/"><u>Harmonizing Play: The Finest Dual-Platform Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/precision-and-immersion-a-compreenasional-guide-for-4k-in-xbox-series-x/"><u>Precision & Immersion: A Compreenasional Guide for 4K in Xbox Series X</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-editors-lifeline-essential-responses-to-filmora-queries-for-2024/"><u>The Editor's Lifeline Essential Responses to Filmora Queries for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-power-the-raider-hx-experience/"><u>Unleashing Power: The Raider HX Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-secured-access-the-process-of-creating-ps5-passcodes/"><u>Unlocking Secured Access: The Process of Creating PS5 Passcodes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unveiling-the-layers-intricate-analysis-of-vegas-pro-21/"><u>Unveiling the Layers Intricate Analysis of Vegas Pro '21</u></a></li>
 </ul></div>
 

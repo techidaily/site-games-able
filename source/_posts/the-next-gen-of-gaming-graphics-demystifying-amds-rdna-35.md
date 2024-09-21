@@ -1,7 +1,7 @@
 ---
 title: The Next Gen of Gaming Graphics - Demystifying AMD’s RDNA 3.5
-date: 2024-09-08T16:37:47.392Z
-updated: 2024-09-15T16:28:50.843Z
+date: 2024-09-18T22:44:54.933Z
+updated: 2024-09-20T18:24:45.369Z
 tags:
   - games
 categories:
@@ -48,16 +48,10 @@ thumbnail: https://thmb.techidaily.com/8358f47af5ec8aff78eb055a676b098baa58d37b0
  AMD often launches CPUs at CES (the Consumer Electronics Show held annually in January), so there's a chance RNDA 3.5 will be introduced to the world in January 2024\. Other than that, it's anybody's guess when AMD will announce the new architecture.
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Performance Improvements Will RDNA 3.5 Bring Over RDNA 3?
@@ -75,10 +69,10 @@ thumbnail: https://thmb.techidaily.com/8358f47af5ec8aff78eb055a676b098baa58d37b0
  That said, the processor is still in its engineering sample (ES) state, so it's hard to say whether this performance will translate to real-world usage. Additionally, the screenshot also claims only 512 MB of GDDR6 video memory, which is almost certainly due to unfinished drivers for the unsupported APU or any other errors on the software side.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## RDNA 3.5 Aims to Turn the Tide in AMD's Favor
@@ -100,16 +94,15 @@ thumbnail: https://thmb.techidaily.com/8358f47af5ec8aff78eb055a676b098baa58d37b0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-scaling-your-income-with-beauty-tutorials/"><u>[New] In 2024, Scaling Your Income with Beauty Tutorials</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-ultimate-visionary-insights-the-top-8k-cameras-guide-for-2024/"><u>[New] Ultimate Visionary Insights The Top 8K Cameras Guide for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-computer-gear-with-tom-a-comprehensive-resource/"><u>Exploring Computer Gear with Tom - A Comprehensive Resource</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/flexible-cam-mount-revolutionary-positioning-control-for-2024/"><u>Flexible Cam Mount Revolutionary Positioning Control for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-apple-iphone-se-2020-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On Apple iPhone SE (2020)</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-capture-android-speech-4-simple-no-root-methods/"><u>In 2024, Capture Android Speech 4 Simple No-Root Methods</u></a></li>
-<li><a href="https://games-able.techidaily.com/legacy-lines-drawn-unveiling-11-top-strategy-ww2-titles/"><u>Legacy Lines Drawn: Unveiling 11 Top Strategy WW2 Titles</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximizing-your-mac-experience-with-game-consoles/"><u>Maximizing Your Mac Experience with Game Consoles</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-enjoying-classic-games-via-steam-deck-and-emudeck/"><u>The Ultimate Guide to Enjoying Classic Games via Steam Deck & EmuDeck</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-your-xiaomi-redmi-k70-pros-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Xiaomi Redmi K70 Pros Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-from-zero-to-hero-fixing-fcpx-plugin-problems-in-minutes-for-2024/"><u>Updated From Zero to Hero Fixing FCPX Plugin Problems in Minutes for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-inside-look-at-instagrams-subtle-yet-powerful-features/"><u>[New] Inside Look at Instagram's Subtle Yet Powerful Features</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-mastering-counter-image-navigation-in-digital-age-a-facebook-guide/"><u>[Updated] Mastering Counter-Image Navigation in Digital Age A Facebook Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-auditory-interpretation-made-easy-priceless-access/"><u>2024 Approved Auditory Interpretation Made Easy, Priceless Access</u></a></li>
+<li><a href="https://games-able.techidaily.com/fix-for-components-mandatory-error-in-windows-10-and-11/"><u>Fix for “Components Mandatory” Error in Windows 10 & 11</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/how-to-voice-your-imagery-a-tiktok-breakdown-for-2024/"><u>How to Voice Your Imagery A TikTok Breakdown for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-realme-12-pro-5g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Realme 12 Pro 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-through-xboxs-game-pass-price-tide-rise/"><u>Navigating Through Xbox's Game Pass Price Tide Rise</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-issue-what-to-do-when-your-nintendo-wii-cant-recognize-a-disc/"><u>Solving the Issue: What To Do When Your Nintendo Wii Can't Recognize a Disc</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essential-guide-to-connecting-a-ps4-on-pcmac/"><u>The Essential Guide to Connecting a PS4 on PC/Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-6-seductive-elements-in-modern-gaming-apps/"><u>Top 6 Seductive Elements in Modern Gaming Apps</u></a></li>
 </ul></div>
 

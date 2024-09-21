@@ -1,7 +1,7 @@
 ---
 title: "Grab Your New TCL Television: Epic 85 Inches for an Unbeatable Price of $900 - Limited Offer This Labor Day at ZDNet!"
-date: 2024-09-19 15:48:22
-updated: 2024-09-20 10:12:48
+date: 2024-09-15T00:16:09.080Z
+updated: 2024-09-20T22:26:20.589Z
 tags:
   - gaming
 categories:
@@ -59,6 +59,13 @@ There's a single screw holding the cover in place; remove it and set it aside in
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Move the screw and spacer inside the SSD housing
 
 With the expansion slot cover removed, locate and remove the screw and spacer near the end of the SSD housing. 
@@ -70,6 +77,13 @@ There are various holes inside the SSD housing that correspond with the various 
 I then placed the spacer over the hole -- it's held in place by three dots, so don't worry about perfectly lining it up or keeping it in place. 
 
 Jason Cipriani/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Insert the SSD and use the mounting screw
 
@@ -120,11 +134,27 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-premium-android-experience-with-3d-videos/"><u>[New] Premium Android Experience with 3D Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-instant-recording-audio-enriched-screens-for-2024/"><u>[Updated] Instant Recording Audio-Enriched Screens for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-upgrading-to-high-def-facebook-broadcasts-for-2024/"><u>[Updated] Upgrading to High-Def Facebook Broadcasts for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-facebooks-stance-on-personal-content-distribution-in-the-digital-age/"><u>2024 Approved Facebook's Stance on Personal Content Distribution in the Digital Age</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/amazon-struggles-with-drone-delivery-system-implementation/"><u>Amazon Struggles with Drone Delivery System Implementation</u></a></li>
+<li><a href="https://games-able.techidaily.com/gpu-showdown-exploring-4070-super-ti-and-4080-super-powerhouses/"><u>GPU Showdown: Exploring 4070 Super, Ti & 4080 Super Powerhouses</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-comprehensible-guide-to-srt-fundamentals/"><u>In 2024, A Comprehensible Guide to SRT Fundamentals</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-sony-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Sony?</u></a></li>
+<li><a href="https://common-error.techidaily.com/instant-remedy-for-laggy-online-play/"><u>Instant Remedy for Laggy Online Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/no-more-plugins-heres-how-you-can-still-dive-into-flash-games/"><u>No More Plugins? Here’s How You Can Still Dive Into Flash Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-new-tech-ai-meets-realistic-gaming-with-dlss-35/"><u>Nvidia's New Tech: AI Meets Realistic Gaming with DLSS 3.5</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-your-mac-for-switch-games/"><u>Unlocking Your Mac for Switch Games</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-strategies-speedy-utorrent-in-windows/"><u>Winning Strategies: Speedy uTorrent in Windows</u></a></li>
+</ul></div>
+

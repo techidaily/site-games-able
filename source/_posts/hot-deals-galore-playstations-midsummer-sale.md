@@ -1,7 +1,7 @@
 ---
 title: "Hot Deals Galore: PlayStation’s Midsummer Sale"
-date: 2024-09-14T16:05:10.123Z
-updated: 2024-09-15T16:17:19.319Z
+date: 2024-09-13T18:08:55.977Z
+updated: 2024-09-20T23:32:49.779Z
 tags:
   - games
 categories:
@@ -42,16 +42,10 @@ thumbnail: https://thmb.techidaily.com/0cf9688fb864217953ed20bc37cbae8628a2ed0f2
 **Download** :[Deathloop](https://store.playstation.com/en-us/product/UP1003-PPSA01302%5F00-DEATHLOOP0000000) for $14.99 (75% off)
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Little Nightmares 1 & 2
@@ -61,10 +55,10 @@ thumbnail: https://thmb.techidaily.com/0cf9688fb864217953ed20bc37cbae8628a2ed0f2
 **Download** :[Little Nightmares 1 & 2](https://store.playstation.com/en-us/product/UP0700-PPSA02200%5F00-LN1LN2BUNDLE0000) for $14.99 (70% off)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Owlboy
@@ -85,19 +79,6 @@ thumbnail: https://thmb.techidaily.com/0cf9688fb864217953ed20bc37cbae8628a2ed0f2
 
 **Download** :[The Last of Us: Part II](https://store.playstation.com/en-us/product/UP9000-CUSA07820%5F00-THELASTOFUSPART2) for &19.99 (50% off)
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Resident Evil Village
 
  Resident Evil Village is the most recent entry in the long-running horror franchise and is one of the best of the bunch. If you haven’t delved into the terrifying world of Resident Evil yet, Resident Evil Village is a great place to start, and now that it's 50% off, what’s stopping you?
@@ -109,6 +90,13 @@ thumbnail: https://thmb.techidaily.com/0cf9688fb864217953ed20bc37cbae8628a2ed0f2
  If you’re a fan of first-person shooters, but you also like to dabble in the realms of magic, Tiny Tina’s Wonderlands is a great amalgamation of the two. It will also be a surefire hit if you like Borderlands. If that wasn’t enough to convince you already, the Chaotic Edition comes with all the bells and whistles, like a season pass and post-launch content, for just $26.00.
 
 **Download** :[Tiny Tina’s Wonderlands: Chaotic Great Edition](https://store.playstation.com/en-us/product/UP1001-PPSA01492%5F00-TTWPREMIUMSIEA00) for $29.69 (67% off)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Final Fantasy VII Remake
 
@@ -135,18 +123,17 @@ thumbnail: https://thmb.techidaily.com/0cf9688fb864217953ed20bc37cbae8628a2ed0f2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-elevate-your-content-game-with-professional-facebook-slideshow-techniques-for-2024/"><u>[New] Elevate Your Content Game with Professional Facebook Slideshow Techniques for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-structured-approach-to-managing-youtube-videos-a-complete-watch-later-system-for-2024/"><u>[Updated] Structured Approach to Managing YouTube Videos A Complete Watch Later System for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/advanced-chat-services-optimizing-teleconferences/"><u>Advanced Chat Services Optimizing Teleconferences</u></a></li>
-<li><a href="https://games-able.techidaily.com/cutting-off-steam-membership-services/"><u>Cutting Off Steam Membership Services</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Realme GT 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-samsung-galaxy-z-flip-5-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Samsung Galaxy Z Flip 5 Through Google Earth?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-the-ultimate-guide-to-facebook-live-recording/"><u>In 2024, The Ultimate Guide to Facebook Live Recording</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-the-virtual-heavens-a-comprehensive-review-of-microsoft-fsx-gold-edition/"><u>Navigating the Virtual Heavens: A Comprehensive Review of Microsoft FSX Gold Edition</u></a></li>
-<li><a href="https://games-able.techidaily.com/overcoming-display-driver-failed-errors-in-windows-11-os/"><u>Overcoming Display Driver Failed Errors in Windows 11 OS</u></a></li>
-<li><a href="https://games-able.techidaily.com/ps5-decision-making-whats-on-your-mind/"><u>PS5 Decision-Making: What's on Your Mind?</u></a></li>
-<li><a href="https://games-able.techidaily.com/upgrade-your-nvidia-driver-enhance-system-stability-and-speed/"><u>Upgrade Your Nvidia Driver - Enhance System Stability & Speed</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-java-games-top-the-gaming-hype-chart/"><u>Why Java Games Top the Gaming Hype Chart</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-selecting-the-superior-hexacopters/"><u>[Updated] 2024 Approved Selecting the Superior HexaCopters</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-best-of-country-top-20-tunes-for-dancing-stress-free-vibes-tiktok/"><u>[Updated] In 2024, Best of Country Top 20 Tunes for Dancing, Stress-Free Vibes (TikTok)</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-deciphering-online-videography-a-facebook-journey/"><u>2024 Approved Deciphering Online Videography A Facebook Journey</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-performance-should-you-start-with-cpu-or-gpu/"><u>Elevating Performance: Should You Start with CPU or GPU?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-your-digital-signature-to-a-txt-file-document-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Add Your Digital Signature to a .txt file Document</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-fortify-your-gaming-experience-with-ps5-password/"><u>How to Fortify Your Gaming Experience with PS5 Password</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-iphone-14-plus-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your iPhone 14 Plus Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-realme-c67-4g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Realme C67 4G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-ssds-matching-ps5-specs/"><u>Prime SSDs Matching PS5 Specs</u></a></li>
+<li><a href="https://games-able.techidaily.com/take-on-novel-challenges-with-these-6-funky-chess-apps/"><u>Take on Novel Challenges with These 6 Funky Chess Apps</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/wallet-wise-audio-wonders-a-comprehensive-look-at-oneplus-buds/"><u>Wallet-Wise Audio Wonders – A Comprehensive Look at OnePlus Buds</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-lies-beneath-xboxs-cloud-gaming/"><u>What Lies Beneath Xbox's Cloud Gaming?</u></a></li>
 </ul></div>
 

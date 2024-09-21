@@ -1,7 +1,7 @@
 ---
 title: Easy Guide to Setting Up Steam & Diving Into Games on Popular Linux Distributions | TechAdvise
-date: 2024-09-18 19:12:45
-updated: 2024-09-20 11:15:48
+date: 2024-09-18T16:12:11.254Z
+updated: 2024-09-20T20:34:07.207Z
 tags:
   - gaming
 categories:
@@ -59,6 +59,13 @@ There's a single screw holding the cover in place; remove it and set it aside in
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Move the screw and spacer inside the SSD housing
 
 With the expansion slot cover removed, locate and remove the screw and spacer near the end of the SSD housing. 
@@ -76,6 +83,13 @@ Jason Cipriani/ZDNET
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -120,11 +134,30 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-staying-unseen-in-the-world-of-instagram-live-broadcasts/"><u>[New] Staying Unseen in the World of Instagram Live Broadcasts</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-xiaomi-redmi-note-13-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Xiaomi Redmi Note 13 5G PC | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/banish-the-chaos-strategies-to-refine-overwhelming-tiktok-drafts-for-2024/"><u>Banish the Chaos Strategies to Refine Overwhelming TikTok Drafts for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/computex-2024s-impactful-ai-innovations/"><u>Computex 2024'S Impactful AI Innovations</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-boy-reimagined-linux-terminal-edition/"><u>Game Boy Reimagined: Linux Terminal Edition</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-nokia-c12-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Nokia C12? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-oppo-a1-5g-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Oppo A1 5G? Try These Fixes</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-gaming-consoles-on-your-mac/"><u>Mastering the Art of Gaming Consoles on Your Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-twitch-a-complete-guide-for-streamers/"><u>Mastering Twitch: A Complete Guide for Streamers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/resolving-common-windows-11-photo-app-problems-for-2024/"><u>Resolving Common Windows 11 Photo App Problems for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-facebook-game-disconnect-in-chrome-browsers/"><u>Resolving Facebook Game Disconnect in Chrome Browsers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-issue-unrecognized-or-invalid-drivers-installation-on-your-pc/"><u>Resolving the Issue: Unrecognized or Invalid Drivers Installation on Your PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/restore-missing-wordle-streak-for-gamers/"><u>Restore Missing Wordle Streak for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essential-guide-to-using-dxvk-for-wingaming/"><u>The Essential Guide to Using DXVK for WinGaming</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-power-icon-issues-in-windows-10-a-complete-walkthrough/"><u>Troubleshooting Power Icon Issues in Windows 10: A Complete Walkthrough</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/understanding-the-impact-of-macos-11-big-sur-on-users/"><u>Understanding the Impact of macOS 11 Big Sur on Users</u></a></li>
+</ul></div>
+

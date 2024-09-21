@@ -1,7 +1,7 @@
 ---
 title: "Open Doors, Open Worlds: No More Game Restrictions"
-date: 2024-09-08T16:00:01.317Z
-updated: 2024-09-15T16:26:57.531Z
+date: 2024-09-18T02:07:53.533Z
+updated: 2024-09-20T23:42:49.313Z
 tags:
   - games
 categories:
@@ -65,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/4bdb303f42b83bdabbc89bbaed552a530d9809337
  The same is true for Nintendo, which has released games featuring some of its biggest characters (Mario, Pokemon) on smartphones. The company hasn't yet released a Mario game on a rival console, but that doesn't mean it never will.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why Platform Exclusives Are Going Away
@@ -87,18 +87,18 @@ thumbnail: https://thmb.techidaily.com/4bdb303f42b83bdabbc89bbaed552a530d9809337
 
  This is especially true for Microsoft, as Game Pass Ultimate includes[Xbox Cloud Gaming](https://www.makeuseof.com/what-is-xbox-cloud-gaming-how-does-it-work/) . While currently in beta, this lets subscribers play Xbox games on a range of devices beyond Xbox consoles. This includes phones, tablets, PCs, smart TVs, and VR headsets.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why I'm Glad Platform Exclusives Are No More
 
  While gamers have all gotten used to platform exclusivity as a kind of default, that doesn't mean all of us were happy about it. I have owned at least one console in each generation, but couldn't afford to buy the other consoles released in that generation. And that meant missing out on certain games that were only available on specific platforms.
 
 ![The PlayStation icons picked out in neon lights](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/playstation-logos-in-neon.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  mkfilm/[Shutterstock](https://www.shutterstock.com/image-illustration/geometry-neon-lights-room-modern-blue-1933780073)
 
@@ -121,21 +121,20 @@ thumbnail: https://thmb.techidaily.com/4bdb303f42b83bdabbc89bbaed552a530d9809337
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-enhancing-your-game-time-with-youtube-live-broadcasts/"><u>[New] 2024 Approved Enhancing Your Game Time with YouTube Live Broadcasts</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-live-broadcasters-dilemma-which-tool-triumphs-obs-or-streamlabs/"><u>[New] Live Broadcasters' Dilemma Which Tool Triumphs – OBS or Streamlabs?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-the-premier-editor-that-works-on-every-device-you-own-for-2024/"><u>[New] The Premier Editor That Works on Every Device You Own for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-comprehensive-examination-the-future-of-photography-with-aurora-hdr/"><u>[Updated] 2024 Approved Comprehensive Examination The Future of Photography with Aurora HDR?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-premium-video-capturing-for-digital-screens-for-2024/"><u>[Updated] Premium Video Capturing for Digital Screens for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-screenrec-demystified-a-comprehensible-guide-for-laptops/"><u>2024 Approved ScreenRec Demystified A Comprehensible Guide for Laptops</u></a></li>
-<li><a href="https://games-able.techidaily.com/embracing-the-underrated-my-top-indie-games-list/"><u>Embracing the Underrated: My Top Indie Games List</u></a></li>
-<li><a href="https://games-able.techidaily.com/exclusive-refresh-rate-monitors-165hz/"><u>Exclusive Refresh Rate Monitors: 165Hz</u></a></li>
-<li><a href="https://games-able.techidaily.com/fine-tune-your-xbox-experience-adjusting-screen-and-lights/"><u>Fine-Tune Your Xbox Experience: Adjusting Screen and Lights</u></a></li>
-<li><a href="https://games-able.techidaily.com/fixing-steams-incorrectly-verified-game-files/"><u>Fixing Steam’s Incorrectly Verified Game Files</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-newest-m-audio-fast-track-driver-software-for-all-windows-versions-download-now/"><u>Get the Newest M-Audio Fast Track Driver Software for All Windows Versions - Download Now</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/historic-discount-alert-grab-the-logitech-g-pro-for-just-54-best-offer-yet/"><u>Historic Discount Alert! Grab the Logitech G Pro for Just $54 – Best Offer Yet</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-steam-locating-desired-gamers/"><u>Mastering Steam: Locating Desired Gamers</u></a></li>
-<li><a href="https://games-able.techidaily.com/prime-technology-showcase-ifas-newest-innovations/"><u>Prime Technology Showcase: IFA's Newest Innovations</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/roaming-across-america-how-t-mobile-and-metro-by-t-mobile-ensure-continuous-connectivity/"><u>Roaming Across America: How T-Mobile and Metro by T-Mobile Ensure Continuous Connectivity</u></a></li>
-<li><a href="https://games-able.techidaily.com/smartphone-simplified-discover-tecnos-ifa-2023-lineup/"><u>Smartphone Simplified: Discover Tecno’s IFA 2023 Lineup</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/uilding-your-asmr-empire-key-concepts-and-best-practices-for-2024/"><u>[New] Building Your ASMR Empire Key Concepts and Best Practices for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-gamers-quest-1000plus-game-adventures-unfolded/"><u>[New] Gamer's Quest 1,000+ Game Adventures Unfolded</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-stepwise-guide-switch-between-normal-and-pip-views-in-youtube-app/"><u>[New] Stepwise Guide Switch Between Normal and PIP Views in YouTube App</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-facebooks-flash-video-frenzy/"><u>[Updated] In 2024, Facebook's Flash Video Frenzy</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-honor-x9a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-caixun-75-inch-4k-smart-television-with-android-os-user-experience-analysis/"><u>Affordable Caixun 75-Inch 4K Smart Television with Android OS - User Experience Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/correcting-failed-verification-of-steam-game-data/"><u>Correcting Failed Verification of Steam Game Data</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-best-chatgpt-queries-for-gaining-insights-into-digital-coins-and-tokens/"><u>Discover the Best ChatGPT Queries for Gaining Insights Into Digital Coins and Tokens</u></a></li>
+<li><a href="https://games-able.techidaily.com/economical-gpus-premium-results/"><u>Economical GPUs, Premium Results</u></a></li>
+<li><a href="https://games-able.techidaily.com/economically-savvy-ergonomic-gaming-keyboards/"><u>Economically Savvy Ergonomic Gaming Keyboards</u></a></li>
+<li><a href="https://games-able.techidaily.com/find-your-perfect-price-point-with-top-gaming-displays/"><u>Find Your Perfect Price-Point with Top Gaming Displays</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-xiaomi-14-pro-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Xiaomi 14 Pro Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-streaming-xbox-games-to-discord-channels/"><u>Step-by-Step: Streaming Xbox Games to Discord Channels</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-11-world-war-ii-tactical-sims-for-deep-historical-plunge/"><u>Top 11 World War II Tactical Sims for Deep Historical Plunge</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-3-methods-to-alter-your-video-background-comprehensive-guide/"><u>Top 3 Methods to Alter Your Video Background: Comprehensive Guide</u></a></li>
 </ul></div>
 

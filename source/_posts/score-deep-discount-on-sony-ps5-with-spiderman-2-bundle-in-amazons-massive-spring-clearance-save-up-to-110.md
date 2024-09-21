@@ -1,7 +1,7 @@
 ---
 title: Score Deep Discount on Sony PS5 with Spiderman 2 Bundle in Amazon's Massive Spring Clearance - Save Up to $110!
-date: 2024-09-19 23:14:40
-updated: 2024-09-20 11:39:18
+date: 2024-09-14T22:16:39.058Z
+updated: 2024-09-21T00:01:07.106Z
 tags:
   - gaming
 categories:
@@ -59,6 +59,13 @@ There's a single screw holding the cover in place; remove it and set it aside in
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Move the screw and spacer inside the SSD housing
 
 With the expansion slot cover removed, locate and remove the screw and spacer near the end of the SSD housing. 
@@ -76,6 +83,13 @@ Jason Cipriani/ZDNET
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -120,11 +134,25 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-unlocking-virtual-video-talks-via-whatsapp-browser-on-your-pc/"><u>[Updated] In 2024, Unlocking Virtual Video Talks via WhatsApp Browser on Your PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bridging-human-and-machine-for-exceptional-job-applications/"><u>Bridging Human and Machine for Exceptional Job Applications</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/create-and-use-a-secondary-email-in-gmail-a-comprehensive-walkthrough/"><u>Create and Use a Secondary Email in Gmail – A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixes-for-when-your-pc-cant-find-bluetooth-gadgets-in-windows-10/"><u>Fixes for When Your PC Can't Find Bluetooth Gadgets in Windows 10</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-script-innovation-through-chatgpt/"><u>Game Script Innovation Through ChatGPT</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-ps5-streamlining-gaming-memberships/"><u>Mastering PS5: Streamlining Gaming Memberships</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/subtlety-a-game-changer-for-players/"><u>Subtlety: A Game Changer for Players</u></a></li>
+<li><a href="https://games-able.techidaily.com/transition-your-game-experience-windows-and-m1-macs-via-crossover/"><u>Transition Your Game Experience: Windows & M1 Macs via Crossover</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-potential-four-reasons-for-a-corsair-icue-link-upgrade/"><u>Unlock Potential: Four Reasons for a Corsair iCUE Link Upgrade</u></a></li>
+</ul></div>
+

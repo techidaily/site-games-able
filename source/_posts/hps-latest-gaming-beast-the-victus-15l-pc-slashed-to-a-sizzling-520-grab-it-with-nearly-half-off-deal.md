@@ -1,7 +1,7 @@
 ---
 title: HP's Latest Gaming Beast, the Victus 15L PC, Slashed to a Sizzling $520 – Grab It with Nearly Half Off Deal!
-date: 2024-09-19 11:52:56
-updated: 2024-09-20 12:14:33
+date: 2024-09-13T16:56:08.356Z
+updated: 2024-09-20T23:38:11.238Z
 tags:
   - gaming
 categories:
@@ -93,6 +93,13 @@ Most casual gamers wouldn't dive this deep into these settings, but this is a fa
 
 The [Samsung QN90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Tracking-Anti-Glare-Q-Symphony-QN55QN90C%2Fdp%2FB0BTTVBDVD%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca809cba9-2efa-4131-bfb0-67fc93c07357%7Cdtp&dtb=1) TV has a few minor annoyances -- I'm hesitant to call the wobbliness and installation process shortcomings -- but its picture quality in every instance and gaming features more than made up for those. If you're looking for a premium-level TV that does well in any environment with any content, keep this one on your list.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Deals are subject to sell out or expire anytime, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
@@ -118,11 +125,29 @@ Deals are subject to sell out or expire anytime, though ZDNET remains committed 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-masterful-approaches-to-live-sports-video-capture/"><u>[New] Masterful Approaches to Live Sports Video Capture</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-trending-vids-the-videoviral-phenomenon/"><u>[Updated] In 2024, Trending Vids The #VideoViral Phenomenon</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-complete-lowdown-navigating-creative-commons-licenses/"><u>[Updated] The Complete Lowdown Navigating Creative Commons Licenses</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-sony-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Sony FRP Bypass Instantly</u></a></li>
+<li><a href="https://games-able.techidaily.com/could-macos-be-the-next-big-thing-in-gaming/"><u>Could MacOS Be the Next Big Thing in Gaming?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-oculus-the-premium-vr-gaming-headset/"><u>In 2024, Mastering Oculus The Premium VR Gaming Headset</u></a></li>
+<li><a href="https://games-able.techidaily.com/joystick-journey-from-xbox-to-computer-play-142-chars/"><u>Joystick Journey: From Xbox to Computer Play (142 Chars)</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-realm-of-favored-independent-gaming/"><u>Navigating the Realm of Favored Independent Gaming</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-your-ultimate-source-list-the-top-picks-of-copyright-friendly-comic-soundtracks-websites/"><u>New Your Ultimate Source List The Top Picks of Copyright-Friendly Comic Soundtracks Websites</u></a></li>
+<li><a href="https://extra-support.techidaily.com/samsungs-visionary-leap-the-ubd-k850-ultrablade-2023-for-2024/"><u>Samsung’s Visionary Leap - The UBD K850 UltraBlade 2023 for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-has-closed-a-refund-loophole-heres-how-it-will-affect-you/"><u>Steam Has Closed a Refund Loophole: Here's How It Will Affect You</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/0-funniest-youtube-shorts-video-ideas-for-2024/"><u>The 10 Funniest YouTube Shorts Video Ideas for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-sound-quality-from-beyerdynamic-mmx-200/"><u>The Ultimate Sound Quality From Beyerdynamic MMX 200</u></a></li>
+<li><a href="https://games-able.techidaily.com/virtual-escapades-without-internet-choose-your-favorite-phone-games/"><u>Virtual Escapades Without Internet - Choose Your Favorite Phone Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/winning-list-of-11-top-notch-no-cost-words-apps/"><u>Winning List of 11 Top-Notch, No-Cost Words Apps</u></a></li>
+</ul></div>
+

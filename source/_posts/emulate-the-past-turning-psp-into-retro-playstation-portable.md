@@ -1,7 +1,7 @@
 ---
 title: "Emulate the Past: Turning PSP Into Retro PlayStation Portable"
-date: 2024-09-08T16:24:33.582Z
-updated: 2024-09-15T17:22:13.934Z
+date: 2024-09-18T23:21:06.567Z
+updated: 2024-09-20T22:26:44.353Z
 tags:
   - games
 categories:
@@ -57,22 +57,16 @@ thumbnail: https://thmb.techidaily.com/4b4c42d86cbc7f5900b95e8b4af00dbe97e236701
 
 ![Complete folder structure for PSP update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/complete-folder-structure-for-psp-update.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For Infinity, follow this folder structure: PSP/GAME/UPDATE. If the UPDATE folder already exists, skip this step.
 
 ![Moving Infinity update file into PSP UPDATE folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/moving-infinity-update-file-into-psp-update-folder.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Inside the**UPDATE** folder, transfer the**EBOOT.PBP** file from the Infinity ZIP file like in the image above. Make sure to choose the file inside the**pspgo** folder if you have a PSP GO. Otherwise, choose the file in the**standard** folder.
 
@@ -96,6 +90,13 @@ thumbnail: https://thmb.techidaily.com/4b4c42d86cbc7f5900b95e8b4af00dbe97e236701
 
 ![PRO-C installation screen on PSP](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/pro-c-installation-screen-on-psp-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After launching it, you’ll see small text on the upper left of your PSP. All you need to do now is press**X** to execute the installation of the firmware. After installation, press**X** again to reboot your PSP and launch the custom firmware.
 
 ### Step 3: Make the PSP Custom Firmware Persistent
@@ -104,19 +105,6 @@ thumbnail: https://thmb.techidaily.com/4b4c42d86cbc7f5900b95e8b4af00dbe97e236701
 
 ![PRO CFW selected in Infinity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/pro-cfw-selected-in-infinity.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To make the custom firmware permanent, open up Infinity. With Infinity open, press left on your D-Pad. Select**PRO CFW by Coldbird** . You’ll know if you’ve selected it once you see an asterisk beside the text.
 
  Press right on your D-Pad to go back to the main Infinity screen and press the**Home button** on your PSP to exit.
@@ -124,10 +112,10 @@ thumbnail: https://thmb.techidaily.com/4b4c42d86cbc7f5900b95e8b4af00dbe97e236701
 ![PSP system version with Pro-C and Infinity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/psp-system-version-with-pro-c-and-infinity-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can check if the custom firmware is installed by going to**Settings > System Settings > System Information** . You should see an infinity symbol next to the version number of your system software.
@@ -138,33 +126,33 @@ thumbnail: https://thmb.techidaily.com/4b4c42d86cbc7f5900b95e8b4af00dbe97e236701
 
 ![RetroArch PSP download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/retroarch-psp-download-page.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Firstly, head to the[RetroArch Downloads page](https://www.retroarch.com/?page=platforms) . Scroll down until you find the PSP emulator and click on**Download** .
 
 ![Extracting retroarch folder into PSP GAME folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/extracting-retroarch-folder-into-psp-game-folder.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you’ve downloaded RetroArch, plug your PSP in and open the RetroArch ZIP file and transfer the**retroarch** folder into the**PSP/GAME** folder in your PSP.
 
 ![RetroArch main menu with Quit RetroArch highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/retroarch-main-menu-with-quit-retroarch-highlighted-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Unplug your PSP and on it, head to**Game > Memory Stick** . You should see the RetroArch thumbnail added. Run RetroArch so it creates new folders in your PSP. These new folders are where you place your games, emulator cores, configs, etc. You can now quit RetroArch and plug it back into your computer to add your legally obtained games.
 
 ![RetroArch Downloads highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/retroarch-downloads-highlighted-1.jpg)
 
  When moving games to your PSP for RetroArch to run, place it in the PSP/RETROARCH/DOWNLOADS folder and you should see them in the Downloads when selecting**Load Content** RetroArch on your PSP.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## An Old Platform to Play Older Platforms
 
@@ -187,15 +175,12 @@ thumbnail: https://thmb.techidaily.com/4b4c42d86cbc7f5900b95e8b4af00dbe97e236701
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-tailoring-transitional-terminations-for-2024/"><u>[Updated] Tailoring Transitional Terminations for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-twitch-live-reset-guide/"><u>[Updated] Twitch Live Reset Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoid-the-trouble-fixing-corrupted-recycle-bin-on-win1011/"><u>Avoid the Trouble: Fixing Corrupted Recycle Bin on Win10/11</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/cosmic-corner-prime-video-showcases-plus-praise/"><u>Cosmic Corner: Prime Video Showcases + Praise</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-the-path-to-exceptional-windows-wallpapers/"><u>Decoding the Path to Exceptional Windows Wallpapers</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y56-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y56 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-6s-plus-properly-drfone-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 6s Plus Properly | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/revel-in-retro-gaming-a-comprehensive-guide-to-ps3-emulators-on-pc/"><u>Revel in Retro Gaming: A Comprehensive Guide to PS3 Emulators on PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleash-gaming-potential-using-steam-link-for-androidios/"><u>Unleash Gaming Potential: Using Steam Link for Android/iOS</u></a></li>
-<li><a href="https://games-able.techidaily.com/upgrading-your-gaming-setup-with-top-notch-blue-ray-support/"><u>Upgrading Your Gaming Setup with Top-Notch Blue-Ray Support</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-from-video-to-animation-easy-youtube-gif-creation-tips/"><u>[New] From Video to Animation Easy YouTube GIF Creation Tips</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-from-your-apple-iphone-se-2022-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID From your Apple iPhone SE (2022) without Security Questions?</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-airflow-patterns-to-minimize-heat-waste/"><u>Innovative Airflow Patterns to Minimize Heat Waste</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-the-art-of-preserving-energy-in-your-gaming-controllers/"><u>Master the Art of Preserving Energy in Your Gaming Controllers</u></a></li>
+<li><a href="https://games-able.techidaily.com/peek-into-how-xbox-ensures-equal-playgrounds/"><u>Peek Into How Xbox Ensures Equal Playgrounds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-windows-strategy-for-sound-graph-segregation/"><u>Understanding Windows' Strategy for Sound Graph Segregation</u></a></li>
+<li><a href="https://win11.techidaily.com/winxpxo11-how-to-prevent-closed-folders-double-clicked/"><u>WinXP/XO11 - How to Prevent Closed Folders, Double-Clicked</u></a></li>
 </ul></div>
 

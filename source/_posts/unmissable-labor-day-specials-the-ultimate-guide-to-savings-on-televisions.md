@@ -1,7 +1,7 @@
 ---
 title: "Unmissable Labor Day Specials: The Ultimate Guide to Savings on Televisions ."
-date: 2024-09-18 23:59:28
-updated: 2024-09-20 11:36:51
+date: 2024-09-18T00:15:03.177Z
+updated: 2024-09-20T22:34:21.849Z
 tags:
   - gaming
 categories:
@@ -71,11 +71,31 @@ I then placed the spacer over the hole -- it's held in place by three dots, so d
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Insert the SSD and use the mounting screw
 
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -120,11 +140,25 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-mastering-the-craft-of-professional-gopro-cinematography/"><u>[New] 2024 Approved Mastering the Craft of Professional Gopro Cinematography</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/facilitating-invisible-contributions-facebook-groups-guide/"><u>Facilitating Invisible Contributions: Facebook Groups Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-oppo-a78-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Oppo A78 Pattern Lock Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-compatibility-ps4-classics-meet-ps5/"><u>Game Compatibility: PS4 Classics Meet PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/ideal-readwrite-speed-ssd-for-ps5/"><u>Ideal Read/Write Speed SSD for PS5</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-convert-avi-videos-into-high-impact-gifs-using-filmora-for-windowsmacos/"><u>In 2024, Convert AVI Videos Into High Impact GIFs Using Filmora for Windows/MacOS</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/navigating-the-complex-world-of-video-text-implementation-vimeo/"><u>Navigating the Complex World of Video Text Implementation (Vimeo)</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-game-explorers-travel-playbook/"><u>The Ultimate Game Explorer's Travel Playbook</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-gamers-combat-toolkit-best-keyboards-and-mice-2024/"><u>Ultimate Gamer’s Combat Toolkit: Best Keyboards & Mice 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unblocking-facebook-games-from-googles-browser-shutdown/"><u>Unblocking Facebook Games From Google's Browser Shutdown</u></a></li>
+</ul></div>
+

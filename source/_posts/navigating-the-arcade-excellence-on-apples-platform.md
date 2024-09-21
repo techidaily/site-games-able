@@ -1,7 +1,7 @@
 ---
 title: Navigating the Arcade Excellence on Apple's Platform
-date: 2024-09-09T16:57:49.031Z
-updated: 2024-09-15T16:05:23.993Z
+date: 2024-09-14T21:14:00.605Z
+updated: 2024-09-21T01:43:05.313Z
 tags:
   - games
 categories:
@@ -53,16 +53,10 @@ Close
  The second category, App Store Greats, is more like an expansion of the Must-Play list. Any game on the list in a genre that you like is bound to be a lot of fun. I found Prune, Stardew Valley, and Slay the Spire here, and I must add that Stardew Valley is one of the[reasons I subscribe to Apple Arcade](https://www.makeuseof.com/apple-arcade-reasons-to-subscribe/) .
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2 Checking the Reviews to See What Others Think
@@ -90,10 +84,10 @@ Close
  You can now download the game if you’re OK with all you’ve seen.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3 Filtering Games by Controller Compatibility and Last Updated
@@ -135,20 +129,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-expert-picks-for-best-timelapse-tools/"><u>[New] Expert Picks for Best Timelapse Tools</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/crafting-compelling-conversations-essential-expressions-for-2024/"><u>Crafting Compelling Conversations Essential Expressions for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/high-end-computers-a-showcase-of-excellence-for-2024/"><u>High-End Computers A Showcase of Excellence for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-sync-your-poke-journey-with-reliable-location-services/"><u>How to Sync Your Poké-Journey with Reliable Location Services</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-discover-the-best-animation-software-for-education/"><u>In 2024, Discover the Best Animation Software for Education</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-from-video-to-music-youtube-to-mp3-on-macos/"><u>In 2024, From Video to Music YouTube to MP3 on MacOS</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/leading-the-pack-premium-gaming-computers/"><u>Leading the Pack: Premium Gaming Computers</u></a></li>
-<li><a href="https://games-able.techidaily.com/nintendo-switch-improved-with-an-additional-remote-player/"><u>Nintendo Switch Improved with an Additional Remote Player</u></a></li>
-<li><a href="https://games-able.techidaily.com/perfect-gaming-environment-customizing-the-xboxs-smooth-refresh-rate/"><u>Perfect Gaming Environment: Customizing the Xbox's Smooth Refresh Rate</u></a></li>
-<li><a href="https://games-able.techidaily.com/productivity-pcs-vs-performance-play-stations/"><u>Productivity PCs Vs. Performance Play Stations</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-permanently-deleted-or-erased-excel-2016-files-for-free-stellar-by-stellar-guide/"><u>Recover Permanently Deleted or Erased Excel 2016 Files for Free | Stellar</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-by-step-instant-deck-storage-change-via-cloning/"><u>Step-by-Step: Instant Deck Storage Change via Cloning</u></a></li>
-<li><a href="https://games-able.techidaily.com/striking-the-right-temperature-on-your-gaming-card/"><u>Striking the Right Temperature on Your Gaming Card</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-art-of-editing-crafting-your-youtube-story-with-precision-for-2024/"><u>The Art of Editing Crafting Your YouTube Story with Precision for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-art-of-navigating-nyt-alliances/"><u>The Art of Navigating NYT Alliances</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-maximizing-b-roll-impact-in-your-edits/"><u>[New] Maximizing B-Roll Impact in Your Edits</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-efficient-utilization-of-whiteboard-features-in-zoom-meetings/"><u>[Updated] Efficient Utilization of Whiteboard Features in Zoom Meetings</u></a></li>
+<li><a href="https://games-able.techidaily.com/constructing-your-virtual-odyssey-crafting-rpg-experienences-with-chatgpt/"><u>Constructing Your Virtual Odyssey: Crafting RPG Experienences with ChatGPT</u></a></li>
+<li><a href="https://games-able.techidaily.com/correcting-failed-verification-of-steam-game-data/"><u>Correcting Failed Verification of Steam Game Data</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-dealing-with-outdated-usb-composite-devices-solution/"><u>How to Fix: Dealing with Outdated USB Composite Devices - SOLUTION</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-apple-iphone-6s-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From Apple iPhone 6s? Heres the Best Fixes</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/innovative-strategies-for-displaying-your-screen-in-google-meet/"><u>Innovative Strategies for Displaying Your Screen in Google Meet</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-nvidias-newest-rtx-3080-graphics-drivers-windows-1087-support-guaranteed/"><u>Install NVIDIA's Newest RTX 3080 Graphics Drivers: Windows 10/8/7 Support Guaranteed</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-through-game-inputs-must-haves/"><u>Navigating Through Game Inputs: Must Haves</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-compatibility-with-new-hp-printer-software-update-download-now/"><u>Seamless Compatibility with New HP Printer Software Update - Download Now!</u></a></li>
+<li><a href="https://games-able.techidaily.com/sprint-through-gaming-with-these-lightning-fast-titles/"><u>Sprint Through Gaming with These Lightning-Fast Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-future-shape-of-gaming-post-xbox-and-activisions-cooperation/"><u>The Future Shape of Gaming Post Xbox & Activision's Cooperation</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-11-world-war-ii-tactical-sims-for-deep-historical-plunge/"><u>Top 11 World War II Tactical Sims for Deep Historical Plunge</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New Study Reveals Why PC Gamers Are Switching to Windows 11, Leaving Behind Windows 10 | Digital Trends
-date: 2024-09-19 12:13:18
-updated: 2024-09-20 10:17:43
+date: 2024-09-18T17:18:54.615Z
+updated: 2024-09-21T02:29:58.842Z
 tags:
   - gaming
 categories:
@@ -59,6 +59,13 @@ There's a single screw holding the cover in place; remove it and set it aside in
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Move the screw and spacer inside the SSD housing
 
 With the expansion slot cover removed, locate and remove the screw and spacer near the end of the SSD housing. 
@@ -70,6 +77,19 @@ There are various holes inside the SSD housing that correspond with the various 
 I then placed the spacer over the hole -- it's held in place by three dots, so don't worry about perfectly lining it up or keeping it in place. 
 
 Jason Cipriani/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Insert the SSD and use the mounting screw
 
@@ -120,11 +140,29 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-getting-started-with-snapchat-a-mac-users-guide/"><u>[Updated] 2024 Approved Getting Started with Snapchat A Mac User's Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-unveiling-vrecorder-download-and-install-made-simple-for-2024/"><u>[Updated] Unveiling VRecorder Download & Install Made Simple for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-getting-new-apps-onto-your-samsung-smart-tv/"><u>Comprehensive Guide: Getting New Apps Onto Your Samsung Smart TV</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-strategies-for-correcting-the-missing-user32dll-file-mistake/"><u>Effective Strategies for Correcting the Missing User32.dll File Mistake</u></a></li>
+<li><a href="https://games-able.techidaily.com/exciting-tv-and-monitor-updates-from-ifa/"><u>Exciting TV & Monitor Updates From IFA</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-choice-high-end-sony-console-vs-low-budget-computer/"><u>Game-On Choice: High-End Sony Console VS Low-Budget Computer</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-performance-charger-matches-for-sonys-ps5-dualsense-controllers/"><u>High-Performance Charger Matches for Sony's PS5 DualSense Controllers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-lava-blaze-curve-5g-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Lava Blaze Curve 5G?</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-switch-cards-between-apple-iphone-6-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Switch Cards Between Apple iPhone 6 and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-steelseries-peripherals-with-these-easy-to-download-drivers/"><u>Install SteelSeries Peripherals with These Easy-to-Download Drivers</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-super-nitro-essential/"><u>Is Super Nitro Essential?</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-2024-approved-generating-the-nut-button-meme/"><u>New 2024 Approved Generating the Nut Button Meme</u></a></li>
+<li><a href="https://games-able.techidaily.com/peeling-back-meta-layers-understanding-and-following/"><u>Peeling Back 'Meta' Layers: Understanding and Following</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-art-of-customization-tailoring-the-xbox-game-bar-interface-in-windows-environment/"><u>The Art of Customization: Tailoring the Xbox Game Bar Interface in Windows Environment</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/voice-of-volume-6-free-apps-for-channeling-youtube-music-onto-android-devices-for-2024/"><u>Voice of Volume 6 Free Apps for Channeling YouTube Music Onto Android Devices for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Five Hidden Phrase Finds That Challenge Chat Friends
-date: 2024-09-09T16:04:47.506Z
-updated: 2024-09-15T16:00:15.069Z
+date: 2024-09-19T17:34:40.286Z
+updated: 2024-09-21T01:11:42.495Z
 tags:
   - games
 categories:
@@ -51,6 +51,13 @@ Close
 
  Variations include limiting the object being thought of to a particular genre. Or, you can increase/decrease the number of questions the guesser can ask. Feel free to experiment, and take the game in new and interesting ways.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3 I Spy
 
 Close
@@ -81,19 +88,6 @@ Close
 
  Variations include giving more than just the first letter of each word, and abbreviating something other than your current activity. Such as what you truly think of the person you are playing against. Whatever variant you play, the key is to steer the guesser in the right direction.
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6 List Builder
 
 Close
@@ -103,6 +97,13 @@ Close
 **List Builder** is a competitive game in which each player takes a turn to name something belonging to a particular genre. This could include capital cities, actors from a certain series of movies, or anything else your mind can conjure up. The winner is the last person to successfully add an item to the list. Once someone taps out because they can't think of anything, the game ends.
 
  Variations include going through the alphabet one letter at a time, or requiring the next answer to start with the same letter the last answer ended with.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7 Where Am I?
 
@@ -115,16 +116,10 @@ Close
  Variations of the game include limiting your surroundings to a house, with the room you're in being the correct answer, or asking which shop in town you are in. You could also change it to**Who Am I With?** by describing the person or people who are there with you instead.
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8 Kiss, Marry, Kill
@@ -136,13 +131,6 @@ Close
  One person names three people, be they celebrities or individuals you both know, and asks, "Kiss, Marry, Kill?" The other person then has to determine which of the three they would kiss, which they would marry, and which they would kill. All in jest, you understand. None of the three are actually going to happen.
 
  Variations include dropping certain names into the mix you know will upset your friend. Or changing the question entirely. As long as there are three choices and three names in the mix, the sky's the limit with this one.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9 What If...?
 
@@ -181,17 +169,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-high-quality-audio-collections-a-youtube-creators-guidebook/"><u>[New] 2024 Approved High-Quality Audio Collections A YouTube Creator's Guidebook</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-revolutionizing-game-soundscapes-with-ps-console-tweaks/"><u>[New] Revolutionizing Game Soundscapes with PS Console Tweaks</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-mastering-youtube-settings-to-eliminate-video-skips-for-2024/"><u>[Updated] Mastering YouTube Settings to Eliminate Video Skips for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/capturing-your-windows-world-tool-tally-of-the-capture-titans/"><u>Capturing Your Windows World: Tool Tally of the Capture Titans</u></a></li>
-<li><a href="https://games-able.techidaily.com/effective-channel-moderation-implementing-unblockblock-features-on-twitch/"><u>Effective Channel Moderation: Implementing Unblock/Block Features on Twitch</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-preorder-the-limited-edition-marvels-spider-man-2-ps5/"><u>How to Preorder the Limited-Edition Marvel’s Spider-Man 2 PS5</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-11-proplus-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme 11 Pro+ to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Lava Blaze 2 5G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/lenovo-legion-go-the-future-in-your-hands/"><u>Lenovo Legion Go - The Future in Your Hands</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximize-your-skill-in-valorant-boosting-frame-rates-on-pc/"><u>Maximize Your Skill in Valorant: Boosting Frame Rates on PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/revolutionary-viewing-solutions-at-ifa/"><u>Revolutionary Viewing Solutions at IFA</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/mline-your-watching-with-edge-free-youtube-content/"><u>Streamline Your Watching with Edge-Free YouTube Content</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-streamlining-picture-shading-with-adobe-tools/"><u>[New] Streamlining Picture Shading with Adobe Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-mastery-in-conflict-the-leading-7-total-war-tactics/"><u>[Updated] 2024 Approved Mastery in Conflict The Leading 7 Total War Tactics</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/pcmacbookcd/"><u>「PCやMacBookで音楽CDプレイヤー設定 - トラブルシューティングガイド付き」</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expanding-horizons-the-vr-in-classroom-effect/"><u>2024 Approved Expanding Horizons The VR in Classroom Effect</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/apeman-c450-review-a-decent-budget-dashcam/"><u>Apeman C450 Review: A Decent Budget Dashcam</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-browser-ai-7-excellent-extensions/"><u>Boosting Browser AI: 7 Excellent Extensions</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-experience-elevated-a-close-look-at-keychrons-lemokey-l3/"><u>Gaming Experience Elevated: A Close Look at Keychron’s Lemokey L3</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-most-recent-firmware-and-drivers-for-your-brother-hl-l2anddw-printer-free-download/"><u>Get the Most Recent Firmware and Drivers for Your Brother HL-L2#&DW Printer - Free Download</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/palm-2-vs-gpt-4-unveiling-key-differences/"><u>PaLM 2 Vs. GPT-4: Unveiling Key Differences</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps4-and-ps3-game-compatibility/"><u>PS4 and PS3 Game Compatibility</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-rig-for-gamers-low-latency-and-peak-performance/"><u>Ultimate Rig for Gamers: Low Latency and Peak Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-and-installing-google-play-games-the-pc-perspective/"><u>Understanding and Installing Google Play Games: The PC Perspective</u></a></li>
+<li><a href="https://games-able.techidaily.com/video-game-bargains-galore-selecting-the-best-11-discount-sites/"><u>Video Game Bargains Galore: Selecting the Best 11 Discount Sites</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-i-prefer-to-game-in-an-office-chair-instead-of-a-gaming-chair/"><u>Why I Prefer to Game in an Office Chair Instead of a Gaming Chair</u></a></li>
 </ul></div>
 

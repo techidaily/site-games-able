@@ -1,7 +1,7 @@
 ---
 title: Scoring a Deal? Secure the Ultimate Viewing Experience with This 85-Inch TCL TV on Sale for Only $900 | Exclusive Labor Day Blowout at ZDNET
-date: 2024-09-17 14:41:32
-updated: 2024-09-20 12:19:34
+date: 2024-09-16T22:10:53.997Z
+updated: 2024-09-20T22:04:06.672Z
 tags:
   - gaming
 categories:
@@ -59,6 +59,13 @@ There's a single screw holding the cover in place; remove it and set it aside in
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Move the screw and spacer inside the SSD housing
 
 With the expansion slot cover removed, locate and remove the screw and spacer near the end of the SSD housing. 
@@ -76,6 +83,13 @@ Jason Cipriani/ZDNET
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -120,11 +134,26 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-comparing-recording-obs-studio-versus-bandicam/"><u>[New] 2024 Approved Comparing Recording OBS Studio Versus Bandicam</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-tasteful-tactics-elevating-culinary-channel-monikers/"><u>[New] 2024 Approved Tasteful Tactics Elevating Culinary Channel Monikers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-innovators-playbook-for-premiere-pro-fullscreen-edits/"><u>[Updated] The Innovator's Playbook for Premiere Pro Fullscreen Edits</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/amplify-pictorial-points-using-rings-of-radial-focus/"><u>Amplify Pictorial Points Using Rings of Radial Focus</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-instructions-for-crafting-a-custom-kodi-media-center-a-diy-beginners-approach/"><u>Essential Instructions for Crafting a Custom Kodi Media Center: A DIY Beginner's Approach</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-poco-m6-pro-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Poco M6 Pro 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-through-xboxs-game-pass-price-tide-rise/"><u>Navigating Through Xbox's Game Pass Price Tide Rise</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-video-editing-on-a-mac-here-are-the-best-options-for/"><u>New 2024 Approved Video Editing on a Mac? Here Are the Best Options For</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-pc-usage-managing-game-bar-backgrounds/"><u>Optimizing PC Usage: Managing Game Bar Backgrounds</u></a></li>
+<li><a href="https://games-able.techidaily.com/score-higher-with-these-7-top-sports-games-for-iphonestablets/"><u>Score Higher with These 7 Top Sports Games for iPhones/Tablets</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-playlist-7-terminal-games-on-linux/"><u>The Ultimate Playlist: 7 Terminal Games on Linux</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-xboxs-strict-punitive-framework/"><u>Unveiling Xbox's Strict Punitive Framework</u></a></li>
+</ul></div>
+

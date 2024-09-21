@@ -1,7 +1,7 @@
 ---
 title: "Unleashing Power: The Raider HX Experience"
-date: 2024-09-09T16:40:22.059Z
-updated: 2024-09-15T16:38:39.416Z
+date: 2024-09-19T00:00:30.769Z
+updated: 2024-09-20T18:58:15.012Z
 tags:
   - games
 categories:
@@ -190,10 +190,10 @@ Physical Webcam cover
 ![MSI Raider GE78 HX - Right Side](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/msi-raider-ge78-hx-right-side.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Paul Antill / MakeUseOf
@@ -201,6 +201,13 @@ Physical Webcam cover
  On the left side, you'll find a Thunderbolt 4 port, an SD card slot, and a 3.5 mm headphone jack.
 
 ![MSI Raider GE78 HX - Left Side](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/msi-raider-ge78-hx-left-side.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Paul Antill / MakeUseOf
 
@@ -211,10 +218,10 @@ Physical Webcam cover
  Paul Antill / MakeUseOf
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Display
@@ -222,6 +229,13 @@ Physical Webcam cover
  Our MSI Raider GE78 HX 13V uses a QHD+ panel boasting a resolution of 2560 x 1600\. The 16:10 aspect ratio is a new addition to the Raider series, providing a taller screen, traditionally associated with productivity work, but it's been making its way into most of MSI's lineup over the past few years. The display only opens up to about 120 degrees—so no extreme angles with this one.
 
 ![MSI Raider GE78 HX - Max Screen Angle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/msi-raider-ge78-hx-max-screen-angle.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Paul Antill / MakeUseOf
 
@@ -245,37 +259,24 @@ Physical Webcam cover
 
  Paul Antill / MakeUseOf
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Performance
 
  The MSI Raider GE78 HX 13V delivers impressive performance with a Core i9-13950HX, a powerful mobile processor in Intel's 13th-gen Raptor Lake platform. This CPU boasts 24 cores and 32 threads, featuring a hybrid design with 8 high-performance cores and 16 efficiency cores that can work together or independently, depending on the task. The laptop slurps down up to 140W of power during demanding CPU workloads on max-performance profiles.
 
  In the graphics department, the 2023 Raider series packs top-tier RTX 4000 chips. Our review unit came equipped with the RTX 4080 Laptop GPU, capable of reaching up to 175W with Dynamic Boost. Notably, the laptop retains an MUX for a more direct connection to the GPU, although it requires a restart to switch between Hybrid and Discrete modes via the control software.
 
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Noise and Heat
 
  During testing and benchmarking, the laptop was set to the Extreme profile with the GPU in MYHybrid mode, and the screen at its native QHD+ resolution. In Extreme mode, the laptop runs quite loudly at 50+ dB, making a good pair of over-the-ear noise-canceling headphones a wise investment. Aside from this, one major thing to note is its cooling: it blows out some serious heat.
 
 ![MSI Raider GE78 HX - Underside](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/msi-raider-ge78-hx-underside.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Paul Antill / MakeUseOf
 
@@ -315,13 +316,6 @@ Close
 
 ![MSI Raider GE78 HX - Front Angle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/msi-raider-ge78-hx-front-angle.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
 
 ##### MSI Raider GE78 HX
@@ -349,21 +343,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-5-elite-webcams-offering-clear-visuals-and-inbuilt-mics-for-2024/"><u>[New] 5 Elite Webcams Offering Clear Visuals & Inbuilt Mics for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-how-to-elevate-video-closure-vimeos-end-screen-essentials/"><u>[New] How to Elevate Video Closure Vimeo's End Screen Essentials</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-leading-the-charge-in-online-healthcare-promotions-and-ads/"><u>[Updated] 2024 Approved Leading the Charge in Online Healthcare Promotions & Ads</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-tips-for-recording-high-quality-mov-video-on-windows-11/"><u>2024 Approved Tips for Recording High-Quality MOV Video on Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/fusing-form-and-function-in-gaming-world/"><u>Fusing Form and Function in Gaming World</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-wirelessly-update-your-dualsense-controller/"><u>How to Wirelessly Update Your DualSense Controller</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-zte-axon-40-lite-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock ZTE Axon 40 Lite Phone Without Password?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-precision-subtitle-tweaking-for-the-mac-pro-user/"><u>In 2024, Precision Subtitle Tweaking for the Mac Pro User</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/navigating-the-maze-of-private-snapshares/"><u>Navigating the Maze of Private Snapshares</u></a></li>
-<li><a href="https://games-able.techidaily.com/reactivating-windows-xpxbox-controllers-that-dont-work/"><u>Reactivating Windows XPXbox Controllers That Don't Work</u></a></li>
-<li><a href="https://games-able.techidaily.com/steps-to-rectify-error-during-win-oculus-application-setup/"><u>Steps to Rectify Error During Win-Oculus Application Setup</u></a></li>
-<li><a href="https://games-able.techidaily.com/tall-titans-top-ranked-game-support-systems/"><u>Tall Titans' Top-Ranked Game Support Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-visionizer-for-gamers-setting-up-your-console-in-4k-focus-mode/"><u>The Ultimate Visionizer for Gamers – Setting Up Your Console in 4K Focus Mode</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-nubia-red-magic-9-pro-by-drfone-android/"><u>Three Ways to Sim Unlock Nubia Red Magic 9 Pro</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-30-gamer-tracker-apps-insight/"><u>Top 30 Gamer Tracker Apps Insight</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/yearly-compilation-of-exciting-yt-unboxing-clips/"><u>Yearly Compilation of Exciting YT Unboxing Clips</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-mastering-android-screen-captures-for-2024/"><u>[New] Mastering Android Screen Captures for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-gain-popularity-power-secrets-to-staff-picked-videos-on-vimeo/"><u>[Updated] 2024 Approved Gain Popularity Power Secrets to Staff-Picked Videos on Vimeo</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-infinix-hot-40-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Infinix Hot 40 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/decrypting-the-code-integrating-google-play-games-into-windows/"><u>Decrypting the Code: Integrating Google Play Games Into Windows</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-itel-p55t-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Itel P55T Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-changer-hands-on-pdw4-review/"><u>Game-Changer Hands-On PDW4 Review</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-lifetime-favorites-reddits-highly-endorsed-top-10/"><u>In 2024, Lifetime Favorites Reddit's Highly-Endorsed Top 10</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-optimize-your-video-conferencing-experience-with-zoom-and-win10/"><u>In 2024, Optimize Your Video Conferencing Experience with Zoom & Win10</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-oppo-reno-10-pro-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Oppo Reno 10 Pro 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://games-able.techidaily.com/no-more-loopholes-valves-new-refund-rules/"><u>No More Loopholes: Valve's New Refund Rules</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-breakthrough-with-ai-the-science-behind-dlss-update-35/"><u>Nvidia’s Breakthrough with AI: The Science Behind DLSS Update 3.5</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pioneer-your-own-path-8-tailored-ai-experiences/"><u>Pioneer Your Own Path: 8 Tailored AI Experiences</u></a></li>
+<li><a href="https://games-able.techidaily.com/refresh-play-joystick-upgrade-for-the-switch/"><u>Refresh Play: Joystick Upgrade for the Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-tier-high-refresh-rate-panels-for-competitive-gaming-240hz/"><u>Top-Tier, High-Refresh Rate Panels for Competitive Gaming (240Hz)</u></a></li>
 </ul></div>
 

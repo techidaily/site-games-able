@@ -1,7 +1,7 @@
 ---
 title: "From One to Many Languages: ROM Patch Application"
-date: 2024-09-09T17:18:23.428Z
-updated: 2024-09-15T16:42:17.447Z
+date: 2024-09-13T21:53:18.271Z
+updated: 2024-09-20T23:48:38.131Z
 tags:
   - games
 categories:
@@ -49,24 +49,18 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 
  Some patch files are .zip or .7zip files. Ensure you have the appropriate software/app installed on your device, so you can open the file and drop it into its appropriate folder.
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### A Patch Tool
 
  A patch tool works by binding a patch file to a ROM file, thus creating a new ROM file with the parameters of the patch baked in. It’s the same concept as your platform of choice auto-updating a game you’re about to play before you can play.
 
  In the past, you needed to know the different types of patch files. But today, that's not really the case, especially as you can[create your own Rom Hacks for games like Pokémon](https://www.makeuseof.com/how-to-create-rom-hacks/) from an Android device or straight from the web with sites like Rom Patcher JS. Let's use the former as an example.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Apply a Fan Translation Patch to Your ROM
 
@@ -79,16 +73,10 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 ![A screenshot of Rom Patcher JS with a loaded Rom File and Patch File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/panorama-cotton-english-translation-file-in-folder-2.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now it’s time to test out the new ROM file. Load the new ROM file in your emulator as normal. Did it work? In this example, yes! Take a look at the side-by-side comparison of the newly patched ROM file (left) and the original ROM file (right) in action!
@@ -112,16 +100,16 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-improve-your-videography-the-itunes-way/"><u>[New] Improve Your Videography The iTunes Way</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-discover-the-hottest-snapchat-tips-for-todays-trends/"><u>[Updated] In 2024, Discover the Hottest Snapchat Tips for Today's Trends</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-motorola-edge-2023-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Motorola Edge 2023 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/blend-audio-and-video-recording-on-windows-11s-snipping-tool-max-156/"><u>Blend Audio and Video Recording on Windows 11'S Snipping Tool (Max 156)</u></a></li>
-<li><a href="https://games-able.techidaily.com/fe-nvidia-vs-asus-graphic-cards-which-to-choose/"><u>FE Nvidia Vs. ASUS Graphic Cards: Which to Choose?</u></a></li>
-<li><a href="https://games-able.techidaily.com/google-play-pass-generally-fantastic-except/"><u>Google Play Pass: Generally Fantastic Except...</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Oppo Reno 8T 5G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/hrtfs-role-in-valorant-is-it-beneficial/"><u>HRTF's Role in Valorant - Is It Beneficial?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-itel-p55plus-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Itel P55+ Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://games-able.techidaily.com/ps5-browsing-beyond-the-obvious-access-points/"><u>Ps5 Browsing: Beyond the Obvious Access Points</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamline-your-game-library-with-efficient-disk-management/"><u>Streamline Your Game Library with Efficient Disk Management</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-creative-edge-filmmakers-blueprint-for-captivating-anime-subscribers-filmora/"><u>[New] The Creative Edge Filmmaker's Blueprint for Captivating Anime Subscribers (Filmora)</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-google-pixel-7a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/could-macos-be-the-next-big-thing-in-gaming/"><u>Could MacOS Be the Next Big Thing in Gaming?</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/free-convert-h265hevc-to-h264-on-windows-10-and-mac-os/"><u>Free Convert H.265/HEVC to H.264 On Windows 10 and Mac OS</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Itel A60? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-instagram-music-copyright-rules/"><u>In 2024, Instagram Music Copyright Rules</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-realm-of-favored-independent-gaming/"><u>Navigating the Realm of Favored Independent Gaming</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/re-establishing-your-pcs-audio-output-in-zoom-meetings/"><u>Re-Establishing Your PC's Audio Output in Zoom Meetings</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-sound-quality-from-beyerdynamic-mmx-200/"><u>The Ultimate Sound Quality From Beyerdynamic MMX 200</u></a></li>
+<li><a href="https://games-able.techidaily.com/winning-list-of-11-top-notch-no-cost-words-apps/"><u>Winning List of 11 Top-Notch, No-Cost Words Apps</u></a></li>
 </ul></div>
 

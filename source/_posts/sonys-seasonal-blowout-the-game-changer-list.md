@@ -1,7 +1,7 @@
 ---
 title: Sony's Seasonal Blowout – The Game Changer List
-date: 2024-09-12T16:10:44.966Z
-updated: 2024-09-15T16:11:09.449Z
+date: 2024-09-13T19:49:25.813Z
+updated: 2024-09-20T22:20:46.331Z
 tags:
   - games
 categories:
@@ -42,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/c54c6148123e508341809a9f8c11fb6ca2958cb78
 **Download** :[Deathloop](https://store.playstation.com/en-us/product/UP1003-PPSA01302%5F00-DEATHLOOP0000000) for $14.99 (75% off)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Little Nightmares 1 & 2
@@ -53,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/c54c6148123e508341809a9f8c11fb6ca2958cb78
  Walking the line between absolutely horrifying and terribly cute is not easy, but if any game series does it perfectly, it's Little Nightmares. Both Little Nightmares 1 and 2 share adorable protagonists and horrific enemies that will definitely haunt your dreams for at least a couple of nights, possibly more. Consider yourself warned.
 
 **Download** :[Little Nightmares 1 & 2](https://store.playstation.com/en-us/product/UP0700-PPSA02200%5F00-LN1LN2BUNDLE0000) for $14.99 (70% off)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Owlboy
 
@@ -72,31 +79,24 @@ thumbnail: https://thmb.techidaily.com/c54c6148123e508341809a9f8c11fb6ca2958cb78
 
 **Download** :[The Last of Us: Part II](https://store.playstation.com/en-us/product/UP9000-CUSA07820%5F00-THELASTOFUSPART2) for &19.99 (50% off)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Resident Evil Village
 
  Resident Evil Village is the most recent entry in the long-running horror franchise and is one of the best of the bunch. If you haven’t delved into the terrifying world of Resident Evil yet, Resident Evil Village is a great place to start, and now that it's 50% off, what’s stopping you?
 
 **Download** :[Resident Evil Village](https://store.playstation.com/en-us/product/UP0102-PPSA01556%5F00-VILLAGEFULLGAMEX) for $19.99 ($50% off)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Tiny Tina’s Wonderlands: Chaotic Great Edition
 
  If you’re a fan of first-person shooters, but you also like to dabble in the realms of magic, Tiny Tina’s Wonderlands is a great amalgamation of the two. It will also be a surefire hit if you like Borderlands. If that wasn’t enough to convince you already, the Chaotic Edition comes with all the bells and whistles, like a season pass and post-launch content, for just $26.00.
 
 **Download** :[Tiny Tina’s Wonderlands: Chaotic Great Edition](https://store.playstation.com/en-us/product/UP1001-PPSA01492%5F00-TTWPREMIUMSIEA00) for $29.69 (67% off)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Final Fantasy VII Remake
 
@@ -123,15 +123,20 @@ thumbnail: https://thmb.techidaily.com/c54c6148123e508341809a9f8c11fb6ca2958cb78
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-hourly-video-consumption-total-daily-gb-amount/"><u>[Updated] Hourly Video Consumption Total Daily GB Amount</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-top-10-action-cam-audio-upgrades/"><u>2024 Approved Top 10 Action Cam Audio Upgrades</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-gaming-with-custom-xbox-game-bar-configurations-for-windows-users/"><u>Elevate Gaming with Custom Xbox Game Bar Configurations for Windows Users</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-cricket-apple-iphone-8-for-free-by-drfone-ios/"><u>How To Unlock Cricket Apple iPhone 8 for Free</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-vivo-x-flip-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Vivo X Flip Get Deleted Pictures Back with Ease and Safety?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/no-more-silent-phone-uncover-7-fixes-for-non-appearing-iphone-notifications/"><u>No More Silent Phone: Uncover 7 Fixes for Non-Appearing iPhone Notifications</u></a></li>
-<li><a href="https://games-able.techidaily.com/revive-classics-iphone-games-for-nes-and-snes/"><u>Revive Classics: IPhone Games for NES and SNES</u></a></li>
-<li><a href="https://games-able.techidaily.com/troubleshooting-low-graphics-display-effects/"><u>Troubleshooting Low-Graphics Display Effects</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-vlc-trimming-on-mac-made-simple-preserve-video-integrity-and-quality/"><u>Updated VLC Trimming on Mac Made Simple Preserve Video Integrity and Quality</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-decision-making-in-the-workplace-a-neurological-approach-to-efficacy-and-ethics/"><u>[New] 2024 Approved Decision-Making in the Workplace A Neurological Approach to Efficacy and Ethics</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-quick-guide-to-starting-an-instagram-live-show-for-2024/"><u>[Updated] Quick Guide to Starting an Instagram Live Show for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/affordable-4k-lens-and-recorders-for-2024/"><u>Affordable 4K Lens & Recorders for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beyond-boundaries-in-ai-unraveling-the-5-major-variances-from-gpt-n35-to-gpt-4/"><u>Beyond Boundaries in AI: Unraveling the 5 Major Variances From GPT-N_3.5 to GPT-4</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/cutting-edge-simple-win-11-recorders/"><u>Cutting-Edge Simple Win 11 Recorders</u></a></li>
+<li><a href="https://games-able.techidaily.com/dashing-discovers-brief-access-to-hidden-features/"><u>Dashing Discovers: Brief Access to Hidden Features</u></a></li>
+<li><a href="https://games-able.techidaily.com/embrace-innovation-in-chess-top-6-new-platform-explorations/"><u>Embrace Innovation in Chess: Top 6 New Platform Explorations</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-meizu-21-pro-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Meizu 21 Pro Phone with Broken Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/nintendo-switch-and-3-best-live-stream-platforms/"><u>Nintendo Switch & 3 Best Live-Stream Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/restoring-harmony-steam-deck-and-cloud-synching/"><u>Restoring Harmony: Steam Deck and Cloud Synching</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-for-playing-fallout-3-on-the-latest-windows-operating-system/"><u>Step-by-Step Instructions for Playing Fallout 3 on the Latest Windows Operating System</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-genius-behind-effective-podcast-visual-identity/"><u>The Genius Behind Effective Podcast Visual Identity</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-rig-for-gamers-low-latency-and-peak-performance/"><u>Ultimate Rig for Gamers: Low Latency and Peak Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-i-prefer-to-game-in-an-office-chair-instead-of-a-gaming-chair/"><u>Why I Prefer to Game in an Office Chair Instead of a Gaming Chair</u></a></li>
 </ul></div>
 

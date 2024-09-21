@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Choosing a Quality PS5 External Drive - Expert Picks From ZDNET
-date: 2024-09-19 11:16:23
-updated: 2024-09-20 12:52:12
+date: 2024-09-15T23:04:33.544Z
+updated: 2024-09-20T17:24:31.498Z
 tags:
   - gaming
 categories:
@@ -59,6 +59,13 @@ There's a single screw holding the cover in place; remove it and set it aside in
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Move the screw and spacer inside the SSD housing
 
 With the expansion slot cover removed, locate and remove the screw and spacer near the end of the SSD housing. 
@@ -76,6 +83,13 @@ Jason Cipriani/ZDNET
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -120,11 +134,28 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-effortless-gameplay-capture-a-compreayers-approach-to-xbox-recording/"><u>[Updated] Effortless Gameplay Capture A Compreayer's Approach to Xbox Recording</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-invigorating-cold-season-selecting-warm-video-themes/"><u>[Updated] Invigorating Cold Season Selecting Warm Video Themes</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-pixelpilot-studio-plus-advanced-os-recorder/"><u>[Updated] PixelPilot Studio Plus Advanced OS Recorder</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-how-to-excel-at-new-york-times-word-game-strands-edition/"><u>Discover How To Excel at New York Times Word Game: Strands Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-the-evolution-best-in-class-asus-rog-ally-docking-solutions/"><u>Explore the Evolution: Best-in-Class ASUS ROG Ally Docking Solutions</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Honor Magic 6 Lite? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/ideal-multiplayer-partner-games-top-16-for-series-consoles/"><u>Ideal Multiplayer Partner Games - Top 16 for Series Consoles</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-lava-blaze-2-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Lava Blaze 2 Face Lock?</u></a></li>
+<li><a href="https://win-latest.techidaily.com/mastering-format-transitions-how-to-switch-between-different-media-files-easily/"><u>Mastering Format Transitions: How to Switch Between Different Media Files Easily</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-deck-versatility-explored/"><u>Steam Deck Versatility Explored</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-ultimate-guide-to-crafting-mc-village-dwellings-for-2024/"><u>The Ultimate Guide to Crafting MC Village Dwellings for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unplugged-and-entertained-ioss-hottest-game-titles/"><u>Unplugged & Entertained: IOS's Hottest Game Titles</u></a></li>
+</ul></div>
+

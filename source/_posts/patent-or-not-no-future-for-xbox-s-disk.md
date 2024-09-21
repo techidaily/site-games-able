@@ -1,7 +1,7 @@
 ---
 title: Patent or Not, No Future for Xbox S Disk
-date: 2024-09-10T16:34:24.245Z
-updated: 2024-09-15T16:03:06.432Z
+date: 2024-09-18T18:37:03.922Z
+updated: 2024-09-20T22:23:20.478Z
 tags:
   - games
 categories:
@@ -60,10 +60,10 @@ thumbnail: https://thmb.techidaily.com/042cea82a1fcfb2242b9880aa52ff1cf0cb7e4c3c
  So while external disc drive support isn't completely out of the question for Xbox Series S, you'll have to wait for Microsoft to create its own external disc drive. And, even then, you won't be able to play your physical discs and will use the disc drive for verification only—if the patent is to be believed.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. A Disc Drive-Supported Xbox Series S Would Increase Costs
@@ -75,16 +75,10 @@ thumbnail: https://thmb.techidaily.com/042cea82a1fcfb2242b9880aa52ff1cf0cb7e4c3c
 ![A photograph of a white Xbox Series S controller and console](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/kamil-s-supabuuk7f4-unsplash-1-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Whether through a higher-priced Series S, or an external drive accessory, the price of Series S budget gaming would rise. And even if Series S prices remained lower than the Xbox Series X, but still increased, you may find yourself seeing the best budget Xbox console less favorably.
@@ -110,20 +104,17 @@ thumbnail: https://thmb.techidaily.com/042cea82a1fcfb2242b9880aa52ff1cf0cb7e4c3c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-audioarchive-compiler-download-playback-and-test/"><u>[New] In 2024, AudioArchive Compiler Download, Playback & Test</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-maximize-your-google-meet-experience-without-paying-a-penny-for-2024/"><u>[New] Maximize Your Google Meet Experience, Without Paying a Penny for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-uniting-communication-and-visuals-a-detailed-plan-for-slack-plus-filmora-meetings-for-2024/"><u>[New] Uniting Communication & Visuals A Detailed Plan for Slack + Filmora Meetings for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-hassle-free-hd-video-on-your-device/"><u>2024 Approved Hassle-Free HD Video on Your Device</u></a></li>
-<li><a href="https://games-able.techidaily.com/critics-cliches-the-fallacies-behind-review-scores/"><u>Critics' Cliches: The Fallacies Behind Review Scores</u></a></li>
-<li><a href="https://games-able.techidaily.com/deciphering-intels-technology-for-optimized-gameplay/"><u>Deciphering Intel's Technology for Optimized Gameplay</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/galactic-game-guide-the-top-10-affordable-mmo-titles/"><u>Galactic Game Guide The Top 10 Affordable MMO Titles</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-rapid-review-windows-files-made-simple/"><u>In 2024, Rapid Review Windows Files Made Simple</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-vivo-y02t-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Vivo Y02T Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/mov-to-mp4-quick-and-easy-free-conversion-tool-compatible-with-macos-and-windows-10-systems/"><u>MOV to MP4 - Quick and Easy Free Conversion Tool Compatible with macOS and Windows 10 Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/no-more-lost-progress-decoding-and-addressing-10-common-gaming-errors/"><u>No More Lost Progress: Decoding and Addressing 10 Common Gaming Errors</u></a></li>
-<li><a href="https://games-able.techidaily.com/peak-playgrounds-triumph-territories/"><u>Peak Playgrounds: Triumph Territories</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-essential-ps5-cleanliness-protocol/"><u>The Essential PS5 Cleanliness Protocol</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-the-secrets-of-gpu-leaning/"><u>Unveiling the Secrets of GPU Leaning</u></a></li>
-<li><a href="https://games-able.techidaily.com/valve-updates-steam-family-access-for-first-time-in-10-years/"><u>Valve Updates Steam Family Access for First Time in 10 Years</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-download-and-launch-an-easy-path-with-vrecord-for-2024/"><u>[Updated] Download and Launch An Easy Path with VRecord for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-is-optimal-hdr-with-aurora-worth-it/"><u>[Updated] Is Optimal HDR with Aurora Worth It?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-gif-a-step-by-step-guide/"><u>[Updated] Mastering GIF A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-saving-big-on-vr-equipment-from-china/"><u>2024 Approved Saving Big on VR Equipment From China</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-secure-and-simple-photovideo-sharing-with-ios/"><u>2024 Approved Secure and Simple Photo/Video Sharing with IOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/embrace-all-games-free-to-play-and-premium-on-one-plan/"><u>Embrace All Games, Free-to-Play & Premium On One Plan!</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-weighing-mech-vs-standard-keyboards/"><u>Gamers Weighing Mech Vs. Standard Keyboards</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-poco-f5-5g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Poco F5 5G Phone Screen?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-most-reliable-slow-motion-camera-apps-apple-and-android/"><u>In 2024, Most Reliable Slow Motion Camera Apps, Apple & Android</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-shifting-sessions-update-time-in-xbox-system/"><u>Seamless Shifting Sessions: Update Time in Xbox System</u></a></li>
+<li><a href="https://games-able.techidaily.com/stay-cool-play-smooth-finding-your-gpus-comfort-zone/"><u>Stay Cool, Play Smooth: Finding Your GPU's Comfort Zone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/ultimate-guide-selecting-8-exquisite-weddings-vids/"><u>Ultimate Guide Selecting 8 Exquisite Weddings - Vids</u></a></li>
 </ul></div>
 

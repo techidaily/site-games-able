@@ -1,7 +1,7 @@
 ---
 title: "The List That Could Change Everything: 7 Games for a New Era with MS"
-date: 2024-09-09T16:32:21.994Z
-updated: 2024-09-15T17:16:41.804Z
+date: 2024-09-15T21:29:11.997Z
+updated: 2024-09-21T01:29:18.856Z
 tags:
   - games
 categories:
@@ -55,25 +55,11 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 
  Although one entry made it to the Nintendo 64, the series has mostly been confined to PC. That means that there is a whole new world of console gamers who are yet to experience a StarCraft title.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Tony Hawk's Pro Skater
 
  The name Tony Hawk's Pro Skater alone is probably enough to convince you that a new mainline game would be amazing. The series is the unrivaled master of skateboarding games, and although there have been entries in the genre since the reign of Tony Hawk's Pro Skater, none have been able to come close.
 
  The games were known not only for their fluid and satisfying gameplay but their incredible soundtracks that featured some of the most iconic songs of their age. Remastered versions of Tony Hawk's Pro Skater 1 and 2 were released in 2020 and were highly anticipated, so a new entry in the series would no doubt be just as, if not more, hyped than the remaster.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Hexen
 
@@ -83,11 +69,25 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 
  Instead of completing one level at a time, Hexen requires you to backtrack and make your way through several areas via a hub world. This added to the game's difficulty and made it far more unforgiving than your average FPS. But for gamers that thrive on a good challenge, it also makes it that much more satisfying when you complete it.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Prototype
 
  A modern Prototype game would be amazing. It was great back in the day, but it has an unbelievable amount of potential for a new entry. If there is one modern game that Prototype could be compared to today, it would be Marvel’s Spider-Man: Miles Morales. Of course, it would be far darker and grittier, but one of the best parts of Miles Morales is the satisfaction of effortlessly swinging through the streets on vine-like webs.
 
  Prototype doesn’t have webs, but Alex Mercer’s venom-like virus powers provided a very similar experience as you parkoured your way around the city. Even if Microsoft doesn’t revive the Prototype series, the games still hold up today and are well worth playing.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Hopefully, Microsoft Doesn’t Leave These Games in the Past
 
@@ -110,21 +110,14 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-effortless-gif-to-video-conversion-best-5-top-online-services/"><u>[New] 2024 Approved Effortless GIF-to-Video Conversion Best 5 Top Online Services</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-triple-check-for-profitability-guiding-principles-for-measuring-youtube-income/"><u>[New] 2024 Approved Triple Check for Profitability Guiding Principles for Measuring YouTube Income</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-cutting-edge-methods-to-record-and-save-lectures-on-imac/"><u>[Updated] 2024 Approved Cutting-Edge Methods to Record and Save Lectures on iMac</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/bring-powerful-ai-search-from-bing-to-your-mobile-available-for-android-and-iphone-now/"><u>Bring Powerful AI Search From Bing to Your Mobile: Available for Android and iPhone Now</u></a></li>
-<li><a href="https://games-able.techidaily.com/concealing-gaming-trails-silent-steam-play/"><u>Concealing Gaming Trails: Silent Steam Play</u></a></li>
-<li><a href="https://games-able.techidaily.com/debugging-techniques-for-roblox-error-262/"><u>Debugging Techniques for Roblox Error 262</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-honor-90-gt-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Honor 90 GT</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/getting-started-with-x-previously-known-as-twitter-user-registration-tips/"><u>Getting Started with X (Previously Known as Twitter): User Registration Tips</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-overcome-the-error-code-6-challenge-in-call-of-dutys-pc-version/"><u>How to Overcome the Error Code 6 Challenge in Call of Duty's PC Version</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-play-the-full-version-of-baldurs-gate-3-on-an-m1-or-m2-mac-using-crossover/"><u>How to Play the Full Version of Baldur’s Gate 3 on an M1 or M2 Mac Using CrossOver</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-harmonizing-sight-and-sound-how-to-edit-videos-into-a-perfect-rhythmic-dance-using-premiere-pro/"><u>In 2024, Harmonizing Sight and Sound How to Edit Videos Into a Perfect Rhythmic Dance Using Premiere Pro</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-steams-storage-for-fast-game-management/"><u>Mastering Steam's Storage for Fast Game Management</u></a></li>
-<li><a href="https://games-able.techidaily.com/outsmart-xboxs-premium-price-spike-with-tactics/"><u>Outsmart Xbox's Premium Price Spike with Tactics</u></a></li>
-<li><a href="https://games-able.techidaily.com/seamlessly-connecting-ps4-to-a-pc-or-mac/"><u>Seamlessly Connecting PS4 to a PC or Mac</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-free-gamers-codex-mastering-the-art-of-finding-no-cost-steam-games/"><u>The Free Gamer's Codex: Mastering the Art of Finding No-Cost Steam Games</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-iphone-7-plus-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From iPhone 7 Plus</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-direct-youtube-tunes-to-mp3s-online-and-offline-options/"><u>[New] 2024 Approved Direct YouTube Tunes to MP3s Online & Offline Options!</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-the-most-watched-twitter-moments-of-the-decade-for-2024/"><u>[Updated] The Most Watched Twitter Moments of the Decade for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722964112753-asus-monitors-download-and-instal-drivers-effortlessly-and-save-time/"><u>ASUS Monitors: Download & Instal Drivers Effortlessly and Save Time</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-gameplay-through-smart-screen-adjustment-techniques/"><u>Elevating Gameplay Through Smart Screen Adjustment Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/gear-upgraded-next-gen-shells-for-your-portable-pc-steam-deck/"><u>Gear Upgraded: Next-Gen Shells for Your Portable PC, Steam Deck</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>How does the stardust trade cost In pokemon go On Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/pinpoint-pc-speed-drops-caused-by-cpu-limitations/"><u>Pinpoint PC Speed Drops Caused by CPU Limitations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-progress-chatgpts-revolutionary-feature-set-revealed/"><u>Pioneering Progress: ChatGPT's Revolutionary Feature Set Revealed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/restoring-clear-vision-fixing-iphone-lens-out-of-focus/"><u>Restoring Clear Vision Fixing iPhone Lens Out-of-Focus</u></a></li>
 </ul></div>
 

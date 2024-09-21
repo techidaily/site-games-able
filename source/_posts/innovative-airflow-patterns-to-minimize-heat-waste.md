@@ -1,7 +1,7 @@
 ---
 title: Innovative Airflow Patterns to Minimize Heat Waste
-date: 2024-09-10T16:12:16.023Z
-updated: 2024-09-15T16:27:39.843Z
+date: 2024-09-13T19:23:34.050Z
+updated: 2024-09-21T00:06:51.035Z
 tags:
   - games
 categories:
@@ -57,13 +57,6 @@ Jhet Borja/MakeUseOf
 
  However, in rare cases, the motor might need replacing as well. However, a[replacement graphics card fan](https://www.amazon.com/s?k=Graphics+card+fan&tag=makeusw-20&ascsubtag=UUmuoUeUpU2031241&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Flower-gpu-temperature-custom-fan-curve%2F&asc%5Fcampaign=Evergreen) is much cheaper and easier to fix than a dead GPU. You'll have to consider whether potentially needing a fan replacement sooner and a noisier system is worth lifting the performance cap.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Set a Custom GPU Fan Curve to Boost Gaming Performance
 
  Setting a custom fan curve is incredibly easy and something you shouldn't be intimidated by. Below, you'll not only learn how to make a custom fan curve but also understand how to make a fan curve that's best for your hardware.
@@ -72,20 +65,33 @@ Jhet Borja/MakeUseOf
 
 ![Auto fan speed 0.963v test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/auto-fan-speed-0-963v-test.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You'll be using three programs to create and find the best fan curve for your graphics card.
 
  To create a custom fan curve, we'll be using[MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) .[Unigine Heaven](https://benchmark.unigine.com/heaven) will be the benchmark software you'll use to put your graphics card up to temperature, and[HWinfo](https://www.hwinfo.com/download/) will help you see your GPU temperatures in detail.
 
 ![MSI Mystic Afterburner skin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/msi-mystic-afterburner-skin.jpg)
 
- In case MSI Afterburner looks different from the screenshots, head to**Settings** , pan right to the last tab, click on**User Interface** , and choose**MSI Mystic Afterburner by skin by Derex Design** . Having the same skin will make it easier for you to follow along.
-
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ In case MSI Afterburner looks different from the screenshots, head to**Settings** , pan right to the last tab, click on**User Interface** , and choose**MSI Mystic Afterburner by skin by Derex Design** . Having the same skin will make it easier for you to follow along.
 
 ### Step 2: Benchmark and Find Your Temperatures
 
@@ -101,10 +107,10 @@ Jhet Borja/MakeUseOf
 ![Manual fan speed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/manual-fan-speed.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To manually change the fan speed, click on the automatic fan speed**A icon** , adjust the slider to your desired maximum fan speed, and click the**circled check button** to the right of the floppy disk icon to apply it.
@@ -115,13 +121,6 @@ Jhet Borja/MakeUseOf
 
  Now that we have the information, we can now put it to use in our custom GPU fan curve.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 3: Creating Your Custom GPU Fan Curve Using MSI Afterburner
 
 ![0% and 100% fan speed poitns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/0-and-100-fan-speed-poitns.jpg)
@@ -129,6 +128,19 @@ Jhet Borja/MakeUseOf
  To create a custom GPU fan curve in MSI Afterburner, click**Settings** **\> Fan** . Here, you can move the points around to create your own fan curve. We've deleted all the other points and set 0% fan speed at 50°C and 100% fan speed at 75°C. You can also choose a lower maximum speed if you want.
 
 ![Full fan speed curve](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/full-fan-speed-curve.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  A 0% fan speed will allow your fans to rest when your GPU is not under load.
 
@@ -155,17 +167,18 @@ Jhet Borja/MakeUseOf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-original-visual-documentation-evaluation-and-alternatives/"><u>[Updated] In 2024, Original Visual Documentation Evaluation & Alternatives</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-showcase-spectacatives-the-best-ice-artistry-22/"><u>[Updated] Showcase Spectacatives The Best Ice Artistry '22</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-the-diy-experts-approach-to-saving-web-radios-for-2024/"><u>[Updated] The DIY Expert's Approach to Saving Web Radios for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-garmin-venu-assessment-your-ideal-all-day-activity-and-wellness-monitor/"><u>Comprehensive Garmin Venu Assessment: Your Ideal All-Day Activity & Wellness Monitor</u></a></li>
-<li><a href="https://games-able.techidaily.com/driving-dynamics-traditional-wheel-or-innovative-screen-navigation/"><u>Driving Dynamics: Traditional Wheel or Innovative Screen Navigation?</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-your-pc-game-woes-solving-constant-load-failures-in-necromunda-hired-gun/"><u>Fix Your PC Game Woes - Solving Constant Load Failures in 'Necromunda: Hired Gun'</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-restore-licenses-on-your-ps5/"><u>How to Restore Licenses on Your PS5</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-top-mobile-experiences-ios-and-androids-vr-hits/"><u>In 2024, Top Mobile Experiences IOS & Android's VR Hits</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimal-earphones-designed-for-switch/"><u>Optimal Earphones Designed for Switch</u></a></li>
-<li><a href="https://games-able.techidaily.com/psvr2-immersion-boosters-revealed/"><u>PSVR2 Immersion Boosters Revealed</u></a></li>
-<li><a href="https://games-able.techidaily.com/reinvigorate-your-console-installing-a-new-joy-con-joystick/"><u>Reinvigorate Your Console: Installing a New Joy-Con Joystick</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-in-depth-review-of-manycams-game-changing-recorder-tech/"><u>[New] In 2024, In-Depth Review of ManyCam's Game-Changing Recorder Tech</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-transcoding-vimeo-to-mp3-audio-file/"><u>[New] In 2024, Transcoding Vimeo to MP3 Audio File</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-bridging-music-sections-advanced-audacity-techniques/"><u>[Updated] Bridging Music Sections Advanced Audacity Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/cookiebot-powered-analytics-streamlining-visitor-tracking-and-conversion-optimization-for-websites/"><u>Cookiebot Powered Analytics: Streamlining Visitor Tracking and Conversion Optimization for Websites</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-the-alphanumeric-sequence-of-steam-ids/"><u>Decoding the Alphanumeric Sequence of Steam IDs</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/essential-gopro-hacks-proven-techniques-for-novices-and-experts/"><u>Essential GoPro Hacks: Proven Techniques for Novices and Experts</u></a></li>
+<li><a href="https://games-able.techidaily.com/guaranteeing-every-title-count-in-epic-games-repository/"><u>Guaranteeing Every Title Count in Epic Games Repository</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-realme-gt-neo-5-se-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/instagram-tips-sharing-your-podcast-content-for-2024/"><u>Instagram Tips Sharing Your Podcast Content for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/investigating-multi-functional-display-features-for-games/"><u>Investigating Multi-Functional Display Features for Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-film-fanfare-discover-how-to-enjoy/"><u>PS5 Film Fanfare: Discover How To Enjoy</u></a></li>
+<li><a href="https://games-able.techidaily.com/series-x-savings-your-ultimate-reward/"><u>Series X Savings: Your Ultimate Reward</u></a></li>
 </ul></div>
 

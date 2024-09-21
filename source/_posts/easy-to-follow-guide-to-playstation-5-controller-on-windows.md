@@ -1,7 +1,7 @@
 ---
 title: Easy-to-Follow Guide to PlayStation 5 Controller on Windows
-date: 2024-09-08T16:16:54.093Z
-updated: 2024-09-15T17:18:24.969Z
+date: 2024-09-18T21:49:37.570Z
+updated: 2024-09-20T19:46:25.629Z
 tags:
   - games
 categories:
@@ -48,19 +48,6 @@ thumbnail: https://thmb.techidaily.com/0091dc61c65475448e6b20380c1ba19b6aec743f4
 
  That's about it! Your controller is now usable and you can go ahead and play video games. Once you launch a video game with controller support, your PS5 controller will shine with a white glow around the touchpad.
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Connect the PS5 DualSense Controller to a PC With Bluetooth
 
 ![PlayStation 5 controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/playstation-dualsense-keymap.jpg)
@@ -83,20 +70,20 @@ thumbnail: https://thmb.techidaily.com/0091dc61c65475448e6b20380c1ba19b6aec743f4
 
 ![Windows 11 Bluetooth settings.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/bluetooth-add-dualsense.jpg)
 
- Obviously, your PS5 controller will consume battery when you use it wirelessly. You'll have to occasionally charge it to keep playing. Conversely, playing with a wired connection will charge your controller as you're playing.
-
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Obviously, your PS5 controller will consume battery when you use it wirelessly. You'll have to occasionally charge it to keep playing. Conversely, playing with a wired connection will charge your controller as you're playing.
 
 ## How to Use the PS5 DualSense Controller with Steam
 
@@ -119,10 +106,10 @@ Close
  You can access many settings for your PS5 controller through Steam. You can set a shutdown timer so that the controller turns off after a period of inactivity, disable force feedback, and of course, change your PS5 controller's light color.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Set a Shutdown Timer for the PS5 Controller
@@ -149,6 +136,13 @@ You can follow these steps in Steam to set a shutdown timer:
 
 ![LED settings for the PS5 controller in Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/led-settings-for-the-ps5-controller-in-steam.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can enable Player Slot LEDs to distinguish multiple controllers connected to your PC by emitting a different light for each (e.g. P1 and P2).
 
 ###
@@ -165,10 +159,10 @@ You can follow these steps in Steam to set a shutdown timer:
 ![Enabling game rumble in Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/enabling-game-rumble-in-steam.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Setting up your controller for Steam will ensure that your controller is compatible with all Steam games. Once you've set up your controller, you can use[Steam's Big Picture mode](https://www.makeuseof.com/what-is-steam-big-picture-mode-explained/) to navigate through the Steam interface with your PS5 controller smoothly.
@@ -198,13 +192,20 @@ You can follow these steps in Steam to set a shutdown timer:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/essential-freefire-hashtags-to-skyrocket-video-views-on-youtube-for-2024/"><u>Essential FreeFire Hashtags to Skyrocket Video Views on YouTube for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-on-tackling-two-fps-downfalls-in-pc-gameplay-performance-now-resolved/"><u>Expert Advice On Tackling Two-FPS Downfalls In PC Gameplay Performance – Now Resolved</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-comfort-selecting-snug-winter-themes-for-filming-for-2024/"><u>Layered Comfort Selecting Snug Winter Themes for Filming for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/taming-background-game-bar-techniques-for-both-editions/"><u>Taming Background Game Bar: Techniques for Both Editions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-best-raspberry-pi-hat-selections-of-the-year-find-your-perfect-2024-add-on-solution/"><u>The Best Raspberry Pi HAT Selections of the Year: Find Your Perfect 2024 Add-On Solution!</u></a></li>
-<li><a href="https://games-able.techidaily.com/time-travel-to-the-psp-era-with-your-iphone/"><u>Time Travel to the PSP Era with Your iPhone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-vivo-y36i-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Vivo Y36i Android SIM Unlock APK</u></a></li>
-<li><a href="https://games-able.techidaily.com/value-seekers-ultimate-list-of-vr-gadgets/"><u>Value Seekers' Ultimate List of VR Gadgets</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-deadite-design-dynamo/"><u>[New] Deadite Design Dynamo</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-straightforward-guide-for-instagram-chat-beginners/"><u>[New] In 2024, The Straightforward Guide for Instagram Chat Beginners</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-step-by-step-increasing-viewership-with-facebook-mobile-broadcasts/"><u>[New] Step-by-Step Increasing Viewership with Facebook Mobile Broadcasts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-intriguing-openings-scripted-success-stories/"><u>2024 Approved Intriguing Openings Scripted Success Stories</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-your-coding-skills-merging-chatgpt-functionality-in-vs-code/"><u>Boost Your Coding Skills: Merging ChatGPT Functionality in VS Code</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/cookiebot-enabled-site-enhance-your-websites-engagement-with-advanced-analytics/"><u>Cookiebot-Enabled Site: Enhance Your Website's Engagement with Advanced Analytics</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-new-horizons-update-sxxb1-time/"><u>Explore New Horizons: Update SX/XB1 Time</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-motion-controls-connect-and-sync-xbox-one/"><u>Mastering Motion Controls: Connect & Sync Xbox One</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-windows-graphic-hang-solving-code-0x887a0006/"><u>Overcoming Windows Graphic Hang: Solving Code 0X887A0006</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-fixes-for-when-outlook-wont-connect-to-the-server/"><u>Step-by-Step Fixes for When Outlook Won't Connect to the Server</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-xiaomi-redmi-a2-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Xiaomi Redmi A2 ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-high-stakes-in-vr-development-understanding-four-costs/"><u>The High Stakes in VR Development: Understanding Four Costs</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-ranked-steam-decks-reviewed/"><u>Top-Ranked Steam Decks Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-fun-6-games-not-needing-payments/"><u>Unlocking Fun: 6 Games Not Needing Payments</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-quintessential-twitch-vod-gatherers/"><u>Unveiling the Quintessential Twitch VOD Gatherers</u></a></li>
 </ul></div>
 

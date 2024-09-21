@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Medicine with Technology: The Rise of Digital-Driven, Intelligent Hospital Design Focused on the Patient Experience | ZDNET"
-date: 2024-09-19 21:19:19
-updated: 2024-09-20 10:33:55
+date: 2024-09-16T01:58:46.601Z
+updated: 2024-09-21T00:37:01.285Z
 tags:
   - accelerate-your-tech-game
 categories:
@@ -69,6 +69,19 @@ At WA's Curtin University the NIIN partnership has been critical to supporting i
 
 This partnership is the latest in a long list of engagements between Cisco, Optus, and Curtin University, which has also included the creation of Western Australia's first dedicated research lab set to unleash new 5G applications and enhance student experience.
 
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Conclusion**
 
 Partnerships such as these are another way in which Cisco and Optus are demonstrating the depth of their engagement in the Australian market, and their long-term commitment to boosting national capability and competitiveness.
@@ -83,11 +96,29 @@ Find out more [La Trobe University makes connecting a priority with Optus](https
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-vidvault-screen-recording-review-for-2efficiency-seekers-for-2024/"><u>[New] 'VidVault' Screen Recording Review for 2Efficiency Seekers for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-navigating-snapback-automatically-adding-snapshots-to-photos/"><u>[New] 2024 Approved Navigating Snapback Automatically Adding Snapshots to Photos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-muting-mastery-keeping-your-meeting-focus-on-google-go-for-2024/"><u>[Updated] Muting Mastery Keeping Your Meeting Focus on Google Go for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-rundown-top-8-exceptional-free-online-translation-platforms-for-2024/"><u>A Rundown Top 8 Exceptional Free Online Translation Platforms for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/enhancing-user-experience-creating-high-roi-animated-ads-for-fb/"><u>Enhancing User Experience Creating High-ROI Animated Ads for FB</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-harvest-hidden-havens-in-minecraft-lands/"><u>How to Harvest Hidden Havens in Minecraft Lands</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-preserve-your-virtual-adventures-with-top-pc-screen-techniques/"><u>In 2024, Preserve Your Virtual Adventures with Top PC Screen Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-steams-playtime-tracking-hours-logged-and-points-earned/"><u>Navigating Steam's Playtime Tracking: Hours Logged & Points Earned</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-unlock-mac-video-editing-vn-video-editor-and-other-top-options/"><u>New 2024 Approved Unlock Mac Video Editing VN Video Editor and Other Top Options</u></a></li>
+<li><a href="https://games-able.techidaily.com/overturning-an-erroneous-fortnite-buy-in-a-walkthrough/"><u>Overturning an Erroneous Fortnite Buy-In: A Walkthrough</u></a></li>
+<li><a href="https://games-able.techidaily.com/reimagine-your-gaming-horizons-discover-these-top-9-emulators/"><u>Reimagine Your Gaming Horizons: Discover These Top 9 Emulators</u></a></li>
+<li><a href="https://games-able.techidaily.com/repairing-steams-disconnected-friend-network/"><u>Repairing Steam's Disconnected Friend Network</u></a></li>
+<li><a href="https://games-able.techidaily.com/seeking-the-flaws-6-reasons-to-question-mac-gaming-prowess/"><u>Seeking the Flaws: 6 Reasons to Question Mac Gaming Prowess</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-into-a-new-dimension-transforming-chatgpt-into-an-immersive-rpg-world/"><u>Step Into a New Dimension: Transforming ChatGPT Into an Immersive RPG World</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/w10-quick-recording-software/"><u>W10 Quick Recording Software</u></a></li>
+</ul></div>
+

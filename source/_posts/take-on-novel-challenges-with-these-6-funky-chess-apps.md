@@ -1,7 +1,7 @@
 ---
 title: Take on Novel Challenges with These 6 Funky Chess Apps
-date: 2024-09-12T16:19:44.001Z
-updated: 2024-09-15T17:01:33.969Z
+date: 2024-09-15T18:52:28.007Z
+updated: 2024-09-20T20:04:37.923Z
 tags:
   - games
 categories:
@@ -64,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 **Download:** Half Chess for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027833/https://play.google.com/store/apps/details?id=com.flipflopapp.halfchess&hl=en&gl=US) |[iOS](https://apps.apple.com/us/app/halfchess-play-chess-faster/id1182813218) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5. Really Bad Chess
@@ -80,6 +80,13 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 
 **Download:** Really Bad Chess for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027833/https://play.google.com/store/apps/details?id=com.noodlecake.reallybadchess) |[iOS](https://apps.apple.com/app/id1109751921) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6. Green Chess
 
 ![Green Chess has a large variety of chess variants to play online, and an active community so you'll find matchups easily](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-green-chess.jpg)
@@ -89,13 +96,6 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
  One of the most popular games on Green Chess is 3-player chess. It's played with three half boards (4x8) that are distorted in shape to join at a center, turning it into a hexagon. Apart from white and black, the third player is usually red and has the last turn.
 
  Green Chess categorizes the variants by types, such as different initial positions, different board sizes, randomly changing pieces, modified rules, different shapes of boards, three-player chess, and four-player chess. Create a game, join from the lobby, or start learning by watching someone else's public game.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Play Chess Variants Offline
 
@@ -118,14 +118,16 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-conquer-live-streaming-a-stepwise-guide-to-excellence/"><u>[New] Conquer Live Streaming A Stepwise Guide to Excellence</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-elevate-your-gaming-footage-fbx-edition/"><u>[Updated] 2024 Approved Elevate Your Gaming Footage FBX Edition</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-your-android-and-iphone-companion-to-igtv-downloads/"><u>[Updated] In 2024, Your Android & iPhone Companion to IGTV Downloads</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/a-basic-guidebook-to-live-selling-in-todays-digital-world-for-2024/"><u>A Basic Guidebook To Live Selling in Todays Digital World for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/exiting-the-ps-plus-realm-game-destiny/"><u>Exiting the PS Plus Realm: Game Destiny</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/integrating-text-overlays-into-social-media-streaming-for-2024/"><u>Integrating Text Overlays Into Social Media Streaming for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/say-goodbye-to-lost-remotes-discover-the-ultimate-solution-with-our-innovative-tile-remote-finder/"><u>Say Goodbye to Lost Remotes: Discover the Ultimate Solution with Our Innovative Tile Remote Finder</u></a></li>
-<li><a href="https://games-able.techidaily.com/steps-to-acquire-google-play-games-pc-app/"><u>Steps to Acquire Google Play Games PC App</u></a></li>
-<li><a href="https://games-able.techidaily.com/strategy-for-fixing-lost-assets-in-win-1011/"><u>Strategy for Fixing “Lost Assets” In Win 10/11</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-exploring-the-finest-no-cost-video-editing-software/"><u>[Updated] Exploring the Finest No-Cost Video Editing Software</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-hilarity-unleashed-kinemaster-meme-creation/"><u>2024 Approved Hilarity Unleashed KineMaster Meme Creation</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-new-horizines-youtube-video-uploads-to-facebook/"><u>2024 Approved Navigating New Horizines YouTube Video Uploads to Facebook</u></a></li>
+<li><a href="https://extra-information.techidaily.com/bypassing-edgenuity-a-guide-to-focused-self-study/"><u>Bypassing Edgenuity A Guide to Focused Self-Study</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/convertir-videos-sin-coste-cambiar-mp4-por-mpeg-facilmente-en-linea-con-movavi/"><u>Convertir Vídeos Sin Coste: Cambiar MP4 Por MPEG Fácilmente en Línea Con Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/end-juxtaposing-siri-and-chatgpt-discerning-their-divergence/"><u>End Juxtaposing Siri & ChatGPT: Discerning Their Divergence</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-nokia-c110-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Nokia C110 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-acemagics-am08-pro-gameplay-real-and-trustworthy/"><u>Is AceMagic's AM08 Pro Gameplay Real and Trustworthy?</u></a></li>
+<li><a href="https://games-able.techidaily.com/joining-forces-for-virtual-victory-on-xbox-sx/"><u>Joining Forces for Virtual Victory on Xbox S/X</u></a></li>
+<li><a href="https://games-able.techidaily.com/stealthy-gaming-hide-xbox-series-s-vibrations/"><u>Stealthy Gaming: Hide Xbox Series S Vibrations</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-overcome-oculus-error-in-windows-1011/"><u>Steps To Overcome Oculus Error in Windows 10/11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ultimate Collection of the World's Greatest Festive Season Television Bundles – Insider Tips From ZDNet
-date: 2024-09-19 11:47:10
-updated: 2024-09-20 11:34:20
+date: 2024-09-17T22:50:10.388Z
+updated: 2024-09-20T21:17:58.690Z
 tags:
   - gaming
 categories:
@@ -59,6 +59,19 @@ There's a single screw holding the cover in place; remove it and set it aside in
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Move the screw and spacer inside the SSD housing
 
 With the expansion slot cover removed, locate and remove the screw and spacer near the end of the SSD housing. 
@@ -76,6 +89,13 @@ Jason Cipriani/ZDNET
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -120,11 +140,23 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-text-tactics-top-10-best-practices/"><u>2024 Approved Text Tactics Top 10 Best Practices</u></a></li>
+<li><a href="https://games-able.techidaily.com/cost-effective-high-responsiveness-monitors-for-gamers/"><u>Cost-Effective High Responsiveness Monitors for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/embrace-the-change-engage-in-flash-games-after-adobes-exit/"><u>Embrace the Change: Engage in Flash Games After Adobe's Exit</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-first-timers-manual-for-cool-mac-crafted-youtube-clips/"><u>In 2024, First-Timer's Manual for Cool, Mac-Crafted YouTube Clips</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y200-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y200 Phone without Google Account?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-itel-p55t-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Itel P55T Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://games-able.techidaily.com/rescue-vanishing-wordle-streak-on-mobile-devices/"><u>Rescue Vanishing Wordle Streak on Mobile Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-game-files-with-steams-space-control/"><u>Streamlining Game Files with Steam's Space Control</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721468339417-struggling-to-control-your-iphone-volume-settings-a-simple-guide-inside/"><u>Struggling to Control Your iPhone Volume Settings? A Simple Guide Inside!</u></a></li>
+</ul></div>
+

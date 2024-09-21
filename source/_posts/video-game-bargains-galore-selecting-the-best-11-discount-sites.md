@@ -1,7 +1,7 @@
 ---
 title: "Video Game Bargains Galore: Selecting the Best 11 Discount Sites"
-date: 2024-09-09T16:23:05.829Z
-updated: 2024-09-15T17:17:04.779Z
+date: 2024-09-13T23:02:25.949Z
+updated: 2024-09-20T16:25:51.500Z
 tags:
   - games
 categories:
@@ -55,23 +55,9 @@ With that in mind, here are the best sites to buy cheap video games.
 
  Not only that, but GG.deals tracks the historical price of a game so that you can ensure you're genuinely getting a good deal. In fact, sometimes you might not have to spend a dime, since the site also notifies you when a service is giving a game away free.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4. Humble Bundle
 
 ![humble bundle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/humble-bundle.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Humble Bundle started in 2010 as a discounted collection of video games, with some proceeds donated to charity. Its first few bundles consisted of mainly indie games, but it has since evolved to include AAA titles and other more desirable games.
 
@@ -83,19 +69,6 @@ With that in mind, here are the best sites to buy cheap video games.
 
 ![fanatical](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/fanatical.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Fanatical is an online game store that always has deep discounts on the latest and greatest games. While the prices on Fanatical are usually great anyway, the site often holds sales or flash deals where you can get even cheaper prices than usual. Since[video gaming is an expensive hobby](https://www.makeuseof.com/is-video-gaming-too-expensive/) , these bargains are most welcome.
 
  You should also check out Fanatical's bundles, where it packages similar games together for a discount rate. Occasionally, you can build your own bundle to get a group discount on a bulk purchase.
@@ -103,6 +76,13 @@ With that in mind, here are the best sites to buy cheap video games.
 ## 6. Green Man Gaming
 
 ![green man gaming](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/green-man-gaming.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Green Man Gaming is one of the best stores and game discount sites. If you want cheap video games, Green Man Gaming has you sorted. It sells Steam and Xbox keys, but you can buy in the knowledge and safety that every key has come direct from the publisher—no shady third-party involvement.
 
@@ -113,23 +93,30 @@ With that in mind, here are the best sites to buy cheap video games.
 ![gamersgate](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gamersgate-homepage.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  GamersGate is officially partnered with publishers large and small, selling Steam keys for PC games across all genres. There are regular sales, meaning you can snag yourself a bargain with ease. If something isn't quite cheap enough for you, GamersGate offers a price drop notification feature—all you need is a free account.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8. WinGameStore
 
 ![wingamestore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/wingamestore.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  As you might expect from the name, WinGameStore is all about Windows games. Though if Apple is more your flavor, check out its sister site[MacGameStore](https://www.macgamestore.com/) . Whichever site you choose, there are plenty of discounted games to browse and constant publisher sales.
@@ -154,6 +141,13 @@ With that in mind, here are the best sites to buy cheap video games.
 
  IndieGala doesn't just sell indie games, though it has plenty of those, but rather has good deals on all sorts of PC games. On top of that, IndieGala has a neat selection of free games and endless giveaways—sure, the game quality may be questionable, but it's hard to quibble at zero dollars.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Decide What Game to Buy
 
  These sites are sure to net you a great bargain on the next game that you want to play. Many of them let you sign up for email alerts and newsletters; be sure to do that so that you don't miss out on a bargain.
@@ -175,20 +169,21 @@ With that in mind, here are the best sites to buy cheap video games.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-audio-dimming-the-live-approach/"><u>[New] Audio Dimming The Live Approach</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-digital-dollars-earn-from-youtubers-in-8-ways/"><u>[New] In 2024, Digital Dollars Earn From YouTubers in 8 Ways</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-top-8-affordable-3d-videos-players-on-pcmac/"><u>[Updated] Top 8 Affordable 3D Videos Players on PC/Mac</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-tutorial-on-vlcs-automatic-screen-recorder/"><u>2024 Approved Tutorial on VLC's Automatic Screen Recorder</u></a></li>
-<li><a href="https://win-forum.techidaily.com/exploring-the-giants-of-online-interaction-facebook-twitter-instagram-and-youtube/"><u>Exploring the Giants of Online Interaction - Facebook, Twitter, Instagram and Youtube</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-ipod-and-iphone-xs-the-right-way-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock On iPod and iPhone XS The Right Way</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-xiaomi-redmi-k70-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Xiaomi Redmi K70 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/innovative-fan-dynamics-enhance-processor-cooling/"><u>Innovative Fan Dynamics Enhance Processor Cooling</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastery-in-joining-your-controller-to-a-device/"><u>Mastery in Joining Your Controller to a Device</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-inside-the-world-of-handheld-gaming-with-steam-link/"><u>Step Inside the World of Handheld Gaming with Steam Link</u></a></li>
-<li><a href="https://games-able.techidaily.com/steps-to-fix-lost-parts-in-win-1011-issues/"><u>Steps to Fix Lost Parts in Win 10/11 Issues</u></a></li>
-<li><a href="https://games-able.techidaily.com/strategies-for-restoring-joy-con-linkage-to-nintendo-switch/"><u>Strategies for Restoring Joy-Con Linkage to Nintendo Switch</u></a></li>
-<li><a href="https://games-able.techidaily.com/team-up-conquer-exciting-gameplay-with-minecraft-2p-on-switch/"><u>Team Up, Conquer: Exciting Gameplay with Minecraft 2P on Switch</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-downside-incentivizing-game-creators-with-tips/"><u>The Downside: Incentivizing Game Creators with Tips</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-the-art-of-time-control-fcpx-freeze-frames-and-slow-motion/"><u>Updated In 2024, The Art of Time Control FCPX Freeze Frames and Slow Motion</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/bugfix-windows-printer-spooler-stuck/"><u>[BUGFIX] Windows Printer Spooler Stuck</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-harnessing-hashtags-for-hitting-video-hotspots-on-fb-for-2024/"><u>[New] Harnessing Hashtags for Hitting Video Hotspots on FB for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-top-3-techniques-for-exceptional-lol-gaming-broadcasts-for-2024/"><u>[New] Top 3 Techniques for Exceptional LOL Gaming Broadcasts for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-decode-instagram-visibility-whos-glancing-at-yours-for-2024/"><u>[Updated] Decode Instagram Visibility Who's Glancing at Yours for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/apple-watch-pairing-woes-try-these-6-fix-methods-today/"><u>Apple Watch Pairing Woes? Try These 6 Fix Methods Today!</u></a></li>
+<li><a href="https://games-able.techidaily.com/comparing-powerful-gpus-to-nvidias-geforce-4060-ti/"><u>Comparing Powerful GPUs to Nvidia's GeForce 4060 Ti</u></a></li>
+<li><a href="https://games-able.techidaily.com/fix-inconsistent-mouse-wheel-movement/"><u>Fix Inconsistent Mouse Wheel Movement</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-wicket-to-touchdown-these-are-the-best-mobile-sports-apps-iosandroid/"><u>From Wicket to Touchdown, These Are the Best Mobile Sports Apps (iOS/Android)</u></a></li>
+<li><a href="https://games-able.techidaily.com/future-of-tech-spotlighted-at-computex-for-ai/"><u>Future of Tech Spotlighted at Computex for AI</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-vivo-y56-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Vivo Y56 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-nostalgia-spin-off-the-goofy-movie-on-tape/"><u>In 2024, Nostalgia Spin-Off The Goofy Movie on Tape</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-guide-xbox-one-control-connections/"><u>Quick Guide: Xbox One Control Connections</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/recipe-revolution-celebrity-cheered-tiktok-meals-for-2024/"><u>Recipe Revolution Celebrity-Cheered TikTok Meals for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/revitalize-your-game-experience-complete-ps4-reset/"><u>Revitalize Your Game Experience: Complete PS4 Reset</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/top-strategies-for-getting-your-jabra-headset-up-and-running-again/"><u>Top Strategies for Getting Your Jabra Headset Up and Running Again</u></a></li>
+<li><a href="https://games-able.techidaily.com/zoom-into-playtime-score-with-these-speedy-phone-games/"><u>Zoom Into Playtime: Score with These Speedy Phone Games</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Windows 10 According to Recent Studies | ZDNET
-date: 2024-09-18 13:41:48
-updated: 2024-09-20 10:50:23
+date: 2024-09-17T00:50:29.132Z
+updated: 2024-09-20T22:31:55.598Z
 tags:
   - gaming
 categories:
@@ -59,6 +59,13 @@ There's a single screw holding the cover in place; remove it and set it aside in
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Move the screw and spacer inside the SSD housing
 
 With the expansion slot cover removed, locate and remove the screw and spacer near the end of the SSD housing. 
@@ -76,6 +83,13 @@ Jason Cipriani/ZDNET
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -120,11 +134,30 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-gear-up-essential-asmr-microphones-to-consider/"><u>[New] In 2024, Gear Up Essential ASMR Microphones to Consider</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-unleashing-creativity-in-stories-adding-personalized-graphics-for-2024/"><u>[New] Unleashing Creativity in Stories Adding Personalized Graphics for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-expert-review-of-the-leading-no-cost-cam-software-options-for-2024/"><u>[Updated] Expert Review of the Leading No-Cost Cam Software Options for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/compatibility-switch-oled-and-vintage-docks/"><u>Compatibility: Switch OLED & Vintage Docks?</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-victory-playing-2p-minecraft-on-the-nintendo-switch/"><u>Crafting Victory: Playing 2P Minecraft on the Nintendo Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/echoes-of-the-past-in-todays-game-systems/"><u>Echoes of the Past in Today's Game Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-giants-growth-competitive-forces-at-play-industry-symposium-recap/"><u>Game Giants' Growth: Competitive Forces at Play! [Industry Symposium Recap]</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-xiaomi-redmi-note-12-pro-4g-is-unlocked-by-drfone-android/"><u>How To Check if Your Xiaomi Redmi Note 12 Pro 4G Is Unlocked</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-lava-blaze-2-5g-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Lava Blaze 2 5G Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-reestablishing-communication-with-a-non-responsive-obs-cam/"><u>In 2024, Reestablishing Communication with a Non-Responsive OBS Cam</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-nes-and-snes-steam-controls/"><u>Mastering NES & SNES Steam Controls</u></a></li>
+<li><a href="https://games-able.techidaily.com/playstations-ultimate-makeover-the-best-9-upgrade-proposals/"><u>PlayStation's Ultimate Makeover: The Best 9 Upgrade Proposals</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/professional-video-tweaks-with-these-top-8-free-editing-apps-for-2024/"><u>Professional Video Tweaks with These Top 8 Free Editing Apps for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-honor-100-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Honor 100 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-9-best-free-to-play-games-for-the-nintendo-switch/"><u>The 9 Best Free-to-Play Games for the Nintendo Switch</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mkvwebm-movavi/"><u>이웃에서 무료 소스 MKV/WEBM 데이터가 아닌 모바일용 비디오를 만드는 기법 - Movavi</u></a></li>
+</ul></div>
+

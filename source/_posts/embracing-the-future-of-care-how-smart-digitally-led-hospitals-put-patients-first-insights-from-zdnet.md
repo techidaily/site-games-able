@@ -1,7 +1,7 @@
 ---
 title: "Embracing the Future of Care: How Smart, Digitally-Led Hospitals Put Patients First - Insights From ZDNet"
-date: 2024-09-19 20:21:18
-updated: 2024-09-20 10:31:18
+date: 2024-09-14T19:26:41.711Z
+updated: 2024-09-21T00:16:48.897Z
 tags:
   - accelerate-your-tech-game
 categories:
@@ -55,6 +55,19 @@ The long-term opportunity is to create true data-driven hospital experiences, wh
 
 Having data available in such a way can not only support the patient experience, but when appropriately anonymised and managed, it can be used to create digital twins which can be used for planning and what-if analysis.
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Strength through partnership
 
 Cisco and Optus' long partnership in delivering secure, scalable, and resilient connectivity platforms is an essential element for creating trust with health care providers who have a critical infrastructure requirement.
@@ -66,6 +79,13 @@ The value of this relationship is highlighted in Optus and Cisco's partnership i
 This partnership is helping uncover new ways to improve the joint value of healthcare and technology, through examining use cases such as the creation of private 5G healthcare networks to capture and transmit real-time patient data, support robot assisted clinical services, and deliver asset-tracking of clinical and tech devices.
 
 These networks can provide a single platform to operate and manage clinical workflows while providing public and private network connectivity and supporting building management systems and security operation.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -88,11 +108,27 @@ To find out more request a copy of the Optus report ['Smart Hospitals: The Futur
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-stack-videos-in-your-youtube-queue/"><u>2024 Approved Stack Videos in Your YouTube Queue</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-asrock-ab350-pro4-driver-suite-for-free-step-by-step-guide/"><u>Download ASRock AB350 Pro4 Driver Suite for Free - Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dvdmacbook/"><u>DVDファイル読み込み・再生手順：MacBookでうまくいく方法と問題解決</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-infinix-smart-7-hd-lock-screen-password-by-drfone-android/"><u>How to Reset your Infinix Smart 7 HD Lock Screen Password</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on HTC U23? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-xbox-one-play-anyhow/"><u>Mastering Xbox One: Play Anyhow!</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-play-essential-tech-for-gamers/"><u>Optimizing Play: Essential Tech for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/riding-the-wave-of-mmo-innovations-tide/"><u>Riding the Wave of MMO Innovation's Tide</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-integration-subscribing-and-maximizing-ps5s-ea-play/"><u>Seamless Integration: Subscribing & Maximizing PS5's EA Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategic-co-op-thriving-as-a-duo-in-switchs-minecraft/"><u>Strategic Co-Op: Thriving as a Duo in Switch’s Minecraft</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/the-secret-to-engaging-lower-thirds-fcpx-best-practices-revealed-for-2024/"><u>The Secret to Engaging Lower Thirds FCPX Best Practices Revealed for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/travel-tech-essentials-utilizing-roku-for-hotel-or-school-wi-fi-networks/"><u>Travel Tech Essentials: Utilizing Roku for Hotel or School Wi-Fi Networks</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-peak-performance-in-online-gaming-intels-role/"><u>Unlocking Peak Performance in Online Gaming - Intel's Role</u></a></li>
+</ul></div>
+

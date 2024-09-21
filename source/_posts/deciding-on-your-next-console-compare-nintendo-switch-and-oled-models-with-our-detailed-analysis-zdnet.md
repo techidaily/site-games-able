@@ -1,7 +1,7 @@
 ---
 title: Deciding on Your Next Console? Compare Nintendo Switch & OLED Models with Our Detailed Analysis | ZDNet
-date: 2024-09-17 19:55:35
-updated: 2024-09-20 11:18:26
+date: 2024-09-13T18:56:46.898Z
+updated: 2024-09-20T16:44:26.828Z
 tags:
   - gaming
 categories:
@@ -59,6 +59,13 @@ There's a single screw holding the cover in place; remove it and set it aside in
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Move the screw and spacer inside the SSD housing
 
 With the expansion slot cover removed, locate and remove the screw and spacer near the end of the SSD housing. 
@@ -70,6 +77,19 @@ There are various holes inside the SSD housing that correspond with the various 
 I then placed the spacer over the hole -- it's held in place by three dots, so don't worry about perfectly lining it up or keeping it in place. 
 
 Jason Cipriani/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Insert the SSD and use the mounting screw
 
@@ -120,11 +140,30 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-time-honored-tricks-top-1980s-visual-effects-to-elevate-your-edits/"><u>[New] 2024 Approved Time-Honored Tricks Top 1980S Visual Effects to Elevate Your Edits</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-pro-tips-for-high-quality-ps3-game-screenshots/"><u>[New] In 2024, Pro Tips for High-Quality PS3 Game Screenshots</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-the-art-of-going-unseen-during-instagram-live-events/"><u>[New] In 2024, The Art of Going Unseen During Instagram Live Events</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-10-must-see-historical-channels-on-youtube/"><u>[Updated] 2024 Approved 10 Must-See Historical Channels on YouTube</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-revolutionize-your-video-output-top-10-apps-converting-flv-to-youtube/"><u>2024 Approved Revolutionize Your Video Output Top 10 Apps Converting FLV to YouTube</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/crafting-captivating-reels-musical-integration-strategies-for-2024/"><u>Crafting Captivating Reels Musical Integration Strategies for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-media-experience-fullscreen-playnite-tv/"><u>Elevate Your Media Experience - Fullscreen Playnite TV</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-fast-track-to-hot-photos-on-pexels/"><u>In 2024, The Fast Track to Hot Photos on Pexels</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-adobe-showdown-after-effects-vs-premiere-pro-which-one-reigns-supreme-in-2024/"><u>New Adobe Showdown After Effects vs Premiere Pro - Which One Reigns Supreme, In 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/reprogramming-steam-language-default/"><u>Reprogramming Steam Language Default</u></a></li>
+<li><a href="https://games-able.techidaily.com/restart-your-ps5-controller-techniques-and-timings/"><u>Restart Your PS5 Controller: Techniques and Timings</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-science-behind-xbox-protective-sheets/"><u>The Science Behind Xbox Protective Sheets</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-gamepad-options-to-boost-performance/"><u>Top Gamepad Options to Boost Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-value-virtual-reality-glasses-on-a-shoestring/"><u>Top Value Virtual Reality Glasses on a Shoestring</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-and-the-era-of-instantaneous-anywhere-gaming/"><u>Xbox and the Era of Instantaneous, Anywhere Gaming</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723004204284-xbox-one-and-netflix-compatibility-fixed-watch-your-favorite-shows-without-hiccups/"><u>Xbox One and Netflix Compatibility Fixed - Watch Your Favorite Shows Without Hiccups!</u></a></li>
+</ul></div>
+

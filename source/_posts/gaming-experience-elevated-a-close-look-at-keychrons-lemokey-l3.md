@@ -1,7 +1,7 @@
 ---
 title: "Gaming Experience Elevated: A Close Look at Keychron’s Lemokey L3"
-date: 2024-09-10T16:05:12.560Z
-updated: 2024-09-15T16:00:49.387Z
+date: 2024-09-15T17:39:26.386Z
+updated: 2024-09-20T18:51:09.928Z
 tags:
   - games
 categories:
@@ -168,6 +168,19 @@ No
 
  Hannah Stryker / MakeUseOf
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Lemokey L3 Typing Experience
 
  The Lemokey L3 is a dream to type on. I've been sent the Gateron Jupiter Brown switches, which require 55g actuation force, have 2mm pre-travel, and 4mm total travel. You'll bottom out on keypresses, but the overall movement and response of the Jupiter Brown switches are mostly smooth.
@@ -181,10 +194,10 @@ No
 ![back-of-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/back-of-the-keychron-lemokey-l3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Hannah Stryker / MakeUseOf
@@ -203,19 +216,6 @@ No
 
 ![person-removing-a-keycap-from-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-removing-a-keycap-from-the-keychron-lemokey-l3.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Hannah Stryker / MakeUseOf
 
  Still, the range of customization is always impressive. You can remap any key, including the media control knob, and VIA also gives you control of the Lemokey's south-facing RGB lighting.
@@ -233,10 +233,10 @@ No
 ![person-removing-a-keycap-from-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-removing-a-keycap-from-the-keychron-lemokey-l3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
@@ -264,16 +264,16 @@ No
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-elevate-your-chats-advanced-message-pinning-techniques/"><u>[New] 2024 Approved Elevate Your Chats Advanced Message Pinning Techniques</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-streamlining-presentations-captivate-techniques/"><u>[Updated] In 2024, Streamlining Presentations Captivate Techniques</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-optimal-pc-mac-screen-recording-software-for-2024/"><u>[Updated] Optimal PC-Mac Screen Recording Software for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/cutting-edge-techniques-for-bypassing-obscuring-elements-in-affinity-photo-for-2024/"><u>Cutting-Edge Techniques for Bypassing Obscuring Elements in Affinity Photo for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/detailed-breakdown-monthly-price-of-sony-playstation-plus/"><u>Detailed Breakdown: Monthly Price of Sony PlayStation Plus</u></a></li>
-<li><a href="https://games-able.techidaily.com/future-of-ai-unveiled-at-taipei-expo-2024/"><u>Future of AI Unveiled at Taipei Expo 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-successfully-upgrade-netgear-a610-wireless-adapter-drivers-on-microsoft-windows-operating-systems/"><u>How to Successfully Upgrade Netgear A61^0 Wireless Adapter Drivers on Microsoft Windows Operating Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/restore-your-steam-gateway-with-these-simple-tweaks/"><u>Restore Your Steam Gateway with These Simple Tweaks</u></a></li>
-<li><a href="https://games-able.techidaily.com/revel-in-xbox-benefits-best-code-redeeming-tactics/"><u>Revel in Xbox Benefits: Best Code Redeeming Tactics</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-the-best-performance-managing-graphics-card-temp/"><u>Unlocking the Best Performance: Managing Graphics Card Temp</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-free-video-editing-solutions-for-32-bit-windows-top-picks/"><u>Updated Free Video Editing Solutions for 32-Bit Windows Top Picks</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-lens-leaders-showcase-unveiling-the-best-6-4k-dslrs/"><u>[New] In 2024, Lens Leaders Showcase Unveiling the Best 6 4K DSLRs</u></a></li>
+<li><a href="https://games-able.techidaily.com/experience-free-gaming-excellence-with-six-titles/"><u>Experience Free Gaming Excellence with Six Titles</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-elevate-your-brand-with-these-essential-fb-strategies-for-all/"><u>In 2024, Elevate Your Brand with These Essential FB Strategies (for All)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-vivo-s18-pro-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Vivo S18 Pro Phone that is Locked?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-standout-on-social-media-top-30-memorable-tiktok-usernames-for-views/"><u>In 2024, Standout on Social Media Top 30 Memorable TikTok Usernames for Views</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Tecno Spark 20 Pro? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/reliable-fixes-for-optimizing-apple-pencil-sync-and-connections/"><u>Reliable Fixes for Optimizing Apple Pencil Sync and Connections</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-repair-dealing-with-power-failure-in-roku-televisions/"><u>Step-by-Step Repair: Dealing with Power Failure in Roku Televisions</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-path-to-vip-progression-buying-coins-for-playstation-5/"><u>The Path to VIP Progression: Buying Coins for PlayStation 5</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-step-by-step-journey-into-twitchs-mobile-world/"><u>Your Step-by-Step Journey Into Twitch's Mobile World</u></a></li>
 </ul></div>
 

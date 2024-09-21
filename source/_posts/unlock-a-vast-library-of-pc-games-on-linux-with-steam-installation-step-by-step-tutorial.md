@@ -1,7 +1,7 @@
 ---
 title: Unlock a Vast Library of PC Games on Linux with Steam Installation - Step-by-Step Tutorial
-date: 2024-09-17 13:53:53
-updated: 2024-09-20 12:46:20
+date: 2024-09-19T17:53:19.794Z
+updated: 2024-09-20T22:59:43.371Z
 tags:
   - gaming
 categories:
@@ -71,11 +71,31 @@ I then placed the spacer over the hole -- it's held in place by three dots, so d
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Insert the SSD and use the mounting screw
 
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -120,11 +140,27 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-maximizing-zoom-video-details-step-by-step-methods/"><u>[New] Maximizing Zoom Video Details Step-by-Step Methods</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-navigating-the-world-of-instagram-puzzles-for-peak-performance-for-2024/"><u>[New] Navigating the World of Instagram Puzzles for Peak Performance for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-how-to-link-audio-to-facebook-profiles-iphoneandroid/"><u>[Updated] In 2024, How to Link Audio to Facebook Profiles (iPhone/Android)</u></a></li>
+<li><a href="https://discover-best.techidaily.com/discover-the-best-top-3-free-dvd-players-for-windows-11-your-ultimate-guide-to-dvd-compatibility-and-playback/"><u>Discover the Best Top 3 Free DVD Players for Windows 11 - Your Ultimate Guide to DVD Compatibility and Playback!</u></a></li>
+<li><a href="https://games-able.techidaily.com/embrace-all-games-free-to-play-and-premium-on-one-plan/"><u>Embrace All Games, Free-to-Play & Premium On One Plan!</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-weighing-mech-vs-standard-keyboards/"><u>Gamers Weighing Mech Vs. Standard Keyboards</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-professionals-drone-guide-top-5-recommendations-inside/"><u>In 2024, Professionals’ Drone Guide - Top 5 Recommendations Inside</u></a></li>
+<li><a href="https://win-dash.techidaily.com/mastering-spreadsheet-skills-techniques-for-locating-conjoined-cells-in-microsoft-excel/"><u>Mastering Spreadsheet Skills: Techniques for Locating Conjoined Cells in Microsoft Excel</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/online-gratuite-conversion-de-fichiers-video-mp4-en-format-swf-via-movavi/"><u>Online Gratuite Conversion De Fichiers Vidéo MP4 en Format SWF via Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-ps5s-wireless-communication-interruptions/"><u>Resolving PS5's Wireless Communication Interruptions</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-shifting-sessions-update-time-in-xbox-system/"><u>Seamless Shifting Sessions: Update Time in Xbox System</u></a></li>
+<li><a href="https://games-able.techidaily.com/stay-cool-play-smooth-finding-your-gpus-comfort-zone/"><u>Stay Cool, Play Smooth: Finding Your GPU's Comfort Zone</u></a></li>
+<li><a href="https://games-able.techidaily.com/stopping-auto-booted-steam-immediately/"><u>Stopping Auto-Booted Steam Immediately</u></a></li>
+</ul></div>
+

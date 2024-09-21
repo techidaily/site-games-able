@@ -1,7 +1,7 @@
 ---
 title: Resolving Oculus Installation Error in Windows OS
-date: 2024-09-11T16:38:03.859Z
-updated: 2024-09-15T17:22:49.211Z
+date: 2024-09-16T22:04:56.338Z
+updated: 2024-09-20T20:58:55.652Z
 tags:
   - games
 categories:
@@ -39,11 +39,25 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
 
  Disabling proxy servers is another fix a few Oculus app users confirm can fix the “we encountered an error” installation issue. You can deselect the**Use a proxy server** checkbox within Internet Properties. Our[guide to disabling proxy settings in Windows](https://www.makeuseof.com/windows-11-disable-proxy/) includes step-by-step instructions for how you can deselect that setting.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Temporarily Disable Microsoft Defender (or Third-Party Antivirus)
 
  Real-time antivirus scanning can cause the “we encountered an error” issue to occur. Temporarily disabling antivirus protection on your PC will ensure it can’t block the Oculus software installation. This[how-to-turn-off Windows Defender](https://www.makeuseof.com/how-to-turn-off-windows-defender/) article includes instructions for disabling the Microsoft Defender antivirus.
 
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/real-time-protection-option-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you utilize third-party antivirus software, turn off that app’s antivirus shield. Right-click a system tray icon for the antivirus software and select an option that will turn off its real-time antivirus shield (preferably for no longer than 30-60 minutes). Then try installing Oculus with your antivirus protection turned off.
 
@@ -51,27 +65,7 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
 
 ![The Turn off Windows Defender Firewall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/turn-off-windows-defender-firewall-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The Windows firewall can disrupt the Oculus server connection required for the software installation. So, temporarily disable the Microsoft Defender Firewall before installing the Oculus app. Check out this[how-to turn off Microsoft Defender Firewall guide](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) for instructions about how to do so. Then have another go at installing the Oculus software with the firewall disabled.
-
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Install .NET Framework 4.6.1
 
@@ -86,6 +80,13 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
 
  The setup wizard will say if .NET Framework 4.6.1 or later is installed on your PC. If you don’t need to install that framework, try applying the resolution below or others specified here.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Remove Leftovers From a Previous Oculus App Installation
 
  If you’re trying to reinstall the Oculus app after uninstalling it, removing leftover debris from the previous installation might resolve this issue. This means manually deleting Oculus folders left behind from the previous installation. You can erase leftover Oculus folders as follows:
@@ -95,13 +96,6 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
 3. Right-click any Oculus subfolder in the**Roaming** directory and select**Delete** .  
 ![An Oculus folder and the Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/oculus-folder.jpg)
 4. Repeat the previous step to delete any Oculus subfolders left behind at these folder locations:
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 `C:\Users\<User Folder>\AppData\LocalLow  
 C:\Users\<User Folder>\AppData\Local  
@@ -128,17 +122,14 @@ C:\Users\<User Folder>\AppData`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-scalability-strategies-adapting-to-large-scale-meetings-with-zoom-in-windows-11/"><u>[New] Scalability Strategies Adapting to Large-Scale Meetings with Zoom in Windows 11</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-your-marketing-game-free-50-youtube-adornments-here/"><u>[Updated] In 2024, Elevate Your Marketing Game - Free 50 YouTube Adornments Here</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-top-choices-pro-shake-free-cameras-for-video-streams/"><u>[Updated] Top Choices Pro Shake-Free Cameras for Video Streams</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-the-unknown-top-7-linux-terminal-games/"><u>Explore the Unknown: Top 7 Linux Terminal Games</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/flavors-unfolded-influencers-making-food-pop-for-2024/"><u>Flavors Unfolded Influencers Making Food Pop for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-vivo-x-fold-2-frp-by-drfone-android/"><u>How Can We Bypass Vivo X Fold 2 FRP?</u></a></li>
-<li><a href="https://games-able.techidaily.com/linux-terminal-the-ultimate-game-playground/"><u>Linux Terminal: The Ultimate Game Playground</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimizing-console-power-advanced-strategies-for-ps4-users/"><u>Optimizing Console Power: Advanced Strategies for PS4 Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/resolving-console-issues-mend-or-substitute/"><u>Resolving Console Issues: Mend or Substitute?</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-lava-storm-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Lava Storm 5G Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/supers-clash-rtx-4070-super-versus-titan-and-4080-super-edition/"><u>Supers Clash: RTX 4070 Super Versus Titan and 4080 Super Edition</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/outube-premium-should-be-on-everyones-radar/"><u>Why YouTube Premium Should Be on Everyone's Radar</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-essentials-for-youtube-music-playlists-for-2024/"><u>[Updated] Essentials for YouTube Music Playlists for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-skyline-your-videos-reach-writing-captivating-youtube-descs-using-templates/"><u>[Updated] In 2024, Skyline Your Video's Reach Writing Captivating Youtube Descs Using Templates</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-twitters-best-binge-friends-amazon-primes-most-liked-shows-23/"><u>[Updated] In 2024, Twitter's Best Binge-Friends Amazon Prime's Most Liked Shows, '23</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/detailed-breakdown-bublcam-360-reviewed/"><u>Detailed Breakdown Bublcam 360 Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-changer-hands-on-pdw4-review/"><u>Game-Changer Hands-On PDW4 Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/managing-twitch-participants-shut-down-and-welcome-back/"><u>Managing Twitch Participants: Shut Down & Welcome Back</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-location-unavailable-issue-a-step-by-step-guide-for-your-iphone/"><u>Solving the 'Location Unavailable' Issue: A Step-by-Step Guide for Your iPhone</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-tech-how-to-connect-your-xbox-one/"><u>Streamline Tech: How to Connect Your Xbox One</u></a></li>
 </ul></div>
 

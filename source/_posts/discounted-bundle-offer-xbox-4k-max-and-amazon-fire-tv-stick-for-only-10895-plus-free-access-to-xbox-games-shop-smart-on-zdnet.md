@@ -1,7 +1,7 @@
 ---
 title: Discounted Bundle Offer! Xbox 4K Max & Amazon Fire TV Stick for Only $108.95 + Free Access to Xbox Games | Shop Smart on ZDNet
-date: 2024-09-18 14:39:55
-updated: 2024-09-20 11:44:20
+date: 2024-09-16T00:23:09.960Z
+updated: 2024-09-20T20:04:00.336Z
 tags:
   - gaming
 categories:
@@ -59,6 +59,13 @@ There's a single screw holding the cover in place; remove it and set it aside in
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Move the screw and spacer inside the SSD housing
 
 With the expansion slot cover removed, locate and remove the screw and spacer near the end of the SSD housing. 
@@ -70,6 +77,13 @@ There are various holes inside the SSD housing that correspond with the various 
 I then placed the spacer over the hole -- it's held in place by three dots, so don't worry about perfectly lining it up or keeping it in place. 
 
 Jason Cipriani/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Insert the SSD and use the mounting screw
 
@@ -120,11 +134,30 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-workstations-your-tech-dreams-realized/"><u>[Updated] Ultimate Workstations - Your Tech Dreams Realized</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-comprehensive-guide-discovering-what-is-apple-icloud-plus/"><u>A Comprehensive Guide: Discovering What Is Apple iCloud Plus</u></a></li>
+<li><a href="https://games-able.techidaily.com/could-macos-be-the-next-big-thing-in-gaming/"><u>Could MacOS Be the Next Big Thing in Gaming?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-linkedin-applications-using-these-10-chatgpt-techniques-for-successful-hiring/"><u>Elevate Your LinkedIn Applications Using These 10 ChatGPT Techniques for Successful Hiring</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-action-archetypes-choosing-the-best-7-first-person-shooters/"><u>In 2024, Action Archetypes Choosing the Best 7 First-Person Shooters</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-honor-x50i-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Honor X50i FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-unlocking-the-secrets-of-saving-hulu-episodes-on-various-devices/"><u>In 2024, Unlocking the Secrets of Saving Hulu Episodes on Various Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-realm-of-favored-independent-gaming/"><u>Navigating the Realm of Favored Independent Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/pairing-up-your-phone-and-ps5-remote/"><u>Pairing Up Your Phone and PS5 Remote</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-has-closed-a-refund-loophole-heres-how-it-will-affect-you/"><u>Steam Has Closed a Refund Loophole: Here's How It Will Affect You</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-sound-quality-from-beyerdynamic-mmx-200/"><u>The Ultimate Sound Quality From Beyerdynamic MMX 200</u></a></li>
+<li><a href="https://facebook.techidaily.com/uncovering-erased-photos-from-your-social-network-account/"><u>Uncovering Erased Photos From Your Social Network Account</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-samsung-galaxy-a15-4g-by-drfone-android/"><u>Universal Unlock Pattern for Samsung Galaxy A15 4G</u></a></li>
+<li><a href="https://games-able.techidaily.com/virtual-escapades-without-internet-choose-your-favorite-phone-games/"><u>Virtual Escapades Without Internet - Choose Your Favorite Phone Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/winning-list-of-11-top-notch-no-cost-words-apps/"><u>Winning List of 11 Top-Notch, No-Cost Words Apps</u></a></li>
+</ul></div>
+

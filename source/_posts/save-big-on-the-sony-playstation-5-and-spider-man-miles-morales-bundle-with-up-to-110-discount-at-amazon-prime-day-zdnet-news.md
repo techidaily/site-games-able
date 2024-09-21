@@ -1,7 +1,7 @@
 ---
 title: "Save Big on the Sony PlayStation 5 and Spider-Man: Miles Morales Bundle with Up to $110 Discount at Amazon Prime Day - ZDNet News"
-date: 2024-09-19 11:35:10
-updated: 2024-09-20 12:56:33
+date: 2024-09-15T18:25:11.223Z
+updated: 2024-09-20T17:06:19.781Z
 tags:
   - gaming
 categories:
@@ -93,6 +93,13 @@ Most casual gamers wouldn't dive this deep into these settings, but this is a fa
 
 The [Samsung QN90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Tracking-Anti-Glare-Q-Symphony-QN55QN90C%2Fdp%2FB0BTTVBDVD%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca809cba9-2efa-4131-bfb0-67fc93c07357%7Cdtp&dtb=1) TV has a few minor annoyances -- I'm hesitant to call the wobbliness and installation process shortcomings -- but its picture quality in every instance and gaming features more than made up for those. If you're looking for a premium-level TV that does well in any environment with any content, keep this one on your list.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Deals are subject to sell out or expire anytime, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
@@ -118,11 +125,24 @@ Deals are subject to sell out or expire anytime, though ZDNET remains committed 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-how-to-expertly-snip-tamil-ringtones-a-complete-walkthrough-for-2024/"><u>[Updated] How to Expertly Snip Tamil Ringtones A Complete Walkthrough for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-crafting-content-that-captivates-a-guide-to-facebook-reels/"><u>[Updated] In 2024, Crafting Content that Captivates A Guide to Facebook Reels</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-the-essentialists-guide-to-iphone-sound-recording/"><u>[Updated] In 2024, The Essentialist's Guide to iPhone Sound Recording</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/achieve-optimal-wi-fi-connectivity-download-the-newest-80211n-drivers-for-windows-platforms-windows-11-10-8-and-7/"><u>Achieve Optimal Wi-Fi Connectivity: Download the Newest 802.11N Drivers for Windows Platforms (Windows 11, 10, 8 & 7)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/filmmakers-choice-best-windows-software-for-pro-videos/"><u>Filmmaker's Choice Best Windows Software For Pro Videos</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-nubia-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Nubia</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-acemagics-am08-pro-gameplay-real-and-trustworthy/"><u>Is AceMagic's AM08 Pro Gameplay Real and Trustworthy?</u></a></li>
+<li><a href="https://games-able.techidaily.com/joining-forces-for-virtual-victory-on-xbox-sx/"><u>Joining Forces for Virtual Victory on Xbox S/X</u></a></li>
+<li><a href="https://games-able.techidaily.com/stealthy-gaming-hide-xbox-series-s-vibrations/"><u>Stealthy Gaming: Hide Xbox Series S Vibrations</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-overcome-oculus-error-in-windows-1011/"><u>Steps To Overcome Oculus Error in Windows 10/11</u></a></li>
+</ul></div>
+

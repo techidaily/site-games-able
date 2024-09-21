@@ -1,7 +1,7 @@
 ---
 title: "From Cellular Mechanisms to Therapeutics: Charting the Course for Cancer-Fighting Cannabinoids"
-date: 2024-09-10T16:54:44.992Z
-updated: 2024-09-15T17:10:54.791Z
+date: 2024-09-16T18:13:20.875Z
+updated: 2024-09-20T19:34:04.338Z
 tags:
   - games
 categories:
@@ -74,10 +74,10 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
  You are unable to use DualSense features such as haptic feedback, adaptive triggers, or the controller's built-in microphone while using an assist controller, but this is a small price to pay to help someone play and enjoy the games they love.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## An Assist Controller Makes Gaming More Accessible
@@ -101,17 +101,19 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-contrast-in-colors-crafting-cinematic-moods/"><u>[New] Contrast in Colors Crafting Cinematic Moods</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-the-art-of-engaging-with-the-online-gaming-community/"><u>[Updated] 2024 Approved The Art of Engaging with the Online Gaming Community</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/directx-direct3d-compatible-software-quick-easy-and-reliable-installation/"><u>DirectX Direct3D Compatible Software: Quick, Easy and Reliable Installation</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-advice-what-to-do-when-your-gaming-headset-for-xbox-series-fails-to-function-correctly/"><u>Expert Advice: What to Do When Your Gaming Headset for Xbox Series Fails to Function Correctly</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-realme-12plus-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Realme 12+ 5G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-much-mouse-sensitivity-boosts-fps-performance/"><u>How Much Mouse Sensitivity Boosts FPS Performance?</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-fix-the-error-30005-create-file-failed-with-32-on-windows/"><u>How to Fix the Error 30005: Create File Failed With 32 on Windows</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-xs-max-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone XS Max Without a Home Button</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Realme GT 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-epson-workforce-ds-series-ds-30-driver-on-windows-11-8-and-7-systems/"><u>Install Epson WorkForce DS Series (DS-30) Driver on Windows 11, 8 & 7 Systems</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/leveraging-dual-screen-capabilities-to-boost-your-facebook-presence-for-2024/"><u>Leveraging Dual-Screen Capabilities to Boost Your Facebook Presence for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/performance-meets-style-real-game-benefits-of-accessories/"><u>Performance Meets Style: Real-Game Benefits of Accessories</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-crafting-timeless-videos-with-historical-flair/"><u>[Updated] Crafting Timeless Videos with Historical Flair</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-essential-tips-keeping-your-snapchat-images-intact-post-snap/"><u>[Updated] Essential Tips Keeping Your Snapchat Images Intact Post-Snap</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-first-timers-insights-into-pixel-density-matters/"><u>[Updated] First-Timer's Insights Into Pixel Density Matters</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-crucial-picks-the-most-influential-6-networking-websites-for-biz/"><u>[Updated] In 2024, Crucial Picks The Most Influential 6 Networking Websites for Biz</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-elevating-video-revenue-youtubes-path/"><u>[Updated] In 2024, Elevating Video Revenue YouTube's Path</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-tips-and-insights-for-successful-spotify-marketing/"><u>[Updated] Tips and Insights for Successful Spotify Marketing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-essential-watch-top-8-internet-gems/"><u>2024 Approved Essential Watch Top 8 Internet Gems</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-the-art-of-influence-elevating-messaging-on-telegram/"><u>2024 Approved The Art of Influence Elevating Messaging on Telegram</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-amd-graphics-mastery-with-in-depth-look-at-radeon-xt-rx-7800-7700/"><u>Discover AMD Graphics Mastery with In-Depth Look at Radeon XT (RX 7800, 7700)</u></a></li>
+<li><a href="https://games-able.techidaily.com/economical-peripherals-for-pc-and-console-play/"><u>Economical Peripherals For PC and Console Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-flooring-options-to-transform-your-desk/"><u>Innovative Flooring Options to Transform Your Desk</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premiere-pros-picks-professional-camera-stabilizers-reviewed/"><u>Premiere Pros' Picks Professional Camera Stabilizers Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-premier-game-boy-simulators-for-iphone-and-ipad/"><u>The Premier Game Boy Simulators for iPhone & iPad!</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-managing-your-steam-space/"><u>The Ultimate Guide to Managing Your Steam Space</u></a></li>
 </ul></div>
 

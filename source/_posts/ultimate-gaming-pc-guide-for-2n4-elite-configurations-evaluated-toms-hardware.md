@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Gaming PC Guide for 2N4: Elite Configurations Evaluated | Tom's Hardware"
-date: 2024-09-17 19:39:45
-updated: 2024-09-20 12:35:40
+date: 2024-09-14T22:10:03.082Z
+updated: 2024-09-20T16:47:26.822Z
 tags:
   - gaming
 categories:
@@ -71,11 +71,25 @@ I then placed the spacer over the hole -- it's held in place by three dots, so d
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Insert the SSD and use the mounting screw
 
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -120,11 +134,27 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-smart-video-alteration-for-mac-users-seeking-insta-perfect-posts/"><u>[New] 2024 Approved Smart Video Alteration for Mac Users Seeking Insta-Perfect Posts</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-rapid-rendering-of-epic-battle-royale-tiles/"><u>[New] In 2024, Rapid Rendering of Epic Battle Royale Tiles</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-art-of-documenting-digital-entertainment/"><u>[Updated] 2024 Approved The Art of Documenting Digital Entertainment</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-smooth-shooting-secured-choosing-ideal-tripods-and-gimbals/"><u>2024 Approved Smooth Shooting Secured Choosing Ideal Tripods & Gimbals</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-pass-evolution-the-new-era-of-xbox-gold/"><u>Game Pass Evolution: The New Era of Xbox Gold</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y200e-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y200e 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://games-able.techidaily.com/pc-compatibility-101-attaching-your-modern-xbox-controller-139-chars/"><u>PC Compatibility 101: Attaching Your Modern Xbox Controller (139 Chars)</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-nokia-c12-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/swiftly-swap-your-switchs-worn-out-joystick/"><u>Swiftly Swap Your Switch's Worn-Out Joystick</u></a></li>
+<li><a href="https://games-able.techidaily.com/tailoring-mouse-dpi-the-secret-to-better-fps-gameplay/"><u>Tailoring Mouse DPI: The Secret to Better FPS Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-expensive-enigma-of-virtual-reality-unveiling-four-truths/"><u>The Expensive Enigma of Virtual Reality: Unveiling Four Truths</u></a></li>
+<li><a href="https://games-able.techidaily.com/tips-on-retailers-return-policy-for-xbox/"><u>Tips on Retailer's Return Policy for Xbox</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-techniques-to-fix-win11-system-call-errors/"><u>Troubleshooting Techniques to Fix Win11 System Call Errors</u></a></li>
+</ul></div>
+

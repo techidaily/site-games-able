@@ -1,7 +1,7 @@
 ---
 title: "In-Depth HyperX Cloud Alpha Wireless Headset Evaluation: Exceptional Long-Lasting Battery Performance for Gamers & Music Lovers - TechRadar"
-date: 2024-09-19 12:23:34
-updated: 2024-09-20 11:39:14
+date: 2024-09-15T02:01:56.437Z
+updated: 2024-09-21T01:28:51.274Z
 tags:
   - gaming
 categories:
@@ -59,6 +59,13 @@ There's a single screw holding the cover in place; remove it and set it aside in
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Move the screw and spacer inside the SSD housing
 
 With the expansion slot cover removed, locate and remove the screw and spacer near the end of the SSD housing. 
@@ -70,6 +77,13 @@ There are various holes inside the SSD housing that correspond with the various 
 I then placed the spacer over the hole -- it's held in place by three dots, so don't worry about perfectly lining it up or keeping it in place. 
 
 Jason Cipriani/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Insert the SSD and use the mounting screw
 
@@ -120,11 +134,21 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/customize-to-perfection-top-9-settings-for-your-switch/"><u>Customize to Perfection: Top 9 Settings for Your Switch</u></a></li>
+<li><a href="https://fox-access.techidaily.com/forge-funny-frameworks/"><u>Forge Funny Frameworks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-restore-the-missing-msstdfmtdll-component-on-your-pc/"><u>How to Restore the Missing Msstdfmt.dll Component on Your PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-vivo-s17-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Vivo S17 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock On your Apple iPhone 13 mini</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-headphone-solutions-for-switch/"><u>Premium Headphone Solutions for Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrade-your-gaming-rig-not-just-the-graphics/"><u>Upgrade Your Gaming Rig, Not Just the Graphics</u></a></li>
+</ul></div>
+

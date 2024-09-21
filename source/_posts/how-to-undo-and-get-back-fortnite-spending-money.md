@@ -1,0 +1,98 @@
+---
+title: How to Undo and Get Back Fortnite Spending Money
+date: 2024-09-16T20:01:53.507Z
+updated: 2024-09-20T20:07:19.454Z
+tags:
+  - games
+categories:
+  - games
+description: This Article Describes How to Undo and Get Back Fortnite Spending Money
+excerpt: This Article Describes How to Undo and Get Back Fortnite Spending Money
+keywords: Reclaim Fortnite Funds,Reverse Fortnite Purchases,Unlocking Fortnite Credits,Cancel Fortnite Buys,Fortnite Money Refund,Undo Fortnite Spendings,Regain Fortnite Currency
+thumbnail: https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b1c96fbfb8d71b7193c17bd8.jpg
+---
+
+## How to Undo and Get Back Fortnite Spending Money
+
+ Were you tricked into paying for in-game goods in Fortnite? The Federal Trade Commission (FTC) is holding Epic Games accountable. As a result, the gaming giant has agreed to pay a $245 million settlement, which you can get a share of.
+
+ Continue reading to learn how to apply for a refund from Epic Games’ Fortnite FTC settlement​​​​.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## Who Can Apply for a Refund From Epic Games’ Fortnite FTC Settlement?
+
+ In December 2022,[the FTC fined Epic Games $245 million](https://www.makeuseof.com/fornite-creator-epic-games-to-pay-520-million-fine/) for using dark patterns to charge customers for unwanted purchases. In September 2023, the FTC started accepting applications for refunds from affected gamers.
+
+ Not sure if you qualify for a refund? You can apply if you meet any of the following eligibility requirements found on the[FTC Fortnite Refunds web page](https://www.ftc.gov/enforcement/refunds/fortnite-refunds) :
+
+* "You were charged in-game currency for items you didn’t want between January 2017 and September 2022.
+* Your child made charges to your credit card without your knowledge between January 2017 and November 2018.
+* Your account was locked between January 2017 and September 2022 after you complained to your credit card. company about wrongful charges."
+
+ Additionally, you must be based in the US to apply for a refund and at least 18 to apply. If you are under 18, the FTC says that "a parent or guardian must complete the claim form for you".
+
+## How to Apply for a Refund From Epic Games’ Fortnite FTC Settlement
+
+ The FTC started sending emails to Fortnite gamers on September 19, 2023, and will continue to do so through October. Before you apply, ensure you have your claim number or Epic Account ID on hand (this[Epic Games webpage](https://www.epicgames.com/help/en-US/epic-accounts-c5719348850459/general-support-c5719341353627/what-is-an-epic-account-id-and-where-can-i-find-it-a5720265298075) can help). Start by finding your Epic Account ID if you haven't received an email with a claim number from the FTC.
+
+ Once that's sorted, follow the steps below to apply for a refund from Epic Games’ Fortnite FTC settlement:
+
+1. Go to[https://www.fortniterefund.com/File-a-Claim](https://www.fortniterefund.com/File-a-Claim) .
+2. You'll be asked whether you've received a claim number from the FTC. Choose the appropriate answer and click**Next** .
+3. Follow the prompts to complete the application.
+
+![FTC Fortnite settlement application form](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ftc-fortnite-settlement-application-form.jpg)
+
+The deadline for applications is January 17, 2024.
+
+ Please note that submitting an application doesn't guarantee that you'll be refunded. There's also no way of knowing how much you'll be refunded or when you'll receive your refund if your application is approved. The FTC will provide updates about mailing dates in the future.
+
+ For more information about the settlement, email <admin@fortniterefund.com> or call 1-833-915-0880.
+
+## An Epic Win for Fortnite Gamers
+
+ The FTC is calling Epic Games to account for its shady dealings. Finally, affected gamers and parents can receive some justice for what they've experienced at the hands of Fortnite.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-securing-privacy-with-8-advanced-photographic-editors/"><u>2024 Approved Securing Privacy with 8 Advanced Photographic Editors</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-the-best-ranked-cost-free-video-playing-software-for-pc-users-worldwide/"><u>2024 Approved The Best-Ranked, Cost-Free Video Playing Software for PC Users Worldwide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-samsung-galaxy-z-fold-5-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Samsung Galaxy Z Fold 5 PC | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-on-apple-iphone-x-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons On Apple iPhone X? Find the Best Solution Here</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/drivers-downloads-and-step-by-step-setup-instructions/"><u>Drivers Downloads and Step-by-Step Setup Instructions</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-viewing-subscribe-on-prime-gaming/"><u>Elevate Viewing: Subscribe on Prime Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/end-your-steam-auto-subscriptions-quickly/"><u>End Your Steam Auto-Subscriptions Quickly</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/enhancing-user-experience-with-timecodes-in-videos-for-2024/"><u>Enhancing User Experience with Timecodes in Videos for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-your-gaming-commentary-on-steam/"><u>Enhancing Your Gaming Commentary on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/epic-summer-game-sales-ps-edition/"><u>Epic Summer Game Sales: PS Edition</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/from-recordings-to-live-streams-instagram-via-obs-explained/"><u>From Recordings to Live Streams Instagram via OBS Explained</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-verdicts-exposed-5-pitfalls-of-trusting-scores/"><u>Gaming Verdicts Exposed: 5 Pitfalls of Trusting Scores</u></a></li>
+<li><a href="https://games-able.techidaily.com/improving-performance-by-restarting-regularly/"><u>Improving Performance by Restarting Regularly</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/miniscreen-console-vintage-gaming-in-a-packet/"><u>Miniscreen Console: Vintage Gaming in a Packet</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

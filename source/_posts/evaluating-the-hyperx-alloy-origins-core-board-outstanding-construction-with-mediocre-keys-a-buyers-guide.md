@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the HyperX Alloy Origins Core Board: Outstanding Construction with Mediocre Keys - A Buyer's Guide"
-date: 2024-09-18 22:27:45
-updated: 2024-09-20 10:19:17
+date: 2024-09-19T20:23:16.789Z
+updated: 2024-09-20T21:20:52.238Z
 tags:
   - gaming
 categories:
@@ -93,6 +93,13 @@ Most casual gamers wouldn't dive this deep into these settings, but this is a fa
 
 The [Samsung QN90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Tracking-Anti-Glare-Q-Symphony-QN55QN90C%2Fdp%2FB0BTTVBDVD%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca809cba9-2efa-4131-bfb0-67fc93c07357%7Cdtp&dtb=1) TV has a few minor annoyances -- I'm hesitant to call the wobbliness and installation process shortcomings -- but its picture quality in every instance and gaming features more than made up for those. If you're looking for a premium-level TV that does well in any environment with any content, keep this one on your list.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Deals are subject to sell out or expire anytime, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
@@ -118,11 +125,25 @@ Deals are subject to sell out or expire anytime, though ZDNET remains committed 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instawisdom-100-powerful-caption-examples-for-self-expression/"><u>[New] In 2024, InstaWisdom 100 Powerful Caption Examples for Self-Expression</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-step-by-step-from-vimeo-to-engaging-animated-content/"><u>[New] Step-by-Step From Vimeo to Engaging Animated Content</u></a></li>
+<li><a href="https://extra-information.techidaily.com/brush-up-creativity-leading-mac-friendly-free-design-tools/"><u>Brush Up Creativity Leading Mac-Friendly FREE Design Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/comprehensive-tutorial-merging-your-epic-and-steam-accounts/"><u>Comprehensive Tutorial: Merging Your Epic & Steam Accounts</u></a></li>
+<li><a href="https://games-able.techidaily.com/crossover-breaking-down-barriers-for-windows-games-on-applesilicon/"><u>CrossOver: Breaking Down Barriers for Windows Games on AppleSilicon</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-your-apple-iphone-xr-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>How to Unlock Your Apple iPhone XR Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/lean-cloud-archive-efficient-low-cost-large-data-for-2024/"><u>Lean Cloud Archive Efficient, Low-Cost Large Data for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-up-your-game-designs-with-wide-cabinetry-options/"><u>Step Up Your Game Designs with Wide Cabinetry Options!</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-path-to-victory-in-counter-strike-2-for-mac-gamers/"><u>The Path to Victory in Counter-Strike 2 - For Mac Gamers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-threefold-way-to-extract-and-save-youtubes-subtitles-srt/"><u>The Threefold Way to Extract and Save YouTube's Subtitles (SRT)</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-silent-controllers-win-out-on-ps5/"><u>Why Silent Controllers Win Out on PS5</u></a></li>
+</ul></div>
+

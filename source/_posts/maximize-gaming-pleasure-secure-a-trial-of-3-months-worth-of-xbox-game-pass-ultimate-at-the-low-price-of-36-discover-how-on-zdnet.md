@@ -1,7 +1,7 @@
 ---
 title: "Maximize Gaming Pleasure: Secure a Trial of 3 Months' Worth of Xbox Game Pass Ultimate at the Low Price of $36 - Discover How on ZDNET"
-date: 2024-09-18 15:57:40
-updated: 2024-09-20 10:49:48
+date: 2024-09-20T01:59:52.154Z
+updated: 2024-09-20T16:44:45.114Z
 tags:
   - gaming
 categories:
@@ -59,6 +59,13 @@ There's a single screw holding the cover in place; remove it and set it aside in
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Move the screw and spacer inside the SSD housing
 
 With the expansion slot cover removed, locate and remove the screw and spacer near the end of the SSD housing. 
@@ -76,6 +83,19 @@ Jason Cipriani/ZDNET
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -120,11 +140,28 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-capturing-competitive-overwatch-in-minutes/"><u>[New] Capturing Competitive Overwatch in Minutes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transforming-iphone-photos-upside-down-and-sideways-tricks/"><u>[Updated] Transforming iPhone Photos Upside-Down & Sideways Tricks</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/fast-snap-restoration-guide-for-2024/"><u>Fast Snap Restoration Guide for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-plus-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 Plus to other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/keep-silent-no-auto-start-of-steam/"><u>Keep Silent: No Auto-Start of Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfect-partners-the-best-of-companionable-gaming-on-smartphones-top-15-list/"><u>Perfect Partners: The Best of Companionable Gaming on Smartphones (Top 15 List)</u></a></li>
+<li><a href="https://games-able.techidaily.com/quality-gaming-at-a-steal-innocn-39g1r/"><u>Quality Gaming at a Steal: InnoCN 39G1R</u></a></li>
+<li><a href="https://games-able.techidaily.com/re-establishing-online-network-for-steam-on-win11/"><u>Re-Establishing Online Network for Steam on Win11</u></a></li>
+<li><a href="https://games-able.techidaily.com/revive-your-ps4-gamepad-solutions-to-prevalent-control-troubles/"><u>Revive Your PS4 Gamepad: Solutions to Prevalent Control Troubles</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/sky-high-earnings-leveraging-youtube-analytics-and-monetization/"><u>Sky High Earnings Leveraging YouTube Analytics & Monetization</u></a></li>
+<li><a href="https://games-able.techidaily.com/tapping-beats-tablet-versus-mice-dominance/"><u>Tapping Beats: Tablet Versus Mice Dominance</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-sony-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Sony</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-step-by-step-guide-how-to-translate-twitter-video-easily/"><u>Updated In 2024, Step-by-Step Guide How to Translate Twitter Video Easily</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-vivo-v27-pro-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Vivo V27 Pro Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+</ul></div>
+

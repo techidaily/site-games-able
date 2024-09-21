@@ -1,7 +1,7 @@
 ---
 title: "Choosing the Finest 50 TVs of 2024: Insider's Pick List for Optimal Viewing | ZDNET"
-date: 2024-09-18 20:55:18
-updated: 2024-09-20 11:59:40
+date: 2024-09-19T01:35:54.892Z
+updated: 2024-09-20T22:20:29.272Z
 tags:
   - gaming
 categories:
@@ -59,6 +59,13 @@ There's a single screw holding the cover in place; remove it and set it aside in
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Move the screw and spacer inside the SSD housing
 
 With the expansion slot cover removed, locate and remove the screw and spacer near the end of the SSD housing. 
@@ -76,6 +83,13 @@ Jason Cipriani/ZDNET
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -120,11 +134,23 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/ai-powered-best-titles-makers-online/"><u>AI-Powered Best Titles Makers Online</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-balanced-tripods-for-dslr-phone-and-tablet-videos/"><u>Best Balanced Tripods for DSLR, Phone, and Tablet Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-video-recording-gear-guide/"><u>Best Video Recording Gear Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/converting-desktops-to-handheld-steam-link-for-androidios-gaming/"><u>Converting Desktops to Handheld: Steam Link for Android/iOS Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/cutting-edge-comforts-exclusive-reviews-of-top-keyboards/"><u>Cutting-Edge Comforts: Exclusive Reviews of Top Keyboards</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Honor X50 GT? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-oppo-reno-9a-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Oppo Reno 9A</u></a></li>
+<li><a href="https://games-able.techidaily.com/savvy-shoppers-guide-to-vr-headsets/"><u>Savvy Shoppers' Guide to VR Headsets</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-investment-in-sonys-exclusive-playstation-service/"><u>The Investment in Sony's Exclusive PlayStation Service</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Inquiring About Video Memory Specifications
-date: 2024-09-11T16:49:53.738Z
-updated: 2024-09-15T17:02:36.702Z
+date: 2024-09-18T23:40:18.257Z
+updated: 2024-09-20T20:59:37.718Z
 tags:
   - games
 categories:
@@ -54,16 +54,10 @@ thumbnail: https://thmb.techidaily.com/55f69c473ce05e56332fdc0fd3becc5010779e559
  Once again, remember that if you have multiple GPUs or displays, you'll see multiple Display tabs here. This is especially true in the case of laptops, where you might see an additional**Render** tab that will show you the VRAM and other information of your dedicated GPU.
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Using Third-Party Tools
@@ -72,14 +66,20 @@ thumbnail: https://thmb.techidaily.com/55f69c473ce05e56332fdc0fd3becc5010779e559
 
 ![Screenshot showing OpenHardwareMonitor tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/openhardwaremonitor-screenshot.jpg)
 
- Tools like[GPU-Z](https://www.techpowerup.com/gpuz/) ,[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) , and[OpenHardwareMonitor](https://openhardwaremonitor.org/downloads/) are your best friends here. These are lightweight utilities that won't stress your system when running in the background while also providing a lot of information on how specific components function.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Tools like[GPU-Z](https://www.techpowerup.com/gpuz/) ,[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) , and[OpenHardwareMonitor](https://openhardwaremonitor.org/downloads/) are your best friends here. These are lightweight utilities that won't stress your system when running in the background while also providing a lot of information on how specific components function.
 
 ## How to Check VRAM on Linux
 
@@ -124,16 +124,16 @@ sudo apt-get install radeontop`
  There are, of course, other factors that affect these requirements as well. The architecture and generation of your GPU, the type of VRAM, GPU, CPU clock speeds, and even the rest of your computer's hardware can all affect how much VRAM you actually need. If you're building a PC, knowing the[difference between RAM and VRAM](https://www.makeuseof.com/ram-vs-vram-differences/) is also important.
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Knowing Your PC Specs Is Important
@@ -155,18 +155,16 @@ sudo apt-get install radeontop`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-crop-chronicles-the-ultimate-farm-farewell-fest/"><u>[New] 2024 Approved Crop Chronicles The Ultimate Farm Farewell Fest</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-mastering-srt-file-playback-on-both-oses-for-2024/"><u>[Updated] Mastering SRT File Playback on Both OSes for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-tecno-pova-6-pro-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Tecno Pova 6 Pro 5G Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/boost-your-post-with-three-video-border-methods-for-2024/"><u>Boost Your Post with Three Video Border Methods for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/extraordinary-16-multiplayer-gaming-couch-matches/"><u>Extraordinary 16 Multiplayer Gaming Couch Matches</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Honor 90 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-revolutionizing-color-with-the-precision-of-4k-blade-cameras/"><u>In 2024, Revolutionizing Color with the Precision of 4K Blade Cameras</u></a></li>
-<li><a href="https://games-able.techidaily.com/mobile-fun-or-frustration-analyzing-game-pros-and-cons/"><u>Mobile Fun or Frustration? Analyzing Game Pros & Cons</u></a></li>
-<li><a href="https://games-able.techidaily.com/premier-budget-conscious-motherboards-in-whites/"><u>Premier Budget-Conscious Motherboards in Whites</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/-budget-audio-gear-for-online-sensation-hopefuls/"><u>Smart Budget Audio Gear for Online Sensation Hopefuls</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-high-clarity-gaming-mouse-selection/"><u>Ultimate High Clarity Gaming Mouse Selection</u></a></li>
-<li><a href="https://program-issues.techidaily.com/valheims-persistent-pc-issues-solved-avoid-game-crashes-effortlessly/"><u>Valheim's Persistent PC Issues Solved: Avoid Game Crashes Effortlessly</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-controller-sync-up-with-pc-no-hassle-just-play-147-chars/"><u>Xbox Controller Sync-Up with PC - No Hassle, Just Play (147 Chars)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-leading-6-low-cost-superior-4k-tv-projectors-for-2024/"><u>[New] Leading 6 Low-Cost, Superior 4K TV Projectors for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-insiders-tactics-for-creating-gripping-puzzle-posts-on-instagram-for-2024/"><u>[New] The Insider's Tactics for Creating Gripping Puzzle Posts on Instagram for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-your-online-identity-unlocked-establishing-a-new-youtube-chanel-today/"><u>[Updated] Your Online Identity Unlocked Establishing a New YouTube Chanel Today</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-androids-path-to-virtual-reality-tips-and-tricks/"><u>2024 Approved Android's Path to Virtual Reality Tips and Tricks</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovate-and-inspire-computexs-ai-hardware/"><u>Innovate and Inspire: Computex’s AI Hardware</u></a></li>
+<li><a href="https://discover-great.techidaily.com/1725285865318-mp3/"><u>MP3への変換: ニコニコ動画ダウンロードガイド</u></a></li>
+<li><a href="https://games-able.techidaily.com/reimagining-your-presence-riot-game-name-and-tagline-shift/"><u>Reimagining Your Presence: Riot Game Name & Tagline Shift</u></a></li>
+<li><a href="https://win-dash.techidaily.com/resolve-network-issues-access-improved-wireless-drivers-download-now/"><u>Resolve Network Issues: Access Improved Wireless Drivers - Download Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/streams-return-policy-maximizing-your-refund-potential/"><u>Stream's Return Policy: Maximizing Your Refund Potential</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/streamlining-wireless-connectivity-at-home-a-thorough-review-of-the-tp-link-deco-p9-mesh-system/"><u>Streamlining Wireless Connectivity at Home: A Thorough Review of the TP-Link Deco P9 Mesh System</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199681876-winning-against-windows-10-crashes-solve-your-critical-process-died-bsod-errors-permanently/"><u>Winning Against Windows 10 Crashes: Solve Your 'Critical Process Died' BSOD Errors Permanently</u></a></li>
 </ul></div>
 

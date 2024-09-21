@@ -1,7 +1,7 @@
 ---
 title: End of Platform-Locked Titles - A Positive Change
-date: 2024-09-08T17:08:17.203Z
-updated: 2024-09-15T16:26:22.541Z
+date: 2024-09-13T18:42:15.080Z
+updated: 2024-09-21T00:35:22.956Z
 tags:
   - games
 categories:
@@ -64,16 +64,16 @@ thumbnail: https://thmb.techidaily.com/26237c0b8cf6f930c119cd7d58abe423d11d796e2
 
  The same is true for Nintendo, which has released games featuring some of its biggest characters (Mario, Pokemon) on smartphones. The company hasn't yet released a Mario game on a rival console, but that doesn't mean it never will.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why Platform Exclusives Are Going Away
 
 ![horizon forbidden west page on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/horizon-forbidden-west-page-on-steam.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  So, why are platform exclusives coming to an end? The obvious answer is that they're no longer the best option available to the companies responsible. The benefits of opening titles up to everyone, regardless of platform, massively outweigh the benefits of keeping titles exclusive to one console. As outlined above, Phil Spencer, someone who should know, said as much.
 
@@ -87,18 +87,18 @@ thumbnail: https://thmb.techidaily.com/26237c0b8cf6f930c119cd7d58abe423d11d796e2
 
  This is especially true for Microsoft, as Game Pass Ultimate includes[Xbox Cloud Gaming](https://www.makeuseof.com/what-is-xbox-cloud-gaming-how-does-it-work/) . While currently in beta, this lets subscribers play Xbox games on a range of devices beyond Xbox consoles. This includes phones, tablets, PCs, smart TVs, and VR headsets.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why I'm Glad Platform Exclusives Are No More
 
  While gamers have all gotten used to platform exclusivity as a kind of default, that doesn't mean all of us were happy about it. I have owned at least one console in each generation, but couldn't afford to buy the other consoles released in that generation. And that meant missing out on certain games that were only available on specific platforms.
 
 ![The PlayStation icons picked out in neon lights](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/playstation-logos-in-neon.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  mkfilm/[Shutterstock](https://www.shutterstock.com/image-illustration/geometry-neon-lights-room-modern-blue-1933780073)
 
@@ -121,16 +121,18 @@ thumbnail: https://thmb.techidaily.com/26237c0b8cf6f930c119cd7d58abe423d11d796e2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-fix-fixed-no-more-obs-camera-issues-for-2024/"><u>[New] Fix Fixed No More OBS Camera Issues for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/4-apps-to-increase-the-volume-beyond-100-percent-in-windows/"><u>4 Apps to Increase the Volume Beyond 100 Percent in Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-the-ease-of-connecting-your-xbox-controller-to-a-computer-156-chars/"><u>Discover the Ease of Connecting Your Xbox Controller to a Computer (156 Chars)</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/eliminate-youtube-previews-a-comprehensive-instructional-guide-for-2024/"><u>Eliminate YouTube Previews A Comprehensive Instructional Guide for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhance-gameplay-with-internationalized-rom-tweaks/"><u>Enhance Gameplay with Internationalized ROM Tweaks</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Vivo T2 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-oppo-find-x7-ultra-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Oppo Find X7 Ultra Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-v29-pro-phone-without-google-account-by-drfone-android/"><u>How to Unlock Vivo V29 Pro Phone without Google Account?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-from-parts-to-proficiency-assembling-a-powerhouse-4k-video-editor-pc/"><u>In 2024, From Parts to Proficiency Assembling a Powerhouse 4K Video Editor PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-ps5-a-smart-buy-consider-these-4-alternatives/"><u>Is PS5 a Smart Buy? Consider These 4 Alternatives</u></a></li>
-<li><a href="https://games-able.techidaily.com/quick-step-guide-to-enhance-gaming-via-storage-cloning/"><u>Quick-Step Guide to Enhance Gaming via Storage Cloning</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-gigglesome-footage-downloader/"><u>[New] Gigglesome Footage Downloader</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-streamline-your-vlc-experience-best-practices-for-macos/"><u>[New] Streamline Your VLC Experience Best Practices for MacOS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-master-recorder-a-comprehensive-review-of-screen-recording/"><u>[Updated] 2024 Approved Master Recorder A Comprehensive Review of Screen Recording</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/anonymous-footage-blurring-private-sections-in-video-for-2024/"><u>Anonymous Footage Blurring Private Sections in Video for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/breaking-free-overcoming-the-shadowban-phenomenon-for-2024/"><u>Breaking Free Overcoming the Shadowban Phenomenon for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-intels-advantage-in-the-battle-for-quality-gaming/"><u>Exploring Intel's Advantage in the Battle for Quality Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-twosome-style-top-15-companionable-phonesports/"><u>Game On, Twosome Style: Top 15 Companionable Phonesports</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 12 Pro Max</u></a></li>
+<li><a href="https://games-able.techidaily.com/introduction-to-google-play-games-for-windows-users/"><u>Introduction to Google Play Games for Windows Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/restoring-steam-offline-status-on-pc/"><u>Restoring Steam Offline Status on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-7-iosandroid-sports-games-unmatched-excitement/"><u>Top 7 iOS/Android Sports Games: Unmatched Excitement!</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-vistas-top-10-inspirational-yoga-videos/"><u>Yogic Vistas Top 10 Inspirational Yoga Videos</u></a></li>
 </ul></div>
 

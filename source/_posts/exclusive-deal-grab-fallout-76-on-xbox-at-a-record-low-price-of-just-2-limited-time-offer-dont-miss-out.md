@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Deal: Grab Fallout 76 on Xbox at a Record-Low Price of Just $2! Limited Time Offer – Don't Miss Out!"
-date: 2024-09-19 23:59:41
-updated: 2024-09-20 11:48:42
+date: 2024-09-16T20:21:32.003Z
+updated: 2024-09-20T21:16:20.575Z
 tags:
   - gaming
 categories:
@@ -59,6 +59,13 @@ There's a single screw holding the cover in place; remove it and set it aside in
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Move the screw and spacer inside the SSD housing
 
 With the expansion slot cover removed, locate and remove the screw and spacer near the end of the SSD housing. 
@@ -76,6 +83,13 @@ Jason Cipriani/ZDNET
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -120,11 +134,25 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-capturing-competitive-overwatch-in-minutes/"><u>[New] Capturing Competitive Overwatch in Minutes</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ailor-made-edits-customizing-videos-in-studio/"><u>[New] Tailor-Made Edits Customizing Videos in Studio</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-the-power-of-game-mode-in-apples-macos-sonoma-platform/"><u>Discovering the Power of Game Mode in Apple's macOS Sonoma Platform</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-personal-configuration-errors-now-functional/"><u>Fixing Personal Configuration Errors (Now Functional)</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-lava-blaze-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-filing-process-for-player-infractions-in-xbox-games/"><u>The Filing Process for Player Infractions in Xbox Games</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-guide-to-designing-youtube-shorts-templates-for-2024/"><u>The Ultimate Guide to Designing YouTube Shorts Templates for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-hidden-metrics-total-gameplay-hours-on-xbox-series-s/"><u>Unlock Hidden Metrics: Total Gameplay Hours on Xbox Series S</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-future-of-mobility-teslas-robo-taxi-unleashed-launch-details-and-pricing-insights/"><u>Unveiling the Future of Mobility - Tesla's Robo-Taxi Unleashed: Launch Details & Pricing Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-controller-policy-implications-for-player-innovation-and-choice/"><u>Xbox Controller Policy: Implications for Player Innovation and Choice</u></a></li>
+</ul></div>
+

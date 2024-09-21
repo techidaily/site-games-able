@@ -1,7 +1,7 @@
 ---
 title: Five Inventive Jabberwocky Rounds for Humorous Texting
-date: 2024-09-12T16:02:39.977Z
-updated: 2024-09-15T17:22:46.092Z
+date: 2024-09-15T20:41:03.182Z
+updated: 2024-09-20T22:52:17.671Z
 tags:
   - games
 categories:
@@ -61,6 +61,13 @@ Close
 
  Variations of I Spy include giving clues after each negative response to a wrong guess or limiting the number of guesses allowed.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4 Song Lyrics
 
 Close
@@ -70,13 +77,6 @@ Close
  The**Song Lyrics** game plays on that by having one person quote lines from a song to the other via text or in a messaging thread. The other person then has to guess the song the lyrics are from. It helps if this is played with someone you're close to or with whom you share similar music tastes. Because if you choose a metal song, your classical music-loving mother is unlikely to ever guess correctly.
 
  Variations include quoting classic lines from movies or plots from games instead of lyrics from songs. Failure to guess correctly could mean having to phone up and sing the chorus of the song to your opponent. A fate all but the biggest reality TV wannabe would surely want to avoid.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5 Abbreviations
 
@@ -89,16 +89,10 @@ Close
  Variations include giving more than just the first letter of each word, and abbreviating something other than your current activity. Such as what you truly think of the person you are playing against. Whatever variant you play, the key is to steer the guesser in the right direction.
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6 List Builder
@@ -121,13 +115,6 @@ Close
 
  Variations of the game include limiting your surroundings to a house, with the room you're in being the correct answer, or asking which shop in town you are in. You could also change it to**Who Am I With?** by describing the person or people who are there with you instead.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8 Kiss, Marry, Kill
 
 Close
@@ -137,6 +124,13 @@ Close
  One person names three people, be they celebrities or individuals you both know, and asks, "Kiss, Marry, Kill?" The other person then has to determine which of the three they would kiss, which they would marry, and which they would kill. All in jest, you understand. None of the three are actually going to happen.
 
  Variations include dropping certain names into the mix you know will upset your friend. Or changing the question entirely. As long as there are three choices and three names in the mix, the sky's the limit with this one.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9 What If...?
 
@@ -175,18 +169,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-mi-11-mini-your-gateway-to-professional-screen-recording/"><u>[New] Mi 11 Mini Your Gateway to Professional Screen Recording</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fable-creators-circle-a-list-eight/"><u>[Updated] Fable Creators Circle - A-List Eight</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-direct-guide-saving-twitter-videos-on-your-mobile-device/"><u>[Updated] In 2024, Direct Guide Saving Twitter Videos on Your Mobile Device</u></a></li>
-<li><a href="https://games-able.techidaily.com/dive-deeper-why-your-games-shine-with-dxvk-on-windows/"><u>Dive Deeper: Why Your Games Shine with DXVK on Windows</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-your-logitech-g402-mx-optical-mouse-running-download-latest-drivers-and-software/"><u>Get Your Logitech G402 MX Optical Mouse Running: Download Latest Drivers & Software</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-detailed-insights-into-instagrams-video-time-policy/"><u>In 2024, Detailed Insights Into Instagram’s Video Time Policy</u></a></li>
-<li><a href="https://games-able.techidaily.com/mesh-of-past-and-present-old-dock-and-nintendo-switch-oled/"><u>Mesh Of Past and Present: Old Dock & Nintendo Switch OLED</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-list-best-logging-apps-to-boost-your-training-routine-2024-edition/"><u>The Ultimate List: Best Logging Apps to Boost Your Training Routine - 2024 Edition</u></a></li>
-<li><a href="https://video-capture.techidaily.com/top-5-free-screen-recorder-extensions-for-chromebooks/"><u>TOP 5 Free Screen Recorder Extensions for Chromebooks</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-oneplus-ace-2-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from OnePlus Ace 2 Pro to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/transitioning-from-tv-to-triumphant-video-tales/"><u>Transitioning From TV to Triumphant Video Tales</u></a></li>
-<li><a href="https://games-able.techidaily.com/what-to-expect-from-amds-rdna-35-graphics-engine-its-debut/"><u>What to Expect From AMD's RDNA 3.5 Graphics Engine - Its Debut?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/windows-best-video-conferencing-apps-2-1/"><u>Windows' Best Video Conferencing Apps, #2-#1</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2023s-top-social-moment-infographics-for-2024/"><u>[Updated] 2023'S Top Social Moment Infographics for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-rhythmic-rebellion-top-audio-anomaly-apps-for-mobile/"><u>[Updated] Rhythmic Rebellion Top Audio Anomaly Apps for Mobile</u></a></li>
+<li><a href="https://games-able.techidaily.com/decrypting-the-code-integrating-google-play-games-into-windows/"><u>Decrypting the Code: Integrating Google Play Games Into Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/descubra-o-online-free-wmv-a-mp4-conversao-para-computadores-e-smartphones-sem-custo-algum/"><u>Descubra O Online Free WMV a MP4 Conversão Para Computadores E Smartphones – Sem Custo Algum!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-your-usb-webcam-drivers-now-seamless-setup-awaits/"><u>Download Your USB Webcam Drivers Now – Seamless Setup Awaits</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/guide-connecting-ps5-live-streams-with-discord-easy-setup-tips/"><u>Guide: Connecting PS5 Live Streams with Discord - Easy Setup Tips</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6-plus-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 6 Plus to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-vivo-y56-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Vivo Y56 5G</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-ipad-speech-recording-uncovered-top-methods/"><u>In 2024, IPad Speech Recording Uncovered Top Methods</u></a></li>
+<li><a href="https://games-able.techidaily.com/no-more-loopholes-valves-new-refund-rules/"><u>No More Loopholes: Valve's New Refund Rules</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-breakthrough-with-ai-the-science-behind-dlss-update-35/"><u>Nvidia’s Breakthrough with AI: The Science Behind DLSS Update 3.5</u></a></li>
+<li><a href="https://games-able.techidaily.com/refresh-play-joystick-upgrade-for-the-switch/"><u>Refresh Play: Joystick Upgrade for the Switch</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-audio-problems-in-audacity-top-5-fixes-for-sound-device-issues/"><u>Solve Audio Problems in Audacity: Top 5 Fixes for Sound Device Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-tier-high-refresh-rate-panels-for-competitive-gaming-240hz/"><u>Top-Tier, High-Refresh Rate Panels for Competitive Gaming (240Hz)</u></a></li>
+<li><a href="https://games-able.techidaily.com/unmatched-ps5-extras-that-will-impress-gamers/"><u>Unmatched PS5 Extras That Will Impress Gamers</u></a></li>
 </ul></div>
 

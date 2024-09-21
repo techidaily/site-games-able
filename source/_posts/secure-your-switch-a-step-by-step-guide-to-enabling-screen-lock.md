@@ -1,7 +1,7 @@
 ---
 title: "Secure Your Switch: A Step-by-Step Guide to Enabling Screen Lock"
-date: 2024-09-12T16:11:31.732Z
-updated: 2024-09-15T17:08:31.632Z
+date: 2024-09-18T20:14:09.242Z
+updated: 2024-09-20T22:00:50.118Z
 tags:
   - games
 categories:
@@ -66,22 +66,16 @@ Close
 
 ![Switch Parental Control Pop Up](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/Switch-Parental-Control-Pop-Up.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To check if your passcode works, let your Switch run until it reaches the set time limit. Next, attempt to open your games or other software that you have restricted. If you set up your Parental Control passcode correctly, a pop-up saying**you cannot play this software** will appear.
 
 ![Nintendo Switch Time's Up Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/Nintendo-Switch-Times-Up-Button.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To use your Switch freely again, select the**Time's Up** button on the top part of your screen.
 
@@ -91,25 +85,25 @@ Close
 
 ![Switch Disabled Parental Code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/Switch-Disabled-Parental-Code.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you have successfully added the passcode, a pop-up saying**Parental Controls have been temporarily disabled** will appear.
 
 ![NIntendo Switch Time's Up Button Off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/NIntendo-Switch-Times-Up-Button-Off.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To check if you were able to successfully disable your Parental Controls, simply look at the top part of your screen and check if the Time's Up button now shows**Off** instead. All restricted features will then be accessible until the next time that your Switch wakes from sleep mode.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Keep Your Switch Safe
 
@@ -136,17 +130,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-ranking-the-leading-10-pixels-for-free-access/"><u>[New] Ranking the Leading 10 Pixels for Free Access</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-crafting-impressive-videos-with-the-best-methods-for-obs-studio/"><u>[Updated] Crafting Impressive Videos with the Best Methods for OBS Studio</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-direct-transfer-of-youtube-playlists-stepwise-processing-for-2024/"><u>[Updated] Direct Transfer of YouTube Playlists - Stepwise Processing for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-watch-cellular-not-working-how-to-fix-the-problem/"><u>Apple Watch Cellular Not Working? How to Fix The Problem</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/efficiently-capture-whatsapp-chat-a-step-by-step-tutorial/"><u>Efficiently Capture WhatsApp Chat A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-driver-update-guide-for-synaptic-ps2-touchpads-get-started-now/"><u>Effortless Driver Update Guide for Synaptic PS/2 Touchpads - Get Started Now</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-on-iphone-13-pro-smoothly-by-drfone-ios/"><u>How To Remove iCloud On iPhone 13 Pro Smoothly</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Lava Blaze Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/outshine-the-rtx-4060-ti-with-these-gpu-alternatives/"><u>Outshine the RTX 4060 Ti with These GPU Alternatives</u></a></li>
-<li><a href="https://games-able.techidaily.com/setting-up-discord-desktop-app-essential-steps-for-mac-users/"><u>Setting Up Discord Desktop App: Essential Steps for Mac Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-our-selection-8-most-exceptional-book-apps-to-enhance-your-reading-experience/"><u>Unveiling Our Selection: 8 Most Exceptional Book Apps to Enhance Your Reading Experience</u></a></li>
-<li><a href="https://games-able.techidaily.com/vanishing-in-the-gaming-world/"><u>Vanishing in the Gaming World</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-the-ultimate-how-to-on-using-voice-input-in-google-docs/"><u>[New] In 2024, The Ultimate How-To on Using Voice Input in Google Docs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-banishing-black-edges-on-your-youtube-video-for-2024/"><u>[Updated] Banishing Black Edges on Your YouTube Video for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-x90s-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo X90S</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-the-mystery-of-roblox-error-262/"><u>Decoding the Mystery of Roblox Error 262</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-picks-top-10-rated-gopro-cases-revisited-for-2024/"><u>Expert Picks - Top 10 Rated GoPro Cases Revisited for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-telegram-thrived-when-friends-turned-to-other-platforms/"><u>How Telegram Thrived When Friends Turned to Other Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/ideal-eyewear-for-diminished-blue-haze/"><u>Ideal Eyewear for Diminished Blue Haze</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-microsoft-edge-exe-crashes-a-comprehensive-guide/"><u>Resolving Microsoft Edge Exe Crashes: A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/sonys-summer-gaming-extravaganza-essential-picks/"><u>Sony’s Summer Gaming Extravaganza: Essential Picks!</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-tv-viewing-on-xbox-series-xs-with-tailored-vrr-settings/"><u>Streamlining TV Viewing on Xbox Series X|S with Tailored VRR Settings</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Vivo Y56 5G? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-steams-big-picture-interface/"><u>Understanding Steam's Big Picture Interface</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/understanding-stellar-photo-recovery-tool-an-essential-walkthrough-for-windows-users/"><u>Understanding Stellar Photo Recovery Tool: An Essential Walkthrough for Windows Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/valve-revisits-game-sharing-steams-updated-features-release/"><u>Valve Revisits Game Sharing: Steam’s Updated Features Release</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-vs-unauthorized-controllers-the-gamers-battlefront/"><u>Xbox vs Unauthorized Controllers: The Gamer's Battlefront</u></a></li>
 </ul></div>
 

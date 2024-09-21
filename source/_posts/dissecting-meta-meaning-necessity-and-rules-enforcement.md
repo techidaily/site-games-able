@@ -1,7 +1,7 @@
 ---
 title: "Dissecting 'Meta': Meaning, Necessity, and Rules Enforcement"
-date: 2024-09-10T17:13:42.275Z
-updated: 2024-09-15T16:07:17.913Z
+date: 2024-09-17T23:42:12.227Z
+updated: 2024-09-20T23:20:48.061Z
 tags:
   - games
 categories:
@@ -53,13 +53,6 @@ OpenAI / MakeUseOf
 
  At this point, you might be curious where the term meta came from. People sometimes claim that "meta" is an acronym, standing for "most efficient tactic available." There's no evidence of that, though it is a clever example of a "backronym," where people retroactively turn a word into an acronym. Instead, the term likely stemmed from the existing word "meta," which means something that refers to itself. This is because the meta is essentially a game based on a game, where strategies and tactics are devised before a round even starts.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Are Metas Good or Bad for Gaming?
 
 ![woman playing first person shooter on gaming pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/woman-playing-first-person-shooter-on-gaming-pc.jpg)
@@ -69,6 +62,13 @@ OpenAI / MakeUseOf
  You can't define metas as a strictly good or bad thing in gaming. It wholly depends on how the meta develops, and how the developers handle it after it arises.
 
  That's one of the fascinating things about metas. The core game can remain and persist through both good and bad meta changes. Let's look at how a meta can help or hurt a game.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How Metas Can Help Games
 
@@ -93,16 +93,10 @@ OpenAI / MakeUseOf
  Eventually, Dr. Boom got a nerf and the meta re-stabilised itself, but the card was forever deemed a meta-warper by Hearthstone players.
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should You Follow the Meta in Games?
@@ -110,13 +104,6 @@ OpenAI / MakeUseOf
  Because metas aren't strictly good or bad, it's important to know whether or not you should follow them.
 
  Let's look at why you might want to follow along, why you might want to ignore the meta, and how to do so selectively.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Following the Game Meta Can Enhance Your Enjoyment
 
@@ -129,6 +116,13 @@ OpenAI / MakeUseOf
  If you want to dig into the metas of the games you enjoy (or want to learn more about) a great place to start is gaming forums. Check if your game has a dedicated subreddit on reddit.com or elsewhere, like in forums on the developer's website, Steam, or so on. Gaming blogs aren't bad either, but you'll be hard-pressed to find any publication as committed to the meta-analysis of a single game as that game's subreddit.
 
  That's where you'll find people actively discussing, debating, and often complaining about the meta of a given game. You'll have plenty of reading material!
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### But Sometimes Following the Meta Kills the Fun
 
@@ -159,15 +153,15 @@ OpenAI / MakeUseOf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-accelerated-approach-eliminating-signatures-quickly/"><u>[New] Accelerated Approach Eliminating Signatures Quickly</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-concluding-coverage-craftsmanship-for-2024/"><u>[New] Concluding Coverage Craftsmanship for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-become-a-trending-sensation-with-these-effective-youtube-seo-strategies/"><u>[Updated] 2024 Approved Become a Trending Sensation with These Effective YouTube SEO Strategies</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-vimeo-mastery-choosing-between-free-and-paid-video-download-solutions/"><u>[Updated] In 2024, Vimeo Mastery Choosing Between Free and Paid Video-Download Solutions</u></a></li>
-<li><a href="https://games-able.techidaily.com/conquer-unresponsive-steam-by-implementing-troubleshooting-tips/"><u>Conquer Unresponsive Steam by Implementing Troubleshooting Tips</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-tecno-phantom-v-fold-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Tecno Phantom V Fold? Fixed | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ring-360-degree-videos-secure-youtube-uploads/"><u>Mastering 360-Degree Videos Secure YouTube Uploads</u></a></li>
-<li><a href="https://games-able.techidaily.com/miniaturize-your-arcade-archive-with-efficient-chdman-techniques/"><u>Miniaturize Your Arcade Archive with Efficient CHDMAN Techniques</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/smb-social-media-strategies-infographic-guide-for-2024/"><u>SMB Social Media Strategies Infographic Guide for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/wheel-warfare-vs-digital-dashboard-dominance-in-racing-games/"><u>Wheel Warfare Vs. Digital Dashboard Dominance in Racing Games</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-essential-fb-video-plays-top-10-choices/"><u>[New] Essential FB Video Plays Top 10 Choices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-step-by-step-guide-to-hulu-screen-capture-for-various-operating-systems/"><u>[New] Step-by-Step Guide to Hulu Screen Capture for Various Operating Systems</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-simplify-crafting-effective-youtube-subscription-buttons/"><u>[Updated] Simplify Crafting Effective YouTube Subscription Buttons</u></a></li>
+<li><a href="https://games-able.techidaily.com/dispatching-fixed-status-on-roblox-error-262/"><u>Dispatching Fixed Status on Roblox Error 262</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-mastering-youtube-monetization-a-cpm-perspective/"><u>In 2024, Mastering YouTube Monetization A CPM Perspective</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/optical-opinions-ranking-the-best-camera-lenses-1-10-2024-edition/"><u>Optical Opinions Ranking the Best Camera Lenses #1-10, 2024 Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-rectify-incomplete-game-shows-on-egl/"><u>Steps to Rectify Incomplete Game Shows on EGL</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-web-surfing-experience-reducing-networks-delay/"><u>Streamlining Web Surfing Experience: Reducing Network's Delay</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-vivo-x100-pro-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Vivo X100 Pro Screen | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-mouse-right-click-issues-on-windows-10-a-step-by-step-guide/"><u>Troubleshooting Mouse Right-Click Issues on Windows 10: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

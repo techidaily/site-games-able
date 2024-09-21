@@ -1,7 +1,7 @@
 ---
 title: Get Ready for a Television Savings Extravaganza 'S Labor Day - Find the Hottest Deals on ZDNET
-date: 2024-09-17 12:23:36
-updated: 2024-09-20 10:29:14
+date: 2024-09-18T19:14:46.269Z
+updated: 2024-09-21T01:56:44.308Z
 tags:
   - gaming
 categories:
@@ -59,6 +59,13 @@ There's a single screw holding the cover in place; remove it and set it aside in
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Move the screw and spacer inside the SSD housing
 
 With the expansion slot cover removed, locate and remove the screw and spacer near the end of the SSD housing. 
@@ -70,6 +77,13 @@ There are various holes inside the SSD housing that correspond with the various 
 I then placed the spacer over the hole -- it's held in place by three dots, so don't worry about perfectly lining it up or keeping it in place. 
 
 Jason Cipriani/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Insert the SSD and use the mounting screw
 
@@ -120,11 +134,25 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-essential-shortcuts-for-efficient-mac-screen-recording-for-2024/"><u>[New] Essential Shortcuts for Efficient Mac Screen Recording for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-exploring-mycams-video-recording-quality-and-efficiency/"><u>[New] Exploring MyCam's Video Recording Quality and Efficiency</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-revolutionary-alternative-tools-for-fbx-file-capture-for-2024/"><u>[Updated] Revolutionary Alternative Tools for FBX File Capture for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-the-foundations-of-vsco-photo-manipulation/"><u>[Updated] The Foundations of VSCO Photo Manipulation</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-easy-to-use-apps-for-idevice-screen-capturing/"><u>2024 Approved Easy-to-Use Apps for iDevice Screen Capturing</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-learn-to-flip-videos-a-guide-for-instagram-users/"><u>2024 Approved Learn to Flip Videos A Guide for Instagram Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/integrating-vintage-games-with-windows-photo-album/"><u>Integrating Vintage Games with Windows Photo Album</u></a></li>
+<li><a href="https://games-able.techidaily.com/precision-and-speed-balancing-mouse-sensitivity-for-game-dominance/"><u>Precision and Speed: Balancing Mouse Sensitivity for Game Dominance</u></a></li>
+<li><a href="https://facebook.techidaily.com/unhook-spotify-from-your-fb-account-now/"><u>Unhook Spotify From Your FB Account Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-windows-gaming-on-m1-chips-using-crossover-software/"><u>Unlock Windows Gaming on M1 Chips Using Crossover Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/unrivaled-5-reasons-the-timeless-appeal-of-vintage-games/"><u>Unrivaled 5 Reasons: The Timeless Appeal of Vintage Games</u></a></li>
+</ul></div>
+

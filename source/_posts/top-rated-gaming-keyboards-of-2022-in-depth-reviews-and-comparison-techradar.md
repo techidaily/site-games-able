@@ -1,7 +1,7 @@
 ---
 title: "Top Rated Gaming Keyboards of 2022: In-Depth Reviews & Comparison | TechRadar"
-date: 2024-09-19 12:42:26
-updated: 2024-09-20 12:46:31
+date: 2024-09-17T22:28:55.429Z
+updated: 2024-09-20T23:00:35.931Z
 tags:
   - gaming
 categories:
@@ -59,6 +59,19 @@ There's a single screw holding the cover in place; remove it and set it aside in
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Move the screw and spacer inside the SSD housing
 
 With the expansion slot cover removed, locate and remove the screw and spacer near the end of the SSD housing. 
@@ -76,6 +89,13 @@ Jason Cipriani/ZDNET
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -120,11 +140,27 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-direct-youtube-to-dazzling-gif-creation-with-no-downloads/"><u>[New] In 2024, Direct YouTube to Dazzling Gif Creation with No Downloads</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-aural-adventures-discovering-the-top-15-instructional-music-videos/"><u>[Updated] Aural Adventures Discovering the Top 15 Instructional Music Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-flashglimpse-crafter/"><u>2024 Approved FlashGlimpse Crafter</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-the-epson-wf-3520-driver-step-by-step-tutorial-for-pc-users/"><u>Download & Update the Epson WF-3520 Driver - Step by Step Tutorial for PC Users</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-on-your-iphone-15-pro-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password On your iPhone 15 Pro</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/obs-issue-resolved-camera-fix-for-2024/"><u>OBS Issue Resolved - Camera Fix for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/properly-programmed-ideal-configurations-for-switchers/"><u>Properly Programmed: Ideal Configurations for Switchers</u></a></li>
+<li><a href="https://games-able.techidaily.com/redefining-portable-computing-explore-pdw4s-capabilities/"><u>Redefining Portable Computing - Explore PDW4's Capabilities</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/reviving-your-failing-companys-launch-process-insights-success/"><u>Reviving Your Failing Company's Launch Process - Insights Success</u></a></li>
+<li><a href="https://games-able.techidaily.com/smart-buyers-guide-sidestepping-monitor-purchase-slip-ups/"><u>Smart Buyer's Guide: Sidestepping Monitor Purchase Slip-Ups</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-8-parameters-to-weigh-when-upgrading-your-cpu-cooler/"><u>The 8 Parameters to Weigh when Upgrading Your CPU Cooler</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/thrustmaster-t150-mastery-secure-the-right-driver-software-now-for-optimal-performance/"><u>Thrustmaster T150 Mastery - Secure the Right Driver Software Now for Optimal Performance</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-lava-blaze-2-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Lava Blaze 2 Bricked Devices | Dr.fone</u></a></li>
+</ul></div>
+

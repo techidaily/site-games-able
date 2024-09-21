@@ -1,7 +1,7 @@
 ---
 title: "New Era of Gaming: PS5 Slimmer & More Advanced"
-date: 2024-09-14T16:17:20.824Z
-updated: 2024-09-15T16:20:05.203Z
+date: 2024-09-18T00:40:22.515Z
+updated: 2024-09-20T20:08:29.290Z
 tags:
   - games
 categories:
@@ -45,26 +45,26 @@ thumbnail: https://thmb.techidaily.com/5648c434c12cbf88b15506d6d23b8724252689511
 
  Sony has also reduced the weight of the disc edition from 9.9 pounds to 7.05 pounds. The weight of the digital edition has gone down to 5.73 pounds from 8.6 pounds (of course, it will weigh a little more if you attach the disk drive).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Old PS5 vs. New PS5: Attachable Disk Drive
 
 ![the attachable disk drive for the new smaller PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/detachable-disk-drive-for-the-new-smaller-ps5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Image credit:[Sony](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/)
 
  One of the other big changes is that the digital version of the new PS5 has an attachable Ultra HD Blu-ray disc drive. The attachment will cost you $79.99, and it's incompatible with the old digital version. However, it's nice to know that the option exists should you decide to use disks later on​​​​.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Old PS5 vs. New PS5: Specs
@@ -77,13 +77,6 @@ thumbnail: https://thmb.techidaily.com/5648c434c12cbf88b15506d6d23b8724252689511
 
  So that means you'll have over 200GB of extra internal storage space on the new PS5\. You can always upgrade it by[adding an M.2 SSD to the PS5](https://www.makeuseof.com/how-to-add-m2-ssd-ps5-guide/) with more storage space if that's still not enough.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Old PS5 vs. New PS5: Price
 
  The price of the old disc version of the PS5 is $499.99, and the new version will cost the same. The price for the old digital edition is $399.99, while the new one costs $449.99, marking a price increase. Furthermore, once you factor in the price of the disc drive, the digital edition gets even more expensive.
@@ -91,6 +84,13 @@ thumbnail: https://thmb.techidaily.com/5648c434c12cbf88b15506d6d23b8724252689511
 ## Old PS5 vs. New PS5: Stand
 
 ![the horizontal stand for the new smaller ps5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/horizontal-stand-for-the-new-ps5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Image credit:[Sony](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/)
 
@@ -115,20 +115,21 @@ thumbnail: https://thmb.techidaily.com/5648c434c12cbf88b15506d6d23b8724252689511
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-dash.techidaily.com/get-now-official-hp-spectre-x360-driver-downloads-for-windows-operating-system/"><u>[Get Now] Official HP Spectre X360 Driver Downloads for Windows Operating System</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-advanced-recording-software-outshining-fbx-methods-for-2024/"><u>[New] Advanced Recording Software Outshining FBX Methods for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-boosting-channel-success-scaling-for-a-million-viewers-for-2024/"><u>[New] Boosting Channel Success Scaling for a Million Viewers for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-transforming-your-shots-with-ease-in-photoshop/"><u>[New] In 2024, Transforming Your Shots with Ease in Photoshop</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-perfecting-your-makeup-mastery/"><u>[Updated] Perfecting Your Makeup Mastery</u></a></li>
-<li><a href="https://games-able.techidaily.com/daily-practices-for-gaining-ground-against-ny-times-allies/"><u>Daily Practices for Gaining Ground Against NY Times Allies</u></a></li>
-<li><a href="https://games-able.techidaily.com/efficient-excavation-unearthing-best-deals-in-the-steam-realm/"><u>Efficient Excavation: Unearthing Best Deals in the Steam Realm</u></a></li>
-<li><a href="https://games-able.techidaily.com/end-the-cycle-of-game-interruptions-with-these-top-10-solutions/"><u>End the Cycle of Game Interruptions with These Top 10 Solutions</u></a></li>
-<li><a href="https://games-able.techidaily.com/hands-on-gpd-win-4-next-level-gameplay/"><u>Hands On: GPD Win 4, Next Level Gameplay</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/o-snip-and-save-from-youtube-the-ultimate-guide-for-2024/"><u>How to Snip and Save From YouTube The Ultimate Guide for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-vivo-v27-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Vivo V27 to Another | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-xiaomi-redmi-note-13-pro-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Xiaomi Redmi Note 13 Pro 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://games-able.techidaily.com/interactive-learning-playing-and-streaming-steam-games-mobile-friendly/"><u>Interactive Learning: Playing and Streaming Steam Games Mobile-Friendly</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-guide-to-xbox-recording-gear/"><u>Ultimate Guide to Xbox Recording Gear</u></a></li>
-<li><a href="https://games-able.techidaily.com/workstation-vs-gaming-pc-whats-the-difference/"><u>Workstation Vs. Gaming PC: What’s the Difference?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-navigating-facebooks-automatic-video-features/"><u>[New] In 2024, Navigating Facebook's Automatic Video Features</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-capturing-inspiration-ultimate-iphone-skyline-and-landscapes-guide-for-2024/"><u>[Updated] Capturing Inspiration Ultimate iPhone Skyline and Landscapes Guide for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-enhancing-viewers-staying-power-top-6-strategies-for-youtube-success/"><u>[Updated] Enhancing Viewers' Staying Power Top 6 Strategies for YouTube Success</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-essential-tips-for-digital-board-usage-during-web-conferences-on-diverse-devices-for-2024/"><u>[Updated] Essential Tips for Digital Board Usage During Web Conferences on Diverse Devices for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-bulky-to-thin-ps5-evolution-explained/"><u>From Bulky to Thin: PS5 Evolution Explained</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-evolution-post-discontinued-ps-plus-titles/"><u>Game Evolution: Post-Discontinued PS Plus Titles</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-xiaomi-redmi-note-12-pro-4g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Xiaomi Redmi Note 12 Pro 4G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-boosting-engagement-perfect-time-stamping-techniques-for-videos/"><u>In 2024, Boosting Engagement Perfect Time-Stamping Techniques for Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-crop-image-online/"><u>In 2024, How To Crop Image Online?</u></a></li>
+<li><a href="https://games-able.techidaily.com/in-pursuit-of-speed-i-lost-control/"><u>In Pursuit of Speed, I Lost Control</u></a></li>
+<li><a href="https://games-able.techidaily.com/learn-device-vram-statistics-quickly/"><u>Learn Device VRAM Statistics Quickly</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/limitless-video-snipping-program-for-2024/"><u>Limitless Video Snipping Program for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/pinnacle-workspace-flooring-experience/"><u>Pinnacle Workspace Flooring Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/pro-level-gaming-mouse-by-logitech/"><u>Pro-Level Gaming Mouse by Logitech</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-8-must-watch-free-roku-streaming-options/"><u>Top 8 Must-Watch Free Roku Streaming Options</u></a></li>
+<li><a href="https://games-able.techidaily.com/transitioning-between-nintendo-switch-territories/"><u>Transitioning Between Nintendo Switch Territories</u></a></li>
 </ul></div>
 

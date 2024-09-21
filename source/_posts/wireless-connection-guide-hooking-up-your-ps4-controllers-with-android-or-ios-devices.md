@@ -1,7 +1,7 @@
 ---
 title: "Wireless Connection Guide: Hooking Up Your PS4 Controllers with Android or iOS Devices"
-date: 2024-09-18 19:53:50
-updated: 2024-09-20 11:59:45
+date: 2024-09-17T00:34:13.640Z
+updated: 2024-09-20T17:25:37.240Z
 tags:
   - gaming
 categories:
@@ -59,6 +59,13 @@ There's a single screw holding the cover in place; remove it and set it aside in
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Move the screw and spacer inside the SSD housing
 
 With the expansion slot cover removed, locate and remove the screw and spacer near the end of the SSD housing. 
@@ -76,6 +83,13 @@ Jason Cipriani/ZDNET
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -120,11 +134,30 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-efficient-game-recordings-in-the-era-of-win10/"><u>[Updated] In 2024, Efficient Game Recordings in the Era of Win10</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-pro-tips-for-rapidly-creating-effective-subtitles-on-fb/"><u>[Updated] In 2024, Pro Tips for Rapidly Creating Effective Subtitles on FB</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-tap-into-audience-desires-strategies-for-video-templates/"><u>2024 Approved Tap Into Audience Desires Strategies for Video Templates</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-curated-selection-of-top-6-nft-maker-applications/"><u>A Curated Selection of Top 6 NFT Maker Applications</u></a></li>
+<li><a href="https://games-able.techidaily.com/effortless-play-linking-xbox-game-pass-with-steam-and-glossi/"><u>Effortless Play: Linking Xbox Game Pass with Steam & GlosSI</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-mobile-gaming-experience-fortnite-via-streaming-service/"><u>Enhance Mobile Gaming Experience: Fortnite via Streaming Service</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-gaming-experience-mastering-steams-space/"><u>Enhancing Gaming Experience: Mastering Steam's Space</u></a></li>
+<li><a href="https://games-able.techidaily.com/forging-friends-club-making-on-the-new-xbox/"><u>Forging Friends: Club Making on the New Xbox</u></a></li>
+<li><a href="https://games-able.techidaily.com/google-play-passs-unmatched-value-except-for-the-issue/"><u>Google Play Pass's Unmatched Value Except for the Issue</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-5-fastest-indie-film-tips-for-at-home-creators/"><u>In 2024, 5 Fastest Indie Film Tips for At-Home Creators</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-realme-11-pro-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Realme 11 Pro Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://games-able.techidaily.com/installation-simplified-setting-up-launchers-on-steam-devices/"><u>Installation Simplified: Setting Up Launchers on Steam Devices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/radiant-registering-and-unregistering-rites-for-2024/"><u>Radiant Registering and Unregistering Rites for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-friendly-metaverse-gaming/"><u>The Ultimate Guide to Friendly Metaverse Gaming</u></a></li>
+<li><a href="https://ai-video.techidaily.com/updated-how-to-convert-video-voice-to-text-online-for-free/"><u>Updated How To Convert Video Voice to Text Online for Free?</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-higher-fees-seal-my-fate-as-an-ea-free-player/"><u>Why Higher Fees Seal My Fate as an EA-Free Player</u></a></li>
+</ul></div>
+
