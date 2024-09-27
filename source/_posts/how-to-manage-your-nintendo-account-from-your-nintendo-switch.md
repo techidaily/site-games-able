@@ -1,7 +1,7 @@
 ---
 title: How to Manage Your Nintendo Account From Your Nintendo Switch
-date: 2024-09-17T01:51:04.215Z
-updated: 2024-09-20T22:36:00.770Z
+date: 2024-09-22T19:35:40.497Z
+updated: 2024-09-26T16:16:20.260Z
 tags:
   - games
 categories:
@@ -37,9 +37,23 @@ thumbnail: https://thmb.techidaily.com/446c2c83401a2bf43df1ddd12db668c5d64cb21ef
 
  While the account information and options available on your Nintendo Switch may be limited, they still offer useful information or quick and easy ways to deal with subscriptions. But how do you access your Nintendo account options from a Switch?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Manage and Access Your Account Information on Nintendo Switch
 
  There are two main ways you can manage and access your Nintendo account information on your Switch, either through the**System Settings** of your console or the**Nintendo eShop** . However, the options provided by both methods vary.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Access Your Nintendo Account Information on Your Nintendo Switch
 
@@ -48,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/446c2c83401a2bf43df1ddd12db668c5d64cb21ef
 * From the Home screen of your Nintendo Switch, select**System Settings** .
 
 ![A screenshot of the Home screen for a Nintendo Switch with the System Settings option highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2023042110313400-57b4628d2267231d57e0fc1078c0596d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Highlight the options for**User** , and select the user profile linked to your Nintendo account.
 
@@ -62,10 +83,16 @@ thumbnail: https://thmb.techidaily.com/446c2c83401a2bf43df1ddd12db668c5d64cb21ef
  From here, you can enter your Nintendo account password to view your desired account information. However, if you wish to edit information, other methods may be more useful.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Manage the Payment and Subscription for Your Nintendo Account
@@ -82,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/446c2c83401a2bf43df1ddd12db668c5d64cb21ef
 
  From the**Account Information** page, you can edit things like payment methods and your Nintendo eShop funds. And, if you highlight the options for**Nintendo Switch Online** , you can even**Renew** or**Terminate Automatic Renewal** to set up or cancel your subscriptions.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Edit Your Nintendo Account Information
 
  Unfortunately, while you can access and manage some account requirements from your Nintendo Switch, if you want to edit your Nintendo Switch account in more depth, you need to use methods outside your console.
@@ -104,13 +124,6 @@ thumbnail: https://thmb.techidaily.com/446c2c83401a2bf43df1ddd12db668c5d64cb21ef
 
 ![A screenshot of the Sign In and Security Settings for a Nintendo Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sign-in.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Under**Privacy and Other Settings** , you can alter any notifications you receive or information you send regarding things like**Emails from Nintendo** or**Usage Information** by selecting**Change** .
 
 ![A screenshot of the options for Privacy and Other Settings for a Nintendo Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/privacy.jpg)
@@ -118,6 +131,13 @@ thumbnail: https://thmb.techidaily.com/446c2c83401a2bf43df1ddd12db668c5d64cb21ef
 * Or, you can select the**Family Group** tab to add or remove Family members.
 
 ![A screenshot of the Family Group settings available for a Nintendo Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/family.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  And with that, you can alter and edit numerous aspects of your Nintendo account. So, if the options on your Nintendo Switch fail you, you at least have a backup method that may not be as convenient but is sure to address your needs.
 
@@ -140,5 +160,26 @@ thumbnail: https://thmb.techidaily.com/446c2c83401a2bf43df1ddd12db668c5d64cb21ef
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-tap-into-silence-disabling-recommended-content-on-ig/"><u>[New] 2024 Approved Tap Into Silence Disabling Recommended Content on IG</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-skype-the-top-10-audio-capture-tools/"><u>[New] In 2024, Skype The Top 10 Audio Capture Tools</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-master-the-art-of-instagram-live-chats-a-comprehensive-guide/"><u>[New] Master the Art of Instagram Live Chats A Comprehensive Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-streaming-tweets-on-whatsapp-a-2023-guide-for-2024/"><u>[New] Streaming Tweets on WhatsApp A 2023 Guide for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-what-do-podcast-producers-really-make/"><u>[Updated] What Do Podcast Producers Really Make?</u></a></li>
+<li><a href="https://games-able.techidaily.com/chatgpt-and-dungeons-6-secrets-to-perfect-assistantship/"><u>ChatGPT & Dungeons: 6 Secrets to Perfect Assistantship</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-new-ways-to-play-xbox-one/"><u>Discovering New Ways to Play Xbox One</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-your-gaming-experience-with-counter-strike-2-on-a-mac/"><u>Elevating Your Gaming Experience with Counter-Strike 2 on a Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/expecting-more-from-play-understanding-steams-ai-directive/"><u>Expecting More From Play: Understanding Steam's AI Directive</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-nubia-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Nubia?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-swiftly-update-your-intel-nuc-system-with-the-newest-drivers/"><u>How to Swiftly Update Your Intel NUC System with the Newest Drivers</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-monitors-gameplay-at-165hz/"><u>Optimal Monitors: Gameplay at 165Hz</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-vivo-v30-pro-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Vivo V30 Pro Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-issue-when-avatars-frontiers-of-pandora-wont-start/"><u>Solving the Issue When Avatar's 'Frontiers of Pandora' Won't Start</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-the-steam-deck-experience-with-keyboard-settings-optimization/"><u>Streamlining the Steam Deck Experience with Keyboard Settings Optimization</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-peak-performance-elevate-low-fps-on-pc/"><u>Unleash Peak Performance: Elevate Low FPS on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-fixes-for-robloxs-error-262/"><u>Unveiling Fixes for Roblox's Error 262</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-leading-contenders-in-elgato-steam-decks/"><u>Unveiling the Leading Contenders in Elgato Steam Decks</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/user-friendly-strategies-for-handling-problems-with-your-i2c-connected-human-interface-devices-hid-drivers/"><u>User-Friendly Strategies for Handling Problems with Your I2^C-Connected Human Interface Devices (HID) Drivers</u></a></li>
+</ul></div>
 

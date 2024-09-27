@@ -1,7 +1,7 @@
 ---
 title: How to Handle a Malfunctioning Switch Dilemma
-date: 2024-09-16T21:38:55.564Z
-updated: 2024-09-21T02:52:53.963Z
+date: 2024-09-20T19:23:24.644Z
+updated: 2024-09-26T17:22:49.446Z
 tags:
   - games
 categories:
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/a399a44beb5899ba48cdf59ba448623d828236f52
 
  From here, your console serial number and those of the battery and Joy-Con will be displayed on-screen. However, while this method works universally, if your Switch is non-functioning or won't turn on, you'll have to find the serial number by analyzing your console or its original box.
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Check Your Nintendo Switch’s Warranty Status
 
  Now you know the serial number of your Switch, you can move on with checking the warranty status of your console and booking a repair. It's important to check the warranty status of your Switch beforehand as if your console is under warranty, Nintendo will likely repair your console for free.
@@ -55,11 +62,25 @@ thumbnail: https://thmb.techidaily.com/a399a44beb5899ba48cdf59ba448623d828236f52
 
 ![A screenshot of the Check Warranty Status page of the Nintendo Repair Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3058.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Under**Warranty Information** , Nintendo will then provide all the details of your console's warranty status, including whether it is under warranty and the**Warranty Expiration Date** .
 
  Unfortunately, if your console is out of warranty, you will have to pay for the repair of your console. Similarly, screen damage voids the warranty of your Switch, and screen repairs are not covered under the warranty.
 
  However, it may be worth checking some[common fixes for Nintendo Switch problems](https://www.makeuseof.com/fix-nintendo-switch-problems/) before booking a repair. This way, you may avoid any repair fees if your console is out of warranty.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Book Your Nintendo Switch In for a Repair
 
@@ -91,20 +112,14 @@ thumbnail: https://thmb.techidaily.com/a399a44beb5899ba48cdf59ba448623d828236f52
 
 ![A screenshot of the finalized Repair Details for a Nintendo Switch repair via the Nintendo Repair Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3082.jpg)
 
- You will now need to enter any personal information relevant to the repair process and confirm your methods of delivery to and from the repair center. Once this has been completed, you need to pay for the repair. But with the repair paid for and delivery confirmed, you have successfully booked a repair for your Nintendo Switch.
-
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ You will now need to enter any personal information relevant to the repair process and confirm your methods of delivery to and from the repair center. Once this has been completed, you need to pay for the repair. But with the repair paid for and delivery confirmed, you have successfully booked a repair for your Nintendo Switch.
 
 ## Repair Your Nintendo Switch in the Most Effective Way Possible
 
@@ -125,5 +140,20 @@ thumbnail: https://thmb.techidaily.com/a399a44beb5899ba48cdf59ba448623d828236f52
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-skypes-sound-solution-purifying-your-talks/"><u>[Updated] 2024 Approved Skype's Sound Solution Purifying Your Talks</u></a></li>
+<li><a href="https://games-able.techidaily.com/analyzing-the-cost-dynamics-in-game-purchases-on-steam/"><u>Analyzing the Cost Dynamics in Game Purchases on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/apples-game-mode-revolutionizing-mac-gaming-on-sonoma-os/"><u>Apple’s Game Mode – Revolutionizing Mac Gaming on Sonoma OS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/avoid-ai-chatbots-safe-windows-11-key-creation-methods/"><u>Avoid AI Chatbots: Safe Windows 11 Key Creation Methods</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/comprehensive-guide-to-secure-data-destruction-tips-by-stellar/"><u>Comprehensive Guide to Secure Data Destruction - Tips by Stellar</u></a></li>
+<li><a href="https://games-able.techidaily.com/dealing-with-steams-erratic-content-loading/"><u>Dealing with Steam's Erratic Content Loading</u></a></li>
+<li><a href="https://games-able.techidaily.com/identifying-the-most-critical-gaming-mouse-qualities-with-ease/"><u>Identifying the Most Critical Gaming Mouse Qualities with Ease</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-10-comprehensible-and-cost-free-subtitle-downloader-sites/"><u>In 2024, 10 Comprehensible & Cost-Free Subtitle Downloader Sites</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/introduction-to-luts-their-overview-and-benefits/"><u>Introduction to LUTs Their Overview and Benefits</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-directx-compatibility-errors-in-fifa-20-for-a-seamless-gaming-experience/"><u>Resolving DirectX Compatibility Errors in FIFA 20 for a Seamless Gaming Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-definitive-guide-to-gamer-inputs/"><u>The Definitive Guide to Gamer Inputs</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-realme-c53-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Realme C53.</u></a></li>
+<li><a href="https://games-able.techidaily.com/twin-victories-uncovering-the-hottest-two-player-phonesports-top-15/"><u>Twin Victories: Uncovering the Hottest Two-Player Phonesports (Top 15)</u></a></li>
+</ul></div>
 

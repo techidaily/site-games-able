@@ -1,7 +1,7 @@
 ---
 title: Mimic Wii Remote on PC
-date: 2024-09-13T23:13:52.159Z
-updated: 2024-09-20T22:37:30.748Z
+date: 2024-09-25T06:06:33.811Z
+updated: 2024-09-26T20:26:28.125Z
 tags:
   - games
 categories:
@@ -57,11 +57,25 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
 ![Nintendo Button Layout Option Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/nintendo-button-layout-option-steam.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To fully customize your button layout, make your way to Steam’s Big Picture Mode by pressing**View** from the menu along the top and selecting**Big Picture Mode** .
 
  Select the game you want to play with your Classic Nintendo controller and press the**controller icon** on the right to open your controller settings. Select**Enable Steam Input** . This allows you to fully customize your controller’s button layout.
 
 ![Enable Steam Input on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-steam-input-on-steam.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To view your current inputs, select**View Layout** . From this screen, you can see the default button layout, so you know what you’re working with. If there is anything you would like to change, press the B button to go back and then select**Edit Layout** .
 
@@ -71,7 +85,27 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
 ![Changing Controller Button Layout on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/changing-controller-button-layout-on-steam.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Pressing the left and right triggers will switch between keyboard, mouse, or controller inputs to help you decide on what button layout is best for you.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Sit Back, Relax, and Enjoy the Nostalgia
 
@@ -92,12 +126,22 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/2024-approved-exclusive-list-the-best-websites-for-ringtone-grabs/"><u>2024 Approved Exclusive List The Best Websites for Ringtone Grabs</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-profiling-perfection-a-visual-guide/"><u>2024 Approved Profiling Perfection A Visual Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/console-precision-why-30fps-can-be-perfect/"><u>Console Precision: Why 30FPS Can Be Perfect</u></a></li>
+<li><a href="https://techtrends.techidaily.com/crucial-factors-to-evaluate-when-investing-in-a-new-gaming-console/"><u>Crucial Factors To Evaluate When Investing in a New Gaming Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/does-nvidias-latest-update-enhance-the-gaming-experience/"><u>Does Nvidia’s Latest Update Enhance the Gaming Experience?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-unrecognized-devices-in-windows-11-8-or-7-easy-guide/"><u>How To Fix Unrecognized Devices in Windows 11, 8 or 7 - Easy Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-no-cost-memes-made-simple-our-meme-kit/"><u>In 2024, No-Cost Memes Made Simple Our Meme Kit</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-tailoring-battery-choices-for-exceptional-drone-performance/"><u>In 2024, Tailoring Battery Choices for Exceptional Drone Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-gaming-alliances-explained/"><u>Next-Gen Gaming Alliances Explained</u></a></li>
+<li><a href="https://games-able.techidaily.com/preventing-cyberbullying-and-risks-for-young-users-on-discord/"><u>Preventing Cyberbullying and Risks for Young Users on Discord</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-oppo-find-x7-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Oppo Find X7</u></a></li>
+<li><a href="https://games-able.techidaily.com/storing-retro-games-in-windows-11-mypics/"><u>Storing Retro Games in Windows 11 MyPics</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-choice-of-luminous-screen-shields/"><u>Ultimate Choice of Luminous Screen Shields</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wav-to-mp3-mp3-to-wav-conversion-methods-with-windows-media-player/"><u>WAV to MP3 / MP3 to WAV Conversion Methods with Windows Media Player</u></a></li>
+</ul></div>
 

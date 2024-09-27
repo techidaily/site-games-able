@@ -1,7 +1,7 @@
 ---
 title: "Protecting Gaming: Implementing a Password on Your Switch Console"
-date: 2024-09-17T23:54:42.202Z
-updated: 2024-09-20T18:01:23.886Z
+date: 2024-09-25T01:17:53.620Z
+updated: 2024-09-26T23:29:29.829Z
 tags:
   - games
 categories:
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/c64aba238bf38e8dde6a455b091ef6dd75fa774a2
 * Remember that the passcode temporarily disables parental controls, affecting all accounts on the console.
 
  Just because you share a console with someone, doesn't mean they should be able to see everything in your account. Here's how to set up a password (or pin code) on your Nintendo Switch or Switch Lite.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Is a Nintendo Switch Passcode?
 
@@ -67,15 +74,28 @@ Close
 ![Switch Parental Control Pop Up](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/Switch-Parental-Control-Pop-Up.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To check if your passcode works, let your Switch run until it reaches the set time limit. Next, attempt to open your games or other software that you have restricted. If you set up your Parental Control passcode correctly, a pop-up saying**you cannot play this software** will appear.
 
 ![Nintendo Switch Time's Up Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/Nintendo-Switch-Times-Up-Button.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To use your Switch freely again, select the**Time's Up** button on the top part of your screen.
 
@@ -85,22 +105,15 @@ Close
 
 ![Switch Disabled Parental Code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/Switch-Disabled-Parental-Code.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you have successfully added the passcode, a pop-up saying**Parental Controls have been temporarily disabled** will appear.
 
 ![NIntendo Switch Time's Up Button Off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/NIntendo-Switch-Times-Up-Button-Off.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To check if you were able to successfully disable your Parental Controls, simply look at the top part of your screen and check if the Time's Up button now shows**Off** instead. All restricted features will then be accessible until the next time that your Switch wakes from sleep mode.
@@ -128,5 +141,18 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-5-masterful-fluid-interaction-titles/"><u>[New] In 2024, 5 Masterful Fluid Interaction Titles</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-master-the-art-of-fighting-top-5-martial-arts-gaming-experience/"><u>[New] Master the Art of Fighting Top 5 Martial Arts Gaming Experience</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-unlocking-igtv-potential-strategies-for-successful-content/"><u>[Updated] Unlocking IGTV Potential Strategies for Successful Content</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cutting-edge-platform-for-12-video-live-feeds/"><u>Cutting-Edge Platform for 12 Video Live Feeds</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/orchestrating-your-playlists-from-one-to-another/"><u>Orchestrating Your Playlists From One to Another</u></a></li>
+<li><a href="https://games-able.techidaily.com/rejuvenate-play-replacing-your-switchs-joystick/"><u>Rejuvenate Play: Replacing Your Switch's Joystick</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-for-effective-steam-value-exploitation/"><u>Strategies for Effective Steam Value Exploitation</u></a></li>
+<li><a href="https://games-able.techidaily.com/todays-gamers-meet-retro-classics/"><u>Today's Gamers Meet Retro Classics</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-excellence-the-ultimate-guide-to-apple-arcade-games/"><u>Unlock Excellence: The Ultimate Guide to Apple Arcade Games</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-the-potential-of-ai-in-gaming-6-essential-tips-for-using-chatgpt-as-a-writer/"><u>Unlocking the Potential of AI in Gaming - 6 Essential Tips for Using ChatGPT as a Writer</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-is-palworld-everything-you-need-to-know/"><u>What Is Palworld? Everything You Need to Know</u></a></li>
+</ul></div>
 

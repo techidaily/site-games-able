@@ -1,7 +1,7 @@
 ---
 title: "Computex 2024: AI Hardware's New Era Begins"
-date: 2024-09-19T18:29:15.908Z
-updated: 2024-09-20T16:50:48.138Z
+date: 2024-09-26T01:04:41.637Z
+updated: 2024-09-27T07:04:11.782Z
 tags:
   - games
 categories:
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
 
 So, these are the best bits of AI hardware launched at Computex 2024.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Intel Lunar Lake
 
  Laptop chips have been hot business in 2024\. Intel's last generation laptop chips, Meteor Lake, launched in December 2023, featuring a chiplet design and Intel's first NPU, carrying the company into 2024 with aplomb. Then it was Qualcomm's turn to step up to the plate; it very much seized the opportunity with its Snapdragon X Elite chips, coinciding with Microsoft's Copilot+ AI PC platform launch.
@@ -53,6 +60,13 @@ Intel
 
  Aside from the AI side, the most interesting Lunar Lake upgrade is fully integrated memory. Intel Lunar Lake won't ship with specific memory chips. Instead, Intel will integrate 16 or 32GB memory into the chip design, saving space and boosting efficiency.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Nvidia GeForce RTX AI Laptops
 
  Nvidia is the world's leading GPU manufacturer, so it's perfectly positioned as the world transitions to high-end AI processing hardware. Now, Nvidia is launching a new range of "GeForce RTX AI" branded laptops, pushing services that make the most of its Tensor cores.
@@ -64,10 +78,10 @@ Intel
  Interestingly,[Nvidia claims](https://www.nvidia.com/en-gb/geforce/news/computex-2024-new-rtx-ai-laptops/) its RTX AI will deliver a bonkers performance boost over other AI-enabled PCs and laptops, delivering up to 686 TOPS (compared to Lunar Lake's 40+ TOPS). It's an enormous boost that Nvidia attributes to its powerful GPUs, while integrated AI chips like Lunar Lake and Snapdragon X Elite are still bound to and limited by CPUs.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AMD Ryzen AI 300
@@ -77,10 +91,10 @@ Intel
 ![amd ai pc chips npu stats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/amd-ai-pc-chips-npu-stats.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 AMD
@@ -102,5 +116,22 @@ AMD
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-ranking-the-most-rapidly-expanding-youtube-talks-of-inspiration/"><u>[New] 2024 Approved Ranking the Most Rapidly Expanding YouTube Talks of Inspiration</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-assessing-the-video-capacity-of-64gb-drives/"><u>[New] Assessing the Video Capacity of 64Gb Drives</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-reclaim-your-loss-with-these-top-10-iphone-x-hacks/"><u>[Updated] 2024 Approved Reclaim Your Loss with These Top 10 iPhone X Hacks</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-the-art-of-anime-adaptation-jujutsu-kaisens-tiktok-success/"><u>[Updated] 2024 Approved The Art of Anime Adaptation Jujutsu Kaisen's TikTok Success</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-ultimate-guide-to-timing-your-wedding-in-10-top-apps/"><u>2024 Approved Ultimate Guide to Timing Your Wedding, in 10 Top Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719168020295-epic-retro-play-ios-and-nintendo-fusion/"><u>Epic Retro Play: IOS & Nintendo Fusion!</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-steps-to-stream-successfully-with-twitch-app-mobile/"><u>Essential Steps to Stream Successfully with Twitch App (Mobile)</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-isolation-to-alliance-the-art-of-merging-epic-plus-steam/"><u>From Isolation to Alliance: The Art of Merging Epic + Steam</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-samsung-galaxy-a34-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Samsung Galaxy A34 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-tecno-pova-6-pro-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Tecno Pova 6 Pro 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/premier-online-calling-apps-all-free-and-user-friendly/"><u>Premier Online Calling Apps - All Free & User-Friendly</u></a></li>
+<li><a href="https://games-able.techidaily.com/seating-strategy-for-gamers/"><u>Seating Strategy for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-art-of-choosing-prime-games-in-apples-marketplace/"><u>The Art of Choosing Prime Games in Apple's Marketplace</u></a></li>
+<li><a href="https://games-able.techidaily.com/titanium-links-choosing-the-ultimate-gaming-networks/"><u>Titanium Links - Choosing The Ultimate Gaming Networks</u></a></li>
+</ul></div>
 

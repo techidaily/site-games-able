@@ -1,7 +1,7 @@
 ---
 title: Learn Unconventional Ways to Command Your Xbox One
-date: 2024-09-17T02:21:15.813Z
-updated: 2024-09-21T02:32:58.915Z
+date: 2024-09-22T00:52:21.144Z
+updated: 2024-09-27T01:39:07.322Z
 tags:
   - games
 categories:
@@ -47,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/d64a92b374563fd7f8dd564ef2b564a68a3b72b9d
 
 ![Turn on remote features popup on Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/turn-on-remote-features-popup-on-xbox-app.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
 
  On your Xbox One console, you’ll be asked to**Set up remote features** . From there, select**Enable** .
@@ -57,9 +64,23 @@ Close
 
 ![A screenshot of the option to Test Remote Play on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/test-remote-play-on-xbox-series-x.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you pass the test, the Xbox app will automatically detect your console and connect with it. Then, you can remotely play games on your mobile, control your console using the app and manage games on your console, all just by using your smartphone.
 
 ![Living room Xbox on Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/living-room-xbox-on-xbox-app.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Xbox remote control on Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-remote-control-on-xbox-app.jpeg)
 
@@ -86,10 +107,10 @@ Close
 ![xbox digital assistants menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/xbox-enable-digital-assistants.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you haven’t already got it, download and open the respective digital assistant app on your smartphone and add your Xbox console to the app. You can check out our dedicated guides on[how to set up and use Alexa on your Xbox](https://www.makeuseof.com/xbox-series-x-s-how-to-set-up-alexa/) and[how to set up and use Google Assistant on your Xbox](https://www.makeuseof.com/xbox-series-x-s-how-to-set-up-and-use-google-assistant/) for detailed step-by-step instructions on how to achieve this.
@@ -106,14 +127,14 @@ Close
 
 ![Google Home Xbox remote control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-home-xbox-remote-control.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## You Can Now Control and Manage Your Xbox One Even Without a Controller
 
@@ -134,5 +155,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-alternate-avenues-10-great-games-like-gta-v-for-2024/"><u>[New] Alternate Avenues 10 Great Games Like GTA V for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-transform-your-videos-simple-steps-to-include-youtube-subtitlescc/"><u>[New] Transform Your Videos Simple Steps to Include YouTube Subtitles/CC</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-maximize-iphone-imaging-select-accessories-for-professionals/"><u>[Updated] Maximize iPhone Imaging Select Accessories for Professionals</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-captivating-cuts-10-essential-filmora-edits-everyone-loves/"><u>2024 Approved Captivating Cuts 10 Essential Filmora Edits Everyone Loves</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-crafting-professionalism-the-best-practices-for-post-upload-editing/"><u>2024 Approved Crafting Professionalism The Best Practices for Post-Upload Editing</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-skyrocketing-traffic-the-power-of-collaborative-youtube-outros/"><u>2024 Approved Skyrocketing Traffic The Power of Collaborative YouTube Outros</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridge-between-smartphones-and-pc-google-play-games-explained/"><u>Bridge Between Smartphones and PC: Google Play Games Explained</u></a></li>
+<li><a href="https://games-able.techidaily.com/connect-xbox-to-laptop-monitor-for-enhanced-gaming/"><u>Connect Xbox to Laptop Monitor for Enhanced Gaming</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/inside-the-drone-an-in-depth-review-of-dji-phantom-3-pro/"><u>Inside the Drone An In-Depth Review of DJI Phantom 3 Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-ea-play-an-economically-sound-choice/"><u>Is EA Play an Economically Sound Choice?</u></a></li>
+<li><a href="https://games-able.techidaily.com/methods-for-mending-windows-oculus-app-issues/"><u>Methods for Mending Windows Oculus App Issues</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movavis-no-cost-solution-convert-your-caf-videos-into-mp4-format-on-the-web/"><u>Movavi's No-Cost Solution: Convert Your CAF Videos Into MP4 Format On The Web</u></a></li>
+<li><a href="https://games-able.techidaily.com/slash-steams-memory-usage-here-are-5-proven-methods/"><u>Slash Steam's Memory Usage - Here Are 5 Proven Methods</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-game-mouse-checklist-a-focus-on-five-standout-qualities/"><u>The Ultimate Game Mouse Checklist: A Focus on Five Standout Qualities</u></a></li>
+<li><a href="https://games-able.techidaily.com/to-subscribe-or-not-to-subscribe-the-price-dilemnium-of-ea-play/"><u>To Subscribe or Not to Subscribe: The Price Dilemnium of EA Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-the-best-twitch-video-extraction-services-5/"><u>Unraveling the Best Twitch Video Extraction Services #5</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Itel P55 5G | Dr.fone</u></a></li>
+</ul></div>
 

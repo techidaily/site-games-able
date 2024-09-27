@@ -1,7 +1,7 @@
 ---
 title: "Exquisite Selection: Top 6 Multi-Genre Games"
-date: 2024-09-16T21:54:31.101Z
-updated: 2024-09-20T21:26:41.117Z
+date: 2024-09-20T06:13:44.542Z
+updated: 2024-09-27T03:28:40.362Z
 tags:
   - games
 categories:
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/0b81880445efb7746c34685a24a5e53155bfff0ac
 
 **Download** : Among Us on[Steam](https://store.steampowered.com/app/945360/Among%5FUs/) ,[Google Play](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029497/https://play.google.com/store/apps/details?id=com.innersloth.spacemafia) , the[Apple Store](https://apps.apple.com/us/app/among-us/id1351168404) , the[PlayStation Store](https://www.playstation.com/en-us/games/among-us/) , or the[Xbox Store](https://www.xbox.com/en-US/games/store/among-us/9NG07QJNK38J) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Only Up
 
 ![The factory level in Only Up!](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-factory-level-in-only-up.jpg)
@@ -71,16 +78,16 @@ thumbnail: https://thmb.techidaily.com/0b81880445efb7746c34685a24a5e53155bfff0ac
 
 **Download** : Fall Guys on the[Epic Games Store](https://store.epicgames.com/en-US/p/fall-guys) , the[Nintendo Store](https://www.nintendo.com/store/products/fall-guys-switch/) , the[PlayStation Store](https://www.playstation.com/en-us/games/fall-guys-ultimate-knockout/) , or the[Xbox Store](https://www.xbox.com/en-us/games/store/fall-guys/9pmxh5249dg5) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Jump King
 
 ![The beginning of sewers in Jump King](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-beginning-of-sewers-in-jump-king.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Another title under the Foddian genre that gathers curious eyes is Jump King. Jump King is one of the original three that helped develop the Foddian genre, paving the way for games like Only Up!, Bread and Fred, and more.
 
@@ -92,16 +99,16 @@ thumbnail: https://thmb.techidaily.com/0b81880445efb7746c34685a24a5e53155bfff0ac
 
 **Download** : Jump King on[Steam](https://store.steampowered.com/app/1061090/Jump%5FKing/) , the[Nintendo Store](https://www.nintendo.com/store/products/jump-king-switch/) , the[PlayStation Store](https://store.playstation.com/en-us/product/UP3883-CUSA18541%5F00-JUMPKINGPS4US001) , or the[Xbox Store](https://www.xbox.com/en-US/games/store/jump-king/9PNLTX169N7L) .
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Tricky Towers
 
 ![A close game of Tricky Towers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/a-close-game-of-tricky-towers.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Tricky Towers allows you to test your stacking skills against as many as three other players. The shapes are similar to what you would see in Tetris, and the game rewards people who are geometrically perceptive.
 
@@ -115,13 +122,6 @@ thumbnail: https://thmb.techidaily.com/0b81880445efb7746c34685a24a5e53155bfff0ac
 
 **Download** : Tricky Towers on[Steam](https://store.steampowered.com/app/437920/Tricky%5FTowers/) , the[Nintendo Store](https://www.nintendo.com/store/products/tricky-towers-switch/) , the[PlayStation Store](https://www.playstation.com/en-us/games/tricky-towers/) , or the[Xbox Store](https://www.xbox.com/en-US/games/store/tricky-towers/C4FL0L6C09LG) .
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Goose Goose Duck
 
 ![Players voted out of a game of Goose Goose Duck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/players-voted-out-of-a-game-of-goose-goose-duck.jpg)
@@ -133,6 +133,13 @@ thumbnail: https://thmb.techidaily.com/0b81880445efb7746c34685a24a5e53155bfff0ac
  One feature that really takes the game to the next level is the in-built proximity chat. This helps create funnier moments on stream that your viewers will absolutely love. There’s also a lot of content to explore, like intricate maps, unique roles, and exciting game modes.
 
 **Download** : Goose Goose Duck on[Steam](https://store.steampowered.com/app/1568590/Goose%5FGoose%5FDuck/) ,[Google Play](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029497/https://play.google.com/store/apps/details?id=com.Gaggle.fun.GooseGooseDuck&hl=en&gl=US) , or the[Apple Store](https://apps.apple.com/us/app/goose-goose-duck/id1558248707) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Keep Your Viewers Entertained
 
@@ -153,5 +160,21 @@ thumbnail: https://thmb.techidaily.com/0b81880445efb7746c34685a24a5e53155bfff0ac
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-maximize-viewing-experience-best-4k-downloader-apps/"><u>[New] Maximize Viewing Experience Best 4K Downloader Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-idea-to-implementation-guiding-vendors-in-youtube-sponsorships/"><u>[Updated] From Idea to Implementation Guiding Vendors in Youtube Sponsorships</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-stepwise-guide-to-designing-efficient-podcast-rss-feeds/"><u>2024 Approved Stepwise Guide to Designing Efficient Podcast RSS Feeds</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-ranked-4k-uhd-media-viewers-available-at-no-cost/"><u>Best-Ranked 4K UHD Media Viewers Available at No Cost</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-honor-90-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Honor 90 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/connect-and-play-xbox-one-zoom-guidebook/"><u>Connect and Play Xbox One Zoom Guidebook</u></a></li>
+<li><a href="https://games-able.techidaily.com/elgato-stream-decks-recommendations-for-every-budget/"><u>Elgato Stream Decks: Recommendations for Every Budget</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-steam-purchase-anomalies-quickly/"><u>Fixing Steam Purchase Anomalies Quickly</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-vivo-v27e-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Vivo V27e Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/modify-console-background-in-ps5/"><u>Modify Console Background in PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/nintendo-switch-unleashed-the-2p-minecraft-playbook/"><u>Nintendo Switch Unleashed: The 2P Minecraft Playbook</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/razers-kiyo-webcam-complete-overview-for-2024/"><u>Razer's Kiyo Webcam - Complete Overview for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/sprintsecrets-the-fleeting-gameplay-fiesta/"><u>SprintSecrets: The Fleeting Gameplay Fiesta</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-asus-rog-ally-dock-line-up-2024/"><u>Ultimate ASUS ROG Ally Dock Line-Up 2024</u></a></li>
+</ul></div>
 

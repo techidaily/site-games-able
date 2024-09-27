@@ -1,7 +1,7 @@
 ---
 title: Unlocking Game Boy Legends on Your Linux Box
-date: 2024-09-14T00:00:39.123Z
-updated: 2024-09-20T18:45:41.981Z
+date: 2024-09-23T07:37:08.270Z
+updated: 2024-09-27T07:11:58.884Z
 tags:
   - games
 categories:
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/59ebf54bbd2728b1cee67f80e126289c9f6737977
 
  You should only use ROMS you legally own. You can find a huge variety of homebrew Game Boy ROMS at[Homebrew Hub](https://hh.gbdev.io/) .
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Install php-terminal-gameboy-emulator on Linux
 
  Before you install php-terminal-gameboy-emulator, you should first make sure you have PHP installed. To check this, open a terminal and enter:
@@ -83,6 +90,13 @@ Make it executable with:
 
 `sudo mv php-gameboy.phar /usr/local/bin/php-gameboy`
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Play Awesome Game Boy Games in Your Linux Terminal
 
  To start a game with php-terminal-gameboy-emulator, you need to pass the filename of the ROM file as an argument. For instance:
@@ -106,10 +120,10 @@ Make it executable with:
 | M                 | Start            |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Impress Your Friends With php-terminal-gameboy-emulator
@@ -131,5 +145,24 @@ Make it executable with:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-win11s-ultimate-selection-of-free-screen-recording-software-1-5/"><u>[New] 2024 Approved Win11's Ultimate Selection of Free Screen Recording Software #1-5</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-a-thorough-examination-recmeisters-screen-capture-innovations/"><u>[New] A Thorough Examination Recmeister's Screen Capture Innovations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-virtual-horizons-with-meaningful-metaverse-sentiments/"><u>[New] Exploring Virtual Horizons with Meaningful Metaverse Sentiments</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-final-cut-pros-top-effect-enhancers-the-essential-10/"><u>[New] Final Cut Pro's Top Effect Enhancers The Essential 10</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-screen-space-enlargement-on-youtube/"><u>[Updated] Navigating Screen Space Enlargement on YouTube</u></a></li>
+<li><a href="https://extra-information.techidaily.com/assessing-effectiveness-of-reduced-shaking-in-adobe-photos/"><u>Assessing Effectiveness of Reduced Shaking in Adobe Photos</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-8-lite-android-simulators-for-pc-and-mac-gamers/"><u>Essential 8 Lite Android Simulators for PC and Mac Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-insights-for-gamers-6-reasons-to-ignore-high-res-monitors/"><u>Essential Insights for Gamers - 6 Reasons to Ignore High-Res Monitors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/intelligent-engagement-siri-and-chatgpt-for-apple-users/"><u>Intelligent Engagement: Siri & ChatGPT for Apple Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-with-purpose-where-are-the-excellent-discs/"><u>Navigating with Purpose: Where Are the Excellent Discs?</u></a></li>
+<li><a href="https://games-able.techidaily.com/quality-consistency-in-gaming-keys-review-of-keychron-and-lemokey-l3/"><u>Quality Consistency in Gaming Keys: Review of Keychron and Lemokey L3</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722903690173-samsung-soundbar-woes-heres-how-to-bring-it-back-from-the-dead/"><u>Samsung Soundbar Woes? Here's How to Bring It Back From the Dead!</u></a></li>
+<li><a href="https://games-able.techidaily.com/scaling-up-efficient-strategies-for-funding-steam-games/"><u>Scaling Up: Efficient Strategies for Funding Steam Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719166855610-streamline-your-computing-experience-install-nvidia-driver-updates/"><u>Streamline Your Computing Experience – Install Nvidia Driver Updates.</u></a></li>
+<li><a href="https://games-able.techidaily.com/uncovering-java-games-standout-characteristics/"><u>Uncovering Java Games’ Standout Characteristics</u></a></li>
+<li><a href="https://games-able.techidaily.com/uncovering-users-on-steam-efficiently/"><u>Uncovering Users on Steam Efficiently</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/vital-upgrades-to-transform-chatgpt-plugins-store-dynamics/"><u>Vital Upgrades to Transform ChatGPT Plugins Store Dynamics</u></a></li>
+</ul></div>
 

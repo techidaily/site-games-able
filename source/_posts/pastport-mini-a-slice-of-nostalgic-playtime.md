@@ -1,7 +1,7 @@
 ---
 title: "PastPort Mini: A Slice of Nostalgic Playtime"
-date: 2024-09-17T17:58:21.042Z
-updated: 2024-09-20T17:14:33.174Z
+date: 2024-09-21T07:12:07.920Z
+updated: 2024-09-26T22:33:09.692Z
 tags:
   - games
 categories:
@@ -187,6 +187,13 @@ There’s even Nintendo GameCube and Wii support.
 
 ![Retoid Pocket 3+ ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/muo-reviews-retroid-pocket-3-ports.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Behind the 4.7-inch touchscreen display ([750x1334@60fp](mailto:750x1334@60fp) , maximum 450 nits) is the Unisoc Tiger T618 processor, with <2xA75@2.0GHz> and <6xA55@2.0GHz> CPU. The GPU is the Mali G52 MC2, clocked at 850MHz, and the system relies on 4GB LPDDR4x RAM (3733Mbps). Storage is courtesy of a built-in 128GB eMMC 5.1 chip, but you can expand this via the microSD slot.
 
  Other ports include a 720p micro HDMI port, 3.5mm audio port, and a USB Type C port for charging and data. Powering the Retroid Pocket 3+ on the go is a 4500mAh battery, and the device is built into a metal frame for robustness and passive heat dissipation.
@@ -219,6 +226,13 @@ There’s even Nintendo GameCube and Wii support.
 
 ![Retroid Pocket 3+ shoulder buttons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/muo-reviews-retroid-pocket-3-shoulder.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once formatted, the microSD card can be configured with the necessary directories (this takes a single tap), then you can copy your ROMs copied to the platform-specific directory.
 
  You’re not done yet, though, as the individual emulator cores also need installing. This is done in the RetroArch software, which is a lot less attractive than the RetroidLauncher. Once done, however, you specify the ROM file path (required on the first use only), then launch your favorite retro games.
@@ -226,13 +240,6 @@ There’s even Nintendo GameCube and Wii support.
  All sounds like a bit of a chore? Well, the Retroid Pocket 3+ also makes a great Android gaming device. As it has Google Play pre-installed, you can easily find games to play on the device, using the touch screen or (preferably) the controllers.
 
 ![Retroid Pocket 3+ D-pad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/muo-reviews-retroid-pocket-3-d-pad.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’re coming to the Retroid Pocket platform for the first time and want to play old games as quickly as possible, the Android app library is a good option. Various retro classics are available, from key entries in the Sega arcade pantheon to BANDAI NAMCO and Atari classics.
 
@@ -245,10 +252,10 @@ There’s even Nintendo GameCube and Wii support.
 ![RetroidLauncher software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/muo-reviews-retroid-pocket-3-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In short, you have to do the hard work of finding ROMs and transferring them to the console yourself. This, of course, is the ultimate legal get-out for the manufacturer. They don’t distribute ROMs, so they’re not at risk of prosecution for distributing copyrighted games without a license.
@@ -260,28 +267,28 @@ There’s even Nintendo GameCube and Wii support.
 ![R-Type in PC Engine emulator on Retoid Pocket 3+](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/muo-reviews-retroid-pocket-3-rtype-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Meanwhile, you can bang your gaming onto a big-screen TV with the micro HDMI port. The 3.5mm audio port lets you enjoy private gaming soundtracks on the go, too. I also hooked up my Sony Bluetooth earbuds to the Retroid Pocket 3+, a far superior option to the console’s built-in speakers.
 
  The USB-C port has all the usual controller support, and even supports keyboards if required.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Retroid Pocket 3+ Delivers the Ultimate Portable Retro Gaming Experience
 
  I was staggered by the range of emulation platforms available on this console. I had expected late Sega consoles, but I was unprepared for the possibility of PSP and Wii support. (In fact, I’ve heard that some Switch games will also run, but we need to keep quiet about that.)
 
 ![Retroid Pocket 3+ by a pool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/muo-reviews-retroid-pocket-3-pool.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The release of the Retroid Pocket 3+ has proved somewhat controversial in the retro gaming handheld emulation community. To all intents and purposes, it is a Retroid Pocket 3, but with more processing and RAM, and a higher price to match, represents a notable upgrade.
 
@@ -300,5 +307,26 @@ There’s even Nintendo GameCube and Wii support.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/addressing-steam-disconnection-issue-on-pc/"><u>Addressing Steam Disconnection Issue on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/building-a-robust-steam-wallet-investment-guide/"><u>Building a Robust Steam Wallet - Investment Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/cut-out-console-noise-with-ease-on-xbox/"><u>Cut Out Console Noise with Ease on Xbox</u></a></li>
+<li><a href="https://facebook.techidaily.com/envisioning-interconnected-realities-metaverse-insights/"><u>Envisioning Interconnected Realities: Metaverse Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/excellent-gamer-tracking-apps-review/"><u>Excellent Gamer Tracking Apps Review</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-from-apple-iphone-7-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password From Apple iPhone 7</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-mirthful-content-extraction-report/"><u>In 2024, Mirthful Content Extraction Report</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-motorola-edge-40-pro-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Motorola Edge 40 Pro Phone? Unlock It Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/pocketplay-retro-small-screen-large-memories/"><u>PocketPlay Retro: Small Screen, Large Memories</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premier-mobile-and-desktop-mkv-software/"><u>Premier Mobile & Desktop MKV Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/preserving-games-on-disk-efficient-chdman-iso-compression-tips/"><u>Preserving Games on Disk: Efficient CHDMAN ISO Compression Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/should-your-pc-get-an-original-founders-gpu-or-asus-branded-vega/"><u>Should Your PC Get an Original Founder's GPU or Asus-Branded Vega?</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719168126928-space-saving-systems-vs-traditional-workstations-make-your-choice/"><u>Space-Saving Systems Vs. Traditional Workstations: Make Your Choice!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/splitting-vision-assessing-splitcams-camera-excellence-for-2024/"><u>Splitting Vision Assessing SplitCam's Camera Excellence for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-ranked-8-light-virtual-platforms-for-gameplay/"><u>Top-Ranked 8 Light Virtual Platforms for Gameplay</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixing-the-non-functional-microphone-on-your-steelseries-arctis-1/"><u>Troubleshooting: Fixing the Non-Functional Microphone on Your SteelSeries Arctis 1</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlock-new-dimensions-of-your-missing-iphone-x-for-2024/"><u>Unlock New Dimensions of Your Missing iPhone X for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/upgrading-your-laptops-performance-cpu-focus/"><u>Upgrading Your Laptop's Performance: CPU Focus</u></a></li>
+</ul></div>
 

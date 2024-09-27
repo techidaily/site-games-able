@@ -1,7 +1,7 @@
 ---
 title: Friends Unite in These 17 Cross-Platform Gaming Hits
-date: 2024-09-15T00:08:52.468Z
-updated: 2024-09-20T23:47:41.355Z
+date: 2024-09-20T16:27:01.843Z
+updated: 2024-09-26T19:02:14.323Z
 tags:
   - games
 categories:
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/a02a9911f50368d686754fe93fbecd3af42fa7537
  If you have a smaller friend group, you can also try out the[best two-player mobile games](https://www.makeuseof.com/tag/best-two-player-mobile-games/) .
 
 **Download:** Spaceteam for[iOS](https://apps.apple.com/app/spaceteam/id570510529) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.sleepingbeastgames.spaceteam) (Free, in-app purchases available)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Words With Friends 2
 
@@ -71,6 +78,13 @@ The sequel to the acclaimed Words With Friends is more like an update.
 
 **Download:** Minecraft for[iOS](https://apps.apple.com/app/minecraft/id479516143) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.mojang.minecraftpe) ($6.99 \[iOS\], $6.99 \[Android\], in-app purchases available)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Hearthstone
 
  Real-life trading card games are fun, but online trading card games let you do things like summon demons and blow up your booster packs.
@@ -82,16 +96,10 @@ The sequel to the acclaimed Words With Friends is more like an update.
 **Download:** Hearthstone for[iOS](https://apps.apple.com/app/hearthstone/id625257520) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.blizzard.wtcg.hearthstone) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Pokémon Go
@@ -120,31 +128,24 @@ The sequel to the acclaimed Words With Friends is more like an update.
 
 **Download:** Mario Kart Tour for[iOS](https://apps.apple.com/us/app/mario-kart-tour/id1293634699) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.nintendo.zaka) (Free, in-app purchases available)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 10\. Old School RuneScape
 
  Ready to scratch the nostalgia bug with friends? As one of the earliest accessible MMORPGs, many gamers will fondly remember RuneScape. Whether you're ready to fish, mine, or fight, you can resume your adventures in true crossplay form with all of your friends.
 
 **Download:** Old School RuneScape for[iOS](https://apps.apple.com/app/apple-store/id1269648762) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.jagex.oldscape.android) (Free, in-app purchases available)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 11\. League of Legends: Wild Rift
 
  If you've been a fan of Riot Games' League of Legends franchise, taking to the Rift with friends on mobile was previously impossible. While League of Legends: Wild Rift doesn't support crossplay with PC players, Android and iOS users can queue up in duos, trios, or a complete five-person party as you target the enemy's nexus. With Riot's MOBA mobile launch, you can now play a full phone game with your friends.
 
 **Download:** League of Legends: Wild Rift for[iOS](https://apps.apple.com/app/league-of-legends-wild-rift/id1480616990) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.riotgames.league.wildrift) (Free, in-app purchases available)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## More Mobile Games to Play With Friends
 
@@ -163,5 +164,22 @@ The sequel to the acclaimed Words With Friends is more like an update.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-efficient-passport-photography-our-top-10-low-cost-digital-options-for-2024/"><u>[New] Efficient Passport Photography Our Top 10 Low-Cost Digital Options for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-comprehensive-analysis-showmore-and-your-screen-capturing-needs/"><u>[Updated] In 2024, Comprehensive Analysis ShowMore & Your Screen Capturing Needs</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-smooth-watchers-guide-to-pacing-down-videos-on-youtube-60-chars-minor-exception-due-to-title-length-but-provides-rich-context/"><u>[Updated] In 2024, The Smooth Watcher's Guide to Pacing Down Videos on YouTube (60 Chars, Minor Exception Due to Title Length but Provides Rich Context)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtubes-essential-view-total-to-secure-income/"><u>2024 Approved YouTube's Essential View Total to Secure Income</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-newbies-compendium-of-best-cinematography-devices-35mm-pands/"><u>A Newbie's Compendium of Best Cinematography Devices (35Mm-P&S)</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-monarchs-when-size-impedes-innovation-audio-exchange/"><u>Digital Monarchs: When Size Impedes Innovation? [Audio Exchange]</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-why-pc-titles-outshine-consoles/"><u>Discover Why PC Titles Outshine Consoles</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expert-overview-2024s-comprehensive-video-show-app/"><u>Expert Overview 2024'S Comprehensive Video Show App</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-does-nvidias-ai-foundations-shape-the-landscape-for-customized-generative-ai-knowing-your-eligibility/"><u>How Does NVIDIA's AI Foundations Shape the Landscape for Customized Generative AI? Knowing Your Eligibility</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-ditch-premiere-rush-top-alternative-video-editing-software/"><u>New Ditch Premiere Rush Top Alternative Video Editing Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/playstation-lite-a-closer-look-at-sonys-device/"><u>PlayStation Lite: A Closer Look at Sony’s Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/pros-in-the-making-investing-in-high-end-gear/"><u>Pros in the Making: Investing in High-End Gear</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-modern-parents-toolkit-for-securing-online-kids/"><u>The Modern Parent’s Toolkit for Securing Online Kids</u></a></li>
+<li><a href="https://games-able.techidaily.com/thinking-about-ps5-consider-these-flaws/"><u>Thinking About PS5? Consider These Flaws</u></a></li>
+<li><a href="https://techidaily.com/top-8-iphone-14-pro-max-smsmessagetext-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top 8 iPhone 14 Pro Max SMS/Message/Text Recovery Software | Stellar</u></a></li>
+</ul></div>
 

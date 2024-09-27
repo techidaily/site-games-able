@@ -1,7 +1,7 @@
 ---
 title: Seven Clever Conversation Challenges to Send Friends Zap
-date: 2024-09-13T17:04:13.737Z
-updated: 2024-09-20T23:53:56.919Z
+date: 2024-09-19T21:07:05.202Z
+updated: 2024-09-26T18:17:56.594Z
 tags:
   - games
 categories:
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/c8c0a761aab973c79a26bc00df92df723a573173c
 
  If you play these in a messaging app, you're also not limited to just two participants. Suggest playing one of these in a group chat with family or friends, and you suddenly have a multiplayer option open to you.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1 Story Builder
 
 Close
@@ -50,6 +57,13 @@ Close
  One of you thinks of an object or a person, while the other fires questions at them via text or messages. Your "Yes/No" responses help the guesser narrow down the possibilities until they can make an educated guess as to exactly what it is you were thinking of.
 
  Variations include limiting the object being thought of to a particular genre. Or, you can increase/decrease the number of questions the guesser can ask. Feel free to experiment, and take the game in new and interesting ways.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3 I Spy
 
@@ -81,13 +95,6 @@ Close
 
  Variations include giving more than just the first letter of each word, and abbreviating something other than your current activity. Such as what you truly think of the person you are playing against. Whatever variant you play, the key is to steer the guesser in the right direction.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6 List Builder
 
 Close
@@ -97,13 +104,6 @@ Close
 **List Builder** is a competitive game in which each player takes a turn to name something belonging to a particular genre. This could include capital cities, actors from a certain series of movies, or anything else your mind can conjure up. The winner is the last person to successfully add an item to the list. Once someone taps out because they can't think of anything, the game ends.
 
  Variations include going through the alphabet one letter at a time, or requiring the next answer to start with the same letter the last answer ended with.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7 Where Am I?
 
@@ -115,6 +115,13 @@ Close
 
  Variations of the game include limiting your surroundings to a house, with the room you're in being the correct answer, or asking which shop in town you are in. You could also change it to**Who Am I With?** by describing the person or people who are there with you instead.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8 Kiss, Marry, Kill
 
 Close
@@ -125,6 +132,19 @@ Close
 
  Variations include dropping certain names into the mix you know will upset your friend. Or changing the question entirely. As long as there are three choices and three names in the mix, the sky's the limit with this one.
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9 What If...?
 
 Close
@@ -134,13 +154,6 @@ Close
  One of you messages the other a What If? scenario and asks what they would do in that situation. There are no correct or incorrect answers here. It's not only fun to see the responses given, it can also give you an insight into your friend or family member's outlook on life.
 
  Variations include leaving the question open-ended with any answer possible, or giving multiple-choice answers and forcing the other person to choose from one of those.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10 Simple Quiz
 
@@ -167,5 +180,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-how-to-remove-or-replace-the-background-in-logitech-for-2024/"><u>[New] How to Remove or Replace the Background in Logitech for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-quicksnap-pause-and-capture-techniques-for-2024/"><u>[New] QuickSnap Pause & Capture Techniques for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-racing-to-the-top-olympic-highlights-in-short-track-speed/"><u>[Updated] 2024 Approved Racing to the Top Olympic Highlights in Short Track Speed</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-honor-play-8t-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Honor Play 8T Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/clearing-false-payment-failures-on-playstation/"><u>Clearing False Payment Failures on PlayStation</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-androids-best-moba-games-roundup-10-edition/"><u>In 2024, Android's Best MOBA Games Roundup - #10 Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/key-considerations-8-steps-for-optimal-cpu-cooler-purchase/"><u>Key Considerations: 8 Steps for Optimal CPU Cooler Purchase</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-game-crashes-in-mordhau-effective-techniques-revealed/"><u>Overcome Game Crashes in Mordhau - Effective Techniques Revealed</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/seamless-login-utilizing-your-microsoft/"><u>Seamless Login: Utilizing Your Microsoft</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-gbadvance-legends-on-your-idevice-with-leading-simulators/"><u>Unlocking GBAdvance Legends on Your iDevice with Leading Simulators</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-your-pc-potential-through-component-match/"><u>Unlocking Your PC Potential Through Component Match</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Cutting Red Tape: Efficient Profile Management for Switch"
-date: 2024-09-17T16:35:07.377Z
-updated: 2024-09-20T23:34:22.703Z
+date: 2024-09-21T21:27:21.016Z
+updated: 2024-09-26T19:57:52.837Z
 tags:
   - games
 categories:
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/c76014f183cb941dddc5e361ad7d0edd6dead041e
 
  While the account information and options available on your Nintendo Switch may be limited, they still offer useful information or quick and easy ways to deal with subscriptions. But how do you access your Nintendo account options from a Switch?
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Manage and Access Your Account Information on Nintendo Switch
 
  There are two main ways you can manage and access your Nintendo account information on your Switch, either through the**System Settings** of your console or the**Nintendo eShop** . However, the options provided by both methods vary.
@@ -57,15 +64,22 @@ thumbnail: https://thmb.techidaily.com/c76014f183cb941dddc5e361ad7d0edd6dead041e
 
 ![A screenshot of the Nintendo Account settings available through the User options on a Nintendo Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/2023092209552900-57b4628d2267231d57e0fc1078c0596d.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Choose either**View email address** or**View family group members** .
 
  From here, you can enter your Nintendo account password to view your desired account information. However, if you wish to edit information, other methods may be more useful.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Manage the Payment and Subscription for Your Nintendo Account
@@ -82,6 +96,13 @@ thumbnail: https://thmb.techidaily.com/c76014f183cb941dddc5e361ad7d0edd6dead041e
 
  From the**Account Information** page, you can edit things like payment methods and your Nintendo eShop funds. And, if you highlight the options for**Nintendo Switch Online** , you can even**Renew** or**Terminate Automatic Renewal** to set up or cancel your subscriptions.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Edit Your Nintendo Account Information
 
  Unfortunately, while you can access and manage some account requirements from your Nintendo Switch, if you want to edit your Nintendo Switch account in more depth, you need to use methods outside your console.
@@ -97,19 +118,6 @@ thumbnail: https://thmb.techidaily.com/c76014f183cb941dddc5e361ad7d0edd6dead041e
 
 ![A screenshot of the Sign In and Security Settings for a Nintendo Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sign-in.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Under**Privacy and Other Settings** , you can alter any notifications you receive or information you send regarding things like**Emails from Nintendo** or**Usage Information** by selecting**Change** .
 
 ![A screenshot of the options for Privacy and Other Settings for a Nintendo Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/privacy.jpg)
@@ -118,14 +126,14 @@ thumbnail: https://thmb.techidaily.com/c76014f183cb941dddc5e361ad7d0edd6dead041e
 
 ![A screenshot of the Family Group settings available for a Nintendo Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/family.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  And with that, you can alter and edit numerous aspects of your Nintendo account. So, if the options on your Nintendo Switch fail you, you at least have a backup method that may not be as convenient but is sure to address your needs.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alter Your Nintendo Account With Convenience
 
@@ -146,5 +154,24 @@ thumbnail: https://thmb.techidaily.com/c76014f183cb941dddc5e361ad7d0edd6dead041e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-create-animated-bouncing-text/"><u>[Updated] How to Create Animated Bouncing Text</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-elevate-your-gaming-experience-mastering-steam-recordings/"><u>2024 Approved Elevate Your Gaming Experience - Mastering Steam Recordings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-live-stream-champions-clash-pick-your-preferred-software/"><u>2024 Approved Live Stream Champions Clash – Pick Your Preferred Software?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/choosing-your-side-the-claude-vs-chatgpt-ai-comparison-guide/"><u>Choosing Your Side: The Claude Vs. ChatGPT AI Comparison Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/claude-and-chatgpt-showdown-determining-the-top-ai-assistant-for-daily-use/"><u>Claude and ChatGPT Showdown: Determining the Top AI Assistant for Daily Use</u></a></li>
+<li><a href="https://games-able.techidaily.com/conquering-win10win11-graphic-freeze-error-0x887a0006/"><u>Conquering Win10/Win11 Graphic Freeze (Error 0X887A0006)</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-cozy-games-appeal/"><u>Discovering Cozy Games Appeal</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elite-sound-driver-amd-and-windows/"><u>Elite Sound Driver: AMD & Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-list-of-top-hd-video-player-apps-android-for-2024/"><u>Exclusive List of Top HD Video Player Apps, Android for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-novice-to-pro-mobile-twitch-streaming-mastery/"><u>From Novice to Pro: Mobile Twitch Streaming Mastery</u></a></li>
+<li><a href="https://games-able.techidaily.com/innocn-39g1r-high-framerate-monitor-under-500/"><u>InnoCN 39G1R: High Framerate Monitor Under $500</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-game-based-activities-in-discord-servers/"><u>Navigating Game-Based Activities in Discord Servers</u></a></li>
+<li><a href="https://games-able.techidaily.com/speeding-up-digital-communication-reducing-extensive-latency/"><u>Speeding Up Digital Communication: Reducing Extensive Latency</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-picks-for-economical-virtual-reality-experiences/"><u>Top Picks for Economical Virtual Reality Experiences</u></a></li>
+<li><a href="https://games-able.techidaily.com/unseen-dangers-players-as-primary-funders-for-game-devs-work/"><u>Unseen Dangers: Players as Primary Funders for Game Dev's Work</u></a></li>
+<li><a href="https://media-tips.techidaily.com/us-launch-of-tivo-television-units-scheduled-for-next-spring-season/"><u>US Launch of TiVo Television Units Scheduled for Next Spring Season</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/video-posting-made-simple-with-correct-aspect-ratio/"><u>Video Posting Made Simple with Correct Aspect Ratio</u></a></li>
+</ul></div>
 

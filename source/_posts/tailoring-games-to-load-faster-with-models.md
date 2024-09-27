@@ -1,7 +1,7 @@
 ---
 title: Tailoring Games to Load Faster with Models
-date: 2024-09-15T01:20:01.256Z
-updated: 2024-09-21T02:06:39.072Z
+date: 2024-09-23T19:26:37.511Z
+updated: 2024-09-27T04:14:03.512Z
 tags:
   - games
 categories:
@@ -29,6 +29,19 @@ thumbnail: https://thmb.techidaily.com/ce80644caee7b986767dc148a3626afb6dedcf8d3
 
  While a good deal of the work you can do to optimize 3D models for game development is done in your 3D design software, the game engine also gives you opportunities to make your game faster. These methods are easy to put to work, providing a good place to start if you have already begun development on your game.
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Reuse 3D Model Assets
 
  Every 3D model your game loads has a resource cost. This cost isn’t incurred when using a model for a second, third, or fourth time, providing an excellent opportunity to optimize your game without skimping on scenery or objects.
@@ -41,16 +54,16 @@ thumbnail: https://thmb.techidaily.com/ce80644caee7b986767dc148a3626afb6dedcf8d3
 
  Alongside using compressed textures, it’s also worth making sure that the shaders you use are well-optimized. Most game engines have an asset store with both free and paid shaders available to make this easier. You can also find[free 3D models on the Unity Asset Store](https://www.makeuseof.com/unity-free-assets-websites/) that are already optimized, and this applies to other engines, too.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Use Static Lighting
 
  Lighting is by far one of the most resource-hungry operations found in modern 3D games. Calculating reflections on the fly is very costly, but you can bake the lighting in your scene to solve this problem. This prepares the lighting in the scene in advance so that the player doesn’t have to wait for it.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Use Occlusion Culling
 
@@ -62,13 +75,6 @@ thumbnail: https://thmb.techidaily.com/ce80644caee7b986767dc148a3626afb6dedcf8d3
 
  The engine can automatically remove polygons from an object’s mesh when the player is far away, lowering resource costs without impacting immersion.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3D Model Game Optimization: Design Workflow
 
 ![3d designer working at PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3d-designer.jpg)
@@ -78,6 +84,13 @@ thumbnail: https://thmb.techidaily.com/ce80644caee7b986767dc148a3626afb6dedcf8d3
 ### Manual Geometry Optimization
 
 ![monkey model in blender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/manual-3d-optimization.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Optimizing simple geometry by hand is a good way to get used to designing models for video games. You have two main options for removing faces, lines, and vertices in 3D modeling software; deleting and dissolving.
 
@@ -98,10 +111,10 @@ thumbnail: https://thmb.techidaily.com/ce80644caee7b986767dc148a3626afb6dedcf8d3
 * **Additional Software** : Alongside add-ons, you can also find third-party software that can optimize your 3D models for video game development.[Simplygon](https://www.simplygon.com/) is a popular example of this, with a host of tools available that will make your optimization journey easier.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Much Optimization Do 3D Models Need for Game Development?
@@ -121,5 +134,24 @@ thumbnail: https://thmb.techidaily.com/ce80644caee7b986767dc148a3626afb6dedcf8d3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-mastery-of-tasks-with-the-help-of-ez-grabber-for-2024/"><u>[New] Mastery of Tasks with the Help of EZ Grabber for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-steady-snapstreaks-tips-to-never-miss-a-snap/"><u>[New] Steady Snapstreaks Tips to Never Miss a Snap</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tickletech-instant-creation-of-laughter-graphics/"><u>2024 Approved TickleTech Instant Creation of Laughter Graphics</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/become-a-zoom-pro-navigating-the-best-practices-for-snaps-in-snapchat-for-2024/"><u>Become a Zoom Pro Navigating the Best Practices for Snaps in Snapchat for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridge-pc-and-steam-deck-remote-game-casting-basics/"><u>Bridge PC and Steam Deck: Remote Game Casting Basics</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/discover-the-leading-portable-wifi-routers-for-globetrotters-2024-edition/"><u>Discover the Leading Portable WiFi Routers for Globetrotters - 2024 Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-erratic-wireless-signals-on-ps5-console/"><u>Fixing Erratic Wireless Signals on PS5 Console</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-hp-deskjet-ink-advantage-3050a-printer-drivers-downloaded-updates-for-windows-users/"><u>Free HP DeskJet Ink Advantage 3050A Printer Drivers Downloaded: Updates for Windows Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/reinstating-aps-restart-license-on-ps5/"><u>Reinstating Aps: Restart License on PS5</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/share-and-celebrate-with-instagram-videos-for-2024/"><u>Share & Celebrate with Instagram Videos for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-guide-getting-microsoft-store-back-online-after-failure-to-open/"><u>Solution Guide: Getting Microsoft Store Back Online After Failure to Open</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-future-in-your-hands-ifa-2023-displays/"><u>The Future in Your Hands - IFA 2023 Displays</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-checklist-for-joining-notable-discords/"><u>The Ultimate Checklist for Joining Notable Discords</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-devices-into-virtual-arcade-machines-our-4p-emulators/"><u>Transform Your Devices Into Virtual Arcade Machines - Our 4P Emulators</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-potential-self-fix-your-xbox-controllers/"><u>Unleash Potential - Self-Fix Your Xbox Controllers</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-peak-performance-with-our-best-gamers-keyboard-lists/"><u>Unlock Peak Performance with Our Best Gamers' Keyboard Lists</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/windows-11-iso5-windows-11/"><u>Windows 11 リワード版ISOファイル自動復元ツールトップ5 - Windows 11に簡単再生方法</u></a></li>
+</ul></div>
 

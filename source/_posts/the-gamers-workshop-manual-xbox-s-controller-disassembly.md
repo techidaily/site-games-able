@@ -1,7 +1,7 @@
 ---
 title: "The Gamer's Workshop Manual: Xbox S Controller Disassembly"
-date: 2024-09-19T19:56:34.612Z
-updated: 2024-09-21T02:27:35.330Z
+date: 2024-09-22T01:09:18.915Z
+updated: 2024-09-27T02:52:36.432Z
 tags:
   - games
 categories:
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/4fad5dfb068fa17bd11d3278f05324268f19f0e4e
 
  If you're carrying out a complex repair like replacing your thumbsticks, you'll have to go even further and take the daughterboard out as well, as Xbox controllers tend to have two separate PCBs inside. Even[fixing your Xbox controller's drifting issues](https://www.makeuseof.com/xbox-controller-drift/) might require an in-depth teardown.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Equipment Do You Need?
 
  We've already covered[how to take apart your Xbox One controller](https://www.makeuseof.com/how-to-take-apart-an-xbox-one-controller/) , and while the process is largely similar, Xbox Series X|S controllers come with additional circuitry such as the trigger vibration motors which require extra steps. Additionally, Xbox Series X|S controllers come with[Torx Security screws instead of regular Torx screws](https://www.makeuseof.com/torx-screws-vs-torx-security-screws-difference/) , so you'll need the corresponding bits as well.
@@ -45,6 +52,13 @@ Overall, here's everything you need:
 * A pair of tweezers
 
 ![Torx screwdriver bits](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/torx-screwdriver-bits.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In case you don't have the tools required, you can invest in any of the many toolkits[available on Amazon](https://www.amazon.com/Vastar-Screwdriver-Repair-Controller-Cleaning/dp/B07G122BVS?tag=muo-v2-5jqtuqu-20&ascsubtag=UUmuoUeUpU2027960&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fxbox-series-xs-controller-how-to-take-apart%2F&asc%5Fcampaign=Evergreen) for around $10.
 
@@ -68,13 +82,26 @@ Overall, here's everything you need:
 
 ![Xbox Series X|S controller trigger](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/xbox-x-controller-disassembly-6.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In case you're looking to tear down your controller even further, you'll have to remove the two wires for the built-in wireless receiver from the daughterboard before removing the screws that hold it in place. Do keep in mind that going further will require some additional electronics know-how, so don't proceed unless you know what you're doing.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What Can You Do After Taking Apart Your Xbox Series X|S Controller?
@@ -89,13 +116,6 @@ Overall, here's everything you need:
  You can also customize your Xbox Series X|S controller to your heart's content. Since the face buttons will come off once you've removed the motherboard, you can swap them out for a different color or style.
 
  The Xbox button's color can also be changed by putting a thin film of colored plastic under the button when putting the controller back again. Since the front and the back panels are off now, spray-painting them to a different color is also not a bad idea. Do keep in mind though that if your controller is any other color except white, the end result may not be exactly what you expected. However, once all the pieces are out, the sky is the limit.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Xbox Controllers Might Be Hard to Disassemble, but Not Impossible
 
@@ -116,5 +136,24 @@ Overall, here's everything you need:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-effortless-media-transfer-twitter-videos-on-whatsapp/"><u>[New] 2024 Approved Effortless Media Transfer Twitter Videos on WhatsApp</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nlocking-income-streams-from-google-adsense-to-money-matters/"><u>[New] Unlocking Income Streams From Google AdSense to Money Matters</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-eyelaughs-funny-image-generator-for-2024/"><u>[Updated] EyeLaughs Funny Image Generator for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-essential-mac-screen-recorders-top-10-free-list/"><u>[Updated] In 2024, Essential Mac Screen Recorders – Top 10 FREE List</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyerdynamics-mmx-200-a-sound-revolution/"><u>Beyerdynamic's MMX 200: A Sound Revolution</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-a-champion-critical-settings-to-customize-in-fps-games/"><u>Crafting a Champion: Critical Settings to Customize in FPS Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-ps5-fun-key-player-insights/"><u>Enhance PS5 Fun: Key Player Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-gaming-with-chatgpt-the-top-6-titles/"><u>Explore Gaming with ChatGPT: The Top 6 Titles!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-oppo-a1x-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Oppo A1x 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-samsung-galaxy-a34-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Samsung Galaxy A34 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On iPhone 11 Pro Max</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/music-infused-videos-perfecting-sound-with-inshot/"><u>Music-Infused Videos Perfecting Sound with InShot</u></a></li>
+<li><a href="https://games-able.techidaily.com/sonic-boom-rom-gaming-classic-classics-on-iphone/"><u>Sonic Boom ROM Gaming: Classic Classics on iPhone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/steps-towards-a-reliable-nvidia-driver-setup/"><u>Steps Towards a Reliable Nvidia Driver Setup</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-to-prevent-online-predators-on-discord/"><u>Strategies to Prevent Online Predators on Discord</u></a></li>
+<li><a href="https://games-able.techidaily.com/swift-swipes-fast-strokes-discover-7-best-sports-games-iosandroid/"><u>Swift Swipes, Fast Strokes! Discover 7 Best Sports Games (iOS/Android)</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-are-cozy-games-and-why-are-they-so-popular/"><u>What Are Cozy Games and Why Are They So Popular?</u></a></li>
+</ul></div>
 

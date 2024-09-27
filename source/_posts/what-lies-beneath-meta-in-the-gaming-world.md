@@ -1,7 +1,7 @@
 ---
 title: What Lies Beneath 'Meta' In the Gaming World?
-date: 2024-09-13T19:41:38.515Z
-updated: 2024-09-20T23:21:45.299Z
+date: 2024-09-21T16:28:29.476Z
+updated: 2024-09-26T23:11:44.733Z
 tags:
   - games
 categories:
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 * [Are Metas Good or Bad for Gaming?](#are-metas-good-or-bad-for-gaming)
 * [Should You Follow the Meta in Games?](#should-you-follow-the-meta-in-games)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Metas can help keep games fresh and introduce new play methods, benefiting from consistent updates and tweaks.
@@ -33,9 +40,23 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 
  If you've ever played an online game, there's a good chance you've heard of the term "meta." Metas can make or break an online game, but it can be tricky to figure out what, exactly, a meta is. So, let's explore what a meta is and whether you should follow it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is a Meta in Gaming?
 
 ![A group of e-sports players in an arena.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/esport-arena1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 OpenAI / MakeUseOf
 
@@ -63,13 +84,6 @@ OpenAI / MakeUseOf
 
  That's one of the fascinating things about metas. The core game can remain and persist through both good and bad meta changes. Let's look at how a meta can help or hurt a game.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How Metas Can Help Games
 
  Metas can sometimes be seen as "flavors of the month." This is especially true for a game that receives consistent updates that tweak how the game is played. In this way, metas can help keep the game from going "stale" and introduce new play methods.
@@ -81,6 +95,13 @@ OpenAI / MakeUseOf
  Magic the Gathering has the Standard format, where new batches of cards are introduced every six months, and cards become illegal to play in Standard after two years of their release unless it's reprinted. This allows Standard to have a "rotating meta" where there's a flow of new cards coming in and older cards falling out of Standard. Any particularly overpowered or annoying cards are banned.
 
  The end result is a meta that shifts every six months, which keeps Magic the Gathering from getting boring and allows players to find new combos and playstyles with the new cards. And while Magic the Gathering has had its fair share of oppressive metas, they have either been banned or drifted out of Standard. It's a great example of how a game can shed a bad meta, introduce a good one, and keep players happy and engaged.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How Metas Can Harm Games
 
@@ -98,19 +119,6 @@ OpenAI / MakeUseOf
 
  Let's look at why you might want to follow along, why you might want to ignore the meta, and how to do so selectively.
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Following the Game Meta Can Enhance Your Enjoyment
 
  If a meta is healthy and you enjoy playing in it, there's nothing wrong with following it. After all, the meta developed because people found the best way to achieve something within the game.
@@ -122,19 +130,6 @@ OpenAI / MakeUseOf
  If you want to dig into the metas of the games you enjoy (or want to learn more about) a great place to start is gaming forums. Check if your game has a dedicated subreddit on reddit.com or elsewhere, like in forums on the developer's website, Steam, or so on. Gaming blogs aren't bad either, but you'll be hard-pressed to find any publication as committed to the meta-analysis of a single game as that game's subreddit.
 
  That's where you'll find people actively discussing, debating, and often complaining about the meta of a given game. You'll have plenty of reading material!
-
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### But Sometimes Following the Meta Kills the Fun
 
@@ -163,5 +158,22 @@ OpenAI / MakeUseOf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-maximizing-roi-with-targeted-market-research-strategies-for-2024/"><u>[New] Maximizing ROI with Targeted Market Research Strategies for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-strategies-for-harvesting-fb-status-video-archives-for-2024/"><u>[New] Strategies for Harvesting FB Status Video Archives for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/breaking-free-from-frozen-updates-on-outdated-windows-version-expert-advice-solutions-and-step-by-step-guide-for-better-user-experience-in-the-year-of-our-l102/"><u>Breaking Free From Frozen Updates on Outdated Windows Version – Expert Advice, Solutions & Step-by-Step Guide for Better User Experience in the Year of Our Lord Two Thousand And Twenty Four (Guide, Helpful Tips and Troubleshooting Steps)</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-realme-10t-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/effortlessly-access-your-most-watched-fb-movies-post-2023-for-2024/"><u>Effortlessly Access Your Most-Watched FB Movies Post-2023 for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/fact-checking-are-discords-indolence-notifications-accurate/"><u>Fact-Checking: Are Discord's Indolence Notifications Accurate?</u></a></li>
+<li><a href="https://games-able.techidaily.com/fix-for-deficient-assets-issue-in-win-1011/"><u>Fix for Deficient Assets Issue in Win 10/11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/how-the-asus-chromebook-c202sa-stands-up-for-students-and-kids-an-in-depth-durability-analysis/"><u>How the Asus Chromebook C202SA Stands Up for Students and Kids: An In-Depth Durability Analysis</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-poco-x5-pro-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Poco X5 Pro to Protect Your Individual Information</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-iphone-alert-high-memory-usage-by-roblox/"><u>Navigating iPhone Alert: High Memory Usage by Roblox</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-connectors-designed-for-playstation-5-devices/"><u>Ultimate Connectors: Designed for PlayStation 5 Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-sonys-games-for-free-with-psplus/"><u>Unlocking Sony's Games for Free with PS+</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-your-pcs-games-on-steam-deck-with-ease/"><u>Unlocking Your PC's Games on Steam Deck with Ease</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-ultimate-top-tier-nintendo-switch-docks-in-2e2024/"><u>Unveiling the Ultimate: Top-Tier Nintendo Switch Docks in 2E2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-cropping-images-in-fcpx-tips-tricks-and-best-practices/"><u>Updated In 2024, Cropping Images in FCPX Tips, Tricks, and Best Practices</u></a></li>
+</ul></div>
 

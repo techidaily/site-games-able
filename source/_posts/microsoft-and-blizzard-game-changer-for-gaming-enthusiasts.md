@@ -1,7 +1,7 @@
 ---
 title: "Microsoft & Blizzard: Game Changer for Gaming Enthusiasts?"
-date: 2024-09-19T23:22:16.264Z
-updated: 2024-09-20T22:50:25.151Z
+date: 2024-09-25T16:35:22.432Z
+updated: 2024-09-27T02:36:09.440Z
 tags:
   - games
 categories:
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
 
  And with Xbox owning massive Activision/Blizzard franchises, there is also the worry that the deal will enable Xbox to turn multiplatform franchises into Xbox exclusives. And while platform exclusivity is a more nuanced effect of the deal, with specific clauses, there are undoubtedly consequences of such an industry-shaking deal.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Potential Problems the Deal May Cause Gamers
 
  While the deal is good for Xbox as a platform and Xbox gamers, there are many damaging implications for the industry and gamers alike, even if you're a huge Xbox fan.
@@ -47,18 +54,18 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
 
 ![A promotional image highlighting the key art for Starfield](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/starfield.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image Credit:[Bethesda](https://bethesda.net/en/game/starfield)
 
  Worryingly, the Bethesda acquisition was around nine times less than the Activision/Blizzard deal. And with Activision/Blizzard enjoying a massive presence in the gaming industry, titan franchises like Call of Duty and Overwatch could eventually become Xbox exclusives.
 
  Xbox could use Activision/Blizzard exclusivity to monopolize some of gaming's most popular franchises, forcing you to own an Xbox Series X|S as competitors may not be able to sell specific Activision/Blizzard titles.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Both Xbox and PlayStation Are Prioritizing Exclusivity
 
@@ -68,18 +75,18 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
 
 ![A promotional image of God of War Ragnarok depicting a scene from the game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/god-of-war.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image Credit: [PlayStation](https://www.playstation.com/en-us/games/god-of-war-ragnarok/)
 
  The deal creates a precedent for PlayStation to match Xbox's practices as its main rival. And with Xbox and PlayStation vying for further exclusivity, consumer choices narrow, forcing you to pick one platform over another to play certain games.
 
  So, another unfortunate implication of the deal between Microsoft and Activision/Blizzard is the furthering of exclusivity competition between all platforms, restricting your choices as a consumer.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. A Mismanaged Deal Will Result in Higher Priced Games and Services for Consumers
 
@@ -114,10 +121,10 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
  So, while exclusivity may worry you, the deal is unable to affect platform exclusivity for at least 15 years, and even if it goes on to do so, it would only be following pre-established trends within the gaming industry.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Xbox Is Focused on Consumer-Orientated Gaming
@@ -127,6 +134,13 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
  Despite Xbox holding exclusivity on franchises like Halo and owning massive games like Minecraft, Xbox prioritizes allowing you to choose how you play. Halo: The Master Chief Collection is on Steam, and Minecraft is available and cross-compatible on all platforms.
 
 ![A screenshot of the loading screen for Halo The Master Chief Collection on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/halo-the-master-chief-collection-loading-screen.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Along with multiple generations of backwards compatibility for Xbox consoles and Xbox All Access,[Xbox is one of the most consumer-friendly platforms](https://www.makeuseof.com/ways-microsoft-has-made-the-xbox-series-xs-the-most-consumer-friendly-console/) in gaming. Acquiring Activision/Blizzard spreads Xbox's pro-consumer values to Activision/Blizzard titles.
 
@@ -147,13 +161,6 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
  Brad Smith also cited how PlayStation, at the time of the discussions, had 286 exclusive games and Xbox only had 59 to back up his statements. So, while you may be justifiably worried about the deal's implications, you could see the acquisition as simply allowing Xbox to catch up to PlayStation.
 
  Even with the acquisition of Activision/Blizzard, it may be more likely that competition between Xbox and PlayStation would increase instead of the industry being monopolized.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Acquisition of Activision/Blizzard by Xbox Improves Competition
 
@@ -176,5 +183,21 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-easy-implementation-of-snap-camera-on-ms-teams/"><u>[New] 2024 Approved Easy Implementation of Snap Camera on MS Teams</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-building-a-powerful-twitter-marketing-strategy/"><u>[New] In 2024, Building a Powerful Twitter Marketing Strategy</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-5-rapid-steps-unearthing-disappeared-reddit-posts/"><u>[Updated] 5 Rapid Steps Unearthing Disappeared Reddit Posts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-comprehending-the-basics-of-whatsapp-calls-for-2024/"><u>[Updated] Comprehending the Basics of WhatsApp Calls for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unmatched-video-upload-aides-to-twitter/"><u>[Updated] Unmatched Video Upload Aides to Twitter</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-lava-yuva-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-nostalgia-segas-dreamcatcher-experience-for-android-users/"><u>Digital Nostalgia: Sega's Dreamcatcher Experience for Android Users</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-13t-pro-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does 13T Pro has native HEVC support?</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-play-streamlining-epic-and-gog-games-on-steam-deck/"><u>Mastering the Art of Play: Streamlining Epic & GOG Games on Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/playing-the-good-old-days-using-emudeck-on-your-steam-deck/"><u>Playing the Good Old Days: Using EmuDeck on Your Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-storage-upgrades-ps5-edition/"><u>Prime Storage Upgrades: PS5 Edition</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlock-professional-quality-passport-portraits-with-these-10-apps-for-2024/"><u>Unlock Professional-Quality Passport Portraits with These 10 Apps for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/value-in-caps-lock-budget-savvy-membrane-options/"><u>Value in Caps Lock: Budget-Savvy Membrane Options</u></a></li>
+<li><a href="https://games-able.techidaily.com/yearly-review-top-rated-steam-deck-housings-24/"><u>Yearly Review: Top-Rated Steam Deck Housings '24</u></a></li>
+</ul></div>
 

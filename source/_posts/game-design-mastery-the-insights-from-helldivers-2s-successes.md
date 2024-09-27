@@ -1,7 +1,7 @@
 ---
 title: "Game Design Mastery: The Insights From Helldivers 2'S Successes"
-date: 2024-09-20T01:35:44.624Z
-updated: 2024-09-21T02:30:20.832Z
+date: 2024-09-22T08:08:46.413Z
+updated: 2024-09-26T18:37:22.440Z
 tags:
   - games
 categories:
@@ -54,13 +54,20 @@ thumbnail: https://thmb.techidaily.com/dd8665fd574b8b8849bc905e8ab75258e662c1b7c
 
 ![Screenshot of Helldivers 2 Warbond menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0415451.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The game was faced with alienating a large portion of its player base, but its willingness to reverse its decision got it back on track.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3 Have A Strong Social Media Presence
@@ -70,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/dd8665fd574b8b8849bc905e8ab75258e662c1b7c
  Helldivers 2 also has a[Discord server](https://discord.com/invite/zbbZ5rNcuK) with almost 1 million members, where players receive updates from the game's developers. During the Sony PSN linking debacle, development leads updated the game's player base amid ongoing negotiations with Sony.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4 Offer Community Challenges
@@ -83,13 +90,6 @@ thumbnail: https://thmb.techidaily.com/dd8665fd574b8b8849bc905e8ab75258e662c1b7c
  Helldivers 2 also succeeded in creating a sense of community through weekly challenges known as Major Orders. One recent Major Order required the game's player base to kill 2 million Terminids to receive in-game currency called medals.
 
  The game's developers put out new Major Orders every week to engage the community. The community is not guaranteed to pass each Major Order, making it a challenge for the entire player base. Each mission in Helldivers 2 that a player participates in adds to the progress of the Major Order, making the success of the mission entirely based on community progress.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5 Have a Free Progression System
 
@@ -101,18 +101,25 @@ thumbnail: https://thmb.techidaily.com/dd8665fd574b8b8849bc905e8ab75258e662c1b7c
 
 ![Screenshot of Helldivers 2 Super Credits store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0415072.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  There are also samples scattered across each mission depending on the difficulty level. Players can trade in these samples to upgrade their ships and stratagems, which are mission call-ins and weapons, such as airstrikes and turrets. Finally, requisition slips pop up, which players earn by completing missions or locating points of interest on the map, which unlock new stratagems.
 
 ![Screenshot of Helldivers 2 strategem menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0415051.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  There are plenty of other[live service games that are not pay-to-win](https://www.makeuseof.com/live-service-games-that-arent-pay-to-win/) , as well, including Fortnite and Smite.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6 Balance Gameplay Mechanics
 
@@ -139,5 +146,18 @@ thumbnail: https://thmb.techidaily.com/dd8665fd574b8b8849bc905e8ab75258e662c1b7c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-asus-rog-phone-7-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/clearing-glitches-mastery-of-ps5-gamepad-restart/"><u>Clearing Glitches: Mastery of PS5 Gamepad Restart</u></a></li>
+<li><a href="https://games-able.techidaily.com/counteracting-steams-reacquire-data-alert/"><u>Counteracting Steam's Reacquire Data Alert</u></a></li>
+<li><a href="https://games-able.techidaily.com/cross-platform-playmates-top-15-friendly-games-to-share/"><u>Cross-Platform Playmates: Top 15 Friendly Games to Share</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/dealing-with-dormant-printers/"><u>Dealing with Dormant Printers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pro-tips-transforming-mundane-footage-into-epic-gopro-time-lapses/"><u>In 2024, Pro Tips Transforming Mundane Footage Into Epic GoPro Time-Lapses</u></a></li>
+<li><a href="https://games-able.techidaily.com/propel-your-playstation-experience-top-9-game-changing-additions/"><u>Propel Your PlayStation Experience: Top 9 Game-Changing Additions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revealed-the-new-amd-epyc-5-128-core-processor-with-impressive-512mb-l3-caching-capabilities/"><u>Revealed: The New AMD EPYC 5 128-Core Processor with Impressive 512MB L3 Caching Capabilities</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-solution-what-to-do-when-your-airplay-device-fails/"><u>Step-by-Step Solution: What To Do When Your AirPlay Device Fails</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-to-counteract-sagging-monitor-panels/"><u>Strategies to Counteract Sagging Monitor Panels</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-15-sites-for-free-music-downloads/"><u>Top 15 Sites for Free Music Downloads</u></a></li>
+</ul></div>
 

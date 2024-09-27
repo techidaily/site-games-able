@@ -1,7 +1,7 @@
 ---
 title: "Take Control: Fixing and Upgrading Xbox Joysticks"
-date: 2024-09-19T01:02:55.286Z
-updated: 2024-09-20T22:24:04.834Z
+date: 2024-09-20T04:35:24.707Z
+updated: 2024-09-26T18:41:45.740Z
 tags:
   - games
 categories:
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/38a10dded96ded9495ccb2173f240c20a69acb6b4
 
  This is mainly helpful to gamers with older controllers that are out of warranty. If your controller is still under warranty, sending it back for a free repair or replacement would be cheaper and easier. But if you do feel like you want to have a go yourself, Xbox has announced that opening up your controller to fix it will not void the warranty as long as no damage is done during the process.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Get Started Fixing Your Own Xbox Controller
 
  If your controller is playing up, and you want to fix it yourself, head to Microsoft's website (linked above) and purchase the replacement parts you need. For any technical difficulties, you will need to pick up the PCBA and motor assembly kit. Picking up replacement shells and buttons will most likely be optional unless the outer casing has sustained significant damage.
@@ -42,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/38a10dded96ded9495ccb2173f240c20a69acb6b4
  Unless you are already well-versed in the inner workings of a video game controller, you are probably going to want to check out one of Xbox’s free tutorials to walk you through the job. Even if you are experienced, it can’t hurt to freshen up your memory before cracking open your controller and fiddling around in there. Luckily for those who are keen to learn this handy new skill,[Xbox Support](https://support.xbox.com/en-us/help/hardware-network/warranty-service/xbox-self-repair) has provided both written instructions for the repair and a YouTube tutorial for visual learners, which you can view above.
 
  If Xbox's tutorials aren't doing the trick for you, you can also learn a variety of repair techniques like[how to fix your drifting Xbox controller](https://www.makeuseof.com/xbox-controller-drift/) or[how to open your Xbox Series X|S Controller](https://www.makeuseof.com/xbox-series-xs-controller-how-to-take-apart/) from our very own experts.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why You Should Fix Your Own Xbox Controller
 
@@ -53,15 +67,28 @@ thumbnail: https://thmb.techidaily.com/38a10dded96ded9495ccb2173f240c20a69acb6b4
 
 ![Close up of Xbox Wireless Controller Remix Edition on a Leafy Background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/close-up-of-xbox-wireless-controller-remix-edition-on-a-leafy-background.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image Credit:[Xbox](https://www.xbox.com/en-us/accessories/controllers/remix-special-edition#regrind)
 
  Inspiring gamers to recycle and reuse their old controllers instead of throwing them out to buy new ones is yet another eco-friendly step in the right direction for Xbox.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Reuse, Recycle, Replay
@@ -83,5 +110,22 @@ thumbnail: https://thmb.techidaily.com/38a10dded96ded9495ccb2173f240c20a69acb6b4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-add-edge-to-insta-videos-a-trifecta-guide-for-2024/"><u>[New] Add Edge to Insta Videos - A Trifecta Guide for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exquisite-desktop-pcs-the-best-of-the-best/"><u>[New] Exquisite Desktop PCs The Best of the Best</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-incredible-method-unlock-mac-using-apple-watch/"><u>[New] Incredible Method Unlock Mac Using Apple Watch</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-music-enhanced-imagery-web-edition/"><u>[New] Music-Enhanced Imagery Web Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transform-your-streams-best-4k-video-downloaders-summarized/"><u>[New] Transform Your Streams Best 4K Video Downloaders Summarized</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-maximize-your-gameplay-in-depth-tips-and-tricks-for-freefirers/"><u>[Updated] Maximize Your Gameplay In-Depth Tips & Tricks for FreeFirers</u></a></li>
+<li><a href="https://games-able.techidaily.com/diminishing-distractions-sound-management-on-xbox/"><u>Diminishing Distractions: Sound Management on Xbox</u></a></li>
+<li><a href="https://games-able.techidaily.com/discontinuation-new-horizons-for-apsplus-gameplay/"><u>Discontinuation: New Horizons for APS+ Gameplay</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-installation-of-the-latest-netgear-wna3100-drivers/"><u>Effortless Installation of the Latest Netgear WNA3100 Drivers</u></a></li>
+<li><a href="https://games-able.techidaily.com/full-gameplay-experience-for-apple-m-devices-using-crossover/"><u>Full Gameplay Experience for Apple M Devices Using CrossOver</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-refund-a-game-on-steam-and-get-your-money-back/"><u>How to Refund a Game on Steam and Get Your Money Back</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-nubia-red-magic-8s-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Nubia Red Magic 8S Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/new-ps5-slim-understanding-its-impact/"><u>New PS5 Slim - Understanding Its Impact</u></a></li>
+<li><a href="https://games-able.techidaily.com/stunning-graphics-on-a-few-dollars/"><u>Stunning Graphics on a Few Dollars</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-secure-ps5-access-setting-up-custom-passwords/"><u>Unveiling Secure PS5 Access: Setting Up Custom Passwords</u></a></li>
+</ul></div>
 

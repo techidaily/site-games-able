@@ -1,7 +1,7 @@
 ---
 title: "Master Soccer Strategy: FC Manage in Free Edition (PC)"
-date: 2024-09-14T23:06:49.041Z
-updated: 2024-09-21T01:24:42.210Z
+date: 2024-09-21T19:38:03.419Z
+updated: 2024-09-27T00:20:58.512Z
 tags:
   - games
 categories:
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/6327dfd2fe6706001f2a15356912946cde0731783
 
  When you’ve downloaded Championship Manager 01/02, you’ll need to extract its ZIP archive. You can do that with one of the methods in our[guide to extracting ZIP files in Windows](https://www.makeuseof.com/how-to-extract-zip-files-windows-11/) .
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Download and Install WinCDEmu
 
  As the downloaded Championship Manager 01/02 file is an ISO, you will need to mount its image with WinCDEmu. WinCDEmu is one of the[best freeware software packages for mounting ISO files](https://www.makeuseof.com/tag/3-free-alternatives-daemon-tools-mounting-image-files/) on a Windows PC. That software will create a virtual disc drive with which you can access and install Championship Manager 01/02\. This is how you can download and install WinCDEmu:
@@ -58,16 +65,23 @@ thumbnail: https://thmb.techidaily.com/6327dfd2fe6706001f2a15356912946cde0731783
 ![The Mount a disc image window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/mount-a-disc-image-window.jpg)
 4. Select**OK** to mount the ISO file.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The virtual drive for Championship Manager 01/02](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-virtual-cd-drive.jpg)
 
- You should now see a new virtual CD drive within File Explorer. Click**This PC** in Explorer’s sidebar to view drives there. There you’ll see a CM0102 CD drive with the letter you selected for it.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ You should now see a new virtual CD drive within File Explorer. Click**This PC** in Explorer’s sidebar to view drives there. There you’ll see a CM0102 CD drive with the letter you selected for it.
 
 ## 4\. Install Championship Manager 01/02 With Its Setup Wizard
 
@@ -81,8 +95,24 @@ thumbnail: https://thmb.techidaily.com/6327dfd2fe6706001f2a15356912946cde0731783
 5. Select**Browse** to choose an installation directory for the game and click**Next** again.  
 ![The Browse option in the Championship Manager setup screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-browse-option.jpg)
 6. The**Typical** setup option will be selected by default. Click**Next** to continue with that option selected.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Typical option in the Championship Manager setup screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-typical-option.jpg)
 7. Select**Next** again to install Championship Manager 01/02.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Click**Yes** when asked about creating a Championship Manager 01/02 desktop shortcut.
 9. Select**Finish** to leave the setup screen.
 
@@ -91,19 +121,6 @@ thumbnail: https://thmb.techidaily.com/6327dfd2fe6706001f2a15356912946cde0731783
 ![The Championship Manager 01/02 title screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/championship-manager-game.jpg)
 
  Press the**Start New Game** button to select the countries to include in your game. Input your manager’s name and select a nationality. Then choose a club team to manage in one of the countries.
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Start Your Soccer Management Career in Championship Manager 01/02
 
@@ -122,5 +139,20 @@ thumbnail: https://thmb.techidaily.com/6327dfd2fe6706001f2a15356912946cde0731783
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-mastering-conversations-and-sharing-in-facebook-world/"><u>[Updated] Mastering Conversations and Sharing in Facebook World</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-revisiting-old-photos-sending-them-as-snaps-on-snapchat-for-2024/"><u>[Updated] Revisiting Old Photos Sending Them as Snaps on Snapchat for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-expert-advice-for-capturing-evening-images/"><u>2024 Approved Expert Advice for Capturing Evening Images</u></a></li>
+<li><a href="https://games-able.techidaily.com/conquering-your-console-game-pass-portfolio/"><u>Conquering Your Console Game Pass Portfolio</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-achieve-a-cinematic-experience-with-tv-tuning/"><u>How to Achieve a Cinematic Experience with TV Tuning</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/insight-into-biometric-systems-what-you-need-to-know/"><u>Insight Into Biometric Systems: What You Need to Know</u></a></li>
+<li><a href="https://games-able.techidaily.com/psplus-vs-xbgplus-best-gaming-subscription-comparison/"><u>PS+ vs XBG+: Best Gaming Subscription Comparison</u></a></li>
+<li><a href="https://games-able.techidaily.com/stay-alert-parenting-in-the-era-of-virtual-connectivity/"><u>Stay Alert! Parenting in the Era of Virtual Connectivity</u></a></li>
+<li><a href="https://games-able.techidaily.com/subtle-steam-title-concealment/"><u>Subtle Steam Title Concealment</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-oppo-reno-10-proplus-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Oppo Reno 10 Pro+ 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-guide-to-global-exploration-by-channel-for-2024/"><u>The Ultimate Guide to Global Exploration, By Channel for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-4-ios-superior-game-boy-advance-emulators/"><u>Top 4 iOS: Superior Game Boy Advance Emulators!</u></a></li>
+</ul></div>
 

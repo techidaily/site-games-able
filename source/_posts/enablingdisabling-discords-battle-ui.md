@@ -1,7 +1,7 @@
 ---
 title: Enabling/Disabling Discord’s Battle UI
-date: 2024-09-17T00:41:05.027Z
-updated: 2024-09-20T23:21:52.706Z
+date: 2024-09-21T17:44:42.584Z
+updated: 2024-09-26T16:01:41.193Z
 tags:
   - games
 categories:
@@ -60,7 +60,21 @@ Here's how:
 
 ![Using Discord Overlay When Running VRChat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/using-discord-overlay-when-running-vrchat.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Sometimes, the Discord overlay does not work during gameplay. Do not worry if you encounter the same;[fixing the unresponsive Discord overlay on Windows](https://www.makeuseof.com/fix-discord-overlay-not-working-windows/) is easy and straightforward. It's just as easy to fix it on other devices as well.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Disable the Discord In-Game Overlay
 
@@ -77,13 +91,32 @@ Follow these steps to disable the in-game overlay:
 
 ![disable overlay for specific game in discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disable-overlay-for-specific-game-in-discord.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you want to temporarily turn off the overlay in a game, press the overlay shortcut on your keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Keep Track of Conversations Through Discord Overlay
@@ -103,5 +136,20 @@ Follow these steps to disable the in-game overlay:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-navigating-macs-best-screen-capturing-apps-and-tech-for-2024/"><u>[Updated] Navigating Mac's Best Screen Capturing Apps & Tech for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-tecno-spark-10-4g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Tecno Spark 10 4G Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/access-arsenal-showdown-xbox-game-pass-vs-psplus-membership/"><u>Access Arsenal Showdown: Xbox Game Pass Vs. PS+ Membership</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-for-writers-6-new-horizons-explored/"><u>ChatGPT for Writers: 6 New Horizons Explored</u></a></li>
+<li><a href="https://article-posts.techidaily.com/elite-mobile-photo-enhancers-comprehensively-reviewed-iphoneandroid-edition/"><u>Elite Mobile Photo Enhancers Comprehensively Reviewed iPhone/Android Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-synergistic-effects-between-phytocannabinoids-and-psychedelics/"><u>Exploring the Synergistic Effects Between Phytocannabinoids and Psychedelics</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-vivo-y78-5g-by-fonelab-android-recover-data/"><u>How to recover lost data from Vivo Y78 5G?</u></a></li>
+<li><a href="https://games-able.techidaily.com/insight-into-xboxs-penalty-protocol/"><u>Insight Into Xbox's Penalty Protocol</u></a></li>
+<li><a href="https://games-able.techidaily.com/internet-efficiency-solutions-to-lower-your-networks-response-time/"><u>Internet Efficiency: Solutions to Lower Your Network's Response Time</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-offline-mysteries-in-xboxs-world/"><u>Navigating Offline Mysteries in Xbox's World</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/no-more-forgotten-talks-save-chatgpt-dialogues-now/"><u>No More Forgotten Talks! Save ChatGPT Dialogues Now</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/shaping-letters-in-visual-content/"><u>Shaping Letters in Visual Content</u></a></li>
+<li><a href="https://games-able.techidaily.com/which-elgato-stream-deck-model-should-you-buy/"><u>Which Elgato Stream Deck Model Should You Buy?</u></a></li>
+</ul></div>
 

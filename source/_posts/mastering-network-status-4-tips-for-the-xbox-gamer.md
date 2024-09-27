@@ -1,7 +1,7 @@
 ---
 title: "Mastering Network Status: 4 Tips for the Xbox Gamer"
-date: 2024-09-16T00:15:59.206Z
-updated: 2024-09-20T19:30:16.061Z
+date: 2024-09-26T05:42:37.148Z
+updated: 2024-09-26T18:41:42.362Z
 tags:
   - games
 categories:
@@ -72,16 +72,16 @@ thumbnail: https://thmb.techidaily.com/d004e321571f8d51a2ae9f7a4b7153fccec7b768f
 
 ![A screenshot of an Xbox Friend Activity Feed on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3173.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  From here, you should be able to see your friend's most recently unlocked Achievement and how long ago it was unlocked. You know your friend is appearing offline if they are offline but have unlocked Achievements recently.
 
  Alternatively, you can[compare gaming statistics with a friend on your Xbox Series X|S](https://www.makeuseof.com/xbox-how-to-compare-gaming-stats-with-friends/) to provide direct Achievement comparisons with the games you have been playing.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Use the Time Played Feature for Specific Xbox Games
 
@@ -96,17 +96,31 @@ thumbnail: https://thmb.techidaily.com/d004e321571f8d51a2ae9f7a4b7153fccec7b768f
 
 ![A screenshot of the Gaming option available on Xbox Series X when comparing two Xbox Profiles](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3169.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Scroll down the on-screen gaming stats until you find**Time played** .
 
 ![A screenshot of the Time Played statistic on an Xbox Series X for a specific Xbox game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3166.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  With stats for**Time played** on-screen, you can check how much time the friend has put into the selected game. If you suspect them of being offline, you can check the**Time played** stat again to see if they have put more time into the game while seemingly offline.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Keep Track of Your Friends on Xbox Series X|S for Smooth Social Gaming
@@ -128,5 +142,21 @@ thumbnail: https://thmb.techidaily.com/d004e321571f8d51a2ae9f7a4b7153fccec7b768f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-building-personalized-instagram-feed-outlines-for-2024/"><u>[New] Building Personalized Instagram Feed Outlines for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-cameras-that-make-beginners-happy-top-picks-2024/"><u>[New] Cameras that Make Beginners Happy - Top Picks 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-direct-pathways-moving-iphone-content-to-pc-efficiently-for-2024/"><u>[New] Direct Pathways Moving iPhone Content to PC Efficiently for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-elevate-your-influence-with-masterful-facebook-story-techniques/"><u>[New] In 2024, Elevate Your Influence with Masterful Facebook Story Techniques</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-mastering-professional-camera-techniques-for-superior-igtv-videos/"><u>2024 Approved Mastering Professional Camera Techniques for Superior IGTV Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-shiny-journey-to-immaculate-playstation/"><u>A Shiny Journey to Immaculate PlayStation</u></a></li>
+<li><a href="https://win11.techidaily.com/amd-graphics-update-essentials-for-windows-11-users/"><u>AMD Graphics Update Essentials for Windows 11 Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/expedite-boredom-20plus-high-speed-online-games/"><u>Expedite Boredom: 20+ High-Speed Online Games</u></a></li>
+<li><a href="https://fox-info.techidaily.com/how-to-create-a-quick-google-collage-photo/"><u>How to Create a Quick Google Collage Photo</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-disable-and-restrict-xbox-game-bar-background-activity-in-windows-11-and-11/"><u>How to Disable and Restrict Xbox Game Bar Background Activity in Windows 11 and 11</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-8-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 8 Data From iCloud | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/select-sites-endless-photographic-repository-access-for-2024/"><u>Select Sites Endless Photographic Repository Access for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-vs-gog-key-distinctions-explored/"><u>Steam vs GOG: Key Distinctions Explored</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-playfields-trophies-terrains/"><u>Ultimate Playfields: Trophies Terrains</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Replace the Joysticks in Your Nintendo Switch Joy-Con
-date: 2024-09-16T22:01:40.634Z
-updated: 2024-09-20T19:20:35.187Z
+date: 2024-09-23T18:48:20.713Z
+updated: 2024-09-27T04:41:53.983Z
 tags:
   - games
 categories:
@@ -37,11 +37,25 @@ thumbnail: https://thmb.techidaily.com/895e63c00991de11c3a5bb60d914f7ce63bcb7f1c
 
  When all the above methods fail, learning how to replace your faulty joysticks yourself is the best option. It is worth noting, however, that doing so voids your warranty. But if your warranty has already run out, and you would rather fix your pair for around $10.00 rather than pay $79.99 for a new set, you don’t really have much to lose.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Do I Need to Replace the Joysticks in My Nintendo Switch Joy-Con?
 
  There are a couple of tools you will require to complete the task at hand. These can all be purchased individually or in sets from sites like eBay or Amazon for just a couple of dollars each.
 
 ![Tools For Replacing Joy Con Joystick](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/tools-for-replacing-joy-con-joystick.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * 1.5mm tri-wing screwdriver.
 * 2.0mm Phillips head screwdriver.
@@ -64,12 +78,17 @@ thumbnail: https://thmb.techidaily.com/895e63c00991de11c3a5bb60d914f7ce63bcb7f1c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-the-minimum-view-count-for-youtube-success-stories/"><u>[Updated] 2024 Approved The Minimum View Count for YouTube Success Stories</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-top-budget-cameras-for-newbies-2024/"><u>[Updated] Top Budget Cameras for Newbies 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-itel-a60-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/comparing-regular-and-premium-discord-service/"><u>Comparing Regular and Premium Discord Service</u></a></li>
+<li><a href="https://video-capture.techidaily.com/download-the-ultimate-goodnight-sleep-video-share-it-on-whatsapp-and-facebook/"><u>Download the Ultimate 'Goodnight Sleep' Video: Share It on WhatsApp & Facebook</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-play-the-nyc-connection-game-like-a-pro-8-steps/"><u>How to Play the NYC Connection Game Like a Pro (8 Steps)</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-smartly-pick-the-right-handheld-videogame-device/"><u>How to Smartly Pick the Right Handheld Videogame Device</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-samsung-galaxy-m34-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Samsung Galaxy M34 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfect-pitch-turn-off-series-s-shakes/"><u>Perfect Pitch: Turn Off Series S Shakes</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-the-premier-roundup-of-win-compatible-daws-evaluating-free-and-paid-software-options/"><u>Updated 2024 Approved The Premier Roundup of Win-Compatible DAWs Evaluating Free and Paid Software Options</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unearthing the Best of What's Underground: Indie Game Exploration"
-date: 2024-09-15T16:15:13.441Z
-updated: 2024-09-20T19:06:09.805Z
+date: 2024-09-21T06:56:46.694Z
+updated: 2024-09-27T04:49:46.867Z
 tags:
   - games
 categories:
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
 
  I first discovered this game thanks to writer[Colin Spacetwinks](https://twitter.com/spacetwinks) , who does regular roundups of recommended games whenever there’s[a sale or deals on Steam](https://www.makeuseof.com/tag/5-ways-to-make-sure-you-get-the-best-deals-on-steam-games/) . If there’s a games writer you particularly like, it’s always worth giving them a follow on social media, as they’re likely to recommend games and other media of interest.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2 Untitled Goose Game
 
  It’s always worth watching various new games roundups like the Summer Games Fest or[Wholesome Games on YouTube](https://www.youtube.com/c/WholesomeGames) because, even if you’re not into everything shown, it’s always good to know what other people will be playing, and you might even discover a few new favorites for yourself.[Untitled Goose Game](https://goose.game/) is one of those titles, with a trailer that became so popular that developer House House Games ultimately ended up keeping the provisional title.
@@ -45,16 +52,16 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
 
  It’s a fairly accessible title for kids and those who don’t play video games a lot—and perfect for anyone who likes to embrace their inner chaos goblin.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3 A Short Hike
 
 ![Video game screenshot of a small bird flying over a wooden bridge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/a-short-hike-screenshot.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Adam Robinson-Yu](https://ashorthike.com/)
 
@@ -63,6 +70,13 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
  Itch.io also has periodic charity bundles to raise money for various causes, and they’re absolutely fantastic deals, offering hundreds of games for a one-time donation of under $10\. That’s how I discovered[A Short Hike](https://ashorthike.com/) , which was included in the 1,000-plus-title-strong Racial Justice bundle a few years back. It’s a short,[cozy game](https://www.makeuseof.com/what-are-cozy-games/) about being a small bird on a hike; your goal is to reach the top of the mountain.
 
  To do so you’ll need to collect feathers that make it possible to fly just a little bit higher each time, and to collect these you’ll explore a park’s various nooks and crannies and meet various other hikers and other park visitors. It’s a sweet reminder of family vacations past, with gameplay that is easy to understand but challenging to fully master (I still haven’t found all the feathers).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4 Storyteller
 
@@ -78,22 +92,16 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
 
  Storyteller is also now available on mobile as one of[Netflix's games](https://www.makeuseof.com/how-to-play-games-on-netflix/) .
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5 VA-11 Hall-A: Cyberpunk Bartender Action
 
 ![Video game screenshot of a woman with teal hair saying, "It makes me feel comfy and nostalgic."](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/valhalla-bartending-screenshot.png)
-
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Sukeban Games / Ysbryd Games](https://waifubartending.com/)
 
@@ -118,5 +126,17 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-navigating-the-landscape-of-facebook-ad-effectiveness/"><u>[Updated] Navigating the Landscape of Facebook Ad Effectiveness</u></a></li>
+<li><a href="https://games-able.techidaily.com/diverse-methods-to-kickstart-your-ps5-console/"><u>Diverse Methods to Kickstart Your PS5 Console</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-effortlessly-create-a-heart-emoji-using-your-keyboard-shortcuts/"><u>How to Effortlessly Create a Heart Emoji Using Your Keyboard Shortcuts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-c53-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from C53</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-mastering-the-mechanics-perfecting-every-snaps-boomerang-effect/"><u>In 2024, Mastering the Mechanics Perfecting Every Snap's Boomerang Effect</u></a></li>
+<li><a href="https://games-able.techidaily.com/slipping-past-the-watchful-gaze/"><u>Slipping Past the Watchful Gaze</u></a></li>
+<li><a href="https://games-able.techidaily.com/stealthy-speech-in-xbox-multiplayer-settings/"><u>Stealthy Speech in Xbox Multiplayer Settings</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/swift-and-trouble-free-installation-of-intels-82579v-motherboard-chipset-drivers-for-free/"><u>Swift & Trouble-Free Installation of Intel's 82579V Motherboard Chipset Drivers for Free</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-essential-guide-for-newcomers-on-av1/"><u>The Essential Guide for Newcomers on AV1</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-engaging-and-ethical-mobile-game-play/"><u>The Ultimate Guide to Engaging & Ethical Mobile Game Play</u></a></li>
+</ul></div>
 

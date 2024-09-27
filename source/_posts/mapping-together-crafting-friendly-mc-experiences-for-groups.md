@@ -1,7 +1,7 @@
 ---
 title: "Mapping Together: Crafting Friendly MC Experiences for Groups"
-date: 2024-09-17T19:14:36.728Z
-updated: 2024-09-20T23:16:55.728Z
+date: 2024-09-24T19:11:08.483Z
+updated: 2024-09-26T19:21:04.657Z
 tags:
   - games
 categories:
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/3ad0b37de8405ddff0a5f39b812ec8d893ee35987
 
 ![Minecraft multiplayer server list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/mc-server-list-multiplayer.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Public servers are what most Java players use to link up with others. Servers are free to join and you can find them by using any of the many server-listing sites such as[minecraftservers.org](https://minecraftservers.org) (just search "Minecraft Servers" in your web browser to find more listing sites).
 
  We've covered an in-depth guide on[how to join a Minecraft server](https://www.makeuseof.com/how-to-join-minecraft-server/) already, but here's a quick rundown:
@@ -52,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/3ad0b37de8405ddff0a5f39b812ec8d893ee35987
 
 ![Minecraft Bedrock Edition Servers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/minecraft-bedrock-edition-servers.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  While your range is narrower than Java Edition players', there are definitely public servers you can join to play Minecraft with your friends in Bedrock Edition.
 
 1. Start Minecraft BE. Click**Play** and navigate to the**Servers** tab.
@@ -60,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/3ad0b37de8405ddff0a5f39b812ec8d893ee35987
 4. Enter the server's name, IP address, and port. Click**Save** to keep this server bookmarked.
 
  If you don't want to pay to host a server, there are third-party services you can try like the ones we'll show you below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Minecraft Server Hosting Services
 
@@ -70,15 +91,28 @@ thumbnail: https://thmb.techidaily.com/3ad0b37de8405ddff0a5f39b812ec8d893ee35987
 ![Aternos Create a Server button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/aternos-create-a-server-button.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In Aternos, log in and click on**Create a Server** .
 
 ![Aternos MUO test server IP address](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/aternos-muo-test-server-ip-address.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In the next page, you can customize the IP address your friends will use to connect and choose whether you want Bedrock or Java Edition. After that, click**Create** .
 
@@ -117,22 +151,15 @@ thumbnail: https://thmb.techidaily.com/3ad0b37de8405ddff0a5f39b812ec8d893ee35987
  Now that you know how to create a Realm, you probably want to check out your friends' Realms too. Here's how to join a Realm:
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Join a Minecraft Realm
 
 ![Minecraft Realms invite envelope](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/minecraft-realms-invite-envelope.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Java Edition** : If you've received an invitation to join your friend's Realm, open Minecraft and navigate to**Minecraft Realms** .
 
@@ -141,6 +168,13 @@ thumbnail: https://thmb.techidaily.com/3ad0b37de8405ddff0a5f39b812ec8d893ee35987
 **Bedrock Edition** : Ask for the invite code from the creator of the Realm—we only need the characters after "realms.gg/".
 
 ![Minecraft Bedrock Edition join a Realm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/mcbe-join-realm-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launch Minecraft, then click**Play** . Head to**Friends** and click on**Join Realm** . Enter the invite code you received from the Realm owner and click**Join** .
 
@@ -152,23 +186,9 @@ thumbnail: https://thmb.techidaily.com/3ad0b37de8405ddff0a5f39b812ec8d893ee35987
 
 ![Minecraft Java edition scanning for LAN games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/mc-scanning-for-lan-games.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you're under the same local IP address as the player you want to join, you can do this pretty easily. Launch Minecraft and click on**Multiplayer** . Minecraft will automatically scan for games on your local network.
 
  If another player has a LAN world available to join, it'll show up in your list of servers. You can either double-tap the server or highlight it and click**Join Server** .
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Minecraft Bedrock Edition
 
@@ -179,6 +199,13 @@ thumbnail: https://thmb.techidaily.com/3ad0b37de8405ddff0a5f39b812ec8d893ee35987
 ![Split Screen Minecraft on Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/img_3176.jpeg)
 
  Just like old-school console games, you can play split-screen on Minecraft Bedrock edition with up to four players. This is only available on consoles, but you can get on your couch, and[play split-screen Minecraft on your Nintendo Switch](https://www.makeuseof.com/how-to-play-two-player-minecraft-on-nintendo-switch/) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Enjoy Minecraft With Your Friends
 
@@ -199,5 +226,22 @@ thumbnail: https://thmb.techidaily.com/3ad0b37de8405ddff0a5f39b812ec8d893ee35987
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-video-mastery-step-by-step-guide-to-cropping-and-exporting-for-insta/"><u>[New] 2024 Approved Video Mastery Step by Step Guide to Cropping and Exporting for Insta</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-from-still-images-to-time-lapses-ipad-edition-for-2024/"><u>[New] From Still Images to Time-Lapses IPad Edition for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-innovative-titling-techniques-to-explore/"><u>[Updated] In 2024, Innovative Titling Techniques to Explore</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-is-picku-the-ultimate-answer-to-enhancing-your-android-photos/"><u>[Updated] Is PickU the Ultimate Answer to Enhancing Your Android Photos?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-step-by-step-adding-snap-camera-to-teams-chats/"><u>2024 Approved Step-by-Step Adding Snap Camera to Teams Chats</u></a></li>
+<li><a href="https://common-error.techidaily.com/boost-your-pc-gameplay-mastering-windows-11-performance-enhancements/"><u>Boost Your PC Gameplay: Mastering Windows 11 Performance Enhancements</u></a></li>
+<li><a href="https://games-able.techidaily.com/comparing-computer-use-gaming-vs-professional-work/"><u>Comparing Computer Use: Gaming Vs. Professional Work</u></a></li>
+<li><a href="https://games-able.techidaily.com/correcting-0x887a0006-error-windows-device-lag-fixes/"><u>Correcting 0X887A0006 Error: Window's Device Lag Fixes</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-arcade-showdown-ps5-vs-affordable-gaming-unit/"><u>Digital Arcade Showdown: PS5 V/S Affordable Gaming Unit</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, All You Need To Know About Mega Greninja For Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-motorola-g54-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Motorola G54 5G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/unboxing-lenovos-best-legion-go-features-at-ifa-2-written-by-alex-johnson-mba/"><u>Unboxing Lenovo's Best Legion Go Features at IFA 2 Written by Alex Johnson, MBA</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-the-secrets-of-nyt-networking/"><u>Unlocking the Secrets of NYT Networking</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-sonys-compact-gaming-experience-psl/"><u>Unveiling Sony's Compact Gaming Experience: PSL</u></a></li>
+<li><a href="https://games-able.techidaily.com/virtual-warfare-odyssey-exploring-the-best-11-simulators/"><u>Virtual Warfare Odyssey: Exploring the Best 11 Simulators</u></a></li>
+</ul></div>
 

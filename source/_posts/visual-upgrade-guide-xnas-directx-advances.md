@@ -1,7 +1,7 @@
 ---
 title: "Visual Upgrade Guide: XNA's DirectX Advances"
-date: 2024-09-14T01:49:41.136Z
-updated: 2024-09-20T19:20:09.028Z
+date: 2024-09-21T17:46:21.919Z
+updated: 2024-09-26T19:21:24.310Z
 tags:
   - games
 categories:
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/919573cc608b6cdec882b8be060a2b2c2cf20857c
 
  An API makes it possible for two or more computer programs to communicate with each other, which we discuss in[our overview of APIs](https://www.makeuseof.com/what-is-api/) . Think of it like a telephone. If your mom texts you with a grocery list, your phone will receive that data and display it for you. That is basically an API.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Are the Differences Between DirectX 11 and DirectX 12?
 
  So, what are the differences between DirectX 11 and DirectX 12? Put simply, DirectX 12 is the latest version of DirectX. One of the most noticeable differences is how they interact with your hardware. Most games developed with DirectX 11 only utilize between two and four[CPU cores](https://www.makeuseof.com/cpu-vs-vcpu-threads-vs-cores/) . One of these cores usually tells the GPU what to do.
@@ -53,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/919573cc608b6cdec882b8be060a2b2c2cf20857c
 
  This significantly reduces the CPU overhead found in DirectX 11 and improves performance. So, what does this difference look like? Well, according to Microsoft, DirectX 12 reduces CPU overhead by up to 50 percent and improves GPU performance by as much as 20 percent. While those are some substantial improvements, this doesn't mean you will see the same results.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why Switching From DirectX 11 to DirectX 12 Isn't Straightforward
 
  DirectX 11 was first released for Windows Vista on October 27, 2009\. So, with DirectX 12 following in 2015, there's a six-year gap between DirectX 11 and DirectX 12\. During this time, thousands of games have been developed using DirectX 11\. Unfortunately, moving from DirectX 11 to DirectX 12 is anything but easy.
@@ -68,10 +82,16 @@ thumbnail: https://thmb.techidaily.com/919573cc608b6cdec882b8be060a2b2c2cf20857c
 ![In-game image from Guild Wars 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/untitled-design-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image Credit: Martin Kerstein/[Guild Wars 2](https://www.guildwars2.com/en/news/guesting-is-coming/)
@@ -85,10 +105,10 @@ thumbnail: https://thmb.techidaily.com/919573cc608b6cdec882b8be060a2b2c2cf20857c
  In addition to in-game support, choosing between DirectX 11 and DirectX 12 will also depend on your hardware. Just about any modern GPU will support DirectX 12, but the same can't be said for older GPUs like the Radeon HD 4870\. Released in 2008, this GPU only supports up to DirectX 10\. This means it would be incapable of running most modern games, which run using DirectX 11 and DirectX 12.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is DirectX 12 the Right Choice for You?
@@ -108,5 +128,20 @@ thumbnail: https://thmb.techidaily.com/919573cc608b6cdec882b8be060a2b2c2cf20857c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-unveiling-vrecorder-download-and-install-made-simple-for-2024/"><u>[New] Unveiling VRecorder Download & Install Made Simple for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-avoidance-techniques-for-oculus-motion-sickness-for-2024/"><u>[Updated] Avoidance Techniques for Oculus Motion Sickness for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/controlling-snes-games-new-way/"><u>Controlling SNES Games, New Way</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-the-most-advanced-asus-router-releases/"><u>Discover The Most Advanced Asus Router Releases</u></a></li>
+<li><a href="https://games-able.techidaily.com/embracing-change-xbox-live-gold-merges-with-game-pass/"><u>Embracing Change: Xbox Live Gold Merges with Game Pass</u></a></li>
+<li><a href="https://games-able.techidaily.com/joining-worlds-together-using-ps5-controller-on-windows-pc/"><u>Joining Worlds Together: Using PS5 Controller on Windows PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719166740000-jumpstart-savings-with-sonys-midyear-blowout/"><u>Jumpstart Savings with Sony's Midyear Blowout</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-honor-magic-6-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Honor Magic 6 Pro? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/reduzierung-der-grosse-von-hd-4k-und-8k-videos-um-bis-zu-90-effektive-methoden/"><u>Reduzierung Der Größe Von HD, 4K Und 8K Videos Um Bis Zu 90 % - Effektive Methoden</u></a></li>
+<li><a href="https://games-able.techidaily.com/stepping-up-to-excellent-steam-deck-input/"><u>Stepping Up to Excellent Steam Deck Input</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/streamlining-virtual-meetings-integrating-zoom-with-skype-effortlessly/"><u>Streamlining Virtual Meetings Integrating Zoom with SKYPE Effortlessly</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-long-term-win-of-late-game-drops/"><u>The Long-Term Win of Late Game Drops</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-and-solutions-for-pci-cipher-control-software-errors-now-fixed/"><u>Troubleshooting and Solutions for PCI Cipher Control Software Errors - Now Fixed</u></a></li>
+</ul></div>
 

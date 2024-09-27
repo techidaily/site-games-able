@@ -1,7 +1,7 @@
 ---
 title: Xbox S Controller - Keep It Connected
-date: 2024-09-14T01:36:08.693Z
-updated: 2024-09-21T01:48:58.661Z
+date: 2024-09-23T20:40:00.175Z
+updated: 2024-09-26T16:57:21.642Z
 tags:
   - games
 categories:
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/a24327de3f954b0afa1a21a400dc142c840e7eb4a
 
  If not, just select the controller and update it. Once your Xbox carries out this update, you'll no longer have issues where your Xbox controller keeps disconnecting. That's because Microsoft pushes out firmware updates regularly to fix minor bugs that crop up—like this one.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Update Your Xbox Series X Console
 
 ![Xbox Series X Update Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/Xbox-Series-X-Update-Menu.jpg)
@@ -52,13 +59,6 @@ thumbnail: https://thmb.techidaily.com/a24327de3f954b0afa1a21a400dc142c840e7eb4a
  This should happen automatically, but if you have your console set up for manual updates and haven't played for a while, you should install the latest Xbox system software ASAP. This means you will have all the relevant security patches and so on. However, updates like this can iron out any issues, such as controller drift.
 
  To[update your Series X or Series S](https://www.makeuseof.com/how-to-update-xbox-series-x-series-s/) console, go to **Profile & system > Settings > System > Updates** . If a console update is available, it will say so next to your console on this settings page. Just update your console, as this might resolve the problem.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Reset and Re-Sync Your Series X Controller
 
@@ -74,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/a24327de3f954b0afa1a21a400dc142c840e7eb4a
 
 ![xbox series x controller usb c port](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/xbox-series-x-controller-usb-c-port.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  At the top of the Xbox Series X controller, you will notice it has a USB-C port, which is typically used for charging. However, you can use it to try to solve any disconnection problems.
 
  The process couldn't be easier; just use the USB-C cable that came with your Xbox and use it to connect the two together.
@@ -82,23 +89,9 @@ thumbnail: https://thmb.techidaily.com/a24327de3f954b0afa1a21a400dc142c840e7eb4a
 
  Physically connecting your controller and console will immediately overcome the wireless connectivity issue. Once the two devices talk to each other again, you can remove the wired connection and check whether your controller works wirelessly. If it doesn't, you could always stay wired if it's convenient enough.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Hard Restart Your Xbox Series X
 
 ![xbox series x power button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/xbox-series-x-power-button.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If all else fails, you can always exercise the IT expert's golden rule... try turning it off and on again. This is an operation you'd only want to carry out as a last resort, especially if you are in the middle of a game and haven't saved recently. Try all the other steps here first, or you risk losing your game progress.
 
@@ -107,6 +100,13 @@ thumbnail: https://thmb.techidaily.com/a24327de3f954b0afa1a21a400dc142c840e7eb4a
  However, to[hard restart your Xbox Series X](https://www.makeuseof.com/tag/reset-xbox-one-xbox-360/) , you need to press and hold the power button on the front of your console (the Xbox logo button above the optical drive). It's important you don't just tap the button, as this will simply put the console to sleep and won't reset anything.
 
  Once you have switched the console off, just press the power button again to start it up. If you have performed the action correctly, the console should initialize with the logo screen before loading up your Xbox dashboard.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Replace Your Controller's Batteries
 
@@ -118,16 +118,16 @@ thumbnail: https://thmb.techidaily.com/a24327de3f954b0afa1a21a400dc142c840e7eb4a
 
  To access and swap the AA batteries, all you need to do is push the battery cover below the controller upwards and pull either end of each battery outwards. Then, put the new ones back in and snap the battery cover in place.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Use an Xbox One Controller
 
 ![Xbox One controllers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/Xbox-One-Pad.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Did you know you can[connect an Xbox One controller to your Xbox Series X](https://www.makeuseof.com/how-to-use-xbox-one-controllers-on-your-xbox-series-x/) ? Thanks to backward compatibility, the Xbox One joypad functions almost exactly the same way as a Series X controller.
 
@@ -138,10 +138,10 @@ thumbnail: https://thmb.techidaily.com/a24327de3f954b0afa1a21a400dc142c840e7eb4a
  If it's a firmware-related bug like the one Microsoft addressed, you can use your old controller while waiting for an update. Don't forget that the[Xbox One controller has its fair share of issues](https://www.makeuseof.com/tag/how-to-fix-xbox-one-controller-not-working/) that prevent it from working, so you might still have the same disconnection problem.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Game Without Your Xbox Series X Controller Disconnecting
@@ -163,5 +163,22 @@ thumbnail: https://thmb.techidaily.com/a24327de3f954b0afa1a21a400dc142c840e7eb4a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-creator-payment-frequency-on-youtube-platform/"><u>[New] In 2024, Creator Payment Frequency on YouTube Platform</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-professional-mac-strategies-for-classroom-audio-recording/"><u>[New] In 2024, Professional Mac Strategies for Classroom Audio Recording</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-optimal-templates-for-introducing-panzoids/"><u>[Updated] Optimal Templates for Introducing Panzoids</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-new-era-of-gaming-rewards-microsofts-path-forward-with-xbox-points/"><u>A New Era of Gaming Rewards: Microsoft's Path Forward with Xbox Points</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-the-value-in-depth-review-of-the-acer-aspire-e-15-the-ultimate-bargain-buy/"><u>Discover the Value: In-Depth Review of the Acer Aspire E 15, The Ultimate Bargain Buy</u></a></li>
+<li><a href="https://games-able.techidaily.com/dont-follow-my-missteps-select-perfect-oled-tv/"><u>Don't Follow My Missteps: Select Perfect OLED TV</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-gadgets-with-toms-hardware-experts/"><u>Exploring Gadgets with Tom's Hardware Experts</u></a></li>
+<li><a href="https://games-able.techidaily.com/galactic-genius-identifying-leading-gaming-pcs/"><u>Galactic Genius: Identifying Leading Gaming PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaze-at-pimax-crystal-eye-catching-yet-bug-prone-experience/"><u>Gaze at Pimax Crystal - Eye-Catching, Yet Bug-Prone Experience</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-excellent-ios-options-for-emulating-top-notch-psp-games/"><u>In 2024, Excellent iOS Options for Emulating Top-Notch PSP Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/revitalizing-your-steam-experience-by-uninstalling-games/"><u>Revitalizing Your Steam Experience by Uninstalling Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/switching-up-your-game-with-optical-flair/"><u>Switching Up Your Game with Optical Flair</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-reactivating-keyboard-input-at-login-screen/"><u>Troubleshooting Guide: Reactivating Keyboard Input at Login Screen</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/what-is-an-ai-avatar-in-2024/"><u>What Is an AI Avatar, In 2024</u></a></li>
+</ul></div>
 

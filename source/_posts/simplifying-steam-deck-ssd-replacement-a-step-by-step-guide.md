@@ -1,7 +1,7 @@
 ---
 title: "Simplifying Steam Deck SSD Replacement: A Step-by-Step Guide"
-date: 2024-09-18T17:19:32.396Z
-updated: 2024-09-20T19:57:15.854Z
+date: 2024-09-24T02:56:15.564Z
+updated: 2024-09-26T18:11:53.128Z
 tags:
   - games
 categories:
@@ -36,9 +36,23 @@ thumbnail: https://thmb.techidaily.com/56c09995c4310ae28019d3390616d9116d70341b8
 
  Are you upgrading your Steam Deck SSD but don't want to set up your device from scratch? Here’s how to clone your SSD for an easier upgrade.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why Cloning Your Steam Deck's SSD Is Better
 
 ![Steam Deck SSD installed without sleeve](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/steam-deck-ssd-installed-without-sleeve-1.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Jhet Borja/MakeUseOf  
 
@@ -48,23 +62,9 @@ thumbnail: https://thmb.techidaily.com/56c09995c4310ae28019d3390616d9116d70341b8
 
  If you're looking to install a bigger[SSD for your Steam Deck](https://www.makeuseof.com/best-ssd-for-steam-deck/) , clone your old one to it first so that you can immediately start downloading new games to it instead of sitting fussing about installing SteamOS.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Clone Your Steam Deck's SSD to a New One
 
  Cloning your old SSD to your new one will save you so much time. You won’t need to experience the time-consuming process of manually imaging SteamOS, logging in, waiting for updates, and getting all your old settings right. Here’s how you can do it...
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Step 1: Download Macrium Reflect on a Separate PC
 
@@ -80,6 +80,13 @@ thumbnail: https://thmb.techidaily.com/56c09995c4310ae28019d3390616d9116d70341b8
 
 ![Macrium Reflect registration code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/macrium-reflect-registration-code-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  During the setup, check the box for the 30-day trial and enter your registration code when it asks for it.
 
  Once the setup is done, and you’ve installed Macrium Reflect on your PC, you can now head to the next step.
@@ -90,6 +97,13 @@ thumbnail: https://thmb.techidaily.com/56c09995c4310ae28019d3390616d9116d70341b8
 
 ![Reinstalling Steam Deck SSD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/reinstalling-steam-deck-ssd-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Jhet Borja/MakeUseOf  
 
  First, remove your Steam Deck’s old SSD. If you don’t know how, check out this[Steam Deck SSD installation guide](https://www.makeuseof.com/how-to-install-ssd-steam-deck/) as you’ll be using it later to install your upgraded SSD as well.
@@ -97,6 +111,13 @@ thumbnail: https://thmb.techidaily.com/56c09995c4310ae28019d3390616d9116d70341b8
  Next, with your PC shut down and unplugged, you should install the NVME or M.2 SSD into your motherboard. Since the Steam Deck uses a 2230-size SSD, you most likely won’t be able to screw it down. But that’s okay so long as you don’t knock it off or move your PC too much during the process.
 
 ![Image this disk button on Macrium Reflect](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/image-this-disk-button-on-macrium-reflect.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now, turn on your PC and open up Macrium Reflect. Select your old Steam Deck SSD in the drives list and click on**Image this disk…** below it.
 
@@ -122,13 +143,6 @@ thumbnail: https://thmb.techidaily.com/56c09995c4310ae28019d3390616d9116d70341b8
 
 ![Restore image tab on Macrium Reflect](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/restore-image-tab-on-macrium-reflect-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Open up Macrium Reflect, and on the top menu bar, click**Restore** **\> Browse for an image or backup file to restore…** .
 
 ![Restore button on Macrium Reflect](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/restore-button-on-macrium-reflect-1.jpg)
@@ -138,32 +152,26 @@ thumbnail: https://thmb.techidaily.com/56c09995c4310ae28019d3390616d9116d70341b8
 ![Select a disk to restore to-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/select-a-disk-to-restore-to-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A pop-up will appear, allowing you to choose where you want to restore the image to. Click on**Select a disk to restore to…** , and choose your new SSD.
 
 ![Copying partitions to new disk-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/copying-partitions-to-new-disk-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click on**Copy partitions** **\> Exact Offset and Length** . This will visualize the partitions on the new SSD. Don’t worry about the empty space, leave that blank as SteamOS will immediately utilize it once you boot up your Steam Deck.
 
  Click on**Next** until the**Finish** button is clickable. This will start pasting the image onto the new SSD. It can take a while depending on how big the whole operation is.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 4: Insert Your New SSD Into Your Steam Deck
 
@@ -200,5 +208,21 @@ Jhet Borja/MakeUseOf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-capture-the-essence-in-cloud-mix-free-space-plus-charged-backup-sanctuaries/"><u>[New] Capture the Essence in Cloud Mix Free Space + Charged Backup Sanctuaries</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-unlock-content-premier-iphoneipad-apps-for-fb-video-loading-for-2024/"><u>[Updated] Unlock Content Premier iPhone/iPad Apps for FB Video Loading for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-power-of-playnites-fullscreen-experience/"><u>Discover the Power of Playnite's Fullscreen Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-psvr2-the-ultimate-add-on-guide/"><u>Enhancing PSVR2: The Ultimate Add-On Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-picks-leading-network-server-cabinets-and-chassis-of-2024/"><u>Expert Picks: Leading Network Server Cabinets and Chassis of 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-javas-best-in-class-gameplay/"><u>Exploring Java's Best-In-Class Gameplay</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-vivo-y55s-5g-2023-easily-by-drfone-android/"><u>In 2024, How To Unlock a Vivo Y55s 5G (2023) Easily?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-spark-20-proplus-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Tecno Spark 20 Pro+ Phone with Broken Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/joystick-or-trackpad-optimal-device-for-car-simulation/"><u>Joystick or Trackpad: Optimal Device for Car Simulation?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolve-the-crashing-problem-in-lost-ark-for-pc-a-comprehensive-guide/"><u>Resolve the Crashing Problem in Lost Ark for PC – A Comprehensive Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/seamless-slidecasts-combining-webcam-and-ppt/"><u>Seamless Slidecasts Combining Webcam and PPT</u></a></li>
+<li><a href="https://games-able.techidaily.com/tips-for-unblocking-windows-from-oculus-app-failure/"><u>Tips for Unblocking Windows From Oculus App Failure</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unraveling-error-0xc0000185-comprehensive-guide-on-its-causes-and-remedies/"><u>Unraveling Error 0xC0000185: Comprehensive Guide on Its Causes & Remedies</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrade-to-unparalleled-gaming-with-nvidias-new-app/"><u>Upgrade to Unparalleled Gaming with Nvidia’s New App</u></a></li>
+</ul></div>
 

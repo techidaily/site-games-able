@@ -1,7 +1,7 @@
 ---
 title: "Make Every Session Epic: Try These 7 Terminal Games"
-date: 2024-09-17T20:58:48.536Z
-updated: 2024-09-21T00:19:01.917Z
+date: 2024-09-26T00:09:21.222Z
+updated: 2024-09-27T00:45:39.033Z
 tags:
   - games
 categories:
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/3f83cf37f566bce38971b018170626d6e67c9f875
 
 ![playing solitaire in the linux terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/playing-solitaire-in-the-linux-terminal.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Solitaire is the perfect way to waste some time on your own while you wait for binaries to[compile from the source](https://www.makeuseof.com/compile-install-software-from-source-linux/) .
 
  If you don't have a deck of cards handy, a virtual game in your terminal is just as good.
@@ -55,6 +62,13 @@ You can now launch solitaire-tui by typing:
 
 `solitaire`
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Conway's Game of Life
 
 ![conway game of life in progress](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/conway-game-in-progress.jpg)
@@ -64,13 +78,6 @@ You can now launch solitaire-tui by typing:
  After setting the initial conditions by arranging individual cells on screen, you can sit back and watch, as the cells live, die, reproduce, and interact according to mathematical rules to create new and interesting configurations.
 
  Possibilities are endless, and given enough time, Conway's game of life will reveal to you the infinite secrets and mysteries of the universe.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. nInvaders
 
@@ -88,13 +95,6 @@ You can install nInvaders on Debian-based systems with:
 
  Alternatively, you can clone the nInvaders[GitHub](https://github.com/doctorfree/ninvaders) repository and build from the source.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Gambit
 
 ![gambit chessboard with checkmate imminent](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/gambit-chessboard-with-checkmate-imminent.jpg)
@@ -107,9 +107,23 @@ You can install nInvaders on Debian-based systems with:
 
  It's easy to[install Gambit on Linux](https://www.makeuseof.com/play-chess-linux-terminal-multiplayer-over-ssh/) , and you can have a game set up in mere minutes.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Clidle
 
 ![clidle in the linux terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/clidle-in-the-linux-terminal.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Wordle is a guessing game where you try to guess a five-letter word, by inputting your word and seeing how many letters they have in common. You're limited to six guesses in total, so the stakes are high, and there are dozens of[tricks and strategies to help you improve your Wordle score](https://www.makeuseof.com/wordle-tips-hints-tricks/) .
 
@@ -128,10 +142,10 @@ Type a five-letter word to begin and see how good your score is!
 ![tetris in the linux terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/tetris-in-the-linux-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Tetris is a quick time-killer that has been around since 1985 and holds the record for the most ported game ever, having been adapted for 65 different platforms.
@@ -157,5 +171,23 @@ Type a five-letter word to begin and see how good your score is!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-perfect-pc-playthrough-captures-6-tips-and-tricks/"><u>[New] In 2024, Perfect PC Playthrough Captures 6 Tips and Tricks</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-switch-strike-force-your-top-10-game-lineup/"><u>[New] In 2024, Switch Strike Force Your Top 10 Game Lineup</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-foundational-codes-for-youtube-enthusiasts/"><u>[Updated] In 2024, Foundational Codes for YouTube Enthusiasts</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-picture-perfection-choosing-the-best-camera-positions-on-iphone/"><u>[Updated] Picture Perfection Choosing the Best Camera Positions on iPhone</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-new-virtual-frontier-the-meta-quest-3-story/"><u>A New Virtual Frontier: The Meta Quest 3 Story</u></a></li>
+<li><a href="https://games-able.techidaily.com/apex-players-in-tetris-arena-on-mobile-giants/"><u>Apex Players in Tetris Arena on Mobile Giants</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-the-perfect-tone-accessible-software-for-effortless-vocal-transformation/"><u>Crafting the Perfect Tone Accessible Software for Effortless Vocal Transformation</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-the-tech-behind-robloxs-fps-boosters/"><u>Deciphering the Tech Behind Roblox's FPS Boosters</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-vivo-x-fold-2-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Vivo X Fold 2</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-create-stunning-visual-stories-best-online-collage-software-for-2024/"><u>New Create Stunning Visual Stories Best Online Collage Software for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719157080006-oled-monitor-my-secret-weapon-for-games/"><u>OLED Monitor - My Secret Weapon for Games!</u></a></li>
+<li><a href="https://games-able.techidaily.com/pitch-perfect-your-guide-to-the-best-mobile-sports-apps-iosandroid/"><u>Pitch Perfect: Your Guide to the Best Mobile Sports Apps (iOS/Android)</u></a></li>
+<li><a href="https://facebook.techidaily.com/steps-for-marking-self-as-safe-on-fb/"><u>Steps for Marking Self as Safe on FB</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-purchase-process-on-steam/"><u>Streamlining Purchase Process on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-home-entertainment-with-playnite-fullscreen-tv/"><u>Transform Home Entertainment with Playnite Fullscreen TV</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-mavericks-video-editor-how-to-edit-mp4-files-with-ease/"><u>Updated In 2024, Mavericks Video Editor How to Edit MP4 Files with Ease</u></a></li>
+</ul></div>
 

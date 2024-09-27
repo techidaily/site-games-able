@@ -1,7 +1,7 @@
 ---
 title: "Quality Checkup: Examining Keychron’s Lemokey L3"
-date: 2024-09-15T19:26:06.863Z
-updated: 2024-09-20T23:39:47.690Z
+date: 2024-09-21T06:33:19.886Z
+updated: 2024-09-27T05:45:03.702Z
 tags:
   - games
 categories:
@@ -122,6 +122,13 @@ No
 
 [See at Keychron](https://www.keychron.com/products/lemokey-l3-qmk-via-wireless-custom-mechanical-keyboard)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Configuration
 
  Like all Keychron keyboards, the Lemokey L3 is available in several configurations. The Fully Assembled Knob version, which features in this review, will set you back $214, while the barebones version is $194.
@@ -139,6 +146,13 @@ No
  The Lemokey L3 feels sublime. It's a premium gaming mechanical keyboard that weighs an excellent 1.97kg (4.3lbs). You're basically buying a block of high-quality CNC machined aluminum that also happens to be a mechanical keyboard; you won't be shoving the Lemokey L3 in your rucksack for the local LAN session, that's for sure. The weight has another important use, though—stopping your keyboard from moving around as you game or type.
 
 ![person-using-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-using-the-keychron-lemokey-l3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Hannah Stryker / MakeUseOf
 
@@ -168,13 +182,6 @@ No
 
  Hannah Stryker / MakeUseOf
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Lemokey L3 Typing Experience
 
  The Lemokey L3 is a dream to type on. I've been sent the Gateron Jupiter Brown switches, which require 55g actuation force, have 2mm pre-travel, and 4mm total travel. You'll bottom out on keypresses, but the overall movement and response of the Jupiter Brown switches are mostly smooth.
@@ -193,6 +200,13 @@ No
 
  The Lemokey L3 has a five-degree typing angle, which is comfortable for me but might not suit everyone. However, as the L3 doesn't have any integrated adjustment feet, you're stuck with it. You could grab the Lemokey L3 wrist rest from the Keychron site, but it was out of stock at the time of writing.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Customization With VIA
 
  Keychron has long used VIA for its desktop customization software. It's free, well-supported by the mechanical keyboard community, and has extensive customization options. However, most folks who use a gaming keyboard will be more familiar with the custom, proprietary software created by the big gaming companies. In comparison, VIA is a little different, lacking the straightforward options and menus found in those other desktop software options.
@@ -204,10 +218,10 @@ No
 ![person-removing-a-keycap-from-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-removing-a-keycap-from-the-keychron-lemokey-l3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Hannah Stryker / MakeUseOf
@@ -227,10 +241,10 @@ No
 ![person-removing-a-keycap-from-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-removing-a-keycap-from-the-keychron-lemokey-l3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
@@ -256,5 +270,20 @@ No
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-unleashing-creativity-capturing-and-editing-impressive-videos-in-adobe-connect/"><u>[New] 2024 Approved Unleashing Creativity Capturing & Editing Impressive Videos in Adobe Connect</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-write-podcast-script-plus-10plus-free-examples/"><u>[New] How To Write Podcast Script (Plus 10+ Free Examples)</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-refining-your-digital-footprint-editing-the-look-back-feature-for-2024/"><u>[New] Refining Your Digital Footprint Editing the Look Back Feature for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/6-insights-integrating-raspberry-pi-into-old-school-games/"><u>6 Insights: Integrating Raspberry Pi Into Old-School Games</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/all-about-apple-iphone-xs-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About Apple iPhone XS Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-advice-for-wiping-out-ps5-user-data/"><u>Expert Advice for Wiping Out PS5 User Data</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-might-chatbot-technology-ensure-your-safety-in-the-wilderness/"><u>How Might Chatbot Technology Ensure Your Safety in the Wilderness?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-xs-max-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone XS Max without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/online-anonymity-matters-explore-why-you-need-a-vpn-and-learn-about-its-working-process/"><u>Online Anonymity Matters: Explore Why You Need a VPN and Learn About Its Working Process</u></a></li>
+<li><a href="https://games-able.techidaily.com/razer-blackwidow-v4-review-mechanical-wizardry-redefined/"><u>Razer BlackWidow V4 Review: Mechanical Wizardry Redefined</u></a></li>
+<li><a href="https://games-able.techidaily.com/reverting-card-invalid-status-in-sony-gaming-system/"><u>Reverting Card Invalid Status in Sony Gaming System</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-s-embracing-a-disc-free-future/"><u>Xbox S: Embracing a Disc-Free Future</u></a></li>
+</ul></div>
 

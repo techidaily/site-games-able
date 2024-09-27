@@ -1,7 +1,7 @@
 ---
 title: My Adventure Through the World of Indie Game Mastery
-date: 2024-09-13T20:47:53.234Z
-updated: 2024-09-20T22:36:41.563Z
+date: 2024-09-21T19:13:43.867Z
+updated: 2024-09-27T04:25:50.549Z
 tags:
   - games
 categories:
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/e12562333e85045ab9221a99e913b83b793150ee7
 
  If you’re not a fan of AAA titles, it can be really hard to find the stuff you do like. Fortunately, there are plenty of tools to root out fascinating indie titles; here are a few of my favorites and how I discovered them.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1 Last Word
 
 [Last Word](https://store.steampowered.com/app/355530/Last%5FWord/) is an RPG where you do battle not with swords or staves, but with the power of words. You’ve been summoned to a mysterious mansion alongside a cadre of colorful characters (not unlike Clue), where you must investigate matters of international intrigue.
@@ -49,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/e12562333e85045ab9221a99e913b83b793150ee7
 
 ![Video game screenshot of a small bird flying over a wooden bridge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/a-short-hike-screenshot.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Adam Robinson-Yu](https://ashorthike.com/)
 
  When it comes to indie PC titles, there are[alternatives to Steam](https://www.makeuseof.com/tag/tired-steam-best-alternative-gaming-clients/) . If you really want to get into the indie-est of indie, it’s worth checking out the[front page of itch.io](https://itch.io/) regularly. Anyone can post a game there, and the front page does a good job of highlighting some of the best titles, many of which can also be found on Steam.
@@ -61,6 +75,13 @@ thumbnail: https://thmb.techidaily.com/e12562333e85045ab9221a99e913b83b793150ee7
 
 ![Video game screenshot of a six-panel comic strip showing a woman being bitten by a vampire and a man kills the vampire, curing the woman](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/storyteller-vampire-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Daniel Benmergui / Annapurna Interactive](https://annapurnainteractive.com/en/games/storyteller)
 
  Years and years ago, I came across this short, charming little game called[Storyteller](https://annapurnainteractive.com/en/games/storyteller) where you would click and drag various elements to tell a particular story. I was certainly surprised when I found out the developer was making a full version for PC and console. That game was released last year under the same title, expanding the original with more characters and situations into more complicated puzzles.
@@ -72,22 +93,15 @@ thumbnail: https://thmb.techidaily.com/e12562333e85045ab9221a99e913b83b793150ee7
  Storyteller is also now available on mobile as one of[Netflix's games](https://www.makeuseof.com/how-to-play-games-on-netflix/) .
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5 VA-11 Hall-A: Cyberpunk Bartender Action
 
 ![Video game screenshot of a woman with teal hair saying, "It makes me feel comfy and nostalgic."](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/valhalla-bartending-screenshot.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Sukeban Games / Ysbryd Games](https://waifubartending.com/)
 
@@ -112,5 +126,26 @@ thumbnail: https://thmb.techidaily.com/e12562333e85045ab9221a99e913b83b793150ee7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-tiktok-video-aspect-ratios-for-2024/"><u>[New] TikTok Video Aspect Ratios for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-elite-fidelity-desktop-and-online-upconversion/"><u>[Updated] In 2024, Elite Fidelity Desktop & Online Upconversion</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-practices-choosing-exceptional-cloud-services/"><u>2024 Approved Best Practices Choosing Exceptional Cloud Services</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-goods-get-em-for-xbox/"><u>Digital Goods: Get 'Em for Xbox</u></a></li>
+<li><a href="https://games-able.techidaily.com/emudeck-tips-for-optimal-emulation-on-steam-deck/"><u>EmuDeck Tips for Optimal Emulation on Steam Deck</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-a-non-responsive-usb-mouse-solutions-for-your-laptop-woes/"><u>Fixing a Non-Responsive USB Mouse: Solutions for Your Laptop Woes</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-ensure-audio-plays-only-through-your-headset-on-xbox-series-xs/"><u>How to Ensure Audio Plays Only Through Your Headset on Xbox Series X|S</u></a></li>
+<li><a href="https://fox-search.techidaily.com/how-to-save-your-favorite-asiancrush-films-in-multiple-formats-mp4-avi-mov-on-pcs-and-macs/"><u>How to Save Your Favorite AsianCrush Films in Multiple Formats (MP4, AVI, MOV) on PCs and MACs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Samsung Galaxy F04? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-pro-level-screen-recorder-showdown/"><u>In 2024, Pro-Level Screen Recorder Showdown</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/keeping-it-classic-chdman-guide-for-small-sized-retro-gaming-discs/"><u>Keeping It Classic: CHDMAN Guide for Small-Sized Retro Gaming Discs</u></a></li>
+<li><a href="https://games-able.techidaily.com/leadership-in-gaming-secure-early-spiderman-2-edition/"><u>Leadership in Gaming: Secure Early SPIDERMAN 2 Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/new-graphics-feature-amds-fsr-3-dlss-35-on-trial/"><u>New Graphics Feature, AMD's FSR 3: DLSS 3.5 on Trial?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pro-video-enhancers-for-social-media-platforms-for-2024/"><u>Pro Video Enhancers for Social Media Platforms for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/setting-exclusive-headphone-volume-on-xbox-series/"><u>Setting Exclusive Headphone Volume on Xbox Series</u></a></li>
+<li><a href="https://games-able.techidaily.com/steer-clear-from-linkedin-games-here-are-reasons-why/"><u>Steer Clear From LinkedIn Games - Here Are Reasons Why</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-fundamental-factors-for-your-next-game-handset-selection/"><u>The Fundamental Factors for Your Next Game Handset Selection</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transcode-m4v-a-mpeg-en-ligne-gratuit-avec-movavi-video/"><u>Transcode M4V À MPEG en Ligne Gratuit Avec Movavi - Vidéo</u></a></li>
+</ul></div>
 

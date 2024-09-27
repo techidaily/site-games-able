@@ -1,7 +1,7 @@
 ---
 title: Steam's New Era of Family Sharing Features Debuts Today
-date: 2024-09-14T17:06:21.594Z
-updated: 2024-09-20T20:17:37.250Z
+date: 2024-09-19T16:13:00.020Z
+updated: 2024-09-26T20:47:24.057Z
 tags:
   - games
 categories:
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/d386a416e48c7407fcb7aac43bcc48ab905a8aa1d
 * [How to Enter the Steam Families Beta](#how-to-enter-the-steam-families-beta)
 * [The Pros and Cons of Steam Families](#the-pros-and-cons-of-steam-families)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * The Steam Families beta includes parental controls, game pooling, and structured playtime. This improves upon prior Family Sharing and Family View features.
@@ -36,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/d386a416e48c7407fcb7aac43bcc48ab905a8aa1d
 ## Steam Families: What Has Changed? How Does It Work?
 
 ![Steam Family Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/steam-family-management-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Steam Family Sharing wasn’t a family-centric feature. It was just a way to share games with other accounts that didn’t necessarily have to be your family. However, Valve released the[Steam Families Beta](https://store.steampowered.com/news/app/593110/view/4149575031735702628) on March 18, 2024, and the update changes that.
 
@@ -54,15 +68,22 @@ thumbnail: https://thmb.techidaily.com/d386a416e48c7407fcb7aac43bcc48ab905a8aa1d
  These changes allow you to truly have a parental system for Steam, much like a[kid's account for Netflix](https://www.makeuseof.com/how-to-create-netflix-kids-profile/) or YouTube.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Enter the Steam Families Beta
 
 ![How to enter Steam Families Beta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/how-to-enter-steam-families-beta.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you want to try out the new hub for yourself, you need to enter the Steam Families beta. To do this, open Steam and head to**Settings > Interface > Client Beta Participation** , then choose**Steam Families Beta** in the dropdown menu.
 
@@ -71,13 +92,6 @@ thumbnail: https://thmb.techidaily.com/d386a416e48c7407fcb7aac43bcc48ab905a8aa1d
  It will prompt you to accept, then the client will restart and update Steam. Once it has updated, you can access your family controls by going to**Settings > Family** **\> Manage your Steam Family** . This view is where you can see all the Steam Family features and parental controls once you've made your family and invited your children.
 
  If you need to make space for new games, make sure to[use Steam's Storage Manager](https://www.makeuseof.com/how-to-use-steam-storage-manager/) to conveniently manage your installs.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Pros and Cons of Steam Families
 
@@ -114,5 +128,21 @@ Some of the drawbacks of the feature include:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-traps-in-the-web-avoiding-the-snare-of-buying-non-existent-supporters/"><u>[New] 2024 Approved Traps in the Web Avoiding the Snare of Buying Non-Existent Supporters</u></a></li>
+<li><a href="https://games-able.techidaily.com/computex-2024-pushing-boundaries-in-ai/"><u>Computex 2024: Pushing Boundaries in AI</u></a></li>
+<li><a href="https://games-able.techidaily.com/ddr5-masterpieces-of-2024-ranked/"><u>DDR5 Masterpieces of 2024 Ranked</u></a></li>
+<li><a href="https://win-blog.techidaily.com/easy-steps-to-overcome-initialization-errors-in-pathfinder-wrath-of-the-righteous/"><u>Easy Steps to Overcome Initialization Errors in Pathfinder: Wrath of the Righteous</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-factors-in-steam-deck-buy/"><u>Essential Factors in Steam Deck Buy</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-effectively-install-your-computers-chipset-drivers-step-by-step/"><u>How to Effectively Install Your Computer's Chipset Drivers - Step by Step</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-realme-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Realme ?</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-nubia-red-magic-8s-proplus-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Nubia Red Magic 8S Pro+ Devices | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/silent-story-consumers-leading-anonymity-apps/"><u>Silent Story Consumers Leading Anonymity Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-overcome-no-error-message-in-win11-install/"><u>Steps to Overcome No Error Message in Win11 Install</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-to-resolve-xbox-one-joystick-faults/"><u>Strategies to Resolve Xbox One Joystick Faults</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-meizu-21-pro-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Meizu 21 Pro Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-full-potential-of-steam-deck-with-epic-and-gog/"><u>Unlock Full Potential of Steam Deck with Epic & GOG</u></a></li>
+</ul></div>
 

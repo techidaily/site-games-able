@@ -1,7 +1,7 @@
 ---
 title: Gamers Rejoice! Akko's MOD007B Keys Reviewed for You
-date: 2024-09-14T20:14:00.310Z
-updated: 2024-09-20T18:05:26.764Z
+date: 2024-09-26T03:56:44.125Z
+updated: 2024-09-26T17:06:18.291Z
 tags:
   - games
 categories:
@@ -114,6 +114,13 @@ No
 
 [See at Akko](https://en.akkogear.com/product/mod007b-pc-santorini-mechanical-keyboard/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## A Great-Looking Keyboard on the Surface
 
 ![Akko MOD007B HE Spacebar Detail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-spacebar-detail.jpg)
@@ -139,6 +146,13 @@ No
 ![Akko MOD007B HE Keycap Accessories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-keycap-accessories.jpg)
 
  Jowi Morales / MakeUseOf
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Akko MOD007B Means Serious Business Underneath
 
@@ -166,13 +180,6 @@ Related
 
 ![Akko MOD007B HE Three-Pin Mechanical Switch-Compatible PCB](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-three-pin-mechanical-switch-compatible-pcb.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Jowi Morales / MakeUseOf
 
 ## Typing on Cloud Nine
@@ -186,10 +193,10 @@ Related
 ![Akko MOD007B HE Cloud Driver Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/akko-mod007b-he-cloud-driver-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Of course, hardware is no good if you don’t pair it with great software. Thankfully, the Akko MOD007B comes with an easy-to-use and easy-to-understand driver. On thge Main tab you can remap your keyboard, change its Dynamic Keystroke settings, and set custom actuation distances for the entire keyboard or each key.
@@ -197,6 +204,13 @@ Related
  You can also create up to two function layers to map more than 100 keys and shortcuts in just two presses. Finally, there’s the Macro menu for recording macros and the Light menu to change the keyboard’s RGB lighting as you see fit.
 
  But best of all, any changes you make to the keyboard are stored on it. So, even if you switch PCs or upgrade to a newer device, you don’t have to download the driver and recreate your saved keyboard settings.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Confusing Multi-Mode Pairing
 
@@ -217,10 +231,10 @@ Related
 ![Akko MOD007B HE Battery-Level Check](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-battery-level-check.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Jowi Morales / MakeUseOf
@@ -231,6 +245,13 @@ Related
 
  Granted that this keyboard will most likely sit on your desk in wired mode, it’s still better to allow the user to switch off the keyboard when not using it. This will help save power, especially if you transport the keyboard in your bag (like when going to a LAN party or an on-site competition) and want to use it wirelessly.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Your Keyboard for Gaming Victory
 
  Although these couple of issues will negatively impact niche users like me, they won’t affect most users. You can't ignore the benefits of a Hall Effect keyboard, especially if you take your matches seriously.
@@ -240,13 +261,6 @@ Related
  So, if you are or plan to be a serious gamer, the Akko MOD007B is an excellent choice for a primary keyboard. And, as long as you don’t frequently switch between Windows and Mac, it’s a great all-around keyboard, too.
 
 ![Akko MOD007B PC eCommerce Image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/world-tour-tokyo-mod007b-pc-3-600x600.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### AKKO MOD007B PC
 
@@ -333,5 +347,24 @@ No
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-exploring-the-world-of-desktop-capturing-a-sprout-review-for-2024/"><u>[New] Exploring the World of Desktop Capturing - A Sprout Review for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instagram-showcase-video-reversal-techniques/"><u>[New] In 2024, Instagram Showcase Video Reversal Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-crafting-a-hit-list-youtubes-way-for-fans/"><u>[Updated] 2024 Approved Crafting a Hit-List Youtube's Way for Fans</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-art-of-lyric-videos-using-lyric-video-maker-software/"><u>[Updated] In 2024, The Art of Lyric Videos Using Lyric Video Maker Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-comprehensive-guide-to-embellishing-images-and-vids-in-windows-10s-photo-app-for-2024/"><u>A Comprehensive Guide to Embellishing Images and Vids in Windows 10'S Photo App for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719173627124-elevate-your-arcade-experience-large-format-framing-recommended/"><u>Elevate Your Arcade Experience: Large-Format Framing Recommended!</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-tools-to-keep-your-steam-deck-cool/"><u>Essential Tools to Keep Your Steam Deck Cool</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-your-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From your Apple iPhone 11 Pro</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-slomos-full-potential-a-compre-written-context/"><u>In 2024, Exploring SloMo's Full Potential A Compre Written Context</u></a></li>
+<li><a href="https://games-able.techidaily.com/join-the-digital-detective-game-with-ai-partners/"><u>Join the Digital Detective Game with AI Partners</u></a></li>
+<li><a href="https://games-able.techidaily.com/make-the-most-of-your-xbox-games-on-steam-via-glossi/"><u>Make the Most of Your Xbox Games on Steam via GlosSI</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-switch-maintenance-to-extend-its-usefulness/"><u>Mastering Switch Maintenance to Extend Its Usefulness</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-network-navigation-on-nintendo-switch/"><u>Navigating Network Navigation on Nintendo Switch</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/scripting-success-how-chatgpt-transformed-my-podcast-creation-process/"><u>Scripting Success: How ChatGPT Transformed My Podcast Creation Process</u></a></li>
+<li><a href="https://games-able.techidaily.com/secrets-to-a-smooth-steam-refund-and-recovery-of-cash/"><u>Secrets to a Smooth Steam Refund and Recovery of Cash</u></a></li>
+<li><a href="https://games-able.techidaily.com/system-optimization-how-to-decrease-steams-ram-consumption/"><u>System Optimization: How to Decrease Steam's RAM Consumption</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlocking-hidden-gems-for-your-nes-classic-console-experience/"><u>Unlocking Hidden Gems for Your NES Classic Console Experience</u></a></li>
+</ul></div>
 

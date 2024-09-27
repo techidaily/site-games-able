@@ -1,7 +1,7 @@
 ---
 title: Launch Group Gaming with PS5 Connectivity
-date: 2024-09-16T22:29:05.470Z
-updated: 2024-09-20T22:00:59.770Z
+date: 2024-09-23T23:36:23.285Z
+updated: 2024-09-26T20:45:13.496Z
 tags:
   - games
 categories:
@@ -31,6 +31,13 @@ Here's how you can game share on PS5.
 
  Furthermore, if you have a[PlayStation Plus subscription](https://www.makeuseof.com/what-is-playstation-plus/) , you will also share it with them, meaning they will be able to access certain PS Plus benefits. These include playing the games in your PS Plus game library (including titles in the classic catalog) and having access to online multiplayer. Benefits they can't use include saving game progress to the cloud and claiming PS Plus discounts and free monthly games.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Game Share on PS5
 
  You can only enable game sharing on one PS5 console at a time, meaning you'll need to disable it on your main PS5 console before you enable it on another. Keep in mind that, once you do this, you won't be able to access your digital games offline, as your console will need an internet connection to verify ownership of the titles on the PSN server.
@@ -42,10 +49,34 @@ Here's how you can game share on PS5.
 1. On the home screen, select**Settings** (the gear icon) in the top-right corner.  
 ![Screenshot of PS5 home screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/improved-user-interface.jpeg)
 2. Select**User and Accounts > Other** on the left side menu, and then select**Console Sharing and Offline Play** on the right.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![the other page of the ps5 user and accounts settings screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/user-and-accounts-ps5.jpg)
 3. Select**Disable** to turn off game sharing on your console.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![the console sharing and offline play settings screen on ps5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/console-sharing-and-offline-play-ps5.jpg)
 4. On the other PS5, connect it to the internet and log into your PSN account. If you don't have an existing account on that console, you can[create a new user account on that PS5](https://www.makeuseof.com/how-to-add-a-new-ps5-user-and-guest-account/) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Navigate to the**Console Sharing and Offline Play** screen (steps one and two above).
 6. Select**Enable** this time around to enable game sharing on that console.  
 ![enabling game sharing on PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enabling-game-sharing-on-ps5.jpg)
@@ -77,12 +108,22 @@ Here's how you can game share on PS5.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-from-still-life-to-motion-picture-a-complete-guide-on-pixiz-videos/"><u>[New] In 2024, From Still Life to Motion Picture A Complete Guide on Pixiz Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-snaprecorder-expert-breakdowns/"><u>[Updated] SnapRecorder Expert Breakdowns</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-multimedia-mac-recording-software-with-sound/"><u>2024 Approved Multimedia Mac Recording Software with Sound</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/cross-platform-server-switch-from-bedrock-to-java-with-geysermc/"><u>Cross-Platform Server Switch: From Bedrock to Java with GeyserMC</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-retro-playback-to-modern-windows-the-steam-deck-route/"><u>From Retro Playback to Modern Windows - The Steam Deck Route</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-guide-to-enhancing-performance-and-fun/"><u>Gamers' Guide to Enhancing Performance and Fun</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-meizu-21-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Meizu 21 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/opera-gx-and-edge-showdown-deciding-on-top-gaming-browsers/"><u>Opera GX and Edge Showdown: Deciding on Top Gaming Browsers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-honor-x7b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/securing-ps5-internet-link-resolving-common-issues/"><u>Securing PS5 Internet Link: Resolving Common Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-avi-files-a-guide-to-opening-and-editing-with-movavi-video-converter/"><u>Understanding AVI Files: A Guide to Opening and Editing with Movavi Video Converter</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-steam-points-accumulation-and-application/"><u>Unveiling Steam Points: Accumulation & Application</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/windows-11-beta-unveils-microsofts-latest-innovations-revamped-start-menu-and-integrated-advertising/"><u>Windows 11 Beta Unveils Microsoft's Latest Innovations: Revamped Start Menu and Integrated Advertising</u></a></li>
+<li><a href="https://games-able.techidaily.com/winning-strategies-for-smooth-play-fps-fixes-on-your-windows-valorant-machine/"><u>Winning Strategies for Smooth Play: FPS Fixes on Your Windows Valorant Machine</u></a></li>
+</ul></div>
 

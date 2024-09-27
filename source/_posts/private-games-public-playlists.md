@@ -1,7 +1,7 @@
 ---
 title: Private Games, Public Playlists
-date: 2024-09-14T01:50:12.543Z
-updated: 2024-09-20T19:29:20.669Z
+date: 2024-09-24T03:27:42.531Z
+updated: 2024-09-26T21:50:05.661Z
 tags:
   - games
 categories:
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/07be777ce45c307461ad22ca534398f5c53e5285d
 * [How to Hide a Game on Steam With the Private Feature](#how-to-hide-a-game-on-steam-with-the-private-feature)
 * [Don't Mix Up Private Games and Hidden Games on Steam](#don-39-t-mix-up-private-games-and-hidden-games-on-steam)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Steam now lets you hide specific games in your library by marking them as private. This differs from hiding a game from your library view.
@@ -41,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/07be777ce45c307461ad22ca534398f5c53e5285d
 
  But the new feature lets you mark specific titles while keeping the remainder of your library visible. For each private game, Steam hides your in-game status, playtime, and other activity.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Hide a Game on Steam With the Private Feature
 
  If you specifically want to keep friends from seeing a game in your library and prevent them from seeing when you're playing it, you should mark it as private.
@@ -48,15 +62,22 @@ thumbnail: https://thmb.techidaily.com/07be777ce45c307461ad22ca534398f5c53e5285d
 ![marking a game as private on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/marking-a-game-as-private-on-steam.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To do this, open Steam and head to your**Library.** Scroll down to the game you want to make private and right-click on it. Then select**Manage > Mark as Private** . In the popup box, select the**Mark as Private** button.
 
 ![mark as private notification on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/mark-as-private-notification.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  I noticed that the feature doesn't work immediately if you are currently playing the game. So it's best to exit the game before setting a title as private. When you re-enter the game, it should no longer show up in your status.
 
@@ -78,13 +99,6 @@ thumbnail: https://thmb.techidaily.com/07be777ce45c307461ad22ca534398f5c53e5285d
 
 ![checking that a game is private on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/checking-that-a-game-is-private-on-steam-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also head to your library to remove a game from your private items. Right-click on the title and then select**Manage > Unmark as Private** .
 
  You should also keep in mind that if you[enabled a custom playing status on Discord](https://www.makeuseof.com/set-custom-playing-status-discord/) , a private Steam game will still show up on Discord while you're playing it.
@@ -96,13 +110,6 @@ thumbnail: https://thmb.techidaily.com/07be777ce45c307461ad22ca534398f5c53e5285d
  If you've been using the wrong feature to try making your games private, you can find all your hidden games in your library. If you remember the name of the specific title, you can search for it and it will show up under a hidden tab.
 
 ![find your hidden games on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/find-your-hidden-games-on-steam.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you don't remember the names of the games you've hidden in the past, you can select the**View** option at the top of the Steam app and then select**Hidden Games** . You can then go through each one to mark it as private.
 
@@ -123,5 +130,20 @@ thumbnail: https://thmb.techidaily.com/07be777ce45c307461ad22ca534398f5c53e5285d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-trending-upward-selective-use-for-your-insta-posts/"><u>[Updated] 2024 Approved Trending Upward Selective Use for Your Insta Posts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-essential-6-social-platforms-for-enterprises-for-2024/"><u>[Updated] Essential 6 Social Platforms for Enterprises for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-navigating-free-vs-paid-the-ultimate-guide-to-downloading-videos-from-vimeo-for-2024/"><u>[Updated] Navigating Free Vs. Paid The Ultimate Guide to Downloading Videos From Vimeo for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-5-innovative-apps-to-design-stunning-openings/"><u>2024 Approved 5 Innovative Apps to Design Stunning Openings</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-honor-play-40c-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Honor Play 40C Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-asus-rog-phone-8-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Asus ROG Phone 8 FRP</u></a></li>
+<li><a href="https://games-able.techidaily.com/behemoth-rising-raider-hx-reviewed/"><u>Behemoth Rising: Raider HX Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-dynamic-evolution-in-mmo-worlds/"><u>Exploring the Dynamic Evolution in MMO Worlds</u></a></li>
+<li><a href="https://games-able.techidaily.com/secure-your-steam-deck-2024s-premium-cases-list/"><u>Secure Your Steam Deck: 2024'S Premium Cases List</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-simple-ways-to-prolong-your-nintendo-switchs-life/"><u>The Simple Ways to Prolong Your Nintendo Switch's Life</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-guide-to-professional-xbox-recording-tools/"><u>Ultimate Guide to Professional Xbox Recording Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719160288445-uncover-chatgpts-hidden-game-treasures-the-best-6/"><u>Uncover ChatGPT's Hidden Game Treasures - The Best 6</u></a></li>
+<li><a href="https://techidaily.com/what-to-do-if-iphone-12-mini-is-not-listed-when-i-run-the-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What to do if iPhone 12 mini is not listed when I run the software? | Stellar</u></a></li>
+</ul></div>
 

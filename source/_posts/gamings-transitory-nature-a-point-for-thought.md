@@ -1,7 +1,7 @@
 ---
 title: "Gaming's Transitory Nature: A Point for Thought?"
-date: 2024-09-13T22:53:43.466Z
-updated: 2024-09-20T16:20:18.807Z
+date: 2024-09-22T07:13:15.329Z
+updated: 2024-09-26T19:48:19.564Z
 tags:
   - games
 categories:
@@ -28,6 +28,19 @@ thumbnail: https://thmb.techidaily.com/09d90f71aa46b1fd9d4bcc7810bb203ff9683f8d9
 
  Game servers for two much-loved games recently shut down, destroying millions of user-created levels. Why did this happen and is there anything you can do about it?
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Are Game Servers?
 
  A game server is a specialized computer that provides gaming services over the internet. They are mainly used for two purposes:
@@ -39,9 +52,23 @@ thumbnail: https://thmb.techidaily.com/09d90f71aa46b1fd9d4bcc7810bb203ff9683f8d9
 
  Worse, servers can be shut down permanently if their owners don’t see enough value in keeping them running. This happened in April 2024 with two much-loved platforming games losing their user-generated levels. Game servers that hosted player-made levels for both Super Mario Maker (Wii U, 3DS) and LittleBigPlanet 3 (PlayStation 3 and 4) were closed forever.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which Games Run Using a Server?
 
 ![A promotional image showing a Fortnite character based on Billie Eilish](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/fortnite-festival-season-3-1920x1080-5bb5103dc240.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Epic Games](https://www.fortnite.com/news/fortnite-festival-season-3-features-billie-eilish)
 
@@ -63,10 +90,10 @@ thumbnail: https://thmb.techidaily.com/09d90f71aa46b1fd9d4bcc7810bb203ff9683f8d9
 ![The inside of an old computer with cobwebs stretched out among the cables.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/shutterstock_688683298.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Gennady Grechishkin/[Shutterstock](https://www.shutterstock.com/image-photo/old-computer-system-unit-spiderweb-dust-688683298)
@@ -78,13 +105,6 @@ thumbnail: https://thmb.techidaily.com/09d90f71aa46b1fd9d4bcc7810bb203ff9683f8d9
  Meanwhile, the Wii U Super Mario Maker server lasted for just under 9 years. Sony’s LittleBigPlanet 3 lasted for almost 10 years, although its servers were plagued by problems resulting from hacks and mods.
 
  The Overwatch 1 servers lasted just six years, and[the game is now officially dead](https://gamerant.com/overwatch-servers-shutdown-status-offline/) . But that decision was simply to make way for the game’s sequel. Generally, a game server stays up for at least as long as a console generation. Publishers could argue that anything beyond this is a sign of goodwill.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Happens When Servers Shut Down?
 
@@ -113,5 +133,26 @@ thumbnail: https://thmb.techidaily.com/09d90f71aa46b1fd9d4bcc7810bb203ff9683f8d9
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-unveiling-celestial-beauty-premium-hdr-sky-portals/"><u>[Updated] 2024 Approved Unveiling Celestial Beauty Premium HDR Sky Portals</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-video-editing-in-apple-m1-macbook-air/"><u>[Updated] In 2024, Video Editing in Apple M1 MacBook Air</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-monitoring-your-instagram-exit-strategy-for-2024/"><u>[Updated] Monitoring Your Instagram Exit Strategy for 2024</u></a></li>
+<li><a href="https://solve-info.techidaily.com/enhanced-user-tracking-with-the-power-of-cookiebot-technology/"><u>Enhanced User Tracking with the Power of Cookiebot Technology</u></a></li>
+<li><a href="https://games-able.techidaily.com/experience-next-level-games-with-nvidias-fresh-application/"><u>Experience Next-Level Games with Nvidia’s Fresh Application</u></a></li>
+<li><a href="https://games-able.techidaily.com/guard-your-conversations-on-xbox-series-xs/"><u>Guard Your Conversations on Xbox Series X|S</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-itel-s23plus-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Itel S23+ to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-use-activities-on-discord-including-chess-and-poker/"><u>How to Use Activities on Discord (Including Chess and Poker)</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-14-pro-drfone-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Samsung Galaxy M14 4G? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-thrill-seekers-challenge-hero5b-vs-hero5-session-in-action/"><u>In 2024, Thrill Seekers Challenge Hero5B Vs Hero5 Session in Action</u></a></li>
+<li><a href="https://games-able.techidaily.com/leveraging-sonys-controller-for-enhanced-pc-gameplay-experience/"><u>Leveraging Sony’s Controller for Enhanced PC Gameplay Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-your-switch-time-join-the-3-leading-stream-services/"><u>Maximize Your Switch Time: Join the 3 Leading Stream Services</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-your-discord-experience-with-top-servers/"><u>Maximizing Your Discord Experience with Top Servers</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-rev-up-your-videos-10-best-free-speed-changing-apps-for-ios-and-android/"><u>New In 2024, Rev Up Your Videos 10 Best Free Speed Changing Apps for iOS and Android</u></a></li>
+<li><a href="https://games-able.techidaily.com/older-pcs-reimagined-with-atlasos/"><u>Older PCs Reimagined with AtlasOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/pioneering-the-path-to-play-pre-starfield/"><u>Pioneering the Path to Play Pre-Starfield</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-excellence-with-nvidias-novel-gaming-app/"><u>Unlocking Excellence with Nvidia's Novel Gaming App</u></a></li>
+</ul></div>
 

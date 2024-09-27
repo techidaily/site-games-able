@@ -1,7 +1,7 @@
 ---
 title: "Mastering Steam Gaming on Meta Quest: A Beginner's Guide"
-date: 2024-09-17T19:51:45.770Z
-updated: 2024-09-20T20:48:11.934Z
+date: 2024-09-22T17:57:27.059Z
+updated: 2024-09-27T07:04:40.488Z
 tags:
   - games
 categories:
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/e8bfc69e4cfa6c5e7699d7a6d6fe4dbd7b3f6ecf3
 
 ![meta store download steam link app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/meta-store-download-steam-link-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To get started, download the[official Meta Steam Link app](https://www.meta.com/en-us/experiences/5841245619310585/) . You can also find this easily in your headset using the Meta store. You'll need to pair this with your desktop gaming machine, so open the app and click through to start scanning for a local machine running Steam.
 
  You'll see an error saying**Computer Not Found** if your computer isn't on the same network (or isn't turned on at all).
@@ -62,11 +69,31 @@ thumbnail: https://thmb.techidaily.com/e8bfc69e4cfa6c5e7699d7a6d6fe4dbd7b3f6ecf3
 
 ![steam link vr bigscreen mode vr titles only](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/steam-link-vr-bigscreen-mode-vr-titles-only.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  While it is possible to play non-VR flatscreen games using Steam Link as well, I found that the Meta Quest controllers aren't emulated as a gamepad, nor will Steam Link pass through a gamepad that's connected via Bluetooth to your Quest.
 
  It's also not easy to use your Quest controller to point and click like a mouse (it requires simultaneously holding down the Steam button and then tapping the trigger, for instance).
 
 ![steam link vr library view](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/steam-link-vr-library-view.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Instead, you'll need to use a mouse and keyboard (or a gamepad) connected directly to your PC. If you're in the same room as your PC anyway, this isn't a huge deal. But it does mean that you can't enjoy some casual gaming from bed, for instance.
 
@@ -86,13 +113,6 @@ thumbnail: https://thmb.techidaily.com/e8bfc69e4cfa6c5e7699d7a6d6fe4dbd7b3f6ecf3
 
 ![virtual desktop screenshot app about my pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/virtual-desktop-screenshot-app-about-my-pc.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Start by downloading the streaming software to your PC using the[Virtual Desktop website](https://www.vrdesktop.net/) . Make sure that it's running (it sits quietly in the taskbar usually).
 
  The default options are fine for most people—it will automatically optimize your connection and emulate a gamepad using your Quest controllers. You'll also need to purchase the[Virtual Desktop app from the Meta store](https://www.meta.com/en-us/experiences/2017050365004772/) or from within your headset.
@@ -104,6 +124,13 @@ thumbnail: https://thmb.techidaily.com/e8bfc69e4cfa6c5e7699d7a6d6fe4dbd7b3f6ecf3
  You can now use the Meta Quest controllers to interact with your desktop and open SteamVR or any other application as you would with a mouse. Alternatively, press the left controller button and select the Games tab. It'll list any Steam (and Oculus) VR games so that you can launch them directly.
 
 ![virtual desktop games library view in headset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/virtual-desktop-games-library-view-in-headset.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also emulate a standard gamepad using the Meta Quest controllers—though it can take some getting used to. Virtual Desktop will pass through an actual Bluetooth gamepad as well, so if you aren't in the same room, you can[connect a gamepad to your Quest](https://www.meta.com/en-gb/help/quest/articles/headsets-and-accessories/controllers-and-hand-tracking/gamepad-with-oculus-quest-2/) and use that to play.
 
@@ -127,25 +154,11 @@ thumbnail: https://thmb.techidaily.com/e8bfc69e4cfa6c5e7699d7a6d6fe4dbd7b3f6ecf3
 
 ![enable quest link from quick settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/enable-quest-link-from-quick-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  For wireless connectivity, click the**Enable AirLink** option. Your computer should then be listed below. Click to pair, and if this is your first time, you'll need to confirm the pairing request on the PC side (a code is shown to verify from the headset, but you don't need to note it down or type it in).
 
  You'll also need to jump back into the headset after doing so and confirm again there.
 
 ![use airlink for quest link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/use-airlink-for-quest-link.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If all goes well, you'll be thrown into a stark Oculus desktop interface, where you'll find an array of buttons at your controller-tips for**Library** —which is where you can find a link to SteamVR, as well as your Oculus desktop games (if any)—or just**Desktop** .
 
@@ -173,6 +186,13 @@ thumbnail: https://thmb.techidaily.com/e8bfc69e4cfa6c5e7699d7a6d6fe4dbd7b3f6ecf3
 
 ![oculus desktop headset connected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/oculus-desktop-headset-connected.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The instructions for getting this working over a USB cable are the same as the AirLink section above, except you don't need to enable the AirLink option; it will assume you're using a cable, so just click connect.
 
 **Meta Link Cable Pros:**
@@ -185,10 +205,10 @@ thumbnail: https://thmb.techidaily.com/e8bfc69e4cfa6c5e7699d7a6d6fe4dbd7b3f6ecf3
 * You're tethered to your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which Method Should You Use to Play Steam Games on Your Meta Quest?
@@ -210,5 +230,18 @@ thumbnail: https://thmb.techidaily.com/e8bfc69e4cfa6c5e7699d7a6d6fe4dbd7b3f6ecf3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-unparalleled-clarity-in-speech-interpretation-via-google-platform-for-2024/"><u>[Updated] Unparalleled Clarity in Speech Interpretation via Google Platform for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/baffling-board-games-for-brainy-beings/"><u>Baffling Board Games for Brainy Beings</u></a></li>
+<li><a href="https://games-able.techidaily.com/defining-and-assessing-dual-mode-monitor-utility-in-gaming/"><u>Defining and Assessing Dual-Mode Monitor Utility in Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-joy-con-to-console-now-to-steam/"><u>From Joy-Con to Console, Now to Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-a-taste-of-victory-free-soccer-management-on-windows/"><u>Get a Taste of Victory: Free Soccer Management on Windows</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-vivo-y56-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo Y56 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-oppo-a59-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Oppo A59 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Realme Narzo 60 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ding-with-precision-perfecting-ios-device-features-on-youtube-for-2024/"><u>Recording with Precision Perfecting iOS Device Features on YouTube for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-solving-issues-with-a-non-functioning-firestick-remote/"><u>Troubleshooting Tips: Solving Issues with a Non-Functioning Firestick Remote</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-honor-v-purse-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Honor V Purse FRP Bypass</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Quick Guide to Steam's Screen Capture Features
-date: 2024-09-15T17:34:38.255Z
-updated: 2024-09-20T16:59:38.084Z
+date: 2024-09-22T06:50:17.022Z
+updated: 2024-09-26T21:11:58.859Z
 tags:
   - games
 categories:
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
 
 ![steam post-game summary](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steam-post-game-summary.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Manage Your Steam Screenshots
 
  From Steam's top menu, click**View > Screenshots** to open the Screenshot Manager. It's sorted by your**Most Recent** screenshots by default; use this dropdown to select a specific game. Select a screenshot from the left to view it larger in the main pane, along with details like capture date and file size.
@@ -44,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
  The screenshots are stored locally on your computer. Through the Screenshot Manager, you can adjust the**Visibility** and choose to**Upload** screenshots to share on the Steam Community for other players to view. You can also add a caption and mark the image as a spoiler.
 
 ![steam screenshot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steam-screenshot-manager.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To select multiple screenshots, hold**Ctrl** and click each in turn, or hold**Shift** and click to highlight all screenshots in the range. You can also click**Select All** .
 
@@ -62,15 +76,22 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
 
 ![steam screenshot settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steam-screenshot-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Here you're able to set your**Screenshot shortcut keys** , plus toggle whether a screenshot should**display a notification** and**play a sound** .
 
  If you want your screenshots saved in the highest quality possible, enable**Save an uncompressed copy of my screenshots** , though be aware this will use more disk space. To change the storage location of these uncompressed screenshots, click**Change folder** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## It's Easy to Take Screenshots on a Steam Deck Too
@@ -90,5 +111,20 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-leveraging-lut-technology-in-adobe-premiere/"><u>[New] Leveraging LUT Technology in Adobe Premiere</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-elevate-your-videos-a-complete-shift-from-sdr-to-hdr/"><u>[Updated] In 2024, Elevate Your Videos A Complete Shift From SDR to HDR</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1-how-to-liberate-your-music-two-cost-free-techniques-for-bypassing-drm-on-m4p-files/"><u>1. How to Liberate Your Music: Two Cost-Free Techniques for Bypassing DRM on M4P Files</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/capture-and-share-saving-your-ppt-sessions/"><u>Capture and Share Saving Your PPT Sessions</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-step-by-step-epson-perfection-v500-software-setup-and-download/"><u>Easy Step-by-Step Epson Perfection V500 Software Setup and Download</u></a></li>
+<li><a href="https://windows11.techidaily.com/fine-tuning-taskbars-date-and-time-presentation/"><u>Fine-Tuning Taskbar's Date & Time Presentation</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagram-visual-mastery-crop-and-edit-videos-like-pros-for-2024/"><u>Instagram Visual Mastery Crop and Edit Videos Like Pros for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-it-feasible-to-connect-ps5-controller-with-ps4/"><u>Is It Feasible to Connect PS5 Controller with PS4?</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-the-art-of-combining-sony-and-switch-gameplay/"><u>Master the Art of Combining Sony & Switch Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-your-computer-5-ways-to-curb-steams-ram-consumption/"><u>Optimizing Your Computer - 5 Ways to Curb Steam's RAM Consumption</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplify-fun-enter-the-realm-of-idles/"><u>Simplify Fun: Enter the Realm of Idles</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/step-by-step-guide-adding-the-black-lightning-plugin-to-your-kodi-1918-setup/"><u>Step-by-Step Guide: Adding the Black Lightning Plugin to Your Kodi 19/18 Setup</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-your-skills-on-youtubes-experimental-minigame-tests/"><u>Unleash Your Skills on YouTube's Experimental Minigame Tests</u></a></li>
+</ul></div>
 

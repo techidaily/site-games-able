@@ -1,7 +1,7 @@
 ---
 title: How to Avoid Uncontrolled Mouse Scrolling
-date: 2024-09-14T00:12:10.687Z
-updated: 2024-09-21T01:54:21.546Z
+date: 2024-09-21T22:44:24.567Z
+updated: 2024-09-26T21:25:45.821Z
 tags:
   - games
 categories:
@@ -55,11 +55,37 @@ thumbnail: https://thmb.techidaily.com/5b65c4b3f0686b248331bf2cc1de813c24155eaac
 
 ![Person Unmounting the Screws to Disassemble the Mouse Casing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/1-Person-Unmounting-the-Screws-to-Disassemble-the-Mouse-Casing.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image Credit: TechClub/[YouTube](https://www.youtube.com/watch?v=%5FWBHLISDp80)
 
  The first step is to disassemble the mouse casing by unscrewing all the screws. To do so, remove any pads covering your mouse screws so you can see them. When the screws are visible, use a screwdriver to unscrew them and place them in a safe location.
 
  If there aren't any screws left, you should be able to remove the top panel of the mouse casing and reveal the internal circuit board. After that, you will need to unplug all circuit connections.
+
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 2: Carefully Unplug the Circuit Connections
 
@@ -68,19 +94,39 @@ thumbnail: https://thmb.techidaily.com/5b65c4b3f0686b248331bf2cc1de813c24155eaac
 ![Person Unplugging the LED Cable Connected to the Upper Panel of the Mouse Casing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/2-Person-Unplugging-the-LED-Cable-Connected-to-the-Upper-Panel-of-the-Mouse-Casing.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image Credit: TechClub/[YouTube](https://www.youtube.com/watch?v=%5FWBHLISDp80)
 
  Even though removing your mouse's circuit from the lower panel is unnecessary, if you want to do that, make sure there are no screws attached. If there are any, remove them and take the circuit off the bottom panel of your mouse. Alternatively, you can unmount the scroll wheel directly without unmounting the circuit.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 3: Unmount the Scroll Wheel
 
 ![Person Unmounting the Scroll Wheel From Mouse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/4-Person-Unmounting-the-Scroll-Wheel-From-Mouse.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Image Credit: TechClub/[YouTube](https://www.youtube.com/watch?v=%5FWBHLISDp80)
 
@@ -89,13 +135,6 @@ thumbnail: https://thmb.techidaily.com/5b65c4b3f0686b248331bf2cc1de813c24155eaac
 ## Step 4: Fix the Encoder Assembly
 
 ![Person Showing the Mouse Encoder Assembly](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/5-Person-Showing-the-Mouse-Encoder-Assembly.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit: TechClub/[YouTube](https://www.youtube.com/watch?v=%5FWBHLISDp80)
 
@@ -110,22 +149,15 @@ thumbnail: https://thmb.techidaily.com/5b65c4b3f0686b248331bf2cc1de813c24155eaac
 
 ![Person Showing the Fixed Mouse Encoder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/6-Person-Showing-the-Fixed-Mouse-Encoder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Image Credit: TechClub/[YouTube](https://www.youtube.com/watch?v=%5FWBHLISDp80)
 
  If the issue persists, there might be a problem with the scroll wheel hub. So, fixing the encoder coil spring assembly may not help.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 5: Wrap a Small Piece of Paper Around the Scroll Wheel Hub
@@ -143,13 +175,6 @@ thumbnail: https://thmb.techidaily.com/5b65c4b3f0686b248331bf2cc1de813c24155eaac
  The steps above will help you fix the jumpy scroll wheel, but if it still doesn't work, purchasing a new encoder should be your last resort. Find out what type of encoder your mouse has and buy it. Replace the old encoder with the new one; hopefully, it will fix the problem.
 
  The cost of an encoder is very low, so it won't break the bank to buy one. Additionally, replacing the encoders is far more cost-effective than replacing the entire mouse, so it's the best option.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Can't Fix the Scroll Wheel on Your Own? Consider These Alternatives
 
@@ -178,5 +203,21 @@ thumbnail: https://thmb.techidaily.com/5b65c4b3f0686b248331bf2cc1de813c24155eaac
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-strategies-for-itunes-podcast-enrollment-success/"><u>2024 Approved Strategies for iTunes Podcast Enrollment Success</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-xiaomi-redmi-note-12-pro-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Xiaomi Redmi Note 12 Pro 5G? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/cross-platform-connectivity-stream-decks-secure-link-to-your-desktop/"><u>Cross-Platform Connectivity: Stream Deck's Secure Link to Your Desktop</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-of-logitech-c270-video-camera-driver-for-enhanced-streaming-on-windows-10-and-11/"><u>Easy Installation of Logitech C270 Video Camera Driver for Enhanced Streaming on Windows 10 and 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-90-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor 90 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/lemokeys-quality-revealed-in-keychron-gaming-board/"><u>Lemokey's Quality Revealed in Keychron Gaming Board</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leverage-cookiebot-technology-for-enhanced-web-analytics-and-seo-success/"><u>Leverage Cookiebot Technology for Enhanced Web Analytics and SEO Success</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/lut-lovers-delight-complimentary-sets-for-djis-miniair2/"><u>LUT Lovers Delight Complimentary Sets for DJI's Mini/Air2</u></a></li>
+<li><a href="https://games-able.techidaily.com/measuring-memory-unveiling-vram-amount/"><u>Measuring Memory: Unveiling VRAM Amount</u></a></li>
+<li><a href="https://blog-min.techidaily.com/movavis-web-based-no-cost-arw-image-transformation-to-png/"><u>Movavi's Web-Based No-Cost ARW Image Transformation to PNG</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-graphic-freeze-in-win10win11-dxgi-error-solved/"><u>Overcoming Graphic Freeze in Win10/Win11 - DXGI Error Solved</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719169636723-tackle-system-hiccups-update-your-gpu-driver/"><u>Tackle System Hiccups - Update Your GPU Driver!</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-art-of-crafting-engaging-successful-games-learn-from-helldivers-2/"><u>The Art of Crafting Engaging, Successful Games: Learn From Helldivers 2</u></a></li>
+</ul></div>
 

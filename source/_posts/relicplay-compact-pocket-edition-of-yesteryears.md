@@ -1,7 +1,7 @@
 ---
 title: "RelicPlay Compact: Pocket Edition of Yesteryears"
-date: 2024-09-14T01:38:00.734Z
-updated: 2024-09-21T01:14:48.738Z
+date: 2024-09-20T03:17:04.526Z
+updated: 2024-09-27T06:57:56.681Z
 tags:
   - games
 categories:
@@ -201,6 +201,13 @@ There’s even Nintendo GameCube and Wii support.
 
  Of course, the attraction of the Retroid Pocket 3+ is that the console runs several 16-bit and 32-bit platforms, so your mileage will vary depending on the emulation you’re looking for.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Using the Retroid Pocket 3+ Controls
 
  The handheld emulator has controls to suit all arcade gaming scenarios, equipped with a D-pad, dual clickable thumb sticks, ABXY buttons, left and right triggers, and left and right shoulder buttons.
@@ -208,13 +215,6 @@ There’s even Nintendo GameCube and Wii support.
  The volume buttons are occasionally called into action—perhaps to add credits or start a game—but usually are limited to their main function.
 
 ![Retoid Pocket 3+ right-thumbstick](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/muo-reviews-retroid-pocket-3-right.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  I also noticed that the Retroid Pocket 3+ tends to misinterpret certain button presses as Android menu commands. So far, I haven’t been able to find a workaround or tweak the mapping to prevent this.
 
@@ -225,6 +225,13 @@ There’s even Nintendo GameCube and Wii support.
  For the complete ROM-focused option (your legally-acquired disk images of classic game cartridges or disks) should be copied to the device over USB cable. The best option is to use a microSD card, although note this is best formatted in “Portable” mode. If you use the alternative, it cannot be accessed either via USB or by ejecting and inserting in your PC.
 
 ![Retroid Pocket 3+ shoulder buttons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/muo-reviews-retroid-pocket-3-shoulder.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once formatted, the microSD card can be configured with the necessary directories (this takes a single tap), then you can copy your ROMs copied to the platform-specific directory.
 
@@ -253,16 +260,10 @@ There’s even Nintendo GameCube and Wii support.
 ![R-Type in PC Engine emulator on Retoid Pocket 3+](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/muo-reviews-retroid-pocket-3-rtype-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Meanwhile, you can bang your gaming onto a big-screen TV with the micro HDMI port. The 3.5mm audio port lets you enjoy private gaming soundtracks on the go, too. I also hooked up my Sony Bluetooth earbuds to the Retroid Pocket 3+, a far superior option to the console’s built-in speakers.
@@ -270,10 +271,16 @@ There’s even Nintendo GameCube and Wii support.
  The USB-C port has all the usual controller support, and even supports keyboards if required.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Retroid Pocket 3+ Delivers the Ultimate Portable Retro Gaming Experience
@@ -283,10 +290,10 @@ There’s even Nintendo GameCube and Wii support.
 ![Retroid Pocket 3+ by a pool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/muo-reviews-retroid-pocket-3-pool.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The release of the Retroid Pocket 3+ has proved somewhat controversial in the retro gaming handheld emulation community. To all intents and purposes, it is a Retroid Pocket 3, but with more processing and RAM, and a higher price to match, represents a notable upgrade.
@@ -306,5 +313,21 @@ There’s even Nintendo GameCube and Wii support.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-deciphering-facebooks-iconic-blue-emoji-usage-in-messages/"><u>[New] 2024 Approved Deciphering Facebook's Iconic Blue Emoji Usage in Messages</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-a-symphony-of-streams-harmonizing-your-multiple-youtube-views/"><u>[Updated] A Symphony of Streams Harmonizing Your Multiple YouTube Views</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-how-asmr-can-boost-your-health-and-happiness/"><u>[Updated] In 2024, How ASMR Can Boost Your Health & Happiness</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-native-chrome-os-screen-snapper/"><u>[Updated] Native Chrome OS Screen Snapper</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-self-filmed-brilliance-secrets-for-youtube-success/"><u>[Updated] Self-Filmed Brilliance Secrets for YouTube Success</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-dissecting-vidmas-recording-features-a-technical-breakdown/"><u>2024 Approved Dissecting Vidma's Recording Features - A Technical Breakdown</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-text-based-adventure-games-you-can-play-in-your-browser/"><u>5 Text-Based Adventure Games You Can Play in Your Browser</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieving-perfection-a-complete-ps4-factory-reset/"><u>Achieving Perfection: A Complete PS4 Factory Reset</u></a></li>
+<li><a href="https://games-able.techidaily.com/bidding-adieu-to-ea-new-price-prohibitive-for-gaming/"><u>Bidding Adieu to EA: New Price Prohibitive for Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/does-the-birth-of-fsr-3-herald-a-new-era-beyond-nvidias-dlss-35/"><u>Does the Birth of FSR 3 Herald a New Era Beyond NVIDIA's DLSS 3.5?</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-smooth-transitions-in-games-through-nvidia-g-sync/"><u>Exploring Smooth Transitions in Games Through Nvidia G-Sync</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/methods-for-rectifying-screen-driver-issues-on-pcs/"><u>Methods for Rectifying Screen Driver Issues on PCs</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/unleash-the-potential-a-comprehensively-curated-list-of-nft-creating-engines-for-2024/"><u>Unleash the Potential A Comprehensively Curated List of NFT-Creating Engines for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Optimize Your PC: Reducing Steam's RAM Intake"
-date: 2024-09-19T20:47:19.928Z
-updated: 2024-09-20T16:06:07.515Z
+date: 2024-09-19T19:55:16.403Z
+updated: 2024-09-27T00:35:08.843Z
 tags:
   - games
 categories:
@@ -43,16 +43,16 @@ thumbnail: https://thmb.techidaily.com/afda68c97ad8ab431f217d1a649d9d5c1081b7b5e
 
  Do note that this has limitations, such as downloading new updates or connecting online to certain games.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Disable Hardware-Accelerated Rendering
 
 ![Steam interface settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_interface_settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Modern Steam uses a Chrome-based browser, but[Chrome is known to be fairly demanding on your memory](https://www.makeuseof.com/tag/chrome-using-much-ram-fix-right-now/) . Many of the problems presented by Google Chrome can affect Steam when it connects to the web.
 
@@ -69,6 +69,13 @@ thumbnail: https://thmb.techidaily.com/afda68c97ad8ab431f217d1a649d9d5c1081b7b5e
 
 ![Steam library settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_library_settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Another simple toggle for performance gains is in the Library tab of the settings menu. Enabling the Low-Performance Mode will disable certain animations when browsing through the Steam library.
 
  This will sacrifice some eye candy for the sake of performance, but overall doesn't reduce memory usage beyond superficial levels. If you've tried all these options so far and still find your system struggling, it might be time for more drastic measures.
@@ -78,10 +85,10 @@ thumbnail: https://thmb.techidaily.com/afda68c97ad8ab431f217d1a649d9d5c1081b7b5e
 ![Steam mini games list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_steam_minigames_list.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you launch Steam, it connects to the internet at several points. The app's most memory-intensive processes occur when it connects to the latest news and developer blogs.
@@ -95,16 +102,22 @@ steam://open/minigameslist
 
  This alone will cut down on several instances of the Steam Client WebHelper. To return to the default Steam look, select any option under the**View** menu.
 
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Create a Custom Batch File for Minimal Steam
 
 ![Minimal Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_minimal_steam.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  While the previous solutions can help regain a little memory, you might need something more substantial if you're struggling to run Steam on your system.
 
@@ -120,6 +133,13 @@ start steam.exe -dev -console -nofriendsui -no-dwrite -nointro -nobigpicture -no
  Ensure that Steam is closed, and then open this .bat file. Steam should launch, looking very similar to the Steam Mini Games List from earlier. This version of Steam is extremely bare-bones. You will be unable to view friends, visit the store, organize screenshots, or check out the news, but you'll be able to run Steam on essentially anything this way.
 
  Steam may crash in certain circumstances using this configuration. If this is a problem, remove the command**\-cef-disable-breakpad** from the batch file.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Go Bare Bones With Steam
 
@@ -138,5 +158,20 @@ start steam.exe -dev -console -nofriendsui -no-dwrite -nointro -nobigpicture -no
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-creative-camerawork-innovative-techniques-for-video-savvy-youtubers-for-2024/"><u>[Updated] Creative Camerawork Innovative Techniques for Video-Savvy YouTubers for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-streamlined-recording-of-powerpoint-slides-via-webcam/"><u>[Updated] In 2024, Streamlined Recording of PowerPoint Slides via Webcam</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-elite-apps-for-secure-android-cloud-vaults/"><u>2024 Approved Elite Apps for Secure Android Cloud Vaults</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/amd-radeon-graphics-card-firmware-update-v2410/"><u>AMD Radeon Graphics Card Firmware Update V24.10</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/cultural-connections-through-language-the-essence-of-bonjour/"><u>Cultural Connections Through Language: The Essence of 'Bonjour'</u></a></li>
+<li><a href="https://games-able.techidaily.com/hall-effect-keys-for-gamers-review-of-mod007b/"><u>Hall Effect Keys for Gamers - Review of Mod007B</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-boost-your-tech-experience-with-top-text-interpretation-tools-on-mac/"><u>In 2024, Boost Your Tech Experience with Top Text Interpretation Tools on Mac</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-mastering-fbx-capturing-games-live/"><u>In 2024, Mastering FBX Capturing Games Live</u></a></li>
+<li><a href="https://games-able.techidaily.com/new-steam-features-enhance-family-playtime-today/"><u>New Steam Features Enhance Family Playtime Today</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-windows-error-30005-unable-to-create-files/"><u>Overcoming Windows Error 30005: Unable to Create Files</u></a></li>
+<li><a href="https://games-able.techidaily.com/retro-play-simulating-historic-pokemon-games/"><u>Retro Play: Simulating Historic Pokémon Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-xbox-unlimited-access-with-x-series/"><u>Streamlining Xbox Unlimited Access with X Series</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-20-shared-game-sessions-across-multiple-systems/"><u>Top 20 Shared Game Sessions Across Multiple Systems</u></a></li>
+</ul></div>
 

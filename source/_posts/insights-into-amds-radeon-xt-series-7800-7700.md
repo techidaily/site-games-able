@@ -1,7 +1,7 @@
 ---
 title: "Insights Into AMD's Radeon XT Series: 7800, 7700"
-date: 2024-09-16T02:50:55.383Z
-updated: 2024-09-20T19:15:16.751Z
+date: 2024-09-26T02:30:12.574Z
+updated: 2024-09-26T20:40:12.272Z
 tags:
   - games
 categories:
@@ -74,21 +74,41 @@ thumbnail: https://thmb.techidaily.com/2b0e79e191f0ed82f151a5598b1f3bbb7dbdcce94
 
 ![RX 7700 XT vs. RTX 4060 Ti 16GB Benchmark Data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rx-7700-xt-vs-rtx-4060-ti-16gb.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image Credit:[IGN](https://www.youtube.com/watch?v=cJyRQmhCkDk)
 
  Across the 19-game configuration sample, the RX 7700 XT outperforms Nvidia's GeForce RTX 4060 Ti 16GB by about 12% on average. Interestingly, AMD's scaled-down Navi 32 GPU secures a 17% lead in rasterization performance while exhibiting a mere 4% deficit in certain games that implement advanced ray tracing effects.
 
 ![RX 7800 XT vs. RTX 4070 Performance Data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rx-7800-xt-vs-rtx-4070.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image Credit:[IGN](https://www.youtube.com/watch?v=cJyRQmhCkDk)
 
  Furthermore, AMD's performance figures for the RX 7800 XT put it in a formidable position against the RTX 4070, showcasing a 9% advantage in rasterization and a 6% deficit in select RT titles. Although the average gain isn't as impressive as seen in the previous slide, the RX 7800 XT undercuts Nvidia's upper mid-range offering by around $100.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## RX 7800 XT vs. RX 7700 XT: Pricing and Availability
@@ -100,10 +120,10 @@ thumbnail: https://thmb.techidaily.com/2b0e79e191f0ed82f151a5598b1f3bbb7dbdcce94
  While the Radeon RX 7800 XT comes in an AMD reference dual-fan, dual-slot design, alongside custom variants, the RX 7700 XT will only be made available through AIB partners like ASRock, ASUS, Biostar, Gigabyte, PowerColor, Sapphire, Vastarmor, XFX, and Yeston.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AMD's Next-Gen 1440p Gaming GPUs Unveiled
@@ -125,5 +145,24 @@ thumbnail: https://thmb.techidaily.com/2b0e79e191f0ed82f151a5598b1f3bbb7dbdcce94
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-insiders-guide-to-instagram-video-engagement/"><u>[New] 2024 Approved The Insider’s Guide to Instagram Video Engagement</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/rom-humble-beginnings-to-sponsored-success-channels-blueprint/"><u>[New] From Humble Beginnings to Sponsored Success Channels' Blueprint</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-into-the-virtual-vortex-mastering-techniques-of-gameplay-recording/"><u>[New] Into the Virtual Vortex Mastering Techniques of Gameplay Recording</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-secrets-of-seamlessly-sharing-in-tiktok-livestreams/"><u>[Updated] 2024 Approved Secrets of Seamlessly Sharing in TikTok Livestreams</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-new-approach-assessing-your-priorities-beyond-steam-points/"><u>A New Approach: Assessing Your Priorities Beyond Steam Points</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/deciphering-complete-fbm-call-transcripts-guide-for-2024/"><u>Deciphering Complete FBM Call Transcripts Guide for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/enjoy-peaceful-play-with-mic-free-ps5/"><u>Enjoy Peaceful Play with Mic-Free PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/every-game-ever-a-universal-dream-achieved/"><u>Every Game Ever - A Universal Dream Achieved</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-vivo-y100i-power-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Vivo Y100i Power 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-oneplus-nord-ce-3-lite-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your OnePlus Nord CE 3 Lite 5G Phone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Samsung Galaxy S24 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-linkedins-game-add-on-really-worth-your-time/"><u>Is LinkedIn's Game Add-On Really Worth Your Time?</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-your-librarian-skills-fixing-eg-libraries-problems/"><u>Maximizing Your Librarian Skills: Fixing EG Libraries Problems</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-steps-to-enhance-ps5-game-access-control/"><u>Navigating the Steps to Enhance PS5 Game Access Control</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionize-your-gaming-setup-with-emudeck-and-steam-deck/"><u>Revolutionize Your Gaming Setup with EmuDeck & Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-truth-about-being-marked-as-inactive-by-discord/"><u>The Truth About Being Marked as Inactive by Discord</u></a></li>
+</ul></div>
 
