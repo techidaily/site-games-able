@@ -1,7 +1,7 @@
 ---
 title: "DualSense Interoperability: PS5 and Previous Generation PlayStation?"
-date: 2024-09-21T06:44:16.740Z
-updated: 2024-09-27T01:34:47.507Z
+date: 2024-09-28T06:54:00.769Z
+updated: 2024-10-02T11:08:11.293Z
 tags:
   - games
 categories:
@@ -44,22 +44,15 @@ Here’s how to do that:
 ![choosing which console to connect to on the ps remote play app for pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/connect-ps4-remote-play-pc.jpg)
 5. Once the Remote Play app and PS4 connect, plug the DualSense controller into your computer using a USB-C cable.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Enjoy your game.
 
  The PS5 controller will now work on your PS4, but if you unplug it from your computer, it will lose the connection. Keep it plugged in at all times.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Do PS5 Controllers Work on PS4 Using Remote Play on Mobile?
@@ -74,24 +67,24 @@ Here’s how to do that:
 ![choosing a console to connect to on the PlayStation Remote Play mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/choosing-a-console-to-connect-to-on-the-ps-remote-play-mobile-app.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Once the Remote Play app and PS4 connect, you can start using your DualSense Controller.
 
  What's great about this method, compared to using Remote Play on PC, is that you can use the PS5 controller wirelessly.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Do PS5 Controllers Work on PS4 Using the Titan Two Adapter?
 
@@ -100,6 +93,13 @@ Close
  Once you purchase the Titan Two, all you have to do is plug it into your PS4 console and then plug in your DualSense into the adapter using a USB-C cable.
 
  Now you'll be able to use the DualSense controller on your PlayStation 4 without needing Remote Play.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Use the DualSense Controller on PS4 the Hard Way
 
@@ -122,20 +122,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-crafting-a-compelling-profile-visual-experience/"><u>[New] 2024 Approved Crafting a Compelling Profile Visual Experience</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-quick-tips-simplified-techniques-for-capturing-google-meets/"><u>[New] 2024 Approved Quick Tips Simplified Techniques for Capturing Google Meets</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-optimize-viewing-the-finest-html5-video-solutions/"><u>[Updated] Optimize Viewing The Finest HTML5 Video Solutions</u></a></li>
-<li><a href="https://games-able.techidaily.com/embark-on-exciting-adventures-in-our-top-10-no-ad-games/"><u>Embark on Exciting Adventures in Our Top 10 No-Ad Games</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/enhance-your-visuals-mobile-lut-adjustment-guide/"><u>Enhance Your Visuals Mobile LUT Adjustment Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/experience-the-future-of-pc-tuning-corsairs-icue-link-upgrades-explained/"><u>Experience the Future of PC Tuning - Corsair's iCUE Link Upgrades Explained</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-fix-the-creditdebit-card-is-no-longer-valid-error-on-ps5/"><u>How to Fix the Credit/Debit Card Is No Longer Valid” Error on PS5</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-install-fresh-joysticks-on-your-nintendo-switch/"><u>How to Install Fresh Joysticks on Your Nintendo Switch</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-thorough-summary-googles-podcast-platform-demystified/"><u>In 2024, Thorough Summary Google's Podcast Platform Demystified</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-unresponsive-to-touch-here-are-7-possible-reasons-explained/"><u>IPhone Unresponsive to Touch? Here Are 7 Possible Reasons Explained!</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/maximizing-your-dslr-footage-with-pc-or-mac-for-social-media-for-2024/"><u>Maximizing Your DSLR Footage with PC or Mac for Social Media for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/strategies-to-obtain-starfields-beta-test-invite/"><u>Strategies to Obtain Starfield's Beta Test Invite</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-unhappy-with-final-cut-pro-x-try-one-of-these-10-alternatives/"><u>Updated 2024 Approved Unhappy with Final Cut Pro X? Try One of These 10 Alternatives</u></a></li>
-<li><a href="https://games-able.techidaily.com/venturing-into-virtual-realms-an-insiders-look-at-using-chatgpt-for-roleplay-games/"><u>Venturing Into Virtual Realms: An Insider's Look at Using ChatGPT for Roleplay Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-should-we-question-the-gaming-portability/"><u>Why Should We Question the Gaming Portability?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-trends-in-advanced-iptv-video-capture-methods/"><u>[New] Trends in Advanced IPTV Video Capture Methods</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-turn-games-into-memories-no-fuss-nvidia-style-for-2024/"><u>[New] Turn Games Into Memories - No Fuss, NVIDIA Style for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twitter-video-requirements-how-to-upload-a-video-on-twitter/"><u>[Updated] 2024 Approved Twitter Video Requirements | How to Upload a Video on Twitter?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-top-10-places-to-find-music-for-podcast-intro/"><u>2024 Approved Top 10 Places to Find Music for Podcast Intro</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725290007734-dvdmp4/"><u>DVD到MP4视频格式转换秘技 - 使用者首选的转换软件列表</u></a></li>
+<li><a href="https://games-able.techidaily.com/easy-steps-to-delete-outdated-data-on-ps5-console/"><u>Easy Steps to Delete Outdated Data on PS5 Console</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-memory-management-with-medd/"><u>Efficient Memory Management with MEDD</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-oppo-k11x-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Oppo K11x Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-play-windows-games-on-an-apple-silicon-mac-using-crossover/"><u>How to Play Windows Games on an Apple Silicon Mac Using CrossOver</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-moonsigns-launch-latency/"><u>Mastering Moonsign's Launch Latency</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ring-the-art-of-viral-video-marketing/"><u>Mastering the Art of Viral Video Marketing</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-hdi-graphics-performance-mouse/"><u>Optimal HDI Graphics Performance Mouse</u></a></li>
+<li><a href="https://games-able.techidaily.com/precision-playgrounds-the-ultimate-fps-startup-guide/"><u>Precision Playgrounds: The Ultimate FPS Startup Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/professional-screenshot-and-recorder-win10-edition-for-2024/"><u>Professional Screenshot & Recorder, Win10 Edition for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-vivo-v30-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/reconciling-windows-and-steam-file-differences/"><u>Reconciling Windows and Steam File Differences</u></a></li>
+<li><a href="https://games-able.techidaily.com/slashing-costs-without-cutting-xbox-quality/"><u>Slashing Costs Without Cutting Xbox Quality</u></a></li>
+<li><a href="https://games-able.techidaily.com/turn-on-ps5-networked-gameplay/"><u>Turn On PS5 Networked Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/uncover-xbox-xs-playtime-details/"><u>Uncover Xbox X/S Playtime Details</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Veiled Gaming on Steam
-date: 2024-09-23T06:43:36.205Z
-updated: 2024-09-27T04:35:04.358Z
+date: 2024-09-30T07:49:11.099Z
+updated: 2024-10-01T19:22:36.043Z
 tags:
   - games
 categories:
@@ -25,13 +25,6 @@ thumbnail: https://thmb.techidaily.com/0b2657385f18cc859d59520b24816f771e8e749f1
 * [How to Hide a Game on Steam With the Private Feature](#how-to-hide-a-game-on-steam-with-the-private-feature)
 * [Don't Mix Up Private Games and Hidden Games on Steam](#don-39-t-mix-up-private-games-and-hidden-games-on-steam)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Steam now lets you hide specific games in your library by marking them as private. This differs from hiding a game from your library view.
@@ -48,13 +41,6 @@ thumbnail: https://thmb.techidaily.com/0b2657385f18cc859d59520b24816f771e8e749f1
 
  But the new feature lets you mark specific titles while keeping the remainder of your library visible. For each private game, Steam hides your in-game status, playtime, and other activity.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Hide a Game on Steam With the Private Feature
 
  If you specifically want to keep friends from seeing a game in your library and prevent them from seeing when you're playing it, you should mark it as private.
@@ -62,16 +48,10 @@ thumbnail: https://thmb.techidaily.com/0b2657385f18cc859d59520b24816f771e8e749f1
 ![marking a game as private on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/marking-a-game-as-private-on-steam.png)
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To do this, open Steam and head to your**Library.** Scroll down to the game you want to make private and right-click on it. Then select**Manage > Mark as Private** . In the popup box, select the**Mark as Private** button.
@@ -90,6 +70,13 @@ thumbnail: https://thmb.techidaily.com/0b2657385f18cc859d59520b24816f771e8e749f1
 
 ![set cart item to private on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/set-cart-item-to-private.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Checking a Game's Private Status
 
  To check that a game is private in your Library, click on your username in the top bar and then select**Profil** **e.** In the menu on the right, select**Games** . This takes you to a list of your games.
@@ -97,13 +84,6 @@ thumbnail: https://thmb.techidaily.com/0b2657385f18cc859d59520b24816f771e8e749f1
  Use the search bar to type in the name of the game you want to check. The game will appear and if it is marked as private, you will see a**crossed-out eye icon** on the right. Click this icon if you want to stop hiding the game.
 
 ![checking that a game is private on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/checking-that-a-game-is-private-on-steam-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also head to your library to remove a game from your private items. Right-click on the title and then select**Manage > Unmark as Private** .
 
@@ -117,9 +97,23 @@ thumbnail: https://thmb.techidaily.com/0b2657385f18cc859d59520b24816f771e8e749f1
 
 ![find your hidden games on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/find-your-hidden-games-on-steam.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you don't remember the names of the games you've hidden in the past, you can select the**View** option at the top of the Steam app and then select**Hidden Games** . You can then go through each one to mark it as private.
 
 ![hidden games folder on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/hidden-games-folder-on-steam.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now that you know how to set games as private on Steam, as well as the differences between hidden games and private games, you can maintain more control over which of your games your friends can see on Steam.
 
@@ -138,20 +132,18 @@ thumbnail: https://thmb.techidaily.com/0b2657385f18cc859d59520b24816f771e8e749f1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-covert-videography-the-premier-8-downloader-list/"><u>[New] In 2024, Covert Videography The Premier 8 Downloader List</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-complete-tech-manual-for-game-screen-recording-win10-for-2024/"><u>[New] The Complete Tech Manual for Game Screen Recording Win10 for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-tomtoms-actioncam-series-a-new-chapter/"><u>[New] TomTom's ActionCam Series - A New Chapter</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-realme-c51-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Realme C51 Phone</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-comprehensible-guide-for-itchios-great-gaming-finds/"><u>A Comprehensible Guide for Itch.io’s Great Gaming Finds</u></a></li>
-<li><a href="https://games-able.techidaily.com/achievement-arenas-champion-clusters/"><u>Achievement Arenas: Champion Clusters</u></a></li>
-<li><a href="https://games-able.techidaily.com/advantages-to-late-game-debuts/"><u>Advantages to Late Game Debuts</u></a></li>
-<li><a href="https://games-able.techidaily.com/akkos-mod007b-keyboard-elevating-gaming-performance/"><u>Akko's MOD007B Keyboard - Elevating Gaming Performance</u></a></li>
-<li><a href="https://games-able.techidaily.com/algorithmic-realities-in-the-world-of-gaming/"><u>Algorithmic Realities in the World of Gaming</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/analyzing-ps5s-advantages-over-mid-gen-ps4-pro/"><u>Analyzing PS5's Advantages Over Mid-Gen PS4 Pro</u></a></li>
-<li><a href="https://games-able.techidaily.com/become-a-pro-at-mobile-gaming-learn-button-controls/"><u>Become a Pro at Mobile Gaming: Learn Button Controls</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-motorola-g54-5g-has-native-mkv-support-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Motorola G54 5G has native MKV support?</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719164863987-gamers-discover-the-future-oled-monitors/"><u>Gamers, Discover the Future - OLED Monitors!</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/mastering-vimeo-video-editing-top-5-techniques-for-cuts-and-trimming-for-2024/"><u>Mastering Vimeo Video Editing Top 5 Techniques for Cuts & Trimming for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pushing-boundaries-asrock-debuts-revolutionary-amd-ryzen-9000-boards/"><u>Pushing Boundaries: ASRock Debuts Revolutionary AMD Ryzen 9000 Boards</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ransforming-youtube-content-advanced-strategies-to-perfect-videos-after-publishing-for-2024/"><u>[New] Transforming YouTube Content Advanced Strategies to Perfect Videos After Publishing for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-inside-the-innovations-of-vegaspro-19/"><u>2024 Approved Inside the Innovations of VegasPro '19</u></a></li>
+<li><a href="https://games-able.techidaily.com/does-a-faster-resume-make-all-the-difference-for-xbox-sx/"><u>Does a Faster Résumé Make All the Difference for Xbox S/X?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-strategies-for-optimizing-medical-billing-processes-and-enhancing-cash-flow-efficiency-executive-overview/"><u>Essential Strategies for Optimizing Medical Billing Processes and Enhancing Cash Flow Efficiency - Executive Overview</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/evaluating-apples-vision-pro-eyewear-during-an-extended-workday-a-detailed-review/"><u>Evaluating Apple's Vision Pro Eyewear During an Extended Workday - A Detailed Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-a-multi-os-future-with-steam-deck/"><u>Exploring a Multi-OS Future with Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-prevent-your-ps4-remote-from-disconnecting-on-windows/"><u>How to Prevent Your PS4 Remote From Disconnecting on Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-motorola-edge-40-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Motorola Edge 40 Phone</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-your-consoles-lifespan-with-breaks/"><u>Maximize Your Console's Lifespan with Breaks</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-c67-5g-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from C67 5G</u></a></li>
+<li><a href="https://games-able.techidaily.com/regional-rendezvous-set-your-consoles-time-zone/"><u>Regional Rendezvous: Set Your Console's Time Zone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-issue-why-your-surface-is-on-and-still-not-charging/"><u>Solving the Issue: Why Your Surface Is on and Still Not Charging</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-your-podcast-potential-on-ios-from-script-to-success-for-2024/"><u>Unlocking Your Podcast Potential on iOS From Script to Success for 2024</u></a></li>
 </ul></div>
 

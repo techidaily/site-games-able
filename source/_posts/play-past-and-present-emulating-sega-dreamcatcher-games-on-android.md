@@ -1,7 +1,7 @@
 ---
 title: "Play Past and Present: Emulating Sega Dreamcatcher Games on Android"
-date: 2024-09-22T00:37:43.902Z
-updated: 2024-09-27T07:55:49.900Z
+date: 2024-09-28T11:54:18.927Z
+updated: 2024-10-02T06:13:12.935Z
 tags:
   - games
 categories:
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/2b667f6d425e137d74634d5b5e43d01ba3b3015e3
 
  To set up each Sega Dreamcast emulator you need to make a ROMs folder to store the dc\_boot.bin file as well as your games. You can do that using any Android file manager. We'll be using[Files by Google](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2028438/https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 1: Create a Folder to Store Your Dreamcast Games
 
 To create a folder for your Dreamcast games and the BIOS file:
@@ -78,31 +71,24 @@ Once you've downloaded the files, move them to your ROMs folder.
 ![Browsing for folder in RAR for Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/browse-for-folder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Extracting a .7zip file in RAR for Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/extraction-rar.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Unzipped the Shenmue ROM file in RAR for Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/extracting-shenmue.jpg)
 
 Close
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Deal With Duplicate File Names
 
@@ -115,6 +101,13 @@ Close
  Redream and Flycast are two of the most flexible Sega Dreamcast emulators available for Android. Choose Redream if you want to quickly jump in and start playing. But if you want an emulator that provides a few more in-depth options, Flycast is the way to go. Here's how to set up both.
 
  By Flycast, we are referring to "Flycast Libretro" (an upstream of the discontinued Flycast Sega Dreamcast emulator).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Set Up Redream on Android
 
@@ -130,19 +123,6 @@ Close
 
  Take the time to make Redream your own by going through even more settings, specifically the**Input** and**System** settings. Get a quick tour below.
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Set Up Flycast on Android
 
  For an emulator with more settings to play with, try Flycast. It isn't available through the Play Store, so be sure you know[how to manually install or sideload apps on Android](https://www.makeuseof.com/tag/how-to-manually-install-side-load-apps-on-your-android-device/) .
@@ -150,6 +130,13 @@ Close
  Go to[Flycast's recent builds page](https://flyinghead.github.io/flycast-builds/) on your Android device. You'll see bunches of different downloads for various platforms. You're only interested in the Android column under**Master** as these are the most stable Android releases yet available. The downloads are categorized from the newest builds to the oldest: download the newest.
 
 ![Highlighted Android builds of Flycast Libretro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/flycast-builds-android.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When you've downloaded the Flycast APK file open Files by Google and navigate to**Downloads > flycast-release.apk > Install** to install it. To set up the app:
 
@@ -179,15 +166,22 @@ Finally, set the Home directory. To do that:
 ![Different controller modes on 8Bitdo Pro2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/8bitdopro2-modes.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  On the 8BitDo Pro2, above, notice the lettering in panel three: S, A, X, and D. The**X** and**D** are for connecting via XInput and DirectInput (DInput), respectively, while the**S** is for the Switch. You're only interested in the**A** : which stands for Android.
 
 [Pair this device via Bluetooth,](https://www.makeuseof.com/how-to-connect-android-bluetooth) then set the controller mode to**A** and hold down the**Seeking** button for a few seconds until the bottom four LEDs power on. Hold down**Start + A** and the controller will connect to your Android device!
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Play the Hits of the Sega Dreamcast All Over Again on Android
 
@@ -208,22 +202,20 @@ Finally, set the Home directory. To do that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-charting-a-course-through-yts-creative-space/"><u>[New] 2024 Approved Charting a Course Through YT's Creative Space</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-balancing-creativity-and-logic-in-gaming-videos/"><u>[New] In 2024, Balancing Creativity and Logic in Gaming Videos</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-necessary-details-for-twitter-video-submissions-aspect-ratio/"><u>[New] In 2024, Necessary Details for Twitter Video Submissions (Aspect Ratio)</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-discover-the-best-5-sd-cards-for-gopro-hero-8-and-7/"><u>[Updated] 2024 Approved Discover the Best 5 SD Cards for GoPro Hero 8 and 7</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-channel-cash-flow-harnessing-youtube-ad-revenue-anywhere/"><u>[Updated] In 2024, Channel Cash Flow Harnessing YouTube Ad Revenue Anywhere</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-deep-dive-into-dynamic-game-environments/"><u>A Deep Dive Into Dynamic Game Environments</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-new-chapter-valve-elevates-shared-gaming-with-updates/"><u>A New Chapter: Valve Elevates Shared Gaming with Updates</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-quick-guide-to-palworlds-core/"><u>A Quick Guide to PalWorld's Core</u></a></li>
-<li><a href="https://games-able.techidaily.com/aim-and-accuracy-boosted-by-the-ideal-mouse-setting/"><u>Aim and Accuracy Boosted by the Ideal Mouse Setting</u></a></li>
-<li><a href="https://games-able.techidaily.com/are-mac-devices-changing-gamers-landscape/"><u>Are Mac Devices Changing Gamers’ Landscape?</u></a></li>
-<li><a href="https://games-able.techidaily.com/best-game-hits-without-an-internet-connection-ios/"><u>Best Game Hits Without an Internet Connection (iOS)</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719171243140-chatgpt-now-available-dive-into-these-6-games/"><u>ChatGPT Now Available - Dive Into These 6 Games!</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/essential-strategies-for-capturing-your-best-moments-in-snapchat-for-2024/"><u>Essential Strategies for Capturing Your Best Moments in Snapchat for 2024</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-se-2022-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Data from Apple iPhone SE (2022) to New iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Huawei Nova Y71? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/recognizing-unresponsive-usb-drives-in-windows-11-a-comprehensive-solution/"><u>Recognizing Unresponsive USB Drives in Windows 11 - A Comprehensive Solution</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719168178529-top-4-ios-game-boy-advance-portals-to-classic-worlds/"><u>Top 4 iOS Game Boy Advance Portals to Classic Worlds!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-digital-domination-rise-from-thousands-to-a-million-on-youtube/"><u>[New] 2024 Approved Digital Domination Rise From Thousands to a Million on YouTube</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-mastering-the-art-of-live-streams-merge-obs-zoom-for-2024/"><u>[New] Mastering the Art of Live Streams Merge OBS, Zoom for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-experience-the-ps3-gaming-prowess-on-modern-pcs/"><u>[Updated] In 2024, Experience the PS3 Gaming Prowess on Modern PCs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/broadcast-battles-obs-clashes-with-shadowgl-for-2024/"><u>Broadcast Battles OBS Clashes with ShadowGL for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-the-thrill-of-racing-with-moza-r5-bundle/"><u>Discovering the Thrill of Racing with MOZA R5 Bundle</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-advanced-play-steam-deck-windows-installation-guide/"><u>Dive Into Advanced Play: Steam Deck Windows Installation Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/durability-at-its-finest-picks-for-the-top-tier-steam-deck-cases/"><u>Durability at Its Finest: Picks for the Top-Tier Steam Deck Cases</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expert-file-cleaner-stellar-securely-deletes-your-windows-files-and-folders/"><u>Expert File Cleaner: Stellar Securely Deletes Your Windows Files and Folders</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fall-guys-optimization-guide-how-to-achieve-higher-fps-and-reduce-game-latency/"><u>Fall Guys Optimization Guide: How to Achieve Higher FPS & Reduce Game Latency</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-spark-10-pro-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Spark 10 Pro to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/integrate-these-3-platforms-into-your-switch-routine/"><u>Integrate These 3 Platforms Into Your Switch Routine</u></a></li>
+<li><a href="https://games-able.techidaily.com/jump-across-continents-xbox-series-s-time-adjustment/"><u>Jump Across Continents: Xbox Series S Time Adjustment</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ring-market-movements-with-youtube-picks/"><u>Mastering Market Movements with YouTube Picks</u></a></li>
+<li><a href="https://games-able.techidaily.com/selecting-the-best-office-mats-of-2024-today/"><u>Selecting the Best Office Mats of 2024 Today</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlined-gaming-footage-collection-via-varied-graphics-units/"><u>Streamlined Gaming Footage Collection via Varied Graphics Units</u></a></li>
 </ul></div>
 

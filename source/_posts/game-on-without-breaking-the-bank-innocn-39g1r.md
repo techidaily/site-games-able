@@ -1,7 +1,7 @@
 ---
 title: Game On Without Breaking the Bank - InnoCN 39G1R
-date: 2024-09-17T19:05:22.246Z
-updated: 2024-09-21T02:05:05.998Z
+date: 2024-09-27T19:53:32.231Z
+updated: 2024-10-02T09:30:00.221Z
 tags:
   - games
 categories:
@@ -131,6 +131,13 @@ Yes - 3000R
 
 ![innocn 39g1r monitor rear middle of room-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-monitor-rear-middle-of-room-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  No attribution required; taken by author James Bruce  
 
  You might appreciate this little customizable flair if your monitor is positioned in the middle of a room. But if not, you won't even notice they exist. They’re certainly not bright enough to reflect back even off a white wall, so they're best turned off in most cases.
@@ -141,22 +148,29 @@ Yes - 3000R
 
  The legs have a sizable footprint, however, and the option to VESA mount would have been appreciated. Unlike the small, solid metal bases of most monitors, the 39G1R relies on a tripod leg structure. It's stable, but it requires about a foot of depth. While you probably wouldn’t try to cram a 39-inch monitor onto a tiny desk anyway, that’s still a significant footprint for any desk size. The awkward tripod shape also means you can't slide a mini-PC in there, or tuck your keyboard out of the way when not in use.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## OSD and Controls
 
  The display is controlled with a single nub-like thumbstick underneath, in the center. Tap in any direction or click to open the first menu, and click again to turn off the display. You can also navigate right to the full on-screen display menu, left to control the lighting, or up for "game mode", which adds a customizable crosshair in the center of the display.
 
 ![innocn 39g1r - OSD menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-osd-menu.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It’s a somewhat confusing system, and I often turned the monitor off unintentionally until I'd gotten used to it. Input swapping was a notable pain point. While one might expect input swapping to be on the quick menu, the only way to swap is to navigate the full OSD menu structure. To illustrate, swapping from HDMI 1 to DP 1 requires a sequence of button presses more akin to a Street Fighter special move: right, right, right, down, down, right. On the other hand, if you shut down one input, it will automatically switch over, so it’s a minor nuisance.
 
  Diving into the full menu also reveals a myriad of settings to tweak, though nothing unexpected. Picture-in-picture mode is supported for productivity (or watching football).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specifications
 
@@ -174,24 +188,31 @@ Yes - 3000R
 
  The maximum refresh rate is 165Hz, which will benefit any high-motion gaming (though only if your machine can push the frames that fast). But as with many VA panels, there might be some ghosting. You can adjust the response time in the on-screen menu if you find this problematic, but it won't eliminate the problem entirely. In real-world usage, I didn't notice any ghosting.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Performance and Gaming
 
  Using the DisplayPort connected to my gaming PC I was able to select 165Hz and the full 1440p right from within the Windows settings. No mucking around—it worked off the bat, and I turned overdrive on high.
 
 ![innocn 39g1r - 165hz](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-165hz.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Assuming you have hardware that can even deliver those sorts of frame rates, you’ll get superb visuals.
 
  In Cyberpunk, I managed about 120fps max with medium settings, but even that looked incredible. I didn't notice any lack of sharpness from the resolution, but maybe that's because I've never been able to play it in 4K resolution anyway, given how demanding the game is. The brightness seemed good, the colors were well-defined with plenty of details in the shadows, and the black levels were superb. The benefits of VA panel tech are obvious in a game like this.
 
 ![innocn 39g1r - cyberpunk bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-cyberpunk-bar.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To test the high frame rates, I loaded up Lego Brawls, which is basic enough to run at the full 165 frames a second—and promptly came first in every match I played. I'm not saying the high frame rate was a huge benefit when weighed against my obvious elite skills to compete against random children on the internet. Still, it probably played a not insignificant role.
 
@@ -201,15 +222,22 @@ Yes - 3000R
 
 ![innocn 39g1r - strategy low resolution close up](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-strategy-low-resolution-close-up.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Unfortunately, despite being FreeSync compatible, VRR isn't supported on the PlayStation 5\. The maximum I could get out of it (over HDMI) was 1440p HDR 120Hz.
 
 ![innocn 39g1r - no VRR ps5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-no-vrr-ps5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now that’s good enough for most people, but don’t buy this specifically for VRR support if you’re on PlayStation. This isn’t uncommon, I should add. Sony has implemented a very restrictive form of variable refresh which needs HDMI 2.1, and the 39G1R doesn’t provide that. For the highest refresh rates, you’ll need to use the DisplayPort.
@@ -227,28 +255,15 @@ Yes - 3000R
 ![innocn 39g1r - infrared view showing illumination](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-infrared-view-showing-illumination.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Secondly, on the response rate test, there was some definite ghosting, most evident on dark blue, which led to purple ghosting on the grey background, and bright red with brown ghosting.
 
 ![innocn 39g1r - brown and purple ghosting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-brown-and-purple-ghosting.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The ghosting is to be expected from a VA panel, as are minor uniformity issues on something at this budget.
 
@@ -273,5 +288,21 @@ Yes - 3000R
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-digital-pixels-at-your-command-curve-artfully-for-2024/"><u>[New] Digital Pixels at Your Command Curve Artfully for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-quick-guide-to-disconnect-on-ig-for-2024/"><u>[New] The Quick Guide to Disconnect on IG for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfect-your-titling-skills-with-our-best-practices/"><u>2024 Approved Perfect Your Titling Skills with Our Best Practices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bargain-brews-with-mobile-devices-at-just-50-ransomware-solutions-and-ai-enhanced-podcasting-techniques/"><u>Bargain Brews with Mobile Devices at Just 50$, Ransomware Solutions, and AI-Enhanced Podcasting Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comparing-hero4-and-hero5-capabilities-for-2024/"><u>Comparing Hero4 and Hero5 Capabilities for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-guide-to-addressing-error-messages-in-geforce-experience/"><u>Comprehensive Guide to Addressing Error Messages in GeForce Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enterprise-oriented-strategies-with-gpt-ai/"><u>Enterprise-Oriented Strategies with GPT AI</u></a></li>
+<li><a href="https://games-able.techidaily.com/inside-javas-top-rated-games-and-their-features/"><u>Inside Java's Top-Rated Games and Their Features</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-it-more-important-to-upgrade-your-cpu-or-gpu-first/"><u>Is It More Important to Upgrade Your CPU or GPU First?</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-frame-retrieval-techniques-for-any-graphics-card/"><u>Next-Gen Frame Retrieval Techniques for Any Graphics Card</u></a></li>
+<li><a href="https://games-able.techidaily.com/spine-support-ergonomic-gaming-chair-hacks/"><u>Spine Support: Ergonomic Gaming Chair Hacks</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/the-5-most-user-friendly-online-tone-creators-for-2024/"><u>The 5 Most User-Friendly Online Tone Creators for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-samsung-galaxy-a14-4g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Samsung Galaxy A14 4G Screen | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-edge-stands-tall-in-the-browser-wars-gamer-style/"><u>Why Edge Stands Tall in the Browser Wars, Gamer-Style</u></a></li>
+</ul></div>
 

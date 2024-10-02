@@ -1,7 +1,7 @@
 ---
 title: "Maximize BG3 Experience: Specs and Add-Ons"
-date: 2024-09-17T20:35:54.598Z
-updated: 2024-09-20T19:23:45.869Z
+date: 2024-09-26T00:37:46.002Z
+updated: 2024-10-01T22:36:26.299Z
 tags:
   - games
 categories:
@@ -44,6 +44,13 @@ Here’s a table for Baldur’s Gate 3’s specs:
 * M1 and M2 Macs with 16GB of RAM can run Baldur’s Gate 3 on high or ultra settings.
 * (Intel) MacBook Pros from 2016 to early 2020 might need to run on low settings unless they have the recommended specs.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Platforms Can You Get Baldur's Gate 3 On, and How Much Is It?
 
 ![Baldur's Gate 3 Steam Store Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-steam-store-page.jpeg)
@@ -56,6 +63,13 @@ Here’s a table for Baldur’s Gate 3’s specs:
 
  There are mods for Baldur’s Gate 3, but we suggest you wait a little longer to try them out since most were made with early access in mind.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Does Baldur's Gate 3 Have a Multiplayer, and How Does It Work?
 
  Baldur’s Gate 3 has a single-player mode you can play by yourself. However, you can quickly change your single-player game into a multiplayer game where your friends can join and control characters in your game.
@@ -64,18 +78,18 @@ Here’s a table for Baldur’s Gate 3’s specs:
 
 ![Baldur's Gate 3's multiplayer menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-s-multiplayer-menu.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can load saves across different platforms, but there’s no cross-play for PS5 and PC. Meaning that you can’t play with a friend using a PS5 if you’re using a PC and vice-versa.
 
  And yes, you can play split-screen simply by activating another controller in-game.
 
  You should run your split-screen game with DirectX instead of Vulkan because it could crash otherwise.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is Baldur's Gate 3 Okay for Kids?
 
@@ -84,10 +98,10 @@ Here’s a table for Baldur’s Gate 3’s specs:
  There is a toggle to hide nudity in the character creation stage. This might help reduce the chances of a child seeing something inappropriate while you play.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Now You’re Ready to Play Baldur’s Gate 3 (or Not)
@@ -109,5 +123,19 @@ Here’s a table for Baldur’s Gate 3’s specs:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-syncopating-youtube-melodies-with-visuals/"><u>[New] 2024 Approved Syncopating YouTube Melodies with Visuals</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-websites-unveiled-where-you-grab-your-ringtone-favorites/"><u>[Updated] Websites Unveiled Where You Grab Your Ringtone Favorites</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-secrets-to-winning-at-nyts-new-word-game-strands-edition/"><u>Discover the Secrets to Winning at NYT's New Word Game: 'Strands' Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/easing-into-the-game-after-fatigue-episodes/"><u>Easing Into the Game After Fatigue Episodes</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-boy-hacks-for-linux-command-line-enthusiasts/"><u>Game Boy Hacks for Linux Command Line Enthusiasts</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-honor-90-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor 90 Pro Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-set-up-4k-gaming-on-your-xbox-series-x/"><u>How to Set Up 4K Gaming on Your Xbox Series X</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-xs-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone XS to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-pro-free-ending-makers-ranked-1-6/"><u>In 2024, Pro-FREE Ending Makers - Ranked 1-6</u></a></li>
+<li><a href="https://games-able.techidaily.com/interacting-with-chatgpt-the-art-of-creating-compelling-text-adventures/"><u>Interacting with ChatGPT: The Art of Creating Compelling Text Adventures</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/premiere-edition-selective-sierra-video-editors/"><u>Premiere Edition Selective Sierra Video Editors</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/unlocking-the-power-of-google-meet-with-your-tech/"><u>Unlocking the Power of Google Meet with Your Tech</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "From Game to Play: Streamlining Your Steam Deck Launchers"
-date: 2024-09-20T01:39:27.828Z
-updated: 2024-09-27T00:40:26.933Z
+date: 2024-09-28T02:48:28.137Z
+updated: 2024-10-01T19:52:23.187Z
 tags:
   - games
 categories:
@@ -35,9 +35,23 @@ thumbnail: https://thmb.techidaily.com/45a1f9697d2bdeb16116c56d8bb656d37d6c88757
 
 Instead, we have solutions designed specifically for the Steam Deck.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Heroic Games Launcher for GOG Galaxy, Epic Games Launcher, and Amazon Games
 
 ![screenshot of heroic game launcher in the discover store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_heroic_in_discover_store.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Heroic Games Launcher is a frontend for three different game launchers, letting you gain access the Epic Games Launcher, GOG Galaxy, and Amazon Games App with one installation.
 
@@ -47,25 +61,11 @@ Instead, we have solutions designed specifically for the Steam Deck.
 
 ![screenshot of the heroic games launcher login page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_heroic_login_page.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When the installation is finished, you can find the program in the All Applications menu, just like the Discover store.
 
  Once in the program, you'll want to log in before anything else. The**Log In** option is available on the left-hand side of the window. You'll have four options. Two login methods for the Epic Games Launcher, as well as options for GOG and Amazon Games.
 
 ![screenshot of the epic library in heroic game launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_epic_library_in_heroic_launcher-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you're logged in to any of the services, you'll start seeing games appear under the**Library** tab. At this stage, games can be installed and will be automatically managed by the Heroic Games Launcher. Relevant Proton layers will be downloaded and applied to ensure compatibility.
 
@@ -77,15 +77,22 @@ Instead, we have solutions designed specifically for the Steam Deck.
 
  This will add shortcuts to Gaming Mode, allowing you to launch these games without worrying about Desktop Mode.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## NonSteamLaunchers for Battle.net, EA App, and More
 
 ![screenshot of nonsteamlaunchers list of launchers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_nonsteamlaunchers_list_of_launchers.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  NonSteamLaunchers can be a little bit more difficult to install. This isn't available in the Discover Store, so you'll need to enter Desktop Mode and navigate to the[GitHub page for NonSteamLaunchers](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) .
@@ -103,13 +110,6 @@ Instead, we have solutions designed specifically for the Steam Deck.
  After the installation script has finished, you'll find a new shortcut added to your Steam games list. All you have to do is launch this shortcut to gain access to your chosen launcher.
 
  Just note that these installations require the user to select a specific Proton compatibility layer through Steam, unlike Heroic Games Launcher which manages this for you.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Play Non-Steam Games on the Steam Deck
 
@@ -130,24 +130,21 @@ Instead, we have solutions designed specifically for the Steam Deck.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-discover-10-instagram-accounts-mixing-humor-with-emotion/"><u>[Updated] 2024 Approved Discover 10 Instagram Accounts Mixing Humor with Emotion</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-7-pro-tips-to-enhance-your-foodie-filmography/"><u>[Updated] 7 Pro Tips to Enhance Your Foodie Filmography</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-dead-walkers-dominance-leading-zombie-video-game-ranks-for-2024/"><u>[Updated] Dead Walkers Dominance Leading Zombie Video Game Ranks for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/achieving-effortless-seams-in-inshot-videos/"><u>Achieving Effortless Seams in Inshot Videos</u></a></li>
-<li><a href="https://games-able.techidaily.com/crossover-for-applesilicon-gamers-a-step-by-step-guide-to-playing-windows-games/"><u>CrossOver for AppleSilicon Gamers: A Step-by-Step Guide to Playing Windows Games</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-amd-ryzen-drivers-safely-simple-guide/"><u>Download and Update AMD Ryzen Drivers Safely - Simple Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/expanding-language-reach-in-roms-with-easy-applications/"><u>Expanding Language Reach in ROMs with Easy Applications</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-use-classic-nintendo-controllers-on-steam/"><u>How to Use Classic Nintendo Controllers on Steam</u></a></li>
-<li><a href="https://games-able.techidaily.com/immersive-experience-with-top-tier-dell-screen-anc-earpiece-and-crystal-clear-video-webcam/"><u>Immersive Experience with Top-Tier Dell Screen, ANC Earpiece, and Crystal-Clear Video Webcam</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-pioneers-guide-to-vr-terminology/"><u>In 2024, The Pioneer's Guide to VR Terminology</u></a></li>
-<li><a href="https://games-able.techidaily.com/inside-amds-graphics-powerhouse-rx-7800xt-rx-7700xt/"><u>Inside AMD's Graphics Powerhouse: RX 7800XT, RX 7700XT</u></a></li>
-<li><a href="https://games-able.techidaily.com/invisible-steam-collection/"><u>Invisible Steam Collection</u></a></li>
-<li><a href="https://program-issues.techidaily.com/league-of-legends-fixes-overcoming-the-black-screen-challenge/"><u>League of Legends Fixes: Overcoming the Black Screen Challenge</u></a></li>
-<li><a href="https://games-able.techidaily.com/methods-to-stop-unintended-xbox-joystick-shifts/"><u>Methods to Stop Unintended Xbox Joystick Shifts</u></a></li>
-<li><a href="https://games-able.techidaily.com/overcoming-false-debit-alerts-on-game-console/"><u>Overcoming False Debit Alerts on Game Console</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Honor Magic Vs 2 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/practical-guide-to-gpt-4-in-modern-chatgpt-dialogues/"><u>Practical Guide to GPT-4 in Modern ChatGPT Dialogues</u></a></li>
-<li><a href="https://games-able.techidaily.com/transform-your-tech-life-by-upgrading-to-corsairs-icue-link-benefits/"><u>Transform Your Tech Life by Upgrading to Corsair's iCUE Link Benefits</u></a></li>
-<li><a href="https://win-premium.techidaily.com/zdnets-ultimate-guide-to-the-leading-surface-laptops-and-tablets-of-2023-expert-reviews-and-rankings/"><u>ZDNet's Ultimate Guide to the Leading Surface Laptops and Tablets of 2023: Expert Reviews & Rankings</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-the-perfect-way-to-add-linktree-to-tiktok-bio/"><u>[New] The Perfect Way to Add Linktree to TikTok Bio</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-top-rated-mobile-devices-for-pocket-sized-gaming/"><u>2024 Approved Top-Rated Mobile Devices for Pocket-Sized Gaming</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/entice-eccentrics-in-umbria-learn-more-than-20-expressions/"><u>Entice Eccentrics in Umbria: Learn More Than 20 Expressions</u></a></li>
+<li><a href="https://games-able.techidaily.com/expediting-unfulfilled-steam-orders/"><u>Expediting Unfulfilled Steam Orders</u></a></li>
+<li><a href="https://games-able.techidaily.com/guide-to-automatic-dualsense-software-tune-ups/"><u>Guide to Automatic DualSense Software Tune-Ups</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-samsung-galaxy-s24plus-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Samsung Galaxy S24+ Phone?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-maximizing-lenovo-experience-through-effective-recording/"><u>In 2024, Maximizing Lenovo Experience Through Effective Recording</u></a></li>
+<li><a href="https://games-able.techidaily.com/limiting-background-operations-of-game-bar-in-win-11-environment/"><u>Limiting Background Operations of Game Bar in Win 11 Environment</u></a></li>
+<li><a href="https://games-able.techidaily.com/link-your-typing-and-clicks-to-switch-console-seamlessly-95-chars/"><u>Link Your Typing & Clicks to Switch Console Seamlessly (95 Chars)</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-the-path-to-group-departure-with-tact/"><u>Navigating the Path to Group Departure with Tact</u></a></li>
+<li><a href="https://games-able.techidaily.com/precision-playtime-prevents-prolonged-pause/"><u>Precision Playtime Prevents Prolonged Pause</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209966933-quick-fixes-for-when-your-device-reports-no-battery-easy-steps-inside/"><u>Quick Fixes for When Your Device Reports No Battery – Easy Steps Inside</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/quick-guide-retrieving-lost-reddit-content-deletion/"><u>Quick Guide Retrieving Lost Reddit Content (Deletion)</u></a></li>
+<li><a href="https://games-able.techidaily.com/setting-up-sd-storage-for-steam-deck/"><u>Setting Up SD Storage for Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-consoles-face-off-ps5-and-xbox-series-x-edition/"><u>Top Consoles Face-Off: PS5 & Xbox Series X Edition</u></a></li>
 </ul></div>
 

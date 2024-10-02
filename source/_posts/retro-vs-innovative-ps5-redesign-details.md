@@ -1,7 +1,7 @@
 ---
 title: "Retro Vs. Innovative: PS5 Redesign Details"
-date: 2024-09-22T16:38:15.840Z
-updated: 2024-09-27T03:04:39.151Z
+date: 2024-10-01T07:22:42.010Z
+updated: 2024-10-02T03:47:11.649Z
 tags:
   - games
 categories:
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/20c1b79c602928e68eb827f2805a2d6c02102230f
  The new PS5 will be available sometime in November (in time for the holiday season) in select retail stores and on[direct.playstation.com](https://direct.playstation.com/) . Rollout will start in the U.S., with a global launch expected in the months to follow. The disc version of the "PS5 Slim" will retail at $499.99, while the digital version will set you back $449.99.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Old PS5 Models vs. New PS5 Models: The Differences
@@ -52,27 +52,26 @@ thumbnail: https://thmb.techidaily.com/20c1b79c602928e68eb827f2805a2d6c02102230f
 
  Sony has also reduced the weight of the disc edition from 9.9 pounds to 7.05 pounds. The weight of the digital edition has gone down to 5.73 pounds from 8.6 pounds (of course, it will weigh a little more if you attach the disk drive).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Old PS5 vs. New PS5: Attachable Disk Drive
 
 ![the attachable disk drive for the new smaller PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/detachable-disk-drive-for-the-new-smaller-ps5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Image credit:[Sony](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/)
 
  One of the other big changes is that the digital version of the new PS5 has an attachable Ultra HD Blu-ray disc drive. The attachment will cost you $79.99, and it's incompatible with the old digital version. However, it's nice to know that the option exists should you decide to use disks later on​​​​.
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Old PS5 vs. New PS5: Specs
 
@@ -88,20 +87,27 @@ thumbnail: https://thmb.techidaily.com/20c1b79c602928e68eb827f2805a2d6c02102230f
 
  The price of the old disc version of the PS5 is $499.99, and the new version will cost the same. The price for the old digital edition is $399.99, while the new one costs $449.99, marking a price increase. Furthermore, once you factor in the price of the disc drive, the digital edition gets even more expensive.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Old PS5 vs. New PS5: Stand
 
 ![the horizontal stand for the new smaller ps5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/horizontal-stand-for-the-new-ps5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image credit:[Sony](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/)
 
  The newer PS5 models come with a horizontal stand, which is not compatible with the old models. You can also purchase a horizontal stand separately, which will cost $29.99\. The good thing about the new horizontal stand is that it will be compatible with all PS5 models.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The New PS5 Model Is Exciting
 
@@ -122,24 +128,19 @@ thumbnail: https://thmb.techidaily.com/20c1b79c602928e68eb827f2805a2d6c02102230f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-free-youtube-earning-predictors/"><u>[New] 2024 Approved Free YouTube Earning Predictors</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-11-secrets-to-increasing-your-facebook-video-reach/"><u>[New] In 2024, 11 Secrets to Increasing Your Facebook Video Reach</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-achieve-youtube-profitability-the-milestone-of-500plus-subscribers-unlocked/"><u>[New] In 2024, Achieve Youtube Profitability The Milestone of 500+ Subscribers Unlocked</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-plotting-powerful-promotional-portraits/"><u>[New] In 2024, Plotting Powerful Promotional Portraits</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-distinguished-pioneers-elite-insta-hlv-page-builders/"><u>[Updated] 2024 Approved Distinguished Pioneers Elite Insta HLV Page Builders</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-complete-guide-to-recording-flawless-zoom-based-podcasts/"><u>2024 Approved The Complete Guide to Recording Flawless Zoom-Based Podcasts</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-emulation-tools-the-ultimate-ios-game-guide/"><u>Essential Emulation Tools: The Ultimate iOS Game Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-tips-for-buying-ps-games-effectively/"><u>Essential Tips for Buying PS Games Effectively</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-conception-to-culture-foddians-trajectory/"><u>From Conception to Culture: Foddian's Trajectory</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-ideal-emulation-tools-to-relive-sonys-playstation-experience/"><u>In 2024, Ideal Emulation Tools to Relive Sony's PlayStation Experience</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-selecting-perfect-google-pixel-ringers-a-guide/"><u>In 2024, Selecting Perfect Google Pixel Ringers A Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/integrating-shared-games-in-ps5-settings/"><u>Integrating Shared Games in PS5 Settings</u></a></li>
-<li><a href="https://games-able.techidaily.com/leaner-gaming-efficient-model-structuring/"><u>Leaner Gaming: Efficient Model Structuring</u></a></li>
-<li><a href="https://games-able.techidaily.com/mwc-unveiled-innovations-and-winners-by-makeuseof/"><u>MWC Unveiled: Innovations and Winners by MakeUseOf</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-complete-guide-to-gaming-success-on-steam/"><u>The Complete Guide to Gaming Success on Steam</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-future-of-personalized-medicine-tailoring-endocannabinoid-treatments/"><u>The Future of Personalized Medicine: Tailoring Endocannabinoid Treatments</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-vivo-v30-lite-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Vivo V30 Lite 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://games-able.techidaily.com/what-does-error-403-mean-in-roblox-solutions-for-windows-users/"><u>What Does Error 403 Mean in Roblox? Solutions for Windows Users</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-tech-tutorial-exporting-and-storing-your-snaps-safely/"><u>[Updated] 2024 Approved Tech Tutorial Exporting and Storing Your Snaps Safely</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-chortle-creators-undead-hilarity-for-2024/"><u>[Updated] Chortle Creators Undead Hilarity for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-poco-c55-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-powerhouse-gaming-pc-picks-for-2aturity-reviews-by-tech-experts-at-zdnet/"><u>Affordable Powerhouse Gaming PC Picks for 2Aturity | Reviews by Tech Experts at ZDNET</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bug-fixes-preventing-frequent-shutdowns-while-playing-total-war-eternal-angels-pc-edition/"><u>Bug Fixes: Preventing Frequent Shutdowns While Playing Total War: ETERNAL ANGELS (PC Edition)</u></a></li>
+<li><a href="https://games-able.techidaily.com/comprehensive-analysis-of-msi-gm30-by-clutch-gaming-a-mechanical-and-symmetrical-performer/"><u>Comprehensive Analysis of MSI GM30 by Clutch Gaming - A Mechanical and Symmetrical Performer</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-review-how-does-the-lenovo-ideapad-stack-up-for-gamers-a-hardware-deep-dive-and-cloud-capabilities-assessed-by-zdnet/"><u>Expert Review: How Does the Lenovo IdeaPad Stack Up for Gamers? A Hardware Deep Dive and Cloud Capabilities Assessed by ZDNET</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-elevate-voice-alteration-morphvox-inside-out/"><u>In 2024, Elevate Voice Alteration MorphVOX Inside Out</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-oneplus-open-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on OnePlus Open Phones</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Xiaomi 13T Pro? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/nubia-redmagic-7s-pro-reviewed-the-chillest-gaming-phone-on-the-market/"><u>Nubia RedMagic 7S Pro Reviewed: The Chillest Gaming Phone on the Market</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-your-inner-superhero-creating-the-ultimate-marvel-disney-vision-pro-multiverse-experience/"><u>Unleashing Your Inner Superhero: Creating the Ultimate Marvel-Disney Vision Pro Multiverse Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-a-quarter-year-adventure-with-xbox-game-pass-ultimate-at-just-36-find-out-now/"><u>Unlock a Quarter-Year Adventure with Xbox Game Pass Ultimate at Just $36! Find Out Now</u></a></li>
 </ul></div>
 

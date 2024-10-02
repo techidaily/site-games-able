@@ -1,7 +1,7 @@
 ---
 title: "Strategic Monitoring of Gaming Hours: Xbox Series X|S"
-date: 2024-09-26T07:24:09.746Z
-updated: 2024-09-26T20:30:05.212Z
+date: 2024-09-28T21:45:06.010Z
+updated: 2024-10-02T10:51:54.922Z
 tags:
   - games
 categories:
@@ -38,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/9cb4bb095934cdbe52cf30982bf7e5d8440404211
  So, while the ability to[compare Xbox stats with friends on Xbox Series X|S](https://www.makeuseof.com/xbox-how-to-compare-gaming-stats-with-friends/) is mostly accurate, the**Time played** stat is strangely plagued with issues. However, for mainline and current game releases, the time you spend playing will be tracked accurately, unless developers have specifically disabled the feature.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Check Your Time Played From Your Xbox Series X|S
@@ -55,38 +55,24 @@ thumbnail: https://thmb.techidaily.com/9cb4bb095934cdbe52cf30982bf7e5d8440404211
 
 ![A screenshot of the Xbox Series X Guide menu with Game Activity and All Achievements highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/game-activity.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Select the game you want to see the**Time played** stat for.
 
 ![A screenshot of the Achievements screen for Xbox games on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/game-selection.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Under**Progress** , highlight**Stats** .
 
 ![A screenshot of the gaming statistics screen for Mass Effect Legendary Edition on Xbox Series X|S](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/stats.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  From the**Stats** screen, your**Time played** is displayed as the first metric. And, if you want to compare your**Time played** for the selected game against your friends, you can select**Time played** for a full comparison leaderboard.
 
  However, this method is not without fault, and sometimes the**Stats** menu for games is inaccurate or unsupported. Luckily, there are still some methods that can help to define how much you've played a game beyond**Stats** .
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What You Can Do if Your Xbox Doesn’t Show Your Time Played Stats
 
@@ -98,9 +84,23 @@ thumbnail: https://thmb.techidaily.com/9cb4bb095934cdbe52cf30982bf7e5d8440404211
 
 ![A screenshot of the Load screen for Mass Effect Legendary Edition on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-2893.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Alternatively, the Xbox app for Windows and PC can help to reveal an accurate**Time played** stat for your Xbox games. By using the**Achievements** tab and selecting a game, you can access the**Time played** stat outside your Xbox Series X|S. You can install the Xbox app through the official[Xbox](https://www.xbox.com/en-US/apps/xbox-app-for-pc) site.
 
 ![A screenshot of the game statistics for Mass Effect Legendary Edition taken from the Xbox app for PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/xbox-app.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  But while using the Xbox app or in-game stats is a useful backup option, neither method completely fixes the**Time played** stat. Even[setting up parental settings on Xbox Series X|S](https://www.makeuseof.com/xbox-series-parental-controls-how-to/) to provide screen time statistics isn't comparable to**Time played** .
 
@@ -125,24 +125,16 @@ thumbnail: https://thmb.techidaily.com/9cb4bb095934cdbe52cf30982bf7e5d8440404211
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ffline-entertainment-how-to-load-youtube-video-onto-your-apple-gear/"><u>[New] Offline Entertainment How to Load YouTube Video Onto Your Apple Gear</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-from-raw-files-to-artwork-beginners-guide-to-lunapic/"><u>[Updated] From Raw Files to Artwork Beginner’s Guide to LunaPic</u></a></li>
-<li><a href="https://games-able.techidaily.com/dive-into-new-gameplay-top-6-fresh-online-chess-adventures/"><u>Dive Into New Gameplay: Top 6 Fresh Online Chess Adventures</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/elevate-your-system-from-windows-8-to-windows-11/"><u>Elevate Your System: From Windows 8 to Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/get-to-know-amds-newest-graphics-innovation-rdna-35/"><u>Get to Know AMD's Newest Graphics Innovation, RDNA 3.5</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Vivo V29 Pro | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-iphones-simple-methods-for-effective-screening/"><u>In 2024, IPhone's Simple Methods for Effective Screening</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-speedy-assembly-for-stunning-google-image-mosaics/"><u>In 2024, Speedy Assembly for Stunning Google Image Mosaics</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-infinix-note-30-vip-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Infinix Note 30 VIP FRP Bypass</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/initial-visual-journey-review-with-additional-paths-for-2024/"><u>Initial Visual Journey Review with Additional Paths for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/joining-playstation-and-windows-the-ps5-controller-tutorial/"><u>Joining PlayStation and Windows: The PS5 Controller Tutorial</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-choices-what-to-look-for-in-a-portable-games-device/"><u>Navigating Choices: What To Look For in a Portable Games Device</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/screenflow-showdown-the-top-video-editing-software-for-macos-users-for-2024/"><u>ScreenFlow Showdown The Top Video Editing Software for macOS Users for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/silencing-steam-not-on-boot/"><u>Silencing Steam, Not on Boot</u></a></li>
-<li><a href="https://games-able.techidaily.com/solidifying-steams-file-compatibility-with-windows/"><u>Solidifying Steam's File Compatibility with Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/strategies-for-improving-comprehension-on-the-steam-deck-epic-and-gog-games/"><u>Strategies for Improving Comprehension on the Steam Deck: Epic & GOG Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-step-by-step-of-unsubscribing-on-steam/"><u>The Step-by-Step of Unsubscribing on Steam</u></a></li>
-<li><a href="https://games-able.techidaily.com/valve-enhances-game-access-via-steams-updated-family-sharing/"><u>Valve Enhances Game Access via Steam's Updated Family Sharing</u></a></li>
-<li><a href="https://facebook.techidaily.com/why-are-these-certain-online-advertisements-for-me/"><u>Why Are These Certain Online Advertisements For Me?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-conversationalists-face-off-is-it-chatgpt-microsoft-bing-or-google-bard-that-leads-the-pack/"><u>AI Conversationalists Face-Off: Is It ChatGPT, Microsoft Bing, or Google Bard That Leads the Pack?</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-itchio-routes-to-exceptional-indies/"><u>Exclusive Itch.io Routes to Exceptional Indies</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-samsung-galaxy-s23-ultra-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Samsung Galaxy S23 Ultra To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-8-plus-drfone-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-unveiling-seamless-sound-moves-in-premiere-pro/"><u>In 2024, Unveiling Seamless Sound Moves in Premiere Pro</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/intensify-visual-soundscapes-for-optimal-engagement-for-2024/"><u>Intensify Visual Soundscapes for Optimal Engagement for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-the-art-of-preserving-energy-in-your-gaming-controllers/"><u>Master the Art of Preserving Energy in Your Gaming Controllers</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-the-gbc-games-4-ioss-best-emulators/"><u>Master the GBC Games: 4 iOS's Best Emulators</u></a></li>
+<li><a href="https://games-able.techidaily.com/off-the-wire-android-and-ios-top-15-wi-fi-free-games/"><u>Off-the-Wire Android and iOS - Top 15 Wi-Fi Free Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-steam-deck-enhancement-at-the-dock/"><u>The Ultimate Guide to Steam Deck Enhancement at the Dock</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ate-profit-prodigy-in-the-digital-age/"><u>Ultimate Profit Prodigy in the Digital Age</u></a></li>
 </ul></div>
 

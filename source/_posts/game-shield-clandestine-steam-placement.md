@@ -1,7 +1,7 @@
 ---
 title: "Game Shield: Clandestine Steam Placement"
-date: 2024-09-18T00:14:35.271Z
-updated: 2024-09-20T23:43:55.177Z
+date: 2024-09-24T17:04:23.872Z
+updated: 2024-10-01T17:26:43.745Z
 tags:
   - games
 categories:
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/8fe26e0805ce05f014893fbbb4d4db477ab6f4023
 * [How to Hide a Game on Steam With the Private Feature](#how-to-hide-a-game-on-steam-with-the-private-feature)
 * [Don't Mix Up Private Games and Hidden Games on Steam](#don-39-t-mix-up-private-games-and-hidden-games-on-steam)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Steam now lets you hide specific games in your library by marking them as private. This differs from hiding a game from your library view.
@@ -40,19 +47,6 @@ thumbnail: https://thmb.techidaily.com/8fe26e0805ce05f014893fbbb4d4db477ab6f4023
  According to Steam, games marked as private will only be visible to you. In the past, the only way to keep friends from seeing the games you play was to mark your entire library as private (which was overkill if you only wanted to hide a few titles).
 
  But the new feature lets you mark specific titles while keeping the remainder of your library visible. For each private game, Steam hides your in-game status, playtime, and other activity.
-
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Hide a Game on Steam With the Private Feature
 
@@ -77,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/8fe26e0805ce05f014893fbbb4d4db477ab6f4023
 ![set cart item to private on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/set-cart-item-to-private.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Checking a Game's Private Status
@@ -95,13 +89,6 @@ thumbnail: https://thmb.techidaily.com/8fe26e0805ce05f014893fbbb4d4db477ab6f4023
 
  You should also keep in mind that if you[enabled a custom playing status on Discord](https://www.makeuseof.com/set-custom-playing-status-discord/) , a private Steam game will still show up on Discord while you're playing it.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Don't Mix Up Private Games and Hidden Games on Steam
 
  When you right-clicked on a title in your library, you might have noticed an existing option to**Hide this game** . This, however, is a separate feature that simply hides a game from your own library menu—it remains visible if friends search through your games list. This means that the feature is essentially an organization feature to[get rid of games on your Steam account](https://www.makeuseof.com/tag/how-to-finally-get-rid-of-games-from-your-steam-account/) rather than a privacy feature.
@@ -110,9 +97,23 @@ thumbnail: https://thmb.techidaily.com/8fe26e0805ce05f014893fbbb4d4db477ab6f4023
 
 ![find your hidden games on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/find-your-hidden-games-on-steam.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you don't remember the names of the games you've hidden in the past, you can select the**View** option at the top of the Steam app and then select**Hidden Games** . You can then go through each one to mark it as private.
 
 ![hidden games folder on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/hidden-games-folder-on-steam.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now that you know how to set games as private on Steam, as well as the differences between hidden games and private games, you can maintain more control over which of your games your friends can see on Steam.
 
@@ -129,5 +130,21 @@ thumbnail: https://thmb.techidaily.com/8fe26e0805ce05f014893fbbb4d4db477ab6f4023
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-pro-video-performance-the-best-3-smartphones-ranked/"><u>[New] 2024 Approved Pro Video Performance The Best 3 Smartphones Ranked</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-ideal-strategies-for-recording-app-activity/"><u>[New] Ideal Strategies for Recording App Activity</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-soundscape-archives-collect-and-evaluate-recordings/"><u>[New] In 2024, Soundscape Archives Collect & Evaluate Recordings</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-facebook-video-acquisition-made-easy-best-android-downloader-apps-ranked/"><u>2024 Approved Facebook Video Acquisition Made Easy Best Android Downloader Apps Ranked</u></a></li>
+<li><a href="https://games-able.techidaily.com/craft-your-perfect-gaming-setup-with-these-top-9-emulators/"><u>Craft Your Perfect Gaming Setup with These Top 9 Emulators</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-ideal-cpugpu-pairings-temperature-matters/"><u>Discovering Ideal CPU/GPU Pairings: Temperature Matters</u></a></li>
+<li><a href="https://games-able.techidaily.com/hall-effect-keys-akko-mod007b-reviewed-for-gamers/"><u>Hall Effect Keys: Akko MOD007B Reviewed for Gamers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hilarityhatcher-create-comedy-with-a-click/"><u>In 2024, HilarityHatcher Create Comedy with a Click</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-infinix-smart-7-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Infinix Smart 7 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-mayhem-of-destiny-2-the-broccoli-crash-patch-released-in-april-2024/"><u>Mastering the Mayhem of Destiny 2: The Broccoli Crash Patch Released in April 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/oled-monitor-my-secret-weapon-for-games/"><u>OLED Monitor - My Secret Weapon for Games</u></a></li>
+<li><a href="https://extra-support.techidaily.com/step-by-step-incorporating-audio-into-ppts-for-2024/"><u>Step-by-Step Incorporating Audio Into PPTs for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/sync-your-poke-steps-with-correct-location-data/"><u>Sync Your Poké-Steps with Correct Location Data</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-picks-for-ddr5-motherboards-in-24/"><u>Top Picks for DDR5 Motherboards in '24</u></a></li>
+</ul></div>
 

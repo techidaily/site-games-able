@@ -1,7 +1,7 @@
 ---
 title: Transition Smoothly Between Games Using Ryujinx Controls for Switch
-date: 2024-09-18T23:15:12.852Z
-updated: 2024-09-20T20:14:25.071Z
+date: 2024-09-26T16:04:05.616Z
+updated: 2024-10-01T16:30:19.748Z
 tags:
   - games
 categories:
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/23c1e788c86a1fe74b0e576c3c163c7e8cc36d0f7
 
  If you are yet to[install Ryujinx as a Nintendo Switch emulator for your PC](https://www.makeuseof.com/how-to-install-ryujinx-nintendo-switch-emulator-for-pc/) , the process can be tricky and may require individual file alterations. But even with the base version of Ryujinx installed, you can start mapping your controller of choice straight away.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Map a PlayStation, Xbox, or Third-Party Controller in Ryujinx
 
  With some of the specific features of Ryujinx defined, you should be ready to start mapping a controller for Nintendo Switch emulation. So, as long as you have Ryujinx installed on your device of choice, you can map a Nintendo, PlayStation, Xbox, or third-party controller by following these steps:
@@ -50,13 +57,34 @@ thumbnail: https://thmb.techidaily.com/23c1e788c86a1fe74b0e576c3c163c7e8cc36d0f7
 
 ![A screenshot of the Input screen in Ryujinx](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/input.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  From here, you can individually go through each button command and map it to a controller input of your choice. For instance, If you want to remap the**B** button, select the on-screen**B** in Ryujinx, followed by the button on your controller you want**B** to be replaced with.
 
  Once you are done, select**Add** in the top-right of the**Configure** screen. You will then be prompted to name your controller configuration. Confirm your changes by selecting**Ok** followed by**Save** .
 
 ![A screenshot of the ability to Add and Save a controller profile in Ryujinx](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/profile.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  And that's it. With your controller configuration saved, you can go on to emulate any Nintendo Switch game through Ryujinx while using your controller of choice, configured exactly to your preferences.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Customize Your Ryujinx Controller Settings
 
@@ -71,13 +99,6 @@ thumbnail: https://thmb.techidaily.com/23c1e788c86a1fe74b0e576c3c163c7e8cc36d0f7
 ![A screenshot of the Configure settings for a controller in Ryujinx](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/configuration.jpg)
 
  While these alterations may seem small in some cases, having more options is always positive, and with Ryujinx offering a simple and effective way of mapping and customizing a controller for Switch emulation, more simple features are certainly not a bad thing.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Streamline Nintendo Switch Emulation With Ryujinx
 
@@ -98,5 +119,21 @@ thumbnail: https://thmb.techidaily.com/23c1e788c86a1fe74b0e576c3c163c7e8cc36d0f7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-gratis-commerce-driven-presentation-templates-ideas/"><u>[New] Gratis Commerce-Driven Presentation Templates Ideas</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-examining-vidma-as-a-video-recorder-for-screens/"><u>[New] In 2024, Examining Vidma as a Video Recorder for Screens</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-file-sync-solutions-top-ways-to-bring-data-home/"><u>2024 Approved File Sync Solutions Top Ways To Bring Data Home</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-non-sharex-heroes-for-secure-file-sharing/"><u>2024 Approved Non-ShareX Heroes for Secure File Sharing</u></a></li>
+<li><a href="https://games-able.techidaily.com/directx-11-vs-directx-12-what-are-the-differences-and-which-should-you-use/"><u>DirectX 11 Vs. DirectX 12: What Are the Differences and Which Should You Use?</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-failed-file-creation-error-30005-on-pcs/"><u>Fixing Failed File Creation: Error 30005 on PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-a-guide-to-incorporating-launchers-on-dev-consoles/"><u>Game On: A Guide to Incorporating Launchers on Dev Consoles</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-variety-for-content-creators-revealed/"><u>Game Variety for Content Creators Revealed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/halt-contrasting-siri-and-chatgpt-divergent-functions/"><u>Halt Contrasting Siri and ChatGPT: Divergent Functions</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-itel-p55-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-ingenious-ways-to-change-song-duration-in-spotify/"><u>In 2024, Ingenious Ways to Change Song Duration in Spotify</u></a></li>
+<li><a href="https://games-able.techidaily.com/reviving-classics-win-11-integration-with-mypics/"><u>Reviving Classics: Win 11 Integration with MyPics</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-macs-for-seamless-video-editing-simplify-your-workflow-today/"><u>Top Macs for Seamless Video Editing: Simplify Your Workflow Today</u></a></li>
+<li><a href="https://games-able.techidaily.com/win-with-these-7-terminal-gaming-hacks/"><u>Win with These 7 Terminal Gaming Hacks</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "MOZA R5: The Perfect Price for Beginning Drivers"
-date: 2024-09-22T21:51:13.356Z
-updated: 2024-09-27T05:43:42.174Z
+date: 2024-09-25T11:04:18.070Z
+updated: 2024-10-02T05:10:30.282Z
 tags:
   - games
 categories:
@@ -105,6 +105,13 @@ Yes
 
 [$549 at Amazon](https://www.amazon.com/Racing-Gaming-Simulator-Bundle-Steering-PC/dp/B07DW25P3R?tag=muo-v2-51um1p3-20&ascsubtag=UUmuoUeUpU2030726&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fmoza-r5-bundle-review%2F&asc%5Fcampaign=Affiliate) [See at MOZA Racing](https://mozaracing.com/product/r5-bundle)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What’s in the Boxes?
 
  For testing, we received the basic R5 bundle with all the included add-ons: the Formula Wheel Mod for the ES Steering Wheel; Brake Performance Kit; and clutch for the bundled pedals. I’ll be covering these accessories in detail later.
@@ -117,6 +124,13 @@ Yes
 
  The accessories came in smaller boxes, with only the clutch pedal themed the same as the main R5 Bundle box, while the rest arrived in plain, white cardboard boxes with black text and an image.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## MOZA R5 First Impressions
 
  Taking out the ES Steering Wheel is the first thing you’ll do when opening up the box, and it's certainly exciting. The faux leather feels and smells good, but apart from the touch, the shiny brushed design on the face and rattly buttons didn’t resonate well with me.
@@ -128,13 +142,6 @@ Yes
  The thing that caught my attention about the rim is the quick release. It was intimidating in a good way and instilled the sense that this isn't a toy, but a serious piece of kit.
 
 ![MOZA R5 without steering wheel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-without-steering-wheel.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Jhet Borja / MakeUseOf
 
@@ -176,13 +183,6 @@ Yes
 
 ![Pit House Resetting Software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/pit-house-resetting-software.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
 
  I got driving immediately with the pre-configured settings on Assetto Corsa Competizione, but eventually had to tweak it since there’s lots of scary force feedback looping, making the wheel swing 90-degrees to either side if I let go.
@@ -192,13 +192,6 @@ Close
  I did face two issues that were fixed by resetting the wheel base in the Pit House software. First was the “Hands-Off Protection” safety feature, which disconnects the FFB when your hands aren’t on the wheel in case of large crashes. It wasn’t working for me until I reset the wheel base. Even then, it still sometimes flicked if the crash wasn’t big enough, but still significant enough to cause some pain.
 
  Secondly, and more significantly, the wheel base was turning on its own. It wouldn’t do this while driving, or not that I’ve noticed anyway, but the wheel felt grainy and turned about 60-degrees clockwise on its own. It wasn’t until four weeks into playing with it did I actually attempt to reset the wheel base and it made the wheel feel incredibly smooth, and it didn’t turn on its own anymore.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## MOZA Racing Mobile App Experience
 
@@ -213,10 +206,10 @@ Close
 ![MOZA Racing moible app connected hardware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-racing-moible-app-connected-hardware.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![FFB frequency settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/ffb-frequency-settings.jpg)
@@ -224,6 +217,13 @@ Close
 ![Wheel base settings advanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/wheel-base-settings-advanced.jpg)
 
 ![MOZA Racing Mobile App Wheel Base settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-racing-mobile-app-wheel-base-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -251,20 +251,27 @@ Close
 
 ![MOZA R5 on edge of table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-on-edge-of-table.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image Credit: Jhet Borja
 
  When I’m done racing, I usually stow it away at the far edge of my desk and unplug the USB and pedal cables. It’s pretty convenient to set up, as I don’t have to move the wheel base far. The wheel can also stay detached, so it’s not in the way all the time. My table is a bit wobbly though, so the monitor gets all shaky, especially when driving Rally cars.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Quick Release System
 
 ![R5 Quick Release](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/r5-quick-release.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Jhet Borja / MakeUseOf
 
@@ -273,6 +280,13 @@ Close
  The Fanatec QR system has had many issues, and has since been superceded by their QR2 system, but it's expensive for something that should be considered standard. For the MOZA R5, having to upgrade the QR system isn't a consideration.
 
  The thin black paint on the QR system did eventually get scratched up over a few weeks of use, but that’s to be expected as it’s hard and heavy metal constantly rubbing on each other. Despite the cosmetic damage, I doubt detaching and reattaching wheels would lead to any significant damage. They could probably leave that part unpainted, but that would detract from the overall look of the base.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## MOZA R5 Bundle: Driving Experience
 
@@ -294,25 +308,11 @@ Close
 
  I was able to try the Simagic Alpha Mini at a local tech event before receiving the R5, and I can confidently say that a higher torque wheel base is better. It was more tiring, but I felt the subtle details a lot more clearly. It was also significantly smoother, which I think MOZA could also achieve with some updates.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### MOZA SR-P Lite Pedals and Brake Performance Kit
 
  Considering the prices of the R5 base and the ES Wheel alone are $299 and $129, leaving just $71 for the pedals—the SR-P Lite does its job quite well. Using precise hall-effect sensors and a solid all-metal construction, it’s not a bad set of pedals. However, I do think the pedals are the weakest point of this bundle, and I have a few complaints about them.
 
 ![Brake Performance Kit for SR-P Lite pedals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/brake-performance-kit-for-sr-p-lite-pedals.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Jhet Borja / MakeUseOf
 
@@ -323,6 +323,13 @@ Close
  I’m pretty disappointed about the pedal faces as well, since it makes it hard to heel and toe if you do decide to get the clutch pedal. However, these shouldn’t be a problem for you if you don’t plan to learn heel and toe or just drive GT3 and Formula 1 cars.
 
  On the whole, I’d say they’re good enough if you don’t use heel and toe. For beginner to intermediate-level drivers, these are enjoyable and good enough to make you fast and consistent. I’d suggest adding a little lubrication to the hinges to improve the precision, though.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### ES Steering Wheel and Formula Wheel Mod
 
@@ -335,13 +342,6 @@ Close
  It’s solid and feels nice, even without gloves. It’s on the smaller side at 11 inches, but on a 5.5Nm base, it allows you to feel the forces better than a larger wheel. I did notice a bit of rattling noise, which makes it feel like a toy, but I only ever noticed it when I drove without sound. However, you can upgrade to a 12-inch round wheel mod for drifting and enlarging the rim.
 
 ![Driving with Formula mod for ES Steering Wheel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/driving-with-formula-mod-for-es-steering-wheel.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Jhet Borja / MakeUseOf
 
@@ -384,22 +384,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-crafting-a-compelling-profile-visual-experience/"><u>[New] Crafting a Compelling Profile Visual Experience</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-dynamic-endings-creating-smooth-video-transitions-for-2024/"><u>[New] Dynamic Endings Creating Smooth Video Transitions for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-best-in-class-android-storage-solutions-cloud-edition-2024/"><u>[Updated] Best-in-Class Android Storage Solutions (Cloud Edition, 2024)</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-interactive-visual-exchange-android-iphone/"><u>[Updated] Interactive Visual Exchange Android-iPhone</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-seamless-switch-windows-on-a-steam-deck-journey/"><u>A Seamless Switch: Windows on a Steam Deck Journey</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/chortle-chamber-ideas-for-7-amusing-online-sessions-for-2024/"><u>Chortle Chamber Ideas for 7 Amusing Online Sessions for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/data-survival-for-gamers-backup-of-screenshots/"><u>Data Survival for Gamers: Backup of Screenshots</u></a></li>
-<li><a href="https://games-able.techidaily.com/five-reasons-against-gamefis-widespread-allure/"><u>Five Reasons Against GameFi's Widespread Allure</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-samsung-galaxy-xcover-7-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Samsung Galaxy XCover 7 to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-x-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone X Properly</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-discord-nitro-worth-it/"><u>Is Discord Nitro Worth It?</u></a></li>
-<li><a href="https://games-able.techidaily.com/next-level-gaming-10-must-try-games-on-google-play-pc/"><u>Next-Level Gaming: 10 Must-Try Games on Google Play PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/perfecting-the-art-of-taking-and-managing-steam-shots/"><u>Perfecting the Art of Taking and Managing Steam Shots</u></a></li>
-<li><a href="https://fox-http.techidaily.com/secrets-for-transcribing-twitter-videos-into-mp3-format-for-2024/"><u>Secrets for Transcribing Twitter Videos Into MP3 Format for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/solutions-to-apples-insufficient-ram-warning-roblox/"><u>Solutions to Apple's Insufficient RAM Warning (Roblox)</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-unmatched-performance-of-2-years-on-an-oled-monitor/"><u>The Unmatched Performance of 2 Years on an OLED Monitor!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722898589227-upcoming-sony-vr-gear-pricing-insights-scheduled-release-detailed-features-and-latest-buzz/"><u>Upcoming Sony VR Gear: Pricing Insights, Scheduled Release, Detailed Features & Latest Buzz</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-visual-simplification-in-hybrid-workspaces-with-zoom-and-google-meet/"><u>[New] 2024 Approved Visual Simplification in Hybrid Workspaces with Zoom & Google Meet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-frames-to-fun-youtube-gifs-creation-made-simple-for-2024/"><u>[New] From Frames to Fun YouTube GIFs Creation Made Simple for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-vivo-v29-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Vivo V29 to Roku | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/8-powerful-strategies-boosting-daily-efficiency-with-gpt/"><u>8 Powerful Strategies: Boosting Daily Efficiency with GPT</u></a></li>
+<li><a href="https://games-able.techidaily.com/choosing-between-the-nintendo-switch-and-nintendo-switch-oled-a-comprehensive-guide-zdnet/"><u>Choosing Between the Nintendo Switch and Nintendo Switch OLED: A Comprehensive Guide | ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/connect-ps4-gamepad-to-phone-with-ease-comprehensive-instructions-for-gamers/"><u>Connect PS4 Gamepad to Phone with Ease – Comprehensive Instructions for Gamers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-lameenc-dll-errors-in-audacity-for-perfect-audio-encoding/"><u>Fixing Lame_Enc DLL Errors in Audacity for Perfect Audio Encoding</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-cinemas-best-shoot-techniques-the-ultimate-guide-for-24/"><u>In 2024, Cinema's Best Shoot Techniques The Ultimate Guide for '24</u></a></li>
+<li><a href="https://games-able.techidaily.com/in-depth-analysis-of-the-shure-mv7-microphone-the-ultimate-choice-for-podcasters-and-streamers-revealed-by-zdnet/"><u>In-Depth Analysis of the Shure MV7 Microphone: The Ultimate Choice for Podcasters and Streamers Revealed by ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/inside-chatgpt-enterprise-what-it-provides-how-it-stands-out-and-why-companerates-need-it/"><u>Inside ChatGPT Enterprise: What It Provides, How It Stands Out, and Why Companerates Need It</u></a></li>
+<li><a href="https://games-able.techidaily.com/labor-day-2024-ultimate-television-bargains-save-big-on-your-favorite-shows-56plus-deals-zdnet-insider-tips/"><u>Labor Day 2024 Ultimate Television Bargains: Save Big on Your Favorite Shows (56+ Deals) | ZDNET Insider Tips</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/new-study-reveals-why-pc-gamers-are-switching-to-windows-11-leaving-behind-windows-10-digital-trends/"><u>New Study Reveals Why PC Gamers Are Switching to Windows 11, Leaving Behind Windows 10 | Digital Trends</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-a-non-functioning-razer-headset-mic-follow-these-5-steps/"><u>Quick Fixes for a Non-Functioning Razer Headset Mic – Follow These 5 Steps</u></a></li>
+<li><a href="https://games-able.techidaily.com/scoring-a-deal-secure-the-ultimate-viewing-experience-with-this-85-inch-tcl-tv-on-sale-for-only-900-exclusive-labor-day-blowout-at-zdnet/"><u>Scoring a Deal? Secure the Ultimate Viewing Experience with This 85-Inch TCL TV on Sale for Only $900 | Exclusive Labor Day Blowout at ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-56-unbeatable-labor-day-television-bargains-discover-them-here-zdnet/"><u>Top 56 Unbeatable Labor Day Television Bargains - Discover Them Here! | ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-elite-comprehensive-review-of-the-top-tier-gmmk-pro-mechanical-keyboard-kit-zdnet-insights/"><u>Unveiling the Elite: Comprehensive Review of the Top-Tier GMMK Pro Mechanical Keyboard Kit | ZDNET Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-hidden-gaming-console-within-this-affordable-samsung-projector-now-with-an-extra-200-savings/"><u>Unveiling the Hidden Gaming Console Within This Affordable Samsung Projector - Now with an Extra $200 Savings!</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ze-youtubes-prominent-slot-a-compreenhensive-strategy-guide-for-2024/"><u>Utilize YouTube's Prominent Slot A Compreenhensive Strategy Guide for 2024</u></a></li>
 </ul></div>
 

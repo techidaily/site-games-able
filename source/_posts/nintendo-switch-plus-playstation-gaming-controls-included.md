@@ -1,7 +1,7 @@
 ---
 title: "Nintendo Switch Plus: PlayStation Gaming Controls Included"
-date: 2024-09-16T16:11:37.763Z
-updated: 2024-09-21T01:29:35.778Z
+date: 2024-09-29T23:03:47.540Z
+updated: 2024-10-02T10:18:31.624Z
 tags:
   - games
 categories:
@@ -45,13 +45,34 @@ thumbnail: https://thmb.techidaily.com/98a74ce7172ad2a57d4310a18c57051ce671b66b0
 
 ![pro controller wired connections nintendo Switch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/how-to-pair-ps4-controller-nintendo-switch-004-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  By pressing the pairing button on the USB adapter, you should see a rapidly flashing light. This means that the adapter is ready to pair.
 
 ![Close up of 8BitDo Wireless Adapter 2 pairing button-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/close-up-of-8bitdo-wireless-adapter-2-pairing-button-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Finally, on both the DualSense and DualShock 4 controller, hold down**the PS Button** and**the Share button** to put the controller into pairing mode. The DualSense will have lights pulsing around the touchpad, while the Playstation 4’s DualShock 4 will display a pulsing light on the front.
 
 ![Putting DualSense Controller into pairing mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/putting-dualsense-into-pairing-mode.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When the lights on the controller and adapter return to their steady color, they are paired. You are now ready to play Switch games using a PlayStation controller. To make sure, you should be able to see your controller displayed on the**Controller Select** screen on your Switch.
 
@@ -65,16 +86,16 @@ thumbnail: https://thmb.techidaily.com/98a74ce7172ad2a57d4310a18c57051ce671b66b0
 
 ![Close up of the PlayStation 5 DualSense controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/close-up-of-the-playstation-5-dualsense-controller.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This method works perfectly for both the original Nintendo Switch and the Switch OLED. However, it will not work for the Nintendo Switch Lite since it doesn't have a dock. This is one of the biggest deal-breakers when it comes to choosing whether to[buy the Nintendo Switch or the Nintendo Switch Lite](https://www.makeuseof.com/tag/nintendo-switch-vs-switch-lite/) .
 
  If you really want to connect your PlayStation controller to your Switch Lite, however, there is a way around it. You will just need to purchase a USB-C to USB adapter first and use your wireless USB adapter through that instead. Following the step-by-step guide above, you should be able to play your Nintendo Switch Lite with the PlayStation controller of your choice.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Play Switch Games the Way You Want to Play Them
 
@@ -95,5 +116,26 @@ thumbnail: https://thmb.techidaily.com/98a74ce7172ad2a57d4310a18c57051ce671b66b0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-solo-show-survival-guide-to-staying-trendy/"><u>[New] 2024 Approved The Solo Show Survival Guide to Staying Trendy</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-discovering-those-who-left-my-instagram-circle/"><u>[New] In 2024, Discovering Those Who Left My Instagram Circle</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-revamping-your-videos-top-5-mac-editors-at-hand/"><u>[New] Revamping Your Videos? Top 5 Mac Editors at Hand</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-yogi-essentials-top-ten-web-channels-for-exercise/"><u>[Updated] In 2024, Yogi Essentials Top Ten Web Channels for Exercise</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-step-by-step-mastering-ppros-full-screen-preview/"><u>[Updated] Step-by-Step Mastering PPro's Full Screen Preview</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-fluent-in-content-sharing-tiktok-twitter-transition/"><u>2024 Approved Fluent in Content Sharing TikTok-Twitter Transition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/arf-pets-automatic-pet-feeder-review/"><u>Arf Pets Automatic Pet Feeder Review</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/avoiding-pitfalls-smart-ways-for-students-to-leverage-chatgpt-ethically-and-effectively/"><u>Avoiding Pitfalls: Smart Ways for Students to Leverage ChatGPT Ethically and Effectively</u></a></li>
+<li><a href="https://games-able.techidaily.com/expedition-for-efficient-map-extraction-and-entry/"><u>Expedition for Efficient Map Extraction and Entry</u></a></li>
+<li><a href="https://games-able.techidaily.com/ifa-unboxing-the-future-of-gaming-hardware-awaits/"><u>IFA Unboxing: The Future of Gaming Hardware Awaits</u></a></li>
+<li><a href="https://games-able.techidaily.com/leading-list-of-11-excellent-cost-free-words-games/"><u>Leading List of 11 Excellent, Cost-Free Words Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-and-phone-synergy-a-comprehensive-guide/"><u>PS5 & Phone Synergy: A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-insight-check-if-a-cpu-is-slowing-down-your-system/"><u>Quick Insight: Check if a CPU Is Slowing Down Your System</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-pc-game-file-corruption-ultimate-guide/"><u>Resolving PC Game File Corruption - Ultimate Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/secure-your-gaming-world-mastering-switch-identity-control/"><u>Secure Your Gaming World: Mastering Switch Identity Control</u></a></li>
+<li><a href="https://games-able.techidaily.com/tech-talk-maximizing-storage-on-steam-deck/"><u>Tech Talk: Maximizing Storage on Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/tether-two-titles-a-seamless-guide-to-epicplussteam-linkage/"><u>Tether Two Titles: A Seamless Guide to Epic+Steam Linkage</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-vivo-t2-5g-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Vivo T2 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-choices-premium-3d-lights-for-gamers/"><u>Ultimate Choices: Premium 3D Lights for Gamers</u></a></li>
+</ul></div>
 

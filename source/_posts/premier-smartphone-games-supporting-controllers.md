@@ -1,7 +1,7 @@
 ---
 title: Premier Smartphone Games Supporting Controllers
-date: 2024-09-24T20:19:27.917Z
-updated: 2024-09-27T04:14:08.454Z
+date: 2024-09-26T04:34:20.341Z
+updated: 2024-10-02T10:17:35.984Z
 tags:
   - games
 categories:
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/5497305e7ede52ac11b29b1b9923a18c5f2da5c48
 
 **Download:** Call of Duty: Mobile for[iOS](https://apps.apple.com/us/app/call-of-duty-mobile/id1287282214) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029511/https://play.google.com/store/apps/details?id=com.activision.callofduty.shooter) (Free, in-app purchases available).
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Minecraft
 
  One of the most popular games of all time, Minecraft, is available on mobile devices and offers controller support. Not only does this make gameplay more familiar for console players, but it’s actually much easier to use a controller and it improves the gameplay.
@@ -42,13 +49,6 @@ thumbnail: https://thmb.techidaily.com/5497305e7ede52ac11b29b1b9923a18c5f2da5c48
  Best of all, if you already play Minecraft: Bedrock Edition, you can log into the same maps and play with your friends, right from your mobile device. And, if you already have a Nintendo Switch, you can also[use Nintendo Switch Joy-Con as a controller for your iPhone](https://www.makeuseof.com/how-to-connect-joy-cons-to-iphone/) .
 
 **Download:** Minecraft for[iOS](https://apps.apple.com/us/app/minecraft/id479516143) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029511/https://play.google.com/store/apps/details?id=com.mojang.minecraftpe) ($6.99).
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Fortnite
 
@@ -63,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/5497305e7ede52ac11b29b1b9923a18c5f2da5c48
 **Download:** Fortnite for mobile devices via the official site for[Fortnite](https://www.fortnite.com/mobile) (Free, in-app purchases available).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Rocket League Sideswipe
@@ -78,6 +78,13 @@ thumbnail: https://thmb.techidaily.com/5497305e7ede52ac11b29b1b9923a18c5f2da5c48
  Rocket League Sideswipe is a mobile-exclusive game, and you’ll only be playing against other mobile players.
 
 **Download:** Rocket League Sideswipe for[iOS](https://apps.apple.com/us/app/rocket-league-sideswipe/id1549027048) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029511/https://play.google.com/store/apps/details?id=com.Psyonix.RL2D) (Free, in-app purchases available).
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Asphalt 9: Legends
 
@@ -107,13 +114,6 @@ thumbnail: https://thmb.techidaily.com/5497305e7ede52ac11b29b1b9923a18c5f2da5c48
 
 **Download:** Roblox for[iOS](https://apps.apple.com/us/app/roblox/id431946152) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029511/https://play.google.com/store/apps/details?id=com.roblox.client&hl=en%5FUS&gl=US) (Free, in-app purchases available).
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Genshin Impact
 
  Genshin Impact is consistently rated as one of the best mobile games. It’s also only available on PlayStation, with a potential release date for Nintendo Switch. So, if you’re looking to play this game and don’t have a PlayStation, the only way to play it is on a mobile device.
@@ -123,10 +123,10 @@ thumbnail: https://thmb.techidaily.com/5497305e7ede52ac11b29b1b9923a18c5f2da5c48
 **Download:** Genshin Impact for[iOS](https://apps.apple.com/us/app/genshin-impact-v4-0-fontaine/id1517783697) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029511/https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact&hl=en%5FUS&gl=US) (Free, in-app purchases available).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Stardew Valley
@@ -174,18 +174,24 @@ thumbnail: https://thmb.techidaily.com/5497305e7ede52ac11b29b1b9923a18c5f2da5c48
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://buynow-info.techidaily.com/prime-ready-a-comprehensive-review-of-the-toshiba-55lf711u20-the-ultimate-streaming-tv/"><u>'Prime-Ready': A Comprehensive Review of the Toshiba 55LF711U20 - The Ultimate Streaming TV</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-colorists-companion-top-11-tools-for-hue-harmony/"><u>[New] 2024 Approved The Colorist's Companion Top 11 Tools for Hue Harmony</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-synchronizing-creatives-videos-to-amplify-your-presence/"><u>[New] Synchronizing Creatives Videos to Amplify Your Presence</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-free-screen-cast-options-on-windows-ranked-1-to-5/"><u>Best Free Screen Cast Options on Windows, Ranked #1 to #5</u></a></li>
-<li><a href="https://games-able.techidaily.com/decoding-the-exorbitant-costs-4-factors-behind-vrs-pricing/"><u>Decoding the Exorbitant Costs: 4 Factors Behind VR's Pricing</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-cartridges-to-cloud-evaluating-the-9-perks-and-pitfalls-of-games/"><u>From Cartridges to Cloud: Evaluating the 9 Perks and Pitfalls of Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-diagnose-and-solve-right-side-problems-with-the-wrath-of-the-righteous-game-controller/"><u>How to Diagnose and Solve Right Side Problems with the Wrath of the Righteous Game Controller</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/how-to-record-videos-in-complete-silence/"><u>How to Record Videos in Complete Silence</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-post-stage-troubleshooting-tips-for-overcoming-computer-startup-errors/"><u>Mastering Post-Stage Troubleshooting: Tips for Overcoming Computer Startup Errors</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-the-sony-headset-troubleshooter-effective-fixes-to-reconnect-your-microphone-on-windows-pcs/"><u>Mastering the Sony Headset Troubleshooter: Effective Fixes to Reconnect Your Microphone on Windows PCs</u></a></li>
-<li><a href="https://driver-download.techidaily.com/most-recent-compatible-amd-radeon-r5-drivers-for-windows-users-win-111087/"><u>Most Recent Compatible AMD Radeon R5 Drivers: For Windows Users (Win 11/10/8/7)</u></a></li>
-<li><a href="https://games-able.techidaily.com/serious-gaming-meets-high-tech-akkos-mod007b-overview/"><u>Serious Gaming Meets High-Tech: Akko's MOD007B Overview</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlock-the-secrets-maximizing-your-video-content-on-zoom-and-youtube-live-for-2024/"><u>Unlock the Secrets Maximizing Your Video Content on Zoom & YouTube Live for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-highest-quality-capture-options/"><u>[New] Highest Quality Capture Options</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-how-to-quickly-craft-perfect-subtitles-and-captions-for-facebook-video-feeds/"><u>[New] How To Quickly Craft Perfect Subtitles and Captions for Facebook Video Feeds</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-seamless-guide-to-utilizing-mobizen-screen-recorder/"><u>[Updated] 2024 Approved Seamless Guide to Utilizing Mobizen Screen Recorder</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-the-writers-guide-to-dialogic-depth-in-screenplays/"><u>[Updated] 2024 Approved The Writers' Guide to Dialogic Depth in Screenplays</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-asus-mg28uq-screen-a-4k-odyssey-of-immersion-and-fidelity/"><u>2024 Approved ASUS MG28UQ Screen - A 4K Odyssey of Immersion and Fidelity</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-auditory-nexus-studio-mac-essentials/"><u>2024 Approved The Auditory Nexus Studio Mac Essentials</u></a></li>
+<li><a href="https://games-able.techidaily.com/customizing-notification-sounds-with-xbox/"><u>Customizing Notification Sounds with Xbox</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-the-technology-behind-xboxs-remote-gameplay/"><u>Decoding the Technology Behind Xbox’s Remote Gameplay</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-text-extraction-from-pdfs-using-4-innovative-chatgpt-strategies/"><u>Enhancing Text Extraction From PDFs Using 4 Innovative ChatGPT Strategies</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-engineering-of-your-console-control-xbox-s/"><u>Exploring the Engineering of Your Console Control - Xbox S</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/hidden-steam-game-repository/"><u>Hidden Steam Game Repository</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-nullify-and-receive-your-money-back-on-fortnite-spendings/"><u>How to Nullify and Receive Your Money Back on Fortnite Spendings</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-oppo-reno-10-pro-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo Reno 10 Pro 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/maintaining-childrens-security-in-social-chats/"><u>Maintaining Children’s Security in Social Chats</u></a></li>
+<li><a href="https://games-able.techidaily.com/pixels-vs-shelves-the-advantages-and-disadvantages-of-digital-gaming/"><u>Pixels Vs. Shelves: The Advantages & Disadvantages of Digital Gaming</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/premium-mobile-experience-with-best-gb-emulators/"><u>Premium Mobile Experience with Best GB Emulators</u></a></li>
+<li><a href="https://games-able.techidaily.com/sony-ps5-movie-magic-unveiled/"><u>Sony PS5 Movie Magic Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-ifas-top-gaming-tech-releases/"><u>The Ultimate Guide to IFA's Top Gaming Tech Releases</u></a></li>
 </ul></div>
 

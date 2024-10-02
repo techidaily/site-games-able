@@ -1,7 +1,7 @@
 ---
 title: Stay Silent in Gameplay with Xbox Series X|S
-date: 2024-09-20T00:58:17.019Z
-updated: 2024-09-27T02:47:09.601Z
+date: 2024-09-26T01:23:02.854Z
+updated: 2024-10-02T02:41:56.337Z
 tags:
   - games
 categories:
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/8581bfa31a5d038a1f8f5ee676586f0437981f1b9
  But aside from the practical caveats of altering controller vibration, the most common way you might otherwise be hindered is due to physical issues with a controller. A build-up of dirt, for instance, can cause stick drift or non-responsive vibration motors, and you may need to[take your Xbox controller apart](https://www.makeuseof.com/xbox-series-xs-controller-how-to-take-apart/) to fix any vibration problem.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Disable Controller Vibration on Xbox Series X|S
@@ -51,16 +51,16 @@ thumbnail: https://thmb.techidaily.com/8581bfa31a5d038a1f8f5ee676586f0437981f1b9
 
 ![A screenshot of the Guide menu on Xbox Series X with the options for Profile and System highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-guide-menu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Under**Accessibility** , select**Controller** .
 
 ![A screenshot of the Accessibility settings on Xbox Series X with Controller highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/xbox-accessibility.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Select**Vibration settings** .
 
@@ -71,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/8581bfa31a5d038a1f8f5ee676586f0437981f1b9
 ![A screenshot of the button mapping screen for an Xbox Wireless Controller on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/turn-on-vibration.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  With**Turn on vibration** unchecked and disabled, your current controller**Profile** will have vibration universally disabled no matter what game or app you use on your Xbox. Inversely, if you ever want to re-enable vibration, simply go back into**Vibration settings** and ensure**Turn on vibration** is selected.
@@ -87,14 +87,14 @@ thumbnail: https://thmb.techidaily.com/8581bfa31a5d038a1f8f5ee676586f0437981f1b9
 
  So, by customizing your controller settings to your preferences, you can even go on to do the same for your Xbox Series X|S to help guarantee your gaming experience.
 
-## FAQ
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## FAQ
 
 ### Q: Why Is Your Xbox Series X|S Constantly Vibrating?
 
@@ -123,19 +123,18 @@ thumbnail: https://thmb.techidaily.com/8581bfa31a5d038a1f8f5ee676586f0437981f1b9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-crafting-serenity-a-spiritual-journey-through-6-intellectually-designed-minecraft-modern-houses/"><u>[New] 2024 Approved Crafting Serenity A Spiritual Journey Through 6 Intellectually Designed Minecraft Modern Houses</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-innovative-iosandroid-apps-for-photo-writing/"><u>[New] 2024 Approved Innovative iOS/Android Apps for Photo-Writing</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-comprehensive-guide-best-10-free-file-type-changers-jpg-to-gif/"><u>[New] Comprehensive Guide Best 10 Free File Type Changers (JPG to GIF)</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-reimagining-commerce-through-immersive-technology/"><u>[Updated] In 2024, Reimagining Commerce Through Immersive Technology</u></a></li>
-<li><a href="https://games-able.techidaily.com/2023s-tech-showcase-pioneering-games-devices/"><u>2023'S Tech Showcase: Pioneering Games Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/7-innovative-terminal-games-for-linux-aficionados/"><u>7 Innovative Terminal Games for Linux Aficionados</u></a></li>
-<li><a href="https://games-able.techidaily.com/are-acemagics-games-validated-by-am08-pro/"><u>Are AceMagic's Games, Validated by AM08 Pro?</u></a></li>
-<li><a href="https://games-able.techidaily.com/battle-of-gaming-services-psplus-vs-xbox-game-pass/"><u>Battle of Gaming Services: PS+ vs Xbox Game Pass</u></a></li>
-<li><a href="https://games-able.techidaily.com/behind-the-score-curtain-unveiling-review-hurdles/"><u>Behind the Score Curtain: Unveiling Review Hurdles</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/conversione-rapida-e-gratuita-da-mpeg-a-m4v-su-internet-utilizzando-il-servizio-di-movavi-video-converter/"><u>Conversione Rapida E Gratuita: Da MPEG a M4V Su Internet Utilizzando Il Servizio Di Movavi Video Converter</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/explore-8-leading-free-srt-translators-online-for-2024/"><u>Explore 8 Leading Free SRT Translators Online for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/leading-mortgage-brokerages-accelerating-service-delivery-and-efficiency/"><u>Leading Mortgage Brokerages: Accelerating Service Delivery & Efficiency</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-the-hurdle-successfully-launching-age-of-empires-4/"><u>Overcoming the Hurdle: Successfully Launching Age of Empires 4</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-fix-guide-overcoming-cod-vanguard-pc-stability-issues/"><u>Ultimate Fix Guide: Overcoming CoD Vanguard PC Stability Issues</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/updated-guide-download-and-install-the-latest-scanner-s1100-software/"><u>[Updated Guide]: Download and Install the Latest Scanner S1100 Software</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/come-trasformare-i-tuoi-video-di-youtube-in-qualita-audio-wav-con-il-software-piu-efficace/"><u>Come Trasformare I Tuoi Video Di YouTube in Qualità Audio WAV Con Il Software Più Efficace</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Sony Xperia 10 V? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-picart-background-cleanse-method/"><u>In 2024, Step-by-Step PicArt Background Cleanse Method</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mpg-to-swf-converter-free-online-tool-by-movavi/"><u>MPG to SWF Converter - Free Online Tool by Movavi</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-mp4-to-mp3-conversion-made-easy-top-converters-reviewed/"><u>New 2024 Approved MP4 to MP3 Conversion Made Easy Top Converters Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/outshine-the-rtx-4060-ti-with-these-gpu-alternatives/"><u>Outshine the RTX 4060 Ti with These GPU Alternatives</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionize-your-ps4-performance-today/"><u>Revolutionize Your PS4 Performance Today</u></a></li>
+<li><a href="https://games-able.techidaily.com/setting-up-discord-desktop-app-essential-steps-for-mac-users/"><u>Setting Up Discord Desktop App: Essential Steps for Mac Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-list-7-superior-bots-for-twitch-channels/"><u>The Ultimate List: 7 Superior Bots for Twitch Channels</u></a></li>
+<li><a href="https://games-able.techidaily.com/vanishing-in-the-gaming-world/"><u>Vanishing in the Gaming World</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-lava-yuva-2-pro-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Lava Yuva 2 Pro Phone Network-Ready</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207602645-win-7-freeze-frustration-heres-how-to-stabilize-your-pc-and-avoid-surprises/"><u>Win 7 Freeze Frustration? Here's How to Stabilize Your PC and Avoid Surprises!</u></a></li>
 </ul></div>
 

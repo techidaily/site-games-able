@@ -1,7 +1,7 @@
 ---
 title: "Large-Scale Gaming: Switch to Playnite Fullscreen TV"
-date: 2024-09-24T08:05:01.605Z
-updated: 2024-09-27T02:13:06.138Z
+date: 2024-09-29T04:43:01.796Z
+updated: 2024-10-02T09:41:08.487Z
 tags:
   - games
 categories:
@@ -48,13 +48,6 @@ To install third-party themes to Playnite:
 ![Playnite Menu Add Ons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playnite-menu-add-ons.jpg)
 2. Expand the "**Browse** " section on the left of the**Add-ons** window, and visit the**Themes Fullscreen** page. There, check the list of available themes. Select any to read its description and see some preview thumbnails. Click the**Install** button on the right to bring it on board.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Playnite Add Ons Browse Themes Fullscreen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playnite-add-ons-browse-themes-fullscreen.jpg)
 
 ## Customize Fullscreen Mode
@@ -63,17 +56,37 @@ To install third-party themes to Playnite:
 
 ![Playnite Fullscreen Mode Menu Selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playnite-fullscreen-mode-menu-selected.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In most themes you can move the selector to the top of the screen, then to the right, to find and access the app's menu. Select**Settings** .
 
 ![Playnite Fullscreen Mode Menu Settings Entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playnite-fullscreen-mode-menu-settings-entry.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Here are some of the spots you might want to visit:
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### General
@@ -83,6 +96,13 @@ Here are some of the spots you might want to visit:
 ![Playnite Fullscreen Mode Settings General](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playnite-fullscreen-mode-settings-general.jpg)
 
  You can also select if you want to see the**Clock** ,**Battery Status** (useful if using a laptop), and if you prefer the app's**Image rendering scaler** to prioritize speed or quality.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Visuals
 
@@ -97,6 +117,13 @@ Here are some of the spots you might want to visit:
 
  That's also where you can change the active**Theme** .
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Layout
 
  Play with the**Columns** ,**Rows** , and**Item spacing** values here to change how many entries Playnite will display on your screen, making them appear larger or smaller.
@@ -106,10 +133,10 @@ Here are some of the spots you might want to visit:
  You might want to avoid playing with the**Horizontal Scrolling** and**Smooth scrolling** checkboxes, but keep their location in mind: some themes will send you back here to change those options.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Input
@@ -117,13 +144,6 @@ Here are some of the spots you might want to visit:
  If your joypad doesn't work correctly (or at all) with Playnite's Fullscreen Mode, try enabling "**XInput Device Support** " here.
 
 ![Playnite Fullscreen Mode Settings Input](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playnite-fullscreen-mode-settings-input.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Fans of imported games used to alternative input approaches may also want to enable**Inverted X/A main view button binding** and**Swap confirmation/cancelation button binding** .
 
@@ -137,34 +157,20 @@ Here are some of the spots you might want to visit:
 
 ![Playnite Desktop Menu Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playnite-desktop-menu-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Ensure you're on the**General** page from the list on the left, and place a checkmark on**Launch in Fullscreen Mode** and**Launch Playnite when you start your computer** .
 
 ![Playnite Desktop Menu Settings Autolaunch in Fullscreen Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playnite-desktop-menu-settings-autolaunch-in-fullscreen-mode.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This way, Playnite will practically "console-i-fy" your PC since the app will launch automatically in its Fullscreen Mode whenever Windows loads. This will enable you to jump straight into your games collection instead of fighting with Windows' desktop from your couch.
 
  Also, if you've followed our guide on[how to add your emulated games into Playnite on Windows](https://www.makeuseof.com/add-emulated-games-playnite/) , you'll find that being able to control everything with a joypad feels more seamless than adding a mouse and keyboard to the mix.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Couch PC Gaming
 
@@ -187,19 +193,14 @@ Here are some of the spots you might want to visit:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-flashscreen-snapshot-evaluation-and-alternates/"><u>[Updated] FlashScreen Snapshot Evaluation & Alternates</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-screen-capture-power-play-apowsort-reviewed-and-comparisons-made/"><u>2024 Approved Screen Capture Power Play Apowsort Reviewed & Comparisons Made</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-human-feelings-with-ai-how-accurate-is-the-analysis-by-emotion-recognition-technology/"><u>Decoding Human Feelings with AI: How Accurate Is the Analysis by Emotion Recognition Technology?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/delve-deep-into-powerdirector-comprehensive-review-and-tutorial/"><u>Delve Deep Into PowerDirector - Comprehensive Review & Tutorial</u></a></li>
-<li><a href="https://games-able.techidaily.com/get-thrilling-with-these-7-command-line-games/"><u>Get Thrilling with These 7 Command Line Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/hitchless-guide-to-gaming-consoles-refunds-xbox/"><u>Hitchless Guide to Gaming Consoles Refunds (Xbox)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-income-patterns-in-the-podcast-industry/"><u>In 2024, Income Patterns in the Podcast Industry</u></a></li>
-<li><a href="https://games-able.techidaily.com/mmx-200-evaluation-powerful-but-feature-limited/"><u>MMX 200 Evaluation: Powerful but Feature-Limited</u></a></li>
-<li><a href="https://games-able.techidaily.com/overcoming-steams-bp-display-glitches/"><u>Overcoming Steam's BP Display Glitches</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-infinix-gt-10-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Infinix GT 10 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/seamless-streaming-transform-xbox-playback-quality/"><u>Seamless Streaming: Transform XBox Playback Quality</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/steady-rise-in-oled-display-sales-experts-anticipate-more-than-134-million-units-to-reach-market-by-end-of-year/"><u>Steady Rise in OLED Display Sales: Experts Anticipate More Than 1.34 Million Units to Reach Market by End-of-Year</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-unlock-efficient-video-compression-download-virtualdub-mpeg2-now/"><u>Updated 2024 Approved Unlock Efficient Video Compression Download VirtualDub MPEG2 Now</u></a></li>
-<li><a href="https://games-able.techidaily.com/valuepixeldesign-monitor-budget-gamers-choice/"><u>ValuePixelDesign Monitor, Budget Gamers' Choice</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unlock-the-power-of-instagram-reels-with-these-strategies/"><u>[New] Unlock the Power of Instagram Reels with These Strategies</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-how-to-capturing-and-saving-instagrams-transient-media/"><u>[Updated] How-To Capturing and Saving Instagram's Transient Media</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/breakthrough-language-barrier-solution-introducing-robloxs-innovative-ai-chat-translator-for-seamless-understanding-across-16-different-tongues/"><u>Breakthrough Language Barrier Solution: Introducing Roblox's Innovative AI Chat Translator for Seamless Understanding Across 16 Different Tongues</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-effective-timestamp-integration-in-image-files/"><u>In 2024, Effective Timestamp Integration in Image Files</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/reignite-retro-fun-select-best-pc-emulators-for-game-boy-advance-games-for-2024/"><u>Reignite Retro Fun Select Best PC Emulators for Game Boy Advance Games for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/save-big-on-the-hp-victus-15-top-tier-gaming-laptop-now-discounted-by-330-at-best-buy-learn-why-it-stands-out/"><u>Save Big on the HP Victus 15: Top-Tier Gaming Laptop Now Discounted by $330 at Best Buy – Learn Why It Stands Out</u></a></li>
+<li><a href="https://games-able.techidaily.com/secure-your-discounted-nintendo-switch-oled-save-60-exclusive-walmart-offer-this-labor-day-featured-by-zdnet/"><u>Secure Your Discounted Nintendo Switch OLED - Save $60! Exclusive Walmart Offer This Labor Day, Featured by ZDNet.</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-rated-televisions-featuring-the-best-value-under-a-grand-comprehensive-evaluation-by-experts-zdnet/"><u>Top-Rated Televisions Featuring the Best Value Under a Grand: Comprehensive Evaluation by Experts | ZDNet</u></a></li>
 </ul></div>
 

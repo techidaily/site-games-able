@@ -1,7 +1,7 @@
 ---
 title: Remedy Unresponsive Mouse Scroll Wheel
-date: 2024-09-21T18:43:49.079Z
-updated: 2024-09-27T02:30:32.064Z
+date: 2024-09-26T03:23:25.213Z
+updated: 2024-10-01T19:03:49.331Z
 tags:
   - games
 categories:
@@ -47,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/8614a77f9e633f7b68cb429db560c3992306d2b5b
 
  It is important to note that the instructions below are for the Razor Naga 2014 model. The steps to fix the jumpy scroll wheel could vary depending on the brand and model of the mouse and the type of encoders it has.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Fix the Mouse Scroll Wheel
 
  Here's a step-by-step guide for how to stop your mouse scroll wheel from jumping up and down.
@@ -54,13 +61,6 @@ thumbnail: https://thmb.techidaily.com/8614a77f9e633f7b68cb429db560c3992306d2b5b
 ## Step 1: Disassemble the Mouse Casing
 
 ![Person Unmounting the Screws to Disassemble the Mouse Casing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/1-Person-Unmounting-the-Screws-to-Disassemble-the-Mouse-Casing.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit: TechClub/[YouTube](https://www.youtube.com/watch?v=%5FWBHLISDp80)
 
@@ -78,37 +78,30 @@ thumbnail: https://thmb.techidaily.com/8614a77f9e633f7b68cb429db560c3992306d2b5b
 
  Even though removing your mouse's circuit from the lower panel is unnecessary, if you want to do that, make sure there are no screws attached. If there are any, remove them and take the circuit off the bottom panel of your mouse. Alternatively, you can unmount the scroll wheel directly without unmounting the circuit.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 3: Unmount the Scroll Wheel
 
 ![Person Unmounting the Scroll Wheel From Mouse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/4-Person-Unmounting-the-Scroll-Wheel-From-Mouse.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Image Credit: TechClub/[YouTube](https://www.youtube.com/watch?v=%5FWBHLISDp80)
 
  Unplug the encoder attached to the scroll wheel from the main board before unmounting the scroll wheel. Then, unplug any other connections, unscrew any screws, and take out the scroll wheel. After you have unmounted the scroll wheel, remove the encoder and proceed to the next step: fix the encoder.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 4: Fix the Encoder Assembly
 
 ![Person Showing the Mouse Encoder Assembly](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/5-Person-Showing-the-Mouse-Encoder-Assembly.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image Credit: TechClub/[YouTube](https://www.youtube.com/watch?v=%5FWBHLISDp80)
@@ -124,26 +117,26 @@ thumbnail: https://thmb.techidaily.com/8614a77f9e633f7b68cb429db560c3992306d2b5b
 
 ![Person Showing the Fixed Mouse Encoder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/6-Person-Showing-the-Fixed-Mouse-Encoder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Image Credit: TechClub/[YouTube](https://www.youtube.com/watch?v=%5FWBHLISDp80)
 
  If the issue persists, there might be a problem with the scroll wheel hub. So, fixing the encoder coil spring assembly may not help.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 5: Wrap a Small Piece of Paper Around the Scroll Wheel Hub
 
 ![Man Holding a Small Piece of Paper to Fit in the Mouse Scroll Wheel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/7-Man-Holding-a-Small-Piece-of-Paper-to-Fit-in-the-Mouse-Scroll-Wheel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image Credit: Orkhan Aliyev/[YouTube](https://www.youtube.com/watch?v=%5FJwUUjLzAMY)
@@ -151,6 +144,19 @@ thumbnail: https://thmb.techidaily.com/8614a77f9e633f7b68cb429db560c3992306d2b5b
  To fix the loose scroll wheel, wrap a small piece of paper around the scroll wheel hub before inserting it into the encoder. Doing so will reduce the gap between the encoder coil and the scroll wheel hub, which will keep the scroll wheel stable. Once you do that, you will no longer experience a jumpy scroll wheel.
 
  However, what if everything listed above fails to stabilize the scroll wheel? In that case, you should invest in a new encoder.
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Buy a New Encoder
 
@@ -187,19 +193,17 @@ thumbnail: https://thmb.techidaily.com/8614a77f9e633f7b68cb429db560c3992306d2b5b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-life-into-photos-motion-blur-on-face-images/"><u>2024 Approved Crafting Life Into Photos Motion Blur on Face Images</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-unlocking-the-potential-of-your-ppt-with-professional-recording/"><u>2024 Approved Unlocking the Potential of Your PPT with Professional Recording</u></a></li>
-<li><a href="https://facebook.techidaily.com/breaking-free-of-social-media-shackles-untagging-techniques/"><u>Breaking Free of Social Media Shackles: Untagging Techniques</u></a></li>
-<li><a href="https://games-able.techidaily.com/broadcasting-your-ps5-gaming-session/"><u>Broadcasting Your PS5 Gaming Session</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/cost-effective-laptop-cooling-solution-in-depth-analysis-of-the-topmate-c30-section-1-advanced-problem-on-osteolytic-lesions-in-bone-metastasis/"><u>Cost-Effective Laptop Cooling Solution: In-Depth Analysis of the TopMate C30 # Section 1: Advanced Problem on Osteolytic Lesions in Bone Metastasis</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-apple-iphone-12-mini-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone 12 mini in Security Lockout? Proper Ways To Unlock</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/master-class-top-online-aids-for-improving-media-captions-quality-for-2024/"><u>Master Class Top Online Aids for Improving Media Captions' Quality for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/nvidias-rtx-4090-an-expensive-hindsight-lesson/"><u>NVIDIA's RTX 4090: An Expensive Hindsight Lesson</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/os-melhores-programas-de-edicao-de-gif-em-2024-descober-os-14-mais-inovadores/"><u>Os Melhores Programas De Edição De GIF Em 2024: Descober Os 14 Mais Inovadores</u></a></li>
-<li><a href="https://games-able.techidaily.com/prime-game-tracker-software-guide/"><u>Prime Game Tracker Software Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-physxloaderdll-file-missing-step-by-step-troubleshooting-guide/"><u>Resolving 'PhysXLoader.dll' File Missing: Step-by-Step Troubleshooting Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/sweat-it-off-8-health-boosting-ar-titles/"><u>Sweat It Off! - 8 Health-Boosting AR Titles</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-secret-to-maximum-fun-in-fortnite-on-your-mac/"><u>The Secret to Maximum Fun in Fortnite on Your Mac</u></a></li>
-<li><a href="https://games-able.techidaily.com/watch-out-could-gpu-prices-see-an-uptick-next-month/"><u>Watch Out! Could GPU Prices See an Uptick Next Month?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-the-essentials-of-hosting-a-zoom-event-via-android/"><u>[New] 2024 Approved The Essentials of Hosting a Zoom Event via Android</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-instantaneous-video-downloader-selection-guide/"><u>[Updated] 2024 Approved Instantaneous Video Downloader Selection Guide</u></a></li>
+<li><a href="https://discover-best.techidaily.com/comprehensive-iphone-8-assessment-benefits-and-drawbacks-compared-with-iphone-x/"><u>Comprehensive iPhone 8 Assessment: Benefits and Drawbacks Compared with iPhone X</u></a></li>
+<li><a href="https://games-able.techidaily.com/end-of-virtual-retail-steam-revises-policy/"><u>End of Virtual Retail: Steam Revises Policy</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-techniques-to-excel-at-pokemon-on-idevices/"><u>Essential Techniques to Excel at Pokémon on iDevices</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-reno-11f-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Reno 11F 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-itel-p55t-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Itel P55T Phone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-masterful-zoom-sound-adjustment-guide-clearer-cleaner-sounds/"><u>In 2024, Masterful Zoom Sound Adjustment Guide Clearer, Cleaner Sounds</u></a></li>
+<li><a href="https://games-able.techidaily.com/lead-from-the-sidelines-manage-champions-on-pc-without-costs/"><u>Lead From the Sidelines: Manage Champions on PC without Costs</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfect-20-mobile-gaming-sets-for-social-interaction/"><u>Perfect 20 Mobile Gaming Sets for Social Interaction</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-subscribe-unlock-and-dive-into-ea-play-on-ps5/"><u>The Ultimate Guide: Subscribe, Unlock, and Dive Into EA Play on PS5</u></a></li>
 </ul></div>
 

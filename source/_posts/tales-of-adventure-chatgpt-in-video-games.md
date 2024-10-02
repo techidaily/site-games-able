@@ -1,7 +1,7 @@
 ---
 title: "Tales of Adventure: ChatGPT in Video Games"
-date: 2024-09-24T22:28:55.581Z
-updated: 2024-09-26T21:43:34.486Z
+date: 2024-09-30T07:23:11.715Z
+updated: 2024-10-02T11:05:12.515Z
 tags:
   - games
 categories:
@@ -33,16 +33,16 @@ thumbnail: https://thmb.techidaily.com/4552dd09d3248cdc2d2f0b5a8866485e28d07f676
 
  If you want to simplify dialogues in bulk, you can insert the whole dialogue tree into the prompt as well. If you run into the[ChatGPT character input limit, there are ways to bypass it](https://www.makeuseof.com/what-is-chatgpt-character-input-limit/) . Just be sure to put the dialogues in quotation marks, so the chatbot can easily recognize them.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Give the NPCs Some Character
 
 ![chatgpt roleplaying as npc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-roleplay.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 > **Prompt inspiration** : "Role-play as a \[NPC character name and world setting\]. \[Provide some character history and background.\]"
 
@@ -50,15 +50,22 @@ thumbnail: https://thmb.techidaily.com/4552dd09d3248cdc2d2f0b5a8866485e28d07f676
 
  You can then ask questions about the character, and the chatbot will role-play as the NPC to give you detailed answers. You can even[use ChatGPT for fictional worldbuilding](https://www.makeuseof.com/chatgpt-fictional-worldbuilding-how-to/) and create new characters from scratch.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Convey Character by Adding Emotion
 
 ![adding emotion using chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-emotion.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 > **Prompt inspiration** : "Add the emotion of \[Insert emotion\] to these video game dialogues made by \[Insert character information and scenario\]: \[Insert dialogues\]."
@@ -67,18 +74,18 @@ thumbnail: https://thmb.techidaily.com/4552dd09d3248cdc2d2f0b5a8866485e28d07f676
 
 ![kinds of emotion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/type-of-emotion.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 > **Prompt inspiration** : "What kind of emotion should \[Insert character information\] during \[Insert scenario\]?"
 
 ## 4\. Generate Codex Entries
 
 ![chatgpt codex entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-codex.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 > **Prompt inspiration** : "Make video game codex entries for \[insert items or characters whose codex entries you want to generate\]. Include some interconnected lore in these codex entries to make the world feel more immersive."
 
@@ -106,13 +113,6 @@ thumbnail: https://thmb.techidaily.com/4552dd09d3248cdc2d2f0b5a8866485e28d07f676
 
  Thankfully, ChatGPT can help with this. All you need to do is provide the AI with the situation in which the bark is to be used and which character is going to say it. Then, the AI can generate a long list of barks for you to take inspiration from.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Make Your Video Game Scripts More Engaging With ChatGPT
 
  ChatGPT can be your personal video game scriptwriting assistant. It can help you simplify NPC or player dialogue to bring more clarity. You can also use it to write more interesting barks.
@@ -134,17 +134,16 @@ thumbnail: https://thmb.techidaily.com/4552dd09d3248cdc2d2f0b5a8866485e28d07f676
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-game-aids-vrs-top-picks/"><u>[New] Innovative Game Aids VR's Top Picks</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-downloading-facebook-videos-to-mp4-no-hassle/"><u>[Updated] In 2024, Downloading Facebook Videos to MP4 - No Hassle</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-from-likes-to-leads-top-30-tactics-for-social-media-success/"><u>2024 Approved From Likes to Leads Top 30 Tactics for Social Media Success</u></a></li>
-<li><a href="https://games-able.techidaily.com/beyond-beauty-how-technology-enhances-play/"><u>Beyond Beauty: How Technology Enhances Play</u></a></li>
-<li><a href="https://games-able.techidaily.com/boosting-steam-deck-functionality-with-supplementary-gear/"><u>Boosting Steam Deck Functionality with Supplementary Gear</u></a></li>
-<li><a href="https://games-able.techidaily.com/bring-back-your-xbox-pc-connection-with-these-fixes/"><u>Bring Back Your Xbox-PC Connection with These Fixes</u></a></li>
-<li><a href="https://games-able.techidaily.com/change-main-language-settings-on-steam/"><u>Change Main Language Settings on Steam</u></a></li>
-<li><a href="https://games-able.techidaily.com/clear-and-strong-sounds-on-xbox-by-troubleshooting/"><u>Clear and Strong Sounds on Xbox by Troubleshooting</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-setup-for-asus-tuf-gaming-z370-w-motherboard-drivers-and-tools/"><u>Easy Setup for Asus TUF Gaming Z370-W Motherboard Drivers & Tools</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Meizu 21 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-turning-talk-into-top-tier-podcasts-writing-and-samples-included/"><u>In 2024, Turning Talk Into Top-Tier Podcasts Writing & Samples Included</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-next-big-thing-in-apple-computers-macos-15-sequoia-release-timeline-and-feature-highlights-revealed/"><u>The Next Big Thing in Apple Computers – macOS 15 (Sequoia): Release Timeline and Feature Highlights Revealed</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-three-easy-ways-to-harvest-youtubes-default-iconography/"><u>[New] In 2024, Three Easy Ways to Harvest Youtube's Default Iconography</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-instagram-filmmaking-the-art-of-virtual-backdrop-integration/"><u>[Updated] 2024 Approved Instagram Filmmaking The Art of Virtual Backdrop Integration</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/essential-oculus-rift-adventures-for-gamers/"><u>Essential Oculus Rift Adventures for Gamers</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-apple-iphone-6-plus-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From Apple iPhone 6 Plus?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/infographic-8-ways-to-make-money-on-youtube-for-beginners-for-2024/"><u>Infographic - 8 Ways to Make Money on YouTube for Beginners for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfect-gaming-environment-customizing-the-xboxs-smooth-refresh-rate/"><u>Perfect Gaming Environment: Customizing the Xbox's Smooth Refresh Rate</u></a></li>
+<li><a href="https://games-able.techidaily.com/productivity-pcs-vs-performance-play-stations/"><u>Productivity PCs Vs. Performance Play Stations</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-instant-deck-storage-change-via-cloning/"><u>Step-by-Step: Instant Deck Storage Change via Cloning</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-art-of-navigating-nyt-alliances/"><u>The Art of Navigating NYT Alliances</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/top-25-capture-apps-for-your-windows-10-device-for-2024/"><u>Top 25 Capture Apps for Your Windows 10 Device for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-nokia-c22-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Nokia C22 Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
 

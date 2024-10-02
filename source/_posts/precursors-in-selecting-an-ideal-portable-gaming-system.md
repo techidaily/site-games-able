@@ -1,7 +1,7 @@
 ---
 title: Precursors in Selecting an Ideal Portable Gaming System
-date: 2024-09-22T01:17:13.042Z
-updated: 2024-09-27T03:38:46.366Z
+date: 2024-09-27T23:53:37.883Z
+updated: 2024-10-01T19:19:20.354Z
 tags:
   - games
 categories:
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/b1647db8806cbe897d52438e2f14444426f8ed4b6
 
 ![rog ally](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/rog-ally.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Hannah Stryker / MakeUseOf
 
  This question is often the most significant deciding factor on which handheld console you’re buying or if you’re buying one in the first place. The PlayStation 5 and Xbox Series X cost $500 a piece, with both offering 1TB storage. On the other hand, the top-of-the-line Nintendo Switch is priced at $350 but only comes with 64GB of internal storage.
@@ -55,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/b1647db8806cbe897d52438e2f14444426f8ed4b6
  The base-model ROG Ally is priced at $500—the same as the PS5 and Xbox Series X—but has a more powerful processor than those consoles. The ROG Ally with the Z1 Extreme chip costs $700, but it’s even more powerful, allowing you to play newer AAA games. While both ROG Ally models only have a 512GB SSD, they both have a microSD slot, allowing you to expand their storage.
 
  Although these may look pricey, they’re still cheaper than you’ll spend building a gaming PC. According to our[well-rounded PC buying guide](https://www.makeuseof.com/well-rounded-pc-buying-guide/) , you’ll likely pay about $1,000 to build a mid-range gaming PC, while higher-end builds could start at $1,500 or more. However, desktop PCs are more likely to last longer, as you can[upgrade your PC to improve its performance](https://www.makeuseof.com/tag/upgrades-will-improve-pc-performance/) in the future.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2 Choose Which Games You Want to Play
 
@@ -67,10 +67,16 @@ thumbnail: https://thmb.techidaily.com/b1647db8806cbe897d52438e2f14444426f8ed4b6
  However, not all games are optimized for handheld gaming, even if you can install them on one of these consoles. This is especially true for[real-time strategy games](https://www.makeuseof.com/what-are-real-time-strategy-games-rts-games/) , often designed to be played on a larger screen with a mouse and keyboard. If these are the games you like, we suggest sticking to your PC or at least getting a console dock, like these[great ROG Ally docks](https://www.makeuseof.com/best-rog-ally-docks/) or a genuine Valve Docking Station for the Steam Deck.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3 Determine Whether You Want to Use a Dock
@@ -78,10 +84,10 @@ thumbnail: https://thmb.techidaily.com/b1647db8806cbe897d52438e2f14444426f8ed4b6
 ![valve steam deck docked](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/valve-steam-deck-docked.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Valve](https://store.steampowered.com/steamdeck)
@@ -102,22 +108,16 @@ thumbnail: https://thmb.techidaily.com/b1647db8806cbe897d52438e2f14444426f8ed4b6
 
  But if your games use a lot of battery power, the handheld’s portability advantage diminishes, as you need to find an outlet to recharge it while you’re playing. But if you only play games for less than an hour a day or prefer older, simpler games that don’t require that much power, then a handheld gaming console will make sense for you.
 
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5 Check the Specs
 
 ![Steam Deck SSD installed without sleeve](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/steam-deck-ssd-installed-without-sleeve-1.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Jhet Borja/MakeUseOf  
 
@@ -148,24 +148,24 @@ thumbnail: https://thmb.techidaily.com/b1647db8806cbe897d52438e2f14444426f8ed4b6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-precision-poetry-the-news-outro-art/"><u>[New] 2024 Approved Precision Poetry The News Outro Art</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-ultimate-guide-to-quality-captures-for-2024/"><u>[New] Ultimate Guide to Quality Captures for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-chill-vibes-top-idle-pc-experiences/"><u>[Updated] 2024 Approved Chill Vibes Top Idle PC Experiences</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-cutting-edge-guide-to-youtube-video-distribution-via-facebook-for-2024/"><u>[Updated] Cutting-Edge Guide to YouTube Video Distribution via Facebook for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-how-to-safely-dissolve-an-inactive-linkedin-account/"><u>2024 Approved How to Safely Dissolve an Inactive LinkedIn Account</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/4-ways-to-extract-data-from-corrupt-excel-2023-file-by-stellar-guide/"><u>4 Ways to extract data from corrupt Excel 2023 file</u></a></li>
-<li><a href="https://games-able.techidaily.com/assist-controller-on-ps5-a-compre-points-of-entry-for-cannabinoids-into-the-brain-and-body/"><u>Assist Controller on PS5 - A Compre Points of Entry for Cannabinoids Into the Brain and Body</u></a></li>
-<li><a href="https://games-able.techidaily.com/boosting-efficiency-and-speed-unlocking-potential-in-your-docked-device/"><u>Boosting Efficiency and Speed: Unlocking Potential in Your Docked Device</u></a></li>
-<li><a href="https://games-able.techidaily.com/discovering-hidden-gems-a-love-affair-with-indie-titles/"><u>Discovering Hidden Gems: A Love Affair with Indie Titles</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-playstation-to-pc-mastering-controller-commands/"><u>From PlayStation to PC: Mastering Controller Commands</u></a></li>
-<li><a href="https://games-able.techidaily.com/reclaiming-lost-money-refund-strategies-for-console-titles/"><u>Reclaiming Lost Money - Refund Strategies for Console Titles</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/sound-waves-meet-smooth-streaming-rokus-new-era/"><u>Sound Waves Meet Smooth Streaming: Roku's New Era</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-fixing-your-lenovos-malfunctioning-function-key-issue/"><u>Step-by-Step Solution for Fixing Your Lenovo's Malfunctioning 'Function' Key Issue</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-11-affordable-game-outlets-for-savvy-shoppers/"><u>Top 11 Affordable Game Outlets for Savvy Shoppers</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-oppo-k11-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Oppo K11 5G Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unleashing-potential-wows-full-spectrum-3d-support/"><u>Unleashing Potential: WoW's Full Spectrum 3D Support</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-the-secrets-of-ps5-power-up/"><u>Unlocking the Secrets of PS5 Power-Up</u></a></li>
-<li><a href="https://games-able.techidaily.com/white-power-white-dollars-gadgets-for-the-thrifty-techie/"><u>White Power, White Dollars: Gadgets for the Thrifty Techie</u></a></li>
-<li><a href="https://games-able.techidaily.com/wireless-playstation-controls-for-your-smartphone/"><u>Wireless PlayStation Controls for Your Smartphone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-effortlessly-record-macos-content-and-display-for-2024/"><u>[Updated] Effortlessly Record macOS Content & Display for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-recording-virtual-sessions-ios-and-android-methods-for-2024/"><u>[Updated] Recording Virtual Sessions IOS & Android Methods for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-m1-deciphered-apples-computing-game-changer/"><u>2024 Approved M1 Deciphered Apple's Computing Game-Changer</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-cozy-games-widespread-favor/"><u>Decoding Cozy Games' Widespread Favor</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-restarting-your-failed-diagnostics-service-quick-fixes-applied/"><u>Diagnosing and Restarting Your Failed Diagnostics Service - Quick Fixes Applied</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/find-the-best-budget-friendly-cell-service-top-picks/"><u>Find the Best Budget-Friendly Cell Service : Top Picks</u></a></li>
+<li><a href="https://games-able.techidaily.com/hot-deals-galore-playstations-midsummer-sale/"><u>Hot Deals Galore: PlayStation’s Midsummer Sale</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>How to Detect and Stop mSpy from Spying on Your Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-from-your-iphone-12-mini-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock from your iPhone 12 mini and iPad</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-linksys-ea9500-a-smart-and-mighty-networking-device/"><u>In-Depth Analysis of the Linksys EA9500: A Smart and Mighty Networking Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-steam-login-interruptions-on-rust-pcs/"><u>Mastering Steam Login Interruptions on Rust PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-troubleshooting-how-to-fix-the-ghostrunner-malfunction-on-your-windows-10-pc/"><u>Mastering Troubleshooting: How to Fix the Ghostrunner Malfunction on Your Windows 10 PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-choices-of-144hz-monitors-for-gaming/"><u>Optimal Choices of 144Hz Monitors for Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/pencil-powered-play-graphics-tablets-edge/"><u>Pencil-Powered Play: Graphics Tablet's Edge?</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-subscription-entertainment-psplus-vs-xbgplus/"><u>Seamless Subscription Entertainment: PS+ Vs. XBG+</u></a></li>
+<li><a href="https://games-able.techidaily.com/tailoring-your-virtual-reality-with-ps-vr2-extras/"><u>Tailoring Your Virtual Reality with PS VR2 Extras</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-maximizing-your-joystick-juice/"><u>The Ultimate Guide to Maximizing Your Joystick Juice</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-victory-mastering-initial-fps-configurations/"><u>Unveiling Victory: Mastering Initial FPS Configurations</u></a></li>
 </ul></div>
 

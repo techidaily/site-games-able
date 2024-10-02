@@ -1,7 +1,7 @@
 ---
 title: "Game World Transformed: Steam's New Rules for AI Titles"
-date: 2024-09-26T02:32:57.619Z
-updated: 2024-09-26T22:53:37.295Z
+date: 2024-09-27T19:24:47.662Z
+updated: 2024-10-02T04:40:59.952Z
 tags:
   - games
 categories:
@@ -33,10 +33,10 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
  While Steam initially took a cautious approach to publishing games using generative AI, it has now announced guidelines that will see the company "release the vast majority of games that use it". But what do these new rules on AI games mean for gamers?
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Steam Takes a Softer Stance on Games Using AI
@@ -55,27 +55,20 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
 
  In addition, games that use live-generated AI content will need to disclose what guardrails will be in place to make sure that the AI is not generating illegal content.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Steam's AI Games Policy Could Affect Gamers
 
 ![artificial intelligence tag on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/artificial-intelligence-tag-on-steam.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  While many games use AI systems to make non-playable characters (NPCs) and enemies responsive, generative AI is a newer form of AI that involves generating text, images, video, audio, and even code. To learn more, read[our guide to generative AI](https://www.makeuseof.com/what-is-generative-ai/) .
 
  Steam already has[an "Artificial Intelligence" tag](https://store.steampowered.com/tags/en/Artificial+Intelligence?flavor=contenthub%5Fall) for games, but many of these existing titles use AI in the more traditional sense. So what do Steam's new guidelines mean for the average gamer?
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Gamers Will Have More Games to Choose From on Steam
 
@@ -99,6 +92,13 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
 
 ![steam window on a pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/shutterstock_357785195.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image Credit: g0d4ather/[Shutterstock](https://www.shutterstock.com/image-photo/saransk-russia-january-03-2016-steam-357785195)
 
  To get an AI game published, developers will need to submit a disclosure to Valve. But for those who are dishonest in their disclosure, the responsibility is being passed onto players to report illegal AI content.
@@ -110,10 +110,10 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
  Considering how often people get around AI guardrails, such as when people use[jailbreaks on ChatGPT](https://www.makeuseof.com/what-are-chatgpt-jailbreaks/) , it's very likely that some games using AI will fall foul of Steam's policies. That is as long as players actually report the content breaking the rules.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Gamers Will Need to Look Out for AI Disclosures
@@ -139,16 +139,21 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-a-closer-look-at-luminance-and-its-hdr-achievements/"><u>[New] A Closer Look at Luminance and Its HDR Achievements</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-tuneful-images-the-apple-fusion-method/"><u>[Updated] 2024 Approved Tuneful Images The Apple Fusion Method</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-refine-your-remote-sessions-zoom-in-effectively/"><u>[Updated] Refine Your Remote Sessions Zoom in Effectively</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elegant-exteriors-discover-the-best-websites-for-your-laptops-look/"><u>Elegant Exteriors Discover the Best Websites for Your Laptop's Look</u></a></li>
-<li><a href="https://games-able.techidaily.com/fine-tuning-your-steam-deck-for-optimal-typing/"><u>Fine-Tuning Your Steam Deck for Optimal Typing</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/guide-to-resolving-sound-disturbances-in-halo-infinite-for-a-seamless-gaming-experience/"><u>Guide to Resolving Sound Disturbances in Halo Infinite for a Seamless Gaming Experience</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-motorola-moto-g34-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Motorola Moto G34 5G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/mts-relevance-in-premium-gaming-economies/"><u>MTs' Relevance in Premium Gaming Economies</u></a></li>
-<li><a href="https://games-able.techidaily.com/struggle-your-way-through-frustrating-fiddly-games/"><u>Struggle Your Way Through Frustrating Fiddly Games</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-priorities-selecting-the-perfect-gaming-desktop-or-laptop/"><u>Top Priorities: Selecting the Perfect Gaming Desktop or Laptop</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-shades-for-blue-light-control/"><u>Ultimate Shades for Blue Light Control</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-cost-effective-growth-tactic-for-youtube-fanbases-for-2024/"><u>[New] Cost-Effective Growth Tactic for YouTube Fanbases for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-design-and-construct-your-dream-mc-house-for-2024/"><u>[New] Design and Construct Your Dream MC House for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-ultimate-guide-to-top-12-action-cams-with-satellite-based-locators-for-2024/"><u>[New] Ultimate Guide to Top 12 Action Cams with Satellite-Based Locators for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-immersion-tools-top-ten-innovative-vr-accessories/"><u>[Updated] Immersion Tools Top Ten Innovative VR Accessories</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/discover-and-set-up-vrecorder-in-minutes-148-characters/"><u>Discover & Set Up VRecorder in Minutes (148 Characters)</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-viewing-subscribe-on-prime-gaming/"><u>Elevate Viewing: Subscribe on Prime Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-your-gaming-commentary-on-steam/"><u>Enhancing Your Gaming Commentary on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/experience-future-portable-pc-power-in-pdw4/"><u>Experience Future Portable PC Power in PDW4</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/facebook-tutorial-efficiently-posting-a-series-of-pictures/"><u>Facebook Tutorial: Efficiently Posting a Series of Pictures</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-verdicts-exposed-5-pitfalls-of-trusting-scores/"><u>Gaming Verdicts Exposed: 5 Pitfalls of Trusting Scores</u></a></li>
+<li><a href="https://games-able.techidaily.com/quietude-steam-stays-off-at-startup/"><u>Quietude: Steam Stays Off at Startup</u></a></li>
+<li><a href="https://games-able.techidaily.com/tackling-xbox-ones-erratic-input-problems/"><u>Tackling Xbox One's Erratic Input Problems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-fixing-hitman-3-pc-instability-issues/"><u>Ultimate Guide: Fixing Hitman 3 PC Instability Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/uniting-in-blocks-five-friend-focused-multiplayer-methods-in-mc/"><u>Uniting in Blocks: Five Friend-Focused Multiplayer Methods in MC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-the-most-advanced-websites-for-customizable-text-design/"><u>Unveiling the Most Advanced Websites for Customizable Text Design</u></a></li>
+<li><a href="https://techidaily.com/will-htc-u23-pro-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will HTC U23 Pro play AVCHD mts files?</u></a></li>
 </ul></div>
 

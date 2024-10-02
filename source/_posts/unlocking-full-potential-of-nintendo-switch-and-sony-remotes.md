@@ -1,7 +1,7 @@
 ---
 title: Unlocking Full Potential of Nintendo Switch and Sony Remotes
-date: 2024-09-21T07:04:08.782Z
-updated: 2024-09-27T03:16:11.591Z
+date: 2024-09-27T11:35:29.798Z
+updated: 2024-10-01T18:24:06.488Z
 tags:
   - games
 categories:
@@ -35,52 +35,53 @@ thumbnail: https://thmb.techidaily.com/0ec3b3e91ce6c2fd312d0c52b550de8f05b444cc8
 
  It is a good idea to ensure your PlayStation is unplugged or out of range for this process to avoid the PlayStation controller connecting to your other consoles.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Connect a PS4 or PS5 Controller to Your Switch
 
  For the first step, you must ensure that your Nintendo Switch is docked and turned on, and then plug in the wireless USB adapter to one of the USB slots on the left side of the dock. Next, you must navigate to the**System Settings** on the Switch’s main menu and select**Controllers and Sensors** .
 
 ![controllers and sensors nintendo switch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/how-to-pair-ps4-controller-nintendo-switch-003.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When you're in this menu, turn on the wireless USB adapter by selecting**Pro Controller Wired Connection** .
 
 ![pro controller wired connections nintendo Switch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/how-to-pair-ps4-controller-nintendo-switch-004-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  By pressing the pairing button on the USB adapter, you should see a rapidly flashing light. This means that the adapter is ready to pair.
 
 ![Close up of 8BitDo Wireless Adapter 2 pairing button-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/close-up-of-8bitdo-wireless-adapter-2-pairing-button-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Finally, on both the DualSense and DualShock 4 controller, hold down**the PS Button** and**the Share button** to put the controller into pairing mode. The DualSense will have lights pulsing around the touchpad, while the Playstation 4’s DualShock 4 will display a pulsing light on the front.
 
 ![Putting DualSense Controller into pairing mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/putting-dualsense-into-pairing-mode.png)
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When the lights on the controller and adapter return to their steady color, they are paired. You are now ready to play Switch games using a PlayStation controller. To make sure, you should be able to see your controller displayed on the**Controller Select** screen on your Switch.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Things to Consider When Using PlayStation Controllers on Switch
 
@@ -95,13 +96,6 @@ thumbnail: https://thmb.techidaily.com/0ec3b3e91ce6c2fd312d0c52b550de8f05b444cc8
  This method works perfectly for both the original Nintendo Switch and the Switch OLED. However, it will not work for the Nintendo Switch Lite since it doesn't have a dock. This is one of the biggest deal-breakers when it comes to choosing whether to[buy the Nintendo Switch or the Nintendo Switch Lite](https://www.makeuseof.com/tag/nintendo-switch-vs-switch-lite/) .
 
  If you really want to connect your PlayStation controller to your Switch Lite, however, there is a way around it. You will just need to purchase a USB-C to USB adapter first and use your wireless USB adapter through that instead. Following the step-by-step guide above, you should be able to play your Nintendo Switch Lite with the PlayStation controller of your choice.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Play Switch Games the Way You Want to Play Them
 
@@ -124,20 +118,21 @@ thumbnail: https://thmb.techidaily.com/0ec3b3e91ce6c2fd312d0c52b550de8f05b444cc8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-cut-through-the-noise-with-these-top-10-yt-short-standout-strategies/"><u>[New] In 2024, Cut Through the Noise with These Top 10 YT Short Standout Strategies</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/plitscreen-designer-for-2024/"><u>[New] SplitScreen Designer for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-valhallas-vanguard-fiery-rebirth/"><u>[Updated] In 2024, Valhalla's Vanguard Fiery Rebirth</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/change-google-password-what-should-i-do/"><u>Change Google Password – What Should I Do?</u></a></li>
-<li><a href="https://games-able.techidaily.com/digital-age-retro-gaming-bring-back-your-favorite-dreamcatchers-android-edition/"><u>Digital Age Retro Gaming: Bring Back Your Favorite Dreamcatchers, Android Edition</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-elgato-stream-decks-the-ultimate-guide/"><u>Discover Elgato Stream Decks: The Ultimate Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/go-big-with-graphics-on-a-budget-asrocks-deskmate-x600-in-china-just-193-and-equipped-with-full-sized-gpu/"><u>Go Big with Graphics on a Budget: ASRock’s DeskMate X600 in China – Just $193 & Equipped with Full-Sized GPU</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-apply-for-a-refund-for-unwanted-fortnite-purchases/"><u>How to Apply for a Refund for Unwanted Fortnite Purchases</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-honor-magic-6-pro-drfone-by-drfone-android/"><u>How to Screen Mirroring Honor Magic 6 Pro? | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/persian-languages-rich-past-and-lifelong-rewards/"><u>Persian Language's Rich Past & Lifelong Rewards</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/rhythmic-reckonings-top-disruptors-for-mobile-devices-for-2024/"><u>Rhythmic Reckonings Top Disruptors for Mobile Devices for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamlining-errors-on-roblox-262/"><u>Streamlining Errors on Roblox: 262</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-significance-of-hrtf-in-valorant-sound-design/"><u>The Significance of HRTF in Valorant Sound Design</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-virtual-voyage-review-meta-quest-3/"><u>The Ultimate Virtual Voyage Review: Meta Quest 3</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/youtube-shorts-money-making-guide-key-requirements-and-potential-income-for-2024/"><u>Youtube Shorts Money-Making Guide Key Requirements & Potential Income for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-from-parchment-to-paperbacks-the-quintessential-quest-for-classics/"><u>[New] From Parchment to Paperbacks The Quintessential Quest for Classics</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-ideas-to-keep-your-snapchat-streak-alive/"><u>[Updated] In 2024, Ideas to Keep Your Snapchat Streak Alive</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-toontech-full-evaluation-and-how-to-guide-24/"><u>[Updated] ToonTech Full Evaluation & How-To Guide '24</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-understanding-the-technicalities-of-fb-360-streaming/"><u>[Updated] Understanding the Technicalities of FB 360 Streaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/200-discount-on-a-gaming-console-in-plain-sight-as-a-samsung-projector-for-labor-day-zdnet-unveils/"><u>$200 Discount on a Gaming Console in Plain Sight as a Samsung Projector for Labor Day | ZDNET Unveils!</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-the-art-and-craft-of-podcast-storytelling/"><u>2024 Approved The Art and Craft of Podcast Storytelling</u></a></li>
+<li><a href="https://games-able.techidaily.com/beat-all-other-linux-game-distros-with-top-ranking-regatta-os-nce-the-ultimate-guide-by-zdnet/"><u>Beat All Other Linux Game Distros with Top-Ranking Regatta OS Nce – The Ultimate Guide by ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-chatgpt-unveiling-the-potential-of-its-tailored-command-functionality/"><u>Exploring ChatGPT: Unveiling the Potential of Its Tailored Command Functionality</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-6s-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 6s Data From iTunes? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-and-easy-guide-upgrading-ps5-console-with-extra-storage-complete-within-10-minutes-zdnet/"><u>Quick & Easy Guide: Upgrading PS5 Console with Extra Storage - Complete Within 10 Minutes! [ZDNet]</u></a></li>
+<li><a href="https://games-able.techidaily.com/samsung-unveils-new-gaming-controller-range-meet-their-debut-model-exclusive-coverage-by-zdnet/"><u>Samsung Unveils New Gaming Controller Range: Meet Their Debut Model - Exclusive Coverage by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/save-big-during-labor-day-sales-exclusive-offer-premium-samsung-tv-at-a-whopping-43-off-insider-tips-from-zdnet/"><u>Save Big During Labor Day Sales! Exclusive Offer: Premium Samsung TV at a Whopping 43% Off – Insider Tips From ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-5-elite-gaming-mechanical-keyboards-recommendations-by-zdnet/"><u>Top 5 Elite Gaming Mechanical Keyboards : Recommendations by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-the-power-of-play-enjoy-three-months-free-with-xbox-game-pass-ultimate-for-just-36-your-step-by-step-guide-on-zdnet/"><u>Unlock the Power of Play: Enjoy Three Months Free with Xbox Game Pass Ultimate for Just $36 – Your Step-by-Step Guide on ZDNet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/winx-dvd-ripper-losung-fur-das-problem-udf-dvd-kann-nicht-abgespielt-werden/"><u>WinX DVD Ripper Lösung Für Das Problem 'UDF-DVD Kann Nicht Abgespielt Werden'</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Navigating Gaming Files on Steam for Swift Access
-date: 2024-09-25T20:48:26.004Z
-updated: 2024-09-26T20:41:40.478Z
+date: 2024-10-01T06:16:04.423Z
+updated: 2024-10-02T01:02:24.212Z
 tags:
   - games
 categories:
@@ -35,35 +35,22 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 
  This is a huge improvement, and after Steam’s decades of existence, everyone knows this is overdue. Being able to visualize, move, and add folders and files in an easier and more intuitive way is a bare minimum, but we do appreciate finally having it.
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Open the Steam Storage Manager
 
  While the new Steam Storage Manager is great, it’s still hard to get to. Most people don’t even know it exists yet. Once you know where to find it, it’ll be hard to forget, though. Here are two ways to open the Steam Storage Manager.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Open the Steam Storage Manager Through the Steam Settings
 
 ![Steam Storage Manager in Steam Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/steam-storage-manager-in-steam-settings.jpg)
 
  The Steam settings menu itself is pretty hard to find as well (a very strange way of doing things, Valve). However, you might’ve opened it before if you tried setting download speed limits. Simply look to the upper-left corner and click on**Steam > Settings > Storage** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Open the Steam Storage Manager Through the Downloads Page
 
@@ -81,19 +68,6 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 
 ![Steam Storage Add Drive button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/steam-storage-add-drive-button.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can select a drive to automatically add a \\SteamLibrary folder into it, or you could also click on**Let me choose another location.**
 
 ![Add a new Steam Library folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/add-a-new-steam-library-folder.jpg)
@@ -104,20 +78,27 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 
  If you only have one drive and you need space for more games but don’t want to delete any downloaded ones, check out[how to free up disk space on Windows 10](https://www.makeuseof.com/tag/6-tips-free-disk-space-windows-10/) . We’re pretty sure you can free up some space from places you didn’t know you could free up.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Set a Default Steam Library Folder or Drive
 
  Setting a default folder is great for convenience as you won’t have to choose where your game goes every time you download one. Chances are, you’ve already set a default folder for your Steam games, but if you need to set it to another one because it’s full here’s how you can do so:
 
 ![Make default Steam Drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/make-default-steam-drive.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you have your new drive added as a Steam Library destination, select that drive. On the right side of the long progress bar, click on the**three dots** and click**Make Default** . A star should appear beside the drive name and that will indicate that it is your default drive.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Move Steam Games to Another Folder
 
@@ -130,13 +111,20 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 ![Move Steam games to selected drive or folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/move-steam-games-to-selected-drive-or-folder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once the**Move Content** pop-up shows, you can choose where to move your Steam game. Note that the only drives that will show up are the ones that have an existing Steam Library folder inside. If not, go back to adding a new Steam Library folder or drive so that where you want to place it shows.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Manage Your Steam Games the Right Way
 
@@ -159,20 +147,24 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-translate-compressed-files-into-subtitle-format-srt/"><u>[New] Translate Compressed Files Into Subtitle Format (SRT)</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-mastering-instagrams-most-active-hours/"><u>[Updated] 2024 Approved Mastering Instagram's Most Active Hours</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-elevating-video-popularity-on-youtube-for-2024/"><u>[Updated] Elevating Video Popularity on YouTube for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-from-ground-to-heavens-a-mobile-panorama-journey/"><u>[Updated] From Ground to Heavens A Mobile Panorama Journey</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/cutting-edge-video-sharing-from-facebook-to-whatsapp/"><u>Cutting-Edge Video Sharing From Facebook to WhatsApp</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-top-tier-games-playstation-plus-or-xbox-game-pass/"><u>Exploring Top-Tier Games: PlayStation Plus Or Xbox Game Pass?</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaming-freedom-in-monthly-plans-psplus-vs-xbgplus/"><u>Gaming Freedom in Monthly Plans: PS+ VS XBG+</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-nokia-xr21-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Nokia XR21 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/ios-vs-android-battle-royale-edition-of-tetris/"><u>IOS vs Android: Battle Royale Edition of Tetris</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-steam-currency-obtaination-and-operations/"><u>Mastering Steam Currency: Obtaination and Operations</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimizing-valorant-play-eliminating-frames-per-second-lags/"><u>Optimizing Valorant Play: Eliminating Frames Per Second Lags</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-go-trainers-companion-guide-to-overcoming-gps-hurdles/"><u>The Go Trainer's Companion Guide to Overcoming GPS Hurdles</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-impact-on-game-quality-when-developers-earn-through-tipping/"><u>The Impact on Game Quality When Developers Earn Through Tipping</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-8-essential-conversations-with-chatgpt-for-a-focused-distraction-free-tech-life/"><u>Top 8 Essential Conversations with ChatGPT for a Focused, Distraction-Free Tech Life</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-ranking-gopro-cameras-a-comprehensive-guide/"><u>Top-Ranking GoPro Cameras : A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-compilation-of-excellent-video-capture-tools-for-windows-11-for-2024/"><u>[New] Compilation of Excellent Video Capture Tools for Windows 11 for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-guide-to-use-luts-in-premiere-pro/"><u>[New] In 2024, Guide to Use LUTs in Premiere Pro</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-dj-delight-choosing-ultimate-event-videos/"><u>[Updated] In 2024, DJ Delight Choosing Ultimate Event Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-optimizing-your-voice-content-via-garageband/"><u>[Updated] Optimizing Your Voice Content via GarageBand</u></a></li>
+<li><a href="https://games-able.techidaily.com/1-winning-the-game-how-windows-11-surpasses-windows/"><u>1. Winning the Game: How Windows 11 Surpasses Windows</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/catch-the-launch-of-nickwatch-at-uss-beloved-kids-choice-awards-event/"><u>Catch the Launch of NickWatch at U.S.'s Beloved Kids' Choice Awards Event.</u></a></li>
+<li><a href="https://games-able.techidaily.com/download-fortnite-on-your-ios-device-today-a-step-by-step-guide-from-zdnet/"><u>Download Fortnite on Your iOS Device Today: A Step-by-Step Guide From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-labor-day-offer-save-big-with-a-complimentary-xbox-game-pass-and-free-fire-tv-stick-bundle-cutting-costs-by-over-one-third-discover-more-on-zdnet-90/"><u>Exclusive Labor Day Offer! Save Big with a Complimentary Xbox Game Pass & Free Fire TV Stick Bundle, Cutting Costs by Over One Third. Discover More on ZDNet Today!</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-verified-top-picks-for-premium-65-tvs-of-2024-in-depth-reviews-and-rankings-gadgetguide/"><u>Expert Verified Top Picks for Premium 65 TVs of 2024 – In-Depth Reviews & Rankings | GadgetGuide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-mailcoms-policies-on-email-account-validity-and-expiry-timelines/"><u>Exploring Mail.com's Policies on Email Account Validity and Expiry Timelines</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-uncharted-territory-of-emerging-ai-based-careers-decoding-their-intriguing-titles-and-futures-on-zdnet/"><u>Exploring the Uncharted Territory of Emerging AI-Based Careers: Decoding Their Intriguing Titles & Futures on ZDNet</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-lava-storm-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Lava Storm 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/introducing-new-smart-led-technology-govee-unveils-enhanced-ai-gaming-lights-and-stunning-neon-accessories/"><u>Introducing New Smart LED Technology: Govee Unveils Enhanced AI Gaming Lights and Stunning Neon Accessories</u></a></li>
+<li><a href="https://games-able.techidaily.com/introducing-the-latest-innovations-in-gaming-ambiance-govees-advanced-ai-gaming-sync-boxes-and-vibrant-neon-lights/"><u>Introducing the Latest Innovations in Gaming Ambiance - Govee's Advanced AI Gaming Sync Boxes and Vibrant Neon Lights</u></a></li>
+<li><a href="https://games-able.techidaily.com/labor-day-deal-alert-get-a-nintendo-switch-oled-at-60-off-in-walmart-stores-insider-tips-zdnet/"><u>Labor Day Deal Alert: Get a Nintendo Switch OLED at $60 Off in Walmart Stores, Insider Tips | ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/pros-choice-navigating-the-best-40-inch-tv-landscape-of-2024-zdnet-insights/"><u>Pro's Choice: Navigating the Best 40-Inch TV Landscape of 2024 | ZDNET Insights</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reconnect-headset-to-win10-overcoming-compatibility-issues/"><u>Reconnect Headset to Win10: Overcoming Compatibility Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/sonys-new-beast-revealed-discover-the-top-attributes-of-the-powerful-ps5-pro-its-cost-launch-timeline-and-more-insights-detailed-analysis-by-techzoo/"><u>Sony's New Beast Revealed: Discover the Top Attributes of the Powerful PS5 Pro, Its Cost, Launch Timeline, and More Insights - Detailed Analysis by TechZoo</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Vivo V29 Pro | Dr.fone</u></a></li>
 </ul></div>
 

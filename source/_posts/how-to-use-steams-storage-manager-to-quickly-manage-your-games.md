@@ -1,7 +1,7 @@
 ---
 title: How to Use Steam’s Storage Manager to Quickly Manage Your Games
-date: 2024-09-23T16:47:55.768Z
-updated: 2024-09-26T23:06:35.014Z
+date: 2024-09-25T17:21:39.387Z
+updated: 2024-10-02T05:05:58.942Z
 tags:
   - games
 categories:
@@ -44,30 +44,24 @@ thumbnail: https://thmb.techidaily.com/4526e24333ba977c51600360964ccfdbc4ba0f9b4
 ![Steam Storage Manager in Steam Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/steam-storage-manager-in-steam-settings.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The Steam settings menu itself is pretty hard to find as well (a very strange way of doing things, Valve). However, you might’ve opened it before if you tried setting download speed limits. Simply look to the upper-left corner and click on**Steam > Settings > Storage** .
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Open the Steam Storage Manager Through the Downloads Page
 
 ![Steam downloads page cog wheel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/steam-downloads-page-cog-wheel.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’re already on the Steam Downloads page, there’s also a**cog** on the upper right, just below the**close window button** . Click that, and it will take you right to the**Downloads** section on the**Settings** page.
 
@@ -81,22 +75,15 @@ thumbnail: https://thmb.techidaily.com/4526e24333ba977c51600360964ccfdbc4ba0f9b4
 
 ![Steam Storage Add Drive button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/steam-storage-add-drive-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can select a drive to automatically add a \\SteamLibrary folder into it, or you could also click on**Let me choose another location.**
 
 ![Add a new Steam Library folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/add-a-new-steam-library-folder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This will open up File Explorer and you can choose which drive or folder you want to add a new Steam Library folder to. It doesn't even need to be an internal drive, you can use an[external drive to store your Steam Games](https://www.makeuseof.com/how-to-play-steam-games-on-an-external-drive-with-steam-storage-manager/) and play straight from the external drive!
@@ -111,6 +98,13 @@ thumbnail: https://thmb.techidaily.com/4526e24333ba977c51600360964ccfdbc4ba0f9b4
 
 ![Make default Steam Drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/make-default-steam-drive.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you have your new drive added as a Steam Library destination, select that drive. On the right side of the long progress bar, click on the**three dots** and click**Make Default** . A star should appear beside the drive name and that will indicate that it is your default drive.
 
 ## How to Move Steam Games to Another Folder
@@ -119,16 +113,16 @@ thumbnail: https://thmb.techidaily.com/4526e24333ba977c51600360964ccfdbc4ba0f9b4
 
 ![Moving Steam games to different Steam Library folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moving-steam-games-to-different-steam-library-folder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Firstly, select the games you want to transfer by clicking on the empty box on the right side of each game. Once you’ve selected at least one game, the**Move** and**Uninstall** button will have brightened up. Click on**Move** and a pop-up will show.
 
 ![Move Steam games to selected drive or folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/move-steam-games-to-selected-drive-or-folder.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once the**Move Content** pop-up shows, you can choose where to move your Steam game. Note that the only drives that will show up are the ones that have an existing Steam Library folder inside. If not, go back to adding a new Steam Library folder or drive so that where you want to place it shows.
 
@@ -153,17 +147,18 @@ thumbnail: https://thmb.techidaily.com/4526e24333ba977c51600360964ccfdbc4ba0f9b4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-optimizing-latency-for-real-time-obs-viewing/"><u>[New] In 2024, Optimizing Latency for Real-Time OBS Viewing</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-telepathy-through-tech-healthcare-reimagined/"><u>[Updated] 2024 Approved Telepathy Through Tech Healthcare Reimagined</u></a></li>
-<li><a href="https://games-able.techidaily.com/3-powerful-money-management-tips-for-xbox-players/"><u>3 Powerful Money Management Tips for Xbox Players</u></a></li>
-<li><a href="https://games-able.techidaily.com/alternative-methods-for-a-quick-ps5-startup/"><u>Alternative Methods for a Quick PS5 Startup</u></a></li>
-<li><a href="https://games-able.techidaily.com/best-buys-for-superior-xbox-video-capturing/"><u>Best Buys for Superior Xbox Video Capturing</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-asus-rog-phone-7-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Asus ROG Phone 7</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-fix-your-icloud-not-syncing-issues-today/"><u>How to Fix Your iCloud Not Syncing Issues Today</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-xiaomi-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Xiaomi</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-social-simulacrum-sketches-designing-distorted-digital-selves/"><u>In 2024, Social Simulacrum Sketches Designing Distorted Digital Selves</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ready-set-fly-dji-spark-reviewed-for-selfie-enthusiasts-and-photographers-alike/"><u>Ready, Set, Fly DJI Spark Reviewed for Selfie Enthusiasts and Photographers Alike</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719170858411-top-10-ps-summer-discount-extravaganza/"><u>Top 10 PS Summer Discount Extravaganza!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-to-trimming-images-efficiently-in-word-excel-and-powerpoint-2010/"><u>Ultimate Guide to Trimming Images Efficiently in Word, Excel & PowerPoint 2010</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-choosing-the-right-lights-and-cameras-for-youtube-videos/"><u>[New] In 2024, Choosing the Right Lights & Cameras for YouTube Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-mastering-the-art-of-obs-and-fb-live-for-2024/"><u>[Updated] Mastering the Art of OBS and FB Live for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-success-lessons-from-helldivers-2/"><u>Decoding Success: Lessons From Helldivers 2</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficient-engagements-mastering-frames-for-winning-counter-strike/"><u>Efficient Engagements: Mastering Frames for Winning Counter-Strike</u></a></li>
+<li><a href="https://games-able.techidaily.com/extraordinary-16-multiplayer-gaming-couch-matches/"><u>Extraordinary 16 Multiplayer Gaming Couch Matches</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-effective-is-an-alarm-on-an-iphone-when-its-switched-off-muted-or-set-to-do-not-disturb/"><u>How Effective Is an Alarm on an iPhone When It's Switched Off, Muted, or Set to 'Do Not Disturb'?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-enhancing-virtual-presentations-through-skypes-screen-sharing/"><u>In 2024, Enhancing Virtual Presentations Through Skype's Screen Sharing</u></a></li>
+<li><a href="https://games-able.techidaily.com/opera-gx-clash-with-edge-for-top-gaming-browser-ranking/"><u>Opera GX Clash with Edge for Top Gaming Browser Ranking</u></a></li>
+<li><a href="https://extra-information.techidaily.com/salt-and-surge-2023s-best-surf-cam-tech-review/"><u>Salt & Surge 2023'S Best Surf Cam Tech Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-decks-cloud-problem-a-fix-guide/"><u>Steam Deck's Cloud Problem: A Fix Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/step-by-step-guide-to-unmicrophonic-audio-recording-for-2024/"><u>Step-by-Step Guide to Unmicrophonic Audio Recording for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-the-governing-system-of-xboxs-rules/"><u>Unraveling the Governing System of Xbox’s Rules</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unveiling-the-magic-of-photo-cleanse-picsart-bg-removal/"><u>Unveiling the Magic of Photo Cleanse Picsart Bg Removal</u></a></li>
 </ul></div>
 

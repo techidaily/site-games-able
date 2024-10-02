@@ -1,7 +1,7 @@
 ---
 title: "Overcoming PS4 Pad Problems: A Handbook for Controller Rejuvenation"
-date: 2024-09-25T02:24:42.616Z
-updated: 2024-09-27T00:31:02.330Z
+date: 2024-09-25T03:34:02.746Z
+updated: 2024-10-02T03:49:30.367Z
 tags:
   - games
 categories:
@@ -43,13 +43,6 @@ thumbnail: https://thmb.techidaily.com/63fd599c9be37636882facc86b0d27ee700429a93
 
 ![PS4 Two Controllers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS4-Two-Controllers.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## PS4 Controller Keeps Disconnecting
 
  If your DualShock 4 disconnects randomly while playing, there are a couple of remedies you can try.
@@ -72,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/63fd599c9be37636882facc86b0d27ee700429a93
 
  We've looked at specific fixes for a few common DualShock 4 problems above. Next, let's look at more general solutions for problems with PS4 controllers. Walk through these if your PS4 controller is still not responding.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Restart Your Console
 
  While most controller issues stem from the controller itself, there's a chance that your PS4 is what's having the problem. To rule this out, you should restart your console before troubleshooting further.
@@ -79,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/63fd599c9be37636882facc86b0d27ee700429a93
  If your controller is working enough to access menus, hold the**PS Button** to open the Quick Menu, then go to**Power > Restart PS4** to reboot your system.
 
 ![turn off ps4 quick menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/11/turn-off-ps4-quick-menu.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In case your controller isn't cooperating, press and hold the**Power** button on your PS4 console until you hear two beeps. This will fully shut it down—once it's powered off (with no lights on the front), press the**Power** button again to turn it back on. If you see an orange light, your system went into Rest Mode, which isn't a full shutdown.
 
@@ -89,13 +96,6 @@ thumbnail: https://thmb.techidaily.com/63fd599c9be37636882facc86b0d27ee700429a93
  If you have a second PS4 controller (or a PS Move controller for PS VR), you can use that to access a menu that lets you delete the controller having an issue. Head to**Settings > Devices > Bluetooth Devices** and select the**DualShock 4** entry—it's the one that does not have a green light next to it. (The green light indicates a controller that's currently connected and in use.)
 
 ![PS4 Forget Devices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS4-Forget-Devices.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  On the resulting menu, press the**Options** button on your controller and choose**Forget Device** . This will cause your PS4 to remove it from memory so you have to pair it again.
 
@@ -112,19 +112,33 @@ thumbnail: https://thmb.techidaily.com/63fd599c9be37636882facc86b0d27ee700429a93
 ![PS4 Controller Reset Pinhole](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS4-Controller-Reset-Pinhole.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you've done this, connect your controller to your PS4 again via USB cable and see if it pairs successfully.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Try Connecting the PS4 Controller Elsewhere
 
  At this point, if you haven't already, you should try connecting the PS4 controller that's having problems to another device. If you have similar problems when[using the PS4 controller on a PS5](https://www.makeuseof.com/use-ps4-controller-on-ps5/) , your PC, a friend's PS4, or a smartphone, then your controller is likely faulty.
 
  It's also a good idea to try using another PS4 controller with your console, if possible. If you borrow a friend's DualShock 4 that you know works properly and find that it has issues with your system, something is probably wrong with your PS4's wireless connectivity.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Use the Controller in Wired Mode
 
@@ -134,21 +148,7 @@ thumbnail: https://thmb.techidaily.com/63fd599c9be37636882facc86b0d27ee700429a93
 
 ![PS4 Use USB Cable Communication](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS4-Use-USB-Cable-Communication.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this works, you should get a long USB cable so you can still enjoy gaming from the couch even when wired in.[Ailun's three-pack of 10-foot micro-USB cables](https://www.amazon.com/10ft3Pack-Charging-Smartphone-Connection-Blackwhite/dp/B06XYH75NQ?linkCode=ll1&tag=muo-v2-76tv1pg-20&linkId=f9f8e8d9d67b2bc78306aa8cfd5356be&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU93672&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fps4-controller-not-working-fix-common-issues%2F&asc%5Fcampaign=Evergreen) is a good cost-effective option.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## DualShock 4 Hardware Fix Options
 
@@ -181,22 +181,22 @@ thumbnail: https://thmb.techidaily.com/63fd599c9be37636882facc86b0d27ee700429a93
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-achieve-youtube-profitability-the-milestone-of-500plus-subscribers-unlocked/"><u>[New] 2024 Approved Achieve Youtube Profitability The Milestone of 500+ Subscribers Unlocked</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-identifying-the-most-effective-windows-snipping-apps/"><u>[New] 2024 Approved Identifying the Most Effective Windows Snipping Apps</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-convert-your-room-into-a-professional-studio-via-vlc/"><u>[New] Convert Your Room Into a Professional Studio via VLC</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-sonic-canvas-painting-sounds-on-a-mac-for-2024/"><u>[New] Sonic Canvas Painting Sounds on a Mac for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-behind-the-screen-samsung-ue590-4k-freesync-analysis/"><u>2024 Approved Behind the Screen Samsung UE590 4K, FreeSync Analysis</u></a></li>
-<li><a href="https://games-able.techidaily.com/7-advantages-of-ignoring-ray-tracing-in-gaming/"><u>7 Advantages of Ignoring Ray Tracing in Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/7-ways-to-save-money-with-your-xbox-series-xs/"><u>7 Ways to Save Money With Your Xbox Series X|S</u></a></li>
-<li><a href="https://games-able.techidaily.com/addressing-leaning-graphics-panel-issue-gpu-sag/"><u>Addressing Leaning Graphics Panel Issue (GPU Sag)</u></a></li>
-<li><a href="https://games-able.techidaily.com/anticipating-a-steep-climb-in-video-card-prices/"><u>Anticipating a Steep Climb in Video Card Prices?</u></a></li>
-<li><a href="https://games-able.techidaily.com/avoiding-scams-on-the-quest-for-starfield-access/"><u>Avoiding Scams on the Quest for Starfield Access</u></a></li>
-<li><a href="https://games-able.techidaily.com/banish-blue-screen-blues-repairing-the-launcher-hitch/"><u>Banish Blue Screen Blues: Repairing the Launcher Hitch</u></a></li>
-<li><a href="https://games-able.techidaily.com/batocera-meets-retropie-which-rpi-game-suite-triumphs/"><u>Batocera Meets RetroPie: Which RPi Game Suite Triumphs?</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-itel-p55-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Itel P55? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Tecno Camon 20 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719172605573-step-up-your-game-designs-with-wide-cabinetry-options/"><u>Step Up Your Game Designs with Wide Cabinetry Options</u></a></li>
-<li><a href="https://win-dash.techidaily.com/upgrade-your-gpu-fetch-the-latest-amd-radeon-hd-7700-drivers-for-improved-visuals/"><u>Upgrade Your GPU - Fetch the Latest AMD Radeon HD 7700 Drivers for Improved Visuals</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/xvid-vs-divx-understanding-the-differences-and-conversion-methods/"><u>Xvid vs DivX: Understanding the Differences and Conversion Methods</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-superb-culmination-for-vr-journeys-for-2024/"><u>[New] Superb Culmination for VR Journeys for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-elevate-your-content-with-the-ultimate-guide-to-instagram-cover-photos/"><u>2024 Approved Elevate Your Content with the Ultimate Guide to Instagram Cover Photos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/best-quality-hd-screensaver-recorders-for-2024/"><u>Best Quality HD Screensaver Recorders for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/blur-borders-for-visual-privacy-for-2024/"><u>Blur Borders for Visual Privacy for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/controlling-your-listening-habits-disabling-auto-play-on-apple-music/"><u>Controlling Your Listening Habits: Disabling Auto-Play on Apple Music</u></a></li>
+<li><a href="https://games-able.techidaily.com/cybersecurity-education-empowering-kids-on-discord/"><u>Cybersecurity Education: Empowering Kids on Discord</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-without-flash-innovative-play-strategies-exposed/"><u>Game On without Flash: Innovative Play Strategies Exposed</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-15-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 15 To Other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-honor-x50-gt-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Honor X50 GT</u></a></li>
+<li><a href="https://games-able.techidaily.com/must-know-specifications-ergonomic-keyboards/"><u>Must-Know Specifications: Ergonomic Keyboards</u></a></li>
+<li><a href="https://games-able.techidaily.com/power-your-gaming-dreams-with-critical-hardware-selections/"><u>Power Your Gaming Dreams with Critical Hardware Selections</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolved-step-by-step-guide-to-updating-amd-radeon-drivers/"><u>Resolved: Step-by-Step Guide to Updating AMD Radeon Drivers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-poco-x5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-contrast-in-clarity-and-controls-with-pimaxs-vr-crystal-headset/"><u>The Contrast in Clarity & Controls with Pimax's VR Crystal Headset</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-next-level-handheld-nintendos-upcoming-leap/"><u>The Next Level Handheld - Nintendo's Upcoming Leap</u></a></li>
+<li><a href="https://games-able.techidaily.com/tracing-back-foddian-game-lineage/"><u>Tracing Back: Foddian Game Lineage</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-i-decline-ea-play-amidst-price-hike/"><u>Why I Decline EA Play Amidst Price Hike</u></a></li>
 </ul></div>
 

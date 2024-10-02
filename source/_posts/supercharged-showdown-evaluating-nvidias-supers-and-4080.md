@@ -1,7 +1,7 @@
 ---
 title: "Supercharged Showdown: Evaluating Nvidia's Supers and 4080"
-date: 2024-09-20T07:08:42.348Z
-updated: 2024-09-27T04:20:52.464Z
+date: 2024-09-27T12:38:39.094Z
+updated: 2024-10-02T06:06:44.344Z
 tags:
   - games
 categories:
@@ -25,10 +25,10 @@ thumbnail: https://thmb.techidaily.com/8d4f635de6f8288e79a21d2dcf9027cad8747323c
 * [Should You Upgrade to the RTX 4070 Ti Super, RTX 4070 Super, or RTX 4080 Super?](#should-you-upgrade-to-the-rtx-4070-ti-super-rtx-4070-super-or-rtx-4080-super)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/8d4f635de6f8288e79a21d2dcf9027cad8747323c
 * The RTX 4080 Super is priced at $999, making it more affordable than the original RTX 4080, while the RTX 4070 Super and Super Ti remain at the same prices, providing more value for the performance boost.
 
  Nvidia's new RTX 4070 Ti Super, RTX 4070 Super, and RTX 4080 Super are causing a stir because, despite being part of the RTX 4000 Series, the new GPUs bring some significant boosts—and unlike their counterparts, appear to be reasonably priced this time around.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## RTX 4070 Ti Super vs. RTX 4070 Super vs. RTX 4080 Super Compared
 
@@ -65,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/8d4f635de6f8288e79a21d2dcf9027cad8747323c
 | Memory Bandwidth | 736GB/s          | 716GB/s           | 672GB/s          | 504GB/s          | 504GB/s    |
 | TGP              | 320W             | 320W              | 285W             | 220W             | 200W       |
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Specs
 
  As you can see from the table, the new GPUs receive a performance bump over the original RTX 4070 and RTX 4080\. However, the performance boost isn't uniform, with the new RTX 4070 Super and Super Ti getting a bigger upgrade than the new RTX 4080 Super.
@@ -85,10 +85,10 @@ thumbnail: https://thmb.techidaily.com/8d4f635de6f8288e79a21d2dcf9027cad8747323c
  Similarly, the RTX 4070 Super Ti receives a further boost, with its CUDA cores rising to 8,448\. Importantly, the 4070 Super Ti also has 16GB memory, rising from 12GB, while its memory bus also rises to 256-bit (bringing it in line with the RTX 4080 and 4080 Super). The 4GB memory increase and wider memory bus should see the RTX 4070 Super Ti deliver a hefty performance boost over the original RTX 4070 (as well as the RTX 4070 Ti, which is already on the market).
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Price to Performance
@@ -100,10 +100,10 @@ thumbnail: https://thmb.techidaily.com/8d4f635de6f8288e79a21d2dcf9027cad8747323c
  But the price drops stop there. The RTX 4070 Super and Super Ti will launch at the same prices as the non-Super predecessors, coming in at $600 and $800, respectively. Given the performance upgrade for both GPUs, the lack of a price drop doesn't seem problematic, as you'll get more bang for your buck.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should You Upgrade to the RTX 4070 Ti Super, RTX 4070 Super, or RTX 4080 Super?
@@ -127,24 +127,20 @@ thumbnail: https://thmb.techidaily.com/8d4f635de6f8288e79a21d2dcf9027cad8747323c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/lassic-film-aesthetics-masterclass-in-video-production-for-2024/"><u>[New] Classic Film Aesthetics Masterclass in Video Production for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-stylish-spectacles-trending-insta-filters-list/"><u>[New] Stylish Spectacles Trending Insta Filters List</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-top-mobile-experiences-ios-and-androids-vr-hits/"><u>[New] Top Mobile Experiences IOS & Android's VR Hits</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-gopro-hero5-black-vs-yi-4k-latest-camera-showdown/"><u>[Updated] GoPro Hero5 Black VS Yi 4K - Latest Camera Showdown</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-how-to-profit-from-your-youtube-channels/"><u>[Updated] How to Profit From Your YouTube Channels</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/2024youtube-mp3top10/"><u>【応用開発者向け】2024の最新動向：YouTube MP3変換ツールベストセレクションTOP10無料リファレンス - 音楽コンテンツを制作しやすく！</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-comprehensive-overview-of-controller-techniques-in-ryujinx-emulation/"><u>A Comprehensive Overview of Controller Techniques in Ryujinx Emulation</u></a></li>
-<li><a href="https://games-able.techidaily.com/achieve-silent-play-best-practices-on-xbox-one/"><u>Achieve Silent Play: Best Practices on Xbox One</u></a></li>
-<li><a href="https://games-able.techidaily.com/apples-silicon-powered-gaming-crossover-compatibility-unveiled/"><u>Apple's Silicon-Powered Gaming: CrossOver Compatibility Unveiled</u></a></li>
-<li><a href="https://games-able.techidaily.com/are-roblox-fps-enhancers-trustworthy-and-secure/"><u>Are Roblox FPS Enhancers Trustworthy and Secure?</u></a></li>
-<li><a href="https://games-able.techidaily.com/are-your-vintage-gamepads-power-sources-compatible-with-oled-switch/"><u>Are Your Vintage Gamepad's Power Sources Compatible with OLED Switch?</u></a></li>
-<li><a href="https://games-able.techidaily.com/avoid-overheating-issues-with-this-list-of-8-cooling-considerations/"><u>Avoid Overheating Issues with This List of 8 Cooling Considerations</u></a></li>
-<li><a href="https://games-able.techidaily.com/avoid-these-6-pitfalls-with-intels-upcoming-chips/"><u>Avoid These 6 Pitfalls with Intel's Upcoming Chips</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-on-pc-components-at-toms-equipment-source/"><u>Expert Analysis on PC Components at Tom's Equipment Source</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-about-xiaomi-redmi-a2-frp-bypass-by-drfone-android/"><u>In 2024, About Xiaomi Redmi A2 FRP Bypass</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719172710145-maximize-arcade-fun-embrace-big-box-framing/"><u>Maximize Arcade Fun: Embrace Big Box Framing!</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/resolve-your-iphone-14-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your iPhone 14 Keeps Asking for Outlook Password</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/smooth-compatibility-achieved-latest-brothers-hl-2240-driver-software-update-perfectly-integrated-with-windows-platform/"><u>Smooth Compatibility Achieved: Latest Brother's HL-2240 Driver Software Update Perfectly Integrated with Windows Platform</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719170052391-swift-storage-switcheroo-clone-and-upgrade-your-deck-now/"><u>Swift Storage Switcheroo: Clone & Upgrade Your Deck Now!</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-platform-power-play-which-one-dominates-vimeo-youtubeplusdailymotion/"><u>[New] 2024 Approved Platform Power Play Which One Dominates - Vimeo, YouTube+DailyMotion?</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723201931076-solved-how-to-boost-your-windowslinux-performance-and-reduce-shell-induced-high-cpu-use/"><u>[Solved] How to Boost Your Windows/Linux Performance and Reduce Shell-Induced High CPU Use</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-who-are-tiktoks-best-known-gamers-for-2024/"><u>[Updated] Who Are TikTok's Best-Known Gamers for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-revitalize-your-online-identity-top-5-indicators-its-time-to-update-your-email/"><u>1. Revitalize Your Online Identity: Top 5 Indicators It's Time to Update Your Email</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-light-on-shadows-techniques-for-depth-in-illustrator/"><u>2024 Approved Light on Shadows Techniques for Depth in Illustrator</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminating-steam-auth-delays-on-rust-platform/"><u>Eliminating Steam Auth Delays on Rust Platform</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-phone-performance-reducing-robloxs-memory-pressure/"><u>Optimizing Phone Performance: Reducing Roblox's Memory Pressure</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-realme-c67-5g-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Realme C67 5G</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-memory-efficiency-for-device-interaction-windows/"><u>Streamlining Memory Efficiency for Device Interaction Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-science-behind-xbox-protective-sheets/"><u>The Science Behind Xbox Protective Sheets</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-gamepad-options-to-boost-performance/"><u>Top Gamepad Options to Boost Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-picks-for-friendly-game-challenges-across-platforms/"><u>Top Picks for Friendly Game Challenges Across Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-value-virtual-reality-glasses-on-a-shoestring/"><u>Top Value Virtual Reality Glasses on a Shoestring</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-2024-approved-how-to-make-a-video-meme-with-4-best-meme-video-makers/"><u>Updated 2024 Approved How to Make a Video Meme with 4 Best Meme Video Makers</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-and-the-era-of-instantaneous-anywhere-gaming/"><u>Xbox and the Era of Instantaneous, Anywhere Gaming</u></a></li>
 </ul></div>
 

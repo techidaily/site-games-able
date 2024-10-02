@@ -1,0 +1,295 @@
+---
+title: "Play Like Never Before: PDW4 Experience"
+date: 2024-09-25T23:05:14.410Z
+updated: 2024-10-01T17:08:31.909Z
+tags:
+  - games
+categories:
+  - games
+description: "This Article Describes Play Like Never Before: PDW4 Experience"
+excerpt: "This Article Describes Play Like Never Before: PDW4 Experience"
+keywords: PDW4 Unveil,Play Unprecedented,Gaming Innovation,High-Tech PDW,Game Enhancement,VR Gaming Experience,New Gaming Wave
+thumbnail: https://thmb.techidaily.com/06c74021872dcc3b0ce900f997f142db31fade534149e5bce6ee9984dd257b98.jpg
+---
+
+## Play Like Never Before: PDW4 Experience
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+### Key Takeaways
+
+* The GPD Win 4 is a powerful handheld gaming console for playing PC and Xbox games anywhere, but it lacks the comfort of its competitor, the Steam Deck.
+* It features a built-in keyboard, but the small keys make it difficult to use, and it's unnecessary for messaging in today's multi-form factor devices.
+* Despite its power and versatility, the GPD Win 4 is heavy, bulky, and uncomfortable to use.
+
+ Portable PC gaming has really taken off with the launch of the Steam Deck back in 2021\. While that device was not the first, its presence on the market has helped competitors such as GamePad Digital (GPD).
+
+ They’ve been in the portable PC gaming market since 2016 and are now issuing the fourth GPD Win system. Boasting a full game controller, mouse mode, and even a hidden keyboard, the GPD Win 4 has higher specs than a Steam Deck.
+
+But does it have what you need to enjoy PC gaming in any scenario?
+
+ The[GPD Win 4 is currently $1099](https://affiliate.geekbuying.com/gkbaffiliate.php?id=150&url=944873) , but you can get an exclusive $400 discount through MakeUseOf. Simply add this discount code when you checkout:**NNN056GAME**
+
+![GPD Win 4 with keyboard open](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-review-gpd-win-4-kb.jpg)
+
+##### GPD Win 4
+
+ Great handheld console for AAA PC games
+
+ 7/ 10
+
+ $1099$1152.99 Save $53.99
+
+ With a GPD Win 4 you can play PC and compatible Xbox games anywhere. More powerful than a Steam Deck, the GPD Win 4 is, however, less comfortable than its biggest competitor and considerably more expensive, too.
+
+**Brand**
+
+GPD
+
+**Chipset**
+
+AMD Ryzen 7 6800U
+
+**RAM**
+
+16GB DDR5
+
+**Storage**
+
+1TB NVME, expandable via microSD
+
+**Wireless Connectivity**
+
+Wi-Fi and Bluetooth
+
+**Display**
+
+ 6" touchscreen, 1080p H-IPS display with 40Hz and 60Hz refresh
+
+**Graphics**
+
+AMD Radeon 680M
+
+**Ports**
+
+USB-C, USB A, microSD, 3.5mm stereo
+
+**Operating System**
+
+Windows 11 pre-installed
+
+**Input**
+
+ Optical mouse pad, switchable with console-style interface, QWERTY keyboard under slide-out display
+
+**Pros**
+
+* Plays anything you throw at it
+* Bright display reproduces graphics well
+* Keyboard reveal action is satisfying
+* Recharges quickly
+* Audio is great using headphones
+* Plenty of ports and a microSD slot
+
+**Cons**
+
+* Keyboard is unnecessary, and difficult to use
+* Mouse pointer loses orientation when coming out of standby
+* Easy to accidentally switch between game controller and mouse modes
+* Device is bulky, lacks ergonomic comfort of popular game controllers and Steam Deck
+* Doesn't ship with a case
+* Some buttons are fiddly or difficult to reach
+
+ Expand
+
+[$1099 at Geek Buying](https://affiliate.geekbuying.com/gkbaffiliate.php?id=150&url=944873)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## What Can You Do With a GPD Win 4 Gaming Handheld?
+
+ Preinstalled with Windows 11 and equipped with an AMD Ryzen 7 6800U, the GPD Win 4 is a portable gaming machine. But whereas most handheld gaming systems today play retro games, this is something else entirely.
+
+ Picture Valve’s Steam Deck, then imagine how it might be running Windows and twice the processing power. That’s what you get with the GPD Win 4, a system that doesn’t only play the latest AAA titles on Steam, Epic, and Xbox Game Pass, it also lets you run classic titles. If your chosen emulation platform runs on Windows, you can play those old games on the GPD Win 4.
+
+ In fact, apart from a few console titles, you can play most games ever released on this device.
+
+## It’s Like a Steam Deck With a Physical Keyboard
+
+One of the most stunning features of this device is the keyboard.
+
+ Hidden behind the display, the keyboard is there for a reason—but I’m not 100% certain what that reason is. The keys are too small for proper typing, after all, and in this day and age of multi-form factor devices and onscreen keyboards, it seems superfluous. Gamers tend towards headsets and voice chat for multiplayer, so the physical keyboard just doesn’t seem necessary for messaging.
+
+![GPD Win 4 with keyboard open](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-review-gpd-win-4-kb.jpg)
+
+ When keys are required, connecting a keyboard seems smarter; an onscreen keyboard should be adequate in most cases.
+
+ That said, the action on the display’s sliding motion is nice. It feels like using a classic Windows Mobile phone, but this is arguably a direct lineage of “Pocket PC,” regardless of how many iterations and companies it took to get there.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## What Does the GPD Win 4 Gaming Handheld Ship With?
+
+ Cracking open the GPD Win 4 box reveals a modest collection of kit. Aside from the Sony PlayStation Portable-esque main device, there is a wrist strap, screen protector, and USB Type-C mains power adapter.
+
+ The cable detaches from the charger (it’s USB Type-C at both ends) which makes it pretty flexible for most scenarios. Sadly, there's no case or even a small tote bag with this handheld. Accessories are available for the device, however, including a case.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## GPD Win 4 Gaming Handheld System Specification
+
+ The specification for this handheld PC will surprise you. For context, it measures 220 x 92 x 28mm (8.66 x 3.62 x 1.1 inches), and weighs 598g (21.1oz). Inside its PSP-inspired chassis, you’ll find an AMD Ryzen 7 6800U with AMD Radeon 680M graphics, 16GB of RAM, and a 1TB M.2 SSD with Windows 11 pre-installed. The OS ensures all expected video, audio, and picture formats are playable.
+
+![GPD Win 4 power button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-review-gpd-win-4-left-power.jpg)
+
+ It supports 802.11ax Wi-Fi (Wi-Fi 6/6E) with 2.4 and 5GHz bands, and a dual channel maximum transmission rate of 2402Mbps. For audio and controllers, Bluetooth 5.2 is supported.
+
+ A single USB 4 Type-C port supporting a data rate of 40Gbps is featured, along with a 3.5mm audio port. That port is on the top of the console for connectivity; the power port is on the lower side of the device. A USB 3 Type-A port is also provided, along with a TF slot for removable microSD card storage. Power and volume buttons are also provided.
+
+ The Li-polymer battery requires the 65-watt USB Type-C charger, although substitutes (e.g. laptop, Steam Deck) will work.
+
+ While the listed hardware states the presence of an HDMI port, the model we reviewed does not have this. Instead, video out is via the USB Type C port on the top of the console.
+
+![GPD Win 4 USB Type-C port](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-review-gpd-win-4-usbc.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ The Corning Gorilla Glass 5 display is a 6-inch H-IPS with 1080p resolution, 368PPI, and refresh rate options of 40Hz and 60Hz. It boasts flicker-free DC light dimming and hides a QWERTY keyboard beneath. Sliding the display up reveals the keyboard; no other controls are hidden.
+
+## USB Type C Expansion Options Turn It Into a PC
+
+ With a suitable hub attached, the GPD Win 4 supports various expansions. Game controllers, printers, and input devices—they’re all compatible. You can watch videos, listen to music, and read eBooks.
+
+ Find a suitable hub, and you can leave it plugged into your HDMI display and set up as a home console. When you’re ready to leave the house, unplugging that single USB Type-C cable makes the GPD Win 4 portable again.
+
+![GPD Win 4 USB ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-review-gpd-win-4-ports.jpg)
+
+ Offering support for Wi-Fi, Bluetooth, and USB, you can hook up anything you would to a desktop computer. It doesn’t look like an office PC, but the GPD Win 4 is probably more powerful than the Dell on your desk at work.
+
+ Note that there is also a USB Type A 3.0 port on the console. This is suitable for everything from external storage to additional peripherals.
+
+## Design and Comfort of the GPD Win 4 Gaming Handheld
+
+ Available in various colors, I received the white version of the GPD Win 4 for review. It features a matte finish, which aids grip, although the two rear buttons are difficult to reach. The console isn’t as wide as a Steam Deck, and not as comfortable to use.
+
+ The GPD Win 4 has two thumbsticks, XYBA, D-Pad, dual shoulder buttons, and dual triggers, both left and right. In addition, the device features a Start button, Select button, and clickable mouse trackpad. A swift press acts as the left-click; a longer press corresponds to a right-click. This last feature is a necessity for PC gaming, but this implementation is often unwieldy. It’s also mostly useless for arcade/FPS gaming, although it does work with strategy titles where fast reactions are less important.
+
+![GPD Win 4 controller right](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-review-gpd-win-4-right-control.jpg)
+
+ For any game that requires “controller mode” a useful switch is situated on the left side of the console. This enables the thumbsticks and buttons to work as they would if you had plugged an Xbox controller into a PC.
+
+ The GPD Win 4 also has supports rear-mounted expansions. At the time of writing, only a 4G LTE radio is available, which clips onto the back of the console. The mounting points can be seen in the molding of the chassis, which sports echoes of the Sony PSP handheld.
+
+![GPD Win 4 left trigger](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-review-gpd-win-4-left-trigger.jpg)
+
+ RGB LEDs cycle through a color change beneath the two clear shoulder buttons, changing how you might perceive the console. But when the color turns green, this white handheld feels like a portable Xbox 360.
+
+## Testing the GPD Win 4 Gaming Handheld
+
+ I selected four games (all on Steam) to measure this device. How did they work out?
+
+* Star Wars: Jedi Fallen Order (2019): the popular third-person action RPG plays perfectly on this system, with little difference in graphics from the Xbox One version.
+* DOOM Eternal: (2020) this stonkingly good first-person shooter (FPS) plays fantastically well, and the handheld device doesn't hurt the performance.
+* Beyond the Long Night (2023): a screen-by-screen retro-style adventure, this quirky pixel graphic adventure game plays perfectly well on the GPD Win 4, and boasts striking original audio.
+* Old World (2022): a Civilization-style isometric strategy game. In handheld mode this is almost unplayable. The screen is too small and while Steam offers a zoom feature, this is unwieldy on the GPD Win 4 (and isn’t much better on the Steam Deck either, despite the larger display, so no surprises here).
+
+ I like the controls on the device, which all seem to be where you would need them (apart from the ones on the back). The menu buttons are a different matter (see below).
+
+ In terms of audio, the onboard speakers are a bit on the tinny size, but it sounds fine over a wired or Bluetooth headset.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## How Does the GPD Win 4 Compare to a Steam Deck?
+
+ I’ve been using the Steam Deck since 2022, during which time it has become my main console. The reason for this is its pure flexibility, enabling me to game in any room in the house, or beyond if the mood takes me.
+
+ On paper, the GPD Win 4 offers the same flexibility, with roughly the same battery life. While in practice, this is mostly true, it has three key differences.
+
+ First, the GPD Win 4 is undeniably more powerful than the Steam Deck. Second, it runs Windows 11, an OS that while widely used, I dislike intensely. While running Steam in Big Picture mode can fool you into thinking you’re using a Steam Deck, it’s a short-lived illusion.
+
+![GPD Win 4 vs Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-review-gpd-win-4-compare.jpg)
+
+ Third, and perhaps most important, is that the GPD Win 4 doesn’t feel as comfortable as the Steam Deck. In fact, I’d go as far as to say it’s akin to playing games on a house brick.
+
+ Those rear buttons are a pain to reach, the Select and Start buttons are too small, and the mouse-to-controller toggle is easy to catch. That can cause some problems mid-game, let me tell you.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## The GPD Win 4 Lets You Play Anywhere, for a Price
+
+ At the most basic level, this handheld PC lets you play recent AAA titles on the go. That in itself is amazing, and with the controller layout, you get to enjoy seamless console-style gaming.
+
+ With the Windows 11 operating system, you benefit from compatibility with almost every PC games platform, plus PC Game Pass. The GPD Win 4’s fast Wi-Fi, meanwhile, delivers reliable performance on any number of game streaming services.
+
+ Heavy, bulky, and rough, it will play almost any game you throw at it, but the GPD Win 4 just isn’t that comfortable to use. After an hour of play, my hands were cramping, and I yearned for my Steam Deck.
+
+ While I could easily hook up an Xbox One-style controller, that illustrates the point: those controllers are ergonomic, and easy to hold. They make you happy to keep playing. Similarly, the larger Steam Deck is easy on the hands compared with this device.
+
+ Hardware-wise, the GPD Win 4 is a Steam Deck killer, and battery life aside, delivers portable PC and console-level gaming. Comfort-wise, however, it only delivers hand cramps.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-beneath-the-surface-exploring-the-invisible-aspects-of-viewing-stories/"><u>[New] 2024 Approved Beneath the Surface Exploring The Invisible Aspects of Viewing Stories</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-capturing-every-moment-in-motion-with-polaroids-new-release/"><u>[New] Capturing Every Moment in Motion with Polaroid's New Release</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/arness-youtube-movie-maker-for-impactful-videos-for-2024/"><u>[New] Harness YouTube Movie Maker for Impactful Videos for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-speeding-up-vimeo-streams-efficiently-for-2024/"><u>[Updated] Speeding Up Vimeo Streams Efficiently for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-unveiling-the-best-practices-for-linktree-on-tiktok-profiles/"><u>[Updated] Unveiling the Best Practices for Linktree on TikTok Profiles</u></a></li>
+<li><a href="https://games-able.techidaily.com/amplify-your-skill-set-with-superior-hardware/"><u>Amplify Your Skill Set with Superior Hardware</u></a></li>
+<li><a href="https://games-able.techidaily.com/balancing-engagement-the-skillful-application-of-block-and-unblock-on-twitch/"><u>Balancing Engagement: The Skillful Application of Block & Unblock on Twitch</u></a></li>
+<li><a href="https://games-able.techidaily.com/change-your-preferred-language-on-steam-platform/"><u>Change Your Preferred Language on Steam Platform</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-most-riveting-true-crime-casts-top-13-picks/"><u>Discover the Most Riveting True Crime Casts: Top 13 Picks</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-counteracting-latency-issues-in-call-of-duty-black-ops-4/"><u>Effective Solutions for Counteracting Latency Issues in Call of Duty: Black Ops 4</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-steam-deck-usage-expert-dock-tips-unveiled/"><u>Elevating Steam Deck Usage: Expert Dock Tips Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/enabling-remote-play-between-console-and-phone/"><u>Enabling Remote Play Between Console and Phone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fallout-4-stability-achieved-no-more-computer-issues/"><u>Fallout 4 Stability Achieved: No More Computer Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/flawless-facade-on-first-frame-fixing-freeze/"><u>Flawless Facade on First Frame: Fixing Freeze</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-sourcing-indie-games-online/"><u>Mastering the Art of Sourcing Indie Games Online</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sovol-sv08-reviewed-honoring-the-fastest-traits-of-the-classic-voron/"><u>Sovol SV08 Reviewed: Honoring the Fastest Traits of the Classic Voron</u></a></li>
+</ul></div>
+

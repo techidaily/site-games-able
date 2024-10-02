@@ -1,7 +1,7 @@
 ---
 title: What's Wrong with Gamers Paying for Game Design and Development?
-date: 2024-09-25T23:15:38.661Z
-updated: 2024-09-26T16:38:56.012Z
+date: 2024-09-30T16:34:24.724Z
+updated: 2024-10-01T16:44:13.362Z
 tags:
   - games
 categories:
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/abd95b31cf1a96dd50fea72e4fad17faec8b6807e
 
  A controversial issue arose in gaming circles recently: the idea of tipping game developers. While it’s an interesting concept, I don’t think it’s the way forward.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who’s Suggesting We Tip Game Developers?
 
  In April 2024, Mike Ybarra—former President of Blizzard Entertainment—posted the following on X (formerly Twitter):
@@ -34,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/abd95b31cf1a96dd50fea72e4fad17faec8b6807e
  He implied that an in-game option might encourage players to reward the developer on completion of a game, when they’re most engaged with it.
 
  Needless to say, this post generated a lot of discussion, reheating various[debates about the price of video games](https://www.makeuseof.com/video-games-should-be-more-expensive-reasons-why/) and developer salaries.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Much Do Game Developers Already Earn?
 
@@ -43,22 +57,15 @@ thumbnail: https://thmb.techidaily.com/abd95b31cf1a96dd50fea72e4fad17faec8b6807e
 
  Game devs working on their own, meanwhile, will struggle unless they strike gold. Perhaps the best example is Eric Barone, the creator of the smash-hit farming sim Stardew Valley. Barone worked on his own for over four years, but his game’s success has repaid him significantly; the developer now has a net worth estimated at $45m.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Alternatives Are Already Available
 
 ![A screenshot showing the Hollow Knight kickstarter campaign.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/hollow-knight-kickstarter.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Tipping is an interesting idea, but do we really need one more payment method?
@@ -70,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/abd95b31cf1a96dd50fea72e4fad17faec8b6807e
  Buying a second copy—or “double-dipping”—is another tactic fans can use to reward game creators. This is more common in the indie scene, where physical collector's editions are abundant, and make a tangible companion to the digital copy of a game.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Negative Effects of Tipping Culture
@@ -83,13 +90,6 @@ thumbnail: https://thmb.techidaily.com/abd95b31cf1a96dd50fea72e4fad17faec8b6807e
  On the counter side, consumers run a risk from ever-encroaching payment models. Microtransactions have already been broadly accepted as one cost of modern gaming, they just go into the pockets of publishers rather than developers.
 
  Encouraging a focus on tipping may just be papering over cracks in the model, and could serve to distract from the issue of a sustainable gaming economy that’s future-proofed against[AI and other threats](https://www.makeuseof.com/types-of-jobs-risk-ai/) .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## When Tips Might Work
 
@@ -132,18 +132,21 @@ thumbnail: https://thmb.techidaily.com/abd95b31cf1a96dd50fea72e4fad17faec8b6807e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-bridging-the-gap-incorrancing-youtube-links-within-presentation-software/"><u>[New] 2024 Approved Bridging the Gap Incorrancing YouTube Links Within Presentation Software</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-resolving-silence-in-tweeted-video-playbacks/"><u>[New] 2024 Approved Resolving Silence in Tweeted Video Playbacks</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-blade-chroma-revolutionized-by-quad-hd-technology/"><u>2024 Approved Blade Chroma Revolutionized by Quad-HD Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1725288567957-ai/"><u>AI動画制作のワンプライズ解析：フリーテキストからビデオ生成手順</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-gaming-navigating-android-with-advanced-buttons/"><u>Enhancing Gaming: Navigating Android with Advanced Buttons</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Vivo Y27 5G | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/kop-movavi-affarslicens-vidvuxen-filmbytare-med-fullstandigt-loslost-konsumentuppgifter/"><u>Köp Movavi - Affärslicens Vidvuxen Filmbytare Med Fullständigt Löslöst Konsumentuppgifter</u></a></li>
-<li><a href="https://games-able.techidaily.com/platinum-membership-fees-at-sony-online-entertainment/"><u>Platinum Membership Fees at Sony Online Entertainment</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-steps-to-correct-and-prevent-black-screen-glitch-in-epic-games-platform/"><u>Resolved: Steps to Correct and Prevent Black Screen Glitch in Epic Games Platform</u></a></li>
-<li><a href="https://games-able.techidaily.com/secrets-to-steams-picture-vault-placement/"><u>Secrets to Steam's Picture Vault Placement</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-12-prominent-honor-90-lite-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Honor 90 Lite Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-resolving-warzone-pc-match-finding-issues/"><u>Troubleshooting Steps: Resolving 'Warzone' PC Match-Finding Issues</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-console-content-psplus-or-xbox-game-pass/"><u>Ultimate Console Content: PS+ or Xbox Game Pass?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-heritage-on-display-post-copyright-masterpieces/"><u>[New] 2024 Approved Heritage on Display Post-Copyright Masterpieces</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-a-collection-of-inspiration-5-best-book-video-tts/"><u>[New] A Collection of Inspiration 5 Best Book Video TTs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-color-space-comparison-srgb-vs-rgb/"><u>[New] Color Space Comparison Srgb vs Rgb</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-performance-install-latest-nvidia-drivers-now/"><u>Enhance Performance! Install Latest Nvidia Drivers Now</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-realme-gt-neo-5-se-lock-screen-password-by-drfone-android/"><u>How To Change Realme GT Neo 5 SE Lock Screen Password?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-best-way-to-record-podcast-remotely/"><u>In 2024, Best Way to Record Podcast Remotely</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-google-pixel-fold-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Google Pixel Fold</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-upgrade-your-iphone-cinematic-experience-must-have-equipment/"><u>In 2024, Upgrade Your iPhone Cinematic Experience Must-Have Equipment</u></a></li>
+<li><a href="https://games-able.techidaily.com/joystick-journey-from-xbox-to-computer-play-142-chars/"><u>Joystick Journey: From Xbox to Computer Play (142 Chars)</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-has-closed-a-refund-loophole-heres-how-it-will-affect-you/"><u>Steam Has Closed a Refund Loophole: Here's How It Will Affect You</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-eliminate-shaking-mouse-scroll/"><u>Steps to Eliminate Shaking Mouse Scroll</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-nvidia-geforce-rtx-3070-ti-drivers-for-optimal-performance-on-win-1187/"><u>Update Your NVIDIA GeForce RTX 3070 Ti Drivers for Optimal Performance on Win 11/8/7</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-list-of-free-stock-image-websites-for-2024/"><u>Updated The Ultimate List of Free Stock Image Websites for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/virtual-escapades-without-internet-choose-your-favorite-phone-games/"><u>Virtual Escapades Without Internet - Choose Your Favorite Phone Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/winning-list-of-11-top-notch-no-cost-words-apps/"><u>Winning List of 11 Top-Notch, No-Cost Words Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/zen-gameplay-find-your-indolent-match/"><u>Zen Gameplay: Find Your Indolent Match</u></a></li>
 </ul></div>
 

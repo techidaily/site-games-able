@@ -1,7 +1,7 @@
 ---
 title: The Blizzard Legacy Rediscovered - Potential for Microsoft's Revival
-date: 2024-09-21T20:10:56.656Z
-updated: 2024-09-27T02:22:15.169Z
+date: 2024-09-24T19:31:45.909Z
+updated: 2024-10-02T11:25:23.401Z
 tags:
   - games
 categories:
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/e03e43d6c35d148960447c0d2ee89542320d7730a
 
  Guitar Hero is still a staple in many arcades all over the world, however, showing there are still enough people interested in the franchise who would absolutely love to see a modern Guitar Hero in a list of[the best couch co-op Xbox games.](https://www.makeuseof.com/best-couch-co-op-games-for-xbox-series-x-s/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Spyro the Dragon
 
  It’s relatively safe to say that most gamers alive during the golden age of console gaming know Spyro the Dragon. When you think about video games in the 90s, Spyro the Dragon is one of the mascots that immediately springs to mind.
@@ -49,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/e03e43d6c35d148960447c0d2ee89542320d7730a
  Spyro still has a huge amount of diehard fans who have more than enough room for a brand new Spyro title in their collection, not to mention the younger audience that a successful entry would no doubt appeal to.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Skylanders
@@ -60,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/e03e43d6c35d148960447c0d2ee89542320d7730a
  If you were wondering where Spyro went back in the day, Skylanders is your answer. But Skylanders wasn’t just a Spyro clone that profited off the purple dragon’s name. It also introduced its own unique spin on things.
 
  Skylanders used an interesting toys-to-life gimmick that made billions of dollars thanks mostly to the sales of hundreds of millions of character figures. Those are big numbers that are hard to argue with, but the series still seemed to find itself in the gaming graveyard that exists at the back of every gamer’s basement. But with the right marketing, there is potential for the series to make a serious comeback.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. StarCraft
 
@@ -69,13 +69,6 @@ thumbnail: https://thmb.techidaily.com/e03e43d6c35d148960447c0d2ee89542320d7730a
 
  Although one entry made it to the Nintendo 64, the series has mostly been confined to PC. That means that there is a whole new world of console gamers who are yet to experience a StarCraft title.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Tony Hawk's Pro Skater
 
  The name Tony Hawk's Pro Skater alone is probably enough to convince you that a new mainline game would be amazing. The series is the unrivaled master of skateboarding games, and although there have been entries in the genre since the reign of Tony Hawk's Pro Skater, none have been able to come close.
@@ -83,10 +76,10 @@ thumbnail: https://thmb.techidaily.com/e03e43d6c35d148960447c0d2ee89542320d7730a
  The games were known not only for their fluid and satisfying gameplay but their incredible soundtracks that featured some of the most iconic songs of their age. Remastered versions of Tony Hawk's Pro Skater 1 and 2 were released in 2020 and were highly anticipated, so a new entry in the series would no doubt be just as, if not more, hyped than the remaster.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Hexen
@@ -102,6 +95,13 @@ thumbnail: https://thmb.techidaily.com/e03e43d6c35d148960447c0d2ee89542320d7730a
  A modern Prototype game would be amazing. It was great back in the day, but it has an unbelievable amount of potential for a new entry. If there is one modern game that Prototype could be compared to today, it would be Marvel’s Spider-Man: Miles Morales. Of course, it would be far darker and grittier, but one of the best parts of Miles Morales is the satisfaction of effortlessly swinging through the streets on vine-like webs.
 
  Prototype doesn’t have webs, but Alex Mercer’s venom-like virus powers provided a very similar experience as you parkoured your way around the city. Even if Microsoft doesn’t revive the Prototype series, the games still hold up today and are well worth playing.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Hopefully, Microsoft Doesn’t Leave These Games in the Past
 
@@ -124,20 +124,16 @@ thumbnail: https://thmb.techidaily.com/e03e43d6c35d148960447c0d2ee89542320d7730a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-best-practices-for-archiving-youtube-livestream-content/"><u>[Updated] 2024 Approved Best Practices for Archiving Youtube Livestream Content</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-ibeatpro-tips-for-mobile-music-video-filmmaking/"><u>[Updated] IBeatPro Tips for Mobile Music Video Filmmaking</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-mastering-low-volume-settings-in-os-xwindows/"><u>[Updated] Mastering Low-Volume Settings in OS X/Windows</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-road-warriors-top-virtual-races-listed/"><u>2024 Approved Road Warriors Top Virtual Races Listed</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/converti-mp3-in-mp4-online-gratuitamente-con-movavi/"><u>Converti MP3 in MP4 Online Gratuitamente Con Movavi</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-practical-ways-to-archive-online-discussions/"><u>In 2024, Practical Ways to Archive Online Discussions</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/magix-music-maker-2024-a-step-forward-in-audio-production/"><u>Magix Music Maker 2024 A Step Forward in Audio Production</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-button-controls-android-games-via-controller-mapping/"><u>Mastering Button Controls: Android Games via Controller Mapping</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/mirillis-marketplace-your-digital-destination-for-exclusive-designs/"><u>Mirillis Marketplace: Your Digital Destination for Exclusive Designs</u></a></li>
-<li><a href="https://games-able.techidaily.com/resolving-minecraft-launcher-problem-code-0x803f8001-in-win/"><u>Resolving Minecraft Launcher Problem Code 0X803F8001 in Win</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/sculpting-success-in-global-language-assessments-and-certifications/"><u>Sculpting Success in Global Language Assessments & Certifications</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-by-step-connect-classic-games-with-mypics-w11/"><u>Step-by-Step: Connect Classic Games with MyPics W11</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-key-elements-of-crafting-engrossing-steam-game-reviews/"><u>The Key Elements of Crafting Engrossing Steam Game Reviews</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-official-method-to-alter-console-regions/"><u>The Official Method to Alter Console Regions</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-20-best-gamer-progress-tools/"><u>Top 20 Best Gamer Progress Tools</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-maximize-screen-tv-playback-for-youtube-clips-for-2024/"><u>[Updated] Maximize Screen TV Playback for YouTube Clips for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-the-ten-step-window-repair-journey/"><u>Decoding the Ten-Step Window Repair Journey</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhance-gameplay-of-tormented-souls-by-solving-persistent-pc-crashes-issues/"><u>Enhance Gameplay of Tormented Souls by Solving Persistent PC Crashes Issues</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/enhance-your-digital-presence-with-manycam-top-tips-for-using-virtual-webcams-in-live-video-production/"><u>Enhance Your Digital Presence with ManyCam: Top Tips for Using Virtual Webcams in Live Video Production</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/simplified-methods-for-saving-screen-share-talks-for-2024/"><u>Simplified Methods for Saving Screen-Share Talks for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-rated-drop-and-epox-h3x-gaming-headset-under-100-full-reveal-and-expert-analysis-on-zdnet/"><u>Top Rated Drop & Epox H3X Gaming Headset Under $100 - Full Reveal and Expert Analysis on ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-ranked-gaming-processors-expert-picks-and-reviews/"><u>Top-Ranked Gaming Processors : Expert Picks and Reviews</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-ultimate-selection-of-bargains-holiday-sale-hotspots-for-gaming-pcs-zdnet/"><u>Unveiling the Ultimate Selection of Bargains: Holiday Sale Hotspots for Gaming PCs | ZDNET</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-slow-down-time-adding-slow-motion-effects-in-windows-live-movie-maker/"><u>Updated In 2024, Slow Down Time Adding Slow Motion Effects in Windows Live Movie Maker</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrade-your-efficiency-with-this-cost-effective-gaming-monitor-makeover-expert-tips-from-zdnet-revealed/"><u>Upgrade Your Efficiency with This Cost-Effective Gaming Monitor Makeover, Expert Tips From ZDNET Revealed</u></a></li>
+<li><a href="https://games-able.techidaily.com/zdnets-expert-selection-ultimate-guide-to-elite-gaming-mouse-pads-of-2024/"><u>ZDNET's Expert Selection: Ultimate Guide to Elite Gaming Mouse Pads of 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Refresh Frequencies: How They Shape User Experience"
-date: 2024-09-22T19:15:37.939Z
-updated: 2024-09-27T01:47:36.011Z
+date: 2024-10-01T01:15:20.525Z
+updated: 2024-10-01T16:51:49.567Z
 tags:
   - games
 categories:
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/15ee6182a7ae55156e438f95ff8ff955ef45d4a10
 
  But why does the keyboard polling rate matter to regular folks, and is a higher polling rate more important to gamers?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is a Keyboard Polling Rate?
 
  Keyboard polling rate determines how frequently your computer checks for key presses. Like many measurements with computers, polling rate is measured in Hertz (Hz), which tells us how many requests are made per second. As such, a higher figure means your computer and keyboard communicate more frequently, and key presses are detected and registered rapidly.
@@ -59,6 +66,13 @@ For example:
 
 ![steelseries apex pro mini hand typing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/steelseries-apex-pro-mini-hand-typing.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As mentioned above, a higher polling rate reduces input lag. ESport professionals will use much higher polling rates than regular folks, with some keyboards offering up to 4,000Hz (0.25ms) and some even ramping up to 8,000Hz (0.125ms).
 
  Still, most regular folks can compete just fine with a 1,000Hz polling rate. A 1,000Hz polling rate means your key presses are registered every 1ms, which is still incredibly fast. Furthermore, a 1,000Hz polling rate could provide a competitive edge over a keyboard polling at 500Hz, 250Hz, or 125Hz.
@@ -67,18 +81,18 @@ But nothing can replace actual in-game skills!
 
  It's also worth noting that higher polling rates typically place more strain on the system CPU. An 8,000Hz polling rate requires extremely fast communication at a near-constant rate, which can lead to some CPU overhead.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Do Wired Keyboards Have Better Polling Rates Than Wireless Keyboards?
 
  You do not necessarily need a wired keyboard to achieve a high polling rate. Many modern wireless gaming keyboards can also have high polling rates of 500Hz or 1,000Hz.
 
 ![steelseries apex pro mini wireless switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/steelseries-apex-pro-mini-wireless-switch.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  However, wired connections generally can more easily achieve higher and more consistent polling rates than wireless keyboards.
 
@@ -95,13 +109,6 @@ But nothing can replace actual in-game skills!
 
  If you're gaming competitively, a wired keyboard is always the best option (that goes for your mouse, too).
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Check Your Keyboard Polling Rate
 
  Now, it's all very well and good knowing you need a higher keyboard polling rate, but how do you check the keyboard polling rate to begin with?
@@ -113,22 +120,17 @@ But nothing can replace actual in-game skills!
 * **Third-Party Software** : Numerous third-party apps are designed to track and test keyboard polling rates. For example, free and open-source[Keyboard Inspector](https://github.com/mat1jaczyyy/Keyboard-Inspector) can detect your keyboard polling rate in seconds using its test mode, and it's incredibly simple to use.  
 ![keyboard inspector analyzing keyboard polling rate](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/keyboard-inspector-analyzing-keyboard-polling-rate.jpg)  
  Note that the above tool is for Windows and Linux. This[handy Reddit post](https://www.reddit.com/r/linux%5Fgaming/comments/15ii0um/how%5Fdo%5Fi%5Ffind%5Fmy%5Flaptop%5Fkeyboard%5Fpolling%5Frate/) explains how to check the keyboard polling rate on Linux using the command line.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * **Manual Calculation** : If you don't have any of the above tools to hand and can't get hold of them or use them, a manual keyboard polling rate check might suffice. However, it's not particularly accurate. To measure the keyboard polling rate manually, open a text editor, then set a ten-second timer. Hit go on the timer and press a key as many times as possible. Divide the number of keypresses by the time, and you'll get a very, very rough estimate of your polling rate.
 
  The manual option exists, but you're much better off using one of the other methods to track your keyboard polling rate.
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Which Keyboards Have the Highest Polling Rates?
 
@@ -141,13 +143,6 @@ Currently, there are a few keyboards with an 8,000Hz polling rate:
 * Razer BlackWidow V4 Pro
 
  Note that this is just a handful of options, and other keyboards offer an 8,000Hz polling rate. It's also worth remembering that 8,000Hz is the highest polling rate offered by these keyboards, but it's not the only rate. You can set each of these keyboards to a regular polling rate like 1,000Hz using on-board controls or desktop software.
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1,000Hz Is More Than Enough
 
@@ -170,22 +165,19 @@ Currently, there are a few keyboards with an 8,000Hz polling rate:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-amplify-your-imovie-with-youtube-audio-streams/"><u>[New] 2024 Approved Amplify Your iMovie with YouTube Audio Streams</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-correct-no-sound-issue-on-shared-videos/"><u>[New] Correct No Sound Issue on Shared Videos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-tips-on-acquiring-profitable-yt-channels-for-2024/"><u>[Updated] Essential Tips on Acquiring Profitable YT Channels for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/3-ways-of-how-to-get-someones-apple-id-off-apple-iphone-14-pro-max-without-password-by-drfone-ios/"><u>3 Ways of How to Get Someones Apple ID Off Apple iPhone 14 Pro Max without Password</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/androids-latest-advancements-for-immersive-video-viewing/"><u>Android's Latest Advancements for Immersive Video Viewing</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-poco-x6-pro-phone-by-drfone-android/"><u>How to Unlock a Network Locked Poco X6 Pro Phone?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-effective-routes-to-share-srt-content-on-pinterest-and-reddit/"><u>In 2024, Unveiling Effective Routes to Share SRT Content on Pinterest & Reddit</u></a></li>
-<li><a href="https://games-able.techidaily.com/indulge-in-off-line-play-with-these-11-favorite-phone-games/"><u>Indulge in Off-Line Play with These 11 Favorite Phone Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/next-level-charger-accessories-for-sonys-ps5-dualsense/"><u>Next-Level Charger Accessories for Sony's PS5 DualSense</u></a></li>
-<li><a href="https://games-able.techidaily.com/reverse-usb-power-fluctuation/"><u>Reverse USB Power Fluctuation</u></a></li>
-<li><a href="https://games-able.techidaily.com/skepticism-in-spades-why-rely-on-game-reviews/"><u>Skepticism in Spades: Why Rely on Game Reviews?</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-pdw4-a-hands-on-high-end-portable-pc/"><u>The PDW4: A Hands-On, High-End Portable PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-transition-of-netflix-from-dvd-rentals-by-mail-to-dominating-streaming-services/"><u>The Transition of Netflix: From DVD Rentals by Mail to Dominating Streaming Services</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-independent-games-uncovered-my-personal-gaming-journey/"><u>Top Independent Games Uncovered: My Personal Gaming Journey</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-intriguing-attributes-of-todays-hit-games/"><u>Top Intriguing Attributes of Today’s Hit Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/troubleshooting-guide-nier-replicant-remaster-wont-boot/"><u>Troubleshooting Guide: NieR Replicant Remaster Won't Boot</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-pls-files-a-comprehensive-guide-on-opening-and-conversion/"><u>Understanding PLS Files: A Comprehensive Guide on Opening & Conversion</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-beyond-the-lens-the-complete-selfie-confirmation-on-ig/"><u>[New] Beyond the Lens The Complete Selfie Confirmation on IG</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-achieve-professional-level-youtube-transcription-without-spending/"><u>[Updated] 2024 Approved Achieve Professional-Level YouTube Transcription Without Spending</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-picks-for-drone-pilots-vr-eyewear/"><u>[Updated] Expert Picks for Drone Pilots’ VR Eyewear</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-instant-upload-tiktok-vids-to-your-fb-page-easily/"><u>[Updated] In 2024, Instant Upload TikTok Vids to Your FB Page Easily</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1-effortless-techniques-to-download-high-quality-audio-from-youtube/"><u>1. Effortless Techniques to Download High-Quality Audio From YouTube</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-how-to-stay-on-top-of-youtube-moderation-standards/"><u>2024 Approved How to Stay on Top of YouTube Moderation Standards</u></a></li>
+<li><a href="https://games-able.techidaily.com/double-trouble-delight-top-15-two-player-phone-games/"><u>Double Trouble Delight: Top 15 Two-Player Phone Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/free-fun-awaits-in-these-6-games/"><u>Free Fun Awaits in These 6 Games</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-oneplus-nord-n30-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From OnePlus Nord N30 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-social-media-strategy-the-most-effective-tiktok-hashtags/"><u>In 2024, Social Media Strategy The Most Effective TikTok Hashtags</u></a></li>
+<li><a href="https://games-able.techidaily.com/integrating-laptop-with-xbox-series-xs-a-step-by-step-guide/"><u>Integrating Laptop with Xbox Series X|S: A Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-itchio-for-exceptional-gaming/"><u>Mastering Itch.io for Exceptional Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/renaissance-of-old-gaming-pcs-through-atlasos/"><u>Renaissance of Old Gaming PCs Through AtlasOS</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/win-11s-best-practices-the-ultimate-guide-to-saving-mov-files-for-2024/"><u>Win 11'S Best Practices The Ultimate Guide to Saving MOV Files for 2024</u></a></li>
 </ul></div>
 

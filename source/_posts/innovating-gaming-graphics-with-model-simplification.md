@@ -1,7 +1,7 @@
 ---
 title: Innovating Gaming Graphics with Model Simplification
-date: 2024-09-13T19:51:57.427Z
-updated: 2024-09-20T22:19:07.650Z
+date: 2024-10-01T11:11:54.569Z
+updated: 2024-10-01T19:51:38.560Z
 tags:
   - games
 categories:
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/d8f58ce885808b79b129b3a2207409d6b0df7e72b
 
  While a good deal of the work you can do to optimize 3D models for game development is done in your 3D design software, the game engine also gives you opportunities to make your game faster. These methods are easy to put to work, providing a good place to start if you have already begun development on your game.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Reuse 3D Model Assets
 
  Every 3D model your game loads has a resource cost. This cost isn’t incurred when using a model for a second, third, or fourth time, providing an excellent opportunity to optimize your game without skimping on scenery or objects.
@@ -41,22 +48,21 @@ thumbnail: https://thmb.techidaily.com/d8f58ce885808b79b129b3a2207409d6b0df7e72b
 
  Alongside using compressed textures, it’s also worth making sure that the shaders you use are well-optimized. Most game engines have an asset store with both free and paid shaders available to make this easier. You can also find[free 3D models on the Unity Asset Store](https://www.makeuseof.com/unity-free-assets-websites/) that are already optimized, and this applies to other engines, too.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Use Static Lighting
 
  Lighting is by far one of the most resource-hungry operations found in modern 3D games. Calculating reflections on the fly is very costly, but you can bake the lighting in your scene to solve this problem. This prepares the lighting in the scene in advance so that the player doesn’t have to wait for it.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Use Occlusion Culling
@@ -75,13 +81,6 @@ thumbnail: https://thmb.techidaily.com/d8f58ce885808b79b129b3a2207409d6b0df7e72b
 
  Designing 3D models that are optimized for video game development is easier than you might expect. This process mostly involves stripping your model down to ensure that it only has the vertices, lines, and faces that it needs. There are several ways to achieve this.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Manual Geometry Optimization
 
 ![monkey model in blender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/manual-3d-optimization.jpg)
@@ -96,6 +95,13 @@ thumbnail: https://thmb.techidaily.com/d8f58ce885808b79b129b3a2207409d6b0df7e72b
 * **Remove Duplicate/Redundant Faces** : Duplicate faces should always be deleted, but you should also look for faces that aren’t necessary. A square, for example, only needs to have one face. If it has two triangular faces, dissolve them both to replace them with a single face.
 * **Object Merging** : Loading one object is always better than loading two or three.[Merging 3D objects in Blender](https://www.makeuseof.com/merge-objects-in-blender/) and[other game development software](https://www.makeuseof.com/tag/five-free-game-development-tools-make-your-own-games/) is easy, and it's a great way to reduce your resource costs.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Automated Geometry Optimization
 
  Manual optimization works for simple 3D models, but you may need to use some automated tools to help with this process. You can use these methods in conjunction with one another to make your 3D models perfect for video game development.
@@ -103,6 +109,19 @@ thumbnail: https://thmb.techidaily.com/d8f58ce885808b79b129b3a2207409d6b0df7e72b
 * **Retopology** : Retopology is the process of creating a new simplified mesh for an object. This can be done automatically in most 3D modeling tools, providing you with a mesh that has as few faces as possible. This is called Remesh in Blender, Retopologize in Maya, and Retopology tools in 3DS Max.
 * **Add-Ons** : 3D modeling tools come with loads of features, but they can’t have everything built-in. Many of these tools have add-ons available to enhance their features. Game development optimization is covered here, with options like AP GameTools for Blender providing loads of unique features.
 * **Additional Software** : Alongside add-ons, you can also find third-party software that can optimize your 3D models for video game development.[Simplygon](https://www.simplygon.com/) is a popular example of this, with a host of tools available that will make your optimization journey easier.
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Much Optimization Do 3D Models Need for Game Development?
 
@@ -121,5 +140,26 @@ thumbnail: https://thmb.techidaily.com/d8f58ce885808b79b129b3a2207409d6b0df7e72b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-mastering-live-broadcasts-obs-tips-for-youtube-and-twitch/"><u>[New] In 2024, Mastering Live Broadcasts OBS Tips for YouTube & Twitch</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-pioneering-pedagogy-through-film-in-the-classroom/"><u>[New] Pioneering Pedagogy Through Film in the Classroom</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-soundquality-synopsis-for-2024/"><u>[New] SoundQuality Synopsis for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-expand-your-instagram-skills-advanced-use-of-queries-for-2024/"><u>[Updated] Expand Your Instagram Skills Advanced Use of Queries for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-uniting-your-feeds-posting-videos-from-twitter-on-snapchat-for-2024/"><u>[Updated] Uniting Your Feeds Posting Videos From Twitter on Snapchat for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/designing-family-approved-child-friendly-steam-games/"><u>Designing Family-Approved Child-Friendly Steam Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/duel-in-the-digital-the-two-paths-of-tetris-mastery/"><u>Duel in the Digital: The Two Paths of Tetris Mastery</u></a></li>
+<li><a href="https://games-able.techidaily.com/fine-tuning-joystick-actions-on-the-xbox-one/"><u>Fine-Tuning Joystick Actions on the Xbox One</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-behringer-usb-audio-cable-drivers-today-download-and-learn-easily/"><u>Get Your Behringer USB Audio Cable Drivers Today – Download & Learn Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-enable-sound-for-anthem-in-windows-pertinent-to-fix-no-audio-problem/"><u>How to Enable Sound for Anthem in Windows Pertinent to Fix: No Audio Problem</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-honor-play-8t-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Honor Play 8T Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-the-latest-nvidia-pass-a-boon-for-gamers/"><u>Is the Latest Nvidia Pass a Boon for Gamers?</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-user-exchanges-on-twitch-live/"><u>Navigating User Exchanges on Twitch Live</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-vision-protection-eyegear/"><u>Optimal Vision Protection Eyegear</u></a></li>
+<li><a href="https://games-able.techidaily.com/pcs-best-bet-google-play-games-betas-essential-titles/"><u>PC's Best Bet: Google Play Games Beta's Essential Titles</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/prime-voice-changers-essentials-for-video-makers-for-2024/"><u>Prime Voice Changers Essentials for Video Makers for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-free-methods-converting-vob-files-into-avi-format/"><u>Top Free Methods: Converting VOB Files Into AVI Format</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-secrets-of-cs2-players-on-apple-systems/"><u>Unveiling the Secrets of CS2 Players on Apple Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/virtual-battles-the-9-best-and-worst-of-digital-gaming/"><u>Virtual Battles: The 9 Best and Worst of Digital Gaming</u></a></li>
+</ul></div>
 

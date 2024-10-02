@@ -1,7 +1,7 @@
 ---
 title: "Cross Platform Play: Connecting PS4 to PC & Mac"
-date: 2024-09-22T20:02:26.117Z
-updated: 2024-09-27T02:32:55.873Z
+date: 2024-09-27T20:28:52.004Z
+updated: 2024-10-02T01:29:25.403Z
 tags:
   - games
 categories:
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
 
  Even if you're not using Steam, connecting the DualShock 4 to your Mac is simple. OpenEmu, the best emulator out there, supports the DualShock 4 natively, so all you have to do is plug it in and start playing. It might take a minute to figure out how it maps to an NES or Genesis controller, but after a few minutes of pressing buttons, you'll have it down. Mac is usually pretty good about connecting to PlayStation controllers, you can even[use the PS5 DualSense controller on a Mac](https://www.makeuseof.com/how-to-use-ps5-dualsense-controller-with-mac/) .
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Ho to Connect a PS4 Controller to Your PC
 
  The DualShock 4 will connect to your PC easily no matter which gaming platforms you use. The processes are slightly different depending on whether you're using Steam or not, but you can expect to have the controller set up within a few minutes.
@@ -49,28 +56,22 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
 
 ![The controller settings menu in Steam Big Picture Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steam-big-picture-controller.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can even customize the LED color of the DualShock 4 in the Calibration and Advanced Settings menu.
 
 ![Steam calibration advanced settings controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steam-big-picture-mode-led.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Connecting a DualShock 4 for Non-Steam Games
@@ -88,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
  And, like the Mac, you can use PS4 remote streaming to play your PS4 games on your PC. But again, you'll need to stay plugged in or use the adapter.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The DualShock 4 Wireless USB Adapter
@@ -99,13 +100,6 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
  If you're willing to shell out for an extra accessory, the DualShock 4 wireless USB adapter is a great way to use your controller on a computer that doesn't have Bluetooth or for some other reason isn't using the controller very well. It's a small USB dongle that enables all the DualShock's features in any app that supports them. That means you'll get full rumble, light bar, and even audio through the headphone jack.
 
  This adapter is no longer officially sold, but third-party versions exist on Amazon and other websites. You can find them for a relatively cheap price, and it could be a convenient way of getting full rumble, audio, and other functionality through the DualShock 4\. Despite being an older controller, the[DualShock 4 is a better PC controller than the Switch Pro controller](https://www.makeuseof.com/dualshock-4-vs-switch-pro-controller-best-for-pc-gaming/) , despite the latter controller coming out much later. This controller has stood the test of time for its robust design, superb responsiveness, and comfortable feel.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Game on Your PC With a PS4 Controller
 
@@ -128,15 +122,20 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-exploring-the-dynamics-of-profit-distribution-in-video-shorts/"><u>[New] In 2024, Exploring the Dynamics of Profit Distribution in Video Shorts</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-how-to-add-edit-and-optimize-youtube-tagstitledescription-for-more-views/"><u>[New] In 2024, How to Add, Edit and Optimize YouTube Tags/Title/Description for More Views</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-lgs-leap-into-limitless-vision-the-4k-spectacle-of-the-31mu97-b/"><u>[Updated] LG's Leap Into Limitless Vision - The 4K Spectacle of the 31MU97-B</u></a></li>
-<li><a href="https://games-able.techidaily.com/androidiphone-arena-of-aggressive-tetris-play/"><u>Android/iPhone: Arena of Aggressive Tetris Play</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/crystal-clear-capture-amping-up-your-home-studio-recordings/"><u>Crystal Clear Capture Amping Up Your Home Studio Recordings</u></a></li>
-<li><a href="https://games-able.techidaily.com/enjoyment-over-expense-select-six-games/"><u>Enjoyment Over Expense: Select Six Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximizing-iphone-as-a-portable-game-hub/"><u>Maximizing iPhone as a Portable Game Hub</u></a></li>
-<li><a href="https://games-able.techidaily.com/service-stack-up-standoff-which-is-superior-xbox-or-sony/"><u>Service Stack-Up Standoff: Which Is Superior, Xbox or Sony?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solutions-for-overcoming-code-24-issue-in-windows-operating-systems/"><u>Solutions for Overcoming Code 24 Issue in Windows Operating Systems</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-all-time-highest-chart-youtubes-premier-video-list/"><u>[New] 2024 Approved All-Time Highest Chart YouTube's Premier Video List</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-smartphone-security-iphone-xs-face-id-versus-galaxy-recognition-for-2024/"><u>[New] Smartphone Security IPhone X’s Face ID Versus Galaxy Recognition for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-create-memorable-thumbnails-discover-these-8-youtube-aids/"><u>[Updated] 2024 Approved Create Memorable Thumbnails - Discover These 8 YouTube Aids</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-the-mp3-essentials-guide-10-online-converters-reviewed/"><u>[Updated] In 2024, The MP3 Essentials Guide #10 Online Converters Reviewed</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-leading-tag-tracker-software-on-major-platforms-like-fb-tweet-and-insta/"><u>[Updated] Leading Tag Tracker Software on Major Platforms Like FB, Tweet & Insta</u></a></li>
+<li><a href="https://games-able.techidaily.com/critical-reasons-to-elevate-xboxs-loyalty-benefits/"><u>Critical Reasons to Elevate Xbox's Loyalty Benefits</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/te-your-youtube-content-seo-methods-revealed/"><u>Elevate Your YouTube Content SEO Methods Revealed</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-playability-shift-from-ps3-to-ps4-devices/"><u>Game Playability Shift From PS3 to PS4 Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/guaranteeing-every-game-count-solving-egl-missing-titles-problems/"><u>Guaranteeing Every Game Count: Solving EGL Missing Titles Problems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974452598-horizontal-monitor-setup-done/"><u>Horizontal Monitor Setup - Done</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-ipod-and-apple-iphone-14-plus-the-right-way-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock On iPod and Apple iPhone 14 Plus The Right Way</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-google-pixel-8-pro-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Google Pixel 8 Pro Phone with Broken Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-pathway-to-peak-gaming-optimizing-your-ps4/"><u>The Pathway to Peak Gaming: Optimizing Your PS4</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrade-your-play-personalize-xbox-joysticks/"><u>Upgrade Your Play: Personalize Xbox Joysticks</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-lies-in-store-amds-rdna-35-technology-and-release/"><u>What Lies in Store: AMD's RDNA 3.5 Technology & Release</u></a></li>
 </ul></div>
 

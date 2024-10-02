@@ -1,7 +1,7 @@
 ---
 title: "Simplify and Speed Up: Steam's Storage Tutorial"
-date: 2024-09-18T02:27:37.088Z
-updated: 2024-09-21T01:47:39.645Z
+date: 2024-09-25T16:34:45.735Z
+updated: 2024-10-02T06:30:19.687Z
 tags:
   - games
 categories:
@@ -45,22 +45,29 @@ thumbnail: https://thmb.techidaily.com/5eb42b490725ed54872c9c11b47aee171fe6d7919
 
  The Steam settings menu itself is pretty hard to find as well (a very strange way of doing things, Valve). However, you might’ve opened it before if you tried setting download speed limits. Simply look to the upper-left corner and click on**Steam > Settings > Storage** .
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Open the Steam Storage Manager Through the Downloads Page
 
 ![Steam downloads page cog wheel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/steam-downloads-page-cog-wheel.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’re already on the Steam Downloads page, there’s also a**cog** on the upper right, just below the**close window button** . Click that, and it will take you right to the**Downloads** section on the**Settings** page.
 
  Just like in the image in the previous section, you'll find the**Storage** section just below the Downloads section.
 
  While you’re at the Downloads page, you might want to check out[how to increase your Steam download speeds](https://www.makeuseof.com/tag/steam-download-speeds/) so you don’t have to wait so long to get playing.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Add a New Steam Library Folder or Drive
 
@@ -69,15 +76,22 @@ thumbnail: https://thmb.techidaily.com/5eb42b490725ed54872c9c11b47aee171fe6d7919
 ![Steam Storage Add Drive button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/steam-storage-add-drive-button.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can select a drive to automatically add a \\SteamLibrary folder into it, or you could also click on**Let me choose another location.**
 
 ![Add a new Steam Library folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/add-a-new-steam-library-folder.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This will open up File Explorer and you can choose which drive or folder you want to add a new Steam Library folder to. It doesn't even need to be an internal drive, you can use an[external drive to store your Steam Games](https://www.makeuseof.com/how-to-play-steam-games-on-an-external-drive-with-steam-storage-manager/) and play straight from the external drive!
 
@@ -86,10 +100,10 @@ thumbnail: https://thmb.techidaily.com/5eb42b490725ed54872c9c11b47aee171fe6d7919
  If you only have one drive and you need space for more games but don’t want to delete any downloaded ones, check out[how to free up disk space on Windows 10](https://www.makeuseof.com/tag/6-tips-free-disk-space-windows-10/) . We’re pretty sure you can free up some space from places you didn’t know you could free up.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Set a Default Steam Library Folder or Drive
@@ -97,13 +111,6 @@ thumbnail: https://thmb.techidaily.com/5eb42b490725ed54872c9c11b47aee171fe6d7919
  Setting a default folder is great for convenience as you won’t have to choose where your game goes every time you download one. Chances are, you’ve already set a default folder for your Steam games, but if you need to set it to another one because it’s full here’s how you can do so:
 
 ![Make default Steam Drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/make-default-steam-drive.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you have your new drive added as a Steam Library destination, select that drive. On the right side of the long progress bar, click on the**three dots** and click**Make Default** . A star should appear beside the drive name and that will indicate that it is your default drive.
 
@@ -138,5 +145,22 @@ thumbnail: https://thmb.techidaily.com/5eb42b490725ed54872c9c11b47aee171fe6d7919
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/giggles-galore-an-in-depth-look-at-the-goofy-film-for-2024/"><u>'Giggles Galore' – An In-Depth Look at The Goofy Film for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-audience-connection-through-instagram-stories-questions/"><u>[New] 2024 Approved Audience Connection Through Instagram Stories Questions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/13-effective-methods-for-getting-spotify-up-and-running-again-on-android-auto/"><u>13 Effective Methods for Getting Spotify Up and Running Again on Android Auto</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-lego-stop-motion-maker/"><u>Best Lego Stop Motion Maker</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/comprehensive-assessment-of-the-advanced-microsoft-surface-studio-2-a-top-tier-all-in-one-machine/"><u>Comprehensive Assessment of the Advanced Microsoft Surface Studio 2 – A Top-Tier All-in-One Machine</u></a></li>
+<li><a href="https://games-able.techidaily.com/creating-the-ultimate-safe-ps5-environment-for-youngsters/"><u>Creating the Ultimate Safe PS5 Environment for Youngsters</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expert-techniques-for-crafting-stunning-collage-photos-on-iphone/"><u>Expert Techniques for Crafting Stunning Collage Photos on iPhone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-continuous-freezing-and-crashing-in-valheim-for-windows-players/"><u>Fixing Continuous Freezing and Crashing in Valheim for Windows Players</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-does-robloxs-performance-upgrades-work/"><u>How Does Roblox's Performance Upgrades Work?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-infographic-mind-numbing-youtube-factsfigures-and-statistics/"><u>In 2024, Infographic - Mind Numbing YouTube Facts,Figures and Statistics</u></a></li>
+<li><a href="https://games-able.techidaily.com/no-scratches-only-lights-a-ps5-guide-to-polishing/"><u>No Scratches, Only Lights: A PS5 Guide to Polishing</u></a></li>
+<li><a href="https://games-able.techidaily.com/pro-tips-amassing-steams-best-free-gaming-treasures/"><u>Pro Tips: Amassing Steam's Best Free Gaming Treasures</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-tip-check-if-cpu-is-hindering-your-computers-power/"><u>Quick Tip: Check if CPU Is Hindering Your Computer's Power</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-rise-of-immersive-multiplayer-games/"><u>The Rise of Immersive Multiplayer Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-gaming-from-sony-console-to-personal-computer/"><u>Transform Your Gaming - From Sony Console to Personal Computer</u></a></li>
+</ul></div>
 

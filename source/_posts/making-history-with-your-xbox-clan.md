@@ -1,7 +1,7 @@
 ---
 title: Making History with Your Xbox Clan
-date: 2024-09-25T16:27:13.313Z
-updated: 2024-09-27T02:09:12.026Z
+date: 2024-09-30T10:36:25.388Z
+updated: 2024-10-02T11:18:51.349Z
 tags:
   - games
 categories:
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/1ba8434482e5a95a933047ceef5f17b18e8ca4e12
 
  If you want to[find online players for your Xbox Series X|S](https://www.makeuseof.com/how-to-find-online-players-on-xbox-series-xs/) , Clubs are a great place to look.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Do I Make a Club on My Xbox Series X|S?
 
  Making a Club is simple. Start by booting up your Xbox Series X|S and follow the instructions below to create your very own Club:
@@ -46,18 +39,27 @@ thumbnail: https://thmb.techidaily.com/1ba8434482e5a95a933047ceef5f17b18e8ca4e12
 2. Scroll to the right until you reach the**People** tab.  
 ![People Tab of Xbox Home Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/people-tab-of-xbox-home-menu.jpg)
 3. Select**Friends & Community Updates** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Select**Clubs on Xbox** and press**Create a Club** .  
 ![Clubs on Xbox Button in Community Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/clubs-on-xbox-button-in-community-menu.jpg)
 5. Select whether you want to make a**Public** ,**Private** , or**Hidden** group. Public means anyone can find, play, and see your club's content, but only members can chat. Private means anyone can see your club, but only members can engage with it, and hidden means that only members can see or engage with the club.  
-![Club Types on Xbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/club-types-on-xbox.jpg)
-6. Now comes the hardest part—thinking of a name for your club. If you’re creating the club to find players to play a certain game, giving it a name that resonates with that game is a good start.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Club Types on Xbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/club-types-on-xbox.jpg)
+6. Now comes the hardest part—thinking of a name for your club. If you’re creating the club to find players to play a certain game, giving it a name that resonates with that game is a good start.
 
 7. Select**Create club** once you’ve made your choices.
 8. From there, you can customize your club by giving it a background and profile image, choosing a color scheme, and making tags to help others find and join your exclusive club.  
@@ -65,16 +67,10 @@ thumbnail: https://thmb.techidaily.com/1ba8434482e5a95a933047ceef5f17b18e8ca4e12
 9. Press**Done** to complete your club.
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  And just like that, you have created your Club. You just have to sit back and wait for the tags to do their work before you can start playing the[best co-op games on the Xbox Series X|S](https://www.makeuseof.com/best-couch-co-op-games-for-xbox-series-x-s/) with your new friends.
@@ -82,10 +78,10 @@ thumbnail: https://thmb.techidaily.com/1ba8434482e5a95a933047ceef5f17b18e8ca4e12
  Provided it’s not hidden, of course. If it is, you will have to press**Invite someone** on the Club home page and send your invites out to your lucky recipients manually.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Delete a Club on the Xbox Series X|S
@@ -123,15 +119,20 @@ Your Club will now be deleted.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-best-box-personalizing-online-spots-unique-heartfelt-gestures/"><u>[New] Best Box-Personalizing Online Spots Unique, Heartfelt Gestures</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-a-step-by-step-guide-to-youtube-image-branding/"><u>[New] In 2024, A Step-by-Step Guide to YouTube Image Branding</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-world-within-reach-the-most-exciting-psvr-games-ahead/"><u>2024 Approved World Within Reach The Most Exciting PSVR Games Ahead</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-mapmyride-app-analysis/"><u>Comprehensive MapMyRide App Analysis</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-tips-for-resetting-ps5-gamepad/"><u>Essential Tips for Resetting PS5 Gamepad</u></a></li>
-<li><a href="https://games-able.techidaily.com/hall-effect-keys-in-focus-review-of-modular-board-mod007b/"><u>Hall Effect Keys in Focus - Review of Modular Board MOD007B</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-conquer-the-vr-world-your-first-vr-adventure/"><u>In 2024, Conquer the VR World Your First VR Adventure</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-a-quick-reboot-can-save-your-gaming-experience/"><u>Why a Quick Reboot Can Save Your Gaming Experience</u></a></li>
-<li><a href="https://games-able.techidaily.com/xboxs-response-to-breaches-the-strike-mechanism/"><u>Xbox's Response to Breaches: The Strike Mechanism</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-perfect-habits-to-embrace-with-podcasts-playing/"><u>[Updated] Perfect Habits to Embrace with Podcasts Playing</u></a></li>
+<li><a href="https://games-able.techidaily.com/2023s-ultimate-list-choosing-the-ideal-steering-wheels-for-realistic-racing-experiences-gametech-insights/"><u>2023'S Ultimate List: Choosing the Ideal Steering Wheels for Realistic Racing Experiences - GameTech Insights</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-6s-plus-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>Apple iPhone 6s Plus Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/beginners-walkthrough-downloading-and-using-corsair-icue-on-microsofts-latest-operating-systems/"><u>Beginner's Walkthrough – Downloading & Using Corsair iCUE on Microsoft’s Latest Operating Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/choosing-the-perfect-gaming-console-xbox-series-x-or-series-s-a-detailed-comparison-by-zdnet/"><u>Choosing the Perfect Gaming Console: Xbox Series X or Series S - A Detailed Comparison by ZDNet</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-tecno-spark-20-pro-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Tecno Spark 20 Pro to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-tecno-pova-5-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Tecno Pova 5 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mac-troubleshooting-101-how-to-access-the-system-recovery-menu-easily/"><u>Mac Troubleshooting 101: How to Access the System Recovery Menu Easily</u></a></li>
+<li><a href="https://games-able.techidaily.com/playstation-5-pro-by-sony-is-here-learn-about-pricing-release-date-and-key-attributes-as-explored-by-zdnet/"><u>PlayStation 5 Pro by Sony Is Here! Learn About Pricing, Release Date and Key Attributes as Explored by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/samsungs-new-odyssey-neo-g9-smartphone-launches-at-a-steep-price-of-1300-on-amazon/"><u>Samsung's New Odyssey Neo G9 Smartphone Launches at a Steep Price of $1,300 on Amazon</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-your-guide-to-cutting-edge-gadgets-and-components/"><u>Tom's Tech Hub: Your Guide to Cutting-Edge Gadgets and Components</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-9-gaming-optimized-isps-ranked-by-performance-insights-from-zdnet/"><u>Top 9 Gaming-Optimized ISPs Ranked by Performance - Insights From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-rated-gaming-headsets-comprehensive-review-by-tech-experts-pcmag/"><u>Top-Rated Gaming Headsets : Comprehensive Review by Tech Experts | PCMag</u></a></li>
 </ul></div>
 

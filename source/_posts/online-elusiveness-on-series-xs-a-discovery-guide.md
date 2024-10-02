@@ -1,7 +1,7 @@
 ---
 title: "Online Elusiveness on Series X/S: A Discovery Guide"
-date: 2024-09-22T02:36:44.249Z
-updated: 2024-09-27T04:33:21.744Z
+date: 2024-10-01T11:39:28.119Z
+updated: 2024-10-01T22:06:38.758Z
 tags:
   - games
 categories:
@@ -39,19 +39,6 @@ thumbnail: https://thmb.techidaily.com/6395a405feac0920efaceeee04a9b0803cb7c1fce
 
  If you find a recent post by an offline friend, you know they are appearing offline. And through the type of posts you find, you can see the games, achievements, or captures your friend has posted.
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. View the Xbox Series X|S Gamerscore Leaderboard
 
  Aside from searching through Xbox posts, a quicker way of telling if someone has been appearing offline involves viewing the monthly**Gamerscore leaderboard** on your Xbox Series X|S.
@@ -66,22 +53,15 @@ thumbnail: https://thmb.techidaily.com/6395a405feac0920efaceeee04a9b0803cb7c1fce
 ![A screenshot of the Gamerscore Leaderboard on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3160-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Look through the rankings of you and your friends, looking for an offline friend who has been consistently earning Gamerscore.
 
  If you know someone hasn't been online for the duration of the time the**Gamerscore leaderboard** has been tracking Achievements, but you can see they have earned Gamerscore, they are appearing offline.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Look Through Your Xbox Friend’s Achievements
 
@@ -95,16 +75,16 @@ thumbnail: https://thmb.techidaily.com/6395a405feac0920efaceeee04a9b0803cb7c1fce
 
 ![A screenshot of an Xbox Friend profile on Xbox Series X with the option See Full Profile highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3163.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Under**Social** , highlight**Activity Feed** to see recently unlocked Achievements.
 
 ![A screenshot of an Xbox Friend Activity Feed on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3173.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  From here, you should be able to see your friend's most recently unlocked Achievement and how long ago it was unlocked. You know your friend is appearing offline if they are offline but have unlocked Achievements recently.
 
@@ -123,11 +103,25 @@ thumbnail: https://thmb.techidaily.com/6395a405feac0920efaceeee04a9b0803cb7c1fce
 
 ![A screenshot of the Gaming option available on Xbox Series X when comparing two Xbox Profiles](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3169.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Scroll down the on-screen gaming stats until you find**Time played** .
 
 ![A screenshot of the Time Played statistic on an Xbox Series X for a specific Xbox game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3166.jpg)
 
  With stats for**Time played** on-screen, you can check how much time the friend has put into the selected game. If you suspect them of being offline, you can check the**Time played** stat again to see if they have put more time into the game while seemingly offline.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Keep Track of Your Friends on Xbox Series X|S for Smooth Social Gaming
 
@@ -150,18 +144,18 @@ thumbnail: https://thmb.techidaily.com/6395a405feac0920efaceeee04a9b0803cb7c1fce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-resolved-mystery-of-absentee-shorts/"><u>[New] In 2024, Resolved Mystery of Absentee Shorts</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-the-ultimate-list-of-ps2-games-for-ios-emulation/"><u>[New] The Ultimate List of PS2 Games for iOS Emulation</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-assemble-ppt-narratives-into-video/"><u>[Updated] In 2024, Assemble PPT Narratives Into Video</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-evaluating-the-latest-in-camcorders-and-live-streaming-tech/"><u>2024 Approved Evaluating the Latest in Camcorders and Live Streaming Tech</u></a></li>
-<li><a href="https://games-able.techidaily.com/ai-puzzles-unraveling-virtual-crime-stories/"><u>AI Puzzles Unraveling Virtual Crime Stories</u></a></li>
-<li><a href="https://games-able.techidaily.com/are-high-end-macs-shaping-up-future-gaming-scenarios/"><u>Are High-End Macs Shaping Up Future Gaming Scenarios?</u></a></li>
-<li><a href="https://games-able.techidaily.com/batocera-vs-retropie-which-is-better-for-raspberry-pi-retro-gaming/"><u>Batocera Vs. RetroPie: Which Is Better for Raspberry Pi Retro Gaming?</u></a></li>
-<li><a href="https://games-able.techidaily.com/best-6-games-for-versatile-streamers-to-play/"><u>Best 6 Games for Versatile Streamers to Play</u></a></li>
-<li><a href="https://games-able.techidaily.com/best-of-both-worlds-15-unique-mobile-dual-play-games/"><u>Best of Both Worlds: 15 Unique Mobile Dual Play Games</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eliminating-wide-screen-distortions-on-windows-10/"><u>Eliminating Wide-Screen Distortions on Windows 10</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-a2plus-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi A2+ Phone without Any Data Loss</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-mac-preview-a-compreranary-reference-guide/"><u>Mastering Mac Preview A Compreranary Reference Guide</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-z-flip-5-won-t-play-mkv-movies-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Samsung Galaxy Z Flip 5 won’t play MKV movies</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-crafting-professional-broadcasts-mastering-obs-plus-zoom-techniques-for-2024/"><u>[New] Crafting Professional Broadcasts Mastering OBS + Zoom Techniques for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-basketball-enthusiasts-guide-to-online-viewing/"><u>2024 Approved Basketball Enthusiast's Guide to Online Viewing</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-elite-arena-showdown-best-of-the-royales/"><u>2024 Approved Elite Arena Showdown Best of the Royales</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-revolutionizing-podcast-titles-leading-10-ai-generators/"><u>2024 Approved Revolutionizing Podcast Titles Leading 10 AI Generators</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-monetary-journey-of-ajey-nagar-on-youtube/"><u>2024 Approved The Monetary Journey of Ajey Nagar on YouTube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mp3-wmv-movavi/"><u>在線 MP3 改成 WMV - 使用 Movavi 電子郵件免費提高效率</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/1715701074716-eco-friendly-recorder-ads-absolved/"><u>Eco-Friendly Recorder - Ads Absolved!</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-service-stack-up-xbox-game-pass-versus-psplus-ultimate/"><u>Gaming Service Stack-Up: Xbox Game Pass Versus PS+ Ultimate</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-gaming-giants-clash-4070-super-vs-titan-x-4080/"><u>Nvidia's Gaming Giants Clash: 4070 Super Vs. Titan X, 4080</u></a></li>
+<li><a href="https://games-able.techidaily.com/play-baldurs-gate-3-to-its-fullest-extent-on-an-m1m2-mac-device/"><u>Play Baldur’s Gate 3 to Its Fullest Extent on an M1/M2 Mac Device</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/sharpen-your-footage-the-essentials-of-video-enhance-22-for-2024/"><u>Sharpen Your Footage The Essentials of Video Enhance 2.2 for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-manual-for-deleting-old-saved-files-from-ps5/"><u>Step-by-Step Manual for Deleting Old Saved Files From PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-seamless-transition-nintendo-and-mac/"><u>The Seamless Transition: Nintendo & Mac</u></a></li>
 </ul></div>
 

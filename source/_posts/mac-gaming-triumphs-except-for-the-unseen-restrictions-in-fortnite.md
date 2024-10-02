@@ -1,7 +1,7 @@
 ---
 title: Mac Gaming Triumphs – Except for the Unseen Restrictions in Fortnite
-date: 2024-09-18T22:59:48.731Z
-updated: 2024-09-21T02:54:05.627Z
+date: 2024-09-30T01:43:14.623Z
+updated: 2024-10-01T22:06:11.852Z
 tags:
   - games
 categories:
@@ -48,6 +48,13 @@ Follow these steps to get Fortnite on your Mac:
 
 ![Fortnite's Epic Store page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/fortnite-s-epic-store-page.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why Installing Fortnite on Your Mac Is a Bad Idea
 
  While Fortnite will likely boot and run smoothly on most recent Macs,[the Epic Games vs. Apple lawsuit](https://www.makeuseof.com/epic-games-apple-lawsuit-explained/) has marred the Fortnite experience on macOS because the developer has refused to update its game.
@@ -56,9 +63,23 @@ Follow these steps to get Fortnite on your Mac:
 
 ![Almost empty outfit section in Fortnite Locker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/almost-empty-outfit-section-in-fortnite-locker.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Epic Games has also blocked access to V-Bucks and the Item Shop. So, you can't buy new skins, emotes, gifts, back blings, or any other cosmetic items. And if you bought any on another device running a more recent version of Fortnite, you won't see it in your inventory.
 
  This, combined with its overly bloated size, makes the Fortnite experience on macOS very disappointing.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Play the Latest Version of Fortnite on Your Mac
 
@@ -69,25 +90,25 @@ Follow these steps to get Fortnite on your Mac:
 1. Visit[Fortnite's Xbox Cloud Gaming page](https://www.xbox.com/en-US/play/games/fortnite/BT5P2X999VH2) using a browser (preferably Google Chrome).  
 ![Fortnite's Xbox Cloud Gaming page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-22-at-1-32-25-pm.png)
 2. Click**Sign In** and enter your Microsoft account credentials.
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. After signing in, click**Play** ​​​​​​. You'll need a controller to play Fortnite.  
 ![Fortnite Xbox Cloud Gaming page with Play button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-22-at-1-35-35-pm.png)
 4. Link your Epic Games and Microsoft accounts by following the instructions in Fortnite.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Fortnite on browser asking to link accounts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-22-at-1-39-07-pm.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you're done with that, you should be ready to play Fortnite over the cloud. But ensure you have a fast and stable internet connection. Using a slow network means you'll have to log in again frequently.
 
@@ -110,5 +131,22 @@ Follow these steps to get Fortnite on your Mac:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-essential-tips-for-editing-your-videos-in-youtube-studio/"><u>[New] 2024 Approved Essential Tips for Editing Your Videos in YouTube Studio</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-finding-the-right-wordmark-for-your-personalized-tiktok-stream/"><u>[New] 2024 Approved Finding the Right Wordmark for Your Personalized TikTok Stream</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-finest-digital-voice-recorders/"><u>[New] In 2024, Finest Digital Voice Recorders</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-revolutionizing-film-editing-advanced-kinemaster-methods/"><u>2024 Approved Revolutionizing Film Editing Advanced Kinemaster Methods</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/boosting-sales-via-high-roi-animated-fb-ad-campaigns/"><u>Boosting Sales via High-ROI Animated FB Ad Campaigns</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-steam-deck-performance-with-the-top-9-emulation-tools/"><u>Enhance Steam Deck Performance with the Top 9 Emulation Tools</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/erase-the-obvious-techniques-for-masked-youtube-content-for-2024/"><u>Erase the Obvious Techniques for Masked YouTube Content for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/experience-different-chess-worlds-with-these-6-mobile-games/"><u>Experience Different Chess Worlds with These 6 Mobile Games</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/first-steps-in-perfecting-your-french-accent/"><u>First Steps in Perfecting Your French Accent</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-strategy-genius-6-chatgpt-tactics-for-dungeon-mastering-excellence/"><u>Game Strategy Genius: 6 ChatGPT Tactics for Dungeon Mastering Excellence</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-windows-and-steam-connection-for-remote-play/"><u>Mastering Windows & Steam Connection for Remote Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-into-retro-gaming-world-with-segas-dreamcatcher-classics-android-edition/"><u>Step Into Retro Gaming World with Sega's Dreamcatcher Classics, Android Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-10-led-lighting-advancements/"><u>Top 10 LED Lighting Advancements</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unpacking-the-confusion-a-comprehensive-look-at-the-pixel-slate-and-chromeos-mismatches/"><u>Unpacking the Confusion: A Comprehensive Look at the Pixel Slate and ChromeOS Mismatches</u></a></li>
+<li><a href="https://games-able.techidaily.com/will-portable-macs-transform-the-gaming-world/"><u>Will Portable Macs Transform the Gaming World?</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Reconsidering the Price of Next-Gen Graphics Cards
-date: 2024-09-25T16:23:06.106Z
-updated: 2024-09-26T19:48:48.291Z
+date: 2024-10-01T10:41:40.616Z
+updated: 2024-10-01T17:56:15.745Z
 tags:
   - games
 categories:
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44
 * [Power Consumption Is Very High](#power-consumption-is-very-high)
 * [Too Expensive for Diminishing Returns](#too-expensive-for-diminishing-returns)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * The games I normally play don't utilize my RTX 4090 fully, and my CPU holds its performance back at 1440p resolution.
@@ -32,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44
 * Consider the RTX 4080 Super if you don't plan to play games at 4K resolution. It's far less power hungry with a 320W TDP.
 
  Despite launching in 2022, the RTX 4090 is still the world's fastest graphics card as of early 2024\. Although I enjoyed using it to play AAA games over the past year and a half, I still regret buying it for a few reasons.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1 My GPU Usage Is Far From 100 Percent
 
@@ -47,20 +61,13 @@ thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44
 
 ![RTSS OSD stats appearing in Valorant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/rtss-osd-stats-appearing-in-valorant.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Even in graphically demanding AAA games, my GPU usage rarely exceeds 90 percent. And that's because my CPU can't keep up. I use a Ryzen 5900X, which is a generation older than the top-of-the-line AMD Ryzen processors available today, like[the Ryzen 7800X3D, 7900X3D, and 7950X3D](https://www.makeuseof.com/ryzen-9-7950x3d-vs-ryzen-9-7900x3d-vs-ryzen-7-7800x3d/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2 Power Consumption Is Very High
@@ -74,22 +81,15 @@ thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44
 ![a triple-monitor PC gaming setup with Cyberpunk 2077 running on the main display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/04/a-triple-monitor-pc-gaming-setup-with-cyberpunk-2077-running-on-the-main-display.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Hamlin Rozario/[MakeUseOf](https://www.makeuseof.com/author/hamlin-rozario/)
 
  That said, it's worth noting that power draw isn't a major issue when I'm playing less GPU-demanding games like Valorant or Fortnite because the GPU usage is typically low.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3 Too Expensive for Diminishing Returns
 
@@ -116,19 +116,17 @@ thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-elite-gaming-spectacle-cut-to-best-7-shooters/"><u>[New] 2024 Approved Elite Gaming Spectacle Cut to Best 7 Shooters</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-hit-tiktok-recipes-viral-culinary-delights/"><u>2024 Approved Hit TikTok Recipes Viral Culinary Delights</u></a></li>
-<li><a href="https://games-able.techidaily.com/audio-integration-playstation-5-plus-wireless-headphones/"><u>Audio Integration: PlayStation 5 + Wireless Headphones</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-pc-excellence-and-control-4-strong-points-in-corsairs-icue-link/"><u>Elevate PC Excellence and Control: 4 Strong Points in Corsair’s iCUE Link</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gentle-volume-reduction-methods-in-ableton-live-for-2024/"><u>Gentle Volume Reduction Methods in Ableton Live for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-samsung-galaxy-s23-ultra-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Samsung Galaxy S23 Ultra Through Google Earth?</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-huawei-nova-y91-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Huawei Nova Y91 | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-zoom-meetings-on-windows-10/"><u>In 2024, Navigating Zoom Meetings on Windows 10</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-samsung-galaxy-m34-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Samsung Galaxy M34 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/maximize-organic-visibility-using-cookiebot-technology-a-leading-edge-in-seo-strategies/"><u>Maximize Organic Visibility Using Cookiebot Technology: A Leading Edge in SEO Strategies</u></a></li>
-<li><a href="https://games-able.techidaily.com/next-gen-gaming-mouse-logitechs-innovation/"><u>Next Gen Gaming Mouse - Logitech's Innovation</u></a></li>
-<li><a href="https://games-able.techidaily.com/premium-earbuds-for-switch-titles/"><u>Premium Earbuds for Switch Titles</u></a></li>
-<li><a href="https://games-able.techidaily.com/techniques-to-secure-your-kids-online-interactions-on-discord/"><u>Techniques to Secure Your Kid's Online Interactions on Discord</u></a></li>
-<li><a href="https://games-able.techidaily.com/unraveling-the-mystery-foddians-beginnings/"><u>Unraveling the Mystery: Foddian's Beginnings</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-collect-free-image-resources-via-top-4-online-stock-hubs/"><u>[New] In 2024, Collect Free Image Resources Via Top 4 Online Stock Hubs</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-the-sound-sleuths-guide-to-recording-streaming-media/"><u>[New] In 2024, The Sound Sleuth's Guide to Recording Streaming Media</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-secrets-to-capturing-engaging-and-dynamic-presentations/"><u>2024 Approved Secrets to Capturing Engaging and Dynamic Presentations</u></a></li>
+<li><a href="https://games-able.techidaily.com/discounted-bundle-offer-xbox-4k-max-and-amazon-fire-tv-stick-for-only-10895-plus-free-access-to-xbox-games-shop-smart-on-zdnet/"><u>Discounted Bundle Offer! Xbox 4K Max & Amazon Fire TV Stick for Only $108.95 + Free Access to Xbox Games | Shop Smart on ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-lava-blaze-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-poco-f5-pro-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Poco F5 Pro 5G</u></a></li>
+<li><a href="https://games-able.techidaily.com/hp-victus-15l-laptop-now-only-520-a-steal-at-nearly-40-discounted-price-learn-more-here/"><u>HP Victus 15L Laptop Now Only $520: A Steal at Nearly 40% Discounted Price! - Learn More Here</u></a></li>
+<li><a href="https://games-able.techidaily.com/in-depth-hyperx-cloud-alpha-wireless-headset-evaluation-exceptional-long-lasting-battery-performance-for-gamers-and-music-lovers-techradar/"><u>In-Depth HyperX Cloud Alpha Wireless Headset Evaluation: Exceptional Long-Lasting Battery Performance for Gamers & Music Lovers - TechRadar</u></a></li>
+<li><a href="https://games-able.techidaily.com/limited-time-offer-save-350-on-the-hp-victus-15-exclusive-deal-from-best-buy-this-labor-day-techspot/"><u>Limited-Time Offer: Save $350 on the HP Victus 15 - Exclusive Deal From Best Buy This Labor Day | TechSpot</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-free-filmora-download-a-step-by-step-guide-virus-free/"><u>New In 2024, Free Filmora Download A Step-by-Step Guide Virus-Free</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722902717611-secure-your-pc-without-spending-a-penny-15-must-use-bootable-av-tools/"><u>Secure Your PC Without Spending a Penny - 15 Must-Use Bootable AV Tools!</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-5-must-play-nintendo-switch-titles-insights-from-zdnet/"><u>Top 5 Must-Play Nintendo Switch Titles : Insights From ZDNet</u></a></li>
 </ul></div>
 

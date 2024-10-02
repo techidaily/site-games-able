@@ -1,7 +1,7 @@
 ---
 title: Transform Your ROMs Internationally Using Translation Patches
-date: 2024-09-23T08:03:20.163Z
-updated: 2024-09-26T18:37:55.529Z
+date: 2024-09-24T20:02:39.233Z
+updated: 2024-10-01T19:44:38.324Z
 tags:
   - games
 categories:
@@ -35,16 +35,16 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 
 ![A screenshot of the Fusion emulator directory on File Explorer highlighting a Roms folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2686-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  While every emulator is different, you can test your ROM files in roughly the same way. Open your emulator, then select**File > Load ROM** . Choose the ROM file saved in the**ROMS** folder of your emulator's directory.
 
  In most cases, the ROM file should load, letting you play the game (albeit in an untranslated state). If the ROM does not load, obtain another copy of the ROM file or confirm the ROM file currently works with the emulator you have chosen.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### A Translation Patch File
 
@@ -53,13 +53,6 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 [Romhacking](https://www.romhacking.net/translations) has a library of translations (and a whole heck of a lot more) available for games of all generations. And there happens to be a “Fully Playable” English translation of Panorama Cotton available to download. Select**Download** under**Links** to download the translation patch file.
 
 ![Panorama Cotton English translation patch page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/romhacking-panorama-cotton-translation.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Some patch files are .zip or .7zip files. Ensure you have the appropriate software/app installed on your device, so you can open the file and drop it into its appropriate folder.
 
@@ -70,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
  In the past, you needed to know the different types of patch files. But today, that's not really the case, especially as you can[create your own Rom Hacks for games like Pokémon](https://www.makeuseof.com/how-to-create-rom-hacks/) from an Android device or straight from the web with sites like Rom Patcher JS. Let's use the former as an example.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Apply a Fan Translation Patch to Your ROM
@@ -87,13 +80,20 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 ![A screenshot of Rom Patcher JS with a loaded Rom File and Patch File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/panorama-cotton-english-translation-file-in-folder-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now it’s time to test out the new ROM file. Load the new ROM file in your emulator as normal. Did it work? In this example, yes! Take a look at the side-by-side comparison of the newly patched ROM file (left) and the original ROM file (right) in action!
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Patch Your Favorite Classic Games in a Few Simple Steps
 
@@ -114,20 +114,19 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-building-brands-through-innovative-design-work/"><u>[New] Building Brands Through Innovative Design Work</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-effective-ways-to-gather-media-image-collections-for-2024/"><u>[New] Effective Ways to Gather Media Image Collections for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/all-games-everywhere-a-new-trend-emerges/"><u>All Games, Everywhere - A New Trend Emerges</u></a></li>
-<li><a href="https://games-able.techidaily.com/assessing-the-necessity-of-mechanical-inputs-in-competitive-play/"><u>Assessing the Necessity of Mechanical Inputs in Competitive Play</u></a></li>
-<li><a href="https://games-able.techidaily.com/best-in-class-240hz-refresh-rate-monitors-for-gamers/"><u>Best in Class: 240Hz Refresh Rate Monitors for Gamers</u></a></li>
-<li><a href="https://games-able.techidaily.com/best-iphoneipad-emulators-for-immersive-gameplay/"><u>Best iPhone/iPad Emulators for Immersive Gameplay</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-asus-rog-phone-8-pro-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719169753046-guide-enjoy-xbox-games-anyhow/"><u>Guide: Enjoy Xbox Games Anyhow!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Itel A05s | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-speech-analysis-and-command-execution/"><u>In 2024, Free Speech Analysis & Command Execution</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/synthesizing-best-canon-sequential-videos-for-2024/"><u>Synthesizing Best Canon Sequential Videos for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-essential-guide-top-10-facts-you-need-to-consider-when-investing-in-a-foldable-smartphone/"><u>The Essential Guide: Top 10 Facts You Need to Consider When Investing in a Foldable Smartphone</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719166702515-top-4-ios-emulators-resurrect-game-boy-advance-classics/"><u>Top 4 iOS Emulators: Resurrect Game Boy Advance Classics</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719164624136-top-ranked-gba-ios-simulators-unveiled/"><u>Top-Ranked GBA iOS Simulators Unveiled!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unlocking-gopros-full-potential/"><u>Unlocking GoPro's Full Potential</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-the-elite-10-in-mac-gif-recording-apps/"><u>[New] In 2024, The Elite 10 in Mac GIF Recording Apps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-name-selection-for-distinctive-youtube-channels/"><u>[New] Mastering Name Selection for Distinctive YouTube Channels</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-sorbet-snapshot-guide-a-thorough-examination-of-screen-recorder/"><u>[New] Sorbet Snapshot Guide A Thorough Examination of Screen Recorder</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-essential-steps-to-record-films-on-computersmacs-and-phones-for-2024/"><u>[Updated] Essential Steps to Record Films on Computers/Macs & Phones for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-turn-your-meet-webinar-into-an-interactive-participant-showcase-for-2024/"><u>[Updated] Turn Your Meet Webinar Into an Interactive Participant Showcase for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/through-engagement-securing-youtube-partnership-membership-for-2024/"><u>Earn Through Engagement Securing YouTube Partnership Membership for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-changing-rig-razer-basilisk-v3-pro-zero-lag-ultimate-speed/"><u>Game-Changing Rig: Razer Basilisk V3 Pro - Zero Lag, Ultimate Speed</u></a></li>
+<li><a href="https://games-able.techidaily.com/gpu-showdown-exploring-4070-super-ti-and-4080-super-powerhouses/"><u>GPU Showdown: Exploring 4070 Super, Ti & 4080 Super Powerhouses</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/methods-to-rectify-launcher-problem-0x803f8001-in-mcpc/"><u>Methods to Rectify Launcher Problem 0X803F8001 in MCPC</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/navigating-the-skies-an-in-depth-look-at-the-indooroutdoor-capabilities-of-blades-blh4100-120-rtf-helicopter/"><u>Navigating the Skies: An In-Depth Look at the Indoor/Outdoor Capabilities of Blade's BLH4100 120 RTF Helicopter</u></a></li>
+<li><a href="https://games-able.techidaily.com/no-more-plugins-heres-how-you-can-still-dive-into-flash-games/"><u>No More Plugins? Here’s How You Can Still Dive Into Flash Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-new-tech-ai-meets-realistic-gaming-with-dlss-35/"><u>Nvidia's New Tech: AI Meets Realistic Gaming with DLSS 3.5</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-google-pixel-8-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Google Pixel 8 Phone Hassle-Free</u></a></li>
 </ul></div>
 

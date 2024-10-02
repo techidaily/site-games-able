@@ -1,7 +1,7 @@
 ---
 title: "Switching Seamlessly: PC Games with Modern Xbox Joycons (148 Chars)"
-date: 2024-09-18T02:19:03.052Z
-updated: 2024-09-20T22:43:56.661Z
+date: 2024-09-30T08:45:57.557Z
+updated: 2024-10-02T07:03:31.184Z
 tags:
   - games
 categories:
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
 
  If you have trouble, make sure you're using a high-quality cable. Some USB-C cables only charge and don't support data transfer, so you might need to purchase another cable that supports all functionality.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. How to Connect an Xbox Controller to PC Using Bluetooth
 
 [If your PC has Bluetooth](https://www.makeuseof.com/does-computer-have-bluetooth/) , this is a convenient way of connecting your Xbox controller and PC wirelessly. However, to use it with an Xbox One controller, you must have the later model; see the image below for an illustration of the differences.
@@ -51,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
 
 ![Xbox One controller model comparison](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2017/11/Xbox-Controller-Comparison.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image Credit: Xbox Support  
   
   To use Bluetooth in Windows 10, head to**Settings > Devices > Bluetooth & other devices** . On Windows 11, go to**Settings > Bluetooth & devices** . There, enable the**Bluetooth** slider (if it isn't turned on already), then choose**Add Bluetooth or other device** (Windows 10) or**Add device** (Windows 11). Select**Bluetooth** from the resulting list.
@@ -60,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
  From here, your Xbox controller should show up in the Bluetooth pairing menu on your PC. Select it and complete the steps to pair them. If you have trouble, see[how to fix Bluetooth pairing errors in Windows](https://www.makeuseof.com/try-connecting-device-bluetooth-pairing-error-windows/) .
 
  Remember that the batteries in your Xbox controller will drain when using it wirelessly. To save money on batteries, we recommend picking up the[Xbox One Play and Charge Kit](https://www.amazon.com/Xbox-One-Play-Charge-Kit/dp/B00DBDPOZ4?th=1&psc=1&linkCode=ll1&tag=muo-v2-pagvhls-20&linkId=141e39c0797a1d7786bbe752350e72cf&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU26753&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Ftag%2Fconnect-xbox-one-controller-pc%2F&asc%5Fcampaign=Evergreen) (Xbox One controllers) or the[Xbox Rechargeable Battery](https://www.amazon.com/Xbox-Rechargeable-Battery-USB-C%C2%AE-Cable-one/dp/B08DFB4889?crid=2M3PAHF8MA3Y4&dchild=1&keywords=series%2Bx%2Bplay%2Band%2Bcharge%2Bkit&qid=1616106289&sprefix=series%2Bx%2Bplay%2Caps%2C168&sr=8-2&th=1&linkCode=ll1&tag=muo-v2-pagvhls-20&linkId=7d0bf187ffc186ab3a95d34957c4f9bf&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU26753&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Ftag%2Fconnect-xbox-one-controller-pc%2F&asc%5Fcampaign=Evergreen) (Series X|S controllers) to give your controller recharging capabilities. You can easily plug your controller into your PC when you're not using it, so it will always be ready for your next session.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Use the Xbox Wireless Adapter to Pair Your Xbox One Controller to a PC
 
@@ -74,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
  From here, you can enjoy your Xbox controller on your PC wirelessly, just like using Bluetooth. We only recommend this method if you have an Xbox One controller that's not Bluetooth-enabled, though. Otherwise, it's better to[add Bluetooth to your computer](https://www.makeuseof.com/add-bluetooth-pc/) with an adapter that's cheaper than the Xbox Wireless Adapter. You could also put the money that you'd spend on the Xbox Wireless Adapter towards a new Series X|S controller.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Reconnect Your Xbox Controller to Your Console
@@ -93,19 +114,6 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
  If you have an Xbox Series X|S controller, there's a convenient shortcut for switching paired devices. When you have the controller connected to a Bluetooth device, press the**Pair** button on top of the controller twice to immediately switch to the last Xbox Wireless connection (usually your console). Then, press the**Pair** button twice again to reconnect to the Bluetooth device you were just using.
 
  Finally, remember that you can turn off your Xbox controller (when it's not connected to a PC or console with a cable) by holding the**Xbox** button for around five seconds. When the light on this button goes out, your controller is off.
-
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Connect an Xbox Controller to Your PC Easily
 
@@ -126,5 +134,26 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-13-pivotal-metaverse-experiences-for-deeper-comprehension/"><u>[New] In 2024, 13 Pivotal Metaverse Experiences for Deeper Comprehension</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-intenseflame-screen-recorders/"><u>[Updated] 2024 Approved IntenseFlame Screen Recorders</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diy-tech-savvy-the-ultimate-tutorial-for-programming-a-multifunctional-remote-controller/"><u>DIY Tech Savvy: The Ultimate Tutorial for Programming a Multifunctional Remote Controller</u></a></li>
+<li><a href="https://games-able.techidaily.com/enable-remote-play-connecting-mobile-devices-and-ps5/"><u>Enable Remote Play: Connecting Mobile Devices and PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/graphic-inputs-in-rhythm-games-best-choice/"><u>Graphic Inputs in Rhythm Games: Best Choice?</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-exploring-earth-with-high-res-the-mi-drone-review/"><u>In 2024, Exploring Earth with High Res The MI Drone Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/installing-epic-and-gog-titles-on-your-steam-deck/"><u>Installing Epic and GOG Titles on Your Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-steam-deck-keyboard-functionality/"><u>Mastering Steam Deck Keyboard Functionality</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-twitch-on-your-phone-a-guide-to-live-broadcasts/"><u>Mastering Twitch on Your Phone: A Guide to Live Broadcasts</u></a></li>
+<li><a href="https://win11.techidaily.com/microsofts-copilot-key-enhancing-productivity-with-windows-11/"><u>Microsoft's Copilot Key: Enhancing Productivity with Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/movmp4-windowsmac/"><u>MOVファイルをMP4形式への変換手順: WindowsとMacユーザーのために</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-screen-distortion-in-pcs-gpu-fixes/"><u>Overcoming Screen Distortion in PCs - GPU Fixes</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/streamline-your-journey-to-zoom-mastery/"><u>Streamline Your Journey to Zoom Mastery</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-and-resolving-launcher-error-0x803f8001/"><u>Understanding and Resolving Launcher Error 0X803F8001</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-8-best-free-video-game-sound-effects-you-need-to-know/"><u>Updated In 2024, 8 Best Free Video Game Sound Effects You Need to Know</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-are-steam-points-how-to-get-and-use-them/"><u>What Are Steam Points? How to Get and Use Them</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-is-nvidias-ai-powered-dlss-35-and-how-does-it-work/"><u>What Is Nvidia's AI-Powered DLSS 3.5 and How Does It Work?</u></a></li>
+</ul></div>
 

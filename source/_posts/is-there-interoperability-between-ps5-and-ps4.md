@@ -1,7 +1,7 @@
 ---
 title: Is There Interoperability Between PS5 & PS4?
-date: 2024-09-21T04:45:19.373Z
-updated: 2024-09-27T00:44:05.425Z
+date: 2024-09-26T08:28:46.336Z
+updated: 2024-10-02T03:14:10.830Z
 tags:
   - games
 categories:
@@ -29,19 +29,6 @@ thumbnail: https://thmb.techidaily.com/7231e7cfa11b8c48bc0e8ca6efb14ca7e0a26276b
 
  However, if all you have is a PS4 console and DualSense controller (no PS4 controller to play with), you can indirectly connect these incompatible devices with the help of two middlemen: PS Remote Play or the Titan Two adapter.
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Do PS5 Controllers Work on PS4 Using Remote Play on PC?
 
  Provided you’ve enabled Remote Play on your PS4 console, you can play via PC or Mac using the PS Remote Play app. When using Remote Play this way, you can[connect your DualSense Controller to your PC](https://www.makeuseof.com/how-to-use-ps5-controller-on-pc/) , and then use your PS5 controller on your PS4.
@@ -56,10 +43,10 @@ Here’s how to do that:
 4. After you sign in, click the**PS4 icon** on the right. This will make the app attempt to connect to the PS4 console.  
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![choosing which console to connect to on the ps remote play app for pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/connect-ps4-remote-play-pc.jpg)
@@ -67,6 +54,13 @@ Here’s how to do that:
 6. Enjoy your game.
 
  The PS5 controller will now work on your PS4, but if you unplug it from your computer, it will lose the connection. Keep it plugged in at all times.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Do PS5 Controllers Work on PS4 Using Remote Play on Mobile?
 
@@ -80,10 +74,16 @@ Here’s how to do that:
 ![choosing a console to connect to on the PlayStation Remote Play mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/choosing-a-console-to-connect-to-on-the-ps-remote-play-mobile-app.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
@@ -92,16 +92,10 @@ Close
  What's great about this method, compared to using Remote Play on PC, is that you can use the PS5 controller wirelessly.
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Do PS5 Controllers Work on PS4 Using the Titan Two Adapter?
@@ -133,17 +127,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-your-ultimate-guide-to-storing-and-saving-live-tv-broadcasts/"><u>[New] 2024 Approved Your Ultimate Guide to Storing and Saving Live TV Broadcasts</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-explore-the-best-ever-ios-platforms-for-ps2-games-for-2024/"><u>[New] Explore the Best-Ever IOS Platforms for PS2 Games for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/nlocking-your-youtube-success-story-a-comprehensive-guide-to-creative-studio/"><u>[New] Unlocking Your Youtube Success Story A Comprehensive Guide to Creative Studio</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Oppo Find X7? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/decreasing-webpage-load-times-techniques-for-reduced-ping-rate/"><u>Decreasing Webpage Load Times: Techniques for Reduced Ping Rate</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-iphone-gaming-with-geforce-nows-cloud-technology/"><u>Elevate iPhone Gaming with GeForce Now's Cloud Technology</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-motherboards-and-cpus-navigate-with-toms-hardware/"><u>Expert Insights on Motherboards and CPUs - Navigate with Tom's Hardware</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-lava-yuva-3-pro-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Lava Yuva 3 Pro Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/next-gen-combatants-sxs-vs-high-end-gaming-pcs/"><u>Next-Gen Combatants: SXS Vs. High-End Gaming PCs</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-meta-in-gaming-its-importance-and-compliance/"><u>Understanding 'Meta' In Gaming: Its Importance & Compliance</u></a></li>
-<li><a href="https://games-able.techidaily.com/vr-expensive-quest-four-insightful-factors-at-play/"><u>VR Expensive Quest: Four Insightful Factors at Play</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Honor Play 7T? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-cutting-edge-mac-accessory-visionplussound-capturing/"><u>[New] In 2024, Cutting-Edge Mac Accessory Vision+Sound Capturing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unleashing-comedy-in-the-virtual-realm-making-hits-with-metaverse-memes/"><u>[Updated] Unleashing Comedy in the Virtual Realm - Making Hits with Metaverse Memes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/input-what-is-the-meaning-of-nirvana/"><u>「声の記録から動画への変換 - 最適な方法で音声ファイルとメモをビデオにしてくだ # Input: What Is the Meaning of Nirvana?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/dvd-windows-10-t17252908042183/"><u>免費DVD上色軟件 高效便利 - Windows 10版本特別釋出,點選報名直接獎賞!</u></a></li>
+<li><a href="https://games-able.techidaily.com/eas-new-fee-scheme-drives-gamer-away/"><u>EA's New Fee Scheme Drives Gamer Away</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-streaming-success-the-best-7-twitch-bots-compared/"><u>Elevate Streaming Success: The Best 7 Twitch Bots Compared</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhanced-online-performance-through-advanced-analytics-harness-the-potential-of-our-cookiebot-solution/"><u>Enhanced Online Performance Through Advanced Analytics: Harness the Potential of Our Cookiebot Solution</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-overwatch-voice-chat-push-to-talk-failures/"><u>Fixing the Issue: Overwatch Voice Chat (Push-to-Talk) Failures</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-mastery-through-controlled-gpu-heat-levels/"><u>Gaming Mastery Through Controlled GPU Heat Levels</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tailored-ending-scenes-get-em-for-free/"><u>In 2024, Tailored Ending Scenes - Get 'Em for Free</u></a></li>
+<li><a href="https://games-able.techidaily.com/inside-the-expensive-realm-of-cutting-edge-vr-headsets/"><u>Inside the Expensive Realm of Cutting-Edge VR Headsets</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-xbox-game-console-reimbursements/"><u>Mastering the Art of Xbox Game Console Reimbursements</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/maximize-your-home-studio-webcam-recorder-essentials/"><u>Maximize Your Home Studio - WebCam Recorder Essentials</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-os-upgrades-installing-windows-on-a-steam-deck/"><u>Navigating OS Upgrades: Installing Windows on a Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-powerful-ties-nyt-edition/"><u>Navigating Powerful Ties: NYT Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/quality-and-value-in-a-nutshell-affordable-gaming-mothers/"><u>Quality and Value in a Nutshell: Affordable Gaming Mothers</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-on-how-to-pick-apples-finest-arcade-titles/"><u>Step-by-Step on How to Pick Apple's Finest Arcade Titles</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/step-by-step-process-of-transferring-drm-protected-film-dvds-onto-a-samsung-high-definition-tv-screen-in-crystal-clear-quality/"><u>Step-by-Step Process of Transferring DRM-Protected Film DVDs Onto a Samsung High Definition TV Screen in Crystal Clear Quality</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/trasforma-i-tuoi-file-webm-in-formato-vob-gratuito-online-tramite-movavi-facile-come-piegare-un-tovagliolo/"><u>Trasforma I Tuoi File WebM in Formato VOB Gratuito Online Tramite Movavi - Facile Come Piegare Un Tovagliolo!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Why You Should Forgo the Mic Feature in PS5s
-date: 2024-09-23T01:17:08.764Z
-updated: 2024-09-27T02:14:35.903Z
+date: 2024-09-29T22:20:51.081Z
+updated: 2024-10-01T20:27:02.706Z
 tags:
   - games
 categories:
@@ -38,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/a3a9fc7f1967fe6814b7bcf229ad0c8c09fecb880
  While the people you're chatting with will appreciate this, it makes for a worse experience on your end. You should thus use another mic when you have the option.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Automatically Mute Your PS5's Microphone
@@ -55,16 +55,10 @@ thumbnail: https://thmb.techidaily.com/a3a9fc7f1967fe6814b7bcf229ad0c8c09fecb880
 ![PS5 Controller Muted Mic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS5-Controller-Muted-Mic.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you never use the controller mic anyway, it's easy to mute your PS5 controller's mic by default. Head to**Settings > Sound > Microphone** and change**Microphone Status When Logged In** to**Mute** . You can also change**Microphone Status When Starting Chat or Broadcast** if you want to keep your mic muted when you join a party or start streaming.
@@ -72,19 +66,19 @@ thumbnail: https://thmb.techidaily.com/a3a9fc7f1967fe6814b7bcf229ad0c8c09fecb880
 ![PS5 Microphone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS5-Microphone-Settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can change other mic settings here, like selecting your mic preference if you have more than one. Don't forget that if you connect another microphone (whether wirelessly or a wired headset connect to your controller), the built-in mic will turn off and thus preserve your trigger and vibration settings. The physical**Mute** button on the controller also works for muting external microphones, and if you hold it for a moment, it will silence all output as well as the mic's input.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fully Enjoy the DualSense Controller
@@ -108,18 +102,20 @@ thumbnail: https://thmb.techidaily.com/a3a9fc7f1967fe6814b7bcf229ad0c8c09fecb880
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-restore-noise-to-silent-twitter-video-posts/"><u>[New] 2024 Approved Restore Noise to Silent Twitter Video Posts</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-the-investors-edge-tapping-into-youtube-creators-earnings/"><u>[New] 2024 Approved The Investor’s Edge Tapping Into YouTube Creators' Earnings</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-syncing-youtube-with-facebooks-sharing-mechanism-for-2024/"><u>[Updated] Syncing YouTube With Facebook's Sharing Mechanism for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-how-to-edit-youtube-videos/"><u>2024 Approved How To Edit YouTube Videos</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-comprehensive-guide-to-using-ps5-assist-controller/"><u>A Comprehensive Guide to Using PS5 Assist Controller</u></a></li>
-<li><a href="https://games-able.techidaily.com/all-about-baldurs-gate-3-dlc-and-downloads/"><u>All About Baldur's Gate 3: DLC & Downloads</u></a></li>
-<li><a href="https://games-able.techidaily.com/anticipating-amds-rdna-35-tech-insights-and-timing/"><u>Anticipating AMD’s RDNA 3.5: Tech Insights & Timing</u></a></li>
-<li><a href="https://games-able.techidaily.com/are-add-on-features-justifying-price-increase-for-switch/"><u>Are Add-On Features Justifying Price Increase for Switch?</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719173660560-better-computing-awaits-update-with-newest-nvidia-drivers-now/"><u>Better Computing Awaits! Update with Newest Nvidia Drivers Now</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-correct-audacitys-sound-devices-failures/"><u>How To Correct Audacity's Sound Devices Failures</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-samsung-galaxy-z-fold-5-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Samsung Galaxy Z Fold 5 phone? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-m54-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Samsung Galaxy M54 5G to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-honor-magic-v2-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Honor Magic V2 Device</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-top-5-tunefab-screen-recording-tips-and-tricks/"><u>[New] 2024 Approved Top 5 Tunefab Screen Recording Tips & Tricks</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ag-tactics-amplifying-your-gaming-content-online/"><u>[New] Tag Tactics Amplifying Your Gaming Content Online</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-an-honest-review-of-recordcast/"><u>[Updated] An Honest Review of RecordCast</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-kinemasters-dominance-in-the-android-gaming-arena-reviewed/"><u>[Updated] KineMaster's Dominance in the Android Gaming Arena Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/create-immersive-gaming-opt-for-big-box-framing/"><u>Create Immersive Gaming - Opt for Big Box Framing</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-send-steam-games-as-gifts/"><u>How to Send Steam Games as Gifts</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y55s-5g-2023-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y55s 5G (2023) to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unraveling-the-cash-accumulation-through-viewers-attention/"><u>In 2024, Unraveling the Cash Accumulation Through Viewers' Attention</u></a></li>
+<li><a href="https://games-able.techidaily.com/insight-into-gpu-leaning-what-it-really-means/"><u>Insight Into GPU Leaning: What It Really Means</u></a></li>
+<li><a href="https://games-able.techidaily.com/spotlight-on-elite-discord-communities-to-join/"><u>Spotlight on Elite Discord Communities to Join</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-misuse-risk-could-chatgpt-be-a-tool-for-malware-makers/"><u>Understanding the Misuse Risk: Could ChatGPT Be a Tool for Malware Makers?</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-power-play-in-style-with-pdw4/"><u>Unleash Power, Play in Style with PDW4</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-i-embrace-the-world-of-games-with-apple-arcade/"><u>Why I Embrace the World of Games with Apple Arcade</u></a></li>
+<li><a href="https://games-able.techidaily.com/zero-price-infinite-possibilities-top-steam-games-you-can-get-for-free/"><u>Zero Price, Infinite Possibilities: Top Steam Games You Can Get For Free</u></a></li>
 </ul></div>
 

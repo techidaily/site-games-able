@@ -1,7 +1,7 @@
 ---
 title: Streaming SNES with DualShock Replicas
-date: 2024-09-15T02:38:24.585Z
-updated: 2024-09-21T02:09:21.035Z
+date: 2024-09-26T07:54:38.231Z
+updated: 2024-10-02T04:46:59.781Z
 tags:
   - games
 categories:
@@ -49,6 +49,19 @@ thumbnail: https://thmb.techidaily.com/b8679192be865a4926b833c7643d484e4a5289f4d
 
  All that’s left to do after that is open Steam and start gaming. If your controller is connected to your PC, Steam will recognize and connect to it straight away. No more fiddling around is necessary.
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Configure Your Classic Nintendo Controller to Work on Steam
 
  The Classic Nintendo controllers can have some interesting button layouts, especially when it comes to the N64 controller. So you may have to configure your button layout to ensure that everything works the way you want it to.
@@ -67,11 +80,32 @@ thumbnail: https://thmb.techidaily.com/b8679192be865a4926b833c7643d484e4a5289f4d
 
 ![Edit Button Layout for Controllers on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-button-layout-for-controllers-on-steam.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The**Edit Layout** menu is very comprehensive and contains every button input you could possibly need. Press the button group you want to customize to be taken to the next screen where you can individually change each one.
 
 ![Changing Controller Button Layout on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/changing-controller-button-layout-on-steam.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Pressing the left and right triggers will switch between keyboard, mouse, or controller inputs to help you decide on what button layout is best for you.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Sit Back, Relax, and Enjoy the Nostalgia
 
@@ -92,12 +126,22 @@ thumbnail: https://thmb.techidaily.com/b8679192be865a4926b833c7643d484e4a5289f4d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/1715860820139-updated-snap-and-save-your-android-no-price-tag/"><u>[Updated] Snap & Save Your Android - No Price Tag!</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-unlock-hd-potential-for-your-social-media-platform-fb/"><u>[Updated] Unlock HD Potential for Your Social Media Platform (FB)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-boosting-yi-4k-action-recording-accessory-musts/"><u>2024 Approved Boosting YI 4K Action Recording Accessory Musts</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-elevate-your-content-strategy-with-social-blade-and-youtube-stats/"><u>2024 Approved Elevate Your Content Strategy with Social Blade and YouTube Stats</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-reveal-new-dimensions-of-communication-access-free-vocal-effects-here/"><u>2024 Approved Reveal New Dimensions of Communication - Access Free Vocal Effects Here</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/directive-for-digging-up-and-docking-minecraft-maps/"><u>Directive for Digging Up & Docking Minecraft Maps</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/easy-tutorial-change-mts-video-format-to-mpegmp4-for-windows-users/"><u>Easy Tutorial: Change MTS Video Format to MPEG/MP4 for Windows Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-gaming-choose-large-format-cabinet-fronts/"><u>Elevate Gaming: Choose Large-Format Cabinet Fronts!</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-lens-or-levers-in-your-setup/"><u>Game On: Lens or Levers in Your Setup</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-ultimate-pc-steering-experience-with-logitech-momo-wheel-drives/"><u>Get the Ultimate PC Steering Experience with Logitech MOMO Wheel Drives</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-emulation-steam-deck-and-emudeck-gameplay/"><u>Mastering Emulation: Steam Deck & EmuDeck Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/multi-screen-gaming-with-xbox-and-laptop-combo/"><u>Multi-Screen Gaming with Xbox & Laptop Combo</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-steam-search-for-users/"><u>Streamlining Steam Search for Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/unfreeze-your-gameplay-repairing-the-epic-launcher-malfunction/"><u>Unfreeze Your Gameplay: Repairing the Epic Launcher Malfunction</u></a></li>
+</ul></div>
 

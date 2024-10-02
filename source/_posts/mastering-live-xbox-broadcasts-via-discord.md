@@ -1,7 +1,7 @@
 ---
 title: Mastering Live Xbox Broadcasts via Discord
-date: 2024-09-19T23:51:51.243Z
-updated: 2024-09-20T18:15:26.565Z
+date: 2024-09-30T17:45:54.770Z
+updated: 2024-10-01T18:23:52.100Z
 tags:
   - games
 categories:
@@ -51,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/3b3d53f3a3456319783aa99ca770516fad2e58dbe
 
 ![A screenshot of the Linked Social Accounts settings on Xbox Series X with Discord highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/link-discord.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Select**Continue on console** to be taken to the Microsoft Edge application.
 * When prompted, sign into your Discord account and select**Authorize** .
 
@@ -75,6 +82,13 @@ thumbnail: https://thmb.techidaily.com/3b3d53f3a3456319783aa99ca770516fad2e58dbe
 
 ![A screenshot of the available Discord Voice Channels for an Xbox account on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/discord-voice-channels.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * From here, select**Stream your game** .
 
 ![A screenshot of the Guide menu options for a Discord Voice Channel on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/start-streaming-initial.jpg)
@@ -84,15 +98,22 @@ thumbnail: https://thmb.techidaily.com/3b3d53f3a3456319783aa99ca770516fad2e58dbe
 
 ![A screenshot of the Stream Settings for Discord on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/stream-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  And with**Start streaming** selected, Discord will stream any game you play directly to the Discord Voice Channel of your choice. You can even alter your**Stream settings** throughout the stream by re-entering the**Discord** menu on the**Parties & chats** screen.
 
  However, some aspects of your**Stream settings** are locked behind Discord's Nitro paid service, so if you want to stream in a higher resolution than 720p, you'll have to pay for the privilege. But even with this hindrance, streaming to Discord from your Xbox takes mere minutes and feels completely intuitive.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Make Streaming Gameplay Easy With Discord and Xbox
@@ -114,5 +135,18 @@ thumbnail: https://thmb.techidaily.com/3b3d53f3a3456319783aa99ca770516fad2e58dbe
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-smart-sync-strategy-transferring-photos-from-iphone-to-snapchat-correctly/"><u>[New] 2024 Approved Smart Sync Strategy Transferring Photos From iPhone to Snapchat Correctly</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-yield-assessment-predicting-youtube-money/"><u>[Updated] 2024 Approved Yield Assessment Predicting YouTube Money</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-list-of-ios-tools-for-erasing-intrusive-images/"><u>[Updated] The Ultimate List of iOS Tools for Erasing Intrusive Images</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-the-best-rapid-fire-web-games-today/"><u>Dive Into the Best Rapid-Fire Web Games Today</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-every-aspect-top-accessories-for-the-steam-deck/"><u>Enhance Every Aspect: Top Accessories for the Steam Deck</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-poco-m6-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Poco M6 5G</u></a></li>
+<li><a href="https://games-able.techidaily.com/reviving-the-past-emulating-gb-games-on-linux/"><u>Reviving the Past: Emulating GB Games on Linux</u></a></li>
+<li><a href="https://facebook.techidaily.com/1719150975738-social-synergy-achieved-upload-and-share-fb-stories-notebooks-to-top-sites/"><u>Social Synergy Achieved: Upload & Share FB Stories, Notebooks to Top Sites.</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-picks-for-emergency-car-starters-in-depth-look-at-the-1000a-mmock-portable-booster/"><u>Top Picks for Emergency Car Starters: In-Depth Look at the 1000A MMOCK Portable Booster</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-guide-to-the-best-emulators-for-steam-decks/"><u>Ultimate Guide to the Best Emulators for Steam Decks</u></a></li>
+<li><a href="https://games-able.techidaily.com/uniting-worlds-of-minecraft-bedrock-to-java-via-geysermc/"><u>Uniting Worlds of Minecraft: Bedrock to Java Via GeyserMC</u></a></li>
+</ul></div>
 

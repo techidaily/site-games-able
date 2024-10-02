@@ -1,7 +1,7 @@
 ---
 title: "Safety Sessions: Equipping Kids to Navigate Online Risks"
-date: 2024-09-23T18:59:31.954Z
-updated: 2024-09-27T06:42:03.369Z
+date: 2024-09-27T17:43:20.368Z
+updated: 2024-10-02T05:52:59.495Z
 tags:
   - games
 categories:
@@ -44,57 +44,57 @@ thumbnail: https://thmb.techidaily.com/11a5b5bdf5c605b4fbfac8e2beadd347faae794ed
 [Common Sense Media](https://www.commonsensemedia.org/app-reviews/discord) , a non-profit focused on providing parents and teachers with information about online platforms, notes on its official website that Discord is primarily meant for adults, though it may be a good fit for teens if used responsibly. The organization also stresses that Discord has done a lot to become a more accommodating platform for everyone, but recommends that underaged individuals are supervised when using it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Keep Your Kid Safe on Discord: 5 Key Tips
 
  Parental controls are great, and definitely make ensuring your child's safety a lot easier. But there are other things parents can do to protect their children on Discord, without violating their privacy.
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Communicate Openly
 
  As a parent, you should communicate openly with your child about internet safety, and the dangers an underage person can encounter online. Whether you're concerned about cybersecurity or worry your kid might become a target of harassment, communication is key. As long as the youngster feels comfortable talking with you about whatever worries they might have, things should be fine.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Educate Your Child
 
  It is true that children and teenagers nowadays are far more technologically adept than previous generations, but it's safe to assume most view cybersecurity as boring and unnecessary, or even feel overconfident about their skills. This is why it's[important to educate your child](https://www.makeuseof.com/technology-role-model-be-good-for-kids/) , and make them understand what can happen if they are not careful, or ignore basic online safety concepts.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Set Time Limits
 
  Setting time limits is a must as well. Excessive Discord usage (and excessive screen time in general) can have a major impact on a child's mental and physical well-being, influencing their academic performance and social development negatively. It's important to encourage other interests and set boundaries early on, so that the child doesn't develop addiction-like behaviors.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Remind Your Kid to Lead by Example
 
  Cyberbullying is a massive issue in this day and age. Thankfully, there are plenty of resources for victims, but abusers' motivations are often overlooked. That's a big problem, being that most[cyberbullying against kids and teens](https://www.makeuseof.com/cyberbullying-vs-cyberstalking-difference-between/) is carried out by their peers. This is why every parent should try and teach their kid to lead by example, and treat others with respect and kindness.
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Encourage Critical Thinking
@@ -122,22 +122,24 @@ thumbnail: https://thmb.techidaily.com/11a5b5bdf5c605b4fbfac8e2beadd347faae794ed
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-premier-collection-top-10-audio-capturers-on-spotify/"><u>[New] Premier Collection Top 10 Audio Capturers on Spotify</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-instant-designing-techniques-for-fortnite-images/"><u>[Updated] 2024 Approved Instant Designing Techniques for Fortnite Images</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-obs-vs-shadowplay-the-streaming-software-showdown/"><u>[Updated] 2024 Approved Obs vs ShadowPlay The Streaming Software Showdown</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-iphone-13-pro-max-icloud-activation-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing iPhone 13 Pro Max iCloud Activation Lock</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/evening-symphony-concerts-held-in-rudolfinum-or-municipal-house-for-an-audience-of-around-1200-people/"><u>Evening Symphony Concerts Held in Rudolfinum or Municipal House for an Audience of Around 1200 People;</u></a></li>
-<li><a href="https://games-able.techidaily.com/exclusive-offline-gaming-guide-for-your-iphoneipad/"><u>Exclusive Offline Gaming Guide for Your iPhone/iPad</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-precision-in-podcast-promotion-timelines/"><u>In 2024, Precision in Podcast Promotion Timelines</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/inversion-workshop/"><u>Inversion Workshop</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/parisian-chatterbox-103plus-phrases-for-easy-france-traveling/"><u>Parisian Chatterbox: 103+ Phrases for Easy France Traveling</u></a></li>
-<li><a href="https://games-able.techidaily.com/pi-console-showdown-batocera-vs-retropie/"><u>Pi Console Showdown: Batocera Vs. RetroPie</u></a></li>
-<li><a href="https://games-able.techidaily.com/seamless-windows-gaming-on-apple-m1-via-crossover-command-center/"><u>Seamless Windows Gaming on Apple M1 via Crossover Command Center</u></a></li>
-<li><a href="https://games-able.techidaily.com/solving-steam-file-synchronization-issues-on-windows/"><u>Solving Steam File Synchronization Issues on Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/unmatched-gameplay-experience-my-oled-journey/"><u>Unmatched Gameplay Experience - My OLED Journey</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/unveiling-androids-screen-recording-capabilities/"><u>Unveiling Android's Screen Recording Capabilities</u></a></li>
-<li><a href="https://games-able.techidaily.com/valves-latest-features-expand-steam-sharing-for-families/"><u>Valve’s Latest Features Expand Steam Sharing for Families</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-waiting-outperforms-immediate-releases/"><u>Why Waiting Outperforms Immediate Releases</u></a></li>
-<li><a href="https://games-able.techidaily.com/your-exclusive-guide-to-top-8-gaming-websites/"><u>Your Exclusive Guide to Top 8 Gaming Websites</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/reating-captivating-thumbnails-for-youtube/"><u>[New] Creating Captivating Thumbnails for YouTube</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nveiling-the-seven-best-youtube-live-streaming-tools-for-iphoneandroid/"><u>[New] Unveiling The Seven Best YouTube Live Streaming Tools for iPhone/Android</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-a-filmmakers-companion-the-journey-from-capturing-to-post-production-of-360-videos/"><u>[Updated] A Filmmaker's Companion The Journey From Capturing to Post-Production of 360 Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-elevate-your-social-media-presence-with-personalized-instagram-icons-for-2024/"><u>[Updated] Elevate Your Social Media Presence with Personalized Instagram Icons for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-step-by-step-wirecast-livestream-on-youtube/"><u>[Updated] Step-by-Step WireCast Livestream on YouTube</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-video-capturing-duel-obs-challenges-shadowgl/"><u>2024 Approved Video Capturing Duel OBS Challenges ShadowGL</u></a></li>
+<li><a href="https://games-able.techidaily.com/experience-ultimate-coolness-my-top-pick-for-gaming-phones-nubia-redmagic/"><u>Experience Ultimate Coolness: My Top Pick for Gaming Phones - Nubia RedMagic</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-your-hands-on-the-latest-tech-hps-new-victus-15l-gaming-rig-reduced-to-an-unbeatable-price-of-just-480/"><u>Get Your Hands on the Latest Tech: HP's New Victus 15L Gaming Rig Reduced to an Unbeatable Price of Just $480!</u></a></li>
+<li><a href="https://games-able.techidaily.com/in-depth-examination-of-rode-x-xdm-100-the-ultimate-usb-mic-for-professionals-techspot-insights/"><u>In-Depth Examination of RODE X XDM-100: The Ultimate USB Mic for Professionals | TechSpot Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovating-interactivity-6-ways-chatgpt-redefines-scriptwriting/"><u>Innovating Interactivity: 6 Ways ChatGPT Redefines Scriptwriting</u></a></li>
+<li><a href="https://games-able.techidaily.com/labor-day-sale-save-350-on-the-hp-victus-15-laptop-exclusive-deal-at-best-buy/"><u>Labor Day Sale: Save $350 on the HP Victus 15 Laptop - Exclusive Deal at Best Buy</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/tyle-logging-101-keeping-viewers-hooked-everyday-for-2024/"><u>Lifestyle Logging 101 Keeping Viewers Hooked Everyday for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-your-entertainment-with-a-steal-of-a-deal-get-an-extra-32-discount-plus-complimentary-xbox-game-pass-when-you-buy-the-fire-tv-stick-4k-bundle-insig98/"><u>Maximize Your Entertainment with a Steal of a Deal: Get an Extra 32% Discount + Complimentary Xbox Game Pass When You Buy the Fire TV Stick 4K Bundle | Insights From ZDNet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premier-digital-applications-for-visual-storytelling/"><u>Premier Digital Applications for Visual Storytelling</u></a></li>
+<li><a href="https://games-able.techidaily.com/score-deep-discount-on-sony-ps5-with-spiderman-2-bundle-in-amazons-massive-spring-clearance-save-up-to-110/"><u>Score Deep Discount on Sony PS5 with Spiderman 2 Bundle in Amazon's Massive Spring Clearance - Save Up to $110!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-guide-comparing-folders-between-windows-11-and-10/"><u>Step-by-Step Guide: Comparing Folders Between Windows 11 & 10</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-installation-of-steam-for-gaming-enthusiasts-across-various-linux-oses-gamehubtutorial/"><u>Step-by-Step Installation of Steam for Gaming Enthusiasts Across Various Linux OSes | GameHubTutorial</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-tutorial-for-crafting-a-top-tier-gamers-paradise-techradar/"><u>Step-by-Step Tutorial for Crafting a Top-Tier Gamer's Paradise | TechRadar</u></a></li>
+<li><a href="https://games-able.techidaily.com/stunning-deals-top-ranking-samsung-television-now-43-discounted-on-labor-day-insider-review/"><u>Stunning Deals: Top-Ranking Samsung Television Now 43% Discounted on Labor Day - Insider Review</u></a></li>
 </ul></div>
 

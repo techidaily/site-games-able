@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Cheat Sheet: Steam Screenshots"
-date: 2024-09-23T17:06:57.943Z
-updated: 2024-09-27T05:14:35.253Z
+date: 2024-09-28T09:26:57.769Z
+updated: 2024-10-02T07:28:37.704Z
 tags:
   - games
 categories:
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 
 ![steam post-game summary](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steam-post-game-summary.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Manage Your Steam Screenshots
 
  From Steam's top menu, click**View > Screenshots** to open the Screenshot Manager. It's sorted by your**Most Recent** screenshots by default; use this dropdown to select a specific game. Select a screenshot from the left to view it larger in the main pane, along with details like capture date and file size.
@@ -53,16 +46,16 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 ![steam screenshot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steam-screenshot-manager.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To select multiple screenshots, hold**Ctrl** and click each in turn, or hold**Shift** and click to highlight all screenshots in the range. You can also click**Select All** .
@@ -72,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
  If you want to browse the raw image files on your computer, click**Show on disk** (the folder icon). This opens the folder on your system where the screenshots are stored. You'll notice the folder path is convoluted, and each game is stored in its own confusingly named folder, so you're better off navigating to your local screenshots via this method than going manually through File Explorer.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Customize Your Steam Screenshot Settings
@@ -89,15 +82,22 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 
 ![steam screenshot settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steam-screenshot-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Here you're able to set your**Screenshot shortcut keys** , plus toggle whether a screenshot should**display a notification** and**play a sound** .
 
  If you want your screenshots saved in the highest quality possible, enable**Save an uncompressed copy of my screenshots** , though be aware this will use more disk space. To change the storage location of these uncompressed screenshots, click**Change folder** .
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## It's Easy to Take Screenshots on a Steam Deck Too
@@ -119,18 +119,21 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-optimizing-video-quality-youtube-to-mpeg-conversion-strategies/"><u>[New] Optimizing Video Quality YouTube to MPEG Conversion Strategies</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-ultimate-choice-of-gopro-film-editing-programs/"><u>[New] Ultimate Choice of GoPro Film-Editing Programs</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-enjoy-your-content-youtube-shorts-are-shown-again/"><u>[Updated] In 2024, Enjoy Your Content – YouTube Shorts Are Shown Again</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-comprehensive-approach-to-dualsense-update-process/"><u>A Comprehensive Approach to DualSense Update Process</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/an-in-depth-look-at-the-positives-and-negatives-of-pidgin-im-platform/"><u>An In-Depth Look at the Positives and Negatives of Pidgin IM Platform</u></a></li>
-<li><a href="https://games-able.techidaily.com/beat-the-heat-decks-must-have-accessories/"><u>Beat the Heat: Deck's Must-Have Accessories</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/mastering-sound-intervals-techniques-for-manipulating-audio-timestamps-in-final-cut-pro-x-for-2024/"><u>Mastering Sound Intervals Techniques for Manipulating Audio Timestamps in Final Cut Pro X for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/my-2-years-in-high-definition-with-an-oled-monitor/"><u>My 2 Years in High Definition with an OLED Monitor!</u></a></li>
-<li><a href="https://games-able.techidaily.com/perfect-purchase-how-to-evade-monitor-shopping-fails/"><u>Perfect Purchase: How to Evade Monitor Shopping Fails</u></a></li>
-<li><a href="https://games-able.techidaily.com/recognizing-and-responding-to-gaming-abuse-series-sx/"><u>Recognizing and Responding to Gaming Abuse (Series S/X)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-code-28-issue-on-your-pcs-device-manager/"><u>Resolving the 'Code 28' Issue on Your PC's Device Manager</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-essence-of-metagame-strategy-understanding-and-following/"><u>The Essence of Metagame Strategy - Understanding & Following</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/twitters-new-era-of-videography-aspect-ratios-mandatory-for-2024/"><u>Twitter's New Era of Videography Aspect Ratios Mandatory for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-homemade-guide-to-google-vr-headset-construction/"><u>[New] Homemade Guide to Google VR Headset Construction</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-innovating-visual-storytelling-exploring-the-world-of-smart-hdr-photography/"><u>[New] Innovating Visual Storytelling Exploring the World of Smart HDR Photography</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-master-classroom-optimal-video-edits-on-vimeo/"><u>[New] Master Classroom Optimal Video Edits on Vimeo</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-best-assortment-professional-webcam-platforms/"><u>2024 Approved Best Assortment Professional Webcam Platforms</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-top-picks-elite-4k-displays-for-cutting-edge-editing/"><u>2024 Approved Top Picks Elite 4K Displays for Cutting-Edge Editing</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-from-apple-iphone-11-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled From Apple iPhone 11? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://games-able.techidaily.com/boost-your-gaming-experience-seamless-ps5-storage-expansion-tutorial-under-10-minutes-zdnet/"><u>Boost Your Gaming Experience: Seamless PS5 Storage Expansion Tutorial (Under 10 Minutes) | ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-ultimate-guide-to-labor-day-2024s-greatest-tv-specials-and-savings-on-zdnet/"><u>Discover the Ultimate Guide to Labor Day 2024'S Greatest TV Specials and Savings on ZDNet</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/easy-tricks-to-extract-and-preserve-pictures-in-your-word-files/"><u>Easy Tricks to Extract & Preserve Pictures in Your Word Files</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-xiaomi-redmi-12-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Xiaomi Redmi 12 5G Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/huge-savings-alert-secure-your-discounted-85-tcl-led-tv-during-the-after-labor-day-clearance-event-at-zdnet/"><u>Huge Savings Alert: Secure Your Discounted 85” TCL LED TV During the After Labor Day Clearance Event at ZDNET!</u></a></li>
+<li><a href="https://games-able.techidaily.com/huge-savings-grab-the-xbox-fire-tv-stick-4k-plus-game-pass-for-free-up-to-32-off/"><u>Huge Savings: Grab the Xbox Fire TV Stick 4K + Game Pass for Free - Up to 32% Off!</u></a></li>
+<li><a href="https://games-able.techidaily.com/introducing-samsungs-latest-entry-into-gaming-peripherals-the-inaugural-gamepad-reviewed-on-zdnet/"><u>Introducing Samsung's Latest Entry Into Gaming Peripherals: The Inaugural Gamepad Reviewed on ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-mastering-gameplay-with-the-steelseries-apex-pro-mini-keyboard-gadget-reviews/"><u>The Ultimate Guide to Mastering Gameplay with the SteelSeries Apex Pro Mini Keyboard | Gadget Reviews</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-any-room-into-a-game-hub-with-secretly-powerful-samsung-projector-exclusive-200-discount-for-labor-day-zdnet/"><u>Transform Any Room Into a Game Hub with Secretly-Powerful Samsung Projector - Exclusive $200 Discount for Labor Day | ZDNet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Asus ROG Phone 7 | Dr.fone</u></a></li>
 </ul></div>
 

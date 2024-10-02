@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Disruption: Fixes for Noisy Xbox Controller"
-date: 2024-09-24T23:22:51.436Z
-updated: 2024-09-27T07:57:25.208Z
+date: 2024-09-27T07:59:29.853Z
+updated: 2024-10-02T05:35:31.976Z
 tags:
   - games
 categories:
@@ -36,16 +36,10 @@ thumbnail: https://thmb.techidaily.com/9c54005e696cd2ed7b70760eb63ef402583a5567a
 ![Audio & music button on the Xbox home screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/xbox-home-screen.jpeg)
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Isolate the Culprit
@@ -54,15 +48,28 @@ thumbnail: https://thmb.techidaily.com/9c54005e696cd2ed7b70760eb63ef402583a5567a
 
  If you have access to another pair of headphones, you can also connect them to your controller and see if they work. A successful connection will signify that your original headset is broken. But if the second headset doesn't work either, the controller is likely at fault.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Update Your Controller
 
 ![Updating Xbox One controller on the Xbox accessories app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/updating-xbox-one-controller.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Sometimes compatibility problems might be caused by outdated controller firmware. You can[update your Xbox One controller](https://www.makeuseof.com/how-to-update-xbox-one-and-series-controllers/) both wirelessly and via a USB cable. A wireless update is only possible on controllers that feature a 3.5mm audio port though.
@@ -70,6 +77,13 @@ thumbnail: https://thmb.techidaily.com/9c54005e696cd2ed7b70760eb63ef402583a5567a
  A wired update, on the other hand, is doable on all generations of the Xbox One controller. There are two ways to update your Xbox One controller via a USB cable.
 
  You can either directly connect your controller to the console via the USB port on the left side of the console's disc drive. Or, you can connect the controller to a PC and open the Microsoft Store app. You can then go to**Xbox Accessories > Open** , and then click the**three dots** to check for any available updates.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Reset Your Xbox
 
@@ -83,26 +97,6 @@ thumbnail: https://thmb.techidaily.com/9c54005e696cd2ed7b70760eb63ef402583a5567a
 4. With the power cycle done, connect your headset to the controller, and see if the console recognizes it now.
 
 ![xbox logo on screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/xbox-load-up.jpeg)
-
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Getting Your Headset Working Once Again on the Xbox One Is Easy
 
@@ -125,18 +119,22 @@ thumbnail: https://thmb.techidaily.com/9c54005e696cd2ed7b70760eb63ef402583a5567a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-animation-amalgamator-a-top-choice-for-saving-and-storing-your-tweeted-gifs/"><u>[New] In 2024, Animation Amalgamator A Top Choice for Saving and Storing Your Tweeted GIFs</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-exploring-best-pairing-practices-in-the-youtube-space/"><u>[Updated] In 2024, Exploring Best Pairing Practices in the YouTube Space</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Infinix Smart 8 HD | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/decoding-gamings-early-days-foddian/"><u>Decoding Gaming's Early Days: Foddian</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/gratuit-convertir-fichier-ts-en-format-avi-en-ligne-rapidement-avec-movavi-converter/"><u>Gratuit: Convertir Fichier .ts en Format AVI en Ligne Rapidement Avec Movavi Converter</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-clear-your-playstation-5s-game-saving-history/"><u>How to Clear Your PlayStation 5'S Game Saving History</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-strategy-for-intertwining-gopro-footage-in-full-circle-cinematographic-works/"><u>In 2024, Expert Strategy for Intertwining GoPro Footage in Full-Circle Cinematographic Works</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-nintendos-game-boy-advance-classics-on-your-idevice/"><u>Mastering Nintendo's Game Boy Advance Classics on Your iDevice</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-quiet-mode-on-xbox-series-xs-and-controllers/"><u>Mastering Quiet Mode on Xbox Series X/S & Controllers</u></a></li>
-<li><a href="https://games-able.techidaily.com/mobile-magic-top-11-games-to-entertain-without-internet/"><u>Mobile Magic: Top 11 Games to Entertain Without Internet</u></a></li>
-<li><a href="https://games-able.techidaily.com/restoring-cloud-connectivity-in-steam-gear/"><u>Restoring Cloud Connectivity in Steam Gear</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-rated-aeiusy-solar-power-solution-review-of-the-perfect-inverter-for-fragile-healthcare-equipment/"><u>Top-Rated Aeiusy Solar Power Solution: Review of the Perfect Inverter for Fragile Healthcare Equipment</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/unleash-your-youtube-potential-steps-to-finding-and-managing-video-collab-partners-for-2024/"><u>Unleash Your YouTube Potential Steps to Finding & Managing Video Collab Partners for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ultivating-a-unique-vibe-in-your-own-mukbang-content/"><u>[New] Cultivating a Unique Vibe in Your Own Mukbang Content</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/rivacy-preservation-how-to-make-faces-invisible-online/"><u>[New] Privacy Preservation How to Make Faces Invisible Online</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-innovative-approaches-to-live-broadcasting-on-youtube-with-wirecast/"><u>[Updated] Innovative Approaches to Live Broadcasting on Youtube with WireCast</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/all-you-need-to-know-about-mega-greninja-for-poco-x5-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/android-16-on-the-horizon-zero-cost-update-anticipated-release-timeline-features-list-and-speculative-gossip/"><u>Android 16 on the Horizon: Zero Cost Update, Anticipated Release Timeline, Features List, and Speculative Gossip</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-perfection-an-essential-guide-to-hdr-imaging/"><u>Crafting Perfection An Essential Guide to HDR Imaging</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-online-connections-through-poker-and-chess-on-discord/"><u>Elevating Online Connections Through Poker & Chess on Discord</u></a></li>
+<li><a href="https://games-able.techidaily.com/enrich-your-console-experience-with-a-customized-approach-to-vrr-settings/"><u>Enrich Your Console Experience with a Customized Approach to VRR Settings</u></a></li>
+<li><a href="https://games-able.techidaily.com/exceptionally-good-google-play-pass-with-one-glitch/"><u>Exceptionally Good Google Play Pass with One Glitch</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-advice-on-avoiding-mistakes-in-display-shopping/"><u>Expert Advice on Avoiding Mistakes in Display Shopping</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-oneplus-nord-ce-3-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from OnePlus Nord CE 3 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Realme 11 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionary-tech-on-display-tecnos-new-lineup-at-ifa/"><u>Revolutionary Tech on Display: Tecno's New Lineup at IFA</u></a></li>
+<li><a href="https://games-able.techidaily.com/swap-gears-for-steam-decks-rapid-ssd-replacement-guide/"><u>Swap Gears for Steam Decks: Rapid SSD Replacement Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-mobile-gamings-most-compelling-secrets/"><u>Unlocking Mobile Gaming's Most Compelling Secrets</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-reward-program-redesign-is-essential-for-xbox-game-engagement/"><u>Why Reward Program Redesign Is Essential for Xbox Game Engagement</u></a></li>
 </ul></div>
 

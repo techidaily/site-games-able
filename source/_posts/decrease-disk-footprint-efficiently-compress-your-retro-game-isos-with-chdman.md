@@ -1,7 +1,7 @@
 ---
 title: "Decrease Disk Footprint: Efficiently Compress Your Retro Game ISOs with ChDMan"
-date: 2024-09-14T19:50:45.055Z
-updated: 2024-09-20T17:56:21.136Z
+date: 2024-09-27T17:44:33.338Z
+updated: 2024-10-01T17:42:06.537Z
 tags:
   - games
 categories:
@@ -74,6 +74,13 @@ Our command was:
 
 ![A screenshot of the command to compress a ROM into CHD format using CHDMAN](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/chdman-createcd-command-in-cmd.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This way, you can compress the ROMs of all the consoles that used optical media (CDs and DVDs) into the CHD format. However, there's a particular case we have to mention: hard disk images.
 
  CHDMAN and the CHD format can also be used to store compressed HDD backups. Those may share the same extension with optical backups saved as BIN and IMG, but you have to use a tweaked version of the above command to compress HDDs to CHDs:
@@ -82,15 +89,22 @@ Our command was:
 
  CHDMAN can also back up to the CHD format actual HDDs connected to the PC. That, though, should be rarely needed by the average user.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Else Should You Know About CHDs?
 
  Knowing how to compress your large ROMs to leaner CHD files is our target in this article. Still, the following might be helpful if you decide to use that file format for your emulated games.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Which Emulators Support CHDs?
@@ -124,18 +138,18 @@ Our command was:
 * Get info about CHD files by using the**chdman info -i "FILENAME.chd"** prompt.
 * Check CHD files by using the**chdman verify -i "FILENAME.chd"** prompt.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Can You Decompress CHDs?
 
  Decompressing CHDs is almost the reverse of how you compress them. Since the format supports optical media and HDD backups, you must customize the command you'll use according to the media you're dealing with.
 
 ![A screenshot of the CHD Required category in the MAME emulator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/mame-requires-chd-filter.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  CHDMAN can only extract optical media backups back to the CUE & BIN combination with:
 
@@ -164,5 +178,19 @@ Our command was:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-automatic-cycling-of-videos-on-iphone-ease/"><u>[New] 2024 Approved Automatic Cycling of Videos on iPhone Ease</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-finding-chrome-companions-custom-melodies/"><u>[New] Finding Chrome Companion's Custom Melodies</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-how-to-upload-and-upgrade-your-horizons-in-igtvs-format/"><u>[New] In 2024, How to Upload & Upgrade Your Horizons in IGTV's Format</u></a></li>
+<li><a href="https://games-able.techidaily.com/correcting-minecraft-launcher-issues-code-0x803f8001/"><u>Correcting Minecraft Launcher Issues Code 0X803F8001</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-the-best-15-non-windows-movie-editing-tools/"><u>Discover the Best 15 Non-Windows Movie Editing Tools</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/exclusive-offer-save-30-on-winx-dvd-ripper-pro-premium-version-mac-download-2023-promo-codes/"><u>Exclusive Offer: Save 30% on WinX DVD Ripper Pro Premium Version Mac Download - 2023 Promo Codes</u></a></li>
+<li><a href="https://facebook.techidaily.com/google-and-linkedins-covert-tracking-for-uninterrupted-service/"><u>Google and LinkedIn's Covert Tracking for Uninterrupted Service</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigate-xbox-reimbursement-procedures/"><u>Navigate Xbox Reimbursement Procedures</u></a></li>
+<li><a href="https://games-able.techidaily.com/operas-secret-weapon-gaining-month-long-free-disco-access/"><u>Opera's Secret Weapon: Gaining Month-Long FREE Disco Access</u></a></li>
+<li><a href="https://games-able.techidaily.com/past-glories-which-7-games-should-see-the-light-of-day-again/"><u>Past Glories: Which 7 Games Should See the Light of Day Again?</u></a></li>
+<li><a href="https://games-able.techidaily.com/portable-playstation-delights-explored/"><u>Portable PlayStation Delights Explored</u></a></li>
+</ul></div>
 

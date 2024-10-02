@@ -1,7 +1,7 @@
 ---
 title: "Next-Gen Gaming: Deciding on DirectX 11 or 12"
-date: 2024-09-23T04:10:30.334Z
-updated: 2024-09-26T16:36:56.225Z
+date: 2024-09-29T23:12:02.357Z
+updated: 2024-10-02T10:57:12.748Z
 tags:
   - games
 categories:
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/e9efae3ff791fb7b0dc6f1f4f1438b97e5574ba34
 
  An API makes it possible for two or more computer programs to communicate with each other, which we discuss in[our overview of APIs](https://www.makeuseof.com/what-is-api/) . Think of it like a telephone. If your mom texts you with a grocery list, your phone will receive that data and display it for you. That is basically an API.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Are the Differences Between DirectX 11 and DirectX 12?
 
  So, what are the differences between DirectX 11 and DirectX 12? Put simply, DirectX 12 is the latest version of DirectX. One of the most noticeable differences is how they interact with your hardware. Most games developed with DirectX 11 only utilize between two and four[CPU cores](https://www.makeuseof.com/cpu-vs-vcpu-threads-vs-cores/) . One of these cores usually tells the GPU what to do.
@@ -61,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/e9efae3ff791fb7b0dc6f1f4f1438b97e5574ba34
  This significantly reduces the CPU overhead found in DirectX 11 and improves performance. So, what does this difference look like? Well, according to Microsoft, DirectX 12 reduces CPU overhead by up to 50 percent and improves GPU performance by as much as 20 percent. While those are some substantial improvements, this doesn't mean you will see the same results.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why Switching From DirectX 11 to DirectX 12 Isn't Straightforward
@@ -76,10 +69,10 @@ thumbnail: https://thmb.techidaily.com/e9efae3ff791fb7b0dc6f1f4f1438b97e5574ba34
  That being said, a game developed in DirectX 12 could end up with worse performance depending on the developer's knowledge of the API. Some improvements come with DirectX 12, but it really comes down to how well a developer can implement it. For this reason, many developers choose to stick to high-level APIs like DirectX 11.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## DX 11 vs. DX 12: Which Should You Choose?
@@ -87,6 +80,13 @@ thumbnail: https://thmb.techidaily.com/e9efae3ff791fb7b0dc6f1f4f1438b97e5574ba34
  The answer depends on a few things, like what game you are trying to run. For example, Guild Wars 2 runs on DirectX 11\. Even if your OS and hardware can use DirectX 12, you will not have the option to select DirectX 11 in Guild Wars 2 because the game does not support it. This is entirely the decision of the developer, ArenaNet.
 
 ![In-game image from Guild Wars 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/untitled-design-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Image Credit: Martin Kerstein/[Guild Wars 2](https://www.guildwars2.com/en/news/guesting-is-coming/)
 
@@ -99,10 +99,10 @@ thumbnail: https://thmb.techidaily.com/e9efae3ff791fb7b0dc6f1f4f1438b97e5574ba34
  In addition to in-game support, choosing between DirectX 11 and DirectX 12 will also depend on your hardware. Just about any modern GPU will support DirectX 12, but the same can't be said for older GPUs like the Radeon HD 4870\. Released in 2008, this GPU only supports up to DirectX 10\. This means it would be incapable of running most modern games, which run using DirectX 11 and DirectX 12.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is DirectX 12 the Right Choice for You?
@@ -124,20 +124,21 @@ thumbnail: https://thmb.techidaily.com/e9efae3ff791fb7b0dc6f1f4f1438b97e5574ba34
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-comparing-nikon-d7500-and-mirrorless-rivals/"><u>[New] Comparing Nikon D7500 and Mirrorless Rivals</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-blank-page-to-airwaves-writing-engaging-podcast-episodes/"><u>[New] From Blank Page to Airwaves Writing Engaging Podcast Episodes</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-srt-to-sub-pivotal-approaches-for-content-transformation/"><u>[New] SRT to SUB Pivotal Approaches for Content Transformation</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-hands-free-strategies-for-logging-online-meetings/"><u>[Updated] Hands-Free Strategies for Logging Online Meetings</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-chromatic-ingenuity-from-concept-to-creation/"><u>[Updated] In 2024, Chromatic Ingenuity From Concept to Creation</u></a></li>
-<li><a href="https://games-able.techidaily.com/2024-ddr5-board-excellence-guide/"><u>2024 DDR5 Board Excellence Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/5-ways-to-stop-steam-web-helper-from-using-all-your-ram/"><u>5 Ways to Stop Steam Web Helper From Using All Your RAM</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-closer-look-at-postponed-video-game-releases/"><u>A Closer Look at Postponed Video Game Releases</u></a></li>
-<li><a href="https://games-able.techidaily.com/astro-artisan-reviewing-exciting-computing-trends/"><u>Astro Artisan: Reviewing Exciting Computing Trends</u></a></li>
-<li><a href="https://games-able.techidaily.com/asus-rog-allys-game-changer-premiere-laptop-docks-of-2024/"><u>Asus ROG Ally's Game Changer - Premiere Laptop Docks of 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/becoming-the-master-storyteller-utilizing-chatgpt-for-text-based-adventures/"><u>Becoming the Master Storyteller: Utilizing ChatGPT for Text-Based Adventures</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719166175522-eliminate-glitches-with-the-latest-nvidia-graphics-update/"><u>Eliminate Glitches with the Latest Nvidia Graphics Update.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-education-5-student-techniques-with-chatgpt/"><u>Enhancing Education: 5 Student Techniques with ChatGPT</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-camon-20-premier-5g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Tecno Camon 20 Premier 5G Phone without Google Account?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-razr-40-ultra-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Razr 40 Ultra has been deleted.</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-fb-easy-listen-no-pay-required/"><u>[Updated] FB Easy Listen No Pay Required</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-fixed-most-effective-4-solutions-for-iphone-hdr-video-washed-out-in-premiere-pro/"><u>[Updated] In 2024, [Fixed] Most-Effective 4 Solutions for iPhone HDR Video Washed-Out in Premiere Pro</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-sharpening-recording-quality-by-removing-borders/"><u>[Updated] In 2024, Sharpening Recording Quality by Removing Borders</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-motorola-moto-g23-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Motorola Moto G23 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discovering-the-best-value-in-vr-a-deep-dive-into-the-oculus-quest-2-review/"><u>Discovering the Best Value in VR: A Deep Dive Into the Oculus Quest 2 Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-discord-effective-installation-methods-for-mac/"><u>Dive Into Discord: Effective Installation Methods for Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/economical-wired-and-membrane-pc-keys/"><u>Economical Wired and Membrane PC Keys</u></a></li>
+<li><a href="https://games-able.techidaily.com/engaging-screen-time-with-netflix-mobile-adventures/"><u>Engaging Screen Time with Netflix Mobile Adventures</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-tips-for-ps5-assist-controller-setup/"><u>Essential Tips for PS5 Assist Controller Setup</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-for-multi-monitor-setup-with-any-computer/"><u>Expert Advice for Multi-Monitor Setup with Any Computer</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-your-pc-to-the-cloud-play-with-xbox-anywhere/"><u>From Your PC to The Cloud – Play with Xbox Anywhere</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-infinix-hot-40-pro-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Infinix Hot 40 Pro to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-there-a-shift-towards-apple-computers-for-gamers/"><u>Is There a Shift Towards Apple Computers for Gamers?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-lava-blaze-2-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Lava Blaze 2 Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-troubleshooting-making-the-rockstar-games-launcher-work-again/"><u>Step-by-Step Troubleshooting: Making the Rockstar Games Launcher Work Again</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-gamers-choice-redefined-with-razers-v4-innovation/"><u>The Gamer’s Choice Redefined with Razer's V4 Innovation</u></a></li>
 </ul></div>
 

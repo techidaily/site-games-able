@@ -1,7 +1,7 @@
 ---
 title: Effortless Gaming on Xbox Without the D-Pad
-date: 2024-09-19T22:37:20.312Z
-updated: 2024-09-27T08:19:18.889Z
+date: 2024-09-30T09:54:51.724Z
+updated: 2024-10-02T12:32:58.581Z
 tags:
   - games
 categories:
@@ -46,26 +46,13 @@ thumbnail: https://thmb.techidaily.com/dfca7fb0aa6438e6377385ff2f472549907a4325f
 ![Add an existing console option on Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-an-existing-console-option-on-xbox-app.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Turn on remote features popup on Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/turn-on-remote-features-popup-on-xbox-app.jpeg)
-
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -77,6 +64,13 @@ Close
 
 ![A screenshot of the option to Test Remote Play on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/test-remote-play-on-xbox-series-x.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you pass the test, the Xbox app will automatically detect your console and connect with it. Then, you can remotely play games on your mobile, control your console using the app and manage games on your console, all just by using your smartphone.
 
 ![Living room Xbox on Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/living-room-xbox-on-xbox-app.jpeg)
@@ -86,6 +80,13 @@ Close
 Close
 
  However, it’s worth noting that you may not be able to play most of the games using the remote control on the Xbox app. The virtual remote control within the app is primarily designed for basic tasks and navigation within the Xbox console interface rather than fully-fledged gaming experiences.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Connect a Keyboard and Mouse to Your Xbox
 
@@ -98,10 +99,10 @@ Close
  However, note that although you can use a keyboard on Home and while navigating the Xbox interface, the use of a mouse is not supported for this purpose. You can only use a mouse in games that allow mouse input. Therefore, it’s best to check individual games for mouse compatibility before connecting a mouse to your Xbox One console.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Use Digital Assistants to Control Your Xbox One
@@ -111,6 +112,13 @@ Close
  The process of setting up and using digital assistants on an Xbox One is pretty straightforward. Go to **Settings > Devices & connections > Digital assistants** and check the box next to**Enable digital assistants** . If you do not have a controller, you can also perform these actions using the keyboard shortcuts mentioned in the above section.
 
 ![xbox digital assistants menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/xbox-enable-digital-assistants.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you haven’t already got it, download and open the respective digital assistant app on your smartphone and add your Xbox console to the app. You can check out our dedicated guides on[how to set up and use Alexa on your Xbox](https://www.makeuseof.com/xbox-series-x-s-how-to-set-up-alexa/) and[how to set up and use Google Assistant on your Xbox](https://www.makeuseof.com/xbox-series-x-s-how-to-set-up-and-use-google-assistant/) for detailed step-by-step instructions on how to achieve this.
 
@@ -122,29 +130,9 @@ Close
 
 ![Google Home devices tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-home-devices-tab.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Google Home voice assistant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-home-voice-assistant.jpeg)
 
 ![Google Home Xbox remote control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-home-xbox-remote-control.jpeg)
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -169,22 +157,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-immortalize-memories-unleash-save-free-magic/"><u>[New] 2024 Approved Immortalize Memories, Unleash Save-Free Magic</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-from-casual-gamer-to-pro-elevating-your-minecraft-recordings-with-a-mac-for-2024/"><u>[New] From Casual Gamer to Pro Elevating Your Minecraft Recordings with a Mac for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-privacy-pioneers-explore-instagram-stories-secretly/"><u>[New] In 2024, Privacy Pioneers Explore Instagram Stories Secretly</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-masterful-designers-top-insta-hlv-page-builders/"><u>[Updated] 2024 Approved Masterful Designers Top Insta HLV Page Builders</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-crafting-wealth-with-facebook-video-ads-a-comprehensive-guide/"><u>[Updated] In 2024, Crafting Wealth with Facebook Video Ads A Comprehensive Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/beyond-batteries-desired-innovations/"><u>Beyond Batteries: Desired Innovations</u></a></li>
-<li><a href="https://games-able.techidaily.com/beyond-the-points-what-should-you-value-on-steam/"><u>Beyond the Points: What Should You Value on Steam?</u></a></li>
-<li><a href="https://games-able.techidaily.com/blazing-speeds-razers-high-end-gaming-rig-basilisk-v3/"><u>Blazing Speeds: Razer's High-End Gaming Rig, Basilisk V3</u></a></li>
-<li><a href="https://games-able.techidaily.com/bluetooth-connectivity-for-playstation-audio-devices/"><u>Bluetooth Connectivity for PlayStation Audio Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/breakdown-fixing-faulty-xbox-series-xs/"><u>Breakdown: Fixing Faulty Xbox Series X|S</u></a></li>
-<li><a href="https://games-able.techidaily.com/bypass-xbox-ultimate-price-hike-with-smart-strategies/"><u>Bypass Xbox Ultimate Price Hike with Smart Strategies</u></a></li>
-<li><a href="https://games-able.techidaily.com/bypassing-standard-controls-to-play-xbox-one-games/"><u>Bypassing Standard Controls to Play Xbox One Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/classic-video-game-adventures-now-on-your-iphone/"><u>Classic Video Game Adventures, Now on Your iPhone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-effective-is-chatgpt-in-answering-mathematical-questions/"><u>How Effective Is ChatGPT in Answering Mathematical Questions?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-motorola-razr-40-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Motorola Razr 40?</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-streamline-your-video-collection-8-best-mac-metadata-editors/"><u>New Streamline Your Video Collection 8 Best Mac Metadata Editors</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/unleash-potential-in-tiktok-videos-free-editors-for-mac/"><u>Unleash Potential in TikTok Videos - Free Editors for Mac</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-explore-the-best-free-online-video-capture-platforms-for-2024/"><u>[New] Explore the Best Free Online Video Capture Platforms for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-depth-guide-to-mastering-your-discord-broadcasts-for-2024/"><u>[New] In-Depth Guide to Mastering Your Discord Broadcasts for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-streamline-your-shooting-canons-time-lapse-techniques-for-2024/"><u>[Updated] Streamline Your Shooting Canon's Time-Lapse Techniques for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-key-steps-to-enhance-real-time-sports-viewership/"><u>2024 Approved Key Steps to Enhance Real-Time Sports Viewership</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/accessing-c-span-archives-at-zero-cost-steps-included/"><u>Accessing C-Span Archives at Zero Cost - Steps Included</u></a></li>
+<li><a href="https://games-able.techidaily.com/desktop-vs-game-system-purpose-and-power/"><u>Desktop Vs. Game System: Purpose and Power</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-fix-low-game-fps-in-windows/"><u>How to Fix Low Game FPS in Windows</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-itel-p55-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Itel P55</u></a></li>
+<li><a href="https://games-able.techidaily.com/journey-through-the-steam-workshop-for-game-mastery/"><u>Journey Through The Steam Workshop for Game Mastery</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/libertycapture-suite-2024s-open-source-videography/"><u>LibertyCapture Suite 2024'S Open Source Videography</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-gameplay-with-advanced-audio-systems/"><u>Maximizing Gameplay with Advanced Audio Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/mwc-showcase-standout-solutions-by-makeuseof/"><u>MWC Showcase: Standout Solutions by MakeUseOf</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pinnacle-10-tools-for-masterful-online-subtitle-edits-for-2024/"><u>Pinnacle 10 Tools for Masterful Online Subtitle Edits for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/shop-smart-play-hard-free-nintendo-switch-games/"><u>Shop Smart, Play Hard: Free Nintendo Switch Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/test-of-patience-top-ten-tormented-titles/"><u>Test of Patience: Top Ten Tormented Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-disconnect-between-gamefi-and-gaming-communities/"><u>The Disconnect Between GameFi and Gaming Communities</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-10-highest-viewed-fifa-world-cup-clips-on-youtube/"><u>Top 10 Highest Viewed FIFA World Cup Clips on YouTube</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-and-solutions-for-not-found-mfc42ddll-error-messages/"><u>Troubleshooting and Solutions for 'Not Found' mfc42d.dll Error Messages</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-the-new-york-times-network-mystery/"><u>Unraveling The New York Times Network Mystery</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Decode Game Boy Archives on Linux
-date: 2024-09-18T02:20:45.458Z
-updated: 2024-09-21T01:10:29.457Z
+date: 2024-09-25T19:32:38.976Z
+updated: 2024-10-01T16:42:22.998Z
 tags:
   - games
 categories:
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/d20fb0a2bb9049e2210bb23aa9225c390244059ce
 
  You should only use ROMS you legally own. You can find a huge variety of homebrew Game Boy ROMS at[Homebrew Hub](https://hh.gbdev.io/) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Install php-terminal-gameboy-emulator on Linux
 
  Before you install php-terminal-gameboy-emulator, you should first make sure you have PHP installed. To check this, open a terminal and enter:
@@ -83,6 +90,13 @@ Make it executable with:
 
 `sudo mv php-gameboy.phar /usr/local/bin/php-gameboy`
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Play Awesome Game Boy Games in Your Linux Terminal
 
  To start a game with php-terminal-gameboy-emulator, you need to pass the filename of the ROM file as an argument. For instance:
@@ -106,10 +120,16 @@ Make it executable with:
 | M                 | Start            |
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Impress Your Friends With php-terminal-gameboy-emulator
@@ -131,5 +151,22 @@ Make it executable with:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-the-best-practices-for-recording-apex-heroes/"><u>[Updated] In 2024, The Best Practices for Recording Apex Heroes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dynamic-head-tracking-buzz-in-your-airpods-how-to-disable-it/"><u>Dynamic Head Tracking Buzz in Your AirPods? How to Disable It</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-game-economies-place-for-microtransactions/"><u>Elite Game Economies: Place for Microtransactions?</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-gaming-experience-console-to-pc-transition/"><u>Enhancing Gaming Experience: Console to PC Transition</u></a></li>
+<li><a href="https://games-able.techidaily.com/expertly-designed-multi-port-adapters-for-gaming/"><u>Expertly Designed Multi-Port Adapters for Gaming</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, iPogo will be the new iSpoofer On Apple iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-realme-narzo-60-pro-5g-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Realme Narzo 60 Pro 5G Phone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-virtual-sessions-a-compreayer-to-using-zoom-in-windows-10-for-2024/"><u>Mastering Virtual Sessions A Compreayer to Using Zoom in Windows 10 for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-sign-of-life-on-your-laptop-screen/"><u>No Sign of Life on Your Laptop Screen?</u></a></li>
+<li><a href="https://games-able.techidaily.com/screen-size-strategies-for-gamers/"><u>Screen Size Strategies for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-nostalgia-factor-meets-todays-tech-edge/"><u>The Nostalgia Factor Meets Today's Tech Edge</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-itel-p55-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Itel P55 Phones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-your-tunes-curated-list-of-websites-for-youtuberingtones-for-2024/"><u>Unlock Your Tunes Curated List of Websites For YouTubeRingtones for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/using-a-modern-dualsense-in-an-earlier-system/"><u>Using a Modern DualSense in an Earlier System?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/winx-dvd-ripper-platinum-quick-and-easy-5-minute-conversion-to-mp4-h264hevc/"><u>WinX DVD Ripper Platinum: Quick & Easy 5-Minute Conversion to MP4 (H.264/HEVC)</u></a></li>
+</ul></div>
 

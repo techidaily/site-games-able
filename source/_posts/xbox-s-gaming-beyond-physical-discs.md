@@ -1,7 +1,7 @@
 ---
 title: "Xbox S: Gaming Beyond Physical Discs"
-date: 2024-09-20T03:23:07.106Z
-updated: 2024-09-27T02:13:01.173Z
+date: 2024-09-27T04:46:45.574Z
+updated: 2024-10-01T18:41:09.163Z
 tags:
   - games
 categories:
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/35eb7ec70c3d68bdd6223aba9efbf03bc030e84e6
 
  While a disc drive-supported Xbox Series S would be hugely beneficial to you and other consumers, for Microsoft it could be a risky move that disturbs the main selling points of its flagship console. After all, if the Xbox Series S remained cheaper but supported discs, the reasons to get an Xbox Series X would narrow.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Keeping the Xbox Series S Digital-Only Guarantees Store Sales
 
  A less obvious sales reason the Xbox Series S is unlikely to get disc drive support is because of the console's heavy reliance on the Microsoft Store.
@@ -43,23 +50,9 @@ thumbnail: https://thmb.techidaily.com/35eb7ec70c3d68bdd6223aba9efbf03bc030e84e6
 
 ![A screenshot of the Xbox Store homepage on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/xbox-store.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  So for Microsoft, having more owners of digital-only consoles almost guarantees more users of the Microsoft Store, and retains purchases within Microsoft-owned sites, stores, and products. By association, if an external disc drive or disc drive-supported Series S were available, Microsoft would lose this guarantee.
 
  That being said, digital store processes are just one of many[things to consider when purchasing a digital-only console](https://www.makeuseof.com/buying-tips-digital-only-console/) , and you may even find some digital sales far better than physical ones. But the likelihood of Xbox releasing a disc drive-supported Xbox Series S becomes less likely with the effects on the Microsoft Store.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. External Disc Readers Are Disabled on Xbox Series S
 
@@ -74,16 +67,10 @@ thumbnail: https://thmb.techidaily.com/35eb7ec70c3d68bdd6223aba9efbf03bc030e84e6
  So while external disc drive support isn't completely out of the question for Xbox Series S, you'll have to wait for Microsoft to create its own external disc drive. And, even then, you won't be able to play your physical discs and will use the disc drive for verification only—if the patent is to be believed.
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. A Disc Drive-Supported Xbox Series S Would Increase Costs
@@ -95,13 +82,26 @@ thumbnail: https://thmb.techidaily.com/35eb7ec70c3d68bdd6223aba9efbf03bc030e84e6
 ![A photograph of a white Xbox Series S controller and console](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/kamil-s-supabuuk7f4-unsplash-1-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Whether through a higher-priced Series S, or an external drive accessory, the price of Series S budget gaming would rise. And even if Series S prices remained lower than the Xbox Series X, but still increased, you may find yourself seeing the best budget Xbox console less favorably.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Xbox Series S Is a Great Budget Console Even Without Disc Support
 
@@ -124,22 +124,20 @@ thumbnail: https://thmb.techidaily.com/35eb7ec70c3d68bdd6223aba9efbf03bc030e84e6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-fbx-gaming-a-complete-video-guide/"><u>[New] FBX Gaming A Complete Video Guide</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-optimal-vr-headset-choice-embracing-the-freedom-of-mobile-or-the-tethered-experience-in-2024/"><u>[New] Optimal VR Headset Choice Embracing the Freedom of Mobile Or The Tethered Experience, In 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-constructing-the-ideal-home-computer-for-advanced-video-editing/"><u>[Updated] Constructing the Ideal Home Computer for Advanced Video Editing</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-expert-tips-to-enhance-your-adobe-presentation-videos-for-2024/"><u>[Updated] Expert Tips to Enhance Your Adobe Presentation Videos for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/10-fastest-growing-youtube-channels-to-light-up-your-mind-for-2024/"><u>10 Fastest Growing YouTube Channels to Light Up Your Mind for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/bg3-hardware-requirements-at-a-glance/"><u>BG3 Hardware Requirements at a Glance</u></a></li>
-<li><a href="https://games-able.techidaily.com/bridging-wi-fi-gaps-for-switch-users/"><u>Bridging Wi-Fi Gaps for Switch Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/bringing-old-school-gaming-into-your-linux-space/"><u>Bringing Old-School Gaming Into Your Linux Space</u></a></li>
-<li><a href="https://games-able.techidaily.com/can-you-reuse-your-older-games-drives-with-the-ps5/"><u>Can You Reuse Your Older Games' Drives with the PS5?</u></a></li>
-<li><a href="https://games-able.techidaily.com/cellphone-playtime-whats-in-it-for-us/"><u>Cellphone Playtime: What's in It for Us?</u></a></li>
-<li><a href="https://games-able.techidaily.com/champion-circuits-victory-vistas/"><u>Champion Circuits: Victory Vistas</u></a></li>
-<li><a href="https://games-able.techidaily.com/choose-game-pass-ultimate-for-endless-gaming-joy/"><u>Choose Game Pass Ultimate for Endless Gaming Joy</u></a></li>
-<li><a href="https://games-able.techidaily.com/classic-charms-iphone-apps-for-old-school-games/"><u>Classic Charms: IPhone Apps for Old-School Games</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-oneplus-11-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your OnePlus 11 5G Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-nord-n30-se-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock OnePlus Nord N30 SE Phone Without Password?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-symphony-of-sights-picture-plus-sound-videography/"><u>In 2024, Symphony of Sights Picture + Sound Videography</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/iphones-panoramic-videos-explained-for-fb-sharing/"><u>IPhone's Panoramic Videos Explained for FB Sharing</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-paving-way-to-success-premier-video-gatherings-post-vidcon/"><u>[New] In 2024, Paving Way to Success Premier Video Gatherings (Post-VidCon)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-ultimate-guide-to-thriving-in-google-meet-chats/"><u>[Updated] The Ultimate Guide to Thriving in Google Meet Chats</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-mastering-instagram-concealing-tags-efficiently/"><u>2024 Approved Mastering Instagram Concealing Tags Efficiently</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-identity-control-nintendo-console-mastery-guide/"><u>Enhancing Identity Control: Nintendo Console Mastery Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/ifas-new-tech-pushing-the-boundaries-in-gaming-hardware/"><u>IFA's New Tech: Pushing the Boundaries in Gaming Hardware</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-10-steps-to-become-a-successful-smm/"><u>In 2024, 10 Steps to Become a Successful SMM</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-your-shooter-skills-with-perfect-mouse-sensitivity/"><u>Maximizing Your Shooter Skills with Perfect Mouse Sensitivity</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/optimal-image-fixer-app/"><u>Optimal Image Fixer App</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/optimiser-les-dimensions-de-vos-stories-dinstagram-une-strategie-seo-efficace/"><u>Optimiser Les Dimensions De Vos Stories D'Instagram : Une Stratégie SEO Efficace</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solve-windows-10-no-response-while-switching-bluetooth/"><u>Solve Windows 10 No-Response While Switching Bluetooth</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-game-companion-introducing-pdw4/"><u>The Ultimate Game Companion: Introducing PDW4</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-from-blemishes-to-beauty-a-step-by-step-fcpx-skin-smoothing-guide/"><u>Updated 2024 Approved From Blemishes to Beauty A Step-by-Step FCPX Skin Smoothing Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/vintage-video-games-redefined-for-modern-times/"><u>Vintage Video Games Redefined for Modern Times</u></a></li>
+<li><a href="https://games-able.techidaily.com/vital-gaming-equipment-specifications/"><u>Vital Gaming Equipment Specifications</u></a></li>
+<li><a href="https://games-able.techidaily.com/which-elgato-model-offers-superior-performance/"><u>Which Elgato Model Offers Superior Performance?</u></a></li>
 </ul></div>
 

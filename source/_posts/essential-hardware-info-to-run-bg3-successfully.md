@@ -1,7 +1,7 @@
 ---
 title: Essential Hardware Info to Run BG3 Successfully
-date: 2024-09-19T18:11:19.534Z
-updated: 2024-09-27T07:03:07.238Z
+date: 2024-09-24T21:42:28.679Z
+updated: 2024-10-02T04:29:20.829Z
 tags:
   - games
 categories:
@@ -44,22 +44,16 @@ Here’s a table for Baldur’s Gate 3’s specs:
 * M1 and M2 Macs with 16GB of RAM can run Baldur’s Gate 3 on high or ultra settings.
 * (Intel) MacBook Pros from 2016 to early 2020 might need to run on low settings unless they have the recommended specs.
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Platforms Can You Get Baldur's Gate 3 On, and How Much Is It?
 
 ![Baldur's Gate 3 Steam Store Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-steam-store-page.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Baldur’s Gate 3 came out for PC on August 3rd, but it will come out for macOS and PS5 on September 6th, and perhaps next year for Xbox Series X|S. Larian Studios has issues getting the split-screen to work effectively on the[cheaper and less powerful Xbox Series S](https://www.makeuseof.com/xbox-series-x-vs-xbox-series-s-which-should-you-buy/) .
 
@@ -78,10 +72,10 @@ Here’s a table for Baldur’s Gate 3’s specs:
 ![Baldur's Gate 3's multiplayer menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-s-multiplayer-menu.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can load saves across different platforms, but there’s no cross-play for PS5 and PC. Meaning that you can’t play with a friend using a PS5 if you’re using a PC and vice-versa.
@@ -91,10 +85,10 @@ Here’s a table for Baldur’s Gate 3’s specs:
  You should run your split-screen game with DirectX instead of Vulkan because it could crash otherwise.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is Baldur's Gate 3 Okay for Kids?
@@ -104,10 +98,10 @@ Here’s a table for Baldur’s Gate 3’s specs:
  There is a toggle to hide nudity in the character creation stage. This might help reduce the chances of a child seeing something inappropriate while you play.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Now You’re Ready to Play Baldur’s Gate 3 (or Not)
@@ -131,15 +125,24 @@ Here’s a table for Baldur’s Gate 3’s specs:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-essential-strategies-procuring-background-images-for-media/"><u>[New] Essential Strategies Procuring Background Images for Media</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-ultimate-guide-recording-your-youtube-livestreams-for-2024/"><u>[New] Ultimate Guide Recording Your YouTube Livestreams for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerate-your-pc-choose-winning-apps-of-2023/"><u>Accelerate Your PC: Choose Winning Apps of 2023</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719160514984-design-considerations-when-developing-signage-to-communicate-information-effectively-while-maintaining-visual-appeal/"><u>Design Considerations when Developing Signage to Communicate Information Effectively While Maintaining Visual Appeal;</u></a></li>
-<li><a href="https://games-able.techidaily.com/elite-xbox-joysticks-compared-2024/"><u>Elite Xbox Joysticks Compared 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-itel-s23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Itel S23 | Dr.fone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-reclaiming-your-omegle-presence-steps-to-overcome-an-online-ban/"><u>New In 2024, Reclaiming Your Omegle Presence Steps to Overcome an Online Ban</u></a></li>
-<li><a href="https://games-able.techidaily.com/reactive-vs-proactive-game-play-address-the-top-10-causes-of-crashes/"><u>Reactive vs Proactive Game Play: Address the Top 10 Causes of Crashes</u></a></li>
-<li><a href="https://games-able.techidaily.com/steam-tightens-rules-to-prevent-refund-manipulation/"><u>Steam Tightens Rules to Prevent Refund Manipulation</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-from-simple-to-sophisticated-mastering-zd-softs-video-recording-techniques/"><u>[New] 2024 Approved From Simple to Sophisticated Mastering ZD Soft's Video Recording Techniques</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-archive-powerpoint-into-video-repository-for-2024/"><u>[Updated] Archive PowerPoint Into Video Repository for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-easy-to-navigate-top-10-youtube-downloader-tools/"><u>[Updated] In 2024, Easy-to-Navigate Top 10 YouTube Downloader Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-manage-your-default-podcast-adds-on-spotify-playlist/"><u>2024 Approved Manage Your Default Podcast Adds on Spotify Playlist</u></a></li>
+<li><a href="https://games-able.techidaily.com/experience-enhanced-entertainment-with-the-incredible-deal-50-ultra-hd-toshiba-tv-for-only-729-limited-time-offer-this-labor-day-weekend/"><u>Experience Enhanced Entertainment with the Incredible Deal: 50 Ultra HD Toshiba TV for Only $729 – Limited Time Offer This Labor Day Weekend!</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-your-hands-on-the-latest-gaming-tech-with-nintendo-switch-oled-discounted-by-60-this-labor-day-only-at-walmart-zdnet-news/"><u>Get Your Hands on the Latest Gaming Tech with Nintendo Switch OLED Discounted by $60 This Labor Day, Only at Walmart | ZDNET News.</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-realme-11x-5g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Realme 11X 5G</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/linus-tech-tips-breach-exposed-in-depth-look-at-trojans-and-cybersecurity-risks/"><u>Linus Tech Tips Breach Exposed: In-Depth Look at Trojans and Cybersecurity Risks</u></a></li>
+<li><a href="https://techidaily.com/remove-tecno-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Tecno unlock screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/score-a-bargain-exclusive-offer-on-high-quality-85-tcl-tv-for-less-than-1k-during-the-holiday-weekend-insider-info-from-zdnet/"><u>Score a Bargain! Exclusive Offer on High-Quality 85 TCL TV for Less Than $1K During the Holiday Weekend – Insider Info From ZDNET.</u></a></li>
+<li><a href="https://games-able.techidaily.com/secure-your-premium-85-inch-tcl-television-at-an-unbeatable-price-of-1000-post-prime-day-exclusive-deal/"><u>Secure Your Premium 85-Inch TCL Television at an Unbeatable Price of $1,000 Post-Prime Day - Exclusive Deal!</u></a></li>
+<li><a href="https://games-able.techidaily.com/sony-releases-the-playstation-5-pro-key-specifications-cost-details-launch-timeline-and-comprehensive-insights-covered-by-zdnet/"><u>Sony Releases the PlayStation 5 Pro: Key Specifications, Cost Details, Launch Timeline, and Comprehensive Insights Covered by ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-resolving-continuous-mouse-connection-issues-on-your-computer/"><u>Step-by-Step Guide: Resolving Continuous Mouse Connection Issues on Your Computer</u></a></li>
+<li><a href="https://games-able.techidaily.com/story-3-believing-that-the-technology-would-have-no-significant-impact-on-business-operations-wrong-answer/"><u>Story 3: Believing that the Technology Would Have No Significant Impact on Business Operations (Wrong Answer)</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/this-innovative-virtual-reality-app-helps-you-learn-a-foreign-language-in-a-fun-way/"><u>This Innovative Virtual Reality App Helps You Learn a Foreign Language in a Fun Way</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-ram-choices-optimize-your-pcs-performance-for-work-and-play-latest-reviews-by-zdnet/"><u>Top Ram Choices : Optimize Your PC's Performance for Work & Play - Latest Reviews by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-guide-to-2023s-premium-gamer-headsets-exploring-the-offers-from-hyperx-steelseries-and-competitors-pcmag-review/"><u>Ultimate Guide to 2023'S Premium Gamer Headsets: Exploring the Offers From HyperX, SteelSeries, and Competitors | PCMag Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-huge-savings-up-to-32-off-the-xbox-fire-tv-stick-4k-and-secure-exclusive-access-to-xbox-game-pass-for-free-read-more-on-zdnet/"><u>Unlock Huge Savings: Up to 32% Off the Xbox Fire TV Stick 4K & Secure Exclusive Access to Xbox Game Pass for Free - Read More on ZDNet!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-lava-storm-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Lava Storm 5G Users</u></a></li>
 </ul></div>
 

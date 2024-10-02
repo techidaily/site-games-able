@@ -1,7 +1,7 @@
 ---
 title: "Gamepad Gateway: Directing Modern Controllers From Xbox to Windows Desktop (156 Chars)"
-date: 2024-09-21T18:56:18.188Z
-updated: 2024-09-26T19:44:17.226Z
+date: 2024-09-28T21:53:47.011Z
+updated: 2024-10-02T00:59:44.052Z
 tags:
   - games
 categories:
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 
  If you have trouble, make sure you're using a high-quality cable. Some USB-C cables only charge and don't support data transfer, so you might need to purchase another cable that supports all functionality.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. How to Connect an Xbox Controller to PC Using Bluetooth
 
 [If your PC has Bluetooth](https://www.makeuseof.com/does-computer-have-bluetooth/) , this is a convenient way of connecting your Xbox controller and PC wirelessly. However, to use it with an Xbox One controller, you must have the later model; see the image below for an illustration of the differences.
@@ -52,10 +59,10 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 ![Xbox One controller model comparison](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2017/11/Xbox-Controller-Comparison.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image Credit: Xbox Support  
@@ -69,10 +76,10 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
  Remember that the batteries in your Xbox controller will drain when using it wirelessly. To save money on batteries, we recommend picking up the[Xbox One Play and Charge Kit](https://www.amazon.com/Xbox-One-Play-Charge-Kit/dp/B00DBDPOZ4?th=1&psc=1&linkCode=ll1&tag=muo-v2-pagvhls-20&linkId=141e39c0797a1d7786bbe752350e72cf&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU26753&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Ftag%2Fconnect-xbox-one-controller-pc%2F&asc%5Fcampaign=Evergreen) (Xbox One controllers) or the[Xbox Rechargeable Battery](https://www.amazon.com/Xbox-Rechargeable-Battery-USB-C%C2%AE-Cable-one/dp/B08DFB4889?crid=2M3PAHF8MA3Y4&dchild=1&keywords=series%2Bx%2Bplay%2Band%2Bcharge%2Bkit&qid=1616106289&sprefix=series%2Bx%2Bplay%2Caps%2C168&sr=8-2&th=1&linkCode=ll1&tag=muo-v2-pagvhls-20&linkId=7d0bf187ffc186ab3a95d34957c4f9bf&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU26753&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Ftag%2Fconnect-xbox-one-controller-pc%2F&asc%5Fcampaign=Evergreen) (Series X|S controllers) to give your controller recharging capabilities. You can easily plug your controller into your PC when you're not using it, so it will always be ready for your next session.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Use the Xbox Wireless Adapter to Pair Your Xbox One Controller to a PC
@@ -88,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
  From here, you can enjoy your Xbox controller on your PC wirelessly, just like using Bluetooth. We only recommend this method if you have an Xbox One controller that's not Bluetooth-enabled, though. Otherwise, it's better to[add Bluetooth to your computer](https://www.makeuseof.com/add-bluetooth-pc/) with an adapter that's cheaper than the Xbox Wireless Adapter. You could also put the money that you'd spend on the Xbox Wireless Adapter towards a new Series X|S controller.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Reconnect Your Xbox Controller to Your Console
@@ -107,13 +114,6 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
  If you have an Xbox Series X|S controller, there's a convenient shortcut for switching paired devices. When you have the controller connected to a Bluetooth device, press the**Pair** button on top of the controller twice to immediately switch to the last Xbox Wireless connection (usually your console). Then, press the**Pair** button twice again to reconnect to the Bluetooth device you were just using.
 
  Finally, remember that you can turn off your Xbox controller (when it's not connected to a PC or console with a cable) by holding the**Xbox** button for around five seconds. When the light on this button goes out, your controller is off.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Connect an Xbox Controller to Your PC Easily
 
@@ -136,21 +136,19 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-thors-odyssey-the-last-stand/"><u>[New] 2024 Approved Thor’s Odyssey The Last Stand</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-streamlined-scheduling-combine-iphoneandroid-calendars-with-zoom/"><u>2024 Approved Streamlined Scheduling Combine iPhone/Android Calendars With Zoom</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-solutions-for-retrieving-deleted-iphone-contact-info/"><u>Complete Solutions for Retrieving Deleted iPhone Contact Info</u></a></li>
-<li><a href="https://games-able.techidaily.com/comprehensive-ergohead-standing-desk-mat-evaluation-ensuring-ultimate-comfort-and-endurance/"><u>Comprehensive Ergohead Standing Desk Mat Evaluation - Ensuring Ultimate Comfort and Endurance</u></a></li>
-<li><a href="https://games-able.techidaily.com/find-your-perfect-fixer-top-10-video-recovery-programs-for-both-windows-and-macos-systems/"><u>Find Your Perfect Fixer: Top 10 Video Recovery Programs for Both Windows & macOS Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/historical-roots-of-the-foddian-empire/"><u>Historical Roots of the Foddian Empire</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-poco-c51-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Poco C51?</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-comprehensive-guide-scaling-up-youtube-media/"><u>In 2024, Comprehensive Guide Scaling Up YouTube Media</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-examining-benq-sw320-the-4k-visionary/"><u>In 2024, Examining BenQ SW320 The 4K Visionary</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-framedivider-evaluation-report/"><u>In 2024, FrameDivider Evaluation Report</u></a></li>
-<li><a href="https://games-able.techidaily.com/ps5-hype-or-real-need-here-are-the-questions/"><u>PS5 Hype or Real Need? Here Are the Questions</u></a></li>
-<li><a href="https://games-able.techidaily.com/review-of-ddpai-mini3-dashcam-an-unexpectedly-entertaining-ride/"><u>Review of DDPai Mini3 Dashcam - An Unexpectedly Entertaining Ride</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-removing-a-user-account-from-windows-11-using-revo-uninstaller/"><u>Step-by-Step Guide: Removing a User Account From Windows 11 Using Revo Uninstaller</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-complete-2024-manual-on-resolving-audio-delay-problems/"><u>The Complete 2024 Manual on Resolving Audio Delay Problems</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-multi-functional-displays-a-games-perspective/"><u>Understanding Multi-Functional Displays: A Game's Perspective</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-ps4-input-pc-and-mac-integration-guide/"><u>Unlocking PS4 Input: PC & Mac Integration Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-monetization-magic-geek-channels/"><u>[New] 2024 Approved Monetization Magic Geek Channels</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-simplified-techniques-for-crafting-captions-on-fb-videos/"><u>[New] In 2024, Simplified Techniques for Crafting Captions on FB Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-best-practices-for-using-vimeo-in-instagram-shots/"><u>[Updated] Best Practices for Using Vimeo in Instagram Shots</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-query-unlimited-access-to-media-sharing-in-text-based-apps/"><u>[Updated] In 2024, Query Unlimited Access to Media Sharing in Text-Based Apps</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-elevating-your-films-impact-with-additional-camera-work/"><u>2024 Approved Elevating Your Film's Impact with Additional Camera Work</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-gaming-experience-subscribe-via-prime/"><u>Enhance Gaming Experience: Subscribe via Prime</u></a></li>
+<li><a href="https://video-capture.techidaily.com/essential-gaming-gear-keyboards-for-less-than-100/"><u>Essential Gaming Gear Keyboards for Less Than $100</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-restore-wordle-streaks-on-smartphones/"><u>How to Restore Wordle Streaks on Smartphones</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-lava-blaze-curve-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Lava Blaze Curve 5G Phone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-your-easy-passport-photo-maker-top-quality-for-desktoponline-use/"><u>In 2024, Your Easy Passport Photo Maker - Top Quality for Desktop/Online Use</u></a></li>
+<li><a href="https://win-premium.techidaily.com/integrating-youtube-videos-into-your-digital-book-with-flipbuilder-a-complete-guide/"><u>Integrating YouTube Videos Into Your Digital Book with FlipBuilder - A Complete Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/lost-in-transit-finding-the-way-back-to-mc-lan/"><u>Lost in Transit: Finding the Way Back to MC LAN</u></a></li>
+<li><a href="https://games-able.techidaily.com/simple-steps-to-revive-your-nintendo-switch-with-a-new-joystick/"><u>Simple Steps to Revive Your Nintendo Switch with a New Joystick</u></a></li>
+<li><a href="https://games-able.techidaily.com/temporary-havens-in-the-gaming-universe/"><u>Temporary Havens in the Gaming Universe</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Your Gateway to PC Gaming - Google Play Beta's Best Titles
-date: 2024-09-21T16:26:41.800Z
-updated: 2024-09-27T02:06:17.925Z
+date: 2024-09-26T19:29:01.464Z
+updated: 2024-10-02T07:04:45.609Z
 tags:
   - games
 categories:
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/275ca9774c095e0be2ae30797f9894bae65deae9e
 
 ![Two cartoon characters fighting in a game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-1946.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It's safe to say that idle games are some of the most popular titles for mobile devices. Idle Superpowers is one of the best idle games on the Google Play Games beta. It runs very well, but the nature of the game requires that you leave it open and running, as progression is limited to 10 levels and won't pass bosses unless the game is open and running. If you do this on mobile, you'll quickly drain your phone's battery.
 
  Playing this on a PC keeps you from using your phone's battery for extended periods, and it also runs much better on desktop. It's worth noting that you can't get ad rewards, though.
@@ -52,11 +45,25 @@ thumbnail: https://thmb.techidaily.com/275ca9774c095e0be2ae30797f9894bae65deae9e
 
 ![Login screen for Gems of War game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-1935.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Gems of War is a mobile game that's not available for PC unless you download an emulator or, in this case, the Google Play Games beta. There's no dramatic shift in terms of swapping to mouse and keyboard, but the gameplay is comfortable enough with just a mouse. However, it runs very well, and the visuals are impressive on a larger display.
 
 ![Gems of War gameplay showing gems and characters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-1941.jpg)
 
  As with all titles on the Google Play Games beta, progress is saved across all devices.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Cookie Run: OvenBreak
 
@@ -66,29 +73,22 @@ thumbnail: https://thmb.techidaily.com/275ca9774c095e0be2ae30797f9894bae65deae9e
 
 ![Gingerbread man in Cookie Run game running and collecting items](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-1933.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You're also in for a long wait while it installs. It took me over 45 minutes to finish installing this title on the Google Play Games beta. But the gameplay is smooth, and the controls make it especially enjoyable.
 
 ## 4\. Island War
 
 ![Island War main screen with village in background and batte button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-1950.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Island War gameplay with soldiers invading a square island](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-1951.jpg)
 
 ![Island War victory screen with soldiers celebrating on boat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-1952.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -96,19 +96,33 @@ Close
 
  Organizing units in boats also feels more engaging on a PC than on a phone. It's a great mobile game port to play on PC, as it has both active and idle elements.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Towerlands: Tower Defense TD
 
 ![Splash screen for Towerlands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-1910.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Towerlands: Tower Defense TD is another mobile game that translates well to PC. It has idle and active gameplay elements, and using a mouse makes the gameplay more engaging when it comes to selecting units and upgrades. While the graphics don't get much love, the gameplay is relaxing and worth trying.
 
 ![Towerlands game unit placement showing archery tower and knight](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-1914.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The visuals in this game are identical to the mobile version in every way, but the performance feels better, and I still found it quite enjoyable.
@@ -137,13 +151,6 @@ Close
 
  Hungry Shark Evolution is an instant classic, running smoothly on PC. Careful, though; I found this one to be quite addictive.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Idle Heroes
 
 ![Login screen for Idle Heroes game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-1915.jpg)
@@ -154,25 +161,18 @@ Close
 
  The gameplay loop is simple but can entertain for hours. It's worth mentioning that Idle Heroes codes do, in fact, work on the Google Play Games beta port of the game. So, if you're playing the game for the first time and want to use codes, you can start on PC.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Shop Titans: RPG Idle Tycoon
 
 ![Overhead view of a small shop with people making purchase requests](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/shop-game-overhead-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you typically shy away from complex[management and city-building games](https://www.makeuseof.com/best-city-building-games/) , Shop Titans: RPG Idle Tycoon on the Google Play Games beta might be for you. It's a simplistic and fun idle management game that's great for running in the background when multitasking. It's one of the better options to alt-tab to throughout your day, all without having to unlock your phone.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Summoners War
 
@@ -182,14 +182,14 @@ Close
 
 ![Overhead view of town in Summoners War game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-1922.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The main screen is a pleasant sight, even though it's identical to the mobile version. Ad rewards aren't available on PC, but everything else functions properly. Using a mouse instead of tapping on a screen is much more comfortable, and, as with a few other games on this list, it's a great game to run in the background when you're multitasking.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Try Out These PC Games on Google Play Games Beta
 
@@ -212,16 +212,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-battle-of-the-capture-tools-obs-studio-against-bandicam/"><u>[Updated] 2024 Approved Battle of the Capture Tools OBS Studio Against Bandicam</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-the-comprehensive-obs-playbook-for-ps4-gamers/"><u>[Updated] The Comprehensive OBS Playbook for PS4 Gamers</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-honor-magic-6-lite-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Honor Magic 6 Lite FRP Without Computer</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-ultimate-non-zoom-video-calls-for-pcphone-users/"><u>In 2024, Ultimate Non-Zoom Video Calls for PC/Phone Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-acemagics-am08-pro-game-changing-truly-real/"><u>Is AceMagic's AM08 Pro Game-Changing Truly Real?</u></a></li>
-<li><a href="https://games-able.techidaily.com/playing-windows-games-on-m1-a-guide-with-crossover/"><u>Playing Windows Games on M1: A Guide with Crossover</u></a></li>
-<li><a href="https://games-able.techidaily.com/safe-play-facing-the-rising-game-crime-wave/"><u>Safe Play: Facing the Rising Game Crime Wave</u></a></li>
-<li><a href="https://games-able.techidaily.com/steam-unlocked-discovering-top-notch-games-for-free/"><u>Steam Unlocked: Discovering Top-Notch Games for FREE</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/step-by-step-crafting-captivating-haul-videos/"><u>Step-by-Step Crafting Captivating Haul Videos</u></a></li>
-<li><a href="https://games-able.techidaily.com/supercharge-your-switch-essential-3-live-stream-platforms/"><u>Supercharge Your Switch: Essential 3 Live-Stream Platforms</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-evolution-continues-iphone-xs-photographic-advancements/"><u>The Evolution Continues IPhone X's Photographic Advancements</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-top-20-free-public-domain-pubg-screenshot-slideshows/"><u>[New] 2024 Approved Top 20 Free Public Domain PUBG Screenshot Slideshows</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-enhancing-gaming-the-ultimate-xbox-screen-recorders-guide/"><u>[Updated] In 2024, Enhancing Gaming The Ultimate Xbox Screen Recorder's Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-mastering-live-show-recordings-the-modern-way/"><u>[Updated] Mastering Live Show Recordings The Modern Way</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/3-smart-and-simple-ways-to-change-home-address-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>3 Smart and Simple Ways to Change Home Address on Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevated-sitting-solutions-for-giant-gamers/"><u>Elevated Sitting Solutions for Giant Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-security-adding-a-passcode-to-your-nintendo-switch/"><u>Enhancing Security: Adding a Passcode to Your Nintendo Switch</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-qualcomm-atheros-bluetooth-driver-issues-on-windows-10-complete-solution/"><u>How to Fix Qualcomm Atheros Bluetooth Driver Issues on Windows 10: Complete Solution</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/identifying-users-whove-spread-the-word-tracking-shares-of-your-facebook-content/"><u>Identifying Users Who've Spread the Word: Tracking Shares of Your Facebook Content</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Oppo F25 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-blueprint-to-dominate-with-your-spotify-ad-campaign/"><u>In 2024, The Blueprint to Dominate With Your Spotify Ad Campaign</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-your-steam-deck-games-epic-and-gog/"><u>Streamline Your Steam Deck Games: Epic and GOG</u></a></li>
+<li><a href="https://games-able.techidaily.com/supers-battle-zone-evaluating-4070-4070-ti-and-rtx-4080-performance/"><u>Supers Battle Zone: Evaluating 4070, 4070 Ti & RTX 4080 Performance</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unraveling-gmail-sync-woes-expert-advice-on-getting-your-emails-to-update-properly/"><u>Unraveling Gmail Sync Woes: Expert Advice on Getting Your Emails to Update Properly</u></a></li>
 </ul></div>
 

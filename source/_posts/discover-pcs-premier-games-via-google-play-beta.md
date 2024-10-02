@@ -1,7 +1,7 @@
 ---
 title: Discover PC’s Premier Games via Google Play Beta
-date: 2024-09-16T19:03:37.753Z
-updated: 2024-09-20T18:53:18.026Z
+date: 2024-09-30T04:32:22.092Z
+updated: 2024-10-02T07:21:31.471Z
 tags:
   - games
 categories:
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/290af97afad1802ce323c8e9ce6f1c1f031089327
 
 ![Login screen for Gems of War game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-1935.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Gems of War is a mobile game that's not available for PC unless you download an emulator or, in this case, the Google Play Games beta. There's no dramatic shift in terms of swapping to mouse and keyboard, but the gameplay is comfortable enough with just a mouse. However, it runs very well, and the visuals are impressive on a larger display.
 
 ![Gems of War gameplay showing gems and characters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-1941.jpg)
@@ -59,13 +66,6 @@ thumbnail: https://thmb.techidaily.com/290af97afad1802ce323c8e9ce6f1c1f031089327
 
 ![Gingerbread man in Cookie Run game running and collecting items](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-1933.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You're also in for a long wait while it installs. It took me over 45 minutes to finish installing this title on the Google Play Games beta. But the gameplay is smooth, and the controls make it especially enjoyable.
 
 ## 4\. Island War
@@ -73,6 +73,13 @@ thumbnail: https://thmb.techidaily.com/290af97afad1802ce323c8e9ce6f1c1f031089327
 ![Island War main screen with village in background and batte button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-1950.jpg)
 
 ![Island War gameplay with soldiers invading a square island](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-1951.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Island War victory screen with soldiers celebrating on boat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-1952.jpg)
 
@@ -85,6 +92,13 @@ Close
 ## 5\. Towerlands: Tower Defense TD
 
 ![Splash screen for Towerlands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-1910.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Towerlands: Tower Defense TD is another mobile game that translates well to PC. It has idle and active gameplay elements, and using a mouse makes the gameplay more engaging when it comes to selecting units and upgrades. While the graphics don't get much love, the gameplay is relaxing and worth trying.
 
@@ -107,10 +121,10 @@ Close
 ![Hungry Shark Evolution login screen with shark in middle of screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hungry-shark-evolution-home-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Hungry Shark Evolution is one of the best ports from mobile to PC via the Google Play Games beta. It downloads, installs, and loads very quickly. One of perhaps its only drawbacks involves its visuals, which can seem noticeably poor on larger monitors and screens.
@@ -121,14 +135,14 @@ Close
 
 ![Hungry Shark Evolution shark chasing fish](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hungry-shark-evolution-chasing-fishies.jpg)
 
- Hungry Shark Evolution is an instant classic, running smoothly on PC. Careful, though; I found this one to be quite addictive.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Hungry Shark Evolution is an instant classic, running smoothly on PC. Careful, though; I found this one to be quite addictive.
 
 ## 8\. Idle Heroes
 
@@ -138,13 +152,20 @@ Close
 
 ![Characters battling in Idle Heroes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/idle-heroes-battle-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The gameplay loop is simple but can entertain for hours. It's worth mentioning that Idle Heroes codes do, in fact, work on the Google Play Games beta port of the game. So, if you're playing the game for the first time and want to use codes, you can start on PC.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Shop Titans: RPG Idle Tycoon
@@ -157,22 +178,16 @@ Close
 
 ![Login screen for Summoners War](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-1918.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Summoners War offers a great mix of idle and active gameplay mechanics, which makes it another fantastic choice for playing on PC. It's also one of the more in-depth idle games available on the Google Play Games beta, with hero, building, and combat management.
 
 ![Overhead view of town in Summoners War game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-1922.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The main screen is a pleasant sight, even though it's identical to the mobile version. Ad rewards aren't available on PC, but everything else functions properly. Using a mouse instead of tapping on a screen is much more comfortable, and, as with a few other games on this list, it's a great game to run in the background when you're multitasking.
 
@@ -195,5 +210,23 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-7-best-and-free-srt-translation-websites-unveiled/"><u>[New] 7 Best & Free SRT Translation Websites Unveiled</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-storytelling-with-epic-videos/"><u>[Updated] 2024 Approved Instagram Storytelling with Epic Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-speed-tutorial-changing-photos-into-engaging-youtube-thumbnails/"><u>[Updated] Speed Tutorial Changing Photos Into Engaging YouTube Thumbnails</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-bright-ideas-for-android-video-mastery/"><u>2024 Approved Bright Ideas for Android Video Mastery</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/430ex-iii-rt-flash-powerhouse-of-rock-solid-construction/"><u>430EX III-RT Flash: Powerhouse of Rock Solid Construction</u></a></li>
+<li><a href="https://games-able.techidaily.com/engaging-viewers-live-xbox-streaming-on-discord/"><u>Engaging Viewers: Live Xbox Streaming on Discord</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-your-gaming-experience-with-game-pass-ultimate/"><u>Enhance Your Gaming Experience With Game Pass Ultimate</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-meta-might-reshape-social-networking-for-europeans/"><u>How Meta Might Reshape Social Networking for Europeans</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-noise-reduction-in-xbox-audio/"><u>Navigating Noise Reduction in Xbox Audio</u></a></li>
+<li><a href="https://games-able.techidaily.com/origins-of-foddian-a-gaming-journey/"><u>Origins of Foddian: A Gaming Journey</u></a></li>
+<li><a href="https://games-able.techidaily.com/rising-tide-of-cyber-dangers-for-digital-warriors/"><u>Rising Tide of Cyber Dangers for Digital Warriors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-finding-a-suitable-surge-protector-for-all-devices/"><u>The Ultimate Guide to Finding a Suitable Surge Protector for All Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/typing-efficiency-and-the-hidden-factor-of-refresh-intervals/"><u>Typing Efficiency and the Hidden Factor of Refresh Intervals</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unleashing-your-funny-bone-a-stepwise-guide-to-making-memes-on-9gag/"><u>Unleashing Your Funny Bone A Stepwise Guide to Making Memes on 9GAG</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-create-stunning-videos-best-movie-makers-for-win-10-for-2024/"><u>Updated Create Stunning Videos Best Movie Makers for Win 10 for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-gamers-should-opt-for-steam-the-ultimate-decision-maker-guide/"><u>Why Gamers Should Opt for Steam: The Ultimate Decision-Maker Guide</u></a></li>
+</ul></div>
 

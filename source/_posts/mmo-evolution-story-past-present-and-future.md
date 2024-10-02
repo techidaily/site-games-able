@@ -1,7 +1,7 @@
 ---
 title: "MMO Evolution Story: Past, Present & Future"
-date: 2024-09-21T00:35:07.941Z
-updated: 2024-09-27T00:36:07.641Z
+date: 2024-09-26T04:31:08.917Z
+updated: 2024-10-01T23:52:19.051Z
 tags:
   - games
 categories:
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/8fb2d0d577922e31978350cb180e7bc0e8d3ea4b5
  There are other subgenres of MMOs that extend to sports, racing, and even music games. Typically though, an MMO that you come across is going to be an MMORPG or an MMOFPS. If you love to compete with other players but also explore rich and vast lands, then one of the[best free MMORPGs](https://www.makeuseof.com/tag/the-10-greatest-free-mmorpgs-to-start-playing-now/) is going to be more your style. If you're a fan of FPS games like Halo and Call of Duty but want something that requires more commitment, an MMOFPS would be more well-suited. Finding the right MMO for you takes a little bit of research but is worth it if you find a game that you enjoy playing.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Is an MMO Game Different From Other Games?
@@ -47,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/8fb2d0d577922e31978350cb180e7bc0e8d3ea4b5
 ![Flat screen monitors with a keyboard and mouse on a desk lit up by LED lights](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/pc-gaming-setup.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  While all games are built with the core goal of being a fun time, they are not all built for the same type of player. MMO games differ from other games by offering a massive amount of content in a vast world, with the underpinning of making the world a social experience that, while occasionally necessary, isn't mandatory to you completing the game's quests. You can be an outsider that solos dungeon bosses and random street-side mobs. You can join a guild of other players and go raiding with them every Friday night to share in high-level loot.
@@ -66,13 +66,6 @@ MMOs allow you to play as:
 
  Finally, some players want to feel a sense of longevity and progress with the games they choose to play. A game like NBA or Call of Duty would have their progress essentially wiped year-on-year if they wanted to keep up with the latest titles. On an MMO, you can commit to playing on one account for the next 10–20 years at least, usually. MMOs tend to be constantly-evolving games that require a commitment, a bit of buy-in from you and other players. That speaks to certain gamers, while others find it too intense.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The History of MMO Games
 
 ![Old School Runescape running on the RuneLite app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/old-school-runescape.jpg)
@@ -83,22 +76,35 @@ MMOs allow you to play as:
 
  By the 2000s, MMOs like World of Warcraft, RuneScape, and Lord of the Rings Online were all popular choices, amassing pretty impressive player bases. In the 2010s, you'd have seen titles like Star Wars: The Old Republic, Black Desert, and The Elder Scrolls Online. The fluctuating popularity of MMOs has clearly not prevented new titles from being released, though the peak of World of Warcraft and similar titles in the early 21st century seems unlikely to be repeated.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## State of Play: The Modern MMO
 
 ![Data about New World on the Steam Charts website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/steamcharts-new-world.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Battle royale and FPS have arguably been the most prominent genres in gaming for quite some time, which has led to an[MMO drought from developers](https://www.makeuseof.com/what-is-mmo-drought/) . It is unsurprising that the masses of gamers cannot offer the level of commitment necessary to play an MMO properly. Even if they could, the MMO then has the difficult task of offering enough content to sustain their attention.
 
  Despite the fluctuating popularity of MMOs since their peak in the aughts, a dedicated player base remains. As does excitement—relatively recent MMOs such as Lost Ark and New World have proven that the demand is there for a decent, fresh MMO experience. Both titles have had peaks of over one million concurrent active players, despite issues at launch and bugs.
 
  Players will flock to an MMO if it is well-developed, rich in content and environment, and offering something new. However, it is reasonable to say that MMOs are unlikely to ever become a genre for the masses since they tend to attract the more hardcore gamers that are willing to offer a higher level of commitment to the experience.
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## MMOs Are a Great Genre
 
@@ -121,22 +127,20 @@ MMOs allow you to play as:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-stream-your-webcam-in-real-time-using-vlc-software-for-2024/"><u>[New] Stream Your Webcam in Real Time Using VLC Software for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-the-art-of-hdr-enhancement-your-lightroom-journey-for-2024/"><u>[New] The Art of HDR Enhancement Your Lightroom Journey for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-elevating-your-content-game-with-these-top-20-tiktok-captions/"><u>[Updated] 2024 Approved Elevating Your Content Game with These Top 20 TikTok Captions</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-instagram-saves-free-and-without-end/"><u>[Updated] 2024 Approved Instagram Saves Free and Without End</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo V27 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/guide-obtaining-printer-and-scanner-drivers-that-are-not-preinstalled-on-windows-nt-os/"><u>Guide: Obtaining Printer and Scanner Drivers that Are Not Preinstalled on Windows nT OS</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-15-pro-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From iPhone 15 Pro Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-the-digital-landscape-with-toms-hardware-experts/"><u>Navigating the Digital Landscape with Tom’s Hardware Experts</u></a></li>
-<li><a href="https://games-able.techidaily.com/necessity-of-having-a-multi-functional-game-display/"><u>Necessity of Having a Multi-Functional Game Display?</u></a></li>
-<li><a href="https://games-able.techidaily.com/real-or-fake-can-am08-pro-determine-quality-of-acemagic/"><u>Real or Fake: Can AM08 Pro Determine Quality of AceMagic?</u></a></li>
-<li><a href="https://games-able.techidaily.com/simplified-strategy-for-linking-epic-and-steam/"><u>Simplified Strategy for Linking Epic and Steam</u></a></li>
-<li><a href="https://games-able.techidaily.com/strategize-reach-the-top-of-every-game-milestone-list/"><u>Strategize: Reach the Top of Every Game Milestone List</u></a></li>
-<li><a href="https://games-able.techidaily.com/tech-wizardry-discovering-ps5s-browsing-secret/"><u>Tech Wizardry: Discovering PS5's Browsing Secret</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-8-premier-gaming-outlets-and-reviews/"><u>Top 8 Premier Gaming Outlets & Reviews</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-9-apple-iphone-6-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-ios/"><u>Top 9 Apple iPhone 6 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-9-tricks-for-optimal-nintendo-switch-play/"><u>Top 9 Tricks for Optimal Nintendo Switch Play</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-connectors-ideal-for-ps5-devices/"><u>Ultimate Connectors: Ideal for PS5 Devices</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-unveiling-the-top-methods-of-video-and-screenshots/"><u>[Updated] In 2024, Unveiling the Top Methods of Video & Screenshots</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-capture-every-day-in-the-life-of-your-sims-with-pro-tips-for-gameplay-recordings/"><u>2024 Approved Capture Every Day in the Life of Your Sims with Pro Tips for Gameplay Recordings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-tiktok-bgs-exploring-affordable-eye-catching-visuals/"><u>2024 Approved TikTok BGs Exploring Affordable, Eye-Catching Visuals</u></a></li>
+<li><a href="https://games-able.techidaily.com/advanced-features-unveiled-in-the-latest-black-shark-5-pro-analysis-zdnet/"><u>Advanced Features Unveiled in the Latest Black Shark 5 Pro Analysis | ZDNet</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/boost-your-pcs-performance-discover-the-secret-windows-11-feature-that-rapidly-terminates-sluggish-programs-insights-from-zdnet/"><u>Boost Your PC's Performance: Discover the Secret Windows 11 Feature That Rapidly Terminates Sluggish Programs - Insights From ZDNet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/descubre-la-solucion-definitiva-herramientas-expertas-para-abrir-archivos-swf/"><u>Descubre La Solución Definitiva: Herramientas Expertas Para Abrir Archivos SWF</u></a></li>
+<li><a href="https://games-able.techidaily.com/dont-miss-out-unbeatable-labor-day-sale-on-fire-tv-and-xbox-game-pass-bundle-save-a-whopping-33-techradar-news/"><u>Don't Miss Out! Unbeatable Labor Day Sale on Fire TV and Xbox Game Pass Bundle – Save a Whopping 33% | TechRadar News</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fix-excel-2013-formula-not-showing-result-stellar-by-stellar-guide/"><u>Fix Excel 2013 formula not showing result | Stellar</u></a></li>
+<li><a href="https://games-able.techidaily.com/hp-victus-15l-gaming-laptop-now-at-a-steal-price-cut-by-almost-40-available-for-520-exclusive-deal-alert/"><u>HP Victus 15L Gaming Laptop Now at a Steal: Price Cut by Almost 40%, Available for $520 - Exclusive Deal Alert</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-motorola-moto-g34-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Motorola Moto G34 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-virtual-reality-gamers-wealth/"><u>In 2024, Virtual Reality Gamers' Wealth</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-44-unbeatable-christmas-and-new-year-flash-drives-promotions-of-2023-zdnet/"><u>Top 44 Unbeatable Christmas & New Year Flash Drives Promotions of 2023 | ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-gamers-hidden-gem-the-top-ranked-samsung-projector-for-unbeatable-play-experiences-insider-review/"><u>Unlocking Gamers' Hidden Gem: The Top-Ranked Samsung Projector for Unbeatable Play Experiences - Insider Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/zdnets-in-depth-steelseries-aerox-5-gaming-mouse-assessment-is-it-overloaded-with-features/"><u>ZDNet's In-Depth SteelSeries AeroX 5 Gaming Mouse Assessment: Is It Overloaded With Features?</u></a></li>
 </ul></div>
 

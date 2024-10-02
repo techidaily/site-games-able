@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Enjoy Emulated Classics on Steam Deck"
-date: 2024-09-19T00:47:08.074Z
-updated: 2024-09-21T01:00:31.936Z
+date: 2024-09-28T18:33:11.440Z
+updated: 2024-10-01T18:52:44.728Z
 tags:
   - games
 categories:
@@ -47,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/35cdbcc9d0463edeaedcfabc37b755463ffdb3615
  If you prefer to install emulators individually, you'll find most of them on the Discover store. If you like the sound of EmuDeck, we'll cover the next steps involved in setting it up.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Set Up EmuDeck on a Steam Deck
@@ -63,6 +63,13 @@ thumbnail: https://thmb.techidaily.com/35cdbcc9d0463edeaedcfabc37b755463ffdb3615
 
 ![screenshot of the emudeck install package on the steam deck desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emudeck_install_package_on_desktop.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you've switched to Desktop Mode, you'll need to head to the[EmuDeck website](https://www.emudeck.com) and download the install package. Make sure you do this on your actual Steam Deck, unless you're willing to copy it over from another device.
 
  This install package will need to be placed on your Steam Deck's desktop before you run it. You'll find this file in your**Downloads** folder unless saved elsewhere. Drag and drop this file onto the desktop. It's important to do this because the script will not run otherwise.
@@ -74,10 +81,10 @@ thumbnail: https://thmb.techidaily.com/35cdbcc9d0463edeaedcfabc37b755463ffdb3615
 ![screenshot of the emudeck set up screen showing a selection between easy mode or custom mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emudeck_setup_easymode_or_custommode.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 We'll choose easy mode, as it's the most straightforward.
@@ -98,6 +105,13 @@ We'll choose easy mode, as it's the most straightforward.
 
 ![Screenshot of the EmuDeck folder showing systems.txt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emudeck_systems_txt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can check which folder is for which console by opening the**systems.txt** file down the bottom. Additionally, there is a**systeminfo.txt** file within each of the folders that contains information on supported ROM file types.
 
  BIOS files can also all go into the same**bios** folder and be read by whatever emulator happens to need them. You can find out what system files are required by navigating back to the main screen of EmuDeck, clicking on**Manage Emulators** , and hitting**Manage** on any individual emulator.
@@ -107,10 +121,10 @@ We'll choose easy mode, as it's the most straightforward.
 ![Screenshot of EmuDeck DuckStation page showing that BIOS files are needed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emudeck_duckstation_bios_files_needed.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Keep in mind that the Steam Deck has no native feature for transferring files from other devices. You will need to use hardware adapters to plug in a storage device like a USB drive or find alternative means to transfer the files over.
@@ -120,13 +134,6 @@ We'll choose easy mode, as it's the most straightforward.
 ### 3\. Add Emulators to Your Steam Deck's Gaming Mode
 
 ![screenshot of emulator categories on the steam deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emulators_on_steam_deck.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  So now you have a bunch of emulators installed. But you don't really want to launch into desktop mode every time you want to play them.
 
@@ -159,5 +166,16 @@ We'll choose easy mode, as it's the most straightforward.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-obs-streaming-windows-and-mac-guide/"><u>[New] 2024 Approved OBS Streaming [Windows and Mac Guide]</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-download-and-relive-a-compreran-review-of-top-youtube-playlist-extractors/"><u>[New] Download and Relive A Compreran Review of Top YouTube Playlist Extractors</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-unmasking-the-top-10-clandestine-story-gurus/"><u>[New] Unmasking the Top 10 Clandestine Story Gurus</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-art-of-fbx-filming-preserving-your-playthroughs/"><u>[Updated] The Art of FBX Filming Preserving Your Playthroughs</u></a></li>
+<li><a href="https://games-able.techidaily.com/craftsmads-and-fun-try-larger-arcade-cabinet-framing/"><u>Craftsmads and Fun: Try Larger Arcade Cabinet Framing!</u></a></li>
+<li><a href="https://games-able.techidaily.com/gesture-gaming-pen-or-mouse-precision-edge/"><u>Gesture Gaming: Pen or Mouse Precision Edge</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-reactivate-unresponsive-microsoft-controllers-windows/"><u>How to Reactivate Unresponsive Microsoft Controllers (Windows)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/play-switch-in-style-on-your-mac/"><u>Play Switch in Style on Your Mac</u></a></li>
+</ul></div>
 

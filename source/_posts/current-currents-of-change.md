@@ -1,7 +1,7 @@
 ---
 title: Current Currents of Change
-date: 2024-09-19T18:21:19.031Z
-updated: 2024-09-26T18:46:06.611Z
+date: 2024-09-27T06:35:59.270Z
+updated: 2024-10-02T09:52:31.976Z
 tags:
   - games
 categories:
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/d1308294694574ea6db8acba4a99168df2eb7c1da
  A faster CPU, sure. Better graphics, naturally. But what quirky, groundbreaking features could Nintendo’s out-of-the-box thinking bring to the Switch successor?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1 The Switch Tablet as a Second Screen
@@ -49,28 +49,28 @@ thumbnail: https://thmb.techidaily.com/d1308294694574ea6db8acba4a99168df2eb7c1da
  A bold approach would see a new run of two-screen games, but also a development of the Switch’s flexible selling point, giving us one more way to play.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2 An Upgradeable Dock
 
 ![official nintendo switch docking station](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/official-nintendo-switch-docking-station.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Nintendo
 
  One of the promises of a hybrid system was that it offers portability when you need it, and power when you can afford to stay still. The Switch has never quite borne this out, with a pretty ineffective[dock lacking in some obvious areas](https://www.makeuseof.com/the-nintendo-switch-dock-desperately-needs-an-upgrade-reasons-why/) . It does little more than serve as a hub for power and video output. By improving its dock, and introducing a broader range, Nintendo could do us all a huge favor.
 
  Of course, the technology needs to support it, but a dock with an upgradable CPU or GPU would be top of my list. I’d also love to see more video options: 1440p, 4K, and 8K if possible. The dock could even support fancier audio options, or other peripherals and accessories altogether.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3 Full Support for Current Eshop Purchases
 
@@ -90,16 +90,16 @@ Nintendo
 
  It might also be fun to see a return of a proper camera, as lovable as the JoyCon IR is.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5 More Than One Game Card Slot
 
 ![shutterstock_1447447304](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/shutterstock_1447447304.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Back in the heyday of compact discs, one of the most sought-after features was a disc changer or multi-disc tray that gave access to several albums at once. I've never wanted a console equivalent quite as much as I do with the Nintendo Switch.
 
@@ -122,24 +122,16 @@ Nintendo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-how-to-create-impressive-slow-motion-content-a-step-by-step-instagram-reel-masterclass/"><u>[New] How to Create Impressive Slow Motion Content A Step by Step Instagram Reel Masterclass</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-where-the-magic-of-video-editing-begins-on-youtube/"><u>[Updated] Where the Magic of Video Editing Begins on YouTube</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-capturing-chats-storing-gh-live-sessions/"><u>2024 Approved Capturing Chats Storing GH Live Sessions</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-top-tips-for-webinar-preservation-without-hurdles-windows-macos/"><u>2024 Approved Top Tips for Webinar Preservation without Hurdles (Windows, macOS)</u></a></li>
-<li><a href="https://games-able.techidaily.com/7-reasons-to-challenge-ray-tracings-dominance-in-gaming/"><u>7 Reasons to Challenge Ray Tracing's Dominance in Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-closer-look-at-ai-powered-dlss-version-35-by-nvidia/"><u>A Closer Look at AI-Powered DLSS Version 3.5 by Nvidia</u></a></li>
-<li><a href="https://games-able.techidaily.com/abolish-your-subscription-commitments-in-steam/"><u>Abolish Your Subscription Commitments in Steam</u></a></li>
-<li><a href="https://games-able.techidaily.com/accessories-more-than-just-visual-enhancements/"><u>Accessories: More Than Just Visual Enhancements</u></a></li>
-<li><a href="https://games-able.techidaily.com/ai-powered-narrative-building-for-games/"><u>AI-Powered Narrative Building for Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/assessing-risks-and-rewards-for-gamers-from-microsofts-deal/"><u>Assessing Risks and Rewards for Gamers From Microsoft’s Deal</u></a></li>
-<li><a href="https://games-able.techidaily.com/battle-royale-at-your-desktop-selecting-the-best-online-fps-games/"><u>Battle Royale at Your Desktop: Selecting the Best Online FPS Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/beat-competitors-to-grab-spider-man-2-limited-edition/"><u>Beat Competitors to Grab Spider-Man 2 Limited Edition</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/elevate-your-stories-advanced-bokeh-techniques-for-2024/"><u>Elevate Your Stories Advanced Bokeh Techniques for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Oppo Find X6 Pro? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-motorola-razr-40-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Motorola Razr 40 by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719167559846-ioss-elite-gbadvance-emulators-replaying-the-golden-days/"><u>IOS's Elite GBAdvance Emulators: Replaying the Golden Days</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/nutritious-food-prep-via-digital-culinary-mentors/"><u>Nutritious Food Prep via Digital Culinary Mentors</u></a></li>
-<li><a href="https://techidaily.com/some-ways-to-unlock-iphone-6s-screen-lock-by-drfone-ios-unlock-ios-unlock/"><u>Some ways to unlock iPhone 6s screen lock</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-advanced-methods-for-reducing-storage-space-needed-for-media-files/"><u>Updated Advanced Methods for Reducing Storage Space Needed for Media Files</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-peeling-back-the-layers-10-realities-about-instagram-reels-for-2024/"><u>[New] Peeling Back the Layers 10 Realities About Instagram Reels for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-essential-20-hysterical-detention-cell-gifs-to-amplify-your-online-joy/"><u>2024 Approved Essential 20 Hysterical Detention Cell Gifs to Amplify Your Online Joy</u></a></li>
+<li><a href="https://facebook.techidaily.com/effortless-image-sharing-the-future-of-fb-automatic-captions/"><u>Effortless Image Sharing: The Future of FB Automatic Captions</u></a></li>
+<li><a href="https://games-able.techidaily.com/embracing-digital-play-9-reasons-to-celebrate-and-why-not/"><u>Embracing Digital Play: 9 Reasons to Celebrate, and Why Not?</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-xboxs-anti-fairness-measures/"><u>Exploring Xbox’s Anti-Fairness Measures</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mastery-of-removal-eliminating-downloaded-youtube-clips/"><u>In 2024, Mastery of Removal Eliminating Downloaded YouTube Clips</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/to-youtube-riches-optimal-view-figures-for-monetization-success-for-2024/"><u>Path to YouTube Riches Optimal View Figures for Monetization Success for 2024</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/quick-guide-transforming-m4v-videos-into-high-speed-mkv-file-conversions/"><u>Quick Guide: Transforming M4V Videos Into High-Speed MKV File Conversions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/quintessential-scripting-spectrum-8-cinematic-classes-for-2024/"><u>Quintessential Scripting Spectrum 8 Cinematic Classes for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-big-picture-comprehensive-overview/"><u>Steam Big Picture: Comprehensive Overview</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-asus-rog-allies-laptop-docks/"><u>Top ASUS ROG Allies Laptop Docks</u></a></li>
 </ul></div>
 

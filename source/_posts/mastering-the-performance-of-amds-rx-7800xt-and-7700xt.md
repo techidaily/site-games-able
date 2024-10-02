@@ -1,7 +1,7 @@
 ---
 title: Mastering the Performance of AMD's RX 7800XT & 7700XT
-date: 2024-09-23T20:25:51.730Z
-updated: 2024-09-27T06:34:23.322Z
+date: 2024-09-26T09:02:02.666Z
+updated: 2024-10-01T22:25:26.875Z
 tags:
   - games
 categories:
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/1da8846cbd836d9712f7b59a73630f863ec9ad2fa
  At Gamescom 2023, AMD officially announced the much-anticipated Radeon RX 7800 XT and RX 7700 XT, filling a significant gap in its RDNA 3 GPU lineup. These graphics cards are designed to deliver a solid 1440p gaming experience at 60+ FPS (even in the most demanding AAA titles) while also competing directly with Nvidia's GeForce RTX 4070 and RTX 4060 Ti.
 
  To better understand the capabilities of AMD's current-gen GPU architecture, here's a comprehensive breakdown of all the relevant details surrounding the RX 7800 XT and RX 7700 XT.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## RX 7800 XT vs. RX 7700 XT: Specifications and Overview
 
@@ -68,13 +75,6 @@ thumbnail: https://thmb.techidaily.com/1da8846cbd836d9712f7b59a73630f863ec9ad2fa
 
  On the contrary, the RX 7700 XT presents a compelling upgrade path from the previous-gen RX 6700 XT and its mid-gen refresh—the RX 6750 XT—albeit at a $100 price premium. Nevertheless, it remains to be seen whether AMD has truly delivered a noteworthy generational uplift or inadvertently launched a costly sidegrade like Nvidia's much-maligned GeForce RTX 4060 Ti.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## RX 7800 XT vs. RX 7700 XT: Gaming Performance
 
  According to AMD's internal benchmarks, the Radeon RX 7800 XT engages in a back-and-forth battle with Nvidia's $600 RTX 4070, whereas the RX 7700 XT stands favorably against the $500 RTX 4060 Ti 16GB variant. More importantly, both GPUs demonstrate the ability to surpass the 60 FPS threshold at 1440p, "Ultra" settings in a range of recent AAA titles.
@@ -82,10 +82,10 @@ thumbnail: https://thmb.techidaily.com/1da8846cbd836d9712f7b59a73630f863ec9ad2fa
 ![RX 7700 XT vs. RTX 4060 Ti 16GB Benchmark Data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rx-7700-xt-vs-rtx-4060-ti-16gb.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image Credit:[IGN](https://www.youtube.com/watch?v=cJyRQmhCkDk)
@@ -99,10 +99,10 @@ thumbnail: https://thmb.techidaily.com/1da8846cbd836d9712f7b59a73630f863ec9ad2fa
  Furthermore, AMD's performance figures for the RX 7800 XT put it in a formidable position against the RTX 4070, showcasing a 9% advantage in rasterization and a 6% deficit in select RT titles. Although the average gain isn't as impressive as seen in the previous slide, the RX 7800 XT undercuts Nvidia's upper mid-range offering by around $100.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## RX 7800 XT vs. RX 7700 XT: Pricing and Availability
@@ -114,16 +114,10 @@ thumbnail: https://thmb.techidaily.com/1da8846cbd836d9712f7b59a73630f863ec9ad2fa
  While the Radeon RX 7800 XT comes in an AMD reference dual-fan, dual-slot design, alongside custom variants, the RX 7700 XT will only be made available through AIB partners like ASRock, ASUS, Biostar, Gigabyte, PowerColor, Sapphire, Vastarmor, XFX, and Yeston.
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AMD's Next-Gen 1440p Gaming GPUs Unveiled
@@ -147,22 +141,20 @@ thumbnail: https://thmb.techidaily.com/1da8846cbd836d9712f7b59a73630f863ec9ad2fa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-techniques-and-tools-for-fast-quality-image-reductions/"><u>[New] 2024 Approved Techniques and Tools for Fast, Quality Image Reductions</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-the-ultimate-guide-to-recording-hulu-episodes-on-multiple-devices-for-2024/"><u>[New] The Ultimate Guide to Recording Hulu Episodes on Multiple Devices for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-crafting-content-12-best-for-insta-edits/"><u>[Updated] Crafting Content 12 Best for Insta Edits</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-srgb-efficiency-against-basic-rgb-for-2024/"><u>[Updated] Srgb Efficiency Against Basic Rgb for 2024</u></a></li>
-<li><a href="https://solve-help.techidaily.com/1-exploring-handbrakes-cuda-and-opencl-support-the-ultimate-guide-to-gpu-accelerated-video-conversion/"><u>1. Exploring HandBrake's CUDA & OpenCL Support: The Ultimate Guide to GPU-Accelerated Video Conversion</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-facebook-video-maker-how-to-make-facebook-video/"><u>2024 Approved Facebook Video Maker How to Make Facebook Video</u></a></li>
-<li><a href="https://games-able.techidaily.com/become-a-pokemon-pro-ios-strategies-unveiled/"><u>Become a Pokémon Pro: IOS Strategies Unveiled</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-calculating-video-data-use-in-a-full-day-watch/"><u>In 2024, Calculating Video Data Use in a Full-Day Watch</u></a></li>
-<li><a href="https://games-able.techidaily.com/muting-game-sounds-a-comprehensive-guide-to-noise-reduction/"><u>Muting Game Sounds: A Comprehensive Guide to Noise Reduction</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-launch-problems-a-guide-to-getting-robocop-rogue-city-running-on-windows-and-mac/"><u>Overcoming Launch Problems: A Guide to Getting RoboCop: Rogue City Running on Windows & Mac</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-up-your-linux-playtime-top-7-terminal-games/"><u>Step Up Your Linux Playtime: Top 7 Terminal Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-by-step-xbox-series-xs-controller-dismantling-guide/"><u>Step-by-Step Xbox Series X/S Controller Dismantling Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/strategies-to-simulate-steam-disconnection/"><u>Strategies to Simulate Steam Disconnection</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-dirt-free-diary-weekly-console-care-routines/"><u>The Dirt-Free Diary: Weekly Console Care Routines</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-9-gaming-hubs-champions-collectives/"><u>Top 9 Gaming Hubs: Champions' Collectives</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-potential-a-compreenas-five-tips-for-customizing-your-xbox-game-bar-experience/"><u>Unlock Potential: A Compreenas Five Tips for Customizing Your Xbox Game Bar Experience</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/vanquish-invisible-launching-in-sims-town/"><u>Vanquish Invisible Launching in Sims Town</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/o-youtubers-get-paid-monthly/"><u>[New] Do YouTubers Get Paid Monthly?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-unveiling-the-mystery-of-free-graphic-imagery/"><u>[New] Unveiling the Mystery of Free Graphic Imagery</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gopro-hero5-captured-life-review/"><u>[Updated] GoPro Hero5 Captured Life Review</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-secrets-of-saving-gameplay-on-windows-10-for-2024/"><u>[Updated] Secrets of Saving Gameplay on Windows 10 for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-virtual-vanguards-the-leading-ladies-of-gaming/"><u>2024 Approved Virtual Vanguards The Leading Ladies of Gaming</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-vivo-y28-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-oppo-a18-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Oppo A18 Pattern Lock Screen</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/labor-day-deals-alert-grab-your-xbox-game-pass-and-free-fire-tv-stick-bundle-for-an-unbeatable-33-discount-see-how-at-zdnet/"><u>Labor Day Deals Alert: Grab Your Xbox Game Pass and Free Fire TV Stick Bundle for an Unbeatable 33% Discount - See How at ZDNet!</u></a></li>
+<li><a href="https://games-able.techidaily.com/memorial-day-savings-alert-up-to-250-off-on-cutting-edge-powerhouse-gaming-laptops-pcmagazine/"><u>Memorial Day Savings Alert: Up to $250 Off on Cutting-Edge Powerhouse Gaming Laptops | PCMagazine</u></a></li>
+<li><a href="https://games-able.techidaily.com/score-the-hp-victus-15l-gamers-dream-pc-priced-at-an-unbeatable-520-after-nearly-40-discount-limited-time-offer/"><u>Score the HP Victus 15L Gamer's Dream PC, Priced at an Unbeatable $520 After Nearly 40% Discount - Limited-Time Offer!</u></a></li>
+<li><a href="https://games-able.techidaily.com/shop-now-and-save-big-exclusive-offer-on-85-inch-tcl-tv-up-to-25-off-ending-labor-day-zdnet-shops/"><u>Shop Now and Save Big – Exclusive Offer on 85-Inch TCL TV, Up to 25% Off Ending Labor Day | ZDNET Shops.</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-audio-review-analyzing-the-rode-x-xcm-50s-impressive-sound-quality-in-a-portable-design-techradar-insights/"><u>The Ultimate Audio Review: Analyzing the Rode X XCM-50's Impressive Sound Quality in a Portable Design | TechRadar Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-ranked-gaming-graphics-cards-expert-picks/"><u>Top-Ranked Gaming Graphics Cards : Expert Picks</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-impactful-windows-11-service-disabling/"><u>Understanding Impactful Windows 11 Service Disabling</u></a></li>
 </ul></div>
 

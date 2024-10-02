@@ -1,7 +1,7 @@
 ---
 title: The Evolution of Game Pricing on Steam Platform
-date: 2024-09-17T17:56:16.483Z
-updated: 2024-09-20T20:01:46.762Z
+date: 2024-10-01T07:43:28.172Z
+updated: 2024-10-01T22:26:07.723Z
 tags:
   - games
 categories:
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/6038b4e1d0b30613cb41c0ccc8733d5ac9ac78f01
 
  Steam doesn't have a built-in way to see a game's price history, but luckily SteamDB offers a way to track this metric. Here's how to use the website so you can figure out if a deal is worth it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Check a Steam Game's Price History on SteamDB
 
 [SteamDB](https://steamdb.info/) is a database website that keeps track of various Steam metrics such as the most played games, trending games, and Steam sales. However, one of its most useful features is the ability to track a game's price history.
@@ -49,6 +56,13 @@ Here's how you can access the price history of a Steam game:
 
 ![price history for baldurs gate 3 on steamdb](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/price-history-for-baldurs-gate-3-on-steamdb.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On the right side of the page, you can set the currency you want to use. You should also note that the price history does not include the price of a game's DLC. You will have to search for the DLC separately to track its price history.
 
  The chart will also show you the price changes for the game in other currencies, along with the lowest recorded price for the game. In the case of Baldur's Gate 3, the current price is listed as $59.99 and its lowest recorded price was $53.99 (a 10% discount).
@@ -57,14 +71,14 @@ Here's how you can access the price history of a Steam game:
 
 ![price history chart timeline for bg3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/price-history-chart-timeline-for-bg3.png)
 
- Players will also be able to check if a price has increased since launch. You'll see this most often with games that were in Early Access or that had a launch sale, but is also helps you avoid price gouging.
-
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Players will also be able to check if a price has increased since launch. You'll see this most often with games that were in Early Access or that had a launch sale, but is also helps you avoid price gouging.
 
 ## Why a Game Might Not Have a Price History on Steam
 
@@ -73,10 +87,10 @@ Here's how you can access the price history of a Steam game:
  For games like PUBG: Battlegrounds, the current price is listed as N/A. This is because while the game was previously paid for, it has since moved to free-to-play.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Other Ways to Check Whether a Game Deal Is Worth It
@@ -104,5 +118,23 @@ Here's how you can access the price history of a Steam game:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-sound-in-sight-mixing-music-into-microsofts-presentation-tool/"><u>[New] In 2024, Sound in Sight Mixing Music Into Microsoft's Presentation Tool</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-essential-tips-for-overwatch-game-sound-logging/"><u>[Updated] 2024 Approved Essential Tips for Overwatch Game Sound Logging</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-prime-products-best-free-and-paid-macpc-video-decoders/"><u>[Updated] Prime Products Best Free & Paid Mac/PC Video Decoders</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-samsung-galaxy-s24-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Samsung Galaxy S24</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-asus-rog-phone-7-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Asus ROG Phone 7 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-apple-iphone-14-pro-max-location-on-skout-drfone-by-drfone-virtual-ios/"><u>How to Change Apple iPhone 14 Pro Max Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-fix-the-following-components-are-required-error-on-windows-11-and-11/"><u>How to Fix the “Following Components Are Required” Error on Windows 11 & 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-the-problem-with-non-responsive-google-chrome-browser/"><u>How to Fix the Problem with Non-Responsive Google Chrome Browser</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-your-gaming-data-insights-into-steam-stats-and-achievements/"><u>Mastering Your Gaming Data: Insights Into Steam Stats and Achievements</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-high-dpi-gamepad-marvels/"><u>Next-Gen High DPI Gamepad Marvels</u></a></li>
+<li><a href="https://games-able.techidaily.com/nintendos-top-switch-accessory-picks-2024-edition/"><u>Nintendo's Top Switch Accessory Picks: 2024 Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-storage-devices-for-ps5/"><u>Optimal Storage Devices for PS5</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-oppo-a78-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Oppo A78 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/rising-above-vr-expenses-the-story-of-four-financial-challenges/"><u>Rising Above VR Expenses: The Story of Four Financial Challenges</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-secrets-of-dual-booting-steam-deck/"><u>Unveiling the Secrets of Dual Booting Steam Deck</u></a></li>
+</ul></div>
 

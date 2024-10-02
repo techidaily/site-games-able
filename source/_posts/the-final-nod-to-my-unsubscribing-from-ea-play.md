@@ -1,7 +1,7 @@
 ---
 title: The Final Nod to My Unsubscribing From EA Play
-date: 2024-09-19T16:50:03.302Z
-updated: 2024-09-27T07:12:43.909Z
+date: 2024-09-25T16:20:20.209Z
+updated: 2024-10-02T01:05:11.680Z
 tags:
   - games
 categories:
@@ -27,13 +27,6 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
 * [Other Gaming Subscriptions Offer Better Value for Money](#other-gaming-subscriptions-offer-better-value-for-money)
 * [I Can Get EA Play With Xbox Game Pass](#i-can-get-ea-play-with-xbox-game-pass)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * EA Play prices globally are increasing, making the service less cost-effective.
@@ -45,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
 ## EA Play Prices Are Increasing Globally
 
 ![Ea Play new prices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ea-play-new-prices.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  EA Play started at $4.99 monthly or $29.99 yearly for the standard subscription, while the premium EA Play Pro cost $14.99 a month or $99.99 yearly. However, the company's recent announcement drives the prices by $1 a month or $10 annually for the standard EA Play. If you're subscribed to Pro, the price goes up by $2 monthly or $20 yearly. This means the new prices are now $5.99 monthly or $39.99 annually for the base EA Play and $16.99 a month or $119.99 a year for EA Play Pro.
 
@@ -67,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
 
  Even though EA Play is still an affordable service, I'm finally quitting it after five years. So, these are the reasons why I'm canceling my EA Play subscription.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. I Don't Want to Pay Too Much for Just EA Titles
 
 ![EA Play games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ea-play-games.jpg)
@@ -78,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
  While EA Play gives me early access to some of their new releases up to ten days before they launch, I don't see any new EA titles coming up. I also rarely use the 10% discount EA Play offers to subscribers like me, as I find the idea of paying for DLC while spending on a monthly subscription just too much.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. EA Isn't Adding New Perks and Features
@@ -101,10 +94,10 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
 ![Humble Bundle logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/humble-bundle-logo.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image Credit:[Humble Bundle](https://support.humblebundle.com/hc/en-us/articles/202742060-Bundle-Logos)
@@ -118,6 +111,19 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
 ## 4\. I Can Get EA Play With Xbox Game Pass
 
 ![A promotional image for Xbox Game Pass and EA Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/xbox-game-pass-and-ea-play.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Image Credit: [Xbox](https://www.xbox.com/en-us/games/store/xbox-game-pass-ultimate/cfq7ttc0khs0?WT.mc%5Fid=CNavGamesXboxGamePassUltimate)
 
@@ -142,17 +148,16 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-25-popular-tiktok-creators-with-anime-flair/"><u>[New] 2024 Approved 25 Popular TikTok Creators with Anime Flair</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-unlocking-hdr-potential-with-photo-hdr-techniques/"><u>[New] 2024 Approved Unlocking HDR Potential with Photo-HDR Techniques</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-emoji-magic-for-enhanced-discord-statues/"><u>[New] Emoji Magic for Enhanced Discord Statues</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-obs-vs-wirecast-ultimate-broadcast-showdown/"><u>2024 Approved OBS vs Wirecast Ultimate Broadcast Showdown</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/disabling-iphone-emergency-and-amber-notifications-step-by-step-guide/"><u>Disabling iPhone Emergency & AMBER Notifications: Step-by-Step Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-the-hidden-treasures-of-ps-vr2-add-ons/"><u>Discover the Hidden Treasures of PS VR2 Add-Ons</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-hevc-h-265-files-on-moto-g84-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How do you play HEVC/H.265 files on Moto G84 5G?</u></a></li>
-<li><a href="https://games-able.techidaily.com/portable-playground-essential-tips-for-gamers-on-the-move/"><u>Portable Playground: Essential Tips for Gamers on the Move</u></a></li>
-<li><a href="https://games-able.techidaily.com/securing-your-game-journey-screenshot-duplication/"><u>Securing Your Game Journey: Screenshot Duplication</u></a></li>
-<li><a href="https://games-able.techidaily.com/serious-gaming-tech-mod007b-hall-keyboard-review/"><u>Serious Gaming Tech: MOD007B Hall Keyboard Review</u></a></li>
-<li><a href="https://games-able.techidaily.com/smart-picks-inexpensive-motherboards-for-pc-gaming/"><u>Smart Picks: Inexpensive Motherboards for PC Gaming</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-mp4-video-editor-for-pc-seamless-editing-on-windows-8/"><u>Updated 2024 Approved MP4 Video Editor for PC Seamless Editing on Windows 8</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-8-best-youtube-video-promotion-services-real-for-2024/"><u>[New] 8 Best YouTube Video Promotion Services (Real) for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-tonal-triumphs-the-art-of-hue-enhancement/"><u>[Updated] Tonal Triumphs The Art of Hue Enhancement</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/10-superior-tools-for-fbx-file-recording/"><u>10 Superior Tools for FBX File Recording</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-top-value-1440p-monitors-perfect-for-gamers/"><u>Discover Top Value 1440P Monitors Perfect for Gamers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-a-symphony-for-photos-on-digital-platforms/"><u>In 2024, A Symphony for Photos on Digital Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigate-the-digital-realm-the-best-9-emulators-for-steam-decks/"><u>Navigate the Digital Realm: The Best 9 Emulators for Steam Decks</u></a></li>
+<li><a href="https://games-able.techidaily.com/pixels-over-hdr-top-6-reasons-not-to-upgrade-your-monitor/"><u>Pixels Over HDR: Top 6 Reasons Not to Upgrade Your Monitor</u></a></li>
+<li><a href="https://win11.techidaily.com/simplified-techniques-to-discard-a-drives-divisional-structure-in-windows/"><u>Simplified Techniques to Discard a Drive's Divisional Structure in Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-gaming-gpus-on-a-shoestring/"><u>Top Gaming GPUs on a Shoestring</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/two-titans-clash-in-the-vr-arena/"><u>Two Titans Clash in the VR Arena</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-bing-artificial-intelligence-features-for-seamless-communication-on-your-android-device/"><u>Unlocking Bing Artificial Intelligence Features for Seamless Communication on Your Android Device</u></a></li>
 </ul></div>
 

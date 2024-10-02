@@ -1,7 +1,7 @@
 ---
 title: Enhance Gameplay Experience on Switch via Efficient Controllers Using Ryujinx
-date: 2024-09-24T07:22:14.907Z
-updated: 2024-09-27T02:32:33.647Z
+date: 2024-09-29T22:15:45.503Z
+updated: 2024-10-01T23:17:19.128Z
 tags:
   - games
 categories:
@@ -35,19 +35,6 @@ thumbnail: https://thmb.techidaily.com/836971730456bc9358fe3cf3cc37a571dba17728e
 
  If you are yet to[install Ryujinx as a Nintendo Switch emulator for your PC](https://www.makeuseof.com/how-to-install-ryujinx-nintendo-switch-emulator-for-pc/) , the process can be tricky and may require individual file alterations. But even with the base version of Ryujinx installed, you can start mapping your controller of choice straight away.
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Map a PlayStation, Xbox, or Third-Party Controller in Ryujinx
 
  With some of the specific features of Ryujinx defined, you should be ready to start mapping a controller for Nintendo Switch emulation. So, as long as you have Ryujinx installed on your device of choice, you can map a Nintendo, PlayStation, Xbox, or third-party controller by following these steps:
@@ -57,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/836971730456bc9358fe3cf3cc37a571dba17728e
 * From the main menu of Ryujinx, select**Options** followed by**Settings** .
 
 ![A screenshot of the Options tab in Ryujinx with Settings highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Choose**Input** and ensure**Enable Docked Mode** is selected.
 * Under**Player 1** , select**Configure** , and Ryujinx should automatically find your connected controller.
@@ -72,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/836971730456bc9358fe3cf3cc37a571dba17728e
  And that's it. With your controller configuration saved, you can go on to emulate any Nintendo Switch game through Ryujinx while using your controller of choice, configured exactly to your preferences.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Customize Your Ryujinx Controller Settings
@@ -91,19 +85,25 @@ thumbnail: https://thmb.techidaily.com/836971730456bc9358fe3cf3cc37a571dba17728e
 ![A screenshot of the Configure settings for a controller in Ryujinx](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/configuration.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  While these alterations may seem small in some cases, having more options is always positive, and with Ryujinx offering a simple and effective way of mapping and customizing a controller for Switch emulation, more simple features are certainly not a bad thing.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Streamline Nintendo Switch Emulation With Ryujinx
@@ -127,22 +127,21 @@ thumbnail: https://thmb.techidaily.com/836971730456bc9358fe3cf3cc37a571dba17728e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/eo-tactics-to-increase-youtube-traffic-and-views-for-2024/"><u>[New] SEO Tactics to Increase YouTube Traffic and Views for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-prime-10-video-edits-boost-your-webcam-experience/"><u>[Updated] 2024 Approved Prime 10 Video Edits Boost Your Webcam Experience</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-audio-capturing-in-android-without-rooting-guide/"><u>[Updated] In 2024, Audio Capturing in Android - Without Rooting [Guide]</u></a></li>
-<li><a href="https://games-able.techidaily.com/crafting-optimal-gaming-graphics-and-modeling/"><u>Crafting Optimal Gaming Graphics and Modeling</u></a></li>
-<li><a href="https://games-able.techidaily.com/dashboard-deluge-oc-induced-chaos/"><u>Dashboard Deluge: OC-Induced Chaos</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/easy-effective-and-accurate-method-to-download-fb-gifs-anywhere/"><u>Easy, Effective and Accurate Method to Download FB GIFs Anywhere</u></a></li>
-<li><a href="https://games-able.techidaily.com/excellent-ssd-options-for-ps5-gaming/"><u>Excellent SSD Options for PS5 Gaming</u></a></li>
-<li><a href="https://driver-install.techidaily.com/get-your-windows-connected-mtk-drivers-download/"><u>Get Your Windows Connected: MTK Drivers Download</u></a></li>
-<li><a href="https://games-able.techidaily.com/graphics-showdown-rtx-4070-supers-and-ti-versus-4080-super/"><u>Graphics Showdown: RTX 4070 Supers and Ti Versus 4080 Super</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximizing-your-gain-steam-points-strategies/"><u>Maximizing Your Gain: Steam Points Strategies</u></a></li>
-<li><a href="https://games-able.techidaily.com/nvidias-rtx-4090-a-trifecta-of-regrets/"><u>NVIDIA's RTX 4090: A Trifecta of Regrets</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-lag-expert-advice-for-reactivating-your-rust-software/"><u>Overcoming Lag: Expert Advice for Reactivating Your Rust Software</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/parody-pointers-from-script-to-screenplay-for-2024/"><u>Parody Pointers From Script to Screenplay for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/rhythmic-input-devices-mouse-or-stylus-showdown/"><u>Rhythmic Input Devices: Mouse or Stylus Showdown</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-uts-is-essential-for-predicting-material-behavior-under-load-and-designing-safe-structures/"><u>The UTS Is Essential for Predicting Material Behavior Under Load and Designing Safe Structures.</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-8-elements-for-choosing-an-effective-cpu-cooler/"><u>Top 8 Elements for Choosing an Effective CPU Cooler</u></a></li>
-<li><a href="https://blog-min.techidaily.com/44kq44ku44ol44oh44oz44og44o844k344on44oz77ya6auy5zob6loq5lplusd5oyb44gn6zplusz6yep6kit5a6a44cb5yig5ymy44cb57wq5zci5yplusv6io9/"><u>オギュメンテーション：高品質保持で音量設定、分割、結合可能</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-efficient-ways-to-delete-previewed-content-from-youtubes-queue/"><u>[New] Efficient Ways to Delete Previewed Content From YouTube's Queue</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-caption-crusaders-top-10-writing-tools-for-image-capture-iosandroid/"><u>[New] In 2024, Caption Crusaders Top 10 Writing Tools for Image Capture (iOS/Android)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-professional-insights-crafting-and-sharing-360-videos-on-fb/"><u>[Updated] Professional Insights Crafting & Sharing 360 Videos on FB</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-buys-exclusive-deal-the-hp-victus-15-exceptional-value-for-gamers-slashed-prices-offer-extra-savings/"><u>Best Buy's Exclusive Deal: The HP Victus 15 - Exceptional Value for Gamers, Slashed Prices Offer Extra Savings!</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-the-ultimate-selection-of-budget-friendly-gaming-mice-rated-and-compared-by-zdnet/"><u>Explore the Ultimate Selection of Budget-Friendly Gaming Mice | Rated and Compared by ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-5-unique-features-that-make-opera-gx-a-standout-in-todays-mobile-browsers-insights-from-zdnet/"><u>Exploring 5 Unique Features That Make Opera GX a Standout in Today's Mobile Browsers - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/chaos-to-clarity-professional-tools-for-youtube-cuts-for-2024/"><u>From Chaos to Clarity Professional Tools for Youtube Cuts for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/o-make-free-intros-for-youtube-plustemplates-for-2024/"><u>How to Make Free Intros for YouTube? [+Templates] for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Oppo A78? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-gionee-f3-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Gionee F3 Pro Devices</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-integrating-airpods-with-your-desktop-system/"><u>New Integrating AirPods with Your Desktop System</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/perfect-planning-how-to-schedule-your-online-teams-virtual-gatherings-google/"><u>Perfect Planning How to Schedule Your Online Team's Virtual Gatherings (Google)</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-10-firework-worthy-television-deals-this-4th-of-july-on-zdnet/"><u>Top 10 Firework-Worthy Television Deals This 4Th of July on ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-50-unmissable-television-promotions-for-baby-boomers-during-the-2024-labor-day-celebration-insights-from-zdnet/"><u>Top 50 Unmissable Television Promotions for Baby Boomers During the 2024 Labor Day Celebration - Insights From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-66-unmissable-christmas-tv-package-offers-a-comprehensive-guide-by-zdnet/"><u>Top 66 Unmissable Christmas TV Package Offers: A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-rated-twitch-streaming-tools-reviewed-by-professionals-a-comprehensive-guide-to-the-most-effective-free-and-premium-apps-zdnet/"><u>Top Rated Twitch Streaming Tools Reviewed by Professionals: A Comprehensive Guide to the Most Effective Free & Premium Apps | ZDNet</u></a></li>
 </ul></div>
 

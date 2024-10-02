@@ -1,7 +1,7 @@
 ---
 title: Deciphering and Resolving Windows' Error Code 30005
-date: 2024-09-21T21:50:54.959Z
-updated: 2024-09-27T03:00:22.662Z
+date: 2024-09-30T04:36:18.877Z
+updated: 2024-10-01T20:06:22.566Z
 tags:
   - games
 categories:
@@ -38,13 +38,6 @@ So, what causes this error, and how do you fix it?
 
  Now that you know why you might be experiencing this error, let's discuss how you can fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. First, Perform Some Preliminary Checks
 
  You should first perform the following preliminary checks before moving on to the main fixes:
@@ -57,10 +50,10 @@ So, what causes this error, and how do you fix it?
  You can begin applying the remaining fixes if none of the above checks help.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Delete the EasyAntiCheat.Sys File
@@ -77,13 +70,6 @@ To do this, follow these steps:
 4. To delete the file, right-click on it and select**Delete** .  
 ![Deleting the EasyAntiCheat.Sys File in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/1-deleting-the-easyanticheat-sys-file-in-windows-file-explorer.jpg)
 5. Grant administrator permission if it is requested in the UAC window.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Relaunch the game.
 
@@ -105,10 +91,10 @@ If you encounter the same error again, proceed to the next step.
  If you have installed the game through Steam, you can repair your game files more easily. In our guide on[repairing game files using different launchers](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/#how-to-verify-game-file-integrity-on-steam) , we have covered the process for verifying the integrity of game files (or fixing corrupt game files) in Steam. So, follow the relevant instructions to repair corrupt files.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Whitelist Easy Anti-Cheat in Windows Defender or Antivirus
@@ -122,6 +108,19 @@ If you encounter the same error again, proceed to the next step.
  So, instead of doing that, you should whitelist Easy Anti-Cheat from Windows Defender and your antivirus program. Doing so will prevent either of these apps from blocking the Easy Anti-Cheat program, and both apps will continue to do their job of catching viruses.
 
  If you aren't familiar with the process to whitelist apps, check out our guide on[how to allow apps through Windows Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) . Likewise, visit the official website of the antivirus you're using. There, you'll find the instructions to whitelist apps in that particular software.
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Disable Kernel-Mode Hardware-Enforced Stack Protection
 
@@ -153,6 +152,14 @@ If you encounter the same error again, proceed to the next step.
 1. Go to the installation folder of your game. If you have installed the game through Steam, open the Steam client, right-click on the game, and select**Properties** . Choose**Local Files** from the left sidebar and click**Browse** on the right.  
 ![Clicking on the Browse Button in Local Files Tab in the Properties Window of a Game in Steam Client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/3-clicking-on-the-browse-button-in-local-files-tab-in-the-properties-window-of-a-game-in-steam-client.jpg)
 2. Close the Steam client and keep the installation folder open.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Go to the**Easy Anti-Cheat** folder.
 4. Run the Easy Anti-Cheat setup file.  
 ![Running the Easy Anti-Cheat Setup File From Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/4-running-the-easy-anti-cheat-setup-file-from-windows-file-explorer.jpg)
@@ -162,10 +169,17 @@ If you encounter the same error again, proceed to the next step.
 7. After that, click**Finish** and run the game.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Reinstall Easy Anti-Cheat
@@ -175,13 +189,6 @@ If you encounter the same error again, proceed to the next step.
  To do that, follow the same steps explained above and run the Easy Anti-Cheat setup file again. Then, instead of clicking on**Repair** , click on**Uninstall** in the bottom-left corner.
 
 ![Uninstalling the Easy Anti-Cheat in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstalling-the-easy-anti-cheat-in-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After that, click on**Install Easy Anti-Cheat** . Then click**Finish** .
 
@@ -204,16 +211,14 @@ If you encounter the same error again, proceed to the next step.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-selecting-your-perfect-mp4-device/"><u>[New] Selecting Your Perfect MP4 Device</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-next-gen-screen-capture-tools-ultra-fast-action/"><u>[Updated] 2024 Approved Next-Gen Screen Capture Tools - Ultra-Fast Action</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-comprehensive-list-of-premier-streaming-services/"><u>[Updated] Comprehensive List of Premier Streaming Services</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-the-art-of-photo-retouching/"><u>2024 Approved Mastering the Art of Photo Retouching</u></a></li>
-<li><a href="https://games-able.techidaily.com/ace-gaming-journey-recorders-guide/"><u>Ace Gaming Journey Recorders Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/best-of-breeds-macs-top-console-emulators/"><u>Best of Breeds: Mac's Top Console Emulators</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/detecting-and-fixing-the-problem-of-vanished-bluetooth-on-device-manager/"><u>Detecting and Fixing the Problem of Vanished Bluetooth on Device Manager</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719173549570-grasp-the-games-nitty-gritty-championship-manager-free-pc-version/"><u>Grasp the Game's Nitty-Gritty: Championship Manager, Free PC Version!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-the-problem-of-missing-texts-from-android-on-your-iphone-a-step-by-step-guide/"><u>Solving the Problem of Missing Texts From Android on Your iPhone – A Step-by-Step Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719172227578-top-tier-gba-ios-games-simulation-experience-awaits/"><u>Top-Tier GBA iOS Games Simulation Experience Awaits!</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-y100-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y100 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-12-top-tier-cameras-that-will-transform-your-vlogging-experience/"><u>[Updated] 12 Top-Tier Cameras That Will Transform Your Vlogging Experience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tips-for-gradual-decrease-of-audio-loudness-in-fl-studio/"><u>[Updated] Tips for Gradual Decrease of Audio Loudness in FL Studio</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-oppo-find-n3-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/cutting-off-steam-membership-services/"><u>Cutting Off Steam Membership Services</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/financial-tips-from-emojis-unraveling-activisions-cybersecurity-issues-and-the-future-of-ai-in-employment-stability/"><u>Financial Tips From Emojis, Unraveling Activision's Cybersecurity Issues & the Future of AI in Employment Stability</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-display-driver-failed-errors-in-windows-11-os/"><u>Overcoming Display Driver Failed Errors in Windows 11 OS</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrade-your-nvidia-driver-enhance-system-stability-and-speed/"><u>Upgrade Your Nvidia Driver - Enhance System Stability & Speed</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-java-games-top-the-gaming-hype-chart/"><u>Why Java Games Top the Gaming Hype Chart</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/xiaomi-redmi-note-12-4g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Xiaomi Redmi Note 12 4G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Future Outlook: Will Gaming PCs Cost More?"
-date: 2024-09-14T16:45:23.432Z
-updated: 2024-09-20T20:13:05.431Z
+date: 2024-10-01T02:32:50.427Z
+updated: 2024-10-01T17:37:16.778Z
 tags:
   - games
 categories:
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
  As they say, there is no smoke without fire—but without specific confirmation from Nvidia, it's all speculation.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Should You Upgrade Your GPU Now?
 
  Speculation about GPU prices always raises the question: should you buy a new GPU now? It's difficult to know exactly what to do, but there are a couple of considerations before you bite the bullet.
@@ -47,9 +54,23 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
 ![Radeon RX vs. GeForce GTX GPU](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/radeon-rx-vs-geforce-gtx-gpu.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Second, is the looming specter of AMD's strongly rumored RX 7700 XT and RX 7800 XT GPUs, which are expected to launch in September 2023\. If the launch of AMD's previous 7000-Series GPUs is anything to go by, its new GPUs will compete directly with Nvidia's. For example, the[AMD RX 7900 XTX undercut Nvidia's 4090](https://www.makeuseof.com/amd-7900-xtx-dethrone-nvidia/) by around $600\. While the Nvidia 4090 was undoubtedly the better GPU, in effectively every way, most regular consumers are prepared to drop a month's rent on a GPU.
 
  So while Nvidia may be preparing to reduce its GPU supply, the pressure from AMD may stop prices from rising too far.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Massive Crypto Mining Reduction Reduces Pressure
 
@@ -58,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
  One of the main pressures on GPU prices during the pandemic and following years was the enormous rise in Ethereum mining, which was primarily achieved using GPUs. Without this pressure and without an enormous amount of GPUs being swallowed up by crypto mining with each GPU generation, prices remain stable.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Keep One Eye on GPU Prices
@@ -83,5 +104,17 @@ Either way, it's best to keep one eye on GPU prices.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-top-5-eco-conscious-filmmaking-advances/"><u>[New] Top 5 Eco-Conscious Filmmaking Advances</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-essential-list-of-kid-safe-drones/"><u>[Updated] In 2024, Essential List of Kid-Safe Drones</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-digital-canvas-exploring-the-8-outstanding-drawing-apps-for-iphones/"><u>2024 Approved Digital Canvas Exploring the 8 Outstanding Drawing Apps for iPhones</u></a></li>
+<li><a href="https://extra-information.techidaily.com/chromatic-excellence-program/"><u>Chromatic Excellence Program</u></a></li>
+<li><a href="https://windows11.techidaily.com/combatting-installer-glitches-on-latest-windows-versions/"><u>Combatting Installer Glitches on Latest Windows Versions</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-dual-boot-your-steam-deck-to-windows-and-steamos/"><u>How to Dual Boot Your Steam Deck to Windows and SteamOS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-game-console-sound-amplification-and-modifications-for-ps4ps5/"><u>In 2024, Game Console Sound Amplification and Modifications for PS4/PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimize-performance-in-cs2-tips-and-tricks-for-mac-users/"><u>Optimize Performance in CS2: Tips and Tricks for Mac Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/selecting-ideal-dpi-for-top-gun-games/"><u>Selecting Ideal DPI for Top Gun Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-ddr5-board-guide-2024/"><u>The Ultimate DDR5 Board Guide 2024</u></a></li>
+</ul></div>
 

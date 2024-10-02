@@ -1,7 +1,7 @@
 ---
 title: "Ready Your System: BG3 Hardware Guide"
-date: 2024-09-24T00:10:37.079Z
-updated: 2024-09-27T01:12:03.078Z
+date: 2024-09-30T06:13:14.749Z
+updated: 2024-10-02T07:55:27.615Z
 tags:
   - games
 categories:
@@ -44,22 +44,15 @@ Here’s a table for Baldur’s Gate 3’s specs:
 * M1 and M2 Macs with 16GB of RAM can run Baldur’s Gate 3 on high or ultra settings.
 * (Intel) MacBook Pros from 2016 to early 2020 might need to run on low settings unless they have the recommended specs.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Platforms Can You Get Baldur's Gate 3 On, and How Much Is It?
 
 ![Baldur's Gate 3 Steam Store Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-steam-store-page.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Baldur’s Gate 3 came out for PC on August 3rd, but it will come out for macOS and PS5 on September 6th, and perhaps next year for Xbox Series X|S. Larian Studios has issues getting the split-screen to work effectively on the[cheaper and less powerful Xbox Series S](https://www.makeuseof.com/xbox-series-x-vs-xbox-series-s-which-should-you-buy/) .
@@ -70,13 +63,6 @@ Here’s a table for Baldur’s Gate 3’s specs:
 
  There are mods for Baldur’s Gate 3, but we suggest you wait a little longer to try them out since most were made with early access in mind.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Does Baldur's Gate 3 Have a Multiplayer, and How Does It Work?
 
  Baldur’s Gate 3 has a single-player mode you can play by yourself. However, you can quickly change your single-player game into a multiplayer game where your friends can join and control characters in your game.
@@ -85,11 +71,25 @@ Here’s a table for Baldur’s Gate 3’s specs:
 
 ![Baldur's Gate 3's multiplayer menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-s-multiplayer-menu.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can load saves across different platforms, but there’s no cross-play for PS5 and PC. Meaning that you can’t play with a friend using a PS5 if you’re using a PC and vice-versa.
 
  And yes, you can play split-screen simply by activating another controller in-game.
 
  You should run your split-screen game with DirectX instead of Vulkan because it could crash otherwise.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is Baldur's Gate 3 Okay for Kids?
 
@@ -98,10 +98,10 @@ Here’s a table for Baldur’s Gate 3’s specs:
  There is a toggle to hide nudity in the character creation stage. This might help reduce the chances of a child seeing something inappropriate while you play.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Now You’re Ready to Play Baldur’s Gate 3 (or Not)
@@ -125,16 +125,21 @@ Here’s a table for Baldur’s Gate 3’s specs:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-discover-every-aspect-of-io-visual-logging/"><u>[New] 2024 Approved Discover Every Aspect of IO Visual Logging</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-integrate-soundscape-into-premiere-pro-projects/"><u>[New] Integrate Soundscape Into Premiere Pro Projects</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-art-of-connecting-a-deep-dive-into-instagram-live/"><u>2024 Approved The Art of Connecting A Deep Dive Into Instagram Live</u></a></li>
-<li><a href="https://games-able.techidaily.com/beyond-streaming-can-geforce-now-improve-gaming/"><u>Beyond Streaming - Can GeForce Now Improve Gaming?</u></a></li>
-<li><a href="https://games-able.techidaily.com/bring-classic-gaming-to-life-select-ps3-emulators-for-pc-adventure/"><u>Bring Classic Gaming to Life: Select PS3 Emulators for PC Adventure</u></a></li>
-<li><a href="https://games-able.techidaily.com/can-you-use-ps5-for-ps4-games/"><u>Can You Use PS5 for PS4 Games?</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-xiaomi-redmi-note-12r-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Xiaomi Redmi Note 12R to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/compact-game-console-sonys-ps-vita/"><u>Compact Game Console: Sony's PS Vita</u></a></li>
-<li><a href="https://games-able.techidaily.com/comparative-study-of-asus-tuf-proart-and-prime-devices/"><u>Comparative Study of Asus, Tuf, ProArt, & Prime Devices</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-moto-g84-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G84 5G Phone without PIN</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/inside-the-world-of-the-serious-reader-unveiling-the-powerful-features-of-the-kobo-forma/"><u>Inside the World of the Serious Reader: Unveiling the Powerful Features of the Kobo Forma</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-uninterrupted-adventures-top-10-best-offline-ios-titles/"><u>[New] 2024 Approved Uninterrupted Adventures Top 10 Best Offline iOS Titles</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-masterpieces-in-film-script-writing-by-genre/"><u>[Updated] Masterpieces in Film Script Writing, By Genre</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-unlocking-the-potential-a-compreayers-guide-to-batched-video-downloads-from-tiktok/"><u>[Updated] Unlocking the Potential A Compreayer's Guide to Batched Video Downloads From TikTok</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-infinite-worlds-with-top-mmo-games-on-phones/"><u>Explore Infinite Worlds with Top MMO Games on Phones</u></a></li>
+<li><a href="https://games-able.techidaily.com/harmony-hunters-top-8-audio-quiz-games-to-beat/"><u>Harmony Hunters: Top 8 Audio Quiz Games to Beat</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-the-right-gaming-gear-can-help-you-get-good/"><u>How the Right Gaming Gear Can Help You Get Good</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-oneplus-ace-2-pro-by-drfone-android/"><u>How To Fix OEM Unlock Missing on OnePlus Ace 2 Pro?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-a-complete-guide-of-top-7-video-language-translators/"><u>In 2024, A Complete Guide of Top 7 Video Language Translators</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-the-art-of-keyboard-usage-on-your-steam-deck-gaming-console/"><u>Master the Art of Keyboard Usage on Your Steam Deck Gaming Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/masterful-hacks-extracting-xbox-perks-from-codes/"><u>Masterful Hacks: Extracting Xbox Perks From Codes</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/k-it-down-youtubes-video-trimming-process-for-2024/"><u>Shrink It Down YouTube's Video Trimming Process for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-into-a-world-apart-from-the-fallout-show/"><u>Step Into a World Apart From the Fallout Show</u></a></li>
+<li><a href="https://games-able.techidaily.com/unplugging-to-reengage-in-your-digital-world/"><u>Unplugging to Reengage in Your Digital World</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-the-most-acclaimed-windows-based-digital-audio-workstation-daw-list-a-free-and-paid-comparison-for-2024/"><u>Updated The Most Acclaimed Windows-Based Digital Audio Workstation (DAW) List A Free & Paid Comparison for 2024</u></a></li>
 </ul></div>
 

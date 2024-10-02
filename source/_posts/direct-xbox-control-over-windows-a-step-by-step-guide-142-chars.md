@@ -1,7 +1,7 @@
 ---
 title: Direct Xbox Control Over Windows - A Step-by-Step Guide (142 Chars)
-date: 2024-09-16T00:48:11.289Z
-updated: 2024-09-20T23:55:50.392Z
+date: 2024-10-01T01:45:42.205Z
+updated: 2024-10-02T09:00:51.283Z
 tags:
   - games
 categories:
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 
  If you have trouble, make sure you're using a high-quality cable. Some USB-C cables only charge and don't support data transfer, so you might need to purchase another cable that supports all functionality.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. How to Connect an Xbox Controller to PC Using Bluetooth
 
 [If your PC has Bluetooth](https://www.makeuseof.com/does-computer-have-bluetooth/) , this is a convenient way of connecting your Xbox controller and PC wirelessly. However, to use it with an Xbox One controller, you must have the later model; see the image below for an illustration of the differences.
@@ -61,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 
  Remember that the batteries in your Xbox controller will drain when using it wirelessly. To save money on batteries, we recommend picking up the[Xbox One Play and Charge Kit](https://www.amazon.com/Xbox-One-Play-Charge-Kit/dp/B00DBDPOZ4?th=1&psc=1&linkCode=ll1&tag=muo-v2-pagvhls-20&linkId=141e39c0797a1d7786bbe752350e72cf&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU26753&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Ftag%2Fconnect-xbox-one-controller-pc%2F&asc%5Fcampaign=Evergreen) (Xbox One controllers) or the[Xbox Rechargeable Battery](https://www.amazon.com/Xbox-Rechargeable-Battery-USB-C%C2%AE-Cable-one/dp/B08DFB4889?crid=2M3PAHF8MA3Y4&dchild=1&keywords=series%2Bx%2Bplay%2Band%2Bcharge%2Bkit&qid=1616106289&sprefix=series%2Bx%2Bplay%2Caps%2C168&sr=8-2&th=1&linkCode=ll1&tag=muo-v2-pagvhls-20&linkId=7d0bf187ffc186ab3a95d34957c4f9bf&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU26753&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Ftag%2Fconnect-xbox-one-controller-pc%2F&asc%5Fcampaign=Evergreen) (Series X|S controllers) to give your controller recharging capabilities. You can easily plug your controller into your PC when you're not using it, so it will always be ready for your next session.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Use the Xbox Wireless Adapter to Pair Your Xbox One Controller to a PC
 
  Microsoft has a standard called**Xbox Wireless** that's built into a few computers, though it's likely not part of yours. So to sync your Xbox controller and PC wirelessly without Bluetooth, you'll need to buy the[Xbox Wireless Adapter](https://www.amazon.com/Microsoft-Xbox-Wireless-Adapter-Windows-one/dp/B00ZB7W4QU?linkCode=ll1&tag=muo-v2-pagvhls-20&linkId=4652892b504e435c77bf3a3d5f0b6779&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU26753&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Ftag%2Fconnect-xbox-one-controller-pc%2F&asc%5Fcampaign=Evergreen) .
@@ -74,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
  From here, you can enjoy your Xbox controller on your PC wirelessly, just like using Bluetooth. We only recommend this method if you have an Xbox One controller that's not Bluetooth-enabled, though. Otherwise, it's better to[add Bluetooth to your computer](https://www.makeuseof.com/add-bluetooth-pc/) with an adapter that's cheaper than the Xbox Wireless Adapter. You could also put the money that you'd spend on the Xbox Wireless Adapter towards a new Series X|S controller.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Reconnect Your Xbox Controller to Your Console
@@ -95,10 +109,10 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
  Finally, remember that you can turn off your Xbox controller (when it's not connected to a PC or console with a cable) by holding the**Xbox** button for around five seconds. When the light on this button goes out, your controller is off.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Connect an Xbox Controller to Your PC Easily
@@ -120,5 +134,24 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-logitechs-4k-pro-webcam-a-complete-exploration/"><u>[New] 2024 Approved Logitech's 4K Pro Webcam A Complete Exploration</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-pc-sound-logging-simplified-install-x-recorder-app/"><u>[New] In 2024, Pc Sound Logging Simplified - Install X-Recorder App</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-swift-strategies-for-iphones-and-freeipodcasts-download-techniques/"><u>[New] In 2024, Swift Strategies for iPhones and FreeiPodcasts Download Techniques</u></a></li>
+<li><a href="https://win-blog.techidaily.com/century-age-of-ashes-pc-version-how-to-fix-persistent-crashes/"><u>Century: Age of Ashes PC Version - How to Fix Persistent Crashes</u></a></li>
+<li><a href="https://games-able.techidaily.com/create-a-unique-gaming-experience-with-personalized-xbox-game-bar-configurations/"><u>Create a Unique Gaming Experience with Personalized Xbox Game Bar Configurations</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y100-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y100 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-overcome-unsupported-accessory-problems-on-your-iphone/"><u>How to Overcome Unsupported Accessory Problems on Your iPhone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-hdr-portraiture-comprehensive-photography-guide/"><u>Mastering HDR Portraiture Comprehensive Photography Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/maximize-gaming-experience-with-gpu-driver-update/"><u>Maximize Gaming Experience with GPU Driver Update</u></a></li>
+<li><a href="https://games-able.techidaily.com/office-seat-advantage-for-gamers/"><u>Office Seat Advantage for Gamers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolving-the-frequent-failure-of-print-spooler-service/"><u>Resolving the Frequent Failure of Print Spooler Service</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-rank-a-truly-essential-concern/"><u>Steam Rank: A Truly Essential Concern?</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-underestimated-objections-6-reasons-macs-falter-in-games/"><u>The Underestimated Objections: 6 Reasons Macs Falter in Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-5-secrets-for-boosting-your-steam-decks-performance-while-docked/"><u>Top 5 Secrets for Boosting Your Steam Deck’s Performance While Docked</u></a></li>
+<li><a href="https://games-able.techidaily.com/turbocharge-your-gameplay-on-the-ps4-platform/"><u>Turbocharge Your Gameplay on the PS4 Platform</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-driving-dreams-with-moza-r5-bundle/"><u>Unlocking Driving Dreams with MOZA R5 Bundle</u></a></li>
+<li><a href="https://games-able.techidaily.com/unplugging-for-peaceful-console-experience/"><u>Unplugging for Peaceful Console Experience</u></a></li>
+</ul></div>
 

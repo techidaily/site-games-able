@@ -1,7 +1,7 @@
 ---
 title: Customize Screen Display in Discord Gaming
-date: 2024-09-13T19:48:02.789Z
-updated: 2024-09-20T17:19:26.746Z
+date: 2024-09-30T08:54:31.307Z
+updated: 2024-10-02T04:27:45.774Z
 tags:
   - games
 categories:
@@ -60,7 +60,21 @@ Here's how:
 
 ![Using Discord Overlay When Running VRChat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/using-discord-overlay-when-running-vrchat.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Sometimes, the Discord overlay does not work during gameplay. Do not worry if you encounter the same;[fixing the unresponsive Discord overlay on Windows](https://www.makeuseof.com/fix-discord-overlay-not-working-windows/) is easy and straightforward. It's just as easy to fix it on other devices as well.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Disable the Discord In-Game Overlay
 
@@ -73,18 +87,25 @@ Follow these steps to disable the in-game overlay:
 3. Turn off the toggle next to**Enable in-game overlay** .  
 ![Disable Discord Overlay in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disable-in-game-overlay.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To permanently turn off the overlay only for a specific game, navigate to the**Registered Games** tab and click on the**monitor icon** next to it.
 
 ![disable overlay for specific game in discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disable-overlay-for-specific-game-in-discord.jpg)
 
- If you want to temporarily turn off the overlay in a game, press the overlay shortcut on your keyboard.
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If you want to temporarily turn off the overlay in a game, press the overlay shortcut on your keyboard.
 
 ## Keep Track of Conversations Through Discord Overlay
 
@@ -103,5 +124,21 @@ Follow these steps to disable the in-game overlay:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-mobile-media-posting-videos-not-retweets/"><u>[New] In 2024, Mobile Media Posting Videos, Not Retweets</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-illuminating-the-world-of-photography-with-adobes-hdr-techniques/"><u>[Updated] Illuminating the World of Photography with Adobe's HDR Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/10-ultimate-high-res-4k-mirrorless-cams-for-2024/"><u>10 Ultimate High-Res 4K Mirrorless Cams for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-vivo-y78plus-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Vivo Y78+ Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/controller-vs-arcade-stick-which-is-best-for-fighting-games/"><u>Controller Vs. Arcade Stick: Which Is Best for Fighting Games?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/cortar-mp3-online-herramientas-de-descarga-libre-para-pc-y-mac/"><u>Cortar Mp3 Online: Herramientas De Descarga Libre Para PC Y Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficient-screen-capturing-for-gaming-enthusiasts/"><u>Efficient Screen Capturing for Gaming Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/geforce-now-update-more-features-or-just-marketing/"><u>GeForce Now Update: More Features or Just Marketing?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/improve-your-airpods-sound-experience-on-windows-1011-computers/"><u>Improve Your AirPods Sound Experience on Windows 10/11 Computers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-all-about-apple-iphone-se-unlock-chip-you-need-to-know-by-drfone-ios/"><u>In 2024, All About Apple iPhone SE Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://games-able.techidaily.com/most-advanced-ddr5-cards-2024/"><u>Most Advanced DDR5 Cards - 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/seamless-integration-transferring-snapchat-images-directly/"><u>Seamless Integration Transferring Snapchat Images Directly</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-three-pitfalls-of-my-rtx-4090-purchase/"><u>Top Three Pitfalls of My RTX 4090 Purchase</u></a></li>
+<li><a href="https://games-able.techidaily.com/uncover-graphics-card-memory-limits/"><u>Uncover Graphics Card Memory Limits</u></a></li>
+</ul></div>
 

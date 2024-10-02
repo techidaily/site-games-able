@@ -1,7 +1,7 @@
 ---
 title: The Real Meaning Behind an 'Inactive' User on Discord
-date: 2024-09-14T01:11:02.931Z
-updated: 2024-09-20T20:49:35.076Z
+date: 2024-10-01T06:16:05.662Z
+updated: 2024-10-02T08:34:47.260Z
 tags:
   - games
 categories:
@@ -25,6 +25,19 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 * [How to Switch Your Discord Status to Idle](#how-to-switch-your-discord-status-to-idle)
 * [Is the Discord Idle Status Always Accurate?](#is-the-discord-idle-status-always-accurate)
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Being idle on Discord can mean that the person has been inactive on their computer for 10 minutes, they have minimized the smartphone app, or they have manually set their status to idle.
@@ -36,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 ## What Does Idle Mean on Discord?
 
 ![discord online and idle statuses in friends list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/discord-online-and-idle-statuses-in-friends-list.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Being idle on Discord means one of three things: the person has not interacted with their computer for 10 minutes, the person has minimized the app on their smartphone, or they have manually selected the idle status.
 
@@ -52,16 +72,10 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
  If you manually select the idle status, you will remain idle regardless of whether you message someone or use the app in other ways. In fact, you can even be actively talking or streaming in a voice channel and the app will continue to show you as idle.
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Switch Your Discord Status to Idle
@@ -77,10 +91,10 @@ Close
  If you're using the mobile app, select the**You** tab at the bottom of the app. Then tap on your**profile picture** and select**Idle** . Discord will switch your status immediately.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is the Discord Idle Status Always Accurate?
@@ -106,5 +120,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-screensnap-secrets-the-ultimate-guide-to-record-your-world/"><u>[New] ScreenSnap Secrets The Ultimate Guide to Record Your World</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-nokia-105-classic-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/boost-your-frame-rate-and-eliminate-stutters-a-comprehensive-guide-for-the-ascent/"><u>Boost Your Frame Rate & Eliminate Stutters: A Comprehensive Guide for 'The Ascent'</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-retro-gaming-the-ultimate-selection-of-ps3-emulators-for-pc/"><u>Dive Into Retro Gaming: The Ultimate Selection of PS3 Emulators for PC</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-the-inability-to-reach-mb-services-in-windows-11-devices/"><u>Fixing the Inability to Reach MB Services in Windows 11 Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-nvidias-latest-gaming-cloud-a-game-changer/"><u>Is Nvidia’s Latest Gaming Cloud a Game Changer?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/master-your-minds-library-utilize-mematic-for-2024/"><u>Master Your Mind's Library - Utilize Mematic for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-microsoft-store-crash-error-0x80072f17-guide/"><u>Mending Microsoft Store Crash: Error 0X80072f17 Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-fps-gameplay-selecting-the-right-mouse-sensitivity/"><u>Navigating FPS Gameplay: Selecting the Right Mouse Sensitivity</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-your-playstation-account/"><u>Optimizing Your PlayStation Account</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/quieting-mute-voices-on-obs-platforms-for-2024/"><u>Quieting Mute Voices on OBS Platforms for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/solutions-for-troubleshooting-display-driver-not-launching-in-windows-11/"><u>Solutions for Troubleshooting Display Driver Not Launching in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-gamers-guide-to-30-top-ps3-games-for-pc-emulation/"><u>The Ultimate Gamer's Guide to 30 Top PS3 Games for PC Emulation</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-ps5-overhaul-unveiling-the-top-9-must-have-traits/"><u>The Ultimate PS5 Overhaul: Unveiling the Top 9 Must-Have Traits</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-unlikely-path-for-gamefi-in-gaming-culture/"><u>The Unlikely Path for GameFi in Gaming Culture</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-10-best-free-email-services-a-comprehensive-guide/"><u>Top 10 Best Free Email Services: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-affordable-home-theater-system-bundles-the-ultimate-guide/"><u>Top Affordable Home Theater System Bundles: The Ultimate Guide</u></a></li>
+</ul></div>
 

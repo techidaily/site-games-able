@@ -1,7 +1,7 @@
 ---
 title: Seamless Integration of Epic & GOG on Steam Deck
-date: 2024-09-26T06:19:51.818Z
-updated: 2024-09-27T03:40:46.266Z
+date: 2024-09-27T21:26:45.245Z
+updated: 2024-10-02T01:22:34.031Z
 tags:
   - games
 categories:
@@ -65,14 +65,14 @@ thumbnail: https://thmb.techidaily.com/2a9cc8bf4d555df620abafcb570dcc2752e8e2040
 ![Move data to the SD card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/muo-gaming-steam-deck-gog-epic-games-sdcard-move.jpeg)
 7. Wait while the process completes
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This should provide more space for installing titles from other platforms. Epic Games are often quite large titles, although most games you might have acquired from GOG.com are probably comparatively modest in size.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is It Safe to Install Non-Steam Games on Your Steam Deck?
 
@@ -99,22 +99,15 @@ thumbnail: https://thmb.techidaily.com/2a9cc8bf4d555df620abafcb570dcc2752e8e2040
 3. Select**Switch to Desktop** and press**A**  
 ![Change to Desktop Mode on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/muo-gaming-steam-deck-gog-epic-games-switch-mode.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the desktop environment, find the shopping bag icon on the left-hand side of the taskbar. This is the**Discover** app, a software store. Click to open, then enter “heroic” in the search bar.
 
  Heroic Games Launcher should be displayed. Click**Install** , and wait for the process to complete.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Install GOG Games on Steam Deck
@@ -129,13 +122,6 @@ thumbnail: https://thmb.techidaily.com/2a9cc8bf4d555df620abafcb570dcc2752e8e2040
 4. Click**Install** on the selected game, confirm the installation location and click**Install** again  
 ![Install GOG games on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-gog-smac.jpg)
 5. After installation is complete, click**Play Now**
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Because most GOG games are pre-2005 titles, they have varying compatibility requirements for Steam Deck. To tweak these, highlight the game and click the**Settings** cog icon.
 
@@ -159,10 +145,10 @@ You can then install Epic Games on the Steam Deck as follows:
 5. Once the installation has completed, click**Play Now**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Use the**Settings** option to tweak the game’s launch and performance options
@@ -172,10 +158,10 @@ You can then install Epic Games on the Steam Deck as follows:
  You can also add new titles to your Epic Games account (free and paid) from the Steam Deck. Note that it may inform you the device is incompatible, but you don’t need to worry about this. Simply proceed to add it to your account, and it will shortly appear in the game library in the Heroic launcher.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Play GOG Games on Steam Deck
@@ -187,6 +173,13 @@ This will reboot the Steam Deck into the main console interface.
  Here, you will find the Heroic Games Launcher listed, which you can select with the D-pad and launch with**A** . In the following screen, select**Play** to open the launcher.
 
 ![Start Heroic Games Launcher on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-play.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can then either select a game to play or install a new one. It’s that simple.
 
@@ -203,6 +196,13 @@ This will reboot the Steam Deck into the main console interface.
 Wait for the process to complete before installing any other games.
 
  Is a game missing from your library? Some titles acquired through the Epic Games store cannot be played on Steam Deck if they were released via a different distribution service, such as Uplay or EA/Origin.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## You Can Now Play Epic Games and GOG Favorites on the Steam Deck
 
@@ -227,16 +227,21 @@ Wait for the process to complete before installing any other games.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-how-to-live-stream-to-facebook-from-dji-drone/"><u>[New] In 2024, How to Live Stream to Facebook From DJI Drone?</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-animate-archive-the-top-choice-for-twitter-animated-enthusiasts/"><u>[Updated] Animate Archive The Top Choice for Twitter Animated Enthusiasts</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-transforming-recording-into-stunning-podcast-edits/"><u>[Updated] Transforming Recording Into Stunning Podcast Edits</u></a></li>
-<li><a href="https://games-able.techidaily.com/banish-device-lags-on-windows-fix-for-dxgierrordevicehunk/"><u>Banish Device Lags on Windows: Fix for DXGI_ERROR_DEVICE_HUNK</u></a></li>
-<li><a href="https://games-able.techidaily.com/beginners-roadmap-from-signing-up-to-thriving-in-ea-play-on-ps5/"><u>Beginner’s Roadmap: From Signing Up to Thriving in EA Play on PS5</u></a></li>
-<li><a href="https://games-able.techidaily.com/best-competing-gpus-to-geforce-rtx-4060-ti/"><u>Best Competing GPUs to GeForce RTX 4060 Ti</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-the-artisans-path-to-gratuitous-text-animation/"><u>In 2024, The Artisan's Path to Gratuitous Text Animation</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-for-avchd-playback-on-ios-devices-like-ipads-and-iphones/"><u>Step-by-Step Guide for AVCHD Playback on iOS Devices Like iPads and iPhones</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-value-of-budget-friendly-soundbars-quality-meets-savings/"><u>The Value of Budget-Friendly Soundbars: Quality Meets Savings</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-the-samsung-galaxy-a51-5g-phone-great-performance-meets-affordability/"><u>Ultimate Guide to the Samsung Galaxy A51 5G Phone – Great Performance Meets Affordability</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719170321224-unlocking-androids-gaming-potential-controllers-here-we-come/"><u>Unlocking Android's Gaming Potential: Controllers, Here We Come</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-sky-high-streams-on-facebook-a-dji-drone-users-guide/"><u>[New] 2024 Approved Sky-High Streams on Facebook A DJI Drone User's Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-elite-sites-and-strategies-finding-the-best-deals-on-tamil-melodies/"><u>[New] In 2024, Elite Sites & Strategies Finding the Best Deals on Tamil Melodies</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-mastering-instagram-videos-understanding-time-constraints/"><u>[New] Mastering Instagram Videos Understanding Time Constraints</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastery-of-live-sharing-youtube-edition/"><u>[New] Mastery of Live Sharing YouTube Edition</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevating-video-popularity-on-youtube-for-2024/"><u>[Updated] Elevating Video Popularity on YouTube for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-pcs-a-guide-to-troubleshooting-sound-problems/"><u>Fixing Silent PCs: A Guide to Troubleshooting Sound Problems</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-changer-hands-on-pdw4-review/"><u>Game-Changer Hands-On PDW4 Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-connect-a-ps5-controller-to-your-phone/"><u>How to Connect a PS5 Controller to Your Phone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-officejet-pro-8620-guide-to-finding-and-installing-drivers-on-windows-computers/"><u>HP Officejet Pro 8620: Guide to Finding and Installing Drivers on Windows Computers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone 6s Plus</u></a></li>
+<li><a href="https://games-able.techidaily.com/managing-twitch-participants-shut-down-and-welcome-back/"><u>Managing Twitch Participants: Shut Down & Welcome Back</u></a></li>
+<li><a href="https://games-able.techidaily.com/refresh-play-joystick-upgrade-for-the-switch/"><u>Refresh Play: Joystick Upgrade for the Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/solutions-to-fix-steam-big-picture-errors/"><u>Solutions to Fix Steam Big Picture Errors</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-tech-how-to-connect-your-xbox-one/"><u>Streamline Tech: How to Connect Your Xbox One</u></a></li>
+<li><a href="https://games-able.techidaily.com/tall-titans-top-seating-choices-for-games/"><u>Tall Titans' Top Seating Choices for Games</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-honor-magic5-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Honor Magic5 Ultimate | Dr.fone</u></a></li>
 </ul></div>
 

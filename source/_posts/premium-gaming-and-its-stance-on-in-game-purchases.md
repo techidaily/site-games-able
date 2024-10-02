@@ -1,7 +1,7 @@
 ---
 title: Premium Gaming and Its Stance on In-Game Purchases
-date: 2024-09-23T20:13:56.930Z
-updated: 2024-09-27T08:13:43.341Z
+date: 2024-10-01T06:21:08.619Z
+updated: 2024-10-02T09:19:40.714Z
 tags:
   - games
 categories:
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/c9d63107d989d631581c5dbe79eb35fbfb926a1d5
 
  Microtransactions (also known as MTX) have been popularized mainly by freemium games. They are optional payments that help game developers and publishers make money from games they otherwise might not have. However, microtransactions have increasingly snuck into premium, paid games. Is this trend, perhaps, justifiable?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why Do Microtransactions Exist in Video Games At All?
 
  You might recall a time when microtransactions did not exist. You bought a game, and that was it—you owned all the content in it. But let’s be completely honest: did that ever really exist?
@@ -49,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/c9d63107d989d631581c5dbe79eb35fbfb926a1d5
 
 But what about premium games? Should they have microtransactions?
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why Microtransactions Are Appearing in Premium Games
 
  So why are we seeing microtransactions in premium, even AAA, games? The short answer to this question is more money. We are at a time in the entertainment industry where it’s not enough to make a decent profit, but the company must grow every year.
@@ -56,13 +70,6 @@ But what about premium games? Should they have microtransactions?
  This ideology has seeped strongly into the highly lucrative gaming industry, and most (if not all) of the perpetrators are publicly traded corporations eager to please shareholders.
 
 ![Elder Scrolls Obvlivion gold horse armor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/elder-scrolls-obvlivion-gold-horse-armor.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  However, it didn’t start today; we can see signs of this as far back as 2006\. The most infamous early example was Horse Armor in The Elder Scrolls: Oblivion (2006). Horse Armor was a $2.50 DLC package Microsoft and Bethesda added to the Xbox 360 release of the game.
 
@@ -81,10 +88,16 @@ But what about premium games? Should they have microtransactions?
  Some might argue that it’s not doing any harm, and microtransactions in premium games aren’t compulsory; they offer only cosmetic changes. The problem, though, is that when you give a profit-driven company that kind of access, it’s almost always exploited to the consumer’s detriment.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Paying More to Experience Less
@@ -95,23 +108,9 @@ But what about premium games? Should they have microtransactions?
 
  Apart from the inherent gambling nature of loot boxes, as a creator and an artist, doesn’t it feel fundamentally wrong to offer people a way to pay to experience less of your creation? It gives people the idea that your game is a chore, which shouldn’t be the case.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Bloat and Battle Passes
 
 ![Assassin's Creed Origins Season Pass for sale on Ubisoft website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/assassin-s-creed-origins-season-pass-for-sale-on-ubisoft-website.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Another way you can tell microtransactions don’t have a place in premium games is that they only worm their way into established franchises. Ubisoft is a good example of this, seeing as it has added seasonal passes to many titles in their (mostly) offline single-player adventure series, Assassin’s Creed.
 
@@ -122,6 +121,13 @@ But what about premium games? Should they have microtransactions?
  What makes passes even worse is that you have to play the game for a certain amount of time to earn the content on them. We've explored more on[why you shouldn't pay for passes](https://www.makeuseof.com/why-you-shouldnt-pay-for-season-passes-or-dlc/) in a dedicated piece.
 
  Additionally, these games end up being bloated, as content you’ve bought, downloaded, and installed is locked behind an additional paywall. This will cost the paying player more internet bills for content they will likely never get to experience.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### A Dishonest Means of Collecting More Money
 
@@ -154,14 +160,24 @@ But what about premium games? Should they have microtransactions?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-efficient-backup-of-camera-roll-to-share-via-snapchat/"><u>[Updated] Efficient Backup of Camera Roll to Share via Snapchat</u></a></li>
-<li><a href="https://article-tips.techidaily.com/adopting-powerpoints-advanced-speech-to-text-functionality-for-dynamic-slide-shows-for-2024/"><u>Adopting PowerPoint’s Advanced Speech-to-Text Functionality for Dynamic Slide Shows for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/breaking-down-what-makes-cozy-games-beloved/"><u>Breaking Down What Makes Cozy Games Beloved</u></a></li>
-<li><a href="https://games-able.techidaily.com/captivating-audiences-through-twitch-streaming-on-phone/"><u>Captivating Audiences Through Twitch Streaming on Phone</u></a></li>
-<li><a href="https://games-able.techidaily.com/collaborative-constructions-best-group-play-techniques-in-minecraft/"><u>Collaborative Constructions: Best Group Play Techniques in Minecraft</u></a></li>
-<li><a href="https://games-able.techidaily.com/compact-and-high-res-innocn-39g1-display/"><u>Compact & High Res: InnoCN 39G1 Display</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/expert-tutorial-quick-hassle-free-ios-snapshots-for-2024/"><u>Expert Tutorial Quick, Hassle-Free iOS Snapshots for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/high-memory-usage-on-windows-10-solved/"><u>High Memory Usage on Windows 10 [Solved]</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-itel-p55t-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Itel P55T Reset Code | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-gamers-galaxy-100plus-spaces-of-play/"><u>[New] 2024 Approved Gamer's Galaxy 100+ Spaces of Play</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-ultimate-vr-immersion-review-series-oculus-edition/"><u>2024 Approved Ultimate VR Immersion Review Series – Oculus Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-political-alliances-in-nyt-world/"><u>Decoding Political Alliances in NYT World</u></a></li>
+<li><a href="https://article-files.techidaily.com/discovering-new-ways-beyond-magix-acid-pro/"><u>Discovering New Ways Beyond Magix ACID Pro</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/effective-method-for-personalizing-fb-page-coverage-for-2024/"><u>Effective Method for Personalizing FB Page Coverage for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/google-play-games-on-pc-what-is-it-and-how-do-you-get-it/"><u>Google Play Games on PC: What Is It and How Do You Get It?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-13-pro-max-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 13 Pro Max</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-cancel-recurring-subscriptions-on-steam/"><u>How to Cancel Recurring Subscriptions on Steam</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-oppo-reno-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-t2-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo T2 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-source-guide-buying-and-downloading-your-favorite-youtube-rings/"><u>In 2024, Ultimate Source Guide Buying and Downloading Your Favorite YouTube Rings</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-steam-workshop-for-game-personalization/"><u>Navigating the Steam Workshop for Game Personalization</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/picking-the-right-software-bandicam-versus-camtasia/"><u>Picking the Right Software Bandicam Versus Camtasia</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-resolutions-for-disconnected-steam-servers/"><u>Quick Resolutions for Disconnected Steam Servers</u></a></li>
+<li><a href="https://games-able.techidaily.com/screen-saver-secured-step-by-step-for-switch-password-setup/"><u>Screen Saver Secured: Step-by-Step for Switch Password Setup</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplifying-the-complex-xbox-consoles-digital-return-process/"><u>Simplifying the Complex: Xbox Console's Digital Return Process</u></a></li>
+<li><a href="https://games-able.techidaily.com/soundproof-gaming-with-xbox-series-xs/"><u>Soundproof Gaming with Xbox Series X/S</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-htc-u23-by-fonelab-android-recover-messages/"><u>Undelete lost messages from HTC U23</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-the-functionality-of-google-play-games-on-windows/"><u>Understanding the Functionality of Google Play Games on Windows</u></a></li>
 </ul></div>
 

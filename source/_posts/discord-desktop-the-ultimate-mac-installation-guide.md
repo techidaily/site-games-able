@@ -1,7 +1,7 @@
 ---
 title: "Discord Desktop: The Ultimate Mac Installation Guide"
-date: 2024-09-20T04:27:43.584Z
-updated: 2024-09-27T03:20:32.577Z
+date: 2024-09-27T22:27:16.296Z
+updated: 2024-10-01T20:35:23.377Z
 tags:
   - games
 categories:
@@ -37,10 +37,16 @@ thumbnail: https://thmb.techidaily.com/a297ffbc354d264eb1493e128ad67218845cfbc00
  You can use Discord online on your browser by clicking**Open Discord** at the top-right corner of Discord's website.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 2: Install Discord on Your Mac
@@ -54,10 +60,10 @@ thumbnail: https://thmb.techidaily.com/a297ffbc354d264eb1493e128ad67218845cfbc00
 4. Close the Finder window.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Click**Launchpad** from the Dock and select**Discord** from one of the pages. Or launch it[using Spotlight search on your Mac](https://www.makeuseof.com/spotlight-search-on-mac-beginners-guide/) .
@@ -67,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/a297ffbc354d264eb1493e128ad67218845cfbc00
  macOS's Gatekeeper might not let you install or run Discord right away. If you run into that problem or any other problems, read our guide on[installing third-party apps on a Mac](https://www.makeuseof.com/how-to-install-third-party-apps-mac/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 3: Sign Up or Sign In to Discord
@@ -82,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/a297ffbc354d264eb1493e128ad67218845cfbc00
  If you don't have an account, click**Register** at the bottom and fill in your details.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get Started With Discord on Your Mac
@@ -109,24 +115,22 @@ thumbnail: https://thmb.techidaily.com/a297ffbc354d264eb1493e128ad67218845cfbc00
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-mobile-photography-mastering-dynamic-look-ups/"><u>[New] Mobile Photography Mastering Dynamic Look-Ups</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-mastering-instagrams-peak-moments-a-how-to-guide/"><u>[Updated] 2024 Approved Mastering Instagram's Peak Moments A How-To Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-cinematic-craftsman-corner-qanda-hub/"><u>[Updated] Cinematic Craftsman Corner Q&A Hub</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-navigating-facebooks-automatic-video-features/"><u>[Updated] In 2024, Navigating Facebook's Automatic Video Features</u></a></li>
-<li><a href="https://games-able.techidaily.com/10-key-perks-why-gamers-choose-steam-first/"><u>10 Key Perks: Why Gamers Choose Steam First</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-iphone-x-a-complete-animoji-guide-for-proficient-users/"><u>2024 Approved IPhone X A Complete Animoji Guide for Proficient Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/5-ways-game-subscriptions-cant-replace-owning-your-games/"><u>5 Ways Game Subscriptions Can't Replace Owning Your Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/all-about-xbox-game-pass-a-detailed-look/"><u>All About Xbox Game Pass: A Detailed Look</u></a></li>
-<li><a href="https://games-able.techidaily.com/are-in-game-purchases-appropriate-for-elites/"><u>Are In-Game Purchases Appropriate for Elites?</u></a></li>
-<li><a href="https://games-able.techidaily.com/balancing-acts-in-tech-which-component-to-boost-cpu-or-gpu/"><u>Balancing Acts in Tech: Which Component to Boost, CPU or GPU?</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719156031623-beat-the-boosted-game-pass-rate-strategies-to-save/"><u>Beat the Boosted Game Pass Rate: Strategies to Save</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719169517737-discover-and-join-youtubes-latest-minigame-testing/"><u>Discover & Join YouTube's Latest Minigame Testing!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Lava Yuva 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/leverage-full-power-of-windows-11-today/"><u>Leverage Full Power of Windows 11 Today</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719170473879-master-the-gbc-games-4-ioss-best-emulators/"><u>Master the GBC Games: 4 iOS's Best Emulators!</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719169947138-new-horizons-of-gaming-await-discover-chatgpts-best-6/"><u>New Horizons of Gaming Await: Discover ChatGPT's Best 6</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/post-altman-openai-pivots-ahead-of-chatgpt-prospects/"><u>Post-Altman, OpenAI Pivots Ahead of ChatGPT Prospects</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/ultimate-sound-editing-solutions-for-online-bloggers-for-2024/"><u>Ultimate Sound Editing Solutions for Online Bloggers for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/vs-video-edition-which-editor-wins-for-filmmaking/"><u>Vs. Video Edition Which Editor Wins for Filmmaking?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-discovering-phantoms-temporal-expansion-capabilities-for-2024/"><u>[Updated] Discovering Phantom's Temporal Expansion Capabilities for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-narzo-60-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/experts-top-10-fcp-plugin-selection/"><u>Expert's Top 10 FCP Plugin Selection</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-intels-advantage-in-the-battle-for-quality-gaming/"><u>Exploring Intel's Advantage in the Battle for Quality Gaming</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-mute-mode-how-to-restore-sounds-for-your-borderlands-check-out-this-guide-pc/"><u>Fixing Mute Mode: How to Restore Sounds for Your Borderlands ^ Check Out This Guide! ^ (PC)</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-twosome-style-top-15-companionable-phonesports/"><u>Game On, Twosome Style: Top 15 Companionable Phonesports</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-90-pro-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor 90 Pro Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-set-up-and-use-an-assist-controller-on-the-ps5/"><u>How to Set Up and Use an Assist Controller on the PS5</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175724256-keep-your-temperature-right-with-arctics-superior-liquid-freezer-ii-aio-cooler-for-a-steal-at-just-74/"><u>Keep Your Temperature Right with Arctic's Superior Liquid Freezer II AIO Cooler for a Steal at Just $74</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-m1m2-gaming-play-full-version-of-bg3-through-crossover/"><u>Maximize M1/M2 Gaming: Play Full Version of BG3 Through CrossOver</u></a></li>
+<li><a href="https://games-able.techidaily.com/pc-harmony-avoiding-wasted-money-on-incompatible-parts/"><u>PC Harmony: Avoiding Wasted Money on Incompatible Parts</u></a></li>
+<li><a href="https://games-able.techidaily.com/pinnacle-hdmi-enhanced-gamers-mice-range/"><u>Pinnacle HDMI Enhanced Gamer's Mice Range</u></a></li>
+<li><a href="https://games-able.techidaily.com/power-boards-recommended-for-next-gen-gaming-systems/"><u>Power Boards Recommended for Next Gen Gaming Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-7-iosandroid-sports-games-unmatched-excitement/"><u>Top 7 iOS/Android Sports Games: Unmatched Excitement!</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-21-by-fonelab-android-recover-photos/"><u>Undelete lost photos from 21.</u></a></li>
 </ul></div>
 

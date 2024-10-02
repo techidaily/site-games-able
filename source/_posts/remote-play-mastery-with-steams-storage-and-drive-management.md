@@ -1,7 +1,7 @@
 ---
 title: Remote Play Mastery with Steam’s Storage and Drive Management
-date: 2024-09-21T19:40:40.565Z
-updated: 2024-09-26T21:15:54.709Z
+date: 2024-09-25T01:04:46.392Z
+updated: 2024-10-01T20:37:26.529Z
 tags:
   - games
 categories:
@@ -32,16 +32,10 @@ thumbnail: https://thmb.techidaily.com/c54c6148123e508341809a9f8c11fb6ca2958cb78
 ![Steam Settings storage manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steam-settings-storage-manager.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add a Steam Library Folder to Your External Drive
@@ -52,16 +46,16 @@ thumbnail: https://thmb.techidaily.com/c54c6148123e508341809a9f8c11fb6ca2958cb78
 
 ![Adding new Steam Library Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/adding-new-steam-library-folder.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you don’t want to put the folder in the outermost layer, you can click**Let me choose another location** instead. Choose your external drive and click the location you want it to go to.
 
  You can install Steam games directly on your external drive once you've added a Steam Library folder into it. Although, we only suggest this if the game isn't already in your internal drives as the existing files will interfere. If the game exists in your internal drives, figure out how to move it to your external drive below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Move Your Steam Games to Your External Drive
 
@@ -70,13 +64,6 @@ thumbnail: https://thmb.techidaily.com/c54c6148123e508341809a9f8c11fb6ca2958cb78
  Since your external drive is now one that Steam recognizes as a game library folder, you can easily move your games using the storage manager.
 
 ![Moving game to external drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/moving-game-to-external-drive.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Click on the local drive that stores your games and on the right side you can check the boxes of the games you want to move to the external drive.
 
@@ -92,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/c54c6148123e508341809a9f8c11fb6ca2958cb78
 
 ![Copy and pasting game from local drive to external drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/copy-and-pasting-game-from-local-drive-to-external-drive.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This should open up the**\\steamapps** folder, you can then proceed to open the**\\common** folder. Open the same folder on your external drive so you can paste it afterwards.
 
  The \\common folder is where your games are stored. Simply select and copy the games and paste them into the same \\common folder on your external drive.
@@ -104,22 +98,16 @@ thumbnail: https://thmb.techidaily.com/c54c6148123e508341809a9f8c11fb6ca2958cb78
 
 ![Added external drive on other system on Steam storage manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/added-external-drive-on-other-system-on-steam-storage-manager.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Open up the Steam Storage Manager, and add the external drive to the destination PC as we showed you above. Once it’s added, you’ll see the games that you moved to your external drive using the Steam Storage Manager. You’ll be able to play those games immediately as if they were on your local drives.
 
 ![Validating Steam game on external drive by installing it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/validating-steam-game-by-installing-it.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Copy-pasting Steam games on your external hard drive will require validation. To do this, simply click**Install** on the game you pasted to the external drive on Steam, making sure to select the external drive, and it will go through the validation process.
 
@@ -148,18 +136,18 @@ thumbnail: https://thmb.techidaily.com/c54c6148123e508341809a9f8c11fb6ca2958cb78
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-six-best-cinematography-tools-in-uhd-space/"><u>[Updated] Six Best Cinematography Tools in UHD Space</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-harness-the-power-of-speech-to-text-in-google-documents/"><u>2024 Approved Harness the Power of Speech-to-Text in Google Documents</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/achieve-professional-video-quality-boost-using-winxvideo-ai-technology/"><u>Achieve Professional Video Quality Boost Using Winxvideo AI Technology</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/affordable-ssl-certificates-a-safe-bet/"><u>Affordable SSL Certificates: A Safe Bet?</u></a></li>
-<li><a href="https://games-able.techidaily.com/expert-insights-into-streams-refund-system-and-reclaiming-cash/"><u>Expert Insights Into Stream's Refund System and Reclaiming Cash</u></a></li>
-<li><a href="https://facebook.techidaily.com/how-to-unlist-your-business-on-facebook-effortlessly/"><u>How to Unlist Your Business on Facebook Effortlessly</u></a></li>
-<li><a href="https://games-able.techidaily.com/life-without-ps-plus-gamings-new-dawn/"><u>Life Without PS Plus: Gaming's New Dawn</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximize-your-gaming-experience-with-assist-controller-on-ps5/"><u>Maximize Your Gaming Experience with Assist Controller on PS5</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-itel-a05s-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Itel A05s</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-tutorial-preventing-apps-from-connecting-to-the-web-on-your-android-phone/"><u>Step-by-Step Tutorial: Preventing Apps From Connecting to the Web on Your Android Phone</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-science-behind-robloxs-frame-rate-enhancers/"><u>The Science Behind Roblox's Frame Rate Enhancers</u></a></li>
-<li><a href="https://games-able.techidaily.com/troubleshooting-steams-file-transfer-failures/"><u>Troubleshooting Steam's File Transfer Failures</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-one-month-free-disco-on-gx-the-opera-guide/"><u>Unlock One-Month Free Disco on GX: The Opera Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-shift-from-standard-definition-to-dynamic-range-brilliance/"><u>[New] The Ultimate Shift From Standard Definition to Dynamic Range Brilliance</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-identify-10-shadowy-instagram-story-observers/"><u>[Updated] 2024 Approved Identify 10 Shadowy Instagram Story Observers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-fcp-no-cost-access-a-guide/"><u>[Updated] FCP No-Cost Access A Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlimited-outro-options-at-no-expense-online/"><u>[Updated] Unlimited Outro Options at No Expense Online</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-motorola-moto-g04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-inception-to-icon-foddians-arc/"><u>From Inception to Icon: Foddian's Arc</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-best-performance-downloading-and-updating-nvidias-rtx-2080-super-drivers-for-windows-11-users/"><u>Get the Best Performance: Downloading & Updating NVIDIA's RTX 2080 Super Drivers for Windows 11 Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/guide-identifying-the-top-8-features-in-cpu-coolers/"><u>Guide: Identifying the Top 8 Features in CPU Coolers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-honor-x8b-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Honor X8b to Mac? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/innovative-techniques-for-self-duplication-on-social-medias-star-platform-tiktok-for-2024/"><u>Innovative Techniques for Self-Duplication on Social Media's Star Platform, TikTok for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-ssds-for-ps5-enthusiasts/"><u>Premium SSDs for PS5 Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/reigniting-passion-for-online-exploration/"><u>Reigniting Passion for Online Exploration</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/utilizing-advanced-bots-from-cookiesolutions/"><u>Utilizing Advanced Bots From CookieSolutions</u></a></li>
 </ul></div>
 

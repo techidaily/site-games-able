@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Compendium of Xbox Gaming Returns
-date: 2024-09-19T20:50:14.834Z
-updated: 2024-09-27T03:56:25.054Z
+date: 2024-09-30T09:56:38.095Z
+updated: 2024-10-01T22:30:12.259Z
 tags:
   - games
 categories:
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/bb9708a331c4c3dd31e799c079bb73652a9e75d1a
 
  The definition of what exactly a ‘significant amount of time’ is isn’t explained on[Microsoft’s website](https://support.xbox.com/en-us/help/subscriptions-billing/buy-games-apps/refund-orders) , but it likely depends on the game. For example, if you’re returning a five-hour-long game and you’ve played it for two hours, that’s almost 50% of the game that you’ve experienced. But if the game in question is 50 hours long and you’ve played it for two hours, you’ve only experienced a fraction of it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Request a Refund for a Digital Game on the Xbox Series X|S
 
  Requesting a refund for a digital game on your Xbox Series X|S is thankfully very simple and is very similar to[refunding purchases on the PS4 or the PS5](https://www.makeuseof.com/how-to-refund-game-ps4-ps5/) . You can't do so from the comfort of your console, however. You will have to head to[Microsoft’s website](https://support.xbox.com/en-us/help/subscriptions-billing/buy-games-apps/refund-orders) to get started
@@ -55,16 +48,10 @@ thumbnail: https://thmb.techidaily.com/bb9708a331c4c3dd31e799c079bb73652a9e75d1a
 4. Start filling out your form, beginning with the**Reason for request** . The options available are:
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * **Accidental purchase** .
@@ -85,14 +72,14 @@ thumbnail: https://thmb.techidaily.com/bb9708a331c4c3dd31e799c079bb73652a9e75d1a
 
 ![Review Details of Request a Refund Form Page Microsoft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/review-details-of-request-a-refund-form-page-microsoft.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Your refund request will then be sent away for review, and you should expect an answer within 72 hours.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What Happens if the Game I Want to Refund Isn’t Listed?
 
@@ -101,10 +88,16 @@ thumbnail: https://thmb.techidaily.com/bb9708a331c4c3dd31e799c079bb73652a9e75d1a
  In most cases, if the game in question doesn’t show up on the returns page, it is non-refundable for one reason or another. In that case, it might pay to go back and review the details of your purchase and make sure you are eligible for a refund.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Happens Once My Refund Request Is Accepted?
@@ -112,6 +105,19 @@ thumbnail: https://thmb.techidaily.com/bb9708a331c4c3dd31e799c079bb73652a9e75d1a
  If your refund request is successful, you can expect to see an email from Microsoft confirming this, and you will be able to see your refund being processed in your Microsoft account. You will also have your access to the game revoked, so it will no longer be playable.
 
 ![Microsoft account order history page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/microsoft-account-order-history-page-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To check your Microsoft account and see if your refund is being processed, head back to the Microsoft website and click your**user icon** in the top right corner. Select**My Microsoft account** , and head down to your**Order history** . If your refund was successful, you will see**Refunded** next to the game title.
 
@@ -136,22 +142,24 @@ thumbnail: https://thmb.techidaily.com/bb9708a331c4c3dd31e799c079bb73652a9e75d1a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-premium-picks-a-list-of-must-play-google-cardboard-vr-games/"><u>[Updated] Premium Picks A List of Must-Play Google Cardboard VR Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/bringing-pc-gaming-power-to-your-iphone-with-geforce-now/"><u>Bringing PC Gaming Power to Your iPhone with GeForce Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/complimentary-asus-realtek-audio-drivers-direct-download-link/"><u>Complimentary ASUS Realtek Audio Drivers - Direct Download Link</u></a></li>
-<li><a href="https://games-able.techidaily.com/do-you-actually-need-a-mechanical-keyboard-for-gaming/"><u>Do You Actually Need a Mechanical Keyboard for Gaming?</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/elevate-video-branding-incorporating-watermarks-into-youtube-media/"><u>Elevate Video Branding Incorporating Watermarks Into YouTube Media</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-update-your-pc-with-usb-30-drivers-windows/"><u>How to Update Your PC with USB 3.0 Drivers (Windows)</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-tiny-videos-deciphered-crucial-elements/"><u>In 2024, Tiny Videos Deciphered Crucial Elements</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/media-lens-adjustment-software/"><u>Media Lens Adjustment Software</u></a></li>
-<li><a href="https://games-able.techidaily.com/nostalgias-best-kept-secrets-retro-games-and-your-phone/"><u>Nostalgia's Best Kept Secrets: Retro Games & Your Phone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/pixel-to-passion-unlocking-new-forms-of-entertainment-with-vr-for-2024/"><u>Pixel to Passion Unlocking New Forms of Entertainment with VR for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/say-goodbye-to-constant-pc-crashing-discover-proven-solutions-for-a-smoother-run/"><u>Say Goodbye to Constant PC Crashing - Discover Proven Solutions for a Smoother Run</u></a></li>
-<li><a href="https://games-able.techidaily.com/sony-ps5-remote-health-when-and-how-to-restart-correctly/"><u>Sony PS5 Remote Health: When and How to Restart Correctly</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-truth-about-free-to-play-why-premium-games-are-better/"><u>The Truth About 'Free-to-Play': Why Premium Games Are Better</u></a></li>
-<li><a href="https://games-able.techidaily.com/troubleshooting-non-functional-display-drivers-in-win10/"><u>Troubleshooting Non-Functional Display Drivers in Win10</u></a></li>
-<li><a href="https://games-able.techidaily.com/unmatched-power-supplies-for-sonys-ps5-controller-dualsense/"><u>Unmatched Power Supplies for Sony's PS5 Controller DualSense</u></a></li>
-<li><a href="https://games-able.techidaily.com/valves-10-year-milestone-reinvigorates-family-sharing-on-steam/"><u>Valve’s 10-Year Milestone: Reinvigorates Family Sharing on Steam</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-perfect-playback-top-strategies-for-gameplay-videos-for-2024/"><u>[New] The Perfect Playback Top Strategies for Gameplay Videos for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-actors-availability-for-video-downloads/"><u>[Updated] In 2024, Actors' Availability for Video Downloads</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-engaging-visuals-after-effects-best-10-text-plans-for-2024/"><u>Crafting Engaging Visuals After Effect's Best 10 Text Plans for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-lenovo-legion-gos-exciting-updates/"><u>Discovering Lenovo Legion Go's Exciting Updates</u></a></li>
+<li><a href="https://win-dash.techidaily.com/flacitunes/"><u>FLAC形式からiTunesへの無料対応ソフトウェアとサイトをご紹介 - ダウンロード方法詳しく解説</u></a></li>
+<li><a href="https://games-able.techidaily.com/fortnite-spending-guide-for-sony-psp5-users/"><u>Fortnite Spending Guide for Sony PSP5 Users</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-on-iphone-x-smoothly-by-drfone-ios/"><u>How To Remove iCloud On iPhone X Smoothly</u></a></li>
+<li><a href="https://games-able.techidaily.com/linux-terminal-mastering-game-boy-classics/"><u>Linux Terminal: Mastering Game Boy Classics</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-steam-stats-monitoring-your-playtime-and-achievements/"><u>Mastering Steam Stats: Monitoring Your Playtime & Achievements</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/quick-steps-to-proficient-gif-design-for-2024/"><u>Quick Steps to Proficient GIF Design for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/raising-red-flags-inappropriate-actions-on-series-xs/"><u>Raising Red Flags: Inappropriate Actions on Series X/S</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplifying-steam-game-management-with-easy-removal-techniques/"><u>Simplifying Steam Game Management with Easy Removal Techniques</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-media-to-like-or-not-to-like/"><u>Social Media: To Like or Not to Like?</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-decks-finest-friends-a-guide-to-our-top-9-emulation-picks/"><u>Steam Deck's Finest Friends: A Guide to Our Top 9 Emulation Picks</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-external-drive-setup-guide-for-games/"><u>Steam's External Drive Setup Guide for Games</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-that-stands-out-crafting-banners-for-gamers/"><u>Theme That Stands Out Crafting Banners for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-game-experience-with-these-tips/"><u>Transform Your Game Experience with These Tips</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-oppo-a78-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Oppo A78 to Gmail | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-professional-techniques-for-aps-hdr-creation/"><u>Unveiling Professional Techniques for APS HDR Creation</u></a></li>
 </ul></div>
 

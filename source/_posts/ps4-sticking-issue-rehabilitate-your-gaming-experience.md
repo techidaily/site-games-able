@@ -1,7 +1,7 @@
 ---
 title: PS4 Sticking Issue? Rehabilitate Your Gaming Experience
-date: 2024-09-21T20:22:48.383Z
-updated: 2024-09-26T17:54:41.987Z
+date: 2024-09-27T06:00:57.759Z
+updated: 2024-10-01T20:05:06.050Z
 tags:
   - games
 categories:
@@ -52,10 +52,16 @@ thumbnail: https://thmb.techidaily.com/5d29a63e1845651f830e0124c103033fe9ea8d7a1
 ![PS4 Quick Menu Battery Level](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS4-Quick-Menu-Battery-Level.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Plug your controller into your PS4 (or a wall outlet) and visit the Quick Menu again to make sure you see the battery charging animation. After your controller charges for some time, try using it as normal.
@@ -69,10 +75,10 @@ thumbnail: https://thmb.techidaily.com/5d29a63e1845651f830e0124c103033fe9ea8d7a1
 ![PS4 Never Turn Off Controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS4-Never-Turn-Off-Controller.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## General Fixes When Your PS4 Controller Isn't Working
@@ -87,9 +93,23 @@ thumbnail: https://thmb.techidaily.com/5d29a63e1845651f830e0124c103033fe9ea8d7a1
 
 ![turn off ps4 quick menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/11/turn-off-ps4-quick-menu.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In case your controller isn't cooperating, press and hold the**Power** button on your PS4 console until you hear two beeps. This will fully shut it down—once it's powered off (with no lights on the front), press the**Power** button again to turn it back on. If you see an orange light, your system went into Rest Mode, which isn't a full shutdown.
 
  Try using your controller again after a reboot (connecting it via a USB cable if needed) and see if that helps.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Forget and Re-Pair Your PS4 Controller
 
@@ -103,13 +123,6 @@ thumbnail: https://thmb.techidaily.com/5d29a63e1845651f830e0124c103033fe9ea8d7a1
 
  If this doesn't work, turn your PS4 back on and try pairing it the normal way, as above.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Hard Reset Your PS4 Controller
 
  If removing and re-pairing the controller didn't work, you can next try the full reset procedure for the DualShock 4\. You'll need a small pointed object, like a bent paper clip or a SIM card ejection tool, to do this. This won't reset anything on your PS4 or affect your controller aside from having to pair it again, so it's a non-intrusive troubleshooting step.
@@ -118,14 +131,14 @@ thumbnail: https://thmb.techidaily.com/5d29a63e1845651f830e0124c103033fe9ea8d7a1
 
 ![PS4 Controller Reset Pinhole](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS4-Controller-Reset-Pinhole.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you've done this, connect your controller to your PS4 again via USB cable and see if it pairs successfully.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Try Connecting the PS4 Controller Elsewhere
 
@@ -153,13 +166,6 @@ thumbnail: https://thmb.techidaily.com/5d29a63e1845651f830e0124c103033fe9ea8d7a1
 
  Otherwise, you can attempt hardware fixes on your own by opening your controller. If you've gotten this far and still can't fix the problem, chances are that something inside your controller is jammed or disconnected. But depending on the specific issue, this may be difficult or impossible. We recommend speaking to a local repair technician if you don't feel comfortable doing this yourself.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## PS4 Controller Issues, Patched Up
 
  Now you know how to fix the most common PS4 controller issues. More specific problems, such as a button that stops working, unfortunately fall under the hardware fix solutions mentioned above. You may be able to fix minor issues by following YouTube tutorials, but be careful not to further damage your controller in the process.
@@ -181,18 +187,19 @@ thumbnail: https://thmb.techidaily.com/5d29a63e1845651f830e0124c103033fe9ea8d7a1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-safeguard-your-videos-in-the-age-of-youtube/"><u>[Updated] 2024 Approved How to Safeguard Your Videos in the Age of YouTube</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-the-definitive-guide-to-android-mobas-10-winners/"><u>2024 Approved The Definitive Guide to Android MOBAs #10 Winners</u></a></li>
-<li><a href="https://games-able.techidaily.com/batocera-vs-retropie-the-best-rpi-game-platform-debated/"><u>Batocera Vs. RetroPie: The Best RPi Game Platform Debated</u></a></li>
-<li><a href="https://games-able.techidaily.com/boost-your-phone-turn-it-into-an-all-in-one-game-system/"><u>Boost Your Phone: Turn It Into an All-in-One Game System</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/detailed-guide-to-fix-d3dx934dll-is-not-here-error-message/"><u>Detailed Guide to Fix d3dx9_34.dll Is Not Here Error Message</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-grand-selection-of-incredibly-affordable-footage/"><u>In 2024, Grand Selection of Incredibly Affordable Footage</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-honor-magic-vs-2-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Honor Magic Vs 2 Location | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/insights-into-xbox-casing/"><u>Insights Into Xbox Casing</u></a></li>
-<li><a href="https://games-able.techidaily.com/invest-in-entertainment-smart-money-moves-with-xbox/"><u>Invest in Entertainment: Smart Money Moves with Xbox</u></a></li>
-<li><a href="https://games-able.techidaily.com/join-the-fallout-saga-beyond-the-screen-adventures/"><u>Join the Fallout Saga Beyond The Screen Adventures</u></a></li>
-<li><a href="https://games-able.techidaily.com/patent-claim-for-disc-drive-on-xbox-s-questioned/"><u>Patent Claim for Disc Drive on Xbox S Questioned</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/snapchat-strategies-the-guide-to-biz-marketing-mastery/"><u>Snapchat Strategies The Guide to Biz Marketing Mastery</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-complete-guide-to-fixing-installation-problems-with-the-windows-1903-feature-update/"><u>The Complete Guide to Fixing Installation Problems with the Windows 1903 Feature Update</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-mastering-video-cuts-for-instagram-feed/"><u>[Updated] 2024 Approved Mastering Video Cuts for Instagram Feed</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-full-assessment-macs-screenflow-studio-experience/"><u>[Updated] Full Assessment Mac's ScreenFlow Studio Experience</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-how-to-make-slow-motion-videos-for-instagram/"><u>[Updated] In 2024, How to Make Slow Motion Videos for Instagram</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-natural-setups-comprehensive-free-screen-templates-for-cinephiles/"><u>2024 Approved Natural Setups Comprehensive Free Screen Templates for Cinephiles</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-best-free-online-destinations-to-get-your-favorite-songs-downloaded/"><u>Discover the Best Free Online Destinations to Get Your Favorite Songs Downloaded</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-gameplay-through-smart-screen-adjustment-techniques/"><u>Elevating Gameplay Through Smart Screen Adjustment Techniques</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/essential-peaceful-pc-game-list-for-2024/"><u>Essential Peaceful PC Game List for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-evidence-why-gaming-review-metrics-fall-short/"><u>Evaluating Evidence: Why Gaming Review Metrics Fall Short</u></a></li>
+<li><a href="https://games-able.techidaily.com/gear-upgraded-next-gen-shells-for-your-portable-pc-steam-deck/"><u>Gear Upgraded: Next-Gen Shells for Your Portable PC, Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/handheld-gaming-marvel-sonys-vita-device/"><u>Handheld Gaming Marvel: Sony's Vita Device</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Sony Xperia 1 V? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-infinix-smart-8-pro-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Infinix Smart 8 Pro Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://games-able.techidaily.com/pinpoint-pc-speed-drops-caused-by-cpu-limitations/"><u>Pinpoint PC Speed Drops Caused by CPU Limitations</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-for-engaging-with-nyt-networks/"><u>Strategies for Engaging with NYT Networks</u></a></li>
 </ul></div>
 

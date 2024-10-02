@@ -1,7 +1,7 @@
 ---
 title: Shattered Digital Landscapes – Should We Care?
-date: 2024-09-24T07:17:53.414Z
-updated: 2024-09-27T03:33:20.545Z
+date: 2024-09-28T04:22:04.368Z
+updated: 2024-10-02T12:25:20.363Z
 tags:
   - games
 categories:
@@ -39,16 +39,16 @@ thumbnail: https://thmb.techidaily.com/57883fb87f9cced582d221233b7cbca11e45336f7
 
  Worse, servers can be shut down permanently if their owners don’t see enough value in keeping them running. This happened in April 2024 with two much-loved platforming games losing their user-generated levels. Game servers that hosted player-made levels for both Super Mario Maker (Wii U, 3DS) and LittleBigPlanet 3 (PlayStation 3 and 4) were closed forever.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which Games Run Using a Server?
 
 ![A promotional image showing a Fortnite character based on Billie Eilish](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/fortnite-festival-season-3-1920x1080-5bb5103dc240.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Epic Games](https://www.fortnite.com/news/fortnite-festival-season-3-features-billie-eilish)
 
@@ -65,16 +65,16 @@ thumbnail: https://thmb.techidaily.com/57883fb87f9cced582d221233b7cbca11e45336f7
 
  Such games include Mario Maker and Little Big Planet. Console publishers are often more protective of their IP; Nintendo, in particular, is fiercely protective of its games, locking them down to prevent anything but official, sanctioned access.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Long Do Game Servers Last?
 
 ![The inside of an old computer with cobwebs stretched out among the cables.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/shutterstock_688683298.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Gennady Grechishkin/[Shutterstock](https://www.shutterstock.com/image-photo/old-computer-system-unit-spiderweb-dust-688683298)
 
@@ -87,10 +87,10 @@ thumbnail: https://thmb.techidaily.com/57883fb87f9cced582d221233b7cbca11e45336f7
  The Overwatch 1 servers lasted just six years, and[the game is now officially dead](https://gamerant.com/overwatch-servers-shutdown-status-offline/) . But that decision was simply to make way for the game’s sequel. Generally, a game server stays up for at least as long as a console generation. Publishers could argue that anything beyond this is a sign of goodwill.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Happens When Servers Shut Down?
@@ -98,16 +98,10 @@ thumbnail: https://thmb.techidaily.com/57883fb87f9cced582d221233b7cbca11e45336f7
 ![A close up of a maze-based video game with the words “Game Over” in prominent lettering.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/game-over-screen.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Frenzel/[Shutterstock](https://www.shutterstock.com/image-photo/screen-showing-that-game-over-macro-153068465)
@@ -135,17 +129,24 @@ thumbnail: https://thmb.techidaily.com/57883fb87f9cced582d221233b7cbca11e45336f7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-digital-domain-decision-which-platform-for-your-videos/"><u>[New] 2024 Approved Digital Domain Decision Which Platform for Your Videos?</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-adding-linguistic-accessibility-to-your-igtv-videos/"><u>[Updated] 2024 Approved Adding Linguistic Accessibility to Your IGTV Videos</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-kinemaster-focus-mastery-a-filmmakers-guide-to-sharper-images-for-2024/"><u>[Updated] Kinemaster Focus Mastery A Filmmaker's Guide to Sharper Images for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Oppo A59 5G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-compreayer-look-at-top-rated-elgato-decks/"><u>A Compreayer Look at Top-Rated Elgato Decks</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-new-chapter-for-deck-unleashing-power-in-two-operating-systems/"><u>A New Chapter for Deck: Unleashing Power in Two Operating Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/amds-gpu-revolution-the-in-depth-look-at-radeon-xt-rx-7800-and-7700/"><u>AMD's GPU Revolution: The In-Depth Look at Radeon XT (RX 7800 & 7700)</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-samsung-galaxy-z-fold-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719167966376-master-all-6-ps5-startup-techniques-now/"><u>Master All 6 Ps5 Startup Techniques Now!</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-how-to-convert-aiff-to-mp3/"><u>New 2024 Approved How to Convert AIFF to MP3</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/real-time-broadcasting-tools-ultimate-guide-to-manycam-and-online-webcams/"><u>Real-Time Broadcasting Tools: Ultimate Guide to ManyCam and Online Webcams</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719162149427-unleash-a-superior-gameplay-experience-with-these-5-reasons-to-purchase/"><u>Unleash a Superior Gameplay Experience with These 5 Reasons to Purchase</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-boost-your-finances-with-these-8-essential-tiktok-strategies/"><u>[New] Boost Your Finances with These 8 Essential TikTok Strategies</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/core-contenders-navigating-cpu-wars-in-gaming/"><u>Core Contenders: Navigating CPU Wars in Gaming?</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/database-comeback-a-sql-cosmos-manual/"><u>Database Comeback: A SQL Cosmos Manual</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-gaming-setup-with-tv-tuning-guide/"><u>Elevate Your Gaming Setup with TV Tuning Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-your-gameplay-opt-for-the-best-in-144hz-screening/"><u>Enhance Your Gameplay: Opt for the Best in 144Hz Screening</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-steps-for-reestablishing-joy-con-connection-on-switch/"><u>Essential Steps for Reestablishing Joy-Con Connection on Switch</u></a></li>
+<li><a href="https://win-answers.techidaily.com/farming-simulator-22-performance-issues-fixed-for-pc-players/"><u>Farming Simulator 22 Performance Issues - Fixed for PC Players</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/from-concept-to-completion-a-stories-polling-handbook/"><u>From Concept to Completion A Stories Polling Handbook</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/go-incognito-with-instagram-live-a-comprehensive-guide-to-anonymity-for-2024/"><u>Go Incognito with Instagram Live A Comprehensive Guide to Anonymity for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-oppo-a18-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Oppo A18</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-jaunt-vr-unleashed-an-in-depth-look/"><u>In 2024, Jaunt VR Unleashed An In-Depth Look</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-ps5-games-without-a-controllers-hold/"><u>Mastering PS5 Games Without a Controller's Hold</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-the-path-to-safer-communication-activate-your-kids-discord-safeguards/"><u>Navigating the Path to Safer Communication: Activate Your Kid's Discord Safeguards</u></a></li>
+<li><a href="https://games-able.techidaily.com/quality-on-a-dime-your-guide-to-vr-selection/"><u>Quality on a Dime: Your Guide to VR Selection</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-ps5-dualsense-controllers-and-their-charger-matches/"><u>Top PS5 DualSense Controllers & Their Charger Matches</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/transformative-journey-a-win11-home-to-pro-guide/"><u>Transformative Journey: A Win11 Home to Pro Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/virtual-gamepad-conversion-guide/"><u>Virtual Gamepad Conversion Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/winxbox-controller-fixes-your-pc-companion/"><u>WinXbox Controller Fixes: Your PC Companion</u></a></li>
 </ul></div>
 

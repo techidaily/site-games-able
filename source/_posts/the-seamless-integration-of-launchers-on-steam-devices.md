@@ -1,7 +1,7 @@
 ---
 title: The Seamless Integration of Launchers on Steam Devices
-date: 2024-09-20T16:12:57.600Z
-updated: 2024-09-27T06:09:26.531Z
+date: 2024-09-29T22:50:02.280Z
+updated: 2024-10-02T12:06:00.190Z
 tags:
   - games
 categories:
@@ -39,13 +39,6 @@ Instead, we have solutions designed specifically for the Steam Deck.
 
 ![screenshot of heroic game launcher in the discover store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_heroic_in_discover_store.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Heroic Games Launcher is a frontend for three different game launchers, letting you gain access the Epic Games Launcher, GOG Galaxy, and Amazon Games App with one installation.
 
  Hop into Desktop Mode and open up the Discover store. This will be found in the**All Applications** menu if you haven't already used it.
@@ -53,6 +46,13 @@ Instead, we have solutions designed specifically for the Steam Deck.
  Search for Heroic and hit**Install** .
 
 ![screenshot of the heroic games launcher login page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_heroic_login_page.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When the installation is finished, you can find the program in the All Applications menu, just like the Discover store.
 
@@ -69,24 +69,30 @@ Instead, we have solutions designed specifically for the Steam Deck.
 ![screenshot of the heroic games launcher settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_heroic_settings_page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This will add shortcuts to Gaming Mode, allowing you to launch these games without worrying about Desktop Mode.
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## NonSteamLaunchers for Battle.net, EA App, and More
 
 ![screenshot of nonsteamlaunchers list of launchers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_nonsteamlaunchers_list_of_launchers.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  NonSteamLaunchers can be a little bit more difficult to install. This isn't available in the Discover Store, so you'll need to enter Desktop Mode and navigate to the[GitHub page for NonSteamLaunchers](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) .
 
@@ -105,10 +111,10 @@ Instead, we have solutions designed specifically for the Steam Deck.
  Just note that these installations require the user to select a specific Proton compatibility layer through Steam, unlike Heroic Games Launcher which manages this for you.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Play Non-Steam Games on the Steam Deck
@@ -130,22 +136,16 @@ Instead, we have solutions designed specifically for the Steam Deck.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-save-your-favorite-tiktok-content-securely-on-devices/"><u>[New] Save Your Favorite TikTok Content - Securely on Devices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-metaverses-humorous-realms-together/"><u>[Updated] Exploring the Metaverse's Humorous Realms Together</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/advanced-techniques-for-implementing-luts-in-creative-suite-for-2024/"><u>Advanced Techniques for Implementing LUTs in Creative Suite for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevating-dandd-with-ai-6-innovative-ways-to-utilize-chatgpt/"><u>Elevating D&D with AI: 6 Innovative Ways to Utilize ChatGPT</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-gameplay-sd-card-for-steam-deck/"><u>Enhancing Gameplay: SD Card for Steam Deck</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-artificial-intelligence-tools-every-entrepreneur-must-explore/"><u>Essential Artificial Intelligence Tools Every Entrepreneur Must Explore</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-accelerate-slow-mobile-networks-in-just-10-easy-steps/"><u>How To Accelerate Slow Mobile Networks in Just 10 Easy Steps</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-optimize-your-steam-deck-for-epic-and-gog-gaming/"><u>How to Optimize Your Steam Deck for Epic & GOG Gaming</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Xiaomi Redmi A2+? | Dr.fone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtube-success-elevating-audience-count/"><u>In 2024, YouTube Success Elevating Audience Count</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-and-android-texting-woes-here-are-the-fixes-to-reconnect/"><u>IPhone and Android Texting Woes? Here Are the Fixes to Reconnect</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your OnePlus Ace 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-system-hardware-errors-in-w11w10/"><u>Tackling System Hardware Errors in W11/W10</u></a></li>
-<li><a href="https://games-able.techidaily.com/tactical-approach-to-monitoring-xbox-gaming/"><u>Tactical Approach to Monitoring Xbox Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/taipeis-2024-showdown-ai-tech-frontier/"><u>Taipei's 2024 Showdown: AI Tech Frontier</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-cooling-devices-to-prevent-overheating/"><u>Top Cooling Devices to Prevent Overheating</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-oneplus-nord-n30-se-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My OnePlus Nord N30 SE Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-influence-unleashed-5-crucial-steps-to-thriving-on-instagram-marketing/"><u>[New] 2024 Approved Influence Unleashed 5 Crucial Steps to Thriving on Instagram Marketing</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-how-to-perfectly-log-off-video-conferencing-on-devices/"><u>[New] In 2024, How to Perfectly Log-Off Video Conferencing on Devices</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-video-framing-technique-adding-bb-and-letterbox-overlays-to-fb/"><u>[Updated] 2024 Approved Video Framing Technique Adding BB and Letterbox Overlays to FB</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Infinix Zero 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/immerse-in-classic-games-on-idevices-with-our-top-4-emulator-apps/"><u>Immerse in Classic Games on iDevices with Our Top 4 Emulator Apps</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-complete-blueprint-record-whatsapp-conversations-effectively/"><u>In 2024, The Complete Blueprint Record WhatsApp Conversations Effectively</u></a></li>
+<li><a href="https://games-able.techidaily.com/join-the-fun-best-6-modern-platforms-for-alternate-chess/"><u>Join the Fun: Best 6 Modern Platforms for Alternate Chess</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/mastering-the-art-of-discerning-true-from-false-insta-pals/"><u>Mastering the Art of Discerning True From False Insta Pals</u></a></li>
+<li><a href="https://games-able.techidaily.com/swiftly-swapping-steam-deck-storage-cloning-made-simple/"><u>Swiftly Swapping Steam Deck Storage: Cloning Made Simple</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-xbox-perks-and-promotions/"><u>Unlock Xbox Perks and Promotions</u></a></li>
 </ul></div>
 

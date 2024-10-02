@@ -1,7 +1,7 @@
 ---
 title: Game Not Up to Par? Get Your Cash Back From Xbox
-date: 2024-09-15T19:45:01.706Z
-updated: 2024-09-21T00:44:42.537Z
+date: 2024-09-25T04:05:39.074Z
+updated: 2024-10-01T19:28:41.591Z
 tags:
   - games
 categories:
@@ -67,11 +67,25 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
 
  Your refund request will then be sent away for review, and you should expect an answer within 72 hours.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### What Happens if the Game I Want to Refund Isn’t Listed?
 
  There are several reasons why the game you want to refund isn’t listed on the returns page. If you would like more information on what items will or won't be available there, click**Why don't I see my purchase on the list?** It is worth noting that subscriptions and preorders don’t show up in that section, so that could be a contributing factor.
 
  In most cases, if the game in question doesn’t show up on the returns page, it is non-refundable for one reason or another. In that case, it might pay to go back and review the details of your purchase and make sure you are eligible for a refund.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Happens Once My Refund Request Is Accepted?
 
@@ -80,19 +94,19 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
 ![Microsoft account order history page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/microsoft-account-order-history-page-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To check your Microsoft account and see if your refund is being processed, head back to the Microsoft website and click your**user icon** in the top right corner. Select**My Microsoft account** , and head down to your**Order history** . If your refund was successful, you will see**Refunded** next to the game title.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Make Sure You Request Your Refunds Before It’s Too Late
@@ -114,5 +128,24 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-skyrocketing-sales-with-high-roi-in-dynamic-fb-ad-creations/"><u>[New] 2024 Approved Skyrocketing Sales with High ROI in Dynamic FB Ad Creations</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-maximize-your-online-presence-with-these-5-streaming-techniques/"><u>[New] Maximize Your Online Presence with These 5 Streaming Techniques</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-pro-tips-for-video-conference-recordings-desktop-edition-for-2024/"><u>[Updated] Pro Tips for Video Conference Recordings Desktop Edition for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beyond-binary-envisioning-new-capabilities-for-gpt-5/"><u>Beyond Binary: Envisioning New Capabilities for GPT-5</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-ddr5-memory-modules-guide-2024/"><u>Elite DDR5 Memory Modules' Guide - 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/1722518324132-experience-speed-with-the-tp-link-archer-c80-the-budget-wireless-router-reviewed/"><u>Experience Speed with the TP-Link Archer C80 - The Budget Wireless Router Reviewed!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-safaris-full-page-capture-malfunctions-a-step-by-step-guide/"><u>Fixing Safari’s Full Page Capture Malfunctions: A Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-at-a-higher-level-do-mts-belong/"><u>Gaming at a Higher Level: Do MTs Belong?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-8-plus-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 8 Plus Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/innocn-39g1r-refresh-quick-low-cost/"><u>InnoCN 39G1R - Refresh Quick, Low Cost</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-screen-not-working-here-are-7-possible-explanations/"><u>IPhone Screen Not Working? Here Are 7 Possible Explanations</u></a></li>
+<li><a href="https://games-able.techidaily.com/portable-playing-more-than-just-fun/"><u>Portable Playing: More Than Just Fun?</u></a></li>
+<li><a href="https://games-able.techidaily.com/setting-up-discord-a-step-by-step-guide-for-mac-users/"><u>Setting Up Discord: A Step-by-Step Guide for Mac Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/sketch-to-score-rhythm-games-and-graphic-devices/"><u>Sketch to Score: Rhythm Games & Graphic Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/stellar-designer-hunt-for-high-end-computers/"><u>Stellar Designer: Hunt for High-End Computers</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategy-for-saving-steam-screen-captures/"><u>Strategy for Saving Steam Screen Captures</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Strategies for Dealing with Missing Parts on PC
-date: 2024-09-21T21:25:11.179Z
-updated: 2024-09-27T03:09:01.519Z
+date: 2024-09-27T20:23:32.114Z
+updated: 2024-10-02T03:33:20.471Z
 tags:
   - games
 categories:
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/7fed1c054c54c404a50983c16bd1d7d403eb3f6cb
 
  Check out[how to update Windows manually](https://www.makeuseof.com/update-windows-manually/) and ensure your PC is on the latest build.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Repair Visual C++ Packages on Your PC
 
  The “following components are required” error often complains about missing Visual C++ or DirectX runtimes. If it specifies a missing Visual C++ runtime, you may need to repair your PC's version of Visual C++.
@@ -50,20 +43,13 @@ thumbnail: https://thmb.techidaily.com/7fed1c054c54c404a50983c16bd1d7d403eb3f6cb
 ![The Modify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/modify-option.jpg)
 4. Select the**Repair** option in the Visual C++ window that opens.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Install the 2015-2022 Visual Studio C++ Packages
@@ -79,13 +65,6 @@ thumbnail: https://thmb.techidaily.com/7fed1c054c54c404a50983c16bd1d7d403eb3f6cb
 ![The Install option for Visual C++](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-install-button.jpg)
 4. Repeat steps two and three to download and install the 32-bit version of Visual Studio 2015-2022\. To do so, you’ll need to click on the X86 download link for Visual Studio 2015-2022.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Install DirectX Runtime Libraries
 
  If the error message mentions DirectX, that means your PC might be missing DirectX runtime components required for a game. That’s more likely to be the case if you’re trying to play an older game on a Windows 11/10 PC.
@@ -97,15 +76,23 @@ thumbnail: https://thmb.techidaily.com/7fed1c054c54c404a50983c16bd1d7d403eb3f6cb
 3. Select**I accept the agreement** inside the "Installing Microsoft DirectX" window.  
 ![The I accept the agreement radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-i-accept-radio-button.jpg)
 4. Click**Next** to proceed to an offer for installing a Bing Bar.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Uncheck the**Install the Bing Bar** checkbox if you don’t want that software.  
 ![The Install the Bing Bar checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-install-bing-bar-option.jpg)
 6. Select**Next** to install the required DirectX components.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Repair .NET Framework Components
@@ -113,15 +100,22 @@ thumbnail: https://thmb.techidaily.com/7fed1c054c54c404a50983c16bd1d7d403eb3f6cb
 ![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Users have confirmed they fixed the “following components are required” error by reinstalling .NET Framework components. Thus, you might need to repair .NET Framework components on your PC to resolve the “following components are required” error.
 
  Check out[how to repair the .NET Framework](https://www.makeuseof.com/windows-repair-net-framework/) for more information.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Verify the Affected Game Within Your Game Launcher
 
@@ -142,6 +136,13 @@ thumbnail: https://thmb.techidaily.com/7fed1c054c54c404a50983c16bd1d7d403eb3f6cb
  Then reinstall the latest version of the game by downloading it from its official site. If installed with Steam or Epic, or other launcher software, you’ll need to select to reinstall the game via its gaming client. Or reinstall the game from its Microsoft Store page if that’s where you purchased it.
 
  Also, note that some players have been able to resolve the “following components are required” error by reinstalling Steam. So, reinstalling that client software might be worth a try if you need to fix this issue for Steam games.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Kick-Start Your Windows Games Again
 
@@ -164,22 +165,24 @@ thumbnail: https://thmb.techidaily.com/7fed1c054c54c404a50983c16bd1d7d403eb3f6cb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-elevate-video-quality-mastering-fb-1080p-streams/"><u>[New] 2024 Approved Elevate Video Quality Mastering FB 1080P Streams</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-stealthy-content-consumption-top-5-apps/"><u>[New] Stealthy Content Consumption - Top 5 Apps</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-firsthand-look-at-we-trys-le-chat-an-impressive-contender-for-chatgpt/"><u>A Firsthand Look at We Try's Le Chat - An Impressive Contender for ChatGPT?</u></a></li>
-<li><a href="https://win-forum.techidaily.com/crear-tu-propia-animacion-de-navidad-guia-del-herramienta-creadora-de-diaporamas-para-festividades/"><u>Crear Tu Propia Animación De Navidad: Guía Del Herramienta Creadora De Diaporamas Para Festividades</u></a></li>
-<li><a href="https://games-able.techidaily.com/ensuring-personalized-sound-exclusive-headset-use/"><u>Ensuring Personalized Sound: Exclusive Headset Use</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-tips-for-playing-steam-on-iphones-and-tablets/"><u>Essential Tips for Playing Steam on iPhones and Tablets</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-nokia-c02-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Nokia C02 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/intrigue-and-investigation-with-smart-ai-games/"><u>Intrigue & Investigation with Smart AI Games</u></a></li>
-<li><a href="https://extra-support.techidaily.com/live-broadcasting-made-simple-a-practical-guide-for-2024/"><u>Live Broadcasting Made Simple A Practical Guide for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigate-major-social-platforms-engage-with-facebook-twitter-post-to-instagram-and-create-content-for-youtube/"><u>Navigate Major Social Platforms: Engage with Facebook, Twitter, Post to Instagram & Create Content for Youtube</u></a></li>
-<li><a href="https://games-able.techidaily.com/quick-remedy-for-dxgierrordevicehunk-on-windows-1011/"><u>Quick Remedy for DXGI_ERROR_DEVICE_HUNK on Windows 10/11</u></a></li>
-<li><a href="https://games-able.techidaily.com/simple-guide-overcoming-the-failed-to-install-discord-hurdle-successfully/"><u>Simple Guide: Overcoming the 'Failed to Install Discord' Hurdle Successfully</u></a></li>
-<li><a href="https://games-able.techidaily.com/simplify-game-boy-step-by-step-emulation-on-psp-device/"><u>Simplify Game Boy: Step-by-Step Emulation on PSP Device</u></a></li>
-<li><a href="https://games-able.techidaily.com/stand-up-for-justice-documentation-of-misconduct-in-series-sx/"><u>Stand Up for Justice: Documentation of Misconduct in Series S/X</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/streamline-your-skype-experience-with-obs-recordings-for-2024/"><u>Streamline Your Skype Experience with OBS Recordings for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-hidden-dynamics-of-gamings-metagame/"><u>The Hidden Dynamics of Gaming’s Metagame</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-honor-magic-5-lite-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Honor Magic 5 Lite IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-the-evolutionary-path-of-roguelike-games/"><u>[New] In 2024, The Evolutionary Path of Roguelike Games</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-cost-free-treasure-hunts-finding-gorgeous-tiktok-backdrops/"><u>[Updated] Cost-Free Treasure Hunts Finding Gorgeous TikTok Backdrops</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-webcams-for-podcast/"><u>Best Webcams for Podcast</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-the-latest-in-desktop-designs-a-comprehensive-review-of-the-apple-imacs-stylish-power-and-4k-capability/"><u>Discover the Latest in Desktop Designs: A Comprehensive Review of the Apple iMac's Stylish Power and 4K Capability</u></a></li>
+<li><a href="https://games-able.techidaily.com/dissecting-and-rectifying-four-predominant-gpu-problems/"><u>Dissecting and Rectifying Four Predominant GPU Problems</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-play-with-a-properly-configured-ps5-assist-controller/"><u>Enhance Play with a Properly Configured PS5 Assist Controller</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-new-heights-with-these-8-ps4-tips/"><u>Explore New Heights with These 8 PS4 Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/fast-resume-feature-boost-or-bust-for-xbox-sx/"><u>Fast Résumé Feature - Boost or Bust for Xbox S/X?</u></a></li>
+<li><a href="https://games-able.techidaily.com/finding-your-perfect-match-5-standout-traits-in-professional-mice/"><u>Finding Your Perfect Match: 5 Standout Traits in Professional Mice</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/age-youtubes-potential-through-strategic-backlinking/"><u>Leverage YouTube's Potential Through Strategic Backlinking</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-in-home-karaoke-parties-for-unforgettable-nights/"><u>Mastering the Art of In-Home Karaoke Parties for Unforgettable Nights</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfect-sitters-top-choices-for-heightened-gamers/"><u>Perfect Sitters: Top Choices for Heightened Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/reach-beyond-limits-mobile-gaming-writ-large-in-geforce-now/"><u>Reach Beyond Limits: Mobile Gaming' Writ Large in GeForce Now</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/sony-xperia-1-v-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Sony Xperia 1 V Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/steps-to-locate-your-personal-email-address/"><u>Steps To Locate Your Personal Email Address</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/steps-to-record-voice-memo-on-iphone-for-2024/"><u>Steps to Record Voice Memo on iPhone for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-secret-strategy-discovering-and-obtaining-best-free-steam-titles/"><u>Top Secret Strategy: Discovering and Obtaining Best Free Steam Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-six-attributes-that-ensure-gaming-success/"><u>Top Six Attributes That Ensure Gaming Success</u></a></li>
 </ul></div>
 

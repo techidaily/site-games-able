@@ -1,7 +1,7 @@
 ---
 title: "Repair Manual: Fixing Faulty Xbox Series S/X"
-date: 2024-09-19T01:55:12.589Z
-updated: 2024-09-21T02:01:18.901Z
+date: 2024-09-29T23:47:58.164Z
+updated: 2024-10-02T02:47:13.237Z
 tags:
   - games
 categories:
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/33493674183189bab67b88de79a85b9996c293935
 
  But with that, your Xbox Series X|S will be registered with Microsoft, and you should be well on your way to booking a repair with Xbox for your Series X|S.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Check the Warranty Status of Your Xbox Series X|S
 
  Now your Xbox Series X|S is registered with Microsoft, you can move on to checking the warranty status of your console to see whether your repair will be free.
@@ -55,6 +62,19 @@ thumbnail: https://thmb.techidaily.com/33493674183189bab67b88de79a85b9996c293935
  However, if you feel the**Warranty** message is inaccurate or not displayed, you can select the**Info & support** tab for your Xbox Series X|S. From here, you can view your**Standard Limited Warranty** details or any other account warranty information.
 
 ![A screenshot of the Device Coverage Information for an Xbox Series X registered under a Microsoft account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3100.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Bear in mind, that standard Xbox Series X|S warranties for consoles last for 12 months, so if you purchase your Xbox upon release, its warranty will have unfortunately expired. Because of this, you should[maintain consoles like the Xbox Series X](https://www.makeuseof.com/ways-to-maintain-xbox-series-x-hardware/) throughout its generation. This way, you may avoid ever needing to repair your Xbox.
 
@@ -75,20 +95,27 @@ thumbnail: https://thmb.techidaily.com/33493674183189bab67b88de79a85b9996c293935
 
 ![A screenshot of the repair costs for an Xbox Series X being repaired through Microsoft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3108.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  From here, you need to**Select a shipping method** and agree to Microsoft's terms and conditions. You will then be expected to pay for the repair and any delivery fees. If your console is under warranty, the repair fees should be waived depending on the exact issue with your Xbox.
 
 ![A screenshot of the Shipping Methods for the repair of an Xbox Series X through Microsoft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3111.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  But with your repair paid for and the delivery method selected, you can expect your Xbox to be fixed and returned to you very soon, or at least depending upon your chosen delivery method.
 
  However, if you find the price tag for a repair to be too expensive, there are plenty of Xbox issues that are fixable at home. For instance,[fixing Xbox Wireless Controller stick drift](https://www.makeuseof.com/how-to-fix-xbox-one-controller-drift/) can be easy and doesn't necessarily require replacements or an official repair.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Repair Your Xbox Series X|S Officially and Efficiently
 
@@ -109,5 +136,24 @@ thumbnail: https://thmb.techidaily.com/33493674183189bab67b88de79a85b9996c293935
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-thrift-in-tech-streaming-free-seminars-on-youtube/"><u>[Updated] Thrift in Tech Streaming FREE Seminars on YouTube</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-ultimate-guide-top-101-personal-profiles-on-facebook-for-2024/"><u>[Updated] Ultimate Guide Top 101 Personal Profiles on Facebook for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/cozy-gaming-understanding-its-rise-to-fame/"><u>Cozy Gaming: Understanding Its Rise to Fame</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-language-with-precision-using-openai-apis/"><u>Crafting Language with Precision Using OpenAI APIs</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/decoding-history-through-oldest-language-discovery/"><u>Decoding History Through Oldest Language Discovery</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-lenovo-mouse-pad-problems-on-various-windows-versions-win-1187/"><u>Diagnosing and Repairing Lenovo Mouse Pad Problems on Various Windows Versions (Win 11/8/7)</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-run-android-apps-in-linux-systems/"><u>How to Run Android Apps in Linux Systems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-amplify-your-audio-presence-learn-to-modify-voices-for-free/"><u>In 2024, Amplify Your Audio Presence Learn to Modify Voices for FREE</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-xiaomi-redmi-12-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Xiaomi Redmi 12 5G</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-steps-reactivating-disconnected-joy-con-on-switch/"><u>Mastering the Steps: Reactivating Disconnected Joy-Con on Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/meta-vr-quest-3-a-mixed-reality-odyssey/"><u>Meta VR Quest 3: A Mixed Reality Odyssey</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-ps4-joystick-jams-effective-remedies-at-hand/"><u>Overcoming PS4 Joystick Jams: Effective Remedies at Hand</u></a></li>
+<li><a href="https://games-able.techidaily.com/real-world-wins-with-cutting-edge-game-tech/"><u>Real-World Wins with Cutting-Edge Game Tech</u></a></li>
+<li><a href="https://games-able.techidaily.com/retrosphere-portable-nostalgia-meets-technology/"><u>RetroSphere Portable: Nostalgia Meets Technology</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-social-spheres-new-picks-explore-these-8-trends-for-2024/"><u>The Social Sphere's New Picks Explore These 8 Trends for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-unnoticed-online-players-handbook/"><u>The Unnoticed Online Player's Handbook</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "No More Walled Gardens: Open Playgrounds For All"
-date: 2024-09-21T01:10:53.792Z
-updated: 2024-09-27T06:35:51.933Z
+date: 2024-09-28T19:36:12.413Z
+updated: 2024-10-01T20:19:29.589Z
 tags:
   - games
 categories:
@@ -27,16 +27,10 @@ thumbnail: https://thmb.techidaily.com/5cbb31b0aa89284f511ea895d4dc406591717af97
 * [Why I'm Glad Platform Exclusives Are No More](#why-i-39-m-glad-platform-exclusives-are-no-more)
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -55,18 +49,18 @@ thumbnail: https://thmb.techidaily.com/5cbb31b0aa89284f511ea895d4dc406591717af97
 
 ![Joysticks on an old arcade cabinet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/shutterstock_1089499448.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Giuseppe Cammino/[Shutterstock](https://www.shutterstock.com/image-photo/joystick-vintage-arcade-videogame-coinop-1089499448)
 
  In the late 80s and early 90s, this platform exclusivity formed around two now-iconic characters: Sonic and Mario. Nintendo and Mario were well-established, but then Sega and Sonic entered the scene. And if you wanted to play the Sonic games, you needed to own a Sega system. And millions duly bought Sega's consoles as a result.
 
  Once we entered the PlayStation/Xbox era, platform exclusivity became an even bigger part of the story. Both Sony and Microsoft created original IP designed to shift units, as well as paying third-party developers and publishers large amounts of money to secure timed exclusives. And that battle of the exclusives (of all kinds) has persisted ever since.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Platform Exclusives Are Coming to an End
 
@@ -89,10 +83,10 @@ thumbnail: https://thmb.techidaily.com/5cbb31b0aa89284f511ea895d4dc406591717af97
 ![horizon forbidden west page on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/horizon-forbidden-west-page-on-steam.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  So, why are platform exclusives coming to an end? The obvious answer is that they're no longer the best option available to the companies responsible. The benefits of opening titles up to everyone, regardless of platform, massively outweigh the benefits of keeping titles exclusive to one console. As outlined above, Phil Spencer, someone who should know, said as much.
@@ -114,10 +108,10 @@ thumbnail: https://thmb.techidaily.com/5cbb31b0aa89284f511ea895d4dc406591717af97
 ![The PlayStation icons picked out in neon lights](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/playstation-logos-in-neon.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  mkfilm/[Shutterstock](https://www.shutterstock.com/image-illustration/geometry-neon-lights-room-modern-blue-1933780073)
@@ -141,22 +135,20 @@ thumbnail: https://thmb.techidaily.com/5cbb31b0aa89284f511ea895d4dc406591717af97
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-learn-to-cropping-and-composition-the-audio-visual-balance-in-canvas/"><u>[Updated] 2024 Approved Learn to Cropping & Composition The Audio-Visual Balance in Canvas</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-expert-guide-to-enhancing-video-controls-and-performance/"><u>[Updated] Expert Guide to Enhancing Video Controls and Performance</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-close-up-cinematography-through-zooming/"><u>2024 Approved Mastering Close-Up Cinematography Through Zooming</u></a></li>
-<li><a href="https://games-able.techidaily.com/beyond-subscriptions-the-future-of-apsplus-gaming/"><u>Beyond Subscriptions: The Future of APS+ Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/beyond-the-bulb-visionary-concepts/"><u>Beyond the Bulb: Visionary Concepts</u></a></li>
-<li><a href="https://games-able.techidaily.com/binge-friendly-apps-the-top-20-fast-games-for-androidiphone/"><u>Binge-Friendly Apps: The Top 20 Fast Games for Android/iPhone</u></a></li>
-<li><a href="https://games-able.techidaily.com/bypassing-dxgierrordevicehunk-on-win-1011-systems/"><u>Bypassing DXGI_ERROR_DEVICE_HUNK on Win 10/11 Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/calm-competitions-indulge-in-idle-realms/"><u>Calm Competitions: Indulge in Idle Realms</u></a></li>
-<li><a href="https://games-able.techidaily.com/calm-escapades-indulge-in-idle-worlds/"><u>Calm Escapades: Indulge in Idle Worlds</u></a></li>
-<li><a href="https://games-able.techidaily.com/chatgpt-for-dynamic-video-game-storytelling/"><u>ChatGPT for Dynamic Video Game Storytelling</u></a></li>
-<li><a href="https://games-able.techidaily.com/co-op-creations-crafting-companionship-through-minecraft-teamwork/"><u>Co-Op Creations: Crafting Companionship Through Minecraft Teamwork</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/corsair-k70-gaming-mouse-download-and-install-your-perfect-setup/"><u>Corsair K70 Gaming Mouse: Download and Install Your Perfect Setup</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-vivo-x90s-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Vivo X90S to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/future-patch-overcomes-windows-11-compatibility-constraints-with-fat32-filesystem/"><u>Future Patch Overcomes Windows 11 Compatibility Constraints with FAT32 Filesystem</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-building-a-broad-spectrum-audience-with-multichannel-strategy/"><u>In 2024, Building a Broad-Spectrum Audience with Multichannel Strategy</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-windows-11-spotlight-malfunction-a-step-by-step-guide/"><u>Overcoming Windows 11 Spotlight Malfunction: A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-get-ready-to-play-top-10-best-free-game-download-sites-for-pc-and-android-devices/"><u>Updated 2024 Approved Get Ready to Play Top 10 Best Free Game Download Sites for PC and Android Devices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-multitasking-mastery-activities-while-embracing-soundtracks/"><u>[New] Multitasking Mastery Activities While Embracing Soundtracks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-implementing-windows-11s-automatic-hdr-feature/"><u>[New] The Ultimate Guide to Implementing Windows 11'S Automatic HDR Feature</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-delving-into-the-heart-of-apples-m1-processor/"><u>[Updated] 2024 Approved Delving Into the Heart of Apple's M1 Processor</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-intuitive-steps-setting-up-snapchat-macos-style/"><u>2024 Approved Intuitive Steps Setting up Snapchat macOS-Style</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-a60s-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from A60s</u></a></li>
+<li><a href="https://games-able.techidaily.com/examine-pimaxs-crystal-clarity-a-visual-treat-with-bugs/"><u>Examine Pimax's Crystal Clarity - A Visual Treat with Bugs</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-toshiba-device-connected-with-bluetooth-download-the-right-driver/"><u>Get Your Toshiba Device Connected with Bluetooth: Download the Right Driver</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/guide-converting-myvideo-downloads-into-mp3s-for-offline-listening/"><u>Guide: Converting MyVideo Downloads Into MP3s for Offline Listening</u></a></li>
+<li><a href="https://games-able.techidaily.com/linking-up-with-fun-think-twice-about-it/"><u>Linking Up With Fun? Think Twice About It</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-chatgpt-organizing-dialogues-with-ease/"><u>Mastering ChatGPT: Organizing Dialogues with Ease</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-value-on-the-field-boosting-frame-rates-and-performance-of-valorant-windows-edition/"><u>Maximize Value on the Field: Boosting Frame Rates and Performance of Valorant Windows Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/premier-gamers-progress-recorders/"><u>Premier Gamers' Progress Recorders</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-vs-xbox-series-x-which-console-should-you-buy-this-generation/"><u>PS5 Vs. Xbox Series X: Which Console Should You Buy This Generation?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-razer-driver-download-tutorial-for-windows-operating-systems-10-8-7-xp-vista/"><u>Ultimate Razer Driver Download Tutorial for Windows Operating Systems: 10, 8, 7, XP, Vista</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-constitutes-idle-participation-on-discord/"><u>What Constitutes Idle Participation on Discord?</u></a></li>
 </ul></div>
 

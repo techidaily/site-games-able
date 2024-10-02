@@ -1,7 +1,7 @@
 ---
 title: The New AI Hardware Launched at Computex 2024 That I Want to Try
-date: 2024-09-19T01:38:45.432Z
-updated: 2024-09-21T00:27:34.330Z
+date: 2024-09-24T19:20:33.630Z
+updated: 2024-10-01T23:49:01.973Z
 tags:
   - games
 categories:
@@ -41,6 +41,13 @@ So, these are the best bits of AI hardware launched at Computex 2024.
 
 ![intel lunar lake overall spec sheet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/intel-lunar-lake-overall-spec-sheet.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Intel
 
  Despite Qualcomm's ongoing plaudits at Computex 2024 (Snapdragon X Elite is also coming to desktops!), Intel's new Lunar Lake laptop chips have grasped some of its spotlight, promising rapid CPUs, faster NPUs, substantial upgrades to integrated graphics, and big battery life boosts.
@@ -49,16 +56,16 @@ Intel
 
 ![intel lunar lake npu spec sheet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/intel-lunar-lake-npu-spec-sheet.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Intel
 
  Aside from the AI side, the most interesting Lunar Lake upgrade is fully integrated memory. Intel Lunar Lake won't ship with specific memory chips. Instead, Intel will integrate 16 or 32GB memory into the chip design, saving space and boosting efficiency.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Nvidia GeForce RTX AI Laptops
 
@@ -71,10 +78,10 @@ Intel
  Interestingly,[Nvidia claims](https://www.nvidia.com/en-gb/geforce/news/computex-2024-new-rtx-ai-laptops/) its RTX AI will deliver a bonkers performance boost over other AI-enabled PCs and laptops, delivering up to 686 TOPS (compared to Lunar Lake's 40+ TOPS). It's an enormous boost that Nvidia attributes to its powerful GPUs, while integrated AI chips like Lunar Lake and Snapdragon X Elite are still bound to and limited by CPUs.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AMD Ryzen AI 300
@@ -82,6 +89,13 @@ Intel
  Not to be outdone by Intel, Nvidia, and Qualcomm, AMD revealed its long-awaited AI chips at Computex 2024, built on its shiny new Zen 5 architecture (another AMD upgrade we've been patiently waiting for).
 
 ![amd ai pc chips npu stats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/amd-ai-pc-chips-npu-stats.png)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 AMD
 
@@ -102,5 +116,21 @@ AMD
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-master-5-strategies-for-copying-files-to-your-system/"><u>[New] Master 5 Strategies for Copying Files to Your System</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-iphone-sky-photography-essential-tips-and-tricks/"><u>[New] Mastering iPhone Sky Photography Essential Tips & Tricks</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-essential-no-cost-game-recording-software-guide/"><u>2024 Approved Essential No-Cost Game Recording Software Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-the-safety-of-enhancing-gameplay-in-roblox/"><u>Evaluating the Safety of Enhancing Gameplay in Roblox</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-ahead-are-early-patches-worth-the-hype/"><u>Game Ahead: Are Early Patches Worth the Hype?</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-epic-and-gog-games-on-steam-deck/"><u>Mastering Epic and GOG Games on Steam Deck</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-subtitle-integration-in-wmp-for-2024/"><u>Mastering Subtitle Integration in WMP for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-connectivity-issues-on-switch/"><u>Navigating Connectivity Issues on Switch</u></a></li>
+<li><a href="https://win-superb.techidaily.com/revitalize-your-aging-pc-boosting-performance-on-windows-10-and-mac-tips-from-zdnet/"><u>Revitalize Your Aging PC: Boosting Performance on Windows 10 and Mac - Tips From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/stream-deck-gaming-add-epic-and-gog-to-your-setup/"><u>Stream Deck Gaming: Add Epic & GOG to Your Setup</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-9-risks-relying-on-artificial-intelligence-instead-of-professional-mental-health-support/"><u>Top 9 Risks: Relying on Artificial Intelligence Instead of Professional Mental Health Support</u></a></li>
+<li><a href="https://games-able.techidaily.com/transforming-gaming-on-the-switch-with-these-setups/"><u>Transforming Gaming on the Switch with These Setups</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-king-of-android-phones-the-powerhouse-that-is-samsung-galaxy-s21-ultra/"><u>Unveiling the King of Android Phones - The Powerhouse that Is Samsung Galaxy S21 Ultra</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-auditory-alteration-made-easy-two-paths-to-revamping-sound-in-visual-media/"><u>Updated 2024 Approved Auditory Alteration Made Easy Two Paths to Revamping Sound in Visual Media</u></a></li>
+</ul></div>
 

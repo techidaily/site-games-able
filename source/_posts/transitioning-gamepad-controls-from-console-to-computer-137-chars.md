@@ -1,7 +1,7 @@
 ---
 title: Transitioning Gamepad Controls From Console to Computer (137 Chars)
-date: 2024-09-23T21:07:54.981Z
-updated: 2024-09-26T20:33:08.566Z
+date: 2024-09-26T12:20:24.955Z
+updated: 2024-10-02T09:05:29.003Z
 tags:
   - games
 categories:
@@ -42,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/e2b01a1128735e3ec5310f2cbee0a0035159bd501
  If you have trouble, make sure you're using a high-quality cable. Some USB-C cables only charge and don't support data transfer, so you might need to purchase another cable that supports all functionality.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. How to Connect an Xbox Controller to PC Using Bluetooth
@@ -58,13 +58,6 @@ thumbnail: https://thmb.techidaily.com/e2b01a1128735e3ec5310f2cbee0a0035159bd501
 
 ![Xbox One controller model comparison](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2017/11/Xbox-Controller-Comparison.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Image Credit: Xbox Support  
   
   To use Bluetooth in Windows 10, head to**Settings > Devices > Bluetooth & other devices** . On Windows 11, go to**Settings > Bluetooth & devices** . There, enable the**Bluetooth** slider (if it isn't turned on already), then choose**Add Bluetooth or other device** (Windows 10) or**Add device** (Windows 11). Select**Bluetooth** from the resulting list.
@@ -76,10 +69,10 @@ thumbnail: https://thmb.techidaily.com/e2b01a1128735e3ec5310f2cbee0a0035159bd501
  Remember that the batteries in your Xbox controller will drain when using it wirelessly. To save money on batteries, we recommend picking up the[Xbox One Play and Charge Kit](https://www.amazon.com/Xbox-One-Play-Charge-Kit/dp/B00DBDPOZ4?th=1&psc=1&linkCode=ll1&tag=muo-v2-pagvhls-20&linkId=141e39c0797a1d7786bbe752350e72cf&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU26753&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Ftag%2Fconnect-xbox-one-controller-pc%2F&asc%5Fcampaign=Evergreen) (Xbox One controllers) or the[Xbox Rechargeable Battery](https://www.amazon.com/Xbox-Rechargeable-Battery-USB-C%C2%AE-Cable-one/dp/B08DFB4889?crid=2M3PAHF8MA3Y4&dchild=1&keywords=series%2Bx%2Bplay%2Band%2Bcharge%2Bkit&qid=1616106289&sprefix=series%2Bx%2Bplay%2Caps%2C168&sr=8-2&th=1&linkCode=ll1&tag=muo-v2-pagvhls-20&linkId=7d0bf187ffc186ab3a95d34957c4f9bf&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU26753&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Ftag%2Fconnect-xbox-one-controller-pc%2F&asc%5Fcampaign=Evergreen) (Series X|S controllers) to give your controller recharging capabilities. You can easily plug your controller into your PC when you're not using it, so it will always be ready for your next session.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Use the Xbox Wireless Adapter to Pair Your Xbox One Controller to a PC
@@ -93,6 +86,13 @@ thumbnail: https://thmb.techidaily.com/e2b01a1128735e3ec5310f2cbee0a0035159bd501
  Next, hold the**Xbox button** on your controller to turn it on, then press and hold the**Pair** button on top of the controller. After a few seconds, the controller and adapter should see each other and connect.
 
  From here, you can enjoy your Xbox controller on your PC wirelessly, just like using Bluetooth. We only recommend this method if you have an Xbox One controller that's not Bluetooth-enabled, though. Otherwise, it's better to[add Bluetooth to your computer](https://www.makeuseof.com/add-bluetooth-pc/) with an adapter that's cheaper than the Xbox Wireless Adapter. You could also put the money that you'd spend on the Xbox Wireless Adapter towards a new Series X|S controller.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Reconnect Your Xbox Controller to Your Console
 
@@ -109,10 +109,10 @@ thumbnail: https://thmb.techidaily.com/e2b01a1128735e3ec5310f2cbee0a0035159bd501
  Finally, remember that you can turn off your Xbox controller (when it's not connected to a PC or console with a cable) by holding the**Xbox** button for around five seconds. When the light on this button goes out, your controller is off.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Connect an Xbox Controller to Your PC Easily
@@ -136,16 +136,24 @@ thumbnail: https://thmb.techidaily.com/e2b01a1128735e3ec5310f2cbee0a0035159bd501
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-channel-prodigy-skyrocketing-with-content-innovation/"><u>[Updated] In 2024, Channel Prodigy Skyrocketing with Content Innovation</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-hidden-to-highlighted-your-2-ways-to-see-yts-past-videos/"><u>[Updated] In 2024, From Hidden to Highlighted Your 2 Ways to See YT's Past Videos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-precision-video-resizing-utility/"><u>2024 Approved Precision Video Resizing Utility</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/avviata-la-codifica-hardware-e-software-il-formato-video-av1-ora-accessibile/"><u>Avviata La Codifica Hardware E Software: Il Formato Video AV1 Ora Accessibile</u></a></li>
-<li><a href="https://games-able.techidaily.com/breaking-down-meta-significance-and-enforced-rules-in-gaming/"><u>Breaking Down Meta: Significance and Enforced Rules in Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/bridging-devices-integrating-controllers-with-your-phonetablet/"><u>Bridging Devices: Integrating Controllers with Your Phone/Tablet</u></a></li>
-<li><a href="https://games-able.techidaily.com/can-amds-fsr-3-surpass-the-prowess-of-dlss-35/"><u>Can AMD's FSR 3 Surpass the Prowess of DLSS 3.5?</u></a></li>
-<li><a href="https://games-able.techidaily.com/command-the-century-ranking-the-11-finest-ww2-games/"><u>Command the Century: Ranking the 11 Finest WW2 Games</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/nature-of-the-cosmos-select-sky-photography-websites/"><u>Nature of the Cosmos Select Sky Photography Websites</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/-sponsorship-strategies-for-small-scale-sites-for-2024/"><u>Savvy Sponsorship Strategies for Small-Scale Sites for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/unveiling-the-power-of-photos-a-comprehensive-polarr-guide-for-2024/"><u>Unveiling the Power of Photos A Comprehensive Polarr Guide for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-elevate-your-mobile-shoot-ranking-the-best-9-camgear-innovations/"><u>[New] 2024 Approved Elevate Your Mobile Shoot - Ranking the Best 9 CamGear Innovations</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-top-slide-show-collections-10-places-to-download-high-quality-designs/"><u>[New] 2024 Approved Top Slide Show Collections 10 Places to Download High-Quality Designs</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-maximizing-your-time-best-ways-to-follow-facebook-live-for-2024/"><u>[New] Maximizing Your Time Best Ways to Follow Facebook Live for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-ultimate-guide-to-choosing-stunning-thumbnail-fonts-for-2024/"><u>[Updated] The Ultimate Guide to Choosing Stunning Thumbnail Fonts for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/boosting-business-top-10-highlight-optimization-hacks-for-2024/"><u>Boosting Business Top 10 Highlight Optimization Hacks for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/considerations-and-precautions-choosing-the-right-handheld-videogame-device/"><u>Considerations and Precautions: Choosing the Right Handheld Videogame Device</u></a></li>
+<li><a href="https://driver-error.techidaily.com/dissolve-ongoing-bluetooth-link-issue-in-windows/"><u>Dissolve Ongoing Bluetooth Link Issue in Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/effortless-enjoyment-embark-on-idles/"><u>Effortless Enjoyment: Embark on Idles</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-play-xbox-game-pass-games-on-steam-link-with-glossi/"><u>How to Play Xbox Game Pass Games on Steam Link With GlosSI</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/macx-dvd-ripper-pro-pro-version-windows-11/"><u>MacX DVD Ripper Pro (Pro Version) - パーフェクトなWindows 11対応リッピングガイド</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-steps-for-unused-ps-plus-games/"><u>Next Steps for Unused PS Plus Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-performance-heres-why-to-rethink-ray-tracing/"><u>Optimizing Performance? Here's Why to Rethink Ray Tracing</u></a></li>
+<li><a href="https://games-able.techidaily.com/pro-gamers-guide-to-faster-reliable-data-connections/"><u>Pro-Gamer's Guide to Faster, Reliable Data Connections</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/quick-tips-for-effective-android-video-chatting/"><u>Quick Tips for Effective Android Video Chatting</u></a></li>
+<li><a href="https://games-able.techidaily.com/quickquest-quirks-special-abilities-for-a-time/"><u>QuickQuest Quirks: Special Abilities for a Time</u></a></li>
+<li><a href="https://games-able.techidaily.com/swift-remedy-fixing-joy-con-connection-errors-in-nintendo-switch/"><u>Swift Remedy: Fixing Joy-Con Connection Errors in Nintendo Switch</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-10-smartphone-vr-gadgets-uncovered-for-2024/"><u>Top 10 Smartphone VR Gadgets Uncovered for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-free-fun-on-switch-curated-collection/"><u>Unlock Free Fun on Switch: Curated Collection</u></a></li>
 </ul></div>
 

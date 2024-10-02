@@ -1,7 +1,7 @@
 ---
 title: Monitor Your Console Gameplay on Xbox Series X|S
-date: 2024-09-23T18:42:47.269Z
-updated: 2024-09-26T18:45:32.404Z
+date: 2024-09-28T19:09:32.012Z
+updated: 2024-10-01T17:40:46.620Z
 tags:
   - games
 categories:
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/a4224fc73a6465f58bae54c290236f5e5e4311745
 
  So, while the ability to[compare Xbox stats with friends on Xbox Series X|S](https://www.makeuseof.com/xbox-how-to-compare-gaming-stats-with-friends/) is mostly accurate, the**Time played** stat is strangely plagued with issues. However, for mainline and current game releases, the time you spend playing will be tracked accurately, unless developers have specifically disabled the feature.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Check Your Time Played From Your Xbox Series X|S
 
  Now you know some of the caveats of the feature, you can go ahead and start checking your**Time played** stat for any game you've played with your Xbox account without any confusing surprises.
@@ -55,38 +48,31 @@ thumbnail: https://thmb.techidaily.com/a4224fc73a6465f58bae54c290236f5e5e4311745
 
 ![A screenshot of the Xbox Series X Guide menu with Game Activity and All Achievements highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/game-activity.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Select the game you want to see the**Time played** stat for.
 
 ![A screenshot of the Achievements screen for Xbox games on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/game-selection.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Under**Progress** , highlight**Stats** .
 
 ![A screenshot of the gaming statistics screen for Mass Effect Legendary Edition on Xbox Series X|S](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/stats.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  From the**Stats** screen, your**Time played** is displayed as the first metric. And, if you want to compare your**Time played** for the selected game against your friends, you can select**Time played** for a full comparison leaderboard.
 
  However, this method is not without fault, and sometimes the**Stats** menu for games is inaccurate or unsupported. Luckily, there are still some methods that can help to define how much you've played a game beyond**Stats** .
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What You Can Do if Your Xbox Doesn’t Show Your Time Played Stats
 
@@ -102,7 +88,21 @@ thumbnail: https://thmb.techidaily.com/a4224fc73a6465f58bae54c290236f5e5e4311745
 
 ![A screenshot of the game statistics for Mass Effect Legendary Edition taken from the Xbox app for PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/xbox-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  But while using the Xbox app or in-game stats is a useful backup option, neither method completely fixes the**Time played** stat. Even[setting up parental settings on Xbox Series X|S](https://www.makeuseof.com/xbox-series-parental-controls-how-to/) to provide screen time statistics isn't comparable to**Time played** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Time Played on Xbox Series X|S Is a Useful Yet Inconsistent Feature
 
@@ -125,22 +125,20 @@ thumbnail: https://thmb.techidaily.com/a4224fc73a6465f58bae54c290236f5e5e4311745
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-screensnapper-how-to-record-your-movies-on-tech-gear-for-2024/"><u>[New] ScreenSnapper How to Record Your Movies on Tech Gear for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-secrets-to-the-top-6-free-and-online-shorts-collectors/"><u>[New] Secrets to the Top 6 Free & Online Shorts Collectors</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-video-recording-titans-obs-studio-vs-fraps-face-off/"><u>[New] Video Recording Titans OBS Studio vs Fraps Face-Off</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-professional-picture-taking-within-microsoft-teams/"><u>[Updated] 2024 Approved Professional Picture Taking Within Microsoft Teams</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-how-to-obtain-free-licensed-tunes-for-your-games/"><u>[Updated] In 2024, How to Obtain Free, Licensed Tunes for Your Games</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-ps5-storage-revamped-topping-10-external-units/"><u>[Updated] In 2024, PS5 Storage Revamped Topping 10 External Units</u></a></li>
-<li><a href="https://games-able.techidaily.com/correcting-common-mistakes-in-purchasing-an-oled-monitor/"><u>Correcting Common Mistakes in Purchasing an OLED Monitor</u></a></li>
-<li><a href="https://games-able.techidaily.com/deciphering-amds-rdna-35-tech-details-and-launch-estimates/"><u>Deciphering AMD’s RDNA 3.5: Tech Details and Launch Estimates</u></a></li>
-<li><a href="https://games-able.techidaily.com/fix-your-iphoneandroid-recover-lost-wordles/"><u>Fix Your iPhone/Android: Recover Lost Wordles</u></a></li>
-<li><a href="https://games-able.techidaily.com/fixing-joy-con-connection-issues-on-nintendo-switch/"><u>Fixing Joy-Con Connection Issues on Nintendo Switch</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-elevate-your-brand-explore-these-10-essential-youtube-creators/"><u>In 2024, Elevate Your Brand Explore These 10 Essential YouTube Creators</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-apple-iphone-13-pro-max-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with Apple iPhone 13 Pro Max Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/managing-virtual-space-on-steam-for-games-access/"><u>Managing Virtual Space on Steam for Games Access</u></a></li>
-<li><a href="https://games-able.techidaily.com/nvidias-breakthrough-in-mobile-gaming-with-latest-app/"><u>Nvidia’s Breakthrough in Mobile Gaming with Latest App</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-synergy-of-skill-and-equipment-ultimate-gameplay/"><u>The Synergy of Skill and Equipment: Ultimate Gameplay</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-troubleshooting-guide-resolving-netflix-issues-on-your-roku-device/"><u>Ultimate Troubleshooting Guide: Resolving Netflix Issues on Your Roku Device</u></a></li>
-<li><a href="https://games-able.techidaily.com/win-at-csgo-increase-fps-quickly/"><u>Win at CS:GO: Increase FPS Quickly</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-recapturing-moments-top-notch-free-cam-screens-and-alternatives/"><u>[New] Recapturing Moments Top-Notch Free Cam Screens & Alternatives</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-visualizing-creativity-to-perfection-with-magix-video-pro-x/"><u>[Updated] Visualizing Creativity to Perfection with Magix Video Pro X</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-making-shapes-pop-with-photoshop-tips/"><u>2024 Approved Making Shapes Pop with Photoshop Tips</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-samsung-galaxy-a14-4g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Samsung Galaxy A14 4G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/capturing-win10-games-a-comprehensive-breakdown-for-2024/"><u>Capturing Win10 Games A Comprehensive Breakdown for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/correcting-component-deficiency-on-windows-pcs/"><u>Correcting Component Deficiency on Windows PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/helldivers-2s-secrets-to-unforgettable-gaming-experience/"><u>Helldivers 2'S Secrets to Unforgettable Gaming Experience</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-motorola-razr-40-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Motorola Razr 40 FRP Without Computer</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-sea-of-indie-games-with-itchios-help/"><u>Navigating the Sea of Indie Games with itch.io’s Help</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-watermark-free-video-editing-the-top-10-free-online-options-for-2024/"><u>New Watermark-Free Video Editing The Top 10 Free Online Options for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/preserving-high-definition-in-exported-media/"><u>Preserving High-Definition in Exported Media</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-review-excellence-techniques-and-approaches/"><u>Steam Review Excellence: Techniques and Approaches</u></a></li>
+<li><a href="https://games-able.techidaily.com/switch-gaming-on-pc-with-ryujinx-step-by-step-tutorial/"><u>Switch Gaming on PC with Ryujinx: Step-by-Step Tutorial</u></a></li>
+<li><a href="https://driver-install.techidaily.com/universal-xbox-one-controller-support-for-winsystems/"><u>Universal Xbox One Controller Support for Winsystems</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-game-bar-controls-restrictions-for-minimal-interference/"><u>Xbox Game Bar Controls: Restrictions for Minimal Interference</u></a></li>
 </ul></div>
 

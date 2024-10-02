@@ -1,7 +1,7 @@
 ---
 title: "Mastering Epic's Library: Making All Titles Visible"
-date: 2024-09-17T23:51:12.753Z
-updated: 2024-09-20T21:43:55.869Z
+date: 2024-09-25T03:55:05.786Z
+updated: 2024-10-02T02:47:55.819Z
 tags:
   - games
 categories:
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/1b4d426689bd18514a96cb95968cc5a755b1ea7a2
 
 ![Stop Epic Games from running in the background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/end-epic-games-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then, relaunch the app and check if all of your games are now showing within the library.
 
 ## 3\. Log Out and Log In to Epic Game
@@ -51,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/1b4d426689bd18514a96cb95968cc5a755b1ea7a2
 
 ![Check the game's availability on Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/check-availability-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  A game might have limited availability which is why you can no longer see it in your library. In this case, go to the Epic Store and check the game’s status.
 
 ## 5\. Unhide the Game Library
@@ -61,26 +75,6 @@ thumbnail: https://thmb.techidaily.com/1b4d426689bd18514a96cb95968cc5a755b1ea7a2
 
 ![How to unhide the Epic Games library](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/hide-game-library-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Remove Library Filters
 
  The Epic Games app allows you to sort your titles depending on genre, features, and supported platforms, among other criteria. If certain titles are missing from your library, chances are you’ve set a filter and forgot about it. To check out every title in your library, you should remove Epic Games library filters.
@@ -90,16 +84,10 @@ thumbnail: https://thmb.techidaily.com/1b4d426689bd18514a96cb95968cc5a755b1ea7a2
 ![Reset the library filters on Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/reset-filters-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Delete the Epic Games Launcher Cache
@@ -113,6 +101,13 @@ thumbnail: https://thmb.techidaily.com/1b4d426689bd18514a96cb95968cc5a755b1ea7a2
 5. Relaunch Epic Games and check if the problem is now solved.
 
 ![Delete the Webcache Folder in the Epic Games Launcher Installation Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/5-delete-the-webcache-folder-in-the-epic-games-launcher-installation-folder.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bring Back Your Epic Games Library
 
@@ -131,5 +126,26 @@ thumbnail: https://thmb.techidaily.com/1b4d426689bd18514a96cb95968cc5a755b1ea7a2
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-effortlessly-spread-youtube-videos-on-fb/"><u>[New] 2024 Approved Effortlessly Spread YouTube Videos on FB</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-the-ultimate-user-friendly-guide-to-starting-an-effective-group-chat-on-skype-across-multiple-platforms/"><u>[New] The Ultimate User-Friendly Guide to Starting an Effective Group Chat on Skype Across Multiple Platforms</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-crafting-a-memorable-channel-presence-with-imagery/"><u>[Updated] 2024 Approved Crafting a Memorable Channel Presence with Imagery</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/advanced-3d-design-for-stylish-text-creations/"><u>Advanced 3D Design for Stylish Text Creations</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/begin-animation-ease-in-transition-for-2024/"><u>Begin Animation Ease-In Transition for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/boosting-creativity-the-most-outstanding-free-slide-show-templates-for-2024/"><u>Boosting Creativity The Most Outstanding Free Slide Show Templates for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-a-kid-safe-gentle-steam-experience-for-families/"><u>Crafting a Kid-Safe, Gentle-Steam Experience for Families</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-insights-into-palworld/"><u>Essential Insights Into PalWorld</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-steps-for-auto-gpt-setup/"><u>Essential Steps for Auto-GPT Setup</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-octane-gaming-the-finest-selection-of-online-fps-browser-games/"><u>High-Octane Gaming: The Finest Selection of Online FPS Browser Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-exploit-playnite-large-screen-fullscreen/"><u>How to Exploit Playnite: Large Screen Fullscreen</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/joystick-journey-self-fixing-tips-for-xbox-devices/"><u>Joystick Journey: Self-Fixing Tips for Xbox Devices</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/jriver-media-centre-non-microsoft-media-option/"><u>JRiver Media Centre Non-Microsoft Media Option</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-oppo-f23-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Oppo F23 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/reimagine-gaming-enhancing-tv-vision-with-playnite-fs/"><u>Reimagine Gaming: Enhancing TV Vision with Playnite FS</u></a></li>
+<li><a href="https://games-able.techidaily.com/resetting-playstation-license-for-ps5-users/"><u>Resetting PlayStation License for PS5 Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-correct-component-missing-issue/"><u>Steps to Correct Component Missing Issue</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-gaming-experience-on-switch-started-here/"><u>The Ultimate Gaming Experience on Switch Started Here</u></a></li>
+</ul></div>
 

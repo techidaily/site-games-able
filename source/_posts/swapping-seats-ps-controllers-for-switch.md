@@ -1,7 +1,7 @@
 ---
 title: "Swapping Seats: PS Controllers for Switch"
-date: 2024-09-18T21:35:20.297Z
-updated: 2024-09-20T22:38:19.525Z
+date: 2024-10-01T02:56:08.701Z
+updated: 2024-10-02T11:51:59.403Z
 tags:
   - games
 categories:
@@ -41,9 +41,23 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
 
 ![controllers and sensors nintendo switch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/how-to-pair-ps4-controller-nintendo-switch-003.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When you're in this menu, turn on the wireless USB adapter by selecting**Pro Controller Wired Connection** .
 
 ![pro controller wired connections nintendo Switch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/how-to-pair-ps4-controller-nintendo-switch-004-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  By pressing the pairing button on the USB adapter, you should see a rapidly flashing light. This means that the adapter is ready to pair.
 
@@ -52,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
  Finally, on both the DualSense and DualShock 4 controller, hold down**the PS Button** and**the Share button** to put the controller into pairing mode. The DualSense will have lights pulsing around the touchpad, while the Playstation 4’s DualShock 4 will display a pulsing light on the front.
 
 ![Putting DualSense Controller into pairing mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/putting-dualsense-into-pairing-mode.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When the lights on the controller and adapter return to their steady color, they are paired. You are now ready to play Switch games using a PlayStation controller. To make sure, you should be able to see your controller displayed on the**Controller Select** screen on your Switch.
 
@@ -70,10 +91,10 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
  If you really want to connect your PlayStation controller to your Switch Lite, however, there is a way around it. You will just need to purchase a USB-C to USB adapter first and use your wireless USB adapter through that instead. Following the step-by-step guide above, you should be able to play your Nintendo Switch Lite with the PlayStation controller of your choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Play Switch Games the Way You Want to Play Them
@@ -95,5 +116,21 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-cost-effective-techniques-for-youtube-intro-creation-for-2024/"><u>[New] Cost-Effective Techniques for YouTube Intro Creation for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-essence-of-scripting-for-film/"><u>[New] The Essence of Scripting for Film</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-diy-filming-hacks-to-learn-and-implement-at-home/"><u>2024 Approved DIY Filming Hacks to Learn and Implement at Home</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-leverage-loops-for-stirring-instagram-engagement-and-likes/"><u>2024 Approved Leverage Loops for Stirring Instagram Engagement & Likes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capture-and-conquer-instagram-photos/"><u>Capture and Conquer Instagram Photos</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-vivo-v29-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Vivo V29</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-xbox-hardware-shields/"><u>Exploring Xbox Hardware Shields</u></a></li>
+<li><a href="https://games-able.techidaily.com/hide-and-seek-stashing-your-steam-games/"><u>Hide-and-Seek: Stashing Your Steam Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/reaching-new-heights-with-luxury-chairs/"><u>Reaching New Heights with Luxury Chairs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reawakening-gpu-fans-from-idleness/"><u>Reawakening GPU Fans From Idleness</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-to-master-nyts-social-ladder/"><u>Strategies to Master NYT's Social Ladder</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-dark-side-of-handheld-gaming/"><u>The Dark Side of Handheld Gaming</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-definitive-ranking-why-apples-ipad-pro-11-201n-is-a-top-choice-for-creative-professionals-and-gamers/"><u>The Definitive Ranking: Why Apple's iPad Pro (11, 201N) Is a Top Choice for Creative Professionals and Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-gamers-perspective-on-microsoft-and-activision-merger/"><u>The Gamer's Perspective on Microsoft and Activision Merger</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Valve Redefines Family Gaming with New Sharing Update
-date: 2024-09-23T03:54:11.347Z
-updated: 2024-09-26T23:50:26.790Z
+date: 2024-09-27T00:52:00.815Z
+updated: 2024-10-01T23:03:04.081Z
 tags:
   - games
 categories:
@@ -25,13 +25,6 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 * [How to Enter the Steam Families Beta](#how-to-enter-the-steam-families-beta)
 * [The Pros and Cons of Steam Families](#the-pros-and-cons-of-steam-families)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * The Steam Families beta includes parental controls, game pooling, and structured playtime. This improves upon prior Family Sharing and Family View features.
@@ -40,9 +33,23 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 
  Between Family Sharing and Family View on Steam, the game sharing features of the platform have historically been a bit difficult to manage. However, an update makes family sharing more streamlined and easier to use.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Steam Families: What Has Changed? How Does It Work?
 
 ![Steam Family Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/steam-family-management-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Steam Family Sharing wasn’t a family-centric feature. It was just a way to share games with other accounts that didn’t necessarily have to be your family. However, Valve released the[Steam Families Beta](https://store.steampowered.com/news/app/593110/view/4149575031735702628) on March 18, 2024, and the update changes that.
 
@@ -60,38 +67,37 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 
  These changes allow you to truly have a parental system for Steam, much like a[kid's account for Netflix](https://www.makeuseof.com/how-to-create-netflix-kids-profile/) or YouTube.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Enter the Steam Families Beta
 
 ![How to enter Steam Families Beta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/how-to-enter-steam-families-beta.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you want to try out the new hub for yourself, you need to enter the Steam Families beta. To do this, open Steam and head to**Settings > Interface > Client Beta Participation** , then choose**Steam Families Beta** in the dropdown menu.
 
 ![Steam Family section in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/steam-family-section-in-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It will prompt you to accept, then the client will restart and update Steam. Once it has updated, you can access your family controls by going to**Settings > Family** **\> Manage your Steam Family** . This view is where you can see all the Steam Family features and parental controls once you've made your family and invited your children.
 
  If you need to make space for new games, make sure to[use Steam's Storage Manager](https://www.makeuseof.com/how-to-use-steam-storage-manager/) to conveniently manage your installs.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Pros and Cons of Steam Families
 
@@ -130,20 +136,14 @@ Some of the drawbacks of the feature include:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-frolics-in-film-an-analytical-review-on-vhs/"><u>[New] 'Frolics in Film' An Analytical Review on VHS</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-mastering-video-presentation-utilizing-lc-and-bb-techniques-on-facebook/"><u>[New] 2024 Approved Mastering Video Presentation Utilizing LC and BB Techniques on Facebook</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-top-10-tips-recording-your-youtube-livestreams/"><u>[New] 2024 Approved Top 10 Tips Recording Your Youtube Livestreams</u></a></li>
-<li><a href="https://games-able.techidaily.com/clear-out-your-ps5-identity-information/"><u>Clear Out Your PS5 Identity Information</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-beta-to-breakthrough-the-most-prominent-cam-recorders-top-18-for-2024/"><u>From Beta to Breakthrough The Most Prominent Cam Recorders (Top 18) for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-rebooting-your-windows-photo-viewer-two-procedures-for-w10/"><u>In 2024, Rebooting Your Windows Photo Viewer Two Procedures for W10</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-memes-top-ten-template-showcase/"><u>Mastering Memes Top Ten Template Showcase</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/regaining-zest-in-virtual-worlds-6-tips/"><u>Regaining Zest in Virtual Worlds: 6 Tips</u></a></li>
-<li><a href="https://games-able.techidaily.com/size-matters-in-home-computing-choosing-a-small-or-big-pc/"><u>Size Matters in Home Computing: Choosing a Small or Big PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/stealth-mode-playing-quietly-on-xbox-one/"><u>Stealth Mode: Playing Quietly on Xbox One</u></a></li>
-<li><a href="https://games-able.techidaily.com/steams-bold-move-overhauling-family-game-access-for-10-years/"><u>Steam's Bold Move: Overhauling Family Game Access for 10 Years</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-issues-with-a-non-functioning-paradox-launcher/"><u>Troubleshooting Guide: Resolving Issues with a Non-Functioning Paradox Launcher</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-keyswap-speed-importance-and-impact/"><u>Understanding Keyswap Speed: Importance & Impact</u></a></li>
-<li><a href="https://games-able.techidaily.com/your-quick-guide-to-palworld-basics/"><u>Your Quick Guide to PalWorld Basics</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-unveiling-the-secrets-of-ken-burns-motion-in-camtasa-for-2024/"><u>[Updated] Unveiling the Secrets of Ken Burns Motion in Camtasa for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-guide-to-easily-restoring-icon-cache-on-windows-78vista-systems/"><u>A Guide to Easily Restoring Icon Cache on Windows 7/8/Vista Systems</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Change Location on TikTok to See More Content On your Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-infinix-note-30-vip-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Infinix Note 30 VIP Lock Screen Password?</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-big-picture-a-user-guide/"><u>Steam Big Picture: A User Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategizing-your-search-top-indie-game-picks-on-itchio/"><u>Strategizing Your Search: Top Indie Game Picks on Itch.io</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-art-of-pacing-keeping-gaming-enjoyable/"><u>The Art of Pacing: Keeping Gaming Enjoyable</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-next-gen-of-gaming-graphics-demystifying-amds-rdna-35/"><u>The Next Gen of Gaming Graphics - Demystifying AMD’s RDNA 3.5</u></a></li>
 </ul></div>
 

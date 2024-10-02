@@ -1,7 +1,7 @@
 ---
 title: Ps4 Joystick Jumble - Quick Guide to Common Fault Resolutions
-date: 2024-09-25T02:56:03.646Z
-updated: 2024-09-26T17:13:08.395Z
+date: 2024-09-25T05:34:20.763Z
+updated: 2024-10-02T03:39:07.809Z
 tags:
   - games
 categories:
@@ -73,22 +73,15 @@ thumbnail: https://thmb.techidaily.com/0606343d17aebae3a6ccf71123da10011994b6e06
 
 ![turn off ps4 quick menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/11/turn-off-ps4-quick-menu.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In case your controller isn't cooperating, press and hold the**Power** button on your PS4 console until you hear two beeps. This will fully shut it down—once it's powered off (with no lights on the front), press the**Power** button again to turn it back on. If you see an orange light, your system went into Rest Mode, which isn't a full shutdown.
 
  Try using your controller again after a reboot (connecting it via a USB cable if needed) and see if that helps.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Forget and Re-Pair Your PS4 Controller
@@ -96,6 +89,13 @@ thumbnail: https://thmb.techidaily.com/0606343d17aebae3a6ccf71123da10011994b6e06
  If you have a second PS4 controller (or a PS Move controller for PS VR), you can use that to access a menu that lets you delete the controller having an issue. Head to**Settings > Devices > Bluetooth Devices** and select the**DualShock 4** entry—it's the one that does not have a green light next to it. (The green light indicates a controller that's currently connected and in use.)
 
 ![PS4 Forget Devices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS4-Forget-Devices.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  On the resulting menu, press the**Options** button on your controller and choose**Forget Device** . This will cause your PS4 to remove it from memory so you have to pair it again.
 
@@ -111,26 +111,13 @@ thumbnail: https://thmb.techidaily.com/0606343d17aebae3a6ccf71123da10011994b6e06
 
 ![PS4 Controller Reset Pinhole](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS4-Controller-Reset-Pinhole.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you've done this, connect your controller to your PS4 again via USB cable and see if it pairs successfully.
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Try Connecting the PS4 Controller Elsewhere
@@ -147,13 +134,20 @@ thumbnail: https://thmb.techidaily.com/0606343d17aebae3a6ccf71123da10011994b6e06
 
 ![PS4 Use USB Cable Communication](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS4-Use-USB-Cable-Communication.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If this works, you should get a long USB cable so you can still enjoy gaming from the couch even when wired in.[Ailun's three-pack of 10-foot micro-USB cables](https://www.amazon.com/10ft3Pack-Charging-Smartphone-Connection-Blackwhite/dp/B06XYH75NQ?linkCode=ll1&tag=muo-v2-76tv1pg-20&linkId=f9f8e8d9d67b2bc78306aa8cfd5356be&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU93672&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fps4-controller-not-working-fix-common-issues%2F&asc%5Fcampaign=Evergreen) is a good cost-effective option.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## DualShock 4 Hardware Fix Options
@@ -187,18 +181,22 @@ thumbnail: https://thmb.techidaily.com/0606343d17aebae3a6ccf71123da10011994b6e06
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-behind-the-scenes-of-making-memes-funny-for-2024/"><u>[New] Behind-the-Scenes of Making Memes Funny for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-mastering-fbs-buzz-essential-strategies-revealed/"><u>[Updated] In 2024, Mastering FB's Buzz Essential Strategies Revealed</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-video-creation-simplified-key-elements-of-using-aiseesofts-tech/"><u>[Updated] In 2024, Video Creation Simplified Key Elements of Using Aiseesoft's Tech</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-simplified-strategies-for-muting-or-disabling-youtube-channels-computermobile/"><u>[Updated] Simplified Strategies for Muting or Disabling Youtube Channels (Computer/Mobile)</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-tiktok-to-twitter-strategy-for-maximum-engagement/"><u>[Updated] TikTok-to-Twitter Strategy for Maximum Engagement</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/nize-your-preferences-how-to-create-an-engaging-youtube-playlist/"><u>Harmonize Your Preferences How to Create an Engaging YouTube Playlist</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-copy-contacts-from-apple-iphone-xs-max-to-sim-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Copy Contacts from Apple iPhone XS Max to SIM? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/master-the-game-quality-gear-for-maximum-efficiency/"><u>Master the Game: Quality Gear for Maximum Efficiency</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/navigating-firefoxs-picture-in-picture-capabilities-for-2024/"><u>Navigating Firefox's Picture-in-Picture Capabilities for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/prime-neighborhoods-titans-territories/"><u>Prime Neighborhoods: Titans’ Territories</u></a></li>
-<li><a href="https://games-able.techidaily.com/rethinking-graphics-innovation-why-discount-ray-tracing/"><u>Rethinking Graphics Innovation: Why Discount Ray Tracing</u></a></li>
-<li><a href="https://techidaily.com/solved-mac-doesnt-recognize-my-iphone-15-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Mac Doesnt Recognize my iPhone 15 Plus | Stellar</u></a></li>
-<li><a href="https://games-able.techidaily.com/surprise-your-squad-steams-game-tastic-presents/"><u>Surprise Your Squad: Steam's Game-Tastic Presents</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-optimal-mp4-to-fb-video-solution/"><u>[New] Optimal MP4-to-FB Video Solution</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-video-sharing-showdown-20-decoding-the-platform-preferences-vimeo-youtubes-and-dailymotions/"><u>[New] Video Sharing Showdown 2.0 Decoding the Platform Preferences - Vimeo, YouTubes & DailyMotions</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-money-multiplier-how-to-maximize-youtube-profits-with-mobile-viewers/"><u>[Updated] 2024 Approved Money Multiplier How to Maximize YouTube Profits with Mobile Viewers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-windows-10-mov-recording-guide/"><u>2024 Approved Windows 10 MOV Recording Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/acer-chromebook-516-ge-performance-analysis-and-comparison-with-top-cloud-gaming-devices-reviews-by-zdnet/"><u>Acer Chromebook 516 GE Performance Analysis & Comparison with Top Cloud Gaming Devices - Reviews by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/compact-powerhouse-in-depth-analysis-of-the-steelseries-apex-pro-mini-keyboard-for-gamers-tech-insights/"><u>Compact Powerhouse: In-Depth Analysis of the SteelSeries Apex Pro Mini Keyboard for Gamers | Tech Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-perfect-typing-sensation-with-glorious-auras-premium-pudding-caps-top-ranked-on-zdnet/"><u>Discover the Perfect Typing Sensation with Glorious Aura's Premium Pudding Caps – Top Ranked on ZDNet!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-tecno-spark-10c-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Tecno Spark 10C to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-privacy-hiding-your-online-footprints-across-popular-web-browsers/"><u>Mastering Privacy: Hiding Your Online Footprints Across Popular Web Browsers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resetting-windows-firewall-essential-tips/"><u>Resetting Windows Firewall: Essential Tips</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-user-friendly-way-of-migrating-snapchat-images-home-for-2024/"><u>The User-Friendly Way of Migrating SnapChat Images Home for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-oneplus-open-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for OnePlus Open Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-rated-75-television-sets-comprehensive-reviews-and-ratings-by-tech-experts-gizmocherry/"><u>Top Rated 75 Television Sets : Comprehensive Reviews & Ratings by Tech Experts | GizmoCherry</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-rated-gaming-desktops-comprehensive-reviews-by-experts-zdnet/"><u>Top-Rated Gaming Desktops : Comprehensive Reviews by Experts | ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-android-12s-gaming-boost-enhancements-and-tips-zdnet/"><u>Understanding Android 12'S Gaming Boost: Enhancements & Tips | ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/unmatched-thrills-in-the-world-of-arcade-games-a-deep-dive-into-the-most-captivating-cabinet/"><u>Unmatched Thrills in the World of Arcade Games: A Deep Dive Into the Most Captivating Cabinet!</u></a></li>
+<li><a href="https://games-able.techidaily.com/zenith-of-precision-an-in-depth-look-at-the-highly-rated-gmmk-pro-the-ultimate-mechanical-keyboard-bundle/"><u>Zenith of Precision: An In-Depth Look at the Highly Rated GMMK Pro - The Ultimate Mechanical Keyboard Bundle</u></a></li>
 </ul></div>
 

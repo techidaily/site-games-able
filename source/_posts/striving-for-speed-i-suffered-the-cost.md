@@ -1,7 +1,7 @@
 ---
 title: Striving for Speed, I Suffered the Cost
-date: 2024-09-20T18:30:08.763Z
-updated: 2024-09-26T21:05:05.272Z
+date: 2024-09-26T22:10:17.606Z
+updated: 2024-10-01T22:01:20.042Z
 tags:
   - games
 categories:
@@ -32,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/bb00ebc3d89d1362ca9b186657d254b37c10a245e
 
 ![MSI Afterburner and RTSS showing performance stats for Cyberpunk 2077](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/msi-afterburner-and-rtss-showing-performance-stats-for-cyberpunk-2077.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Increased power draw is an inevitable side effect of overclocking, no matter how safely you[overclock your graphics card](https://www.makeuseof.com/tag/safely-overclock-gpu-gain-fps/) . That's because to get more performance out of your graphics card, you need to provide it with more voltage in most cases.
 
  Yes, you can technically raise your graphics card's core and memory clocks without upping the voltage. However, that comes with its fair share of downsides—like stability issues—which we'll get to in a bit.
@@ -52,16 +45,10 @@ thumbnail: https://thmb.techidaily.com/bb00ebc3d89d1362ca9b186657d254b37c10a245e
 ![MSI Afterburner running on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/msi-afterburner-running-on-windows-11.png)
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Another downside of raising the voltage while overclocking is increased heat dissipation. Simply put, the more voltage you supply, the more heat your graphics card generates. And nobody wants their graphics card to run too hot.
@@ -69,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/bb00ebc3d89d1362ca9b186657d254b37c10a245e
  This isn't a major issue if you have a triple-fan GPU with massive heatsinks or if it's liquid-cooled. My RTX 4090 is a liquid-cooled AIO unit with a 360mm radiator. So, for me personally, this is the least of my problems.
 
  However, if your graphics card runs hot most of the time, expect a negative impact on its lifespan. Therefore, if you plan to keep your graphics card for several years, I highly recommend against overclocking it.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Screen Flickering
 
@@ -79,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/bb00ebc3d89d1362ca9b186657d254b37c10a245e
  While there are several[ways to fix screen flickering on Windows](https://www.makeuseof.com/tag/fix-windows-10-screen-flashing-problem/) , the only way to resolve it after an overclock is by either raising your GPU voltage or reverting the clocks to their default values.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Occasional Crashes While Gaming
@@ -90,10 +84,10 @@ thumbnail: https://thmb.techidaily.com/bb00ebc3d89d1362ca9b186657d254b37c10a245e
 ![Cyberpunk 2077 crash message on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/cyberpunk-2077-crash-message-on-windows.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Besides screen flickering, your favorite games may occasionally crash after you overclock your GPU. This issue is predominant in games that are GPU-intensive. Once again, this is a good sign that your overclock isn't stable.
@@ -119,18 +113,24 @@ thumbnail: https://thmb.techidaily.com/bb00ebc3d89d1362ca9b186657d254b37c10a245e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-mastering-the-art-of-html-formatting-and-styling-for-2024/"><u>[New] Mastering the Art of HTML Formatting and Styling for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-new-directors-toolkit-15-basic-cinematography-movements/"><u>[Updated] The New Director’s Toolkit 15 Basic Cinematography Movements</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1-optimized-techniques-downsize-large-videos-for-enhanced-facebook-sharing/"><u>1. Optimized Techniques: Downsize Large Videos for Enhanced Facebook Sharing</u></a></li>
-<li><a href="https://games-able.techidaily.com/analyzing-the-strategic-alliance-between-tech-giant-microsoft-and-game-industry-heavyweight-blizzardactivision/"><u>Analyzing the Strategic Alliance Between Tech Giant Microsoft & Game Industry Heavyweight Blizzard/Activision</u></a></li>
-<li><a href="https://techtrends.techidaily.com/can-nintendo-switch-users-use-airpods-as-their-headphones/"><u>Can Nintendo Switch Users Use AirPods as Their Headphones?</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Vivo Y100 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-canon-mp560-printer-driver-fast-and-simple-installation-guide/"><u>Download Canon MP560 Printer Driver: Fast & Simple Installation Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/entertainment-evolution-showdown-ps5-vs-thrifty-computer-setup/"><u>Entertainment Evolution Showdown: PS5 vs Thrifty Computer Setup</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-precise-update-your-dell-camera-drivers-without-errors/"><u>How to Precise Update Your Dell Camera Drivers Without Errors</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-privacy-preservation-through-invisible-modifications/"><u>In 2024, Privacy Preservation Through Invisible Modifications</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-ps5-ssd-picks/"><u>Top PS5 SSD Picks</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-the-impact-of-ai-on-nvidias-dlss-update-35/"><u>Understanding the Impact of AI on Nvidia’s DLSS Update 3.5</u></a></li>
-<li><a href="https://driver-download.techidaily.com/updated-guide-to-installing-usb-c-drivers-for-windows-11-users/"><u>Updated Guide to Installing USB-C Drivers for Windows 11 Users</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-oppo-a56s-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Oppo A56s 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-hdp-ultra-high-definition-game-mouse-lineup/"><u>Elite HDP, Ultra-High Definition Game Mouse Lineup</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-sonys-portable-gaming-device-ps-portable/"><u>Exploring Sony's Portable Gaming Device: PS Portable</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-world-of-mobile-gaming-via-google-play-games-pc/"><u>Exploring the World of Mobile Gaming via Google Play Games PC</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-building-brand-persona-writing-killer-bios-for-facebook-profiles/"><u>In 2024, Building Brand Persona Writing Killer Bios for Facebook Profiles</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-gioneewithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Gioneewith/without a PC</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-shaping-snapshots-transitioning-from-auto-to-smart-hdr-shooting/"><u>In 2024, Shaping Snapshots Transitioning From Auto to Smart HDR Shooting</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-windows-10-advanced-screen-recorder-software/"><u>In 2024, Windows 10 Advanced Screen Recorder Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-paying-for-ea-play-a-sensible-spend/"><u>Is Paying for EA Play a Sensible Spend?</u></a></li>
+<li><a href="https://games-able.techidaily.com/keeping-your-game-victories-a-screenshot-strategy/"><u>Keeping Your Game Victories: A Screenshot Strategy</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722864872228-ordered-journey-through-x-men-cinematic-universe-a-step-by-step-guide/"><u>Ordered Journey Through X-Men Cinematic Universe: A Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-historical-pricing-for-games-decoded/"><u>Steam's Historical Pricing for Games Decoded</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-leading-virtual-reality-glasses-revolutionizing-productivity-and-journeys-with-their-latest-updates-insights-at-zdnet/"><u>The Leading Virtual Reality Glasses Revolutionizing Productivity and Journeys with Their Latest Updates | Insights at ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-xbox-series-ss-choice-to-leave-discs-behind/"><u>The Xbox Series S's Choice to Leave Discs Behind</u></a></li>
+<li><a href="https://games-able.techidaily.com/uncharted-upsurges-ephemeral-play-advantages/"><u>Uncharted Upsurges: Ephemeral Play Advantages</u></a></li>
+<li><a href="https://techtrends.techidaily.com/upcoming-apple-keynote-sneak-peek-key-dates-latest-updates-and-speculations/"><u>Upcoming Apple Keynote Sneak Peek: Key Dates, Latest Updates & Speculations</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-a-detailed-guide-to-stream-to-instagram-with-an-rtmp/"><u>Updated In 2024, A Detailed Guide To Stream to Instagram With an RTMP</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrade-and-conquer-the-art-of-windows-implementation-on-steam-deck/"><u>Upgrade and Conquer: The Art of Windows Implementation on Steam Deck</u></a></li>
 </ul></div>
 

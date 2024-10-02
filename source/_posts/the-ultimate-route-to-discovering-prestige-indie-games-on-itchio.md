@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Route to Discovering Prestige Indie Games on itch.io
-date: 2024-09-21T19:17:13.097Z
-updated: 2024-09-27T00:41:02.443Z
+date: 2024-09-27T06:22:08.354Z
+updated: 2024-10-02T03:10:19.501Z
 tags:
   - games
 categories:
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/f039a729b962f9ef9ca84af335ac6a5c033da72e1
 * [Check Out Community Recommendations](#check-out-community-recommendations)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/f039a729b962f9ef9ca84af335ac6a5c033da72e1
 * Keep an eye on game jams on itch.io to discover hidden gems for free, showcasing unique and innovative indie games from different genres.
 
  Many independent game developers display their fun, creative, and unique experiences on itch.io. However, the platform’s saturation can make it hard to find great titles. Try these methods I use to discover indie games worth playing on itch.io.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1 Use Tags and Filters
 
@@ -56,13 +63,6 @@ thumbnail: https://thmb.techidaily.com/f039a729b962f9ef9ca84af335ac6a5c033da72e1
 
 ![Searching for the tags on itch.io.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/search-indie-tag-itch.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can add more tags to refine your search further. To do that, click the**Select a Tag** dropdown and choose the tags you want (you can also search for them).
 
 ![Adding tags to a search on itch.io.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/add-roguelite-tag-itch.png)
@@ -74,10 +74,10 @@ thumbnail: https://thmb.techidaily.com/f039a729b962f9ef9ca84af335ac6a5c033da72e1
  The itch.io website has a[Bundles page](https://itch.io/bundles) where you can find game bundles created by developers. These are promotional packages containing multiple games. Each bundle is sold at a discounted price, and when you purchase it, you get instant access to all the games.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3 Check the itch.io Blog
@@ -90,16 +90,16 @@ thumbnail: https://thmb.techidaily.com/f039a729b962f9ef9ca84af335ac6a5c033da72e1
 
 ![The page to see past game jams on itch.io.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/past-game-jams-itch.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  These game jams usually have creative and innovative indie games from different genres. Developers usually display talent in crafting unique experiences at these events. Fun games I have discovered through game jams on itch.io include[Inside Job](https://featurekreep.itch.io/inside-job) ,[Bready or not - unSURVIVOR](https://aramilion.itch.io/bready-or-not-unsurvivor) , and[Let There Be Cat](https://kyboon.itch.io/let-there-be-cat) .
 
  Since these are game jams, don't expect fully fleshed-out games with lots of content and complex features. Developers usually have time constraints and a limited scope to work with, as well as specific problems to solve. Many enter them to learn about game development and to tackle unique challenges.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5 Follow Developers
 
@@ -109,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/f039a729b962f9ef9ca84af335ac6a5c033da72e1
 
 ![The feed on itch.io showing featured games.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/itch-feed-featured-games.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Keep in mind that this feed doesn't only show games, but things like asset packs and comics as well.
 
 ## 6 Look at User Reviews and Ratings
@@ -123,6 +116,13 @@ thumbnail: https://thmb.techidaily.com/f039a729b962f9ef9ca84af335ac6a5c033da72e1
  If you have a problem deciding whether a game is good, you can look at its rating. On the game’s itch.io page, scroll down past the description and click**More Information** . Here, you can see how many users rated the game (out of five stars).
 
 ![A game's page on itch.io showing more information so the rating can be seen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/more-information-game-itch.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also scroll down to the comments to see the sentiments around the game. Also, it can be a fantastic way to interact with the developer.
 
@@ -147,16 +147,24 @@ thumbnail: https://thmb.techidaily.com/f039a729b962f9ef9ca84af335ac6a5c033da72e1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-device-footage-to-youtube-shorts-your-streamlined-approach/"><u>[Updated] In 2024, From Device Footage to YouTube Shorts - Your Streamlined Approach</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-strategies-for-optimal-youtube-shorts-growth/"><u>[Updated] Strategies for Optimal YouTube Shorts Growth</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciphering-chatgpt-unleashing-the-power-of-ai-generation/"><u>Deciphering ChatGPT: Unleashing the Power of AI Generation</u></a></li>
-<li><a href="https://games-able.techidaily.com/exclusive-budget-whitescape-tech-recommendations/"><u>Exclusive Budget Whitescape Tech Recommendations</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Samsung Galaxy A05s | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Nokia C02 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/key-aspects-unraveling-windows-screen-savers/"><u>Key Aspects: Unraveling Windows Screen Savers</u></a></li>
-<li><a href="https://games-able.techidaily.com/reviving-the-game-handy-hints-to-fix-xbox-d-pads/"><u>Reviving the Game: Handy Hints to Fix Xbox D-Pads</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-vivo-y78-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Vivo Y78 5G Device</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-tier-165hz-gamespeed-displays/"><u>Top-Tier 165Hz Gamespeed Displays</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-your-keys-response-time/"><u>Understanding Your Keys' Response Time</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-a-compreranstive-approach-to-high-fidelity-recording-no-mic-necessary-for-2024/"><u>[New] A Compreranstive Approach to High-Fidelity Recording, No Mic Necessary for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-fundamentals-of-synchronizing-audio-and-video-in-screencasts/"><u>[New] In 2024, The Fundamentals of Synchronizing Audio and Video in Screencasts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-cutting-edge-icons-and-logos-from-6-innovative-websites/"><u>[Updated] Cutting-Edge Icons and Logos From 6 Innovative Websites</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-virtual-zoos-galore-androids-best-animal-games/"><u>[Updated] In 2024, Virtual Zoos Galore Android's Best Animal Games</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-techniques-for-finding-no-cost-image-frame-films/"><u>[Updated] Techniques for Finding No-Cost Image Frame Films</u></a></li>
+<li><a href="https://games-able.techidaily.com/eight-hilarious-miscommunication-moments-to-share-laughs/"><u>Eight Hilarious Miscommunication Moments to Share Laughs</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-advice-on-linking-a-controller-to-an-android-compatible-gadget/"><u>Expert Advice on Linking a Controller to an Android Compatible Gadget</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-novice-to-pro-pokemon-gaming-secrets-revealed/"><u>From Novice to Pro: Pokémon Gaming Secrets Revealed</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/from-viewers-to-vips-ajays-strategy-for-sustainable-income-streams-for-2024/"><u>From Viewers to VIPs Ajay's Strategy for Sustainable Income Streams for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-unsubscribe-and-undo-gaming-expenses/"><u>How to Unsubscribe and Undo Gaming Expenses</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-14-pro-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone 14 Pro Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-the-instagram-edge-vertical-footage-editing-techniques-on-final-cut-x/"><u>In 2024, The Instagram Edge Vertical Footage Editing Techniques on Final Cut X</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Oppo K11x? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/leading-8-android-simulators-ideal-for-desktop-gaming/"><u>Leading 8 Android Simulators, Ideal for Desktop Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/revisiting-xbox-classics-xemus-guide-for-pc/"><u>Revisiting Xbox Classics: Xemu's Guide for PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/steering-clear-of-common-wi-fi-blunders-on-ps5/"><u>Steering Clear of Common Wi-Fi Blunders on PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/typing-tales-unraveling-the-secrets-behind-refresh-times/"><u>Typing Tales: Unraveling The Secrets Behind Refresh Times</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-rhythm-potential-with-graphics-pads/"><u>Unlocking Rhythm Potential with Graphics Pads</u></a></li>
 </ul></div>
 

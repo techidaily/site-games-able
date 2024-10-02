@@ -1,7 +1,7 @@
 ---
 title: Stopping Steam's Initialization on Startup
-date: 2024-09-24T03:58:01.118Z
-updated: 2024-09-26T17:53:26.817Z
+date: 2024-09-25T21:00:44.971Z
+updated: 2024-10-01T22:51:53.459Z
 tags:
   - games
 categories:
@@ -38,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/7a3b2432a9d08b9e553576af71c0365aa49f025a4
  This should be all you need to do to stop Steam from launching on startup. However, if it has no effect, you may need to alter a setting in your operating system. If so, follow the Windows or Mac instructions below.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Stop Steam Launching on Startup (Windows)
@@ -56,17 +56,23 @@ thumbnail: https://thmb.techidaily.com/7a3b2432a9d08b9e553576af71c0365aa49f025a4
 ![windows 11 startup apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-11-startup-apps.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Stop Steam Launching on Startup (Mac)
@@ -79,10 +85,10 @@ thumbnail: https://thmb.techidaily.com/7a3b2432a9d08b9e553576af71c0365aa49f025a4
 4. Beneath**Open at Login** , select Steam and click the**minus icon** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Try Steam in Big Picture Mode
@@ -104,20 +110,20 @@ thumbnail: https://thmb.techidaily.com/7a3b2432a9d08b9e553576af71c0365aa49f025a4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-top-scratches-comparative-review-of-recorders/"><u>[Updated] Top Scratches Comparative Review of Recorders</u></a></li>
-<li><a href="https://games-able.techidaily.com/best-friends-matches-curated-list-of-mobile-combo-games/"><u>Best Friends' Matches: Curated List of Mobile Combo Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/ddr5-bests-2024-edition-list/"><u>DDR5 Bests: 2024 Edition List</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-accessibility-to-mastery-with-ea-play-on-your-ps5-console/"><u>From Accessibility to Mastery with EA Play on Your PS5 Console</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-infinix-smart-7-hd-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Infinix Smart 7 HD to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/google-play-betas-top-10-pc-games-a-must-try-list/"><u>Google Play Beta's Top 10 PC Games - A Must-Try List</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-speak-the-code-vr-lingo-essentials/"><u>In 2024, Speak the Code VR Lingo Essentials</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-gentle-audio-dampening-on-lumafusion-platforms/"><u>In 2024, The Art of Gentle Audio Dampening on Lumafusion Platforms</u></a></li>
-<li><a href="https://video-capture.techidaily.com/innovative-insights-for-aspiring-mac-users-a-guide-to-screen-recording-for-2024/"><u>Innovative Insights for Aspiring Mac Users A Guide to Screen Recording for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/linking-headphones-to-ps5-via-bluetooth/"><u>Linking Headphones to PS5 via Bluetooth</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/mobile-video-editing-with-music-top-apps-for-android-and-ios-for-2024/"><u>Mobile Video Editing with Music Top Apps for Android and iOS for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/relive-sonyenas-golden-years-with-these-30-top-ranked-ps3-emulators-on-pc/"><u>Relive Sony'enas Golden Years with These 30 Top-Ranked PS3 Emulators on PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-dual-boot-potential-deck-with-two-operating-systems/"><u>Unlocking Dual-Boot Potential: Deck with Two Operating Systems</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-add-font-effects-to-videos/"><u>Updated In 2024, How to Add Font Effects to Videos</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-oneplus-nord-3-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your OnePlus Nord 3 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-drone-dynamics-yuneecs-4k-flight-exploration/"><u>[New] 2024 Approved Drone Dynamics Yuneec's 4K Flight Exploration</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-earning-big-on-youtube-shorts-what-you-need-and-how-much-can-you-make-in-2024/"><u>[Updated] Earning Big on Youtube Shorts What You Need & How Much Can You Make, In 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-chatgpt-insights-into-microsofts-breakthrough-in-nlp/"><u>Decoding ChatGPT: Insights Into Microsoft's Breakthrough in NLP</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-psps-legacy-in-your-iphone-handset/"><u>Discover PSP's Legacy in Your iPhone Handset</u></a></li>
+<li><a href="https://games-able.techidaily.com/download-and-dlc-details-for-baldurs-gate-3/"><u>Download & DLC Details for Baldur's Gate 3</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-repair-a-broken-home-button-on-your-iphone-with-these-5-quick-tips/"><u>How to Repair a Broken Home Button on Your IPhone with These 5 Quick Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-utilize-steams-big-screen-setup/"><u>How to Utilize Steam's Big Screen Setup</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-the-experience-with-am08-pro-in-magic-authenticated/"><u>Is the Experience with AM08 Pro in Magic Authenticated?</u></a></li>
+<li><a href="https://games-able.techidaily.com/marvel-at-pimax-crystals-vr-clarity-and-its-quirks/"><u>Marvel at Pimax Crystal's VR Clarity & Its Quirks</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-refund-request-for-xbox-consoles/"><u>Master Refund Request for Xbox Consoles</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/mp3-mastery-in-motion-prime-10-youtube-to-mp3-transformers/"><u>MP3 Mastery in Motion Prime 10 YouTube to Mp3 Transformers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-on-downloading-and-installing-current-nvidia-graphics-drivers/"><u>Step-by-Step Tutorial on Downloading and Installing Current NVIDIA Graphics Drivers</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/ultimate-guide-from-iphone-11-pro-max-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide from iPhone 11 Pro Max iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-high-stakes-tetris-play-on-smartphones/"><u>Unlocking High-Stakes Tetris Play on Smartphones</u></a></li>
 </ul></div>
 

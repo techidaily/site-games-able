@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Quality: The Story of Keychron & Lemokey L3"
-date: 2024-09-22T06:30:52.292Z
-updated: 2024-09-26T18:23:04.735Z
+date: 2024-09-29T10:00:40.655Z
+updated: 2024-10-02T11:08:02.818Z
 tags:
   - games
 categories:
@@ -123,10 +123,10 @@ No
 [See at Keychron](https://www.keychron.com/products/lemokey-l3-qmk-via-wireless-custom-mechanical-keyboard)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Configuration
@@ -134,6 +134,19 @@ No
  Like all Keychron keyboards, the Lemokey L3 is available in several configurations. The Fully Assembled Knob version, which features in this review, will set you back $214, while the barebones version is $194.
 
 ![keycaps-removed-from-the-customizable-buttons-on-the-keychron-lemokey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/keycaps-removed-from-the-customizable-buttons-on-the-keychron-lemokey.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Hannah Stryker / MakeUseOf
 
@@ -155,13 +168,6 @@ No
 
 ![plug-and-switch-on-the-back-of-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/plug-and-switch-on-the-back-of-the-keychron-lemokey-l3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Hannah Stryker / MakeUseOf
 
  One nice touch is the three lights above the direction keys, each pertaining to a different feature. The left light is the one you'll see most, as it shows the relative charge level of the keyboard. The middle light details your wireless connection status, and the third light shows whether Caps Lock is switched on.
@@ -175,10 +181,10 @@ No
  Inside the Lemokey L3 are multiple layers of sound-absorbing foam, which, along with the double-gasket mounted design, contribute to the smooth typing experience and warming typing sound.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Battery Life and Connectivity
@@ -208,10 +214,10 @@ No
  The Lemokey L3 has a five-degree typing angle, which is comfortable for me but might not suit everyone. However, as the L3 doesn't have any integrated adjustment feet, you're stuck with it. You could grab the Lemokey L3 wrist rest from the Keychron site, but it was out of stock at the time of writing.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Customization With VIA
@@ -241,10 +247,10 @@ No
 ![person-removing-a-keycap-from-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-removing-a-keycap-from-the-keychron-lemokey-l3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
@@ -272,17 +278,22 @@ No
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/updated-top-10-uplifting-films-for-momentum-and-motivation/"><u>[Updated] Top 10 Uplifting Films for Momentum & Motivation</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-power-of-vivacut/"><u>[Updated] Unveiling the Power of VivaCut</u></a></li>
-<li><a href="https://games-able.techidaily.com/240hz-dream-affordable-superior-gaming-displays/"><u>240Hz Dream: Affordable, Superior Gaming Displays</u></a></li>
-<li><a href="https://games-able.techidaily.com/adventure-parks-at-your-fingertips-with-ar-gaming/"><u>Adventure Parks at Your Fingertips with AR Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/are-you-putting-too-much-emphasis-on-steam-points/"><u>Are You Putting Too Much Emphasis on Steam Points?</u></a></li>
-<li><a href="https://games-able.techidaily.com/astral-artisan-examining-emerging-pc-brands/"><u>Astral Artisan: Examining Emerging PC Brands</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719167382104-free-isnt-always-best-explore-these-5-reasons-to-pay-up/"><u>Free Isn't Always Best: Explore These 5 Reasons to Pay Up!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-lava-yuva-2-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Lava Yuva 2</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-sony-xperia-1-v-phone-without-pin-by-drfone-android/"><u>How to Unlock Sony Xperia 1 V Phone without PIN</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-begin-your-clip-and-cut-career-with-xps-editor/"><u>In 2024, Begin Your Clip-and-Cut Career with XP's Editor</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/make-every-day-a-multilingual-day-with-arabic-and-mondly-onlines-top-6-reasons/"><u>Make Every Day a Multilingual Day with Arabic & Mondly Online's Top 6 Reasons</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-cyber-dangers-exploring-six-key-security-concerns-with-chatgpt/"><u>Navigating Cyber Dangers: Exploring Six Key Security Concerns with ChatGPT</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-7-key-techniques-to-make-your-instagram-unboxing-videos-shine/"><u>[New] 7 Key Techniques to Make Your Instagram Unboxing Videos Shine</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-free-and-easy-best-mac-screen-recorder-software-of-2023-for-2024/"><u>[New] Free and Easy Best Mac Screen Recorder Software of 2023 for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-guidelines-to-erase-youtube-recordings-on-pc/"><u>[Updated] Guidelines to Erase YouTube Recordings on PC</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-sleek-skill-using-watch-to-unlock-mac/"><u>2024 Approved Sleek Skill Using Watch to Unlock Mac</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/behind-the-screen-a-strategic-approach-for-secret-youtube-videos/"><u>Behind the Screen A Strategic Approach for Secret YouTube Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/choose-wisely-top-10-expert-picked-gopro-housing/"><u>Choose Wisely Top 10 Expert-Picked GoPro Housing</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-intels-technology-for-optimized-gameplay/"><u>Deciphering Intel's Technology for Optimized Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/excellent-in-most-aspects-the-one-glitch-with-google-play-pass/"><u>Excellent in Most Aspects: The One Glitch with Google Play Pass</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-m1-chips-playing-your-favorite-windows-games-via-crossover/"><u>Exploring M1 Chips: Playing Your Favorite Windows Games via Crossover</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-superior-online-speech-recorders/"><u>In 2024, Superior Online Speech Recorders</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-from-webm-to-mp3-the-top-conversion-software-and-online-tools-for-2024/"><u>New From WebM to MP3 The Top Conversion Software and Online Tools for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/no-more-lost-progress-decoding-and-addressing-10-common-gaming-errors/"><u>No More Lost Progress: Decoding and Addressing 10 Common Gaming Errors</u></a></li>
+<li><a href="https://games-able.techidaily.com/peak-playgrounds-triumph-territories/"><u>Peak Playgrounds: Triumph Territories</u></a></li>
+<li><a href="https://games-able.techidaily.com/silent-killer-overclocked-gpu-trouble/"><u>Silent Killer: Overclocked GPU Trouble</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essential-ps5-cleanliness-protocol/"><u>The Essential PS5 Cleanliness Protocol</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-the-features-that-make-lg-stylo-a-must-have-phone/"><u>The Ultimate Guide to the Features that Make LG Stylo a Must-Have Phone</u></a></li>
+<li><a href="https://games-able.techidaily.com/valve-updates-steam-family-access-for-first-time-in-10-years/"><u>Valve Updates Steam Family Access for First Time in 10 Years</u></a></li>
 </ul></div>
 

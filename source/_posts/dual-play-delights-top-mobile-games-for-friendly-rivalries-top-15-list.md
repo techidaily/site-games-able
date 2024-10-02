@@ -1,7 +1,7 @@
 ---
 title: "Dual Play Delights: Top Mobile Games for Friendly Rivalries (Top 15 List)"
-date: 2024-09-14T17:31:19.922Z
-updated: 2024-09-20T22:17:16.712Z
+date: 2024-09-27T10:11:04.250Z
+updated: 2024-10-01T18:05:52.395Z
 tags:
   - games
 categories:
@@ -82,22 +82,15 @@ Close
 **Download:** Badland for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU35591/https://play.google.com/store/apps/details?id=com.frogmind.badland&hl=en) (Free) |[iOS](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU35591/https://itunes.apple.com/us/app/badland/id535176909?mt=8) ($0.99)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Ultimate Bowmasters
 
 ![shark character in ultimate bowmasters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/shark-character-in-ultimate-bowmasters.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Ultimate Bowmasters combines ragdoll physics, a charming art style, and cartoon violence to create a game that is fiendishly fun. The aim is to eliminate your opponent by lobbing a weapon towards them.
 
@@ -108,6 +101,13 @@ Close
  While the game is fun and simple, its ads can be intrusive. If you find yourself really enjoying the game, you might want to opt for the in-app purchase to remove them.
 
 **Download:** Ultimate Bowmasters for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU35591/https://play.google.com/store/apps/details?id=com.playgendary.bowmastersremastered) |[iOS](https://apps.apple.com/us/app/ultimate-bowmasters/id1615570016) (Free)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Words With Friends 2
 
@@ -173,9 +173,23 @@ Close
 
 ![dots and boxes mobile game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/09/dots-and-boxes-game-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![dots and boxes options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/09/dots-and-boxes-game-2.jpg)
 
 ![dots and boxes with two players](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/09/dots-and-boxes-game-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -198,24 +212,24 @@ Close
 **Download:** Tank Stars for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU35591/https://play.google.com/store/apps/details?id=com.playgendary.tanks) |[iOS](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU35591/https://itunes.apple.com/us/app/tank-stars/id1347123739?mt=8) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 11\. Crossy Road
 
 ![crossy road two player mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/crossy-road-two-player-mode.jpg)
 
-![winner of crossy road two player match](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/winner-of-crossy-road-two-player-match.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![winner of crossy road two player match](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/winner-of-crossy-road-two-player-match.jpg)
 
 Close
 
@@ -230,13 +244,6 @@ You can simultaneously compete with and sabotage your opponent.
 ## 12\. Terraria
 
 ![terraria mobile tutorial](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/terraria-mobile-tutorial.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  While most of these games are designed for short bouts of gameplay, Terraria is a multiplayer mobile game that you can spend hours playing. It is a mobile port of the popular PC game and allows you to play with friends using local Wi-Fi or by connecting to a dedicated server.
 
@@ -260,6 +267,13 @@ Close
 
 **Download:** Warcraft Rumble for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU35591/https://play.google.com/store/apps/details?id=com.blizzard.arc&hl=en&gl=US) |[iOS](https://apps.apple.com/us/app/warcraft-rumble/id1600575058) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 14\. Archery Battle 3D
 
 ![archery battle aiming for target](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/archery-battle-aiming-for-target.jpg)
@@ -273,6 +287,13 @@ Close
  You can play against strangers online or link your Facebook account to play with friends.
 
 **Download** : Archery Battle for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU35591/https://play.google.com/store/apps/details?id=com.cg.archery&hl=en&gl=US) (Free)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 15\. 8 Ball Pool
 
@@ -301,5 +322,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-behind-the-scenes-of-lol-top-3-broadcast-techniques/"><u>[Updated] Behind the Scenes of LOL - Top 3 Broadcast Techniques</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-pro-audio-software-win-edition/"><u>[Updated] Pro Audio Software Win Edition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-8-must-have-methods-for-crafting-memorable-gifs/"><u>2024 Approved 8 Must-Have Methods for Crafting Memorable GIFs</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/budget-photo-challenger-nikon-a10-shot-user-slammed/"><u>Budget Photo Challenger: Nikon A10 Shot, User Slammed</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-gameplay-top-4-sites-to-skyrocket-your-score/"><u>Elevate Gameplay - Top 4 Sites to Skyrocket Your Score</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-gaming-speed-measuring-fps-on-android-devices-2-ways/"><u>Elevate Gaming Speed: Measuring FPS on Android Devices (2 Ways)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/enhanced-functionality-added-touch-sensitivity-to-htc/"><u>Enhanced Functionality: Added Touch Sensitivity to HTC</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-online-status-for-steam-on-win11/"><u>Enhancing Online Status for Steam on Win11</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-novice-to-pro-understanding-and-leveraging-twitch/"><u>From Novice to Pro: Understanding and Leveraging Twitch</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-get-uninterrupted-remote-gameplay-with-steam-and-windows/"><u>How to Get Uninterrupted Remote Gameplay with Steam & Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-increase-download-speed-solved/"><u>How to Increase Download Speed [Solved]</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-8-elite-applications-to-extract-mp3-audio/"><u>In 2024, 8 Elite Applications to Extract MP3 Audio</u></a></li>
+<li><a href="https://games-able.techidaily.com/keep-your-pc-powerful-strategies-to-curtail-steams-memory-usage/"><u>Keep Your PC Powerful: Strategies to Curtail Steam's Memory Usage</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/simple-und-effektive-moglichkeit-avi-dateien-von-mac-zu-mp4-mit-dem-mp4-to-avi-konvertierungsprogramm-fur-mac/"><u>Simple Und Effektive Möglichkeit, AVI-Dateien Von Mac Zu MP4 Mit Dem MP4-to-AVI Konvertierungsprogramm Für Mac</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-to-install-hp-scanner-software-on-your-windows-device/"><u>Step-by-Step Tutorial to Install HP Scanner Software on Your Windows Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-iphoneipad-gaming-awaits-the-four-best-emulator-picks/"><u>Superior iPhone/iPad Gaming Awaits: The Four Best Emulator Picks</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-truth-about-a-disc-drive-on-xbox-series-s/"><u>The Truth About a Disc Drive on Xbox Series S?</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-7-free-dvd-players-for-windows-11-no-cost-downloads-available/"><u>Top 7 FREE DVD Players for Windows 11 – No Cost Downloads Available</u></a></li>
+<li><a href="https://games-able.techidaily.com/using-playstation-controls-with-your-windows-or-macos/"><u>Using PlayStation Controls with Your Windows or macOS</u></a></li>
+</ul></div>
 

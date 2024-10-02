@@ -1,7 +1,7 @@
 ---
 title: Uncovering the Story Behind Foddian Game Names
-date: 2024-09-21T02:57:24.962Z
-updated: 2024-09-26T23:15:17.827Z
+date: 2024-09-28T20:06:29.821Z
+updated: 2024-10-02T01:57:17.150Z
 tags:
   - games
 categories:
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/01781fffdf7ecc74eaf5b3cf4180716493ded8344
 
 ![A guy in a pot holding a sledgehammer who is about to fall off a cliff](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/2-getting-over-it.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It all began with the Foddian game, "Getting Over It with Bennett Foddy". Getting Over It is a puzzle game that challenges the player to use a sledgehammer to propel themselves up steep ledges and across slick platforms to get to space. “Foddian” refers to the creator of the first game, Bennett Foddy, in this genre and represents titles of a similar format.
 
  There are a few reasons why this title still has a grip on the platforming scene. The first is that it mixes well with the speedrun format. A player can decide to try to finish the game as quickly as possible after mastering the basic mechanics.
@@ -51,28 +58,15 @@ thumbnail: https://thmb.techidaily.com/01781fffdf7ecc74eaf5b3cf4180716493ded8344
 
  Almost every popular streamer and YouTuber you can think of has played Jump King to some extent, indirectly marketing the game to their viewers. As such, it didn’t take long for a community to spawn around this game, and it remains one of the most played in its genre.
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Foddian Games and Content Creation
 
 ![A streaming setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-streamer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Streaming goes beyond just playing a game. Streamers understand that they need to engage their chat as much as possible to keep interest high. Fortunately, Foddian games are the perfect gateway for viewer engagement.
@@ -80,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/01781fffdf7ecc74eaf5b3cf4180716493ded8344
  A player still needs to focus on the game, especially when speedrunning it. However, the punishment for responding to chat is not so severe as to ruin your game. In other titles, like shooters or racers, you may end up dying to an opponent or losing a race if you are distracted.
 
  Ultimately, Foddian games are[a great way to interact with your subscribers](https://www.makeuseof.com/how-to-interact-with-subscribers-followers/) and let your personality shine. Some popular creators who have tried this include Ludwig, CdawgVA, Apharad, and Ironmouse. What’s more, there’s a high chance that your favorite creator has played some popular Foddian titles like Getting Over It, Pogostuck, Only Up!, or Jump King.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Evolution of Foddian Games
 
@@ -97,14 +98,14 @@ thumbnail: https://thmb.techidaily.com/01781fffdf7ecc74eaf5b3cf4180716493ded8344
 
  While Foddian games are simple in design, the execution is magnificently intricate. They present a fun challenge for players, one you can ride all the way to victory at the top of the map.
 
-## FAQ
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## FAQ
 
 ### Q: What Games Are Similar to Getting Over It With Bennett Foddy?
 
@@ -113,13 +114,6 @@ thumbnail: https://thmb.techidaily.com/01781fffdf7ecc74eaf5b3cf4180716493ded8344
 ### Q: How Long Is Only Up!?
 
  A popular Foddian game, Only Up! takes around 40 to 120 minutes to complete. However, because of the game's difficulty, it will more than likely take quite a lot longer than the listed competition time, especially due to a lack of checkpoints. Because of this, you may be looking at a completion time of around four to five hours depending on your skill level.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Q: Who Popularized the Only Up! Game?
 
@@ -140,20 +134,18 @@ thumbnail: https://thmb.techidaily.com/01781fffdf7ecc74eaf5b3cf4180716493ded8344
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-comparing-easy-flexible-recording-tools-for-mac-users/"><u>[New] 2024 Approved Comparing Easy, Flexible Recording Tools for Mac Users</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-socialsoundify-twitter-videos-to-audio/"><u>[New] 2024 Approved SocialSoundify Twitter Videos to Audio</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/astering-the-art-of-hashtag-usage-a-primer-for-gamers-yt/"><u>[New] Mastering the Art of Hashtag Usage A Primer for Gamers YT</u></a></li>
-<li><a href="https://games-able.techidaily.com/adventures-at-hand-play-netflixs-exciting-gaming/"><u>Adventures at Hand – Play Netflix’s Exciting Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/akkos-mod007b-board-the-ultimate-setup-for-gamers/"><u>Akko's MOD007B Board - The Ultimate Setup for Gamers</u></a></li>
-<li><a href="https://games-able.techidaily.com/androids-classic-pokemon-revival-guide/"><u>Android's Classic Pokémon Revival Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/avoiding-overstimulation-in-your-gaming-journey/"><u>Avoiding Overstimulation in Your Gaming Journey</u></a></li>
-<li><a href="https://games-able.techidaily.com/battle-of-the-supers-rtx-4070-4070-ti-versus-rtx-4080/"><u>Battle of the Supers: RTX 4070, 4070 Ti, versus RTX 4080</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-10-tools-to-record-zoom-meeting/"><u>In 2024, 10 Tools to Record Zoom Meeting</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719163462577-interactive-storytelling-at-your-fingertips/"><u>Interactive Storytelling at Your Fingertips</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-edit-avchd-like-a-pro-top-5-software-recommendations/"><u>New Edit AVCHD Like a Pro Top 5 Software Recommendations</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Tecno Spark 20? | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/the-ultimate-list-of-outstanding-storytelling-youtubers-this-year-for-2024/"><u>The Ultimate List of Outstanding Storytelling YouTubers This Year for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-best-glitch-video-editors-for-mobile-devices/"><u>Updated 2024 Approved Best Glitch Video Editors for Mobile Devices</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/vectors-in-data-ai-enhancement-unveiled/"><u>Vectors in Data: AI Enhancement Unveiled</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-seamless-transition-transferring-exclusive-youtube-content-to-gmail/"><u>2024 Approved Seamless Transition Transferring Exclusive YouTube Content to Gmail</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-poco-f5-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-logitech-speaker-drivers-here-supports-windows-10-7-and-8/"><u>Get Your Logitech Speaker Drivers Here: Supports Windows 10, 7 and 8</u></a></li>
+<li><a href="https://games-able.techidaily.com/glossi-guide-stream-xbox-game-pass-via-steam-connection/"><u>GlosSI Guide: Stream Xbox Game Pass via Steam Connection</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-tecno-camon-20-premier-5g-easily-by-drfone-android/"><u>In 2024, How To Unlock a Tecno Camon 20 Premier 5G Easily?</u></a></li>
+<li><a href="https://games-able.techidaily.com/minecraft-realms-unplugged-retrieve-your-landscapes/"><u>Minecraft Realms Unplugged: Retrieve Your Landscapes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/optimizing-mov-file-storage-in-windows-10-systems-for-2024/"><u>Optimizing .mov File Storage in Windows 10 Systems for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/peek-into-the-future-amds-rdna-35-graphics-and-release-schedule/"><u>Peek Into the Future: AMD's RDNA 3.5 Graphics & Release Schedule</u></a></li>
+<li><a href="https://facebook.techidaily.com/revolutionizing-your-profile-the-art-of-creating-3d-photos-for-facebook/"><u>Revolutionizing Your Profile: The Art of Creating 3D Photos for Facebook</u></a></li>
+<li><a href="https://games-able.techidaily.com/selecting-the-right-cpu-cooler-focus-on-these-8-elements/"><u>Selecting the Right CPU Cooler: Focus on These 8 Elements</u></a></li>
+<li><a href="https://games-able.techidaily.com/tech-lightened-up-tecno-reveals-reduced-size-gadgets/"><u>Tech Lightened Up: Tecno Reveals Reduced-Size Gadgets</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-google-pixel-fold-by-drfone-android/"><u>Three Ways to Sim Unlock Google Pixel Fold</u></a></li>
 </ul></div>
 

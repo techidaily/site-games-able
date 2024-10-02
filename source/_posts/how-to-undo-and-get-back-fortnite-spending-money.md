@@ -1,7 +1,7 @@
 ---
 title: How to Undo and Get Back Fortnite Spending Money
-date: 2024-09-16T20:01:53.507Z
-updated: 2024-09-20T20:07:19.454Z
+date: 2024-09-28T16:39:27.704Z
+updated: 2024-10-02T12:05:53.076Z
 tags:
   - games
 categories:
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b
 
  Additionally, you must be based in the US to apply for a refund and at least 18 to apply. If you are under 18, the FTC says that "a parent or guardian must complete the claim form for you".
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Apply for a Refund From Epic Games’ Fortnite FTC Settlement
 
  The FTC started sending emails to Fortnite gamers on September 19, 2023, and will continue to do so through October. Before you apply, ensure you have your claim number or Epic Account ID on hand (this[Epic Games webpage](https://www.epicgames.com/help/en-US/epic-accounts-c5719348850459/general-support-c5719341353627/what-is-an-epic-account-id-and-where-can-i-find-it-a5720265298075) can help). Start by finding your Epic Account ID if you haven't received an email with a claim number from the FTC.
@@ -47,11 +54,25 @@ thumbnail: https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b
 
 ![FTC Fortnite settlement application form](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ftc-fortnite-settlement-application-form.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The deadline for applications is January 17, 2024.
 
  Please note that submitting an application doesn't guarantee that you'll be refunded. There's also no way of knowing how much you'll be refunded or when you'll receive your refund if your application is approved. The FTC will provide updates about mailing dates in the future.
 
  For more information about the settlement, email <admin@fortniterefund.com> or call 1-833-915-0880.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## An Epic Win for Fortnite Gamers
 
@@ -70,12 +91,20 @@ The deadline for applications is January 17, 2024.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-screenmagic-pro-the-windows-10-companion/"><u>[New] 2024 Approved ScreenMagic Pro The Windows 10 Companion</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-auto-play-youtube-keep-it-hidden-stay-connected-for-2024/"><u>[New] Auto-Play YouTube - Keep It Hidden, Stay Connected for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-quick-fixes-addressing-top-youtube-short-challenges/"><u>[Updated] Quick Fixes Addressing Top YouTube Short Challenges</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-live-methods-for-quieter-track-output/"><u>2024 Approved Live Methods for Quieter Track Output</u></a></li>
+<li><a href="https://games-able.techidaily.com/embracing-twitch-essentials-for-effective-stream-management/"><u>Embracing Twitch: Essentials for Effective Stream Management</u></a></li>
+<li><a href="https://games-able.techidaily.com/hot-gadget-alert-keeping-your-deck-cool-and-comfortable/"><u>Hot Gadget Alert: Keeping Your Deck Cool & Comfortable</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-xcover-7-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Samsung Galaxy XCover 7 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-tecno-camon-20-premier-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Tecno Camon 20 Premier 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-superior-cameras-for-stop-motion-shorts/"><u>In 2024, Superior Cameras for Stop Motion Shorts</u></a></li>
+<li><a href="https://games-able.techidaily.com/ioss-elite-gbadvance-emulators-replaying-the-golden-days/"><u>IOS's Elite GBAdvance Emulators: Replaying the Golden Days!</u></a></li>
+<li><a href="https://games-able.techidaily.com/revealing-the-veiled-web-experience-in-ps5-console/"><u>Revealing the Veiled Web Experience in PS5 Console</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silence-not-working-heres-how-to-get-your-g435-headset-speaking-again/"><u>Silence Not Working? Here’s How to Get Your G435 Headset Speaking Again</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-biggest-draws-in-mobile-gameplay/"><u>Unveiling the Biggest Draws in Mobile Gameplay</u></a></li>
+</ul></div>
 

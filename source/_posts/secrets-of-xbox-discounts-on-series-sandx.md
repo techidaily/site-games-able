@@ -1,7 +1,7 @@
 ---
 title: Secrets of Xbox Discounts on Series S&X
-date: 2024-09-24T02:25:26.678Z
-updated: 2024-09-26T16:08:55.234Z
+date: 2024-09-24T18:33:47.760Z
+updated: 2024-10-02T08:42:52.310Z
 tags:
   - games
 categories:
@@ -41,13 +41,6 @@ thumbnail: https://thmb.techidaily.com/8d3e36af5d5a0091c440dec8233de5f6c2799ee80
 
  While the above points may seem trivial, the process for redeeming your Digital Direct offer can become quite confusing, especially if you want to save your offer for later. Luckily, if you simply want to claim the offer immediately, the process is simple.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Activate Your Digital Direct Offers From Your Xbox
 
  Now you know what form your free game or offer comes with after buying a new Xbox Series X|S bundle, you're ready to activate and redeem it. And as long as you haven't already set up your new console, the process is easy.
@@ -63,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/8d3e36af5d5a0091c440dec8233de5f6c2799ee80
  But with**Claim it** selected, your Digital Direct offer will be unlocked and available within**My games & apps** on your console. Unfortunately, if you want to alter your offer or if you selected**Decide later** or**Redeem for another account** , the process is more complex and more akin to[managing your Xbox subscriptions from your console](https://www.makeuseof.com/how-to-manage-xbox-subscriptions-from-xbox-series-x-s/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What to Do if You Declined Your Digital Direct Offer
@@ -80,9 +73,23 @@ thumbnail: https://thmb.techidaily.com/8d3e36af5d5a0091c440dec8233de5f6c2799ee80
 
 ![A screenshot of the Guide menu on Xbox Series X with the options for Profile and System highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-guide-menu.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Under the options for**Account** , select**Included with this Xbox** .
 
 ![An image of the Account settings for an Xbox Series X with the option for Included With This Xbox highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/18065620-6c49-4cc2-b456-bec9bdfe6a68-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Image Credit:[Xbox](https://www.xbox.com/en-us/consoles/digital-direct)
 
@@ -105,22 +112,15 @@ thumbnail: https://thmb.techidaily.com/8d3e36af5d5a0091c440dec8233de5f6c2799ee80
  To redeem a code and unlock content on your Xbox Series X|S, load the**Store** from your console. Once the**Store** loads, use the left-hand-side tabs to scroll down and find**Redeem** . If you select**Redeem** , you will be asked to enter your 25-character digital code. Upon entering the code, select**Check code** to redeem your content.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Q: How Do You Claim Your Reward Points on Xbox Series X|S?
 
  To[redeem Microsoft Reward Points on your Xbox Series X|S](https://www.makeuseof.com/how-to-redeem-microsoft-reward-points-on-xbox-series-xs/) , open the**Microsoft Rewards on Xbox** application from**My games & apps** . With the app loaded, open the**Redeem** tab and select the reward you want to exchange your Microsoft Reward Points. Select**Redeem reward** to claim your chosen benefit.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Q: Do Xbox Digital Direct Offers and Codes Expire?
 
@@ -141,19 +141,20 @@ thumbnail: https://thmb.techidaily.com/8d3e36af5d5a0091c440dec8233de5f6c2799ee80
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-dynamic-duo-enhancing-fb-live-with-monitor-sharing-capabilities-for-2024/"><u>[Updated] Dynamic Duo Enhancing Fb Live with Monitor Sharing Capabilities for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-humor-hits-the-best-funny-youtube-short-ideas-on-the-block/"><u>[Updated] Humor Hits The Best Funny YouTube Short Ideas on the Block</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/breaking-barriers-chatgpts-remarkable-new-capabilities/"><u>Breaking Barriers: ChatGPT's Remarkable New Capabilities</u></a></li>
-<li><a href="https://games-able.techidaily.com/first-strike-strategy-7-essential-fps-tweaks/"><u>First Strike Strategy: 7 Essential FPS Tweaks</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719172506741-five-text-based-games-just-a-click-away/"><u>Five Text-Based Games Just a Click Away</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaming-on-the-go-device-decision-guide/"><u>Gaming on the Go: Device Decision Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaming-tech-trends-directx-11-vs-directx-12-updates/"><u>Gaming Tech Trends: DirectX 11 Vs. DirectX 12 Updates</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-motorola-moto-g24-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Motorola Moto G24? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-realme-10t-5g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Realme 10T 5G? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-iphone-6-plus-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6 Plus When We Dont Have Apple ID or Password?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-app-icon-error-heres-how-you-can-fix-them-back/"><u>IPhone App Icon Error? Here's How You Can Fix Them Back</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ng-list-10-budget-friendly-sbd-solutions/"><u>Leading List 10 Budget-Friendly SBD Solutions</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/pioneering-popularity-with-powerful-instagram-videos-for-2024/"><u>Pioneering Popularity with Powerful Instagram Videos for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-titans-of-play-are-they-overreaching-discussion-recording/"><u>The Titans of Play: Are They Overreaching? [Discussion Recording]</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-comprehensive-guide-to-crafting-great-documentary-narratives/"><u>[Updated] The Comprehensive Guide to Crafting Great Documentary Narratives</u></a></li>
+<li><a href="https://fox-that.techidaily.com/boosting-safari-speed-top-4-fixes-for-a-faster-iphone-experience/"><u>Boosting Safari Speed: Top 4 Fixes for a Faster iPhone Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-how-to-excel-at-new-york-times-word-game-strands-edition/"><u>Discover How To Excel at New York Times Word Game: Strands Edition</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722896783939-electric-vehicle-efficiency-during-extreme-climates-a-comprehensive-analysis/"><u>Electric Vehicle Efficiency During Extreme Climates: A Comprehensive Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-the-evolution-best-in-class-asus-rog-ally-docking-solutions/"><u>Explore the Evolution: Best-in-Class ASUS ROG Ally Docking Solutions</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-nokia-g42-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-asus-mouse-software-installed-on-a-windows-pc/"><u>Get Your ASUS Mouse Software Installed on a Windows PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/ideal-multiplayer-partner-games-top-16-for-series-consoles/"><u>Ideal Multiplayer Partner Games - Top 16 for Series Consoles</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-formulating-attractive-instagram-story-captions/"><u>In 2024, Formulating Attractive Instagram Story Captions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-realme-v30-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Realme V30 Phones</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-montereys-release-what-to-expect/"><u>Navigating Monterey's Release: What to Expect</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-guide-to-gathering-and-mounting-minecraft-adventures/"><u>Quick Guide to Gathering and Mounting Minecraft Adventures</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-deck-versatility-explored/"><u>Steam Deck Versatility Explored</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-honor-x8b-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/unplugged-and-entertained-ioss-hottest-game-titles/"><u>Unplugged & Entertained: IOS's Hottest Game Titles</u></a></li>
 </ul></div>
 

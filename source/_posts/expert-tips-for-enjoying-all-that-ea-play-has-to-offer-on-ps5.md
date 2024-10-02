@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Enjoying All That EA Play Has to Offer on PS5
-date: 2024-09-21T17:48:24.924Z
-updated: 2024-09-26T22:20:54.886Z
+date: 2024-09-24T23:31:39.475Z
+updated: 2024-10-02T03:16:35.452Z
 tags:
   - games
 categories:
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/f5eeb9ebfa2de64a3d4ee3942e718c9f14502e6b8
 
  By the way, EA Play is one of the[ways you can get The Sim 4 for free](https://www.makeuseof.com/how-to-download-and-play-the-sims-4-for-free/) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Subscribe to EA Play on the PS5
 
  Trying to navigate your PS5 to pay for EA Play could be a little tricky. Before you begin, you must[add a card as a payment method on your PS5](https://www.makeuseof.com/add-psn-wallet-funds-and-buy-games-on-ps5/) (EA Play insists you have a card even though it will charge your wallet). So, we’ve detailed all the steps you should follow to successfully subscribe to it:
@@ -49,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/f5eeb9ebfa2de64a3d4ee3942e718c9f14502e6b8
 3. Scroll down till you see EA Play’s banner and choose**Learn More** .  
 ![EA Play in PlayStation Store's subscription page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ea-play-in-playstation-store-s-subscription-page.JPG)
 4. Select**$4.99** and choose**Order & Pay** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In the image above, you’ll see that EA Play is going for $0.99\. This is a limited offer and doesn’t reflect the regular price.
 
@@ -63,31 +63,18 @@ thumbnail: https://thmb.techidaily.com/f5eeb9ebfa2de64a3d4ee3942e718c9f14502e6b8
 ![EA Play Play List page on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ea-play-play-list-page-on-the-ps5.JPG)
 3. Navigate to the game you wish to download, select the cover art, and choose**Download** or the discount game price button.  
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Battlefield 4 EA Play PlayStation Store page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/battlefield-4-ea-play-playstation-store-page.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The game will download and install on your device from there. If you got the game free, you’ll no longer have access when your EA Play membership expires. However, if you bought it with the 10% discount, you’ll have the game forever.
 
  You can tell which games in your library are EA Play games; just look for the tiny red circular EA Logo when you highlight the game.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Cancel an EA Play Membership on the PS5
 
@@ -95,13 +82,20 @@ thumbnail: https://thmb.techidaily.com/f5eeb9ebfa2de64a3d4ee3942e718c9f14502e6b8
 
 ![EA Play subscription settings on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ea-play-subscription-settings-on-the-ps5.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Your membership will continue after you cancel, but it won’t renew. You can return back to this page in settings to renew the subscription by selecting the**Subscribe** button.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## EA Play Saves You Money
@@ -125,22 +119,16 @@ thumbnail: https://thmb.techidaily.com/f5eeb9ebfa2de64a3d4ee3942e718c9f14502e6b8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-melodic-melding-understanding-sound-transition/"><u>[New] Melodic Melding Understanding Sound Transition</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-essential-hashtag-analyzers-facebook-twitter-and-instagram-edition/"><u>[Updated] 2024 Approved Essential Hashtag Analyzers Facebook, Twitter & Instagram Edition</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-from-pcmac-to-the-feed-how-to-efficiently-upload-videos-to-instagram/"><u>[Updated] In 2024, From PC/Mac to the Feed How to Efficiently Upload Videos to Instagram</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-seamless-storytelling-with-on-screen-annotations-and-timestamps/"><u>[Updated] Seamless Storytelling with On-Screen Annotations & Timestamps</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-the-beat-bringers-guide-integrating-melody-into-vimeo-videos-for-2024/"><u>[Updated] The Beat Bringers' Guide Integrating Melody Into Vimeo Videos for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-oppo-reno-11f-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Oppo Reno 11F 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ais-double-edged-sword-in-software-development/"><u>AI's Double-Edged Sword in Software Development</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/easy-diy-motherboard-selection-for-hassle-free-pc-construction/"><u>Easy DIY Motherboard Selection for Hassle-Free PC Construction</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-gaming-bliss-uncover-5-game-changing-strategies-for-mac-users/"><u>Elevate Gaming Bliss: Uncover 5 Game-Changing Strategies for Mac Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719173711358-experience-game-on-youtube-introduces-mini-games-for-all/"><u>Experience Game On: YouTube Introduces Mini-Games for All</u></a></li>
-<li><a href="https://games-able.techidaily.com/investment-tactics-fortnite-coins-on-sonys-platform/"><u>Investment Tactics: Fortnite Coins on Sony's Platform</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-the-reporting-process-for-uncivil-players-xbox/"><u>Navigating the Reporting Process for Uncivil Players (Xbox)</u></a></li>
-<li><a href="https://games-able.techidaily.com/opening-a-second-front/"><u>Opening a Second Front</u></a></li>
-<li><a href="https://games-able.techidaily.com/productivity-desks-vs-gaming-devices-what-separates-them/"><u>Productivity Desks Vs. Gaming Devices: What Separates Them?</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-right-moment-when-to-reset-your-ps5-device/"><u>The Right Moment: When to Reset Your PS5 Device</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/unfolding-the-world-on-iphone-perfect-fb-video-sharing-for-2024/"><u>Unfolding the World on iPhone Perfect FB Video Sharing for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleashing-great-sound-from-mmx-200/"><u>Unleashing Great Sound From MMX 200</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-the-alphanumeric-sequence-of-steam-ids/"><u>Decoding the Alphanumeric Sequence of Steam IDs</u></a></li>
+<li><a href="https://games-able.techidaily.com/guaranteeing-every-title-count-in-epic-games-repository/"><u>Guaranteeing Every Title Count in Epic Games Repository</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-vivo-y28-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Vivo Y28 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-samsung-galaxy-a14-4g-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Samsung Galaxy A14 4G</u></a></li>
+<li><a href="https://games-able.techidaily.com/investigating-multi-functional-display-features-for-games/"><u>Investigating Multi-Functional Display Features for Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-new-windows-interface-add-folder-to-menu/"><u>Navigating the New Windows Interface - Add Folder to Menu</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-film-fanfare-discover-how-to-enjoy/"><u>PS5 Film Fanfare: Discover How To Enjoy</u></a></li>
+<li><a href="https://games-able.techidaily.com/series-x-savings-your-ultimate-reward/"><u>Series X Savings: Your Ultimate Reward</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solve-your-iphones-autofocus-issues-with-these-effective-troubleshooting-tips/"><u>Solve Your iPhone's Autofocus Issues with These Effective Troubleshooting Tips</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/step-by-step-for-powerpoint-voiceover-excellence-for-2024/"><u>Step-by-Step for PowerPoint Voiceover Excellence for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-for-repairing-ethernet-connectivity-problems-on-both-windows-11-and-7-systems/"><u>Step-by-Step Guide for Repairing Ethernet Connectivity Problems on Both Windows 11 and 7 Systems</u></a></li>
 </ul></div>
 

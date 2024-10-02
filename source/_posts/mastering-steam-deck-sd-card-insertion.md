@@ -1,7 +1,7 @@
 ---
 title: Mastering Steam Deck SD Card Insertion
-date: 2024-09-26T04:34:03.269Z
-updated: 2024-09-26T23:51:49.688Z
+date: 2024-09-30T06:55:07.048Z
+updated: 2024-10-02T10:04:05.296Z
 tags:
   - games
 categories:
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/a131e22df3df2377fb881bb5a1b4cf5042cfae531
 * [How to Format Your SD Card for the Steam Deck](#how-to-format-your-sd-card-for-the-steam-deck)
 * [How to Install and Move Games to Your Steam Deck's SD Card](#how-to-install-and-move-games-to-your-steam-deck-39-s-sd-card)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Choose a fast SD card for optimal performance on your Steam Deck.
@@ -33,29 +40,22 @@ thumbnail: https://thmb.techidaily.com/a131e22df3df2377fb881bb5a1b4cf5042cfae531
 
  It's time to expand your storage on your Steam Deck. But is it as easy as popping in an SD card? Do you have to do any special formatting? Let's take a look at how to install an SD card on your Steam Deck.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can I Use Any SD Card on My Steam Deck?
 
 ![screenshot of the steam deck storage screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_steam_deck_storage_screen.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Steam Deck is not fussy when it comes to SD cards. Assuming you've brushed up on [mistakes to avoid when choosing an SD card](https://www.makeuseof.com/tag/5-mistakes-avoid-buying-next-microsd-card/), you can't go wrong. The Steam Deck supports SD, SDXC, and SDHC cards, and can handle up to 2TB of capacity.
 
  Write and read speeds are very important for performance reasons, so choosing a faster card is beneficial. Don't spring for the fastest, though. The Steam Deck will only reliably read up to 100MB/s.
 
  We have a great selection of [the best microSD cards for the Steam Deck](https://www.makeuseof.com/best-microsd-cards-steam-deck/) if you haven't selected one already.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Format Your SD Card for the Steam Deck
 
@@ -76,10 +76,10 @@ thumbnail: https://thmb.techidaily.com/a131e22df3df2377fb881bb5a1b4cf5042cfae531
 ![screenshot of the games options menu on the steam deck showing a game installed on an SD card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_steam_deck_game_options_sd_card.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  With an SD card installed, you can choose to install a game directly onto your SD card or move an already installed game manually by opening its **Properties** and clicking on **Installed Files.**
@@ -93,10 +93,10 @@ thumbnail: https://thmb.techidaily.com/a131e22df3df2377fb881bb5a1b4cf5042cfae531
 ![Screenshot of an SD card mounted on the Steam Deck showing its location as primary](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_primary_sd_card_location_on_steam_deck.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You'll find your SD card located at the bottom right-hand side of the Dolphin explorer window. It's named **primary**. Steam games will be located in the **steamapps** folder of this device.
@@ -124,18 +124,16 @@ run/media/mmcblk0p1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-ai-and-creativity-collide-the-best-podcast-renaming-solutions/"><u>[New] 2024 Approved AI & Creativity Collide The Best Podcast Renaming Solutions</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-zoom-and-google-meet-visual-clarity-your-step-by-step-guide-to-cleaner-participation/"><u>[New] 2024 Approved Zoom & Google Meet Visual Clarity Your Step-by-Step Guide to Cleaner Participation</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-navigating-the-maze-of-audio-capturing-a-complete-minecraft-guide-on-mac/"><u>[New] Navigating the Maze of Audio Capturing A Complete Minecraft Guide on Mac</u></a></li>
-<li><a href="https://games-able.techidaily.com/4-cryptic-quests-for-the-digital-detective-ai/"><u>4 Cryptic Quests for the Digital Detective AI</u></a></li>
-<li><a href="https://games-able.techidaily.com/7-essential-steps-for-pc-components-cohesion/"><u>7 Essential Steps for PC Components Cohesion</u></a></li>
-<li><a href="https://games-able.techidaily.com/akkos-modular-breakthrough-the-mod007b-gamers-board/"><u>Akko's Modular Breakthrough: The MOD007B Gamer's Board</u></a></li>
-<li><a href="https://games-able.techidaily.com/battle-royale-choice-ps5-or-affordable-pc/"><u>Battle Royale Choice: PS5 Or Affordable PC?</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effortlessly-solve-world-of-warcraft-crashes-a-comprehensive-fix-guide/"><u>Effortlessly Solve World of Warcraft Crashes: A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719164610715-enhance-experience-and-space-with-extra-large-front-ends/"><u>Enhance Experience & Space With Extra-Large Front Ends!</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-vivo-t2x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-oppo-a79-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Oppo A79 5G?</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719169829405-solving-network-problems-with-steam-written-by-your-name/"><u>Solving Network Problems with Steam' Written By: [Your Name]</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/transformar-archivos-flv-a-formato-quicktime-libre-y-facil-con-herramienta-on-line-de-movavi/"><u>Transformar Archivos FLV a Formato QuickTime Libre Y Fácil Con Herramienta On-Line De Movavi</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-x-tape-maker-desktop-compatible/"><u>[Updated] In 2024, X-Tape Maker Desktop Compatible</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-industry-standards-prime-gimbals-for-drones/"><u>[Updated] Industry Standards Prime Gimbals for Drones</u></a></li>
+<li><a href="https://games-able.techidaily.com/cutting-edge-techniques-for-sonys-dualsense-upgrade/"><u>Cutting-Edge Techniques for Sony's DualSense Upgrade</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-restart-steam-3-different-ways/"><u>How to Restart Steam: 3 Different Ways</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-the-lock-screen-on-my-blaze-pro-5g-by-drfone-android-unlock-android-unlock/"><u>How to Unlock the Lock Screen on my Blaze Pro 5G</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-kickstart-your-video-enhancement-game-with-snapchat/"><u>In 2024, Kickstart Your Video Enhancement Game with Snapchat</u></a></li>
+<li><a href="https://fox-that.techidaily.com/locating-apples-facetime-images-a-guide-on-discovering-and-saving-pictures/"><u>Locating Apple's FaceTime Images: A Guide on Discovering and Saving Pictures</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-joys-con-connectivity-hurdles-in-switch-system/"><u>Overcoming Joys-Con Connectivity Hurdles in Switch System</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-taking-your-video-editing-to-the-next-level-with-final-cut-pro-for-2024/"><u>Updated Taking Your Video Editing to the Next Level with Final Cut Pro for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/visual-tech-comparison-directx-series-debate/"><u>Visual Tech Comparison: DirectX Series Debate</u></a></li>
+<li><a href="https://games-able.techidaily.com/watts-worth-dreams-beyond-volts/"><u>Watt's Worth: Dreams Beyond Volts</u></a></li>
 </ul></div>
 

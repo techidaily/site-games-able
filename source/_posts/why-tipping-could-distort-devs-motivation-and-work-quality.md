@@ -1,7 +1,7 @@
 ---
 title: Why Tipping Could Distort Devs' Motivation and Work Quality
-date: 2024-09-13T20:37:28.579Z
-updated: 2024-09-20T23:36:20.615Z
+date: 2024-09-28T02:49:30.011Z
+updated: 2024-10-01T16:27:52.078Z
 tags:
   - games
 categories:
@@ -43,9 +43,35 @@ thumbnail: https://thmb.techidaily.com/db587631bccc11018e71b0f197be1378b7d1dbbec
 
  Game devs working on their own, meanwhile, will struggle unless they strike gold. Perhaps the best example is Eric Barone, the creator of the smash-hit farming sim Stardew Valley. Barone worked on his own for over four years, but his game’s success has repaid him significantly; the developer now has a net worth estimated at $45m.
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Alternatives Are Already Available
 
 ![A screenshot showing the Hollow Knight kickstarter campaign.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/hollow-knight-kickstarter.png)
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Tipping is an interesting idea, but do we really need one more payment method?
 
@@ -56,10 +82,10 @@ thumbnail: https://thmb.techidaily.com/db587631bccc11018e71b0f197be1378b7d1dbbec
  Buying a second copy—or “double-dipping”—is another tactic fans can use to reward game creators. This is more common in the indie scene, where physical collector's editions are abundant, and make a tangible companion to the digital copy of a game.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Negative Effects of Tipping Culture
@@ -71,10 +97,10 @@ thumbnail: https://thmb.techidaily.com/db587631bccc11018e71b0f197be1378b7d1dbbec
  Encouraging a focus on tipping may just be papering over cracks in the model, and could serve to distract from the issue of a sustainable gaming economy that’s future-proofed against[AI and other threats](https://www.makeuseof.com/types-of-jobs-risk-ai/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When Tips Might Work
@@ -116,5 +142,19 @@ thumbnail: https://thmb.techidaily.com/db587631bccc11018e71b0f197be1378b7d1dbbec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-boost-tiktok-bio-presence-perfectly-pairing-it-with-linktree/"><u>[New] Boost TikTok Bio Presence Perfectly Pairing It with Linktree</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-streamline-your-roblox-recording-mac-guide-for-2024/"><u>[Updated] Streamline Your Roblox Recording Mac Guide for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/embrace-the-past-iphone-games-with-legendary-titles/"><u>Embrace the Past: IPhone Games with Legendary Titles</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-the-art-of-curating-memories-on-social-media/"><u>In 2024, The Art of Curating Memories on Social Media</u></a></li>
+<li><a href="https://games-able.techidaily.com/insightful-guide-to-xbox-playtime-reports/"><u>Insightful Guide to Xbox Playtime Reports</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-solo-play-how-to-enjoy-your-steam-library-anywhere-even-offline/"><u>Mastering Solo Play: How to Enjoy Your Steam Library Anywhere, Even Offline</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-geforce-now-passes-raise-doubts/"><u>Nvidia's GeForce NOW Passes Raise Doubts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/os-melhores-codificadores-de-video-livres-descobertas-suas-16-maiores-ferramentas-inclui-versao-premium/"><u>Os Melhores Codificadores De Vídeo Livres: Descobertas Suas 16 Maiores Ferramentas [Inclui Versão Premium]</u></a></li>
+<li><a href="https://games-able.techidaily.com/reinstating-a-disabled-debit-card-on-playstation/"><u>Reinstating a Disabled Debit Card on PlayStation</u></a></li>
+<li><a href="https://fox-access.techidaily.com/step-by-step-guide-activating-hyper-v-in-windows-11/"><u>Step-by-Step Guide: Activating Hyper-V in Windows 11</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-art-of-streaming-saved-media-easy-igtv-downloads-on-pc-and-mac/"><u>The Art of Streaming Saved Media Easy IGTV Downloads on PC & Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-steam-deck-potential-with-pro-docking-practices/"><u>Unlocking Steam Deck Potential with Pro Docking Practices</u></a></li>
+</ul></div>
 

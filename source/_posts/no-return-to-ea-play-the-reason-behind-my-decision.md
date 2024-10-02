@@ -1,7 +1,7 @@
 ---
 title: "No Return to EA Play: The Reason Behind My Decision"
-date: 2024-09-24T18:58:57.904Z
-updated: 2024-09-26T21:46:52.783Z
+date: 2024-09-28T16:55:21.456Z
+updated: 2024-10-01T21:26:05.226Z
 tags:
   - games
 categories:
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
 
 ![Ea Play new prices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ea-play-new-prices.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  EA Play started at $4.99 monthly or $29.99 yearly for the standard subscription, while the premium EA Play Pro cost $14.99 a month or $99.99 yearly. However, the company's recent announcement drives the prices by $1 a month or $10 annually for the standard EA Play. If you're subscribed to Pro, the price goes up by $2 monthly or $20 yearly. This means the new prices are now $5.99 monthly or $39.99 annually for the base EA Play and $16.99 a month or $119.99 a year for EA Play Pro.
 
  An extra dollar or two per month seems small, and even the $10 or $20 annual increase might seem reasonable. However, these increases are large if you look at them relative to the original price.
@@ -60,16 +53,16 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
 
  Even though EA Play is still an affordable service, I'm finally quitting it after five years. So, these are the reasons why I'm canceling my EA Play subscription.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. I Don't Want to Pay Too Much for Just EA Titles
 
 ![EA Play games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ea-play-games.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The biggest reason I'm no longer signing up for EA Play is its limited library. The standard EA Play library only features 90 titles at the time of writing. While EA Play Pro gives you 60 more games, they're mostly niche titles that I don't really care for.
 
@@ -77,9 +70,23 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
 
  While EA Play gives me early access to some of their new releases up to ten days before they launch, I don't see any new EA titles coming up. I also rarely use the 10% discount EA Play offers to subscribers like me, as I find the idea of paying for DLC while spending on a monthly subscription just too much.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. EA Isn't Adding New Perks and Features
 
 ![EA Play vs EA Play Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ea-play-vs-ea-play-pro.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  I understand EA's need to increase prices; after all, it's the company's first time hiking up EA Play's subscription costs. This is especially true as overall operational expenses have steadily increased globally due to inflation.
 
@@ -89,16 +96,16 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
 
  Furthermore, EA's price hikes across the pond and in other parts of the world are way over the compounded rate. A 117% increase in one year is simply too much, even if the company had added features like VR gaming or free DLCs.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Other Gaming Subscriptions Offer Better Value for Money
 
 ![Humble Bundle logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/humble-bundle-logo.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit:[Humble Bundle](https://support.humblebundle.com/hc/en-us/articles/202742060-Bundle-Logos)
 
@@ -107,13 +114,6 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
  For example, if you have a PlayStation 5, you can[get a PlayStation Plus subscription](https://www.makeuseof.com/what-is-playstation-plus/) and enjoy hundreds of games, including several PlayStation exclusives.
 
  You can also pick Humble Bundle's Humble Choice subscription. Although it's more expensive at $11.99 a month, you get a mix of titles every month that you get to keep forever; you don't have to rely on a library where your favorite games might come and go at a moment's notice.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. I Can Get EA Play With Xbox Game Pass
 
@@ -142,20 +142,18 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-excellence-in-dialogue-maker-land/"><u>[New] Excellence in Dialogue Maker Land</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-mastering-the-art-of-crafting-engaging-spotify-promos-for-2024/"><u>[Updated] Mastering the Art of Crafting Engaging Spotify Promos for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-leading-the-video-conversion-game-with-ipv-strategies/"><u>2024 Approved Leading the Video Conversion Game with IPV Strategies</u></a></li>
-<li><a href="https://games-able.techidaily.com/4-achievement-hunting-sites-to-improve-your-gamerscore/"><u>4 Achievement Hunting Sites to Improve Your Gamerscore</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/capturing-youtube-icons-browser-extension-command-line-and-software-trio/"><u>Capturing Youtube Icons Browser Extension, Command Line & Software Trio</u></a></li>
-<li><a href="https://games-able.techidaily.com/custom-fan-curve-configuration-for-improved-graphics/"><u>Custom Fan Curve Configuration for Improved Graphics</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Motorola Moto E13 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-nokia-xr21-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Nokia XR21 to Another | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/inside-the-world-of-professional-gaming-audio-tech/"><u>Inside the World of Professional Gaming Audio Tech</u></a></li>
-<li><a href="https://games-able.techidaily.com/joystick-journey-converting-console-commands-to-computer-controls-139-chars/"><u>Joystick Journey: Converting Console Commands to Computer Controls (139 Chars)</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-steams-updated-stance-on-artificial-intelligence-in-gaming/"><u>Navigating Steam's Updated Stance on Artificial Intelligence in Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/overcoming-unwanted-mouse-wheel-vibrations/"><u>Overcoming Unwanted Mouse Wheel Vibrations</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/-free-online-tools-for-downloading-youtube-shorts-for-2024/"><u>Top 6 Free, Online Tools for Downloading YouTube Shorts for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-hidden-gems-with-these-3-xbox-code-tips/"><u>Unlock Hidden Gems with These 3 Xbox Code Tips</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/utilizing-lut-filters-in-obs-studio-effectively-for-2024/"><u>Utilizing LUT Filters in OBS Studio Effectively for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/treamlining-shoots-with-smart-camera-tech-choices/"><u>[New] Streamlining Shoots with Smart Camera Tech Choices</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-guide-to-modify-comment-accessibility-on-youtube/"><u>[Updated] Guide to Modify Comment Accessibility on YouTube</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-maximizing-your-time-online-embracing-facebook-fully/"><u>[Updated] Maximizing Your Time Online Embracing Facebook Fully</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-canvasknotter-your-ultimate-photo-blend-tool/"><u>2024 Approved CanvasKnotter Your Ultimate Photo Blend Tool</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-discover-the-ultimate-8-free-spots-for-3d-psds/"><u>2024 Approved Discover the Ultimate 8 Free Spots for 3D PSDs</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-staying-within-aspect-ratio-guidelines-for-youtube-style-tweeted-content/"><u>2024 Approved Staying Within Aspect Ratio Guidelines for YouTube-Style Tweeted Content</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-system-efficiency-prioritize-these-8-cpu-cooling-factors/"><u>Enhancing System Efficiency: Prioritize These 8 CPU Cooling Factors</u></a></li>
+<li><a href="https://games-able.techidaily.com/five-inventive-jabberwocky-rounds-for-humorous-texting/"><u>Five Inventive Jabberwocky Rounds for Humorous Texting</u></a></li>
+<li><a href="https://games-able.techidaily.com/gameplay-enhancement-with-mechanical-keys/"><u>Gameplay Enhancement with Mechanical Keys</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-through-best-144hz-display-options/"><u>Navigating Through Best 144Hz Display Options</u></a></li>
+<li><a href="https://blog-min.techidaily.com/preventing-another-cortana-disaster-four-essential-steps-for-microsoft-to-rescue-copilot-successfully/"><u>Preventing Another Cortana Disaster: Four Essential Steps for Microsoft to Rescue Copilot Successfully</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-oculus-installation-error-in-windows-os/"><u>Resolving Oculus Installation Error in Windows OS</u></a></li>
+<li><a href="https://games-able.techidaily.com/secure-your-switch-a-step-by-step-guide-to-enabling-screen-lock/"><u>Secure Your Switch: A Step-by-Step Guide to Enabling Screen Lock</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Face-Off Fun: The Coolest Two-Person Phone Games (Top 15)"
-date: 2024-09-18T23:41:54.387Z
-updated: 2024-09-20T16:24:36.355Z
+date: 2024-09-28T23:46:19.505Z
+updated: 2024-10-02T03:31:37.749Z
 tags:
   - games
 categories:
@@ -85,6 +85,13 @@ Close
 
 ![shark character in ultimate bowmasters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/shark-character-in-ultimate-bowmasters.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Ultimate Bowmasters combines ragdoll physics, a charming art style, and cartoon violence to create a game that is fiendishly fun. The aim is to eliminate your opponent by lobbing a weapon towards them.
 
  Calculating the trajectory of your weapon is half the fun. Meanwhile, the other half is landing the target and watching your friend's dismay.
@@ -111,18 +118,18 @@ Close
 
 **Download:** Words With Friends 2 for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU35591/https://play.google.com/store/apps/details?id=com.zynga.words3) |[iOS](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU35591/https://itunes.apple.com/us/app/words-with-friends-2-word-game/id1196764367?mt=8) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Clash Royale
 
 ![clash royale two player mobile game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/clash-royale-two-player-mobile-game.jpg)
 
 ![winner of a two player match in clash royale](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/winner-of-a-two-player-match-in-clash-royale.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -132,18 +139,25 @@ Close
 
 **Download:** Clash Royale for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU35591/https://play.google.com/store/apps/details?id=com.supercell.clashroyale) |[iOS](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU35591/https://itunes.apple.com/app/clash-royale/id1053012308?mt=8) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Golf Battle
 
 ![golf battle playing with a friend](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/golf-battle-playing-with-a-friend.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![option to challenge a friend on golf battle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/option-to-challenge-a-friend-on-golf-battle.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![custom match on golf battle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/custom-match-on-golf-battle.jpg)
 
@@ -156,13 +170,6 @@ Close
  If your friends aren't available, you can also join public matches—the default multiplayer mode of the game.
 
 **Download:** Golf Battle for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU35591/https://play.google.com/store/apps/details?id=games.onebutton.golfbattle) |[iOS](https://apps.apple.com/us/app/golf-battle/id1422866002) (Free)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Genshin Impact
 
@@ -224,6 +231,19 @@ You can simultaneously compete with and sabotage your opponent.
 
 ![terraria mobile tutorial](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/terraria-mobile-tutorial.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  While most of these games are designed for short bouts of gameplay, Terraria is a multiplayer mobile game that you can spend hours playing. It is a mobile port of the popular PC game and allows you to play with friends using local Wi-Fi or by connecting to a dedicated server.
 
  It's an inexpensive way for two players to enjoy a mobile game together. However, using the mobile version of the game can be difficult for those used to the simpler controls of a PC or console. We would definitely recommend[connecting a controller to your Android phone](https://www.makeuseof.com/tag/how-to-connect-a-game-controller-to-android-for-console-like-gameplay-si/) or iPhone.
@@ -235,6 +255,19 @@ You can simultaneously compete with and sabotage your opponent.
 ![warcraft rumble map](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/warcraft-rumble-map.jpg)
 
 ![warcraft rumble two player pvp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/warcraft-rumble-two-player-pvp.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -250,6 +283,13 @@ Close
 
 ![archery battle aiming for target](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/archery-battle-aiming-for-target.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![two player match in archery battle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/two-player-match-in-archery-battle.jpg)
 
 Close
@@ -260,28 +300,15 @@ Close
 
 **Download** : Archery Battle for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU35591/https://play.google.com/store/apps/details?id=com.cg.archery&hl=en&gl=US) (Free)
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 15\. 8 Ball Pool
 
 ![a 1v1 match in 8 ball pool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/a-1v1-match-in-8-ball-pool.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  8 Ball Pool is another free mobile game for two players that lets you play against friends or strangers. You can invite friends to play via Facebook, adding them with a unique ID, or sending them a friend request link. Otherwise, you can add friends from the strangers you play online.
@@ -307,5 +334,16 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/updated-how-to-change-text-style-in-discord-3-methods/"><u>[Updated] How to Change Text Style in Discord | 3 Methods</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-the-unseen-hazards-in-linkedins-new-gaming-section/"><u>Explore the Unseen Hazards in LinkedIn’s New Gaming Section</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/free-and-easy-winx-dvd-creator-professional-video-and-data-dvd-burning-software-for-windows-1011/"><u>Free and Easy WinX DVD Creator: Professional Video & Data DVD Burning Software for Windows 10/11</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-troubleshoot-to-transform-your-diy-xbox-controller-fixes/"><u>From Troubleshoot to Transform: Your DIY Xbox Controller Fixes</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/harmonizing-vision-and-voice-the-ultimate-guide-for-2024/"><u>Harmonizing Vision and Voice The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intels-latest-leap-panther-lake-and-clearwater-forest-cpus-preparing-for-cutting-edge-lithographic-node-upgrades/"><u>Intel's Latest Leap: Panther Lake & Clearwater Forest CPUs Preparing for Cutting-Edge Lithographic Node Upgrades</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-battle-royale-iphone-and-fortnite-with-geforce-now/"><u>Navigating the Battle Royale: IPhone & Fortnite with GeForce Now</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-oppo-f23-5g-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Oppo F23 5G</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-your-game-awaits-on-a-pc-not-just-consoles/"><u>Why Your Game Awaits on a PC, Not Just Consoles</u></a></li>
+</ul></div>
 

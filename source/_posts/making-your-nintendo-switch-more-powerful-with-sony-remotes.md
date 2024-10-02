@@ -1,7 +1,7 @@
 ---
 title: Making Your Nintendo Switch More Powerful with Sony Remotes
-date: 2024-09-24T22:01:17.994Z
-updated: 2024-09-27T05:22:58.256Z
+date: 2024-09-28T16:47:42.158Z
+updated: 2024-10-01T22:20:43.428Z
 tags:
   - games
 categories:
@@ -42,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/1d642682ec5cb6a6ea7cd33f84c3c6bed241d468d
 ![controllers and sensors nintendo switch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/how-to-pair-ps4-controller-nintendo-switch-003.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you're in this menu, turn on the wireless USB adapter by selecting**Pro Controller Wired Connection** .
@@ -56,30 +56,37 @@ thumbnail: https://thmb.techidaily.com/1d642682ec5cb6a6ea7cd33f84c3c6bed241d468d
 
 ![Close up of 8BitDo Wireless Adapter 2 pairing button-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/close-up-of-8bitdo-wireless-adapter-2-pairing-button-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Finally, on both the DualSense and DualShock 4 controller, hold down**the PS Button** and**the Share button** to put the controller into pairing mode. The DualSense will have lights pulsing around the touchpad, while the Playstation 4’s DualShock 4 will display a pulsing light on the front.
 
 ![Putting DualSense Controller into pairing mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/putting-dualsense-into-pairing-mode.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When the lights on the controller and adapter return to their steady color, they are paired. You are now ready to play Switch games using a PlayStation controller. To make sure, you should be able to see your controller displayed on the**Controller Select** screen on your Switch.
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Things to Consider When Using PlayStation Controllers on Switch
@@ -91,13 +98,6 @@ thumbnail: https://thmb.techidaily.com/1d642682ec5cb6a6ea7cd33f84c3c6bed241d468d
  Also, be aware that the USB Wireless Adapter will keep your connected controller powered on, with the sleep function no longer working, so make sure to turn it off, or you risk your controller dying quickly. On the plus side, the PlayStation touchpad works as a screenshot button, and the gyro will still function.
 
 ![Close up of the PlayStation 5 DualSense controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/close-up-of-the-playstation-5-dualsense-controller.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This method works perfectly for both the original Nintendo Switch and the Switch OLED. However, it will not work for the Nintendo Switch Lite since it doesn't have a dock. This is one of the biggest deal-breakers when it comes to choosing whether to[buy the Nintendo Switch or the Nintendo Switch Lite](https://www.makeuseof.com/tag/nintendo-switch-vs-switch-lite/) .
 
@@ -124,18 +124,24 @@ thumbnail: https://thmb.techidaily.com/1d642682ec5cb6a6ea7cd33f84c3c6bed241d468d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-spotlight-on-zdsoft-screen-capture-for-pros/"><u>[New] Spotlight on ZDSoft Screen Capture for Pros</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-maximizing-vimeo-presence-with-movies-from-wmm/"><u>[Updated] 2024 Approved Maximizing Vimeo Presence with Movies From WMM</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-art-of-social-media-stardom-nine-tracks-to-insta-success/"><u>[Updated] The Art of Social Media Stardom Nine Tracks to Insta Success</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/el-branding-101-brainstorm-techniques-for-2024/"><u>Channel Branding 101 Brainstorm Techniques for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/dive-into-easy-conversation-with-mondlys-updated-vocabulary/"><u>Dive Into Easy Conversation with Mondly’s Updated Vocabulary</u></a></li>
-<li><a href="https://games-able.techidaily.com/engaging-with-films-via-ps5-cinematic-hub/"><u>Engaging with Films via PS5 Cinematic Hub</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhance-csgo-on-pc-10-frames-up/"><u>Enhance CS:GO on PC - 10 Frames Up</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-vivo-y100-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Vivo Y100 5G Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/intro-to-using-snap-camera-effectively-in-meetings-for-2024/"><u>Intro to Using Snap Camera Effectively in Meetings for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/strategies-for-tackling-non-responsive-drivers-on-your-windows-11-system/"><u>Strategies for Tackling Non-Responsive Drivers on Your Windows 11 System</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-affordability-of-sonys-online-multiplayer-service/"><u>The Affordability of Sony’s Online Multiplayer Service</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Samsung Galaxy A23 5G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-perfect-partners-for-steam-decks-a-rundown-of-the-top-9-emulators/"><u>The Perfect Partners for Steam Decks: A Rundown of the Top 9 Emulators</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-accessing-shared-media-in-facebook-messenger-how-for-2024/"><u>[New] Accessing Shared Media in Facebook Messenger How for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-navigating-auto-captioned-content-in-social-media-visuals/"><u>[New] In 2024, Navigating Auto-Captioned Content in Social Media Visuals</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-streamlining-console-experience-through-computer-recording/"><u>[New] In 2024, Streamlining Console Experience Through Computer Recording</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-snapshits-pro-photography-edits-guide/"><u>[New] Mastering Snapshits Pro Photography Edits Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-expert-gaming-techniques-mastering-switch-pro-controller-on-steam/"><u>2024 Approved Expert Gaming Techniques Mastering Switch Pro Controller on Steam</u></a></li>
+<li><a href="https://article-helps.techidaily.com/acclaimed-20-open-source-pubg-thumbnail-bundles/"><u>Acclaimed 20 Open Source PUBG Thumbnail Bundles</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-mp4-video-tag-editors-for-2024/"><u>Best MP4 Video Tag Editors for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-outdated-computers-with-atlasos/"><u>Elevate Outdated Computers with ATLASOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-performance-should-you-start-with-cpu-or-gpu/"><u>Elevating Performance: Should You Start with CPU or GPU?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-srt-tools-the-most-reliable-high-quality-apps-listed-for-2024/"><u>Free SRT Tools The Most Reliable, High-Quality Apps Listed for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-fortify-your-gaming-experience-with-ps5-password/"><u>How to Fortify Your Gaming Experience with PS5 Password</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-unsubscribe-from-minecraft-realms-and-download-your-worlds/"><u>How to Unsubscribe From Minecraft Realms and Download Your Worlds</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oppo-f23-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Oppo F23 5G Phones with/without a PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/invest-in-fun-why-paying-for-mobile-games-is-worthwhile/"><u>Invest in Fun: Why Paying for Mobile Games Is Worthwhile</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-level-precision-with-logitech-gaming-mice/"><u>Next-Level Precision with Logitech Gaming Mice</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-ssds-matching-ps5-specs/"><u>Prime SSDs Matching PS5 Specs</u></a></li>
+<li><a href="https://games-able.techidaily.com/take-on-novel-challenges-with-these-6-funky-chess-apps/"><u>Take on Novel Challenges with These 6 Funky Chess Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-lies-beneath-xboxs-cloud-gaming/"><u>What Lies Beneath Xbox's Cloud Gaming?</u></a></li>
 </ul></div>
 

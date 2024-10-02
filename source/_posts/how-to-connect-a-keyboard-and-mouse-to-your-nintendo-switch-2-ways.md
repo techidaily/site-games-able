@@ -1,7 +1,7 @@
 ---
 title: "How to Connect a Keyboard and Mouse to Your Nintendo Switch: 2 Ways"
-date: 2024-09-21T17:15:39.028Z
-updated: 2024-09-26T20:45:12.727Z
+date: 2024-09-28T18:57:07.047Z
+updated: 2024-10-01T23:12:05.082Z
 tags:
   - games
 categories:
@@ -36,16 +36,16 @@ thumbnail: https://thmb.techidaily.com/5e5b9ce0dc07e3f4c01f086c082ef2c0bbdb4ea2b
  This requires products specifically designed to play games on consoles. While a Bluetooth receiver may be the easiest way to start gaming with your keyboard and mouse, they are both relatively easy to set up.
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Connect a Keyboard and Mouse to Your Nintendo Switch With a Bluetooth Receiver
@@ -57,28 +57,28 @@ thumbnail: https://thmb.techidaily.com/5e5b9ce0dc07e3f4c01f086c082ef2c0bbdb4ea2b
 ![GameSir VX AimSwitch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/GameSir-VX-AimSwitch.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image Credit:[Amazon](https://www.amazon.com./GameSir-AimSwitch-Keyboard-Nintendo-Computer/dp/B07J4N76T9)
 
  They can also be more compact than other keyboards since they're designed with console gaming in mind. Products like the[GameSir VX Aimswitch](https://www.amazon.com/GameSir-AimSwitch-Keyboard-Nintendo-Computer/dp/B07J4N76T9?linkCode=ll1&tag=muo-v2-1he60jo-20&linkId=c5ba44c21f0eec0119d6942a46950468&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU2013923&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fnintendo-switch-how-to-connect-keyboard-and-mouse%2F&asc%5Fcampaign=Evergreen) (as pictured above) are about half the size of a regular keyboard, providing you with only the buttons you will need to use while gaming. This makes for a more compact keyboard controller.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Connect a Keyboard and Mouse to Your Nintendo Switch Using an Adaptor
 
  An adaptor works slightly differently to connect a keyboard and mouse to your Nintendo Switch. Rather than simply receiving a signal like a Bluetooth receiver, an adaptor is more like a specialized hub for all of your inputs.
 
 ![IOGEAR KeyMander 2 Adaptor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/IOGEAR-KeyMander-2-Adaptor.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit:[Amazon](https://www.amazon.com/IOGEAR-KeyMander-Controller-Crossover-GE1337P2/dp/B08541QCKJ)
 
@@ -89,16 +89,10 @@ thumbnail: https://thmb.techidaily.com/5e5b9ce0dc07e3f4c01f086c082ef2c0bbdb4ea2b
  These types of keyboard and mouse adaptors may require an app that you have to download to operate them. This can be more difficult to set up, but they are more advantageous in the long run and give you more control over your set-up. Once you learn how to operate the app, you are free to change button layouts and customize your inputs to suit your needs.
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Improve Your Aim With a Keyboard and Mouse on Your Nintendo Switch
@@ -120,20 +114,19 @@ thumbnail: https://thmb.techidaily.com/5e5b9ce0dc07e3f4c01f086c082ef2c0bbdb4ea2b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ise-of-the-channels-crafting-your-digital-empire/"><u>[New] Rise of the Channels Crafting Your Digital Empire</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-a-closer-look-at-high-end-vr-walking-machines/"><u>[Updated] A Closer Look at High-End VR Walking Machines</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-how-to-record-screen-with-adobe-captive-for-2024/"><u>[Updated] How To Record Screen With Adobe Captive for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-mastering-xbox-ultimate-screen-capture-tips/"><u>[Updated] Mastering Xbox Ultimate Screen Capture Tips</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-perfect-pick-kids-preferred-drones/"><u>2024 Approved Perfect Pick Kids' Preferred Drones</u></a></li>
-<li><a href="https://games-able.techidaily.com/beyond-rtx-4060-ti-top-competitive-graphics-cards/"><u>Beyond RTX 4060 Ti: Top Competitive Graphics Cards</u></a></li>
-<li><a href="https://games-able.techidaily.com/beyond-the-screen-the-value-of-game-possessions/"><u>Beyond the Screen: The Value of Game Possessions</u></a></li>
-<li><a href="https://games-able.techidaily.com/blackwidow-v4-the-future-of-gaming-keyboards-unleashed/"><u>BlackWidow V4: The Future of Gaming Keyboards Unleashed</u></a></li>
-<li><a href="https://games-able.techidaily.com/breathe-new-life-into-ps5-digital-access/"><u>Breathe New Life Into PS5 Digital Access</u></a></li>
-<li><a href="https://games-able.techidaily.com/chatgpt-the-future-of-gaming-scriptwriting/"><u>ChatGPT: The Future of Gaming Scriptwriting</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/close-up-clarity-mastering-the-art-of-intense-focus/"><u>Close-Up Clarity Mastering the Art of Intense Focus</u></a></li>
-<li><a href="https://games-able.techidaily.com/command-center-controls-essential-tuning-tips-for-fps-beginnings/"><u>Command Center Controls: Essential Tuning Tips for FPS Beginnings</u></a></li>
-<li><a href="https://games-able.techidaily.com/commanders-of-victory-managing-soccer-without-paying-a-penny/"><u>Commanders of Victory: Managing Soccer Without Paying a Penny</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixes-for-persistent-diablo-3-game-crashes-resolved/"><u>Fixes for Persistent Diablo 3 Game Crashes - Resolved</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-art-of-blending-music-into-your-ig-visuals/"><u>[New] In 2024, The Art of Blending Music Into Your IG Visuals</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-enhance-your-meetings-top-5-live-stream-recording-tools/"><u>[Updated] 2024 Approved Enhance Your Meetings Top 5 Live Stream Recording Tools</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-exploring-imovies-default-crop-settings/"><u>2024 Approved Exploring iMovie's Default Crop Settings</u></a></li>
+<li><a href="https://games-able.techidaily.com/demystifying-twitch-step-by-step-for-live-stream-users/"><u>Demystifying Twitch: Step-by-Step for Live Stream Users</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-essential-component-failures-on-windows-10-solutions-explored/"><u>Fixing Essential Component Failures on Windows 10 - Solutions Explored</u></a></li>
+<li><a href="https://games-able.techidaily.com/flashgame-features-seasonal-strategy-surge/"><u>FlashGame Features: Seasonal Strategy Surge</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Oppo Reno 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-nokia-c300-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Nokia C300 Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-through-dxgierror-0x887a0006-in-win1111/"><u>Navigating Through DXGI_ERROR 0X887A0006 in Win11/11</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-your-ps-vr2-setup/"><u>Optimizing Your PS VR2 Setup</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/speedily-enhancing-performance-a-guide-to-easy-driver-refreshes-on-dell-inspiron-7001/"><u>Speedily Enhancing Performance: A Guide to Easy Driver Refreshes on Dell Inspiron 7001</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-twitch-the-ultimate-guide-for-live-streams/"><u>Understanding Twitch: The Ultimate Guide for Live Streams</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-the-six-paths-to-power-up-your-ps5/"><u>Unlocking the Six Paths to Power Up Your PS5</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-converting-audacity-projects-to-mp3-format/"><u>Updated Converting Audacity Projects to MP3 Format</u></a></li>
 </ul></div>
 

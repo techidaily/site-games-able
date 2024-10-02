@@ -1,7 +1,7 @@
 ---
 title: Explode Savings with PlayStation's Summer Clearance
-date: 2024-09-21T05:59:59.493Z
-updated: 2024-09-26T19:34:29.068Z
+date: 2024-09-30T11:44:02.874Z
+updated: 2024-10-02T10:24:14.163Z
 tags:
   - games
 categories:
@@ -35,24 +35,31 @@ thumbnail: https://thmb.techidaily.com/b7fdec82e5e2a50f89b07a18bb64e205705f93d78
 
 **Download** :[My Time at Portia Deluxe Edition](https://store.playstation.com/en-us/product/UP4064-CUSA10924%5F00-0866856090541143) for $7.99 (75% off)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Deathloop
 
  Deathloop is 75% off, which is a massive saving for a Game of the Year nominee. If you like first-person shooters and the movie Groundhog Day, you will most likely love Deathloop. You may be thinking that that’s a strange combination of things, and you wouldn’t be wrong. But Deathloop is an action-packed adventure that is puzzling, hilarious, and well worth $14.99.
 
 **Download** :[Deathloop](https://store.playstation.com/en-us/product/UP1003-PPSA01302%5F00-DEATHLOOP0000000) for $14.99 (75% off)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Little Nightmares 1 & 2
 
  Walking the line between absolutely horrifying and terribly cute is not easy, but if any game series does it perfectly, it's Little Nightmares. Both Little Nightmares 1 and 2 share adorable protagonists and horrific enemies that will definitely haunt your dreams for at least a couple of nights, possibly more. Consider yourself warned.
 
 **Download** :[Little Nightmares 1 & 2](https://store.playstation.com/en-us/product/UP0700-PPSA02200%5F00-LN1LN2BUNDLE0000) for $14.99 (70% off)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Owlboy
 
@@ -78,19 +85,6 @@ thumbnail: https://thmb.techidaily.com/b7fdec82e5e2a50f89b07a18bb64e205705f93d78
 
 **Download** :[Resident Evil Village](https://store.playstation.com/en-us/product/UP0102-PPSA01556%5F00-VILLAGEFULLGAMEX) for $19.99 ($50% off)
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Tiny Tina’s Wonderlands: Chaotic Great Edition
 
  If you’re a fan of first-person shooters, but you also like to dabble in the realms of magic, Tiny Tina’s Wonderlands is a great amalgamation of the two. It will also be a surefire hit if you like Borderlands. If that wasn’t enough to convince you already, the Chaotic Edition comes with all the bells and whistles, like a season pass and post-launch content, for just $26.00.
@@ -98,10 +92,10 @@ thumbnail: https://thmb.techidaily.com/b7fdec82e5e2a50f89b07a18bb64e205705f93d78
 **Download** :[Tiny Tina’s Wonderlands: Chaotic Great Edition](https://store.playstation.com/en-us/product/UP1001-PPSA01492%5F00-TTWPREMIUMSIEA00) for $29.69 (67% off)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Final Fantasy VII Remake
@@ -111,10 +105,10 @@ thumbnail: https://thmb.techidaily.com/b7fdec82e5e2a50f89b07a18bb64e205705f93d78
 **Download** :[Final Fantasy VII Remake](https://store.playstation.com/en-us/product/UP0082-CUSA07211%5F00-FFVIIREMAKE00000) for $29.99 (50% off)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Be a Little Adventurous This Summer
@@ -136,24 +130,22 @@ thumbnail: https://thmb.techidaily.com/b7fdec82e5e2a50f89b07a18bb64e205705f93d78
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-shorten-videos-for-instagram-a-mac-guide/"><u>[New] 2024 Approved Shorten Videos for Instagram A Mac Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-two-screen-viewing-step-by-step-guide-for-netflix-users/"><u>[Updated] Mastering Two Screen Viewing - Step By Step Guide For Netflix Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/20-ways-to-improve-gaming-performance-on-your-laptop/"><u>20 Ways to Improve Gaming Performance on Your Laptop</u></a></li>
-<li><a href="https://games-able.techidaily.com/5-missteps-that-thwart-gamefi-adoption-by-enthusiasts/"><u>5 Missteps That Thwart GameFi Adoption by Enthusiasts</u></a></li>
-<li><a href="https://games-able.techidaily.com/5-tips-to-get-the-best-entertainment-experience-from-your-ps5/"><u>5 Tips to Get the Best Entertainment Experience From Your PS5</u></a></li>
-<li><a href="https://games-able.techidaily.com/access-advantages-analysis-game-pass-versus-playstation-essentials/"><u>Access Advantages Analysis: Game Pass Versus PlayStation Essentials</u></a></li>
-<li><a href="https://games-able.techidaily.com/achieving-optimal-ps5-security-through-passcode-settings/"><u>Achieving Optimal PS5 Security Through Passcode Settings</u></a></li>
-<li><a href="https://games-able.techidaily.com/bargain-hunting-in-steam-finding-high-quality-games-for-zilch/"><u>Bargain Hunting in Steam: Finding High-Quality Games for Zilch</u></a></li>
-<li><a href="https://games-able.techidaily.com/best-practices-managing-gpu-thermal-output/"><u>Best Practices: Managing GPU Thermal Output</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/building-a-successful-online-presence-wirecast-streaming-to-youtube/"><u>Building a Successful Online Presence WireCast Streaming to Youtube</u></a></li>
-<li><a href="https://win-able.techidaily.com/elden-ring-delay-explained-unveiling-the-reasons-behind-the-postponed-launch/"><u>Elden Ring Delay Explained - Unveiling the Reasons Behind the Postponed Launch</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/fine-tuning-dimensions-aspect-ratio-essentials-for-2024/"><u>Fine-Tuning Dimensions Aspect Ratio Essentials for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722978355317-get-the-official-windows-driver-for-canon-mf7-grower-printers-now/"><u>Get the Official Windows Driver for Canon MF7 Grower Printers Now!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-asus-rog-phone-8-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Asus ROG Phone 8 Phone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-oppo-reno-9a-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Oppo Reno 9A</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719170382520-nvidia-drivers-the-solution-to-your-computer-glitches/"><u>Nvidia Drivers: The Solution to Your Computer Glitches.</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-instructions-for-a-fresh-start-clearing-content-and-settings-on-your-iphone-15-device/"><u>Step-by-Step Instructions for a Fresh Start: Clearing Content and Settings on Your iPhone 15 Device</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-sony-xperia-5-v-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Sony Xperia 5 V without backup.</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719161640910-valuepixeldesign-monitor-budget-gamers-choice/"><u>ValuePixelDesign Monitor, Budget Gamers' Choice!</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/afe-sharing-safe-viewing-tips-for-hiding-online-images-for-2024/"><u>[New] Safe Sharing, Safe Viewing Tips for Hiding Online Images for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-experience-the-joy-sorrow-merge-with-these-ten-meme-ig-accounts/"><u>[Updated] Experience the Joy-Sorrow Merge with These Ten Meme IG Accounts</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-decoding-the-mystery-insider-knowledge-on-story-watchers/"><u>2024 Approved Decoding the Mystery Insider Knowledge on Story Watchers</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-experience-level-up-gameplay/"><u>Elevate Experience, Level Up Gameplay</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-unsuccessful-direct3d-start-up/"><u>Fixing Unsuccessful Direct3D Start-Up</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inside-the-legality-and-functioning-of-chatgpt-jailbreaking-techniques/"><u>Inside the Legality and Functioning of ChatGPT Jailbreaking Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/joining-forces-linking-your-xbox-one-controller/"><u>Joining Forces: Linking Your Xbox One Controller</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-say-goodbye-to-crashes-optimizing-final-cut-pro-x-performance/"><u>New 2024 Approved Say Goodbye to Crashes Optimizing Final Cut Pro X Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidia-transforming-mobile-gaming-with-latest-software/"><u>Nvidia: Transforming Mobile Gaming with Latest Software</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/saving-pennies-securing-peace-of-mind-the-complete-analysis-of-the-practical-procase-macbook-pro-n-caseto-budget-sleeve-review/"><u>Saving Pennies, Securing Peace of Mind: The Complete Analysis of the Practical ProCase MacBook Pro N-Caseto-Budget Sleeve Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/solving-steam-content-server-down-issue-in-windows/"><u>Solving Steam Content Server Down Issue in Windows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-hands-on-2024-anticipating-nintendo-switchs-evolution/"><u>The Hands-On 2024 - Anticipating Nintendo Switch's Evolution</u></a></li>
+<li><a href="https://games-able.techidaily.com/uninstall-firmware-changes-on-series-xs-controllers/"><u>Uninstall Firmware Changes on Series X/S Controllers</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrade-gameplay-quality-with-higher-windows-fps/"><u>Upgrade Gameplay Quality with Higher Windows FPS</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-smooth-is-better-a-case-for-console-players/"><u>Why Smooth Is Better: A Case for Console Players</u></a></li>
 </ul></div>
 

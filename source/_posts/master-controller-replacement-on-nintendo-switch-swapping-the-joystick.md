@@ -1,7 +1,7 @@
 ---
 title: "Master Controller Replacement on Nintendo Switch: Swapping the Joystick"
-date: 2024-09-24T02:43:15.600Z
-updated: 2024-09-26T20:04:28.982Z
+date: 2024-09-27T07:44:59.315Z
+updated: 2024-10-01T20:29:22.659Z
 tags:
   - games
 categories:
@@ -37,18 +37,18 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
 
  When all the above methods fail, learning how to replace your faulty joysticks yourself is the best option. It is worth noting, however, that doing so voids your warranty. But if your warranty has already run out, and you would rather fix your pair for around $10.00 rather than pay $79.99 for a new set, you don’t really have much to lose.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Do I Need to Replace the Joysticks in My Nintendo Switch Joy-Con?
 
  There are a couple of tools you will require to complete the task at hand. These can all be purchased individually or in sets from sites like eBay or Amazon for just a couple of dollars each.
 
 ![Tools For Replacing Joy Con Joystick](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/tools-for-replacing-joy-con-joystick.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * 1.5mm tri-wing screwdriver.
 * 2.0mm Phillips head screwdriver.
@@ -57,13 +57,6 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
 * A replacement joystick. These are universal, so don’t worry about having to locate a left or right one.
 
  It isn’t compulsory for the replacement, but you would also seriously benefit from using a small dish to keep all your loose screws.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Replace the Joysticks in Your Nintendo Switch Joy-Con
 
@@ -88,10 +81,10 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
 ![Joy Con Joystick Screws](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/joy-con-joystick-screws.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Start plugging the ribbon cables back in by taking your needle nose tweezers and gently slotting them back in place. Flick the tabs down over the top to lock them in position.
@@ -102,15 +95,22 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
 ![Joy Con Battery Plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/joy-con-battery-plug.jpg)
 5. Place the backplate on and screw the four screws back in using the 1.5mm tri-wing screwdriver.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Your Joy-Con should now be as good as new. The last step is to use the joystick calibration tool to make sure everything is working as it should. You can find the calibration tool in the Switch’s settings. Scroll down to**Controllers and Sensors** , press**Calibrate Control Sticks** , and follow the on-screen prompts to calibrate your joysticks.
 
 ![How to calibrate controller on Nintendo Switch Calibrate Control Sticks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/how-to-calibrate-controller-on-nintendo-switch-calibrate-control-sticks.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  As simple as replacing your joystick is, it's not ideal to have to repeat the process frequently. Make sure to regularly[clean your Nintendo Switch and Joy-Con](https://www.makeuseof.com/how-to-safely-clean-nintendo-switch-and-joy-cons/) to prevent dust buildup and increase the longevity of your joysticks.
@@ -136,17 +136,22 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-art-of-sharing-on-social-making-instagram-stories-explode/"><u>[New] In 2024, The Art of Sharing on Social Making Instagram Stories Explode</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-ultimate-gear-guide-for-streaming-sensations/"><u>[New] Ultimate Gear Guide for Streaming Sensations</u></a></li>
-<li><a href="https://games-able.techidaily.com/20-creative-messaging-match-ups-for-friendly-banter/"><u>20 Creative Messaging Match-Ups for Friendly Banter</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gopros-best-underwater-enhancement-filters/"><u>2024 Approved GoPro's Best Underwater Enhancement Filters</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-cutting-edge-8-innovative-open-source-video-meeting-systems/"><u>2024 Approved The Cutting Edge 8 Innovative Open Source Video Meeting Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/altering-steam-default-language/"><u>Altering Steam Default Language</u></a></li>
-<li><a href="https://games-able.techidaily.com/alternative-methods-for-steam-restart/"><u>Alternative Methods for Steam Restart</u></a></li>
-<li><a href="https://games-able.techidaily.com/apples-enhancement-for-gamers-through-macos-sonomas-game-mode/"><u>Apple’s Enhancement for Gamers Through macOS Sonoma's Game Mode</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-realme-11x-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Realme 11X 5G Devices | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-14-pro-max-prevention-and-solution-drfone-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone 14 Pro Max Prevention & Solution | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mov-mxf-movavi/"><u>MOV 形式到MXF：免費線上轉換器 - 運用 Movavi 解決方案</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/simplify-your-workflow-incorporating-luts-into-pscc-projects/"><u>Simplify Your Workflow Incorporating LUTs Into PSCC Projects</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-scan-the-market-identifying-the-top-9-free-mp3-grabbers-for-android/"><u>[New] In 2024, Scan the Market Identifying the Top 9 Free MP3 Grabbers for Android</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-engage-and-learn-students-choice-of-best-historical-youtubes/"><u>[Updated] In 2024, Engage & Learn Students' Choice of Best Historical YouTubes</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-transformation-tips-applying-japans-favorite-on-screen-effects-for-2024/"><u>[Updated] Transformation Tips Applying Japan's Favorite On-Screen Effects for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-uniting-visuals-a-pc-and-web-overlay-method/"><u>[Updated] Uniting Visuals A PC & Web Overlay Method</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-strategies-utilizing-chatgpt-for-multilingual-conversion/"><u>Effective Strategies: Utilizing ChatGPT for Multilingual Conversion</u></a></li>
+<li><a href="https://windows11.techidaily.com/enablingdisabling-text-emphasis-in-windows-11/"><u>Enabling/Disabling Text Emphasis in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/excellent-graphics-on-a-tight-budget/"><u>Excellent Graphics on a Tight Budget</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fix-not-found-d3dx9-dll-issue-quickly-tips-and-tricks/"><u>Fix 'Not Found' D3DX9 DLL Issue Quickly - Tips & Tricks</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-phone-memory-management-fixing-roblox-alerts-on-iphone/"><u>Mastering Phone Memory Management: Fixing Roblox Alerts on iPhone</u></a></li>
+<li><a href="https://games-able.techidaily.com/msi-raider-ge78-hx-13v-review-the-2500-beast-with-desktop-level-performance/"><u>MSI Raider GE78 HX 13V Review: The $2500 Beast With Desktop-Level Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-0x887a0006-dxgi-hanging-issue-windows-edition/"><u>Overcoming 0X887A0006 DXGI Hanging Issue, Windows Edition</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-xiaomi-redmi-12-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Xiaomi Redmi 12 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-supply-spike-implications-on-retail-price-points/"><u>PS5 Supply Spike: Implications on Retail Price Points</u></a></li>
+<li><a href="https://games-able.techidaily.com/revel-in-pimax-crystal-vr-brilliant-yet-imperfect-performance/"><u>Revel in Pimax Crystal VR: Brilliant, Yet Imperfect Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/selecting-your-ideal-gpu-founders-original-vs-asus-brand/"><u>Selecting Your Ideal GPU: Founders Original Vs. ASUS Brand</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-role-and-advantage-of-dual-mode-displays-in-gaming/"><u>The Role and Advantage of Dual-Mode Displays in Gaming</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/unveiling-the-best-for-screens-a-deep-dive-into-obs-studio-and-fraps/"><u>Unveiling the Best for Screens A Deep Dive Into OBS Studio & Fraps</u></a></li>
 </ul></div>
 

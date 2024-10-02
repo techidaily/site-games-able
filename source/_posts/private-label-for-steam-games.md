@@ -1,7 +1,7 @@
 ---
 title: Private Label for Steam Games
-date: 2024-09-17T19:54:43.645Z
-updated: 2024-09-20T19:58:13.959Z
+date: 2024-09-28T01:36:07.341Z
+updated: 2024-10-02T08:26:52.429Z
 tags:
   - games
 categories:
@@ -41,18 +41,18 @@ thumbnail: https://thmb.techidaily.com/a7dd9142f70f2e1fb0515e1b92c73345b73af0eeb
 
  But the new feature lets you mark specific titles while keeping the remainder of your library visible. For each private game, Steam hides your in-game status, playtime, and other activity.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Hide a Game on Steam With the Private Feature
 
  If you specifically want to keep friends from seeing a game in your library and prevent them from seeing when you're playing it, you should mark it as private.
 
 ![marking a game as private on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/marking-a-game-as-private-on-steam.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To do this, open Steam and head to your**Library.** Scroll down to the game you want to make private and right-click on it. Then select**Manage > Mark as Private** . In the popup box, select the**Mark as Private** button.
 
@@ -71,10 +71,17 @@ thumbnail: https://thmb.techidaily.com/a7dd9142f70f2e1fb0515e1b92c73345b73af0eeb
 ![set cart item to private on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/set-cart-item-to-private.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Checking a Game's Private Status
@@ -97,16 +104,16 @@ thumbnail: https://thmb.techidaily.com/a7dd9142f70f2e1fb0515e1b92c73345b73af0eeb
 
 ![find your hidden games on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/find-your-hidden-games-on-steam.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you don't remember the names of the games you've hidden in the past, you can select the**View** option at the top of the Steam app and then select**Hidden Games** . You can then go through each one to mark it as private.
 
 ![hidden games folder on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/hidden-games-folder-on-steam.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now that you know how to set games as private on Steam, as well as the differences between hidden games and private games, you can maintain more control over which of your games your friends can see on Steam.
 
@@ -123,5 +130,24 @@ thumbnail: https://thmb.techidaily.com/a7dd9142f70f2e1fb0515e1b92c73345b73af0eeb
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirror.techidaily.com/best-3-itel-p40plus-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Itel P40+ Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/excellent-choices-for-xbox-gameplay-capture/"><u>Excellent Choices for Xbox Gameplay Capture</u></a></li>
+<li><a href="https://games-able.techidaily.com/geforce-now-passes-aimed-at-serious-gamers/"><u>GeForce NOW Passes - Aimed at Serious Gamers?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-halo-4-ue4-fatal-error-and-stop-game-crashes-for-a-smooth-2024-experience/"><u>How to Resolve Halo 4 UE4 Fatal Error and Stop Game Crashes for a Smooth 2024 Experience</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-gionee-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Gionee Phone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-understanding-instagrams-tune-trademark-policies/"><u>In 2024, Understanding Instagram's Tune Trademark Policies</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-networking-in-nyc-without-relying-on-influence/"><u>Master Networking in NYC without Relying on Influence</u></a></li>
+<li><a href="https://games-able.techidaily.com/mistake-proofing-your-tech-correct-oled-monitor-buying/"><u>Mistake-Proofing Your Tech: Correct OLED Monitor Buying</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/overcoming-updating-glitches-in-the-original-minecraft-game-launcher/"><u>Overcoming Updating Glitches in the Original Minecraft Game Launcher</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/revisiting-old-photos-sending-them-as-snaps-on-snapchat-for-2024/"><u>Revisiting Old Photos Sending Them as Snaps on Snapchat for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/secure-audio-in-private-for-xbox-players/"><u>Secure Audio in Private for Xbox Players</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/stardom-awaits-navigate-through-these-9-instagram-insights/"><u>Stardom Awaits! Navigate Through These 9 Instagram Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-switching-your-systems-region/"><u>Step-by-Step: Switching Your System's Region</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-quietening-unwelcome-text-interruptions-for-iphone-users/"><u>The Ultimate Guide to Quietening Unwelcome Text Interruptions for iPhone Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-ultimate-performance-in-your-playstation-4/"><u>Unlocking Ultimate Performance in Your PlayStation 4</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-online-hideaways-tips-for-series-sx-users/"><u>Unveiling Online Hideaways: Tips for Series S/X Users</u></a></li>
+<li><a href="https://video-capture.techidaily.com/your-guide-to-affordable-cloud-collaboration-top-10-software-recommendations/"><u>Your Guide to Affordable Cloud Collaboration Top 10 Software Recommendations</u></a></li>
+</ul></div>
 

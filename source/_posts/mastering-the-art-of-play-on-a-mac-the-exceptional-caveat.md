@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Play on a Mac – The Exceptional Caveat
-date: 2024-09-23T01:44:19.212Z
-updated: 2024-09-27T01:11:57.694Z
+date: 2024-09-28T17:03:05.602Z
+updated: 2024-10-01T19:18:20.437Z
 tags:
   - games
 categories:
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/f14d93751e019bfea4a977ac2ac9bc564b77ea9b7
  While you can use the Epic Games Launcher to play Fortnite on your Mac natively, it has its fair share of downsides. We'll discuss all about it and teach you how to play the latest version of Fortnite on your Mac.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Get Fortnite on Your Mac
@@ -56,10 +56,10 @@ Follow these steps to get Fortnite on your Mac:
 ![Fortnite's Epic Store page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/fortnite-s-epic-store-page.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why Installing Fortnite on Your Mac Is a Bad Idea
@@ -74,13 +74,6 @@ Follow these steps to get Fortnite on your Mac:
 
  This, combined with its overly bloated size, makes the Fortnite experience on macOS very disappointing.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Play the Latest Version of Fortnite on Your Mac
 
  Thanks to[the Xbox Cloud Gaming service](https://www.makeuseof.com/what-is-xbox-cloud-gaming-how-does-it-work/) , you can still play the latest version of Fortnite on a Mac via your browser. It's typically a paid service that costs $16.99 per month, but you can access some free games like Fortnite without a subscription.
@@ -90,24 +83,26 @@ Follow these steps to get Fortnite on your Mac:
 1. Visit[Fortnite's Xbox Cloud Gaming page](https://www.xbox.com/en-US/play/games/fortnite/BT5P2X999VH2) using a browser (preferably Google Chrome).  
 ![Fortnite's Xbox Cloud Gaming page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-22-at-1-32-25-pm.png)
 2. Click**Sign In** and enter your Microsoft account credentials.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. After signing in, click**Play** ​​​​​​. You'll need a controller to play Fortnite.  
 ![Fortnite Xbox Cloud Gaming page with Play button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-22-at-1-35-35-pm.png)
 4. Link your Epic Games and Microsoft accounts by following the instructions in Fortnite.  
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Fortnite on browser asking to link accounts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-22-at-1-39-07-pm.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you're done with that, you should be ready to play Fortnite over the cloud. But ensure you have a fast and stable internet connection. Using a slow network means you'll have to log in again frequently.
 
@@ -132,19 +127,16 @@ Follow these steps to get Fortnite on your Mac:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-guide-to-procuring-and-utilizing-free-visual-frame-content/"><u>[New] In 2024, The Guide to Procuring and Utilizing Free Visual Frame Content</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-unlocking-the-art-of-photographic-posts-on-instagram/"><u>[New] Unlocking the Art of Photographic Posts on Instagram</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-cutting-edge-techniques-in-gif-animation/"><u>[Updated] In 2024, Cutting Edge Techniques in GIF Animation</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-perfecting-your-playlists-adapting-spotify-to-the-youtube-music-ecosystem/"><u>[Updated] Perfecting Your Playlists Adapting Spotify to the YouTube Music Ecosystem</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-navigating-fbs-automatic-video-sync-feature/"><u>2024 Approved Navigating FB's Automatic Video Sync Feature</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-the-years-finest-photo-framers-and-organizers-compilation/"><u>2024 Approved The Year's Finest Photo Framers & Organizers Compilation</u></a></li>
-<li><a href="https://games-able.techidaily.com/beyond-hype-is-nvidias-new-game-service-practical/"><u>Beyond Hype - Is Nvidia’s New Game Service Practical?</u></a></li>
-<li><a href="https://games-able.techidaily.com/beyond-the-plugin-new-ways-to-engage-with-flash-gaming/"><u>Beyond the Plugin: New Ways to Engage with Flash Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/beyond-tv-uncover-fallouts-video-games-worldwide/"><u>Beyond TV: Uncover Fallout's Video Games Worldwide</u></a></li>
-<li><a href="https://games-able.techidaily.com/bluetooth-harmony-with-ps5-gaming-setup/"><u>Bluetooth Harmony with PS5 Gaming Setup</u></a></li>
-<li><a href="https://games-able.techidaily.com/breakthrough-rog-allys-core-console-fixation/"><u>Breakthrough: RoG Ally's Core Console Fixation</u></a></li>
-<li><a href="https://games-able.techidaily.com/change-background-on-playstation-5-console/"><u>Change Background on PlayStation 5 Console</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-13-pro-max-drfone-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/ultimate-selection-of-ps1-games-now-on-your-computer-for-2024/"><u>Ultimate Selection of PS1 Games, Now on Your Computer for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/rafting-your-youtube-content-for-specific-crowds-for-2024/"><u>[New] Crafting Your YouTube Content for Specific Crowds for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-explore-the-best-ios-options-to-simulate-your-favorite-psp-classics/"><u>2024 Approved Explore the Best iOS Options to Simulate Your Favorite PSP Classics</u></a></li>
+<li><a href="https://games-able.techidaily.com/daily-workstations-vs-ultimate-game-machines/"><u>Daily Workstations Vs. Ultimate Game Machines</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-your-ps-experience-with-effective-shopping/"><u>Enhance Your PS Experience with Effective Shopping</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-the-benefits-of-xbox-game-pass-ultimate/"><u>Explore the Benefits of Xbox Game Pass Ultimate</u></a></li>
+<li><a href="https://games-able.techidaily.com/gpd-win-4-vs-traditional-computing-devices/"><u>GPD Win 4 vs Traditional Computing Devices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-comprehensively-guide-to-collecting-visual-backgrounds/"><u>In 2024, Comprehensively Guide to Collecting Visual Backgrounds</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-realme-v30-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Realme V30 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-compilation-of-premium-free-srt-translators/"><u>In 2024, The Ultimate Compilation of Premium Free SRT Translators</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-mouse-settings-in-windows-11-with-minimal-hassle/"><u>Mastering Mouse Settings in Windows 11 with Minimal Hassle</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-strategies-for-improving-game-performance-and-boosting-fps-on-your-pc/"><u>Top Strategies for Improving Game Performance and Boosting FPS on Your PC</u></a></li>
 </ul></div>
 

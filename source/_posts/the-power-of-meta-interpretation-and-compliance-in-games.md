@@ -1,7 +1,7 @@
 ---
 title: "The Power of 'Meta': Interpretation & Compliance in Games"
-date: 2024-09-19T20:43:15.987Z
-updated: 2024-09-26T21:32:42.606Z
+date: 2024-09-27T06:55:44.312Z
+updated: 2024-10-02T05:26:25.449Z
 tags:
   - games
 categories:
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/0e850e00d907836de022b6a5493d7e424fd91aaca
 * [Are Metas Good or Bad for Gaming?](#are-metas-good-or-bad-for-gaming)
 * [Should You Follow the Meta in Games?](#should-you-follow-the-meta-in-games)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Metas can help keep games fresh and introduce new play methods, benefiting from consistent updates and tweaks.
@@ -33,22 +40,22 @@ thumbnail: https://thmb.techidaily.com/0e850e00d907836de022b6a5493d7e424fd91aaca
 
  If you've ever played an online game, there's a good chance you've heard of the term "meta." Metas can make or break an online game, but it can be tricky to figure out what, exactly, a meta is. So, let's explore what a meta is and whether you should follow it.
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is a Meta in Gaming?
 
 ![A group of e-sports players in an arena.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/esport-arena1.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 OpenAI / MakeUseOf
 
@@ -70,13 +77,6 @@ OpenAI / MakeUseOf
 
 ![woman playing first person shooter on gaming pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/woman-playing-first-person-shooter-on-gaming-pc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  DC Studio/[Shutterstock](https://www.shutterstock.com/image-photo/over-shoulder-view-african-american-gamer-2177467491)
 
  You can't define metas as a strictly good or bad thing in gaming. It wholly depends on how the meta develops, and how the developers handle it after it arises.
@@ -95,13 +95,6 @@ OpenAI / MakeUseOf
 
  The end result is a meta that shifts every six months, which keeps Magic the Gathering from getting boring and allows players to find new combos and playstyles with the new cards. And while Magic the Gathering has had its fair share of oppressive metas, they have either been banned or drifted out of Standard. It's a great example of how a game can shed a bad meta, introduce a good one, and keep players happy and engaged.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How Metas Can Harm Games
 
  Metas are not always positive. If a meta is too "powerful," it will warp the game around it. In severe instances, players will be at an active disadvantage if they do not, or cannot follow what the meta dictates.
@@ -112,6 +105,19 @@ OpenAI / MakeUseOf
 
  Eventually, Dr. Boom got a nerf and the meta re-stabilised itself, but the card was forever deemed a meta-warper by Hearthstone players.
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Should You Follow the Meta in Games?
 
  Because metas aren't strictly good or bad, it's important to know whether or not you should follow them.
@@ -119,10 +125,10 @@ OpenAI / MakeUseOf
  Let's look at why you might want to follow along, why you might want to ignore the meta, and how to do so selectively.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Following the Game Meta Can Enhance Your Enjoyment
@@ -166,14 +172,16 @@ OpenAI / MakeUseOf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-the-ultimate-guide-to-visiting-friends-lives-on-tiktok/"><u>[New] 2024 Approved The Ultimate Guide to Visiting Friends' Lives on TikTok</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-deciphering-the-lack-of-contacts-and-snaps-on-snapchat/"><u>[Updated] 2024 Approved Deciphering the Lack of Contacts and Snaps on Snapchat</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-a15-4g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy A15 4G Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/keep-your-playstation-fresh-remove-reinstall-games/"><u>Keep Your PlayStation Fresh: Remove, Reinstall Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-the-art-of-fixing-roblox-error-code-403-on-windows-systems/"><u>Mastering the Art of Fixing Roblox Error Code 403 on Windows Systems</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/pchdfinal-fantasy-xiv/"><u>PCプレイ用フルHD解析度でFinal Fantasy XIVゲームスクリーン収録テクニック</u></a></li>
-<li><a href="https://games-able.techidaily.com/retro-controller-enhancing-classic-games/"><u>Retro Controller: Enhancing Classic Games</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-operating-your-meta-quest-audio-device/"><u>Step-by-Step Instructions: Operating Your Meta Quest Audio Device</u></a></li>
-<li><a href="https://games-able.techidaily.com/your-go-to-guide-for-top-8-game-news-and-reviews/"><u>Your Go-To Guide for Top 8 Game News & Reviews</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diagnosing-and-fixing-pc-based-crashes-in-red-dead-redemption-2-gameplay/"><u>Diagnosing and Fixing PC-Based Crashes in Red Dead Redemption 2 Gameplay</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/effortless-powerpoint-to-swf-conversion-download-free-tool-for-quick-and-simple-swf-creation/"><u>Effortless PowerPoint to SWF Conversion - Download Free Tool for Quick and Simple .swf Creation</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/elevate-your-content-mastery-in-live-streaming-screens-for-2024/"><u>Elevate Your Content Mastery in Live Streaming Screens for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/labor-day-special-offer-unlock-a-massive-33-discount-on-xbox-game-pass-and-fire-tv-stick-bundle-shop-now-before-prices-go-back-up-insights-from-zdnet/"><u>Labor Day Special Offer: Unlock a Massive 33% Discount on Xbox Game Pass & Fire TV Stick Bundle, Shop Now Before Prices Go Back Up | Insights From ZDNET.</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-smooth-play-cutting-edge-methods-to-fix-game-lags-on-computers/"><u>Mastering Smooth Play: Cutting-Edge Methods to Fix Game Lags on Computers</u></a></li>
+<li><a href="https://games-able.techidaily.com/snag-your-discounted-nintendo-switch-oled-from-walmart-save-60-for-the-labor-day-sale-zdnet/"><u>Snag Your Discounted Nintendo Switch OLED From Walmart - Save $60 for the Labor Day Sale! | ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/sony-releases-upgraded-playstation-5-pro-discover-the-top-features-price-info-release-schedule-and-everything-you-should-know-a-comprehensive-guide-by-zdnet95/"><u>Sony Releases Upgraded PlayStation 5 Pro: Discover the Top Features, Price Info, Release Schedule & Everything You Should Know - A Comprehensive Guide by ZDNET</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/stream-movies-and-tv-free-on-android-with-the-new-moviebox-app-download/"><u>Stream Movies & TV FREE on Android with the New MovieBox App Download</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-affordable-gaming-headsets-your-ultimate-guide-according-to-zdnet/"><u>Top Affordable Gaming Headsets: Your Ultimate Guide (According to ZDNet)</u></a></li>
+<li><a href="https://games-able.techidaily.com/transforming-sherlock-holmes-into-an-interactive-gaming-experience-with-chatgpt/"><u>Transforming Sherlock Holmes Into an Interactive Gaming Experience with ChatGPT</u></a></li>
 </ul></div>
 

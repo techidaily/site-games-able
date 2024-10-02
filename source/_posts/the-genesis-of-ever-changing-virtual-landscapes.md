@@ -1,7 +1,7 @@
 ---
 title: The Genesis of Ever-Changing Virtual Landscapes
-date: 2024-09-22T17:21:56.292Z
-updated: 2024-09-26T18:19:33.025Z
+date: 2024-10-01T12:25:45.524Z
+updated: 2024-10-02T04:07:06.895Z
 tags:
   - games
 categories:
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/bdb8177ec45e10fcd4ec5499f6e255ec00146feb5
  This means that even if you play the game repeatedly, the title will give you unique environments with every play-through. Furthermore, procedural generation isn't limited to creating a game's physical world. Developers also use it so their games will have unique dialogues, storylines, and even NPC decisions.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Does Procedural Generation Work?
@@ -50,22 +50,29 @@ thumbnail: https://thmb.techidaily.com/bdb8177ec45e10fcd4ec5499f6e255ec00146feb5
 
  With procedural generation, your seed ensures that you get your desired result with each run of your algorithm, while your variables give you unique results. If you pair your variable with a random number generator or RNG ([what is an RNG?](https://www.makeuseof.com/tag/lesson-gamers-rng/) ), you could potentially create an absurdly large or even infinite number of variations for your game.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which Games Use Procedural Generation?
 
  Many titles use procedural generation for their titles. In fact, this method of creating game worlds has been around since 1978, with its introduction in Beneath Apple Manor and Rogue in 1980.
 
  So, here are a few modern titles which use this method when creating a game session.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### No Man's Sky
 
 ![No Mans Sky trailer screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/no-mans-sky-trailer-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Image Credit: PlayStation/[YouTube](https://www.youtube.com/watch?v=nLtmEjqzg7M&t=1s&ab%5Fchannel=PlayStation)
 
@@ -73,16 +80,16 @@ thumbnail: https://thmb.techidaily.com/bdb8177ec45e10fcd4ec5499f6e255ec00146feb5
 
  Because of this technique, each planet has its own unique ecosystem—including plants, animals, climates, and even alien species you may engage in trade or combat. Despite this massive game world, the game is only 15GB.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Civilization VI
 
 ![Civilization VI trailer screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/civilization-vi-trailer-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Image Credit: Sid Meier's Civilization/[YouTube](https://www.youtube.com/watch?v=5KdE0p2joJw&ab%5Fchannel=SidMeier%27sCivilization)
 
@@ -97,13 +104,6 @@ thumbnail: https://thmb.techidaily.com/bdb8177ec45e10fcd4ec5499f6e255ec00146feb5
  Image Credit: Facepunch/[YouTube](https://www.youtube.com/watch?v=LGcECozNXEw&t=17s&ab%5Fchannel=Facepunch)
 
  Rust is one of[the best exploration and crafting games](https://www.makeuseof.com/best-exploration-and-crafting-games/) because of its massive and unique maps. These procedurally generated maps ensure that each map is unique, with natural and man-made features randomly placed in every iteration.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Play in Unique Game Worlds Created With Procedural Generation
 
@@ -124,17 +124,20 @@ thumbnail: https://thmb.techidaily.com/bdb8177ec45e10fcd4ec5499f6e255ec00146feb5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-rhythms-ally-finding-best-dj-content-online/"><u>[New] Rhythm's Ally Finding Best DJ Content Online</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-how-to-post-photos-and-videos-on-twitter-from-smartphones/"><u>[Updated] In 2024, How To Post Photos and Videos on Twitter From Smartphones</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-no-money-no-problem-heres-your-list-of-vfx-pages/"><u>[Updated] No Money, No Problem! Here's Your List of VFX Pages</u></a></li>
-<li><a href="https://games-able.techidaily.com/6-engaging-features-that-define-great-game-design/"><u>6 Engaging Features That Define Great Game Design</u></a></li>
-<li><a href="https://games-able.techidaily.com/advanced-data-transfers-ideal-cables-for-games/"><u>Advanced Data Transfers: Ideal Cables For Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/aligning-your-entertainment-budget-with-ps5-plans/"><u>Aligning Your Entertainment Budget with PS5 Plans</u></a></li>
-<li><a href="https://win-able.techidaily.com/banish-ps4-freezing-problems-with-these-easy-steps-to-repair-guide/"><u>Banish PS4 Freezing Problems with These Easy Steps to Repair Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/basilisk-v3-revolutionizes-pc-gaming-with-low-latency-and-high-speeds/"><u>Basilisk V3 Revolutionizes PC Gaming with Low Latency & High Speeds</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/enhanced-viewing-experience-apply-filters-on-videos/"><u>Enhanced Viewing Experience Apply Filters on Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/reflect-organize-and-proliferate-using-obsidian-canvas/"><u>Reflect, Organize, and Proliferate: Using Obsidian Canvas</u></a></li>
-<li><a href="https://program-issues.techidaily.com/smooth-sailing-in-the-wasteland-preventing-fallout-3-crashes-on-your-windows-11-pc/"><u>Smooth Sailing in the Wasteland: Preventing Fallout 3 Crashes on Your Windows 11 PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722998179693-troubleshooting-guide-origin-application-not-starting-on-windows-11-issue-resolved/"><u>Troubleshooting Guide: Origin Application Not Starting on Windows 11 - Issue Resolved</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-50-greatest-virtual-scenes-for-online-meetings-for-2024/"><u>[New] 50 Greatest Virtual Scenes for Online Meetings for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-tips-and-tricks-for-iphone-low-light-photography/"><u>[New] Tips and Tricks for iPhone Low Light Photography</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-appreciation-roundup-premiumfree-outro-templates/"><u>[Updated] 2024 Approved Appreciation Roundup Premium/Free Outro Templates</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-convenient-interaction-starting-a-skype-group-for-windowsmac-users/"><u>[Updated] In 2024, Convenient Interaction Starting a Skype Group for Windows/Mac Users</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-pinterest-videos-to-mp3s-essential-strategies/"><u>2024 Approved Mastering Pinterest Videos to MP3s Essential Strategies</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-xbox-series-xs-time-logs/"><u>Deciphering Xbox Series X/S Time Logs</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-intels-technology-for-high-fidelity-gaming/"><u>Discover Intel's Technology for High-Fidelity Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/dissecting-steam-data-playtime-progress-and-purchases-tracked/"><u>Dissecting Steam Data: Playtime, Progress & Purchases Tracked</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-tech-displays-at-ifa-event/"><u>Exclusive Tech Displays at IFA Event</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-itel-p55-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Itel P55 Through Google Earth?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-kid-friendly-drone-guide-for-first-flyers/"><u>In 2024, The Ultimate Kid-Friendly Drone Guide for First Flyers</u></a></li>
+<li><a href="https://games-able.techidaily.com/laptop-as-an-extended-screen-for-xbox-series-xs/"><u>Laptop as an Extended Screen for Xbox Series X|S</u></a></li>
+<li><a href="https://fox-that.techidaily.com/master-these-techniques-overcoming-common-sound-problems-in-airpods/"><u>Master These Techniques: Overcoming Common Sound Problems in AirPods</u></a></li>
+<li><a href="https://games-able.techidaily.com/no-more-steam-silent-on-startup/"><u>No More Steam: Silent On-Startup</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-are-gaming-iems-and-are-they-any-good/"><u>What Are Gaming IEMs and Are They Any Good?</u></a></li>
 </ul></div>
 

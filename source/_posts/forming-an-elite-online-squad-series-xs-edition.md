@@ -1,7 +1,7 @@
 ---
 title: "Forming an Elite Online Squad: Series X/S Edition"
-date: 2024-09-20T08:10:56.841Z
-updated: 2024-09-27T06:49:29.804Z
+date: 2024-09-30T07:44:51.639Z
+updated: 2024-10-02T09:57:31.138Z
 tags:
   - games
 categories:
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/1b4d426689bd18514a96cb95968cc5a755b1ea7a2
  If you want to[find online players for your Xbox Series X|S](https://www.makeuseof.com/how-to-find-online-players-on-xbox-series-xs/) , Clubs are a great place to look.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Do I Make a Club on My Xbox Series X|S?
@@ -49,14 +49,22 @@ thumbnail: https://thmb.techidaily.com/1b4d426689bd18514a96cb95968cc5a755b1ea7a2
 4. Select**Clubs on Xbox** and press**Create a Club** .  
 ![Clubs on Xbox Button in Community Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/clubs-on-xbox-button-in-community-menu.jpg)
 5. Select whether you want to make a**Public** ,**Private** , or**Hidden** group. Public means anyone can find, play, and see your club's content, but only members can chat. Private means anyone can see your club, but only members can engage with it, and hidden means that only members can see or engage with the club.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Club Types on Xbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/club-types-on-xbox.jpg)
 6. Now comes the hardest part—thinking of a name for your club. If you’re creating the club to find players to play a certain game, giving it a name that resonates with that game is a good start.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Select**Create club** once you’ve made your choices.
@@ -81,20 +89,13 @@ thumbnail: https://thmb.techidaily.com/1b4d426689bd18514a96cb95968cc5a755b1ea7a2
 6. Make your way to the**Ownership** section, and press**Delete club** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Your Club will now be deleted.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Share Your Love of Gaming With Others
 
@@ -117,24 +118,19 @@ Your Club will now be deleted.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-crafting-an-easy-to-use-youtube-subscription-tagline/"><u>[New] Crafting an Easy-to-Use YouTube Subscription Tagline</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-jotting-down-just-a-minute-movie/"><u>[New] Jotting Down Just a Minute Movie</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-the-ultimate-guide-for-audio-editors-using-garageband-for-2024/"><u>[Updated] The Ultimate Guide for Audio Editors Using GarageBand for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-finding-a-way-to-download-fcp-free-of-charge/"><u>2024 Approved Finding a Way to Download FCP Free-Of-Charge</u></a></li>
-<li><a href="https://games-able.techidaily.com/audiovisual-immersion-enhancing-your-sxx-experience/"><u>Audiovisual Immersion: Enhancing Your SXX Experience</u></a></li>
-<li><a href="https://win-forum.techidaily.com/comparing-giants-of-digital-engagement-facebook-twitter-instagram-and-youtube/"><u>Comparing Giants of Digital Engagement: Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://games-able.techidaily.com/evaluating-your-need-a-guide-against-ps5-now/"><u>Evaluating Your Need: A Guide Against PS5 Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/fast-track-to-freshly-installed-canon-mp560-driver-version/"><u>Fast Track to Freshly Installed Canon MP560 Driver Version</u></a></li>
-<li><a href="https://games-able.techidaily.com/fix-computer-issues-embrace-new-nvidia-drivers-today/"><u>Fix Computer Issues: Embrace New Nvidia Drivers Today.</u></a></li>
-<li><a href="https://games-able.techidaily.com/high-performance-usb-extenders-for-playstation-5/"><u>High-Performance USB Extenders for PlayStation 5</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-use-chatgpt-for-writing-difficult-emails-at-work/"><u>How to Use ChatGPT for Writing Difficult Emails at Work</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-steam-launchers-on-your-dev-console/"><u>Mastering Steam Launchers on Your Dev Console</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-realme-narzo-n55-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Realme Narzo N55</u></a></li>
-<li><a href="https://games-able.techidaily.com/procuring-your-favorite-twitch-footage-with-5-tools/"><u>Procuring Your Favorite Twitch Footage with #5 Tools</u></a></li>
-<li><a href="https://games-able.techidaily.com/recovering-from-online-rush-top-6-methods/"><u>Recovering From Online Rush: Top 6 Methods</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/smarter-mac-performance-unveil-stellars-tool/"><u>Smarter Mac Performance: Unveil Stellar’s Tool</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-value-choices-the-finest-1440p-displays-for-gamers-on-a-budget/"><u>Top Value Choices: The Finest 1440P Displays for Gamers on a Budget</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-cream-of-the-crop-5-top-reaction-video-creators/"><u>Updated In 2024, The Cream of the Crop 5 Top Reaction Video Creators</u></a></li>
-<li><a href="https://games-able.techidaily.com/upsides-and-downs-of-handheld-gaming/"><u>Upsides & Downs of Handheld Gaming</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-mastering-youtube-shorts-a-guide-to-music-videos/"><u>[New] 2024 Approved Mastering YouTube Shorts A Guide to Music Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-screen-saving-android-titles-a-curated-list-of-indoor-games/"><u>[New] Screen-Saving Android Titles A Curated List of Indoor Games</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-virtual-venue-vetting-picking-obs-or-twitch/"><u>[Updated] In 2024, Virtual Venue Vetting Picking OBS or Twitch</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-guide-to-turn-off-recommended-content-on-instagram/"><u>A Comprehensive Guide to Turn Off Recommended Content on Instagram</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicate-unseen-sims-screen/"><u>Eradicate Unseen Sims Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/experience-fluidity-like-never-before-with-nvidia-g-sync/"><u>Experience Fluidity Like Never Before with Nvidia G-Sync</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-11-pro-properly-drfone-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone 11 Pro Properly | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/linux-terminal-rom-hacking-for-game-boy-titles/"><u>Linux Terminal ROM Hacking for Game Boy Titles</u></a></li>
+<li><a href="https://win-web.techidaily.com/navigating-the-rules-a-detailed-look-at-mirillis-legal-framework-for-user-engagement/"><u>Navigating the Rules: A Detailed Look at Mirillis' Legal Framework for User Engagement</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/protect-your-game-experience-developer-rolls-out-crash-alert-for-intels-latest-processors-follow-these-steps-to-prevent-downtime/"><u>Protect Your Game Experience: Developer Rolls Out Crash Alert for Intel's Latest Processors - Follow These Steps to Prevent Downtime</u></a></li>
+<li><a href="https://games-able.techidaily.com/quiet-your-console-and-controller-effortlessly/"><u>Quiet Your Console & Controller Effortlessly</u></a></li>
+<li><a href="https://games-able.techidaily.com/resuscitation-guide-for-ailing-xbox-controllers-on-pcs/"><u>Resuscitation Guide for Ailing Xbox Controllers on PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/tackling-windows-11-steam-errors-effectively/"><u>Tackling Windows 11 Steam Errors Effectively</u></a></li>
+<li><a href="https://games-able.techidaily.com/value-for-gamers-budget-friendly-keyboards-roundup/"><u>Value for Gamers: Budget-Friendly Keyboards Roundup</u></a></li>
 </ul></div>
 

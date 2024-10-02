@@ -1,7 +1,7 @@
 ---
 title: How to Uninstall and Redownload PS5 Games
-date: 2024-09-18T22:49:22.407Z
-updated: 2024-09-20T17:12:22.256Z
+date: 2024-09-28T02:33:48.873Z
+updated: 2024-10-01T20:24:33.543Z
 tags:
   - games
 categories:
@@ -37,9 +37,23 @@ thumbnail: https://thmb.techidaily.com/728afd7e20b349094de30222af4ebc05eabd7a8ee
 
 ![delete game from home screen menu PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/delete-game-from-home-screen-menu-ps5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Only the most recently played games appear on your home screen. If the game isn’t on your home screen anymore, scroll to the right and open your**Game Library** . Make sure you’re on the**Installed** tab, find your game, press the options button on your controller, and select**Delete** .
 
 ![Delete Game from Game Library PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/delete-game-from-game-library-ps5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’re having trouble finding the exact game you’re looking for, you can also scroll to the right and select the icon with a downward arrow to utilize the**Sort by** filters. You can sort your games by alphabetical order, from oldest to newest, or even by size to help you find what you’re looking for.
 
@@ -55,13 +69,20 @@ thumbnail: https://thmb.techidaily.com/728afd7e20b349094de30222af4ebc05eabd7a8ee
 
 ![Redownload Game PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/redownload-game-ps5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can check the progress of your download by heading to your**Downloads/Uploads** section. There you can see it downloading in real time, and view an approximate time frame for your download.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Don’t Let Limited Space Prevent You From Playing New PS5 Games
@@ -83,5 +104,18 @@ thumbnail: https://thmb.techidaily.com/728afd7e20b349094de30222af4ebc05eabd7a8ee
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-15-plus-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 15 Plus Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-honor-magic-v2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-tips-for-resolving-display-driver-failure-in-windows/"><u>Essential Tips for Resolving Display Driver Failure in Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/excellent-office-mats-and-their-benefits/"><u>Excellent Office Mats and Their Benefits</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/from-footage-to-frames-screen-and-webcam-capturing-with-vimeo/"><u>From Footage to Frames Screen & Webcam Capturing with Vimeo</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-setup-a-google-account-a-detailed-walkthrough/"><u>How to Easily Setup a Google Account: A Detailed Walkthrough</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-the-experience-with-am08-pro-a-true-representation-of-magic/"><u>Is the Experience with AM08 Pro a True Representation of Magic?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revamp-your-pc-experience-change-the-color-of-your-windows-11-taskbar/"><u>Revamp Your PC Experience: Change the Color of Your Windows 11 Taskbar</u></a></li>
+<li><a href="https://games-able.techidaily.com/series-x-disc-woes-find-the-eject-fix-now/"><u>Series X Disc Woes, Find the Eject Fix Now!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/spotifys-television-app-overhaul-say-goodbye-to-clutter-and-chaos/"><u>Spotify's Television App Overhaul: Say Goodbye to Clutter and Chaos!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tips-and-tricks-eliminating-flickering-on-acer-devices/"><u>Tips & Tricks: Eliminating Flickering on Acer Devices</u></a></li>
+</ul></div>
 

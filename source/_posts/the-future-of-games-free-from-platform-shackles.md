@@ -1,7 +1,7 @@
 ---
 title: "The Future of Games: Free From Platform Shackles"
-date: 2024-09-24T19:47:34.945Z
-updated: 2024-09-26T20:01:46.790Z
+date: 2024-09-29T04:06:51.650Z
+updated: 2024-10-01T19:42:55.989Z
 tags:
   - games
 categories:
@@ -27,10 +27,10 @@ thumbnail: https://thmb.techidaily.com/70f241d066e5ba09e0220593e00f2a957d64d581f
 * [Why I'm Glad Platform Exclusives Are No More](#why-i-39-m-glad-platform-exclusives-are-no-more)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -48,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/70f241d066e5ba09e0220593e00f2a957d64d581f
  Console exclusives started in the 1980s, with Atari securing exclusive home console rights to popular arcade games such as Space Invaders and Pac-Man. At this point, the idea was to persuade regular arcade-goers to buy a home console in order to play their favorite titles from the comfort of their sofa and without having to feed a machine with endless quarters. Ironically, you can now buy[arcade machines designed for your home](https://www.makeuseof.com/best-home-arcade-machines/) .
 
 ![Joysticks on an old arcade cabinet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/shutterstock_1089499448.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Giuseppe Cammino/[Shutterstock](https://www.shutterstock.com/image-photo/joystick-vintage-arcade-videogame-coinop-1089499448)
 
@@ -78,9 +71,23 @@ thumbnail: https://thmb.techidaily.com/70f241d066e5ba09e0220593e00f2a957d64d581f
 
  The same is true for Nintendo, which has released games featuring some of its biggest characters (Mario, Pokemon) on smartphones. The company hasn't yet released a Mario game on a rival console, but that doesn't mean it never will.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why Platform Exclusives Are Going Away
 
 ![horizon forbidden west page on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/horizon-forbidden-west-page-on-steam.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  So, why are platform exclusives coming to an end? The obvious answer is that they're no longer the best option available to the companies responsible. The benefits of opening titles up to everyone, regardless of platform, massively outweigh the benefits of keeping titles exclusive to one console. As outlined above, Phil Spencer, someone who should know, said as much.
 
@@ -95,10 +102,16 @@ thumbnail: https://thmb.techidaily.com/70f241d066e5ba09e0220593e00f2a957d64d581f
  This is especially true for Microsoft, as Game Pass Ultimate includes[Xbox Cloud Gaming](https://www.makeuseof.com/what-is-xbox-cloud-gaming-how-does-it-work/) . While currently in beta, this lets subscribers play Xbox games on a range of devices beyond Xbox consoles. This includes phones, tablets, PCs, smart TVs, and VR headsets.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why I'm Glad Platform Exclusives Are No More
@@ -106,13 +119,6 @@ thumbnail: https://thmb.techidaily.com/70f241d066e5ba09e0220593e00f2a957d64d581f
  While gamers have all gotten used to platform exclusivity as a kind of default, that doesn't mean all of us were happy about it. I have owned at least one console in each generation, but couldn't afford to buy the other consoles released in that generation. And that meant missing out on certain games that were only available on specific platforms.
 
 ![The PlayStation icons picked out in neon lights](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/playstation-logos-in-neon.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  mkfilm/[Shutterstock](https://www.shutterstock.com/image-illustration/geometry-neon-lights-room-modern-blue-1933780073)
 
@@ -135,14 +141,24 @@ thumbnail: https://thmb.techidaily.com/70f241d066e5ba09e0220593e00f2a957d64d581f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-rofl-roundup-10-best-apps-for-meme-creation/"><u>[Updated] ROFL Roundup 10 Best Apps for Meme Creation</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-night-photography-perfection-with-iphones/"><u>2024 Approved Night Photography Perfection with iPhones</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pixel-perfection-your-path-to-exceptional-edits/"><u>2024 Approved Pixel Perfection Your Path to Exceptional Edits</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/enjoy-endless-entertainment-connecting-and-watching-hulu-on-an-lg-smart-tv/"><u>Enjoy Endless Entertainment: Connecting and Watching Hulu on an LG Smart TV</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/eye-catching-typography-top-5-font-tools-to-propel-your-tiktok-growth-for-2024/"><u>Eye-Catching Typography Top 5 Font Tools to Propel Your TikTok Growth for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/living-the-fantasy-or-financially-frugal/"><u>Living the Fantasy or Financially Frugal?</u></a></li>
-<li><a href="https://games-able.techidaily.com/terminal-techniques-for-gaming-on-outdated-systems/"><u>Terminal Techniques for Gaming on Outdated Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-best-mobile-games-with-controller-support/"><u>The Best Mobile Games With Controller Support</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-google-play-pass-is-great-yet-it-isnt-flawless/"><u>Why Google Play Pass Is Great, Yet It Isn't Flawless</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-artistic-advancements-top-smartphone-innovations/"><u>[New] Artistic Advancements Top Smartphone Innovations</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-capturing-screenshots-like-a-pro-the-best-recorder-reviews/"><u>[New] Capturing Screenshots Like a Pro The Best Recorder Reviews</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-direct-engagement-broadcast-from-twitch-to-facebook-friends-for-2024/"><u>[New] Direct Engagement Broadcast From Twitch to Facebook Friends for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-immersive-chronicles-a-brief-history/"><u>2024 Approved The Immersive Chronicles A Brief History</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/comparing-recording-quality-the-pros-and-cons-of-30fps-and-60fps/"><u>Comparing Recording Quality The Pros & Cons of 30Fps and 60Fps</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-the-top-gaming-displays-at-144hz/"><u>Discovering the Top Gaming Displays at 144Hz</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-resilience-unveiling-its-longevity-strategy/"><u>Facebook's Resilience: Unveiling Its Longevity Strategy</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-hardware-breakthroughs-set-to-unveil-at-ifa-2023/"><u>Game Hardware Breakthroughs Set to Unveil at IFA 2023</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-6s-plus-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone 6s Plus Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/lightweight-travel-bags-with-camera-integration-for-2024/"><u>Lightweight Travel Bags with Camera Integration for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/maintaining-gaming-enthusiasm-a-6-step-plan/"><u>Maintaining Gaming Enthusiasm: A 6-Step Plan</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-maintaining-steam-bp-mode/"><u>Mastering the Art of Maintaining Steam BP Mode</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/prime-creators-of-screenplay-world/"><u>Prime Creators of Screenplay World</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-guide-connecting-switch-to-internet/"><u>Quick Guide: Connecting Switch to Internet</u></a></li>
+<li><a href="https://games-able.techidaily.com/quickening-data-exchange-diminishing-pings-and-delay-duration/"><u>Quickening Data Exchange: Diminishing Pings and Delay Duration</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-into-the-world-of-gamers-with-these-top-8-outlets/"><u>Step Into the World of Gamers with These Top 8 Outlets</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-seated-partnerships-in-co-op-games-xbox-series-sx/"><u>Top Seated Partnerships in Co-Op Games - Xbox Series S/X</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-nycs-elite-connections-a-guide-to-winning-every-day/"><u>Unlocking NYC's Elite Connections: A Guide to Winning Every Day</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/be-shorts-mastery-tackling-common-issues-for-2024/"><u>YouTube Shorts Mastery Tackling Common Issues for 2024</u></a></li>
 </ul></div>
 
