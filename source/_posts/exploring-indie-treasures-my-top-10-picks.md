@@ -1,7 +1,7 @@
 ---
 title: "Exploring Indie Treasures: My Top 10 Picks"
-date: 2024-09-28T01:40:34.189Z
-updated: 2024-10-01T20:03:03.623Z
+date: 2024-10-03T17:24:04.284Z
+updated: 2024-10-07T17:10:38.365Z
 tags:
   - games
 categories:
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/b0ea6d61080761dc873cfd8c694bea1246e45e087
 
  If you’re not a fan of AAA titles, it can be really hard to find the stuff you do like. Fortunately, there are plenty of tools to root out fascinating indie titles; here are a few of my favorites and how I discovered them.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1 Last Word
 
 [Last Word](https://store.steampowered.com/app/355530/Last%5FWord/) is an RPG where you do battle not with swords or staves, but with the power of words. You’ve been summoned to a mysterious mansion alongside a cadre of colorful characters (not unlike Clue), where you must investigate matters of international intrigue.
@@ -37,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/b0ea6d61080761dc873cfd8c694bea1246e45e087
 
  I first discovered this game thanks to writer[Colin Spacetwinks](https://twitter.com/spacetwinks) , who does regular roundups of recommended games whenever there’s[a sale or deals on Steam](https://www.makeuseof.com/tag/5-ways-to-make-sure-you-get-the-best-deals-on-steam-games/) . If there’s a games writer you particularly like, it’s always worth giving them a follow on social media, as they’re likely to recommend games and other media of interest.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2 Untitled Goose Game
 
  It’s always worth watching various new games roundups like the Summer Games Fest or[Wholesome Games on YouTube](https://www.youtube.com/c/WholesomeGames) because, even if you’re not into everything shown, it’s always good to know what other people will be playing, and you might even discover a few new favorites for yourself.[Untitled Goose Game](https://goose.game/) is one of those titles, with a trailer that became so popular that developer House House Games ultimately ended up keeping the provisional title.
@@ -51,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/b0ea6d61080761dc873cfd8c694bea1246e45e087
  If you’re not familiar with this game, it’s pretty simple: you are a goose and your job is to cause trouble. Specifically, the game gives you a list of tasks to perform throughout a small, quaint English village, tasks that, in many cases, are annoying and sometimes even mean to the inhabitants of said village.
 
  It’s a fairly accessible title for kids and those who don’t play video games a lot—and perfect for anyone who likes to embrace their inner chaos goblin.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3 A Short Hike
 
@@ -64,23 +71,9 @@ thumbnail: https://thmb.techidaily.com/b0ea6d61080761dc873cfd8c694bea1246e45e087
 
  To do so you’ll need to collect feathers that make it possible to fly just a little bit higher each time, and to collect these you’ll explore a park’s various nooks and crannies and meet various other hikers and other park visitors. It’s a sweet reminder of family vacations past, with gameplay that is easy to understand but challenging to fully master (I still haven’t found all the feathers).
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4 Storyteller
 
 ![Video game screenshot of a six-panel comic strip showing a woman being bitten by a vampire and a man kills the vampire, curing the woman](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/storyteller-vampire-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Daniel Benmergui / Annapurna Interactive](https://annapurnainteractive.com/en/games/storyteller)
 
@@ -93,15 +86,22 @@ thumbnail: https://thmb.techidaily.com/b0ea6d61080761dc873cfd8c694bea1246e45e087
  Storyteller is also now available on mobile as one of[Netflix's games](https://www.makeuseof.com/how-to-play-games-on-netflix/) .
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5 VA-11 Hall-A: Cyberpunk Bartender Action
 
 ![Video game screenshot of a woman with teal hair saying, "It makes me feel comfy and nostalgic."](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/valhalla-bartending-screenshot.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Sukeban Games / Ysbryd Games](https://waifubartending.com/)
 
@@ -128,21 +128,15 @@ thumbnail: https://thmb.techidaily.com/b0ea6d61080761dc873cfd8c694bea1246e45e087
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/0-best-intro-maker-apps-for-iphone-and-android-for-2024/"><u>[New] 10 Best Intro Maker Apps for iPhone and Android for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-a-compreenasion-of-siri-integration-into-tiktok-filmmaking/"><u>[New] A Compreenasion of Siri Integration Into TikTok Filmmaking</u></a></li>
-<li><a href="https://games-able.techidaily.com/behind-the-screen-watch-movies-on-ps5/"><u>Behind the Screen: Watch Movies on PS5</u></a></li>
-<li><a href="https://program-issues.techidaily.com/boosting-your-gaming-experience-eliminating-fps-dips-on-rainbow-six-extraction/"><u>Boosting Your Gaming Experience: Eliminating FPS Dips on Rainbow Six Extraction</u></a></li>
-<li><a href="https://games-able.techidaily.com/comprehensive-guide-tackling-the-top-4-gpu-challenges/"><u>Comprehensive Guide: Tackling the Top 4 GPU Challenges</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722966149373-get-your-latest-amd-radeon-professional-w5700-drivers-for-windows-versions-update-now/"><u>Get Your Latest AMD Radeon Professional W5700 Drivers for Windows Versions - Update Now</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-vivo-v30-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Vivo V30 Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/immediate-window-image-on-pc-win/"><u>Immediate Window Image on PC (Win)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-enable-or-disable-pip-in-youtube-for-mobile-phones/"><u>In 2024, How to Enable or Disable PIP in YouTube for Mobile Phones</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/maximizing-listener-impact-on-day-of-launch/"><u>Maximizing Listener Impact on Day of Launch</u></a></li>
-<li><a href="https://games-able.techidaily.com/premier-designated-floor-covers-s-offices/"><u>Premier Designated Floor Covers 'S Offices</u></a></li>
-<li><a href="https://games-able.techidaily.com/resolving-steams-order-delays-effectively/"><u>Resolving Steam's Order Delays Effectively</u></a></li>
-<li><a href="https://games-able.techidaily.com/revealing-system-vram-quantity/"><u>Revealing System VRAM Quantity</u></a></li>
-<li><a href="https://games-able.techidaily.com/sharpening-gaming-experience-via-smart-models/"><u>Sharpening Gaming Experience via Smart Models</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-end-of-fortnites-initial-failures/"><u>The End of Fortnite's Initial Failures</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-controller-wizardry-for-gamers-at-home/"><u>Xbox Controller Wizardry for Gamers at Home</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-novices-guide-to-hassle-free-nft-generation/"><u>[New] Novice's Guide to Hassle-Free NFT Generation</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-engaging-virtual-experiences-to-fortify-design-expertise/"><u>7 Engaging Virtual Experiences to Fortify Design Expertise</u></a></li>
+<li><a href="https://games-able.techidaily.com/analyzing-subtleties-steam-vs-gog-service-providers/"><u>Analyzing Subtleties: Steam vs GOG Service Providers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/asus-bw-16d1c-u-blu-ray-drive-insight-a-combination-of-style-and-quirkiness-explored/"><u>Asus BW-16D1C-U Blu-Ray Drive Insight: A Combination of Style and Quirkiness Explored</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-ddr5-memory-picks-for-gamers-24/"><u>Best DDR5 Memory Picks for Gamers - '24</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-compress-videos-for-easy-sharing-on-whats-app-pc-online-or-mobile-guide/"><u>How to Compress Videos for Easy Sharing on What's App: PC, Online or Mobile Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-oppo-a38-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-top-10-ai-powered-name-generators-for-podcasts-online/"><u>In 2024, Top 10 AI-Powered Name Generators for Podcasts Online</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-issues-troubleshoot-setup-errors-in-your-origin-games/"><u>Resolving Issues: Troubleshoot Setup Errors in Your Origin Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719165441330-unlock-nintendo-legends-on-your-ios-with-4-best-emulators/"><u>Unlock Nintendo Legends on Your iOS with 4 Best Emulators</u></a></li>
 </ul></div>
 

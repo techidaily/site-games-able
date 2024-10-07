@@ -1,7 +1,7 @@
 ---
 title: "How to Fix PS5 Wi-Fi Issues: A Troubleshooting Guide"
-date: 2024-09-27T08:19:30.454Z
-updated: 2024-10-01T18:47:16.043Z
+date: 2024-10-05T17:42:58.055Z
+updated: 2024-10-07T19:12:44.714Z
 tags:
   - games
 categories:
@@ -32,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/66485902527c2f60d68ff1756c39d95b2b9ff2d6a
 
  If you connect your PS5 to your network via Wi-Fi, we'll show you what to do if you suddenly can't get online or suffer from poor network performance. While we focus on Wi-Fi here, many of these tips will also help you fix internet issues if you're using Ethernet to connect.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1 Check Other Devices
 
  When your PS5 starts having network issues, you should first check other computers, phones, and consoles on your home network. If your internet issue affects everything, follow our[guide to diagnosing home internet problems](https://www.makeuseof.com/tag/7-simple-steps-diagnose-network-problem/) . The steps in that walkthrough should patch up all your problems, including your PS5's Wi-Fi issues. Home-wide internet problems aren't rooted in your PlayStation.
@@ -52,13 +45,6 @@ thumbnail: https://thmb.techidaily.com/66485902527c2f60d68ff1756c39d95b2b9ff2d6a
  First, you should fully restart your PS5\. To do this, tap the**PlayStation button** on your controller to open the quick menu at the bottom of the screen. Scroll to the far right, select**Power** , and choose**Restart PS5** . This will fully shut down your PS5, then turn it back on.
 
 ![PS5 Power Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/PS5-Power-Menu.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Alternatively, you can use the physical power button on the front of your PS5 to shut it down:
 
@@ -88,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/66485902527c2f60d68ff1756c39d95b2b9ff2d6a
 
 ![Enter Wi-Fi Password PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/02-Enter-Wi-Fi-Password-PS5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After connecting, if you'd like to change other parameters for the connection, press the**Options** button with your Wi-Fi connection highlighted under**Registered networks** and choose**Advanced Settings** . Most of these aren't relevant, but as an additional troubleshooting step, you can try[using an alternative DNS server for your PS5](https://www.makeuseof.com/how-to-change-ps5-dns-settings/) under**DNS Settings** .
 
 ## 4 Run the PlayStation 5's Network Test
@@ -99,10 +92,10 @@ thumbnail: https://thmb.techidaily.com/66485902527c2f60d68ff1756c39d95b2b9ff2d6a
 ![PS5 Network Connection Home](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/03-PS5-Network-Connection-Home.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Here's what the steps in this test mean:
@@ -121,10 +114,10 @@ Here's what the steps in this test mean:
  After you do the network test, you might also want to walk through the PS5 connection wizard on[Sony's PlayStation Repairs page](https://repairs.playstation.com/) . Select your console and problem from the initial screen, then it will walk you through some troubleshooting steps to hopefully resolve it. Most of these are the same tips we mention here, but trying Sony's tool might help you catch something you overlooked.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5 Move Your PlayStation Closer to Your Router
@@ -132,13 +125,6 @@ Here's what the steps in this test mean:
  Wireless technologies like Wi-Fi are susceptible to interference and only cover a certain distance before their signal degrades. To check how solid your PS5's Wi-Fi connection to your router is, go to **Settings > Network > Connection Status > View Connection Status** and find the**Signal strength** field. If it's below 80% or so, you should take steps to improve this strength.
 
 ![PS5 Connection Strength](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/05-PS5-Connection-Strength.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If possible, move your PS5 physically closer to your router. Avoid having either device near common sources of interference, like microwaves or baby monitors. And remember that thick surfaces like concrete heavily impede wireless signals.
 
@@ -153,10 +139,16 @@ Here's what the steps in this test mean:
  And remember that even with a strong internet plan, lousy network equipment will act as a bottleneck. You might need to[consider buying a new router](https://www.makeuseof.com/how-long-does-a-router-last/) and/or modem. If it's been years since you've upgraded to one that supports modern standards, you'd be surprised how much this can help with speed and reliability.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7 Check PSN and Your ISP for Outages
@@ -171,11 +163,25 @@ Here's what the steps in this test mean:
 
  In case of issues on someone else's end, there's not much you can do aside from waiting for Sony or your ISP to fix the problem.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8 Connect With an Ethernet Cable
 
  We've focused on fixes for PS5 Wi-Fi problems here, but it's worth mentioning that you can resolve the hassles of wireless connections by using an Ethernet cable instead. With a wired connection for your PS5, you'll enjoy faster speeds and a more reliable connection.
 
 ![Unplug PS5 Cables](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/01-Unplug-PS5-Cables.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Ben Stegner/MakeUseOf
 
@@ -202,19 +208,21 @@ Here's what the steps in this test mean:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-chart-your-course-to-youtube-riches-the-essential-500-threshold-for-2024/"><u>[New] Chart Your Course to Youtube Riches The Essential 500 Threshold for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-a-comprehensive-dive-into-creating-inspiring-slow-mo-videos-on-ig/"><u>[New] In 2024, A Comprehensive Dive Into Creating Inspiring Slow Mo Videos on IG</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-seamless-image-files-management-on-ios-jpegpng-to-pdf-for-2024/"><u>[Updated] Seamless Image Files Management on IOS JPEG/PNG to PDF for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-the-secrets-to-polished-photo-edits-in-canva/"><u>[Updated] The Secrets to Polished Photo Edits in Canva</u></a></li>
-<li><a href="https://games-able.techidaily.com/5-reasons-to-pay-for-mobile-games-rather-than-play-for-free/"><u>5 Reasons to Pay for Mobile Games Rather Than Play for Free</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-your-gaming-experience-with-key-monitor-specs/"><u>Elevate Your Gaming Experience with Key Monitor Specs</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-portable-to-powerhouse-installing-windows-on-steam-deck/"><u>From Portable to Powerhouse: Installing Windows on Steam Deck</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/improve-your-iphones-audio-for-phone-conversations-with-these-tips/"><u>Improve Your iPhone's Audio for Phone Conversations with These Tips</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-full-breakdown-razers-hd-webcam-experience/"><u>In 2024, Full Breakdown Razer's HD Webcam Experience</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-through-error-403-on-roblox-tips-and-tricks-for-windows/"><u>Navigating Through Error 403 on Roblox: Tips and Tricks for Windows</u></a></li>
-<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-sony-xperia-5-v-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Sony Xperia 5 V</u></a></li>
-<li><a href="https://games-able.techidaily.com/save-money-upgrade-games-240hz-displays-specials/"><u>Save Money, Upgrade Games: 240Hz Displays Specials</u></a></li>
-<li><a href="https://games-able.techidaily.com/shining-up-your-guide-to-cleaner-gaming-tech/"><u>Shining Up: Your Guide to Cleaner Gaming Tech</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-z-fold-5-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-capturing-the-spectrum-a-broad-overview-of-recorders-for-2024/"><u>[New] Capturing the Spectrum A Broad Overview of Recorders for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-unattached-audio-puzzle-resolution-guide/"><u>[New] In 2024, Unattached Audio Puzzle Resolution Guide</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-pushing-boundaries-with-hps-next-gen-4k-display-envy-27-for-2024/"><u>[New] Pushing Boundaries with HP's Next Gen 4K Display, Envy 27 for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-visualvision-studio-for-win8/"><u>[Updated] 2024 Approved VisualVision Studio for Win8</u></a></li>
+<li><a href="https://games-able.techidaily.com/11-must-try-free-word-game-apps-for-both-sides/"><u>11 Must-Try Free Word Game Apps for Both Sides</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-expert-strategies-for-choosing-effective-podcast-names-plus-inspirations/"><u>2024 Approved Expert Strategies for Choosing Effective Podcast Names, Plus Inspirations</u></a></li>
+<li><a href="https://games-able.techidaily.com/6-subtle-steps-to-cut-costs-using-xbox/"><u>6 Subtle Steps to Cut Costs Using Xbox</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-new-era-of-gaming-ps5-or-xbox-series-x/"><u>A New Era of Gaming: PS5 or Xbox Series X?</u></a></li>
+<li><a href="https://games-able.techidaily.com/algorithmic-realities-in-the-world-of-gaming/"><u>Algorithmic Realities in the World of Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719168571839-champion-mousepads-reviewed/"><u>Champion Mousepads Reviewed!</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719164851824-champions-blueprint-managing-soccer-legends-at-no-cost/"><u>Champion's Blueprint: Managing Soccer Legends at No Cost</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functioning-airpod-mic-while-using-windows-10/"><u>How to Fix a Non-Functioning AirPod Mic While Using Windows 10</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-oppo-reno-11f-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-samsung-galaxy-a54-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Samsung Galaxy A54 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719157494661-score-big-on-ps-games-during-summer-clearance/"><u>Score Big on PS Games During Summer Clearance!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-future-is-now-an-overview-of-huawei-p10s-features/"><u>The Future Is Now An Overview of Huawei P10's Features</u></a></li>
 </ul></div>
 

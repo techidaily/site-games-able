@@ -1,7 +1,7 @@
 ---
 title: Enabling/Disabling Discord's In-Game Modality
-date: 2024-09-25T21:02:50.024Z
-updated: 2024-10-01T23:46:34.479Z
+date: 2024-09-30T17:09:41.784Z
+updated: 2024-10-07T16:09:41.637Z
 tags:
   - games
 categories:
@@ -52,6 +52,13 @@ Here's how:
 5. Select the game you want to add from the list and hit**Add Game** .  
 ![Manually Add Roblox in Discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/manually-add-roblox-in-discord.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use the Discord Overlay During Gaming
 
  Once you have enabled the overlay, you'll get a notification for every incoming text or call, even when playing the game in full screen.
@@ -61,13 +68,20 @@ Here's how:
 ![Using Discord Overlay When Running VRChat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/using-discord-overlay-when-running-vrchat.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Sometimes, the Discord overlay does not work during gameplay. Do not worry if you encounter the same;[fixing the unresponsive Discord overlay on Windows](https://www.makeuseof.com/fix-discord-overlay-not-working-windows/) is easy and straightforward. It's just as easy to fix it on other devices as well.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Disable the Discord In-Game Overlay
 
@@ -80,31 +94,17 @@ Follow these steps to disable the in-game overlay:
 3. Turn off the toggle next to**Enable in-game overlay** .  
 ![Disable Discord Overlay in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disable-in-game-overlay.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To permanently turn off the overlay only for a specific game, navigate to the**Registered Games** tab and click on the**monitor icon** next to it.
 
 ![disable overlay for specific game in discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disable-overlay-for-specific-game-in-discord.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you want to temporarily turn off the overlay in a game, press the overlay shortcut on your keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Keep Track of Conversations Through Discord Overlay
@@ -126,20 +126,21 @@ Follow these steps to disable the in-game overlay:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-all-inclusive-guide-what-is-googles-podcast-service/"><u>[New] All-Inclusive Guide What Is Google's Podcast Service?</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-the-djs-guide-to-elevating-visual-narratives-with-soundtracks-fb/"><u>[Updated] 2024 Approved The DJ's Guide to Elevating Visual Narratives with Soundtracks (FB)</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-professional-approach-to-convert-webp-images-to-jpeg/"><u>[Updated] Professional Approach to Convert WebP Images to JPEG</u></a></li>
-<li><a href="https://games-able.techidaily.com/bending-no-more-tackling-gpu-display-deformity/"><u>Bending No More: Tackling GPU Display Deformity</u></a></li>
-<li><a href="https://article-tips.techidaily.com/dissecting-pickus-dominance-in-android-photo-editing-tools-for-2024/"><u>Dissecting PickU's Dominance in Android Photo Editing Tools for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-powerful-jaco-smartpro-for-your-auto-needs-a-comprehensive-guide/"><u>Evaluating the Powerful Jaco SmartPro for Your Auto Needs: A Comprehensive Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-6s-plus-passcode-not-working-by-drfone-ios/"><u>How to Fix Apple iPhone 6s Plus Passcode not Working?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-xiaomi-redmi-k70-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Xiaomi Redmi K70 Pro Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/making-ps5-smarter-innovate-with-these-9-essentials/"><u>Making PS5 Smarter: Innovate with These 9 Essentials</u></a></li>
-<li><a href="https://games-able.techidaily.com/play-ball-a-guide-to-the-top-7-mobile-sports-apps-iosandroid/"><u>Play Ball! A Guide to the Top 7 Mobile Sports Apps (iOS/Android)</u></a></li>
-<li><a href="https://extra-information.techidaily.com/resolution-duel-comparing-gopro-hero-and-polaroid-cube/"><u>Resolution Duel Comparing GoPro Hero and Polaroid Cube</u></a></li>
-<li><a href="https://games-able.techidaily.com/stay-cool-keep-playing-essential-thermal-accessories/"><u>Stay Cool, Keep Playing: Essential Thermal Accessories</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-giant-gamers-comfort-choice/"><u>The Ultimate Giant Gamers' Comfort Choice</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-playnite-on-television/"><u>The Ultimate Guide to Playnite on Television</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/whispering-sweet-nothings-in-french-irresistible-pick-up-lines/"><u>Whispering Sweet Nothings in French: Irresistible Pick-Up Lines</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/outube-vs-dailymention-spotlighting-key-aspects/"><u>[New] YouTube Vs. DailyMention Spotlighting Key Aspects</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-freely-stream-your-films-easy-to-use-mov-player-software/"><u>[Updated] 2024 Approved Freely Stream Your Films Easy-to-Use MOV PLAYER Software</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-enhancing-your-youtube-presence-with-split-screen-techniques/"><u>2024 Approved Enhancing Your YouTube Presence with Split-Screen Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-multitasking-with-picture-in-picture-mode-on-microsoft-edge-browser/"><u>2024 Approved Mastering Multitasking with Picture-in-Picture Mode on Microsoft Edge Browser</u></a></li>
+<li><a href="https://games-able.techidaily.com/adventure-gamers-vault-of-virtual-getaway-ideas/"><u>Adventure Gamers' Vault of Virtual Getaway Ideas</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-highview-monitor-27m2v-pixels/"><u>Affordable HighView Monitor, 27M2V Pixels</u></a></li>
+<li><a href="https://games-able.techidaily.com/ai-assisted-adventure-crafting-top-6-strategies-with-chatgpt/"><u>AI-Assisted Adventure Crafting: Top 6 Strategies with ChatGPT</u></a></li>
+<li><a href="https://games-able.techidaily.com/banish-errors-and-enhance-your-pc-with-new-nvidia-drivers-update/"><u>Banish Errors and Enhance Your PC with New Nvidia Drivers Update.</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-boards-ddr5-edition-2024/"><u>Best Boards: DDR5 Edition - 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/breaking-down-the-new-2023-samsung-bd-j5900-model-for-2024/"><u>Breaking Down the New 2023 Samsung BD-J5900 Model for 2024</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/efficient-avchd-file-editing-tips-navigating-windows-1110-with-ease/"><u>Efficient AVCHD File Editing Tips: Navigating Windows 11/10 with Ease</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-safeguard-text-files-with-encryption-an-easy-tutorial-using-passwords/"><u>How To Safeguard Text Files With Encryption: An Easy Tutorial Using Passwords</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172049939-secure-your-ultimate-marvel-gaming-experience-now/"><u>Secure Your Ultimate Marvel Gaming Experience Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-your-laptops-audio-problem-a-step-by-step-guide/"><u>Solving Your Laptop's Audio Problem: A Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719165694207-the-history-and-evolution-of-street-mapping-techniques-and-tools/"><u>The History and Evolution of Street Mapping Techniques and Tools</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: InnoCN's Budget-Friendly Gamer's Choice
-date: 2024-09-14T02:44:04.392Z
-updated: 2024-09-20T21:11:50.890Z
+date: 2024-10-03T16:25:09.641Z
+updated: 2024-10-07T16:18:50.077Z
 tags:
   - games
 categories:
@@ -103,11 +103,25 @@ Yes - 3000R
 
 [$400 at Amazon](https://www.amazon.com/INNOCN-Ultrawide-FreeSync-Computer-Adjustable/dp/B0B9GVCCLH?tag=muo-v2-7s9kakr-20&ascsubtag=UUmuoUeUpU2029202&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Finnocn-39g1r-review%2F&asc%5Fcampaign=Affiliate)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Unboxing and Assembly
 
  Assembly is relatively simple, given that it only comes in three pieces: the display, the stand, and the legs. The display arrives in a molded polystyrene form, and due to the unique subtle curvature, I'd advise leaving it in there and attaching the stand rather than the more traditional method of laying it flat on a table.
 
 ![innocn 39g1r - construction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-construction.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  However, I'll admit I had problems getting the stand to latch securely onto the rear. I narrowly avoided catastrophe when lifting it back up, realizing it wasn't actually attached correctly. Partly this is due to the large cylindrical shroud that covers the attachment point; it's impossible to see when the latches are flush. Listen for the mechanical clicks and test before confidently declaring the construction step completed!
 
@@ -126,6 +140,13 @@ Yes - 3000R
  Although it's sold as a curved gaming monitor, technically, it has a 3000R curve. The larger the number, the more subtle the curvature is. In this case, it's barely perceptible to me. This might actually be a good thing, making the 39G1R suitable for both gaming and everyday office work where people tend to prefer a flatter profile. It's a balanced option, and the 16:9 screen ratio combined with subtle curvature certainly won't suit use as an immersive cockpit for racing or flying games.
 
 ![innocn 39g1r - leds dont do much](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-leds-dont-do-much.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  On the rear, you'll find a diagonal line of LEDs. They’re not bright enough to serve as bias lighting (in the image above, the blue reflecting on the wall is coming from my PC fans, not the monitor), nor do they synchronize with on-screen content. You can manually configure them to one of seven different static colors, a few different scene styles, and adjust the brightness (though the maximum "vibrant" brightness setting would be better described as "just about visible").
 
@@ -147,22 +168,21 @@ Yes - 3000R
 
 ![innocn 39g1r - OSD menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-osd-menu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It’s a somewhat confusing system, and I often turned the monitor off unintentionally until I'd gotten used to it. Input swapping was a notable pain point. While one might expect input swapping to be on the quick menu, the only way to swap is to navigate the full OSD menu structure. To illustrate, swapping from HDMI 1 to DP 1 requires a sequence of button presses more akin to a Street Fighter special move: right, right, right, down, down, right. On the other hand, if you shut down one input, it will automatically switch over, so it’s a minor nuisance.
 
  Diving into the full menu also reveals a myriad of settings to tweak, though nothing unexpected. Picture-in-picture mode is supported for productivity (or watching football).
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -188,10 +208,10 @@ Yes - 3000R
 ![innocn 39g1r - 165hz](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-165hz.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Assuming you have hardware that can even deliver those sorts of frame rates, you’ll get superb visuals.
@@ -200,20 +220,27 @@ Yes - 3000R
 
 ![innocn 39g1r - cyberpunk bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-cyberpunk-bar.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To test the high frame rates, I loaded up Lego Brawls, which is basic enough to run at the full 165 frames a second—and promptly came first in every match I played. I'm not saying the high frame rate was a huge benefit when weighed against my obvious elite skills to compete against random children on the internet. Still, it probably played a not insignificant role.
 
 ![innocn 39g1r - lego bralws gameplay top brawlers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-lego-bralws-gameplay-top-brawlers.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  I also wanted to try something strategy-based to see if the low pixel density was more frustrating, so I fired up Company of Heroes. The added size of the map more than made up for any loss of detail. However, we should acknowledge that monitors can be highly subjective—you may be more sensitive to low pixel densities than I am.
 
 ![innocn 39g1r - strategy low resolution close up](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-strategy-low-resolution-close-up.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Unfortunately, despite being FreeSync compatible, VRR isn't supported on the PlayStation 5\. The maximum I could get out of it (over HDMI) was 1440p HDR 120Hz.
 
@@ -233,22 +260,16 @@ Yes - 3000R
 
 ![innocn 39g1r - infrared view showing illumination](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-infrared-view-showing-illumination.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Secondly, on the response rate test, there was some definite ghosting, most evident on dark blue, which led to purple ghosting on the grey background, and bright red with brown ghosting.
 
 ![innocn 39g1r - brown and purple ghosting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-brown-and-purple-ghosting.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The ghosting is to be expected from a VA panel, as are minor uniformity issues on something at this budget.
 
@@ -273,5 +294,21 @@ Yes - 3000R
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-technique-for-anonymous-footage-via-image-smoothing/"><u>[New] 2024 Approved Technique for Anonymous Footage via Image Smoothing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-ig-management-made-simple-the-best-tools-reviewed-for-2024/"><u>[New] IG Management Made Simple The Best Tools Reviewed for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-infusing-life-into-virtual-scenes-with-spark-ar-and-personalized-lookups/"><u>[Updated] 2024 Approved Infusing Life Into Virtual Scenes with Spark AR and Personalized Lookups</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-you-watch-mov-movies-on-samsung-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can you watch MOV movies on Samsung ?</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-virtual-reality-gameplay/"><u>Elevate Your Virtual Reality Gameplay</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/how-to-guide-for-effortless-youtube-playlist-downloads/"><u>How-To Guide for Effortless YouTube Playlist Downloads</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-itel-a60s-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Itel A60s Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/jovial-access-key-strategies-for-2024/"><u>Jovial Access Key Strategies for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/leading-cable-modemrouter-duos-the-ultimate-guide/"><u>Leading Cable Modem/Router Duos: The Ultimate Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/operasides-epic-battle-with-microsofts-edge-for-games/"><u>Operaside's Epic Battle with Microsoft's Edge for Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/rejuvenate-vintage-computers-with-atlasos/"><u>Rejuvenate Vintage Computers with ATLASOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/revitalizing-playstations-digital-rights/"><u>Revitalizing PlayStation's Digital Rights</u></a></li>
+<li><a href="https://games-able.techidaily.com/rising-cyber-threats-in-online-games/"><u>Rising Cyber Threats in Online Games</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlocking-efficiency-in-video-editing-with-these-top-10-apps/"><u>Unlocking Efficiency in Video Editing with These Top 10 Apps</u></a></li>
+</ul></div>
 

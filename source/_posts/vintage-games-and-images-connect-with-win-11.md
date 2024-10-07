@@ -1,7 +1,7 @@
 ---
 title: Vintage Games & Images - Connect With Win 11
-date: 2024-09-26T21:49:53.319Z
-updated: 2024-10-01T22:21:49.226Z
+date: 2024-10-06T18:41:16.553Z
+updated: 2024-10-07T16:28:44.936Z
 tags:
   - games
 categories:
@@ -32,16 +32,10 @@ thumbnail: https://thmb.techidaily.com/919428e7eabfca4b711aa4a4cd51f4e93cb7908e2
  This is a compatibility measure, intended to allow programs designed for older Windows versions to still work. Unfortunately, this can create new issues for older programs.
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Give Read Access Rights for Older Games
@@ -54,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/919428e7eabfca4b711aa4a4cd51f4e93cb7908e2
 
 ![screenshot of advanced security settings selecting principal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_advanced_security_settings_select_principal.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Hit**Select a principal** , which will open yet another window. In this new window, underneath**Enter the object name to select** , type in**Everyone** and hit**Check Names.**
 
  Once the word "Everyone" is underlined, hit**OK** . You'll be returned to the last window and have a few checkboxes to select. For our purposes, the only one that matters is the**Read** checkbox.
@@ -72,15 +59,22 @@ thumbnail: https://thmb.techidaily.com/919428e7eabfca4b711aa4a4cd51f4e93cb7908e2
 ![screenshot of all the user folders highlighted in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_all_user_folders_highlighted.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You should be careful which folders you provide full read rights to. While it's unlikely the old game you're trying to play will do anything untoward to your folders, it can be risky granting full read rights to anything on your computer.
 
  Certain games may try to read information from your My Documents folder as well, so it's worth trying this fix on that folder if it's needed. Otherwise, use this fix sparingly. It might even be a good idea to remove these access rights once you're done.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## New Fixes for Old Games on Windows
 
@@ -91,16 +85,10 @@ thumbnail: https://thmb.techidaily.com/919428e7eabfca4b711aa4a4cd51f4e93cb7908e2
 ## FAQ
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Q: How Do I Get Old Games to Work on Windows 11?
@@ -130,18 +118,19 @@ thumbnail: https://thmb.techidaily.com/919428e7eabfca4b711aa4a4cd51f4e93cb7908e2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-youtube-seo-boost-your-video-popularity/"><u>[New] Mastering YouTube SEO Boost Your Video Popularity</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-how-to-chat-on-google-meet/"><u>[Updated] In 2024, How to Chat on Google Meet</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-quick-guide-on-converting-videos-into-dynamic-gifs-online/"><u>[Updated] Quick Guide on Converting Videos Into Dynamic Gifs Online</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-samsung-galaxy-m14-4g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Samsung Galaxy M14 4G</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719169261659-amp-up-the-atmosphere-big-box-for-arcade-fronts/"><u>Amp up the Atmosphere: Big Box for Arcade Fronts!</u></a></li>
-<li><a href="https://games-able.techidaily.com/cross-platform-playmates-top-15-friendly-games-to-share/"><u>Cross-Platform Playmates: Top 15 Friendly Games to Share</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/o-stream-google-meet-to-youtube-step-by-step-guide/"><u>How To Stream Google Meet to YouTube [Step-by-Step Guide]</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-realme-narzo-n53-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Realme Narzo N53 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-essential-tactics-for-youtube-short-troubleshooting/"><u>In 2024, Essential Tactics for YouTube Short Troubleshooting</u></a></li>
-<li><a href="https://games-able.techidaily.com/strategies-to-counteract-sagging-monitor-panels/"><u>Strategies to Counteract Sagging Monitor Panels</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-white-gadgets-cost-effective-pc-parts-of-the-year/"><u>Top White Gadgets: Cost-Effective PC Parts of the Year</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-oppo-f23-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Oppo F23 5G FRP Bypass</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/er-the-top-12-best-flip-screen-vlogging-tools/"><u>Uncover the Top 12 Best Flip-Screen Vlogging Tools</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitter-video-thumbnail-add-and-change-thumbnails-of-twitter-videos-for-2024/"><u>[Updated] Twitter Video Thumbnail | Add and Change Thumbnails of Twitter Videos for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/11-best-practices-for-capturing-online-conferences-for-free-for-2024/"><u>11 Best Practices for Capturing Online Conferences for Free for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/achieving-high-quality-tiktok-videos-the-zoom-method-for-2024/"><u>Achieving High-Quality TikTok Videos The Zoom Method for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieving-stealthy-play-with-no-controller-shake/"><u>Achieving Stealthy Play with No Controller Shake</u></a></li>
+<li><a href="https://games-able.techidaily.com/all-about-baldurs-gate-3-dlc-and-downloads/"><u>All About Baldur's Gate 3: DLC & Downloads</u></a></li>
+<li><a href="https://games-able.techidaily.com/analyzing-the-strategic-alliance-between-microsoft-and-activision/"><u>Analyzing the Strategic Alliance Between Microsoft and Activision</u></a></li>
+<li><a href="https://games-able.techidaily.com/anticipating-amds-rdna-35-tech-insights-and-timing/"><u>Anticipating AMD’s RDNA 3.5: Tech Insights & Timing</u></a></li>
+<li><a href="https://games-able.techidaily.com/benefits-vs-pitfalls-in-mobile-playing/"><u>Benefits vs Pitfalls in Mobile Playing</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719173660560-better-computing-awaits-update-with-newest-nvidia-drivers-now/"><u>Better Computing Awaits! Update with Newest Nvidia Drivers Now</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/canon-printer-not-printing-conquer-this-issue-with-our-top-5-solutions-for-windows-11/"><u>Canon Printer Not Printing? Conquer This Issue with Our Top 5 Solutions for Windows 11</u></a></li>
+<li><a href="https://facebook.techidaily.com/diving-into-deeper-connections-facebooks-past-narrative/"><u>Diving Into Deeper Connections: Facebook’s Past Narrative</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-on-iphone-14-plus-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email On iPhone 14 Plus? Heres the Best Fixes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-on-iphone-se-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number On iPhone SE</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/japanese-salutations-key-phrases-for-perfect-greeting/"><u>Japanese Salutations: Key Phrases for Perfect Greeting</u></a></li>
 </ul></div>
 

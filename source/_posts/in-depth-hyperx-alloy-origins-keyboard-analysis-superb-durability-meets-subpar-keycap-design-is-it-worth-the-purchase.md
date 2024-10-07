@@ -1,7 +1,7 @@
 ---
 title: "In-Depth HyperX Alloy Origins Keyboard Analysis: Superb Durability Meets Subpar Keycap Design - Is It Worth the Purchase?"
-date: 2024-09-17T23:56:18.648Z
-updated: 2024-09-20T18:20:53.822Z
+date: 2024-10-02T19:26:02.599Z
+updated: 2024-10-07T16:38:49.767Z
 tags:
   - gaming
 categories:
@@ -41,6 +41,13 @@ Finally, you'll need a #1 Phillips head screwdriver. I have [this kit from iFixi
 
 I'd never installed an SSD in PS5, and it took me under 10 minutes from start to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Remove the back cover
 
 Before you begin, power off the PS5 and unplug the power cable, HDMI, and anything else connected to it. Lay the console on a table, with the front of the console (it's the side with the PS logo) facing down, and the rear of the console towards you. I put mine on top of a desk mat to prevent scratches on the case. 
@@ -51,6 +58,13 @@ To gain access to the SSD slot, you'll need to remove the back cover. If you hav
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove the expansion slot cover
 
 There's not a whole lot to look at with the panel removed from the PS5\. There's a fan, a lot of black, and then the expansion slot cover near the top of the housing. I rotated the PS5 so that the SSD slot was closer to me and easier to work on. 
@@ -60,10 +74,10 @@ There's a single screw holding the cover in place; remove it and set it aside in
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Move the screw and spacer inside the SSD housing
@@ -79,10 +93,10 @@ I then placed the spacer over the hole -- it's held in place by three dots, so d
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Insert the SSD and use the mounting screw
@@ -141,5 +155,20 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-seamless-integration-of-slideshows-into-facebook-layouts-for-2024/"><u>[New] Seamless Integration of Slideshows Into Facebook Layouts for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-learn-quickly-how-to-film-anywhere-with-one-tech-setup/"><u>2024 Approved Learn Quickly How to Film Anywhere with One Tech Setup</u></a></li>
+<li><a href="https://games-able.techidaily.com/30-must-have-nintendo-switch-cartridge-holders/"><u>30 Must-Have Nintendo Switch Cartridge Holders</u></a></li>
+<li><a href="https://games-able.techidaily.com/activate-collaborative-mode-on-ps5/"><u>Activate Collaborative Mode on PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/adapt-and-thrive-enjoy-flash-games-without-flash-required/"><u>Adapt and Thrive: Enjoy Flash Games Without Flash Required</u></a></li>
+<li><a href="https://games-able.techidaily.com/all-games-everywhere-a-new-trend-emerges/"><u>All Games, Everywhere - A New Trend Emerges</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-iphoneipad-emulators-for-immersive-gameplay/"><u>Best iPhone/iPad Emulators for Immersive Gameplay</u></a></li>
+<li><a href="https://techtrends.techidaily.com/compatibility-mode-usage-for-apps-on-windows-10-explained/"><u>Compatibility Mode Usage for Apps on Windows 10 Explained</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-oppo-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Oppo FRP Bypass Instantly</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Realme C33 2023? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-value-manipulation-adding-and-multiplying-data-using-excels-paste-special-feature/"><u>Mastering Value Manipulation: Adding and Multiplying Data Using Excel's Paste Special Feature</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/solving-mov-files-with-black-screens-easy-troubleshooting-steps/"><u>Solving MOV Files with Black Screens - Easy Troubleshooting Steps</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719164624136-top-ranked-gba-ios-simulators-unveiled/"><u>Top-Ranked GBA iOS Simulators Unveiled!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Protective Measures for Child Gamers on PS5
-date: 2024-09-16T20:28:30.210Z
-updated: 2024-09-20T22:04:06.695Z
+date: 2024-10-05T19:02:12.661Z
+updated: 2024-10-07T16:52:57.080Z
 tags:
   - games
 categories:
@@ -71,6 +71,13 @@ You can set age restrictions for the following options:
 
  You’ll find the options to change the restriction levels for all of the above on that parental control page. You should adjust it based on your parenting preferences and the child’s age.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Set Up Console Restrictions and User Passcodes
 
  Console restrictions are a group of features on the PS5 that allows you to control how users can create accounts on the PS5\. A smart kid can bypass your content restrictions by simply creating a new account on the PS5 to use instead of the child account you created for them. Or they could log into an adult account if you haven’t set a passcode on it.
@@ -82,8 +89,24 @@ Here’s how to set up the console restrictions passcode:
 1. Go to **Settings > Family and Parental Controls > PS5 Console Restrictions** .  
 ![Family and Parental Controls page on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/family-and-parental-controls-page-on-the-ps5.JPG)
 2. Enter the default passcode:**0000** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Console restriction passcode on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/console-restriction-passcode-on-the-ps5.JPG)
 3. Select**Change Your Console Restriction Passcode** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![PS5 Console Restrictions page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ps5-console-restrictions-page.JPG)
 4. Enter the new password twice.
 
@@ -94,13 +117,6 @@ Here’s how to set up the console restrictions passcode:
 * Disable console restrictions (**Temporarily Disable PS5 Console Restrictions**). You can use this to turn off console restrictions temporarily in case it’s too restrictive for you as an adult user.
 
  Don’t forget your console restriction passcode. As far as we know, there’s no way to recover it.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Set a Checkout Password and a Monthly Spending Limit
 
@@ -119,6 +135,13 @@ Here’s how to set up the console restrictions passcode:
 
  We’re unsure why Sony made the spending limit a dropdown preset menu. But you can’t input a custom amount as a spending limit for now.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Enforce Playtime Limits
 
  Video game addiction could affect your child negatively, but you can try to curtail it by setting playtime limits on the PS5.
@@ -131,26 +154,20 @@ Here’s how to do it:
 2. Select**Playtime Settings** and toggle on**Restrict Playtime** .  
 ![Playtime Settings toggle on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playtime-settings-toggle-on-the-ps5.JPG)
 3. Use**When Playtime Ends** to choose whether you want the child to be forcefully logged out or simply notified when they’ve reached their playtime limit.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Set how long they can play using**Duration and Playable Hours** . Selecting**By Days of the Week** from the menu allows you to specify how many hours they can play each day of the week.  
 ![Duration and Playable Hours dropdown meny in the PS5 Playtime Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/duration-and-playable-hours-dropdown-meny-in-the-ps5-playtime-settings.JPG)
 5. Select**Every Day** or the days of the week and choose your hours in**Playtime duration** . Inside here, you can also set a**Start time** and**End time** to customize when they can play video games, and you can choose their bedtime as**End time** so they don’t play at night when they should be sleeping.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Playtime Duration dialogue window on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playtime-duration-dialogue-window-on-the-ps5.JPG)
 6. Choose**Save** on the right-hand side of the page when you’re done.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Older children may not appreciate this setting much, so it’s probably a better idea to discuss their playtime rather than outright blocking them from using the console.
 
@@ -175,5 +192,26 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-ultimate-windows-and-cross-platform-videography-tools-guide/"><u>[Updated] In 2024, Ultimate Windows & Cross-Platform Videography Tools Guide</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-strategies-for-streaming-fb-live-on-zoom-platform/"><u>[Updated] Strategies for Streaming FB Live on Zoom Platform</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/7-barriers-to-successful-gpt-modifications/"><u>7 Barriers to Successful GPT Modifications</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-infinix-zero-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722902436424-find-out-when-and-why-your-mailpress-email-might-expire/"><u>Find Out When and Why Your Mail.press Email Might Expire.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-x3daudiodll-not-found-issues-expert-tips-and-solutions/"><u>Fixing 'x3daudio.dll Not Found' Issues: Expert Tips & Solutions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Realme GT Neo 5 SE? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-advanced-screen-transcriber-for-chromeos/"><u>In 2024, Advanced Screen Transcriber for ChromeOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastery-in-the-art-of-cleaning-up-ps5-profiles/"><u>Mastery in the Art of Cleaning Up PS5 Profiles</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/online-konvertoren-3gpp-naar-mp4-zonder-kostprijzen-met-movavis-hulpbronnen/"><u>Online Konvertoren: 3GPP Naar MP4 Zonder Kostprijzen Met Movavi's Hulpbronnen</u></a></li>
+<li><a href="https://games-able.techidaily.com/professional-snapshot-management-on-steam/"><u>Professional Snapshot Management on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/rethinking-the-rush-for-video-games/"><u>Rethinking the Rush for Video Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/seize-the-power-the-ultimate-transition-from-console-to-pc/"><u>Seize the Power: The Ultimate Transition From Console to PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simple-steps-updating-your-intel-graphics-driver-made-easy/"><u>Simple Steps: Updating Your Intel Graphics Driver Made Easy</u></a></li>
+<li><a href="https://games-able.techidaily.com/smartly-store-and-access-your-retrogames-with-chdman-compression/"><u>Smartly Store and Access Your Retrogames with CHDMAN Compression</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-16-xbox-series-x-couch-gaming-pairing/"><u>Ultimate 16 Xbox Series X Couch Gaming Pairing</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-guide-top-1440p-gaming-displays-on-any-dime/"><u>Ultimate Guide: Top 1440P Gaming Displays on Any Dime</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-high-refresh-165hz-screens/"><u>Ultimate High Refresh 165Hz Screens</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-modern-multiplayer-games-shift/"><u>Understanding Modern Multiplayer Games' Shift</u></a></li>
+</ul></div>
 

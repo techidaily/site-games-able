@@ -1,7 +1,7 @@
 ---
 title: "Mastering Service Design with a Consumer Lens: Strategies for Boosting Business Development | ZDNet"
-date: 2024-09-17T20:48:12.950Z
-updated: 2024-09-20T21:23:43.144Z
+date: 2024-10-03T16:43:48.344Z
+updated: 2024-10-07T16:43:33.986Z
 tags:
   - accelerate-your-tech-game
 categories:
@@ -37,6 +37,13 @@ This is most clearly represented by Optus's reorganisation of traditional contac
 
 The benefit is reflected in Optus having achieved its best result to date from the Telecommunications Industry Ombudsman's complaints report, with a 27.9% reduction in complaints in comparison to the previous year. This equated to 3.9 complaints per 10,000 subscribers in the quarter between April and June.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Connecting the customer journey**
 
 While these changes are delivered by people, they are nonetheless enabled by technology. This combination is at the heart of modern customer experience excellence.
@@ -50,6 +57,13 @@ By using technology to orchestrate and automate customer interactions, organisat
 This capability is embodied in the next-generation Webex Connect platform, which connects customers to humans via text, social, chat, email, and voice. The addition of AI-powered virtual agents facilitates faster support when needed, with virtual agents able to easily handle routine interactions, provide seamless transitions, and connect transcripts to live agents for more complex inquiries. 
 
 All of this is based on the Customer Journey Data Service which enables deep customer engagement across communication channels and platforms, such as websites, mobile apps, chat services, voice, social media, or any third-party services. This can also support the creation of customer profiles, which can support more personalised customer interaction. 
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Conclusion** 
 
@@ -74,12 +88,17 @@ To learn more, click [here](http://www.optus.com.au/enterprise/customer-contact)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-discovering-androids-finest-multiplayer-battles/"><u>[Updated] 2024 Approved Discovering Android's Finest Multiplayer Battles</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-a-sound-sanctuary-optimizing-system-alerts/"><u>Crafting a Sound Sanctuary: Optimizing System Alerts</u></a></li>
+<li><a href="https://games-able.techidaily.com/curated-leading-twitch-video-archives-5-suggestions/"><u>Curated Leading Twitch Video Archives: #5 Suggestions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/download-superior-quality-mp3s-from-youtube-a-guide-to-finding-and-using-the-premier-video-to-audio-tool/"><u>Download Superior Quality MP3s From YouTube - A Guide to Finding and Using the Premier Video to Audio Tool</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-for-consistent-crashes-in-age-of-wonders-planetfall-on-pc/"><u>Effective Solutions for Consistent Crashes in Age of Wonders: Planetfall on PC</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/o-upload-your-music-to-youtube-for-2024/"><u>How to Upload Your Music to YouTube for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/remedying-the-saggy-effect-on-your-graphics-panel/"><u>Remedying the 'Saggy' Effect on Your Graphics Panel</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-realme-c67-5g-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Realme C67 5G</u></a></li>
+<li><a href="https://howto.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-vivo-y78-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrade-your-gameplay-mastering-popular-titles-in-steam-on-meta-quest-xbox-series-s/"><u>Upgrade Your Gameplay: Mastering Popular Titles in Steam on Meta Quest Xbox Series S</u></a></li>
+</ul></div>
 

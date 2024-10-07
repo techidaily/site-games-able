@@ -1,7 +1,7 @@
 ---
 title: Enabling Android Features Within Linux OS
-date: 2024-09-27T19:43:17.420Z
-updated: 2024-10-01T23:28:21.246Z
+date: 2024-10-01T17:44:31.258Z
+updated: 2024-10-07T17:08:52.671Z
 tags:
   - games
 categories:
@@ -40,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 
  Many guides recommend installing Anbox—but unfortunately, this application was deprecated in February 2023\. You’ll need to find a supported alternative if you want to run Android apps.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Use Waydroid to Play Android Games
 
  Overall, the best method to run Android games in light of the deprecation of Anbox is using Waydroid. Before you can start using Waydroid, though, it’s important to check whether you’re running the requisite display server: Wayland.
@@ -56,6 +49,19 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 `echo $XDG_SESSION_TYPE`
 
 ![checking system display server type in terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/checking-system-display-server-type-in-terminal.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If your system runs the Xorg display server, you’ll need to switch from Xorg to Wayland before you can install Waydroid.
 
@@ -83,6 +89,19 @@ waydroid show-full-ui`
  Wait for the app to install. Once the installation process is complete, you can run the Android app by selecting it through the Waydroid GUI, launching it through your desktop application menu, or launching it from the terminal with:
 
 `waydroid app launch appname`
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Create an Android Virtual Machine
 
@@ -113,13 +132,6 @@ waydroid show-full-ui`
 
 ![configuring graphics settings in virtualbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/configuring-graphics-settings-in-virtualbox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Last but not least, you’ll need to install the Android x86 image. Navigate to the**Storage** tab and select**Empty** from the list of storage devices. Next, click on the**blue disc** icon to the right of the**Optical Drive** setting and select**Choose a disk file** from the dropdown menu. Select your Android x86 ISO from the Files interface that appears. Finally, close the settings menu and click**Start** to boot your Android VM.
 
  As prompts appear on the new virtual machine, click**Advanced Options** , select**Auto\_Installation** from the advanced options list, and then click**Yes** to confirm the auto installation.
@@ -127,10 +139,10 @@ waydroid show-full-ui`
  Once the installation process is complete, you can configure and install apps on your new Android virtual machine.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Use Android Studio for Seamless Gaming
@@ -138,10 +150,10 @@ waydroid show-full-ui`
  While Android Studio is primarily geared towards developers, it can be an excellent option for emulation if you aren’t interested in using Waydroid or an Android x86 virtual machine. After[installing Android Studio](https://www.makeuseof.com/install-android-studio-ubuntu/) , you’ll need to create an Android Virtual Device (AVD) using the official[Android](https://developer.android.com/studio/run/emulator#avd) Developer’s guide and then install your chosen APK on the[Android](https://developer.android.com/studio/run/emulator-install-add-files) Emulator.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Run Android Apps on Linux With Genymotion
@@ -179,20 +191,21 @@ waydroid show-full-ui`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-breakthrough-vloggers-reviewed-the-best-15-youtube-channels-for-product-reviews/"><u>[New] Breakthrough Vloggers Reviewed The Best 15 YouTube Channels for Product Reviews</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-digital-image-manipulation-inserting-text-in-photos-on-windowsmacs/"><u>[Updated] In 2024, Digital Image Manipulation Inserting Text in Photos on Windows/Macs</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-from-bland-to-brilliant-elevate-your-images-in-canva/"><u>2024 Approved From Bland to Brilliant Elevate Your Images in Canva</u></a></li>
-<li><a href="https://games-able.techidaily.com/dialogue-development-via-chatgpt/"><u>Dialogue Development via ChatGPT</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-logitech-rx250-drivers-compatible-with-windows-7-8-and-10/"><u>Download Logitech RX250 Drivers: Compatible with Windows 7, 8 & 10</u></a></li>
-<li><a href="https://games-able.techidaily.com/easily-access-your-past-game-files-with-w11-mypics/"><u>Easily Access Your Past Game Files with W11 MyPics</u></a></li>
-<li><a href="https://games-able.techidaily.com/expanding-horizons-different-switch-regions/"><u>Expanding Horizons: Different Switch Regions</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-ps5-slim-crucial-upgrades-exposed/"><u>Exploring PS5 Slim: Crucial Upgrades Exposed</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-on-gamer-self-fixing-your-xbox-controls-made-easy/"><u>Game On, Gamer! Self-Fixing Your Xbox Controls Made Easy</u></a></li>
-<li><a href="https://games-able.techidaily.com/guiding-you-through-ps4-controller-on-pc-and-mac/"><u>Guiding You Through PS4 Controller on PC & Mac</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-11-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone 11</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-step-by-step-softening-audio-routine/"><u>In 2024, Step-by-Step Softening Audio Routine</u></a></li>
-<li><a href="https://games-able.techidaily.com/mac-gaming-enhanced-counter-strike-2-basics/"><u>Mac Gaming Enhanced: Counter-Strike 2 Basics</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transform-video-beats-into-ringtones-must-visit-sites-explored-for-2024/"><u>Transform Video Beats Into Ringtones Must-Visit Sites Explored for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/unveiling-the-excellence-detailed-look-at-the-microsoft-surface-laptop-4/"><u>Unveiling the Excellence: Detailed Look at the Microsoft Surface Laptop 4</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-smart-choices-best-windows-camcorders-list/"><u>[New] In 2024, Smart Choices Best Windows Camcorders List</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-explore-and-evaluate-top-7-free-android-adblockers-unveiled/"><u>[Updated] 2024 Approved Explore & Evaluate Top 7 Free Android AdBlockers Unveiled</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-essential-windows-11-webcams-for-excellent-recordings/"><u>2024 Approved Essential Windows 11 Webcams for Excellent Recordings</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-hype-is-nvidias-new-game-service-practical/"><u>Beyond Hype - Is Nvidia’s New Game Service Practical?</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-the-old-the-slimmer-ps5-analysis/"><u>Beyond the Old: The Slimmer PS5 Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-tv-uncover-fallouts-video-games-worldwide/"><u>Beyond TV: Uncover Fallout's Video Games Worldwide</u></a></li>
+<li><a href="https://games-able.techidaily.com/bluetooth-harmony-with-ps5-gaming-setup/"><u>Bluetooth Harmony with PS5 Gaming Setup</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-your-older-consoles-games-seamlessly-transition-to-ps5/"><u>Can Your Older Console's Games Seamlessly Transition to PS5?</u></a></li>
+<li><a href="https://games-able.techidaily.com/change-background-on-playstation-5-console/"><u>Change Background on PlayStation 5 Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/closing-the-virtual-shops-flawed-refund-channels/"><u>Closing the Virtual Shop's Flawed Refund Channels</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cutting-edge-the-best-mac-video-editing-apps-1-5/"><u>Cutting Edge The Best Mac Video Editing Apps #1-#5</u></a></li>
+<li><a href="https://network-issues.techidaily.com/deciphering-4k-high-resolution-video-standards/"><u>Deciphering 4K High-Resolution Video Standards</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-samsung-galaxy-f54-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Samsung Galaxy F54 5G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-easy-steps-to-rectify-non-sending-or-delayed-videos-in-messenger-chats/"><u>In 2024, Easy Steps to Rectify Non-Sending or Delayed Videos in Messenger Chats</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/lenovos-premium-display-tech-in-the-m10-tablet-fhdplus-2020-model-reviewed/"><u>Lenovo's Premium Display Tech in the M10 Tablet (FHD+) - 2020 Model Reviewed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723004940462-troubleshooting-tips-for-when-madden-22-wont-start-easy-fixes-inside/"><u>Troubleshooting Tips for When Madden 22 Won't Start: Easy Fixes Inside</u></a></li>
 </ul></div>
 

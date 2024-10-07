@@ -1,7 +1,7 @@
 ---
 title: "Grab Your New TCL Television: Epic 85 Inches for an Unbeatable Price of $900 - Limited Offer This Labor Day at ZDNet!"
-date: 2024-09-15T00:16:09.080Z
-updated: 2024-09-20T22:26:20.589Z
+date: 2024-10-02T18:41:15.095Z
+updated: 2024-10-07T17:13:26.372Z
 tags:
   - gaming
 categories:
@@ -51,6 +51,13 @@ To gain access to the SSD slot, you'll need to remove the back cover. If you hav
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove the expansion slot cover
 
 There's not a whole lot to look at with the panel removed from the PS5\. There's a fan, a lot of black, and then the expansion slot cover near the top of the housing. I rotated the PS5 so that the SSD slot was closer to me and easier to work on. 
@@ -60,10 +67,10 @@ There's a single screw holding the cover in place; remove it and set it aside in
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Move the screw and spacer inside the SSD housing
@@ -79,10 +86,10 @@ I then placed the spacer over the hole -- it's held in place by three dots, so d
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Insert the SSD and use the mounting screw
@@ -90,6 +97,13 @@ Jason Cipriani/ZDNET
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -141,5 +155,19 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-harnessing-ambiance-with-thoughtful-lighting-for-2024/"><u>[New] Harnessing Ambiance with Thoughtful Lighting for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-best-green-screen-recorders-how-to-use-them/"><u>[New] In 2024, Best Green Screen Recorders How to Use Them?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/achieving-youtube-success-increasing-followers-quickly-for-2024/"><u>Achieving YouTube Success Increasing Followers Quickly for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/fix-your-iphoneandroid-recover-lost-wordles/"><u>Fix Your iPhone/Android: Recover Lost Wordles</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-joy-con-connection-issues-on-nintendo-switch/"><u>Fixing Joy-Con Connection Issues on Nintendo Switch</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-honor-90-pro-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Honor 90 Pro.</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-liberating-laughter-through-limitations-funniest-facebook-detainment-tales/"><u>In 2024, Liberating Laughter Through Limitations Funniest Facebook Detainment Tales</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/mastering-yourwebcamrecordingbasics-for-2024/"><u>Mastering YourWebcam RecordingBasics for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-breakthrough-in-mobile-gaming-with-latest-app/"><u>Nvidia’s Breakthrough in Mobile Gaming with Latest App</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-tecno-by-fonelab-android-recover-data/"><u>Recover lost data from Tecno</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-reinstall-your-hardware-drivers-on-windows-10-by-drivereasy-guide/"><u>Use Device Manager to reinstall your hardware drivers on Windows 10</u></a></li>
+<li><a href="https://games-able.techidaily.com/win-at-csgo-increase-fps-quickly/"><u>Win at CS:GO: Increase FPS Quickly</u></a></li>
+</ul></div>
 

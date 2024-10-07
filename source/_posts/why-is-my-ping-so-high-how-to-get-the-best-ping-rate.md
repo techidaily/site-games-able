@@ -1,7 +1,7 @@
 ---
 title: Why Is My Ping So High? How to Get the Best Ping Rate
-date: 2024-09-30T07:40:26.518Z
-updated: 2024-10-02T12:35:52.420Z
+date: 2024-09-30T17:14:46.069Z
+updated: 2024-10-07T17:02:57.730Z
 tags:
   - games
 categories:
@@ -40,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/a4a765e99a54a380752423d8d88b32966a3339aa9
 
  The question is: how can you figure out what is causing the ping to rise, and how can you reduce it? Getting the best ping possible on your device will require you to optimize your internet connection on top of finding the root cause of the high ping. But no worries, though, as we'll teach you how to reduce it. So, keep reading.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Check How High the Ping Is
 
  If you assume that your games lag and stutter due to high ping, you should measure it to test your hypothesis. While some games show you the ping rate during gameplay, you should measure it directly to get a more accurate reading. On Windows, you can run a command in Command Prompt to check the ping rate. Here's how:
@@ -57,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/a4a765e99a54a380752423d8d88b32966a3339aa9
 ![Ping a game server via command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ping-a-game-server-via-command-prompt.jpg)
 4. Make a note of the average ping rate you get.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On macOS, open the Terminal app, type**ping \[IP address\],** and press**Enter** . To stop pinging a server, press**CTRL + C** .
 
  It's a similar process on most Linux distros, too. Open a Linux terminal, then input**ping \[IP address\]** . To stop pinging a server, press**CTRL + C** .
@@ -71,13 +57,6 @@ thumbnail: https://thmb.techidaily.com/a4a765e99a54a380752423d8d88b32966a3339aa9
  In all cases, you can swap out the IP address for a domain. For example,**ping makeuseof.com** .
 
  If the ping rate is high and corresponds to the one you get when playing the game, then you are correct in your assumption. This begs the question: Why is the ping so high?
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9 Tips to Get the Lowest Ping Possible
 
@@ -114,24 +93,31 @@ thumbnail: https://thmb.techidaily.com/a4a765e99a54a380752423d8d88b32966a3339aa9
 ![Activity Monitor Network tab on macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Activity-Monitor-Network-tab.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Likewise, if too many devices are connected to the same internet connection, hogging its resources, you can encounter the same problem. You should also disconnect other devices connected to the same internet connection. However, if no other device on your network is[using your internet bandwidth](https://www.makeuseof.com/tag/find-out-whos-eating-your-bandwidth-with-these-tips/) , the problem could be with the DNS cache or the game's server.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Switch Your Server
 
 ![An illustration showing two web servers deployed in a network](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/web-server.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  A high ping rate is usually a result of miscommunication between your connection's packet transmission rate and the game's server's response. When you're sure your internet speed is good enough, the culprit could be the game's server you're connected to.
 
@@ -159,25 +145,33 @@ thumbnail: https://thmb.techidaily.com/a4a765e99a54a380752423d8d88b32966a3339aa9
 
 [Flushing the DNS cache on Windows](https://www.makeuseof.com/flush-dns-cache-windows-11/) and[macOS](https://www.makeuseof.com/how-to-flush-dns-cache-mac/) is very straightforward. Therefore, try clearing it and see if it helps resolve the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Play the Game Outside the Regular Hours
 
 ![four clocks showing different time zones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/dl-featured-img-size-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  There are some games whose servers get crowded during specific hours of the day, but this isn't the case with most online games. Therefore, scheduling your gaming hours for a different time during the day may help you attain lower ping.
 
  The best way to determine the best time to play the game is by trial and error. Therefore, you should play the game at different times during the day to determine when the ping is the lowest.
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Disable Automatic Updates
@@ -196,16 +190,16 @@ thumbnail: https://thmb.techidaily.com/a4a765e99a54a380752423d8d88b32966a3339aa9
 
 ![modern wifi router placed on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/modern-wifi-router.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If none of the above fixes lower the ping rate and the issue persists, you should probably switch to a better internet plan, offering higher speed than your current subscription. Therefore, upgrade your internet package to see if the improved speed makes your connection more stable and reduces the ping rate.
 
  If upgrading to a high-speed internet plan does not reduce your ping rate, then your internet service provider could be to blame. To dispel this possibility, your last resort should be to change your internet service provider and see if doing so fixes the problem.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Get the Best Online Gaming Experience
 
@@ -228,24 +222,19 @@ thumbnail: https://thmb.techidaily.com/a4a765e99a54a380752423d8d88b32966a3339aa9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-explore-mastery-in-photography-and-videography-on-apple-and-android-phones/"><u>[New] 2024 Approved Explore Mastery in Photography & Videography on Apple & Android Phones</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-mold-personal-memes-that-resonate/"><u>[New] Mold Personal Memes That Resonate</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-3-step-formula-how-to-check-youtube-income/"><u>2024 Approved [3-Step Formula] How To Check YouTube Income</u></a></li>
-<li><a href="https://games-able.techidaily.com/affordable-pixelsplayzone-monitor-27m2v/"><u>Affordable PixelsPlayzone Monitor, 27M2V</u></a></li>
-<li><a href="https://games-able.techidaily.com/crafting-cost-effective-powerful-3d-games/"><u>Crafting Cost-Effective, Powerful 3D Games</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/delving-into-digital-devices-expert-advice-from-toms-hardware-team/"><u>Delving Into Digital Devices: Expert Advice From Tom's Hardware Team</u></a></li>
-<li><a href="https://games-able.techidaily.com/fixing-minecraft-launcher-error-0x803f8001-on-windows-devices/"><u>Fixing Minecraft Launcher Error 0X803F8001 on Windows Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/gain-smooth-play-solving-windows-based-epic-games-crashes/"><u>Gain Smooth Play: Solving Windows-Based Epic Games Crashes</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Motorola Edge 40 Pro? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-excel-at-pokemon-a-guide-for-ios-gamers/"><u>How to Excel at Pokémon: A Guide for iOS Gamers</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Oppo A59 5G? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-iphone-12-pro-online-without-jailbreak-by-drfone-ios/"><u>In 2024, How to Unlock SIM Card on iPhone 12 Pro online without jailbreak</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-leveraging-likes-and-shares-top-30-facebook-marketing-steps/"><u>In 2024, Leveraging Likes and Shares Top 30 Facebook Marketing Steps</u></a></li>
-<li><a href="https://games-able.techidaily.com/interpretation-and-correction-of-error-code-30005/"><u>Interpretation and Correction of Error Code 30005</u></a></li>
-<li><a href="https://games-able.techidaily.com/play-and-win-with-youtubes-innovative-test-minigames/"><u>Play and Win with YouTube's Innovative Test Minigames</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/polyglotism-a-path-to-better-brains/"><u>Polyglotism: A Path to Better Brains</u></a></li>
-<li><a href="https://games-able.techidaily.com/resolving-non-functional-steam-remote-play-on-pc/"><u>Resolving Non-Functional Steam Remote Play on PC</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/the-best-ai-translator-to-translate-videos-online/"><u>The Best AI Translator to Translate Videos Online</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-picks-for-gamers-8-leading-outlets-and-reviews/"><u>Top Picks for Gamers: #8 Leading Outlets & Reviews</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-seamless-video-transfer-from-youtube-to-instagram/"><u>[New] 2024 Approved Seamless Video Transfer From YouTube to Instagram</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-follower-fallout-on-instagram-how-to-spot-it-for-2024/"><u>[New] Follower Fallout on Instagram How to Spot It for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-mastering-iphone-screen-casts-with-ease-for-2024/"><u>[New] Mastering iPhone Screen Casts with Ease for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-quick-cash-on-reddit-here-are-13-ways-for-new-users/"><u>[Updated] Quick Cash on Reddit? Here Are 13 Ways for New Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-deep-dive-no-disc-drive-for-next-gen-gaming-consoles/"><u>A Deep Dive: No Disc Drive for Next-Gen Gaming Consoles</u></a></li>
+<li><a href="https://games-able.techidaily.com/after-the-subscription-apsplus-games-new-path/"><u>After the Subscription: APS+ Game's New Path</u></a></li>
+<li><a href="https://games-able.techidaily.com/amds-new-gpu-duo-understanding-xt-series-specs-rx-7800-and-7700xt/"><u>AMD's New GPU Duo: Understanding XT Series Specs - RX 7800 & 7700XT</u></a></li>
+<li><a href="https://games-able.techidaily.com/approaching-unverified-files-in-steam/"><u>Approaching Unverified Files in Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoid-loss-of-game-memories-by-duplicating-steam-captures/"><u>Avoid Loss of Game Memories by Duplicating Steam Captures</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-steam-deck-your-guide/"><u>Best Steam Deck: Your Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/connect-the-app-engine-url-back-in-the-google-apps-routines-interface-add-a-new-or-existing-action-then-enter-the-generated-app-engine-url-from-step-4-into-548/"><u>Connect the App Engine URL: Back in the Google App's Routines Interface, Add a New or Existing Action, Then Enter the Generated App Engine URL From Step 4 Into the URL Field. Save and Name Your Routine Accordingly.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-google-pixel-7a-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Google Pixel 7a to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-simplifying-massive-media-swap-iphone-to-mac-file-relocation/"><u>In 2024, Simplifying Massive Media Swap IPhone-to-Mac File Relocation</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-leaving-s-mode-on-win-1110/"><u>The Ultimate Guide: Leaving S Mode on Win 11/10</u></a></li>
 </ul></div>
 

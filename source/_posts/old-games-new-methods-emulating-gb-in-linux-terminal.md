@@ -1,7 +1,7 @@
 ---
 title: "Old Games, New Methods: Emulating GB in Linux Terminal"
-date: 2024-09-27T00:21:35.843Z
-updated: 2024-10-02T08:50:30.644Z
+date: 2024-10-02T16:44:58.169Z
+updated: 2024-10-07T18:41:56.797Z
 tags:
   - games
 categories:
@@ -44,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/db3dbeacfdd5ea435b3f8eb406f01646288938a03
  You should only use ROMS you legally own. You can find a huge variety of homebrew Game Boy ROMS at[Homebrew Hub](https://hh.gbdev.io/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Install php-terminal-gameboy-emulator on Linux
@@ -91,10 +91,10 @@ Make it executable with:
 `sudo mv php-gameboy.phar /usr/local/bin/php-gameboy`
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Play Awesome Game Boy Games in Your Linux Terminal
@@ -120,10 +120,10 @@ Make it executable with:
 | M                 | Start            |
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Impress Your Friends With php-terminal-gameboy-emulator
@@ -147,24 +147,19 @@ Make it executable with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-achieve-seamless-retrieval-of-twitters-humor-gifs-on-your-system-for-2024/"><u>[Updated] Achieve Seamless Retrieval of Twitter's Humor (GIFs) on Your System for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-top-10-miniature-portable-dvd-systems-unveiled/"><u>2024 Approved Top 10 Miniature Portable DVD Systems Unveiled</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>3 Ways to Change Location on Facebook Marketplace for Apple iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/affordable-4k-graphics-at-the-consumer-level/"><u>Affordable 4K Graphics at the Consumer Level</u></a></li>
-<li><a href="https://games-able.techidaily.com/demystifying-password-configuration-for-your-ps5-console/"><u>Demystifying Password Configuration for Your PS5 Console</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/discount-hunting-for-chinese-made-vr-devices/"><u>Discount Hunting for Chinese-Made VR Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-emulators-for-superior-steam-deck-gaming-experience/"><u>Essential Emulators for Superior Steam Deck Gaming Experience</u></a></li>
-<li><a href="https://games-able.techidaily.com/evaluating-the-nintendo-switch-online-upgrade/"><u>Evaluating the Nintendo Switch Online Upgrade</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/future-appraisal-unconventional-thoughts-for-2024/"><u>Future Appraisal Unconventional Thoughts for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/gamble-less-save-more-the-prime-picks-from-top-11-game-dealers/"><u>Gamble Less, Save More - The Prime Picks From Top 11 Game Dealers</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-track-a-lost-apple-iphone-13-mini-for-free-drfone-by-drfone-virtual-ios/"><u>How to Track a Lost Apple iPhone 13 mini for Free? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-samsung-galaxy-s24plus-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Samsung Galaxy S24+ | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/master-the-art-of-coding-redemption-xbox-edition/"><u>Master the Art of Coding Redemption: Xbox Edition</u></a></li>
-<li><a href="https://games-able.techidaily.com/psp-to-game-boy-coder-guide/"><u>PSP to Game Boy Coder Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamlining-gameplay-use-steams-disk-manager/"><u>Streamlining Gameplay: Use Steam’s Disk Manager</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-smart-choice-essential-steps-in-upgrading-your-tech/"><u>The Smart Choice Essential Steps in Upgrading Your Tech</u></a></li>
-<li><a href="https://some-skills.techidaily.com/upgraded-multitasking-with-microsofts-multi-display-feature-in-edge-for-2024/"><u>Upgraded Multitasking with Microsoft's Multi-Display Feature in Edge for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-do-vr-headsets-break-the-bank-here-are-4-pivotal-points/"><u>Why Do VR Headsets Break the Bank? Here Are 4 Pivotal Points</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-bulk-buy-subscribers-cost-effective-growth-strategy/"><u>[New] 2024 Approved Bulk Buy Subscribers Cost-Effective Growth Strategy</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-capturing-ps4-gaming-magic-in-full-detail-using-obs/"><u>[New] Capturing PS4 Gaming Magic in Full Detail Using OBS</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-framefraction-analysis/"><u>[New] FrameFraction Analysis</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-focus-on-the-details-with-videoleaps-zooming-feature/"><u>[Updated] In 2024, Focus on the Details with Videoleap's Zooming Feature</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-step-by-step-to-adobe-cloud-success-and-non-adobe-options/"><u>[Updated] Step-by-Step to Adobe Cloud Success & Non-Adobe Options</u></a></li>
+<li><a href="https://games-able.techidaily.com/4-essential-steps-for-amplifying-xbox-point-advantages/"><u>4 Essential Steps for Amplifying Xbox Point Advantages</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-unrecognized-benefits-in-ignoring-ray-tracings-hype/"><u>7 Unrecognized Benefits in Ignoring Ray Tracing's Hype</u></a></li>
+<li><a href="https://games-able.techidaily.com/apple-macos-sonoma-how-game-mode-enhances-gaming-experience/"><u>Apple MacOS Sonoma: How Game Mode Enhances Gaming Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoid-game-speakers-prioritize-headphones/"><u>Avoid Game Speakers, Prioritize Headphones</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effective-strategies-to-address-and-prevent-dpc-watchdog-failures-in-windows-11-systems/"><u>Effective Strategies to Address and Prevent DPC Watchdog Failures in Windows 11 Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhancing-your-gaming-experience-by-correcting-stutters-and-hangs-in-outriders-pc/"><u>Enhancing Your Gaming Experience by Correcting Stutters and Hangs in Outriders (PC)</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-asus-rog-phone-8-pro-by-drfone-android/"><u>In 2024, How to Bypass FRP from Asus ROG Phone 8 Pro?</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-level-up-your-video-editing-with-20-free-adobe-premiere-intro-templates/"><u>In 2024, Level Up Your Video Editing with 20 Free Adobe Premiere Intro Templates</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719161039995-on-the-spot-web-game-selection-here/"><u>On the Spot Web Game Selection, Here!</u></a></li>
 </ul></div>
 

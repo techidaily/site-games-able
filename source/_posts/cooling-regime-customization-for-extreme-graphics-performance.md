@@ -1,7 +1,7 @@
 ---
 title: Cooling Regime Customization for Extreme Graphics Performance
-date: 2024-10-01T00:36:44.315Z
-updated: 2024-10-01T22:31:01.896Z
+date: 2024-10-01T18:55:38.564Z
+updated: 2024-10-07T19:34:18.816Z
 tags:
   - games
 categories:
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 
  Unfortunately, that's the truth, but you can adjust your GPU fans to unlock better GPU performance, delivering much lower GPU temps in the process. You might even claw some extra lifespan from your GPU, too!
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why Should You Use a Custom GPU Fan Curve?
 
 ![1080 Ti fans](https://thmb.techidaily.com/7886b93aef2a0639ec1e094763681d9231c505608c149e23de7fcb6df36e4813.JPG)
@@ -48,10 +55,10 @@ Jhet Borja/MakeUseOf
 ![Applying thermal paste on GPU die](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/applying-thermal-paste-on-gpu-die.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jhet Borja/MakeUseOf
@@ -73,10 +80,10 @@ Jhet Borja/MakeUseOf
 ![Auto fan speed 0.963v test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/auto-fan-speed-0-963v-test.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You'll be using three programs to create and find the best fan curve for your graphics card.
@@ -85,13 +92,26 @@ Jhet Borja/MakeUseOf
 
 ![MSI Mystic Afterburner skin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/msi-mystic-afterburner-skin.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In case MSI Afterburner looks different from the screenshots, head to**Settings** , pan right to the last tab, click on**User Interface** , and choose**MSI Mystic Afterburner by skin by Derex Design** . Having the same skin will make it easier for you to follow along.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 2: Benchmark and Find Your Temperatures
@@ -115,23 +135,9 @@ Jhet Borja/MakeUseOf
 
  Now that we have the information, we can now put it to use in our custom GPU fan curve.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 3: Creating Your Custom GPU Fan Curve Using MSI Afterburner
 
 ![0% and 100% fan speed poitns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/0-and-100-fan-speed-poitns.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To create a custom GPU fan curve in MSI Afterburner, click**Settings** **\> Fan** . Here, you can move the points around to create your own fan curve. We've deleted all the other points and set 0% fan speed at 50°C and 100% fan speed at 75°C. You can also choose a lower maximum speed if you want.
 
@@ -162,20 +168,22 @@ Jhet Borja/MakeUseOf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-unbeatable-free-webcam-matchups-for-2024/"><u>[New] Unbeatable Free Webcam Matchups for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-unlock-the-secrets-of-stellar-snaps-and-snapchat-boomers-for-2024/"><u>[New] Unlock the Secrets of Stellar Snaps and Snapchat Boomers for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harnessing-creative-energy-for-impactful-lyric-videos-and-lyric-video-maker/"><u>[Updated] In 2024, Harnessing Creative Energy for Impactful Lyric Videos & Lyric Video Maker</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-snap-fast-moments-iphone-methods-for-blur-effects/"><u>[Updated] Snap Fast Moments IPhone Methods for Blur Effects</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-the-ultimate-lens-catalog-for-4k-industry-leaders/"><u>[Updated] The Ultimate Lens Catalog for 4K Industry Leaders</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-skyrocket-to-success-mastering-seo-for-youtubers-and-beyond/"><u>2024 Approved Skyrocket to Success Mastering SEO for YouTubers and Beyond</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apples-wwdc-2025-scoop-key-releases-and-updates-unveiled/"><u>Apple's WWDC 2025 Scoop: Key Releases & Updates Unveiled</u></a></li>
-<li><a href="https://games-able.techidaily.com/break-free-from-consoles-with-pc-advantages/"><u>Break Free From Consoles with PC Advantages</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/find-your-perfect-match-unbeatable-apple-watch-deals-this-month-only/"><u>Find Your Perfect Match: Unbeatable Apple Watch Deals This Month Only</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/instantly-resolve-no-charge-issues-with-these-quick-laptop-battery-tips/"><u>Instantly Resolve No Charge Issues with These Quick Laptop Battery Tips</u></a></li>
-<li><a href="https://games-able.techidaily.com/reverting-xbox-wireless-controls-on-s-and-x/"><u>Reverting Xbox Wireless Controls on S and X</u></a></li>
-<li><a href="https://games-able.techidaily.com/setting-up-games-installing-on-steam-deck/"><u>Setting Up Games: Installing On Steam Deck</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-144hz-widescreen-panels-peak-pc-gaming-performance/"><u>Top 144Hz Widescreen Panels: Peak PC Gaming Performance</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-the-secrets-to-choosing-a-superior-gaming-screen/"><u>Unlock the Secrets to Choosing a Superior Gaming Screen</u></a></li>
-<li><a href="https://games-able.techidaily.com/your-companion-to-finding-the-best-1440p-gaming-setups-on-a-shoestring/"><u>Your Companion to Finding the Best 1440P Gaming Setups on a Shoestring</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/erfecting-your-videos-narrative-integrating-timestamps-smartly-for-2024/"><u>[New] Perfecting Your Video's Narrative Integrating Timestamps Smartly for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/te-video-flair-advanced-techniques-in-youtube-studio-editor-for-2024/"><u>Elevate Video Flair Advanced Techniques in YouTube Studio Editor for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-honor-magic-6-pro-frp-by-drfone-android/"><u>Full Guide to Bypass Honor Magic 6 Pro FRP</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-use-classic-nintendo-controllers-on-steam/"><u>How to Use Classic Nintendo Controllers on Steam</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigate-the-excellent-world-of-top-vr-cycling/"><u>In 2024, Navigate the Excellent World of Top VR Cycling</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-spectral-synchronization-kit/"><u>In 2024, Spectral Synchronization Kit</u></a></li>
+<li><a href="https://games-able.techidaily.com/inside-amds-graphics-powerhouse-rx-7800xt-rx-7700xt/"><u>Inside AMD's Graphics Powerhouse: RX 7800XT, RX 7700XT</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-canon-mx490-printing-software-downloads-for-microsoft-windows-os/"><u>Latest Canon MX490 Printing Software Downloads for Microsoft Windows OS</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-nintendos-game-boy-advance-classics-on-your-idevice/"><u>Mastering Nintendo's Game Boy Advance Classics on Your iDevice</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-quiet-mode-on-xbox-series-xs-and-controllers/"><u>Mastering Quiet Mode on Xbox Series X/S & Controllers</u></a></li>
+<li><a href="https://games-able.techidaily.com/methods-to-stop-unintended-xbox-joystick-shifts/"><u>Methods to Stop Unintended Xbox Joystick Shifts</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-false-debit-alerts-on-game-console/"><u>Overcoming False Debit Alerts on Game Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/restoring-cloud-connectivity-in-steam-gear/"><u>Restoring Cloud Connectivity in Steam Gear</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-oneplus-ace-2-pro-by-fonelab-android-recover-video/"><u>The way to get back lost videos from OnePlus Ace 2 Pro</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-tech-life-by-upgrading-to-corsairs-icue-link-benefits/"><u>Transform Your Tech Life by Upgrading to Corsair's iCUE Link Benefits</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ram-wav-mp3-movavi/"><u>인터넷 통과한 RAM WAV 코어를 제공하기 위한 단순화된 MP3 변환 방법 – Movavi</u></a></li>
 </ul></div>
 

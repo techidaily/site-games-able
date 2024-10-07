@@ -1,7 +1,7 @@
 ---
 title: "Building Your Dream Gaming Rig: Essential Tips and Guides - SourceZnet"
-date: 2024-09-15T00:20:39.910Z
-updated: 2024-09-20T20:00:00.736Z
+date: 2024-09-30T16:11:01.338Z
+updated: 2024-10-07T18:37:46.526Z
 tags:
   - gaming
 categories:
@@ -41,6 +41,13 @@ Finally, you'll need a #1 Phillips head screwdriver. I have [this kit from iFixi
 
 I'd never installed an SSD in PS5, and it took me under 10 minutes from start to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Remove the back cover
 
 Before you begin, power off the PS5 and unplug the power cable, HDMI, and anything else connected to it. Lay the console on a table, with the front of the console (it's the side with the PS logo) facing down, and the rear of the console towards you. I put mine on top of a desk mat to prevent scratches on the case. 
@@ -51,6 +58,13 @@ To gain access to the SSD slot, you'll need to remove the back cover. If you hav
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove the expansion slot cover
 
 There's not a whole lot to look at with the panel removed from the PS5\. There's a fan, a lot of black, and then the expansion slot cover near the top of the housing. I rotated the PS5 so that the SSD slot was closer to me and easier to work on. 
@@ -60,10 +74,10 @@ There's a single screw holding the cover in place; remove it and set it aside in
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Move the screw and spacer inside the SSD housing
@@ -78,18 +92,18 @@ I then placed the spacer over the hole -- it's held in place by three dots, so d
 
 Jason Cipriani/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Insert the SSD and use the mounting screw
 
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -141,5 +155,22 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-premier-emulator-titles-simulating-playstation-2-on-ios/"><u>[New] 2024 Approved Premier Emulator Titles Simulating PlayStation 2 on iOS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-10-screen-recording-software-reviewed-on-pcmac-for-2024/"><u>[New] Top 10 Screen Recording Software Reviewed on PC/Mac for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ignite-engagement-top-3-youtube-live-stream-tips-for-understaffed-viewership/"><u>[Updated] Ignite Engagement Top 3 YouTube Live Stream Tips for Understaffed Viewership</u></a></li>
+<li><a href="https://games-able.techidaily.com/assist-controller-on-ps5-a-compre-points-of-entry-for-cannabinoids-into-the-brain-and-body/"><u>Assist Controller on PS5 - A Compre Points of Entry for Cannabinoids Into the Brain and Body</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-efficiency-and-speed-unlocking-potential-in-your-docked-device/"><u>Boosting Efficiency and Speed: Unlocking Potential in Your Docked Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-hidden-gems-a-love-affair-with-indie-titles/"><u>Discovering Hidden Gems: A Love Affair with Indie Titles</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-geforce-rtx-3070-drivers-compatible-with-windows-11-and-10/"><u>Download & Update GeForce RTX 3070 Drivers: Compatible with Windows 11 and 10</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/find-your-missing-iphone-memories-on-mac-with-advanced-data-recovery-software/"><u>Find Your Missing iPhone Memories on Mac with Advanced Data Recovery Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-playstation-to-pc-mastering-controller-commands/"><u>From PlayStation to PC: Mastering Controller Commands</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-and-simple-update-guide-for-microsoft-sculpt-keyboard-drivers/"><u>Quick and Simple Update Guide for Microsoft Sculpt Keyboard Drivers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/transforming-standard-tweets-into-hd-spectacles-for-2024/"><u>Transforming Standard Tweets Into HD Spectacles for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-the-secrets-of-ps5-power-up/"><u>Unlocking the Secrets of PS5 Power-Up</u></a></li>
+<li><a href="https://games-able.techidaily.com/white-power-white-dollars-gadgets-for-the-thrifty-techie/"><u>White Power, White Dollars: Gadgets for the Thrifty Techie</u></a></li>
+<li><a href="https://games-able.techidaily.com/wireless-playstation-controls-for-your-smartphone/"><u>Wireless PlayStation Controls for Your Smartphone</u></a></li>
+</ul></div>
 

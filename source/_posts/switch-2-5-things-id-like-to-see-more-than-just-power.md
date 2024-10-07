@@ -1,7 +1,7 @@
 ---
 title: "Switch 2: 5 Things I’d Like to See More Than Just Power"
-date: 2024-09-16T18:01:55.861Z
-updated: 2024-09-20T22:01:08.183Z
+date: 2024-10-02T16:33:45.402Z
+updated: 2024-10-07T17:07:02.459Z
 tags:
   - games
 categories:
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d0
 
 ![A white Wii U GamePad with a large screen surrounded by joysticks and buttons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/shutterstock_79169617.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Barone Firenze/[Shutterstock](https://www.shutterstock.com/image-photo/los-angeles-june-7-nintendo-showing-79169617)
 
  While Nintendo had great success with consoles such as the Switch, DS, and Wii, it has also delivered the occasional failure. The Wii U was a clear example of a product that’s great on paper, but less so when presented to the market. A confusing name and lackluster first-party launch titles resulted in poor sales.
@@ -40,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d0
  But the core concept of the Wii U was original and exciting: a second screen for your home console; the Wii, with a little bit of DS. The Switch came with a touchscreen of its own, but this hybrid always offered handheld play or docked, never the best of both.
 
  A bold approach would see a new run of two-screen games, but also a development of the Switch’s flexible selling point, giving us one more way to play.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2 An Upgradeable Dock
 
@@ -62,10 +76,10 @@ Nintendo
 ![Valnet Reviews Department Arlo Essential Indoor Camera placed on table with the privacy shutter covering the lens](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/05/arlo-essential-indoor-camera-placed-on-table-with-the-privacy-shutter-covering-the-lensjpg_53529842952_o.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Jerome Thomas / MakeUseOf
@@ -76,16 +90,16 @@ Nintendo
 
  It might also be fun to see a return of a proper camera, as lovable as the JoyCon IR is.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5 More Than One Game Card Slot
 
 ![shutterstock_1447447304](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/shutterstock_1447447304.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Back in the heyday of compact discs, one of the most sought-after features was a disc changer or multi-disc tray that gave access to several albums at once. I've never wanted a console equivalent quite as much as I do with the Nintendo Switch.
 
@@ -106,5 +120,23 @@ Nintendo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-ultimate-workplace-cloud-keep/"><u>[Updated] 2024 Approved Ultimate Workplace Cloud Keep</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-ideas-for-efficiently-using-gopro-power-supplies/"><u>[Updated] In 2024, Ideas for Efficiently Using GoPro Power Supplies</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-leveraging-yt-playlist-features-for-site-enhancement/"><u>[Updated] Leveraging YT Playlist Features for Site Enhancement</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/1-winxvideo-ai-top-ranked-ai-facelift-solution/"><u>1. Winxvideo AI - Top-Ranked AI Facelift Solution</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-unlocking-av1-an-entry-point-to-encoding/"><u>2024 Approved Unlocking AV1 An Entry Point to Encoding</u></a></li>
+<li><a href="https://games-able.techidaily.com/assessing-the-security-of-roblox-performance-hacks/"><u>Assessing the Security of Roblox Performance Hacks</u></a></li>
+<li><a href="https://games-able.techidaily.com/balancing-user-freedom-the-art-of-banning-and-u-banning-on-twitch/"><u>Balancing User Freedom: The Art of Banning and U-Banning on Twitch</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>Does Life360 Notify When You Log Out On Apple iPhone 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/embracing-the-future-microsoft-unveils-essential-gadgets-for-todays-hybrid-workplace-technews/"><u>Embracing the Future: Microsoft Unveils Essential Gadgets for Today’s Hybrid Workplace | TechNews</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-the-non-pressing-tab-button-on-windows-desktop/"><u>Fixing the Non-Pressing Tab Button on Windows Desktop</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/linkedin-profile-video-introduction-scope-dimensions-minutes-for-2024/"><u>LinkedIn Profile Video Introduction Scope, Dimensions, Minutes for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/making-good-on-unsatisfactory-fortnite-dealings/"><u>Making Good on Unsatisfactory Fortnite Dealings</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-battery-boosters-ps5-dualsense-controllers/"><u>Next-Gen Battery Boosters: PS5 DualSense Controllers</u></a></li>
+<li><a href="https://games-able.techidaily.com/secrets-to-a-better-gameplay-the-5-payment-perks-for-gamers/"><u>Secrets to a Better Gameplay: The 5 Payment Perks for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-6-core-features-that-make-games-intriguing/"><u>The 6 Core Features That Make Games Intriguing</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-cloud-synch-issues-in-steam-devices/"><u>Unraveling Cloud Synch Issues in Steam Devices</u></a></li>
+</ul></div>
 

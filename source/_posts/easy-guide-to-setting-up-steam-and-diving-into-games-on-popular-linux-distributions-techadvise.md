@@ -1,7 +1,7 @@
 ---
 title: Easy Guide to Setting Up Steam & Diving Into Games on Popular Linux Distributions | TechAdvise
-date: 2024-09-18T16:12:11.254Z
-updated: 2024-09-20T20:34:07.207Z
+date: 2024-10-01T17:13:02.904Z
+updated: 2024-10-07T19:30:57.115Z
 tags:
   - gaming
 categories:
@@ -41,6 +41,13 @@ Finally, you'll need a #1 Phillips head screwdriver. I have [this kit from iFixi
 
 I'd never installed an SSD in PS5, and it took me under 10 minutes from start to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Remove the back cover
 
 Before you begin, power off the PS5 and unplug the power cable, HDMI, and anything else connected to it. Lay the console on a table, with the front of the console (it's the side with the PS logo) facing down, and the rear of the console towards you. I put mine on top of a desk mat to prevent scratches on the case. 
@@ -51,6 +58,13 @@ To gain access to the SSD slot, you'll need to remove the back cover. If you hav
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove the expansion slot cover
 
 There's not a whole lot to look at with the panel removed from the PS5\. There's a fan, a lot of black, and then the expansion slot cover near the top of the housing. I rotated the PS5 so that the SSD slot was closer to me and easier to work on. 
@@ -60,10 +74,10 @@ There's a single screw holding the cover in place; remove it and set it aside in
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Move the screw and spacer inside the SSD housing
@@ -85,10 +99,10 @@ Slide the SSD into the connector at an angle. Push it in until you feel it lock 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Format the SSD
@@ -141,5 +155,22 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/omic-crafting-mastering-7-cheeky-content-strategies-for-2024/"><u>[New] Comic Crafting Mastering 7 Cheeky Content Strategies for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-future-file-fortresses-top-five-innovations-in-cloud-storage-for-2024/"><u>[New] Future File Fortresses Top Five Innovations in Cloud Storage for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-achieve-stardom-in-the-digital-world-by-growing-your-facebook-followers/"><u>[Updated] 2024 Approved Achieve Stardom in the Digital World by Growing Your Facebook Followers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-stand-out-design-and-customize-professional-logos-via-free-templates-for-2024/"><u>[Updated] Stand Out Design and Customize Professional Logos via Free Templates for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/2024s-leading-ddr5-motherboards-unveiled/"><u>2024'S Leading DDR5 Motherboards Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/accessing-steam-games-from-mobile-iphone-and-android-steam-link-methods/"><u>Accessing Steam Games From Mobile: IPhone & Android Steam Link Methods</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-luxury-for-your-virtual-journey/"><u>Affordable Luxury for Your Virtual Journey</u></a></li>
+<li><a href="https://games-able.techidaily.com/amds-latest-tech-fsr-3-threat-to-nvidias-dlss-supremacy/"><u>AMD's Latest Tech, FSR 3: Threat to NVIDIA's DLSS Supremacy?</u></a></li>
+<li><a href="https://games-able.techidaily.com/beating-high-costs-of-xbox-game-pass-briefly-effective-tips/"><u>Beating High Costs of Xbox Game Pass – Briefly Effective Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719171487913-bring-your-psp-experience-to-todays-technology/"><u>Bring Your PSP Experience to Today's Technology!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/connecting-ps-vr-headset-to-desktop-comprehensive-tutorial/"><u>Connecting PS VR Headset to Desktop - Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-silent-play-how-to-restore-audio-in-roblox-on-win11-and-win10/"><u>Fixing the Silent Play: How to Restore Audio in Roblox on Win11 and Win10</u></a></li>
+<li><a href="https://facebook.techidaily.com/fixing-your-frozen-facebook-page/"><u>Fixing Your Frozen Facebook Page</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-8-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock iPhone 8 With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+</ul></div>
 

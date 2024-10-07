@@ -1,7 +1,7 @@
 ---
 title: "Peeling Back Layers: Meta and Its Role in Gaming"
-date: 2024-09-24T20:06:11.894Z
-updated: 2024-10-02T11:40:41.591Z
+date: 2024-10-05T19:40:34.613Z
+updated: 2024-10-07T18:17:03.376Z
 tags:
   - games
 categories:
@@ -38,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/1f277a1e71fd10df1b01699e57758c33c523b120e
 ![A group of e-sports players in an arena.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/esport-arena1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 OpenAI / MakeUseOf
@@ -61,28 +61,28 @@ OpenAI / MakeUseOf
  At this point, you might be curious where the term meta came from. People sometimes claim that "meta" is an acronym, standing for "most efficient tactic available." There's no evidence of that, though it is a clever example of a "backronym," where people retroactively turn a word into an acronym. Instead, the term likely stemmed from the existing word "meta," which means something that refers to itself. This is because the meta is essentially a game based on a game, where strategies and tactics are devised before a round even starts.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Are Metas Good or Bad for Gaming?
 
 ![woman playing first person shooter on gaming pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/woman-playing-first-person-shooter-on-gaming-pc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  DC Studio/[Shutterstock](https://www.shutterstock.com/image-photo/over-shoulder-view-african-american-gamer-2177467491)
 
  You can't define metas as a strictly good or bad thing in gaming. It wholly depends on how the meta develops, and how the developers handle it after it arises.
 
  That's one of the fascinating things about metas. The core game can remain and persist through both good and bad meta changes. Let's look at how a meta can help or hurt a game.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How Metas Can Help Games
 
@@ -106,13 +106,6 @@ OpenAI / MakeUseOf
 
  Eventually, Dr. Boom got a nerf and the meta re-stabilised itself, but the card was forever deemed a meta-warper by Hearthstone players.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Should You Follow the Meta in Games?
 
  Because metas aren't strictly good or bad, it's important to know whether or not you should follow them.
@@ -130,6 +123,13 @@ OpenAI / MakeUseOf
  If you want to dig into the metas of the games you enjoy (or want to learn more about) a great place to start is gaming forums. Check if your game has a dedicated subreddit on reddit.com or elsewhere, like in forums on the developer's website, Steam, or so on. Gaming blogs aren't bad either, but you'll be hard-pressed to find any publication as committed to the meta-analysis of a single game as that game's subreddit.
 
  That's where you'll find people actively discussing, debating, and often complaining about the meta of a given game. You'll have plenty of reading material!
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### But Sometimes Following the Meta Kills the Fun
 
@@ -160,24 +160,21 @@ OpenAI / MakeUseOf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-apex-athletes-snowspeedcross-22-recaps/"><u>[New] 2024 Approved Apex Athletes Snowspeedcross '22 Recaps</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-transform-your-workspace-with-these-8-dynamic-backdrops/"><u>[New] Transform Your Workspace with These 8 Dynamic Backdrops</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-powerful-cinema-titles-that-bring-you-joy-and-strength/"><u>[Updated] In 2024, Powerful Cinema Titles That Bring You Joy & Strength</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-sims-4-gametime-the-recorders-handbook-for-2024/"><u>[Updated] Sims 4 Gametime The Recorder's Handbook for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-best-screen-recorder-for-youtube/"><u>2024 Approved Best Screen Recorder for YouTube</u></a></li>
-<li><a href="https://games-able.techidaily.com/celebrate-togetherness-with-shared-steam-games/"><u>Celebrate Togetherness with Shared Steam Games</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-nokia-g42-5g-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Nokia G42 5G</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-tips-for-unlocking-steam-achievements-quickly/"><u>Essential Tips for Unlocking Steam Achievements Quickly</u></a></li>
-<li><a href="https://games-able.techidaily.com/frugal-futurists-guide-to-budget-vr-gear/"><u>Frugal Futurists' Guide to Budget VR Gear</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-address-and-prevent-ark-application-from-crashing-problems/"><u>How to Address and Prevent ARK Application From Crashing Problems</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Vivo V27 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-fix-the-steam-service-error-on-windows-11/"><u>How to Fix the Steam Service Error on Windows 11</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/master-your-gameplay-essential-steps-5-tips-for-mac-users/"><u>Master Your Gameplay: Essential Steps (5 Tips) for Mac Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/opera-gx-and-edge-combat-ultimate-gaming-browser-winner/"><u>Opera GX & Edge Combat: Ultimate Gaming Browser Winner?</u></a></li>
-<li><a href="https://games-able.techidaily.com/opera-gx-claim-your-free-disco-for-a-month/"><u>Opera GX: Claim Your FREE Disco for a Month</u></a></li>
-<li><a href="https://games-able.techidaily.com/solving-steam-network-not-available-problem/"><u>Solving Steam Network Not Available Problem</u></a></li>
-<li><a href="https://extra-information.techidaily.com/synergy-of-enterprises-and-immersive-virtual-worlds/"><u>Synergy of Enterprises and Immersive Virtual Worlds</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-not-use-mic-features-on-ps5-control/"><u>Why Not Use Mic Features on PS5 Control?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-frame-loss-enigma-why-are-videos-cropped-by-imovie/"><u>[New] 2024 Approved Frame Loss Enigma Why Are Videos Cropped by iMovie?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-prioritize-savings-with-the-best-6-affordable-camera-brands/"><u>[Updated] In 2024, Prioritize Savings with the Best 6 Affordable Camera Brands</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-chuckle-cluster-a-curated-collection-of-funny-tiktok-jokes-and-riddles/"><u>2024 Approved Chuckle Cluster A Curated Collection of Funny TikTok Jokes and Riddles</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/behind-the-scenes-how-to-log-overwatch-games/"><u>Behind the Scenes How to Log Overwatch Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/boost-your-console-security-with-an-easy-to-follow-ps5-password-guide/"><u>Boost Your Console Security with an Easy-to-Follow PS5 Password Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/boost-your-game-with-the-best-charger-accessories-for-ps5-dualsense/"><u>Boost Your Game with the Best Charger Accessories for PS5 DualSense</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridging-the-gap-on-bluetooth-connection/"><u>Bridging the Gap on Bluetooth Connection</u></a></li>
+<li><a href="https://games-able.techidaily.com/bypass-blue-screen-fixing-epic-games-launcher-anomalies/"><u>Bypass Blue Screen: Fixing Epic Games Launcher Anomalies</u></a></li>
+<li><a href="https://games-able.techidaily.com/choose-your-champion-batocera-vs-retropie-for-rpi-gamers/"><u>Choose Your Champion: Batocera Vs. RetroPie for RPi Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/choosing-between-repairing-vs-exchanging-your-switch/"><u>Choosing Between Repairing Vs. Exchanging Your Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/co-op-play-connecting-ps5-systems/"><u>Co-Op Play: Connecting PS5 Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deciphering-codegpt-does-this-innovative-software-actually-compose-quality-code/"><u>Deciphering CodeGPT: Does This Innovative Software Actually Compose Quality Code?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-s23-tactical-edition-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Samsung Galaxy S23 Tactical Edition Pattern Lock Screen</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My OnePlus Ace 3? | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-protecting-identities-top-video-editing-tools-for-face-blurring-for-2024/"><u>New Protecting Identities Top Video Editing Tools for Face Blurring for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unleash Creativity in Chess with These 6 New Apps
-date: 2024-09-25T19:09:10.771Z
-updated: 2024-10-01T22:29:36.669Z
+date: 2024-10-05T16:31:08.230Z
+updated: 2024-10-07T18:02:11.035Z
 tags:
   - games
 categories:
@@ -33,22 +33,35 @@ thumbnail: https://thmb.techidaily.com/8f7510761ca720ed11b8607a0a38e0963e70a7dc5
 
  For reference, you can refer to the Wikipedia Elo rating range table. Above a rating of 1000, every 2000 points puts you in a different class of chess player.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2. Kung Fu Chess
 
 ![In Kung Fu Chess, you and your opponent don't take turns to play, but can move any and all pieces simultaneously](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-kung-fu-chess.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Chess is a turn-by-turn game, and the standard game encourages taking your time to think through each move. Kung Fu Chess changes the rules to remove the turn-by-turn style. You can move any piece at any moment without waiting for the opponent to make a move. It's basically taking the principles of real-time strategy games like Age of Empires and applying them to chess.
 
  Apart from waiting for your turn, the rest of the rules of chess are intact. The pieces move and behave like standard, and the objective is to capture the king. When you move a piece to any square, the square turns yellow and starts cooling down, blocking you from moving the piece for 10 seconds. You can obviously move any other piece in that cooldown period. You can also see the cooldown effect on the opponent's pieces. The idea is to plan your movements in such a way that you can make the perfect moves.
 
  Beginners should ideally start with the Kung Fu Chess solo campaign mode to play against a bot to learn and practice the new rules. Once you're confident, you can play against AI or a friend in both standard or lightning modes.
+
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3. Chesswith.Ai
 
@@ -71,10 +84,10 @@ thumbnail: https://thmb.techidaily.com/8f7510761ca720ed11b8607a0a38e0963e70a7dc5
 **Download:** Half Chess for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027833/https://play.google.com/store/apps/details?id=com.flipflopapp.halfchess&hl=en&gl=US) |[iOS](https://apps.apple.com/us/app/halfchess-play-chess-faster/id1182813218) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5. Really Bad Chess
@@ -87,28 +100,15 @@ thumbnail: https://thmb.techidaily.com/8f7510761ca720ed11b8607a0a38e0963e70a7dc5
 
 **Download:** Really Bad Chess for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027833/https://play.google.com/store/apps/details?id=com.noodlecake.reallybadchess) |[iOS](https://apps.apple.com/app/id1109751921) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6. Green Chess
 
 ![Green Chess has a large variety of chess variants to play online, and an active community so you'll find matchups easily](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-green-chess.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you're digging the idea of playing chess variants, you need to register for an account at Green Chess. This website has the largest collection of chess variants and an active community of users, so you're likely to find a match-up quickly.
@@ -138,14 +138,20 @@ thumbnail: https://thmb.techidaily.com/8f7510761ca720ed11b8607a0a38e0963e70a7dc5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-expert-iphone-software-roundup-selecting-ideal-watermark-tools/"><u>[New] In 2024, Expert iPhone Software Roundup Selecting Ideal Watermark Tools</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-esteemed-creators-best-of-breed-insta-hlv-makers-for-2024/"><u>[Updated] Esteemed Creators Best-of-Breed Insta HLV Makers for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-javas-game-world-what-catches-our-eye/"><u>Exploring Java's Game World: What Catches Our Eye</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-samsung-galaxy-m34-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Samsung Galaxy M34? Try These Fixes</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/iphone-users-ultimate-podcast-download-techniques/"><u>IPhone Users' Ultimate Podcast Download Techniques</u></a></li>
-<li><a href="https://games-able.techidaily.com/playing-fortnite-on-mac-watch-out-for-exceptions/"><u>Playing Fortnite on Mac? Watch Out for Exceptions!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-deleted-iphone-14-pro-max-whatsapp-attachments-on-mac-and-windows-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Recover Deleted iPhone 14 Pro Max WhatsApp Attachments on Mac and Windows | Stellar</u></a></li>
-<li><a href="https://games-able.techidaily.com/seamless-remote-access-to-your-games-on-an-alternate-drive/"><u>Seamless Remote Access to Your Games on an Alternate Drive</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-wireless-controller-wont-connect-to-your-pc-try-these-fixes/"><u>Xbox Wireless Controller Won't Connect to Your PC? Try These Fixes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-facebook-file-to-mp3-converter-tool-for-2024/"><u>[Updated] Facebook File to MP3 Converter Tool for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-expert-tips-for-youtube-short-pitfall-prevention/"><u>[Updated] In 2024, Expert Tips for YouTube Short Pitfall Prevention</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-premier-choices-for-accessible-screen-recorders/"><u>[Updated] Premier Choices for Accessible Screen Recorders</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-tweet-trends-unveiled-top-videos-of-the-twittersphere/"><u>[Updated] Tweet Trends Unveiled Top Videos of the Twittersphere</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-gaming-possibilities-for-your-android-phone/"><u>Exploring Gaming Possibilities for Your Android Phone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pro-level-hdr-mastery-your-compre-point-of-entry/"><u>In 2024, Pro Level HDR Mastery Your Compre Point of Entry</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/innovative-approaches-to-flawlessly-insert-chapters-into-your-youtube-content/"><u>Innovative Approaches to Flawlessly Insert Chapters Into Your YouTube Content</u></a></li>
+<li><a href="https://games-able.techidaily.com/joy-con-steam-compatibility-checklist/"><u>Joy-Con Steam Compatibility Checklist</u></a></li>
+<li><a href="https://games-able.techidaily.com/mech-keys-vs-regular-a-deep-dive-for-game-lovers/"><u>Mech Keys Vs. Regular: A Deep Dive for Game Lovers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Xiaomi 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-visual-performance-with-precision-in-series-sxs-variable-refresh-rate/"><u>Streamline Visual Performance with Precision in Series S/X's Variable Refresh Rate</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/taking-flight-on-creativity-discover-the-unique-battery-operated-all-in-one-pc-by-flying-lotus-crafted-with-a-laptop-core-and-advanced-3d-prints/"><u>Taking Flight on Creativity - Discover the Unique Battery-Operated All-in-One PC by Flying Lotus, Crafted with a Laptop Core and Advanced 3D Prints</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-raspberry-pi-case-for-classic-gaming-projects/"><u>The Ultimate Raspberry Pi Case for Classic Gaming Projects</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-5-perks-investing-in-yesteryears-gaming-tech/"><u>Top 5 Perks: Investing in Yesteryear's Gaming Tech</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-5-streamlined-methods-for-collecting-twitch-content/"><u>Top 5 Streamlined Methods for Collecting Twitch Content</u></a></li>
 </ul></div>
 

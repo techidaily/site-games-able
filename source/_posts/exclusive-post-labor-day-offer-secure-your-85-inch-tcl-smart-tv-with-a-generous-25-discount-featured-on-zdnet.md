@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Post-Labor Day Offer: Secure Your 85-Inch TCL Smart TV with a Generous 25%% Discount, Featured on ZDNet"
-date: 2024-09-16T20:55:51.700Z
-updated: 2024-09-20T19:04:22.984Z
+date: 2024-10-06T17:13:34.748Z
+updated: 2024-10-07T16:57:49.460Z
 tags:
   - gaming
 categories:
@@ -41,6 +41,13 @@ Finally, you'll need a #1 Phillips head screwdriver. I have [this kit from iFixi
 
 I'd never installed an SSD in PS5, and it took me under 10 minutes from start to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Remove the back cover
 
 Before you begin, power off the PS5 and unplug the power cable, HDMI, and anything else connected to it. Lay the console on a table, with the front of the console (it's the side with the PS logo) facing down, and the rear of the console towards you. I put mine on top of a desk mat to prevent scratches on the case. 
@@ -51,6 +58,13 @@ To gain access to the SSD slot, you'll need to remove the back cover. If you hav
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove the expansion slot cover
 
 There's not a whole lot to look at with the panel removed from the PS5\. There's a fan, a lot of black, and then the expansion slot cover near the top of the housing. I rotated the PS5 so that the SSD slot was closer to me and easier to work on. 
@@ -60,16 +74,10 @@ There's a single screw holding the cover in place; remove it and set it aside in
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Move the screw and spacer inside the SSD housing
@@ -91,16 +99,10 @@ Slide the SSD into the connector at an angle. Push it in until you feel it lock 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Format the SSD
@@ -153,5 +155,21 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-developing-dynamic-instagram-highlight-summaries-for-2024/"><u>[New] Developing Dynamic Instagram Highlight Summaries for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-photoshop-shake-control-necessary-tool-or-unnecessary-in-2024/"><u>[Updated] Photoshop Shake Control Necessary Tool or Unnecessary, In 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-seamless-synergy-merging-soundtracks-with-visual-narratives-in-modern-cinema/"><u>2024 Approved Seamless Synergy Merging Soundtracks with Visual Narratives in Modern Cinema</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-blueprint-for-enhancing-player-retention-four-xbox-reward-adjustments/"><u>A Blueprint for Enhancing Player Retention: Four Xbox Reward Adjustments</u></a></li>
+<li><a href="https://games-able.techidaily.com/access-your-xbox-games-on-steam-glossis-guide/"><u>Access Your Xbox Games on Steam - GlosSI's Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/assessing-the-impact-of-mechanical-keyboards-on-typing-speed/"><u>Assessing the Impact of Mechanical Keyboards on Typing Speed</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoid-data-disasters-with-steam-image-storage/"><u>Avoid Data Disasters with Steam Image Storage</u></a></li>
+<li><a href="https://games-able.techidaily.com/beat-the-system-hush-your-xbox-series-xs-vibrations/"><u>Beat the System: Hush Your Xbox Series X's Vibrations</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-2022-ice-dancing-showcase-review/"><u>In 2024, 2022 Ice Dancing Showcase Review</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/e-steps-adding-comprehensive-captions-to-youtube-videos-for-2024/"><u>Simple Steps Adding Comprehensive Captions to YouTube Videos for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-honor-90-pro-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Honor 90 Pro FRP</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719167065620-the-small-vs-big-pc-debate-make-an-informed-decision-today/"><u>The Small Vs. Big PC Debate: Make an Informed Decision Today</u></a></li>
+<li><a href="https://fox-links.techidaily.com/top-15-gopro-mounts-and-tripods-for-2024/"><u>Top 15 GoPro Mounts and Tripods for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/unleash-your-creativity-20-best-adobe-premiere-title-templates-free-download/"><u>Unleash Your Creativity 20 Best Adobe Premiere Title Templates Free Download</u></a></li>
+</ul></div>
 

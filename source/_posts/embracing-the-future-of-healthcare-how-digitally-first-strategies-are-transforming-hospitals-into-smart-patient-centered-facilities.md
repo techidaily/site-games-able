@@ -1,7 +1,7 @@
 ---
 title: "Embracing the Future of Healthcare: How Digitally-First Strategies Are Transforming Hospitals Into Smart, Patient-Centered Facilities"
-date: 2024-09-15T21:48:30.105Z
-updated: 2024-09-20T19:56:53.537Z
+date: 2024-10-02T16:29:02.398Z
+updated: 2024-10-07T17:31:10.715Z
 tags:
   - accelerate-your-tech-game
 categories:
@@ -41,6 +41,13 @@ Critical to the success of these programs however is the relationships between u
 
 These partnerships allow Cisco and Optus to provide insights and guidance in skills development, while also enabling them and their customers to bring in-demand skills more readily into their own organisations.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Working in partnership**
 
 There are numerous mechanisms through which both Optus and Cisco are forging close relationships with Australia's higher education institutions.
@@ -54,6 +61,13 @@ Getty/Tom Werner
 A team at South Australia's Flinders University for instance are investigating four research areas covering hospital digital infrastructure maturity and patient experience, while at NSW's University of Newcastle, investigations are proceeding into better models for meeting the health needs of rural and remote communities. In recent weeks, Optus announced the appointment of a Research Chair in Cybersecurity in partnership with the University of South Australia, which will play a critical role in driving forward the State's economic opportunities in the areas of Defence over the next decade.
 
 In addition, government grant programs are enabling La Trobe University, Swinburne University and Charles Darwin University to look into the impact of digitisation across industries from the use of 5G technology, such as how it can help councils better maintain assets through to how drones can be used to distribute medical supplies into remote indigenous communities. Other Innovation Central locations are investigating critical issues such as Australia's national digital security and the maintenance of critical supply chains.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Engagement in action**
 
@@ -70,10 +84,10 @@ At WA's Curtin University the NIIN partnership has been critical to supporting i
 This partnership is the latest in a long list of engagements between Cisco, Optus, and Curtin University, which has also included the creation of Western Australia's first dedicated research lab set to unleash new 5G applications and enhance student experience.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Conclusion**
@@ -97,5 +111,20 @@ Find out more [La Trobe University makes connecting a priority with Optus](https
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-financial-fortitude-for-youtubers-beyond-basic-earnings/"><u>[New] 2024 Approved Financial Fortitude for YouTubers Beyond Basic Earnings</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-capturing-speech-iphone-memo-making-steps/"><u>[New] Capturing Speech IPhone Memo-Making Steps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-from-dull-to-dazzling-revitalize-with-these-7-grading-choices/"><u>[Updated] From Dull to Dazzling Revitalize with These 7 Grading Choices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gamers-path-to-earnings-on-youtube-for-2024/"><u>[Updated] Gamer's Path to Earnings on YouTube for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/black-screen-on-latest-gpu/"><u>Black Screen on Latest GPU</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-oppo-reno-8t-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Oppo Reno 8T to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/embrace-space-savings-how-to-compress-retro-gaming-discs-with-chdman/"><u>Embrace Space Savings: How to Compress Retro Gaming Discs with ChDMan</u></a></li>
+<li><a href="https://games-able.techidaily.com/end-glitches-adopt-the-updated-nvidia-graphics-driver-now/"><u>End Glitches! Adopt the Updated Nvidia Graphics Driver Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-mystery-how-to-activate-undisclosed-browser/"><u>PS5 Mystery: How to Activate Undisclosed Browser?</u></a></li>
+<li><a href="https://games-able.techidaily.com/sustaining-the-spirit-of-gamers-beyond-burnout/"><u>Sustaining the Spirit of Gamers Beyond Burnout</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719171291411-the-ultimate-game-boy-advance-emulator-showdown-on-ios/"><u>The Ultimate Game Boy Advance Emulator Showdown on iOS!</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-and-repairing-robloxs-error-403-in-your-computer-system/"><u>Unraveling and Repairing Roblox's Error 403 in Your Computer System</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-best-things-in-life-are-free-top-10-fcpx-plugins-at-no-cost/"><u>Updated The Best Things in Life Are Free Top 10 FCPX Plugins at No Cost</u></a></li>
+</ul></div>
 

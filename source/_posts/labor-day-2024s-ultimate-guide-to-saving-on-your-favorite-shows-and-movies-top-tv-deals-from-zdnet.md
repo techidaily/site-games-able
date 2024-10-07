@@ -1,7 +1,7 @@
 ---
 title: "Labor Day 2024'S Ultimate Guide to Saving on Your Favorite Shows and Movies: Top TV Deals From ZDNET"
-date: 2024-09-19T19:16:08.267Z
-updated: 2024-09-21T01:35:26.961Z
+date: 2024-10-05T18:42:20.149Z
+updated: 2024-10-07T18:36:23.289Z
 tags:
   - gaming
 categories:
@@ -41,6 +41,13 @@ Finally, you'll need a #1 Phillips head screwdriver. I have [this kit from iFixi
 
 I'd never installed an SSD in PS5, and it took me under 10 minutes from start to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Remove the back cover
 
 Before you begin, power off the PS5 and unplug the power cable, HDMI, and anything else connected to it. Lay the console on a table, with the front of the console (it's the side with the PS logo) facing down, and the rear of the console towards you. I put mine on top of a desk mat to prevent scratches on the case. 
@@ -51,6 +58,13 @@ To gain access to the SSD slot, you'll need to remove the back cover. If you hav
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove the expansion slot cover
 
 There's not a whole lot to look at with the panel removed from the PS5\. There's a fan, a lot of black, and then the expansion slot cover near the top of the housing. I rotated the PS5 so that the SSD slot was closer to me and easier to work on. 
@@ -60,10 +74,10 @@ There's a single screw holding the cover in place; remove it and set it aside in
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Move the screw and spacer inside the SSD housing
@@ -79,10 +93,10 @@ I then placed the spacer over the hole -- it's held in place by three dots, so d
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Insert the SSD and use the mounting screw
@@ -141,5 +155,18 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-tips-for-efficiently-editing-videos-for-social-media-engagement-for-2024/"><u>[New] Tips for Efficiently Editing Videos for Social Media Engagement for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-shielding-identity-video-blur-and-privacy-preservation/"><u>[Updated] Shielding Identity Video Blur and Privacy Preservation</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-expert-tips-to-maximize-creativity-and-efficiency-in-obs-edits/"><u>2024 Approved Expert Tips to Maximize Creativity and Efficiency in OBS Edits</u></a></li>
+<li><a href="https://games-able.techidaily.com/androids-nostalgia-palette-old-pokemon-games/"><u>Android's Nostalgia Palette: Old Pokémon Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/arcade-racings-legacy-do-wheels-outperform-touchpads-now/"><u>Arcade Racing's Legacy: Do Wheels Outperform Touchpads Now?</u></a></li>
+<li><a href="https://games-able.techidaily.com/battle-of-the-titans-opera-gx-and-edge-in-browsers/"><u>Battle of the Titans: Opera GX and Edge in Browsers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-samsung-galaxy-z-flip-5-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Samsung Galaxy Z Flip 5</u></a></li>
+<li><a href="https://extra-information.techidaily.com/peak-summit-in-virtual-landscapes/"><u>Peak Summit in Virtual Landscapes</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719173817969-uncover-the-11-superb-free-word-puzzle-apps-today/"><u>Uncover the 11 Superb Free Word Puzzle Apps Today!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unleash-potential-7-exceptional-services-for-digital-art-nfts/"><u>Unleash Potential 7 Exceptional Services for Digital Art NFTs</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719163288986-unlock-footballs-secrets-fc-manager-game-free-edition/"><u>Unlock Football's Secrets: FC Manager Game, Free Edition!</u></a></li>
+</ul></div>
 

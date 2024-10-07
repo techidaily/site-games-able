@@ -1,7 +1,7 @@
 ---
 title: How to Buy Fortnite V-Bucks on a PS5
-date: 2024-09-13T19:12:07.703Z
-updated: 2024-09-20T19:36:23.762Z
+date: 2024-10-05T18:17:35.370Z
+updated: 2024-10-07T17:55:37.688Z
 tags:
   - games
 categories:
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/638a2f4fa92a4f27206abae8eaf7af1c219069283
 
  Once you have your money ready, you have to boot Fortnite and buy V-Bucks in-game.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Buy Fortnite V-Bucks In-Game
 
  After you open Fortnite and log in, you’ll find yourself in the lobby. Follow the steps below to buy V-Bucks:
@@ -45,14 +52,42 @@ thumbnail: https://thmb.techidaily.com/638a2f4fa92a4f27206abae8eaf7af1c219069283
 1. Continuously tap**R1** on your controller till you reach the**V-Bucks** tab in Fortnite’s menu.  
 ![Fortnite's V-Bucks tab on a PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/fortnite-s-v-bucks-tab-on-a-ps5.JPG)
 2. Select the one you want to buy and press**X** on your controller.
+
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Press and hold**X** on the resulting page.
 4. Optional: click the**three horizontal dots** and select**Change Payment Method** to choose another way to pay if you don’t want your wallet charged.  
 ![V-Bucks confirm purchase screen on a PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/v-bucks-confirm-purchase-screen-on-a-ps5.JPG)
 5. Select**Confirm Purchase** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Return back to the game and visit the**Battle Pass** and**Item Shop** tabs to buy a Battle Pass or some skins and emotes, respectively.
 
  Your PS5 will charge your wallet first before charging your card, even after selecting your card as the default payment method.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Rock Cool Outfits, Gliders, Emotes and More With V-Bucks
 
@@ -71,12 +106,20 @@ thumbnail: https://thmb.techidaily.com/638a2f4fa92a4f27206abae8eaf7af1c219069283
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-pixels-perfection-elevate-your-picture-crafting/"><u>[New] Pixels Perfection Elevate Your Picture Crafting</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-comprehensive-guide-to-live-streaming-with-obs-and-platforms/"><u>[Updated] In 2024, Comprehensive Guide to Live-Streaming with OBS and Platforms</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-no-money-down-for-vfx-wizards-exclusive-video-tutorials-on-free-green-screen-techniques-from-top-channels/"><u>2024 Approved No Money Down for VFX Wizards Exclusive Video Tutorials on Free Green Screen Techniques From Top Channels</u></a></li>
+<li><a href="https://games-able.techidaily.com/an-in-depth-look-at-xbox-game-passs-offerings/"><u>An In-Depth Look at Xbox Game Pass's Offerings</u></a></li>
+<li><a href="https://games-able.techidaily.com/controller-skills-play-android-games-with-precision/"><u>Controller Skills: Play Android Games with Precision</u></a></li>
+<li><a href="https://games-able.techidaily.com/deleting-outdated-data-from-your-ps5-saved-games/"><u>Deleting Outdated Data From Your PS5 Saved Games</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/dvd-in-mkv-konvertieren-fur-mac-nutzer-einfache-und-qualitatssichernde-methoden-erklart/"><u>DVD in MKV Konvertieren Für Mac Nutzer – Einfache Und Qualitätssichernde Methoden Erklärt</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/enhance-creativity-in-video-editing-these-7-sources/"><u>Enhance Creativity in Video Editing - These 7 Sources</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-linguistics-stepwise-rom-patch-application-guide/"><u>Game Linguistics: Stepwise Rom Patch Application Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-youtubes-latest-twist-with-fresh-fun-mini-games-on-screen/"><u>Game On: YouTube's Latest Twist with Fresh, Fun Mini Games on Screen</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-zoom-session-division-for-starters/"><u>In 2024, Zoom Session Division for Starters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rushing-past-stuck-warcraft-64-patches/"><u>Rushing Past Stuck Warcraft 6.4 Patches</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-evolution-a-deep-dive-into-lgs-oled-monitors-ud88-w/"><u>The Evolution A Deep Dive Into LG's OLED Monitors UD88-W</u></a></li>
+</ul></div>
 

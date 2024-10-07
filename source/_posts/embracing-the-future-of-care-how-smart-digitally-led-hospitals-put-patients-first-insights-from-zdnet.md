@@ -1,7 +1,7 @@
 ---
 title: "Embracing the Future of Care: How Smart, Digitally-Led Hospitals Put Patients First - Insights From ZDNet"
-date: 2024-09-14T19:26:41.711Z
-updated: 2024-09-21T00:16:48.897Z
+date: 2024-10-05T18:33:30.752Z
+updated: 2024-10-07T18:07:48.778Z
 tags:
   - accelerate-your-tech-game
 categories:
@@ -35,6 +35,13 @@ A smart hospital platform must also be made sustainable, by supporting the tools
 
 And as its name suggests, a smart hospital platform must also be intelligent, by combining connected platforms and data with access to insights that support fast and accurate real-time decisions – both clinical and operational.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Benefits of being smart
 
 The benefits of smart platforms are becoming well understood, with analysis from McKinsey1 suggesting that in most OECD countries, implementing digital technologies in healthcare delivery could help deliver cost savings of more than 10 per cent of overall annual national healthcare expenditures.
@@ -44,6 +51,13 @@ The savings are easy to see, with research from Vector Consulting2 finding that 
 Vector also found respondents sought benefits including space analytics to provide insights on room usage and peak times in waiting rooms, and optimised scheduling using data analytics to improve operating room schedules and reduce the amount of idle time between procedures.
 
 But perhaps most importantly, such investments can also support better health outcomes – a goal that Vector found was driving 65 per cent of smart hospital investments.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Building the smart hospital
 
@@ -56,16 +70,10 @@ The long-term opportunity is to create true data-driven hospital experiences, wh
 Having data available in such a way can not only support the patient experience, but when appropriately anonymised and managed, it can be used to create digital twins which can be used for planning and what-if analysis.
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Strength through partnership
@@ -81,10 +89,10 @@ This partnership is helping uncover new ways to improve the joint value of healt
 These networks can provide a single platform to operate and manage clinical workflows while providing public and private network connectivity and supporting building management systems and security operation.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -115,5 +123,18 @@ To find out more request a copy of the Optus report ['Smart Hospitals: The Futur
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elite-recording-tools-for-gamers-for-2024/"><u>[Updated] Elite Recording Tools for Gamers for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-tycoon-titanics-unveil-the-best-12-for-your-ultimate-business-triumph-for-2024/"><u>[Updated] Tycoon Titanics Unveil the Best 12 for Your Ultimate Business Triumph for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/e-identity-a-quick-walkthrough-of-customizing-your-youtube-url/"><u>Create Identity A Quick Walkthrough of Customizing Your YouTube Url</u></a></li>
+<li><a href="https://games-able.techidaily.com/entertain-yourself-with-these-quick-web-gaming-hits/"><u>Entertain Yourself with These Quick Web Gaming Hits</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-non-commercial-intense-gaming-titles/"><u>Explore Non-Commercial, Intense Gaming Titles</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-experiential-business-the-vr-revolution/"><u>In 2024, Experiential Business The VR Revolution</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-snapseed-101-basic-editing-techniques-unveiled/"><u>In 2024, Snapseed 101 Basic Editing Techniques Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/share-your-games-seamlessly-on-ps5/"><u>Share Your Games Seamlessly on PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-game-enthusiasm-with-a-revamped-microsoft-xbox-points-system/"><u>Unlocking Game Enthusiasm with a Revamped Microsoft Xbox Points System</u></a></li>
+<li><a href="https://games-able.techidaily.com/valve-cuts-off-abuse-avenues-in-gaming-refunds/"><u>Valve Cuts Off Abuse Avenues in Gaming Refunds</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mp4-mts3/"><u>スマホとパソコンでも使える無料MP4変換器 - MTSファイル対応のベスト3・・・今すぐ始めよう!</u></a></li>
+</ul></div>
 

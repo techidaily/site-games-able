@@ -1,7 +1,7 @@
 ---
 title: "The Logitech G Cloud Handheld Console Assessed: Tantalizingly Great Potential with Some Setbacks | Insights by ZDNET"
-date: 2024-09-17T23:33:55.041Z
-updated: 2024-09-20T23:46:39.396Z
+date: 2024-10-01T19:32:05.046Z
+updated: 2024-10-07T18:17:59.278Z
 tags:
   - gaming
 categories:
@@ -51,6 +51,13 @@ To gain access to the SSD slot, you'll need to remove the back cover. If you hav
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove the expansion slot cover
 
 There's not a whole lot to look at with the panel removed from the PS5\. There's a fan, a lot of black, and then the expansion slot cover near the top of the housing. I rotated the PS5 so that the SSD slot was closer to me and easier to work on. 
@@ -58,6 +65,13 @@ There's not a whole lot to look at with the panel removed from the PS5\. There's
 There's a single screw holding the cover in place; remove it and set it aside in a safe place. Optional step: Take a few seconds to appreciate the PlayStation button icons on the head of the screw. 
 
 Jason Cipriani/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Move the screw and spacer inside the SSD housing
 
@@ -72,10 +86,10 @@ I then placed the spacer over the hole -- it's held in place by three dots, so d
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Insert the SSD and use the mounting screw
@@ -85,10 +99,10 @@ Slide the SSD into the connector at an angle. Push it in until you feel it lock 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Format the SSD
@@ -141,5 +155,24 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-5-breakthrough-ways-to-preserve-precise-moments-in-vr-games/"><u>[Updated] 5 Breakthrough Ways to Preserve Precise Moments in VR Games</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-streamlabs-versus-obs-the-ultimate-showdown/"><u>[Updated] In 2024, Streamlabs Versus OBS The Ultimate Showdown</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-lullabies-and-lightheartedness-asmr-sleep-helpers/"><u>[Updated] Lullabies and Lightheartedness ASMR Sleep Helpers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-marketing-mastery-crafting-robust-backlinks-for-growth/"><u>[Updated] YouTube Marketing Mastery Crafting Robust Backlinks for Growth</u></a></li>
+<li><a href="https://games-able.techidaily.com/4-fundamental-improvements-for-maximizing-xbox-player-loyalty/"><u>4 Fundamental Improvements for Maximizing Xbox Player Loyalty</u></a></li>
+<li><a href="https://games-able.techidaily.com/analyzing-the-need-for-anti-ghosting-features-in-gamers-choice/"><u>Analyzing the Need for Anti-Ghosting Features in Gamers' Choice</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoid-buyers-remorse-with-pc-compatibility-checks/"><u>Avoid Buyer's Remorse with PC Compatibility Checks</u></a></li>
+<li><a href="https://games-able.techidaily.com/beneath-the-hype-gears-impact-on-gaming/"><u>Beneath the Hype: Gear's Impact on Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-controller-powered-mobile-adventures/"><u>Best Controller-Powered Mobile Adventures</u></a></li>
+<li><a href="https://facebook.techidaily.com/digital-realities-await-3-concerns-of-facebooks-metaverse/"><u>Digital Realities Await - 3 Concerns of Facebook's Metaverse</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719168491399-give-your-computer-a-boost-upgrade-to-latest-nvidia-drivers/"><u>Give Your Computer a Boost: Upgrade to Latest Nvidia Drivers.</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ideal-steadicams-for-capturing-quality-uav-visuals-for-2024/"><u>Ideal Steadicams for Capturing Quality UAV Visuals for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-sony-xperia-1-v-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Sony Xperia 1 V Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719167776043-navigate-through-tech-troubles-with-new-nvidia-drivers/"><u>Navigate Through Tech Troubles with New Nvidia Drivers.</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172460954-prepare-for-fun-dive-into-chatgpts-favorite-6-games/"><u>Prepare For Fun: Dive Into ChatGPT’s Favorite 6 Games!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tranquil-sleep-soundtrack-expertly-selected-voices-for-2024/"><u>Tranquil Sleep Soundtrack Expertly Selected Voices for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016629268-windows-7-sound-trouble-heres-how-to-get-it-working-again/"><u>Windows 7 Sound Trouble? Here's How to Get It Working Again</u></a></li>
+</ul></div>
 

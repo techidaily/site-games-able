@@ -1,7 +1,7 @@
 ---
 title: "Dramatic Labor Day Sale: Save $350 on the HP Victus 15 Laptop Exclusive Deal at Best Buy"
-date: 2024-09-19T21:51:43.825Z
-updated: 2024-09-20T17:30:39.609Z
+date: 2024-10-03T17:08:20.585Z
+updated: 2024-10-07T18:54:42.706Z
 tags:
   - gaming
 categories:
@@ -41,6 +41,13 @@ Finally, you'll need a #1 Phillips head screwdriver. I have [this kit from iFixi
 
 I'd never installed an SSD in PS5, and it took me under 10 minutes from start to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Remove the back cover
 
 Before you begin, power off the PS5 and unplug the power cable, HDMI, and anything else connected to it. Lay the console on a table, with the front of the console (it's the side with the PS logo) facing down, and the rear of the console towards you. I put mine on top of a desk mat to prevent scratches on the case. 
@@ -50,6 +57,13 @@ Before you begin, power off the PS5 and unplug the power cable, HDMI, and anythi
 To gain access to the SSD slot, you'll need to remove the back cover. If you have it positioned face down and the back of the console facing you, lift up on the front right corner and slide to the left. Once it's off, set the panel to the side. 
 
 Jason Cipriani/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Remove the expansion slot cover
 
@@ -72,10 +86,10 @@ I then placed the spacer over the hole -- it's held in place by three dots, so d
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Insert the SSD and use the mounting screw
@@ -85,10 +99,10 @@ Slide the SSD into the connector at an angle. Push it in until you feel it lock 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Format the SSD
@@ -141,5 +155,24 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-ultimate-strategies-for-instagram-stories-mastery-for-2024/"><u>[New] Ultimate Strategies for Instagram Stories Mastery for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-cadence-in-clips-the-guide-to-musical-integration-on-ig/"><u>[Updated] In 2024, Cadence in Clips The Guide to Musical Integration on IG</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamlining-video-editing-in-obs-with-luts/"><u>[Updated] Streamlining Video Editing in OBS With LUTs</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-a-treasure-trove-of-9-complete-holiday-flicks-free-streaming/"><u>2024 Approved A Treasure Trove of 9 Complete Holiday Flicks, Free Streaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-ways-to-check-if-your-pc-parts-are-compatible-before-you-buy/"><u>7 Ways to Check If Your PC Parts Are Compatible Before You Buy</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-windows-1011-oculus-not-responding/"><u>Addressing Windows 10/11: Oculus Not Responding</u></a></li>
+<li><a href="https://games-able.techidaily.com/advanced-uv-filtering-gamewear/"><u>Advanced UV Filtering Gamewear</u></a></li>
+<li><a href="https://games-able.techidaily.com/alter-steams-primary-user-interface-language/"><u>Alter Steam’s Primary User Interface Language</u></a></li>
+<li><a href="https://games-able.techidaily.com/amds-rx-7800-and-7700-complete-guide/"><u>AMD's RX 7800 & 7700: Complete Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoid-gaming-grief-resolving-epic-launcher-fails-on-windows/"><u>Avoid Gaming Grief: Resolving Epic Launcher Fails on Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-of-both-worlds-10-compelling-game-apps-free/"><u>Best of Both Worlds: 10 Compelling Game Apps (Free!)</u></a></li>
+<li><a href="https://solve-help.techidaily.com/discover-the-best-13-free-dvd-players-for-windows-11-users-complete-review-and-comparisons/"><u>Discover the Best 13 Free DVD Players for Windows 11 Users - Complete Review and Comparisons</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Realme Narzo N55? | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-top-tips-for-secure-clear-stock-purchases/"><u>In 2024, Top Tips for Secure, Clear Stock Purchases</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719166302664-top-9-affordable-switch-games-no-pay-required/"><u>Top 9 Affordable Switch Games: No Pay Required!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-unsupported-commands-on-computer-screens/"><u>Troubleshooting Unsupported Commands on Computer Screens</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-vivo-s17t-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Vivo S17t Phone Network-Ready</u></a></li>
+</ul></div>
 

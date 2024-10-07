@@ -1,7 +1,7 @@
 ---
 title: How to Manage Your Xbox Subscriptions From Your Series X|S
-date: 2024-09-14T16:06:32.427Z
-updated: 2024-09-20T19:34:44.073Z
+date: 2024-10-02T17:58:55.718Z
+updated: 2024-10-07T17:14:50.638Z
 tags:
   - games
 categories:
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/19a61f5995d579c8b7ad201fc517afd84cc338957
 
  Luckily, just like how you can[cancel your Xbox Game Pass subscription](https://www.makeuseof.com/how-to-cancel-your-xbox-game-pass-subscription/) online or from your console, you can do the same with all other Xbox subscriptions.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Add and Remove Subscriptions on Your Xbox Series X|S
 
  Now you know the specific information regarding managing subscriptions from your Xbox Series X|S, let's look at how you can actually manage subscriptions from your console. To manage Xbox subscriptions from your Xbox Series X|S, follow these steps:
@@ -56,6 +63,13 @@ thumbnail: https://thmb.techidaily.com/19a61f5995d579c8b7ad201fc517afd84cc338957
 
 ![A screenshot of the available Active and Cancelled Xbox subscriptions on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2648.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you are on the**Subscriptions** page of your Xbox, select an**Active** or**Canceled** subscription to start managing the service.
 
 ![A screenshot of the available features for Subscriptions on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2651.jpg)
@@ -69,6 +83,13 @@ thumbnail: https://thmb.techidaily.com/19a61f5995d579c8b7ad201fc517afd84cc338957
 * **Cancel subscription** allows you to end a monthly subscription.
 
  While these features cover the most common ways you can manage your Xbox subscriptions, some of the features require the Microsoft Edge app on your Xbox.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Use Microsoft Edge to Manage Subscriptions on Xbox
 
@@ -86,10 +107,16 @@ thumbnail: https://thmb.techidaily.com/19a61f5995d579c8b7ad201fc517afd84cc338957
  But with accessible ways of switching and activating subscriptions straight from your Xbox, you at least don't have to worry about hitting any roadblocks when managing subscriptions from your Series X|S.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Remove the Worry of Managing Subscriptions With Your Xbox Series X|S
@@ -111,5 +138,19 @@ thumbnail: https://thmb.techidaily.com/19a61f5995d579c8b7ad201fc517afd84cc338957
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-editing-pro-tips-for-aspiring-sports-video-makers/"><u>[Updated] In 2024, Editing Pro Tips for Aspiring Sports Video Makers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-top-photography-choices-for-sharpest-4k-reflections/"><u>[Updated] In 2024, Top Photography Choices for Sharpest 4K Reflections</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-become-a-social-media-vanguard-top-10-pioneering-igtv-techniques-for-marketing-excellence/"><u>2024 Approved Become a Social Media Vanguard Top 10 Pioneering IGTV Techniques for Marketing Excellence</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-blueprint-of-dynamic-dialogue-in-scripts/"><u>2024 Approved The Blueprint of Dynamic Dialogue in Scripts</u></a></li>
+<li><a href="https://games-able.techidaily.com/cutting-cost-not-quality-in-your-ps5-gaming-package/"><u>Cutting Cost, Not Quality in Your PS5 Gaming Package</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-port-accessories-for-switch-gaming-experience-94-chars/"><u>Exploring Port Accessories for Switch Gaming Experience (94 Chars)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-samsung-galaxy-s23-tactical-edition-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Samsung Galaxy S23 Tactical Edition to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-the-arduino-nano-driver-installation-process-for-windows-users-no-more-headaches/"><u>Mastering the Arduino Nano Driver Installation Process for Windows Users: No More Headaches</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-calculating-storage-space-via-windows-powershell/"><u>Mastering the Art of Calculating Storage Space via Windows Powershell</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-gaming-cost-evolution-analysis/"><u>Steam's Gaming Cost Evolution Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/tailoring-display-and-illumination-for-optimal-gaming/"><u>Tailoring Display & Illumination for Optimal Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/when-to-rely-on-a-simple-ps5-controller-restart-solution/"><u>When to Rely on a Simple PS5 Controller Restart Solution</u></a></li>
+</ul></div>
 

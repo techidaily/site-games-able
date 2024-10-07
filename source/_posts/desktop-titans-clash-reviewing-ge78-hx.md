@@ -1,7 +1,7 @@
 ---
 title: "Desktop Titans Clash: Reviewing GE78 HX"
-date: 2024-09-30T03:36:16.054Z
-updated: 2024-10-02T05:37:18.400Z
+date: 2024-10-01T18:08:21.675Z
+updated: 2024-10-07T18:32:12.533Z
 tags:
   - games
 categories:
@@ -142,10 +142,10 @@ Physical Webcam cover
  This laptop is mostly intended as a desktop replacement rather than something you take on the go as much. Carrying around its massive 330W power adapter is a workout, and the battery life won't keep you gaming—let alone browsing the web—for extended periods. That said, MSI has put a premium on cooling and maximizing performance, and it shows in the benchmark results. Just be ready to hit the gym if you plan to lug this beast around.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Configurations
@@ -157,6 +157,13 @@ Physical Webcam cover
  For those seeking the best bang for their buck, the**Raider GE78HX 13VI-079** is the one I'd suggest checking out. Priced at $2,600, it comes with the slightly faster Intel Core i9-13980HX, the powerful GeForce RTX 4080, a 17-inch 16:10 QHD+ (2560 x 1600) 240Hz display, 32GB DDR5 RAM, and a 1TB NVMe SSD.
 
  As with MSI's other lineups, one or two configurations usually have very competitive pricing that completely undercuts the rest of the competition. For example, one of the next cheapest options is the ASUS ROG Strix Scar 16, which offers similar specs but a smaller 16" display but is priced at $2,900.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Unmistakably Gaming
 
@@ -185,10 +192,10 @@ Physical Webcam cover
 ![MSI Raider GE78 HX - Plastic Trim](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/msi-raider-ge78-hx-plastic-trim.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Paul Antill / MakeUseOf
@@ -196,19 +203,6 @@ Physical Webcam cover
  On the build quality front, the Raider does reasonably well, with minimal creaking and just a bit of flex when pressure is applied to the outer lid. However, it's worth noting that it lacks the Unibody design found in competitors like the Razer Blade 18, which exudes a higher level of refinement.
 
  With its front LED bar, unique design elements, and lifted rear end, this laptop has a somewhat fragmented feel, but it's still solidly built. Whether you love its aesthetic or find it a bit over-the-top, it's impossible to ignore.
-
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Connectivity
 
@@ -222,18 +216,18 @@ Physical Webcam cover
 
 ![MSI Raider GE78 HX - Left Side](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/msi-raider-ge78-hx-left-side.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Paul Antill / MakeUseOf
 
  Moving to the back, there's an Ethernet port, HDMI 2.1, another USB Type-C port, and the power jack.
 
 ![MSI Raider GE78 HX - Rear Ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/msi-raider-ge78-hx-rear-ports.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Paul Antill / MakeUseOf
 
@@ -247,13 +241,6 @@ Physical Webcam cover
 
  The 240Hz refresh rate strikes a good balance. While the benefits of a 360Hz display might be imperceptible to the average user, this "slower" display brings cost savings, making it a worthwhile compromise. For games like Overwatch 2, where frame rates can reach 190-220 fps on the highest settings, the advantages of a faster display would only become apparent if you dialed down the settings considerably.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Trackpad and Keyboard
 
  The MSI Raider GE78 HX 13V offers a full-sized keyboard with a number pad, and the arrow keys are highlighted and also double as shortcuts to add a reticle to the screen, change fan speeds, play or pause media, or turn off the touchpad.
@@ -261,6 +248,13 @@ Physical Webcam cover
  For example, when in extreme performance mode, MSI tends to keep the fan speeds running faster even if there is minimal system load, so it's nice to have quick controls to slow the fans down and make it run quieter. Similarly, the Fn key lights up when you've activated an associated Fn function.
 
 ![MSI Raider GE78 HX - Keyboard Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/msi-raider-ge78-hx-keyboard-deck.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Paul Antill / MakeUseOf
 
@@ -271,13 +265,20 @@ Physical Webcam cover
 ![MSI Raider GE78 HX - Trackpad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/msi-raider-ge78-hx-trackpad.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Paul Antill / MakeUseOf
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Performance
 
@@ -295,13 +296,6 @@ Physical Webcam cover
 
  This is most noticeable while gaming if you are right-handed, as it can push out very hot air from its right side. With this being such a large laptop already, I tend to place my mouse within a few inches of the laptop. After about 15 minutes of gaming, the laptop can be unbearably hot if you're within 1-2 inches of it. I had to back away to about 4-5 inches not to notice the heat as much.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Gaming Benchmarks
 
 | Spider-Man Remastered (Very High Preset, DLAA - 1600p)            | 85-110 fps  |
@@ -315,13 +309,6 @@ Physical Webcam cover
  The MSI Raider GE78 HX 13V is a gaming powerhouse designed to deliver a stellar experience at 1600p. You can consistently run AAA titles at maximum settings with over 100 fps, even with DLSS upscaling off and demanding RTX features enabled. In less demanding FPS games like Overwatch 2, you'll enjoy a staggering 180-220 fps, and if you need even more frames, simply lower the settings to 1080p with High or Medium settings for an even more buttery 300+ fps.
 
 Close
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Performance Benchmarks
 
@@ -342,6 +329,13 @@ Close
  The gap in performance between laptops and desktops is narrowing, and the price difference is becoming less significant. The GE78 HX sits firmly at the top end of this market.
 
 ![MSI Raider GE78 HX - Front Angle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/msi-raider-ge78-hx-front-angle.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
 
@@ -370,24 +364,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-television-transformation-via-social-media-platforms-like-fb-live/"><u>[New] In 2024, Television Transformation via Social Media Platforms Like FB Live</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-youtube-dimensions-a-comprehensive-guide/"><u>[Updated] Mastering YouTube Dimensions A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-ppro-fs-insights-a-compreran-guide/"><u>[Updated] PPro FS Insights A Compreran Guide</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-social-media-savvy-top-101-bio-tips-and-techniques-for-facebookers/"><u>[Updated] Social Media Savvy Top 101 Bio Tips & Techniques for Facebookers</u></a></li>
-<li><a href="https://games-able.techidaily.com/analyzing-input-techniques-polling-rates-role/"><u>Analyzing Input Techniques: Polling Rate's Role</u></a></li>
-<li><a href="https://techtrends.techidaily.com/boost-your-productivity-5-simple-tips-for-enhancing-facebook-usage/"><u>Boost Your Productivity: 5 Simple Tips for Enhancing Facebook Usage</u></a></li>
-<li><a href="https://games-able.techidaily.com/bring-back-childhood-fun-with-iphone-gaming-classics/"><u>Bring Back Childhood Fun with iPhone Gaming Classics</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-command-prompt-skills-with-these-20-essentials/"><u>Elevate Your Command Prompt Skills with These 20 Essentials</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-free-guide-perfecting-your-youtube-audio-to-text-conversion/"><u>In 2024, Free Guide Perfecting Your YouTube Audio-to-Text Conversion</u></a></li>
-<li><a href="https://games-able.techidaily.com/keep-your-switch-sharp-and-durable-with-easy-steps/"><u>Keep Your Switch Sharp & Durable with Easy Steps</u></a></li>
-<li><a href="https://games-able.techidaily.com/melody-maven-leading-audio-trivia-games-on-smartphones/"><u>Melody Maven: Leading Audio Trivia Games on Smartphones</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigate-the-virtual-world-offline-top-gaming-apps/"><u>Navigate the Virtual World Offline - Top Gaming Apps</u></a></li>
-<li><a href="https://games-able.techidaily.com/re-launching-steam-a-triad-of-tips/"><u>Re-Launching Steam: A Triad of Tips</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-guide-to-outsmarting-ny-times-influence-daily/"><u>The Guide to Outsmarting NY Times Influence Daily</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-top-4-imperatives-boosting-xbox-points-strategy/"><u>The Top 4 Imperatives: Boosting Xbox Points Strategy</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ultimate-guide-to-manycam-top-live-streaming-app-and-webcam-alternative/"><u>Ultimate Guide to ManyCam: Top Live Streaming App and Webcam Alternative</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-and-executing-ps5-remote-reset/"><u>Understanding and Executing PS5 Remote Reset</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-poco-c51-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Poco C51 Device</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-top-5-mts-video-editing-software-recommended/"><u>Updated 2024 Approved Top 5 MTS Video Editing Software Recommended</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-effortless-integration-of-xbox-and-facebook-streams/"><u>[New] Effortless Integration of Xbox and Facebook Streams</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-10-youtube-music-rippers-for-android-and-ios-for-2024/"><u>[Updated] 10 YouTube Music Rippers for Android and iOS for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-tutorial-for-iphone-x-animoji-fun/"><u>2024 Approved The Ultimate Tutorial for iPhone X Animoji Fun</u></a></li>
+<li><a href="https://games-able.techidaily.com/camouflage-gaming-on-steam/"><u>Camouflage Gaming on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-you-change-the-background-on-your-ps5/"><u>Can You Change the Background on Your PS5?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-you-play-mp4-on-htc-u23-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can you play MP4 on HTC U23?</u></a></li>
+<li><a href="https://games-able.techidaily.com/case-studies-highlighting-successful-map-designs-that-effectively-integrate-functional-mapping-elements-with-aesthetic-considerations-eg-signage-in-public-s5/"><u>Case Studies Highlighting Successful Map Designs that Effectively Integrate Functional Mapping Elements with Aesthetic Considerations (E.g., Signage in Public Spaces).</u></a></li>
+<li><a href="https://games-able.techidaily.com/championship-edge-the-ultimate-7-iosandroid-sports-gaming-hits/"><u>Championship Edge: The Ultimate 7 iOS/Android Sports Gaming Hits</u></a></li>
+<li><a href="https://games-able.techidaily.com/choosing-devices-phone-or-tablet-gameplay/"><u>Choosing Devices: Phone or Tablet Gameplay?</u></a></li>
+<li><a href="https://games-able.techidaily.com/closing-the-backdoor-in-steams-reimbayer-route/"><u>Closing the Backdoor in Steam’s Reimbayer Route</u></a></li>
+<li><a href="https://games-able.techidaily.com/command-chronicles-a-selection-of-top-11-immersive-games/"><u>Command Chronicles: A Selection of Top 11 Immersive Games</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inside-toms-gearbox-in-depth-analysis-of-latest-hardware-by-experts/"><u>Inside Tom's Gearbox: In-Depth Analysis of Latest Hardware by Experts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/preventing-unexpected-game-interruptions-overcoming-ffxivs-pc-stability-issues/"><u>Preventing Unexpected Game Interruptions: Overcoming FFXIV's PC Stability Issues.</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/troubleshooting-frame-rate-drops-in-fallout-76-solutions-explored/"><u>Troubleshooting Frame Rate Drops in Fallout 76 - Solutions Explored</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/upgrade-your-media-with-winxvideo-ai-intelligent-videoimage-enhancer-for-recording-editing-converting-and-more/"><u>Upgrade Your Media with Winxvideo AI: Intelligent Video/Image Enhancer for Recording, Editing, Converting & More</u></a></li>
 </ul></div>
 

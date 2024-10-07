@@ -1,7 +1,7 @@
 ---
 title: Revolutionizing Security Strategies in Contemporary Large-Scale Network Designs | TechRepublic
-date: 2024-09-15T20:58:41.389Z
-updated: 2024-09-20T16:55:43.283Z
+date: 2024-10-04T18:59:04.853Z
+updated: 2024-10-07T16:12:17.992Z
 tags:
   - accelerate-your-tech-game
 categories:
@@ -31,6 +31,13 @@ At Cisco, one of the key tools enabling SASE is Cisco Umbrella, a cloud-based Se
 
 The second key concept of SASE is that of identity management, to ensure that remote users are who they claim to be. Cisco's approach to identity is based around zero trust network access using the multifactor authentication tool Cisco Duo, which verifies users' identities and establishes device trust before granting access to protected applications. Using Duo it is even possible to identify a user before they type in their name and password by first profiling the device they are using.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Intelligent security in the wide area network**
 
 What pulls the SASE concept together is the network that underpins it. By adopting a software-defined wide area network (SD-WAN) architecture, an organisation can not only gain full visibility of its network, but also achieves unprecedented flexibility to manage and change connections at will. 
@@ -42,6 +49,13 @@ The Optus SD-WAN offering incorporates a sophisticated control panel that enable
 Optus is also introducing licensing as a service, which will give users the flexibility to scale up and manage demands once they have purchased their hardware. 
 
 As part of the Optus Liquid Infrastructure solution, new overlay services are constantly in development, including security services that can be procured from within the platform itself – all from a single-pane-of-glass management console.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Security for a dynamic, distributed world**
 
@@ -70,12 +84,20 @@ For more information visit [optus.com.au/enterprise/networking](https://www.optu
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-customizing-iphone-tones-a-step-by-step-guide/"><u>[New] In 2024, Customizing iPhone Tones A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-unveiling-tv-friendly-practices-for-facebook-lives/"><u>[New] In 2024, Unveiling TV-Friendly Practices for Facebook Lives</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-misting-mistake-gopro-clarity-tips/"><u>2024 Approved Misting Mistake? GoPro Clarity Tips</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/a-comparison-guide-how-ipad-and-ipad-air-stack-up-against-each-other/"><u>A Comparison Guide: How iPad and iPad Air Stack Up Against Each Other</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-twitch-platform-features-and-usage-tips/"><u>Decoding Twitch: Platform Features and Usage Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/improving-virtual-connectivity-speed-addressing-high-latency-issues/"><u>Improving Virtual Connectivity Speed: Addressing High Latency Issues</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-google-pixel-8-pro-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Google Pixel 8 Pro to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-prime-free-enhancement-tool-for-pics-onlineapp/"><u>In 2024, Prime Free Enhancement Tool for Pics Online/App</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/obtain-your-latest-80211n-network-driver-update-for-compatible-windows-systems-windows-111087/"><u>Obtain Your Latest 802.11N Network Driver Update for Compatible Windows Systems (Windows 11/10/8/7)</u></a></li>
+<li><a href="https://games-able.techidaily.com/reconnecting-windows-11-steam-with-online-friends/"><u>Reconnecting Windows 11 Steam with Online Friends</u></a></li>
+<li><a href="https://games-able.techidaily.com/switch-to-immersive-viewing-tv-and-playnite-fullscreen-mode/"><u>Switch to Immersive Viewing - TV & Playnite Fullscreen Mode</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719167533097-transform-spaces-and-games-with-enhanced-cabinet-frames/"><u>Transform Spaces & Games with Enhanced Cabinet Frames</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-honor-x8b-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Honor X8b Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+</ul></div>
 

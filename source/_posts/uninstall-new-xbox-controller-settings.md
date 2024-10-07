@@ -1,7 +1,7 @@
 ---
 title: Uninstall New Xbox Controller Settings
-date: 2024-09-15T01:26:23.359Z
-updated: 2024-09-20T21:53:32.527Z
+date: 2024-10-02T19:13:47.993Z
+updated: 2024-10-07T19:19:49.717Z
 tags:
   - games
 categories:
@@ -50,13 +50,40 @@ thumbnail: https://thmb.techidaily.com/9dc3437ed1a0c4e12ecf0fe73c74b8d72b51654a1
 
 ![A screenshot of the Guide menu on an Xbox Series X with the option for Xbox Support highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3117.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Under the options for**Get Help** , highlight**Help topics** and select**Hardware & networking** .
 
 ![A screenshot of the Xbox Support service on an Xbox Series X with Hardware And Netorking highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3120.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Select**Controllers** followed by**Troubleshoot your Xbox Wireless Controller** .
 
 ![A screenshot of the Controllers section of the Xbox Support app on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3123.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * From here, choose the option for **My Xbox controller has connection issues after the last update** .
 
@@ -79,10 +106,10 @@ thumbnail: https://thmb.techidaily.com/9dc3437ed1a0c4e12ecf0fe73c74b8d72b51654a1
  Your Xbox will then start reverting the firmware of your Xbox Wireless Controller. Once the process is finished, your controller will have been downgraded to the prior firmware update and any issues associated with the current firmware should be removed.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Maintain Your Xbox Controller Physically and Through Its Firmware
@@ -104,5 +131,19 @@ thumbnail: https://thmb.techidaily.com/9dc3437ed1a0c4e12ecf0fe73c74b8d72b51654a1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-explore-the-most-reliable-photo-background-alternation-apps/"><u>[New] Explore the Most Reliable Photo-Background Alternation Apps</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-effortless-selection-of-personal-ending-music-samples/"><u>[Updated] 2024 Approved Effortless Selection of Personal Ending Music Samples</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-riding-the-wave-of-solitary-podcast-popularity/"><u>[Updated] Riding the Wave of Solitary Podcast Popularity</u></a></li>
+<li><a href="https://games-able.techidaily.com/exposing-inappropriate-behaviors-a-guide-to-series-sx-gamers/"><u>Exposing Inappropriate Behaviors: A Guide to Series S/X Gamers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guide-to-unfreezing-google-chrome-in-windows-10-without-a-glitch/"><u>Guide to Unfreezing Google Chrome in Windows 10 Without a Glitch</u></a></li>
+<li><a href="https://games-able.techidaily.com/leading-ddr5-motherboards-2024/"><u>Leading DDR5 Motherboards 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-steam-error-correction-in-windows-11/"><u>Mastering Steam Error Correction in Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-guide-installing-brother-mfc-7360n-printer-drivers-on-windows-11-8-and-7/"><u>Quick Guide: Installing Brother MFC-7360N Printer Drivers on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-safari-adventure-through-one-million-games/"><u>Screen Safari Adventure Through One Million Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/sidestep-seemingly-slow-summoners-startup/"><u>Sidestep Seemingly Slow Summoner's Startup</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-assist-controller-handbook-for-ps5/"><u>The Ultimate Assist Controller Handbook for PS5</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/uniformitat-in-der-finanzabrechnung-fur-die-rochling-gruppe-durch-den-einsatz-von-abbyy-und-sap/"><u>Uniformität in Der Finanzabrechnung Für Die Röchling-Gruppe Durch Den Einsatz Von ABBYY Und SAP</u></a></li>
+</ul></div>
 

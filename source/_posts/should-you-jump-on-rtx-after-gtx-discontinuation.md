@@ -1,7 +1,7 @@
 ---
 title: Should You Jump on RTX After GTX Discontinuation?
-date: 2024-09-20T00:17:49.136Z
-updated: 2024-09-20T22:13:23.286Z
+date: 2024-09-30T17:52:37.224Z
+updated: 2024-10-07T17:59:50.953Z
 tags:
   - games
 categories:
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/bca79052c5cd9d97263eb9f9d9f77145f2fe69685
 
  However, that doesn’t mean your graphics card will be unusable. Despite not having the latest updates, you can still play games, especially older ones. However, you will start to run into compatibility and stability issues for newer games, or titles that get constant updates.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How the Death of GTX Will Affect You
 
  Besides the eventual performance issues due to the lack of driver support, there are some long-term drawbacks to sticking with GTX.
@@ -54,26 +61,32 @@ thumbnail: https://thmb.techidaily.com/bca79052c5cd9d97263eb9f9d9f77145f2fe69685
 
 ![nvidia app image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/nvidia-app-image.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Nvidia](https://blogs.nvidia.com/blog/studio-driver-app-rtx-ai-adobe-premiere-pro/)
 
  Used GTX cards will also have unstable pricing. Whether you're selling or buying, it will be difficult to get the right timing. The limited stock will drive the prices up, but eventually the imminent end of driver updates will drive those prices down. And by then, GTX cards won't be worth it unless it's for a specific use case.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When Should You Upgrade to RTX? Or Should You Go With AMD or Intel?
 
 ![geforce rtx graphics card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/untitled-design.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Daniel Megias/[Shutterstock](https://www.shutterstock.com/image-photo/granada-spain-december-18-2021-pny-2093075371)
@@ -83,6 +96,13 @@ thumbnail: https://thmb.techidaily.com/bca79052c5cd9d97263eb9f9d9f77145f2fe69685
  However, there is a used RTX market now. If you went with an RTX, a used RTX 3060 Ti for around 30% lower than the recommended retail price would be a decent step up from any GTX card.
 
  Of course, you don't have to go RTX if Nvidia's extra features and software aren't a priority for you. AMD’s RX 6000 and 7000 series are pretty solid and often better priced than RTX cards, while having competitive performance.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## You Might Want to Upgrade Your GTX Graphics Card Soon
 
@@ -103,5 +123,16 @@ thumbnail: https://thmb.techidaily.com/bca79052c5cd9d97263eb9f9d9f77145f2fe69685
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-connectivity-at-its-peak-usb-c-and-the-hp-envy-27-monitor/"><u>[New] Connectivity at Its Peak USB-C & the HP Envy 27 Monitor</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-timeless-thread-triumphs-reddits-all-time-fave-list-top-10/"><u>2024 Approved Timeless Thread Triumphs Reddit’s All-Time Fave List (Top 10)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/essentials-in-filming-adventure-vlogs-for-2024/"><u>Essentials in Filming Adventure Vlogs for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-the-most-engaging-10-zero-ad-mobile-titles/"><u>Game On: The Most Engaging 10 Zero-Ad Mobile Titles</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Samsung Galaxy A24? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/is-luminances-hdr-suitable-for-production-in-2024/"><u>Is Luminance's HDR Suitable for Production, In 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/level-up-ambiance-customizing-console-light-intensity-on-xbox/"><u>Level Up Ambiance: Customizing Console Light Intensity on Xbox</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-blue-light-filtering-sunglasses/"><u>Prime Blue Light Filtering Sunglasses</u></a></li>
+<li><a href="https://games-able.techidaily.com/propel-your-play-expert-sites-to-skyrocket-gamerscore/"><u>Propel Your Play - Expert Sites to Skyrocket Gamerscore</u></a></li>
+</ul></div>
 

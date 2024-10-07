@@ -1,7 +1,7 @@
 ---
 title: How to Enable or Disable the Game Overlay in Discord
-date: 2024-09-13T16:08:11.969Z
-updated: 2024-09-20T18:23:12.752Z
+date: 2024-10-02T18:41:11.861Z
+updated: 2024-10-07T18:30:51.652Z
 tags:
   - games
 categories:
@@ -52,6 +52,13 @@ Here's how:
 5. Select the game you want to add from the list and hit**Add Game** .  
 ![Manually Add Roblox in Discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/manually-add-roblox-in-discord.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use the Discord Overlay During Gaming
 
  Once you have enabled the overlay, you'll get a notification for every incoming text or call, even when playing the game in full screen.
@@ -59,6 +66,13 @@ Here's how:
  If you need to respond to a text or call, open the overlay window using the shortcut key. If you want to engage with a specific server or contact, you can pin the chat so that it always remains visible to you. To do this, open the overlay window and click the**pin icon** in the top-right corner.
 
 ![Using Discord Overlay When Running VRChat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/using-discord-overlay-when-running-vrchat.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Sometimes, the Discord overlay does not work during gameplay. Do not worry if you encounter the same;[fixing the unresponsive Discord overlay on Windows](https://www.makeuseof.com/fix-discord-overlay-not-working-windows/) is easy and straightforward. It's just as easy to fix it on other devices as well.
 
@@ -77,13 +91,26 @@ Follow these steps to disable the in-game overlay:
 
 ![disable overlay for specific game in discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disable-overlay-for-specific-game-in-discord.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you want to temporarily turn off the overlay in a game, press the overlay shortcut on your keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Keep Track of Conversations Through Discord Overlay
@@ -103,5 +130,21 @@ Follow these steps to disable the in-game overlay:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-10-most-popular-beauty-gurus-on-youtube-for-2024/"><u>[Updated] 10 Most Popular Beauty Gurus on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-exploring-9-zero-price-editors-for-youtube-content/"><u>[Updated] In 2024, Exploring 9 Zero Price Editors for YouTube Content</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-unlocking-youtube-content-as-lively-download-free-animated-gifs/"><u>[Updated] In 2024, Unlocking YouTube Content as Lively, Download-Free Animated GIFs</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-aural-alignments-pairing-sounds-and-visuals/"><u>2024 Approved Aural Alignments Pairing Sounds & Visuals</u></a></li>
+<li><a href="https://games-able.techidaily.com/access-windows-11-photo-library-for-past-games/"><u>Access Windows 11 Photo Library for Past Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridge-the-time-classic-xbox-games-modern-pc-xemu/"><u>Bridge the Time: Classic Xbox Games, Modern PC, Xemu</u></a></li>
+<li><a href="https://network-issues.techidaily.com/brightening-blacked-out-win10-post-release/"><u>Brightening Blacked-Out Win10 Post Release</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/call-preserve-the-audio-diary-of-iphone-2024/"><u>Call Preserve The Audio Diary of iPhone 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/customization-mastery-the-ultimate-guide-to-personalizing-the-xbox-game-bar-in-windows/"><u>Customization Mastery: The Ultimate Guide to Personalizing the Xbox Game Bar in Windows</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-restore-excel-2000-file-stellar-by-stellar-guide/"><u>How Do I Restore Excel 2000 File ? | Stellar</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-to-mp3-simple-recording-steps/"><u>In 2024, YouTube to MP3 Simple Recording Steps</u></a></li>
+<li><a href="https://games-able.techidaily.com/in-ear-monitors-vs-standard-headphones-in-gaming/"><u>In-Ear Monitors Vs. Standard Headphones in Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-finder-ps5-ssds-rated/"><u>Ultimate Finder: PS5 SSDs Rated</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/unlock-your-boost-mobile-iphone-13-mini-before-the-plan-expires-by-drfone-ios/"><u>Unlock Your Boost Mobile iPhone 13 mini Before the Plan Expires</u></a></li>
+</ul></div>
 

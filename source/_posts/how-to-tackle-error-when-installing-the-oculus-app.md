@@ -1,7 +1,7 @@
 ---
 title: How To Tackle Error When Installing the Oculus App
-date: 2024-09-19T23:52:25.715Z
-updated: 2024-09-20T18:31:10.850Z
+date: 2024-10-01T18:33:13.231Z
+updated: 2024-10-07T18:00:47.445Z
 tags:
   - games
 categories:
@@ -33,17 +33,31 @@ thumbnail: https://thmb.techidaily.com/b0e6c7278d6ccf548c998db09b6cda475848470d5
 
  Some Windows programs require admin permission for installation. So, try running the Oculus installer file as an administrator to give it full system access. You can do that by right-clicking the**OculusSetup.exe** file and selecting**Run as administrator** .
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Deselect the Use Proxy Server Checkbox
 
 ![The Use a proxy server checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/use-a-proxy-server-option-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Disabling proxy servers is another fix a few Oculus app users confirm can fix the “we encountered an error” installation issue. You can deselect the**Use a proxy server** checkbox within Internet Properties. Our[guide to disabling proxy settings in Windows](https://www.makeuseof.com/windows-11-disable-proxy/) includes step-by-step instructions for how you can deselect that setting.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Temporarily Disable Microsoft Defender (or Third-Party Antivirus)
@@ -52,14 +66,14 @@ thumbnail: https://thmb.techidaily.com/b0e6c7278d6ccf548c998db09b6cda475848470d5
 
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/real-time-protection-option-1.jpg)
 
- If you utilize third-party antivirus software, turn off that app’s antivirus shield. Right-click a system tray icon for the antivirus software and select an option that will turn off its real-time antivirus shield (preferably for no longer than 30-60 minutes). Then try installing Oculus with your antivirus protection turned off.
-
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If you utilize third-party antivirus software, turn off that app’s antivirus shield. Right-click a system tray icon for the antivirus software and select an option that will turn off its real-time antivirus shield (preferably for no longer than 30-60 minutes). Then try installing Oculus with your antivirus protection turned off.
 
 ## 5\. Turn Off the Windows Firewall
 
@@ -91,10 +105,10 @@ thumbnail: https://thmb.techidaily.com/b0e6c7278d6ccf548c998db09b6cda475848470d5
 4. Repeat the previous step to delete any Oculus subfolders left behind at these folder locations:
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 `C:\Users\<User Folder>\AppData\LocalLow  
@@ -120,5 +134,26 @@ C:\Users\<User Folder>\AppData`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ural-adventures-discovering-the-top-15-instructional-music-videos/"><u>[New] Aural Adventures Discovering the Top 15 Instructional Music Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gain-traction-in-yt-mastering-green-screen-ctas-for-2024/"><u>[New] Gain Traction in YT Mastering Green Screen CTAs for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-vidextracter-facebook-streams-for-2024/"><u>[Updated] VidExtracter Facebook Streams for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/choosing-a-superior-tablet-the-impact-of-processor-specifications/"><u>Choosing a Superior Tablet: The Impact of Processor Specifications</u></a></li>
+<li><a href="https://games-able.techidaily.com/cross-device-command-mastery-uniting-pc-and-steam-deck-with-barrier-method/"><u>Cross-Device Command Mastery: Uniting PC and Steam Deck with Barrier Method</u></a></li>
+<li><a href="https://games-able.techidaily.com/cutting-edge-accessories-to-revolutionize-your-ps5/"><u>Cutting-Edge Accessories to Revolutionize Your PS5</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-the-disarray-of-chromeos-in-pixel-slate-critique/"><u>Exploring the Disarray of ChromeOS in Pixel Slate Critique</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-discover-chatgpts-best-6-interactive-games/"><u>Game On: Discover ChatGPT's Best 6 Interactive Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-ready-to-play-youtubes-innovative-mini-gaming-tests-announced/"><u>Get Ready to Play: YouTube's Innovative Mini Gaming Tests Announced</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-magic-v2-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor Magic V2 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-techniques-for-designing-attractive-vlog-narratives/"><u>In 2024, Innovative Techniques for Designing Attractive Vlog Narratives</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-microtransaction-integration-essential-in-premiums/"><u>Is Microtransaction Integration Essential in Premiums?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mobile-tools-optimize-and-enhance-audio-faster-for-2024/"><u>Mobile Tools Optimize and Enhance Audio Faster for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/nine-key-points-to-consider-when-choosing-mobile-games/"><u>Nine Key Points to Consider When Choosing Mobile Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/screen-enhancements-fullscreen-in-playnite-and-tvs/"><u>Screen Enhancements: Fullscreen in Playnite & TVs</u></a></li>
+<li><a href="https://games-able.techidaily.com/securing-reliable-wireless-performance-on-ps5/"><u>Securing Reliable Wireless Performance on PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/tech-savvy-parents-keeping-kids-safe-on-digital-platforms/"><u>Tech-Savvy Parents: Keeping Kids Safe on Digital Platforms</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-path-to-richer-textual-design-in-ae-for-2024/"><u>The Path to Richer Textual Design in AE for 2024</u></a></li>
+</ul></div>
 

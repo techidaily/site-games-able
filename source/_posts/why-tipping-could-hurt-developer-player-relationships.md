@@ -1,7 +1,7 @@
 ---
 title: Why Tipping Could Hurt Developer-Player Relationships
-date: 2024-09-18T02:01:44.249Z
-updated: 2024-09-21T00:11:56.349Z
+date: 2024-10-06T18:21:04.460Z
+updated: 2024-10-07T16:11:56.114Z
 tags:
   - games
 categories:
@@ -43,16 +43,16 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 
  Game devs working on their own, meanwhile, will struggle unless they strike gold. Perhaps the best example is Eric Barone, the creator of the smash-hit farming sim Stardew Valley. Barone worked on his own for over four years, but his game’s success has repaid him significantly; the developer now has a net worth estimated at $45m.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Alternatives Are Already Available
 
 ![A screenshot showing the Hollow Knight kickstarter campaign.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/hollow-knight-kickstarter.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Tipping is an interesting idea, but do we really need one more payment method?
 
@@ -63,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
  Buying a second copy—or “double-dipping”—is another tactic fans can use to reward game creators. This is more common in the indie scene, where physical collector's editions are abundant, and make a tangible companion to the digital copy of a game.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Negative Effects of Tipping Culture
@@ -77,9 +77,23 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 
  Encouraging a focus on tipping may just be papering over cracks in the model, and could serve to distract from the issue of a sustainable gaming economy that’s future-proofed against[AI and other threats](https://www.makeuseof.com/types-of-jobs-risk-ai/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When Tips Might Work
 
 ![A screenshot of Super Cable Boy’s page on itch.io showing a minimum price with an option to pay extra.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/super-cable-boy-itch.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Seeking some positivity, I reached out to two indie game developers for their take on the story.
 
@@ -116,5 +130,26 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-mastering-the-art-of-igtv-a-comprehensive-guide-for-social-media-pros/"><u>[New] In 2024, Mastering the Art of IGTV A Comprehensive Guide for Social Media Pros</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-audio-ease-out-methods-in-premiere-pro/"><u>[New] Mastering Audio Ease-Out Methods in Premiere Pro</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/1716068743268-updated-in-2024-screenmasters-unite/"><u>[Updated] In 2024, ScreenMasters Unite!</u></a></li>
+<li><a href="https://games-able.techidaily.com/475plus-ultra-responsive-screen-innocn-39g1r/"><u>$475+ Ultra-Responsive Screen: InnoCN 39G1R</u></a></li>
+<li><a href="https://games-able.techidaily.com/bargain-buying-bonanza-for-gamers-top-11-low-cost-video-game-retailers/"><u>Bargain Buying Bonanza for Gamers - Top 11 Low-Cost Video Game Retailers</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-essential-factors-for-peak-performance-in-gaming-mice/"><u>Discovering Essential Factors for Peak Performance in Gaming Mice</u></a></li>
+<li><a href="https://games-able.techidaily.com/diving-early-the-gamers-vote-on-pre-patch-games/"><u>Diving Early: The Gamers’ Vote on Pre-Patch Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-five-distinctive-features-of-premium-gaming-devices/"><u>Exploring Five Distinctive Features of Premium Gaming Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-balance-your-phones-resources-using-roblox-on-iphone/"><u>How to Balance Your Phone's Resources Using Roblox on iPhone</u></a></li>
+<li><a href="https://games-able.techidaily.com/ideal-ergonomic-surfaces-for-gaming-finesse/"><u>Ideal Ergonomic Surfaces for Gaming Finesse</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-on-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 On Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-unveiling-top-10-techniques-live-cricket-broadcasting/"><u>In 2024, Unveiling Top 10 Techniques Live Cricket Broadcasting</u></a></li>
+<li><a href="https://games-able.techidaily.com/journey-to-the-riches-of-gameplay-free-steam-gems-uncovered/"><u>Journey to the Riches of Gameplay: Free Steam Gems Uncovered</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/mastering-the-art-of-video-capturing-zdsofts-method/"><u>Mastering the Art of Video Capturing ZDSoft's Method</u></a></li>
+<li><a href="https://games-able.techidaily.com/methodical-approach-to-retrieving-your-steam-user-id/"><u>Methodical Approach to Retrieving Your Steam User ID</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/precision-tools-enhancing-chatgpt-on-a-macos-device/"><u>Precision Tools: Enhancing ChatGPT on a macOS Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revamp-your-image-top-7-solutions-for-sharpening-a-hazy-iphone-lens/"><u>Revamp Your Image: Top 7 Solutions for Sharpening a Hazy iPhone Lens</u></a></li>
+<li><a href="https://extra-information.techidaily.com/total-motion-analysis-2023/"><u>Total Motion Analysis 2023</u></a></li>
+</ul></div>
 

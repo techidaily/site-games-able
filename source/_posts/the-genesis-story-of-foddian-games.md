@@ -1,7 +1,7 @@
 ---
 title: The Genesis Story of Foddian Games
-date: 2024-09-28T08:26:04.167Z
-updated: 2024-10-02T10:14:23.504Z
+date: 2024-10-02T18:03:06.789Z
+updated: 2024-10-07T16:01:43.869Z
 tags:
   - games
 categories:
@@ -32,16 +32,10 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
 ![A guy in a pot holding a sledgehammer who is about to fall off a cliff](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/2-getting-over-it.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It all began with the Foddian game, "Getting Over It with Bennett Foddy". Getting Over It is a puzzle game that challenges the player to use a sledgehammer to propel themselves up steep ledges and across slick platforms to get to space. “Foddian” refers to the creator of the first game, Bennett Foddy, in this genre and represents titles of a similar format.
@@ -52,22 +46,15 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
 
  Getting Over It wasn’t the first platformer, but it created a format that has been improved upon in newer games that fall under the Foddian genre. Bennet Foddy pioneered an era of gaming, whether he intended to or not, and complex puzzle platforming games are better for it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### The Rise of Jump King
 
 ![The Jump King lying flat on a mossy platform after falling](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-jump-king.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Jump King is a title that transcends the Foddian game genre. You may have heard about the game thanks to its tendency to be played live on Twitch streams. Speedrunners are especially fond of the small series of Jump King games.
@@ -88,6 +75,13 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
 
  Ultimately, Foddian games are[a great way to interact with your subscribers](https://www.makeuseof.com/how-to-interact-with-subscribers-followers/) and let your personality shine. Some popular creators who have tried this include Ludwig, CdawgVA, Apharad, and Ironmouse. What’s more, there’s a high chance that your favorite creator has played some popular Foddian titles like Getting Over It, Pogostuck, Only Up!, or Jump King.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Evolution of Foddian Games
 
  Getting Over It created an exciting format that other game developers have explored to varying extents. A few other games fall into this genre, but only a couple have left a mark on the community.
@@ -97,13 +91,6 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
  Many Foddian games are 2D, but the genre isn’t limited to that representation. A great example of this is Only Up!—this game captures the ambiance of the Foddian genre in a 3D format. As such, it can be incredibly challenging but satisfying.
 
  Only Up! has become popular enough to dominate the viewership on Twitch for concurrent weeks. And while the hype is not the same as it was during release, many people still actively play the title.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Foddian Games: Difficult but Rewarding Platforming
 
@@ -116,6 +103,13 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
 ### Q: What Games Are Similar to Getting Over It With Bennett Foddy?
 
  Within the genre of Foddian games, numerous titles emulate the addicting frustration of games like Getting Over With Bennett Foddy. Of these games, titles like QWOP, an aggravating sprinting game in which you need to order every limb of your runner to move, or the classic browser game Happy Wheels, are some of the most popular Foddian-like games. That said, tons of[difficult browser games](https://www.makeuseof.com/tag/the-hardest-games-in-the-whole-wide-world/) also provide a similar Foddian experience.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Q: How Long Is Only Up!?
 
@@ -140,22 +134,24 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-podcast-broadcast-simplifier/"><u>[New] Ultimate Podcast Broadcast Simplifier</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-structured-approach-to-managing-youtube-videos-a-complete-watch-later-system/"><u>[Updated] 2024 Approved Structured Approach to Managing YouTube Videos A Complete Watch Later System</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-advanced-inshot-transition-methods-explained-for-2024/"><u>[Updated] Advanced Inshot Transition Methods Explained for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-os-xwindows-supercharged-discover-the-ultimate-10-srt-upgrades/"><u>[Updated] OS X/Windows Supercharged Discover the Ultimate 10 SRT Upgrades</u></a></li>
-<li><a href="https://games-able.techidaily.com/budget-friendly-keyboards-a-comprehensive-look/"><u>Budget-Friendly Keyboards: A Comprehensive Look</u></a></li>
-<li><a href="https://games-able.techidaily.com/companionable-conquest-the-best-15-smartphone-duo-adventures/"><u>Companionable Conquest: The Best 15 Smartphone Duo Adventures</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-install-game-launchers-on-your-steam-deck/"><u>How to Install Game Launchers on Your Steam Deck</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-fb-share-strategies-for-your-youtube-content/"><u>In 2024, FB Share Strategies for Your YouTube Content</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-sony-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Sony FRP Locks</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-from-blurry-to-brilliant-video-quality-improvement-solutions-for-2024/"><u>New From Blurry to Brilliant Video Quality Improvement Solutions for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimal-polling-rates-for-peak-productivity/"><u>Optimal Polling Rates for Peak Productivity?</u></a></li>
-<li><a href="https://video-capture.techidaily.com/prime-interactive-face-time-festivals-for-2024/"><u>Prime Interactive Face Time Festivals for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/solutions-for-unregistered-games-on-steam-platform/"><u>Solutions for Unregistered Games on Steam Platform</u></a></li>
-<li><a href="https://games-able.techidaily.com/superior-selection-of-16-joint-play-console-games/"><u>Superior Selection of 16 Joint Play Console Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-ergonomic-seats-for-giants-in-games/"><u>Ultimate Ergonomic Seats for Giants in Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/unexpected-indie-gems-the-games-that-stood-out/"><u>Unexpected Indie Gems: The Games That Stood Out</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-s-most-popular-online-video-reverse-editors/"><u>Updated S Most Popular Online Video Reverse Editors</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-a-step-by-step-to-adding-music-to-vimeo-videos/"><u>[New] A Step-by-Step to Adding Music to Vimeo Videos</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-talent-release-form-for-filming-and-video-to-free-download-for-2024/"><u>[New] Talent Release Form for Filming and Video to Free Download for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-auto-play-youtube-keep-it-hidden-stay-connected/"><u>[Updated] 2024 Approved Auto-Play YouTube - Keep It Hidden, Stay Connected</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-freefire-gaming-guide-maximizing-video-impact/"><u>[Updated] 2024 Approved FreeFire Gaming Guide Maximizing Video Impact</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-tech-unity-expert-easeus-reviews/"><u>[Updated] 2024 Approved Tech Unity Expert EaseUS Reviews</u></a></li>
+<li><a href="https://games-able.techidaily.com/460plus-rapid-response-monitor-innocn-39g1-r/"><u>$460+ Rapid Response Monitor: InnoCN 39G1 R</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-excellent-text-plugin-compendium/"><u>2024 Approved Excellent Text Plugin Compendium</u></a></li>
+<li><a href="https://games-able.techidaily.com/8-features-that-make-microsoft-edge-the-best-gaming-browser/"><u>8 Features That Make Microsoft Edge the Best Gaming Browser</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-comprehensible-approach-to-locking-your-ps5-games/"><u>A Comprehensible Approach to Locking Your PS5 Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-gamers-guide-to-ps4-hardware-restoration/"><u>A Gamer's Guide to PS4 Hardware Restoration</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieving-smooth-control-transition-from-pc-mousekeyboard-to-steam-deck-via-barrier-technique/"><u>Achieving Smooth Control Transition From PC Mouse/Keyboard To Steam Deck via Barrier Technique</u></a></li>
+<li><a href="https://games-able.techidaily.com/are-old-docks-suitable-for-nintendos-new-switch-oled/"><u>Are Old Docks Suitable for Nintendo's New Switch OLED?</u></a></li>
+<li><a href="https://games-able.techidaily.com/artistry-in-rhythm-stylus-or-pointer/"><u>Artistry in Rhythm: Stylus or Pointer?</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719163487039-become-a-master-at-nyts-strands-play-and-win/"><u>Become a Master at NYT’s Strands: Play & Win!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/cutting-edge-4k-tools-for-optimal-video-quality/"><u>Cutting-Edge 4K Tools for Optimal Video Quality</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/free-webm-conversion-software-ranked-top-10-choices-for-your-computer-or-online-platforms/"><u>Free WebM Conversion Software Ranked: Top 10 Choices for Your Computer or Online Platforms</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/zero-to-cool-video-star-your-mac-youtube-journey-starts-here-for-2024/"><u>From Zero to Cool Video Star Your Mac Youtube Journey Starts Here for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719166266886-mastering-new-york-times-word-challenge-unlock-your-brain/"><u>Mastering New York Times: Word Challenge - Unlock Your Brain</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Navigating Non-Hybrid Futures in Today's Workplace - Insights From ZDNet
-date: 2024-09-20T02:30:13.977Z
-updated: 2024-09-21T02:28:30.108Z
+date: 2024-10-05T18:33:29.989Z
+updated: 2024-10-07T16:33:13.287Z
 tags:
   - accelerate-your-tech-game
 categories:
@@ -31,6 +31,13 @@ For example, some work is highly collaborative, such as brainstorming and review
 
 The nature of modern knowledge work also means that many employees are likely to switch between different workstyles, often multiple times within a day. A culture that is inclusive and supportive of different work styles can be part of the foundation for designing a future of work that is focused on trust, choice, and outcomes. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Supporting workstyles**
 
 Once an employer has a clear understanding of the work a person is tasked to complete and the workstyles they will employ, they can make plans for where that work should be undertaken and for the tools the worker will use.
@@ -50,6 +57,13 @@ Optus brings close to thirty years' experience in wide- and local-area communica
 Cisco brings almost 40 years of experience in networking technology, backed by an unrivalled reputation for security and reliability. This includes Webex, an extensive suite of collaboration software and hardware, designed to provide the best possible experiences for people working in any scenario.
 
 By working in partnership Optus and Cisco bring together their respective strengths to create modern work scenarios that are powerful and flexible while also helping to the technology management burden for employers.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Conclusion**
 
@@ -72,12 +86,20 @@ By taking a human-centric approach to the workplace of the future, employers can
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-saving-a-look-at-your-window/"><u>[Updated] 2024 Approved Saving a Look at Your Window</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-complete-picture-an-in-depth-analysis-of-polarr-photo-tools/"><u>[Updated] The Complete Picture An In-Depth Analysis of Polarr Photo Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719163821039-10-hidden-gem-free-mobile-games-pure-fun/"><u>10 Hidden Gem Free Mobile Games - Pure Fun</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-optimal-zoom-features-in-google-meet-webinars/"><u>2024 Approved Unlocking Optimal Zoom Features in Google Meet Webinars</u></a></li>
+<li><a href="https://games-able.techidaily.com/ace-at-searching-spotting-individuals-in-steam/"><u>Ace at Searching: Spotting Individuals in Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieve-seamless-gameplay-how-to-use-controllers-with-ryujinx/"><u>Achieve Seamless Gameplay: How to Use Controllers with Ryujinx</u></a></li>
+<li><a href="https://games-able.techidaily.com/asuss-visionary-docking-stations-the-premier-rog-ally-models-of-2024/"><u>Asus's Visionary Docking Stations - The Premier RoG Ally Models of 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726028185887-facebook/"><u>Facebook動画再生苦情を解決する簡単方法</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-xiaomi-redmi-12-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Xiaomi Redmi 12</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-nubia-z50s-pro-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Nubia Z50S Pro</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/navigate-through-settings-enabledisable-video-comments/"><u>Navigate Through Settings Enable/Disable Video Comments</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-list-of-apples-pre-installed-offline-games/"><u>The Ultimate List of Apple's Pre-Installed, Offline Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-gaming-triumphs-with-the-wisdom-of-helldivers-2/"><u>Unlocking Gaming Triumphs with the Wisdom of Helldivers 2</u></a></li>
+</ul></div>
 

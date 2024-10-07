@@ -1,7 +1,7 @@
 ---
 title: Master Class on Resolving Common Graphics Card Problems
-date: 2024-09-19T20:23:10.930Z
-updated: 2024-09-20T20:10:11.429Z
+date: 2024-10-05T18:32:55.176Z
+updated: 2024-10-07T17:10:47.729Z
 tags:
   - games
 categories:
@@ -30,6 +30,19 @@ thumbnail: https://thmb.techidaily.com/2861a5dab13720b2493f18438249b45a68a3216a3
 
  Here are the most common problems with your GPU and how you can properly troubleshoot them—and, if possible, fix them.
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Overheating & Thermal Throttling
 
 ![pair of nvidia rtx 2080 gpus](https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854aa08d5996bdfaffcb47f66d.jpg)
@@ -41,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/2861a5dab13720b2493f18438249b45a68a3216a3
  To mitigate this, your GPU will deploy a self-protecting measure called[thermal throttling](https://www.makeuseof.com/what-is-gpu-thermal-throttling-in-gaming/) , which is when it will significantly reduce its performance and clock speed to not get permanently damaged by the heat. Ultimately, if it's too much for the chip to handle by its own means, it will shut off and crash to protect it. You don't want it to get bad enough for the latter thing to happen, so if your GPU is thermal throttling, you should take care of it immediately.
 
  To troubleshoot the causes of thermal throttling, you need to look at the ventilation going in and out of your GPU. For one, a fan might be damaged, or you might need to remove it and replace the thermal paste. If you are unsure why your GPU is thermal throttling, you might want to take it to a technician before permanent damage eventually happens.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Frame Drops & Reduced Performance
 
@@ -57,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/2861a5dab13720b2493f18438249b45a68a3216a3
 ![liquid cooled gaming PC build with RGB lighting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/liquid-cooled-gaming-pc-build.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This one can be especially annoying. You fire up a game, only to have[a black screen come up](https://www.makeuseof.com/fix-screen-going-black-gaming/) instead of the actual game. The black screen might even pop up mid-game or even in other apps, breaking your experience and causing crashes. Luckily, the culprit here isn't necessarily hard to nail down.
@@ -72,10 +92,10 @@ thumbnail: https://thmb.techidaily.com/2861a5dab13720b2493f18438249b45a68a3216a3
  If you haven't met the culprit,[try putting your PC in Safe Mode](https://www.makeuseof.com/windows-11-boot-safe-mode/) . This will discard all software-related issues. If the issue persists, there might be physical damage to the GPU, which you would need to replace.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Graphical Glitches & Artifacts
@@ -103,5 +123,26 @@ thumbnail: https://thmb.techidaily.com/2861a5dab13720b2493f18438249b45a68a3216a3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-from-concept-to-completion-crafting-youtube-shorts-templates-masterfully/"><u>[New] From Concept to Completion Crafting YouTube Shorts Templates Masterfully</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-embed-a-youtube-video-in-powerpoint/"><u>[Updated] How to Embed a YouTube Video in PowerPoint</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-overcome-video-loading-failure-chrome-for-2024/"><u>[Updated] Overcome Video Loading Failure Chrome for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-creative-text-amplification-tips/"><u>2024 Approved Creative Text Amplification Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoid-overheating-with-controlled-usage/"><u>Avoid Overheating with Controlled Usage</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-gaming-specifications-unveiled/"><u>Essential Gaming Specifications Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-advice-on-epic-steam-linkage/"><u>Expert Advice on Epic-Steam Linkage</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-perfect-blend-of-relaxation-and-growth-podcast-multi-tasking-tips/"><u>In 2024, The Perfect Blend of Relaxation and Growth Podcast Multi-Tasking Tips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-top-windows-photo-inspector-fast-edition/"><u>In 2024, Top Windows Photo Inspector, Fast Edition</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-nokia-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Nokia FRP Bypass</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-steams-invisible-user-settings/"><u>Navigating Steam's Invisible User Settings</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-picture-quality-with-personalized-xbox-variable-refresh-rate/"><u>Optimizing Picture Quality with Personalized Xbox Variable Refresh Rate</u></a></li>
+<li><a href="https://games-able.techidaily.com/peak-into-vrs-expensive-ecosystem-exploring-four-factors/"><u>Peak Into VR's Expensive Ecosystem: Exploring Four Factors</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-linking-of-console-controllers-on-mobile/"><u>Step-By-Step Linking of Console Controllers on Mobile</u></a></li>
+<li><a href="https://games-able.techidaily.com/tech-trends-top-10-pc-games-from-google-play-game-beta/"><u>Tech Trends: Top 10 PC Games From Google Play Game Beta</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-perfect-blur-techniques-for-smoother-photo-edits-for-2024/"><u>The Perfect Blur Techniques for Smoother Photo Edits for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-spys-guide-to-unearthing-hidden-youtube-videos/"><u>The Spy's Guide to Unearthing Hidden YouTube Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-online-shopping-spots-for-video-games-at-unbeatable-prices/"><u>Top Online Shopping Spots for Video Games at Unbeatable Prices</u></a></li>
+</ul></div>
 

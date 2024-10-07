@@ -1,7 +1,7 @@
 ---
 title: "Unlock Free Extended Xbox Game Pass Ultimate Access at Just $36: Exclusive Tips and Tricks!"
-date: 2024-09-18T19:36:07.187Z
-updated: 2024-09-20T17:35:35.905Z
+date: 2024-10-06T17:57:08.971Z
+updated: 2024-10-07T17:48:51.632Z
 tags:
   - gaming
 categories:
@@ -41,6 +41,13 @@ Finally, you'll need a #1 Phillips head screwdriver. I have [this kit from iFixi
 
 I'd never installed an SSD in PS5, and it took me under 10 minutes from start to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Remove the back cover
 
 Before you begin, power off the PS5 and unplug the power cable, HDMI, and anything else connected to it. Lay the console on a table, with the front of the console (it's the side with the PS logo) facing down, and the rear of the console towards you. I put mine on top of a desk mat to prevent scratches on the case. 
@@ -50,6 +57,13 @@ Before you begin, power off the PS5 and unplug the power cable, HDMI, and anythi
 To gain access to the SSD slot, you'll need to remove the back cover. If you have it positioned face down and the back of the console facing you, lift up on the front right corner and slide to the left. Once it's off, set the panel to the side. 
 
 Jason Cipriani/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Remove the expansion slot cover
 
@@ -72,10 +86,10 @@ I then placed the spacer over the hole -- it's held in place by three dots, so d
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Insert the SSD and use the mounting screw
@@ -85,10 +99,10 @@ Slide the SSD into the connector at an angle. Push it in until you feel it lock 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Format the SSD
@@ -141,5 +155,21 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-360-video-editors-how-to-upload-360-video-to-youtube/"><u>[New] 2024 Approved 360 Video Editors How to Upload 360 Video to YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exclusive-websites-for-ultimate-vector-clarity/"><u>[New] Exclusive Websites for Ultimate Vector Clarity</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-crafting-memorable-valorant-thumbnails-a-practical-guide-for-youtube-creators/"><u>[New] In 2024, Crafting Memorable Valorant Thumbnails A Practical Guide for YouTube Creators</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-futures-finest-the-leading-photo-frame-tools-24/"><u>[New] In 2024, Future's Finest The Leading Photo Frame Tools '24</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-unlocking-the-power-of-iphones-high-dynamic-range-for-2024/"><u>[Updated] Unlocking the Power of iPhone's High Dynamic Range for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridging-the-gap-how-ps4-works-with-personal-computers/"><u>Bridging the Gap: How PS4 Works with Personal Computers</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-fields-await-the-7-greatest-sports-apps-iosandroid/"><u>Digital Fields Await: The 7 Greatest Sports Apps (iOS/Android)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/expert-guide-moving-snaps-from-snapchat-app-effortlessly-for-2024/"><u>Expert Guide Moving Snaps From Snapchat App Effortlessly for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/expertise-in-electronics-with-toms-hardware-unveiled/"><u>Expertise in Electronics with Tom's Hardware Unveiled</u></a></li>
+<li><a href="https://techidaily.com/mastering-system-recovery-in-windows-11-accessing-boot-settings-explained/"><u>Mastering System Recovery in Windows 11: Accessing Boot Settings Explained</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-gameplay-in-steams-big-picture-mode/"><u>Mastering the Art of Gameplay in Steam's Big Picture Mode</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-shift-to-rtx-need-an-rtx-upgrade/"><u>Nvidia's Shift to RTX: Need an RTX Upgrade?</u></a></li>
+<li><a href="https://games-able.techidaily.com/quickening-online-interactions-diminishing-extensive-data-transmission-delay/"><u>Quickening Online Interactions: Diminishing Extensive Data Transmission Delay</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-10-best-deals-in-playstations-summer-sale/"><u>The 10 Best Deals in PlayStation’s Summer Sale</u></a></li>
+</ul></div>
 

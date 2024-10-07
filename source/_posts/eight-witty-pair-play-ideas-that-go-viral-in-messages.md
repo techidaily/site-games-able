@@ -1,7 +1,7 @@
 ---
 title: Eight Witty Pair-Play Ideas That Go Viral in Messages
-date: 2024-09-25T12:07:38.984Z
-updated: 2024-10-01T22:52:41.816Z
+date: 2024-10-04T18:24:06.181Z
+updated: 2024-10-07T16:09:37.814Z
 tags:
   - games
 categories:
@@ -41,6 +41,13 @@ Close
 
  Variations of this game include sentences containing a certain number of words or characters, or sentences with exactly 160 characters in them (which, as quaint as it sounds these days, is how many characters a single SMS text message can handle).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2 20 Questions
 
 Close
@@ -51,13 +58,6 @@ Close
 
  Variations include limiting the object being thought of to a particular genre. Or, you can increase/decrease the number of questions the guesser can ask. Feel free to experiment, and take the game in new and interesting ways.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3 I Spy
 
 Close
@@ -67,19 +67,6 @@ Close
  Begin by telling your opponent where you are to at least give them a fighting chance of succeeding. Then look around your environment until your eye fixes on something in particular. Your opponent then has to guess what thing you have spied, with only the first letter of the object to guess from.
 
  Variations of I Spy include giving clues after each negative response to a wrong guess or limiting the number of guesses allowed.
-
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4 Song Lyrics
 
@@ -92,10 +79,10 @@ Close
  Variations include quoting classic lines from movies or plots from games instead of lyrics from songs. Failure to guess correctly could mean having to phone up and sing the chorus of the song to your opponent. A fate all but the biggest reality TV wannabe would surely want to avoid.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5 Abbreviations
@@ -107,13 +94,6 @@ Close
  To play**Abbreviations** , one of you abbreviates the activity you're currently engaged in. For example: "In a coffee shop in town" becomes "IACSIT", and the other person sets about trying to un-abbreviate your short sentence back to its original form. Be prepared for some rude replies and some long message threads.
 
  Variations include giving more than just the first letter of each word, and abbreviating something other than your current activity. Such as what you truly think of the person you are playing against. Whatever variant you play, the key is to steer the guesser in the right direction.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6 List Builder
 
@@ -145,6 +125,13 @@ Close
 
  Variations include dropping certain names into the mix you know will upset your friend. Or changing the question entirely. As long as there are three choices and three names in the mix, the sky's the limit with this one.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9 What If...?
 
 Close
@@ -154,6 +141,13 @@ Close
  One of you messages the other a What If? scenario and asks what they would do in that situation. There are no correct or incorrect answers here. It's not only fun to see the responses given, it can also give you an insight into your friend or family member's outlook on life.
 
  Variations include leaving the question open-ended with any answer possible, or giving multiple-choice answers and forcing the other person to choose from one of those.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10 Simple Quiz
 
@@ -182,18 +176,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-finding-gratuitous-software-for-streaming-online-seminars/"><u>[New] In 2024, Finding Gratuitous Software for Streaming Online Seminars</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-speech-to-text-a-complete-free-workshop-on-youtube-transcription/"><u>[Updated] 2024 Approved From Speech to Text A Complete, FREE Workshop on YouTube Transcription</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-ultimate-game-gathering-best-7-shooter-experiences/"><u>[Updated] 2024 Approved Ultimate Game Gathering Best 7 Shooter Experiences</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-elevating-video-sharing-from-youtube-to-insta/"><u>[Updated] In 2024, Elevating Video Sharing From YouTube to Insta</u></a></li>
-<li><a href="https://games-able.techidaily.com/detailed-review-beyerdynamic-mmx-200-sound-performance/"><u>Detailed Review: Beyerdynamic MMX 200 Sound Performance</u></a></li>
-<li><a href="https://games-able.techidaily.com/fresh-start-with-new-installations-on-ps5/"><u>Fresh Start with New Installations on PS5</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-apple-iphone-6-plus-by-drfone-ios/"><u>How to Fix Locked Apple ID from Apple iPhone 6 Plus</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On HTC U23 Pro | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/makeuseof-awards-mwc-innovation-highlights/"><u>MakeUseOf Awards: MWC Innovation Highlights</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/navigating-to-facebooks-story-archives-quickly/"><u>Navigating to Facebook's Story Archives Quickly</u></a></li>
-<li><a href="https://games-able.techidaily.com/scrutinizing-mechanical-keys-impact-on-gamer-experience/"><u>Scrutinizing Mechanical Keys' Impact on Gamer Experience</u></a></li>
-<li><a href="https://games-able.techidaily.com/steam-big-picture-transforming-your-gaming-setup/"><u>Steam Big Picture: Transforming Your Gaming Setup</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-6-multi-genre-games-for-content-casters/"><u>Ultimate 6 Multi-Genre Games for Content Casters</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unmasked-influence-introducing-the-power-players-of-insta-for-2024/"><u>[New] Unmasked Influence Introducing the Power Players of Insta for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-edit-suite-apps-and-devices-tools-listed/"><u>[Updated] Top Edit Suite (Apps & Devices) Tools Listed</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-gameplay-sd-card-for-steam-deck/"><u>Enhancing Gameplay: SD Card for Steam Deck</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-faster-ram-and-lower-latency-boost-your-computers-efficiency/"><u>How Faster RAM and Lower Latency Boost Your Computer's Efficiency</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-accelerate-slow-mobile-networks-in-just-10-easy-steps/"><u>How To Accelerate Slow Mobile Networks in Just 10 Easy Steps</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-lava-blaze-2-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Lava Blaze 2 Device</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-lava-blaze-curve-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Lava Blaze Curve 5G Phone FRP Lock</u></a></li>
+<li><a href="https://games-able.techidaily.com/tailored-playthroughs-integrating-game-pass-onto-steam-through-glossi/"><u>Tailored Playthroughs - Integrating Game Pass Onto Steam Through GlosSI</u></a></li>
+<li><a href="https://games-able.techidaily.com/taipeis-2024-showdown-ai-tech-frontier/"><u>Taipei's 2024 Showdown: AI Tech Frontier</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-worlds-most-renowned-10-torrent-platforms-best-picks/"><u>Unveiling the World's Most Renowned 10 Torrent Platforms - Best Picks</u></a></li>
+<li><a href="https://games-able.techidaily.com/xboxs-system-against-game-hacks/"><u>Xbox's System Against Game Hacks</u></a></li>
 </ul></div>
 

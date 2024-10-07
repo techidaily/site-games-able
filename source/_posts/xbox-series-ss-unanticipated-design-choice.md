@@ -1,7 +1,7 @@
 ---
 title: Xbox Series S's Unanticipated Design Choice
-date: 2024-09-28T02:00:36.854Z
-updated: 2024-10-02T01:10:45.174Z
+date: 2024-10-06T17:09:26.888Z
+updated: 2024-10-07T18:19:09.010Z
 tags:
   - games
 categories:
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/2861a5dab13720b2493f18438249b45a68a3216a3
  While a disc drive-supported Xbox Series S would be hugely beneficial to you and other consumers, for Microsoft it could be a risky move that disturbs the main selling points of its flagship console. After all, if the Xbox Series S remained cheaper but supported discs, the reasons to get an Xbox Series X would narrow.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Keeping the Xbox Series S Digital-Only Guarantees Store Sales
@@ -51,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/2861a5dab13720b2493f18438249b45a68a3216a3
 ![A screenshot of the Xbox Store homepage on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/xbox-store.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  So for Microsoft, having more owners of digital-only consoles almost guarantees more users of the Microsoft Store, and retains purchases within Microsoft-owned sites, stores, and products. By association, if an external disc drive or disc drive-supported Series S were available, Microsoft would lose this guarantee.
@@ -70,10 +70,10 @@ thumbnail: https://thmb.techidaily.com/2861a5dab13720b2493f18438249b45a68a3216a3
 ![A photograph of a silver and black disc drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Curiously, the patent inferred that to verify your physical games for digital use, you would use an external disc drive to scan physical games. So it would seem that even with external disc drive support, the Series S is incapable of playing game discs, and instead can only validate and play them as digital versions.
@@ -81,10 +81,10 @@ thumbnail: https://thmb.techidaily.com/2861a5dab13720b2493f18438249b45a68a3216a3
  So while external disc drive support isn't completely out of the question for Xbox Series S, you'll have to wait for Microsoft to create its own external disc drive. And, even then, you won't be able to play your physical discs and will use the disc drive for verification only—if the patent is to be believed.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. A Disc Drive-Supported Xbox Series S Would Increase Costs
@@ -118,22 +118,20 @@ thumbnail: https://thmb.techidaily.com/2861a5dab13720b2493f18438249b45a68a3216a3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-achieve-professional-results-with-simple-webcam-tech-for-2024/"><u>[New] Achieve Professional Results with Simple WebCam Tech for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-golden-collection-classic-ringtones-at-your-fingertips/"><u>[Updated] Golden Collection Classic Ringtones at Your Fingertips</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-2023-insights-how-to-hunt-down-cool-vids-on-fb/"><u>[Updated] In 2024, 2023 Insights How to Hunt Down Cool Vids on FB</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-customizing-iphone-tones-a-step-by-step-guide/"><u>[Updated] In 2024, Customizing iPhone Tones A Step-by-Step Guide</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-essential-15-ideas-to-boost-your-snap-score/"><u>[Updated] In 2024, Essential 15 Ideas to Boost Your Snap Score</u></a></li>
-<li><a href="https://games-able.techidaily.com/compact-mini-led-screen-best-value-deal/"><u>Compact Mini-LED Screen: Best Value Deal!</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/detailed-instructions-to-record-and-save-facetime-calls-for-2024/"><u>Detailed Instructions to Record and Save FaceTime Calls for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/exclusive-game-hunt-best-switch-ftp-experience/"><u>Exclusive Game Hunt: Best Switch FTP Experience</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-t-mobile-iphone-12-mini-online-without-sim-card-by-drfone-ios/"><u>How to Unlock T-Mobile iPhone 12 mini online without SIM Card?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-nokia-105-classic-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Nokia 105 Classic Phone Network-Ready</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimizing-xbox-points-a-quad-of-key-improvements-needed/"><u>Optimizing Xbox Points: A Quad of Key Improvements Needed</u></a></li>
-<li><a href="https://games-able.techidaily.com/pc-gamers-dream-list-top-games-in-google-play-game-beta/"><u>PC Gamers’ Dream List - Top Games in Google Play Game Beta</u></a></li>
-<li><a href="https://games-able.techidaily.com/rapid-recreation-compile-your-favorite-quick-game-titles/"><u>Rapid Recreation: Compile Your Favorite Quick Game Titles</u></a></li>
-<li><a href="https://games-able.techidaily.com/rendering-rivalry-directx-11-vs-directx-12-benefits/"><u>Rendering Rivalry: DirectX 11 Vs. DirectX 12 Benefits</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/shape-individualistic-online-humorous-pieces/"><u>Shape Individualistic Online Humorous Pieces</u></a></li>
-<li><a href="https://games-able.techidaily.com/swiftly-tackle-windows-graphics-hang-code-0x887a0006-solution/"><u>Swiftly Tackle Windows' Graphics Hang: Code 0X887A0006 Solution</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-240hz-displays-the-ultimate-game-setup/"><u>Top 240Hz Displays: The Ultimate Game Setup</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-building-a-powerhouse-business-channel-in-under-5-minutes/"><u>[New] In 2024, Building a Powerhouse Business Channel in Under 5 Minutes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/5-simple-fixes-to-correct-your-microsoft-word-error-winwordexe/"><u>5 Simple Fixes to Correct Your Microsoft Word Error (WINWORD.EXE)</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-batteries-desired-innovations/"><u>Beyond Batteries: Desired Innovations</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-the-points-what-should-you-value-on-steam/"><u>Beyond the Points: What Should You Value on Steam?</u></a></li>
+<li><a href="https://games-able.techidaily.com/bluetooth-connectivity-for-playstation-audio-devices/"><u>Bluetooth Connectivity for PlayStation Audio Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-productivity-in-writing-using-the-power-of-hix-ai-and-gpt-narratives/"><u>Boost Productivity in Writing Using the Power of Hix AI & GPT-Narratives</u></a></li>
+<li><a href="https://games-able.techidaily.com/breakdown-fixing-faulty-xbox-series-xs/"><u>Breakdown: Fixing Faulty Xbox Series X|S</u></a></li>
+<li><a href="https://games-able.techidaily.com/build-a-game-masterpiece-with-these-crucial-parts/"><u>Build a Game Masterpiece with These Crucial Parts</u></a></li>
+<li><a href="https://games-able.techidaily.com/bypassing-standard-controls-to-play-xbox-one-games/"><u>Bypassing Standard Controls to Play Xbox One Games</u></a></li>
+<li><a href="https://change-location.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/combatting-launcher-crash-with-error-code-0x803f8001-in-mcpc/"><u>Combatting Launcher Crash with Error Code 0X803F8001 in MCPC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/discover-the-leading-free-video-format-changers-expert-picks-for-windows-and-mac-computers/"><u>Discover the Leading Free Video Format Changers - Expert Picks for Windows & Mac Computers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-official-msi-audio-drivers-for-your-windows-pc/"><u>Download Official MSI Audio Drivers for Your Windows PC</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/gamers-sound-showdown-the-top-5-headset-list-for-2024/"><u>Gamers' Sound Showdown The Top 5 Headset List for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-turning-onoff-windows-key-functionality/"><u>Tips for Turning On/Off Windows Key Functionality</u></a></li>
 </ul></div>
 

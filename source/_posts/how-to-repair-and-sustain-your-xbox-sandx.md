@@ -1,7 +1,7 @@
 ---
 title: How to Repair and Sustain Your Xbox S&X
-date: 2024-09-14T22:56:24.720Z
-updated: 2024-09-20T19:04:23.886Z
+date: 2024-10-01T18:10:29.311Z
+updated: 2024-10-07T19:30:52.246Z
 tags:
   - games
 categories:
@@ -52,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/e85743b34dfe1708fd7baeaabbf4be530a9d0acc9
 
 ![A screenshot of a registered device in the Devices section of a Microsoft account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3097.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  However, if you feel the**Warranty** message is inaccurate or not displayed, you can select the**Info & support** tab for your Xbox Series X|S. From here, you can view your**Standard Limited Warranty** details or any other account warranty information.
 
 ![A screenshot of the Device Coverage Information for an Xbox Series X registered under a Microsoft account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3100.jpg)
@@ -69,11 +76,25 @@ thumbnail: https://thmb.techidaily.com/e85743b34dfe1708fd7baeaabbf4be530a9d0acc9
 
 ![A screenshot of a Microsoft account Device Service and Repair screen for an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3103-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Enter a short description of your issue and select**Next** .
 * Choose a delivery address for the return of your repair and select**Next** .
 * Microsoft will then inform you of the cost of the repair. To confirm the repair, select**Next** .
 
 ![A screenshot of the repair costs for an Xbox Series X being repaired through Microsoft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3108.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  From here, you need to**Select a shipping method** and agree to Microsoft's terms and conditions. You will then be expected to pay for the repair and any delivery fees. If your console is under warranty, the repair fees should be waived depending on the exact issue with your Xbox.
 
@@ -84,10 +105,10 @@ thumbnail: https://thmb.techidaily.com/e85743b34dfe1708fd7baeaabbf4be530a9d0acc9
  However, if you find the price tag for a repair to be too expensive, there are plenty of Xbox issues that are fixable at home. For instance,[fixing Xbox Wireless Controller stick drift](https://www.makeuseof.com/how-to-fix-xbox-one-controller-drift/) can be easy and doesn't necessarily require replacements or an official repair.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Repair Your Xbox Series X|S Officially and Efficiently
@@ -109,5 +130,24 @@ thumbnail: https://thmb.techidaily.com/e85743b34dfe1708fd7baeaabbf4be530a9d0acc9
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-master-of-mayhem-top-10-roguelites/"><u>[New] 2024 Approved Master of Mayhem Top 10 Roguelites</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-ultimate-angle-warriors-samsung-vs-lg-camera-showdown/"><u>[New] In 2024, Ultimate Angle Warriors Samsung VS LG Camera Showdown</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-key-strategies-for-adding-timestamps-in-youtube-content/"><u>[New] Key Strategies for Adding Timestamps in YouTube Content</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-unveil-exclusive-video-snippets-all-at-zero-cost/"><u>[Updated] In 2024, Unveil Exclusive Video Snippets – All at Zero Cost!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-pump-up-your-income-smart-tips-to-profit-from-social-media-videos/"><u>[Updated] Pump Up Your Income Smart Tips to Profit From Social Media Videos</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-meizu-21-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/complete-capital-compilation-your-first-podcast-edition-for-2024/"><u>Complete Capital Compilation Your First Podcast Edition for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/eight-witty-pair-play-ideas-that-go-viral-in-messages/"><u>Eight Witty Pair-Play Ideas That Go Viral in Messages</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-fix-the-we-encountered-an-error-oculus-app-installation-issue-in-windows-1110/"><u>How to Fix the “We Encountered an Error” Oculus App Installation Issue in Windows 11/10</u></a></li>
+<li><a href="https://games-able.techidaily.com/momentous-matchups-temporary-gaming-grants/"><u>Momentous Matchups: Temporary Gaming Grants</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/new-release-brothers-scanning-device-drivers-on-windows-platform/"><u>New Release: Brother's Scanning Device Drivers on Windows Platform</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-144hz-monitors-enhanced-gameplay-experience/"><u>Prime 144Hz Monitors - Enhanced Gameplay Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essential-strategies-for-indie-game-hunting/"><u>The Essential Strategies for Indie Game Hunting</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-techniques-and-tips-for-ultimate-performance-with-a-portable-pc/"><u>Top Techniques and Tips for Ultimate Performance with a Portable PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/tranquil-interludes-unlock-idle-games/"><u>Tranquil Interludes: Unlock Idle Games</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/universalviewers-guide-2024-worldwide-selection-and-local-options/"><u>UniversalViewers Guide 2024 Worldwide Selection & Local Options</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-creativity-in-chess-with-these-6-new-apps/"><u>Unleash Creativity in Chess with These 6 New Apps</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Labor Day Exclusive: Save $350 on the HP Victus 15 at Best Buy - Sale Details Inside"
-date: 2024-09-18T22:51:01.197Z
-updated: 2024-09-20T16:07:19.554Z
+date: 2024-10-04T16:58:58.683Z
+updated: 2024-10-07T18:45:10.942Z
 tags:
   - gaming
 categories:
@@ -51,6 +51,13 @@ To gain access to the SSD slot, you'll need to remove the back cover. If you hav
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove the expansion slot cover
 
 There's not a whole lot to look at with the panel removed from the PS5\. There's a fan, a lot of black, and then the expansion slot cover near the top of the housing. I rotated the PS5 so that the SSD slot was closer to me and easier to work on. 
@@ -60,10 +67,10 @@ There's a single screw holding the cover in place; remove it and set it aside in
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Move the screw and spacer inside the SSD housing
@@ -79,10 +86,10 @@ I then placed the spacer over the hole -- it's held in place by three dots, so d
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Insert the SSD and use the mounting screw
@@ -90,6 +97,13 @@ Jason Cipriani/ZDNET
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -141,5 +155,24 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-perfect-your-presentations-leading-free-mac-screen-capture-tools/"><u>[New] 2024 Approved Perfect Your Presentations Leading Free Mac Screen Capture Tools</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-scripts-that-define-movie-industrys-variety/"><u>[New] 2024 Approved Scripts That Define Movie Industry's Variety</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-capturing-panoramic-shots-iphone-guide/"><u>2024 Approved Capturing Panoramic Shots IPhone Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-mastering-iphone-x-animoji-your-comprehensive-users-manual/"><u>2024 Approved Mastering iPhone X Animoji Your Comprehensive User's Manual</u></a></li>
+<li><a href="https://games-able.techidaily.com/advantages-transitioning-console-players-to-pc-gaming/"><u>Advantages: Transitioning Console Players to PC Gaming</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-honor-magic-5-lite-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Honor Magic 5 Lite via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/diy-repair-the-ultimate-xbox-joystick-guide-for-gamers/"><u>DIY Repair - The Ultimate Xbox Joystick Guide for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-mobile-mmo-titles-your-gameplay-guide/"><u>Essential Mobile MMO Titles: Your Gameplay Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Motorola Edge 40? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-infinix-hot-40i-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Infinix Hot 40i Phone? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/joining-playstation-and-windows-the-ps5-controller-tutorial/"><u>Joining PlayStation and Windows: The PS5 Controller Tutorial</u></a></li>
+<li><a href="https://games-able.techidaily.com/silencing-steam-not-on-boot/"><u>Silencing Steam, Not on Boot</u></a></li>
+<li><a href="https://games-able.techidaily.com/solidifying-steams-file-compatibility-with-windows/"><u>Solidifying Steam's File Compatibility with Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-fortnite-from-stalling-your-gameplay-expert-tips-to-keep-it-running-smoothly/"><u>Stop Fortnite From Stalling Your Gameplay: Expert Tips to Keep It Running Smoothly</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-for-improving-comprehension-on-the-steam-deck-epic-and-gog-games/"><u>Strategies for Improving Comprehension on the Steam Deck: Epic & GOG Games</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-evolution-from-rgb-to-srgb-in-graphic-media-for-2024/"><u>The Evolution From RGB to Srgb in Graphic Media for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/valve-enhances-game-access-via-steams-updated-family-sharing/"><u>Valve Enhances Game Access via Steam's Updated Family Sharing</u></a></li>
+</ul></div>
 

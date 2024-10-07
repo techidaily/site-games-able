@@ -1,7 +1,7 @@
 ---
 title: Enhance Experience & Space With Extra-Large Front Ends
-date: 2024-09-24T18:30:27.415Z
-updated: 2024-10-02T06:18:49.540Z
+date: 2024-10-03T19:22:48.068Z
+updated: 2024-10-07T17:16:11.608Z
 tags:
   - games
 categories:
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/086d7c930c164ea9d01018f76fb536ddc6879aa44
 
  This can take days of work alone. But not with Big Box. Let’s dig a bit deeper and learn why a premium subscription to LaunchBox is worth the cost of admission alone for Big Box if you’re setting up your own arcade cabinet.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Big Box Automatically Imports Metadata
 
  Whether you’ve tackled big projects, like[building a portable retro gaming console using a Raspberry Pi](https://www.makeuseof.com/portable-retro-gaming-console-build-with-raspberry-pi/) , or added a few classic arcade games to your work desktop, you know how painful it is to organize your collection. You are forced to add in every bit of metadata manually in most cases, including hunting down individual bits of media for each game, like a bezel, screenshot, video, and so on.
@@ -59,26 +66,13 @@ thumbnail: https://thmb.techidaily.com/086d7c930c164ea9d01018f76fb536ddc6879aa44
 
 ![Game page in EmuMovies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/emu-movies-front-page.jpg)
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you’re already familiar with[LaunchBox and how it works](https://www.makeuseof.com/what-is-launchbox-how-it-works/) , you already know that you can add custom filters for your games, like the number of players per game or by genre. The filters you create in LaunchBox also appear in Big Box, making it easy to find the right game for the occasion.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Big Box Gives You Hotkeys and Customizable Menu Controls
@@ -95,14 +89,14 @@ thumbnail: https://thmb.techidaily.com/086d7c930c164ea9d01018f76fb536ddc6879aa44
 
 ![Example of a second screen marquee in BigBox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/second-screen-marquee-big-box.jpg)
 
- Image Credit: Unbroken Software LLC/[YouTube](https://www.youtube.com/watch?v=q1gBLJ2IZJI)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Image Credit: Unbroken Software LLC/[YouTube](https://www.youtube.com/watch?v=q1gBLJ2IZJI)
 
 ## 5\. Use Big Box In-Place of Your Windows Shell
 
@@ -113,10 +107,10 @@ thumbnail: https://thmb.techidaily.com/086d7c930c164ea9d01018f76fb536ddc6879aa44
  Next, start Big Box from LaunchBox. Then, go to **System > Options > General > Enable Using Big Box as the Windows Shell > Yes.** The next time you reboot your device, Big Box will replace the Windows shell. If you need to get into Windows, you can still close Big Box via the Task Manager to gain access to Windows again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Big Box Takes the Headache Out of Arcade Frontends
@@ -138,18 +132,14 @@ thumbnail: https://thmb.techidaily.com/086d7c930c164ea9d01018f76fb536ddc6879aa44
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-top-10-firstrow-sports-alternatives/"><u>[New] In 2024, Top 10 Firstrow Sports Alternatives</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-how-to-safeguard-your-feed-remove-followers/"><u>[Updated] 2024 Approved How to Safeguard Your Feed Remove Followers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/10plus-iconic-ae-text-techniques-for-professionals-for-2024/"><u>10+ Iconic AE Text Techniques for Professionals for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/affordable-high-definition-top-mirrorless-cameras-(1k/"><u>Affordable High-Definition Top Mirrorless Cameras (<$1K)</u></a></li>
-<li><a href="https://games-able.techidaily.com/backwards-compatibility-for-sonys-gaming-generation-shift/"><u>Backwards Compatibility for Sony's Gaming Generation Shift</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/comparing-mkv-and-mp4-which-video-codec-wins-for-optimal-quality/"><u>Comparing MKV and MP4 – Which Video Codec Wins for Optimal Quality?</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-androidios-steam-link-for-gaming-enthusiasts/"><u>Explore Android/iOS: Steam Link for Gaming Enthusiasts</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-vintage-to-virtual-using-emudeck-for-game-emulation/"><u>From Vintage to Virtual: Using EmuDeck for Game Emulation</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overcoming-the-challenge-of-zero-matches-on-bumble-a-comprehensive-guide/"><u>Overcoming the Challenge of Zero Matches on Bumble – A Comprehensive Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-constant-freezing-and-crashing-in-hell-let-loose-pc-guide/"><u>Resolving Constant Freezing and Crashing in Hell Let Loose: PC Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/revolutionize-your-gaming-setup-with-top-steam-deck-accessories/"><u>Revolutionize Your Gaming Setup with Top Steam Deck Accessories</u></a></li>
-<li><a href="https://games-able.techidaily.com/secure-xbox-s-controller-links-at-all-times/"><u>Secure Xbox S Controller Links at All Times</u></a></li>
-<li><a href="https://win-tips.techidaily.com/small-but-mighty-unpacking-the-cost-effective-speed-of-latest-sandisk-usbs-at-zdnet/"><u>Small but Mighty: Unpacking the Cost-Effective Speed of Latest SanDisk USBs at ZDNet</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-7-best-online-youtube-tag-extractors/"><u>[New] 2024 Approved 7 Best Online YouTube Tag Extractors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-crafting-the-ultimate-quadcopter-engine-arsenal/"><u>[Updated] Crafting the Ultimate Quadcopter Engine Arsenal</u></a></li>
+<li><a href="https://games-able.techidaily.com/4-cryptic-quests-for-the-digital-detective-ai/"><u>4 Cryptic Quests for the Digital Detective AI</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-essential-steps-for-pc-components-cohesion/"><u>7 Essential Steps for PC Components Cohesion</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-itel-p40plus-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Itel P40+</u></a></li>
+<li><a href="https://games-able.techidaily.com/akkos-modular-breakthrough-the-mod007b-gamers-board/"><u>Akko's Modular Breakthrough: The MOD007B Gamer's Board</u></a></li>
+<li><a href="https://games-able.techidaily.com/battle-royale-choice-ps5-or-affordable-pc/"><u>Battle Royale Choice: PS5 Or Affordable PC?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-moisture-detected-warnings-on-your-iphones-usb-c-port/"><u>Overcoming Moisture Detected Warnings on Your iPhone's USB-C Port</u></a></li>
+<li><a href="https://blog-min.techidaily.com/troubleshooting-your-iphone-stuck-on-apple-logo-after-ios-17-upgrade-effective-remedies-inside/"><u>Troubleshooting Your iPhone Stuck on Apple Logo After iOS 17 Upgrade - Effective Remedies Inside!</u></a></li>
 </ul></div>
 

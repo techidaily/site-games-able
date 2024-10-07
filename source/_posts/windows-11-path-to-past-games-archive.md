@@ -1,7 +1,7 @@
 ---
 title: "Windows 11: Path to Past Games Archive"
-date: 2024-09-27T22:13:07.532Z
-updated: 2024-10-01T16:10:30.588Z
+date: 2024-10-06T16:29:42.975Z
+updated: 2024-10-07T18:04:29.178Z
 tags:
   - games
 categories:
@@ -41,13 +41,6 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
 
 ![screenshot of advanced security settings selecting principal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_advanced_security_settings_select_principal.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Hit**Select a principal** , which will open yet another window. In this new window, underneath**Enter the object name to select** , type in**Everyone** and hit**Check Names.**
 
  Once the word "Everyone" is underlined, hit**OK** . You'll be returned to the last window and have a few checkboxes to select. For our purposes, the only one that matters is the**Read** checkbox.
@@ -55,15 +48,22 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
  Ensure this is selected and then hit**OK** again. You can now close out all of these security windows, boot up your game, and see if this fix has worked.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should I Grant Read Access to Other User Folders?
 
 ![screenshot of all the user folders highlighted in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_all_user_folders_highlighted.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You should be careful which folders you provide full read rights to. While it's unlikely the old game you're trying to play will do anything untoward to your folders, it can be risky granting full read rights to anything on your computer.
 
@@ -75,24 +75,24 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
 
  With a few simple security adjustments, you can at least get your old games reading the folders they're supposed to.
 
-## FAQ
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## FAQ
 
 ### Q: How Do I Get Old Games to Work on Windows 11?
 
  There are a few ways to make your old games work with your Windows 11 operating system. One way is to run your games in Windows' compatibility mode. This lets you choose the Windows version you want to run your game in. Second way is to use an emulator that lets you play old games on your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Q: Does Windows 11 Work With All Games?
@@ -118,21 +118,20 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-amd-gpu-revival-suite/"><u>[New] 2024 Approved AMD GPU Revival Suite</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-validating-your-visual-story-on-instagram/"><u>[New] 2024 Approved Validating Your Visual Story on Instagram</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-comprehensive-listing-of-best-zero-cost-broadcasting-tech-for-all-platforms/"><u>[Updated] Comprehensive Listing of Best Zero-Cost Broadcasting Tech for All Platforms</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-omniview-app-critical-look-over/"><u>2024 Approved OmniView App Critical Look-Over</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-10-high-quality-blu-ray-software-variants-pcmac/"><u>2024 Approved Top 10 High-Quality Blu-Ray Software Variants (PC/Mac)</u></a></li>
-<li><a href="https://games-able.techidaily.com/crank-up-the-challenge-with-frustrating-fiddlers/"><u>Crank Up the Challenge with Frustrating Fiddlers</u></a></li>
-<li><a href="https://games-able.techidaily.com/does-the-acemagic-am08-pro-deliver-a-genuine-gaming-experience/"><u>Does the AceMagic AM08 Pro Deliver a Genuine Gaming Experience?</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevating-your-steam-finances-for-game-enthusiasts/"><u>Elevating Your Steam Finances for Game Enthusiasts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/from-invention-to-now-the-story-behind-electric-vehicles/"><u>From Invention to Now: The Story Behind Electric Vehicles</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-checklist-preparing-your-room-and-pc-for-oculus-rift/"><u>In 2024, Ultimate Checklist Preparing Your Room and PC for Oculus Rift</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-the-art-of-steam-deck-selection/"><u>Mastering the Art of Steam Deck Selection</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-the-steps-to-enhance-ps5-game-access-control/"><u>Navigating the Steps to Enhance PS5 Game Access Control</u></a></li>
-<li><a href="https://games-able.techidaily.com/revolutionize-your-gaming-setup-with-emudeck-and-steam-deck/"><u>Revolutionize Your Gaming Setup with EmuDeck & Steam Deck</u></a></li>
-<li><a href="https://games-able.techidaily.com/securing-victory-resolving-valorants-frames-per-second-challenges-on-pc/"><u>Securing Victory: Resolving Valorant's Frames Per Second Challenges on PC</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-google-pixel-8-frp-by-drfone-android/"><u>The Updated Method to Bypass Google Pixel 8 FRP</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-unleash-creativity-top-10-animated-text-generators-for-marketing-pros/"><u>Updated In 2024, Unleash Creativity Top 10 Animated Text Generators for Marketing Pros</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-12-signs-endless-stories-create-your-whatsapp-bio-narrative/"><u>[New] 12 Signs, Endless Stories - Create Your WhatsApp Bio Narrative</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-mac-users-guide-convert-youtube-music-files-to-mp3/"><u>[New] In 2024, Mac Users' Guide Convert YouTube Music Files to MP3</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-aspect-ratios-unveiled-a-complete-youtube-manual/"><u>2024 Approved Aspect Ratios Unveiled A Complete YOUTUBE Manual</u></a></li>
+<li><a href="https://games-able.techidaily.com/boost-creativity-through-play-12-game-masterpieces-await/"><u>Boost Creativity Through Play: 12 Game Masterpieces Await</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/boosting-engagement-on-fb-pages-with-auto-played-youtube-videos-for-2024/"><u>Boosting Engagement on FB Pages with Auto-Played Youtube Videos for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridge-the-gap-between-non-working-controllers-and-windows/"><u>Bridge the Gap Between Non-Working Controllers and Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/bring-back-crystal-clear-voice-on-your-console/"><u>Bring Back Crystal-Clear Voice on Your Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/building-a-smooth-operating-system-with-compatible-parts/"><u>Building a Smooth Operating System with Compatible Parts</u></a></li>
+<li><a href="https://games-able.techidaily.com/closing-the-virtual-marketplaces-refund-backdoor/"><u>Closing the Virtual Marketplace’s Refund Backdoor</u></a></li>
+<li><a href="https://games-able.techidaily.com/commanders-conquest-best-11-tactical-world-war-ii-titles/"><u>Commanders' Conquest: Best 11 Tactical World War II Titles</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-a60s-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel A60s to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Vivo X100? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-revolutionize-your-content-with-these-top-10-editing-strategies/"><u>In 2024, Revolutionize Your Content with These Top 10 Editing Strategies</u></a></li>
+<li><a href="https://facebook.techidaily.com/unveiling-postponements-whats-behind-oculus-quest-iii-delay/"><u>Unveiling Postponements: What's Behind Oculus Quest III Delay?</u></a></li>
 </ul></div>
 

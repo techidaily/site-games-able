@@ -1,7 +1,7 @@
 ---
 title: Establishing a Team in Xbox's Next-Gen Console
-date: 2024-09-27T18:56:17.730Z
-updated: 2024-10-02T09:28:03.053Z
+date: 2024-10-05T17:14:21.844Z
+updated: 2024-10-07T18:43:29.791Z
 tags:
   - games
 categories:
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/1b78f915ab1094bf850841925a5fb1c5096342e86
 
  If you want to[find online players for your Xbox Series X|S](https://www.makeuseof.com/how-to-find-online-players-on-xbox-series-xs/) , Clubs are a great place to look.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Do I Make a Club on My Xbox Series X|S?
 
  Making a Club is simple. Start by booting up your Xbox Series X|S and follow the instructions below to create your very own Club:
@@ -39,13 +46,6 @@ thumbnail: https://thmb.techidaily.com/1b78f915ab1094bf850841925a5fb1c5096342e86
 2. Scroll to the right until you reach the**People** tab.  
 ![People Tab of Xbox Home Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/people-tab-of-xbox-home-menu.jpg)
 3. Select**Friends & Community Updates** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Select**Clubs on Xbox** and press**Create a Club** .  
 ![Clubs on Xbox Button in Community Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/clubs-on-xbox-button-in-community-menu.jpg)
@@ -58,10 +58,10 @@ thumbnail: https://thmb.techidaily.com/1b78f915ab1094bf850841925a5fb1c5096342e86
 9. Press**Done** to complete your club.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  And just like that, you have created your Club. You just have to sit back and wait for the tags to do their work before you can start playing the[best co-op games on the Xbox Series X|S](https://www.makeuseof.com/best-couch-co-op-games-for-xbox-series-x-s/) with your new friends.
@@ -69,10 +69,10 @@ thumbnail: https://thmb.techidaily.com/1b78f915ab1094bf850841925a5fb1c5096342e86
  Provided it’s not hidden, of course. If it is, you will have to press**Invite someone** on the Club home page and send your invites out to your lucky recipients manually.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Delete a Club on the Xbox Series X|S
@@ -87,14 +87,14 @@ thumbnail: https://thmb.techidaily.com/1b78f915ab1094bf850841925a5fb1c5096342e86
 ![Delete Club Screen Xbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/delete-club-screen-xbox.jpg)
 6. Make your way to the**Ownership** section, and press**Delete club** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Your Club will now be deleted.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Share Your Love of Gaming With Others
 
@@ -117,17 +117,16 @@ Your Club will now be deleted.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-generating-attention-grabbing-video-teasers-for-2024/"><u>[New] Generating Attention-Grabbing Video Teasers for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-complete-guide-to-eradicating-youtube-keep-queue/"><u>[New] The Complete Guide to Eradicating YouTube Keep Queue</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-instagrams-pathway-including-vimeo-videos/"><u>[Updated] Instagram's Pathway Including Vimeo Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-pinnacle-creation-hub-synopsis-studio-assessment-2023/"><u>[Updated] Pinnacle Creation Hub Synopsis, Studio Assessment 2023</u></a></li>
-<li><a href="https://games-able.techidaily.com/cutting-edge-gaming-displays-at-240hz-top-picks/"><u>Cutting-Edge Gaming Displays at 240Hz, Top Picks</u></a></li>
-<li><a href="https://games-able.techidaily.com/dive-into-chatgpt-written-world-top-6-game-journeys/"><u>Dive Into ChatGPT' Written World: Top 6 Game Journeys</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-on-playing-xbox-without-a-standard-controller/"><u>Game On: Playing Xbox Without a Standard Controller</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Motorola Moto E13 | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-captureconductor-review-a-dive-into-the-best-recording-software/"><u>In 2024, CaptureConductor Review A Dive Into the Best Recording Software</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-step-into-the-future-of-streaming-with-top-audio-techniques/"><u>In 2024, Step Into the Future of Streaming with Top Audio Techniques</u></a></li>
-<li><a href="https://games-able.techidaily.com/picking-the-prime-player-for-your-raspberry-pi-batocera-vs-retropie/"><u>Picking the Prime Player for Your Raspberry Pi: Batocera Vs. RetroPie</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-issue-promptly-handling-startup-failure-error-1053-for-system-services/"><u>Resolved Issue: Promptly Handling Startup Failure (Error 1053) for System Services</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-essential-guide-to-youtube-video-resolutions-and-aspects/"><u>[New] 2024 Approved Essential Guide to YouTube Video Resolutions & Aspects</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-fusion-functionality-combining-watch-mac-access/"><u>[New] In 2024, Fusion Functionality Combining Watch, Mac Access</u></a></li>
+<li><a href="https://games-able.techidaily.com/9-pros-and-cons-of-buying-digital-games/"><u>9 Pros (and Cons) of Buying Digital Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/9-remedies-troubleshoot-steams-unwritable-library/"><u>9 Remedies: Troubleshoot Steam's Unwritable Library</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-step-by-step-guide-to-ps5-game-deletion/"><u>A Step-by-Step Guide to PS5 Game Deletion</u></a></li>
+<li><a href="https://games-able.techidaily.com/battle-of-the-titans-series-x-vs-customized-pc/"><u>Battle of the Titans: Series X Vs. Customized PC</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/immaculatecapture-the-best-w10-recorder-for-2024/"><u>ImmaculateCapture The Best W10 Recorder for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-google-pixel-8-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Google Pixel 8 Phone Screen?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-amd-radeon-graphics-drivers-for-ryzen-processors-step-by-step-guide/"><u>Install AMD Radeon Graphics Drivers for Ryzen Processors: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-steam-from-stopping-you-immediate-solutions-to-persistent-app-crashes/"><u>Stop Steam From Stopping You: Immediate Solutions to Persistent App Crashes</u></a></li>
 </ul></div>
 

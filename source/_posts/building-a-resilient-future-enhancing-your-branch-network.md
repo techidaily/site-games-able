@@ -1,7 +1,7 @@
 ---
 title: "Building a Resilient Future: Enhancing Your Branch Network"
-date: 2024-09-17T01:00:48.207Z
-updated: 2024-09-20T18:23:53.950Z
+date: 2024-10-05T16:28:13.010Z
+updated: 2024-10-07T19:33:44.639Z
 tags:
   - accelerate-your-tech-game
 categories:
@@ -31,6 +31,19 @@ The need for greater connectivity is also becoming more apparent in traditional 
 
 This change again raises immediate questions about whether branch network connections have the bandwidth to carry what is expected of them, or whether these connections can be reconfigured quickly when those needs change. For example, someone downloading a 4K video on a guest Wi-Fi service shouldn't be doing so at the expense of the same branch location's point-of-sale system.
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **The Liquid Infrastructure solution**
 
 At Optus, our solution to the changing needs of the branch office is called Liquid Infrastructure.
@@ -50,6 +63,13 @@ Today we offer site connectivity using the Optus software-defined ethernet servi
 With the ability to orchestrate both the under and overlay networks, Liquid Infrastructure policies can be made effective on both layers simultaneously, simplifying the work of network managers. We also have plans to develop a new API-based services that will run on Liquid Infrastructure which will enable new network analytics capabilities and other management features.
 
 Our ambition with Liquid Infrastructure is to create an end-to-end network offering that is as close to zero-touch as possible, delivering incredible flexibility and agility from the centre to the edge, with the potential to self-heal if a connection is lost.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **The Future of Branch Networks is Flexibility**
 
@@ -74,12 +94,20 @@ Visit the Optus Liquid Infrastructure page for more detail: [**Software Defined 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-a-step-by-step-guide-to-autoplaying-youtube-in-facebook-groups-and-pages/"><u>[Updated] In 2024, A Step-by-Step Guide to Autoplaying Youtube in Facebook Groups and Pages</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-smiles-on-signal-best-humorous-tones-online/"><u>[Updated] Smiles on Signal Best Humorous Tones Online</u></a></li>
+<li><a href="https://games-able.techidaily.com/crucial-5-motivations-why-purchase-vintage-gaming-units/"><u>Crucial 5 Motivations: Why Purchase Vintage Gaming Units</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-ai-powered-gaming-discover-chatgpts-best-6/"><u>Explore AI-Powered Gaming: Discover ChatGPT's Best 6</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/final-steps-for-irreversible-tiktok-un-signup-for-2024/"><u>Final Steps for Irreversible TikTok Un-Signup for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/free-high-definition-media-extractor-for-windows-11-effortless-streaming-and-saving-from-any-site/"><u>Free High-Definition Media Extractor for Windows 11 – Effortless Streaming and Saving From Any Site!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-fintie-the-best-choice-for-securing-your-macbook-pro-13-unveiling-durability-affordability-and-performance-in-our-latest-review/"><u>Is Fintie the Best Choice for Securing Your MacBook Pro 13? Unveiling Durability, Affordability & Performance in Our Latest Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-screenshot-taking-on-steam/"><u>Mastering Screenshot Taking on Steam</u></a></li>
+<li><a href="https://article-posts.techidaily.com/optimal-introduction-editor-software-apps/"><u>Optimal Introduction Editor Software (Apps)</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-the-hurdles-of-steams-wide-screen-display/"><u>Overcoming the Hurdles of Steam's Wide Screen Display</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/premium-extensions-for-enhanced-gpt-in-vs-code/"><u>Premium Extensions for Enhanced GPT in VS Code</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-solution-conquer-camera-fails-in-windows-os/"><u>Quick Solution: Conquer Camera Fails in Windows OS</u></a></li>
+<li><a href="https://games-able.techidaily.com/restoring-your-access-to-ps5-multimedia-services/"><u>Restoring Your Access to PS5 Multimedia Services</u></a></li>
+</ul></div>
 

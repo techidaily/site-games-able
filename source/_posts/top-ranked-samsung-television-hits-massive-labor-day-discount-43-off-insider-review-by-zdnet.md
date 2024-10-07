@@ -1,7 +1,7 @@
 ---
 title: "Top-Ranked Samsung Television Hits Massive Labor Day Discount: 43%% Off! - Insider Review by ZDNet"
-date: 2024-09-13T23:41:37.687Z
-updated: 2024-09-20T18:16:23.376Z
+date: 2024-10-04T18:30:26.458Z
+updated: 2024-10-07T16:04:40.197Z
 tags:
   - gaming
 categories:
@@ -41,6 +41,13 @@ Finally, you'll need a #1 Phillips head screwdriver. I have [this kit from iFixi
 
 I'd never installed an SSD in PS5, and it took me under 10 minutes from start to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Remove the back cover
 
 Before you begin, power off the PS5 and unplug the power cable, HDMI, and anything else connected to it. Lay the console on a table, with the front of the console (it's the side with the PS logo) facing down, and the rear of the console towards you. I put mine on top of a desk mat to prevent scratches on the case. 
@@ -51,6 +58,13 @@ To gain access to the SSD slot, you'll need to remove the back cover. If you hav
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove the expansion slot cover
 
 There's not a whole lot to look at with the panel removed from the PS5\. There's a fan, a lot of black, and then the expansion slot cover near the top of the housing. I rotated the PS5 so that the SSD slot was closer to me and easier to work on. 
@@ -60,10 +74,10 @@ There's a single screw holding the cover in place; remove it and set it aside in
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Move the screw and spacer inside the SSD housing
@@ -78,18 +92,18 @@ I then placed the spacer over the hole -- it's held in place by three dots, so d
 
 Jason Cipriani/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Insert the SSD and use the mounting screw
 
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -141,5 +155,23 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-endless-screen-time-recorder/"><u>[New] In 2024, Endless Screen Time Recorder</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-from-raw-tape-to-broadcast-ready-using-studio-editor/"><u>[Updated] From Raw Tape to Broadcast-Ready Using Studio Editor</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-guide-to-tape-twitch-streams-effectively-for-2024/"><u>[Updated] Guide to Tape Twitch Streams Effectively for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-premier-green-screen-tech-how-to-optimize-usage/"><u>[Updated] Premier Green Screen Tech How to Optimize Usage</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-gaming-thrills-the-best-1440p-monitors-worth-every-penny/"><u>Affordable Gaming Thrills: The Best 1440P Monitors Worth Every Penny</u></a></li>
+<li><a href="https://games-able.techidaily.com/behind-the-blogosphere-why-we-should-doubt-critics/"><u>Behind the Blogosphere: Why We Should Doubt Critics</u></a></li>
+<li><a href="https://games-able.techidaily.com/chicconsole-compact-modern-twist-on-classic-gaming/"><u>ChicConsole Compact: Modern Twist on Classic Gaming</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-oneplus-11r-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for OnePlus 11R Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-quieter-powerful-home-cooling-with-iceberg-thermal-icefloe-series-in-depth-review-of-budget-models-240-and-360/"><u>Discover Quieter, Powerful Home Cooling with Iceberg Thermal IceFLOE Series - In-Depth Review of Budget Models 240 & 360</u></a></li>
+<li><a href="https://games-able.techidaily.com/energize-vision-ideas-for-change/"><u>Energize Vision: Ideas for Change</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabled-iphone-xr-how-to-unlock-a-disabled-iphone-xr-drfone-by-drfone-ios/"><u>In 2024, Disabled iPhone XR How to Unlock a Disabled iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-iphone-transfer-transfer-contact-from-apple-iphone-7-plus-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, iPhone Transfer Transfer Contact from Apple iPhone 7 Plus to iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-art-of-gaming-controls-buttons-and-controllers-on-mobile/"><u>The Art of Gaming Controls: Buttons and Controllers on Mobile</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-samsung-galaxy-f14-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Samsung Galaxy F14 5G Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-recharge-strategies-2024s-top-controllers/"><u>Ultimate Recharge Strategies: 2024'S Top Controllers</u></a></li>
+<li><a href="https://games-able.techidaily.com/unbeatable-5-reasons-choosing-the-right-retro-handheld/"><u>Unbeatable 5 Reasons: Choosing the Right Retro Handheld</u></a></li>
+</ul></div>
 

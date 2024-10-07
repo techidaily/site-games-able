@@ -1,7 +1,7 @@
 ---
 title: The Future Is Now - 6 Cases for Retro Project and Raspberry Pi
-date: 2024-09-27T11:02:14.543Z
-updated: 2024-10-02T07:39:17.069Z
+date: 2024-10-01T18:30:47.042Z
+updated: 2024-10-07T17:32:30.717Z
 tags:
   - games
 categories:
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812
 
  There will be two RAM options at release, 4GB and 8GB, but other variants should be available later. We might even see a 16GB RAM Raspberry Pi 5.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. The GPU Is Better
 
  The Raspberry Pi 5 features a Broadcom VideoCore VII GPU, up from the VideoCore VI found with the Raspberry Pi 4\. The VideoCore VII GPU supports OpenGL ES 3.1 and Vulkan 1.2, with fully open-source Mesa drivers from Igalia.
@@ -46,13 +53,6 @@ thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812
  This all-new GPU offers a significant upgrade from the Raspberry Pi 4\. It offers several times the performance of the Raspberry Pi 4 in most graphics benchmarks.[Phoronix reported](https://www.phoronix.com/review/raspberry-pi-5-graphics) that the Raspberry Pi 5 was capable of running YQuake2 (a modded, open-source version of Quake II) at 230fps while the Raspberry Pi 4 struggled with 90fps. Also, Vulkan compute performance was much faster with the Raspberry Pi 5.
 
  Additionally, the Raspberry Pi 5 is now capable of running two 4K displays @60Hz with HDR support using the two micro-HDMI ports supplied on the board. Playing retro games on a 4K monitor might be a bit overkill, but it is good to know that you can.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. It Is Still Remarkably Power-Efficient
 
@@ -71,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812
  We are keeping our fingers crossed that this may be the Raspberry Pi that is finally powerful enough to emulate PS2 games.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Cheaper Than Alternatives
@@ -86,28 +86,28 @@ thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812
  According to Eben Upton in the[Pi 5 launch announcement](https://www.raspberrypi.com/news/introducing-raspberry-pi-5/) , the company will “ring-fence all of the Raspberry Pi 5s we sell until at least the end of the year for single-unit sales to individuals, so you get the first bite of the cherry.” So, that should mitigate[Raspberry Pi availability issues](https://www.makeuseof.com/raspberry-pi-stock-levels-finally-improving/) early on.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Better Software Support Than Most Alternatives
 
 ![ODROID N2+ SBC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/odroidn2aplusa.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image Credit:[Hardkernel](https://www.hardkernel.com/shop/odroid-n2-with-4gbyte-ram-2/)
 
  The Raspberry Pi 5 maintains a key advantage of the platform over its competitors: software support. Most Raspberry Pi alternatives do not have mainline Linux support, instead providing a few custom images. However, these builds get outdated very quickly as development slows and the manufacturer moves on to other products.
 
  Raspberry Pi, on the other hand, provides consistent long-term software support and drivers are usually patched upstream to maintain mainline kernel support. As a result, you will most likely be able to run your favorite retro game distribution on a Raspberry Pi. While the Raspberry Pi 5 will not be the most powerful single-board computer on the market, it will be one of the best-supported.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Best Raspberry Pi for Retro Gaming Yet
 
@@ -128,22 +128,20 @@ thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-directory-of-various-visual-recording-devices/"><u>[Updated] Directory of Various Visual Recording Devices</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-decoding-vsdcs-technology-against-top-screen-recorder-competitors/"><u>2024 Approved Decoding VSDC's Technology Against Top Screen Recorder Competitors</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-top-cameraphone-gimbal-optimal-pan-and-tilt-stability/"><u>2024 Approved Top Camera/Phone Gimbal – Optimal Pan & Tilt Stability</u></a></li>
-<li><a href="https://games-able.techidaily.com/disable-gaming-mode-in-discord-settings/"><u>Disable Gaming Mode in Discord Settings</u></a></li>
-<li><a href="https://games-able.techidaily.com/embracing-netflix-gaming-a-winning-experience/"><u>Embracing Netflix Gaming – A Winning Experience</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-steps-to-stream-successfully-with-twitch-app-mobile/"><u>Essential Steps to Stream Successfully with Twitch App (Mobile)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-cutting-edge-computing-articles-from-toms-hardware/"><u>Exploring Cutting-Edge Computing: Articles From Tom's Hardware</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-ispoofer-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Vivo T2 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-review-of-the-xtremepro-pen-artist-16-pro-digital-drawing-board/"><u>In-Depth Review of the XtremePro Pen Artist 16 Pro Digital Drawing Board</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/perfect-your-video-narrative-an-ultimate-guide-to-adding-chapters-on-youtube-for-2024/"><u>Perfect Your Video Narrative An Ultimate Guide to Adding Chapters on YouTube for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/pixelshalfed-dissection-for-2024/"><u>PixelsHalfed Dissection for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/quick-fix-guide-restoring-and-reinstalling-d3dx924dll-when-its-missing/"><u>Quick Fix Guide: Restoring and Reinstalling d3dx9_24.dll When It's Missing</u></a></li>
-<li><a href="https://games-able.techidaily.com/seating-strategy-for-gamers/"><u>Seating Strategy for Gamers</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-art-of-choosing-prime-games-in-apples-marketplace/"><u>The Art of Choosing Prime Games in Apple's Marketplace</u></a></li>
-<li><a href="https://games-able.techidaily.com/titanium-links-choosing-the-ultimate-gaming-networks/"><u>Titanium Links - Choosing The Ultimate Gaming Networks</u></a></li>
-<li><a href="https://games-able.techidaily.com/visual-comparison-challenge-evaluating-oled-amoled-and-ips-displays/"><u>Visual Comparison Challenge: Evaluating OLED, AMOLED & IPS Displays</u></a></li>
-<li><a href="https://games-able.techidaily.com/what-to-think-before-investing-in-a-ps5/"><u>What to Think Before Investing in a PS5?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-crafting-your-perfect-minecraft-shelter-for-2024/"><u>[New] Crafting Your Perfect Minecraft Shelter for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nderstanding-youtube-post-upload-process-for-2024/"><u>[New] Understanding YouTube Post-Upload Process for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-virtual-horizons-unveiled-critics-top-oculus-headsets/"><u>[New] Virtual Horizons Unveiled Critics' Top Oculus Headsets</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-free-recording-tool-for-every-android-enthusiast/"><u>[Updated] 2024 Approved Free Recording Tool for Every Android Enthusiast</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-innovative-videography-for-sims-playtime-for-2024/"><u>[Updated] Innovative Videography for Sims Playtime for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/breakdown-of-xbox-series-time-logistics/"><u>Breakdown of Xbox Series Time Logistics</u></a></li>
+<li><a href="https://games-able.techidaily.com/bring-vintage-pixels-to-life-why-raspberry-pi/"><u>Bring Vintage Pixels to Life: Why Raspberry Pi?</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-an-older-gamepad-dock-support-switchs-oled-model/"><u>Can an Older Gamepad Dock Support Switch's OLED Model?</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-ps4-support-ps3-gaming/"><u>Can PS4 Support PS3 Gaming?</u></a></li>
+<li><a href="https://games-able.techidaily.com/ceasing-abnormal-mouse-scrolling-patterns/"><u>Ceasing Abnormal Mouse Scrolling Patterns</u></a></li>
+<li><a href="https://games-able.techidaily.com/command-center-unveiling-2024s-ultimate-keyboards-and-mice/"><u>Command Center: Unveiling 2024'S Ultimate Keyboards and Mice</u></a></li>
+<li><a href="https://win-blog.techidaily.com/essential-solutions-starting-overwatch/"><u>Essential Solutions: Starting Overwatch</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a23-5g-phone-without-pin-by-drfone-android/"><u>How to Unlock Samsung Galaxy A23 5G Phone without PIN</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/instant-remedies-for-a-silent-oculus-rift-s-headset-expert-mic-fixes-you-cant-miss/"><u>Instant Remedies for a Silent Oculus Rift S Headset: Expert Mic Fixes You Can't Miss</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/openais-power-tool-unleashing-gpt-3-in-your-projects-user-guide/"><u>OpenAI's Power Tool: Unleashing GPT-3 in Your Projects - User Guide</u></a></li>
 </ul></div>
 

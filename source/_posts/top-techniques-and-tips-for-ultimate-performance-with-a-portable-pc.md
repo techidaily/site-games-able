@@ -1,7 +1,7 @@
 ---
 title: Top Techniques and Tips for Ultimate Performance with a Portable PC
-date: 2024-09-24T17:08:03.371Z
-updated: 2024-10-02T04:36:41.633Z
+date: 2024-09-30T16:24:39.792Z
+updated: 2024-10-07T19:09:46.902Z
 tags:
   - games
 categories:
@@ -44,15 +44,22 @@ thumbnail: https://thmb.techidaily.com/4546ddfed47c887fd8822a083e53e55a360fbac19
  Now that your image is being output at a higher resolution, you'll be able to access higher resolutions in game. It will look a lot nicer on the big screen, but it's also going to be more taxing on your performance. Let's see what other tools the Steam Deck has to manage performance.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Using Per-Game Settings
 
 ![screenshot of steam deck quick menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_steam_deck_quick_menu.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now that you've bumped up the resolution, you've significantly increased the performance overhead for your game. Many games will run worse, requiring you to adjust the in-game settings. Seeing as we're playing on a larger screen, this isn't desirable.
 
@@ -63,13 +70,6 @@ thumbnail: https://thmb.techidaily.com/4546ddfed47c887fd8822a083e53e55a360fbac19
  If you've docked your Steam Deck, it's likely you're using a controller instead of the controls on the unit itself. In this case, holding the**system button + A** will display this menu.
 
 ![screenshot of steam deck quick menu game profile selection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_steam_deck_quick_menu_game_profile.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  First thing to do is to enable**Use Per-Game Profile** . This will ensure that any changes you make in this menu will only affect the currently active game.
 
@@ -92,10 +92,10 @@ thumbnail: https://thmb.techidaily.com/4546ddfed47c887fd8822a083e53e55a360fbac19
  You'll eventually find yourself with a very pleasant image and a comfortable framerate.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Target 30 or 40 FPS Over 60 FPS
@@ -103,10 +103,10 @@ thumbnail: https://thmb.techidaily.com/4546ddfed47c887fd8822a083e53e55a360fbac19
 ![screenshot of steam deck quick menu framerate limiter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_steam_deck_quick_menu_framerate_cap.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A major part of gaming on the Steam Deck is being comfortable with lower framerates.
@@ -138,16 +138,24 @@ thumbnail: https://thmb.techidaily.com/4546ddfed47c887fd8822a083e53e55a360fbac19
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-advanced-tricks-for-quick-webp-to-jpg-conversion/"><u>[New] Advanced Tricks for Quick WebP to JPG Conversion</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-dominate-online-chatter-secrets-to-buzz-creating/"><u>[Updated] 2024 Approved Dominate Online Chatter Secrets to Buzz-Creating</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-skyrocketing-your-iphone-film-quality-essential-filmmaking-insights/"><u>[Updated] Skyrocketing Your iPhone Film Quality Essential Filmmaking Insights</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-stretching-out-youtube-video-quality/"><u>2024 Approved Stretching Out YouTube Video Quality</u></a></li>
-<li><a href="https://games-able.techidaily.com/enjoy-the-best-of-both-worlds-nintendo-and-mac/"><u>Enjoy the Best of Both Worlds: Nintendo & Mac</u></a></li>
-<li><a href="https://techtrends.techidaily.com/forgot-your-gmail-password-again-discover-simple-remedies-now/"><u>Forgot Your Gmail Password Again? Discover Simple Remedies Now!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-the-leading-10-macwindows-srt-enhancers/"><u>In 2024, Exploring the Leading 10 Mac/Windows SRT Enhancers</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-the-art-of-steam-deck-storage-switcheroo/"><u>Mastering the Art of Steam Deck Storage Switcheroo</u></a></li>
-<li><a href="https://games-able.techidaily.com/quickly-reactivate-steam-alternative-approaches/"><u>Quickly Reactivate Steam: Alternative Approaches</u></a></li>
-<li><a href="https://games-able.techidaily.com/simpliplay-portable-simple-classics-made-easy/"><u>SimpliPlay Portable: Simple Classics Made Easy</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-brief-existence-of-game-worlds-should-we-care/"><u>The Brief Existence of Game Worlds – Should We Care?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-quick-reference-how-to-insert-vimeo-media-into-powerpoint-files/"><u>[New] 2024 Approved Quick Reference How to Insert Vimeo Media Into PowerPoint Files</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-infinix-smart-8-hd-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-6s-plus-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-how-openai-is-redefining-ai-with-their-latest-release-gpt-4/"><u>Discover How OpenAI Is Redefining AI With Their Latest Release, GPT-4</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-drivers-for-your-epson-wf-2750-step-by-step/"><u>Download & Install Drivers for Your Epson WF-2750 - Step by Step</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-these-6-exceptional-writing-apps-for-personal-journey-tracking/"><u>Explore These 6 Exceptional Writing Apps for Personal Journey Tracking</u></a></li>
+<li><a href="https://games-able.techidaily.com/guide-to-report-abuse-on-xbox-series-xs/"><u>Guide to Report Abuse on Xbox Series X/S</u></a></li>
+<li><a href="https://games-able.techidaily.com/improving-your-xboxs-joystick-responsiveness/"><u>Improving Your Xbox's Joystick Responsiveness</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/incorporate-rhetorical-questions-to-engage-the-reader/"><u>Incorporate Rhetorical Questions to Engage the Reader</u></a></li>
+<li><a href="https://win11.techidaily.com/motmp4/"><u>MOTファイルを効率的にMP4に直し、見逃させない方法</u></a></li>
+<li><a href="https://games-able.techidaily.com/phone-or-tablet-the-ultimate-gamers-decision-guide/"><u>Phone or Tablet: The Ultimate Gamer's Decision Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/removing-past-game-saves-from-playstation-5-console/"><u>Removing Past Game Saves From PlayStation 5 Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolved-rainbow-six-extraction-stability-issues-on-windows-how-to-fix-them/"><u>Resolved: Rainbow Six Extraction Stability Issues on Windows - How to Fix Them</u></a></li>
+<li><a href="https://games-able.techidaily.com/revive-playstation-4s-wi-fi-connection-with-these-fixes/"><u>Revive PlayStation 4'S Wi-Fi Connection with These Fixes</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-xbox-viewing-on-a-secondary-laptop-screen/"><u>Seamless Xbox Viewing on a Secondary Laptop Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-the-xbox-series-status-shift/"><u>Understanding the Xbox Series Status Shift</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/uniting-people-for-10-years-mondlys-story/"><u>Uniting People for 10 Years - Mondly’s Story</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-the-full-potential-of-your-controller-in-games/"><u>Unlock the Full Potential of Your Controller in Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/visualize-storage-quickly-integrate-diskanalyzer-into-windows-menu/"><u>Visualize Storage Quickly: Integrate DiskAnalyzer Into Windows Menu</u></a></li>
 </ul></div>
 

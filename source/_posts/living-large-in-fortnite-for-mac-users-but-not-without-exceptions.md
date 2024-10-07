@@ -1,7 +1,7 @@
 ---
 title: Living Large in Fortnite - For Mac Users, But Not Without Exceptions
-date: 2024-09-17T16:17:48.747Z
-updated: 2024-09-21T01:37:19.429Z
+date: 2024-10-06T18:53:32.157Z
+updated: 2024-10-07T19:08:12.153Z
 tags:
   - games
 categories:
@@ -49,16 +49,17 @@ Follow these steps to get Fortnite on your Mac:
 ![Fortnite's Epic Store page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/fortnite-s-epic-store-page.jpeg)
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why Installing Fortnite on Your Mac Is a Bad Idea
@@ -73,6 +74,13 @@ Follow these steps to get Fortnite on your Mac:
 
  This, combined with its overly bloated size, makes the Fortnite experience on macOS very disappointing.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Play the Latest Version of Fortnite on Your Mac
 
  Thanks to[the Xbox Cloud Gaming service](https://www.makeuseof.com/what-is-xbox-cloud-gaming-how-does-it-work/) , you can still play the latest version of Fortnite on a Mac via your browser. It's typically a paid service that costs $16.99 per month, but you can access some free games like Fortnite without a subscription.
@@ -82,17 +90,18 @@ Follow these steps to get Fortnite on your Mac:
 1. Visit[Fortnite's Xbox Cloud Gaming page](https://www.xbox.com/en-US/play/games/fortnite/BT5P2X999VH2) using a browser (preferably Google Chrome).  
 ![Fortnite's Xbox Cloud Gaming page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-22-at-1-32-25-pm.png)
 2. Click**Sign In** and enter your Microsoft account credentials.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. After signing in, click**Play** ​​​​​​. You'll need a controller to play Fortnite.  
 ![Fortnite Xbox Cloud Gaming page with Play button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-22-at-1-35-35-pm.png)
 4. Link your Epic Games and Microsoft accounts by following the instructions in Fortnite.  
 ![Fortnite on browser asking to link accounts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-22-at-1-39-07-pm.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you're done with that, you should be ready to play Fortnite over the cloud. But ensure you have a fast and stable internet connection. Using a slow network means you'll have to log in again frequently.
 
@@ -115,5 +124,19 @@ Follow these steps to get Fortnite on your Mac:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-fighting-on-the-go-nintendos-best-switch-fighters/"><u>[New] 2024 Approved Fighting on the Go Nintendo's Best Switch Fighters</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-optimize-video-publishing-timing-for-maximum-views/"><u>[New] 2024 Approved Optimize Video Publishing Timing for Maximum Views</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-snowball-rally-highlights-from-the-beijing-games-2022/"><u>[Updated] Snowball Rally Highlights From the Beijing Games, 2022</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-samsung-galaxy-s24-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Samsung Galaxy S24 Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/breathe-life-into-images-step-by-step-text-editing-guide-for-2024/"><u>Breathe Life Into Images Step-by-Step Text Editing Guide for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-your-pokemon-journey-with-ios-devices/"><u>Elevating Your Pokémon Journey with iOS Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/fine-tune-your-gaming-experience-the-how-to-for-xbox-variable-refresh-rate/"><u>Fine-Tune Your Gaming Experience: The How-To for Xbox Variable Refresh Rate</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-back-online-essential-ps4-wi-fi-fixes-unveiled/"><u>Get Back Online: Essential PS4 Wi-Fi Fixes Unveiled</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mixing-up-switch-oled-and-classic-docks/"><u>Mixing Up: Switch OLED & Classic Docks</u></a></li>
+<li><a href="https://games-able.techidaily.com/play-like-never-before-pdw4-experience/"><u>Play Like Never Before: PDW4 Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-tips-for-buying-a-tablet-based-on-ideal-size-and-easy-mobility/"><u>Top Tips for Buying a Tablet Based on Ideal Size and Easy Mobility</u></a></li>
+</ul></div>
 

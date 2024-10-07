@@ -1,7 +1,7 @@
 ---
 title: Fortnite Fund Flubs - Navigating the Refund Roadmap
-date: 2024-09-29T16:07:02.234Z
-updated: 2024-10-02T10:05:59.220Z
+date: 2024-10-04T16:28:52.602Z
+updated: 2024-10-07T17:27:17.724Z
 tags:
   - games
 categories:
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2
  Additionally, you must be based in the US to apply for a refund and at least 18 to apply. If you are under 18, the FTC says that "a parent or guardian must complete the claim form for you".
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Apply for a Refund From Epic Games’ Fortnite FTC Settlement
@@ -55,10 +55,16 @@ thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2
 ![FTC Fortnite settlement application form](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ftc-fortnite-settlement-application-form.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The deadline for applications is January 17, 2024.
@@ -68,10 +74,10 @@ The deadline for applications is January 17, 2024.
  For more information about the settlement, email <admin@fortniterefund.com> or call 1-833-915-0880.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## An Epic Win for Fortnite Gamers
@@ -93,14 +99,14 @@ The deadline for applications is January 17, 2024.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-compress-iphone-videos-how-to-shorten-without-quality-loss/"><u>[New] Compress iPhone Videos How to Shorten Without Quality Loss</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-creators-uniting-for-marvels-digital-future-for-2024/"><u>[Updated] Creators Uniting for Marvel's Digital Future for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-ice-skates-and-epochs-a-look-at-beijings-olympic-saga-2022/"><u>[Updated] In 2024, Ice Skates & Epochs A Look at Beijing's Olympic Saga, 2022</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-secrets-to-joining-friends-tiktok-live-events/"><u>2024 Approved Secrets to Joining Friends' TikTok Live Events</u></a></li>
-<li><a href="https://games-able.techidaily.com/8-tips-to-boost-your-framerate-in-counter-strike-global-offensive-for-windows/"><u>8 Tips to Boost Your Framerate in Counter-Strike: Global Offensive for Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/pimax-crystal-unveiling-the-peak-of-virtual-immersion-and-problematic-aspects/"><u>Pimax Crystal: Unveiling the Peak of Virtual Immersion & Problematic Aspects</u></a></li>
-<li><a href="https://games-able.techidaily.com/raspberry-pi-gaming-face-off-batocera-or-retropie/"><u>Raspberry Pi Gaming Face-Off: Batocera or RetroPie?</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-rare-collectors-roadmap-scvs-elusive-treasures-76/"><u>The Rare Collector's Roadmap: SCV’s Elusive Treasures (76)</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-10-solutions-for-persistent-iphone-app-crashes/"><u>Top 10 Solutions for Persistent iPhone App Crashes</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-fast-forward-to-flawless-windows-11-photography/"><u>[Updated] Fast Forward to Flawless Windows 11 Photography</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-how-to-guide-for-soundless-video-documentation/"><u>[Updated] In 2024, How-To Guide for Soundless Video Documentation</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-ultimate-screenshot-tools-for-youtube-live-sharing/"><u>[Updated] Ultimate Screenshot Tools for YouTube Live Sharing</u></a></li>
+<li><a href="https://games-able.techidaily.com/canceling-a-video-game-refund-procedures-for-xbox-sx/"><u>Canceling a Video Game: Refund Procedures for Xbox S/X</u></a></li>
+<li><a href="https://games-able.techidaily.com/combatting-gpu-drop-in-gaming-performance/"><u>Combatting GPU Drop in Gaming Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/commanders-choices-the-ultimate-list-of-best-ww2-games/"><u>Commanders' Choices: The Ultimate List of Best WW2 Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/comparative-display-examination-oled-amoled-and-lcd-tech/"><u>Comparative Display Examination: OLED, AMOLED and LCD Tech</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-infinix-hot-30-5g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Infinix Hot 30 5G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-motorola-edge-2023-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Motorola Edge 2023</u></a></li>
 </ul></div>
 

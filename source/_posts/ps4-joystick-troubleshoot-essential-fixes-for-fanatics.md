@@ -1,7 +1,7 @@
 ---
 title: "Ps4 Joystick Troubleshoot: Essential Fixes for Fanatics"
-date: 2024-09-28T10:44:53.395Z
-updated: 2024-10-02T08:25:26.958Z
+date: 2024-10-03T19:20:45.675Z
+updated: 2024-10-07T19:33:14.597Z
 tags:
   - games
 categories:
@@ -43,6 +43,19 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 
 ![PS4 Two Controllers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS4-Two-Controllers.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## PS4 Controller Keeps Disconnecting
 
  If your DualShock 4 disconnects randomly while playing, there are a couple of remedies you can try.
@@ -52,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 ![PS4 Quick Menu Battery Level](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS4-Quick-Menu-Battery-Level.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Plug your controller into your PS4 (or a wall outlet) and visit the Quick Menu again to make sure you see the battery charging animation. After your controller charges for some time, try using it as normal.
@@ -67,19 +80,6 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
  Finally, remember that the PS4 has a setting that turns off controllers after they're idle for some time. If you don't want your PS4 controller to turn off when you're watching media apps like YouTube, go to **Settings > Power Save Settings > Set Time Until Controllers Turn Off** and choose**Never** . Note that this will use up the controller battery even while you're idle.
 
 ![PS4 Never Turn Off Controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS4-Never-Turn-Off-Controller.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## General Fixes When Your PS4 Controller Isn't Working
 
@@ -118,26 +118,26 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 ![PS4 Controller Reset Pinhole](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS4-Controller-Reset-Pinhole.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you've done this, connect your controller to your PS4 again via USB cable and see if it pairs successfully.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Try Connecting the PS4 Controller Elsewhere
 
  At this point, if you haven't already, you should try connecting the PS4 controller that's having problems to another device. If you have similar problems when[using the PS4 controller on a PS5](https://www.makeuseof.com/use-ps4-controller-on-ps5/) , your PC, a friend's PS4, or a smartphone, then your controller is likely faulty.
 
  It's also a good idea to try using another PS4 controller with your console, if possible. If you borrow a friend's DualShock 4 that you know works properly and find that it has issues with your system, something is probably wrong with your PS4's wireless connectivity.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Use the Controller in Wired Mode
 
@@ -150,10 +150,10 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
  If this works, you should get a long USB cable so you can still enjoy gaming from the couch even when wired in.[Ailun's three-pack of 10-foot micro-USB cables](https://www.amazon.com/10ft3Pack-Charging-Smartphone-Connection-Blackwhite/dp/B06XYH75NQ?linkCode=ll1&tag=muo-v2-76tv1pg-20&linkId=f9f8e8d9d67b2bc78306aa8cfd5356be&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU93672&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fps4-controller-not-working-fix-common-issues%2F&asc%5Fcampaign=Evergreen) is a good cost-effective option.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## DualShock 4 Hardware Fix Options
@@ -187,19 +187,22 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-premium-ios-photo-and-video-shows-from-ix-to-ios12/"><u>[New] Premium iOS Photo & Video Shows From IX to IOS12</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-social-media-mastery-embedding-twitch-streams-on-fb/"><u>[Updated] In 2024, Social Media Mastery Embedding Twitch Streams on FB</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-prime-methods-to-speed-up-or-slow-down-songs-on-spotify/"><u>[Updated] Prime Methods to Speed Up or Slow Down Songs on Spotify</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-fourfold-approach-to-revolutionize-xboxs-reward-scheme/"><u>A Fourfold Approach to Revolutionize Xbox's Reward Scheme</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/affordable-luxury-on-your-wrist-the-beantech-bitwatch-s1-plus-reviewed/"><u>Affordable Luxury on Your Wrist? The Beantech Bitwatch S1 Plus Reviewed!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/breaking-boundaries-weaving-single-photos-into-masterpieces-for-2024/"><u>Breaking Boundaries Weaving Single Photos Into Masterpieces for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/capturing-the-essence-of-cricket-soundscape-for-2024/"><u>Capturing the Essence of Cricket Soundscape for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/diagnosing-and-repairing-windows-steam-remote-play-issues/"><u>Diagnosing and Repairing Windows' Steam Remote Play Issues</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-5-factors-handhayer-games-for-gamers-past/"><u>Essential 5 Factors: Handhayer Games for Gamers Past</u></a></li>
-<li><a href="https://games-able.techidaily.com/harmonizing-halo-passes-across-x-series/"><u>Harmonizing Halo Passes Across X Series</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/harmonizing-history-best-theme-songs-in-anime/"><u>Harmonizing History Best Theme Songs in Anime</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-11-calendar-a-step-by-step-guide/"><u>Mastering Windows 11 Calendar: A Step-by-Step Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigate-display-driver-startup-woes-with-ease-here/"><u>Navigate Display Driver Startup Woes with Ease, Here</u></a></li>
-<li><a href="https://howto.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-oppo-a2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-vloggers-guide-to-camera-lenses-wondershare-filmora-for-2024/"><u>[New] A Vlogger's Guide To Camera Lenses | Wondershare Filmora for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-invisible-edits-ensuring-confidentiality-in-media-for-2024/"><u>[New] Invisible Edits Ensuring Confidentiality in Media for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-simplifying-the-process-of-live-sharing-with-discord-for-2024/"><u>[Updated] Simplifying the Process of Live Sharing with Discord for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-smooth-video-viewing-experience-enabledisable-pip-for-iphone-youtube/"><u>2024 Approved Smooth Video Viewing Experience Enable/Disable PIP for iPhone YouTube</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-store-your-webcam-images-in-vlc-player/"><u>2024 Approved Store Your Webcam Images in VLC Player</u></a></li>
+<li><a href="https://games-able.techidaily.com/connect-cast-and-control-using-steam-deck-to-access-pc-gaming/"><u>Connect, Cast & Control: Using Steam Deck to Access PC Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-hidden-treasures-of-ps-vr2-add-ons/"><u>Discover the Hidden Treasures of PS VR2 Add-Ons</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-your-game-with-essential-steam-deck-add-ons/"><u>Elevating Your Game with Essential Steam Deck Add-Ons</u></a></li>
+<li><a href="https://games-able.techidaily.com/leading-voice-controlled-devices-the-premier-smart-speakers-to-own/"><u>Leading Voice-Controlled Devices: The Premier Smart Speakers to Own</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/reacting-to-self-viewer-errors-on-popular-social-networks-for-2024/"><u>Reacting to Self-Viewer Errors on Popular Social Networks for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/1723008690530-red-dead-online-stability-issues-heres-what-you-need-to-know/"><u>Red Dead Online Stability Issues? Here's What You Need to Know</u></a></li>
+<li><a href="https://games-able.techidaily.com/serious-gaming-tech-mod007b-hall-keyboard-review/"><u>Serious Gaming Tech: MOD007B Hall Keyboard Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/smart-picks-inexpensive-motherboards-for-pc-gaming/"><u>Smart Picks: Inexpensive Motherboards for PC Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategic-approaches-to-write-memorable-steam-reviews/"><u>Strategic Approaches to Write Memorable Steam Reviews</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-hidden-world-of-emojis-uncovering-astonishing-insights-and-stories/"><u>The Hidden World of Emojis: Uncovering Astonishing Insights and Stories</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-from-apple-iphone-se-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication From Apple iPhone SE? 5 Tips You Must Know</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/bes-revenue-per-million-views-an-insight-for-2024/"><u>YouTube's Revenue Per Million Views An Insight for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Simple Steps to Erase & Restore Your PS4
-date: 2024-09-13T17:42:55.768Z
-updated: 2024-09-20T23:16:26.844Z
+date: 2024-10-02T16:59:25.144Z
+updated: 2024-10-07T19:13:22.928Z
 tags:
   - games
 categories:
@@ -45,37 +45,24 @@ thumbnail: https://thmb.techidaily.com/5a836c04a4d923a2e47e122afc97ffb5e93afa98d
 
  On the flip side, if you’ve got a used PS4 and the previous owner hasn’t factory reset it, you can reset it to remove any traces of their data.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Factory Reset Your PS4
 
  If you don't have a boot issue with your PS4 and your console turns on just fine, you can reset your console using one of the options in the settings. However, you should deactivate your account on your PS4 before resetting it to avoid any complications when signing in later.
 
  If you have important data that's going to be lost or difficult to download after the reset, you can safely[back up your PS4 data](https://www.makeuseof.com/how-to-back-up-restore-ps4-data/) before proceeding with the steps below.
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. How to Deactivate Your Account on Your PS4
 
  The first thing you should do is deactivate your account on your console. Doing this removes the ability to play your downloaded games on this console and helps avoid sign-in issues at other places where you use your account.
 
 ![Deactivate an account on the PS4](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/deactivate-account-ps4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Here's how to deactivate your account on your PS4:
 
@@ -96,6 +83,13 @@ Here's how to deactivate your account on your PS4:
 
 ![initialize ps4 setting to factory reset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/factory-reset-ps4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you're certain that a factory reset is the way to go, follow the steps below to reset your console to the factory settings:
 
 1. Open the**Settings** menu on your console.
@@ -106,6 +100,13 @@ Here's how to deactivate your account on your PS4:
  It'll take a while before your PS4 is fully reset. You can track the reset progress using the progress indicator on your screen.
 
  Once the reset is complete, your PS4 will boot to display the first-time setup guide. You have now successfully wiped all the data from your PS4.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Factory Reset Your PS4 in Safe Mode
 
@@ -138,13 +139,6 @@ Your PS4 will now perform a factory reset.
 
  To reinstall the system firmware, you will need a computer and a USB flash drive. You need to move the firmware software from your computer to a USB flash drive, which you will then connect to your PS4 to install the software.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Preparing a USB Drive for a PS4 Software Reinstall
 
  Your flash drive should have at least 2GB of space to store the PS4 firmware file. You might have to format the USB drive, so make sure to[back up your USB drive](https://www.makeuseof.com/windows-11-external-usb-back-up/) first. Once you're ready, follow the steps below:
@@ -160,10 +154,17 @@ Your PS4 will now perform a factory reset.
 ![PS4 software reinstall file on a USB drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/ps4-software-reinstall-file-on-a-usb-drive.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Reinstalling the Firmware on Your PS4
@@ -197,5 +198,20 @@ Mahesh Makvana/MUO
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-best-online-echo-chambers/"><u>[New] Best Online Echo Chambers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-extend-video-duration-for-youtube-posting/"><u>[Updated] In 2024, Extend Video Duration for YouTube Posting</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-tecno-camon-20-pro-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Tecno Camon 20 Pro 5G</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-with-the-a-list-platforms-facebook-twitter-instagram-and-youtube-uncovered/"><u>Connect with the A-List Platforms: Facebook, Twitter, Instagram, and Youtube Uncovered</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-top-tier-games-playstation-plus-or-xbox-game-pass/"><u>Exploring Top-Tier Games: PlayStation Plus Or Xbox Game Pass?</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-motorola-moto-g84-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Motorola Moto G84 5G? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-motorola-moto-g-stylus-5g-2023-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Motorola Moto G Stylus 5G (2023) Without PUK Codes</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-xiaomi-redmi-12-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Xiaomi Redmi 12 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/ios-vs-android-battle-royale-edition-of-tetris/"><u>IOS vs Android: Battle Royale Edition of Tetris</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-valorant-play-eliminating-frames-per-second-lags/"><u>Optimizing Valorant Play: Eliminating Frames Per Second Lags</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-go-trainers-companion-guide-to-overcoming-gps-hurdles/"><u>The Go Trainer's Companion Guide to Overcoming GPS Hurdles</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-impact-on-game-quality-when-developers-earn-through-tipping/"><u>The Impact on Game Quality When Developers Earn Through Tipping</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/tips-for-adding-mp4-files-from-windows-movie-maker-onto-vimeo-for-2024/"><u>Tips for Adding MP4 Files From Windows Movie Maker Onto Vimeo for 2024</u></a></li>
+</ul></div>
 

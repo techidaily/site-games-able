@@ -1,7 +1,7 @@
 ---
 title: "Top Gaming Tech: Modular Keyboard - Akko MOD007B"
-date: 2024-09-14T18:48:36.264Z
-updated: 2024-09-20T20:45:50.986Z
+date: 2024-10-05T18:44:26.312Z
+updated: 2024-10-07T18:56:34.523Z
 tags:
   - games
 categories:
@@ -118,6 +118,13 @@ No
 
 ![Akko MOD007B HE Spacebar Detail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-spacebar-detail.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Jowi Morales / MakeUseOf
 
  The Akko MOD007B Hall Effect keyboard is a 75% keyboard, which has ditched the numeric keypad and smushed the control keys together for a more compact form factor. It also comes in two keycap themes: Blue Santorini and Pink Tokyo.
@@ -138,7 +145,21 @@ No
 
 ![Akko MOD007B HE Keycap Accessories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-keycap-accessories.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Jowi Morales / MakeUseOf
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Akko MOD007B Means Serious Business Underneath
 
@@ -166,13 +187,6 @@ Related
 
 ![Akko MOD007B HE Three-Pin Mechanical Switch-Compatible PCB](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-three-pin-mechanical-switch-compatible-pcb.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Jowi Morales / MakeUseOf
 
 ## Typing on Cloud Nine
@@ -186,10 +200,16 @@ Related
 ![Akko MOD007B HE Cloud Driver Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/akko-mod007b-he-cloud-driver-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Of course, hardware is no good if you don’t pair it with great software. Thankfully, the Akko MOD007B comes with an easy-to-use and easy-to-understand driver. On thge Main tab you can remap your keyboard, change its Dynamic Keystroke settings, and set custom actuation distances for the entire keyboard or each key.
@@ -201,6 +221,13 @@ Related
 ## Confusing Multi-Mode Pairing
 
 ![Akko MOD007B HE mode switch slider under the caps lock key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-mode-switch-slider-under-the-caps-lock-key.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Jowi Morales / MakeUseOf
 
@@ -217,10 +244,10 @@ Related
 ![Akko MOD007B HE Battery-Level Check](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-battery-level-check.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Jowi Morales / MakeUseOf
@@ -240,13 +267,6 @@ Related
  So, if you are or plan to be a serious gamer, the Akko MOD007B is an excellent choice for a primary keyboard. And, as long as you don’t frequently switch between Windows and Mac, it’s a great all-around keyboard, too.
 
 ![Akko MOD007B PC eCommerce Image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/world-tour-tokyo-mod007b-pc-3-600x600.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### AKKO MOD007B PC
 
@@ -333,5 +353,22 @@ No
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-explore-the-richest-historical-content-with-these-top-10-yt-groups/"><u>[New] 2024 Approved Explore the Richest Historical Content with These Top 10 YT Groups</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-cutting-edge-alternatives-to-vimeos-video-editor-for-2024/"><u>[New] Cutting Edge Alternatives to Vimeo's Video Editor for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-iphone-collage-crafting-made-simple/"><u>[New] IPhone Collage Crafting Made Simple</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-seek-out-all-shared-media-on-messenger-platform/"><u>[Updated] In 2024, Seek Out All Shared Media on Messenger Platform</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-viral-video-vortex-2024/"><u>[Updated] Viral Video Vortex 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/dissecting-the-drawbacks-to-on-the-go-entertainment/"><u>Dissecting the Drawbacks to On-the-Go Entertainment</u></a></li>
+<li><a href="https://games-able.techidaily.com/guide-to-preventive-measures-finding-the-right-monitor/"><u>Guide to Preventive Measures: Finding the Right Monitor</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-realme-note-50-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Realme Note 50 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-transform-your-hevc-footage-into-mov-files-without-compromising-quality-ideal-for-pc-internet-streaming-and-mobiles/"><u>How to Transform Your HEVC Footage Into MOV Files Without Compromising Quality - Ideal for PC, Internet Streaming & Mobiles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719258280599-jump-over-the-endless-update-hurdle-quick-fixes-now/"><u>Jump Over The Endless Update Hurdle: Quick Fixes Now!</u></a></li>
+<li><a href="https://games-able.techidaily.com/premier-usb-extenders-for-sony-console-gaming/"><u>Premier USB Extenders for Sony Console Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/razer-basilisk-pro-review-gameplay-enhanced-latency-reduced/"><u>Razer Basilisk Pro Review: Gameplay Enhanced, Latency Reduced</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-future-of-gaming-is-here-without-needing-adobe-flash/"><u>The Future of Gaming Is Here: Without Needing Adobe Flash</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-list-of-ios-gaming-boosters-pick-four-for-perfection/"><u>The Ultimate List of iOS Gaming Boosters: Pick Four for Perfection</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-layers-of-steam-versus-gog-services/"><u>Unveiling the Layers of Steam Versus GOG Services</u></a></li>
+</ul></div>
 

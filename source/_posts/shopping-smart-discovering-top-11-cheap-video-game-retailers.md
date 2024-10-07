@@ -1,7 +1,7 @@
 ---
 title: "Shopping Smart: Discovering Top 11 Cheap Video Game Retailers"
-date: 2024-09-17T19:43:14.425Z
-updated: 2024-09-21T00:24:04.289Z
+date: 2024-10-01T18:55:57.095Z
+updated: 2024-10-07T17:38:49.020Z
 tags:
   - games
 categories:
@@ -37,6 +37,13 @@ With that in mind, here are the best sites to buy cheap video games.
 
  If price is your only criterion, then this site is what you need. But IsThereAnyDeal also lists stores selling the game without deals. This allows you to use the site as a "where can I buy this game?" tool, regardless of deals.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2. CheapShark
 
 ![cheapshark](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/cheapshark.jpg)
@@ -59,15 +66,42 @@ With that in mind, here are the best sites to buy cheap video games.
 
 ![humble bundle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/humble-bundle.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Humble Bundle started in 2010 as a discounted collection of video games, with some proceeds donated to charity. Its first few bundles consisted of mainly indie games, but it has since evolved to include AAA titles and other more desirable games.
 
  Humble Bundles are known for the "pay what you want" approach, which means you can grab lots of games very affordably. However, some of the most desirable titles are only available if you spend a minimum amount.
 
  You can also browse[the Humble Store](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34649/https://www.humblebundle.com/store) for regular sales. Either way, these two options comprise some of the best ways to save money and get cheap games.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5. Fanatical
 
 ![fanatical](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/fanatical.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Fanatical is an online game store that always has deep discounts on the latest and greatest games. While the prices on Fanatical are usually great anyway, the site often holds sales or flash deals where you can get even cheaper prices than usual. Since[video gaming is an expensive hobby](https://www.makeuseof.com/is-video-gaming-too-expensive/) , these bargains are most welcome.
 
@@ -82,10 +116,10 @@ With that in mind, here are the best sites to buy cheap video games.
  As you buy on Green Man Gaming, you earn XP. The more you buy, the more XP you earn, and you can redeem this on future purchases to get even greater discounts. It applies the discount automatically, so you're always getting the best deal.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7. GamersGate
@@ -93,13 +127,6 @@ With that in mind, here are the best sites to buy cheap video games.
 ![gamersgate](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gamersgate-homepage.jpg)
 
  GamersGate is officially partnered with publishers large and small, selling Steam keys for PC games across all genres. There are regular sales, meaning you can snag yourself a bargain with ease. If something isn't quite cheap enough for you, GamersGate offers a price drop notification feature—all you need is a free account.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8. WinGameStore
 
@@ -115,22 +142,16 @@ With that in mind, here are the best sites to buy cheap video games.
 
  You may wonder[whether it's safe to buy game keys](https://www.makeuseof.com/are-game-keys-safe/) . When you buy them from authorized sellers like GameBillet, it's no problem. This site serves customers worldwide, offering deals on new and old PC games alike. It even lets you pre-order games; though frankly,[you shouldn't pre-order video games](https://www.makeuseof.com/tag/stop-pre-ordering-video-games/) because a digital supply won't run out.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 10. Gamesplanet
 
 ![gamesplanet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gamesplanet.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Wouldn't it be wonderful to live on a video game planet? Gamesplanet is the next best thing, selling legit game keys for Steam, Ubisoft Connect, GOG, and more. You should check back often because there are always time-limited flash deals that provide an even better price than normal.
 
@@ -138,20 +159,13 @@ With that in mind, here are the best sites to buy cheap video games.
 
 ![indiegala](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/indiegala.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  IndieGala doesn't just sell indie games, though it has plenty of those, but rather has good deals on all sorts of PC games. On top of that, IndieGala has a neat selection of free games and endless giveaways—sure, the game quality may be questionable, but it's hard to quibble at zero dollars.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Decide What Game to Buy
@@ -173,5 +187,26 @@ With that in mind, here are the best sites to buy cheap video games.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-capture-the-essence-of-your-favorite-series-with-these-extractors/"><u>[New] In 2024, Capture the Essence of Your Favorite Series with These Extractors</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-amplify-videographic-excellence-choose-from-these-7-audios/"><u>[Updated] Amplify Videographic Excellence - Choose From These 7 Audios</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-screen-recorder-apps-for-iphoneipad-users/"><u>[Updated] Screen Recorder Apps for iPhone/iPad Users</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-snapping-success-how-to-choose-the-best-camera-views-on-iphone-for-2024/"><u>[Updated] Snapping Success How to Choose the Best Camera Views on iPhone for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-to-premium-audio-with-audacity/"><u>[Updated] Step-by-Step to Premium Audio with Audacity</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-htc-u23-frp-by-drfone-android/"><u>5 Quick Methods to Bypass HTC U23 FRP</u></a></li>
+<li><a href="https://games-able.techidaily.com/beat-short-term-rise-in-game-pass-costs-quick-hacks/"><u>Beat Short-Term Rise in Game Pass Costs - Quick Hacks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/beyond-likes-the-unseen-world-of-instagram-story-audiences/"><u>Beyond Likes The Unseen World of Instagram Story Audiences</u></a></li>
+<li><a href="https://games-able.techidaily.com/contemplating-ps5-heres-why-not/"><u>Contemplating PS5? Here's Why Not</u></a></li>
+<li><a href="https://games-able.techidaily.com/detecting-digital-disconnectors-on-series-sx/"><u>Detecting Digital Disconnectors on Series S/X</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-secrets-of-exceptional-ps5-gaming/"><u>Discover the Secrets of Exceptional PS5 Gaming</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhanced-windows-1n-update-installation-speed-and-efficiency/"><u>Enhanced Windows 1N Update Installation Speed and Efficiency</u></a></li>
+<li><a href="https://games-able.techidaily.com/hrtf-impact-on-audiovisual-perception-in-valorant/"><u>HRTF Impact on Audiovisual Perception in Valorant</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-script-synthesizer-for-2024/"><u>Media Script Synthesizer for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/reclaim-your-games-sound-with-easy-fixes-on-console/"><u>Reclaim Your Game's Sound with Easy Fixes on Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/slim-tech-meets-colorful-fun-with-tecnos-new-releases/"><u>Slim Tech Meets Colorful Fun with Tecno's New Releases</u></a></li>
+<li><a href="https://games-able.techidaily.com/switch-to-smoothness-wi-fi-fixes-guide/"><u>Switch to Smoothness: Wi-Fi Fixes Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ltimate-guide-to-easy-content-making-10-basic-youtube-videos/"><u>The Ultimate Guide to Easy Content Making 10 Basic YouTube Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-guide-to-exciting-paid-nothing-switch-games/"><u>Your Guide to Exciting, Paid-Nothing Switch Games</u></a></li>
+</ul></div>
 

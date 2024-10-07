@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Win-Based PS4 Pad Frequent Detachment"
-date: 2024-09-19T23:37:04.991Z
-updated: 2024-09-20T19:34:03.706Z
+date: 2024-10-05T16:32:29.791Z
+updated: 2024-10-07T19:05:40.687Z
 tags:
   - games
 categories:
@@ -39,26 +39,27 @@ thumbnail: https://thmb.techidaily.com/ebbfde368b81e7f396fe512ace44b149bef6fef39
 
  If you're using the controller wirelessly with the DS4Windows app, then make sure you're within Bluetooth range. We recommend being within 10 feet of your computer. If the controller keeps disconnecting, try moving closer, and if it continues when you're too close, then it's probably not a range issue.
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Rule Out Issues on the OS Side
 
  When it comes to troubleshooting things on Windows, we recommend you first try[restarting your Windows computer](https://www.makeuseof.com/windows-restart-methods/) . This will ensure that any temporary software issues disconnecting your PS4 are resolved. Next, try[manually updating your Windows PC](https://www.makeuseof.com/update-windows-manually/) to the latest version in case the type of issues your PC is experiencing can't be resolved with a simple restart.
 
 ![Restart option in Power menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restart.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If that doesn't work, then it could be a Bluetooth issue causing your PS4 controller to constantly disconnect. To get to the bottom of this, we recommend[running the Bluetooth troubleshooter](https://www.makeuseof.com/run-troubleshooter-windows-10-11/) to find out what the problem is.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Hard Reset Your Controller
 
@@ -66,14 +67,20 @@ thumbnail: https://thmb.techidaily.com/ebbfde368b81e7f396fe512ace44b149bef6fef39
 
 ![How to reset the PS4 DualShock 4 controller.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/how_to_reset_ps4_controller.jpg)
 
- That should hard reset your controller. Now, check to see if the controller still disconnects when you use it on your computer
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ That should hard reset your controller. Now, check to see if the controller still disconnects when you use it on your computer
 
 ## 6\. Update Your Controller's Drivers
 
@@ -92,10 +99,10 @@ thumbnail: https://thmb.techidaily.com/ebbfde368b81e7f396fe512ace44b149bef6fef39
  Once it launches, follow the instructions to update DS4Windows. If the controller still disconnects after the update, then try downloading DS4Windows again and running the new installation. Hopefully, that will fix the issue once and for all
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Use Your PlayStation 4 Controller on Windows Without Interruption
@@ -115,5 +122,20 @@ thumbnail: https://thmb.techidaily.com/ebbfde368b81e7f396fe512ace44b149bef6fef39
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-trailblazers-creating-engaging-marvellous-universe/"><u>[New] In 2024, Trailblazers Creating Engaging Marvellous Universe</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-covert-calls-chroniclers-top-secret-audio-gadgets-androidios/"><u>[Updated] 2024 Approved Covert Calls Chroniclers Top-Secret Audio Gadgets (Android/iOS)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-comprehensive-commentary-delving-deep-into-bublcams-360-degree-world/"><u>[Updated] In 2024, Comprehensive Commentary Delving Deep Into Bublcam's 360-Degree World</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-enhancing-engagement-through-thoughtful-youtube-tags/"><u>[Updated] In 2024, Enhancing Engagement Through Thoughtful YouTube Tags</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-the-ultimate-guide-for-emoji-laden-discord-statements/"><u>[Updated] In 2024, The Ultimate Guide for Emoji-Laden Discord Statements</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-top-live-broadcast-tech-for-industry-experts/"><u>2024 Approved Top Live Broadcast Tech for Industry Experts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-uniform-visual-clarity-in-microsoft-teams-conferences/"><u>2024 Approved Uniform Visual Clarity in Microsoft Teams Conferences</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-break-the-monotony-with-these-6-captivating-videos/"><u>In 2024, Break the Monotony with These 6 Captivating Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/mobility-meets-gaming-a-handy-list-of-strategies/"><u>Mobility Meets Gaming: A Handy List of Strategies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mpga-to-mp3-batch-conversion-tutorial-step-by-step-process-for-efficient-file-transformation/"><u>MPGA to MP3 Batch Conversion Tutorial: Step-by-Step Process for Efficient File Transformation</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719159193660-outsmart-glitching-computers-get-the-latest-nvidia-driver-now/"><u>Outsmart Glitching Computers – Get the Latest Nvidia Driver Now.</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-blueprint-for-discovering-top-tier-servers/"><u>The Blueprint for Discovering Top-Tier Servers</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-game-stream-from-pc-to-cloud-platform/"><u>Xbox Game Stream: From PC to Cloud Platform</u></a></li>
+</ul></div>
 

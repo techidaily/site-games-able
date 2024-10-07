@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Medicine with Technology: The Rise of Digital-Driven, Intelligent Hospital Design Focused on the Patient Experience | ZDNET"
-date: 2024-09-16T01:58:46.601Z
-updated: 2024-09-21T00:37:01.285Z
+date: 2024-10-05T18:45:59.357Z
+updated: 2024-10-07T17:23:06.013Z
 tags:
   - accelerate-your-tech-game
 categories:
@@ -41,6 +41,13 @@ Critical to the success of these programs however is the relationships between u
 
 These partnerships allow Cisco and Optus to provide insights and guidance in skills development, while also enabling them and their customers to bring in-demand skills more readily into their own organisations.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Working in partnership**
 
 There are numerous mechanisms through which both Optus and Cisco are forging close relationships with Australia's higher education institutions.
@@ -54,6 +61,13 @@ Getty/Tom Werner
 A team at South Australia's Flinders University for instance are investigating four research areas covering hospital digital infrastructure maturity and patient experience, while at NSW's University of Newcastle, investigations are proceeding into better models for meeting the health needs of rural and remote communities. In recent weeks, Optus announced the appointment of a Research Chair in Cybersecurity in partnership with the University of South Australia, which will play a critical role in driving forward the State's economic opportunities in the areas of Defence over the next decade.
 
 In addition, government grant programs are enabling La Trobe University, Swinburne University and Charles Darwin University to look into the impact of digitisation across industries from the use of 5G technology, such as how it can help councils better maintain assets through to how drones can be used to distribute medical supplies into remote indigenous communities. Other Innovation Central locations are investigating critical issues such as Australia's national digital security and the maintenance of critical supply chains.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Engagement in action**
 
@@ -70,16 +84,10 @@ At WA's Curtin University the NIIN partnership has been critical to supporting i
 This partnership is the latest in a long list of engagements between Cisco, Optus, and Curtin University, which has also included the creation of Western Australia's first dedicated research lab set to unleash new 5G applications and enhance student experience.
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Conclusion**
@@ -103,5 +111,23 @@ Find out more [La Trobe University makes connecting a priority with Optus](https
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-lilliputscreenmugger-review-analysis/"><u>[New] 2024 Approved LilliputScreenMugger Review Analysis</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-64128gb-data-puzzle-solving-video-limits-for-2024/"><u>[New] 64/128GB Data Puzzle Solving Video Limits for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-mastering-content-the-key-to-engaging-yt-shorts/"><u>[New] In 2024, Mastering Content The Key to Engaging YT Shorts</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-easy-voice-adjustment-for-ps5-and-ps4/"><u>2024 Approved Easy Voice Adjustment for PS5 & PS4</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-samsung-galaxy-f14-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Samsung Galaxy F14 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/balancing-professional-and-personal-profiles/"><u>Balancing Professional and Personal Profiles</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-leading-7-twitch-streamer-assistants/"><u>Discover the Leading 7 Twitch Streamer Assistants</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/industrys-preferred-6-social-networking-sites-for-firms-for-2024/"><u>Industry's Preferred 6 Social Networking Sites for Firms for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-apple-m1-and-windows-games-with-crossover-software/"><u>Mastering Apple M1 and Windows Games with Crossover Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/portable-gameplay-joy-and-concerns/"><u>Portable Gameplay: Joy and Concerns</u></a></li>
+<li><a href="https://games-able.techidaily.com/premier-ps5-flash-drive-choices/"><u>Premier PS5 Flash Drive Choices</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-troubleshooting-tips-for-constant-outriders-game-crashes/"><u>Quick Troubleshooting Tips for Constant Outriders Game Crashes</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-windows-11-steam-service-disruptions/"><u>Resolving Windows 11: Steam Service Disruptions</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719165156100-step-up-your-arcade-game-with-massive-fronts/"><u>Step Up Your Arcade Game with Massive Fronts!</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-guide-to-locking-down-your-playstation-5-games/"><u>Step-by-Step Guide to Locking Down Your PlayStation 5 Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uninterrupted-viewing-9-methods-to-sharpen-video-playback-on-windows/"><u>Uninterrupted Viewing: 9 Methods to Sharpen Video Playback on Windows</u></a></li>
+</ul></div>
 

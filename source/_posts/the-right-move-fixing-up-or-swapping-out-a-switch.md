@@ -1,7 +1,7 @@
 ---
 title: "The Right Move: Fixing Up or Swapping Out a Switch"
-date: 2024-09-28T21:55:41.907Z
-updated: 2024-10-01T18:44:29.210Z
+date: 2024-10-06T18:27:38.668Z
+updated: 2024-10-07T17:53:42.059Z
 tags:
   - games
 categories:
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/267e58ed8e657bec227e46ab620be1c2e14c4f8b5
 
  From here, your console serial number and those of the battery and Joy-Con will be displayed on-screen. However, while this method works universally, if your Switch is non-functioning or won't turn on, you'll have to find the serial number by analyzing your console or its original box.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Check Your Nintendo Switch’s Warranty Status
 
  Now you know the serial number of your Switch, you can move on with checking the warranty status of your console and booking a repair. It's important to check the warranty status of your Switch beforehand as if your console is under warranty, Nintendo will likely repair your console for free.
@@ -55,18 +62,18 @@ thumbnail: https://thmb.techidaily.com/267e58ed8e657bec227e46ab620be1c2e14c4f8b5
 
 ![A screenshot of the Check Warranty Status page of the Nintendo Repair Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3058.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Under**Warranty Information** , Nintendo will then provide all the details of your console's warranty status, including whether it is under warranty and the**Warranty Expiration Date** .
 
  Unfortunately, if your console is out of warranty, you will have to pay for the repair of your console. Similarly, screen damage voids the warranty of your Switch, and screen repairs are not covered under the warranty.
 
  However, it may be worth checking some[common fixes for Nintendo Switch problems](https://www.makeuseof.com/fix-nintendo-switch-problems/) before booking a repair. This way, you may avoid any repair fees if your console is out of warranty.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Book Your Nintendo Switch In for a Repair
 
@@ -82,22 +89,15 @@ thumbnail: https://thmb.techidaily.com/267e58ed8e657bec227e46ab620be1c2e14c4f8b5
 
 ![A screenshot of the troubleshooting information for a Nintendo Switch repair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3064.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Select the option below**General Troubleshooting** that best defines the fault with your Nintendo Switch.
 
 ![A screenshot of the General Troubleshooting options of the Nintendo Repair Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3067.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Follow the on-screen troubleshooting guides for your selected issue, and select**Start a repair** .
@@ -112,14 +112,14 @@ thumbnail: https://thmb.techidaily.com/267e58ed8e657bec227e46ab620be1c2e14c4f8b5
 
 ![A screenshot of the finalized Repair Details for a Nintendo Switch repair via the Nintendo Repair Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3082.jpg)
 
- You will now need to enter any personal information relevant to the repair process and confirm your methods of delivery to and from the repair center. Once this has been completed, you need to pay for the repair. But with the repair paid for and delivery confirmed, you have successfully booked a repair for your Nintendo Switch.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ You will now need to enter any personal information relevant to the repair process and confirm your methods of delivery to and from the repair center. Once this has been completed, you need to pay for the repair. But with the repair paid for and delivery confirmed, you have successfully booked a repair for your Nintendo Switch.
 
 ## Repair Your Nintendo Switch in the Most Effective Way Possible
 
@@ -142,22 +142,19 @@ thumbnail: https://thmb.techidaily.com/267e58ed8e657bec227e46ab620be1c2e14c4f8b5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-enhance-audio-visual-fidelity-use-av1-on-youtube/"><u>2024 Approved Enhance Audio-Visual Fidelity Use AV1 on YouTube</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-perfecting-your-sound-palette-with-audacity-crossfading/"><u>2024 Approved Perfecting Your Sound Palette with Audacity Crossfading</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-best-selling-oculus-rift-gaming-experiences/"><u>2024 Approved The Best-Selling Oculus Rift Gaming Experiences</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-videocapture-analysis-hub/"><u>2024 Approved VideoCapture Analysis Hub</u></a></li>
-<li><a href="https://driver-download.techidaily.com/driver-fixes-for-common-lg-monitor-compatibility-issues-in-windows-operating-systems/"><u>Driver Fixes for Common LG Monitor Compatibility Issues in Windows Operating Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/efficient-use-of-time-and-cash-on-your-xbox-console/"><u>Efficient Use of Time & Cash on Your Xbox Console</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-samsung-m2020-driver-software-for-your-phone-here/"><u>Get the Latest Samsung M2020 Driver Software for Your Phone Here!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/getting-set-up-driver-downloads-for-optimal-performance-on-samsung-850-evo-ssds/"><u>Getting Set Up: Driver Downloads for Optimal Performance on Samsung 850 EVO SSDs</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-oppo-a2-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Oppo A2 to PC? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/keeping-cool-tactics-for-enduring-xbox-game-pass-hike/"><u>Keeping Cool: Tactics for Enduring Xbox Game Pass Hike</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-ps4-games-on-the-latest-ps5-console/"><u>Navigating PS4 Games on the Latest PS5 Console</u></a></li>
-<li><a href="https://games-able.techidaily.com/post-shortage-whats-next-for-ps5-retail-costs/"><u>Post-Shortage, What's Next for PS5 Retail Costs?</u></a></li>
-<li><a href="https://games-able.techidaily.com/reclaim-your-control-over-noncooperative-steam-software/"><u>Reclaim Your Control Over Noncooperative Steam Software</u></a></li>
-<li><a href="https://games-able.techidaily.com/say-goodbye-to-freezing-frustrations-with-epics-launcher-fixes/"><u>Say Goodbye to Freezing Frustrations with Epic's Launcher Fixes</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-pc-gaming-setup-with-basilisk-v3-pro/"><u>The Ultimate PC Gaming Setup with Basilisk V3 Pro</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-gadgets-unveiled-ifa-2023-edition/"><u>Top Gadgets Unveiled - IFA 2023 Edition</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-enhancement-with-chipset-fixes/"><u>Windows Enhancement with Chipset Fixes</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-earning-stream-start-small-see-big-on-youtube-for-2024/"><u>[New] Earning Stream Start Small, See Big on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unleashing-laughter-on-screen-essential-tactics-for-youtube-reaction-video-making-3-ways/"><u>[Updated] Unleashing Laughter on Screen Essential Tactics for YouTube Reaction Video Making (3 Ways)</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unveiling-tseries-income-stream-from-youtube-content-consumption-for-2024/"><u>[Updated] Unveiling TSeries’ Income Stream From Youtube Content Consumption for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-beating-the-curve-adapting-to-new-facebook-content-rules/"><u>2024 Approved Beating the Curve Adapting to New Facebook Content Rules</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/crossover-for-applesilicon-gamers-a-step-by-step-guide-to-playing-windows-games/"><u>CrossOver for AppleSilicon Gamers: A Step-by-Step Guide to Playing Windows Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-endless-entertainment-without-spending/"><u>Discover Endless Entertainment Without Spending</u></a></li>
+<li><a href="https://games-able.techidaily.com/expanding-language-reach-in-roms-with-easy-applications/"><u>Expanding Language Reach in ROMs with Easy Applications</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-honor-x50i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Honor X50i? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-oppo-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Oppo</u></a></li>
+<li><a href="https://games-able.techidaily.com/immersive-experience-with-top-tier-dell-screen-anc-earpiece-and-crystal-clear-video-webcam/"><u>Immersive Experience with Top-Tier Dell Screen, ANC Earpiece, and Crystal-Clear Video Webcam</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On OnePlus Nord N30 5G? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/invisible-steam-collection/"><u>Invisible Steam Collection</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-slow-motion-spectrum-top-cams-reviewed-by-experts/"><u>The Slow-Motion Spectrum Top Cams Reviewed by Experts</u></a></li>
 </ul></div>
 

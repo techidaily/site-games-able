@@ -1,7 +1,7 @@
 ---
 title: Potential Collaboration Effect on Game Industry?
-date: 2024-09-28T06:13:29.972Z
-updated: 2024-10-02T01:29:33.725Z
+date: 2024-10-05T16:51:31.858Z
+updated: 2024-10-07T16:16:10.186Z
 tags:
   - games
 categories:
@@ -35,6 +35,19 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 
  And with Xbox owning massive Activision/Blizzard franchises, there is also the worry that the deal will enable Xbox to turn multiplatform franchises into Xbox exclusives. And while platform exclusivity is a more nuanced effect of the deal, with specific clauses, there are undoubtedly consequences of such an industry-shaking deal.
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Potential Problems the Deal May Cause Gamers
 
  While the deal is good for Xbox as a platform and Xbox gamers, there are many damaging implications for the industry and gamers alike, even if you're a huge Xbox fan.
@@ -47,25 +60,11 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 
 ![A promotional image highlighting the key art for Starfield](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/starfield.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Image Credit:[Bethesda](https://bethesda.net/en/game/starfield)
 
  Worryingly, the Bethesda acquisition was around nine times less than the Activision/Blizzard deal. And with Activision/Blizzard enjoying a massive presence in the gaming industry, titan franchises like Call of Duty and Overwatch could eventually become Xbox exclusives.
 
  Xbox could use Activision/Blizzard exclusivity to monopolize some of gaming's most popular franchises, forcing you to own an Xbox Series X|S as competitors may not be able to sell specific Activision/Blizzard titles.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Both Xbox and PlayStation Are Prioritizing Exclusivity
 
@@ -82,16 +81,10 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
  So, another unfortunate implication of the deal between Microsoft and Activision/Blizzard is the furthering of exclusivity competition between all platforms, restricting your choices as a consumer.
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. A Mismanaged Deal Will Result in Higher Priced Games and Services for Consumers
@@ -108,9 +101,23 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 
  And while there may be many[reasons you will see the price of Xbox Game Pass increasing](https://www.makeuseof.com/reasons-xbox-game-pass-will-get-more-expensive/) , the price tag of $68.7 billion for Activision/Blizzard will only inflate things further. So, even if you're a fan of Xbox, you may still be affected by price increases associated with the deal.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why the Activision/Blizzard Deal May Not Be as Bad as You Think
 
  While you certainly have good reasons to be dubious of the acquisition of Activision/Blizzard by Microsoft, there is evidence to suggest that the deal isn't as problematic for gamers as previously thought.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Exclusive Games Have Always Been a Pivotal Part of Console Gaming
 
@@ -134,18 +141,18 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 
 ![A screenshot of the loading screen for Halo The Master Chief Collection on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/halo-the-master-chief-collection-loading-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Along with multiple generations of backwards compatibility for Xbox consoles and Xbox All Access,[Xbox is one of the most consumer-friendly platforms](https://www.makeuseof.com/ways-microsoft-has-made-the-xbox-series-xs-the-most-consumer-friendly-console/) in gaming. Acquiring Activision/Blizzard spreads Xbox's pro-consumer values to Activision/Blizzard titles.
 
  Activision/Blizzard is also a company marred by controversy, as reported by[Forbes](https://www.forbes.com/sites/tylerroush/2023/02/03/activision-blizzard-will-pay-sec-35-million-to-settle-claims-over-its-workplace-misconduct-disclosures/) . And with the completion of Microsoft's acquisition,[Forbes](https://www.forbes.com/sites/conormurray/2023/10/13/activision-blizzard-ceo-bobby-kotick-set-to-leave-in-december-heres-what-to-know-about-his-controversies/) highlights that as a result of the deal's completion, the Managing Director of Activision/Blizzard, Bobby Kotick, exited the company.
 
  So, if you take the pro-consumer practices Xbox engages in with the changing of the guard at Activision/Blizzard, the deal injects hope into a troubled company, highlighting a positive change for Activision/Blizzard and consumers.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Xbox Is the Underdog of the Industry
 
@@ -156,13 +163,6 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
  But if you follow the discussions on Xbox and its place in the industry against competitors, Microsoft president Brad Smith said via[Bloomberg UK](https://www.bloomberg.com/news/articles/2022-12-13/microsoft-says-it-offered-ftc-consent-decree-on-call-of-duty?leadSource=uverify%20wall) that "if you look at the global market, Sony has 70% of that market, and we have 30%".
 
 ![A photograph of an PlayStation 5 console and controller atop a white surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/playstation-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Brad Smith also cited how PlayStation, at the time of the discussions, had 286 exclusive games and Xbox only had 59 to back up his statements. So, while you may be justifiably worried about the deal's implications, you could see the acquisition as simply allowing Xbox to catch up to PlayStation.
 
@@ -191,18 +191,24 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-invisible-interviewers-guide-stealthy-ios-and-android-tools/"><u>[New] Invisible Interviewer's Guide Stealthy iOS & Android Tools</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-narrative-artistry-accolades-1-8-distinguished-academies/"><u>[New] Narrative Artistry Accolades #1-#8 Distinguished Academies</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-streamline-workflow-with-macoss-screen-capture-feature/"><u>[New] Streamline Workflow with macOS's Screen Capture Feature</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-mastering-the-use-of-custom-gifs-in-your-instagram-stories/"><u>[Updated] In 2024, Mastering the Use of Custom GIFs in Your Instagram Stories</u></a></li>
-<li><a href="https://games-able.techidaily.com/conquering-low-fps-the-console-perspective/"><u>Conquering Low FPS: The Console Perspective</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-past-steam-values-for-your-favorite-games/"><u>Discover Past Steam Values for Your Favorite Games</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/elevate-your-ppt-presentations-avoiding-common-voiceover-pitfalls/"><u>Elevate Your PPT Presentations Avoiding Common Voiceover Pitfalls</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhance-your-gaming-top-9-nintendo-switch-tweaks/"><u>Enhance Your Gaming: Top 9 Nintendo Switch Tweaks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-gpt-4-all-understanding-its-functionality-and-mechanisms/"><u>Exploring GPT-4 All: Understanding Its Functionality & Mechanisms</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-report-a-player-for-inappropriate-behavior-on-xbox-series-xs/"><u>How to Report a Player for Inappropriate Behavior on Xbox Series X|S</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-sleeper-strikers-top-10-undetected-fb-memes/"><u>In 2024, Sleeper Strikers Top 10 Undetected FB Memes</u></a></li>
-<li><a href="https://games-able.techidaily.com/take-charge-how-to-purchase-spiderman-2-early-edition/"><u>Take Charge: How to Purchase SPIDERMAN 2 Early Edition</u></a></li>
-<li><a href="https://games-able.techidaily.com/valorant-pro-tips-increasing-performance-and-cutting-frames-per-second-dips/"><u>Valorant Pro Tips: Increasing Performance & Cutting Frames Per Second Dips</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-four-essential-tips-for-acquiring-youtube-srt/"><u>2024 Approved Four Essential Tips for Acquiring YouTube SRT</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-hastening-vimeo-media-transmission/"><u>2024 Approved Hastening Vimeo Media Transmission</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-instagrams-filter-arsenal-for-revamping-your-archive/"><u>2024 Approved Instagram's Filter Arsenal for Revamping Your Archive</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-ways-you-can-maintain-your-nintendo-switch-and-extend-its-lifespan/"><u>5 Ways You Can Maintain Your Nintendo Switch (and Extend Its Lifespan)</u></a></li>
+<li><a href="https://games-able.techidaily.com/6-top-considerations-in-the-path-to-owning-ps5/"><u>6 Top Considerations in the Path to Owning PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-new-wave-of-vintage-gameplay/"><u>A New Wave of Vintage Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-quick-tutorial-clearing-old-ps5-saved-files/"><u>A Quick Tutorial: Clearing Old PS5 Saved Files</u></a></li>
+<li><a href="https://games-able.techidaily.com/accelerate-fun-factors-essential-5-steps-to-better-games-on-macos/"><u>Accelerate Fun Factors: Essential 5 Steps to Better Games on macOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-joy-con-communication-breakdown-with-switch-device/"><u>Addressing Joy-Con Communication Breakdown with Switch Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-of-the-best-select-nintendo-switch-dock-options/"><u>Best of the Best: Select Nintendo Switch Dock Options</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-static-to-dynamic-making-text-pop-on-instagram-stories/"><u>From Static to Dynamic Making Text Pop on Instagram Stories</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-itel-p40-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Itel P40 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-on-iphone-11-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email On iPhone 11? Heres the Best Fixes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-computing-with-toms-technology-insights/"><u>Navigating the World of Computing with Tom's Technology Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719170168370-overcome-system-errors-install-updated-nvidia-drivers/"><u>Overcome System Errors - Install Updated Nvidia Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-fix-guide-reinstalling-bluetooth-on-win11/"><u>Quick Fix Guide: Reinstalling Bluetooth on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-11-with-non-admin-steps/"><u>Unlocking Windows 11 With Non-Admin Steps</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719162457406-youtube-reworking-its-arsenal-with-cutting-edge-mini-games/"><u>YouTube Reworking Its Arsenal with Cutting-Edge Mini Games</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/zero-downloads-the-ultimate-list-of-seamless-gif-to-video-tools/"><u>Zero Downloads The Ultimate List of Seamless GIF to Video Tools</u></a></li>
 </ul></div>
 

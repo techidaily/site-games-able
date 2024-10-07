@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Patient Care: Crafting an Enhanced Online Medical Journey - Insights From ZDNet"
-date: 2024-09-19T01:03:13.164Z
-updated: 2024-09-20T21:12:05.528Z
+date: 2024-10-06T16:59:49.962Z
+updated: 2024-10-07T19:24:37.861Z
 tags:
   - accelerate-your-tech-game
 categories:
@@ -41,6 +41,13 @@ One of these is a new smartphone app being deployed by NSW Health, which will en
 
 Finally, for those who are interested, we can start connecting a person's entire health journey, from the early indicators of impending illness through to their experience of treatment, and then closely monitor their recovery phase.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **A vision for connected digital healthcare**
 
 The recent whitepaper[_Transforming the Patient Experience_](https://www.optus.com.au/enterprise/accelerate/communications/the-role-of-digital-in-transforming-the-patient-experience-in-healthcare)_,_ produced by [Optus](https://www.optus.com.au/enterprise) and [Cisco](https://www.cisco.com/c/en%5Fau/index.html), highlighted numerous opportunities for digital technologies to enhance the patient journey.
@@ -66,6 +73,13 @@ And the data gathered means providers can have a more complete and up-to-date pi
 This digital patient experience model requires an end-end-service model incorporating network connectivity, platforms, portals and automation but also importantly needs to incorporate high-quality integration and management to ensure that overall value, efficiency and optimisation is achieved.
 
 This thinking is reflected in the work of Cisco Chair and Professor of Digital Health Systems at Flinders University, Patricia Williams, whose research into improving patient experience using information infrastructure modelling has demonstrated how a fundamental shift in thinking about the use of information infrastructure can transform the patient experience for the better.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###   **Bringing the benefits of digital healthcare to life**
 
@@ -94,18 +108,22 @@ To find out more about the opportunities for digital technologies to enhance the
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-high-tech-vr-handhelds-our-top-10-list/"><u>[New] High-Tech VR Handhelds Our Top 10 List</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-instagram-alter-your-tone-effectively-for-2024/"><u>[Updated] Mastering Instagram Alter Your Tone Effectively for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-recipe-rendezvous-top-30-channels-with-a-taste-for-success/"><u>[Updated] Recipe Rendezvous Top 30 Channels with a Taste for Success</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-immersive-tech-evolution-vr-now-and-beyond/"><u>2024 Approved Immersive Tech Evolution VR Now & Beyond</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-friends-matches-curated-list-of-mobile-combo-games/"><u>Best Friends' Matches: Curated List of Mobile Combo Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-oled-nintendo-switch-fit-in-classic-docks/"><u>Can OLED Nintendo Switch Fit in Classic Docks?</u></a></li>
+<li><a href="https://games-able.techidaily.com/cost-considerations-for-engaging-with-ea-play/"><u>Cost Considerations for Engaging with EA Play</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-stuck-update-for-microsoft-flight-simulator-2020-now-resolved/"><u>How to Fix Stuck Update for Microsoft Flight Simulator 2020 – Now Resolved!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-video-masterclass-crafting-youtube-trailers-using-filmora/"><u>In 2024, Video Masterclass Crafting YouTube Trailers Using Filmora</u></a></li>
+<li><a href="https://games-able.techidaily.com/linking-headphones-to-ps5-via-bluetooth/"><u>Linking Headphones to PS5 via Bluetooth</u></a></li>
+<li><a href="https://games-able.techidaily.com/method-for-purging-ps5-save-data-from-games/"><u>Method for Purging PS5 Save Data From Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/permanent-deletion-of-your-playstation-5-information/"><u>Permanent Deletion of Your PlayStation 5 Information</u></a></li>
+<li><a href="https://games-able.techidaily.com/relive-sonyenas-golden-years-with-these-30-top-ranked-ps3-emulators-on-pc/"><u>Relive Sony'enas Golden Years with These 30 Top-Ranked PS3 Emulators on PC</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtube-prodigy-vs-creative-hub-beta-edition-for-2024/"><u>YouTube Prodigy Vs. Creative Hub Beta Edition for 2024</u></a></li>
+</ul></div>
 

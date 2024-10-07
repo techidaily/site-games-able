@@ -1,7 +1,7 @@
 ---
 title: What Makes a Hit? Insights From Helldivers 2
-date: 2024-09-26T02:03:04.567Z
-updated: 2024-10-02T11:59:19.228Z
+date: 2024-09-30T16:59:25.682Z
+updated: 2024-10-07T18:51:00.312Z
 tags:
   - games
 categories:
@@ -36,9 +36,29 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 
  Multiplayer online gaming across platforms is all the rage. Helldivers 2, a game by Arrowhead Game Studios, exploded in popularity on PC and PS5 consoles in 2024\. How can a future multiplayer game replicate Arrowhead's success? Here are some key things I've noticed as a player that contribute to the game's success.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1 Allow Cross-Platform Multiplayer Play
 
 ![Screenshot of Helldivers 2 Super Earth public service announcement](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0416461.jpeg)
+
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Helldivers 2 is a third-person shooter live service game where players become Helldivers fighting for Super Earth. Players join teammates in missions on different planets across the universe to eradicate Terminids (bug-like alien life forms) and Automatons (robots). Helldivers harvest valuable resources from planets that are home to Terminids and Automatons.
 
@@ -47,16 +67,10 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
  Cross-platform multiplayer features allow people to play games with friends who may use different platforms and maintain social connections while increasing the overall player pool. It's one of the reasons[platform-exclusive games are becoming a thing of the past](https://www.makeuseof.com/platform-exclusive-games-thing-of-the-past-good/) .
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2 Listen to Community Members
@@ -67,20 +81,27 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 
 ![Screenshot of Helldivers 2 Warbond menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0415451.jpeg)
 
- The game was faced with alienating a large portion of its player base, but its willingness to reverse its decision got it back on track.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ The game was faced with alienating a large portion of its player base, but its willingness to reverse its decision got it back on track.
 
 ## 3 Have A Strong Social Media Presence
 
  The Helldivers 2 social media pages post frequent game updates, challenges, and memes that earn impressive engagement. For instance, the[Helldivers 2 Instagram page](https://www.instagram.com/helldivers2game/?hl=en) boasts over 100,000 followers.
 
  Helldivers 2 also has a[Discord server](https://discord.com/invite/zbbZ5rNcuK) with almost 1 million members, where players receive updates from the game's developers. During the Sony PSN linking debacle, development leads updated the game's player base amid ongoing negotiations with Sony.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4 Offer Community Challenges
 
@@ -89,13 +110,6 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
  Helldivers 2 also succeeded in creating a sense of community through weekly challenges known as Major Orders. One recent Major Order required the game's player base to kill 2 million Terminids to receive in-game currency called medals.
 
  The game's developers put out new Major Orders every week to engage the community. The community is not guaranteed to pass each Major Order, making it a challenge for the entire player base. Each mission in Helldivers 2 that a player participates in adds to the progress of the Major Order, making the success of the mission entirely based on community progress.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5 Have a Free Progression System
 
@@ -111,21 +125,7 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 
 ![Screenshot of Helldivers 2 strategem menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0415051.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  There are plenty of other[live service games that are not pay-to-win](https://www.makeuseof.com/live-service-games-that-arent-pay-to-win/) , as well, including Fortnite and Smite.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6 Balance Gameplay Mechanics
 
@@ -154,18 +154,18 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-enhance-editing-unlimited-free-audio-samples/"><u>[New] In 2024, Enhance Editing Unlimited Free Audio Samples</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-revolutionary-appeal-of-apples-m1-max-clip/"><u>[Updated] In 2024, The Revolutionary Appeal of Apple's M1 Max Clip</u></a></li>
-<li><a href="https://games-able.techidaily.com/beyond-nvidia-best-gpus-for-enthusiasts/"><u>Beyond Nvidia: Best GPUs for Enthusiasts</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-gaming-iem-quality-an-overview/"><u>Exploring Gaming IEM Quality: An Overview</u></a></li>
-<li><a href="https://games-able.techidaily.com/games-vanish-quickly-is-it-a-concern/"><u>Games Vanish Quickly: Is It a Concern?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-htc-u23-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from HTC U23 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-google-pixel-8-phone-without-pin-by-drfone-android/"><u>How to Unlock Google Pixel 8 Phone without PIN</u></a></li>
-<li><a href="https://games-able.techidaily.com/ifa-2023-unleashing-the-future-of-game-hardware/"><u>IFA 2023: Unleashing the Future of Game Hardware</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-nokia-130-music-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Nokia 130 Music? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/scores-dont-count-the-real-deal-with-game-reviews/"><u>Scores Don't Count: The Real Deal with Game Reviews</u></a></li>
-<li><a href="https://games-able.techidaily.com/switch-up-nintendos-next-gen-the-2024-hunch/"><u>Switch Up: Nintendo's Next Gen, The 2024 Hunch</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-oppo-find-n3-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Oppo Find N3 Phone</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-samsung-galaxy-a23-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Samsung Galaxy A23 5G Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-panasonic-hx-a1-wearable-camera-explored/"><u>[New] In 2024, Panasonic HX-A1 Wearable Camera Explored</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-the-art-of-spinning-photos-iphone-videography-tips/"><u>2024 Approved The Art of Spinning Photos IPhone Videography Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-key-strategies-to-optimize-your-xbox-game-bar-on-windows-pcs/"><u>5 Key Strategies to Optimize Your Xbox Game Bar on Windows PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/advanced-high-display-proportional-gaming-tools/"><u>Advanced High Display Proportional Gaming Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/android-software-functionality-in-linux/"><u>Android Software Functionality in Linux</u></a></li>
+<li><a href="https://games-able.techidaily.com/battleground-breached-understanding-game-cyberattacks/"><u>Battleground Breached: Understanding Game Cyberattacks</u></a></li>
+<li><a href="https://games-able.techidaily.com/before-you-join-linkedin-games-heres-why-to-be-wary/"><u>Before You Join LinkedIn Games - Here's Why to Be Wary</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-ergonomic-gamepad-options/"><u>Best Ergonomic Gamepad Options</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-samsung-galaxy-a15-4g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Samsung Galaxy A15 4G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/kinemasters-secrets-to-transition-excellence-for-2024/"><u>Kinemaster's Secrets to Transition Excellence for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/premier-platforms-identifying-the-finest-ps2-emulation-tools-for-android/"><u>Premier Platforms Identifying the Finest PS2 Emulation Tools for Android</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ricodifica-gratuita-file-m4v-in-formato-wma-online-scorriagile-soluzione-di-movavi/"><u>Ricodifica Gratuita File M4V in Formato WMA Online - Scorriagile Soluzione Di Movavi</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-idt-high-definition-codec-driver-issues-on-windows-11/"><u>Troubleshooting IDT High Definition Codec Driver Issues on Windows 11</u></a></li>
 </ul></div>
 

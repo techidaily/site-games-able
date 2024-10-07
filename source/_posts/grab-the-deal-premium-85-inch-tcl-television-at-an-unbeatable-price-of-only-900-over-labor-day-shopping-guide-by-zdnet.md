@@ -1,7 +1,7 @@
 ---
 title: "Grab the Deal: Premium 85 Inch TCL Television at an Unbeatable Price of Only $900 Over Labor Day - Shopping Guide by ZDNet."
-date: 2024-09-16T20:55:19.475Z
-updated: 2024-09-20T19:19:41.877Z
+date: 2024-10-03T18:52:48.435Z
+updated: 2024-10-07T18:47:35.296Z
 tags:
   - gaming
 categories:
@@ -20,6 +20,13 @@ Artie Beaty/ZDNET
 The [75-inch Samsung QN90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Tracking-Anti-Glare-Q-Symphony-QN55QN90C%2Fdp%2FB0BTTVBDVD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca809cba9-2efa-4131-bfb0-67fc93c07357%7Cdtp&dtb=1) is available for $1,998, a $1,000 discount on one of the best Samsung TVs available. It's our number-one pick for the [best 75-inch TVs](https://www.zdnet.com/home-and-office/home-entertainment/best-75-inch-tv/). 
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -89,15 +96,22 @@ From that bar, there's a deeper game mode settings option, which lets you tune t
 
 Most casual gamers wouldn't dive this deep into these settings, but this is a fantastic thing to have for serious gamers. It's the deepest level of customization I've seen from a gaming menu. I'd call this easily one of the [best gaming TVs](https://www.zdnet.com/home-and-office/home-entertainment/best-gaming-tv/) I've come across. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [Samsung QN90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Tracking-Anti-Glare-Q-Symphony-QN55QN90C%2Fdp%2FB0BTTVBDVD%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca809cba9-2efa-4131-bfb0-67fc93c07357%7Cdtp&dtb=1) TV has a few minor annoyances -- I'm hesitant to call the wobbliness and installation process shortcomings -- but its picture quality in every instance and gaming features more than made up for those. If you're looking for a premium-level TV that does well in any environment with any content, keep this one on your list.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -132,5 +146,24 @@ Deals are subject to sell out or expire anytime, though ZDNET remains committed 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-detailed-guide-to-photo-hue-opposites-technique/"><u>[New] Detailed Guide to Photo Hue Opposites Technique</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-catalysts-for-enhancing-xboxs-rewards-program/"><u>5 Catalysts for Enhancing Xbox's Rewards Program</u></a></li>
+<li><a href="https://games-able.techidaily.com/9-fixes-for-the-steam-library-folder-not-writable-error-on-windows-11/"><u>9 Fixes for the “Steam Library Folder Not Writable” Error on Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/akkos-mod007b-board-the-ultimate-setup-for-gamers/"><u>Akko's MOD007B Board - The Ultimate Setup for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/are-aaa-game-publishers-just-getting-too-big-podcast/"><u>Are AAA Game Publishers Just Getting Too Big? [Podcast]</u></a></li>
+<li><a href="https://games-able.techidaily.com/bargain-hunting-4-reasons-to-pass-on-ps5/"><u>Bargain Hunting? 4 Reasons to Pass on PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/battle-of-the-supers-rtx-4070-4070-ti-versus-rtx-4080/"><u>Battle of the Supers: RTX 4070, 4070 Ti, versus RTX 4080</u></a></li>
+<li><a href="https://games-able.techidaily.com/behind-the-great-sounds-reviewing-mmx-200/"><u>Behind the Great Sounds: Reviewing MMX 200</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-phantom-v-fold-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Tecno Phantom V Fold PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Vivo X100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/mastering-the-next-wave-in-tech-why-legally-harnessing-ai-is-key-expert-analysis-by-abbyy/"><u>Mastering the Next Wave in Tech: Why Legally Harnessing AI Is Key | Expert Analysis by ABBYY</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/movavi-gratis-instant-converteer-m4v-vrije-audio-video-formats-naar-3gp-online/"><u>Movavi: Gratis Instant Converteer M4V Vrije Audio-Video Formats Naar 3GP Online</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-top-tier-phone-apps-evolving-how-you-communicate-for-2024/"><u>The Top-Tier Phone Apps Evolving How You Communicate for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-5-high-speed-cable-modems-dominating-the-tech-scene/"><u>Top 5 High-Speed Cable Modems Dominating the Tech Scene</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/understanding-the-delay-in-releasing-the-ascent-what-you-need-to-know/"><u>Understanding the Delay in Releasing 'The Ascent': What You Need to Know</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/unleash-potential-secrets-for-career-growth-in-designing-for-2024/"><u>Unleash Potential Secrets for Career Growth in Designing for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719173536654-unveil-the-extraordinary-with-big-box-cabinetry/"><u>Unveil the Extraordinary with Big Box Cabinetry!</u></a></li>
+</ul></div>
 

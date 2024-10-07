@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step for a Smooth Transition From Xbox to Steam via GlosSI
-date: 2024-09-30T01:13:14.719Z
-updated: 2024-10-02T03:44:43.743Z
+date: 2024-10-05T16:12:51.096Z
+updated: 2024-10-07T18:14:41.179Z
 tags:
   - games
 categories:
@@ -35,16 +35,16 @@ thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c
 
  You can easily import UWP games on Steam with UWPHook, but it’s missing a crucial element; being able to use a controller with it. Hence the need for GlosSI, which you’ll learn about in the next section.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is GlosSI?
 
 ![GlosSI logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/glossi-logo.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Image Credit: Flatspot Pictures/[GlosSI](http://glossi.flatspot.pictures/)
 
@@ -54,24 +54,38 @@ thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c
 
  Besides Steam Input emulation, GlosSI also allows you to import UWP games to Steam which is a critical part of playing games on Steam Link. Those two features are what you need to play or use almost any UWP program through Steam Link. All you need now is to know how to use the application and get it running.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Install GlosSI to Play Xbox Game Pass Games Through Steam Link
 
 ![Minecraft Main menu on tablet connected to Steam Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/minecraft-main-menu-on-tablet-connected-to-steam-link-1.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit: Jhet Borja
 
  Xbox Game Pass allows you to save a ton of money on games through its affordable subscription model. However, Game Pass lacks the ability to locally stream games to your other devices like a TV or tablet/phone. With GlosSI, you’re able to use Steam Link to play your Game Pass games. Here’s how to set GlosSI up so you can play Microsoft or Xbox Games anywhere in your house:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 1: Download and Install GlosSI
 
 ![Download GlosSI installer page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/download-glossi-installer-page.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To download GlosSI, first head to[GlosSI download page](https://glossi.flatspot.pictures/#downloads) and look for the**Download Installer button** .
 
@@ -81,9 +95,23 @@ thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c
 
  After all the components have been installed, you must restart your PC to make it work.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 2: Import GlosSI-Target to Steam
 
 ![GlosSI-Target and GlosSI on Windows Start page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/glossi-target-and-glossi-on-windows-start-page-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now that your PC is restarted, two programs have been added to your PC; the GlosSI-Target and GlosSI. You will be able to see these on your Windows Start menu. You can also search them up if you can’t find them.
 
@@ -94,13 +122,6 @@ thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c
 ![Adding GlosSI target to Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/adding-glossi-target-to-steam.jpg)
 
  Search for GlosSI-Target and select it. Finally, click on the**Add Selected Programs** button.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 3: Enable Steam Input for Xbox Controllers
 
@@ -115,26 +136,26 @@ thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c
 ![Enabling Steam Input for Xbox controllers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/enabling-steam-input-for-xbox-controllers-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you’re at the Controller tab, switch on**Enable Steam Input for Xbox controllers** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 4: Open the GlosSI Configurator and Add Your UWP Games
 
  Now that the prerequisites to get the controls working are done, we’re now going to add those UWP games to Steam so you can play them on Steam Link.
 
 ![GlosSI-Target and GlosSI on Windows Start page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/glossi-target-and-glossi-on-windows-start-page-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Head to the Windows Start menu and search for**GlosSI** , not GlosSI-Target. Open GlosSI.
 
@@ -166,13 +187,6 @@ thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c
 
 ![Enabling Steam Remote Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/enabling-steam-remote-play-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Firstly, make sure Remote Play is enabled. Go to**Steam > Settings > Remote Play** and switch on**Enable Remote Play** .
 
  Next, go to your Steam Link device of choice. It can be a TV, phone, tablet, another PC, or wherever you want to stream your games. In our case, we’re going to be using a[Huawei MatePad 11 2023](https://www.makeuseof.com/huawei-matepad-11-2023-review/) .
@@ -189,19 +203,6 @@ thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c
 
 ![Selected Minecraft on tablet with Steam Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/selected-minecraft-on-tablet-with-steam-link-1.JPG)
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Image Credit: Jhet Borja
 
  Once it’s authorized, Steam will open up in Big Picture mode and stream to your Steam Link device. If you’re having trouble setting this up, check out[how to fix Steam Remote Play on Windows](https://www.makeuseof.com/windows-steam-remote-play-not-working/) .
@@ -215,13 +216,6 @@ thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c
  As an example, we’ve chosen Minecraft for Windows 10 (Bedrock Edition), a UWP game you can’t find on Steam but can play on Xbox Game Pass; yet we’re playing it on Steam Link. Even though Bedrock is inferior to Java Edition, the latter isn’t a UWP app.
 
  If it shows just a blank screen after starting up a UWP game, hit**Alt+Tab** on your keyboard to switch to the game, and it should be good to go.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Use Steam Link for Almost Any UWP Microsoft Game
 
@@ -244,17 +238,21 @@ thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-assessment-of-vidmas-impact-on-modern-screen-recorders/"><u>[New] 2024 Approved Assessment of Vidma's Impact on Modern Screen Recorders</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-unleash-stunning-visuals-top-10-high-resolution-displays-for-mac/"><u>[Updated] 2024 Approved Unleash Stunning Visuals - Top 10 High-Resolution Displays for Mac</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-enhancing-video-success-top-8-yt-thumbnail-strategies-for-2024/"><u>[Updated] Enhancing Video Success Top 8 YT Thumbnail Strategies for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-amplify-slides-with-melodies-in-ppt/"><u>2024 Approved Amplify Slides with Melodies in PPT</u></a></li>
-<li><a href="https://games-able.techidaily.com/gameplay-experience-series-x-vs-custom-pc/"><u>Gameplay Experience: Series X Vs. Custom PC</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-realme-note-50-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Realme Note 50? | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-correctly-address-pnpdetected-fatal-errors-in-your-windows-11-setup/"><u>How to Correctly Address PNP_Detected Fatal Errors in Your Windows 11 Setup</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-from-novice-to-pro-building-an-insta-highlight-showcase/"><u>In 2024, From Novice to Pro Building an Insta Highlight Showcase</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719173155093-my-2-years-in-high-definition-with-an-oled-monitor/"><u>My 2 Years in High Definition with an OLED Monitor</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-itchios-best-indie-game-finds/"><u>Navigating Itch.io's Best Indie Game Finds</u></a></li>
-<li><a href="https://games-able.techidaily.com/playing-with-new-york-times-connections/"><u>Playing with New York Times Connections</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-the-pinnacle-of-visual-expression-best-mac-drawing-tools/"><u>[Updated] 2024 Approved The Pinnacle of Visual Expression - Best Mac Drawing Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/do-mac-systems-hold-the-key-to-next-gen-games/"><u>Do Mac Systems Hold the Key to Next-Gen Games?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixes-and-solutions-how-to-resolve-non-responsive-spotify-issues-on-pc/"><u>Fixes & Solutions: How to Resolve Non-Responsive Spotify Issues on PC</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guide-to-convert-youtube-twitter-videos-to-mp3-songs-for-2024/"><u>Guide to Convert YouTube Twitter Videos to MP3 Songs for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-direct-the-degrees-cutting-edge-youtube-video-manipulation/"><u>In 2024, Direct the Degrees Cutting-Edge YouTube Video Manipulation</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-pro-tips-for-utilizing-green-screen-effects-professionally/"><u>In 2024, Pro Tips for Utilizing Green Screen Effects Professionally</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-iphone-11-and-android-phones-by-drfone-ios/"><u>In 2024, Top IMEI Unlokers for iPhone 11 and Android Phones</u></a></li>
+<li><a href="https://video-capture.techidaily.com/innovative-free-chat-platforms-with-shared-screen-viewing-for-2024/"><u>Innovative Free Chat Platforms with Shared Screen Viewing for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/journey-down-memory-lane-pokemon-on-android/"><u>Journey Down Memory Lane: Pokémon on Android</u></a></li>
+<li><a href="https://games-able.techidaily.com/my-gpus-warning-overclock-nightmare/"><u>My GPU's Warning: Overclock Nightmare</u></a></li>
+<li><a href="https://games-able.techidaily.com/remedying-error-steams-incorrectly-validated-files/"><u>Remedying Error: Steam's Incorrectly Validated Files</u></a></li>
+<li><a href="https://games-able.techidaily.com/team-triumphs-5-winning-multiplayer-ways-to-play-mc-together/"><u>Team Triumphs: 5 Winning Multiplayer Ways to Play MC Together</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-steam-timeout-in-rust-windows-apps/"><u>Troubleshooting Steam Timeout in Rust Windows Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-steps-resolving-the-ring-of-elysium-game-crash/"><u>Troubleshooting Steps: Resolving the 'Ring of Elysium' Game Crash</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ering-your-youtube-remarks-across-os-platforms/"><u>Uncovering Your YouTube Remarks Across OS Platforms</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/whatsapp-video-upload-restrictions-how-big-can-your-videos-be/"><u>WhatsApp Video Upload Restrictions: How Big Can Your Videos Be?</u></a></li>
 </ul></div>
 

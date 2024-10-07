@@ -1,7 +1,7 @@
 ---
 title: "Creating Successful, Customer-Focused Services: A Guide to Achieving Company Growth | ZDNet"
-date: 2024-09-19T18:07:08.045Z
-updated: 2024-09-21T02:23:12.943Z
+date: 2024-10-05T16:52:13.216Z
+updated: 2024-10-07T18:40:58.135Z
 tags:
   - accelerate-your-tech-game
 categories:
@@ -37,6 +37,13 @@ This is most clearly represented by Optus's reorganisation of traditional contac
 
 The benefit is reflected in Optus having achieved its best result to date from the Telecommunications Industry Ombudsman's complaints report, with a 27.9% reduction in complaints in comparison to the previous year. This equated to 3.9 complaints per 10,000 subscribers in the quarter between April and June.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Connecting the customer journey**
 
 While these changes are delivered by people, they are nonetheless enabled by technology. This combination is at the heart of modern customer experience excellence.
@@ -50,6 +57,13 @@ By using technology to orchestrate and automate customer interactions, organisat
 This capability is embodied in the next-generation Webex Connect platform, which connects customers to humans via text, social, chat, email, and voice. The addition of AI-powered virtual agents facilitates faster support when needed, with virtual agents able to easily handle routine interactions, provide seamless transitions, and connect transcripts to live agents for more complex inquiries. 
 
 All of this is based on the Customer Journey Data Service which enables deep customer engagement across communication channels and platforms, such as websites, mobile apps, chat services, voice, social media, or any third-party services. This can also support the creation of customer profiles, which can support more personalised customer interaction. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Conclusion** 
 
@@ -74,12 +88,22 @@ To learn more, click [here](http://www.optus.com.au/enterprise/customer-contact)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-tagging-strategy-the-list-of-powerful-insta-hashtags/"><u>[New] 2024 Approved Tagging Strategy The List of Powerful Insta Hashtags</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-precision-in-screen-recording-a-comprehensively-reviewed-list-for-2024/"><u>[New] Precision in Screen Recording A Comprehensively Reviewed List for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-agrarian-aesthetics-stardew-clones-and-cousins/"><u>[Updated] Agrarian Aesthetics Stardew Clones and Cousins</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-unlocking-online-income-the-creators-path-to-prosperity/"><u>[Updated] In 2024, Unlocking Online Income The Creator’s Path to Prosperity</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-primeval-20-anime-series-opener-music/"><u>2024 Approved Primeval 20 Anime Series Opener Music</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-battles-selecting-the-best-game-device/"><u>Digital Battles: Selecting the Best Game Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/engage-with-friends-and-strangers-live-xbox-content-sharing-on-discord/"><u>Engage with Friends and Strangers: Live Xbox Content Sharing on Discord</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-redmi-note-12t-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Redmi Note 12T Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/inside-look-what-sets-xbox-game-pass-apart/"><u>Inside Look: What Sets Xbox Game Pass Apart</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/navigating-video-recording-and-editing-basics-with-adobe-connect-for-2024/"><u>Navigating Video Recording & Editing Basics with Adobe Connect for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-stop-motion-magic-top-rated-apps-for-iphone-and-android/"><u>New In 2024, Stop Motion Magic Top-Rated Apps for iPhone and Android</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplified-steam-restart-processes/"><u>Simplified Steam Restart Processes</u></a></li>
+<li><a href="https://games-able.techidaily.com/spectacular-led-lighting-innovations/"><u>Spectacular LED Lighting Innovations</u></a></li>
+<li><a href="https://games-able.techidaily.com/stepping-up-storage-steam-decks-sd-journey/"><u>Stepping Up Storage: Steam Deck's SD Journey</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-gaming-frontier-selecting-best-pc-titles-google-play-beta/"><u>The Gaming Frontier - Selecting Best PC Titles (Google Play Beta)</u></a></li>
+</ul></div>
 

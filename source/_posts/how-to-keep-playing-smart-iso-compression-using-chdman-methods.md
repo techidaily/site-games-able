@@ -1,7 +1,7 @@
 ---
 title: "How to Keep Playing: Smart ISO Compression Using ChDMan Methods"
-date: 2024-09-14T01:06:57.576Z
-updated: 2024-09-20T18:48:05.075Z
+date: 2024-10-04T19:00:56.122Z
+updated: 2024-10-07T17:40:17.006Z
 tags:
   - games
 categories:
@@ -63,6 +63,13 @@ Our command was:
 
 ![A screenshot of the Change Directory command in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/cd-command-in-cmd.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To compress your game with CHDMAN to CHD format, use the following:
 
 `chdman.exe createcd -i "ROM_YOU_WANT_TO_COMPRESS.CUE" -o "FILENAME_OF_COMPRESSED.CHD"`
@@ -92,6 +99,13 @@ Our command was:
 
 ![DuckStation File Selector set to MAME CHD images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/duckstation-chd-file-selection-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you're looking for a CHD-compatible emulator then, luckily some of the most popular emulators support them. Here are a few examples of emulators that allow you to play CHDs:
 
 * MAME.
@@ -111,10 +125,10 @@ Our command was:
  Because of[how LaunchBox works](https://www.makeuseof.com/what-is-launchbox-how-it-works/) and other front-end services you can use for emulation, like[using RetroArch on Windows](https://www.makeuseof.com/windows-retroarch-setup/) , CHDs should work on these services too.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How Can You Check Your CHDs?
@@ -130,19 +144,6 @@ Our command was:
 
 ![A screenshot of the CHD Required category in the MAME emulator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/mame-requires-chd-filter.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  CHDMAN can only extract optical media backups back to the CUE & BIN combination with:
 
 `chdman.exe extractcd -i "INPUT.chd" -o "OUTPUT.cue"`
@@ -150,6 +151,13 @@ Our command was:
  You don't have to specify the BIN file; CHDMAN creates it automatically using the same name used for the CUE file. To extract compressed HDD backups, swap "extractcd" with "extracthd" as follows:
 
 `chdman.exe extracthd -i "INPUT.chd" -o "OUTPUT.IMG"`
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## More Storage, More Gaming
 
@@ -170,5 +178,23 @@ Our command was:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-explore-our-12-tycoon-classics-for-engrossing-experiences/"><u>[New] 2024 Approved Explore Our #12 Tycoon Classics for Engrossing Experiences</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-x-recorder-your-pcs-audio-capture-companion/"><u>[New] 2024 Approved X-Recorder Your PC's Audio Capture Companion</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-update-twitter-video-preview/"><u>[Updated] 2024 Approved Update Twitter Video Preview</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-cutting-and-compositing-for-youtube-videos-using-premiere-pro-for-2024/"><u>[Updated] Cutting and Compositing for YouTube Videos Using Premiere Pro for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/10-best-online-learning-sites-like-udemy-for-2024/"><u>10 Best Online Learning Sites Like Udemy for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-virtual-gaming-chesspoker-on-discord-networks/"><u>Discovering Virtual Gaming: Chess/Poker on Discord Networks</u></a></li>
+<li><a href="https://games-able.techidaily.com/fortnite-on-your-flipboard-the-ios-experience-via-nvidia/"><u>Fortnite on Your Flipboard: The iOS Experience via Nvidia</u></a></li>
+<li><a href="https://games-able.techidaily.com/free-range-from-realms-keep-your-realm-creations/"><u>Free-Range From Realms, Keep Your Realm Creations</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-stop-unexpected-display-glitches-on-your-windows-10-computer/"><u>How To Stop Unexpected Display Glitches on Your Windows 10 Computer</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-vivo-y78t-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Vivo Y78t? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/keeping-a-cool-profile-gpus-in-games/"><u>Keeping a Cool Profile: GPUs in Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/methods-to-address-windows-oculus-integration-issues/"><u>Methods to Address Windows-Oculus Integration Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-7-strategies-to-enhance-pc-performance-swiftly/"><u>Top 7 Strategies to Enhance PC Performance Swiftly</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrading-to-rtx-after-nvidias-gtx-demise/"><u>Upgrading to RTX After Nvidia's GTX Demise</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-arp-cache-explained-clears-and-management/"><u>Windows ARP Cache Explained: Clears & Management</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-guide-to-the-best-mobile-gaming-escapes/"><u>Your Guide to the Best Mobile Gaming Escapes</u></a></li>
+</ul></div>
 

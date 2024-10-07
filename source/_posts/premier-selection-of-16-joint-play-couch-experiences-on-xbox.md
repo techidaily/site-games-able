@@ -1,7 +1,7 @@
 ---
 title: Premier Selection of 16 Joint Play Couch Experiences on Xbox
-date: 2024-09-13T18:45:29.904Z
-updated: 2024-09-20T17:18:54.825Z
+date: 2024-10-05T18:09:50.101Z
+updated: 2024-10-07T16:30:57.026Z
 tags:
   - games
 categories:
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/d4eab409da91970ce7997d6d71b3df31e4667cec8
 
  Frankly, you could pick any of the Traveller's Tales LEGO games and have a wonderful time (they all make for[excellent LEGO gifts](https://www.makeuseof.com/tag/best-lego-gifts/) ), but LEGO Star Wars: The Skywalker Saga is perhaps the best the developer has produced. It collects together all nine Star Wars films in an action-adventure experience designed for co-op, with hundreds of characters and vehicles to try.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2. Rocket League
 
  If you're looking for some kinetic entertainment, you'll find it with the free-to-play Rocket League. You control a fast-paced vehicle, whizzing on the ground and through the air to hit a ball into a goal. It's soccer combined with vehicular chaos. You can either play in couch co-op or against one another.
@@ -37,9 +44,23 @@ thumbnail: https://thmb.techidaily.com/d4eab409da91970ce7997d6d71b3df31e4667cec8
 
  Unlike some games that tack local co-op as an afterthought, It Takes Two is exclusively designed for cooperative play. With incredibly charming visuals, It Takes Two sees you and a partner platform and solve puzzles through a variety of interesting locations. If you enjoy this, check out the developer's equally impressive game A Way Out.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4. Cuphead
 
  Cuphead is a difficult yet rewarding platformer that lovingly recreates the style of old hand drawn cartoons. It's inventive and charming, with boss fights so tough that you'll be glad for support from your friend on the couch. Plus, if you enjoy the game, there's an equally[decent Netflix animated series](https://www.makeuseof.com/tag/animated-shows-adults-netflix/) that you can watch together.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5. Overcooked! All You Can Eat
 
@@ -49,52 +70,46 @@ thumbnail: https://thmb.techidaily.com/d4eab409da91970ce7997d6d71b3df31e4667cec8
 
  Portal 2 first released in 2011, but this incredible game stands the test of time. While there is a superb single-player story, the co-op experience is equally fantastic and fully fledged. You and your robot chum must use the portal gun to navigate complex physical puzzles and escape the rooms.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7. Stardew Valley
 
  Stardew Valley is a simulation game that puts you in charge of building your own farm from the ground up, looking after crops and vegetables, and exploring the surrounding world and meeting a cast of charming characters. And you can do all of this in couch co-op, with up to four players. It's a completely relaxing experience, far different from the usual fast-paced shooters.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8. Unravel Two
 
  In Unravel Two, you and a friend take control of Yarnys—two creatures made from yarn, connected by a single thread. You work together to navigate through a series of treacherous landscapes. This is the perfect Xbox game to play locally with someone who doesn't usually play many video games.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9. Halo: The Master Chief Collection
 
  Whether you're a Halo novice or veteran, The Master Chief Collection is the ultimate Xbox experience. It bundles six Halo games into a single package. All of them are worth playing—not only to see how they shaped the first-person shooter genre, but just because they're downright fun, especially when played in couch co-op.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10. Minecraft
 
  If you have a single creative bone in your body, you'll love Minecraft. Whatever you imagine, you can build in Minecraft. Don't let its deceptively simple blocky graphics put you off. You'll end up spending the whole day with your friends building and exploring, since Minecraft supports up to four players in local co-op.
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 11. Dirt 5
 
  Nowadays, it's rare for a racing game to offer split-screen, which is why it's so delightful that Dirt 5 does. It's a globe-trotting arcade racer that really gives you the sensation of being behind the wheel of some amazing vehicles, skirting across gravel, ice, and sand as you rev your way to the finish line. While playing Dirt 5 alone is fun, it really comes alive in local co-op.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 12. Borderlands 3
 
@@ -104,23 +119,9 @@ thumbnail: https://thmb.techidaily.com/d4eab409da91970ce7997d6d71b3df31e4667cec8
 
  Rayman is a certified gaming icon and the series has arguably never been better than in Rayman Legends, a 2D platformer that bursts at the seams with creativity and excitement. Not only is the colorful art a feast for the eyes, but the gameplay offers hours of perfectly finessed platforming fun.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 14. Crash Team Racing Nitro-Fueled
 
  You might know Crash Bandicoot best from his platformers, but Crash Team Racing Nitro-Fueled is a loving remake of the 1999 arcade kart racer. Expect mayhem as you race around wild tropical tracks, using silly items to throw your fellow racers off course. You can play Nitro-Fueled on your Xbox Series X/S with up to four others in local split-screen.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 15. The Quarry
 
@@ -147,5 +148,23 @@ thumbnail: https://thmb.techidaily.com/d4eab409da91970ce7997d6d71b3df31e4667cec8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-improve-your-virtual-engagement-mastering-snap-photography/"><u>[New] 2024 Approved Improve Your Virtual Engagement Mastering Snap Photography</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-3-best-ways-to-get-pinterest-video-to-mp3-downloaded/"><u>[New] 3 Best Ways to Get Pinterest Video to MP3 Downloaded</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-save-top-cloud-providers-rates/"><u>[New] How to Save Top Cloud Providers' Rates</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-format-fluidity-convert-srt-quickly/"><u>[New] Unlocking Format Fluidity Convert SRT Quickly</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-bring-back-disappearing-video-icon-on-fb-watch/"><u>[Updated] 2024 Approved Bring Back Disappearing Video Icon on FB Watch</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-mastering-macs-green-screen-fix-for-youtube-videos/"><u>[Updated] 2024 Approved Mastering Mac's Green Screen Fix for YouTube Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-transform-your-streaming-experience-with-these-9-filter-power-ups/"><u>2024 Approved Transform Your Streaming Experience with These 9 Filter Power-Ups</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/compatible-drivers-for-brother-mfc-9130cw-quick-and-free-access/"><u>Compatible Drivers for Brother MFC-9130CW - Quick and Free Access</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-features-leading-nintendo-switch-holster-maker/"><u>Exclusive Features: Leading Nintendo Switch Holster Maker</u></a></li>
+<li><a href="https://games-able.techidaily.com/hot-swap-tech-in-action-examining-the-razer-blackwidow-v4/"><u>Hot Swap Tech in Action - Examining the Razer BlackWidow V4</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-xbox-membership-management-on-x-series-s/"><u>Optimizing Xbox Membership Management on X Series S</u></a></li>
+<li><a href="https://games-able.techidaily.com/personalized-fan-schedule-reduces-overclocking-stress/"><u>Personalized Fan Schedule Reduces Overclocking Stress</u></a></li>
+<li><a href="https://games-able.techidaily.com/razers-breakthrough-the-hot-swappable-gaming-keyboard/"><u>Razer's Breakthrough: The Hot-Swappable Gaming Keyboard</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-steams-disconnected-content-server/"><u>Troubleshooting Steam's Disconnected Content Server</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-llama-2-discover-its-purpose-and-applications/"><u>Unveiling Llama 2: Discover Its Purpose & Applications</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-guide-to-seamless-sd-installation-in-steam-deck/"><u>Your Guide to Seamless SD Installation in Steam Deck</u></a></li>
+</ul></div>
 

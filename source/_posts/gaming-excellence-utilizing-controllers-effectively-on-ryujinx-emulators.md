@@ -1,7 +1,7 @@
 ---
 title: "Gaming Excellence: Utilizing Controllers Effectively on Ryujinx Emulators"
-date: 2024-09-27T00:47:10.309Z
-updated: 2024-10-02T05:57:46.469Z
+date: 2024-09-30T16:09:13.768Z
+updated: 2024-10-07T18:30:49.632Z
 tags:
   - games
 categories:
@@ -45,17 +45,17 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
 
 ![A screenshot of the Options tab in Ryujinx with Settings highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Choose**Input** and ensure**Enable Docked Mode** is selected.
 * Under**Player 1** , select**Configure** , and Ryujinx should automatically find your connected controller.
 
 ![A screenshot of the Input screen in Ryujinx](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/input.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  From here, you can individually go through each button command and map it to a controller input of your choice. For instance, If you want to remap the**B** button, select the on-screen**B** in Ryujinx, followed by the button on your controller you want**B** to be replaced with.
 
@@ -64,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
 ![A screenshot of the ability to Add and Save a controller profile in Ryujinx](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/profile.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  And that's it. With your controller configuration saved, you can go on to emulate any Nintendo Switch game through Ryujinx while using your controller of choice, configured exactly to your preferences.
@@ -85,19 +85,19 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
 ![A screenshot of the Configure settings for a controller in Ryujinx](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/configuration.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  While these alterations may seem small in some cases, having more options is always positive, and with Ryujinx offering a simple and effective way of mapping and customizing a controller for Switch emulation, more simple features are certainly not a bad thing.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Streamline Nintendo Switch Emulation With Ryujinx
@@ -121,17 +121,18 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-elevate-your-profile-game-strategies-for-fb-success/"><u>[New] 2024 Approved Elevate Your Profile Game Strategies for FB Success</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-exploring-new-horizons-a-guide-to-top-6-nft-innovators/"><u>[New] 2024 Approved Exploring New Horizons A Guide to Top 6 NFT Innovators</u></a></li>
-<li><a href="https://games-able.techidaily.com/adapting-to-change-how-steams-ai-rules-transform-gaming/"><u>Adapting to Change: How Steam's AI Rules Transform Gaming</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-missteps-why-blind-trust-is-risky-top-6-explanations/"><u>AI Missteps: Why Blind Trust Is Risky - Top 6 Explanations</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Meizu 21 Pro | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/combatting-high-memory-usage-of-roblox-app-on-mobile-phones/"><u>Combatting High Memory Usage of Roblox App on Mobile Phones</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-fix-the-minecraft-launcher-error-0x803f8001-in-windows-11-and-10/"><u>How to Fix the Minecraft Launcher Error 0X803f8001 in Windows 11 and 10</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-microsoft-teams-sessions-recording/"><u>In 2024, Microsoft Teams Sessions Recording</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-through-game-pass-on-steam-glossi-assistance/"><u>Navigating Through Game Pass on Steam - GlosSI Assistance</u></a></li>
-<li><a href="https://games-able.techidaily.com/reclaiming-spent-on-games-maximize-your-steam-returns/"><u>Reclaiming Spent on Games? Maximize Your Steam Returns</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-faded-screen-settings-in-uefi/"><u>Restoring Faded Screen Settings in UEFI</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-compress-mpeg2-videos-with-free-virtualdub-software-for-2024/"><u>Updated Compress MPEG2 Videos with Free VirtualDub Software for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-twitter-media-to-music-downloading-and-converting-process/"><u>[Updated] Twitter Media to Music Downloading & Converting Process</u></a></li>
+<li><a href="https://games-able.techidaily.com/androids-retro-haven-emulating-original-pokemon-games/"><u>Android's Retro Haven: Emulating Original Pokémon Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-8-light-weighted-virtual-worlds-home-games-pcmac/"><u>Best 8 Light-Weighted Virtual Worlds: Home Games Pc/Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-companionship-in-gaming-16-seated-console-titles/"><u>Best Companionship in Gaming: 16 Seated Console Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-competitors-to-geforce-rtx-4060-ti-graphics-card/"><u>Best Competitors to GeForce RTX 4060 Ti Graphics Card</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719164610715-enhance-experience-and-space-with-extra-large-front-ends/"><u>Enhance Experience & Space With Extra-Large Front Ends!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-key-fixes-for-stabilizing-windows-10-photos-display/"><u>In 2024, Key Fixes for Stabilizing Windows 10 Photos Display</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/itel-s23-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel S23 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-the-best-translator-to-translate-videos-online/"><u>New In 2024, The Best Translator to Translate Videos Online</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719163110616-nvidia-driver-updates-unlock-your-computers-potential-immediately/"><u>Nvidia Driver Updates: Unlock Your Computer's Potential Immediately</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/on-the-move-high-performance-free-online-tempo-tracking-tools-for-2024/"><u>On-the-Move High-Performance, Free Online Tempo Tracking Tools for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/the-evolution-continues-beyond-windows-11/"><u>The Evolution Continues: Beyond Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Eliminating Error: Components Not Found Windows"
-date: 2024-09-27T17:49:02.359Z
-updated: 2024-10-02T02:39:10.806Z
+date: 2024-10-02T16:29:32.910Z
+updated: 2024-10-07T19:31:09.645Z
 tags:
   - games
 categories:
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/f5381cefae4db3e611ab844891c6d979a90ee4ce4
 
  Check out[how to update Windows manually](https://www.makeuseof.com/update-windows-manually/) and ensure your PC is on the latest build.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Repair Visual C++ Packages on Your PC
 
  The “following components are required” error often complains about missing Visual C++ or DirectX runtimes. If it specifies a missing Visual C++ runtime, you may need to repair your PC's version of Visual C++.
@@ -43,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/f5381cefae4db3e611ab844891c6d979a90ee4ce4
 ![The Modify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/modify-option.jpg)
 4. Select the**Repair** option in the Visual C++ window that opens.  
 ![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Install the 2015-2022 Visual Studio C++ Packages
 
@@ -65,17 +65,10 @@ thumbnail: https://thmb.techidaily.com/f5381cefae4db3e611ab844891c6d979a90ee4ce4
 4. Repeat steps two and three to download and install the 32-bit version of Visual Studio 2015-2022\. To do so, you’ll need to click on the X86 download link for Visual Studio 2015-2022.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Install DirectX Runtime Libraries
@@ -89,27 +82,35 @@ thumbnail: https://thmb.techidaily.com/f5381cefae4db3e611ab844891c6d979a90ee4ce4
 3. Select**I accept the agreement** inside the "Installing Microsoft DirectX" window.  
 ![The I accept the agreement radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-i-accept-radio-button.jpg)
 4. Click**Next** to proceed to an offer for installing a Bing Bar.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Uncheck the**Install the Bing Bar** checkbox if you don’t want that software.  
 ![The Install the Bing Bar checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-install-bing-bar-option.jpg)
 6. Select**Next** to install the required DirectX components.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Repair .NET Framework Components
 
 ![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Users have confirmed they fixed the “following components are required” error by reinstalling .NET Framework components. Thus, you might need to repair .NET Framework components on your PC to resolve the “following components are required” error.
 
@@ -136,10 +137,10 @@ thumbnail: https://thmb.techidaily.com/f5381cefae4db3e611ab844891c6d979a90ee4ce4
  Also, note that some players have been able to resolve the “following components are required” error by reinstalling Steam. So, reinstalling that client software might be worth a try if you need to fix this issue for Steam games.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Kick-Start Your Windows Games Again
@@ -163,20 +164,24 @@ thumbnail: https://thmb.techidaily.com/f5381cefae4db3e611ab844891c6d979a90ee4ce4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-the-essential-manual-to-creating-youtube-playlists/"><u>[New] 2024 Approved The Essential Manual to Creating YouTube Playlists</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-from-one-self-portrait-to-a-thousand-mastering-the-art-of-repeating-yourself-on-tiktok/"><u>[New] In 2024, From One Self-Portrait to a Thousand Mastering the Art of Repeating Yourself on TikTok</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-realtime-replay-recorder/"><u>[Updated] RealTime Replay Recorder</u></a></li>
-<li><a href="https://games-able.techidaily.com/bargain-bin-bonanza-nabbing-great-values-in-steams-offerings/"><u>Bargain Bin Bonanza: Nabbing Great Values in Steam's Offerings</u></a></li>
-<li><a href="https://games-able.techidaily.com/boost-your-gaming-with-an-immersive-multiplayer-adventure-using-ea-play-ps5/"><u>Boost Your Gaming with an Immersive Multiplayer Adventure Using EA Play PS5</u></a></li>
-<li><a href="https://facebook.techidaily.com/did-a-facebook-incident-cause-your-number-to-go-public/"><u>Did A Facebook Incident Cause Your Number to Go Public?</u></a></li>
-<li><a href="https://games-able.techidaily.com/disabling-steam-boots-silently/"><u>Disabling Steam Boots Silently</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/fb-moments-snappy-storytime/"><u>FB Moments Snappy Storytime</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/how-does-days-gone-blend-zombies-and-bikes-a-detailed-review-insight/"><u>How Does 'Days Gone' Blend Zombies and Bikes? A Detailed Review Insight</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-smartly-engage-with-steams-economic-system/"><u>How to Smartly Engage With Steam's Economic System</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastery-of-microscopic-minecraft-mapping/"><u>Mastery of Microscopic Minecraft Mapping</u></a></li>
-<li><a href="https://games-able.techidaily.com/protective-gear-for-your-steam-device/"><u>Protective Gear for Your Steam Device</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/tech-tools-for-distance-podcasting/"><u>Tech Tools for Distance Podcasting</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-best-165hz-monitors-for-gaming/"><u>The Best 165Hz Monitors for Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/xboxs-crackdown-players-weigh-in-on-prohibiting-unsanctioned-devices/"><u>Xbox's Crackdown: Players Weigh In on Prohibiting Unsanctioned Devices</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-librevid-x-version-10-reviewed-highlights-and-downsides/"><u>[New] LibreVid X Version 10 Reviewed Highlights and Downsides</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-spotting-the-top-10-covert-instagram-story-spectators/"><u>[New] Spotting the Top 10 Covert Instagram Story Spectators</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-gamers-path-to-earnings-on-youtube/"><u>[Updated] Gamer's Path to Earnings on YouTube</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-crafting-a-vocal-identity-steps-for-impactful-video-overdubs/"><u>[Updated] In 2024, Crafting a Vocal Identity Steps for Impactful Video Overdubs</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-making-the-most-of-your-multi-image-story-sessions-on-insta-for-2024/"><u>[Updated] Making the Most of Your Multi-Image Story Sessions on Insta for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/10-most-advanced-hashtag-monitors-on-social-media-sites-fbtweetinsta/"><u>10 Most Advanced Hashtag Monitors on Social Media Sites (FB/Tweet/Insta)</u></a></li>
+<li><a href="https://games-able.techidaily.com/accelerating-data-transmission-understanding-and-reducing-extended-response-times/"><u>Accelerating Data Transmission: Understanding and Reducing Extended Response Times</u></a></li>
+<li><a href="https://games-able.techidaily.com/achievement-acres-gamers-sanctuaries/"><u>Achievement Acres: Gamer's Sanctuaries</u></a></li>
+<li><a href="https://games-able.techidaily.com/adjust-language-preference-on-steam-app/"><u>Adjust Language Preference on Steam App</u></a></li>
+<li><a href="https://games-able.techidaily.com/advanced-data-transfers-ideal-cables-for-games/"><u>Advanced Data Transfers: Ideal Cables For Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-led-sleekgamer-display/"><u>Affordable LED SleekGamer Display</u></a></li>
+<li><a href="https://games-able.techidaily.com/android-and-iphone-showdowns-the-ultimate-tetris-challenge/"><u>Android and iPhone Showdowns: The Ultimate Tetris Challenge</u></a></li>
+<li><a href="https://games-able.techidaily.com/androidios-mastering-tetris-duels/"><u>Android/iOS: Mastering Tetris Duels</u></a></li>
+<li><a href="https://games-able.techidaily.com/bargain-trails-navigating-to-the-best-11-game-purchase-locations/"><u>Bargain Trails: Navigating to the Best 11 Game Purchase Locations</u></a></li>
+<li><a href="https://games-able.techidaily.com/battle-royale-contenders-discovering-the-best-fps-games-on-your-browser/"><u>Battle Royale Contenders: Discovering the Best FPS Games on Your Browser</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/eufys-solocam-s340-review-a-comprehensive-look-at-the-solar-charged-motion-sensing-security-camera/"><u>Eufy's Solocam S340 Review: A Comprehensive Look at the Solar-Charged, Motion-Sensing Security Camera</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-windows-troubleshooting-how-to-address-and-repair-error-code-grove/"><u>Mastering Windows Troubleshooting: How to Address and Repair Error Code Grove</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/unveiling-10-cost-effective-virtual-communication-tools/"><u>Unveiling 10 Cost-Effective Virtual Communication Tools</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/user-review-and-detailed-analysis-of-phillips-sunrise-clock-model-hf3505/"><u>User Review & Detailed Analysis of Phillips Sunrise Clock Model HF3505</u></a></li>
 </ul></div>
 

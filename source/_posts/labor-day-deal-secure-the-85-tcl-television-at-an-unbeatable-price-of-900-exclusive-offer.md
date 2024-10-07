@@ -1,7 +1,7 @@
 ---
 title: "Labor Day Deal: Secure the 85 TCL Television at an Unbeatable Price of $900 - Exclusive Offer!"
-date: 2024-09-18T18:37:58.847Z
-updated: 2024-09-21T02:30:47.850Z
+date: 2024-10-01T19:34:26.762Z
+updated: 2024-10-07T19:01:32.020Z
 tags:
   - gaming
 categories:
@@ -51,6 +51,13 @@ To gain access to the SSD slot, you'll need to remove the back cover. If you hav
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove the expansion slot cover
 
 There's not a whole lot to look at with the panel removed from the PS5\. There's a fan, a lot of black, and then the expansion slot cover near the top of the housing. I rotated the PS5 so that the SSD slot was closer to me and easier to work on. 
@@ -60,10 +67,10 @@ There's a single screw holding the cover in place; remove it and set it aside in
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Move the screw and spacer inside the SSD housing
@@ -79,10 +86,10 @@ I then placed the spacer over the hole -- it's held in place by three dots, so d
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Insert the SSD and use the mounting screw
@@ -90,6 +97,13 @@ Jason Cipriani/ZDNET
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -141,5 +155,23 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-unlocking-video-potential-youtube-to-igtv/"><u>[Updated] 2024 Approved Unlocking Video Potential YouTube to IGTV</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-lightning-fast-windowed-gallery-viewer-alert/"><u>[Updated] Lightning-Fast Windowed Gallery Viewer Alert</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-guide-to-professional-podcast-scriptwriting-techniques/"><u>[Updated] Step-by-Step Guide to Professional Podcast Scriptwriting Techniques</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-channel-acquisition-101-maximizing-youtubers-earnings/"><u>2024 Approved Channel Acquisition 101 Maximizing Youtubers' Earnings</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-11-best-location-changers-for-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-oppo-k11-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Oppo K11 5G Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-visionarys-list-the-finest-26-video-to-text-converters-available/"><u>In 2024, The Visionary’s List The Finest 26 Video-to-Text Converters Available</u></a></li>
+<li><a href="https://games-able.techidaily.com/masterclass-enhancing-games-through-model-efficiency/"><u>Masterclass: Enhancing Games Through Model Efficiency</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-expert-picks-top-video-animation-apps-for-mobile/"><u>New Expert Picks Top Video Animation Apps for Mobile</u></a></li>
+<li><a href="https://games-able.techidaily.com/nurturing-kids-through-safe-playstation-5-games/"><u>Nurturing Kids Through Safe Playstation 5 Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-next-move-must-you-upgrade-to-rtx-now/"><u>Nvidia's Next Move: Must You Upgrade to RTX Now?</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-gameplay-integrating-old-games-into-steam-deck/"><u>Seamless Gameplay: Integrating Old Games Into Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-your-games-with-prime-channel-access/"><u>Streamline Your Games with Prime Channel Access</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-xbox-series-clubs/"><u>The Ultimate Guide to Xbox Series Clubs</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/tt560-lights-up-reliability-in-a-simple-package/"><u>TT560 Lights Up: Reliability in a Simple Package</u></a></li>
+<li><a href="https://games-able.techidaily.com/you-can-now-properly-hide-steam-games-by-marking-them-as-private/"><u>You Can Now Properly Hide Steam Games by Marking Them as Private</u></a></li>
+</ul></div>
 
